@@ -1,0 +1,9 @@
+CHAPTER H.No. 3.
+SPECIAL RESERVE POLICE.
+AN ORDINANCE TO PROVIDE FOR THE ESTABLISHMENT
+OF A SPECIAL RESERVE POLICE FORCE.
+[11th April, 1946.J
+- Margin: .---
+- Margin: ,/ ,
+- Margin: Ordinance. No. 14- 1946.
+- Margin: Commence· ment.
