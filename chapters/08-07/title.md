@@ -1,5 +1,7 @@
-CHAPTER 75.
-DEBTORS.·
-AN ORDINANCE RELATING TO lMPRISO.:NMENT · . I!'OR DEBT. No. O~dinanaes 37 ofl917,
-, 11 ofl918.
-[17th December, 1917.]
+CHAPTER 6. No.3.
+DEBTORS.
+AN ORDINANOE RELATING TO IMPRISONMENT FOR DEBT.
+[17th December, 1917.J
+- Margin: Ordinances
+- Margin: Oap. 75-1925. No. 26=f936~-·· sS. 16,17.
+- Margin: COlllmencoment.
