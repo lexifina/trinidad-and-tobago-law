@@ -1,0 +1,5 @@
+CHAPTER 90.
+FIRE BRIGADES.
+AN ORDINANCE RELATING TO FIRE BRIGADES.
+[21st October, 1904.]
+- Margin: Ordinances No.289; , 17 of 1906; " 1 df 1924, ., 29 of 1925, a.lSA.
