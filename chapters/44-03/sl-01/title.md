@@ -1,4 +1,4 @@
 SUBSIDIARY LEGISLATION
 PRESCRIBED PERSONS REGULATIONS
 made under section 4
-- Margin: G.22.2.17.
+- Margin: G. 22.2.17.
