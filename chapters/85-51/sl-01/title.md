@@ -1,0 +1,4 @@
+SUBSIDIARY LEGISLATION
+MANA .~T DEVELC MENT
+(EX) )N FR( KES) 0
+made under section 31
