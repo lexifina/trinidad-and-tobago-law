@@ -1,0 +1,5 @@
+CHAPTER 140.
+BOTANIC GARDENS.
+AN ORDINANCE REI"'ArrrNG TO THE RoYAL BoTANIC GARDENS.
+[23rd November, 1894. J
+- Margin: Ol'tti~utnce& No.lBO, ,. 12of1908, , 13 oj1920.
