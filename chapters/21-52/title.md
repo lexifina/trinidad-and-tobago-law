@@ -1,9 +1,15 @@
-CHAPTER 30. No. 12.
-BOXING CONTROL.
-AN ORDINANCE TO REGULATE THE HOLDING OF
-BOXING CONTESTS.
-[1st January. 1934.]
-. 1. This Ordinance may be cited as the Boxing Control Ordinance.
-- Margin: Ordinance Ch.JO. No.ll -1940.
-- Margin: Commence- ment.
-- Margin: Short title.
+uf.' TRINUJAJ) ANJJ Tug,AGO
+BOXING CONTROL AUf
+GHAPTER :52
+Act
+21 of 933 Amended by
+51/1980 120/1980 3 of 1982
+Clwrent Authodsul Pa~es
+1-6 1/Hl90
+7-19 111980
+L,RO. 1/1990
+LA iVS OF TlUNJDAD AND
+'slation
+This Chapter contains no subsidiary legislation.
+on
+- Margin: LAWs
