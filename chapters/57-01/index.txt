@@ -34,3 +34,13 @@ s-32.md
 s-33.md
 s-34.md
 schedule.md
+form-1.md
+form-2.md
+form-3.md
+form-4.md
+form-5.md
+form-6.md
+sl-01/title.md
+sl-01/r-1.md
+sl-01/r-2.md
+sl-01/schedule.md
