@@ -1,0 +1,25 @@
+# FORM 5
+THE AGRICULTURAL SMALL HOLDINGS TENURE ACT (CH. 59:53)
+NOTICE OF INTENTION TO INSPECT A SMALL
+HOLDING-SECTION 30(2) OF THE ACT
+To ...
+(here insert name of landlord)
+of ...
+(here insert address of landlord)
+TAKE NOTICE that Agricultural Tribunal for the agricultural district of
+...
+(here insert agricultural district)
+intends to inspect on the ... day of ... at ... o'clock
+in the ... noon the small holding situated at ...
+(here insert location of small holding)
+of which you are landlord and ... is the tenant.
+(here insert name of tenant)
+Dated this ... day of ... 20...
+...
+Secretary,
+Agricultural Tribunal for the
+agricultural district of
+...
+(here insert agricultural district)
+Agricultural Small Holdings Tenure Regulations [Subsidiary]
+- Margin: Regulation 6.
