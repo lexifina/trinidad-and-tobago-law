@@ -1,0 +1,5 @@
+EXPORTATION OF LOCALLY MANUFACTURED
+CIGARETTES REGULATIONS
+(made under section 47)
+- Margin: G.N. 85/1962.
+- Margin: )
