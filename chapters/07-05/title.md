@@ -1,9 +1,8 @@
-CHAPTER 41.
+CHAPTER 5. No.4.
 COURT DEPOSITS.
-AN ORDINANCE TO PROVIDE B FOR THE CLOSING R. OF CERTAIN
-ACCOUNTS IN THE 'OOKS OF THE EGIS TRY OF THE SuPREME CouRT.
-[22nd Febmaty, 1902.]
-1: This Ordinance may be cited as the Court Deposits
-Ordinance.
-- Margin: o,.ainances No.159, , 9 ofl905.
-- Margin: Short title.
+AN ORDINANCE TO PROVIDE FOR THE CLOSING OF CERTAIN
+ACCOUNTS IN THE BOOKS OF THE REGISTRY OF THE SUPREME COURT.
+[22nd February, 1902.]
+- Margin: Ordinance
+- Margin: Cap. 41-1925.
+- Margin: Commencement.
