@@ -1,7 +1,6 @@
-----------------------------------------------------------
-
-CHAPTER 190.
+CHAPTER 31. No. 16.
 COPYRIGHT.
 AN ORDINANCE RELATING TO COPYRIGHT.
-[8th April, 1913. J
-- Margin: Ordinances No.8 of1913, , 4 of 1918.
+[8th April, 1913.]
+- Margin: Ordinance Oap. 190-~ . 1925.
+- Margin: Commencement.
