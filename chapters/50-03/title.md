@@ -1,6 +1,17 @@
-CHAPTER 31. No.6.
-BILLS OF LADING.
-A N ORDINANCE RELATING TO B ILLS OF LADI NG.
-[1st October. 1864.]
-- Margin: O rdinance ('h.31. No.&- 1940.
-- Margin: Commcnce- ment.
+OF TRINIDAD AND
+BILLS OF LADING
+3
+Current AutIlorl8ed Pages
+1-4 111980
+Note
+on
+Subsidiary Legislation
+This Chapter contains no subsidiary legislation.
+IX--" 'J'!' TRINH- . - . -- TOBAGO
+,Wls oiL let ap. 50:(
+
+CHAPTER 50:03
+,...-.. 'LS OF 1" TOo ... ", ACT
+A' ."GEMENT OF SECTIONS
+SECTION
+- Margin: 3 I
