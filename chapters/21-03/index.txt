@@ -3,6 +3,10 @@ s-1.md
 s-2.md
 s-3.md
 s-4.md
+s-4A.md
+s-4B.md
+s-4C.md
+s-4D.md
 s-5.md
 s-6.md
 s-7.md
@@ -10,10 +14,3 @@ s-8.md
 s-9.md
 schedule.md
 sl-01/title.md
-sl-01/r-1.md
-sl-01/r-2.md
-sl-01/r-3.md
-sl-01/r-4.md
-sl-01/r-5.md
-sl-01/r-6.md
-sl-01/r-7.md
