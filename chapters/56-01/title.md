@@ -1,0 +1,9 @@
+£ .•
+
+CHAPTER 27. No. 12.
+CONVEYANCING AND LA\V OF PROPERTY.
+AN ORDINANCE RELATING TO CONVEYANCING AND THE LAW OF
+PROPERTY.
+[1st September, 1939.]
+- Margin: Ordinance No. 18-1939.
+- Margin: Commencement.
