@@ -1,0 +1,4 @@
+# 8B. Quarantine of land. [2 of 2001].
+(1) Where a Plant Quarantine Officer or an officer authorised by the Chief Technical Officer finds any land or any part thereof to be affected by any disease or pest he may, by notice in writing served upon the occupier, declare such land or part thereof to be under quarantine.
+(2) The notice shall remain in force until a Plant Quarantine Officer or an officer authorised by the Chief Technical Officer gives the owner or occupier of the land affected a certificate in writing that the land is free from diseases or pests.
+(3) The occupier of land or any part thereof thus placed under quarantine may, upon application to a Plant Quarantine Officer or an officer authorised by the Chief Technical Officer, have his land examined free of charge to determine whether or not the disease or pest has been eradicated.
