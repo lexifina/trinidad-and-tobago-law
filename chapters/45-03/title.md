@@ -1,0 +1,9 @@
+CHAPTER 29. No. 5.
+HINDU MARRIAGE.
+AN ORDINANCE TO MAKE PROVISION FOR THE SOLEMNIZATION
+OF HINDU MARRIAGES.
+[13th May, 1946.]
+- Margin: ,
+- Margin: ,
+- Margin: Ordinances No. 13-1945. " 23-1947.
+- Margin: CommODee- mtnt.
