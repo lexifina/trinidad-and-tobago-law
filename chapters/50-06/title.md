@@ -1,7 +1,9 @@
 CHAPTER 18. No.1.
-tf-1f1.('f
-HARBOURS. /
-AN ORDINANCE' RELATING 1'0 HARBOURS.
-[7th Octobm', 1880.J
-- Margin: Ordinances Cap. 118- 1925. No. 13-1926. " 1-1938.
-- Margin: Commencement.
+HARBOURS.
+AN ORDINANCE RELATING TO HARBOURS.
+[7th Oc~ober, 1880.]
+L This Ordinance may pe cited as the Harbours. Ordinance.
+- Margin: ---.oj-
+- Margin: Ordinance Ch.1S. No.1- 1940. No.4-1949 .
+- Margin: . Commence- ment.
+- Margin: Short title.
