@@ -1,5 +1,6 @@
-CHAPTER 279.
+CHAPTER 12. No. 16.
 BURIAL GROUNDS.
-AN ORDINANCE •RELATING TO BURIAL GROUNDS.
-[6tli June, 1919.]
-- Margin: Ordin(mces No. 14 of 191D, ;, 216, 811, 2 &i s.
+AN ORDINANCE RELATING TO BURIAL GROUNDS.
+[6th June, 1919.J
+- Margin: Ordinance Cap. 279- 1925.
+- Margin: Commencement.
