@@ -1,19 +1,14 @@
 # NINTH SCHEDULE
-POSTAGE RATES PAYABLE ON POSTAL PACKETS
-(OTHER THAN PARCELS) FOR OVERSEAS DELIVERY For delivery to Commonwealth countries-
-Letters
-For the first oz. or part thereof .. 15 cents Over 1 oz. up to 2 oz. 28 cents Over 2 oz. up to 4 oz. 35 cents Over 4 oz. up to 8 oz. 90 cents Over 8 oz. up to 1 lb. $1.50 cents Over 1 lb. up to 2 lb. $2.50 cents
-Over 2 lb. up to 4 lb. $4.00
-For delivery to the Foreign countries-- Letters
-For the first oz. or part thereof . . 20 cents Over 1 oz. up to 2 oz. 35 cents Over 2 oz. up to 4 oz. 45 cents Over 4 oz. up to 8 oz. $1.05 cents
-Over 8 oz. up to 1 lb. $2.00
-Over 1 lb. up to 2 lb. $3.30 cents Over 2 lb. up to 4 lb. $5.30 cents For delivery to Commonwealth and foreign countries-- Postcards 12 cents Printed matter
-For the first oz. or part thereof .. 10 cents Over 1 oz. up to 2 oz. 12 cents Over 2 oz. up to 4 oz. 15 cents
-Post Office Regulations
-Over 4 oz. up to 8 oz. Over 8 oz. up to 1 lb. Over 1 lb. up to 2 lb. Over 2 lb. up to 4 lb. Each additional 2 lb. or part thereof Packets
-For the first 4 oz. or part thereof .. Over 4 oz. up to 8 oz. Over 8 oz. up to 1 lb. Over 1 lb. up to 2 lb.
-- Margin: Regulation 13. [117/1971 2311972 160/1975].
-- Margin: 111980
-- Margin: [Suo:dtlillry]
-- Margin: 25 cents 45 cen,s 80 cents $1.30 cents 65 cents
-- Margin: Small 20 cents 40 cents 65 cents $1.20 cents
+POSTAGE RATES PAYABLE ON POSTAL ARTICLES
+(OTHER THAN AIRMAIL POSTAL ARTICLES) FOR
+OVERSEAS DELIVERY
+Letters $ ¢.
+For the first 20 grammes or part thereof … … … 1.00 Over 20 grammes up to 50 grammes … … … 1.70 Over 50 grammes up to 100 grammes … … … 2.50 Over 100 grammes up to 250 grammes … … … 4.00 Over 250 grammes up to 500 grammes … … … 7.00 Over 500 grammes up to 1 kilogramme … … … 14.00 Over 1 kilogramme up to 2 kilogrammes … … … 20.00
+Postcards
+Each ...60
+Printed Matter
+For the first 20 grammes or part thereof ...60 Over 20 grammes up to 50 grammes … … … 1.00 Over 50 grammes up to 100 grammes … … … 1.50 Over 100 grammes up to 250 grammes … … … 2.40 Over 250 grammes up to 500 grammes … … … 3.50 Over 500 grammes up to 1 kilogramme … … … 5.00 Over 1 kilogramme up to 2 kilogrammes … … … 7.00 Each additional 2 kilogrammes or part thereof … … 3.50
+Small Postal Articles
+For the first 100 grammes or part thereof … … … 1.20 Over 100 grammes up to 250 grammes … … … 2.00 Over 250 grammes up to 500 grammes … … … 3.00 Over 500 grammes up to 1 kilogramme … … … 5.00 Over 1 kilogramme up to 2 kilogrammes … … … 7.00
+Trinidad and Tobago Post Regulations [Subsidiary]
+- Margin: Regulation 13(1). [6 of 1989].

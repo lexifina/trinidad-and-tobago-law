@@ -2,17 +2,6 @@
 INSURANCE FEES PAYABLE IN ADDITION TO
 NORMAL POSTAGE AND REGISTRATION
 Fee Limit of Compensation
-$ c .
-5 cents .. 50 00
-10 cents . . 100 00
-15 cents .. 150 00
-20 cents .. 200 00
-25 cents .. 240 00
-TruRD SCHEDULE
-LIST OF POST OFFICES AT WHICH INLAND AND
-FOREIGN MONEY ORDERS ARE ISSUED AND PAID Arima Guaico Princes Town Arouca Guayaguayare Rio Claro Belmont La Brea Rosehill Blanchisseuse Laventille Roxborough (Tobago) Carapichaima Manzanilla San Fernando Caroni Mayaro Sangre Grande Cedros Moriah (Tobago) San Juan Chaguanas Moruga Scarborough (Tobago) Couva Mucurapo Siparia Cumuto Newtown Speyside (Tobago) Curepe Palo Seco Tabaquite Diego Martin Penal Tableland Erin Pointe-a-Pierre Tacarigua Forest Reserve Point Fortin Toco Fyzabad Port-of-Spain Tunapuna Gran Couva (Chief Office) Williamsville
-Woodbrook
-Post Office Regulations
-- Margin: Regulation 89. [ 192/1957].
-- Margin: Regulation 129. [ 4111952 180/1955].
-- Margin: [Subsidiary]
+$ 1.00 ... Up to $100.00 $ 2.00 ... Over $100.00 up to $200.00 $ 4.00 ... Over $200.00 up to $400.00 $ 6.00 ... Over $400.00 up to $600.00 $ 8.00 ... Over $600.00 up to $800.00 $ 10.00 ... Over $800.00 up to $1,000.00 $ 15.00 ... Over $1,000.00 up to $1,500.00 $ 20.00 ... Over $1,500.00 up to $2,000.00
+Trinidad and Tobago Post Regulations [Subsidiary]
+- Margin: Regulation 89. [4/1985 23/1985].
