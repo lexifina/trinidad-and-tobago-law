@@ -1,27 +1,20 @@
-GRANTS AND LEASES (RE-ISSUE)
+STATE GRANTS AND LEASES (RE-ISSUE) ACT
 CHAPTER 57:02
-Ad
+Act
 20 of 1904
-1--4 1/1980
-LAWS OF TRJINIDAD AND TOBAGO
-State Grants and Leases
-Note
-on
-Subsidiary Legislatio~m
+Amended by
+*24 of 1981
+*See Note on Amendment at page 2
+Note on Subsidiary Legislation
 This Chapter contains no subsidiary legislation.
-State Grants and Leases
-CHAPTER 57:02
-STATE GRANTS AND LEASES (RE-ISSUE) AC'I
-ARRANGEMENT OF SECTIONS
-SECTION
-1. Short title. 2. Certificate of loss or destruction. 3. Proof of interest.
+Note on Amendment
+Section 2(3) of this Act has been amended by Act No. 24 of 1981. However, Act No. 24 of 1981 has not up to the date of the revision of this Act been brought into operation.
 
-Survey and advertisement.
-SCHEDULE.
-An Ad relating to grants and leases of State land which have
+CHAPTER 57:02
+STATE GRANTS AND LEASES (RE-ISSUE) ACT
+An Act relating to grants and leases of State land which have
 been lost or destroyed.
 [17TH NOVEMBER 1904]
-- Margin: STATE ACT
-- Margin: 1950 Ed. Ch. 27 No.6.
+- Margin: 1950 Ed. Ch. 27. No. 6.
 - Margin: 20 of 1904.
 - Margin: Commencement.
