@@ -1,9 +1,6 @@
-CAP. 290.} QUEEN'S PARK.
-
-CHAPTER 290.
+CHAPTER 42. No.4.
 QUEEN'S PARK.
-AN ORDINANCE RELATING TO THE QUEEN'S PARK.
-[5th December, 1882.]
-- Margin: \' ' 'I
-- Margin: I 'l I 3398
-- Margin: Ordinance No. 203.
+AN ORDINANCE RELATING TO 'l'HE QUEEN'S PARK.
+[5th Decembe;r, 1882.]
+- Margin: Ordinanoe Cap. 290- 1925.
+- Margin: Commencement.
