@@ -1,9 +1,17 @@
+:-e ".. -~, ' __ , . " ; ,,-~ i ,.;
+l
+
 CHAPTER 7. No.9.
-EVIDENCE.
-AN ORDINANOE RELATING TU 'rHE LAW OF EVIDENOE.
-[14th September, 1905.]
-[15th June, 1855.]
-[22nd June, 1898.]
-- Margin: Ordinances Cap. 30-1925. Cap. 70-1925. Cap. 71-1925.
-- Margin: Commencement.
-- Margin: "
+E,lIDENCE.
+AN ORDINANCE RELATING TO THE LAW OF EVIDENCE.
+[14th September, 1905.J
+[15th June, 1855.]"
+[22nd june, 1898.]
+1.. This Ordinance may be cited as the Evidence Ordinance.
+PART I.
+GENERAL.
+- Margin: jo
+- Margin: .. ,,/'
+- Margin: Ordinances eh.7.No.9- 1940. No. 12-1942. " 39-1947.
+- Margin: Commence- ment.
+- Margin: Short title.
