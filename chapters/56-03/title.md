@@ -1,0 +1,8 @@
+. CHAPTER 47.
+REAL PROPERTY LIMITATipN.
+AN ORDINANCE RELATING TO THE LIMITATION OF REAL
+PROPERTY ACTIONS.
+[26th July, 1846. J
+- Margin: ''1. I
+- Margin: . I
+- Margin: Ordinances No.89, " 93,88.5 &; 6.
