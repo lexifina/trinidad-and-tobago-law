@@ -1,5 +1,9 @@
-CHAPTER 291.
+Races.
+
+CHAPTER 42. No.5.
 RACES.
 AN ORDINANCE FOR THE REGULATION OF RACES.
-[lst December, 1855.]
-- Margin: 01·dinanee No, 115.
+[1st Decembm', 1855.]
+- Margin: Ordinanoe
+- Margin: Cap. 291- 1925
+- Margin: Commenoement.
