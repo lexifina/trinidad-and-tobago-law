@@ -1,11 +1,19 @@
-,
-J
+COPYRIGHT ACT
 
-CHAPTER 31. No. 16. •
-COPYRIGHT.
-AN ORDINANCE RELATING TO COPYRIGHT.
-[8th A prit, 1913.]
-- Margin: I
-- Margin: J
-- Margin: Ordinance Ch.ll. No.16 - 1940.
-- Margin: Commence- ment.
+CHAPTER 82:80
+Act
+8 of 1913
+Amended by
+4 of 1918
+56 of 1952
+16 of 1962
+34 of 1966
+Pages· Authorised (inclusive) by L.R.D.
+L.R.D.1I1980
+Note
+on
+Subsidiary Legislation
+This Chapter contains no subsidiary legislation.
+Note
+on
+Adaptation
