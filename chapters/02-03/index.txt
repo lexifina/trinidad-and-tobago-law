@@ -4,6 +4,7 @@ s-2.md
 s-3.md
 s-4.md
 s-5.md
+s-6.md
 s-7.md
 s-8.md
 s-9.md
@@ -13,16 +14,5 @@ s-12.md
 s-13.md
 s-14.md
 s-15.md
+schedule.md
 sl-01/title.md
-sl-01/r-1.md
-sl-01/r-2.md
-sl-01/r-3.md
-sl-01/r-4.md
-sl-01/r-5.md
-sl-01/r-6.md
-sl-01/r-7.md
-sl-01/r-8.md
-sl-01/schedule.md
-sl-01/form-1.md
-sl-01/form-2.md
-sl-01/form-3.md
