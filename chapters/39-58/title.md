@@ -1,76 +1,34 @@
-OF TR.INiDAD AND TOBAGO
-NATI('J.~A.Lt INSTI.llJ.I& OF fuuJ:1&R EDUCATION (R.ESEARCH, SCIENOE
-AND TECHNOLOGY) ACT
-HAPT :58
+NATIONAL INSTITUTE OF HIGHER EDUCATION (RESEARCH, SCIENCE AND TECHNOLOGY) ACT
+CHAPTER 39:58
 Act
-20 of ;4
-Current AutborlsedPages
-(incl'lMi!ve) by L.R.O.
-L.I TRINIDAD AN [)
-National Institute of High __ -----' __ L.~ ____ ~.i"i
-Note
-- - idiary Leaial -
-This Chapter contains no su.bsidiary egislation.
-NationaL Institute of Higher Education
-(Research, Science and Technology) Cbap.
-CHAPTER 39 :58
-NATIONAL INSTITUTE OF HIGHER EDUCATION (RESEARCH, SCIENCE
-AND TECHNOLOGY) ACT
+20 of 1984
+Amended by
+188/1989
+77 of 2000
+Note on Subsidiary Legislation
+This Chapter contains no subsidiary legislation.
+CHAPTER 39:58
+NATIONAL INSTITUTE OF HIGHER EDUCATION (RESEARCH, SCIENCE AND TECHNOLOGY) ACT
 ARRANGEMENT OF SECTIONS
 SECTION
-Short title. Interpretation.
+1. Short title. 2. Interpretation.
 PART I
-ESTABLISHMENT, MANAGEMENT, FUNCTIONS AND POWERS OF
-THE INSTITUTE
-Establishment and incorporation of the Institute.
-Board of Governors.
-Appointment ofthe President ofthe Institute.
-Procedure and meetings of the Institute. Declaration of interest of members. Appointment of committees and power of the Board to delegate. Appointment of Registrar Custody and use of Seal. Policy directions. Functions ofthe Institute. Powers ofthe Institute.
+ESTABLISHMENT, MANAGEMENT, FUNCTIONS AND
+POWERS OF THE INSTITUTE
+3. Establishment and Incorporation of the Institute. 4. Board of Governors. 5. Appointment of the President of the Institute. 6. Procedure and meetings of the Institute. 7. Declaration of interest of members. 8. Appointment of committees and power of the Board to delegate. 9. Appointment of Registrar.
+10. Custody and use of Seal. 11. Policy directions. 12. Functions of the Institute. 13. Powers of the Institute.
 PART II
 FINANCIAL PROVISIONS
-Funds and resources of the Institute. Institute may build up reserves and invest surplus funds. Power to borrow. Exemption from tax. Application offunds. Accounting of the Institute. Institute a statutory authority. Minutes.
-National Institute of Higher Education
+14. Funds and resources of the Institute. 15. Institute may build up reserves and invest surplus funds. 16. Power to borrow. 17. Exemption from tax. 18. Application of funds. 19. Accounting of the Institute. 20. Institute a statutory authority. 21. Minutes.
 PART III
 STAFF AND RELATED MATTERS
-Interpretation of Part III. :mstablishment of Pension Scheme. Transfer of officers of Government to the Institute and vice-versa. Past service benefits.
-Death or retirement prior to establishment of pension scheme.
-Transfer on secondment. SCHEDULE.
-Nationa~ Institute of Higher Education
+22. Interpretation of Part III. 23. Establishment of Pension Scheme. 24. Transfer of officers of Government to the Institute and vice versa. 25. Past service benefits. 26. Death or retirement prior to establishment of pension scheme. 27. Transfer on secondment.
+SCHEDULE.
 
-CHAPTER 39 :58
-NATIONAL INSTITUTE OF HIGHER
-EDUCATION (RESEARCH, SCIENCE
-AND TECHNOLOGY) ACT
-An Act to provide for the establishment and admin-
-istration of the National Institute of Higher Education (Research, Science and Technology), and for matters connected therewith.
+CHAPTER 39:58
+NATIONAL INSTITUTE OF HIGHER EDUCATION (RESEARCH, SCIENCE AND TECHNOLOGY) ACT
+An Act to provide for the establishment and administration
+of the National Institute of Higher Education (Research, Science and Technology), and for matters connected therewith.
 [1ST JANUARY 1985]
-- Margin: 3 39:58
-- Margin: 1.
-- Margin: 2.
-- Margin: 3.
-- Margin: 4.
-- Margin: 5.
-- Margin: 6.
-- Margin: 7.
-- Margin: S.
-- Margin: 9.
-- Margin: 10.
-- Margin: 11.
-- Margin: 12.
-- Margin: 13.
-- Margin: 14.
-- Margin: 15.
-- Margin: 16.
-- Margin: 170
-- Margin: IS.
-- Margin: 19.
-- Margin: 20.
-- Margin: 21.
-- Margin: L .R.D. 1/1990
-- Margin: 22.
-- Margin: 23.
-- Margin: 24.
-- Margin: 25.
-- Margin: 26.
-- Margin: 27.
-- Margin: Commence· ment. 175/1984. Short title.
+- Margin: 20 of 1984.
+- Margin: Commencement. 175/1984.
