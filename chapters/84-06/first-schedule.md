@@ -1,0 +1,8 @@
+# FIRST SCHEDULE
+FORM OF LICENCE
+A.B, having this day paid the sum of $200.00 is hereby authorised and licensed to deal in precious metals and stones at in accordance with the provisions of the Licensing of Dealers (Precious Metals and Stones) Act.
+This licence expires on the 31st December, 20 .
+C.D.
+Magistrate.
+Dated at this day of 20 .
+- Margin: Section 4(3). [51/1980 3 of 1994].
