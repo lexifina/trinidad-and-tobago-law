@@ -1,10 +1,15 @@
-,~~Y I {?j
-i CHAPTER 25. No.1.
-VETERINARY SURGEONS.
-AN ORDINANCE TO MAKE PROVISION 'FOR THE REGISTRATION
-OF VETERINARY SURGEONS.
-[2nd June, 1939.J
-- Margin: i
-- Margin: I"
-- Margin: Ordinance 'Ch.2S. No.1 -1940.
-- Margin: Commence- ment.
+SURGEONS (REGISTRATION)
+
+CHAPTER 67:04
+Act
+8 of 1930
+Amended by 19 of 1955 5 of 1963
+1-8 ··. 1!1980
+Note
+on
+Subsidiary Legislation
+This Chapter contains no subsidiary legislation.
+Note
+on
+Adaptation
+- Margin: VETERINARY ACT
