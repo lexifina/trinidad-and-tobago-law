@@ -1,5 +1,9 @@
-CHAPTER 30.
-CRIMINAL EVIDENCE.
-A N 0 RDINANCE R ELATING TO E VIDENCE IN C RIMINAL C ASES.
+CHAPTER 7. No.9.
+EVIDENCE.
+AN ORDINANOE RELATING TU 'rHE LAW OF EVIDENOE.
 [14th September, 1905.]
-- Margin: 0-rdilnance No. 23 of1905.
+[15th June, 1855.]
+[22nd June, 1898.]
+- Margin: Ordinances Cap. 30-1925. Cap. 70-1925. Cap. 71-1925.
+- Margin: Commencement.
+- Margin: "
