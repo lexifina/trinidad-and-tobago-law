@@ -1,3 +1,3 @@
 SUBSIDIARY LEGISLATION
 JUDGMENTS EXTENSION ORDER
-made unde1' section 9
+made under section 9
