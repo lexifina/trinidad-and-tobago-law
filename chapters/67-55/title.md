@@ -1,8 +1,8 @@
-------------------------------------------~~------------
-
-CHAPTER 139.
-MONGOO$E.
-AN ORDINANCE RELATING TO THE IMPORTATION AND DESTRUC-
-TION oF MoNGoosE.
-[27th April, 1918. J
-- Margin: Ordinance No.8 ofl9\8.
+CHAPTER 25. No.6.
+MONGOOSE.
+AN ORDINANCE RELATING TO THE IMPORTATION AND DESTRUCTION
+OF MONGOOSE.
+[27th April, 1918.]
+- Margin: i, I
+- Margin: Ordinanoe Cap. 139- • 1925.
+- Margin: Commencement.
