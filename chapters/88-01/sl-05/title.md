@@ -1,0 +1,5 @@
+INDUSTRIAL RELATIONS
+(AGENCY SHOP ORDER) (AUTHORISATION FORM)
+REGULATIONS
+made by the President under section 79(1)
+- Margin: 77/1988.

@@ -1,0 +1,55 @@
+# FORM 2C
+INDUSTRIAL RELATIONS
+(CERTIFICATION OF RECOGNITION) REGULATIONS
+CERTIFICATE ISSUED TO
+RECOGNISED MAJORITY UNION
+Issued this ... day of..., 20... Pursuant to section 86(3) of the Industrial Relations Act, the Registration Recognition and Certification Board hereby certifies: ...
+(Name of Union)
+as the recognised majority Union in respect of the workers employed by: ...
+(Name of Employer)
+comprised in a bargaining unit as hereunder described: ...
+...
+Chairman
+(Seal of Board)
+...
+Secretary
+Industrial Relations (Certification of Recognition) Regulations [Subsidiary]
+REMARKS
+OF BARGAIN-
+VARIATION ING UNIT
+DATE OF
+THE INDUSTRIAL RELATIONS (CERTIFICATION OF RECOGNITION) REGULATIONS
+BARGAINING
+VARIATION
+UNIT
+OF
+RECOGNISED UNION AND
+CERTIFICA- RELEVANT MAJORITY
+DATE OF TION AS
+DATE
+RECORD OF CERTIFICATION
+DETERMINED BARGAINING WORKERS IN
+RELEVANT UNIT AND NUMBER
+DATE
+OF
+FORM 3
+DESCRIPTION OF
+APPROPRIATE DETERMINED BARGAINING
+SEC. 23 UNIT AS BY THE BOARD
+EMPLOYER
+PARTIES
+CLAIMANT UNION
+APPLICA- DATE OF
+TION
+NUMBER
+FILE YEAR 20...
+NUMBER CERTIFI-
+CATE
+DELEGATION OF FUNCTIONS (INDUSTRIAL
+RELATIONS) ORDER
+made by the Minister under section 52(1)
+of the Interpretation Act (Ch. 3:01)
+- Margin: Regulation 9(2).
+- Margin: REGULATION 10.
+- Margin: [Subsidiary]
+- Margin: 203/1996.
