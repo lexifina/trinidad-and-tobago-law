@@ -1,0 +1,7 @@
+CHAPTER 25.
+SUMMARY CONVICTION OFFENCES.
+AN ORDINANCE RELATING TO OFFENCES PUNISHABLE ON
+SuMMARY CoNVICTION.
+[19th May, 1921.]
+- Margin: --·
+- Margin: Ordinances No. 31 of 1921, , 12 of 1920, , 6 of 1921,- , 47 of 1921, , 7 of 1924, , 29 of 1925, •.·33. Short title.
