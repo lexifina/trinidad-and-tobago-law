@@ -26,3 +26,14 @@ s-24.md
 first-schedule.md
 second-schedule.md
 sl-01/title.md
+sl-01/r-1.md
+sl-01/r-2.md
+sl-01/r-3.md
+sl-01/r-4.md
+sl-01/r-11.md
+sl-01/r-12.md
+sl-01/r-13.md
+sl-01/r-14.md
+sl-01/r-17.md
+sl-01/r-18.md
+sl-01/r-19.md
