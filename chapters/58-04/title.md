@@ -1,7 +1,8 @@
 CHAPTER 27. No.2.
 LAND SURVEYORS.
-AN ORDINANOE TO PROVIDE FOR THE QUALIFICATION AND
-OONTROL OF LAND SURVEYORS.
+AN ORDINANCE TO PROVIDE FOR THE QUALIFICATION AND,
+CONTROL OF LAND SURVEYORS.
 [1st February, 1923.]
-- Margin: Ordinances Cap. 170- '1925. No. 32-1934.
-- Margin: Commencement.
+- Margin: Ordinance
+- Margin: Chi~~oNo.2-
+- Margin: Commence- ment.
