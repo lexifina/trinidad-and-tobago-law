@@ -1,5 +1,6 @@
-CHAPTER 278.
+CHAPTER 38. No. 1.
 BUILDING SOCIETIES.
-AN ORDINANCE RELATING To BUILDING SociETIES. 01·dinance No.lll.
-[31st Decernber, 1890. J
-- Margin: 'II)&"
+AN ORDINANCE RELATING TO BUILDING SOCIETIES.
+[31st December, 1890.]
+- Margin: Ordinance Oap.278- 1925.
+- Margin: Oommeocemeo ••
