@@ -1,0 +1,3 @@
+PROTECTION OF BEACONS REGULATIONS
+made under section 63
+- Margin: G.22.9.38.
