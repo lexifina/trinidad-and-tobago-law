@@ -1,0 +1,13 @@
+# FORM B
+REPUBLIC OF TRINIDAD AND TOBAGO
+I, ... certify that ... ,
+(Name of designated officer) (Name of donor)
+being an adult of sound mind, and who has been given relevant medical advice by a medical practitioner, with which advice he/she agrees, has consented in writing to the removal from his/her body of the following non-regenerative tissue for the purpose of the transplantation of the tissue to the body of another living person/therapeutic/medical/scientific purposes:
+...
+...
+...
+I further certify that I have explained to ... the
+(Name of donor) implications of the removal of the non-regenerative tissue from his/her body and I am of the opinion that he/she understood the implications of the removal.
+Date...
+Signature of designated officer
+- Margin: [Section 6(4)].
