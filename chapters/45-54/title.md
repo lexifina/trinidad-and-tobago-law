@@ -1,7 +1,12 @@
+r
+•
+•
+
 CHAPTER 29. No.3.
-DECEASED WIFE'S SISTER'S MARRIAGE.
-AN ORDINANCE RELATING TO MARRIAGE WITH A DECEASED
-WIFE'S SISTER.
-[24th July, 1911.]
-- Margin: Ordinance Cap. 178- 1925.
-- Margin: Commencement.
+DECEASED WIFE'S SISTER'S MARRII\GE.
+AN ORDINANCE RELATING TO MARRlAGE WITH A
+DECEASED WIFE'S SISTER. ('
+[24th July. 1911.]
+- Margin: I,
+- Margin: Ordinance Ch.29. No. 3-1940.
+- Margin: Co=,"". ment.
