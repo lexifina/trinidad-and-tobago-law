@@ -1,0 +1,4 @@
+JUDGES (SALARIES AND PENSIONS)
+REGULATIONS
+made under section 16
+- Margin: 202/1997.
