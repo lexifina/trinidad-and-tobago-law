@@ -1,0 +1,4 @@
+SUPPLEMENTAL PETROLEUM TAX
+(VARIATION OF RATE) ORDER
+made under section 22(2)
+- Margin: 119/1983.
