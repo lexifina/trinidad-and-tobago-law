@@ -1,31 +1,25 @@
 # FORM 13
-Tl1.E t'IkE,' R~ lS ~EGULATIONS
-Fi'eann Import Permit
-Permit NJ.
-Permission is hereby granted to ... " ...
-... ' ... being the L)l(er
-Firearm DeFile's _ic_Dc.._ 1":0. .., ... , .. *to import the firearms ammunition specified hereunder.
-1. Details of firearms authorised to be imported
-" " • " " •• ~ •• e _ " " •• 0 G • " " " " " •• " " • " " • " " • " • " • " " • " " • " " • 0 Q " • " " " • " •
-LAWS TRII' DAl 'OBA :;0
-ellaI" 16:01 Firearms
-Firearms Regulations
-AMMUNITION
-2. Quantity Type
-Maximum amount authorised to be imported at any
-one time ...
+REPUBLIC OF TRINIDAD AND TOBAGO
+THE FIREARMS REGULATIONS
+FIREARM IMPORT PERMIT
+Commissioner's Office
+Police Administration Building
+Corner Edward and Sackville Streets
+Port-of-Spain
+Tel: (868) 623-8420 Fax: (868) 623-2585
+Permit No.
+Permission is hereby granted to ... of ... Telephone ... Fax ... being a resident of ... and a holder of a Firearm Dealer's/User's* Licence No... to import the firearms and ammunition specified hereunder from ... of ... Telephone ... Fax ... for ... of ... Telephone ... Fax ...
+1. DETAILS OF FIREARMS TO BE IMPORTED [Subsidiary] Firearms Regulations
+2. AMMUNITION
+TYPE QUANTITY
+Maximum amount authorised to be imported at any one time ...
 Dated ...
 Commissioner of Police
-*Delete if inapplicable.
-I ... , Police Officer hereby certify that I have examined the firearms and ammunition to which this permit relates and that I am satisfied that the firearms and ammunition are in confor-mity with this permit.
+Expiry Date ...
+I ... Police Officer hereby certify that I have examined the firearms and ammunition to which this permit relates and that I am satisfied that the firearms and ammunition are in conformity with this permit.
 Dated ...
 Police Officer
 Police Station ...
+*Delete as applicable.
+Firearms Regulations [Subsidiary]
 - Margin: Regulation 15.
-- Margin: of
-- Margin: of a
-- Margin: and
-- Margin: " " • "
-- Margin: L.R . . 191,'
-- Margin: 52
-- Margin: y] [Subl

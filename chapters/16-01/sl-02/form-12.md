@@ -1,22 +1,23 @@
 # FORM 12
 THE FIREARMS REGULATIONS
-Application for a Firearm Import Permit
+APPLICATION FOR A FIREARM IMPORT PERMIT
 To the Commissioner of Police.
-Application is hereby made for the grant of a Firearm Import Permit for the purpose of importing the firearms and ammunition specified hereunder. I am the holder of a Firearm Dealer's Licence No.*
+Application is hereby made for the grant of a Firearm Import Permit for the purpose of importing the firearms and ammunition specified hereunder. I am the holder of a Firearm Dealer's /User's* Licence No...
 1. FIREARMS
-(i) Details of firearms possessed at date of this application. If none, say NONE:
-Quantity Description Serial number or Exporter
-(calibre, type, make, other distinguishing
-etc.) mark
-(ii) Details of firearms desired to be imported
-Quantity and Type
-... " ... 2. AMMUNITION Quantity and Type
-(i) Amount possessed at date of this
-application ...
-(ii) Maximum amount desired to be im-
-ported at anyone time ...
-Firearms Regulations
-3. Reasons for requiring the firearm(s) and ammunition specified above:
-Dated ... , ...
-Applicant *Delete if inapplicable.
+Barrel Action Calibre Overall No. of Quantity
+Double/Single Length Length Shots
+Manufacturer ... Model ... Country of Manufacture ... *Delete as applicable.
+2. AMMUNITION Quantity Calibre Type of Ammunition Other Distinguishing Marks
+Manufacturer ... Country of Manufacture ... [Subsidiary] Firearms Regulations
+3. Name of Exporter ...
+Address ...
+Telephone ... Fax ...
+4. Reasons for requiring Firearm (s) Final Recipient and Ammunition specified above Name ... Address ... Resident of ... Telephone ... Fax ...
+Name of Applicant ... Resident of ...
+Address ...
+Telephone ... Fax ...
+...
+Signature of Applicant Date
+*Delete as applicable.
+Firearms Regulations [Subsidiary]
 - Margin: Regulation 15.
