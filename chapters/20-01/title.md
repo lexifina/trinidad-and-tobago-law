@@ -1,0 +1,5 @@
+CHAPTER 179 .
+. NEWSPAPERS.
+AN ORDINANCE RELATING TO NEWSPAPERS.
+[31st October, 1894.]
+- Margin: Ordinance No. 112.
