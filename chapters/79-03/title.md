@@ -1,8 +1,16 @@
-CHAPTER 35. No.4.
-LOCAL SAVINGS BANKS.
-AN ORDINANCE TO CONTROL LOCAL SAVINGS BANKS.
-[1st December, 1934.J
-. 1. This Ordinance may be cited as the Local Savings Banks Ordinance.
-- Margin: Ordinance Ch.35. No.4- 1940.
-- Margin: Commence- ment .
-- Margin: Short title.
+LOCAL SAVINGS BANKS ACT
+CHAPfER 79:03
+Act
+27 of 1934
+Amended by
+45 of 1979
+5111980
+1-16 111980
+LA WS OF TRIN1DAD AND TOBAGO
+Note
+on
+Subsidiary Legislation
+This Chapter contains no subsidiary legislation.
+Note
+08
+AdaptatioD
