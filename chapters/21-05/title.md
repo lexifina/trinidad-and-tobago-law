@@ -1,0 +1,10 @@
+---------------------------------------------------------.
+
+CHAPTER 30. No. 12.
+STREET COLLECTIONS (CONTROL) .•
+AN ORDINANCE TO REGULATE AND CONTROL THE COLLECTION OF
+MONEY OR THE SALE 'OF ARTICLES FOR OHARITABLE OR OTHER PURPOSES IN STREETS AND OTHER PUBLIC PLAOES.
+[21st December, 1939.]
+- Margin: Ordinance
+- Margin: No. 26-1939.
+- Margin: Commencement.
