@@ -1,7 +1,16 @@
-CHAPTER 23. No.6.
-AGRICULTURAL CONTRACTS.
-AN ORDINANCE RELATING TO AGRiCULTURAL·CONTRACTS.
-[18th June, 1925.J
-.f
-- Margin: Ordinance Ch.23. No.6- 1940.
-- Margin: Commence- ment .
+AGRICULTURAL CONTRACTS ACT
+
+CHAPTER 63:50
+Act
+36 of 1925
+Amended by
+2/1963
+Curreot Authorised Pages
+1-28 111980
+Note
+on
+Subsidiary Legislation
+This Chapter contains no subsidiary legislation.
+Nole
+on
+Adaplation
