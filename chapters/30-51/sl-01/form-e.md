@@ -1,0 +1,19 @@
+# FORM E
+CERTIFICATE AFTER POST-MORTEM EXAMINATION
+(To be given by the Medical Officer requested by the authorised officer and approved
+by the Chief Medical Officer)
+I hereby certify that, acting on the request of ...
+(state name of authorised officer) authorised officer of the ...division I made a
+(state name of division) post-mortem examination of the remains of
+...
+(state name of deceased)
+...
+(state address of deceased)
+... (state occupation of deceased)
+The result of the examination is as follows: I am satisfied that the cause of death was due to ...
+(state cause of death) that there is no reason for making any toxicological analysis or *for the holding of an inquest.
+... Signature of Medical Officer ...
+Address
+...
+Qualifications (Date)... *The words underlined should be omitted where a toxicological analysis has been made and its result is stated in this certificate or in a certificate attached to it.
+- Margin: [Regulations 8(1)(c) and 28(1)(c)].
