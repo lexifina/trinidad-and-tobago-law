@@ -1,10 +1,13 @@
-CHAPTER 12. No. 15.
-QUARANTINE ..
-AN· ORDINANCE RELATING TO QUARANTntE: AND
-SIMILAR MATTERS.
-[12th October,1944.]
-L This Ordinance may be cited as the Quarantine Ordinance.
-- Margin: Ordinances.
-- Margin: No. 19-1944. " 29-1945.
-- Margin: Commence- ment.
-- Margin: Short Title.
+Ad
+190%1944
+Amended by
+29 of 1945
+""'ur.o:,,,nt ri.fltll.""ist;u P~5otS
+1-72 111980
+Index
+of
+Subsidiary Legislation
+Page Quarantine (Maritime) Regulations (19 of 1944) 8 Quarantine (Air) Regulations (19 of 1944) 48
+Note
+on
+Adaptation
