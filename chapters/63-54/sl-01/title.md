@@ -1,4 +1,4 @@
 SUBSIDIARY LEGISLATION
 I.C.2. BANANA (EXPORT CONTROL) ORDER
 made under section 3
-- Margin: G.17.6.1938
+- Margin: G. 17.6.1938.
