@@ -1,0 +1,69 @@
+# SECOND SCHEDULE
+COMPULSORY PURCHASE ORDER
+PART I
+Form, contents, procedure, compensation and arbitration
+1. A Compulsory Purchase Order authorising a compulsory purchase by the Authority for any of the purposes stated in sec-tion 71(1) of this Act shall be made by the Authority and submit-ted to and confirmed by the Minister in accordance with the following provisions of this Schedule.
+Compulsory Purchase Order shall be in the form pre-
+and shaH describe by reference to a map the land to which
+and shall incorporate, mutatis mutandis, the Land Acquisition Act (except sections 4 to 9, 14, 44 and 50 to 54
+subject to the modifications mentioned in paragraph 3.
+modifications subject to which the Land Acquisition
+be incorporated in the Order are as follows:
+(a) the powers conferred by section 3 may be exercised
+upon publication by the Authority in a newspaper circulating in Trinidad and Tobago of notice in the prescribed form of the intention to acquire any land for any of the purposes of its undertaking;
+(b) in assessing the compensation payable under section
+11:
+(i) the value of the land shall, subject as hereinaf-
+ter provided, be taken to be the amount which the land if sold in the open market by a willing seller might be expected to realise at the date of entry or date of notice to treat which ever be the first and shall further be subject to the provisions of section 28 of the Waterworks and Water Conservation Act;
+(ii) no account shall be taken of any outlay on or
+improvement or alteration to the land, or of any interest created in land after the date on which notice of the order having been made is published in accordance with the provisions of the Schedule, if, in the opinion of the person assessing the compensation, the outlay or improvement or alteration or the creation of the interest in respect of which a claim is made was not reasonably necessary and was carried out with a view to obtaining or increasing compensation.
+Before submitting the Order to the Minister, the Authority
+a) publish in at least one newspaper circulating in
+Trinidad and Tobago a notice in the prescribed form stating that such an Order has been made and is about to be submitted for confirmation and the pur-pose for which the land is required, describing the land and naming a place where a copy of the Order and the map referred to thereon may be seen at all reasonable hours, and specifying the time within which and the manner in which objections to the Order can be made;
+(b) except in so far as the Minister directs that this pro-
+vision shall not have effect in any particular case, serve on every owner, lessee and occupier (except tenants for a month or any period less than a month) of any land to which the Order relates a notice in the prescribed form stating the effect of the Order and that it is about to be submitted to the Minister for confirmation and specifying the time within and the manner in which objections thereto can be made;
+(c) in the case of any land with respect to which a direc-
+tion is given under subparagraph (b), affix to some conspicuous object or objects on the land a notice or notices in the prescribed form addressed to "the owners and any occupiers" of the land (describing it) containing the particulars specified in the said sub-paragraph (b).
+5. (1) If no objection is made by any of the persons upon whom notices are required to be served, or if all objections so made are withdrawn, then subject to the provisions set out below in this Schedule, the Minister may, if he thinks fit, confirm the Order with or without modification but in any other case he shall, before confirming the Order, either cause a public local enquiry to be held or afford to any person by whom any objection has been made and not withdrawn an opportunity of appearing before and being heard by a person appointed by the Minister for the purpose and, after considering the objection and the report of the person who held the inquiry or the person appointed, may confirm the Order with or without modification.
+(2) If any person by whom an objection has been made avails himself of the opportunity of being heard the Minister shall afford to the Authority and to any other persons to whom it appears to the Minister expedient to afford it, an opportunity of being heard on the same occasion.
+(3) Notwithstanding anything in subparagraphs (1) and (2), the Minister may require any person who has made an objection to state in writing the grounds thereof, and may confirm the Order without granting a hearing or causing a public local inquiry to be held if the Minister is satisfied that the objection relates exclusively to matters which can be dealt with by the tribunal by whom the compensation is to be assessed.
+( 4) An Order as confirmed by the Minister shall not, unless all persons interested consent, authorise the Authority to pur-chase compulsorily any land which the Order would not have authorised it so to purchase if it had been confirmed without modification.
+PART II
+Validity, date and manner of operation
+6. So soon as may be after the Order has been confirmed the Authority shall publish in one or more newspapers circulating in Trinidad and Tobago a notice in the prescribed form stating that the Order has been confirmed and naming a place where a copy of the Order as confirmed and of the map referred to therein may be seen at all reasonable hours, and shall serve a like notice on every person who, having given notice to the Minister of his objection appeared at the public local inquiry in support of his objection, and such notice from the Minister shall state the grounds on which the objection failed.
+7. If any person aggrieved by such an Order as aforesaid desires to question the validity thereof on the ground that it is not within the powers of this Act or that any requirement of this Act has not been complied with, he may, within six weeks after the publication of the notice of confirmation of the Order, make an application for the purpose to the High Court, and where any such application is duly made, the Court-
+( a) may, by interim order, suspend the operation of the
+Order, either generally or in so far as it affects any property of the applicant until the final determina-tion of the proceedings; and
+(b) if satisfied upon the hearing of the application that
+the Order is not within the powers of this Act or that the interests of the applicant have been substantially prejudiced by any requirement of this Act not hav-ing been complied with, may quash the Order, either generally or in so far as it affects any property of the applicant.
+8. Subject to paragraph 7, the Order shall not be questioned by prohibition or certiorari or in any legal proceedings what-soever, either before or after the Order is confirmed, and shall become operative at the date on which notice of confirmation of the Order is published in accordance with the provisions of this Schedule.
+9. (1) The Authority may, at any time within three years after the publication of the confirmation of the Order, demand in the prescribed form from all the parties interested in the land the particulars of their estate and interest in such lands and of the claims made by them in respect thereof; and every such notice shall state the particulars of the lands so required and that the Authority is willing to treat for the purchase thereof, and as to the compensation to be made to all the parties for the damage that may be sustained by them by reason of the execution of the works.
+(2) If for thirty days after the service of the notice to treat any party fails to state the particulars of his claim in respect of any such land or to treat with the Authority in respect thereof, or if any party and the Authority do not agree as to the amount of compensation to be paid by the Authority for the interest in the lands belonging to such party or which he is enabled to sell, or for any damage that may be sustained by him by reason of the execu-tion of the work, the amount of such compensation may be settled in the manner provided for by the Land Acquisition Act.
+10. Where the owner of any land the subject of an Order which has been confirmed, or of any interest therein-
+( a) on tender of the purchase-money or compensation
+either agreed or awarded to be paid in respect thereof, refuses to accept the same, or neglects or fails to make out a title to such lands, or to the interest claimed by him, to the satisfaction of the Authority; or
+(b) refuses to convey or release such lands as directed by
+the Authority, or cannot after diligent enquiry be found, the Authority may deposit the purchase-money or compensation payable in respect of such lands, or any interest therein, in the Central Bank in the name and with the privity of the Registrar of the Supreme Court to be placed to his account there to the credit of the parties interested in such lands, describing them so far as the Authority is able, but subject to the control and disposition of the High Court.
+11. (1) Upon the deposit of the purchase-money or compensa-tion payable in respect of such land or any interest therein under paragraph 10, such lail'tl or the interest therein shall vest in the Authority without further conveyance for the purposes specified in the Order; and in the case of land that is held under Part HI of the Real Property Ordinance and upon production of proof to the satisfaction of the Registrar General that the requirements of paragraph 10 and the other provisions of this Schedule have been complied with, the Registrar General shall do all things necessary to effect the transfer of such land as if a memorandum of transfer or other instrument purporting to transfer the land under that Ordinance had been executed.
+(2) Every duplicate grant or certificate of title in respect of land that is to be transferred under subparagraph (1) shall on demand by the Registrar General therefor be surrendered to him by the person in possession thereof, to be dealt with under the provisions of the Real Property Ordinance as if upon a transfer of land under that Ordinance.
+(3) In the case of land that is not held under the Real Prop-erty Ordinance, the transfer of the land under subparagraph (1) shall be entered in the protocol of deeds upon production of proof to the satisfaction of the Registrar General that the requirements of paragraph 10 and the other provisions of this Schedule have been complied with.
+( 4) Any person who fails to comply with the requirements of subparagraph (2) is liable on summary conviction to a fine of fifteen hundred dollars, and in the case of a continuing offence to a further fine of three hundred dollars for each day during which the offence continues after conviction therefor.
+(5) Except as may be otherwise prescribed no fee is payable to the Registrar General for things done in his office under this paragraph.
+12. Notwithstanding anything in this Schedule to the contrary, the Authority after serving notice to treat and after serving on the owner, lessee or occupier of the land not less than fourteen days' notice, may enter on and take possession of the land or such part thereof as is specified in the notice, without previous consent, but subject to the payment of the like compensation for the land for which possession is taken and interest on the compensation as would have been payable if the provisions of this Schedule had been complied with.
+13. In every case not within the contemplation of paragraph 11, the completion of the purchase shall be governed by the terms of the contract in accordance with the ordinary law relating to sale and purchase of land; and the costs of conveyance, including the cost of deducing evidence of and verifying title and of furnish-ing abstracts and all other reasonable expenses incidental to the investigation of title shall be borne by the Authority.
+14. Nothing in this Schedule shall be deemed to prevent the acquisition of land by private treaty for the purposes of this Act either before the making or confirmation of the Order or before the service of notice to treat.
+PART HI
+General
+15. Anything required or authorised by this Schedule to be prescribed shall be prescribed by regulations made by the Minis-ter.
+16. (1) Where the person to be served has furnished an address for service, his proper address for the purposes aforesaid shall be the address furnished.
+(2) If the Minister having jurisdiction to confirm or make the order in connection with which the document is to be served is satisfied that reasonable inquiry has been made and that it is not practicable to ascertain the name or addresses of an owner, lessee or occupier of land on whom any such document as aforesaid is to be served, the document may be served by addressing it to him by the description of "owner", "lessee" or "occupier" of the land (describing it) to which it relates, and by delivering it to some person on the premises or, if there is no person on the premises to whom it may be delivered, by affixing it or a copy of it to some conspicuous part of the premises.
+- Margin: Section 71.
+- Margin: 2. The
+- Margin: scribed
+- Margin: it applies
+- Margin: thereof)
+- Margin: 3. The
+- Margin: Act shall
+- Margin: 4.
+- Margin: shall-
+- Margin: (
