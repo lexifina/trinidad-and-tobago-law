@@ -1,35 +1,44 @@
-0] NIDAl I TOB.I
-NARD r
-
+STANDARDS ACT
 CHAPTER 82:03
 Act
-38 of 1972 Amended by 29 of 1985
-Current Authorised Pa~e:s Pages Authori8ed ( inclusive) byL.R.O.
-1-39 111990
-L.A.v. ~ f 1990
-Index
-of
-Subsidiary Legislation
-Page Compulsory Standard Order (G.N. 17l/1977) 22 Standards Regulations (G.N. 35/1976) 23
-Subsidiary Legislation Omitted
-A. For the publication of standards as required by section 18(3) of the
-Act see the following:
-Government Notices 50, 51, 53, 54, 58, 62,63,188,189,209,211
-and 212/1977; 105, 109, 110, 195 and 196/1978; 88 and 178/1979.
-Legal Notices 85, 90, 102, 103, 125, 126, 127, 128, 129, 145,
-146, 149,150,167,171,172 and 177/1980; 47/1981; 22, 23, 40, and 46/1984; 98, 99, 100 and 140/1985. B. For notice of intention to make a compulsory standard under section
-19(3) see the following:
-Government Notices 159/1977; 131/1979; Legal Notices 109, 110/1980; 118/1985. C. For the notification of import inspection see the following:
-Legal Notice 48/1982 D. For the names of persons required to enter premises under sections
-26, and 27 see the following :
-Legal Notices 154 and 155/1981. E. For the list of names and addresses of manufacturers registered under
-TTS 21 10 500 Part 3-1976 see the following:
-Governm~D.t Notice 79/1979 &nd Legal Notice 111/198l.
-A ws NUN A.D ND OBAGO
-Standards Chap. --.03
-ST . Nj ARDS .ACT
-ARF . ~G~-lEI~T OF SECT~ONS
-SECTION
-L Short title.
-- Margin: WS
-- Margin: 3
+18 of 1997
+Index of Subsidiary Legislation
+Page Standards Regulations (LN 234/2004) ... 27
+Note on Omissions
+The various subsidiary legislation made under sections 16 and 18 have been omitted. (See the Current Edition of the Consolidated Index of Acts and Subsidiary Legislation for references to these Subsidiary Legislation).
+CHAPTER 82:03
+STANDARDS ACT
+ARRANGEMENT OF SECTIONS
+SECTIONS
+PART I
+PRELIMINARY
+1. Short title. 2. Interpretation.
+PART II
+ESTABLISHMENT OF THE BUREAU
+3. Establishment of the Bureau of Standards. 4. Management of the Bureau. 5. Personal liability of members. 6. Resignation of members. 7. Termination of appointment of members. 8. Names of members to be published in Gazette. 9. Meetings.
+10. Members to declare interest. 11. Custody and use of seal.
+PART III
+STAFF OF THE BUREAU
+12. Appointment and training of staff. 13. Secondment. 14. Transfer of officers.
+PART IV
+BUSINESS OF THE BUREAU
+15. Functions of the Bureau. 16. Bureau to declare a standard. 17. Power to designate test equipment. 18. Compulsory standard.
+ARRANGEMENT OF SECTIONS-Continued
+SECTIONS
+19. Standard marks. 20. Use of standard mark. 21. Restriction of use of word "standard". 22. Test or examination of quality. 23. Deficient goods. 24. Examination of imports. 25. Duties of inspectors where standards compulsory.
+PART V
+FINANCIAL PROVISIONS
+26. Funds and resources. 27. Power to borrow. 28. Application of funds. 29. Accounts of the Bureau. 30. Bureau a statutory authority. 31. Tax exemptions.
+PART VI
+MISCELLANEOUS
+32. Regulations. 33. Complaints. 34. Offences. 35. Evidence of standard. 36. Secrecy of information obtained. 37. Protection against claims.
+
+CHAPTER 82:03
+STANDARDS ACT
+An Act to provide for the preparation and promotion of
+standards in relation to goods, services, processes and practices by the establishment and operation of a Bureau of Standards, to define the powers and functions of the Bureau of Standards and for matters incidental thereto.
+[12TH AUGUST 1997]
+PART I
+PRELIMINARY
+- Margin: 18 of 1997.
+- Margin: Commencement.
