@@ -1,0 +1,9 @@
+# FORM 1
+FORM OF NOTICE WHERE THE
+APPELLANT IS A DEFENDANT
+REPUBLIC OF TRINIDAD AND TOBAGO. To A.B...
+Clerk of the ... Court. Take notice that I, E.F., aggrieved by a conviction (or order) of G.H., dated ... against me the said E.F. for having as therein alleged on the ...day of ... (here state briefly the conviction or order) do appeal against such conviction on the ground that I am not guilty.
+Dated this ... day of ..., 20...
+...
+E.F. (or his Attorney-at-law)
+- Margin: Section 130.

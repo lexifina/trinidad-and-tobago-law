@@ -1,0 +1,10 @@
+# FORM 2
+FORM OF NOTICE WHERE COURT REFUSES TO
+MAKE A CONVICTION OR ORDER
+REPUBLIC OF TRINIDAD AND TOBAGO. To A.B...
+Clerk of the ... Court.
+Take notice that I, C.D., aggrieved by the refusal of E.F. to make any conviction or order upon a certain complaint or information bearing date the ... day of ...wherein G.H. was charged with (set out substance of complaint) do appeal against such refusal to convict on the ground that the said E.F. refused to make a conviction or order.
+Dated this ... day of ..., 20...
+...
+C.D. (or his Attorney-at-law)
+- Margin: Section 130.
