@@ -1,5 +1,7 @@
-CHAPTER 136.
-FARMERS'- ADV AN'CES.
-AN ORDINANCE RELATING TO ADVANCES TO FARMERS.
-[27th November~ 1913.]
-- Margin: Orai-nan.ce 'No. 28 oj 1913,
+CHAPTER 23. No. 10.
+FARMERS ADVANCES .
+.AN ORDINANCE RELATING TO ADVANCES TO FARMERS.
+[27th November, 1913.]
+- Margin: " .,~'
+- Margin: Ordinance Cap. 136- , " 1925.
+- Margin: Commencement.
