@@ -1,6 +1,5 @@
 title.md
 s-1.md
-s-2.md
 s-3.md
 s-4.md
 s-5.md
@@ -28,5 +27,6 @@ s-26.md
 s-27.md
 s-28.md
 s-29.md
+s-30.md
 s-31.md
 sl-01/title.md
