@@ -1,0 +1,9 @@
+•
+
+CHAPTER 29. No.7.
+ADOPTION OF CHILDREN.
+AN ORDINANCE TO · MAKE PROVISION FOR THE ADOPTION
+OF CHILDREN.
+[13th J""'. 1947.]
+- Margin: Ordinances No. 31-19ol6. " 15-1948.
+- Margin: Commence- ment.
