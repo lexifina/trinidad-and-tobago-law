@@ -1,7 +1,6 @@
 # FORM 3
 STATEMENT OF OFFENCE
 Murder.
-Particulars of Offence
-A. E., on the ... day of ... , 19 ... , in the County of ... , murdered J. S.
-LAWS OF TmNIDAD AND TOBAGO
-- Margin: 111980
+PARTICULARS OF OFFENCE
+A.B. on the ... day of ..., 20..., in the County of
+..., murdered J.S.

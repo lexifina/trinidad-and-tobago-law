@@ -1,11 +1,13 @@
 # FORM 23
-First Count
+FIRST COUNT
 STATEMENT OF OFFENCE
 Arson, contrary to section 4 of the Malicious Damage Act.
-Particulars of Offence
-A. B., on the ... day of ... , 19 ... , in the County of ... , maliciously set fire to a dwelling-house, one F. G. being therein.
-Second Count
+PARTICULARS OF OFFENCE
+A.B., on the ... day of ..., 20...,
+in the County of ..., maliciously set fire to a dwelling house, one F.G. being therein.
+SECOND COUNT
 STATEMENT OF OFFENCE
-Arson, contrary to section 5 of the Malicious Damage Act.
-Particulars of Offence
-A. B., on the ... day of ... , 19 ... , in the County of ... maliciously set fire to a house with intent to injure or defraud.
+Arson, contrary to section 5 of the Malicious Damage Act
+PARTICULARS OF OFFENCE
+A.B., on the ... day of ..., 20...,
+in the County of ... maliciously set fire to a house with intent to injure or defraud.
