@@ -1,0 +1,10 @@
+ry:z.
+'
+
+CHAPTER 177.
+MARRIAGE.
+AN ORDINANCE RELATING TO THE SOI.El\!INIZATION AND
+REGISTRATION OF MARRIAGES.
+[1st January, 1924. J
+- Margin: --
+- Margin: Ordinance No. 13 of 1[>23.
