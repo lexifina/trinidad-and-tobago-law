@@ -1,0 +1,7 @@
+# FORM C
+'IN!UI'lUl' for Sale
+To ...
+I, ... Chairman of the ... [here insert name of Public Authority j, do hereby order you ... to sell or cause to be sold by public auction ... [here describe the place where the sale is to be carried out] on the ... day of ... , 19 ... , the several premises described in the list hereto attached and marked" A" in respect of which the sums set opposite the description of such premises are respectively due for · ... [here describe shortly the matter in respect of which the sums are due, e.g., "for house rates, 19 ... ," or "for water rates, 19 ... ," or "for stock and carriage charges for the quarter ended 31st October, 19 ... ," or "for cost of house sewers constructed! by the · ... "] and have been for more than three months in arrear and unpaid, save and except those of the said premises in respect whereof there shall have been paid to the · ... [here name the Public Authority 1 before the day of such sale the sums so due and payable, together with the statutory increase thereof, and the proportionate cost of public advertisement.
+Dated ... ,19 ...
+Chairman
+- Margin: Section 12.
