@@ -1,6 +1,7 @@
-CHAPTER 42. No.1.
-PUBLIO HOLIDAYS.
-AN ORDINANCE RELATING TO PUBLIC HOLIDAYS.
-[6th July, 1872.]
-- Margin: Ordinances Cap. 288- 1925. No. 16-1939.
-- Margin: Commencement.
+CHAPTER 42. No. L
+PUBLIC HOLIDAYS.
+AN ORDINANCE RELATING TO PUBLIC HOLIDAYS ..
+[6th July, 1872.J
+- Margin: i.
+- Margin: Ordinance Ch.42. No.1- 1940.
+- Margin: Commence- ment.
