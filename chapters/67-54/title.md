@@ -6,13 +6,13 @@ Act
 Amended by
 28 of 1922
 22 of 1939
-45of1951
+45 of 1951
 19 of 1954
 3 of 1974
-Index
-of
-Subsidiary Legislation
-Page Dogs Regulations (G. 11.12.1930) 12
-Note
-on
-Adaptation
+21 of 1990
+3 of 1994
+*32 of 2000
+*See Note on page 2
+Index of Subsidiary Legislation
+Page Dogs Regulations (G. 11.12.1930) ... 13
+Note on Adaptation
