@@ -1,0 +1,9 @@
+# APPENDIX A
+Petroleum Products Corresponding Products in Platt's
+Oilgram Price Service
+Diesel Oil … … … The equivalent of 85 per cent of
+45 Cetane gas oil (45-52 d.i.) and 15 per cent Bunker "C" Fuel. Domestic Gasoline … … … 83 Octane Regular. Domestic Kerosene … … … Either Dual Purpose Kerosene
+or Kerosene/Premium Kerosene, whichever carries a lower price quotation. Gas Oil ... 48-52 d.i. or Cetane. Industrial Kerosene … … … Either Dual Purpose Kerosene or
+Kerosene/Premium Kerosene, whichever carries a lower price quotation. Unleaded Premium
+Gasolene 95 RON … … Unleaded 95 Octane. Unleaded Super Gasolene 92 RON … Unleaded 92 Octane. Unleaded Regular
+Gasolene 83 RON … … Unleaded 83 Octane.
