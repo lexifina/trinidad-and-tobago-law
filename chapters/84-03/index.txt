@@ -16,3 +16,4 @@ s-14.md
 s-15.md
 first-schedule.md
 second-schedule.md
+third-schedule.md
