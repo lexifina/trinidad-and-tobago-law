@@ -1,3 +1,0 @@
-EXCHANGE CONTROL (BAILEES EXEMPTION) ORDER
-made under section 38
-- Margin: 21411971.

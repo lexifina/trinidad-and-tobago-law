@@ -1,2 +1,3 @@
-EXEMPTION) ORDER
-made under sections 7 and 38
+EXCHANGE CONTROL EXEMPTION ORDER
+made under section 38
+- Margin: 117/1972.

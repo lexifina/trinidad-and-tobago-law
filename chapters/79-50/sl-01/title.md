@@ -1,5 +1,5 @@
 SUBSIDIARY LEGISLATION
 EXCHANGE CONTROL (DESIGNATION OF
 ADMINISTRATOR) ORDER
-made under section 3 (1)
+made under section 3(1)
 - Margin: 209/1971.
