@@ -1,7 +1,7 @@
-CHAPTER 7. No.2.
-OOMMISSIONS OF ENQUIRY.
-AN ORDINANCE RELATING ,TO OOMMISSIONS OF ENQUIRY.
-[23rdJanua1'y, 1892.]
-- Margin: Cap. 282- 1925.
-- Margin: No. 27-1932.
-- Margin: COlllmencement.
+CHAPTER 7. 'No.2.
+COlVIlVIISSIONS OF ENOUIRY·. ,...;
+AN ORDINANCE RELATING TO COMMISSIONS OF
+ENQUIRY.
+[23rd ] anuarYJ 1892.]
+- Margin: 'Ordinance Ch. 7. No. 2- 1940.,
+- Margin: Commence- m,ent.
