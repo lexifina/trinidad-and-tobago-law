@@ -1,6 +1,6 @@
 # FOURTH SCHEDULE
 MATTERS TO BE PROVIDED FOR BY THE RULES OF AN
-ASSOOIATION REGISTERED UNDER THIS ACT
+ASSOCIATION REGISTERED UNDER THIS ACT
 1. The name of the Association and the place of meeting for its business.
 2. The whole of the objects for which the Association is to be established, the purposes for which its funds shall be applicable, and the conditions under which any member may become entitled to any benefit assured thereby, and the fines and forfeitures to be imposed on any member of the Association.
 3. The manner of making, altering, amending and rescinding rules.
