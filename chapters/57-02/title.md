@@ -1,8 +1,7 @@
--------------------------------------------------------
-
-CHAPTER 159.
+CHAPTER 27. No.6.
 CROWN GRANTS AND LEASES (RE-ISSUE).
 AN ORDINANCE RELATING TO GRANTS AND LEASES OF CROWN
 LAND WHICH HAVE BEEN LOST OR DESTROYED.
-[17th N overmber, 1904.]
-- Margin: <JJ:.i":un.{~
+[17th November, 190~.]
+- Margin: Ordinance Cap. 159- 1925.
+- Margin: Commencement.
