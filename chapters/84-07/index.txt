@@ -11,4 +11,5 @@ s-9.md
 s-10.md
 s-11.md
 s-12.md
+first-schedule.md
 second-schedule.md
