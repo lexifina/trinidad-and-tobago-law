@@ -1,0 +1,6 @@
+CHAPTER 32. No.8.
+EXCISE (GENERAL PROVISIONS).
+AN ORDINANOE RELATING , TO THE EXCISE REVENUES.
+[1st January, 1935.]
+- Margin: Ordinances No. 43-1934. " 15-1937.
+- Margin: Oommencement •.
