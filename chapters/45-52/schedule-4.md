@@ -1,0 +1,5 @@
+# SCHEDULE 4
+ENACTMENTS PROVIDING BENEFITS WHICH ARE NOT
+TO BE TREATED AS DEBTOR'S EARNINGS
+The National Insurance Act, Ch. 32:01. The Public Assistance Act, Ch. 32:03.
+- Margin: Section 2.
