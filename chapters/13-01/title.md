@@ -1,6 +1,15 @@
-CHAPTER 11. No.7.
-PRISONS.
-AN ORDINANCE RELATING TO PRISONS.
-[16th October, 1900.]
-- Margin: Ordinance. Ch.11. No. 7- 1940.
-- Margin: Commence- ment.
+PRISONS ACT
+
+CHAPTER 13 :01
+Act
+27 of 1900
+Amended by
+6 of 1908
+1700914
+46 of 1917
+28 of 1974
+10/1983
+L.R.D. 1/199()
+Note
+on
+Subsidiary Legislation
