@@ -1,13 +1,8 @@
-LAWS TRINIDAD AND TOBAGO
-... NAPTE.n. 00;10
+RECRUITING OF WORKERS ACT
+
+CHAPTER 88:10
 Act
 29 of 1938
-Curreat Authorisecl
-1-15 111980
-Index
-of
-Subsidiary Legislation
-Page Recruiting of Workers Regulations (Act 29 of 1938 (Schedule) 8
-Note
-on
-Adaptation
+Index of Subsidiary Legislation
+Page Recruiting of Workers Regulations [Act No. 29 of 1938 (Schedule)] … 9
+Note on Adaptation
