@@ -1,0 +1,11 @@
+--
+AGRIOULTURAL SOOIETY. [CAP. 130.
+
+CHAPTER 130.
+AGRICULTURAL SOCIETY.
+AN ORDINANCE RELATING TO THE AGRICULTURAl, SOCIETY.
+[2nd June, 1919. ]
+- Margin: p
+- Margin: ' ,:. ;.,
+- Margin: 1441
+- Margin: O;'dittanM No.1 011919.
