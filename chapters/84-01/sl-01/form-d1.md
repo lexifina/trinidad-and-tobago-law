@@ -1,0 +1,47 @@
+# FORM D1
+BALANCE SHEET OF (NAME OF COMPANY)
+AS AT (DATE)
+Motor All Other
+Long-Term
+Vehicle Classes of
+Insurance Total Liabilities
+Insurance Insurance
+Business
+Business Business
+$ $ $ $
+… … …
+Authorised ... share of $ ... each Issued and fully paid- ... share of $ ... each
+Share Premium Account… … Retained Profits … … Total Capital and Reserves … … Insurance Funds… … …
+Long-Term Funds-
+Ordinary Life … … Industrial Life … … Motor Vehicle … … Other classes (to be specified) … Claims admitted or intimated but not paid
+(to be specified) … … Premiums Paid in Advance… … Outstanding Commissions … … Amount due to reinsurers … … Bank Loans and Overdrafts… … Other liabilities (to be specified) …
+Total Liabilities Assets … 1. Fixed Assets:-
+Real Estate … … …
+… … …
+Total Fixed Assets … …
+On Mortgage… … … On Policies of the Company …
+… … …
+Total Loans … … [Subsidiary] Insurance Companies (Accounts and Forms) Regulations
+FORM D1-Continued
+BALANCE SHEET OF (NAME OF COMPANY)
+AS AT (DATE)
+Motor All Other
+Long-Term
+Vehicle Classes of
+Total Liabilities Insurance
+Insurance Insurance
+Business
+Business Business
+$ $ $ $
+3. Government Securities … … 4. Company Securities … …
+… … …
+6. Current Assets … …
+… … …
+Total Assets as Per Form D2 …
+Insurance Companies (Accounts and Forms) Regulations [Subsidiary]
+- Margin: Share Capital
+- Margin: Other
+- Margin: 2. Loans:-
+- Margin: Other
+- Margin: 5. Cash…
+- Margin: 7. Other
