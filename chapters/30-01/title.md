@@ -1,8 +1,10 @@
-j/ /:' ~ J ' I
+.Food and Drugs. ECho 12. No. -5 • ------------------------------------------------------------
 
-CHAPTER 107.
-FOOD AND DRUGS.
-AN ORDINANCE RELA'l'ING TO 'l'HE SALE AND THE ADULTERATION
-oF FooD AND DRuGs.
-[1st March, 19~7.]
-- Margin: {)fcttnan£:es
+CHAPTER 12. No.5.
+FOOD AND DRUGS •.
+AN ORDINANC.E RELA'l'ING TO THE SALE AND 'l'HE ADULTERNl'ION
+OF FOOD 'AND DRUGS.
+[1st March, 1917.]
+- Margin: 34:1
+- Margin: Ordinances Cap. 107- 1925. No. 10-1933. " 31-1933, s.77.
+- Margin: Commencement.
