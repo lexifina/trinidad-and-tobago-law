@@ -1,0 +1,13 @@
+# FORM B
+CLEAN-UP ORDER
+To:... of ...
+TAKE NOTICE that pursuant to section 16C of the Litter Act, Ch. 30:52 the premises situated at ... is considered to be unsightly by reason of litter thereon.
+You are hereby ordered to remedy the unsightly condition of the above premises by ...
+If the above requirements are not met within ... days of the service upon you of this order, the work may be done by government workers and the costs of the work done will be debt due to the State by you.
+This clean-up order may be reviewed by the Minister of Health if a written request for a review is made within 7 days of the date shown below to:
+Minister of Health,
+Ministry of Health, Sackville Street, Port of Spain
+Dated this ... day of ... 20...
+...
+Litter Prevention Warden
+- Margin: Section 16C.
