@@ -14,8 +14,11 @@ s-12.md
 s-13.md
 s-14.md
 s-15.md
+s-15A.md
 s-16.md
 s-17.md
+s-17A.md
+s-17B.md
 s-18.md
 s-19.md
 s-20.md
@@ -24,3 +27,4 @@ s-22.md
 s-23.md
 first-schedule.md
 second-schedule.md
+third-schedule.md
