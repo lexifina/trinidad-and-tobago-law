@@ -1,24 +1,12 @@
 # SIXTH SCHEDULE
-Assistant Conservators of Forests Forest Supervisors Forest Officers Wardens Assistant Wardens Officers, as follows:
-County of St. George Principal Ward Officer, Arima Ward Officer, San Rafael Ward Officer, St. Joseph and Tunapuna Ward Officer, Arouca-Caura Principal Ward Officer, Blanchisseuse Ward Officer, Brasso Seco Ward Officer, San Juan-Santa Cruz Ward Officer, St. Ann's-Maraval Ward Officer, Diego Martin-Mucurapo Ward Officer, Carenage-Chaguaramas
-Eastern Counties Ward Officer, Valencia Principal Ward Officer, Biche Ward Officer, Grande Riviere
-Counties of Victoria and St. Patrick Principal Ward Officer, Moruga Ward Officer, Siparia
-Ward of Tobago Ward Officer, Roxborough
+Assistant Conservators of Forests Forest Supervisors Forest Officers Wardens Assistant Wardens Ward Officers, as follows:
+*County of St. George
+The Principal Ward Officer, Arima The Ward Officer, San Rafael The Ward Officer, St. Joseph and Tunapuna The Ward Officer, Arouca-Caura The Principal Ward Officer, Blanchisseuse The Ward Officer, Brasso Seco The Ward Officer, San Juan-Santa Cruz The Ward Officer, St. Ann's-Maraval The Ward Officer, Diego Martin-Mucurapo The Ward Officer, Carenage-Chaguaramas
+*Eastern Counties
+The Ward Officer, Valencia The Principal Ward Officer, Biche The Ward Officer, Grande Riviere
+*Counties of Victoria and St. Patrick
+The Principal Ward Officer, Moruga The Ward Officer, Siparia
+*Ward of Tobago
+The Ward Officer, Roxborough
+*See Act No. 21 of 1990.
 - Margin: Section 23.
-- Margin: Ward
-- Margin: The
-- Margin: The
-- Margin: The
-- Margin: The
-- Margin: The
-- Margin: The
-- Margin: The
-- Margin: The
-- Margin: The
-- Margin: The
-- Margin: The
-- Margin: The
-- Margin: The
-- Margin: The
-- Margin: The
-- Margin: The
