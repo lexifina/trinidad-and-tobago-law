@@ -1,0 +1,28 @@
+# SECOND SCHEDULE
+TABLE 1 Regulation
+62(18)(a).
+ACCEPTED LEVELS OF TRACE METALS, PESTICIDES AND CHEMICALS FOR FISH AND FISHERY PRODUCTS
+(Food and Drugs Regulations and Fish and Fishery Products Regulations, 1998
+Food and Drugs Act, Chap. 30:01) The following lists the maximum permitted or guideline levels for the presence of Trace Metals, Pesticides and Chemicals in Fish and Fishery Products in Trinidad and Tobago:
+Metal Maximum Value
+(ppm)
+1. Lead ... 2.0 2. Copper ... 20.0 3. Zinc ... 50.0 4. Methyl Mercury
+(a) All Fish except predatory fish … … … 0.5
+(b) Predatory fish (such as shark, swordfish,tuna, pike and others) 1.0 Pesticides
+5. Insecticides ...
+Organo Chlorides ... Organo Phosphates ... 0.1 Carbamates ...
+6. Herbicides ... 0.5 7. PCB, PCT ... 0.5 Chemicals
+8. Sodium bisulphite-150 mg/kg sulphite for crustaceans … 9. Tripolyphosphate in flesh of frozen fish-5 g/kg … 10. The Total Volatile Basic Nitrogen-25-30 milligrams of
+Nitrogen/100 grams of flesh of fish depending on species type
+11. Histamine-100 ppm...
+TABLE 2 Regulation
+62(18)(1). The following is a list of microbiological tests and their respective maximum acceptable limits used for assessment of fish and fishery products for use for human consumption:
+Aerobic
+Faecal Staph V
+Product Plate Count Salmonella
+Cholerae* Coliforms aureus
+per g 5x105/g 1.0x103/g Fresh and frozen fish 10/g 0 0 1x106/g 1.0x103/g Fresh and frozen 10/g 0/g 0
+crustaceans
+l.0x105/g 1.0x103/g Smoked fish including 4/g 0/gg 0
+kippered herring
+5.0x105/g 1.0x103/g Frozen cooked crustaceans 10/g 0/g 0 [Subsidiary] Fish and Fishery Products Regulations
