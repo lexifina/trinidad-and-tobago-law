@@ -1,0 +1,3 @@
+EXCHANGE CONTROL EXEMPTION ORDER
+made under section 38
+- Margin: 117/1972.
