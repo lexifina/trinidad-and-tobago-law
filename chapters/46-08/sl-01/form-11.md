@@ -1,0 +1,26 @@
+# FORM 11
+REPUBLIC OF TRINIDAD AND TOBAGO County of ...
+FAMILY LAW (GUARDIANSHIP OF MINORS,
+DOMICILE AND MAINTENANCE) ACT
+ORDER TO ATTACH PENSION/INCOME
+IN THE MAGISTRATE'S COURT
+... Magisterial District
+WHEREAS an application has been made by ... of ... that by a maintenance order made at the ... Magistrate's Court held at ... on the ... day of ... 20 ... it was adjudged that ...
+*(a) failed to provide reasonable maintenance for the applicant; *(b) failed to provide or to make a proper contribution towards
+reasonable maintenance for a minor child/ ... minor children of his family; [Subsidiary] Maintenance Rules
+*(c) being the spouse of the applicant deserted the applicant; *(d) is the father of a minor child/ ... minor
+children of which ... is the mother,
+and ordered to pay the sum of $ ... per week/month to ... or to ... having the care of the minor child/ ... minor children for
+*(a) the maintenance of the applicant;
+*(b) the maintenance of the applicant and a minor child/ ...
+minor children of the family;
+*(c) the maintenance of a minor child/ ...
+minor children of which ... is the mother,
+and that he has made default under the order and there is now due thereunder the sum of ... being the amount of arrears for ... weeks/months payments and that there is payable to ... a certain pension (income) capable of being attached, namely ...
+After giving ...
+... an opportunity of being heard it is adjudged that the facts set out in the said application are true AND IT IS ORDERED that the sum of ... each week/month BE ATTACHED out of the pension (income) and paid to the Collecting Officer for the ... Magisterial District.
+Dated this ... day of ... 20 ...
+Signed ...
+... Magisterial District
+*Delete as appropriate.
+Maintenance Rules [Subsidiary]
