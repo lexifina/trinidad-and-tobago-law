@@ -1,11 +1,6 @@
-~~~S Ot~' ~Ol~i' -, ~~ ~e._ J~/4'l- T~
-~(1Lr'.,J~~ )~, tCf4~ ~<~ >-~/!lq¥"i u~ -p. ~~ " ' q.i.J../' 9~-1l ' ~t~.l4 ~ Iu.. ~mJ- 1-.1 CHAPTER 32. No.2.
-'~. OUSTOMS.
-AN ORDINANOE RELATING TO _OUSTOMS.
-[25th September, 1939.]
-- Margin: (...L.c.. ~,
-- Margin: it ~. a,.!t.
-- Margin: -<b. ~.
-- Margin: ~
-- Margin: Ordinances No. 22-1938. " 1-1939.
-- Margin: Commencement.
+:/1;3('6-), en/I.,) (in), ~?j 6 ~ (s'Ps); ,bbl~ \(51:4))
+':}'s/{;,,·~ (;:"~~:
+Ch. 32. No.2.J Customs.
+- Margin: "' '[1,''''- ~&"~
+- Margin: i~"/~J-(;J)
+- Margin: 4
