@@ -1,0 +1,276 @@
+# THIRD SCHEDULE
+ELECTORAL VEHICLES
+1. There shall be one electoral vehicle for every six hundred electors in each Parliamentary electoral district.
+2. (1) There shall be one electoral vehicle for every five hundred electors in an electoral district in each of the following Regional Municipalities:
+(a) Diego Martin;
+(b) San Juan/Laventille;
+(c) Tunapuna/Piarco;
+(d) Sangre Grande;
+(e) Mayaro/Rio Claro;
+(f) Couva/Tabaquite/Talparo;
+(g) Penal/Debe;
+(h) Princes Town;
+(i) Siparia.
+(2) There shall be one electoral vehicle for every four hundred electors in each Tobago House of Assembly electoral district.
+- Margin: (Section 38). [51 of 2000].
+- Margin: Citation.
+- Margin: Interpretation. [28 of 1976 221/2000].
+- Margin: Sub. Leg.
+- Margin: Ch. 15:01.
+- Margin: Ch. 15:03.
+- Margin: Sub. leg.
+- Margin: Registration area to be divided into polling divisions. [256/1988 221/2000].
+- Margin: Maps to be prepared.
+- Margin: Registration offices. [155/1972 72/1974].
+- Margin: Supply of registration records. [20 of 1976 241/1986 221/2000].
+- Margin: Manner of registration. [83/1968 221 of 2000].
+- Margin: House to house registration. [221/2000].
+- Margin: Allowance and disallowance of registrations. [241/1986 221/2000].
+- Margin: Sub. Leg. Form 8.
+- Margin: Colours and numbering of series of registration records. [221/2000].
+- Margin: Registration records and identification cards. [83/1968 20 of 1976 214/1986 221/2000]. Sub. Leg. Forms 10 and 11A.
+- Margin: Sub. Leg.
+- Margin: Information to be given by persons to be registered. [241/1986 221/2000].
+- Margin: Records to be read and signed. [221/2000].
+- Margin: Preparation of identification cards. [241/1986 221/2000].
+- Margin: Sub. Leg. Form 11A.
+- Margin: Rule 15 to apply mutatis mutandis to the delivery of identification cards. [241/1986 221/2000].
+- Margin: Person unable to read or write. [241/1986 221/2000].
+- Margin: List of questions. [221/2000].
+- Margin: Sub. Leg. Form 12.
+- Margin: Spoilt and disallowed registration records. [221/2000].
+- Margin: Acknowledgement of application for registration. [221/2000].
+- Margin: Sub. Leg. Form 13.
+- Margin: Correction of errors or omissions in the registration record. [20 of 1976 221/2000].
+- Margin: Correction of errors in names and dates of birth. [221/2000].
+- Margin: Documents to be safely kept. [241/1986 221/2000].
+- Margin: Delivery of documents by Assistant Registration Officer or an Authorised Registering Officer to Registration Officer. 221/2000].
+- Margin: Photograph and completion of registration. [46/1980 241/1986 221/2000].
+- Margin: Form 13.
+- Margin: Circumstances in which photographs other than official acceptable. [241/1986].
+- Margin: Exemption from taking of photograph. [241/1986 221/2000].
+- Margin: Sub. Leg.
+- Margin: Delivery of documents by Registration Officer to Chief Election Officer. [221/2000].
+- Margin: Completion of registration record and identification card by Chief Election Officer. [46/1980 221/2000].
+- Margin: Filing of registration records in unit registers. [83/1968 221/2000].
+- Margin: Arrangement of unit registers. [28 of 1976 241/1986 221/2000].
+- Margin: Filing of records in central register. [221/2000].
+- Margin: Arrangement of central register. [221/2000].
+- Margin: Delivery of identification cards. [241/1986 221/2000].
+- Margin: Objection to registration.
+- Margin: Sub. Leg. Form 15.
+- Margin: Application to Registration Officer for registration.
+- Margin: Sub. Leg. Form 16.
+- Margin: Review of registration by Registration Officer.
+- Margin: Enquiry by Registration Officer. [221/2000].
+- Margin: Sub. Leg. Form 17.
+- Margin: Sub. Leg. Form 18.
+- Margin: Check card.
+- Margin: Sub. Leg. Form 19.
+- Margin: Report of findings.
+- Margin: Action in case of discrepancies. [221/2000].
+- Margin: Sub. Leg. Form 20.
+- Margin: Report of result of enquiry. [221/2000].
+- Margin: Custody of check cards. [221/2000].
+- Margin: Cancellation of registration. [20 of 1976 [221/2000].
+- Margin: Sub. Leg. Form 21.
+- Margin: Disposal of disused registration records and identification cards. [221/2000].
+- Margin: Change of place of residence in registration area or polling division. [221/2000].
+- Margin: Sub. Leg. Form 22.
+- Margin: Change of place of residence from one registration area to another. [221/2000].
+- Margin: Change of name. [241/1986 221/2000].
+- Margin: Sub. Leg. Form 23.
+- Margin: Receipts for documents.
+- Margin: Replacement of lost, mutilated, inaccurate, etc., identification cards. [241/1986 221/2000].
+- Margin: Sub. Leg. Form 24.
+- Margin: Partial or total loss of registration records. [20 of 1976 221/2000].
+- Margin: Substitution of identification cards. [47/1969 *25/1975].
+- Margin: Annual list. [221/2000].
+- Margin: Sub. Leg. Form 25.
+- Margin: Sub. Leg. Form 26.
+- Margin: Electoral registration. [221/2000].
+- Margin: Office of Temporary Assistant Registration Officer.
+- Margin: Duties of Temporary Assistant Registration Officer.
+- Margin: Application of Part I.
+- Margin: Attendance of Scrutineer at registration. [241/1986 221/2000].
+- Margin: Preliminary list.
+- Margin: Spoilt photographs.
+- Margin: Copy of notice of electoral registration to be posted in polling division.
+- Margin: Sub. Leg. Form 27.
+- Margin: Application for registration by person not on preliminary list. [128/1976].
+- Margin: Application by elector omitted from preliminary list. [128/1976].
+- Margin: Sub. Leg. Form 28.
+- Margin: Change of place of residence and of name. [128/1976].
+- Margin: Preparation of revised list. [67/1971 20 of 1976].
+- Margin: Sub. Leg. Form 29. Form 30.
+- Margin: Objection to registration.
+- Margin: Changes in revised lists. [144/1981].
+- Margin: Supplemental List. [144/1981].
+- Margin: Sub. Leg. Form 29A.
+- Margin: Division of unit register. [221/2000].
+- Margin: Manner of determining residence.
+- Margin: Sub. Leg. Form 31.
+- Margin: Forms to be supplied free of cost.
+- Margin: Sub. Leg. Form 32.
+- Margin: Supply of copies of notices and lists of electors.
+- Margin: Mode of sending documents to Registration Officer.
+- Margin: Declarations as to age and nationality. [20 of 1976 221/2000].
+- Margin: Interpreter. [221/2000].
+- Margin: Sub. Leg. Form 33.
+- Margin: Enquiries by Commission as to address of registered person. Sub. Leg. Form 34.
+- Margin: Checks by Commission.
+- Margin: Delivery of unit register to Commission.
+- Margin: Delivery of documents to police. [221/2000].
+- Margin: Remuneration and allowances.
+- Margin: Offences and penalties. [221/2000].
+- Margin: Citation.
+- Margin: Interpretation. [20 of 1976 28 of 1976 240/1986 220/2000].
+- Margin: Sub. Leg.
+- Margin: Returning Officer to establish office. [20 of 1976 220/2000].
+- Margin: Election notice. [240/1986].
+- Margin: Sub. Leg. Form 35.
+- Margin: Chief Election Officer to supply Returning Officers with copies of the list of electors.
+- Margin: Duty of Returning Officers to decide on nomination documents, and appeal to a Judge against such decision. [131/1992 220/2000].
+- Margin: Sub. Leg. Form 36.
+- Margin: Nomination of candidates. [240/1986].
+- Margin: Sub. Leg. Forms 37 and 38.
+- Margin: Sub. Leg. Forms 37 and 38.
+- Margin: Statutory declaration of qualifications.
+- Margin: Sub. Leg. Forms 39, 40, 41, 42, 43, 44.
+- Margin: Deposit. [51/1980 220/2000].
+- Margin: Right to attend nomination proceedings.
+- Margin: Decisions as to validity of nomination papers.
+- Margin: Returning Officer to post copy of nomination papers.
+- Margin: Transmission, return and forfeiture of deposit.
+- Margin: Withdrawal of candidature. [20 of 1976 220/2000].
+- Margin: Method of election. [20 of 1976].
+- Margin: Sub. Leg. Form 45.
+- Margin: Notice of taking of poll. [220/2000].
+- Margin: Sub. Leg. Form 46.
+- Margin: Death of candidate.
+- Margin: Manner of voting. [20 of 1976].
+- Margin: Provision of polling station. [20 of 1976 240/1986].
+- Margin: Ballot boxes. [20 of 1976 240/1986].
+- Margin: Custody of ballot boxes. [20 of 1976].
+- Margin: Ballot papers. [70/1971 20 of 1976].
+- Margin: Sub. Leg. Form 47.
+- Margin: Symbols. [70/1971 20 of 1976 240/1986 220/2000]. Schedule.
+- Margin: Schedule.
+- Margin: Delivery of unit registers of electors to Returning Officers. [20 of 1976].
+- Margin: Printing and distribution of revised lists of electors.
+- Margin: Equipment of polling station. [20 of 1976 220/2000].
+- Margin: Sub. Leg. Form 48.
+- Margin: Hours of poll.
+- Margin: Employees' time off for voting.
+- Margin: Returning Officer or Poll Clerk may preside at polling station. [20 of 1976].
+- Margin: Polling Agent and Special Polling Agent. [240/1986].
+- Margin: Sub. Leg. Form 49. Form 50.
+- Margin: Declaration of secrecy. [20 of 1976 43/1988]. Sub. Leg. Form 51.
+- Margin: Admission to polling station. [20 of 1976 43/1988 220/2000].
+- Margin: Arrangement of polling station. [70/1971 20 of 1976 220/2000].
+- Margin: Arrival at polling station of Presiding Officer, etc. [70/1971 20 of 1976 220/2000].
+- Margin: Duties of Presiding Officer before opening of poll. [70/1971 20 of 1976 48/1977 220/2000].
+- Margin: Entitlement to vote. [70/1971 20 of 1976 153/1981 220 of 2000].
+- Margin: Keeping order in the polling station. [220/2000].
+- Margin: Duties of a Poll Clerk. [79/1968 20 of 1976 48/1977 153/1991 203/1998 220/2000].
+- Margin: Sub. Leg. Form 52.
+- Margin: Sub. Leg. Form 53.
+- Margin: Poll cards issued to prospective voters. [153/1991].
+- Margin: Duties of Presiding Officer. [20 of 1976 48/1977 115/1992 220/2000].
+- Margin: Sub. Leg. Form 54.
+- Margin: Additional duties of Presiding Officer where different Municipal Council elections held same day.
+- Margin: Procedure for elector whose name is not on revised list. [20 of 1976 220/2000].
+- Margin: Sub. Leg. Form 54.
+- Margin: Procedure where elector's registration record is not in unit register. [26 of 1976 220/2000]. Sub. Leg. Forms 55, 56 and 57.
+- Margin: Guidance ballot. [20 of 1976 220/2000].
+- Margin: Secrecy of ballot. [20 of 1976].
+- Margin: Manner of voting. [20 of 1976 220/2000].
+- Margin: Elector to vote with despatch. [20 of 1976].
+- Margin: Voting by an incapacitated elector. [203/1998 220/2000].
+- Margin: Sub. Leg. Forms 58 and 59.
+- Margin: Declaration by incapacitated elector's companion. [20 of 1976 203/1998]. Sub. Leg. Form 60.
+- Margin: Mode of voting in special cases. [20 of 1976 220/2000].
+- Margin: Sub. Leg. Form 61.
+- Margin: Sub. Leg Form 54.
+- Margin: Form 55.
+- Margin: Sub. Leg. Form 54.
+- Margin: Questions to be put to electors. [220/2000].
+- Margin: Sub. Leg. Form 62.
+- Margin: Sub. Leg. Form 54.
+- Margin: Challenge of elector.
+- Margin: Interpreter.
+- Margin: Sub. Leg. Form 63.
+- Margin: Polling station diary. [20 of 1976 220/2000].
+- Margin: Spoiled ballots. [20 of 1976].
+- Margin: Suspension or adjournment of poll. [20 of 1976].
+- Margin: Closing of poll. [20 of 1976].
+- Margin: Procedure at closing of poll. [20 of 1976 220/2000].
+- Margin: Special elector. [20 of 1976 28 of 1976 240/1986 43/1988 220/2000].
+- Margin: Ch. 15:03.
+- Margin: Ch. 15:02.
+- Margin: Ch. 13:01.
+- Margin: Voting by special elector. [28 of 1976].
+- Margin: Voting on polling day. [28 of 1976].
+- Margin: Determination of right to be treated as special elector. [28 of 1976 126/1976 115/1992].
+- Margin: Record and list of special electors. [28 of 1976 220/2000].
+- Margin: Sub. Leg. Form 64.
+- Margin: Register of special electors. [28 of 1976 220/2000].
+- Margin: Supply of election material to Returning Officer. [28 of 1976 240/1986].
+- Margin: Ballot papers for special electors. [28 of 1976 240/1986].
+- Margin: Persons entitled to be present at issue of ballot papers. [20 of 1976 28 of 1976 240/1986 43/1988].
+- Margin: Declaration of secrecy. [20 of 1976 28 of 1976 240/1986 43/1988]. Sub. Leg. Form 66.
+- Margin: Marking of ballot paper. [20 of 1976 28 of 1976 240/1986].
+- Margin: Refusal to issue ballot paper to special elector. [28 of 1976].
+- Margin: Covering envelope. [28 of 1976 122/ 1976 240/1986]. Sub. Leg. Form 67.
+- Margin: Delivery of ballot papers for special electors to the office of the Chief Election Officer. [28 of 1976 115 of 1992].
+- Margin: Special polling stations. [28 of 1976 240/1986 220/2000].
+- Margin: Sealing up of list of special electors. [28 of 1976 240/1986].
+- Margin: Hours of special polling station. [28 of 1976 220/2000].
+- Margin: Establishment of additional special polling station. [28 of 1976].
+- Margin: Times of opening of special polling stations. [28 of 1976].
+- Margin: Minimum duration of poll. [28 of 1976 138/1976 220/2000].
+- Margin: Presiding Officers. [28 of 1976].
+- Margin: Supervision by Returning Officer. [28 of 1976].
+- Margin: Duties of employers and persons in charge of certain institutions. [28 of 1976].
+- Margin: Procedure on special voting. [28 of 1976 122/1976 240/1986 220/2000].
+- Margin: Voting by physically incapacitated special electors. [122/1976].
+- Margin: Sub. Leg. Form 51.
+- Margin: Procedure after the close of the special polling station. [28 of 1976 220/2000].
+- Margin: Transmission of special ballots to the appropriate Returning Officer. [28 of 1976 240/1986].
+- Margin: Receipt of special envelope. [28 of 1976].
+- Margin: Closure of special polling stations. [28 of 1976 240 of 1986 220/2000].
+- Margin: Special ballot box to be delivered to Presiding Officer. [20 of 1976 28 of 1976 240/1986 220/2000]. Sub. Leg. Form 70A.
+- Margin: Examination of special ballot box. [28 of 1976 240/1986].
+- Margin: Receipt to be given by Presiding Officer. [240/1986].
+- Margin: Items to be delivered by Returning Officer. [240/1986].
+- Margin: Opening of special ballot box. [240/1986].
+- Margin: Procedure on receipt of special ballots. [20 of 1976 28 of 1976 122/1976 240/1986].
+- Margin: Sealing up list of special electors and rejected ballot papers of special electors and declarations of identity. [20 of 1976 28 of 1976 220/2000].
+- Margin: Station diary record of events. [28 of 1976 240/1986].
+- Margin: Reopening of special ballot boxes. [28 of 1976 240/1986].
+- Margin: Procedure by Presiding Officer after closing of poll. [20 of 1976 220/2000].
+- Margin: Sub. Leg. Form 69.
+- Margin: Sub. Leg. Form 69.
+- Margin: Sub. Leg. Form 70.
+- Margin: Loss, etc., of ballot box. [20 of 1976].
+- Margin: Police assistants. [28 of 1976 220/2000].
+- Margin: Preliminary count. [20 of 1976 240/1986].
+- Margin: Ascertainment of number of votes given for each candidate. [20 of 1976 122/1976 240 /1986 220/2000].
+- Margin: Ballot not invalidated by mark of Presiding Officer, etc. [20 of 1976].
+- Margin: Equality of votes. [20 of 1976].
+- Margin: Declaration of the result of the poll.
+- Margin: Return of unit register of electors. [28 of 1976].
+- Margin: Checking of results of poll. [20 of 1976 43/1988].
+- Margin: Appointment of counting agent. [20 of 1976].
+- Margin: Sub. Leg. Form 71.
+- Margin: Election return. [20 of 1976 48/1977 240/1986 220/2000].
+- Margin: Sub. Leg. Form 72.
+- Margin: Custody of election documents by Commission.
+- Margin: Remuneration of Returning Officers, etc. [20 of 1976].
+- Margin: Cost of supplying election documents.
+- Margin: Remuneration, etc., of witnesses. [45 of 1979 220/2000].
+- Margin: 41/1967.
+- Margin: Citation.
+- Margin: Interpretation. [37 of 1980 222/2000].
+- Margin: Regional Corporaton includes the House of Assembly.
+- Margin: Prescribed forms. Schedule.
