@@ -1,0 +1,2 @@
+# 4A. Owner of motor vehicle deemed to be employer of driver. [38 of 1996].
+Notwithstanding any other law, the owner of a motor vehicle licensed to ply for hire and insured under this Act is deemed to be the employer of any person driving the motor vehicle at the time of an accident as a result of which a person has suffered death, bodily injury or damage to property unless it is shown that at the time of the accident that the vehicle was the subject of larceny.
