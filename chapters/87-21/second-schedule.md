@@ -1,0 +1,3 @@
+# SECOND SCHEDULE
+Name Relevant Posts Lucille Davis … … … Clerk Stenographer I Patricia Dyer … … … Tourism Promotion Officer I Victor Phillip … … … Photo Lab Technician I Cherryl Miller … … … Clerk Typist I Avis Hackett … … … Tourist Receptionist I Debra Forde … … … do. Basdaye Jordon-Singh … … Tourism Development Officer I Aloma Scott-Burgin … … Clerk Stenographer II Donna Osborne … … … Clerk I Cheryl Thomas … … … Clerk Typist I Grafton France … … … Watchman Celestine David … … … Tourism Development Officer I Elson Gordon … … … Handyman Shirley Barton … … … Cleaner I Bernadette Nathaniel … … Tourism Promotions Officer I Donna Alexander … … … Office Attendant
+- Margin: (Section 11).
