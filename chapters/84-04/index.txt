@@ -26,5 +26,8 @@ s-24.md
 s-25.md
 s-26.md
 s-27.md
-form-b.md
-form-c.md
+schedule.md
+sl-01/title.md
+sl-01/r-1.md
+sl-01/r-2.md
+sl-01/schedule.md
