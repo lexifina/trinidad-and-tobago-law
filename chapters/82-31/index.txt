@@ -66,6 +66,7 @@ s-64.md
 s-65.md
 s-66.md
 s-67.md
+s-68.md
 s-69.md
 s-70.md
 s-71.md
@@ -74,8 +75,10 @@ s-73.md
 s-74.md
 s-75.md
 s-76.md
+s-77.md
 s-78.md
 s-79.md
+s-80.md
 s-81.md
 s-82.md
 s-83.md
