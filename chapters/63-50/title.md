@@ -1,6 +1,7 @@
-CHAPTER 23. No.6 .
-. AGRIOULTURAL OONTRAOTS.
-AN ORDINANCE RELATING TO AGRICULTURAL OONTRACTS.
-[l8th June, 1925.]
-- Margin: Ordinance Cap. 134- 1925.
-- Margin: Commencement.
+CHAPTER 23. No.6.
+AGRICULTURAL CONTRACTS.
+AN ORDINANCE RELATING TO AGRiCULTURAL·CONTRACTS.
+[18th June, 1925.J
+.f
+- Margin: Ordinance Ch.23. No.6- 1940.
+- Margin: Commence- ment .
