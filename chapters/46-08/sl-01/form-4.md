@@ -1,23 +1,42 @@
 # FORM 4
 REPUBLIC OF TRINIDAD AND TOBAGO
 County of ...
-FAMILY LAW (GUARDIANSHIP OF MINORS, DOMICILE AND
-MAINTENANCE) ACT
+FAMILY LAW (GUARDIANSHIP OF MINORS,
+DOMICILE AND MAINTENANCE) ACT
 MAINTENANCE CARD
-No ...••...••.•.•
-IN THE ~TTER OF
+No...
+IN THE MATTER OF
+...
 versus
-Order made by his Worship Mr ...
-Magistrate of the ... Court on ...
-... for the payment of ...
+...
+Order made by His Worship Mr...
+Magistrate of the ... Court on ... for the payment of ...
+...
 Specimen Signature of Payee
 DEPOSIT WITH MAGISTRATE
-Date to which Date of
-Date Receipt No. Amount Settlement payment. out
-$ c. is made of Court
-- Margin: .
-- Margin: .
-- Margin: .
-- Margin: ...
-- Margin: OJ' C;) 0- i~
-- Margin: ! ...
+Amount Date to which Date of payment Date Receipt No.
+Settlement is out of Court $ c.
+made
+Maintenance Rules [Subsidiary]
+C.
+AMOUNT
+PAID
+$
+FAMILY LAW (GUARDIANSHIP OF MINORS, DOMICILE AND MAINTENANCE) ACT
+COMPLAINANT
+PAYMENT TO
+DATE OF
+C. DEPOSITED
+AMOUNT
+$
+DEPOSIT REGISTER
+COUNTY OF ...
+DEFENDANT
+NAME OF FORM 5
+COMPLAINANT
+NAME OF
+REPUBLIC OF TRINIDAD AND TOBAGO
+CARD NUMBER MAINTENANCE
+COUNTERFOIL
+NUMBER RECEIPT
+RECEIPT DATE OF [Subsidiary] Maintenance Rules

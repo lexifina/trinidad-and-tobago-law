@@ -1,31 +1,12 @@
 SUBSIDIARY LEGISLATION
 MAINTENANCE RULES
-ARRANGEMENT OF RULES
-Citation. Interpretation.
-Collecting Officer to notify person required to make payment.
-Accounting records to be kept by Collecting Officer.
-Entries. Issue of receipt by Collecting Officer.
-Payee to sign receipt. Lodgment of unclaimed deposits. Copy of order of attachment to payer of pension. Application for warrant for arrears.
-Refund of moneys lodged with Comptroller of Accounts
-District Revenue Office.
-Forms. SCHEDULE
-Family Law (Guardianship of Minors,
-Maintenance Rules
+ARRANGEMENT OF RULES RULE
+1. Citation and commencement. 2. Interpretation. 3. Collecting Officer to notify person required to make payment. 4. Accounting records to be kept by Collecting Officer. 5. Entries. 6. Issue of receipt by Collecting Officer. 7. Payee to sign receipt. 8. Lodgment of unclaimed deposits. 9. Copy of order of attachment to payer of pension.
+10. Application for warrant for arrears. 11. Refund of moneys lodged with Comptroller of Accounts or District
+Revenue Office.
+12. Forms.
+SCHEDULE.
+[Subsidiary]
 MAINTENANCE RULES
 made under section 51
-- Margin: RULE
-- Margin: I .
-- Margin: 2.
-- Margin: 3.
-- Margin: 4.
-- Margin: 5.
-- Margin: 6.
-- Margin: 7.
-- Margin: 8.
-- Margin: 9.
-- Margin: 10.
-- Margin: or 11.
-- Margin: 12.
-- Margin: L.R.D. 1/1990
-- Margin: [Subsidiary]
-- Margin: 89/1983
+- Margin: 89/1983.

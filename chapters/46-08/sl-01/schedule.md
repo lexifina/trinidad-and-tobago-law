@@ -1,2 +1,2 @@
 # SCHEDULE
-Rule 12
+- Margin: Rule 12.
