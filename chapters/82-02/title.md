@@ -1,6 +1,6 @@
-- -- -~.- ... -. -. ::--:.
-CHAP'rER 183.
+CHAPTER 31. No.4.
 MERCANTILE LAW.
-AN ORDINANCE RELATING TO ~1ERCANTILE LAw.
+AN ORDINANCE RELATING TO MERCANTILE LAW.
 [26th January, 1845.]
-- Margin: 0 rd·i·nances No. 81, " 8!1, .c:s. 2, 4, t~' s. 7,
+- Margin: Ordinances Cap. 183- 1925. No. 18-1939, s. 90.
+- Margin: Commencement.
