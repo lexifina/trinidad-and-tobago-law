@@ -1,0 +1,10 @@
+# FORM A
+APPROXIMATE RUNNING TIME ... MINUTES FOOTAGE
+NO. OF REELS
+DATE ..., 20...
+PHONO OR
+SILENT
+NO. OF PRINTS
+TITLE OF FILM
+Cinematograph Regulations
+- Margin: [Subsidiary]
