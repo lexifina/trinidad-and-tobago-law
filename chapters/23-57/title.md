@@ -1,11 +1,59 @@
---------_ .. - -
+(;,dArTh.d 4,,:57
+Act
+22 of --34
+*Amended by
+30 of 1943
+17 of 1944
+10 of 1945
+50 of 1946
+2 of 1950
+17 of 1951
+t38 of 1952
+12 of 1960
+34 of 1961
+36 of 1961
+33 of 1966
+20 of 1977
+Schedule by subsidiary legislation see the Schedule.
+("'-u('-1 .f ,tlr-Tis,-1 P-1e§
+1-23 111980
+Index
+of
+Subsidiary Legislation
+(22 of 1934, G.N. 235/1971)
+Note
+on
+Subsidiary Legislation
+under this Act has been referred to in
+CHAPTER 23:57
+PROVIDENT FUND ACT
+ARRANGEMENT OF SECTIONS
+SECTION
+1. Short title. 2. Interpretation. 3. Service. 4. Establishment of Fund. 5. Charge on Consolidated Fund. 6. Gratuities and bonuses not of right.
+Certificates required as to conduct, etc.
+7. Age of retirement. 8. Compulsory retirement. 9. Contributions to the fund-Rate of.
+Depositor seconded for service. Date of payment. Special account.
+10. Non-forfeiture of compulsory deposit. 11. Amounts not assignable or attachable. 12. Depositors to forfeit rights under Pensions laws. 13. Employees to become depositors. 14. Validation of retroactive effect of amendments to Schedule. 15. Pensionable office declared no longer pensionable. 16. Rights of office holders under Cap. 83 (1925 Ed.). 17. Transfer from a pensionable office. 18. Transfer from a non-pensionable office. 19. Transfer to a pensionable office. 20. Cessation of contributions. 21. Bonus addition. 22. Gratuities. 23. Life assurance. 24. Selection of insurance company. 25. Application of bonus. 26. Disposal of policy at maturity. 27. Disposal of proceeds of policy at death. 28. Assignment of policy for deposits to the depositor before
+maturity.
+29. Disposal of policy for bonuses before maturity. 30. Provisions where depositor is transferred to a pensionable
+office.
+31. Interest. 32. Appointments. 33. Investme.nts. 34. Salaries and expenses. SECTION
+35. Forfeitures. 36. Advances. 37. Accounts to the Fund. 38. Audit. 39. Regulations. 40. Depositor transferred to service of former Central Water Dis-
+tribution Authority permitted to continue to be a depositor.
+41. Provision for payment of pensions to dependants of deceased
+depositor after dying while in the service of the Government.
+SCHEDULE.
 
-CHAPTER 9. No.9.
-PROVIDENT FUND.
-AN ORDINANCE TO ESTABLISH A PROVIDENT FUND FOR
-CERTAIN EMPLOYEES IN THE GOVERNMENT SERVICE.
-[1st August, 1934.J
-- Margin: -
-- Margin: Ordinances. Ch.9. No. 9- 1940. No. 30-1943. ., 17-1944.
-- Margin: ., 10-1945 . ., 50-1946. 2-1950.
-- Margin: Commence~ ment.
+CHAPTER 23:57
+PROVIDENT FUND ACT
+An Act to establish a Provident Fund for certain employees in the
+Government Service.
+[1ST AUGUST 1934]
+- Margin: "For the amendments to the
+- Margin: tNot in operation.
+- Margin: Page 22 Provident Fund Regulations
+- Margin: Other subsidiary legislation made the Schedule to this Act.
+- Margin: (
+- Margin: 1950 Ed. Ch. 9 No.9.
+- Margin: 14 of 1934.
+- Margin: Commencement.
