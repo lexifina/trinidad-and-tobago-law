@@ -1,7 +1,18 @@
-CHAPTER 41. No. 1.
-BOY SCOUTS ASSOCIATION.
-AN ORDINANCE RELATING TO THE BOY SCOUTS
-ASSOCIATION.
-[31st May, 1920.J
-- Margin: Ordinance Ch.41. No.l- 1940.
-- Margin: Commence- ment.
+l'R1NIDAD AND
+SCOUTS ASSOCIATION
+CHAPTER 40:70
+Act
+22 of 1920
+Curreat Audlori8ed
+1-4 111980
+Note
+on
+Subsidiary Legislation
+This Chapter contains no subsidiary legislation.
+Boy Scouts Association lip. 40:7
+
+CHAPTER 40:70
+BO LJTS AS· TION j
+ARNANGEMENT OF SECTIONS
+SECTION
+- Margin: 3
