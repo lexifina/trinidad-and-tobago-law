@@ -1,7 +1,7 @@
 CHAPTER 18. No.6.
-MOTOR LAUNCHES. -
-AN ORDINANCE TO PROVIDE FOR THE REGULATION OF MOTOR
-LAUNCHES.
-[1st July, 1927.]
-- Margin: Ordinance No. 21-1926.
-- Margin: Commencement.
+MOTOR LAUNCHES.
+AN ORDINANCE TO PROVIDE FOR THE REGULATION OF
+MOTOR LAUNCHES.
+[1st July, 1927.J
+- Margin: Ordinances. Ch.18. No.6. 1940. No. 1-1944. " 31-1950.
+- Margin: Commence~ ment.
