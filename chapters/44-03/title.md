@@ -1,9 +1,8 @@
-CHAPTER 12. No. i5.
-.', f
-NOTIFIOATION OF BIRTHS.
-AN ORDINANCE TO PROVIDE FOR THE EARLY NOTIFICATION OF
-BIRTHS.
+CHAPTER 12. No. 17.
+NOTIFICATION OF BIRTHS.
+AN ORDINANCE TO PROVIDE FOR THE EARLY NOTIFICATION
+OF B-RTHS 1 .
 [28th December, 1916.J
-- Margin: Ordinance Cap. 106-
-- Margin: 1925.
-- Margin: CommOllcement.
+- Margin: Ordinance.
+- Margin: Ch. 12. No. 15-1940.
+- Margin: Commence- ment.
