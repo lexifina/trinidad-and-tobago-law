@@ -1,6 +1,12 @@
-CHAPTER 15.
+Riot. .[Ch. . 4. No.7. .
+\, "
+
+CHAPTER 4. No.7.
 RIOT.
-AN ORDINANCE RELATING TO RIOTS AND UNLAWFUL .AND
-TuMULTuous AssEMBLIES.
-[22nd July, 1844. J
-- Margin: Ordi1wnce No. 19.
+AN ORDINANCE RELATING rro' RIOTS AND UNLAWFUL AND
+TUMULTUOUS ASSEMBLIES.
+. [22nd July, 1844,]
+- Margin: a19
+- Margin: Ordinances
+- Margin: Cap. 15-1925. No. 14-1939, s.1O •
+- Margin: Oommencement.
