@@ -1,12 +1,10 @@
 # ANNEX
-MEMBERSHIP
-Membership of the Corporation shall be open to:
+MEMBERSHIP Membership of the Corporation shall be open to:
 (i) Antigua
 (ii) Barbados
 (iii) Belize
 (iv) Dominica
 (v) Grenada
-,
 (vi) Guyana
 (vii) Jamaica
 (viii) Montserrat
