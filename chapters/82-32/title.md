@@ -1,0 +1,6 @@
+CHAPTER 185.
+BILLS OF SALE.
+AN ORDINANCE RELATING TO BILLS' OF SALE.
+[18th June, 1925.]
+- Margin: --
+- Margin: Oniinance No. 33 of 1925.
