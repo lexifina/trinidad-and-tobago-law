@@ -16,6 +16,7 @@ s-14.md
 s-15.md
 s-16.md
 s-17.md
+s-18.md
 s-19.md
 s-20.md
 s-21.md
@@ -25,8 +26,3 @@ schedule.md
 sl-01/title.md
 sl-01/r-1.md
 sl-01/r-2.md
-sl-01/r-3.md
-sl-02/title.md
-sl-02/r-1.md
-sl-02/r-2.md
-sl-02/r-3.md
