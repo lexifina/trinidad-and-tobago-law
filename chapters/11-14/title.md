@@ -1,10 +1,7 @@
-.-'--~---'---~-----
-
 CHAPTER 4. No. 15.
 PERJURY.
-AN ORDINANOE RELATING TO PERJURY AND KINDRED OFFENOES.
-[6th ]1 ay, 1925.]
-- Margin: ----
-- Margin: Ordinances. Oap. 14-1925.
-- Margin: Ord. 14-1939, s.9.
-- Margin: Oommencement.
+AN ORDINANCE RELATING TO PERJURY AND ~INDRED
+OFFENCES.
+[6th May, 1925.J
+- Margin: Ordinance Ch. 4. No. 15- 1940.
+- Margin: Commel.1Ce- ' ,ment.
