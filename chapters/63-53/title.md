@@ -1,11 +1,7 @@
-Exportation of Fru'it. ECho 32. No.6. --.,,----,-~---------' -----,---,-..,.,...----------
-
-CHAPTER 32. No.6"
+CHAPTER 32. No.6.
 EXPORTATION OF FRUIT.
-AN ORDINANOE RELATING TO THE EXPORTATION OF FRUIT.
-[lst December, 1931.]
-- Margin: F~'~
-- Margin: ~:.'- ~.
-- Margin: 70~
-- Margin: Ordinance No. 2B-1931.
-- Margin: Commencement.
+AN ORDINANCE RELATING TO THE EXPORTATION OF
+FRUIT.
+[1st December, 1931.J
+- Margin: Ordinance Ch.32. No. 6- 1940.
+- Margin: Commence- ment.
