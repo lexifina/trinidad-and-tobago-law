@@ -1,14 +1,38 @@
-:~ Y-7'71" 'I-'~; . ..; /I
-J"f .:i/.; ., i ': (;~. J ".' "-t(--<,c:. t: <
+PENSIONS ACf
 
-CHAPTER 9. No.6.
-PENSIONS.
-AK ORDINANCE TO REGULATE PENSIONS, GRATUITIES AND
-OTHER ALLOWANCES TO BE GRANTED IN RESPECT OF
-THE PUBLIC SERVICE OF OFFICERS IN THE COLONY.
-[1st A'VIgust, 1934.1
-- Margin: z
-- Margin: Ordinances. Chig.j.to.6-
-- Margin: No. 33-19+3.
-- Margin: ,,8-19#. " 55-1946. " 17-1950. " 28-1950.
-- Margin: Commence- ment.
+CHAPTER 13:52
+Ad
+16 of 1934
+Amended by
+21 of 1938
+16 of 1940
+33 of 1943
+8 of 1944
+55 of 1946
+17 of 1950
+28 of 1950
+10 of 1952
+1 of 1953
+1 of 1954
+5 of 1955
+20 of 1955
+39 of 1955
+43 of 1956
+14 of 1958
+37 of 1961
+16 of 1962
+9 of 1968
+37 of 1968
+38 of 1973
+32 of 1974
+44 of 1976
+22 of 1977
+Current Autllorised Pages
+Index
+of
+Subsidiary Legislation
+Page Pensions Regulations (16 of 1934 Second Schedule) 29 Pensions (Approved Post) Order (G.N. 139/1976) 42
+Note
+on
+Subsidiary Legislation
+- Margin: (
