@@ -1,4 +1,4 @@
 SUBSIDIARY LEGISLATION
 MEDICAL BOARD (FEES) REGULATIONS
-made under section 20(1 )(d)
+made under section 20(1)(d)
 - Margin: 170/1966.
