@@ -1,0 +1,4 @@
+FOREIGN INVESTMENT (CARICOM MEMBER
+COUNTRIES) ORDER
+made under section 18(a)
+- Margin: 45/1991.
