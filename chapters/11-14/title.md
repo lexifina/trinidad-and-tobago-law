@@ -1,8 +1,10 @@
-CHAPTER 14.
+.-'--~---'---~-----
+
+CHAPTER 4. No. 15.
 PERJURY.
-AN ORDINANCE RELATING TO PERJURY AND KINDRED
-OFFENCES.
-[6th ]fay, 1925.]
-1 .. This Ordinance may be cited as the Perjury Ordinance.
-- Margin: Ordinance No. 15 of 1925.
-- Margin: Short title.
+AN ORDINANOE RELATING TO PERJURY AND KINDRED OFFENOES.
+[6th ]1 ay, 1925.]
+- Margin: ----
+- Margin: Ordinances. Oap. 14-1925.
+- Margin: Ord. 14-1939, s.9.
+- Margin: Oommencement.
