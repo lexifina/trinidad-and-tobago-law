@@ -1,0 +1,6 @@
+LAWS OF TRlNlDAD AND TOBAGO
+THE SUPPLEMENTAL REFINING TAX
+(VARIATION OF RATES) ORDER
+made under section 26E(4)
+- Margin: [Subsidiary ]
+- Margin: 143/19!l2.
