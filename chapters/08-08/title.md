@@ -1,8 +1,8 @@
-. CHAPTER 6. No.4.
-ABSCONDING DEBTORS.
+CHAPTER 6. No .. 4.
+ABSCONDING DEB1"'ORS.
 AN ORDINANCE RELATING TO THE ARREST OF ABSCONDING
-DEBTORS.
-[5th August, 1898.]
+DEBTORS .
+[5th August, 1898.J
 - Margin: Ordinance
-- Margin: Cap. 44-1925.
-- Margin: Commencement.
+- Margin: Ch. 6. No. 4- 1940.
+- Margin: Commence- ment.
