@@ -2,6 +2,6 @@ CHAPTER 41. No. 1.
 BOY SCOUTS ASSOCIATION.
 AN ORDINANCE RELATING TO THE BOY SCOUTS
 ASSOCIATION.
-[31st May, 1920.]
-- Margin: Ordinance Cap. 316- 1925.
-- Margin: Commencement.
+[31st May, 1920.J
+- Margin: Ordinance Ch.41. No.l- 1940.
+- Margin: Commence- ment.
