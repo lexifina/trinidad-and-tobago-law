@@ -1,0 +1,3 @@
+# 3A. Excise duty on beer, shandy and other malt beverage. [8 of 1996].
+(1) There shall be charged on beer and shandy produced in Trinidad and Tobago an excise duty calculated on each litre of beer of an original gravity of one thousand and fifty degrees brewed or used in the production of such beer or shandy, as the case may be, and so in proportion for any difference in quantity or gravity.
+(2) There shall be charged on other malt beverage produced in Trinidad and Tobago an excise duty calculated on each litre of other malt beverage of an original gravity of one thousand and fifty degrees brewed and so in proportion for any difference in quantity or gravity.
