@@ -1,8 +1,13 @@
-CHAPTER 39. No. 10.
-SAN FERNANDO AND ARIMA HUCKST~RS,
-PEDLARS, AND PORTERS.
-AN ORDINANCE RELATING TO HUCKSTERS, PEDLARS,
-AND PORTERS IN SAN FERNANDO AND ARIMA.
-[10th lJ![ arch, 1922.J
-- Margin: Ordinance Ch.39. No.10 -1940.
-- Margin: Commence- ment.
+LA WS OF TRINIDAD AND
+SAN FERNANDO AND ARIMA
+PEDLARS AND PORTERS ACT
+Act
+3 of 1922
+Amended by 45 of 1979 51/1980 .
+LA WS OF TBlNIDAD AND TOBAGO
+San Fernando and Arima Hucksters,
+Subsidi:
+This Chapter contains no subsidiary legislation.
+Note
+on
+Adaptation
