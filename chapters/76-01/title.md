@@ -1,11 +1,10 @@
-I:ZjlfJ---{.
-{f 1 tj It( i y-
-/(. /rj~f /7
-~- I ~ a I' / CHAPTER 206.
-" STAMP DUTY.
-AN ORDINANCE RELATING To STAMP DuTIES.
-DIVISION OF ORDINANCE.
-PRELIMINARY ... Sections 1 and 2. Part I.-DuTIES GENERALLY "- 3 " 32. Part ll.-REGULATIONS APPLICABLE TO l'AR-
-TICULAR INSTRUMENTS " 33 " 82. Part III.-OFBENCES RELATING TO STAMPS " 83 " 92.
+~~~~J(..4,f!}H
+II h \. (,f~2. It ,,- l\ "2..-~ trs'"
+~ If.7/.s-,
+~~. 1I/~tl-3 CHAPTER 33. No •. 4.
+p- l1:>fi
+~., STAMP DUTY.
+A~ OIWINANCE RELATING TO STAMP DUTIES.
 [15th June, 1908.]
-- Margin: Ordinances No. 28 of1908, , 34 of 1922, , 28 of 1924.
+- Margin: Ordinanoes Oap.2(l6- 1925. " 207- 1925. No. 4-1929. " 8-1937,
+- Margin: Commenceni'ent.
