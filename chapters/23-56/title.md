@@ -1,26 +1,20 @@
-SP~CIAL4. DVl8ER (PIlOTECTIVE SERVICES)
-(J SION F i) ACT
-CHAM ;6
+PENSION RIGHTS (SPECIAL PROVISIONS) ACT
+CHAPTER 23:56
 Act
 2 of 1977
-C ~rent Au! Pages
-1-3 111980
-Special Adviser (Protective Services)
-Note on
-Subsidiary Legislation
-Chapter contains no subsidiary legislation.
-Special Adviser (Protective Services)
-CHAPTER 23:56
-SPECIAL ADVISER (PROTECTIVE SERVICES)
-(PENSION RIGHTS) ACT
-ARRANGEMENT OF SECTIONS
-SECTION
-1. Short title. 2. Special Adviser to enjoy Police Service pension rights.
+23 of 1979
+47 of 1979
+Note on Subsidiary Legislation
+This Chapter contains no subsidiary legislation.
+Note on Special Adviser (Protective Services) (Pension Rights) Act
+This Chapter has been extended and renamed as the Pension Rights (Special Provisions) Act. It originally consisted of "The Special Adviser (Protective Services) (Pension Rights) Act (No. 2 of 1977)". However, other similar Acts creating special pensions rights have now been incorporated in this Chapter.
 
-An Act relating to the pension rights of the holder of the office of
-Special Adviser (Protective Services) in the Ministry of National Security.
-[1ST NOVEMBER 1973]
-- Margin: This
-- Margin: (
-- Margin: 2 of 1977.
+CHAPTER 23:56
+PENSION RIGHTS (SPECIAL PROVISIONS) ACT
+An Act relating to the pension rights of the holders of special
+offices in the public service.
+[2 of 1977-1ST NOVEMBER 1973
+23 of 1979-20TH OCTOBER 1978
+47 of 1979-1ST MARCH 1977]
+- Margin: 2 of 1977. 23 of 1979. 47 of 1979.
 - Margin: Commencement.
