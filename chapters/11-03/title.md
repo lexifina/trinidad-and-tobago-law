@@ -1,8 +1,8 @@
-CHAPTER 4 .. NQ. 5.
+CHAPTER 4. No.5.
 TREASON.
 AN ORDINANCE RELATING TO TREASON AND MISPRISION OF
-T REASON.
+TREASON.
 [22nd July, 1844.J
-- Margin: Ordinance Cap. 12-1925.
-- Margin: "
-- Margin: Commencement.
+- Margin: Ordinance
+- Margin: Ch. t9fo~' 5-
+- Margin: Commence- ment.
