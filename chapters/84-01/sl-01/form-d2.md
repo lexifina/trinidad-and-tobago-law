@@ -1,60 +1,84 @@
 # FORM D2
-RESPECT OF ASSETS HELD IN cnm STATUTORY .FUND
-INTEREST Rate used
-Par Bulk to obtain
-Due Value Value Market Markot
-Rates Dates Value
-:) $ $ $
-- - -
-Par Value Numli>er of f Rate used to of Share Sharos Book Value obtain Market
-Value
-" ~ S !;
-.FORM D2-00NTINUED J'tESPECT m- ASSETS HELD IN THE STATUTORY FUND-Oontimte"l
-Balance outstanding at end of year Amount on which Interest was overdue
-for one year or more
-:) :)
-OPERATION OF YEAR OF ACCOUKT
-Book Market Expended
-Actual Value Value less Expended for taxes Hcgular Oost encum- encumbrance onOapital Gross repairs ;:mnual
-brance Account Income and other clepre-
-recurring <:la.tion expenditure
-$ $ $ $ $ $; $ FORM D2-CONTINDED ASSETS HELD IN THE STATUTORY FuND-Oontinued
-Bank
-$
-TRINIDAD AN
-I:.surance Cl 84:01
-lnsur~\ ______ )RIf~uIations
-FORM El
-Class of Long-Term Insumnce Business ...
-Name of Company ...
-New Insurance issued during the year ended ...
-POLIOIES ON REGISTER IN TRINIDAD AND TOBAGO
-Type of Policy Number I Total
-of Sum Single Annual Commission
-Policies Insured Premiums Premiums paid
+STATEMENT OF VALUE OF ASSETS AT
+(BALANCE SHEET DATE)
+Motor All Other
+Long-Term
+Vehicle Classes of
+Total Assets Insurance
+Insurance Insurance
+Business
+Business Business
+$ $ $ $ 1. Fixed Assets:-
+Real Estate including buildings … Office Furniture and Fittings' Motor
+Vehicles… … …
+On Mortgage… … … On Debentures or Shares … On Policies of the Company … Other (to be specified) … … 3. Government Securities:-
+(a) Trinidad and Tobago …
+(b) Securities guaranteed by the
+Government of Trinidad and Tobago (specify)… …
+(c) Other "Caricom" Government
+(d) United Kingdom… …
+(e) Canada … …
+(f) Other (specify) … … 4. Ordinary Shares in Trinidad and
+Tobago Companies (particulars to be
+… … … 5. Ordinary Shares in non-Trinidad and
+Tobago Companies (distinguish between Caricom and other foreign
+… … … 6. Preference Shares in Trinidad and
+Tobago Companies … … 7. Preference Shares in non-Trinidad and
+Tobago Companies (distinguish between Caricom and other foreign Companies)… … … [Subsidiary] Insurance Companies (Accounts and Forms) Regulations
+FORM D2-Continued
+STATEMENT OF VALUE OF ASSETS AT
+(BALANCE SHEET DATE)
+Motor All Other
+Long-Term
+Vehicle Classes of
+Total Insurance
+Assets Insurance Insurance
+Business
+Business Business
 $ $ $ $
-NOTE-Items in this return shall be shown aftilr deduction of amounts in respect of reinsurance. .
-- Margin: ·To BE COMPLE'l'E.
-- Margin: L Government Securities and Debentures:
-- Margin: INTEREST Year of Value Maturity Description f;: Due Acorued :e :;;-' 01 ., to 'I $ ~ <> I ~ '" --., I ;:l I (\') , I "'J I <:> ~ --- to 1:1 '- > ::tJ (lj (\') Z !,Q 2. Shares owned. by Company: :I ;:! E" - -- S- ~ O Rate of Market Aoorued Dividend ;:! 1:;'::1 to Dividend Value Desoription on Shares quoted ~ Idl Ex-dividend 0
-- Margin: S $ ~
-- Margin: I
-- Margin: . .
-- Margin: To BE OOMPLETED IN
-- Margin: 3. Mortgage Loans:
-- Margin: L00ation of Property
-- Margin: t"' ;;", .-,,: ""."ai ~ cr: '" ~ 0 ""i " I 1'::0 "'l ;:l CIl ... " O:l 'l'j :2 ~ 4. Real Estate owned by Oompany: ""l § c;:; .~. '- -- (":) «:) ~ .~ CIl ---- <0 ~ E' Date Encurn- Description and ~ <-to 0 N' Acquired brance Location of Property 0 Net t;I:: ;:l '" Income ~ C':l 0
-- Margin: $ $; e":l .. QO :::r " Sl:>
-- Margin: 0 ...
-- Margin: t-< ~. 9
-- Margin: ... e: ---... ~I~ ~ ~ c '-' V'l
-- Margin: ""'I~ CJi CIl 64 I I ~
-- Margin: ~
-- Margin: To BE COlI'U'LETED IN RESPEOT OF ~
-- Margin: = ~ 5, Cash and Ovorclrafts: ------- Iwi Description Net Oash Balance Net Overdraft
-- Margin: t"
-- Margin: S $ '"" 15l ~ "'i I'l ;::! S 2 ... Z ~ "'" CI> eJ ~ P, eJ ~ I (') ~ p',ll (\l Z t::I
-- Margin: 103 = 0
-- Margin: ~
-- Margin: Q
-- Margin: [ bsiruary]
+8. Bonds and Debentures in Trinidad and
+Tobago Companies … …
+9. Bonds and Debentures in non-Trinidad
+and Tobago Companies (distinguish between Caricom and other countries)
+10. Investment in dependent companies
+which are insurance companies …
+11. Investment in dependent companies
+which are not insurance companies
+12. Other investments (specify) … 13. Cash Deposits with the Central
+… … …
+14. Fixed Deposits with Bank … 15. Fixed Deposits with other financial
+institutions (specify) … …
+16. Cash on Current Account and in hand
+}
+due
+from agents and
+Uncollected
+18. Amounts due from
+Premiums
+from Policyholders
+20. Amounts due from other Insurance
+Companies … … …
+21. Interest, dividends and rents accruing
+but not due … … …
+Insurance Companies (Accounts and Forms) Regulations [Subsidiary]
+STATEMENT OF VALUE OF ASSETS AT
+(BALANCE SHEET DATE)
+Motor All Other
+Long-Term
+Vehicle Classes of
+Assets Total Insurance
+Insurance Insurance
+Business
+Business Business
+$ $ $ $
+22. Interest dividends and rents
+outstanding … … … 23. Sundry Debtors … … 24. Other Assets (specify) … …
+Total Assets as per Form D1 [Subsidiary] Insurance Companies (Accounts and Forms) Regulations
+- Margin: 2. Loans:-
+- Margin: specified)
+- Margin: countries)
+- Margin: Bank …
+- Margin: 17. Amounts
+- Margin: sub-agents
+- Margin: brokers
+- Margin: 19. Amounts due
