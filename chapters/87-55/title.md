@@ -1,17 +1,20 @@
-TRINIDAD AND
-HOTEL PROPRIETORS
+HOTEL PROPRIETORS ACT
+CHAPTER 87:55
 Act
-16 of 1967 Amended by 45 of 1976
-1-5 111980
-Note on
-Subsidiary Legislation
+16 of 1967
+Amended by
+45 of 1979
+Note on Subsidiary Legislation
 This Chapter contains no subsidiary legislation.
-Note on
-Revision Date As this Act was amended by the Law Revision (Miscellaneous Amendments) (No.1) Act 1979 (Act 1979), this Chapter has been revised up to 31st December 1979, instead of the normal revision date December 1977).
-Hotel Proprietors hap. 87:
-CHAP'IER 87:55
-L PRO] )RS A( [
-A - - -IlOEMEI- mCTIOIS
-SECTION
-- Margin: 45 of (31st
-- Margin: 3
+CHAPTER 87:55
+HOTEL PROPRIETORS ACT
+ARRANGEMENT OF SECTIONS SECTION
+1. Short title. 2. Interpretation. 3. Liability of proprietor. 4. Limits of liability. 5. Obligation of hotel proprietor. 6. Lien of hotel proprietor.
+SCHEDULE.
+
+CHAPTER 87:55
+HOTEL PROPRIETORS ACT
+An Act relating to the rights and liabilities of hotel proprietors.
+[26TH JULY 1967]
+- Margin: 16 of 1967.
+- Margin: Commencement.
