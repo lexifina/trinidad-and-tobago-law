@@ -1,8 +1,9 @@
-CHAPT:mR __ 7._. No.._ JQ, __ _ _
+. '
+
+CHAPTER 7. No. 10.
 OATHS.
-AN ORDINANCE RELATING TO THE ADMINISTRATION OF OATHS.
-[17th ,December, 1917.]
-- Margin: 8~8
-- Margin: Ordinance.
-- Margin: Cap. 69-1925,
-- Margin: Commencement.
+AN ORDINANCE RELATING TO THE ADMINISTRATION o'F
+OATHS.
+[17th December) 1917.J
+- Margin: Ordinance ChiJ45:°. 10-
+- Margin: Commence- ment.
