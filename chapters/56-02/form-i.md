@@ -1,0 +1,6 @@
+# FORM I
+LEASE
+I, A .B., being registered as proprietor of an estate [here state nature of the estate or interest] subject, however, to such mortgages and encumbrances as are notified by memorial underwritten or endorsed hereon, in that piece of land situated in the (Ward, District, or Town) of ... containing [here state area] be the same a little more or less, delineated and with the abuttals and boundaries thereof shown in the Plan drawn on (or annexed to) [here state the volume and page of the Register Book on which the plan, if any, appears] ... [here state rights of way, privileges, or easements, if any, intended to be leased, and here insert description of land] do hereby lease to E.F. of ... [here insert description] all the said land to be held by him the said E.F. as tenant for the space of ...years at the yearly rental of $... payable [here insert terms of payment of rent] subject to the following covenants, conditions and restrictions [here set forth all special covenants, conditions and restrictions, if any, by lessor and lessee].
+Dated, etc. Signed by the above named A.B. as lessor and by the above-named E.F. as lessee this ... day of ... 20... in presence of:
+(Signatures of Witnesses.)
+- Margin: [Section 80(1)].
