@@ -1,0 +1,2 @@
+# SCHEDULE
+(Repealed by Act No. 13 of 1990).
