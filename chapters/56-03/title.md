@@ -1,9 +1,7 @@
-CHAPTER 5. No . . 7.
+\ ,r
+
+CHAPTER 5. No.7.
 REAL PROPERTY LIMITATION.
-AN ORDINANCE RELATING '1'0 THE LIMITATION OF REAL
-PROPERTY ACTIONS.
-[26th July, 1846.]
-- Margin: Ordinances
-- Margin: Cap. 47-1925.
-- Margin: No. 25-1936, s.10.
-- Margin: COllll1l611cemellt.
+AN ORDINANCE RELATING TO THE LIMITATION OF R.fiHAL Ordinance
+PROPERTY ACTIONS. ," :r Chii4:'o. 7-
+[26th July, 184p.] ment. Commence-
