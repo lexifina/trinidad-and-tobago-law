@@ -1,92 +1,83 @@
 CENTRAL BANK ACT
 CHAPTER 79:02
-Ad
+Act
 23 of 1964
 Amended by
 30 of 1967
 25 of 1969
 57 of 1975
-1-29 111980
-Index
-OD
-Subsidiary LegislatioD
-Page Declaration of Change in Par Value of Dollar Order (G.N. 71/1976) .. 29
-Note
-on
-AdaptatioD
-Certain fees in this Chapter were increased by the Commission under paragraph 4 of the Second Schedule to the Law Revision Act (Ch. 3:03). Where this occurs, a marginal reference in the form nom any indicating an amendment is made to L.N. 5111980 (the Legal Notice by which the President's approval was signified).
-Central Bank Cbap.79:02
+34 of 1978
+2 of 1986
+10 of 1993
+23 of 1994
+15 of 2004
+Index of Subsidiary Legislation
+Page Credit (Non-Business Purposes) Notice (GN 156/1979) … … … 55 Cash Reserve Notice (LN 153/1986) ... 55 Central Bank (Deposit Insurance) Order (LN 211/1986) … … … 56 Central Bank (Deposit Insurance) Order (LN 207/1987) … … … 57 Par Value of the Trinidad and Tobago Dollar Order (LN 57/1993) … … 57 Central Bank (Deposit Insurance) Bye-Laws (LN 210/1986) … … 59
+Note on
+A. Sections 44C and 44L of the Act; and
+B. Bye-laws 2, 6 and 7 of the Central Bank (Deposit Insurance) Bye-Laws
+The Financial Institutions (Non-Banking) Act (Ch. 83:01) and the Banking Act (Ch. 79:01) have been repealed by section 57 of the Financial Institutions Act, 1993 (Act No. 18 of 1993).
 CHAPTER 79:02
 CENTRAL BANK ACT
 ARRANGEMENT OF SECTIONS
-SECfION
+SECTION
+PRELIMINARY
 1. Short title. 2. Interpretation.
 PART I
-ESTABLISHMENT, CONSTITUTION AND MANAGEMENT OF THE BANK
-3. Establishment and incorporation. 4. Place of business. 5. Board of Directors. 6. Custody and use of seal. 7. Appointment and tenure of office of Governor, Deputy Gover-
-nor and Directors.
-8. Qualifications of Governor, Deputy Governor and Directors. 9. Disqualification of Directors. 10. Governor to be chief executive officer of the Bank.
-Duties of Deputy Governor. Power of President to appoint persons to act temporarily.
-11. Resignation of Governor, Deputy Governor and Directors. 12. Termination of appointment of Directors. 13. Publication of names of members in the Gazette. 14. Remuneration of Directors. 15. Procedure at meetings.
-Meetings. Special meetings. Quorum. Decisions of the Board.
-16. Directors to declare their interest. 17. Power to employ and train. 18. Establishment of a Pension Scheme. 19. Transfer on secondment. 20. Transfer of officers of Government to the Bank.
+ESTABLISHMENT, CONSTITUTION AND
+MANAGEMENT OF THE BANK
+3. Establishment and incorporation. 4. Place of business. 5. Board of Directors. 6. Custody and use of seal. 7. Appointment and tenure of office of Governor, Deputy Governors
+and other Directors.
+8. Qualifications of Governor, Deputy Governors and Directors. 9. Disqualification of Directors.
+10. Governor to be chief executive officer of the Bank. Duties of Deputy Governor.
+11. Resignation of Governor, Deputy Governor and Directors. 12. Termination of appointment of Directors. 13. Publication of names of members in the Gazette. 14. Remuneration of Directors. 15. Procedure at meetings. Meetings. Special meetings. Quorum. Decisions of the Board.
+16. Directors to declare their interest. 17. Power to employ and train. 18. Pension benefits. 19. Transfer on secondment. 20. Transfer of officers of Government to the Bank.
+ARRANGEMENT OF SECTIONS-Continued
+SECTION
+PART IA
+PERSONNEL
+20A. Interpretation. 20B. Consultation and negotiation with the Bank. 20C. Where agreement reached. 20D. Where no agreement reached. 20E. Disputes to be referred to Special Tribunal. 20F. Powers of Special Tribunal. 20G. Awards to be binding on parties for fixed period. 20H. Association to make Rules.
 PART II
 CURRENCY AND LEGAL TENDER
-21. Currency of Trinidad and Tobago. 22. Unit of currency. SECTION Par value of Trinidad and Tobago dollar. ExemptIOn from stamp duty. Issue of currency. Denominations and form of notes and coins. Redemption of notes and coins. Refund of lost and stolen coins. Discretion of the Bank to refund mutilated or
-and coins. Bills and notes payable on demand. Imitation of currency notes. Mutilating or defacing currency notes. Definition of "note" Ch. 11:13. Requirement of Bank to exchange dollars for
-versa. Assets to cover currency in circulation.
+21. Currency of Trinidad and Tobago. 22. Unit of currency. 23. Par value of Trinidad and Tobago dollar. 24. Notes and coins exempt from taxation. 25. Issue of currency. 26. Denominations and form of notes and coins. 27. Redemption of notes and coins. Refund of lost and stolen coins. Discretion of the Bank to refund mutilated or impaired notes and coins.
+28. Bills and notes payable on demand. 29. Imitation of currency notes. 30. Mutilating or defacing currency notes. 31. Definition of "note". 32. (Repealed by Act No. 23 of 1994). 33. Assets to cover currency in circulation.
 PART III
 CAPITAL AND RESERVE
-Capital of the Bank. General Reserve Fund.
+34. Capital of the Bank. 35. General and Special Reserve Funds.
 PART IV
 THE BUSINESS OF THE BANK
-Authorised business of Bank. Restrictions on business of the Bank.
+36. Authorised business of Bank. 37. Restrictions on business of the Bank.
 PART V
-RELATIONS WITH OTHER BANKS
-Bank as banker's banker. Minimum discount and rediscount rates. Reserve requirements of commercial banks. Power of Bank to require information from commercial Selective credit control. Bank to fix the maximum of working balances. Proportion of local assets to liabilities in Trinidad SECfION
+RELATIONS WITH FINANCIAL INSTITUTIONS
+38. Bank as banker. 39. Minimum discount and re-discount rates.
+}
+40. to (Repealed by Act No. 23 of 1994). 44. 44A. Fixing of interest rates. 44B. Penalties for contravention of section 44A.
+PART VA
+SPECIAL EMERGENCY POWERS OF BANK 44C. Definitions. 44D. Circumstances where Bank may take over control, etc. 44E. Notification of takeover of property and control. 44F. Duty to assist where Bank assumes control. 44G. Termination of control. 44H. Protection of persons acting under this Part. 44I. Offences.
+PART VB
+DEPOSIT INSURANCE 44J. Definitions. 44K. Establishment of Deposit Insurance Fund. 44L. Membership in Fund compulsory. 44M. Financing of the Fund. 44N. Insurance cover. 44O. Contributions, etc., allowable tax deductions.
+ARRANGEMENT OF SECTIONS-Continued
+SECTION
+44P. Management of the Fund. 44Q. Composition of Board. 44R. Term of office of members of Board. 44S. Chairman of the Board. 44T. Procedure. 44U. Validity of proceedings. 44V. Capital of Corporation. 44W. Powers of the Corporation. 44X. Insurance payment procedures. 44Y. Business with failed institutions. 44Z. Effect of closure. 44AA. Offences.
 PART VI
-RELATIONS WITH THE GOVERNMENT 45. Bank as banker to the Government. 46. Power of Bank to make advances to Government. 47. Maximum assets of Bank. 48. Power of Bank to act as agent for the Government. 49. Issues of policy. 50. Policy directives.
+RELATIONS WITH THE GOVERNMENT
+45. Bank as banker to the Government. 46. Power of Bank to make advances to Government. 47. Maximum assets of Bank. 48. Power of Bank to act as agent for the Government. 49. Issues of policy. 50. Policy directives.
 PART VII
-ACCOUNTS, REpORTS AND STATISTICS 51. Bank's financial year. 52. Accounts and audits. 53. Reports. 54. Statistical information from Banks.
-PARTVllI
-GENERAL 55. Exemption from taxation and stamp duties. 56. Secrecy and penalty for disclosing information. 57. Transfer of statements, accounts or lists. 58. Transmission of false information by officers of commercial
-banks. 59. Method of service. 60. Regulations and Rules.
+ACCOUNTS, REPORTS AND STATISTICS
+51. Bank's financial year. 52. Accounts and audits. 53. Reports. 54. Statistical information from financial institutions.
+PART VIII GENERAL
+55. Exemption from taxation and stamp duty. 56. Secrecy and penalty for disclosing information. 57. Transfer of statements, accounts or lists. 58. Transmission of false information by officers of financial institutions. 59. Method of service. 60. Regulations and Rules.
 PART IX
-TRANSITIONAL PROVISIONS 61. Transfer of assets of Currency Fund of Currency Board to the
-Bank. 62. Non-application of Exchequer and Audit Act.
+TRANSITIONAL PROVISIONS
+61. (Repealed by Act No. 23 of 1994). 62. Non-application of Exchequer and Audit Act.
+SCHEDULE.
 
 CHAPTER 79:02
 CENTRAL BANK ACT
 An Act to provide for the establishment of a Central Bank to
 define the powers and duties thereof and for matters incidental thereto.
-[12TH D ECEMBER 1964*
-1ST AUGUST 1966t]
+[12TH DECEMBER 1964*
+1ST AUGUST 1966†]
 PRELIMINARY
-- Margin: .
-- Margin: 3
-- Margin: 23.
-- Margin: 24.
-- Margin: 25.
-- Margin: 26.
-- Margin: 27.
-- Margin: impaired notes
-- Margin: 28.
-- Margin: 29.
-- Margin: 30.
-- Margin: 31.
-- Margin: 32. sterling and vice
-- Margin: 33.
-- Margin: 34.
-- Margin: 35.
-- Margin: 36.
-- Margin: 37.
-- Margin: 38.
-- Margin: 39.
-- Margin: 40.
-- Margin: 41. Banks.
-- Margin: 42.
-- Margin: 43.
-- Margin: 44. and Tobago.
-- Margin: L.R.O. 1I1 980
 - Margin: 23 of 1964.
-- Margin: Commencement. *122/1964. t79/1966.
+- Margin: Commencement. [*122/1964. †79/1966].
