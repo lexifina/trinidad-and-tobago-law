@@ -1,0 +1,5 @@
+SUBSIDIARY LEGISLATION
+DELEGATION OF FUNCTIONS (FOREIGN
+INVESTMENT) ORDER
+made under section 52(1) of the Interpretation Act
+- Margin: 208/1990.
