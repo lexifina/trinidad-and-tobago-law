@@ -1,4 +1,3 @@
-THE PREVENTION OF WATER POLLUTION
-(QUARE RIVER, VALENCIA) BYE-LAWS
-made under section 51 (1).
-- Margin: 91/1977.
+PUBLIC STANDPIPE REGULATIONS
+made under section 56
+- Margin: 67/1977.
