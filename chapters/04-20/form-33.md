@@ -1,10 +1,7 @@
 # FORM 33
-Declaration of forleiture of recognisance*
-TRINIDAD AND TOBAGO. County of ...
-The ... day of ... , 19 ... The said C.D. not having appeared [or as the case may bel in accorda][Jce with the said condition, this Court declares that the within written recognisance is forleited.
+DECLARATION OF FORFEITURE OF RECOGNISANCE* REPUBLIC OF TRINIDAD AND TOBAGO. County of ...
+The ... day of ..., 20... The said C.D. not having appeared [or as the case may be] in accordance with the said condition, this Court declares that the within written recognisance is forfeited.
 (Signed) ...
-(. 19istrate or Justice)
-'To be endorsed on the recognisance.
-LAWS OW TRINIDAD AND TOBAGO
-- Margin: Section 123 (1).
-- Margin: L.R.O.1I1980
+(Magistrate or Justice)
+*To be endorsed on the recognisance.
+- Margin: Section 123(1).
