@@ -1,17 +1,11 @@
-LA WS OF TRINIDAD AND
-PATENTS, DESIGNS, COPYRIGHT AND TRADE MARKS
-(EMERGENCY) ACT
-{[
+PATENTS, DESIGNS, COPYRIGHT AND TRADE
+MARKS (EMERGENCY) ACT
+
+CHAPTER 82:84
 Act
 27 of 1940
 Amended by
 5 of 1947
-L.R.O~ 1/1980
-Patents, Designs, Copyright and
-Index
-of
-Subsidiary Legislation
-Page Patents, Designs, Copyright and Trade Marks (Emergency) Rules. (27 of 1940) 13
-Note
-on
-Adaptation
+Index of Subsidiary Legislation
+Page Patents, Designs, Copyright and Trade Marks (Emergency) Rules (27 of 1940) 15
+Note on Adaptation
