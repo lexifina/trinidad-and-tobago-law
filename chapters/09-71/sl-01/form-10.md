@@ -1,0 +1,5 @@
+# FORM 10
+COVER NOTE
+Bond No ... , 19 ...
+Mr... , of ... , having this day effected a Guarantee for ... in favour of the State, as trustee under a Deed of Arrange-ment executed by ... on the terms and conditions contained in the Society's Bond (according to the form prescribed under the Deeds of Arrangement Rules), a Bond will be prepared and delivered to the Registrar General within fourteen days of this date.
+Manager of the said Society
