@@ -1,0 +1,13 @@
+# FORM 2
+EMERGENCY CERTIFICATE
+THIS IS TO CERTIFY that ... of ...
+(address)
+(hereinafter called "the assisted person") is entitled, in accordance with the Legal Aid and Advice Act, Ch. 7:07 made thereunder, to Legal Aid as (plaintiff, defendant, petitioner or intervener or as the case may be) in connection with the following proceedings: ...
+(describe the proceedings)
+...
+THIS IS TO CERTIFY that:
+1. The assisted person's Attorney-at-law is ... of ...
+(address)
+2. This certificate, being an Emergency Certificate, remains in force for a period of three months from the date hereof, or such other period not exceeding three months as the Authority may allow, unless it is previously revoked or is replaced by an ordinary certificate.
+3. Add any special conditions, including one limiting the certificate to part of the proceedings.
+- Margin: [Section 16A(3)].
