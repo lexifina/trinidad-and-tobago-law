@@ -1,9 +1,8 @@
-Races.
-
 CHAPTER 42. No.5.
 RACES.
-AN ORDINANCE FOR THE REGULATION OF RACES.
-[1st Decembm', 1855.]
-- Margin: Ordinanoe
-- Margin: Cap. 291- 1925
-- Margin: Commenoement.
+AN ORDINANCE FOR THE REGULATION OF HORSE RACES IN
+TRINIDAD AN:D TOBAGO.
+[30th May, 1946.J
+- Margin: Ordinance
+- Margin: No. 32-1946.
+- Margin: Commence- ment. I, I
