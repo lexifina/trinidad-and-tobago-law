@@ -1,22 +1,18 @@
 # SCHEDULE
-1. (1) In any written law passed or made before the passing of this Act, the following expressions have the meanings hereby assigned to them, unless there is something in the subject or context inconsistent therewith or unless it is therein otherwise expressly provided: "Christian name" means any name prefixed to the surname
-whether received in Christian baptism or otherwise; "Government Chemist" includes the Deputy and any assistant or
-other chemist employed by the Government; "Imperial Act" means an Act passed by the Imperial Parliament; "Imperial Parliament" or "Parliament" means the Parliament of
-the United Kingdom; "Medical Officer" means a medical practitioner in the service of
-the Government; "order in council" includes an Imperial Order in Council, an
-order of the Governor made on the advice of. the Cabinet, and a resolution of both chambers of the Legislature having the force of law; "prison" has the meaning assigned to that term in the Prisons
-Act; "registered" used with reference to a document means registered
-under the provisions of the law for the time being applicable to the registration of such document; "regulation" includes any rule, bye-law, order, form of notice,
-issued or made under the authority of any law; "rule" includes regulation and has the same meaning as that
-term; "a Secretary of State" means one of the Principal Secretaries of
-State of the Government of the United Kingdom; "the Secretary of State" means Secretary of State of the Gov-
-ernment of the United Kingdom; "service by post" -Where an Ordinance authorises or requires
-any document to be served by post, whether the expression "serve" or the expression "give" or "send", or any other expression is used, then, unless a contrary intention appears, the service shall be deemed to be effected by properly addressing, prepaying and posting a letter containing the document, and, unless the contrary is proved to have been effected at the time ~t which the letter would be delivered in the ordinary course of post.
-(2) Whenever the Principal Ordinance on any subject is amended by any Ordinance and the title or short title of the Principal Ordinance admits of it, the Principal Ordinance and every Ordinance amending it may for all purposes be cited by the title or short title, as the case may be, of the Principal Ordinance, substituting therein the word "Ordinances" for the word "Ordi-nance" and omitting the year and number, or adding the years of the first and last Ordinances referred to; and whenever two or more Ordinances are cited in the manner authorised by this sec-
-LA W§ OF TRINIDAD AND TOBAGO
-tion, the authorised short title used shall be construed to mean all the Ordinances covered by that short title, or either or any of them.
+1. (1) In any written law passed or made before the passing of this Act, the following expressions have the meanings hereby assigned to them, unless there is something in the subject or context inconsistent therewith or unless it is therein otherwise expressly provided: "Christian name" means any name prefixed to the surname whether received
+in Christian baptism or otherwise; "Government Chemist" includes the Deputy and any assistant or other chemist
+employed by the Government; "Imperial Act" means an Act passed by the Imperial Parliament; "Imperial Parliament" or "Parliament" means the Parliament of the
+United Kingdom; "Medical Officer" means a medical practitioner in the service of the
+Government or in the employ of a Regional Health Authority established under the Regional Health Authority Act; "Order in Council" includes an Imperial Order in Council, an order of the
+President made on the advice of the Cabinet, and a resolution of both Chambers of the Legislature having the force of law; "prison" has the meaning assigned to that term in the Prisons Act; "registered" used with reference to a document means registered under the
+provisions of the law for the time being applicable to the registration of such document; "regulation" includes any rule, bye-law, order, form of notice, issued or made
+under the authority of any law; "rule" includes regulation and has the same meaning as that term; "a Secretary of State" means one of the Principal Secretaries of State of the
+Government of the United Kingdom; "the Secretary of State" means Secretary of State of the Government of the
+United Kingdom; "service by post"-Where an Ordinance authorises or requires any document
+to be served by post, whether the expression "serve" or the expression "give" or "send", or any other expression is used, then, unless a contrary intention appears, the service shall be deemed to be effected by properly addressing, prepaying and posting a letter containing the document, and, unless the contrary is proved to have been effected at the time at which the letter would be delivered in the ordinary course of post.
+(2) Whenever the Principal Ordinance on any subject is amended by any Ordinance and the title or short title of the Principal Ordinance admits of it, the Principal Ordinance and every Ordinance amending it may for all purposes be cited by the title or short title, as the case may be, of the Principal Ordinance, substituting therein the word "Ordinances" for the word "Ordinance" and omitting the year and number, or adding the years of the first and last Ordinances referred to; and whenever two or more Ordinances are cited in the manner authorised by this section, the authorised short title used shall be construed to mean all the Ordinances covered by that short title, or either or any of them.
 (3) No Ordinance passed before the commencement of this Act shall in any manner whatsoever affect the rights of the State unless it is therein expressly provided or unless it appears by necessary implication that the State is bound thereby.
 2. When an Ordinance is referred to, it shall be sufficient for all purposes to cite the Ordinance either by the short title, if any, by which it is made citable, or by the year of its passing and its number among the Ordinances of that year or in the case of the revised edition of the Ordinances issued under any Ordinance providing for the issue of a revised edition, by its short title or its chapter and number and the reference may in all cases be made according to the copies of Ordinances purporting to be printed by the Government Printer.
-- Margin: Section 86. [8/1962 97/1963].
+- Margin: Section 86. [8/1962 97/1963 11 of 1998].
+- Margin: Ch. 29:05.
 - Margin: Ch. 13:01.
-- Margin: L.R.O.1I1980
