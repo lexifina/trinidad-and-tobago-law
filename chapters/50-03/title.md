@@ -1,5 +1,6 @@
-CHAPTER 186.
+CHAPTER 31. No.6.
 BILLS OF LADING.
-AN ORDINANCE RELATING TO BILLS OF LADING.
-[1st October, 1864.]
-- Margin: 01·dinance No. 85.
+AN ORDINANOE RELATING TO BILLS OF LADING.
+[1st October, 1864.J
+- Margin: Ordinanoo Cap. 186- 1925.
+- Margin: COJlQl\eucemellt.
