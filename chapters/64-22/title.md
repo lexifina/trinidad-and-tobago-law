@@ -1,8 +1,9 @@
-OA:P. 254.] ()LAYING OF COCOA.
+Olaying Of OocQa.
 
-CHAPTER 254.
-CLA YING OF COCOA.
-AN ORDINANCE TO PROHIBIT THE CLAYING OF COCOA.
-[1st January, 1923.]
-- Margin: 305.6
-- Margin: Ordinan{}e No. 43 of 1922.
+CHAPTER 23. No.9.
+CLAYING OF COOOA •
+. AN ORDINANCE TO PROHIBIT THE CLAYING OF COCO~.
+0,
+[1st January, 1923.J .
+- Margin: Ordinance Cap. 254- 1925.
+- Margin: Commencement.
