@@ -1,3 +1,6 @@
 # SCHEDULE IV
 Agricultural Vehicles and Machinery
-(Give particulars and identification marks or rmmbers)
+...
+(Give particulars and identification marks or numbers)
+...
+Agricultural Development Bank Regulations [Subsidiary]

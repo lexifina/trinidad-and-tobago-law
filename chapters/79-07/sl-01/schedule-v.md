@@ -1,3 +1,5 @@
 # SCHEDULE V
-Agrit ultural Plant
+Agricultural Plant
+...
 (Give particulars and Location)
+...

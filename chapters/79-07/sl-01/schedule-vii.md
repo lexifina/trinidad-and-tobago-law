@@ -1,3 +1,5 @@
 # SCHEDULE VII
-Life InsuraDte
+Life Insurance
+...
 (Give particulars)
+...
