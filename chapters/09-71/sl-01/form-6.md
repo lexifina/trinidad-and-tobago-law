@@ -1,0 +1,13 @@
+# FORM 6
+DEBTOR'S AFFIDAVIT
+(Title)
+I, ..., of ..., make oath and say as follows:
+1. That on the ... day of ..., 20..., I executed a Deed of (a) ...
+2. The total estimated amount of my property included under the Deed is $..., and the net amount of my property included under the Deed after deducting $ ..., being the value of (b) ... of securities held by creditors, and required to cover debts due to them.
+3. The total estimated amount of my liabilities included under the Deed is $ ..., and the net amount of my liabilities included under the Deed after deducting $ ..., being the (c) amount covered by securities held by creditors is $...
+4. (d) The total amount of the compensation payable thereunder is $ ...
+5. The names of my creditors under the Deed with their full postal addresses (so far as the same are known to me) and the amount of debt due to or claimed by each of such creditors are contained in the Schedule to this my Affidavit.
+Sworn at ... this ... day of ..., 20 ... Before me,
+...
+Commissioner of Affidavits
+- Margin: (a) State whether Deed of Assignment of property; Deed of or Agreement for a composition; Deed of Inspectorship; a letter of licence, or an agreement to carry on or wind up debtor's business. (b) The estimated surplus (if any) from securities held by creditors should not be deducted from the gross amount of property. (c) This amount must correspond with the amount of securities deducted above. No deduction should be made in respect of the unsecured balances of partially secured debts. (d) If there is no compensation payable, strike this clause out.
