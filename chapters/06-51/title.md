@@ -1,4 +1,9 @@
-CHAPTER 297.
-TOBAGO NOTARIES PUBLIC.
-AN ORDINANCE RELATING TO NoTARIES PuBLIC IN ToBAGo. 01·dinance No. 311.
-[4th April, 1894. J
+------------------------------------------
+
+CHAPTER 7. No.5.
+NOTARIES PUBLIC (TOBAGO).
+AN ORDINANCE RELATING TO NOTARIES PUBLIC IN TOBAGO.
+[4th April, 1894.]
+- Margin: Ordinance Cap. 297-
+- Margin: , 1925.
+- Margin: Commencement.
