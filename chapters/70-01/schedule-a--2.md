@@ -1,11 +1,7 @@
 # SCHEDULE A
 SUBSCRIPTIONS
 [In millions of United States dollars]
-200 Brazil 105 225 Canada 325
-7 Chile 35
-LAWS OF TIUNlDAD AND TOBAGO
-Colombia 35 Mexico 65 Costa Rica 2 Netherlands .. 275 Cuba 35 New Zealand 50 Czechoslovakia 125 Nicaragua .8 Denmark (I) Norway 50 Dominican Republic 2 Panama .2 Ecuador 3.2 Paraguay .8 Egypt 40 Peru 17.5 El Salvador 1 Philippine Ethiopia 3 Commonwealth 15 France 450 Poland 125 Greece 25 Union of South Africa 100 Guatemala 2 Union of Soviet Haiti 2 Socialist Republics 1,200 Honduras 1 United Kingdom 1,300 Iceland 1 United States 3,175 India 400 Uruguay 10.5 Iran .. 24 Venezuela 10.5 Iraq .. 6 Yugoslavia 40 Liberia .5
-Total .. 9,100 'The quota of Denmark shall be determined by the Bank after Denm~~kiccepts member-ship in accordance with these Articles of Agreement.
-- Margin: Australia
-- Margin: Belgium
-- Margin: Bolivia
+Australia … … 200 Egypt … … 40 Belgium … … 225 El Salvador … … 1 Bolivia … … 7 Ethiopia … … 3 Brazil … … 105 France … … 450 Canada … … 325 Greece … … 25 Chile … … 35 Guatemala … … 2 China … … 600 Haiti … … 2 Colombia … … 35 Honduras … … 1 Costa Rica … … 2 Iceland … … 1 Cuba … … 35 India … … 400 Czechoslovakia… … 125 Iran … … 24 Denmark … … (1) Iraq … … 6 Dominican Republic … 2 Liberia … … .5 Ecuador … … 3.2 Luxembourg … … 10 Mexico … … 65 Poland … … 125 Netherlands … … 275 Union of South Africa … 100 New Zealand … … 50 Union of Soviet Nicaragua … … .8 Socialist Republics … 1,200 Norway … … 50 United Kingdom… … 1,300 Panama … … .2 United States … … 3,175 Paraguay … … .8 Uruguay … … 10.5 Peru … … 17.5 Venezuela … … 10.5 Philippine Yugoslavia … … 40
+Commonwealth … 15
+Total … … 9,100
+1The quota of Denmark shall be determined by the Bank after Denmark accepts membership in accordance with these Articles of Agreement.
