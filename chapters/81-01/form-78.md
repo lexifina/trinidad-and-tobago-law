@@ -1,0 +1,9 @@
+# FORM 78
+(Rule 153)
+CERTIFICATE BY COMMITTEE OF INSPECTION
+AS TO AUDIT OF LIQUIDATOR'S ACCOUNTS
+(Title same as Form 2)
+WE, the undersigned, members of the Committee of Inspection in the winding up of the above-named Company, HEREBY CERTIFY that we have examined the foregoing account with the vouchers, and that to the best of our knowledge and belief, the said account contains a full, true and complete account of the Liquidator's receipts and payments.
+Dated this ... day of ... 20...
+Committee of Inspection} ...
+...

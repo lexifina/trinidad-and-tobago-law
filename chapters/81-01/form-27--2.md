@@ -1,0 +1,8 @@
+# FORM 27
+THE COMPANIES ACT, (CH. 81:01)
+NOTICE OF APPOINTMENT OF A RECEIVER
+OR MANAGER
+(N.B.!!THIS!!FORM!!HAS!!BEEN!!REPLACED!!BY!!FORM!!7!!IN!!THE
+FIRST!!SCHEDULE!!TO!!THE!!COMPANIES!!REGULATIONS)
+Rules in regard to Verified or Certified Copies and Certified Translations under the
+Act and as to General Forms

@@ -1,0 +1,21 @@
+# FORM 62
+[Rule 100(6)]
+AUTHORITY TO LIQUIDATOR TO PAY DIVIDENDS
+TO ANOTHER PERSON
+(Title same as Form 2)
+To the [Official Receiver and] Liquidator.
+SIR,
+I/WE HEREBY authorise and request you to pay to Mr...
+of ... (a specimen of whose signature is given below), all dividends as they are declared in the above-named matter, and which may become due and payable to me/us in respect of the proof of debt for the sum of $... against the above-named company, made [by Mr...] on my/our behalf.
+The Companies Winding Up Rules
+FORM 62 -Continued
+AND I/WE FURTHER REQUEST that the voucher (cheque or cheques) drawn in respect of such dividends may be made payable to the order of the said Mr...whose receipt shall be sufficient authority to you for the issue of such voucher (cheque or cheques) in his name.
+It is understood that this authority is to remain in force until revoked by me/us in writing.
+Signatures ...
+} Witness to the Signature of ...
+} Witness to the Signature of ...
+Date ...
+Specimen of Signature of Person appointed as above.
+} Witness to the Signature of ...
+Witness to the Signature of person appointed as above.
+The Companies Winding Up Rules
