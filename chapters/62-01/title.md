@@ -1,49 +1,76 @@
-'1< L)~ Lf~'- ~\
--,.CHAPTER 26. No.2.
-PETROLEUM.
-ORDINANCE RELATING 'TO THE", CARRIAGE, STORAGE,
-AND USE OF PETRbLitu¥~
-[2;;~h August, 1915.J
-This Ordinance may ,be cited as 'the Petrol~um Ordinance.
-In· this Ordinance-
-(t, case" means a receptacle containing not- more
-than ten; imperial gallons, and when used of petroleum
-,'in bUlk means ten imperial gallons;
-.tt crude petroleum" means the natural product of
-the wells,' springs, pits'" br seepages. before the same has been refined or otherwise treated, wh~ther or not the same be dangerous petroleum;
-'t dangerous petroleum" means petroleum which,
-when tested in manner prescribed by regulations under this Ordinance, giv~s forth an inflammable vapour at or below a temperature of 95 degrees Fahrenheit;
-(' export " means to take or cause to be taken out
-of the Colony, and shall' include exportation from Trinidad for the purpose of importation into Tobago and vice versa;
-H harbour" means a harbow; as declared or pro-
-claimed under the provisions of the I1arbours Ordi-nance;
-" import" means to bring 'or cause to be brought
-into the Colony, and includes importation from Trinidad into Tobago and vice versa;
-P etrole·u111;. [Ch~· 26. No.2.-
-_ (( Inspector" means the Senior Inspector of Fac~ories
-appointed under. the pro'Vrisio.s·, of the Factories Ordinance; '.
-f{ master" includes any persoriin. ch~~ge of a v~ssel; U petroleum " includes any kind 'of mineral oil, an~
-any oil or product 11:1ade from crude petroleum, asphalt, coal, schist, shale, peat, lignite, or any other simiJ-ar substances) and \vhich, when tested in manner pres-
-, cribed by regulations under this, Ordinanc~, do not
-give forth an inflammable vapour at a temperature o~ 95 degreesFahrehheit: Provided that the Governor may, by proclamation, exclude from this definition such products of petroleum as he .m8.:Y deem expedie~t;
-'( petroleum in bulk".! means crude petroleum,
-petroleum, or ,dangerous I?etr~lell:JJ?, in any' vessel. or receptacle hav,mg a capaclty of 300 gallons or more;
-(( place J! includes any house, storehouse, warehouse,
-shop, celiar,' yard, or wharf;
-(( 'PrincesTown " means Princes ,Town as defined by
-the Liquor Licences Ordinance;
-(t transport" means to remove from any place or
-ves~el 'to any' other place or vessel within either Tririidador Tobago respectively, but shall not include remov~g from Trinidad to Tobago and vice v~r$a;
-({ vessel" includes every kind of steam or ~sailing
-vessel, hulk, lighter, fiat, boat" or any kind of c~aft used -for the conveyance of, person$ or 'things' by water or for' storage. ' :
-I11zport and export of petroleum.'.
-- Margin: Ordinances Ch.26. No.2- AN
-- Margin: . 1940. No. 17-1946. ;, 19-1948. " . 29-1948.
-- Margin: Commence- ment.
-- Margin: 1. Short title.
-- Margin: 2. :t"'nterpre- tatiun.
-- Margin: Ord.19-:.194:8.
-- Margin: , 579
-- Margin: '
-- Margin: '
-- Margin: .
+PETROLEUM ACT
+CHAPTER 62:01
+Ad
+46 of 1969
+Amended by
+4 of 1970
+16 of 1974
+38 of 1974
+34 of 1975
+27 of 1976
+9 of 1979
+45 of 1979
+1-102 111980
+LAWS OF UUNIDAD AND TOBAGO
+Index
+of
+Subsidiary Legislation
+Page Petroleum Regulations (G.N. 5/1970) 24 Price of Petroleum Products Order (G.N. 110/1974) 58 Petroleum (Protection Against Fire) Regulations (G.N. 83/1960) 66 Oil Tanks Regulations (G.N. 19/1949) 67 Petroleum (Testing, Storage, etc.) Regulations (G.N. 99/1946) .. 82
+Note
+on
+Subsidiary Legislation
+The following subsidiary legislation have been omitted:
+(a) Notices of Application for Licences under section 7 of the Act-
+(G.N.s 11/1971, 48/1971, 49/1971, 6111971, 125/1971, 134/1971, 256/1971, 40/1972, 187/ 1972, 120/1973, 12111973, 138/1973, 35/1974, 63/1978, 73/1978, 85/1978 and 138/1979).
+(b) Notices of Grant of Licences etc., under section 9 of the Act-
+(G.N.s 98/1970, 101/1970, 102/1970, 123/1970, 129/1970, 167/1970, 188/1970, 93/1971, 157/1972, 179/1973 and 36/1974).
+(c) Exploration Licence under section 9 of the Act-
+(G.N.s 116/1970 and 92/1971).
+(d) Production Sharing Contracts under section 9 of the Act-
+(G.N.s 155/1975, 156/1975, 157/1975 and 158/1975).
+(e) Competitive Bidding (Determination) Notice under section 10 of the Act-(G.N. 14/1970).
+(f) Competitive Bidding Orders under regulation 4 of the Petroleum Regulations 1970--
+(G.N.s 15/1970 and 223/1970).
+(g) Surrender of Licensed Areas Notice under regulation 21 of the Petroleum Regulations
+1970-- (G.N. 47/1971).
+(h) Renewal of Licence Notice under regulation 21 of the Petroleum Regulations 1970--
+(G.N. 16/1971).
+(i) Oil Impost Rating Orders under regulation 72 of the Petroleum Regulations 1970--
+(G.N.s 262/1971, 17/1973 and 202/1976).
+Note
+01!
+Revision Date
+As this Act was amended by the Law Revision (Miscellaneous Amendments) (No.1} Act 1979 (Act 45 of 1979), this Chapter has been revised up to 31st December 1979, instead of the normal revision date (31st December 1977).
+CHAPTER 62:01
+PETROLEUM ACT
+ARRANGEMENT OF SECTIONS
+SECTION
+1. Short title.
+PRELIMINARY
+2. Interpretation. 3. Public petroleum rights. 4. Private petroleum rights. 5. Responsibility of Minister and delegation by him.
+PART I
+PETROLEUM OPERATIONS
+Licences
+6. Licences. 7. Applications for licences. 8. Objections to licences. 9. Grant of licences. 10. Competitive bidding. 11. Certain conditions to be included in licences. 12. Conditions as to furnishing returns. 13. Special restrictions on grant of licences. 14. Exploration Licence confers non-exclusive rights. 15. Rights under an exploration and production licence. 16. Duty of licensee to deliver up facilities upon determination
+licence.
+Default and Disputes
+17. Failure ~o fulfil obligations, etc., consequences of. 18. Arbitration in certain cases of revocation of licences. 19. Force majeure-Effect of. 20. General provision as to arbitration of differences. 21. Conduct of arbitration. 22. Cesser of operations during arbitration.
+Non-Resident Companies
+23. Licensing of non-resident companies. 24. Service of documents.
+LAWS OF 11UNIDAD AND TOBAGO
+SECTION
+PART II
+ANCILLARY RIGHTS
+25. Licensee to negotiate for ancillary rights. 26. Power to grant ancillary rights. 27. Limitation on power of granting rights. 28. Applications for rights.
+PART III
+MISCELLANEOUS AND GENERAL
+29. Regulations. 30. Power in Minister to make Orders. 31. Power of Minister to fix prices of petroleum products. 32. Offences and penalties. 33. Other powers. 34. Financial provisions. 35. Restriction on disclosure on information. 36. Special provisions for emergencies. 3 7. Act binds the State. 38. Licences of existing petroleum licensees. 39. Savings.
+
+CHAPTER 62:01
+PETROLEUM ACT
+An Ad to consolidate and amend the law relating to petroleum
+so as to make better provisiom for the exploration for, and the development and production of, petroleum, and for matters consequential or incidental thereto.
+[30TH DEC. EMBER 1969]
+- Margin: of
+- Margin: 46 of 1969.
+- Margin: Commencement. 177/1969.
