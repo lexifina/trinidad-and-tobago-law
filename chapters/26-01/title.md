@@ -1,12 +1,12 @@
-Division of Trrinidad. [Ch. 27. No.4. 499
+Division of Trinidad. ECho 27. -No.4.
+/
 
-CHAPTER 27. No.4.
-DIVISION OF TRINIDAD.
-AN ORDINANOE RELATING TO THE DIVISION OF THE ISLAND OF No. Ordinances 5-1926.
-T RINIDAD. " 1-1927.
-[1st January, 1927.] Commencement.
-- Margin: F:??':c>~. --,_.
-- Margin: ,:;''0'
-- Margin: - .
-- Margin: _0'
-- Margin: . "~
+CHAPTER 27.. No.4.
+I,
+DIVISION OF TRINIDAD .
+. AN ORDINANCE RELATING TO THE DIVISION OF THE
+ISLAND OF TRINIDAD.
+{1st January, 1927.]
+- Margin: : 691
+- Margin: Ordinal1ce . Ch.27. NoA- 1940.
+- Margin: Commence- ment.
