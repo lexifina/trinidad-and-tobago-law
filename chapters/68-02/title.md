@@ -1,7 +1,8 @@
 CHAPTER 40. No.4.
-COUNTRY MARKE'l'S.
-AN ORDINANCE TO PROVIDE FOR 'l'HE REGULATION OF CERTAIN
-PUBLIC MARKETS.
-[I6th October, 1905.]
-- Margin: Ordinances Cap. 255- 1925. " 272- 1925. No. 33-1928. " 2---.1940.
-- Margin: Commencement.
+COUNTRY MARKETS.
+AN ORDINANCE TO PROVIDE FOR THE REGULATION OF
+CERTAIN PUBLIC MARKETS.
+[16th October, 1905.J
+- Margin: Ordinances Chi~~o~o.4-
+- Margin: No. 29-1944.
+- Margin: Connnence- ment.
