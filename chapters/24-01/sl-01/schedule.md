@@ -1,0 +1,4 @@
+# SCHEDULE
+The National Housing Authority. The Sugar Industry Labour Welfare Fund Committee. The Cocoa and Coffee Industry Board. The Sugar Industry Control Board. The Agricultural Society of Trinidad and Tobago. The Zoological Society of Trinidad and Tobago. The Management Development Centre. The National Lotteries Control Board. †The Public Library of Trinidad. †The San Fernando Carnegie Free Library. St. Michael's School for Boys. St. Dominic's Children's Home. St. Mary's Children's Home. St. Jude's School for Girls. Point Fortin Corporation.
+*This Order has been amended by the following: 142/1967, 54/1967, 81/1967, 128/1968, 154/1970, 60/1974, 100/1977, 45 of 1979, 21/1980, 155/1980, 156/1980, 73/l983, 85/l983, 83/1987, 2 of 1989, 78/1989, 50/1991, 107/1992. †See section 37 of Act No. 18 of 1998 which repealed Ch. 40:01 and Ch. 40:03 which established the above Authority.
+[Subsidiary]

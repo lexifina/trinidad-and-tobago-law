@@ -1,0 +1,31 @@
+# EIGHTH SCHEDULE
+GENERAL MANAGER OF THE PUBLIC TRANSPORT SERVICE CORPORATION
+1. The power delegated to the General Manager of the Public Transport
+Service Corporation is as follows:
+The power to exercise disciplinary control in respect of any alleged act of
+misconduct or indiscipline prescribed, in regulations 63 and 65 and in regulation 83(2)(a), (b) (c), (d), (e), (f) and (i) of the Statutory Authorities' Service Commission Regulations to the extent that the General Manager may charge an officer of the Authority with any offence prescribed as aforesaid and may impose, in respect of such misconduct or indiscipline, the penalty of a fine under subregulation (g) or of a reprimand under regulation 110(1)(f) of the said Regulations.
+2. In the exercise of the power delegated under paragraph 1, the General
+Manager shall-
+(a) exercise the powers of the Commission under regulation 88(1)
+and regulation 90(6) and (7) of the Statutory Authorities' Service Commission Regulations;
+(b) assign an officer of a grade higher than that of the officer
+charged with misconduct or indiscipline to be a disciplinary tribunal and that officer shall hear the evidence, find the facts and make a report thereon to the General Manager in accordance with the provisions respecting the functions and duties of a disciplinary tribunal as prescribed in the Statutory Authorities' Service Commission Regulations.
+Statutory Authorities' (Delegation of Powers) Order [Subsidiary]
+3. Any fine which the General Manager imposes under paragraph 1 Fines. shall not exceed an amount calculated on four days per month to a maximum of three months.
+4. The powers hereby delegated are in respect of officers in the Public Officers
+affected. Transport Service Corporation.
+5. The General Manager shall submit to the Commission once in every Report to
+Commission. quarter, a report of the exercise of any of the powers hereby delegated. [Subsidiary]
+STATUTORY AUTHORITIES' (DECLARATION) ORDER
+made under section 3(2)
+1. This Order may be cited as the Statutory Authorities'
+(Declaration) Order.
+2. The Statutory Authorities named in the Schedule are hereby
+declared to be subject to the provisions of the Act.
+- Margin: 24/1980.
+- Margin: Delegation of power.
+- Margin: Discipline.
+- Margin: Mode of exercise of powers.
+- Margin: *29/1967.
+- Margin: Citation.
+- Margin: Authorities declared subject to the Act.
