@@ -1,8 +1,7 @@
 # EIGHTH SCHEDULE
 POSTAGE RATES PAYABLE ON INLAND MAIL ITEMS
 (OTHER THAN PARCELS)
-Letters
-For the first oz. or part thereof .. 10 cents For each additional 2 oz. or part thereof 5 cents Postcards 6 cents Printed Papers
-For the first 2 oz. or part thereof 6 cents For each additional 2 oz. or part thereof 3 cents Small Packets
-For the first 4 oz. .. 10 cents Over 4 oz. up to 8 oz. 20 cents Over 8 oz. up to 1 lb. 35 cents Over 1 lb. up to 2 lb. 60 cents Articles for the Blind no charge
-- Margin: Regulation II. [117/1971 2311972 160/1975).
+Letters, Postcards, Printed Papers and Small Postal Articles
+$ c. For the first 20 grammes or part thereof ...50 Over 20 grammes up to 50 grammes ...85 Over 50 grammes up to 100 grammes ... 1.10 Over 100 grammes up to 250 grammes ... 1.75 Over 250 grammes up to 500 grammes ... 2.75 Over 500 grammes up to 1 kilogramme ... 4.50 Over 1 kilogramme up to 2 kilogrammes ... 5.50 For each additional 1 kilogramme or part thereof … … … 1.00 ARTICLES FOR THE BLIND ... No Charge
+Trinidad and Tobago Post Regulations [Subsidiary]
+- Margin: Regulation 11. [3 of 1994].
