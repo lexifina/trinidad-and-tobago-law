@@ -1,5 +1,7 @@
-CHAPTER 155.
+CHAPTER 22. No.8.
 FOREIGN LABOUR CONTRACTS.
-AN ORDINANCE RELATING To FoREIGN LAnouR CoNTRACTs.
-[10th February, 1900. J
-- Margin: Ordi'IUlnce No.106.
+AN ORDINANCE RELATING TO FOREI,GN LABOUR
+CONTRACTS.
+[10th February, 1900.J
+- Margin: Ordinance Ch.22. No.7- 1940.
+- Margin: Commence- ment.
