@@ -1,0 +1,2 @@
+# 8A. Procedure for eradication of diseases and pests. [2 of 2001]. Schedule.
+A Plant Quarantine Officer or an officer authorised by the Chief Technical Officer may, by notice in writing in the form set out in the Schedule to this Act, served upon the occupier of any land, require him to take within a time specified in the notice, all such measures as may be necessary for the eradication or the prevention of the spread of any diseases or pests.
