@@ -1,0 +1,8 @@
+'ClIAP,TER 32." No . .13.
+, ,
+" COPRA'fRODUU1j,'CON'TROL.
+OIWINANCE RELATING • TO. THE MANUFACTURID Ol!~ DEGDGRlSElJ , EDIBLE OIL, LARD SUBs'rITUTE, AND OTHER I'RGDUU1'S GBTAINED FROM 'I'HE KERNEL GF'THE COCONUT.
+'I,
+- Margin: '0" ____ • ... _, !h
+- Margin: GrrlinannesAN No. 1-1!)32. " 11-1933. '" 4...-1934. " 18-1938.
+- Margin: COlllmmwelllllllt.
