@@ -1,7 +1,9 @@
-CHAPTER 4i. No.2.
+CHAPTER 41. No.2.'
 GIRL GUIDES ASSOCIATION.
-AN ORDINANCE '1'0 FURTHER AND PROTECT THE AC'l'IVITIES
-AND INTERESTS OF THE GIRL GUIDES ASSOCIATION IN THIS COLONY.
-[8th JIIla1'ch, 1929.]
-- Margin: Ordinance No.1-UJ29.
-- Margin: Commenooment.
+AN ORDINANCE TO FURTHER G AND PROTECT G A THE ACTIVITIES
+AND INTERESTS OF THE IRL UIDES' SSOCIATION IN THIS COLONY.
+[8th March, 1929.]
+1 This' Ordinance may be cited as theGitl Guides Association Ordinance.
+- Margin: Ordinance Ch.41. No.2- 1940.
+- Margin: Commence- ment.
+- Margin: ShOrt title.
