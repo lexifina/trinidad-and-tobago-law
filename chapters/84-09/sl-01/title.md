@@ -1,0 +1,3 @@
+SUBSIDIARY LEGISLATION
+RURAL PEDLARS REGULATIONS
+deemed to be made under section 11
