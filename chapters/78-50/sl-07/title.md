@@ -1,3 +1,0 @@
-EXCISE DUTY (PETROLEUM PRODUCTS) ORDER
-made under section 13 (2)
-- Margin: * 1/1973. [10/1974 10111978].

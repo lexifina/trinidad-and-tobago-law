@@ -1,3 +1,0 @@
-EXCISE OFFICERS (OVERTIME) REGULATIONS
-made under section 76
-- Margin: 42/1957. [43/1960. 9411961]'
