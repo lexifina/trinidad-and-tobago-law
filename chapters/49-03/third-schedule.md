@@ -1,0 +1,5 @@
+# THIRD SCHEDULE
+OFFICES IN THE PUBLIC SERVICE ON
+ESTABLISHMENT OF THE CIVIL AVIATION DIVISION
+Director of Civil Aviation Deputy Director of Civil Aviation Assistant Director of Civil Aviation Air Traffic Service Instructor Airworthiness Inspector Air Traffic Controller IV Chief Instructor Instructor's Aide, Air Traffic Services Administrative Officer IV Air Traffic Controller III Air Traffic Controller II Air Traffic Controller I Air Traffic Controller Assistant Flight Operations/Licensing Officer Administrative Assistant Clerk IV Clerk III Clerk II Clerk I Clerk Stenographer III Clerk Stenographer II Clerk Stenographer I Clerk Typist I Male Airport Attendant III Storekeeper I Male Airport Attendant II Female Airport Attendant II Automotive Mechanic Motor Vehicle Driver Accounting Assistant Male Airport Attendant I Female Airport Attendant I Messenger I Electronic Engineer Telecommunications and Electronics Technician III Telecommunications and Electronics Technician II Telecommunications and Electronics Technician I Air Traffic Radar Systems Manager Electronic Maintenance Engineer
+- Margin: Section 26.
