@@ -1,0 +1,13 @@
+# SCHEDULE
+1. Particulars of the house and land sufficient to identify the property to which the notice extends ...
+2. The prescribed value or the estimated open market value of the land at the date of this notice is $ ...
+3. If a Memorandum of Lease has been signed pursuant to Regulation 3(1) particulars to identify such Memorandum ...
+4. The date on which the tenant acquired the tenancy ...
+NOTES-
+1. The landlord must serve a notice in reply in Form 5 within two months of service on
+him of this notice. If the landlord does not admit the tenant's right to purchase the land the notice in reply must state the grounds on which it is not admitted.
+2. Any landlord whose interest is subject to a mortgage or other charge to secure the
+payment of money should on his receipt of this notice inform the mortgagee or person entitled to the benefit of the charge.
+3. "Land" to be included in the notice includes any garage, outhouse, garden, yard and
+appurtenances which at the time of the notice are let to the tenant with the chattel house and are occupied with and used for the purposes of the house or any part of it by the tenant.
+*Delete where inapplicable. [Subsidiary] Land Tenants (Security of Tenure) (Forms and Notices) Regulations

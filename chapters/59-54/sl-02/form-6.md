@@ -1,0 +1,16 @@
+# FORM 6
+THE LAND TENANTS (SECURITY OF TENURE) ACT, CH. 59:54
+NOTICE UNDER SECTION 4(3) OF THE ACT OF
+RENEWAL OF STATUTORY LEASE
+To ...
+(Name and Address of Landlord)
+and all others on whom a copy of this notice may be served.
+TAKE NOTICE that I, the undersigned, being tenant of the land described in the Schedule hereto, desire to have a renewal of the statutory lease of the said land in the exercise of the right conferred by section 4(3) of the Land Tenant's (Security of Tenure) Act.
+The particulars on which I rely are set out in the Schedule to this notice.
+Dated this ... day of ..., 20...
+Signed ...
+(Tenant)
+...
+(Address)
+The name and address of my Attorney-at-law or agent, to whom further communications
+may be sent is ...
