@@ -1,7 +1,9 @@
+I - I' - ~ ~ :~.
+
 CHAPTER 4. No. 22.
 PROBATION OF OFFENDERS.
-AN ORDINANCE TO PERMIT THE RELEASE ON PROBATION OF
-OFFENDERS IN CERTAIN CASES.
-[26th December, 1911.]
-- Margin: I Ordinance Cap. 32-1925.
-- Margin: Commencement.
+AN ORDINANCE TO PROVIDE FOR THE PROBATION OF
+OFFENDERS.
+[6th November, 1947.J
+- Margin: Ordinance No. 35-1947.
+- Margin: Commence .. ment.
