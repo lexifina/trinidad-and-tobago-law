@@ -1,0 +1,41 @@
+RETIRING ALLOWANCES
+(DIPLOMATIC SERVICE) ACT
+CHAPTER 17:04
+Act
+44 of 1976
+Index of Subsidiary Legislation
+Page Retiring Allowances (Diplomatic Service) Regulations (GN 104/1976) … 15
+Note on Adaptation
+Under paragraph 6 of the Second Schedule to the Law Revision Act (Ch. 3:03) the Commission amended certain references to public officers in this Chapter. The Minister's approval of the amendments was signified by LN 52/1980, but no marginal reference is made to this Notice where any such amendment is made in the text.
+CHAPTER 17:04
+RETIRING ALLOWANCES
+(DIPLOMATIC SERVICE) ACT
+ARRANGEMENT OF SECTIONS
+SECTION
+1. Short title. 2. Interpretation.
+PART I
+CIVIL SERVANTS APPOINTED HEADS OF MISSION
+3. Civil servants appointed Heads of Mission.
+PART II
+HEADS OF MISSION-RETIREMENT BENEFITS 4. Application of Part II. 5. Contributors. 6. Contributions. 7. Circumstances in which retiring allowances shall be paid. 8. Rate of retiring allowance. 9. Gratuity.
+10. Widow's allowance. 11. Children's allowance.
+PART III
+SPECIAL PROVISIONS FOR CERTAIN
+HEADS OF MISSION
+12. Application of Part III. 13. Right to elect gratuity and retiring allowance under this Part. 14. Deemed election. 15. Gratuity. 16. Retiring allowance.
+ARRANGEMENT OF SECTIONS-Continued
+SECTION
+PART IV
+GENERAL PROVISIONS
+17. Awards to be charged on Consolidated Fund. 18. Awards not to be assignable. 19. Power to make Regulations. 20. Cessation of retiring allowance if person again becomes a legislator
+or Head of Mission.
+21. Set-off against sums already paid.
+
+CHAPTER 17:04
+RETIRING ALLOWANCES
+(DIPLOMATIC SERVICE) ACT
+An Act to provide retiring allowances on a contributory basis
+to persons who have served as Ambassadors, High Commissioners and as Principal Representatives of Trinidad and Tobago, to provide allowances for the widow and children of such persons and to provide for matters connected therewith or incidental thereto.
+[1ST JANUARY 1976]
+- Margin: 44 of 1976.
+- Margin: Commencement.
