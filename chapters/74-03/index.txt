@@ -21,9 +21,12 @@ s-19.md
 s-20.md
 s-21.md
 schedule.md
+form-a.md
 form-b.md
 form-c.md
 form-d.md
+form-e.md
+form-f.md
 sl-01/title.md
 sl-01/r-1.md
 sl-01/r-2.md
