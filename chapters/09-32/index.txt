@@ -22,3 +22,7 @@ s-20.md
 s-21.md
 s-22.md
 s-23.md
+s-24.md
+first-schedule.md
+second-schedule.md
+sl-01/title.md
