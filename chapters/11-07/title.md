@@ -1,0 +1,6 @@
+CHAPTER 26.
+TRESPASS.
+AN ORDINANCE FOR THE PREVENTION OF WILFUL TRESPASS
+ON LANDS. [lOth No1,ember•, 1852.} ' ! I
+, '
+- Margin: O,;dina ... nces bo. 1. 21 of 1910. ,
