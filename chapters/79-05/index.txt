@@ -8,4 +8,5 @@ s-6.md
 s-7.md
 s-8.md
 schedule.md
+annex-a.md
 annex-b.md
