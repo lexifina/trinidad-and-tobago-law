@@ -1,6 +1,7 @@
-CHAPTER 22. No.6.
+CHAPTER 22. No.7.
 RECRUITING OF WORKERS.
-ORDINANCE TO REGULATE THE. RECRUITING OF WORKERS.
-[On Proolamation (a).J
-- Margin: AN Ordinance No. 29-1938,
-- Margin: Commencement.
+AN ORDINANCE TO REGULATE THE RECRUITING OF
+WOREERS.
+[1st September, 1939.J
+- Margin: Ordinance Ch.22. No.6- 1940.
+- Margin: Commence- ment.
