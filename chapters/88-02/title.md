@@ -1,7 +1,18 @@
-CHAPTER 22. No.9.
-TRA.DE UNIONS.
-AN ORDINANCE R,ELATING TO TRADE UNIONS. Ch.22. Ordina.nces. No.8-
-1940.
-;No. 46-1943.
-[1st J~tly, 1933.J ,ment. Commence-
-10 This Ordinance may be cited as the 'Trade Unions ShQrt title. Ordinance ..
+~D TO
+'" ___ ---->E UN_ _ _ __ ACT
+
+CHAPTER 88 :02
+Ad
+20 of 1932
+Amended by
+46 of 1943
+Current Auth )ages
+39 1/1980
+L.R.D. 1/1990
+Index
+of
+Subsidiary Legislation
+Page Trade Unions Regulations (G. 30.3.1933) 20
+Note
+on
+Adaptation
