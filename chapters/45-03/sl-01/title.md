@@ -1,3 +1,0 @@
-SUBSIDIARY LEGISLATION
-IDNDU MARRIAGE REGULATIONS
-deemed to be made under section 26
