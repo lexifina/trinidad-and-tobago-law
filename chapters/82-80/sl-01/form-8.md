@@ -1,0 +1,20 @@
+# FORM 8
+COPYRIGHT ACT
+(CH. 82:80)
+NOTICE OF CONSENT TO RELEASE OF COPIES
+To: The Comptroller of Customs and Excise
+Re: ...
+* Pursuant to Notice of Importation dated: ...
+** I/We ...
+of ...
+being the owner of the copies seized pursuant to the above-mentioned Notice hereby consent to the release of the said copies/the copies specified hereunder: †
+Description of Copies Number of Packages
+Date ... Signature ‡ ...
+...
+* Briefly state the name of the work/sound recording to which the Notice relates.
+** If a natural person insert the person's full name. If a company or body insert
+the company or body's full name.
+† Insert the description of the copies and the number of packages, if known.
+‡ If notice is given by a company or body insert the name and position of the
+signatory in the company or body.
+- Margin: Regulation 14(1)(a)(iii).
