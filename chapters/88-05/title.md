@@ -1,6 +1,12 @@
-CHAPTER 22. No. 12.
-ORDINANOE TO PROVIDE FOR THE PAYMENT OF COMPENSATION TO WORKMEN FOR INJURIES SUFFERED IN THE OOURSE OF THEIR EMPLOYMENT.
-[1st J an'Uary, 1927.]
-- Margin: AN Ordinances
-- Margin: No. 83-1926. " 0-1926. " 5-1932. " 1-1933.
-- Margin: Commencement.
+\VORKl\1EN'S C01VIPENSATION.
+AN 1 ORDINANCE TO PROVIDE FOR THE PAYMENT OF COM-
+PENSATION TO, WORK~EN FOR INJURIES SUFFERED IN THE COURSE OF THEIR ElVIPLOYMENT.
+[1st January, 1927.]
+~ 1. This Ordinance may be cited as the Workmen's Co~pensati6n Ordinance.
+'<\", ':",
+\ ~ . Preliminary.
+- Margin: Ordinances Ch.22. No.12
+- Margin: -1940.
+- Margin: No: 12-1945. 11 23-1948.
+- Margin: Commence- -ment.
+- Margin: Short title.
