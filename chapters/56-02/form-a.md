@@ -1,0 +1,13 @@
+# FORM A
+I, A.B., of ... do solemnly and sincerely declare as follows: that I am (or on behalf of X. Y., that he is) seised of an estate of (here state whether of inheritance or of a life estate or leasehold for life or lives or term of years and whether held in trust) in all that piece of land situate in (here state the situation) containing (here state the area) be the same a little more or less (exclusive of roads intersecting the same if any) with (here state rights of way and other privileges or easements appertaining and set forth a sufficient description to identify the land) which piece of land is of the value of $ ... and no more, and is (the town allotment or country section or is part of the town allotment, country section, or reserve) originally granted to ... by grant under the hand and seal of ... formerly President of Trinidad and Tobago.
+Dated, etc.
+And I do further declare that I am not aware of any mortgage, encumbrance, or claim affecting the said land, or that any person hath any claim, estate, or interest in the said land at law or in equity in possession or in expectancy other, than is set forth as follows that is to say (here state particulars of mortgages, encumbrances, dower, lease, or other interest to which the land may be subject), and I further declare that there is no person in possession or occupation of the said land adversely to my estate or interest therein and that the said land is now (here state the name and description of occupier or that the land is occupied) and that (here state the names and addresses of both owners and occupiers of lands contiguous thereto) and that there are no Deeds or instruments of title affecting such land in my possession or under my control or to my knowledge registered in the offce of the Registrar General, other than those enumerated in the Schedule hereto or at the foot hereof, and I make this declaration conscientiously believing the same to be true and according to the Statutory Declarations Act, and I am aware that if there is any statement in this declaration which is false in fact, or which I know or believe to be false, or do not believe to be true, I am liable to fine and imprisonment.
+Dated, etc.
+Signature of A.B.
+{ Made and subscribed by the above-named Registrar General (or
+Deputy Registrar General,
+this ... day of...
+or Justice of the Peace or other qualified official). 20..., in the presence of me
+I, A.B., the above declarant do hereby apply to have the piece of land described in the above declaration brought under the provisions of the Real Property Act.
+Dated, etc.
+Witness to signature, C.D.
