@@ -1,0 +1,6 @@
+CHAPTER 18.
+LIBEL AND DEFAMATION.
+AN ORDINANCE RESPECTING DEFAMATORY WORDS AND LIBEL.
+[26th January, 1846. J
+- Margin: ~o~i~~~ces
+- Margin: " 87, 8. 9) , 29 of 1925, •. 3.
