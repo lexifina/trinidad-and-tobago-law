@@ -1,4 +1,4 @@
 SUBSIDIARY LEGISLATION
 LIQUOR LICENCES REGULATIONS
 made under section 83
-- Margin: 195/1955.
+- Margin: 195/1955. [6 of 1991].
