@@ -1,0 +1,18 @@
+# APPENDIX VIII
+INSPECTION STICKER
+INSPECTION PASSED INSPECTION PASSED
+MINISTRY OF WORKS AND TRANSPORT
+TRANSPORT DIVISION
+Jan
+Jul
+Feb
+Aug
+Mar
+Sep
+Apr
+Oct
+May Nov
+Jun Dec
+TRINIDAD & TOBAGO
+Registration No. Inspected
+[Subsidiary] Motor Vehicles and Road Traffic Regulations
