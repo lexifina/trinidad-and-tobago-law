@@ -1,0 +1,94 @@
+CORPORATION TAX ACT
+CHAPTER 75:02
+Act
+29 of 1966*
+Amended by
+2/1968 50/1987 14 of 1994 14 of 1968 3 of 1988 22 of 1994 5 of 1969 11 of 1988 24 of 1994 13 of 1969 12/1988
+4 of 1995 32 of 1969 33/1988
+5 of 1995 46 of 1969 6 of 1989
+8 of 1996 5 of 1970 18 of 1989
+9 of 1997 35 of 1971 94/1989
+35 of 1998 22 of 1974 9 of 1990
+37 of 2000 30 of 1974 6 of 1991
+39 of 2000 14 of 1976 65/1991
+50 of 2000 1 of 1979 4 of 1992
+91 of 2000 203/1979
+137/1992
+203/2001 22 of 1980 6 of 1993 2 of 2002 11 of 1984 22 of 1993 5 of 2004 *14 of 1987 3 of 1994
+*See Note on page 2
+Note on Subsidiary Legislation
+Note on Omissions
+A. Delegation of Functions (Corporation Tax) Orders (LNs 151/1987 and 137/1996) have
+been omitted.
+Note on sections 16 B(3) and 16C
+B. The following Notices made under the above sections have been omitted:
+(i) Regional Development Areas Notices [made under section 16B(3)]
+- See LN 103/1990.
+(ii) Approved Activities Notices (made under section 16)- See LN 104/1990.
+Note on Act No. 29 of 1966
+Part II of the Finance Act 1966 (Act No. 29 of 1966) dealt with corporation tax. Parts I and III dealt with amendments to the Income Tax Ordinance Ch. 33 No. 1 (1950 Ed.) and other miscellaneous matters. Part II has been detached and published separately in this Chapter under the title "the Corporation Tax Act".
+Note on Act No. 14 of 1987
+See Part III of Act No. 14 of 1987 which amends this Act by implication.
+CHAPTER 75:02
+CORPORATION TAX ACT
+ARRANGEMENT OF SECTIONS SECTION
+1. Short title.
+PART I
+TAXATION OF COMPANIES
+PRELIMINARY
+2. Interpretation.
+IMPOSITION OF CORPORATION TAX
+3. Charge of corporation tax.
+3A. Business levy. 3B. (Repealed by Act No. 9 of 1997).
+4. General scheme of corporation tax.
+BASIS OF ASSESSMENT AND EXEMPTIONS
+5. Basis of assessment. 6. Exemptions.
+6A. Market Development Grants.
+COMPUTATION OF PROFITS
+7. General rules for computation of income.
+}
+8. to (Repealed by Act No. 2 of 2002). 9. 10. Deductions and additions in computations of profits for capital
+allowances and related charges.
+10A. (Repealed by Act No. 6 of 1989). 10B. Promotional expenses. 10C. Deductions of loans by approved small companies. 10D. Deductions of contributions to catastrophe reserve fund. 10E. Deductions for training of employees. 10F. Bonds, notes, debentures, other debt securities.
+ARRANGEMENT OF SECTIONS-Continued
+SECTION
+10G. Art and culture allowance. 10H. Scholarship allowance.
+10I. Deduction of expenditure by promoters or sponsers of sporting
+activities and sportsmen.
+10J. Deduction of expenditure by sponsers for audio, visual or
+video productions.
+10K. Deduction of expenditure by a production company. 10L. Assessing chargeable profits. 10M. Double deductions prohibited. 10N. Certification by the Minister.
+CLOSE COMPANIES
+11. Power to direct distribution of certain profits. 12. Deductions for Director's remuneration. 13. Supplementary provisions about close companies.
+SPECIAL CLASSES OF COMPANIES
+14. Special provisions as to Insurance Companies and Shipping
+Companies, etc.
+15. Approved mortgage companies, etc. 16. Deduction for capital expenditure by approved property
+development company.
+16A. Reliefs for certain companies. 16B. Regional development company. 16C. Classifying of approved activity. 16D. Registration of companies. 16E. Cancellation of certiﬁcate. 16F. Claim for credit. 16G. Variation of rate of tax credit. 16H. Deﬁnitions.
+16I. Tax credit on interest paid by mutual funds. 16J. Tax credit from Export Import Bank.
+17. Application and adaptation of Income Tax Act as to capital allowance
+and other matters.
+18. Double taxation relief.
+18A. Interpretation. 18B. Relief for trading losses. SECTION
+18C. Group relief available. 18D. A company not a 100 per cent subsidiary. 18E. Company not to be treated as a 100 per cent subsidiary. 18F. Set off of trading loss. 18G. Claims for giving relief. 18H. Limit to group relief.
+18I. Corresponding accounting period. 18J. Denial of group relief.
+18K. Relief obtainable once for the same amount. 18L. Aggregate of claim. 18M. Non-application of relief.
+19. Application of certain provisions of the Act.
+19A. Penalty for late filing.
+MISCELLANEOUS AND GENERAL
+20. Special return. 21. Nominee share holdings. 22. Partnerships. 23. Information as to non-resident companies and trusts. 24. Valuation. 25. Priority of tax in bankruptcy.
+PART II
+MISCELLANEOUS
+26. General as to exemption.
+FIRST SCHEDULE- RATE OF CORPORATION TAX. SECOND SCHEDULE-(REPEALED BY ACT NO. 2 OF 2002). THIRD SCHEDULE-CLOSE COMPANIES. FOURTH SCHEDULE-INSURANCE, SHIPPING AND AIR NAVIGATION
+COMPANIES. FIFTH SCHEDULE-EXEMPTIONS. SIXTH SCHEDULE-COUNTRIES IN RESPECT OF WHICH EXPENSES
+AND GRANTS MAY NOT BE CLAIMED.
+
+CHAPTER 75:02
+CORPORATION TAX ACT
+An Act to provide for the taxation of short-term capital
+gains and to make better provisions for the taxation of company profits and for matters incidental thereto or consequential thereon.
+[1ST JANUARY 1966]
+- Margin: 29 of 1966.
+- Margin: Commencement.
