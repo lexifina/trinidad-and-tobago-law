@@ -1,0 +1,5 @@
+CHAPTER 268.
+PAWNBROKERS.
+AN ORDINANCE RELATING TO PAWNBROKERS.
+[25th September, 1889.]
+- Margin: Ordinance 4t No. " 6 o/1918, , 69 of 1021.
