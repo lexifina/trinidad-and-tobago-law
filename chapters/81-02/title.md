@@ -1,5 +1,9 @@
-CHAPTER 182.
+-- -~~-~ --:-------
+!. ::'1
+
+CHAPTER 31. No.2.
 PARTNERSHIP.
-AN ORDINANCE TO DECLARE THE LAW OF PARTNERSHIP.
-[1st January, 1914.]
-- Margin: Otdh1ance No. 30 of 1913.
+AN ORDINANOE TO DEOLARE THE LAW OF PARTNERSHIP.
+[1st Janua1'Y, 1914.J
+- Margin: Ordinance Cap. 182- 1925.
+- Margin: Commencement.
