@@ -1,0 +1,3 @@
+# SCHEDULE
+The area known as the Buccoo Reef delineated on the map annexed to Government Notice No. 140/1973 published in the Trinidad and Tobago Gazette Vol. 12 No. 263 on 13th Sep-tember 1973, the limits of which are more precisely described as follows:
+Commencing ata point with co-ordinates 88875 N, 78125 E ; thence proceeding in a generally northerly direction to a point with co-ordinates 95740 N, 95920 E; thence in a westerly direction to a point with co-ordinates 95900 N, 65575 E;' thence in a southerly direction to a point with co-ordinates 88570 N, 65575 E; thence in an easterly direction to a point with co-ordinates 88570 N, 68430 E; thence along the highwater mark and including the mangrove forest bordering the Bon Accord Lagoon and its environment.
