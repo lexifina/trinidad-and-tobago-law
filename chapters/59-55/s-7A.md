@@ -1,0 +1,3 @@
+# 7A. Board may review and vary rent. [36 of 1991]
+(1) Notwithstanding section 7, a landlord or a tenant who is registered in accordance with this Act may apply to the Board for a review of the rent of premises to which the application refers on the grounds that such rent is unreasonably low or unreasonably high as the case may be.
+(2) On the hearing of any application under this section, the Board may vary such rent as it thinks equitable having regard to the type, standard and location of the premises to which this Act applies, the prevailing social and economic conditions and any other relevant circumstances.
