@@ -1,10 +1,5 @@
----
-Pilotage. [tho is. No. a.
-) . \' i . \ \
-
-CHAPTER 18. No.3.
+CHAPTFR 18 l"To. 3.
 PILOTAGE.
-AN ORDINANCE RELATING TO PILOTS AND PILOTAGE.
-[28th December, 1939.]
-- Margin: Ordinance No. 33-1939.
-- Margin: Commencement.
+Bye-laws :made by the Pilotage Authority under Sections 6 and 7 ,of
+. the Pilotage Ordinance.
+- Margin: G.N.- 136-1947. 79-1948. 189-1950. 275-1950.
