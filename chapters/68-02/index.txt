@@ -5,3 +5,8 @@ s-3.md
 s-4.md
 s-5.md
 s-6.md
+sl-01/title.md
+sl-01/r-1.md
+sl-01/r-2.md
+sl-01/schedule.md
+sl-01/schedule--2.md
