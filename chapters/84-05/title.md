@@ -1,6 +1,6 @@
-CHAPTER 31. No. 12 . .
-PA WNBROKERS.
-AN ORDINANCE RELATING TO PAWNBROKERS.
-[25th September, 1889.]
-- Margin: Ordinances Ch.31. No.12 - 1940. No. 7-1945.
-- Margin: Commence- ment.
+CHAPTER 84:05
+PA WNBROKERS ACT
+An Act relating to Pawnbrokers.
+[25TH SEPTEMBER 1889]
+- Margin: Ch. 31 No. 12. 1950 Ed.
+- Margin: 22 of 1889. Commencement.
