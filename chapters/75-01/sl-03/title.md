@@ -1,0 +1,4 @@
+INCOME TAX (JUDGMENT CERTIFICATE)
+REGULATIONS
+made under section 125
+- Margin: 169/1966.
