@@ -1,5 +1,7 @@
-CHAPTER 171.
-TRINIDAD SURVEY.
-AN ORDINANCE RELATING TO THE SURVEY OF TRINIDAD.
-[9th June, 1897.]
-- Margin: 01·dina.nces No. 114, , 29 of 192f, $, 8;
+CHAPTER 27. No.3.
+COLONY SURVEY.
+AN ORDINANCE RELATING TO THE SURVEY OF'THE
+COLONY.
+[21st December, 1939.]
+- Margin: Ordinance No. 29-1939.
+- Margin: Conlmencement.
