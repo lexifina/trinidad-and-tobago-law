@@ -5,4 +5,6 @@ s-3.md
 s-4.md
 s-5.md
 schedule.md
+form-a.md
+form-b.md
 sl-01/title.md
