@@ -1,0 +1,4 @@
+# SCHEDULE IX
+Amortisation Plan
+(Give particulars)
+(Delete whatever is inapplicable).

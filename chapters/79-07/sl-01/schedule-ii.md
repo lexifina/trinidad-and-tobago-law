@@ -1,0 +1,3 @@
+# SCHEDULE II
+Buildings
+All that ... measuring ... and containing ... rooms built of ... ' ... erected/standing on my oWn/rented/leased lands, situate at ... in the Ward of ... in the County of ... If rented or leased, state from whom ...

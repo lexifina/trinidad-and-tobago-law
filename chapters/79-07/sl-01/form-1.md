@@ -1,0 +1,59 @@
+# FORM 1
+AGRICULTURAL DEVELOPMENT -BANK ACT
+APPLICATION FOR LOAN
+Address
+Dated The Chairman, Board of Directors, Agricultural Development Bank, 86, Duke Street, Port-of-Spain Sir,
+I hereby make application for a loan of ... Dollars on the security of (a) Landed Security: ...
+(b) All Other Security: ...
+••••• •• 0 •••••••••••••••••••••••• 0 •••••••••••• • ••••••••••••••••••••••••••••• ; ••
+Under section 44(1).
+2. The loan is required in accordance with section 41(1), section 41(2) for the purpose of ...
+3. I enclose receipts showing Land and Building Taxes and Water Rates for the year
+Assessment Roll Numbers ... Payable at the District Revenue Office (formerly Warden's Office) at ...
+4. I agree to furnish all further particulars of title requested of me. 5. I agree to purchase shares in the Bank to an amount equal in value to at least 5 per cent of the loan on such terms and conditions as the Board may determine. [Subsidiary) Agricultural Development Bank Regulations
+6. I agree to abide by the Rules and Regulations of the Bank. 7. The undermentioned questions and answers are deemed to be the basis of application.
+I am, Sir,
+Yours faithfully,
+Questions to be answered by Applicant
+1. (a) Are the above securities encumbered? ...If so, state hereunder: Name of Amount Dated Balance Interest Security offered Encumbrancer Due for the Loan
+1. (b) Do you have any judgment, lis pendens (pending action) or executions recorded against your name. (If so, give details).
+2. How many acres have you under cultivation and what are the crops grown?
+Area: Crop: Area: Crop: Area: Crop: Area: Crop:
+3. Are you the Owner of the freehold or the leasehold interest in the land? ... 4. If the Owner of Agricultural Stock or Crop alone what is your status (i.e. tenant, licensee, etc.).
+5. If a Lessee, state: Name of Landlord ...
+Unexpired term of years ... Condition of lease ...
+Agricultural Development Bank Regulations
+6. Are there any buildings offered as Security? If so, give details hereunder (stating whether they are not on any lands so offered) ...
+7. Are the buildings insured? If so, state the amount and name of Company:
+Amount: $ ... Company Amount: $ ... Company
+8. (Other) Agricultural Stock (including crop if any) ...
+9. Give particulars of Title of every interest or estate (whether freehold or leasehold and/or stock) given as security ...
+10. Disclose in detail whether apart from yourself there is:
+(a) Any occupant on the lands or any part thereof and their status (ie., whether lessees,
+tenants, licensees, contractors, or whether holding under an agreement or otherwise), or whether there are other persons entitled to occupy such land, and the names and addresses of such persons. [Subsidiary 1 Agricultural Development Bank Regulations
+(b) Any person connected with or in any way using or enjoying the land (or entitled to
+the use, enjayment or benefit of the produce thereof) or any part thereof, and the names and addresses of such persons.
+(c) (In the case of the owner of crops) whether the tenancy or other occupancy has
+been assigned or sublet and the names and addresses of the assignees or sublessees.
+(d) The areas occupied, used or enjoyed by the respective persons referred to in (a) ,
+(b) or (c) .
+... , ...
+11. If not freeholder or leaseholder furnish evidence of your status ... ~ ... , , ... , ... , .. .
+12. What is your estimate of the present sale value of the Security offered in:
+(a) $
+(b) $
+13. For what period do you require the Loan? ... years.
+Agricultural Development Bank Regulations
+14. Amount of crops reaped from lands offered as security for the last past three years:
+19 ... 19 ... 19 ...
+Cocoa (Number of pounds) Coffee (Number of pounds) Copra (Number of pounds) Citrus (Number of crates) Bananas (Valued at) $ $ $ Other Crops $ $ $
+15. Are you resident on the property offered as security? ... If not, give full details re management: ...
+16. Name of Surety ...
+Address ... Occupation ...
+I, ... declare that the statements and other particulars herein contained are true and correct to the best of my knowledge and belief and that they give a true account of the extent and ownership of the security offered.
+And I make this Declaration conscientiously believing the same to be true and according to the Statutory Declaration Act (Ch. 7:04), and I am aware that if there is any statement in this Declaration which is false in fact, which I know or believe to be false or do not believe to be true I am liable to fine and imprisonment.
+Declared at ... this ... day of ... 19 ...
+Before me, [Subsidiary] Agricultural Development Bank Regulations
+- Margin: 111980
+- Margin: 111980
+- Margin: [ Subsidiary]
