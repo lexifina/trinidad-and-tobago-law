@@ -1,0 +1,4 @@
+PRIVILEGES AND IMMUNITIES (CONVENTIONS OF
+LOMÉ) (NO. 2) ORDER
+made under section 9
+- Margin: 89/1990.
