@@ -1,0 +1,6 @@
+# FORM 41
+(Rule 67)
+SUPPLEMENTAL LIST OF CONTRIBUTORIES
+(Title same as Form 2)
+1. The following is a list of persons who, since making out the list of contributories herein, dated the ...day of ... 20..., I have ascertained are, or have been, holders of shares in [or members of] the above-named company, and to the best of my judgment are contributories of the said Company. 2. The said supplemental list contains the names of such persons together with their respective addresses and the number of shares [or extent of interest] and the amount called up at the commencement of the winding up and the amount paid up at such date in respect of the shares [or interest] to be attributed to each. 3. In the first part of the said list, such of the said persons as are contributories in their own right are distinguished. 4. In the second part of the said list, such of the said persons as are contributories as being representatives of, or being liable to the debts of others, are distinguished. [The supplemental list is to be made out in the same form as the original list].
+The Companies Winding Up Rules

@@ -1,0 +1,694 @@
+# SECOND SCHEDULE
+THE COMPANIES WINDING UP RULES
+PRELIMINARY
+1. These Rules may be cited as the Companies Winding Up Rules and shall apply to the proceedings in every winding up under the Act of a company which shall commence on and after the date on which the Act comes into operation. Rules which from their nature and subject matter are, or which by the head lines above the group in which they are contained or by their terms are made applicable only to the proceedings in a winding up by the Court, or only to such proceedings and proceedings in a creditors' voluntary winding up shall not apply to the proceedings in a voluntary winding up whether any such voluntary winding up is or is not being continued under the supervision of the Court.
+2. In these Rules, unless the context or subject-matter otherwise requires: "the Act" means the Companies Act; "the company" means a company which is being wound up or against which
+proceedings to have it wound up have been commenced; "Judge" means a Judge of the Supreme Court; "proceedings" means the proceedings in the winding up of a company under
+the Act; "the Registrar" has the meaning assigned to it in the Act; "sealed" means sealed with the seal of the Court.
+3. The Forms in the Appendix, where applicable, and where they are not applicable Forms of the like character, with such variation as circumstances may require, shall be used. Where such Forms are applicable any costs occasioned by the use of any other or more prolix Forms shall be borne by or disallowed to the party using the same unless the Court shall otherwise direct.
+COURT AND CHAMBERS
+4. (1) The following matters and applications shall be heard and determined in open Court:
+(a) Petitions;
+(b) Appeals from the Official Receiver and the Liquidator;
+(c) Public Examinations;
+(d) Applications under subsections (1) and (2) of section 447 of
+the Act and such applications under subsection (4A) of the said section as can be made to the Court;
+The Companies Winding Up Rules
+(e) Proceedings under section 448 of the Act;
+(f) Applications under subsection (1) of section 449 of the Act;
+(g) Applications under section 399A of the Act;
+(h) Applications under section 460 of the Act;
+(i) Applications under subsection (2) of section 523 of the Act;
+(j) Applications for the committal of any person to prison
+for contempt;
+(k) Applications to rectify the Register;
+(l) Applications relating to the admission or rejection of proofs;
+(m) Such matters and applications as the Judge may from time to
+time by any general or special orders direct to be heard in open Court.
+(2) Examinations of persons summoned before the Court under section 398 of the Act, shall be held in Court or in Chambers as the Court shall direct.
+(3) Every other matter or application in the Court under the Act to which these Rules apply may be heard and determined in Chambers.
+5. Subject to the provisions of the Act and these Rules-
+(1) All matters which under the Act or these Rules may be heard and determined in Chambers shall be heard and determined by a Judge, provided, however, that any such matter which the Registrar of the Supreme Court at present has jurisdiction to hear and determine under the Supreme Court of Judicature Act or any Rules made thereunder, may be heard and determined by him.
+(2) Any matter or application before the Registrar of the Supreme Court may at any time be adjourned by him to be heard before the Judge either in Chambers or in Court.
+(3) Any matter or application may, if the Judge or as the case may be, the Registrar of the Supreme Court, thinks fit, be adjourned from Chambers to Court, or from Court to Chambers.
+6. (1) Every application in Court other than a petition shall be made by motion, notice of which shall be served on every person against whom an order is sought, not less than two clear days before the day named in the notice for hearing the motion, which day must be one of the days appointed for the sittings of the Court.
+(2) Every application in Chambers shall be made by summons which, unless otherwise ordered, shall be served on every person against whom an order is sought, and shall require the person or persons to whom the summons is addressed to attend at the time and place named in the summons.
+The Companies Winding Up Rules
+PROCEEDINGS
+7. (1) Every proceeding in a winding up matter shall be dated, and shall,with any necessary additions, be intituled in the matter of the company to which it relates and in the matter of the Companies Act, and otherwise as in Form 2. Numbers and dates may be denoted by figures.
+(2) The first proceeding in every winding up matter shall have a distinctive number assigned to it in the office of the Registrar of the Supreme Court and all proceedings in any matter subsequent to the first proceeding shall bear the same number as the first proceeding.
+8. All proceedings shall be written or printed, or partly written and partly printed on paper in the manner prescribed by regulation 3(2) of the Companies Regulations, and must have a stitching margin; but no objection shall be allowed to any proof or affidavit on account only of its being written or printed on paper of other size.
+9. All orders, summonses, petitions, warrants, process of any kind (including notices when issued by the Court) and office copies in any winding up matter shall be sealed.
+10. Every summons in a winding up matter in the Court shall be prepared by the applicant or his Attorney-at-law, and issued from the office of the Registrar of the Supreme Court. A summons, when sealed, shall be deemed to be issued. The person obtaining the summons shall leave in the office of the Registrar of the Supreme Court a duplicate which shall be stamped with the prescribed stamp and filed.
+11. Every order, whether made in Court or in Chambers in the winding up of a company, shall be drawn up by the Registrar of the Supreme Court unless in any proceeding, or classes of proceedings, the Judge or the said Registrar who makes the order shall direct that no order need be drawn up. Where a direction is given that no order need be drawn up, the note or memorandum of the order, signed or initialled by the Judge or the said Registrar making the order, shall be sufficient evidence of the order having been made.
+12. All petitions, affidavits, summonses, orders, proofs, notices, depositions, bills of costs and other proceedings in the Court in a winding up matter shall be kept and remain on record in the office of the Registrar of the Supreme Court and, subject to the directions of the Court, shall be placed in one continuous file.
+13. All office copies of petitions, affidavits, depositions, papers and writings, or any part thereof, required by the Official Receiver or any liquidator, contributory, creditor, officer of a company, or other person entitled thereto,
+The Companies Winding Up Rules
+shall be provided by the Registrar of the Supreme Court, and shall, except as to figures, be fairly written out at length, and be sealed and delivered out without any unnecessary delay, and in the order in which they shall have been bespoken.
+14. Every person who has been a director or officer of a company which is being wound up, shall be entitled, free of charge, and every contributory and every creditor whose claim or proof has been admitted, shall be entitled on payment of a fee of twenty-four cents for each hour or part of an hour occupied, at all reasonable times, to inspect the file of proceedings and to take copies or extracts from any documents therein, or be furnished with such copies or extracts at a rate not exceeding eight cents per folio of seventy-two words.
+15. Where, in the exercise of his functions under the Act or Rules, the Official Receiver requires to inspect or use the file of proceedings the Registrar of the Supreme Court shall (unless the file is at the time required for use in Court or by him) on request, transmit the file of proceedings to the Official Receiver.
+SERVICE AND EXECUTION OF PROCESS AND ENFORCEMENT
+OF ORDERS
+16. (1) All notices, summonses, and other documents other than those of which personal service is required, may be sent by prepaid post letter to the last known address of the person to be served therewith; and the notice, summons, or document shall be considered as served at the time that the same ought to be delivered in the due course of post by the post office, and notwithstanding the same may be returned by the post office.
+(2) No service shall be deemed invalid by reason that the name, or any of the names other than the surname of the person to be served, has been omitted from the document containing the person's name, provided that the Court is satisfied that in other respects the service of the document has been sufficient.
+17. Every order of the Court made in the exercise of the powers conferred by the Act and Rules, may be enforced as if it were a judgment or order of the Court made in the exercise of its ordinary jurisdiction.
+PETITION
+18. Every petition for the winding up of a company by the Court, or subject to the supervision of the Court, shall be in the Forms Nos. 3 and 4 in the Appendix with such variations as circumstances may require.
+19. A petition shall be presented at the office of the Registrar of the Supreme Court who shall appoint the time and place at which the petition is to be heard. Notice of the time and place appointed for hearing the petition shall be written
+The Companies Winding Up Rules
+on the petition and sealed copies thereof, and the said Registrar may at any time before the petition has been advertised, alter the time appointed, and fix another time.
+20. (1) Every petition shall be advertised seven clear days before the hearing once in the Gazette, and once at least in one local daily newspaper, or in such other newspaper as the Court directs.
+(2) The advertisement shall state the day on which the petition was presented, and the name and address of the petitioner, and of his Attorney-at-law, and shall contain a note at the foot thereof, stating that any person who intends to appear on the hearing of the petition, either to oppose or support, must send notice of his intention to the petitioner, or to his Attorneys-at-law within the time and manner prescribed by rule 26, and an advertisement of a petition for the winding up of a company by the Court which does not contain such a note shall be deemed irregular.
+And if the petitioner or his Attorney-at-law does not within the time hereby prescribed or within such extended time as the Registrar of the Supreme Court may allow duly advertise the petition in the manner prescribed by this rule the appointment of the time and place at which the petition is to be heard shall be cancelled by the said Registrar and the petition shall be removed from the file in his office unless the Judge or the said Registrar shall otherwise direct.
+21. Every petition shall, unless presented by the company, be served upon the company at the registered office, if any, of the company, and if there is no registered office, then at the principal or last known principal place of business of the company, if any such can be found, by leaving a copy with any member, officer, or servant of the company there, or in case no such member, officer, or servant can be found there, then by leaving a copy at such registered office or principal place of business, by or serving it on such member, officer or servant of the company as the Court may direct; and where the company is being wound up voluntarily, the petition shall also be served upon the Liquidator (if any), appointed for the purpose of winding up the affairs of the company.
+22. Every petition for the winding up of a company by the Court, or subject to the supervision of the Court, shall be verified by an affidavit referring thereto. Such affidavit shall be made by the petitioner, or by one of the petitioners, if more than one, or, in case the petition is presented by a corporation, by some director, secretary, or other principal officer thereof, and shall be sworn after and filed within four days after the petition is presented, and such affidavit shall be sufficient prima facie evidence of the statements in the petition.
+23. Every contributory or creditor of the company shall be entitled to be furnished, by the Attorney-at-law of the petitioner, with a copy of the petition,
+The Companies Winding Up Rules
+within twenty-four hours after requiring same, on paying the rate of eight cents per folio of seventy-two words for such copy.
+PROVISIONAL LIQUIDATOR
+24. (1) After the presentation of a petition, upon the application of a creditor, or of a contributory, or of the company, and upon proof by affidavit of sufficient ground for the appointment of a Provisional Liquidator, the Court, if it thinks fit and upon such terms as in the opinion of the Court shall be just and necessary, may make the appointment.
+(2) The order appointing the Provisional Liquidator, shall bear the number of the petition, and shall state the nature and a short description of the property of which the Provisional Liquidator is ordered to take possession, and the duties to be performed by the Provisional Liquidator.
+(3) Subject to any order of the Court, if no order for the winding up of the company is made upon the petition, or if an order for the winding up of the company on the petition is rescinded, or if all proceedings on the petition are stayed, or if an order is made continuing the voluntary winding up of the company subject to the supervision of the Court, the Provisional Liquidator shall be entitled to be paid out of the property of the company, all the costs, charges, and expenses properly incurred by him as Provisional Liquidator, including such sum as is or would be payable under the scale of fees for the time being in force where the Official Receiver is appointed Provisional Liquidator, and may retain out of such property the amounts of such costs, charges, and expenses.
+(4) Where any person other than the Official Receiver has been appointed Provisional Liquidator and the Official Receiver has taken any steps for the purpose of obtaining a statement of affairs or has performed any other duty prescribed by these Rules the Provisional Liquidator shall pay the Official Receiver such sum, if any, as the Court directs.
+HEARING OF PETITIONS AND ORDERS MADE THEREON
+25. After a petition has been presented, the Petitioner, or his Attorney-at-law shall, on a day to be appointed by the Registrar of the Supreme Court, attend before the said Registrar and satisfy him that the petition has been duly advertised, that the prescribed affidavit verifying the statements therein and the affidavit of service (if any) have been duly filed, and that the provisions of the Rules as to petitions for winding up companies have been fully complied with by the petitioner. No order for the winding up of a company shall be made on the petition of any petitioner who has not, prior to the hearing of the petition, attended before the said Registrar at the time appointed, and satisfied him in manner required by this rule.
+The Companies Winding Up Rules
+26. Every person who intends to appear on the hearing of a petition shall serve on, or send by post to, the petitioner, or his Attorney-at-law, at the address stated in the advertisement of the petition, notice of his intention. The notice shall contain the address of such person, and shall be signed by him or by his Attorney-at-law, and shall be served, or if sent by post shall be posted in such time as in ordinary course of post to reach the address not later than six o'clock in the afternoon of the day previous to the day appointed for the hearing of the petition, or if such day be a Monday, not later than one o'clock in the afternoon of the Saturday previous to such day. The notice shall be in Form 11 with such variations as circumstances may require. A person who has failed to comply with this rule shall not, without the special leave of the Court, be allowed to appear on the hearing of the petition.
+27. The petitioner, or his Attorney-at-law, shall prepare a list of the names and addresses of the persons who have given notice of their intention to appear on the hearing of the petition, and of their respective Attorneys-at-law, which shall be in Form 12. On the day appointed for hearing the petition, a fair copy of the list (or if no notice of intention to appear has been given, a statement in writing to that effect) shall be handed by the petitioner, or his Attorney-at-law, to the Court prior to the hearing of the petition.
+28. (1) Affidavits in opposition to a petition that a company may be wound up by or subject to the supervision of the Court shall be filed within seven days of the date on which the affidavit verifying the petition is filed, and notice of the filing of every affidavit in opposition to such a petition shall be given to the petitioner or the Attorney-at-law of the petitioner, on the day on which the affidavit is filed.
+(2) An affidavit in reply to an affidavit filed in opposition to a petition shall be filed within three days of the date on which notice of such affidavit is received by the petitioner or the Attorney-at-law of the petitioner.
+29. When a petitioner is not entitled to present a petition, or whether so entitled or not, where he (1) fails to advertise his petition within the time by these Rules prescribed or such extended time as the Registrar of the Supreme Court may allow or (2) consents to withdraw his petition, or to allow it to be dismissed, or the hearing adjourned, or fails to appear in support of his petition when it is called on in Court on the day originally fixed for the hearing thereof, or on any day to which the hearing has been adjourned, or (3), if appearing, does not apply for an order in the terms of the prayer of his petition, the Court may, upon such terms as it may think just, substitute as petitioner any creditor or contributory who in the opinion of the Court, would have a right to present a petition, and who is desirous of prosecuting the petition. An order to substitute a petitioner may, where a petitioner fails to advertise his petition within the time prescribed by these Rules or consents to withdraw his petition, be made in Chambers at any time.
+The Companies Winding Up Rules
+ORDER TO WIND UP A COMPANY
+30. When an order for the winding up of a company, or for the appointment of a Provisional Liquidator prior to the making of an order for the winding up of the company, has been made, the Registrar of the Supreme Court shall, on the same day, send to the Official Receiver a notice informing him that the order has been pronounced. The notice shall be in Forms 13 and 14 respectively, with such variations as circumstances may require.
+31. It shall be the duty of the petitioner, or his Attorney-at-law, and of all other persons who have appeared on the hearing of the petition, at latest on the day following the day on which an order for the winding up of a company is pronounced in Court to leave at the office of the Registrar of the Supreme Court all the documents required for the purpose of enabling the said Registrar to complete the order forthwith.
+32. It shall not be necessary for the Registrar of the Supreme Court to make an appointment to settle the order, unless in any particular case the special circumstances make an appointment necessary.
+33. An order to wind up a company or for the appointment of a Provisional Liquidator shall contain at the foot thereof a notice stating that it will be the duty of such of the persons who are liable to make out or concur in making out the company's statement of affairs as the Official Receiver may require, to attend on the Official Receiver at such time and place as he may appoint and to give him all information he may require.
+34. (1) When an order that a company be wound up, or for the appointment of a Provisional Liquidator has been made-
+(a) three copies of the order sealed with the seal of the Court shall
+forthwith be sent by post or otherwise by the Registrar of the
+Supreme Court to the Official Receiver;
+(b) the Official Receiver shall cause a sealed copy of the order to
+be served upon the company by prepaid letter addressed to it at its registered office (if any) or if there is no registered office at its principal or last known principal place of business or upon such other person or persons, or in such other manner as the Court may direct, and, if the order is that the company be wound up by the Court, shall forward to the Registrar the copy of the order which by section 363 of the Act is directed to be so forwarded by the company or otherwise as may be prescribed;
+(c) the Official Receiver shall forthwith cause notice of the
+order to be inserted in the Gazette and in one of the local daily newspapers.
+The Companies Winding Up Rules
+(2) An order for the winding up of a company subject to the supervision of the Court, shall, before the expiration of twelve days from the date thereof, be advertised by the petitioner, once in the Gazette, and shall be served on such persons (if any) and in such manner as the Court shall direct.
+SPECIAL MANAGER
+35. (1) An application by the Official Receiver for the appointment of a Special Manager shall be supported by a report of the Official Receiver, which shall be placed on the file of proceedings, and such report shall either state the amount of remuneration which, in the opinion of the Official Receiver, ought to be allowed to the Special Manager, or that it is, in the opinion of the Official Receiver, desirable that the fixing of such remuneration should be deferred. No affidavit by the Official Receiver in support of the application shall be required.
+(2) The remuneration of the Special Manager shall, unless the Court otherwise in any case directs, be stated in the order appointing him, but the Court may at any subsequent time for good cause shown make an order for payment to the Special Manager of further remuneration.
+36. Every Special Manager shall account to the Official Receiver, and the Special Manager's accounts shall be verified by affidavit, and, when approved by the Official Receiver, the totals of the receipts and payments shall be added by the Official Receiver to his accounts.
+37. (1) A person who under section 367(2) of the Act has been required by the Official Receiver to submit and verify a statement of affairs of a company, shall be furnished by the Official Receiver with such forms and instructions as the Official Receiver in his discretion shall consider necessary. The statement shall be made out in duplicate, one copy of which shall be verified by affidavit. The Official Receiver shall cause to be filed with the Registrar of the Supreme Court the verified statement of affairs.
+(2) The Official Receiver may from time to time hold personal interviews with any such person as is mentioned in paragraphs (a), (b), (c) or
+(d) of subsection (2) of section 367 of the Act for the purpose of investigating the company's affairs and it shall be the duty of every such person to attend on the Official Receiver at such time and place as the Official Receiver may appoint and give the Official Receiver all information that he may require.
+38. When any person requires any extension of time for submitting the statement of affairs, he shall apply to the Official Receiver, who may, if he thinks fit, give a written certificate extending the time, which certificate shall be filed with the proceedings in the winding up and shall render an application to the Court unnecessary.
+The Companies Winding Up Rules
+39. After the statement of affairs of a company has been submitted to the Official Receiver it shall be the duty of each person who has made or concurred in making it, if and when required, to attend on the Official Receiver and answer all such questions as may be put to him, and give all such further information as may be required of him by the Official Receiver in relation to the statement of affairs.
+40. Any default in complying with the requirements of section 367 of the Act may be reported by the Official Receiver to the Court.
+41. A person who is required to make or concur in making any statement of affairs of a company shall, before incurring any costs of expenses in and about the preparation and making of the statement, apply to the Official Receiver for his sanction and submit a statement of the estimated costs and expenses which it is intended to incur; and, except by order of the Court, no person shall be allowed out of the assets of the company any costs or expenses which have not before being incurred been sanctioned by the Official Receiver.
+42. (1) Any application to dispense with the requirements of section 367 of the Act shall be supported by a report of the Official Receiver showing the special circumstances which in his opinion render such a course desirable.
+(2) When the Court has made an order dispensing with the requirements of the said section, it may give such consequential directions as it may see fit and in particular it may give directions as to the sending of any notices which are by these Rules required to be sent to any person mentioned in the statement of affairs.
+APPOINTMENT OF LIQUIDATOR IN A WINDING UP BY
+THE COURT
+43. (1) As soon as possible after the first meetings of the creditors and contributories have been held the Official Receiver, or the Chairman of the meeting, as the case may be, shall report the result of each meeting to the Court.
+(2) Upon the result of the meetings of creditors and contributories being reported to the Court, if there is a difference between the determinations of the meetings of the creditors and contributories, the Court shall, on the application of the Official Receiver, fix a time and place for considering the resolutions and determinations (if any) of the meetings, deciding differences, and making such order as shall be necessary. In any other case, the Court may, upon the application of the Official Receiver, forthwith make any appointment necessary for giving effect to any such resolutions or determinations.
+(3) When a time and place have been fixed for the consideration of the resolutions and determinations of the meetings, such time and place shall be
+The Companies Winding Up Rules
+advertised by the Official Receiver in such manner as the Court shall direct, but so that the first or only advertisement shall be published not less than seven days before the time so fixed.
+(4) Upon the consideration of the resolutions and determinations of the meetings the Court shall hear the Official Receiver and any creditor or contributory.
+(5) If a Liquidator is appointed, a copy of the order appointing him shall be transmitted to the Registrar by the Official Receiver, and, as soon as the Liquidator has given security, he shall cause notice of his appointment to be inserted in the Gazette. The expense of gazetting the notice of the appointment shall be paid by the Liquidator, but may be charged by him on the assets of the company.
+(6) Every appointment of a Liquidator or Committee of Inspection shall be advertised by the Liquidator in such manner as the Court directs immediately after the appointment has been made, and the Liquidator has given the required security.
+(7) If a Liquidator in a winding up by the Court shall die, or resign, or be removed, another Liquidator may be appointed in his place in the same manner as in the case of a first appointment, and the Official Receiver shall, on the request of not less than one-tenth in value of the creditors or contributories, summon meetings for the purpose of determining whether or not the vacancy shall be filled; but none of the provisions of this rule shall apply where the Liquidator is released under section 382 of the Act in which case the Official Receiver shall remain Liquidator.
+SECURITY BY LIQUIDATOR OR SPECIAL MANAGER IN A
+WINDING UP BY THE COURT
+44. In the case of a Special Manager or a Liquidator other than the Official Receiver, the following provisions as to security shall have effect, namely:
+(1) The security shall be given in such manner as the Court may direct.
+(2) The Court shall fix the amount and nature of such security, and may from time to time, as it thinks fit, either increase or diminish the amount of the security which any person has given.
+(3) The certificate of the Registrar of the Supreme Court that a Liquidator or Special Manager has given the security ordered to be given shall be filed with the Registrar.
+(4) The cost of furnishing the required security by a Liquidator or Special Manager, including any premiums which he may pay to a guarantee society, shall be borne by him personally, and shall not be charged against the assets of the company as an expense incurred in the winding up.
+The Companies Winding Up Rules
+45. (1) If a Liquidator or Special Manager fails to give the required security within the time stated for that purpose in the order appointing him, or any extension thereof, the Official Receiver shall report such failure to the Court, who may thereupon rescind the order appointing the Liquidator or Special Manager.
+(2) If a Liquidator or Special Manager fails to keep up his security the Official Receiver shall report such failure to the Court, who may thereupon remove the Liquidator or Special Manager, and make such order as to costs as the Court shall think fit.
+(3) Where an order is made under this rule rescinding an order for the appointment of or removing a Liquidator, the Court may direct that meetings shall be held for the purpose of determining whether an application shall be made to the Court for another Liquidator to be appointed and thereupon the same meetings shall be summoned and the same proceedings may be taken as in the case of a first appointment of a Liquidator.
+PUBLIC EXAMINATION
+46. The consideration of a report made by the Official Receiver pursuant to subsection (2) of section 368 of the Act shall be before a Judge of the Court personally in Chambers, and the Official Receiver shall personally, or by an Attorney-at-law, attend the consideration of the report, and give the Court any further information or explanation with reference to the matters stated in the report which the Court may require.
+47. Where a Judge makes an order under section 399 of the Act, directing any person or persons to attend for public examination-
+(a) the examination shall be held in open Court;
+(b) the Judge may, if he thinks fit, either in the order for
+examination, or by any subsequent order, give directions as to the special matters on which any such person is to be examined.
+48. Upon an order directing a person to attend for public examination being made, the Official Receiver shall, unless the Judge shall otherwise direct, without further order take an appointment for the public examination to be held.
+49. A day and place shall be appointed for holding the public examination, and notice of the day and place so appointed shall be given by the Official Receiver to the person who is to be examined by sending such notice in a registered letter addressed to his usual or last known address.
+50. (1) The Official Receiver shall give notice of the time and place appointed for holding a public examination to the creditors and contributories by advertisement in such local daily newspaper as he thinks fit, and shall also forward notice of the appointment to the Gazette to be inserted therein.
+The Companies Winding Up Rules
+(2) Where an adjournment of the public examination has been directed, notice of the adjournment shall not, unless otherwise directed by the Court, be advertised in any newspaper, but it shall be sufficient to publish in the Gazette a notice of the time and place fixed for the adjourned examination.
+51. (1) If any person who has been directed by the Court to attend for public examination fails to attend at the time and place appointed for holding or proceeding with the same, and no good case is shown by him for such failure, or if before the day appointed for the examination the Official Receiver satisfies the Court that such person has absconded, or that there is reason for believing that he is about to abscond with the view of avoiding examination, it shall be lawful for the Court, upon it being proved to the satisfaction of the Court that notice of the order and of the time and place appointed for attendance at the public examination was duly served, without any further notice, to issue a warrant for the arrest of the person required to attend, or to make such other order as the Court shall think just.
+(2) A warrant of arrest issued by the Court under this rule shall be issued in the office of the Registrar of the Supreme Court pursuant to an order of the Court directing such issue.
+52. The notes of every public examination shall, after being signed as required by subsection (8) of section 399 of the Act, be filed with the Registrar of the Supreme Court.
+PROCEEDINGS BY OR AGAINST DIRECTORS, PROMOTERS,
+AND OFFICERS
+53. (1) An application made to the Court under any of the following provisions of the Act:
+(a) section 448;
+(b) subsection (1), (2) or (4A) of section 447;
+(c) section 399A;
+(d) subsection (2) of section 523, shall be made by a summons returnable in the first instance in Chambers. The summons shall state the nature of the declaration or order for which application is made, and the grounds of the application, and, unless otherwise ordered, shall be served in the manner in which an originating summons is required by the Rules of the Supreme Court to be served, on every person against whom an order is sought, not less than eight days before the day named in the summons for hearing the application. Where any such application is made by summons no affidavit or report shall be filed before the return of the summons.
+(2) On the return of the summons, the Court may give such directions as it shall think fit as to whether points of claim and defence are to be delivered,
+The Companies Winding Up Rules
+as to the taking of evidence wholly or in part by affidavit or orally, and the cross-examination either before the Judge on the hearing in Court or in Chambers of any deponents to affidavits in support of or in opposition to the application and as to any report it may require the Official Receiver or Liquidator to make and generally as to the procedure on the summons and for the hearing thereof.
+(3) Where any such order as is mentioned in paragraph (2) of this rule has directed that points of claim and defence shall be delivered then if subsequently to such order and before the summons has been set down for trial or adjourned to the Judge either party wishes to apply for any further direction as to any interlocutory matter or thing he shall restore the summons to the list and shall give two clear days' notice in writing to the other party stating the grounds of the application. A copy of such notice shall be filed with the Registrar of the Supreme Court two clear days before the day for which the summons is restored.
+54. Where in the course of the proceedings in a winding up by the Court an order has been made for the public examination of persons named in the order pursuant to section 399 of the Act, then in any proceedings subsequently instituted under any of the provisions of the Act mentioned in paragraph (1) of rule 53, the verified notes of the examination of each person who was examined under the order shall, subject as hereinafter mentioned and to any order or directions of the Court as to the manner and extent in and to which the notes shall be used, and subject to all just exceptions to the admissibility in evidence against any particular person or persons of any of the statements contained in the notes of the examinations, be admissible in evidence against any of the persons against whom the application is made, who, under section 399 of the Act, and the order for the public examination, was or had the opportunity of being present at and taking part in the examination: Provided that before any such notes of a public examination shall be used on any such application, the person intending to use the same shall, not less than fifteen days before the day appointed for hearing the application, give notice of such intention to each person against whom it is intended to use such notes, or any of them, specifying the notes or parts of the notes which it is intended to read against him, and furnish him with copies of such notes, or parts of notes (except notes of the person's own depositions), and provided also that every person against whom the application is made shall be at liberty to cross-examine or re-examine (as the case may be) any person the notes of whose examination are read, in all respects as if such persons had made an affidavit on the application.
+WITNESSES AND DEPOSITIONS
+55. If the Court shall in any case, and at any stage of the proceedings, be of opinion that it would be desirable that a person should be appointed to take down the evidence of any person examined in shorthand or otherwise, it shall
+The Companies Winding Up Rules
+be competent for the Court to make such appointment. The person at whose instance the examination is taken shall nominate a person for the purpose, and the person so nominated shall be appointed, unless the Court shall otherwise order. Every person so appointed shall be paid a sum not exceeding five dollars a day, and a sum not exceeding sixteen cents per folio of ninety words for any transcript of the evidence that may be required, and such sums shall be paid by the party at whose instance the appointment was made, or out of the assets of the company as may be directed by the Court.
+56. (1) The Official Receiver may attend in person, or by an assistant Official Receiver, or by Attorneys-at-law employed for the purpose, any examination of a witness under section 398 of the Act, on whosoever application the same has been ordered, and may take notes of the examination for his own use, and put such questions to the persons examined as the Court may allow.
+(2) The notes of the depositions of a person examined under section 398 of the Act, or under any order of the Court before the Court (other than the notes of the depositions of a person examined at a public examination under section 399 of the Act) shall be forthwith lodged in the office of the Registrar of the Supreme Court but shall not be filed, or be open to the inspection of any creditor, contributory, or other person, except the Official Receiver or Liquidator, or any Provisional Liquidator, unless and until the Court shall so direct, and the Court may from time to time give such general or special directions as it shall think expedient as to the custody and inspection of such notes and the furnishing of copies of or extracts therefrom.
+DISCLAIMER
+57. (1) Any application for leave to disclaim any part of the property of a company pursuant to subsection (1) of section 439 of the Act shall be by ex parte summons. Such summons shall be supported by an affidavit showing who are the parties interested and what their interests are. On the hearing of the summons, the Court shall give such directions as it sees fit and in particular directions as to the notices to be given to the parties interested or any of them and the Court may adjourn the application to enable any such party to attend.
+(2) Where a liquidator disclaims a leasehold interest, he shall forthwith file the disclaimer in the office of the Registrar of the Supreme Court. The disclaimer shall contain particulars of the interest disclaimed and a statement of the persons to whom notice of the disclaimer has been given. Until the disclaimer is filed by the Liquidator, the disclaimer shall be inoperative. A disclaimer shall be in the Form 31 and a notice of disclaimer in the Form 32 in the Appendix with such variations as circumstances may require.
+The Companies Winding Up Rules
+(3) Where any person claims to be interested in any part of the property of a company which the liquidator wishes to disclaim he shall at the request of the Liquidator furnish a statement of the interest so claimed by him.
+VESTING OF DISCLAIMED PROPERTY
+58. (1) Any application under subsection (6) of section 439 of the Act for an order for the vesting of any disclaimed property in or the delivery of any such property to any persons shall be supported by the affidavit filed on the application for leave to disclaim such property.
+(2) Where such an application as aforesaid relates to disclaimed property of a leasehold nature and it appears that there is any mortgagee by demise, or under-lessee of such property the Court may direct that notice shall be given to such mortgagee or under-lessee that if he does not elect to accept and apply for such a vesting order as aforesaid upon the terms required by the above-mentioned subsection and imposed by the Court within a time to be fixed by the Court and stated in the notice he will be excluded from all interest in and security upon the property and the Court may adjourn the application for such notice to be given and for such mortgagee or under-lessee to be added as a party to and served with the application and if he sees fit to make such election and application as is mentioned in the notice. If at the expiration of the time so fixed by the Court such mortgagee or under-lessee fails to make such election and application the Court may make an order vesting the property in the applicant and excluding such mortgagee or under-lessee from all interest in or security upon the property.
+ARRANGEMENTS WITH CREDITORS AND CONTRIBUTORIES
+IN A WINDING UP BY THE COURT
+59. In a winding up by the Court if application is made to the Court to sanction any compromise or arrangement, the Court may, before giving its sanction thereto, hear a report by the Official Receiver as to the terms of the scheme, and as to the conduct of the directors and other officers of the company, and as to any other matters which, in the opinion of the Official Receiver, ought to be brought to the attention of the Court. The report shall not be placed upon the file, unless and until the Court shall direct it to be filed.
+COLLECTION AND DISTRIBUTION OF ASSETS IN A
+WINDING UP BY THE COURT
+60. (1) The duties imposed on the Court by subsection (1) of section 387 of the Act, in a winding up by the Court with regard to the collection of the assets of the company and the application of the assets in discharge of the company's liabilities, shall be discharged by the Liquidator as an officer of the Court subject to the control of the Court.
+The Companies Winding Up Rules
+(2) For the purpose of the discharge by the Liquidator of the duties imposed by subsection (1) of section 387 of the Act, and paragraph (1) of this rule, the Liquidator in a winding up by the Court shall, for the purpose of acquiring or retaining possession of the property of the company, be in the same position as if he were a receiver of the property appointed by the Court, and the Court may, on his application, enforce such acquisition or retention accordingly.
+61. The powers conferred on the Court by section 388 of the Act shall be exercised by the Liquidator. Any contributory for the time being on the list of contributories, trustee, receiver, banker or agent or officer of a company which is being wound up under order of the Court shall, on notice from the Liquidator and within such time as he shall by notice in writing require, pay, deliver, convey, surrender or transfer to or into the hands of the Liquidator any money, property, books or papers, which happen to be in his hands for the time being and to which the company is prima facie entitled.
+LIST OF CONTRIBUTORIES IN A WINDING UP BY THE COURT 62. Unless the Court shall dispense with the settlement of a list of contributories the Liquidator shall with all convenient speed after his appointment settle a list of contributories of the company, and shall appoint a time and place for that purpose. The list of contributories shall contain a statement of the address of, and the number of shares or extent of interest to be attributed to each contributory, and the amount called up and the amount paid up in respect of such shares or interest and shall distinguish the several classes of contributories. As regards representative contributories the Liquidator shall, so far as practicable, observe the requirements of subsection (3) of section 387 of the Act.
+63. The Liquidator shall give notice in writing of the time and place appointed for the settlement of the list of contributories to every person whom he proposes to include in the list, and shall state in the notice to each person in what character and for what number of shares or interest he proposes to include such person in the list and what amount has been called up and what amount paid up in respect of such shares or interest.
+64. On the day appointed for settlement of the list of contributories the Liquidator shall hear any person who objects to being settled as a contributory and after such hearing shall finally settle the list, which when so settled shall be the list of contributories of the company.
+65. The Liquidator shall forthwith give notice to every person whom he has finally placed on the list of contributories stating in what character and for what number of shares or interest he has been placed on the list and what amount has been called up and what amount paid up in respect of such shares or interest
+The Companies Winding Up Rules
+and in the notice he shall inform such person that any application for the removal of his name from the list, or for a variation of the list, must be made to the Court by summons within twenty-one days from the date of the service on the contributory or alleged contributory of notice of the fact that his name is settled on the list of contributories.
+66. (1) Subject to the power of the Court to extend the time or to allow an application to be made notwithstanding the expiration of the time limited for that purpose, no application to the Court by any person who objects to the list of contributories as finally settled by the Liquidator shall be entertained after the expiration of twenty-one days from the date of service on such person of notice of the settlement of the list.
+(2) The Official Receiver shall not in any case be personally liable to pay any costs of or in relation to an application to set aside or vary his act or decision settling the name of a person on the list of contributories of a company.
+67. The Liquidator may from time to time vary or add to the list of contributories, but any such variation or addition shall be made in the same manner in all respects as the settlement of the original list.
+CALLS
+68. The powers and duties of the Court in relation to making calls upon contributories conferred by section 390 of the Act, shall and may be exercised, in a winding up by the Court, by the Liquidator as an officer of the Court subject to the proviso to section 402 of the Act, and to the following regulations:
+(1) Where the Liquidator desires to make any calls on the contributories, or any of them for any purpose authorised by the Act, if there is a Committee of Inspection he may summon a meeting of such Committee for the purpose of obtaining their sanction to the intended call.
+(2) The notice of the meeting shall be sent to each member of the Committee of Inspection in sufficient time to reach him not less than seven days before the day appointed for holding the meeting, and shall contain a statement of the proposed amount of the call, and the purpose for which it is intended. Notice of the intended call and the intended meeting of the Committee of Inspection shall also be advertised once at least in a local daily newspaper. The advertisement shall state the time and place of the intended meeting of the Committee of Inspection, and that each contributory may either attend the said meeting and be heard, or make any communication in writing to the Liquidator or members of the Committee of Inspection to be laid before the meeting in reference to the said intended call.
+(3) At the meeting of the Committee of Inspection any statements or representations made either to the meeting personally or addressed in writing to
+The Companies Winding Up Rules
+the Liquidator or members of the Committee by any contributory shall be considered before the intended call is sanctioned.
+(4) The sanction of the Committee shall be given by resolution, which shall be passed by a majority of the members present.
+(5) Where there is no Committee of Inspection, the Liquidator shall not make a call without obtaining the leave of the Court.
+69. In a winding up by the Court an application to the Court for leave to make any call on the contributories of a company, or any of them, for any purpose authorised by the Act, shall be made by summons stating the proposed amount of such call, which summons shall be served four clear days at the least before the day appointed for making the call on every contributory proposed to be included in such call; or if the Court so directs, notice of such intended call may be given by advertisement, without a separate notice to each contributory.
+70. When the Liquidator is authorised by resolution or order to make a call on the contributories he shall file with the Registrar of the Supreme Court a document in the Form 49 with such variations as such circumstances may require making the call.
+71. When a call has been made by the Liquidator in a winding up by the Court, a copy of the resolution of the Committee of Inspection or order of the Court (if any), as the case may be, shall forthwith after the call has been made be served upon each of the contributories included in such call, together with a notice from the Liquidator specifying the amount or balance due from such contributory in respect of such call, but such resolution or order need not be advertised unless for any special reason the Court so directs.
+72. The payment of the amount due from each contributory on a call may be enforced by order of the Court, to be made in Chambers on summons by the Liquidator.
+PROOFS
+73. In a winding up by the Court every creditor shall, subject as hereinafter provided, prove his debt, unless the Judge in any particular winding up shall give directions that any creditors or class of creditors shall be admitted without proof.
+74. A debt may be proved in any winding up by delivering or sending through the post an affidavit verifying the debt. In a winding up by the Court the affidavit shall be so sent to the Official Receiver or if a Liquidator has been appointed, to the Liquidator; and in any other winding up the affidavit may be so sent to the Liquidator.
+The Companies Winding Up Rules
+75. An affidavit proving a debt may be made by the creditor himself or by some person authorised by or on behalf of the creditor. If made by a person so authorised, it shall state his authority and means of knowledge.
+76. An affidavit proving a debt shall contain or refer to a statement of account showing the particulars of the debt, and shall specify the vouchers, if any, by which the same can be substantiated. The Official Receiver or Liquidator to whom the proof is sent may at any time call for the production of the vouchers.
+77. An affidavit proving a debt shall state whether the creditor is or is not a secured creditor.
+78. An affidavit proving a debt may in a winding up by the Court be sworn before the Official Receiver, or Assistant Official Receiver.
+79. A creditor shall bear the cost of proving his debt unless the Court otherwise orders.
+80. A creditor proving his debt shall deduct therefrom (a) any discount which he may have agreed to allow for payment in cash in excess of five per centum on the net amount of his claim and (b) all trade discounts.
+81. When any rent or other payment falls due at stated periods, and the order or resolution to wind up is made at any time other than one of those periods, the persons entitled to the rent or payment may prove for a proportionate part thereof up to the date of the winding up order or resolution as if the rent or payment grew due from day to day. Provided that where the Liquidator remains in occupation of premises demised to a company which is being wound up, nothing herein contained shall prejudice or affect the right of the landlord of such premises to claim payment by the company, or the Liquidator, of rent during the period of the company's or the Liquidator's occupation.
+82. On any debt or sum certain, payable at a certain time or otherwise whereon interest is not reserved or agreed for, and which is overdue at the date of the commencement of the winding up, the creditor may prove for interest at a rate not exceeding six per centum per annum to that date from the time when the debt or sum was payable, if the debt or sum is payable by virtue of a written instrument at a certain time, and if payable otherwise, then from the time when a demand in writing has been made, giving notice that interest will be claimed from the date of the demand until the time of payment.
+83. A creditor may prove for a debt not payable at the date of the winding up order or resolution, as if it were payable presently, and may receive dividends equally with the other creditors, deducting only thereout a rebate of interest at the rate of six per centum per annum computed from the declaration of a dividend
+The Companies Winding Up Rules
+to the time when the debt would have become payable according to the terms on which it was contracted.
+84. In any case in which it appears that there are numerous claims for wages by workmen and others employed by the company, it shall be sufficient if one proof for all such claims is made either by a foreman or by some other person on behalf of all such creditors. Such proof shall have annexed thereto as forming part thereof, a schedule setting forth the names of the workmen and others, and the amounts severally due to them. Any proof made in compliance with this rule shall have the same effect as if separate proofs had been made by each of the said workmen and others.
+85. Where a creditor seeks to prove in respect of a bill of exchange, promissory note, or other negotiable instrument or security on which the company is liable, such bill of exchange, note, instrument, or security must, subject to any special order of the Court made to the contrary, be produced to the Official Receiver, Chairman of a meeting or Liquidator, as the case may be, and be marked by him before the proof can be admitted either for voting or for any purpose.
+86. Where a Liquidator is appointed in a winding up by the Court, all proofs of debts that have been received by the Official Receiver shall be handed over to the Liquidator, but the Official Receiver shall first make a list of such proofs, and take a receipt thereon from the Liquidator for such proofs.
+ADMISSION AND REJECTION OF PROOFS AND PREFERENTIAL
+CLAIMS AND APPEAL TO THE COURT
+87. (1) Subject to the provisions of the Act, and unless otherwise ordered by the Court, the Liquidator in any winding up may from time to time fix a certain day, which shall be not less than fourteen days from the date of the notice, on or before which the creditors of the company are to prove their debts or claims, and to establish any title they may have to priority under section 435 of the Act or to be excluded from the benefit of any distribution made before such debts are proved, or as the case may be from objecting to such distribution.
+(2) The Liquidator shall give notice in writing of the day so fixed by advertisement in such newspaper as he shall consider convenient, and in a winding up by the Court to every person mentioned in the statement of affairs as a creditor, and who has not proved his debt, and to every person mentioned in the statement of affairs as a preferential creditor whose claim to be a preferential creditor has not been established and is not admitted, and in any other winding up to the last known address or place of abode of each person who, to the knowledge of the Liquidator, claims to be a creditor or preferential creditor of the company and whose claim has not been admitted.
+The Companies Winding Up Rules
+(3) All the Rules hereinafter set out as to admission and rejection of proofs shall apply with the necessary variations to any such claim to priority as aforesaid.
+88. The Liquidator shall examine every proof of debt lodged with him, and the grounds of debt, and in writing admit or reject it, in whole or in part, or require further evidence in support of it. If he rejects a proof he shall state in writing to the creditor the grounds of the rejection.
+89. If a creditor or contributory is dissatisfied with the decision of the Liquidator in respect of a proof, the Court may, on the application of the creditor or contributory, reverse or vary the decision; but, subject to the power of the Court to extend the time, no application to reverse or vary the decision of the Liquidator in a winding up by the Court rejecting a proof sent to him by a creditor, or person claiming to be a creditor, shall be entertained, unless notice of the application is given before the expiration of twenty-one days from the date of the service of the notice of rejection.
+90. If the Liquidator thinks that a proof has been improperly admitted, the Court may, on the application of the Liquidator, after notice to the creditor who made the proof, expunge the proof or reduce its amount.
+91. The Court may also expunge or reduce a proof upon the application of a creditor or contributory if the Liquidator declines to interfere in the matter.
+92. For the purpose of any of his duties in relation to proofs, the Liquidator, in a winding up by the Court, may administer oaths and take affidavits.
+93. In a winding up by the Court the Official Receiver, before the appointment of a Liquidator, shall have all the powers of a Liquidator with respect to the examination, admission, and rejection of proofs, and any act or decision of his in relation thereto shall be subject to the like appeal.
+94. In a winding up by the Court the Official Receiver, where no other Liquidator is appointed, shall, before payment of a dividend, file all proofs tendered in the winding up, with a list thereof, distinguishing in such list the proofs which were wholly or partly admitted, and the proofs which were wholly or partly rejected.
+95. Every Liquidator in a winding up by the Court other than the Official Receiver shall on the first day of every month, file with the Registrar of the Supreme Court a certified list of all proofs, if any, received by him, during the month next preceding, distinguishing in such lists the proofs admitted, those rejected, and such as stand over for further consideration; and in the case of proofs admitted or rejected, he shall cause the proofs to be filed with the said Registrar.
+The Companies Winding Up Rules
+96. The Liquidator in a winding up by the Court, including the Official Receiver when he is Liquidator, shall, within three days after receiving notice from a creditor of his intention to appeal against a decision rejecting a proof, file such proof with the Registrar of the Supreme Court, with a memorandum thereon of his disallowance thereof.
+97. Subject to the power of the Court to extend the time in a winding up by the Court, the Official Receiver as Liquidator, not later than fourteen days from the latest date specified in the notice of his intention to declare a dividend as the time within which such proofs must be lodged, shall in writing either admit or reject wholly, or in part, every proof lodged with him, or require further evidence in support of it.
+98. Subject to the power of the Court to extend the time, the Liquidator in a winding up by the Court, other than the Official Receiver, within twenty eight days after receiving a proof, which has not previously been dealt with shall in writing either admit or reject it wholly or in part, or require further evidence in support of it: Provided that where the Liquidator has given notice of his intention to declare a dividend, he shall within fourteen days after the date mentioned in the notice as the latest date up to which proofs must be lodged, examine, and in writing admit or reject, or require further evidence in support of, every proof which has not been already dealt with, and shall give notice of his decision, rejecting a proof wholly or in part, to the creditors affected thereby. Where a creditor's proof has been admitted the notice of dividend shall be a sufficient notification of the admission.
+99. The Official Receiver shall in no case be personally liable for costs in relation to an appeal from his decision rejecting any proof wholly or in part.
+DIVIDENDS IN A WINDING UP BY THE COURT
+100. (1) Not more than two months before declaring a dividend the Liquidator in a winding up by the Court, shall cause notice of his intention to do so to be inserted in the Gazette, and at the same time give notice to such of the creditors mentioned in the statement of affairs as have not proved their debts. Such notice shall specify the latest date up to which proofs must be lodged, which shall not be less than fourteen days from the date of such notice.
+(2) Where any creditor, after the date mentioned in the notice of intention to declare a dividend as the latest date up to which proofs may be lodged, appeals against the decision of the Liquidator rejecting a proof, notice of appeal shall, subject to the power of the Court to extend the time in special cases, be given within seven days from the date of the notice of the decision against which the appeal is made, and the Liquidator may in such case make provision for the dividend upon such proof, and the probable cost of such appeal
+The Companies Winding Up Rules
+in the event of the proof being admitted. Where no notice of appeal has been given within the time specified in this rule, the Liquidator shall exclude all proofs which have been rejected from participation in the dividend.
+(3) Immediately after the expiration of the time fixed by this rule for appealing against the decision of the Liquidator he shall proceed to declare a dividend, and shall cause notice thereof to be inserted in the Gazette, and shall also send a notice of dividend to each creditor whose proof has been admitted.
+(4) If it becomes necessary, in the opinion of the Liquidator and the Committee of Inspection, to postpone the declaration of the dividend beyond the limit of two months, the Liquidator shall cause a fresh notice of his intention to declare a dividend to be inserted in the Gazette, but it shall not be necessary for the Liquidator to give a fresh notice to such of the creditors mentioned in the statement of affairs as have not proved their debts. In all other respects the same procedure shall follow the fresh notice as would have followed the original notice.
+(5) Dividends may at the request and risk of the person to whom they are payable be transmitted to him by post.
+(6) If a person to whom dividends are payable desires that they shall be paid to some other person he may lodge with the Liquidator a document in the Form 62 which shall be a sufficient authority for payment of the dividend to the person therein named.
+101. Every order by which the Liquidator in a winding up by the Court is authorised to make a return to contributories of the company shall, unless the Court shall otherwise direct, contain or have appended thereto a Schedule or List (which the Liquidator shall prepare) setting out in a tabular form the full names and addresses of the persons to whom the return is to be paid, and the amount of money payable to each person, and particulars of the transfers of shares (if any) which have been made or the variations in the list of contributories which have arisen since the date of the settlement of the list of contributories and such other information as may be requisite to enable the return to be made. The Schedule or List shall be in the Form 64 with such variations as circumstances shall require, and the Liquidator shall send a notice of return to each contributory.
+GENERAL MEETINGS OF CREDITORS AND CONTRIBUTORIES IN
+RELATION TO A WINDING UP BY THE COURT
+102. Unless the Court otherwise directs, the meetings of creditors and contributories under section 371 of the Act (hereinafter referred to as the first meetings of creditors and contributories) shall be held within one month or if a special manager has been appointed then within six weeks after the date of the winding up order. The dates of such meetings shall be fixed and they shall be summoned by the Official Receiver.
+The Companies Winding Up Rules
+103. The Official Receiver shall forthwith cause notice of the dates fixed by him for the first meetings of creditors and contributories to be inserted in the Gazette.
+104. The first meetings of creditors and contributories shall be summoned as hereinafter provided.
+105. The notices of first meetings of creditors and contributories may be in Forms 65 and 66 appended thereto, and the notices to creditors shall state a time within which the creditors must lodge their proofs in order to entitle them to vote at the first meeting.
+106. The Official Receiver shall also give to each of the directors and other officers of the company who in his opinion ought to attend the first meetings of creditors and contributories seven days' notice of the time and place appointed for each meeting. The notice may either be delivered personally or sent by prepaid post letter, as may be convenient. It shall be the duty of every director or officer who receives notice of such meeting to attend if so required by the Official Receiver, and if any such director or officer fails to attend the Official Receiver shall report such failure to the Court.
+107. (1) The Official Receiver shall also, as soon as practicable, send to each creditor mentioned in the company's statement of affairs, and to each person appearing from the company's books or otherwise to be a contributory of the company a summary of the company's statement of affairs, including the causes of its failure, and any observations thereon which the Official Receiver may think fit to make. The proceedings at a meeting shall not be invalidated by reason of any summary or notice required by these Rules not having been sent or received before the meeting.
+(2) Where prior to the winding up order the company has commenced to be wound up voluntarily the Official Receiver may if in his absolute discretion he sees fit so to do send to the persons aforesaid or any of them an account of such voluntary winding up showing how such winding up has been conducted and how the property of the company has been disposed of and any observations which the Official Receiver may think fit to make on such account or on the voluntary winding up.
+GENERAL MEETINGS OF CREDITORS AND CONTRIBUTORIES IN RELATION TO WINDING UP BY THE COURT AND OF CREDITORS
+IN RELATION TO A CREDITOR'S VOLUNTARY WINDING UP
+108. (1) In addition to the first meetings of creditors and contributories and in addition also to meetings of creditors and contributories directed to be held by the Court under section 458 of the Act (hereinafter referred to as Court meetings of creditors and contributories) the Liquidator in any winding up by
+The Companies Winding Up Rules
+the Court may himself from time to time subject to the provisions of the Act and the control of the Court summon, hold and conduct meetings of the creditors or contributories (hereinafter referred to as Liquidator's meetings of creditors and contributories) for the purpose of ascertaining their wishes in all matters relating to the winding up.
+(2) In any creditors voluntary winding up, the Liquidator may himself from time to time summon, hold and conduct meetings of creditors for the purpose of ascertaining their wishes in all matters relating to the winding up (such meetings and all meetings of creditors which a Liquidator or a company is by the Act required to convene in or immediately before such a voluntary winding up and all meetings convened by a creditor in a voluntary winding up under these Rules are hereinafter called voluntary liquidation meetings).
+109. Except where and so far as the nature of the subject-matter or the context may otherwise require, the rules as to meetings hereinafter set out shall apply to first meetings, Court meetings, Liquidator's meetings of creditors and contributories, and voluntary liquidation meetings, but so nevertheless that the said Rules shall take effect as to first meetings subject without prejudice to any express provisions of the Act and as to Court meetings subject and without prejudice to any express directions of the Court.
+110. (1) The Official Receiver or Liquidator shall summon all meetings of creditors and contributories by giving not less than seven days' notice of the time and place thereof in the Gazette and in a local daily newspaper; and shall not less than seven days before the day appointed for the meeting send by post to every person appearing by the company's books to be a creditor of the company notice of the meeting of creditors, and to every person appearing by the company's books or otherwise to be a contributory of the company notice of the meeting of contributories.
+(2) The notice to each creditor shall be sent to the address given in his proof, or if he has not proved to the address given in the statement of affairs of the company, if any, or to such other address as may be known to the person summoning the meeting. The notice to each contributory shall be sent to the address mentioned in the company's books as the address of such contributory, or to such other address as may be known to the person summoning the meeting.
+(3) In the case of meetings under section 422 of the Act the continuing Liquidator or, if there is no continuing Liquidator, any creditor may summon the meeting.
+(4) This rule shall not apply to meetings under section 418 or section 425 of the Act.
+111. A certificate by the Official Receiver or other officer of the Court, or by the clerk of any such person, or an affidavit by the Liquidator, or creditor, or
+The Companies Winding Up Rules
+his Attorney-at-law, or the clerk of either of such persons, or as the case may be by some officer of the company or its attorney-at-law or the clerk of such company or attorney-at-law, that the notice of any meeting has been duly posted, shall be sufficient evidence of such notice having been duly sent to the person to whom the same is addressed.
+112. Every meeting shall be held at such place as is in the opinion of the person convening the same most convenient for the majority of the creditors or contributories or both. Different times or places or both may if thought expedient be named for the meetings of creditors and for the meetings of contributories.
+113. The costs of summoning a meeting of creditors or contributories at the instance of any person other than the Official Receiver or Liquidator shall be paid by the person at whose instance it is summoned who shall before the meeting is summoned deposit with the Official Receiver or Liquidator (as the case may be) such sum as may be required by the Official Receiver or Liquidator as security for the payment of such costs. The costs of summoning such meeting of creditors or contributories, including all disbursement for printing, stationery, postage and the hire of room, shall be calculated at the following rate for each creditor or contributory to whom notice is required to be sent, namely, forty-eight cents per creditor or contributory for the first twenty creditors or contributories, twenty-four cents per creditor or contributory for the next thirty creditors or contributories, twelve cents per creditor or contributory for any number of creditors or contributories after the first fifty. The said costs shall be repaid out of the assets of the company if the Court shall by order or if the creditors or contributories (as the case may be) shall by resolution so direct. This rule shall not apply to meetings under sections 418 or 422 of the Act.
+114. Where a meeting is summoned by the Official Receiver or the Liquidator, he or someone nominated by him shall be Chairman of the meeting. At every other meeting of creditors or contributories, the Chairman shall be such person as the meeting by resolution shall appoint. This rule shall not apply to meetings under section 418 of the Act.
+115. At a meeting of creditors a resolution shall be deemed to be passed when a majority in number and value of the creditors present personally or by proxy and voting on the resolution have voted in favour of the resolution, and at a meeting of the contributories a resolution shall be deemed to be passed when a majority in number and value of the contributories present personally or by proxy, and voting on the resolution, have voted in favour of the resolution, the value of the contributories being determined according to the number of votes conferred on each contributory by the regulations of the company.
+116. The Official Receiver, or as the case may be, the Liquidator, shall file with the Registrar of the Supreme Court a copy certified by him of every
+The Companies Winding Up Rules
+resolution of a meeting of creditors or contributories in a winding up by the Court.
+117. Where a meeting of creditors or contributories is summoned by notice, the proceedings and resolutions at the meeting shall, unless the Court otherwise orders, be valid notwithstanding that some creditors or contributories may not have received the notice sent to them.
+118. The Chairman may with the consent of the meeting adjourn it from time to time and from place to place, but the adjourned meeting shall be held at the same place as the original meeting unless in the resolution for adjournment another place is specified or unless the Court otherwise orders.
+119. (1) A meeting may not act for any purpose except the election of a chairman, the proving of debts and the adjournment of the meeting unless there are present or represented thereat at least three creditors entitled to vote or three contributories or all the creditors entitled to vote or all the contributories if the number of creditors entitled to vote or the contributories as the case may be shall not exceed three.
+(2) If within half an hour from the time appointed for the meeting a quorum of creditors or contributories is not present or represented, the meeting shall be adjourned to the same day in the following week at the same time and place or to such other day or time or place as the chairman may appoint but so that the day appointed shall be not less than seven or more than twenty-one days from the day from which the meeting was adjourned.
+120. In the case of a first meeting of creditors or of an adjournment thereof, a person shall not be entitled to vote as a creditor unless he has duly lodged with the Official Receiver not later than the time mentioned for that purpose in the notice convening the meeting or adjourned meeting a proof of the debt which he claims to be due to him from the company. In the case of a Court meeting or Liquidator's meeting of creditors, a person shall not be entitled to vote as a creditor unless he has lodged with the Official Receiver or Liquidator a proof of the debt which he claims to be due to him from the company and such proof has been admitted wholly or in part before the date on which the meeting is held; Provided that this and the next four following rules shall not apply to a Court meeting of creditors held prior to the first meeting of creditors. This rule shall not apply to any creditors or class of creditors who by virtue of the rules or any directions given thereunder are not required to prove their debts or to any voluntary liquidation meeting.
+121. A creditor shall not vote in respect of any unliquidated or contingent debt, or any debt the value of which is not ascertained, nor shall a creditor vote
+The Companies Winding Up Rules
+in respect of any debt on or secured by a current bill of exchange or promissory note held by him unless he is willing to treat the liability to him thereon of every person who is liable thereon antecedently to the company, and against whom a receiving order in bankruptcy has not been made, as a security in his hands, and to estimate the value thereof, and for the purposes of voting, but not for the purposes of dividend, to deduct it from his proof.
+122. For the purpose of voting, a secured creditor shall, unless he surrenders his security, state in his proof or in a voluntary liquidation in such a statement as is hereinafter mentioned the particulars of his security, the date when it was given, and the value at which he assesses it, and shall be entitled to vote only in respect of the balance (if any) due to him after deducting the value of his security. If he votes in respect of his whole debt he shall be deemed to have surrendered his security, unless the Court on application is satisfied that the omission to value the security has arisen from inadvertence.
+123. The Official Receiver or Liquidator may within twenty-eight days after a proof or in a voluntary liquidation a statement estimating the value of a security as aforesaid has been used in voting at a meeting require the creditor to give up the security for the benefit of the creditors generally on payment of the value so estimated with an addition thereto of twenty per cent; Provided that where a creditor has valued his security he may at any time before being required to give it up correct the valuation by a new proof and deduct the new value from his debt, but in that case the said addition of twenty per cent shall not be made if the security is required to be given up.
+124. The Chairman shall have power to admit or reject a proof for the purpose of voting, but his decision shall be subject to appeal to the Court. If he is in doubt whether a proof shall be admitted or rejected, he shall mark it as objected to and allow the creditor to vote subject to the vote being declared invalid in the event of the objection being sustained.
+125. For the purpose of voting at any voluntary liquidation meetings, a secured creditor shall, unless he surrenders his security, lodge with the Liquidator or where there is no Liquidator at the registered office of the company before the meeting a statement giving the particulars of his security, the date when it was given and the value at which he assesses it.
+126. (1) The Chairman shall cause minutes of the proceedings at the meeting to be drawn up and fairly entered in a book kept for that purpose and the minutes shall be signed by him or by the Chairman of the next ensuing meeting.
+(2) A list of creditors and contributories present at every meeting shall be made and kept as in Form 68.
+The Companies Winding Up Rules
+PROXIES IN RELATION TO A WINDING UP BY THE COURT AND
+TO MEETINGS OF CREDITORS IN A CREDITORS'
+VOLUNTARY WINDING UP
+127. A creditor or a contributory may vote either in person or by proxy. Where a person is authorised in manner provided by section 140 of the Act to represent a corporation at any meeting of creditors or contributories, such person shall produce to the Official Receiver or Liquidator or other the Chairman of the meeting a copy of the resolution so authorising him. Such copy must either be under the seal of the corporation or must be certified to be a true copy by the secretary or a director of the corporation. The succeeding rules as to proxies shall not (unless otherwise directed by the Court) apply to a Court meeting of creditors or contributories prior to the first meeting.
+128. Every instrument of proxy shall be in accordance with the form in the Appendix and every written part thereof shall be in the handwriting of the person giving the proxy or of any manager or clerk or other person in his regular employment or of a Commissioner of Affidavits.
+129. General and special forms of proxy shall be sent to the creditors and contributories with the notice summoning the meeting, and neither the name nor description of the Official Receiver or Liquidator or any other person shall be printed or inserted in the body of any instrument of proxy before it is so sent.
+130. A creditor or a contributory may give a general proxy to any person.
+131. A creditor or a contributory may give a special proxy to any person to vote at any specified meeting or adjournment thereof-
+(a) for or against the appointment or continuance in office of any
+specified person as Liquidator or Member of the Committee of Inspection; and
+(b) on all questions relating to any matter other than those above
+referred to and arising at the meeting or an adjournment thereof.
+132. Where it appears to the satisfaction of the Court that any solicitation has been used by or on behalf of a Liquidator in obtaining proxies or in procuring his appointment as Liquidator except by the direction of a meeting of creditors or contributories, the Court if it thinks fit may order that no remuneration be allowed to the person by whom or on whose behalf the solicitation was exercised notwithstanding any resolution of the Committee of Inspection or of the creditors or contributories to the contrary.
+133. A creditor or a contributory in a winding up by the Court may appoint the Official Receiver or Liquidator and in a voluntary winding up the Liquidator or if there is no Liquidator the Chairman of a meeting to act as his general or special proxy.
+The Companies Winding Up Rules
+134. No person acting either under a general or a special proxy shall vote in favour of any resolution which would directly or indirectly place himself, his partner or employer in a position to receive any remuneration out of the estate of the company otherwise than as a creditor rateably with the other creditors of the company: Provided that where any person holds special proxies to vote for an application to the Court in favour of the appointment of himself as Liquidator he may use the said proxies and vote accordingly.
+135. (1) A proxy intended to be used at the first meeting of creditors or contributories, or an adjournment thereof, shall be lodged with the Official Receiver not later than the time mentioned for that purpose in the notice convening the meeting or the adjourned meeting, which time shall be not earlier than twelve o'clock at noon of the day but one before, nor later than twelve o'clock at noon of the day before the day appointed for such meeting, unless the Court otherwise directs.
+(2) In every other case, a proxy shall be lodged with the Official Receiver or Liquidator in a winding up by the Court, with the company at its registered office for a meeting under section 418 of the Act, and with the Liquidator or if there is no Liquidator, with the person named in the notice convening the meeting to receive the same in a voluntary winding up not later than four o'clock in the afternoon of the day before the meeting or adjourned meeting at which it is to be used.
+(3) No person shall be appointed a general or special proxy who is a minor.
+136. Where the Official Receiver who holds any proxies cannot attend the meeting for which they are given, he may, in writing, depute some person under his official control to use the proxies on his behalf and in such manner as he may direct.
+137. The proxy of a creditor blind or incapable of writing may be accepted, if such creditor has attached his signature or mark thereto in the presence of a witness, who shall add to his signature his description and residence: Provided that all insertions in the proxy are in the handwriting of the witness, and such witness shall have certified at the foot of the proxy that all such insertions have been made by him at the request, and in the presence of, the creditor before he attached his signature or mark.
+ATTENDANCE AND APPEARANCE OF PARTIES
+138. (1) Every person for the time being on the list of contributories of the company, and every person whose proof has been admitted shall be at liberty, at his own expense, to attend proceedings, and shall be entitled, upon payment of the costs occasioned thereby, to have notice of all such proceedings as he shall
+The Companies Winding Up Rules
+by written request desire to have notice of; but if the Court shall be of opinion that the attendance of any such person upon any proceedings has occasioned any additional costs which ought not to be borne by the funds of the company, it may direct such costs, or a gross sum in lieu thereof, to be paid by such person; and such person shall not be entitled to attend any further proceedings until he has paid the same.
+(2) The Court may from time to time appoint any one or more of the creditors or contributories to represent before the Court, at the expense of the company, all or any class of the creditors or contributories upon any question or in relation to any proceedings before the Court, and may remove the person so appointed. If more than one person is appointed under this rule to represent one class, the person appointed shall employ the same Attorney-at-law to represent them.
+(3) No creditor or contributory shall be entitled to attend any proceedings in Chambers unless and until he has entered in a book, to be kept by the Registrar of the Supreme Court for that purpose, his name and address, and the name and address of his Attorney-at-law (if any) and upon any change of his address, or of his Attorney-at-law, his new address, and the name and address of his new Attorney-at-law.
+139. Where the attendance of the Liquidator's Attorney-at-law is required on any proceeding in Court or Chambers, the Liquidator need not attend in person, except in cases where his presence is necessary in addition to that of his Attorney-at-law, or the Court directs him to attend.
+LIQUIDATOR AND COMMITTEE OF INSPECTION
+140. (1) The remuneration of a Liquidator, unless the Court shall otherwise order, shall be fixed by the Committee of Inspection and shall be in the nature of a commission or percentage of which one part shall be payable on the amount realised, after deducting the sums (if any) paid to secured creditors (other than debenture holders) out of the proceeds of their securities, and the other part on the amount distributed in dividend.
+(2) If there is no Committee of Inspection the remuneration of the Liquidator shall, unless the Court shall otherwise order, be fixed by the scale of fees and percentages for the time being payable on realisations and distributions by the Official Receiver as Liquidator.
+(3) This rule shall only apply to a Liquidator appointed in a winding up by the Court.
+141. Except as provided by the Act or the Rules, a Liquidator shall not under any circumstances, whatever, make any arrangement for, or accept from
+The Companies Winding Up Rules
+any Attorney-at-law, auctioneer, or any other person connected with the company of which he is Liquidator, or who is employed in or in connection with the winding up of the company, any gift, remuneration, or pecuniary or other consideration or benefit whatever beyond the remuneration to which under the Act and the rules he is entitled as Liquidator, nor shall he make any arrangement for giving up, or give up, any part of such remuneration to any such Attorney-at-law, auctioneer, or other person.
+142. Neither the Liquidator, nor any member of the Committee of Inspection, of a company shall, while acting as Liquidator or member of such committee, except by leave of the Court, either directly or indirectly by himself or any employer, partner, clerk, agent, or servant, become purchaser of any part of the company's assets. Any such purchase made contrary to the provisions of this rule may be set aside by the Court on the application of the Official Receiver in a winding up by the Court or of any creditor or contributory in any winding up, and the Court may make such order as to costs as the Court shall think fit.
+143. Where the Liquidator carries on the business of the company, he shall not, without the express sanction of the Court, purchase goods for the carrying on of such business from any person whose connection with him is of such a nature as would result in his obtaining any portion of the profit (if any) arising out of the transaction.
+144. No member of a Committee of Inspection shall, except under and with the sanction of the Court, directly or indirectly, by himself, or any employer, partner, clerk, agent, or servant, be entitled to derive any profit from any transaction arising out of the winding up or to receive out of the assets any payment for services rendered by him in connection with the administration of the assets, or for any goods supplied by him to the Liquidator for or on account of the company. In a winding up by the Court if it appears to the Official Receiver or in a voluntary winding up if it appears to the Committee of Inspection or to any meeting of creditors or contributories that any profit or payment has been made contrary to the provisions of this rule, they may disallow such payment or recover such profit as the case may be, on the audit of the Liquidator's accounts or otherwise.
+145. In any case in which the sanction of the Court is obtained under the two last preceding rules, the cost of obtaining such sanction shall be borne by the person in whose interest such sanction is obtained, and shall not be payable out of the company's assets.
+146. Where the sanction of the Court to a payment to a member of a Committee of Inspection for services rendered by him in connection with the administration of the company's assets is obtained, the order of the Court shall
+The Companies Winding Up Rules
+specify the nature of the services, and such sanction shall only be given where the service performed is of a special nature. Except by the express sanction of the Court, no remuneration shall, under any circumstances, be paid to a member of a Committee for services rendered by him in the discharge of the duties attaching to his office as a member of such Committee.
+147. (1) Where a Liquidator is appointed by the Court, and has notified his appointment to the Registrar and given security as required, the Official Receiver shall forthwith put the Liquidator into possession of all property of the company of which the Official Receiver may have custody: Provided that such Liquidator shall have, before the assets are handed over to him by the Official Receiver, discharged any balance due to the Official Receiver on account of fees, costs, and charges properly incurred by him, and on account of any advances properly made by him in respect of the company, together with interest on such advances at the rate of six per centum per annum; and the Liquidator shall pay all fees, costs, and charges on the Official Receiver which may not have been discharged by the Liquidator before being put into possession of the property of the company and whether incurred before or after he has been put into such possession.
+(2) The Official Receiver shall be deemed to have a lien upon the company's assets until such balance shall have been paid and the other liabilities shall have been discharged.
+(3) It shall be the duty of the Official Receiver, if so requested by the Liquidator, to communicate to the Liquidator all such information respecting the estate and affairs of the company as may be necessary or conducive to the due discharge of the duties of the Liquidator.
+(4) This and the next following rule shall only apply in a winding up by the Court.
+148. A Liquidator who desires to resign his office shall summon separate meetings of the creditors and contributories of the company to decide whether or not the resignation shall be accepted. If the creditors and contributories by ordinary resolutions both agree to accept the resignation of the Liquidator, he shall file with the Registrar and the Registrar of the Supreme Court a memorandum of his resignation; and shall send notice thereof to the Official Receiver, and the resignation shall thereupon take effect. In any other case, the Liquidator shall report to the Court the result of the meetings and shall send a report to the Official Receiver and thereupon the Court may, upon the application of the Liquidator or the Official Receiver, determine whether or not the resignation of the Liquidator shall be accepted, and may give such directions and make such orders as in the opinion of the Court shall be necessary.
+149. If a receiving order in bankruptcy is made against a Liquidator, he shall thereby vacate his office, and for the purpose of the application of the Act and rules shall be deemed to have been removed.
+The Companies Winding Up Rules
+PAYMENTS INTO AND OUT OF A BANK
+150. (1) A Liquidator in a winding up by the Court shall forthwith pay all moneys received by him into such bank as the Court may direct to an account to the credit of such Liquidator of the company. All payments out shall be made by cheque payable to order, and every cheque shall have marked or written on the face of it the name of the company, and shall be signed by the Liquidator, and shall be countersigned by at least one member of the Committee of Inspection, and by such other person, if any, as the Committee of Inspection may appoint.
+(2) Where application is made to the Court to authorise the Liquidator in a winding up by the Court to make his payments into and out of a bank account, the Court may grant such authorisation for such time and on such terms as it may think fit, and may at any time order the account to be closed if it is of opinion that the account is no longer required for the purposes mentioned in the application.
+BOOKS
+151. In a winding up by the Court, the Official Receiver, until a Liquidator is appointed by the Court and thereafter the Liquidator, shall keep a book to be called the "Record Book" in which he shall record all minutes, all proceedings had and resolutions passed at any meeting of creditors or contributories, or of the Committee of Inspection, and all such matters as may be necessary to give a correct view of his administration of the company's affairs; but he shall not be bound to insert in the "Record Book" any document of a confidential nature (such as the opinion of Attorney-at-law on any matter affecting the interest of the creditors or contributories), nor need he exhibit such document to any person other than a member of the Committee of Inspection or the Official Receiver.
+152. (1) In a winding up by the Court, the Official Receiver, until a Liquidator is appointed by the Court, and thereafter the Liquidator, shall keep a book to be called the "Cash Book" in which he shall (subject to the provisions of the rules as to trading accounts) enter from day to day the receipts and payments made by him.
+(2) In a winding up by the Court, a Liquidator other than the Official Receiver shall submit the Record Book and Cash Book together with any other requisite books and vouchers, to the Committee of Inspection (if any) when required, and not less than once every three months.
+(3) In a creditors voluntary winding up, the Liquidator shall keep such books as the Committee of Inspection or, if there is no such Committee, as the creditors direct and all books kept by the Liquidator shall be submitted to the Committee of Inspection or, if there is no such Committee, to the creditors with any other books, documents, papers and accounts in his possession relating to
+The Companies Winding Up Rules
+his office as Liquidator or to the company as and when the Committee of Inspection or, if there is no such Committee, the creditors direct.
+ACCOUNTS AND AUDIT IN A WINDING UP BY THE COURT
+153. The Committee of Inspection shall not less than once every three months audit the Liquidator's Cash Book and certify therein under their hands the day on which the said book was audited.
+154. (1) The Liquidator shall, at the expiration of six months from the date of the winding up order, and at the expiration of every succeeding six months thereafter until his release, transmit to the Official Receiver a copy of the Cash Book for such period in duplicate, together with the necessary vouchers and copies of the certificates of audit by the Committee of Inspection. He shall also forward with the first accounts, a summary of the company's statement of affairs, showing thereon the amounts realised, and explaining the cause of the non-realisation of such assets as may be unrealised. The Liquidator shall also at the end of every six months forward to the Official Receiver, with his accounts, a report upon the position of the liquidation of the company in such form as the Official Receiver may direct.
+(2) When the assets of the company have been fully realised and distributed, the Liquidator shall forthwith send in his accounts to the Official Receiver, although the six months may not have expired.
+(3) The accounts sent in by the Liquidator shall be verified by him by affidavit.
+155. (1) Where the Liquidator carries on the business of the company, he shall keep a distinct account of the trading, and shall incorporate in the Cash Book the total weekly amounts of the receipts and payments on such trading account.
+(2) The trading account shall from time to time, and not less than once in every month, be verified by affidavit, and the Liquidator shall thereupon submit such account to the Committee of Inspection (if any), or such member thereof as may be appointed by the Committee for that purpose, who shall examine and certify the same.
+156. When the Liquidator's account has been audited, the Official Receiver shall certify the fact upon the account, and thereupon the duplicate copy, bearing a like certificate, shall be filed with the Registrar of the Supreme Court.
+157. (1) The Liquidator shall transmit to the Official Receiver with his accounts a summary of such accounts in such form as the Official Receiver may from time to time direct, and on the approval of such summary by the Official Receiver shall forthwith obtain, prepare, and transmit to the Official
+The Companies Winding Up Rules
+Receiver so many printed copies thereof, duly stamped for transmission by post, and addressed to the creditors and contributories, as may be required for transmitting such summary to each creditor and contributory.
+(2) The cost of printing and posting such copies shall be a charge upon the assets of the company.
+158. Where a Liquidator has not since the date of his appointment or since the last audit of his accounts, as the case may be, received or paid any sum of money on account of the assets of the company, he shall, at the time when he is required to transmit his accounts to the Official Receiver, forward to the Official Receiver an affidavit of no receipts or payments.
+159. (1) Upon a Liquidator resigning or being released or removed from his office, he shall deliver over to the Official Receiver, or as the case may be, to the new Liquidator, all books kept by him, and all other books, documents, papers and accounts in his possession relating to the office of Liquidator. The release of a Liquidator shall not take effect unless and until he has delivered over to the Official Receiver, or as the case may be to the new Liquidator, all the books, papers, documents and accounts which he is by this rule required to deliver on his release.
+(2) The Court may, at any time during the progress of the liquidation, on the application of the Liquidator, or the Official Receiver, direct that such of the books, papers, and documents of the company or of the Liquidator as are no longer required for the purpose of the liquidation, may be sold, destroyed, or otherwise disposed of.
+160. Where property forming part of a company's assets is sold by the Liquidator through an auctioneer or other agent, the gross proceeds of the sale shall be paid over by such auctioneer or agent, and the charges and expenses connected with the sale shall afterwards be paid to such auctioneer or agent, on the production of the necessary certificate of the taxing officer. Every Liquidator by whom such auctioneer or agent is employed, shall, unless the Court otherwise orders, be accountable for the proceeds of every such sale.
+TAXATION OF COSTS
+161. Every Attorney-at-law, manager, accountant, auctioneer, broker or other person employed by the Official Receiver or Liquidator in a winding up by the Court shall on request by the Official Receiver or Liquidator (to be made a sufficient time before the declaration of a dividend) deliver his bill of costs or charges to the Official Receiver or Liquidator for the purpose of taxation; and if he fails to do so within the time stated in the request, or such extended time as the Court may allow, the Liquidator shall declare and distribute the dividend without regard to such person's claim, and, subject to any order of the Court,
+The Companies Winding Up Rules
+the claim shall be forfeited. The request by the Official Receiver or Liquidator shall be in Form No. 82.
+162. Where a bill of costs or charges in any winding up has been lodged with the Registrar of the Supreme Court, he shall give notice of an appointment to tax the same, in a winding up by the Court, to the Official Receiver and in every winding up to the Liquidator, and to the person to or by whom the bill or charges is or are to be paid (as the case may be).
+163. The bill or charges, if incurred in a winding up by the Court prior to the appointment of a Liquidator, shall be lodged with the Official Receiver, and if incurred after the appointment of a Liquidator, shall be lodged with the Liquidator. The Official Receiver or the Liquidator, as the case may be, shall lodge the bill or charges with the Registrar of the Supreme Court.
+164. Every person whose bill or charges in a winding up by the Court is or are to be taxed shall, on application either of the Official Receiver or the Liquidator, furnish a copy of his bill or charges so to be taxed, on payment at the rate of eight cents per folio, which payment shall be charged on the assets of the company. The Official Receiver shall call the attention of the Liquidator to any items which, in his opinion, ought to be disallowed or reduced, and may attend or be represented on the taxation.
+165. Where any party to, or person affected by, any proceeding desires to make an application for an order that he be allowed his costs, or any part of them, incident to such proceeding, and such application is not made at the time of the proceeding:
+(1) such party or person shall serve notice of his intended application
+on the Official Receiver or on the Liquidator as the case may be;
+(2) the Official Receiver or Liquidator may appear on such application
+and object thereto;
+(3) no costs of or incident to such application shall be allowed to the
+applicant, unless the Court is satisfied that the application could not have been made at the time of the proceeding.
+166. Upon the taxation of any bill of costs, charges, or expenses being completed, the Registrar of the Supreme Court shall issue to the person presenting such bill for taxation his allowance or certificate of taxation. The bill of costs, charges and expenses, together with the allowance or certificate, shall be filed with the said Registrar.
+167. Where the bill or charges of any Attorney-at-law, manager, accountant, auctioneer, broker, or other person employed by the Official Receiver or Liquidator, is or are payable out of the assets of the company, a certificate in
+The Companies Winding Up Rules
+writing, signed by the Official Receiver or Liquidator, as the case may be, shall on the taxation be produced to the Registrar of the Supreme Court setting forth whether any, and if so what, special terms of remuneration have been agreed to, and in the case of the bill of costs of an Attorney-at-law, a copy of the resolution or other authority sanctioning the appointment of an Attorney-at-law to assist the Liquidator in the performance of his duties and the instructions given to such Attorney-at-law by the Liquidator.
+COSTS AND EXPENSES PAYABLE OUT OF THE ASSETS
+OF THE COMPANY
+168. (1) Where a Liquidator or special manager in a winding up by the Court receives remuneration for his services as such, no payment shall be allowed on his accounts in respect of the performance by any other person of the ordinary duties which are required by statute or rules to be performed by himself.
+(2) Where a Liquidator is an Attorney-at-law, he may contract that the remuneration for his services as Liquidator shall include all professional services.
+169. (1) The assets of a company in a winding up by the Court, remaining after payment of the fees and expenses properly incurred in preserving, realising or getting in the assets, including where the company has previously commenced to be wound up voluntarily such remuneration, costs and expenses as the Court may allow to a Liquidator appointed in such voluntary winding up shall, subject to any order of the Court, be liable to the following payments, which shall be made in the following order of priority, namely:
+First. The taxed costs of the petition, including the taxed costs of any person appearing on the petition whose costs are allowed by the Court.
+Next. The remuneration of the special manager (if any).
+Next. The costs and expenses of any person who makes or concurs in making, the company's statement of affairs.
+Next. The taxed charges of any shorthand writer appointed to take an examination: Provided that where the shorthand writer is appointed at the instance of the Official Receiver, the cost of the shorthand notes shall be deemed to be an expense incurred by the Official Receiver in getting in and realising the assets of the company.
+Next. The necessary disbursements of any Liquidator appointed in the winding up by the Court, other than expenses properly incurred in preserving, realising or getting in the assets heretofore provided for.
+The Companies Winding Up Rules
+Next. The costs of any person properly employed by any such Liquidator.
+Next. The remuneration of any such Liquidator.
+Next. The actual out-of-pocket expenses necessarily incurred by the Committee of Inspection, subject to the approval of the Official Receiver.
+(2) No payments in respect of bills or charges of Attorney(s)-at-law, managers, accountants, auctioneers, brokers, or other persons other than payments for costs and expenses incurred and sanctioned under rule 41, and payments of bills which have been taxed and allowed under orders made for the taxation thereof, shall be allowed out of the assets of the company without proof that the same have been considered and allowed by the Registrar of the Supreme Court. The said Registrar shall before passing the bills or charges of an Attorney-at-law satisfy himself that the appointment of an Attorney-at-law to assist the Liquidator in the performance of his duties has been duly sanctioned: Provided that the Official Receiver when acting as Liquidator may without taxation pay and allow the costs and charges of any person other than an attorney-at-law employed by him where such costs and charges are within the scale usually allowed by the Court and do not exceed the sum of nine dollars and sixty cents.
+(3) Nothing contained in this rule shall apply to or affect costs which, in the course of legal proceedings by or against a company which is being wound up by the Court, are ordered by the Court in which such proceedings are pending or a Judge thereof to be paid by the company or the Liquidator, or the rights of the person to whom such costs are payable.
+170. The winding up of a company shall, for the purposes of section 456 of the Act, be deemed to be concluded:
+(a) in the case of a company wound up by order of the Court, at
+the date on which the order dissolving the company has been reported by the Liquidator to the Registrar, or at the date of the order of the Official Receiver releasing the Liquidator pursuant to section 382 of the Act;
+(b) in the case of a company wound up voluntarily, or under the
+supervision of the Court, at the date of the dissolution of the company, unless at such date any funds or assets of the company remain unclaimed or undistributed in the hands or under the control of the Liquidator, or any person who has acted as Liquidator, in which case the winding up shall not be deemed to be concluded until such funds or assets have either been distributed or paid into Court.
+171. In a voluntary winding up or a winding up under the supervision of the Court, the statements with respect to the proceedings in and position of a liquidation of a company, the winding up of which is not concluded within a
+The Companies Winding Up Rules
+year after its commencement, shall be sent to the Registrar twice in every year as follows:
+(1) the first statement commencing at the date when a Liquidator was
+first appointed and brought down to the end of twelve months from the commencement of the winding up, shall be sent within thirty days from the expiration of such twelve months, or within such extended period as the Official Receiver may sanction, and the subsequent statements shall be sent at intervals of half a year, each statement being brought down to the end of the half-year for which it is sent. In cases in which the assets of the company have been fully realised and distributed before the expiration of a half-yearly interval, a final statement shall be sent forthwith;
+(2) subject to the next succeeding rule, Form 84, and where applicable
+Forms 86, 87 and 88, with such variations as circumstances may require, shall be used, and the directions specified in the Form (unless the Official Receiver otherwise directs) be observed in reference to every statement;
+(3) every statement shall be sent in duplicate, and shall be verified by
+an affidavit in the Form 85 with such variations as circumstances may require.
+172. Where in a voluntary winding up or a winding up under the supervision of the Court a Liquidator has not during any period for which a statement has to be sent, received or paid any money on account of the company, he shall, at the period when he is required to transmit his statement, send to the Registrar the prescribed statement in the Form 84, in duplicate, containing the particulars therein required with respect to the proceedings in and position of the liquidation, and with such statement shall also send an affidavit of no receipts or payments in the Form 85.
+UNCLAIMED FUNDS AND UNDISTRIBUTED
+ASSETS IN THE HANDS OF A LIQUIDATOR
+173. (1) All money in the names or under the control of a Liquidator of a company representing unclaimed dividends, which for six months from the date when the dividend became payable have remained in the hands or under the control of the Liquidator, shall forthwith, on the expiration of the six months, be paid into Court.
+(2) In a voluntary winding up or a winding up under the supervision of the Court, all other money in the hands or under the control of a Liquidator of a company, representing unclaimed or undistributed assets, which, under subsection (1) of section 457 of the Act, the Liquidator is to pay into Court, shall be ascertained as on the date to which the statement of receipts and payments sent in to the Registrar is brought down, and the amount to be paid into Court shall be the minimum balance of such money which the Liquidator has had in
+The Companies Winding Up Rules
+his hands or under his control during the six months immediately preceding the date to which the statement is brought down, less such part (if any) thereof as the Official Receiver may authorise him to retain for the immediate purposes of the liquidation. Such amount shall be paid into Court within fourteen days from the date to which the statement of account is brought down.
+(3) Notwithstanding anything in this rule, any moneys representing unclaimed or undistributed assets or dividends in the hands of the Liquidator at the date of the dissolution of the company shall forthwith be paid by him into Court.
+174. In a voluntary winding up or a winding up under the supervision of the Court, every person who has acted as Liquidator of any company, whether the liquidation has been concluded or not, shall furnish to the Official Receiver particulars of any money in his hands or under his control representing unclaimed or undistributed assets of the company and such other particulars as the Official Receiver may require for the purpose of ascertaining or getting in any money payable into Court. The Official Receiver may require such particulars to be verified by affidavit.
+175. (1) In a voluntary winding up or a winding up under the supervision of the Court, the Official Receiver may at any time order any such person to submit to him an account verified by affidavit of the sums received and paid by him as Liquidator of the company and may direct and enforce an audit of the account.
+(2) For the purposes of section 457 of the Act, and the rules, the Court has and may exercise all the powers conferred by the Bankruptcy Act with respect to the discovery and realisation of the property of a debtor, and the provisions of Part I of that Act with respect thereto shall, with any necessary modification, apply to proceedings under section 457 of the Act.
+176. An application by the Official Receiver for the purpose of ascertaining and getting in money payable into Court pursuant to section 457 of the Act, shall be made by motion, and where the winding up is voluntary or is by or under the supervision of the Court shall be made to and dealt with by a Judge.
+177. An application by a person claiming to be entitled to any money paid into Court in pursuance of section 457 of the Act shall be made in such form and manner as the Official Receiver may from time to time direct, and shall, unless the Official Receiver otherwise directs, be accompanied by the certificate of the Liquidator that the person claiming is entitled and such further evidence as the Official Receiver may direct.
+178. A Liquidator who requires to make payments out of money paid into Court in pursuance of section 457 of the Act, either by way of distribution or in respect of the cost and expenses of the proceedings, shall apply in such form and manner as the Official Receiver may direct, and the Official Receiver may
+The Companies Winding Up Rules
+thereupon make an order for payment to the Liquidator of the sum required by him for the purposes aforesaid.
+RELEASE OF LIQUIDATOR IN A WINDING UP BY THE COURT
+179. (1) A Liquidator in a winding up by the Court, before making application to the Official Receiver for his release, shall give notice of his intention so to do to all the creditors who have proved their debts, and to all the contributories, and shall send with the notice a summary of all receipts and payments in the winding up.
+(2) When the Official Receiver has granted to a Liquidator his release, a notice of the order granting the release shall be gazetted. The Liquidator shall provide the requisite fee for the Gazette, which he may charge against the company's assets.
+180. (1) The Official Receiver may order that the books and papers of a company which has been wound up shall not be destroyed for such period (not exceeding five years from the dissolution of the company) as the Official Receiver thinks proper.
+(2) Any creditor or contributory may make representations to the Official Receiver with regard to the destruction of such books and papers and may appeal to the Court from any order made by the Official Receiver under this rule.
+(3) Subject to any order of the Court, the Official Receiver may by a further order vary or rescind any order made by him under this rule.
+(4) A resolution for the destruction of the books and papers of such a company within the said period of five years or any shorter period fixed by an order of the Official Receiver in force at the date of such resolution shall not take effect until the expiration of such period of five years or of such shorter period unless the Official Receiver shall otherwise direct.
+(5) At least one week's notice shall be given to the Official Receiver of any application to the Court for an order for the destruction of the books and papers of a company before the expiration of such period of five years or shorter period.
+OFFICIAL RECEIVER
+181. The term "Official Receiver" means the Official Receiver attached to the Court for bankruptcy purposes, and includes any Assistant Official Receiver.
+182. Where a company against which a winding up order has been made has no available assets, the Official Receiver shall not be required to incur any expenses in relation to the winding up without the express directions of the Court.
+The Companies Winding Up Rules
+183. Where a Liquidator is appointed by the Court in a winding up by the Court, the Official Receiver shall account to the Liquidator.
+184. An appeal to the Court from an act or decision of the Official Receiver acting otherwise than as Liquidator of a company, shall be brought within twenty-one days from the time when the decision or act appealed against is done, pronounced, or made.
+185. (1) An application by the Official Receiver to the Court to examine on oath the Liquidator or any other person pursuant to section 381 of the Act shall be made ex parte, and shall be supported by a report to the Court filed with the Registrar of the Supreme Court, stating the circumstances in which the application is made.
+(2) The report shall for the purposes of such application be prima facie evidence of the statements therein contained.
+BOOKS TO BE KEPT BY REGISTRAR OF THE SUPREME COURT 186. The Registrar of the Supreme Court shall keep books according to Forms 93 and 94 in the Appendix, and the particulars given under the different heads in such books shall be entered forthwith after each proceeding has been concluded.
+GAZETTING IN A WINDING UP BY THE COURT
+187. (1) All notices subsequent to the making by the Court of a winding up order in pursuance of the Act or the rules requiring publication in the Gazette shall be gazetted by the Official Receiver or the Liquidator as the case may be.
+(2) Where any winding up order is amended, and also in any case in which any matter which has been gazetted has been amended or altered, or in which a matter has been wrongly or inaccurately gazetted, the Official Receiver or Liquidator shall re-gazette such order or matter with the necessary amendments and alterations in the prescribed form, at the expense of the company's assets, or otherwise as the Official Receiver may direct.
+188. (1) Whenever the Gazette contains any advertisement relating to any winding up proceedings the Official Receiver or Liquidator as the case may be shall file with the proceedings a memorandum referring to and giving the date of the advertisement.
+(2) In the case of an advertisement in a local paper, the Official Receiver, or Liquidator as the case may be, shall keep a copy of the paper, and a memorandum referring to and giving the date of the advertisement shall be placed on the file.
+The Companies Winding Up Rules
+(3) For this purpose, one copy of each local paper in which any advertisement relating to any winding up proceeding in the Court is inserted, shall be left with the Official Receiver or Liquidator as the case may be by the person who inserts the advertisement.
+(4) A memorandum under this rule shall be prima facie evidence that the advertisement to which it refers was duly inserted in the issue of the Gazette or newspaper mentioned in it.
+ARRESTS AND COMMITMENTS
+189. A warrant of arrest, or any other warrant issued under the provisions of the Act and rules, shall be addressed to the Marshal of the Court.
+190. Where the Court issues a warrant for the arrest of a person under any of the provisions of the Act or rules, the prison (to be named in the warrant of arrest) to which the person shall be committed shall, unless the Court shall otherwise order, be the prison used by the Court in cases of orders of commitment made in the exercise by the Court of its ordinary jurisdiction, and kept therein for the time mentioned in the warrant of commitment, unless sooner discharged by the order of the Court which issued the warrant of commitment, or otherwise by law.
+MISCELLANEOUS MATTERS
+191. The Court may, in any case in which it shall see fit, extend or abridge the time appointed by the rules or fixed by any order of the Court for doing any act or taking any proceeding.
+192. (1) No proceedings under the Act or the rules shall be invalidated by any formal defect or by any irregularity, unless the Court before which an objection is made to the proceeding is of opinion that substantial injustice has been caused by the defect or irregularity, and that the injustice cannot be remedied by any order of that Court.
+(2) No defect or irregularity in the appointment or election of the Official Receiver, Liquidator, or member of a Committee of Inspection shall vitiate any act done by him in good faith.
+193. In all proceedings in or before the Court, or any Judge, Registrar or Officer thereof, or over which the Court has jurisdiction under the Act and Rules, where no other provision is made by the Act or Rules, the practice, procedure and Regulations shall unless the Court otherwise in any special case directs, in the Court be in accordance with the rules and procedure of the Supreme Court, as far as practicable, with the existing rules and practice of the Court in proceedings for the administration of assets by the Court.
+The Companies Winding Up Rules
+- Margin: Application of rules.
+- Margin: Interpretation of terms.
+- Margin: Use of Forms in Appendix.
+- Margin: Matters to be heard in Court and Chambers.
+- Margin: Applications in Chambers.
+- Margin: Ch. 4:01.
+- Margin: Motions and summonses. Form 1.
+- Margin: Title of proceedings.
+- Margin: Form 2.
+- Margin: Written or printed proceedings.
+- Margin: Process to be sealed.
+- Margin: Issues of summonses.
+- Margin: Orders.
+- Margin: File of proceedings in office of Registrar of Supreme Court.
+- Margin: Office copies.
+- Margin: Inspection of file.
+- Margin: Use of file by Official Receiver.
+- Margin: Service.
+- Margin: Enforcement of orders.
+- Margin: Form of petition. Forms 3 and 4.
+- Margin: Presentation of petition.
+- Margin: Advertisement of petition. Form 5.
+- Margin: Service of petition. Forms 6 and 7.
+- Margin: Verification of petition. Forms 8 and 9.
+- Margin: Copy of petition to be furnished to creditor or contributory.
+- Margin: Appointment of Provisional Liquidator.
+- Margin: Form 10.
+- Margin: Attendance before hearing to show compliance with Rules.
+- Margin: Notice by persons who intend to appear. Form 11.
+- Margin: List of names and addresses of persons who appear on the petition. Form 12.
+- Margin: Affidavits in opposition and reply.
+- Margin: Substitution of creditor or contributory for withdrawing petitioner.
+- Margin: Notice that winding up order has been pronounced to be given to Official Receiver. Forms 13 and 14.
+- Margin: Documents for drawing up order to be left with Registrar of the Supreme Court.
+- Margin: No appointment for settling order.
+- Margin: Contents of winding up order. Forms 10 and 15.
+- Margin: Transmission, and advertisement of winding up order. Forms 95(1) and 16. Form 17.
+- Margin: Appointment of Special Manager.
+- Margin: Accounting by Special Manager. Form 18.
+- Margin: Preparation of statement of affairs. Form 19.
+- Margin: Extension of time for submitting statement of affairs.
+- Margin: Information subsequent to statement of affairs.
+- Margin: Default.
+- Margin: Expenses of statement of affairs.
+- Margin: Dispensing with statement of affairs.
+- Margin: Appointment of Liquidator on report of meetings of creditors and contributories. Form 20.
+- Margin: Forms 21 and 95(7).
+- Margin: Form 22.
+- Margin: Form 95(8).
+- Margin: Security.
+- Margin: Form 23.
+- Margin: Failure to give or keep up security.
+- Margin: Consideration of report.
+- Margin: Procedure consequent on order for public examination. Form 24.
+- Margin: Application for day for holding examination.
+- Margin: Appointment of time and place for public examination. Form 25.
+- Margin: Notice of public examination to creditors and contributories. Form 95(3).
+- Margin: Default in attending.
+- Margin: Form 26.
+- Margin: Warrant of arrest.
+- Margin: Notes of examination to be filed. Forms 27 and 28.
+- Margin: Application by or against delinquent directors and promoters.
+- Margin: Use of depositions taken at public examinations.
+- Margin: Shorthand notes.
+- Margin: Forms 29 and 30.
+- Margin: Depositions at private examinations.
+- Margin: Disclaimer.
+- Margin: Forms 31 and 32.
+- Margin: Vesting of disclaimed property.
+- Margin: Report by Official Receiver on arrangements and compromises.
+- Margin: Collection and distribution of company's assets by Liquidator.
+- Margin: Power of Liquidator to require delivery of property. Form 33.
+- Margin: Liquidator to settle list of contributories. Form 34.
+- Margin: Appointment of time and place for settlement of list. Forms 35 and 36.
+- Margin: Settlement of list of contributories. Form 37.
+- Margin: Notice to contributories. Forms 38 and 39.
+- Margin: Application to the Court to vary the list. Form 40.
+- Margin: Variation of or addition to list of contributories. Form 41.
+- Margin: Calls by Liquidator.
+- Margin: Form 42.
+- Margin: Form 43.
+- Margin: Form 44.
+- Margin: Application to the Court for leave to make a call. Forms 45 to 48.
+- Margin: Document making the call. Form 49.
+- Margin: Service of notice of a call.
+- Margin: Forms 44, 48, 50 and 51.
+- Margin: Enforcement of call. Forms 52, 53 and 54.
+- Margin: Proof of debt.
+- Margin: Mode of proof.
+- Margin: Verification of proof.
+- Margin: Contents of proof. Form 55.
+- Margin: Statement of security.
+- Margin: Proof before whom sworn.
+- Margin: Costs of proof.
+- Margin: Discount.
+- Margin: Periodical payments.
+- Margin: Interest.
+- Margin: Proof for debt payable at a future time.
+- Margin: Workmen's wages. Form 56.
+- Margin: Production of bills of exchange and promissory notes.
+- Margin: Transmission of proofs to Liquidator.
+- Margin: Notice to creditors to prove.
+- Margin: Examination of proof. Form 57.
+- Margin: Appeal by creditor.
+- Margin: Expunging at instance of Liquidator.
+- Margin: Expunging at instance of creditor.
+- Margin: Oaths.
+- Margin: Official Receiver's powers.
+- Margin: Filing proofs by Official Receiver.
+- Margin: Proofs to be filed. Form 58.
+- Margin: Procedure where creditor appeals.
+- Margin: Time for dealing with proofs by Official Receiver.
+- Margin: Time for dealing with proofs by Liquidator.
+- Margin: Costs of Appeals from decisions as to proofs.
+- Margin: Dividends to creditors. Forms 59, 60 and 95(4).
+- Margin: Forms 61 and 95 (5).
+- Margin: Form 62.
+- Margin: Return of capital to contributories. Forms 63,64 and 95(6).
+- Margin: First meetings of creditors and contributories.
+- Margin: Notice of first meetings to be gazetted. Form 95(2).
+- Margin: Summoning of first meetings.
+- Margin: Form of notices of first meetings. Forms 65 and 66.
+- Margin: Notice of first meetings to officers of company. Form 67.
+- Margin: Summary of statement of affairs.
+- Margin: Liquidator's meetings of creditors and contributories.
+- Margin: Application of Rules as to meetings.
+- Margin: Summoning of meetings.
+- Margin: Form 69.
+- Margin: Proof of notice. Forms 70 and 71.
+- Margin: Place of meetings.
+- Margin: Costs of calling meetings.
+- Margin: Chairman of meeting. Form 72.
+- Margin: Ordinary resolution of creditors and contributories.
+- Margin: Copy of resolution to be filed.
+- Margin: Non-reception of notice by a creditor.
+- Margin: Adjournments. Form 73.
+- Margin: Quorum.
+- Margin: Creditors entitled to vote.
+- Margin: Cases in which creditors may not vote.
+- Margin: Votes of secured creditors.
+- Margin: Creditor required to give up security.
+- Margin: Admission and rejection of proofs for purpose of voting.
+- Margin: Statement of security.
+- Margin: Minutes of meeting.
+- Margin: Form 68.
+- Margin: Proxies.
+- Margin: Form of proxies. Forms 74 and 75.
+- Margin: Forms of proxy to be sent with notices.
+- Margin: General proxies.
+- Margin: Special Proxies.
+- Margin: Solicitation by Liquidator to obtain proxies.
+- Margin: Proxies to Official Receiver or Liquidator.
+- Margin: Holder of proxy not to vote on matter in which he is financially interested.
+- Margin: Proxies. Forms 74 and 75.
+- Margin: Use of proxies by deputy.
+- Margin: Filling in where creditor blind or incapable.
+- Margin: Attendance at proceedings.
+- Margin: Attendance of Liquidator's Attorney-at-law.
+- Margin: Remuneration of Liquidator.
+- Margin: Limit of remuneration.
+- Margin: Dealings with assets.
+- Margin: Restriction on purchase of goods by Liquidator.
+- Margin: Committee of Inspection not to make profit.
+- Margin: Costs of obtaining sanction of Court.
+- Margin: Sanction of payments to Committee.
+- Margin: Discharge of costs before assets handed to Liquidator.
+- Margin: Resignation of Liquidator.
+- Margin: Office of Liquidator vacated by his insolvency.
+- Margin: Bank account.
+- Margin: Forms 76 and 77.
+- Margin: Record Book.
+- Margin: Cash Book.
+- Margin: Audit of Cash Book. Form 78.
+- Margin: Official Receiver's audit of Liquidator's accounts.
+- Margin: Form 79.
+- Margin: Liquidator carrying on business.
+- Margin: Forms 80 and 81.
+- Margin: Copy of accounts to be filed.
+- Margin: Summary of accounts.
+- Margin: Affidavit of no receipts.
+- Margin: Proceedings on resignation, etc., of Liquidator.
+- Margin: Disposal of books.
+- Margin: Expenses of sales.
+- Margin: Taxation of costs payable by or to Official Receiver or Liquidator or by company.
+- Margin: Form 82.
+- Margin: Notice of appointment.
+- Margin: Lodgment of bill.
+- Margin: Copy of the bill to be furnished.
+- Margin: Applications for costs.
+- Margin: Certificate of taxation.
+- Margin: Form 83.
+- Margin: Certificate of employment.
+- Margin: Liquidator's charges.
+- Margin: Costs payable out of the assets.
+- Margin: Costs.
+- Margin: Conclusion of winding up.
+- Margin: Times for sending Liquidator's statements, and regulations applicable thereto.
+- Margin: Forms 84, 86, 87 and 88.
+- Margin: Form 85.
+- Margin: Affidavit of no receipts or payments.
+- Margin: Forms 84 and 85.
+- Margin: Payment of undistributed and unclaimed money into Court.
+- Margin: Liquidator to furnish information to Official Receiver.
+- Margin: Form 89.
+- Margin: Official Receiver may call for verified accounts.
+- Margin: Forms 84, 85 to 88. Ch. 9:70.
+- Margin: Application to the Court for enforcing an account and getting in money.
+- Margin: Application for payment out by person entitled.
+- Margin: Application by Liquidator for payment out.
+- Margin: Proceedings for release of Liquidator. Forms 90, 91 and 92.
+- Margin: Form 95(9).
+- Margin: Disposal of books and papers.
+- Margin: Official Receiver.
+- Margin: Duties where no assets.
+- Margin: Accounting by Official Receiver.
+- Margin: Appeal from Official Receiver.
+- Margin: Applications under section 381 of the Act.
+- Margin: Books to be kept by Registrar of the Supreme Court. Forms 93 and 94.
+- Margin: Gazetting notices. Form 95.
+- Margin: Filing memorandum of Gazette notices. Form 96.
+- Margin: To whom warrants may be addressed.
+- Margin: Prison to which person arrested on warrant is to be taken.
+- Margin: Enlargement or abridgement of time.
+- Margin: Formal defect not to invalidate proceedings.
+- Margin: Application of existing procedure.

@@ -1,0 +1,20 @@
+# FORM 56
+(Rule 84)
+PROOF OF DEBT OF WORKMEN
+(Title same as Form 2)
+I, ...
+Fill in full name and occupation of deponent
+of...
+Fill in address of deponent
+... make oath and say:
+On behalf of the workmen and others employed 1. That the above-named Company was on the ... day of ... 20... and still is justly and truly indebted to the several persons whose names, addresses, and descriptions appear in the Schedule endorsed hereon in the sums severally set against their names in the sixth column of such Schedule for wages due to them respectively as workmen or others in the employ of the Company in respect of services rendered by them respectively to the Company during such periods as are set out against their respective names in the fifth column of such Schedule, for which said sums, or any part thereof, I say that they have not, nor hath any of them, had or received any manner of satisfaction or security whatsoever.
+Sworn at ...this ... day of ... 20...
+Deponent's Signature ...
+Before me ...
+Schedule referred to on the other side
+1. 2. 3. 4. 5. 6.
+No. Full Name of Address Description Period over Amount
+Workman which wages
+due
+Deponent's Signature...
+The Companies Winding Up Rules

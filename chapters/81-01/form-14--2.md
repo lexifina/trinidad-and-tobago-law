@@ -1,0 +1,15 @@
+# FORM 14
+THE COMPANIES ACT, ( CH. 81:01)
+CREDITORS' VOLUNTARY WINDING UP
+NOTICE OF APPOINTMENT OF LIQUIDATOR
+Pursuant to section 429
+Name!of!Company!...
+Presented!by...
+CREDITORS' VOLUNTARY WINDING UP
+TO THE REGISTRAR,
+*I /We, the undersigned, HEREBY GIVE YOU NOTICE that I [or We] have been appointed the Liquidator[s] of the above-named Company/* by Resolution of the Company ... dated the ... 20 ... or/*by ...
+[state here manner of appointment if not by Resolution of the Company]
+...
+Signature** Address Description
+Dated!the!...!day!of...20!... Rules in regard to Verified or Certified Copies and Certified Translations under the
+Act and as to General Forms

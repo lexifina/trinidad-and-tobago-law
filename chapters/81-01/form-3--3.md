@@ -1,0 +1,8 @@
+# FORM 3
+THE COMPANIES ACT, ( CH. 81:01)
+PARTICULARS OF DIRECTORS OR MANAGERS AND
+OF ANY CHANGES THEREIN
+(N.B. THIS FORM HAS BEEN REPLACED BY FORM 8 IN
+THE SCHEDULE TO THE COMPANIES REGULATIONS)
+Rules in regard to Verified or Certified Copies and Certified Translations under the
+Act and as to General Forms

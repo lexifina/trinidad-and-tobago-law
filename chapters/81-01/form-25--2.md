@@ -1,0 +1,8 @@
+# FORM 25
+THE COMPANIES ACT, (CH. 81:01)
+DECLARATION VERIFYING MEMORANDUM OF
+SATISFACTION OF MORTGAGE OR CHARGE
+(N.B.!!THIS!!FORM!!HAS!!BEEN!!REPLACED!!BY!!FORM!!35!!IN!!THE
+FIRST!!SCHEDULE!!TO!!THE!!COMPANIES!!REGULATIONS)
+Rules in regard to Verified or Certified Copies and Certified Translations under the
+Act and as to General Forms
