@@ -1,7 +1,7 @@
 CHAPTER 4. No. 24.
 REMISSION OF PENALTIES.
-·AN ORDINANCE ,RELATING TO, THE REMISSION o'F PENALTIES.
-[20th August, 1886.]
-- Margin: I' o'rdinance
-- Margin: Cap. 34-:-1925.
-- Margin: Commencement.
+AN ORDINANCE RELATING TO THE RElVIISSION OF
+PENALTIES.
+[20th August, 1886.J
+- Margin: Ordinance Ch. 4. No. 24- 1940.
+- Margin: Commellce- Inent.
