@@ -1,39 +1,75 @@
 HOUSING ACT
-
 CHAPTER 33:01
 Act
 3 of 1962
 Amended by
-7 ofl965 201/1976 18 ofl980 9 of 1965 21 of 1977 *20ofl98l 12ofl969 38/1978 *24 of 1981 6ofl975 32ofl978 43 ofl981 26ofl976 143/1978 55/1981
-*See note on Amendments on page 2/L
-Authorised Pages
-byL.R.O. (inclusive) l/1990 55-56 l/1980 57-58 l/1990 59-62
-1/1980 73-76
-l/1990 77-86 l/1980 87-88
-Index
-of
-Subsidiary Legislation
-Page *National Housing Authority (Direct Loans) Regulations
-(G.N. 42/1969) 41 Interest Rate (Direct Loans) Notice (G.N. 35/1978) 56 Soft Loans (Approved Agents) Order (G.N.103/1977) 57 *National Housing Authority (Soft Loans) Regulations
-(G.N. 98/1977) . . . 57 Interest Rate (Soft Loans) Notice (G.N. 34/1978) 73 Housing (Income Tax Exemption) Regulations (G.N. 73/1969) 74 National Housing Authority Regulations (G.N. 72/1969) 84
-*See pages 2/1 and 2/2 for amendments to these Regulations.
-Note
-on
-Staff Provisions
-(page 37)
-Under section 3(2) of the Statutory Authorities Act (Chapter 24:01), the National Housing Authority has been declared a statutory authority subject to the provisions of that Act (See Chapter 24:01-Subsidiary Legislation). So long as this declaration remains in force, the provisions of this Act relating to staff must be read and con-strued accordingly.
-Note
-on
-Adaptation
-In the Regulations contained in the reprinted pages 74 to 76 of this Chapter, the references to the Income Tax Ordinance have been adapted to apply to the Income Tax Act now Chapter 7 5 :01. Note that the references to section 18(2) of the Ordinance occurring on pages 77 to 83 below (not reprinted) must similarly be adapted so as to refer to "section 42(2) of the Income Tax Act".
-LAWS OF TRINIDAD AND 'fOBAGO
-Note
-on
-Amendment
-- Margin: Authorised Pages byL.R.O. (inclusive)
-- Margin: l-4 1/1983
-- Margin: 5-10 1/1980
-- Margin: 11-15 1/1990
-- Margin: 16 l/1980
-- Margin: 17-38 1/1983 39-40 l/1980 41-54 1/1990
-- Margin: l/1980
+7 of 1965 143/1978 9 of 1965 18 of 1980 12 of 1969
+*20 of 1981 6 of 1975
+*24 of 1981 26 of 1976
+43 of 1981 201/1976
+55/1981 21 of 1977
+18 of 1989 32 of 1978 39 of 2000 38/1978
+*See Note on Amendment at page 2
+Index of Subsidiary Legislation
+Page National Housing Authority (Direct Loans) Regulations (GN 42/1969) … 44 Interest Rate (Direct Loans) Notice (GN 35/1978)... 64 Soft Loans (Approved Agents) Order (GN 103/1977) … … … 65 National Housing Authority (Soft Loans) Regulations (GN 98/1977)… … 66 Interest Rate (Soft Loans) Notice (GN 34/1978) ... 87 Housing (Income Tax Exemption) Regulations (LN 185/1986) … … 88 Housing Regulations (LN 187/1986) ... 99 National Housing Authority (Conveyancing Fees) Regulations (LN 145/2003) … 112
+Note on Staff Provisions
+(page 40)
+Under section 3(2) of the Statutory Authorities Act (Chapter 24:01), the National Housing Authority has been declared a statutory authority subject to the provisions of that Act (See Chapter 24:01-Subsidiary Legislation). So long as this declaration remains in force, the provisions of this Act relating to staff must be read and construed accordingly.
+Note on Amendment
+This Act has been amended by Act No. 20 of 1981 and Act No. 24 of 1981 but Act No. 20 of 1981 and Act No. 24 of 1981 had not, up to the date of the last revision of this Act, been brought into operation.
+CHAPTER 33:01
+HOUSING ACT
+ARRANGEMENT OF SECTIONS SECTION
+PRELIMINARY
+1. Short title. 2. Interpretation.
+PART I
+ADMINISTRATION
+ESTABLISHMENT OF AUTHORITY
+3. Establishment and incorporation of Authority. 4. Custody and use of seal. 5. Chief Executive Officer and co-opted persons to attend meetings. 6. Appointment and remuneration of committee. 7. Accounting of Authority. 8. Policy.
+RESEARCH AND PLANNING
+9. Duties of Authority.
+10. Powers of Authority.
+PART II
+MORTGAGES
+11. Interpretation. 12. Application of this Part. 13. Condition attaching to mortgage. 14. Transfer of moneys in Mortgage Insurance Fund. 18. } 15.
+(Repealed by Act No. 18 of 1980 and Act No. 43 of 1981). to ARRANGEMENT OF SECTIONS-Continued SECTION
+PART III
+DIRECT LOANS FOR HOUSING
+DIRECT LOANS
+19. Direct loans. 20. Disqualification for direct loans. 21. Conditions of direct loans. 22. Applications for direct loans. 23. Regulations re direct loans.
+CHARGES AND REGISTRATION
+24. Security for direct loans. 25. Registration of security. 26. Discharge of security. 27. Registration fee.
+EXEMPTION FROM STAMP DUTIES
+28. Stamp duty exemption.
+OFFENCES AND PENALTIES
+29. Summary offences. 30. Indictable offences. 31. Onus of proof. 32. Limitation of time.
+ENFORCEMENT OF SECURITY
+33. Sale by public auction. 34. Saving of security.
+PART IV
+SOFT LOANS FOR HOUSING
+SOFT LOANS
+35. Interpretation. 36. Soft loans. SECTION
+37. Terms and conditions. 38. Applications for soft loans. 39. Approved agents. 40. Authority to develop and lease building lots. 41. Offences and penalties. 42. Regulations. 43. Establishment of Investment Committee.
+PART V
+HOUSES FOR RENTAL PURPOSES
+44. Application of Part. 45. Rental guarantee. 46. Requirements for rental housing projects. 47. Terms of rental guarantee contract. 48. Alteration of contract guaranteeing rentals. 49. Regulations.
+PART VI
+LOW-RENTAL HOUSING PROJECTS
+50. Approved housing company. 51. Loans for low-rental housing projects.
+PART VII
+HOME IMPROVEMENT LOANS
+52. Interpretation. 53. Home improvement loan guarantee. 54. Termination of operation of section 53. 55. Termination of liability for loans. 56. Amount of liability. 57. Limit on liability. 58. Regulations. 59. Offences and penalties. 60. Onus of proof. 61. Subrogation.
+ARRANGEMENT OF SECTIONS-Continued SECTION
+62. Evidence of receipt. 63. Home improvement insurance fund. 64. Approval of credit agencies.
+PART VIII
+TRANSITIONAL AND GENERAL PROVISIONS
+65. Financial. 66. Power to borrow or raise capital. 67. Funds and resources of Authority. 68. Guarantee of borrowings of Authority. 69. Assets and liabilities of statutory housing bodies. 70. Transferability of officers. 71. Entry upon premises. 72. Limitation of time for actions in tort. 73. Saving. 74. Regulations generally. 75. Bye-laws. 76. Approval of construction. 77. State lands. 78. Act binds the State.
+
+CHAPTER 33:01
+HOUSING ACT
+An Act to create a National Housing Authority to replace
+existing statutory bodies dealing with housing, and to revise, consolidate and extend the laws relating to the encouragement of construction of dwelling houses and home ownership, and for matters incidental thereto.
+[7TH AUGUST 1962]
+PRELIMINARY
+- Margin: 3 of 1962.
+- Margin: Commencement. 76/1962.
