@@ -6,3 +6,4 @@ s-4.md
 s-5.md
 s-6.md
 s-7.md
+schedule.md
