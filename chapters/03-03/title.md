@@ -1,10 +1,9 @@
------------------------------------------------------------------
-
-CHAPTER 1. No. 1.
-LAW REVISION.
-AN ORDINANOE TO MAKE PROVISION FOR THE PREPARATION AND
-PUBLICATION OF A REVISED EDITION OF THE LAWS OF THE COLONY.
-[22nd Decembe1', 1938.]
-- Margin: Ordinance
-- Margin: No. 35-1938.
-- Margin: Commencement.
+OHAPTER 1.' No.1.
+LA"! REVISION.
+AN ORDINAN~E TO ~AKE PROVISIOW FOR THE PREPA.RATION
+AND PUBLICATIO~· OF-- A REVISED, EDITION OF THE LAWS OF THE COJ!i)NY.
+[19th November) 1949.J
+. '-
+- Margin: :"'
+- Margin: g~~~~~C;49.
+- Margin: Commence- ment.
