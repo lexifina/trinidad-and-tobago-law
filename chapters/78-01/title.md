@@ -1,13 +1,11 @@
-TII'LE X'TII.
-CUSTOMS AND EXCISE.
-(a) CuSTOMS.
-Chapter 194 CuSTOMS 2230 l'AGB
-"· 195 CusTOMs D:onEs 2324 " ~96 AsPHALT ExPORT DuTY 2340 " 197 CocoA (IMPORT AND ExPORT) 2342
-(b) ExcrsE.
-" 198 SPIRITS AND SPIRI'l' CoMPOUNDS 2344 " 199 LIQUOR LICENCES ... 241::) , 200 BREWERY 2446 " 201 PETROLEUM (ExCISE) 2460 " 202 REGISTRATION' OF CLUES 2468
-
-CHAPTER 194.
-CUSTOMS.
-AN ORDINANCE RELATING TO CusToMs.
-[1st ll!lay, 1924.]
-- Margin: Ord·inances No. 68 of 1921, , 27 of 1924.
+~~~S Ot~' ~Ol~i' -, ~~ ~e._ J~/4'l- T~
+~(1Lr'.,J~~ )~, tCf4~ ~<~ >-~/!lq¥"i u~ -p. ~~ " ' q.i.J../' 9~-1l ' ~t~.l4 ~ Iu.. ~mJ- 1-.1 CHAPTER 32. No.2.
+'~. OUSTOMS.
+AN ORDINANOE RELATING TO _OUSTOMS.
+[25th September, 1939.]
+- Margin: (...L.c.. ~,
+- Margin: it ~. a,.!t.
+- Margin: -<b. ~.
+- Margin: ~
+- Margin: Ordinances No. 22-1938. " 1-1939.
+- Margin: Commencement.
