@@ -1,0 +1,5 @@
+CHAPTER 141.
+FORESTS,
+AN ORDINANCE RELATING TO FoRESTS AND FoREST PRoDucE.
+[15th May, 1916.]
+- Margin: Ordi1lances No. 42 o/1915, 4 of1922, ., 29 of1025, s. 24.
