@@ -58,9 +58,11 @@ s-56.md
 s-57.md
 s-58.md
 s-59.md
+first-schedule.md
 form-1.md
 form-2.md
 form-3.md
 form-4.md
+form-5.md
 second-schedule.md
-tidrd-schedule.md
+third-schedule.md
