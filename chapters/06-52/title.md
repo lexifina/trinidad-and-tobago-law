@@ -1,8 +1,7 @@
 CHAPTER 7. No.6.
-COMMISSIONERS OF AFFIDAVITS.
-AN ORDINANCE RELATING TO COMMISSIONERS OF AFFIDAVITS.
-[4th A1J1'il, 1908.J
-- Margin: Ordinances
-- Margin: Cap. 74--1925.
-- Margin: No. 14-1939, s.32.
-- Margin: Commencement.
+COlVIlVIISSIONERS OF AFFIDAVITS.
+AN ORDINANCE RELATING TO COMMISSIONERS
+OF AFFIDAVITS.
+[4th A_pril, 1908.J
+- Margin: Ordinance eh. 7. No. 6- 1940.
+- Margin: Commence- ment.
