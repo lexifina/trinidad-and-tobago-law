@@ -1,7 +1,10 @@
-CHAPTER 12. No.2.
-MEDIOAL BOARD.
+, ,,-, "
+J CHAPTER 12. No.2.
+MEDICAL BOARD.
 AN ORDINANCE RELATING TO THE MEDICAL BOARD, THE
 PRACTICE OF MEDICINE AND SURGERY AND THE SELLING OF DRUGS.
-[1st Octobert·, 1898.]
-- Margin: Ordinances Cap. 97-1925. No. 28-1928, SS. 21 and 22.
-- Margin: Commencement.
+[1st October, 1898. J
+- Margin: Ordinance
+- Margin: Ch.12. No. 2-
+- Margin: 1940.
+- Margin: Commence- ment.
