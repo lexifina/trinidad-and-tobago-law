@@ -1,0 +1,10 @@
+/ {/?&__
+.(( /5 f ! t 1--jlf 'fL<<r
+1/f//C)j-.,.~
+
+CHAPTER 132.
+AGRICULTURAL BANK.
+AN ORDINANCE TO PROVID;E FOR THE ESTABLISHMENT OF AN
+AGRICULTUR-AL BANK.
+[7th July, 1924.]
+- Margin: c::.iJ.~~'/1924•
