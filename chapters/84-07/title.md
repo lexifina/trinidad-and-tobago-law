@@ -1,8 +1,7 @@
-CHAPTER 30. No.7.
+CHAPTER . . 30. No.7 .
 OLD METAL AND MARINE STORES.
-AN ORDINANCE RELATING TO THE SALE OF OLD METAL AND
+AN ORDINANCE RELATING TO THE SALE OF OLD METAL ANN
 MARINE STORES.
-[26th August, 1904.]
-- Margin: Ordinance
-- Margin: Cap. 2661925.
-- Margin: Commencement.
+.[26tll Aug",t, 1904.]
+- Margin: Ordinances Ch.3D. No.7- 1940. No. 41-1942.
+- Margin: Commence- ment.
