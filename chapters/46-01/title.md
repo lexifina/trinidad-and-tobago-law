@@ -1,35 +1,39 @@
-)
+CHILDREN ACT
 
-CHAPTER 4. No. 21.
-CHILDREN.
-ORDINANCE RELATING TO THE PROTECTION OF CHILDRE't.r .I. .. AND YOUNG PERSONS, INDUSTRIAL SCHOOLS AND ORPHANAGES, AND JUVENILE OFFENDERS.
-[17th March) 1925..]
-This Ordinance may be cited as the Children Ordinance.
-In this Ordi:riance-
-It child " means a person under the age of fourteen years;
-" guardian/ J' in relation to a ch~ld, young person) or youthful' offender, includes any' person who, in the opinion of the colirt having cognisance of any case in relation to the . child , young person, or youthful offender, or in which the child,· young person, or youthful ·offender is concerned, has for the time being the charge· of or control over the child, young person, or youthful offender; . .
-(( legal guardian," in relation "to an infant, child) young person, or youthful offender, means a person appointed, according to law, to be Iris guardian by deed or will,. or by order of a court of competent jurisdiction;
-It Magistrate H includes a Justice; t< place of safety" means any Police Station,or any hospital,· surgery, or any other suitable plac~, the: . occupier of which is willing temporarily to rece! ve an infant, child, or young person; . , li public place" includes any' public park, garden, wharf, jetty, or railway station, and any grou~d to
-" ""
-which the public for the time being have or are permit~ed to have access, whether on pa~ent or othervVlse ;
-u street 1J includes any highway and any public
-bridge, roahd'thlane'thfootwahYf' square, tcourt, alley, or passage, weer a oroug are or no ;
-(l young person" means a person who is fourteen
-years of age or upvvards and under the age of sixteen years.
-PART I.
-PREVENTION OF CRUELTY TO CHILDREN AND YOUNG
-PERSONS.
-- Margin: AN Ordinances Ch. 4. No 21 -1940.
-- Margin: No. 24-1946.
-- Margin: JI 44--1946.
-- Margin: ,Commence- ment.
-- Margin: 1. Short title.
-- Margin: 2. lriterpre. tation.
-- Margin: .
-- Margin: .
-- Margin: .
-- Margin: ,
-- Margin: .
-- Margin: .
-- Margin: , /
-- Margin: /_
+CHAPTER 46:01
+Act
+4 of 1926
+Amended by
+20 of 1936
+14 of 1939
+24 of 1946
+44 of 1946
+6 of 1953
+40 of 1961
+16 of 1962
+136/1976
+20 of 1979
+45 of 1979
+15 of 1981
+17 of 1981
+Page8 Authorised (inclu8ive) byL.R.O.
+LAO. 1/1990
+Index
+of
+Subsidiary Legislation
+This Chapter contains no subsidiary legislation.
+Note
+For the sittings of the Juvenile Court under this Act see G.N. 170/1979 and L.N. 91/1981.
+Corrigendum
+At page 42, in section 70(1), in line 2, for the word "rules" substitute the word "Rules".
+Note
+on
+Adaptation
+Under paragraph 6 of the Second Schedule to the Law Revision Act (Oh. 3:03) the Commission amended certain references to public officers in this Chapter. The Minister's approval of the amendments was signified by L.N. 52/1980, but no mar· ginal reference is made to this Notice where any such amendments is made in the text.
+LAWS OfTRINJDAD AND TOBAGO
+Children Chap_ 46:01
+c 01
+(
+ARRANGENmNI vr SECTIONS
+SECTION
+- Margin: 3
