@@ -1,0 +1,3 @@
+EXCHANGE CONTROL (PAYMENT FOR EXPORTS) ORDER
+made under sections 24 and 38
+- Margin: 219/1971.
