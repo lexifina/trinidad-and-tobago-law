@@ -1,27 +1,22 @@
-AW 1FT lID) \NI )BA·
-RATES, 't'MES AND LJ.{;EN(;~ (PAYMENT BY (.;uQU~)
-ACT
-.-1 of Act .19~4
-:urrt . \uthl . ~d PI
-1-4 111980
-L.R.O.1I1980
-Rates, Taxes and Licences
-Note on
-Subsidiary Legislation
-Chapter contains no subsidiary legislation.
-Rates, Taxes and Licences
+RATES, TAXES AND LICENCES (PAYMENT BY CHEQUE) ACT
 CHAPTER 74:02
-RATES, TAXES AND LICENCES (PAYMENT BY CHEQUE)
-ACT
-ARRANGEMENT OF SECTIONS
-SECTION
-1. Short title. 2. Interpretation. 3. Payment for licences by Cheque. 4. Payment of rates and taxes by cheque.
+Act
+41 of 1934
+Amended by
+91 of 2000
+Note on Subsidiary Legislation
+This Chapter contains no subsidiary legislation.
+CHAPTER 74:02
+RATES, TAXES AND LICENCES (PAYMENT BY CHEQUE) ACT
+ARRANGEMENT OF SECTIONS SECTION
+1. Short title. 2. Interpretation. 3. Payment for licences by cheque. 4. Payment of rates and taxes by cheque. 5. An offence to offer a cheque likely to be dishonoured.
 
-S. An offence to offer a cheque likely to be dishonoured.
+CHAPTER 74:02
+RATES, TAXES AND LICENCES
+(PAYMENT BY CHEQUE) ACT
 An Act to enable the payment of rates, taxes and licences to be
-rna d e b y c h eque.
-[27TH DECEMBER 1934.]
-- Margin: This
+made by cheque.
+[27TH DECEMBER 1934]
 - Margin: 1950 Ed. Ch. 33 No. 13.
 - Margin: 41 of 1934
 - Margin: Commencement.
