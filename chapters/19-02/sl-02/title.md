@@ -1,0 +1,4 @@
+STATISTICS (AGRICULTURAL CENSUS)
+REGULATIONS
+made under section 13
+- Margin: 7/1964.
