@@ -1,8 +1,14 @@
-CHAPTER 39. No.7.
-SAN FERNANDO CORPORATION.
-Ordinances AN ORDINANCE RELATING TO THE BOROUGH OF SAN Ch.39. 1940. No.7-
-FERNANDO, AND TO MAKE PROVISIONS FOR THE GOOD No. " 35-1941. 32-1943. GOVERNMENT OF THE BOROUGH. " 9-1945.
-" 33-1946. " 57-1946.
-[16th June, 1936.J ment. Commence-
-PART I.
-PRELIMINARY.
+CITY OF SAN FERNANDO ACT
+CHAPTER 25:06
+Act
+26 of 1988
+Note on Subsidiary Legislation
+This Chapter contains no subsidiary legislation.
+
+CHAPTER 25:06
+CITY OF SAN FERNANDO ACT
+An Act to establish the City of San Fernando and to confer on
+its Council the powers of the San Fernando Borough Council.
+[18TH NOVEMBER 1988]
+- Margin: 26 of 1988.
+- Margin: Commencement. [215/1988].
