@@ -1,5 +1,10 @@
-CHAPTER 268.
+-
+~ ~ ~11'1'+~ "
+l'l~~~.~1r .t!;!~lr~ln-~'
+
+CHAPTER 31. No. 12.
 PAWNBROKERS.
-AN ORDINANCE RELATING TO PAWNBROKERS.
+AN ORDINANOE RELATING TO PAWNBROKERS.
 [25th September, 1889.]
-- Margin: Ordinance 4t No. " 6 o/1918, , 69 of 1021.
+- Margin: Ordinance Oap.268- 1925.
+- Margin: Commencement.
