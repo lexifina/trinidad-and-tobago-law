@@ -16,4 +16,4 @@ s-14.md
 s-15.md
 s-16.md
 s-17.md
-schedule.md
+sl-01/title.md
