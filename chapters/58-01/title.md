@@ -1,7 +1,7 @@
-CHAPTER 27. No. 10. = ttl !l,-{J-
+. CHAPTER 27. No. 10.
 LAND ACQUISITION.
-AN ORDINANOE TO AUTHORISE THE AOQUISITION OF LAND FOR
-PUBLIC PURPOSES.
-[15th July, 1898.]
-- Margin: Ordinances Cap. 168- 1925. No. 32-1938.
-- Margin: Commenrement.
+AN ORDINANCE' TO AUTHORISE THE ACQUISITION OF
+LAND FOR PUBLIC PURPOSES.
+[27th 'November, 1947 .. ]
+- Margin: Ordinance No. 40-1947.
+- Margin: Commence- ment.
