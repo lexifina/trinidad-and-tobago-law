@@ -1,2 +1,2 @@
 # SECOND SCHEDULE
-All goods imported for the use of the Management Develop-ment Centre.
+All goods imported for the use of the Management Development Centre.
