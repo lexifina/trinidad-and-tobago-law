@@ -1,9 +1,9 @@
------
+... _-., { ~ ".- '-"" > . :. r
 
 CHAPTER 34. No.2.
-GENERAL LOOAL LOAN.
-AN, ORDINANCE TO DECLARE THE TERMS AND CONDITIONS
+GENERAL LOCAL LOAN.
+AN ORDINANCE TO DECLARE THE TERMS AND CONDITIONS
 APPLICABLE TO LOCAL LOANS AUTHORISED TO BE RAISED BY THE GOVERNMENT OF TRINIDAD AND TOBAGO.
-[7th Decembe1', 1932.]
-- Margin: Ordinances No. 29-1932. ,,30-1938, s. 2.
-- Margin: Commencement.
+[7th/December, 1932.J
+- Margin: Ordinance Ch.34. No.2- 1940.
+- Margin: Commence- ment.
