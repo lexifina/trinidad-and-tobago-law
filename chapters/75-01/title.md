@@ -1,20 +1,29 @@
-/ r
-TITLE
-FINANCE.
-(a) REVENUE. PAOE Chapter 203 INCOME TAX 2474
-" 204 LANDS AND BuiLDINGS TAxEs ~507
-205 TAXES EXEMPTION 2525
-" 206 STAMP DuTY ... 25:2'6 " " 207 STAMP (FEES) 2569 " 208 EsTATE DuTY ·2571 " 209 CASUAL REVENUE 2587 " 210 PuBLIC AccouNTS 2589 " 211 PRODUCE TAXATION 2590
-(b) CuRRENCY AND BANlUNG.
-" 212 GovERNMENT CuRRENCY NOTES 2593 " 213 BANI\:ERS' I_jiCENCES 2599 " 214 BANK NoTES ... 2601 " 215 ALIEN BANKERS 2606
-(c) LoANS.
-'' 216 GENERAL LOAN AND INSCRIBED STOCK 2609 " 217 TREASURY BILLS 2f:il8 " 218 TRUSTEE INVESTMENTS IN GovERNMENT
-SECURITIES 2620
-" 219 PuBLic WoRKS LoAN, 1912 2622 " 220 LocAL LOAN, 1915 2625 " 221 LocAL LoAN, 1918 2627 " 222 LocAL LoAN, 1920 2630 " 223 0ARONI RECLAMATION J_,oAN, 1921 2638
-
-CHAPTER 203.
-INCOME TAX.
-AN ORDINANCE TO IMPOSE A TAX UPON INCOMES AND TO
-REGULATE THE COLLECTION THEREOF.
-[1st January, 1923.]
-- Margin: Vrdinances, No. 9 of 1923, , 2 of 1924, , 19 of 1925.
+f\
+.i
+[22nd December, 1938.]
+This Ordinance may be cited as 1;he Income Tax Ordinance.
+In this Ordinance-
+"body of persons" means· any body. politic, corporate,
+or collegiate and any company, fraternity, fellowship, OT society of person.s whether cmporate or not corporate;
+"chargeable income" means the aggregate amonnt of
+the income of any person from the· soUrces specified in section 5 remaining after allowing the appropriate deduc-tions and exemptions under this Ordinance;
+" Commissioner" means the Oommissioner or Oommis-
+sioners charged with the administration of this Ordinallcc;
+" company" means any company incorporated .or regis-
+tered under any law in force in the Oolony, and any company which, though incorporated or registered outside the Colony, carries on business or has an office or place of bnsinesB therein;
+" guardian," in relation to an infant, includes parent; "incapacitated person" means any infant, married
+woman, person of unsound mind, idiot, or insane penmn;
+H person" includes a body of persons; " tax" means the income tax imposed by this Ordinance; (' year of assessment" means the period of twelve months
+cOm:Q1encing on the 1st of January in each year. -
+...• ----------------------------------------------------------
+Administration.
+- Margin: ,.
+- Margin: ,,'
+- Margin: AN Ordinance No. 34-1938,
+- Margin: Commencement,
+- Margin: 1. Short title.
+- Margin: 2. Interpretn. tion.
+- Margin: .
+- Margin: ~
+- Margin: rr
+- Margin: I
