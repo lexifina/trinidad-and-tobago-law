@@ -1,0 +1,9 @@
+# 3B. Duties of Administrator in regard to funds and resources of Programme. [38 of 1997].
+(1) The funds and resources of the Venture Capital Incentive Programme shall be money allocated by Parliament for the use of the Venture Capital Incentive Programme and shall be applied in meeting any obligation or discharging any function of the Venture Capital Incentive Programme.
+(2) The Administrator shall keep proper accounts and records of the transactions and affairs of the Venture Capital Incentive Programme and shall do all things necessary to ensure that all payments out of the moneys of the Venture Capital Incentive Programme are correctly made and properly authorised and that adequate control is maintained over the assets of or in the custody of the Venture Capital Incentive Programme and over the incurring of liability by the Venture Capital Incentive Programme.
+(3) The Administrator shall submit to the Minister, no later than three months after the close of the financial year, a financial statement for every financial year in respect of the financial affairs of the Venture Capital Incentive Programme.
+(4) The accounts of the Venture Capital Incentive Programme shall be audited by the Auditor General annually or by an Auditor authorised by him for such purposes.
+(5) The Administrator shall forward to the Minister, a copy of the statement of accounts of the Venture Capital Incentive Programme together with any report made by the Auditor General and the Minister shall ensure that the audited statement of accounts and report are laid in Parliament within three months thereafter, or if Parliament is not in session, within one month after the commencement of the next sitting.
+(6) The financial year of the Venture Capital Incentive Programme shall be the financial year as defined in section 3 of the Constitution.
+PART II
+REGISTRATION OF VENTURE CAPITAL COMPANIES
