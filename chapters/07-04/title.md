@@ -1,0 +1,9 @@
+/)
+
+CHAPTER 7. No.7.
+STATUTORY DECLARATIONS.
+AN ORDINANOE RELATING TO STATUTORY DEOLARATIONS.
+[4th April, 1908.]
+- Margin: Ordinance
+- Margin: Oap. 73-1925.
+- Margin: Commencement.
