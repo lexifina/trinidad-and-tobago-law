@@ -1,33 +1,29 @@
-. - :-:...,'
+POLICE SERVICE ACT
 
-CHAPTER 11. No. 1.
-POLICE.
-AN ORDINANCE RELATING TO THE TRINIDAD AND
-TOBAGO POLICE FORCE.
-[13th April, 1950.J
-This Ordinance may be cited as the Police Ordinance.
-In this Ordinance-··
-"Assistant Superintendent on probation" means any person appointed on probation to undergo a course of training for permanent appointment as a Superin-intendent or Assistant Superintendent of Police;
-" constable" means a police officer below the rank of lance corporal;
-" district" means a portion of a Police division;
-"division" means a Police division of the Colony as defined in the regulations; .
-" Force" means the Police Force established in and for the Colony and in respeCt of which provision was made under the Police Ordinance;
-"Gazetted Police Officer" means the Commis-sioner, the Deputy Commissioner, the Assistant Com-missioner, the Pay and Quartermaster, or any Super-intendent, Assistant Superintendent,· or Assistant Superintendent on probation;
-" Inspector" includes Chief InspeCtor and Sub- Inspector;
-" Medical Board " means a board of medical officers appointed by the DireCtor of Medical Services, when-ever necessary for the purposes of this Ordinance;
-· ... ------- ---- - .
-" Officer in charge of Police" means a Superintendent
-or Assistant Superintendent appointed by the Com-missioner of Police to be in charge of the police. stationed in any place;
-" police officer" means any member of the Force;
-, regulations" means the regulations relating to the
-Force made under the authority of this Ordinance, and of the Police Ordinance Ch. 11. No.1-1940, and of the Constabulary Ordinance, Cap. 88 of the 1925 Revised Laws, and for the time being in force;
-" sergeant" includes sergeant major;
-" subordinate police officer" means a police officer
-of the rank of sergeant· major, sergeant, corporal or lance corporal and includes acting lance corporal.
-PART 1.
-CONSTITUTION OF THE FORCE.
-- Margin: Ordinance. No. 14-1950.
-- Margin: Commence- ment.
-- Margin: 1. Short title.
-- Margin: 2. Interpre- tation.
-- Margin: .
+CHAPTER 15:01
+Act
+30 of 1965
+Amended by
+126/1966 105/1982 33 of 1971 4/1985 266/1971
+5 of 1985
+38 of 1973
+17 of 1985
+127/1973
+9 of 1987*
+178/1976
+11 of 1988
+179/1976
+3 of 1994
+204/1977
+14 of 1996
+121/1978
+12 of 1997 31 of 1979 20 of 1997 45 of 1979
+82/1980 78/2002
+*See Note on page 2.
+Index of Subsidiary Legislation
+Page
+Police Service Regulations (GN 46/1971) … … … 43 Police Service (Recognition of an Appropriate Association) Regulations
+(LN 77/1992) ... 119
+Note on Subsidiary Legislation
+Section 10 of the Law Revision (Miscellaneous Amendment) (No. 1) Act 1979 (No. 45 of 1979) provides that notwithstanding the repeal of the Colonial Police Long Service Medal Regulations 1958 (GN 16/1958) and the Colonial Special Constabulary Medal Regulations 1958 (GN 53/1958), any medal or clasp granted under those Regulations shall continue to be as valid and effective, and may be worn and used by the persons entitled to do so under those Regulations in all respects as if those Regulations were still in force.
+Note on Omissions
