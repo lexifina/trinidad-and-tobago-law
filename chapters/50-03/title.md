@@ -1,17 +1,14 @@
-OF TRINIDAD AND
-BILLS OF LADING
-3
-Current AutIlorl8ed Pages
-1-4 111980
-Note
-on
-Subsidiary Legislation
+BILLS OF LADING ACT
+CHAPTER 50:03
+Act
+20 of 1864
+Note on Subsidiary Legislation
 This Chapter contains no subsidiary legislation.
-IX--" 'J'!' TRINH- . - . -- TOBAGO
-,Wls oiL let ap. 50:(
 
 CHAPTER 50:03
-,...-.. 'LS OF 1" TOo ... ", ACT
-A' ."GEMENT OF SECTIONS
-SECTION
-- Margin: 3 I
+BILLS OF LADING ACT
+An Act relating to Bills of Lading.
+[1ST OCTOBER 1864]
+- Margin: 1950 Ed. Ch. 31 No. 6
+- Margin: 20 of 1864.
+- Margin: Commencement.
