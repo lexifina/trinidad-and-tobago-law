@@ -1,0 +1,8 @@
+RECRUITING OF WORKERS ACT
+
+CHAPTER 88:10
+Act
+29 of 1938
+Index of Subsidiary Legislation
+Page Recruiting of Workers Regulations [Act No. 29 of 1938 (Schedule)] … 9
+Note on Adaptation
