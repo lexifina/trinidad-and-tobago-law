@@ -1,0 +1,6 @@
+# SECOND SCHEDULE
+REGISTRAR GENERAL'S CERTIFICATE
+1. (A.B.), Registrar General of Trinidad and Tobago, do hereby certify that the annexed certified copy of ... was received by me for registration from the Registrar of the Supreme Court on the ... day of ..., 20..., at ... o'clock in the ... noon; and that the number of pages on which the said certified copy is written is ... and that the same is registered as No... in the Protocol of Wills for the year 20...
+Dated this ... day of ..., 20...
+Registrar General.
+- Margin: [Section 76 (2)].
