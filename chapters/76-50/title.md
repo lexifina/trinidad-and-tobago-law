@@ -1,9 +1,7 @@
---------------------------------------------.--------------
-
-CHAPTER 33. No.3.
+CHAPTER 33. No. 11.
 TAXES EXEMPTION.
-AN ORDINANOE RELATING TO EXEMPTIONS FROM LAND .A~
-HOUSE TAXES.
+AN ORDINANCE RELATING TO EXEMPTIONS FROM LAND
+AND HOUSE TAXES.
 [23rd October, 1902.]
-- Margin: Ordinance Oap.205- 1925.
-- Margin: Commencement.
+- Margin: Ordinance Ch.33. No.3- 1940.
+- Margin: Commence- ment.
