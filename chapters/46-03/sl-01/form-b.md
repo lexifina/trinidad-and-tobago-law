@@ -1,0 +1,6 @@
+# FORM B
+PARTICULARS TO BE FURNISHED WITH APPLICATION FOR ADOPTION ORDER
+Name in full ... Address ... Occupation ...
+Date of birth ... Age last birthday ...
+Relationship (if any) to the child ... These particulars are to be furnished by both male and female applicant, if the application is being made by two spouses.
+- Margin: Rule 3(1).
