@@ -1,8 +1,9 @@
-CHAPTER 9. No. 10.
+CHAPTER 9. No. 12.
 TRAVELLING ALLOWANCES.
-AN ORDINANCE RELATING TO TRAVELLING ALLOWANCES TO
-PUBLIC OFFICERS.
-[24th Ma1'ch, 1914.]
-- Margin: Ordinance
-- Margin: Cap. 82-1925.
-- Margin: Commencement.
+AN ORDINANCE RELATING" TO TRAVELLING ALLOWANCES
+TO PUBLIC OFFICERS.
+[24th March, 1914.J
+- Margin: Ordinance.
+- Margin: Ch.9. No.lO
+- Margin: 1940.
+- Margin: Com.mence~ ment..
