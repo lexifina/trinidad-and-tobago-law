@@ -1,26 +1,29 @@
-COURT OF JUDICATURE ACT
+SUPREME COURT OF JUDICATURE ACT
 
 CHAPTER 4:01
 Act
-12 of 1962 Amended by 14 of 1964 6 of 1978 29 of 1968 3 of 1979 2 of 1972 45 of 1979 19 of 1973 2 of 1980 2 of 1974 5 of 1980 39 of 1975 49 of 1980 6 of 1976 *19 of 1981 29 of 1976 *20 of 1981 50 of 1976 *21 of 1981 136/1976 *24 of 1981 22 of 1977 *27 of 1981
-*See Note on page 3
-CurreJ.11 Authorised Pages
-Authori8ed Page8 Authori8ed by L.R.O. (inclu8ive) by L .R .O.
-1/1990 83- 100 1/1980 1/1980 101- 102 1/1990 1/1990 103- 118 (omitted) 1]1980 119 l/1990 1/1990 120 1}1980 121-146 1/1980 1/1990 147- 154 1/1990
-{omitted) 155-159 lj1980
-1/1990 161-166 1/1990
-LA ,\VS Oil' TBlNIDAD AND TOBAGO
-4:01 Supreme Court of Judicature
-Idex
-of
-Subsidiary Legislation
-Page Court of Appeal Rules (12 of 1962) ... 54/1 Barristers (Disciplinary Proceedings) Rules (G,N, 51/1965) 148 Criminal Appeal (l~eferencl ~~ _'oin'Gs of Law) Rule;.; (L.N.87/1S01) 161
-Note
-on
-i{ lissions The following Rules have been omitted:
-- Margin: SUPREME
-- Margin: Page8 (inclu8ive)
-- Margin: 1-10/2 11- 32
-- Margin: ~n-54/2 -55- 56 57-'-60 61- 62 '63 · 64-78 79- 82/2
-- Margin: L.R.G. 1/1990
-- Margin: 2
+12 of 1962 Amended by
+49 of 1980 14 of 1964 *19 of 1981 29 of 1968 *20 of 1981 2 of 1972 *21 of 1981
+19 of 1973
+*24 of 1981
+2 of 1974
+*27 of 1981
+39 of 1975
+21 of 1986
+6 of 1976
+4 of 1991
+29 of 1976
+23 of 1992
+50 of 1976
+18 of 1994
+136/1976
+21 of 1994
+22 of 1977
+3 of 1996
+6 of 1978 5 of 1996 3 of 1979 28 of 1996 45 of 1979 46 of 2000
+55 of 2000 2 of 1980 23 of 2003 5 of 1980
+*See Note on Amendment on page 2
+Index of Subsidiary Legislation
+Page Court of Appeal Rules (12 of 1962) ... 63 Criminal Appeal (Reference of Points of Law) Rules (LN 87/1981) … 135
+Note on Omissions
+The following Rules have been omitted:
