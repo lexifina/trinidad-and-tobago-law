@@ -1,0 +1,4 @@
+RUBBER PLANTS AND SEEDS
+(EXPORT CONTROL) ORDER
+made under section 3
+- Margin: G. 24.10.42.
