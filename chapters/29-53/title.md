@@ -1,51 +1,48 @@
-rD TOBAGO
-1960 Amended by
-1963 1966 1970
-ages
-Authorised
-by L.R.O.
-1/1990
-1/1980
-1/1990
-1/1980
-1/1990
-1/1980
-L.R.D. 1/1990
-LAWS OJ' TlUNIDAD AND TOBAGO
-lex
-of
-lation
-Page Nurses and Midwives Registration Regulations (G.N. 176/1977) ... 22
-Co
-(a) At page 19, in section 41(2), in line 2 for the words "rules and
-regulations" substitute the words "Rules and Regulations".
-(b) At page 21, in section 50(2), in line 1, for the word "Regulation"
-substitute the word "regulation".
-(0) At page 25, under the marginal reference "176/1977", insert the
-following reference-" [8/1982, 63/1982]".
-(d) At-
-(i) page 60, in rule 88(1),inline 1;
-(ii) page 61, in rule 90(2), in line 1, for the word "Regulation" sub-
-stitute the word "regulation".
-(e) At page 154, in item HI, for the word "CONCERTS" substitute the
-word "CONCEPTS".
-LAWS OP'TIDNmAD AND TOBAGO
-Nurses iW,idwives , ?egistratic 'l C 29:5~
-lPTEI:53
-NURSES AND MIDWIVES REGISTRATION ACI
-ARRA~:- ==MENT OF SECl '5
-SECIION
+NURSES AND MIDWIVES REGISTRATION ACT
+CHAPTER 29:53
+Act
+33 of 1960 Amended by
+8 of 1963 10 of 1966 22 of 1970
+Index of Subsidiary Legislation
+Page Nurses and Midwives Registration Regulations (GN 176/1977) … … 25
+CHAPTER 29:53
+NURSES AND MIDWIVES REGISTRATION ACT
+ARRANGEMENT OF SECTIONS
+SECTION
 PART I
-• 'RELIMINARY
-- Margin: :AWS OF TE
-- Margin: Cf
-- Margin: .33
-- Margin: 8 of 10 of 22 of
-- Margin: CurrE
-- Margin: Page8 (inclusive) 1-2
-- Margin: 3-28
-- Margin: 29-32/2
-- Margin: 33-96
-- Margin: 97-98
-- Margin: 99-165
-- Margin: 3
+PRELIMINARY
+1. Short title. 2. Interpretation. 3. Constitution of the Nursing Council of Trinidad and Tobago. 4. Composition of Council. 5. Tenure of office. 6. Transitional. 7. Officers of Council. 8. Remuneration of officers. 9. Expenses of carrying Act into effect to be paid out of moneys received
+by Council.
+10. Audit of accounts. 11. Annual report and information as required to be furnished by Council
+to Minister.
+12. Duty of Council to assist and advise Minister. 13. Power of Minister to make Regulations. 14. Registers and Roll kept under this Act to be open to inspection.
+PART II
+NURSES
+15. Register of Nurses. 16. Qualifications for admission to the Register of Nurses. 17. Certificate of registration and annual registration fee. 18. Cancellation or suspension of registration. 19. Falsely conveying impression of being registered as a nurse, etc.
+ARRANGEMENT OF SECTIONS-Continued
+SECTION
+PART III
+MIDWIVES
+20. Register of Midwives. 21. Qualification for admission to the Register of Midwives. 22. Issue of licences to registered midwives. 23. Cancellation or suspension of registration. 24. Licence to be surrendered on cancellation or suspension of registration. 25. Midwife to give previous notice of intention to practise in district. 26. Duty of midwife to report deaths and births. 27. Appointment and duties of Supervisors. 28. Suspension of midwife from practice in urgent cases. 29. Falsely conveying impression of being recognised midwife. 30. Power of Minister to bring certain provisions into force. 31. Restriction on activities of unqualified persons at childbirth. 32. Summoning of medical aid in emergency and payment therefor.
+PART IV
+NURSING ASSISTANTS
+33. Roll of Nursing Assistants. 34. Discretionary power of Council to enter names on Roll. 35. Certificate of enrolment and annual enrolment fee. 36. Removal of names from Roll by Council. 37. Falsely conveying the impression of being enrolled.
+PART V
+GENERAL
+38. Appeal against refusal to register or against removal of name from
+Register of Nurses or Register of Midwives.
+39. Power of Council to suspend from practice pending inquiry. 40. Designation and approval of places of training. 41. Regulations. 42. Fees. 43. Power of Council to arrange examinations and appoint examiners. SECTION
+44. Restoration of names removed from Registers or Roll. 45. Making of false representation for purpose of registration. 46. False certificates or licences. 47. Falsification of Registers or of Roll. 48. Approved badges or uniform. 49. Secretary to give notice of refusal of application for registration or of
+order of removal or suspension from Register.
+50. Penalties. 51. What constitutes "unauthorised practice". 52. Collection and disposal of fines and other payments made under
+the Act.
+
+CHAPTER 29:53
+NURSES AND MIDWIVES REGISTRATION ACT
+An Act to provide for the Registration of Nurses, Midwives
+and Nursing Assistants, and for other matters connected therewith.
+[21ST SEPTEMBER 1961]
+PART I
+PRELIMINARY
+- Margin: 33 of 1960.
+- Margin: Commencement. 113/1961.

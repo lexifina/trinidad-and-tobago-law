@@ -1,66 +1,80 @@
 # FORM 7
+Result Fees Paid Examination No.
+...
 THE NURSING COUNCIL OF TRINIDAD AND TOBAGO
-(Nurses and Midwives Registration Act-Part V, Sec. 41 (2) (a»)
-." ... ~ ... Hospital School of l.:idwifery
-A: (To be completed ill Applicutl's bandwritmg)
-1. Surname ...
-(1n Block Letters: ifma"ied, write Married Name first: then write Maiden Name after the word "nee".) 2. Other Name(s) ... : ... 3. State whether Married, Single Passport Affix
-or Widow ... Sized 4. Date of Birth ... Photograph 5. If married, Date of Marriage ... Here 6. Nationality ... ; ... 7. Place a tick against the qualification whereby you secured entry to training as a Pupil Midwife, viz:
-Registered Nurse of Trinidad and Tobago, i.e.
-R.N. Number ... o R.M.N. Number ... o E.P.M. Number ...•. o
-Received Council's Aptitude Test Certificate o - If previously you received training in a Hospital School of Nursing, state-
-(a) Name of Hospital School of Nursing ... , ...
-(b) Date of entry to the above Hospital School ...
-(c) Date of termination of training ... 9. State length of the Midwifery Course for which you are now applying for registra-tion ... I declare that all the particulars I have entered above are true and correct and hereby make application for registration as a Pupil Midwife with the Council.
-Signature of Applicant ...•... Full Permanent Postal Address ... " ... •• ". ~~ •• ~4."''''''''' •• 0 ~ ••••••• ... ~ •••••••• 0' •• 0 •• ~o ••••••••••••• ~ •• ~., ._'! .• '''<> ~
-;OF "iIDA ND1 ,AGO
-Nurses and Midwives Registration Regulations
-B: (To be completed by Authority of SdmoI of Midwifery)
-I hereby certify that the Applicant named above was admitted to this Hospital School of Midwifery on the ... day of ... 19 ...• and having been considered a suitable candidate for training, I now make application for her to be placed on the List of Pupil Midwives maintained by The Nursing Council of Trinidad and Tobago and remit herewith the Fees prescribed for pupil midwife :registration.
-Signature ...•
-Fee Receipt No:
-(I ~mce . Only)
-The particulars entered above by Applicant are true and correct as certified by the records of The Nursing Council of Trinidad and Tobago.
+APPLICATION FOR ENTRY TO THE FINAL
+EXAMINATION IN PSYCHIATRIC NURSING
+(from a person currently on the Council's Register as a General Nurse)
+Section A
+(To be completed in handwriting of Applicant)
+Hospital School of Nursing ...
+I, ...
+(*Surname first: Block Letters. If married, use married name first, followed by maiden name,
+e.g., Smith (nee Jones), followed by first name, then second name, etc.). having completed the prescribed programme of training and experience at the Hospital School of Nursing named above, hereby apply to be admitted to the Final Examinations of the Council scheduled for ...,20...
+I have paid the Fee of $ ... in the manner stipulated by the Council.
+And I also declare that the following particulars, under which I now place my signature are true and correct:
+1. Age ... Date of Birth ... Date of Marriage ...
+2. Place of Birth ...
+3. Nationality ...
+4. Admission to the Register of the Nursing Council of Trinidad and Tobago-
+(a) Number in the Part of the Register for General Nurses
+...
+(b) Number(s) in any other Part(s) of the Register ...
+5. Current registration-
+General Nurse registration in full force and effect (tick off)
+Yes No
+Registration(s) as mentioned in (b) above in full force and effect
+Yes No
+Nurses and Midwives Registration Regulations [Subsidiary]
+FORM 7-Continued
+6. Date of commencement of Programme of Training ...
+Permanent Private Address ...
+...
+Signature of Applicant
+Date ...
+* Note: The names appearing at the top of this Application will be entered on Council's Certificate of Registration when it is prepared for issue, spelled in the manner and in the form or order given by the Applicant. Certificates incorrectly prepared through the fault of the Applicant may not be replaced.
+Names given, if different from those under which Applicant was registered in the Programme, must be supported by documentary evidence.
+Nurses and Midwives Registration Regulations [Subsidiary]
+APPLICATION-FINAL EXAMINATION IN
+PSYCHIATRIC NURSING-Continued
+Section B
+Mr. Practical Experience of Mrs...
+Miss calculated in hours from ... to ...
+Programme of Additional Preparation Experience** Total Ward Experience
+Day Evening Night Day Evening Night Admission ... Convalescent (short-stay)... Convalescent (long-stay)
+including epileptics ... Psycho-geriatrics ...
+{ Children Girls ...
+Boys ... Psychiatric Unit ... Occupational Therapy ... Recreational Therapy ... Psychiatric Outpatients
+Clinic ... Psychiatric Social Work
+Department ... Community Health... Court Orders (Criminal
+Lunatics) ...
+Total Hours of Practical Experience … =
+Total Hours of School … … … = Leave taken over the training period (in hours)-
+Sick ... Vacation ... Other Leave* ... Total = ... *Do not include "Days off". ** Note: These three columns marked "Additional Experience" are to be completed only for
+persons resitting the Examination. They should reflect additional experience since last transcript was compiled.
+Nurses and Midwives Registration Regulations [Subsidiary]
+APPLICATION-FINAL EXAMINATION IN
+PSYCHIATRIC NURSING-Continued
+Section C
+(To be completed by Nursing Instructor)
+Mr. Theoretical Experience of Mrs...
+Miss
+No. No.
+Lectures
+Given Attended
+Theory and Practice of Nursing ... Psychiatric Nursing ... Social aspects of Psychiatry ... Legal and administrative aspects of Psychiatric Nursing ... Psychology ... Psychiatry ... Psychiatric Medicine ... Pharmacology ... Physical Methods of Treatment ... Psychological Methods of Treatment ... Occupational Therapy... Recreational Therapy ... Ward Management and Supervision ...
+...
+Signature of Nursing Instructor
+Nurses and Midwives Registration Regulations [Subsidiary]
+Section D
+(To be completed by Matron or Chief Male Nurse)
+I hereby declare that the Applicant named above has pursued the stipulated Programme of Training at this Hospital School of Nursing for persons seeking admission to the Register of Nurses for the Mentally ill for a period of ... calculated from date of entry into the School to the date of my signing this Form of Application for entry to the Qualifying Examinations and that the theoretical and practical experience of this Applicant have been as indicated herein.
+And I further declare that the conduct and application to duty of the Applicant over the training period are as follows:
+Nursing Skills and Performance ...
+Professional Adjustment and Deportment ...
+Theoretical Knowledge ...
+...
 Signature
-Secretary Registered Pupil Midwife No.
-Nurses and Midwives Registration Cbap.29:53
-Nurses and Midwives Registration Regulations
-FORMS
-Fee Receipt No:
-THE NURSING COUNCIL OF TRINIDAD AND TOBAGO
-(Nurses and Midwives Registration Act)
-AppIkadon for CIte Grant of RegistraCion and Licence to Practise as a MidwIfe to a Person
-Passing the Council's QuaDfyiDc ExamiDatioD as Provided by Sec. 21(2) of the Act The Secretary, The Nursing Council of Trinidad and Tobago.
-(1) Surname (Block Letters) ...•.•...••...•...
-(2) Other Name(s) ...•...
-1st 2nd 3rd
-(3) State whether single, married or widow ...
-(4) If married or widowed, state maiden name ...
-(5) Full postal permanent address ...
-I hereby request The Nursing Council of Trinidad and Tobago to grant me the necessary Licence to Practise as a Midwife in Trinidad and Tobago as I have been successful at the Council's Midwifery Examinations of ...
-Month Year and to enter my name on the Council's Register of Midwives. I promise in the event of my being so registered and in consideration thereof, to be bound by, and to conform in all respects to the Rules and Regulations for the time being in force. I hereby declare that I am over the age of 21, that 1-
-(tick off as applicable)
-(a) have presented my Certificate of Birth with application for entry to
-the qualifying Examination referred above 0
-(b) have presented my Certificate of Marriage with application for
-entry to the said qualifying Examination 0
-or
-(c) having changed my name due to marriage subsequent to passing
-the said qualifying Examination, I now present my Certificate of Marriage in support of same .. 0
-or
-(d) having omitted to enter all my names on the application for entry to
-the said qualifying Examination, I now present document(s) in support of additional names 0 and now enclose the Fee prescribed by the Council for admission to its Register and the grant of a Licence to Practise as a Midwife.
-Signature of Applicant ...•...•... Date of Application ...
-LAWS OF TlUNIDAD AND TOBAGO
-Nurses and Midwives Registration Regulations
-'omple' he Auf ~r .he I :hoolol ifery)
-I hereby certify that the Applicant named above has successfully completed the prescribed course of training at the ... , ... , ... Hospital School of Midwifery and is thus entitled to be admitted to the Register maintained by the Council and to receive the Council's Licence to Practise as a Midwife and I further declare that she is a fit and proper person to assume the responsibilities of a Licensed Midwife.
-Signature ... , ...•.••...•...• ~ Official Title ... Nurses and Midwives Registration Regulations
-- Margin: Regulation 46(1).
-- Margin: L.R.O.1I198u
-- Margin: [: !Sima:]
-- Margin: 119
-- Margin: [Sabsidiary]
-- Margin: Re~ulation 64{2)(a).
-- Margin: L.R.O.1I1980
-- Margin: [Subsidiary]
+Date ...
+Nurses and Midwives Registration Regulations [Subsidiary]
+- Margin: Regulation 31(2)(d).

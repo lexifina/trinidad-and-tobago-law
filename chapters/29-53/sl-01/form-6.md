@@ -1,14 +1,75 @@
 # FORM 6
+Result Fees Paid Examination No.
+...
 THE NURSING COUNCIL OF TRINIDAD AND TOBAGO
-(Nurses and Midwives Re~istration Act-Part IV)
-CERTIFICATE OF COMMENCEMENT OF NURSING
-ASSISTANT COURSE
-I, Authority of
-(Name of Approved Training Centre)
-do hereby certify that the person named on this Certificate commenced the Council's Nursing Assistant Course on the date indicated and I have had evidence that she/he has made application in the prescribed manner for listing with the Council as a Trainee of this . Centre.
-Full Name of Trainee. (Surname first in Block Letters. Ifmarried, place married name first
-followed by maiden name after word "nee".) .Date of Commencement of training
-Signature ... Title Date
-Nurses and Midwives Registration Regulations
-- Margin: Rellulation 69P)·
-- Margin: Iry] [Sub
+APPLICATION FOR ENTRY TO THE FINAL
+EXAMINATION IN GENERAL NURSING
+(from a person currently on the Council's Register as a Psychiatric Nurse)
+Section A
+(To be completed in handwriting of Applicant)
+Hospital School of Nursing ...
+I, ... (Surname first: Block Letters. If married, use married name first, followed by maiden name,
+e.g., Smith (nee Jones), followed by first name then second name, etc.) having completed the prescribed programme of training and experience at the Hospital School of Nursing named above, hereby apply to be admitted to the Final Examination of the Council scheduled for ..., 20...
+I have paid the Fee of $ ... in the manner stipulated by the Council.
+And I also declare that the following particulars, under which I now place my signature are true and correct:
+1. Age ... Date of Birth ... Date of Marriage ...
+2. Place of Birth ... 3. Nationality ...
+4. Admission to the Register of the Nursing Council of Trinidad and Tobago-
+(a) Number in the Part of the Register for Psychiatric Nurses
+...
+(b) Number(s) in any other part(s) of the Register ...
+5. Current registration-
+Psychiatric Nurse registration in full force and effect (tick off)
+Yes No
+Registration(s) as mentioned in (b) above in full force and effect
+Yes No
+Nurses and Midwives Registration Regulations [Subsidiary]
+FORM 6-Continued
+6. Date of commencement of Programme of Training ...
+Permanent Private Address ...
+...
+Signature of Applicant
+Date ...
+Note: The names appearing at the top of this Application will be entered on Council's Certificate of Registration when it is prepared for issue, spelled in the manner and in the form or order given by the Applicant. Certificates incorrectly prepared through the fault of the Applicant may not be replaced.
+Names given, if different from those under which Applicant was registered in the Programme, must be supported by documentary evidence.
+Nurses and Midwives Registration Regulations [Subsidiary]
+APPLICATION-FINAL EXAMINATION IN
+GENERAL NURSING-Continued
+Section B
+Miss Practical Experience of Mrs ...
+Mr.
+calculated in hours from ... to ...
+Programme of Additional Preparation Experience* Total Experience
+Day Evening Night Day Evening Night
+Medical, Male ... Medical, Female ... Surgical, Male ... Surgical, Female ... Paediatrics, Surgical ... Paediatrics, Medical ... Orthopaedics ... Gynaecological ... Communicable Diseases ... Eye ... Ear, Nose, Throat ... Outpatients Department ... Nutrition ... Operating Theatre ... Casualty ... Central Sterilisation ... Neuro-Surgical ... Obstetrics ... Psychiatric ... Community Health...
+Total Hours of Practical Experience … …
+Total Hours of School ...
+*Note: These three columns marked "Additional Experience" are to be completed only for persons resitting the Examination. They should reflect additional experience since last transcript was compiled for entry to the Examinations.
+Nurses and Midwives Registration Regulations [Subsidiary]
+APPLICATION-FINAL EXAMINATION IN
+GENERAL NURSING
+Section B-Continued
+Leave taken over the training period (in hours)-
+Sick ... Vacation ... Other Leave* ...
+(*Do not include "Days off ").
+Nurses and Midwives Registration Regulations [Subsidiary]
+Section C
+(To be completed by Nursing Instructor)
+Miss Theoretical Experience of Mrs ...
+Mr.
+No. No.
+Lectures Given Attended
+General and Special Measures and Procedures ... Medical conditions, Diseases and their treatment, Nursing ... Surgery and Surgical Nursing... Obstetrics, Gynaecology and Gynaecological Nursing... Paediatrics and the Nursing of Sick Children ... Pharmacology ... Nutrition ... Introduction to Physiotherapy ... Introduction to Radiotherapy ... Introduction to Psychiatric Nursing ... Occupational Therapy and Rehabilitation ... Ear, Nose and Throat ... Social Aspects of Diseases ... Ophthalmology ... Anaesthetics ... Dermatology ... Principles of Nursing ... Practice of Nursing ... Bandaging ... Community Health ... Special Visits ... Any Other ...
+...
+Signature of Nursing Instructor Date ...
+Nurses and Midwives Registration Regulations [Subsidiary]
+APPLICATION-FINAL EXAMINATION IN
+GENERAL NURSING-Continued
+Section D
+(To be completed by Matron of Hospital School of Nursing)
+I hereby declare that the Applicant named above has pursued the stipulated Programme of Training at this Hospital School of Nursing for persons seeking admission to the Register of General Nurses for a period of ... calculated from date of entry into the School to the date of my signing this Form of Application for entry to the Qualifying Examinations and that the theoretical and practical experiences of this Applicant have been as indicated herein.
+And I further declare that the conduct and application to duty of this Applicant over the training period are as follows:
+Nursing Skills and Performance ... Professional Adjustment and Deportment ... Theoretical Knowledge ...
+Signature ... Title ... Date ...
+Nurses and Midwives Registration Regulations [Subsidiary]
+- Margin: Regulation 31(2)(c).
