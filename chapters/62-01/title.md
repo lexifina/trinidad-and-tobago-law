@@ -1,6 +1,9 @@
-CHAPTER 145.
-PETROLEUl\1.
-AN ORDINANCE RELATING TO THE STORAGE, AND
-USE OF
-[25th August, 1915. J
-- Margin: Ordlilnancd No. 20 of 1915,
+CHAPTER 26. No.2.
+PETROLEUM.
+RELATING TO THE CAitRIAGE, STORAGE, AND
+USE OF PETROLEUM.
+[25th August, 1915.]
+,1. This Ordinance may be cited as the Petroleum Ordinance.
+- Margin: Ordinance Cap. 145- 1925. /-Ifi
+- Margin: ·Commencement.
+- Margin: Short title.
