@@ -1,6 +1,8 @@
-CHAPTER 122.
-DROGHERS Al~D SAILORS.
-AN ORDINANCE RELATING TO T~E REGISTRATION OF DROGHERS
-AND SAILORS.
-[1st January, _1915.]
-- Margin: Ol'dinances ~:·:~~HUt
+-----------------------------------------~-----------------
+
+CHAPTER 18. No.8,
+DROGHERS.
+ORDINANOE RELATING TO THE REGISTRATION OF DROGHERS.
+[1st J anuaflY, 1915.]
+- Margin: AN Ordinance Oap.122- 1925.
+- Margin: Commencement,
