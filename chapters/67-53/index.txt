@@ -1,4 +1,1 @@
 title.md
-s-3.md
-s-8.md
-s-9.md
