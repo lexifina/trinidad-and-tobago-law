@@ -1,8 +1,7 @@
-CHAPTER 137.
-·;FERTILIZERS AND FEEDING STUFFS.
-'AN ORDINANCE RESPECTING THE SALE OF AGRICULTURAL
-FERTILIZERS AND J:i'EEDING STUFFS.
-[20th Februaty, 1909. J
-:1. This ·Ordinance 1nay be cited as the Fertilizers and Feeding Stuffs Ordinance.
-- Margin: OJ'dimmce No.1 ofl909.
-- Margin: Shorttiile.
+CHAPTER 23. No. 15.
+FERTILISERS AND FEEDING STUFFS.
+AN ORDINANCE RESPECTING THE. SALE OF AGRICULTURAL
+FERTILISERS AND FEEDING STUFFS.
+, [~Qth February, 1909. ]
+- Margin: Ordinance , ~~i~4tf°·14
+- Margin: Comroence- ' ment.
