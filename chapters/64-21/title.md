@@ -1,7 +1,8 @@
 CHAPTER 32. No.4.
-cocoA (IMPORT AND EXPORT).
-AN ORDINANOE l~ELATING TO THE IMPORTATION AND EXPOR'l'ATION
-m~ C OOOA.
+COCOA (IMPORT AND EXPORT).
+AN Or" ii"ANCE RELATING TO THE IMPORTATION AND
+EXPORTATION OF COCOA.
 [15th April, 1921.]
-- Margin: Ordinance Uap.1\)7- H125.
-- Margin: (JOIUInenC5Illent.
+- Margin: ...
+- Margin: Ordinance Ch.3Z. No.4- 1940.
+- Margin: Commence~ ment.
