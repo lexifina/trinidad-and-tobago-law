@@ -1,10 +1,17 @@
-CHAPTER 42. No.8.
-PATENTS, DESIGNS, COPYRIGHT AND
-TRADE MARKS (EMERGENCY).
-AN ORDINANCE TO MAKE SUCH SPECIAL PROVISION WITII
-RESPECT TO . PATENTS, REGISTERED DESIGNS, COPY-- RIGHT AND TRADE MARKS, AS IS EXPEDIENT TO MEET ANY EMERGENCY WHICH MAY ARISE AS. A RESULT OF WAR.
-[3rd September, 1939.J
-- Margin: Ordinances
-- Margin: chi~~o~o.7-
-- Margin: No. 5-1947.
-- Margin: Commence- ment.
+LA WS OF TRINIDAD AND
+PATENTS, DESIGNS, COPYRIGHT AND TRADE MARKS
+(EMERGENCY) ACT
+{[
+Act
+27 of 1940
+Amended by
+5 of 1947
+L.R.O~ 1/1980
+Patents, Designs, Copyright and
+Index
+of
+Subsidiary Legislation
+Page Patents, Designs, Copyright and Trade Marks (Emergency) Rules. (27 of 1940) 13
+Note
+on
+Adaptation
