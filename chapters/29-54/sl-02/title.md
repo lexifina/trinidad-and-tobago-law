@@ -1,0 +1,3 @@
+DENTAL PROFESSION (DENTAL ASSISTANTS) ORDER
+made under section 19
+- Margin: 138/1997.
