@@ -1,0 +1,66 @@
+MARRIAGE ACT
+CHAPTER 45:01
+Act
+13 of 1923
+Amended by
+136/1976 9 of 1932 45 of 1979 24 of 1943
+51/1980 24 of 1947
+17 of 1981 35 of 1952 5 of 1982 172/1961 11 of 1988 16 of 1962 6 of 1993 2/1963 32 of 1996 28 of 1973
+Index of Subsidiary Legislation
+Page Marriage (Documents in Support of Affidavits or Statutory Declaration)
+Order (LN 188/1996)... 38
+Note on Delegation Powers
+See the Current Edition of Consolidated Index of Acts and Subsidiary Legislation for Delegation Powers made under sections 6, 18 and 19.
+Note on Adaptation
+Certain fees in this Chapter were increased by the Commission under paragraph 4 of the Second Schedule to the Law Revision Act (Ch. 3:03). Where this occurs, a marginal reference in the form normally indicating an amendment is made to LN 51/1980 (the Legal Notice by which the President's approval was signified).
+CHAPTER 45:01
+MARRIAGE ACT
+ARRANGEMENT OF SECTIONS
+SECTION
+1. Short title. 2. Interpretation.
+ADMINISTRATION
+3. Registrar of Marriages. 4. District Registrar, Port-of-Spain. 5. District Registrars, San Fernando and Arima. 6. District Registrars, other Counties.
+MARRIAGE OFFICERS
+7. Marriage Officers. 8. Application for licence as a Marriage Officer. 9. Resignation of Marriage Officer.
+10. Marriage Officer may act in any part of Trinidad and Tobago. 11. District Registrars to keep lists of Marriage Officers.
+PRELIMINARIES TO SOLEMNISATION
+OF MARRIAGE
+12. Alternative procedure which may be followed as a preliminary to
+solemnisation of marriage.
+13. Notice to District Registrar. 14. District Registrars to send copies of entries to Registrar. 15. Issue of District Registrar's certificate. 16. Notice to Marriage Officer. 17. Marriage Officer to send copies of entries to Registrar. 18. Issue of Marriage Officer's certificate. 19. Procedure by licence from the President.
+19A. Residential requirement for non-residents.
+20. Special provisions in cases where one party to intended marriage does
+not reside in Trinidad and Tobago.
+ARRANGEMENT OF SECTIONS-Continued SECTION
+21. Application for authorisation under section 20. 22. Facilities for marriages between Commonwealth citizens resident in
+the United Kingdom and Commonwealth citizens resident in Trinidad and Tobago.
+CONSENT TO MARRIAGE
+23. Consent to marriage of minors. 24. Power of Judge to dispense with consent.
+CAVEATS
+25. Objections to marriage. 26. When caveat entered, matter to be referred to Chief Justice. 27. Removal of caveat.
+SOLEMNISATION OF MARRIAGE
+28. Marriages before Marriage Officer. 29. Marriages before District Registrar. 30. Notices and licences void unless marriage takes place within six
+months.
+31. Use of other than English language. 32. Proof of certain matters not required after marriage. 33. When Marriage Officer not compellable to marry.
+REGISTRATION OF MARRIAGE
+34. Marriage to be entered in register and duplicate sent to Registrar. 35. Searches and certified copies.
+VOID MARRIAGES
+36. Void marriages.
+OFFENCES
+37. Forging or altering register book, notice, etc. Making false entries, giving false certificates.
+38. Destroying or injuring register book, etc. SECTION
+39. Losing or injuring documents. 40. Issuing of certificate to person within prohibited degrees. 41. Offences by Marriage Officers and District Registrars.
+MARRIAGE IN EXTREMIS
+42. Marriage in extremis.
+MISCELLANEOUS
+43. Forfeiture of property acquired by marriage had by fraudulent means. 44. Limitation. 45. Recovery of penalties. 46. Fees payable into public funds. 47. Evidence. 48. Annual abstract. 49. Validation.
+SCHEDULES.
+
+CHAPTER 45:01
+MARRIAGE ACT
+An Act relating to the Solemnisation and Registration
+of Marriages.
+[1ST JANUARY 1924]
+- Margin: 1950 Ed. Ch. 29 No. 2.
+- Margin: 13 of 1923.
+- Margin: Commencement.
