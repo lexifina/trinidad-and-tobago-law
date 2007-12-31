@@ -1,7 +1,0 @@
-# 3A. Secondment of officers. [38 of 1997].
-(1) An officer in the public service may with the approval of the Public Service Commission and the consent of the Minister agree to be appointed on secondment to the service of the Venture Capital Incentive Programme, upon such terms and conditions as may be acceptable to the administrator and the officer.
-(2) Where secondment is effected, the Venture Capital Incentive Programme shall make such arrangements as may be necessary to preserve the rights of the officer seconded to any pension, gratuity, or other allowance for which he would have been eligible had he not been seconded.
-(3) A period of secondment shall not exceed two years.
-(4) The officer shall, upon secondment to the Venture Capital Incentive Programme, draw the full pay of the post to which he is seconded and shall be eligible for increments, if any, normally payable in such a post.
-(5) During the period of secondment an officer shall be deemed to remain on the establishment of his Ministry or Department and shall be eligible for promotion in absentia.
-(6) An officer who has been seconded to the Venture Capital Incentive Programme in pursuance of this section may, with the approval of the Public Service Commission, be transferred from the Venture Capital Incentive Programme to an office in the Public Service on the termination of his service with the Venture Capital Incentive Programme.
