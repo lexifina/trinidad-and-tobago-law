@@ -2,28 +2,11 @@ JUDICIAL AND LEGAL SERVICE ACT
 CHAPTER 6:01
 Act
 22 of 1977 Amended by
-193/1977 91 of 1991 194/1977 92 of 1991 147/1978 13 of 1992
-176/1978
-60 of 1996
-28/1979
-12 of 1997
-107/1979
-203 of 1997
-108/1979
-204 of 1997
-109/1979
-213 of 1997
-110/1979
-19 of 2000
-2 of 1980
-32 of 2000
-47 of 1980
-230 of 2000 *24 of 1981
-93/2002 124/1981 186/2003 21 of 1986
-(225/1986) 208/2003
+193/1977 91 of 1991 194/1977 92 of 1991 147/1978 13 of 1992 176/1978 60 of 1996 28/1979 12 of 1997 107/1979 203 of 1997 108/1979 204 of 1997 109/1979 213 of 1997 110/1979 19 of 2000 2 of 1980 32 of 2000 47 of 1980 93/2002 *24 of 1981 186/2003
+124/1981 208/2003 21 of 1986 115/2005 (225/1986) 271/2007
 *See Note on page 2
 Index of Subsidiary Legislation
-Page Legal Profession (Law Officers) Order (LN 256/1986). … … 16 Remuneration (Judicial and Legal Service) Order (LN 10/1987). … … 16 Legal Service (Vacation Leave) Regulations (LN 230/2000). … … 17
+Page Legal Profession (Law Offices) Order (LN 256/1986) … … 16 Remuneration (Judicial and Legal Service) Order (LN 10/1987) … … 16 Legal Service (Vacation Leave) Regulations (LN 230/2000) … … 17
 Note on Adoption of the Public Service Commission Regulations
 (Subsidiary Legislation-Ch. 1:01)
 With respect to the adoption of the Public Service Commission Regulations by the Judicial and Legal Service Commission, see Gazette Notice No. 358 published in the Trinidad and Tobago Gazette Vol. 23 No. 51 dated 23rd February, 1984.
@@ -44,8 +27,7 @@ PART III
 TERMS AND CONDITIONS OF SERVICE
 6. Remuneration Orders. 7. Increments. 8. Tenure of office.
 8A. Extension of service.
-9. Officers and political activities.
-10. Taking of oaths. 11. Modes of termination of appointment.
+9. Officers and political activities. 10. Taking of oaths. 11. Modes of termination of appointment.
 PART IV
 ADMINISTRATION
 12. Ministry of Legal Affairs. 13. Other Ministries and departments. 14. The Law Commission. 15. Judicial officers.
