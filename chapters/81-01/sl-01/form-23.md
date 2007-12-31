@@ -3,18 +3,15 @@ REPUBLIC OF TRINIDAD AND TOBAGO
 THE COMPANIES ACT, CH. 81:01
 EXTERNAL COMPANY
 ANNUAL RETURN
-1. Name of Company ... Return for year ending...
-Address of Registered or Head Office ...
-... Company No...
-Address of Principal Office in Trinidad and Tobago ...
-...Date of Registration...
+1. Name of Company ... Return for year ending... Address of Registered or Head Office ...
+... Company No... Address of Principal Office in Trinidad and Tobago ...Date of Registration...
 2. Corporate Structure:
 (a) Jurisdiction in which incorporated;
 (b) Date and manner of incorporation;
 (c) Period fixed for duration of Company;
 (d) Extent to which liability of shareholders limited.
 3.
-Class Authorised Paid-up or Subscribed Number of Shares Nominal or Par of Capital Stated Capital Capital Company is Value of Shares,
+Class Paid-up or Authorised Subscribed Number of Shares Nominal or Par of Stated Capital Capital Capital Company is Value of Shares,
 Shares authorised to if any
 issue
 ...
@@ -23,7 +20,8 @@ Yes No
 If yes, have they been filed?
 Yes No [Subsidiary] Companies Regulations
 FORM 23-Continued
-5. Name(s) and address(es) of Attorney(s) appointed under section 323: ... 6. Director(s) of the Company:
+5. Name(s) and address(es) of Attorney(s) appointed under section 323: ...
+6. Director(s) of the Company:
 Full Name Address Occupation
 ...
 7. Date Name and Title Signature ...
@@ -36,7 +34,7 @@ Give date, jurisdiction and manner of incorporation and particulars of its corpo
 instruments, including the period, if any, fixed by its corporate instruments for its duration. With respect to jurisdiction, in the case of countries which are federal states, be as specific as possible, e.g., "The State of North Carolina, United States of America".
 Item 3
 State particulars required by section 318(1)(j) of the Act.
-Companies Regulations [Subsidiary]
+[Subsidiary] Companies Regulations
 Item 4
 Indicate whether there has been any change in the corporate instruments of the Company during the year for which the return is being made. Tick the appropriate box.
 Item 5

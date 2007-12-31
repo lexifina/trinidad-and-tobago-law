@@ -14,7 +14,7 @@ and shall not cease on death.
 the Company whereupon the assets of the Company, after payment of all debts and liabilities of the Company, shall be distributed in accordance with such provisions as are contained in Part VI of the Companies Act as shall be applicable.
 10. Date Name and Title Signature
 ...
-Companies Regulations [Subsidiary]
+[Subsidiary] Companies Regulations
 INSTRUCTIONS
 Format
 Documents required to be sent to the Registrar pursuant to the Act must conform with regulation 3 of the Regulations under the Act. Where any provision required to be set out is too long to be set out in the space provided in the form, the form may incorporate the provisions by annexing a schedule in the manner described in regulation 3(5) of the Regulations.
@@ -36,14 +36,14 @@ Set out original date of incorporation of the company, e.g., "The company was in
 FORM 17-Continued
 Item 9
 Any provision that forms part of the Articles may be set out if the provision is
-permitted by the Act or Regulations to be set out in the bye-laws of the company.
+permitted by the Act or Regulations to be set out in the Bye-laws of the company.
 Item 10
-A director or an authorised officer of the company shall sign the Articles, indicating
-the capacity in which he is signing.
+A director or an authorised officer of the company shall sign the Articles,
+indicating the capacity in which he is signing.
 Other Documents
 The Articles must be accompanied by Notice of Registered Office (Form 4),
 Notice of Directors (Form 8) and Annual Return (Form 29).
 Completed documents, in duplicate, and the prescribed fees are to be filed at
 the office of the Registrar and one set of the duplicate originals would be returned to the company or its representative with the endorsement "Registered" and the date of registration.
-Companies Regulations [Subsidiary]
+[Subsidiary] Companies Regulations
 - Margin: (Section 342).

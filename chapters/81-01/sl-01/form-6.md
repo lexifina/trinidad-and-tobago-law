@@ -15,4 +15,4 @@ under sections 217, 237, 238 of the Companies Act, (Ch. 81:01), as set out in th
 Registrar of Companies
 ...
 Date of Amendment
-Companies Regulations [Subsidiary]
+[Subsidiary] Companies Regulations

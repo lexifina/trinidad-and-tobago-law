@@ -1,11 +1,11 @@
 # SCHEDULE 4
 TABLE OF FEES
 (A) NAME SEARCH/NAME RESERVATION
-Name Search ... $10.00 Name Reservation ... $15.00 Extension of Name Reservation … … … $20.00 Replacement of lost Name Reservation … … … $20.00
-Any other application relative to Name Search/
+Name Search ... $10.00 Name Reservation ... $15.00 Extension of Name Reservation … … … $20.00 Replacement of lost Name Reservation … … … $20.00 Any other application relative to Name Search/
 Name Reservation ... $20.00
 (B) FILING ARTICLES OF INCORPORATION FOR A
-LIMITED LIABILITY/UNLIMITED LIABILITY PROFIT COMPANY
+LIMITED LIABILITY/UNLIMITED LIABILITY
+PROFIT COMPANY
 Filing of articles ... $400.00 Filing of statutory declaration ... $40.00 Filing of notice of directors ... $40.00 Filing of notice of address ... $40.00 Certificate of incorporation ... $40.00
 (C) FILING ARTICLES OF INCORPORATION FOR A
 LIMITED LIABILITY NON-PROFIT COMPANY
@@ -18,9 +18,10 @@ Filing of articles of continuance … … … $10.00 Filing of notice of directo
 Filing of special resolution or directors' resolution … … $40.00 Filing of articles of amendment... $60.00 Certificate of amendment ... $40.00
 (F) FILING RESTATED ARTICLES OF INCORPORATION
 Filing of restated articles of incorporation … … $60.00 Certificate of restated articles of incorporation … … $40.00
-Companies Regulations [Subsidiary]
 (G) FILING ARTICLES OF AMALGAMATION
-Filing articles of amalgamation... $60.00 Filing of statutory declarations required by section 225(2) … $40.00 Filing of notice of directors ... $40.00 Filing of notice of registered office … … … $40.00 Certificate of amalgamation ... $40.00
+Filing articles of amalgamation... $60.00
+[Subsidiary] Companies Regulations
+Filing of statutory declarations required by section 225(2) … $40.00 Filing of notice of directors ... $40.00 Filing of notice of registered office … … … $40.00 Certificate of amalgamation ... $40.00
 (H) FILING OF ARTICLES OF RE-ORGANISATION
 Filing of articles of re-organisation … … … $60.00 Filing of notice of directors ... $40.00 Filing of notice of address ... $40.00 Certificate of amendment ... $40.00
 (I) FILING OF ARTICLES OF ARRANGEMENT Filing of articles of arrangement … … … $60.00 Filing of notice of directors ... $40.00 Filing of notice of address ... $40.00 Certificate of Amendment ... $40.00
@@ -36,4 +37,10 @@ charge or duplicate, etc.,pursuant to section 252(3) … $40.00
 Certificate of charge ... $40.00
 (M) ANY OTHER DOCUMENT REQUIRED TO BE
 FILED AND ANY OTHER CERTIFICATE REQUIRED TO BE ISSUED … … … $40.00
+(N) EXAMINATION OF FILE OF DOCUMENTS KEPT BY
+THE REGISTRAR IN RESPECT OF EACH COMPANY $20.00
+(O) COPY OF ANY DOCUMENT PER PAGE OR PART
+THEREOF ... $5.00
+(P) CERTIFICATION OF ANY COPY OF ANY DOCUMENT
+PER PAGE OR PART THEREOF … … … $20.00
 - Margin: (Regulation 5).

@@ -13,20 +13,20 @@ for exemptions under section 146 must be submitted to the Securities Exchange Co
 Item 1
 Set out the full name of company and company number.
 Item 2
-Check the appropriate box to indicate the provision of the Act to which the requested
-exemption relates.
+Check the appropriate box to indicate the provision of the Act to which the
+requested exemption relates.
 Item 3
 Set out the full name and address.
 Item 4
 State the capacity in which the applicant acts, e.g., a director, authorised officer
-or attorney-at-law of a company, or an Attorney-at-law or agent of an applicant.
+or Attorney-at-law of a company, or an Attorney-at-law or agent of an applicant.
 Item 5
 State clearly the legal, economic or other reasons why the exemption should
 be granted.
 Item 6
-The applicant or his authorised agent shall sign the application. If the applicant is a
-company, a director or authorised agent of the company shall sign the application.
+The applicant or his authorised agent shall sign the application. If the applicant is
+a company, a director or authorised agent of the company shall sign the application.
 Completed documents, in duplicate, and the prescribed fees are to be filed at the
 office of the Registrar or the Securities Exchange Commission, as the case may be, and one set of the duplicate originals would be returned to the company or its representative with the endorsement "Registered" and the date of registration.
-Companies Regulations [Subsidiary]
+[Subsidiary] Companies Regulations
 - Margin: (Regulation 13).

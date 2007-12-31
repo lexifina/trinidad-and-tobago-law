@@ -5,13 +5,13 @@ Act
 Amended by
 5 of 1997
 6 of 1999
-12 of 2003*
+*12 of 2003
 *See Note on page 2
 Index of Subsidiary Legislation
 Page Companies Regulations (LN 69/1997)... 507
 (N.B.: See Note on page 3 on First, Second and Third Schedules to the Act with respect to other Subsidiary Legislation).
 Note on Legal Notices Nos. 59 and 78 of 1999
-See LNs 59 and 78/1999 re the Act before revision.
+See LNs 59 and 78/1999 re the Act before its revision.
 Note on Act No. 12 of 2003
 Sections 2, 3 and 4 of the Companies (Former-Act Companies)(Validation) Act 2003 (Act No. 12 of 2003) provides as follows:
 2. In this Act- "Act" means the Companies Act, 1995; "certificate of continuance" has the meaning assigned to it in Part V, Division 3 of the Act; "former-Act company" has the meaning assigned to it in section 4 of the Act.
@@ -29,16 +29,16 @@ The Twelfth Schedule deals with "Rules with respect to the Winding Up of Compani
 The Thirteenth Schedule deals with "Rules in regards to Certified Copies, etc., required under the Act and as to General Forms" and is incorporated in the Act as the THIRD SCHEDULE).
 CHAPTER 81:01
 COMPANIES ACT
-ARRANGEMENT OF SECTIONS
-SECTION
+ARRANGEMENT OF SECTIONS SECTION
 PART I
 PRELIMINARY
 1. Short title. 2. Commencement. 3. Prohibited associations.
 PART II
-CONSTRUCTION AND INTERPRETATION OF ACT 4. Interpretation.
+CONSTRUCTION AND INTERPRETATION OF ACT
+4. Interpretation.
 CORPORATE RELATIONSHIPS
 5. Affiliated corporations. PUBLIC DISTRIBUTION OF CORPORATE SECURITIES
-6. Distribution to the public. 7. (Repealed by Act No. 5 of 1997).
+6. Distribution to the public. (Repealed by Act No. 5 of 1997). 7.
 PART III
 FORMATION AND OPERATION OF COMPANIES
 DIVISION 1-INCORPORATION OF COMPANIES
@@ -54,15 +54,14 @@ DIVISION 2-CORPORATE CAPACITY AND POWERS
 21. Capacity and powers. 22. Powers reduced. 23. Validity of acts. 24. Notice not presumed. 25. No disclaimer allowed. 26. Contracts of a company. 27. Bills and notes. 28. Power of attorney. 29. Company seals.
 DIVISION 3-SHARE CAPITAL
 30. Nature of shares. 31. If only one class. 32. Share classes. 33. Share issue. 34. Consideration. 35. Stated capital accounts. 36. Open-ended mutual company. 37. Series shares. 38. Pre-emptive rights. 39. Conversion privileges. 40. Reserve shares. 41. Own shares. 42. Exceptions.
-ARRANGEMENT OF SECTIONS-Continued
-SECTION
+ARRANGEMENT OF SECTIONS-Continued SECTION
 43. Acquisition of own shares. 44. Other acquisition. 45. Redeemable shares. 46. Donated shares. 47. Voting thereon. 48. Stated capital reduction. 49. Stated capital adjustment. 50. Cancellation of shares. 51. Presumption re own shares. 52. Changing share class.
 52A. Redemption and cancellation of debentures.
 53. Effect of purchase contract.
 53A. Sale of shares on commission.
 54. Prohibited dividend. 55. Payment of dividend. 56. Illicit loans by company. 57. Enforcement of illicit loans. 58. Immunity of shareholders. 59. Lien on shares.
 DIVISION 4-MANAGEMENT OF COMPANIES
-60. Duty of directors to manage company. 61. Secretary. 62. Acts of secretary, etc. 63. Secretary of public company. 64. Number of directors. 65. Restricted powers. 66. Bye-Law powers. 67. Organisational meeting. 68. Disqualified directors. 69. Court disqualified directors. 70. No qualification required. SECTION
+60. Duty of directors to manage company. 61. Secretary. 62. Acts of secretary, etc. 63. Secretary of public company. 64. Number of directors. 65. Restricted powers. 66. Bye-law powers. 67. Organisational meeting. 68. Disqualified directors. 69. Court disqualified directors. 70. No qualification required. SECTION
 71. Notice of directors. 72. Alternate directors. 73. Cumulative voting. 74. Termination of office. 75. Removal of directors. 76. Right to notice. 77. Filling vacancy. 78. Numbers changed. 79. Notice of change. 80. Directors' meetings. 81. Notice and waiver. 82. Adjourned meeting 83. Telephone participation. 84. Delegation of powers. 85. Validity of acts. 86. Resolution in writing.
 LIABILITIES OF DIRECTORS
 87. Liability for share issue. 88. Liability for other acts. 89. Contribution for judgment. 90. Recovery by action. 91. Defence to liability 92. Time-limit on liability.
@@ -70,8 +69,7 @@ CONTRACTUAL INTEREST
 93. Interest in contracts. 94. Interest declaration. 95. Avoidance of nullity. 96. Setting aside contract.
 OFFICERS OF A COMPANY
 97. Designation of offices, etc.
-ARRANGEMENT OF SECTIONS-Continued
-SECTION
+ARRANGEMENT OF SECTIONS-Continued SECTION
 BORROWING POWERS OF DIRECTORS
 98. Borrowing powers.
 DUTY OF DIRECTORS AND OFFICERS
@@ -102,8 +100,7 @@ SHAREHOLDER AGREEMENTS
 136. Pooling agreement. 137. Unanimous shareholder agreement.
 SHAREHOLDER APPROVAL
 138. Extraordinary transaction.
-ARRANGEMENT OF SECTIONS-Continued
-SECTION
+ARRANGEMENT OF SECTIONS-Continued SECTION
 DIVISION 6-PROXIES
 139. Definitions.
 PROXY HOLDERS
@@ -113,11 +110,13 @@ SHARE REGISTRANTS
 REMEDIAL POWERS
 150. Restraining order.
 DIVISION 7-FINANCIAL DISCLOSURE COMPARATIVE FINANCIAL STATEMENTS
-151. Annual financial returns. 152. (Repealed by Act No. 5 of 1997). 153. Consolidated financial returns. 154. Approval of directors. 155. Copies of documents to be sent to shareholders. 156. Registrar's copies.
+151. Annual financial returns. (Repealed by Act No. 5 of 1997). 152.
+153. Consolidated financial returns. 154. Approval of directors. 155. Copies of documents to be sent to shareholders. 156. Registrar's copies.
 AUDIT COMMITTEE
 157. Audit committee. SECTION
 AUDITOR
-158. Eligibility for appointment. 159. Ministerial authorisation of appointment. 160. (Repealed by Act No. 5 of 1997). 161. Ineligibility on ground of lack of independence. 162. Effect of ineligibility. 163. Appointment of auditor. 164. Dispensing with auditor. 165. Cessation of office. 166. Removal of auditor. 167. Filling auditor vacancy. 168. Court-appointed auditor. 169. Auditor's right to notice. 170. Required attendance. 171. Right to comment. 172. Examination by auditor. 173. Right to inspect. 174. Detected error.
+158. Eligibility for appointment. 159. Ministerial authorisation of appointment. (Repealed by Act No. 5 of 1997). 160.
+161. Ineligibility on ground of lack of independence. 162. Effect of ineligibility. 163. Appointment of auditor. 164. Dispensing with auditor. 165. Cessation of office. 166. Removal of auditor. 167. Filling auditor vacancy. 168. Court-appointed auditor. 169. Auditor's right to notice. 170. Required attendance. 171. Right to comment. 172. Examination by auditor. 173. Right to inspect. 174. Detected error.
 DIVISION 8-CORPORATE RECORDS REGISTERED OFFICE OF COMPANY
 175. Registered office. 176. Notice of address.
 COMPANY REGISTERS AND RECORDS
@@ -126,8 +125,7 @@ REGISTER OF DIRECTORS AND SECRETARIES
 178. Register of directors and secretaries. 179. Register of directors' holdings. 180. Extension of section to associates of directors.
 REGISTER OF SUBSTANTIAL SHAREHOLDERS
 181. Substantial shareholder. 182. Substantial shareholder to give notice to company. 183. Person ceasing to be a substantial shareholder to notify the company.
-ARRANGEMENT OF SECTIONS-Continued
-SECTION
+ARRANGEMENT OF SECTIONS-Continued SECTION
 184. Company to keep register of substantial shareholders. 185. Offence.
 RECORDS OF TRUSTS
 186. Trust notices.
@@ -153,8 +151,7 @@ AMALGAMATION
 220. Amalgamation. 221. Agreement for amalgamation. 222. Approval by shareholders. 223. Vertical short-form amalgamation. 224. Horizontal short-form amalgamation. 225. Articles of amalgamation. 226. Certificate of amalgamation.
 DISSENTERS' RIGHTS AND OBLIGATIONS
 227. Dissent by shareholder. 228. Demand for payment. 229. Suspension of rights.
-ARRANGEMENT OF SECTIONS-Continued
-SECTION
+ARRANGEMENT OF SECTIONS-Continued SECTION
 230. Offer to pay for share. 231. Application to Court. 232. Joined parties. 233. Court powers. 234. Interest. 235. Recourse of dissenting shareholder. 236. Prohibition of payment.
 RE-ORGANISATION
 237. Re-organisation.
@@ -173,13 +170,14 @@ APPLICATION TO THE COURT
 PART IV
 PROTECTION OF CREDITORS
 DIVISION 1-REGISTRATION OF CHARGES
-251. Registration with Registrar. 252. Contents of charge statements. 253. (Repealed by Act No. 5 of 1997). 254. Later charges. 255. Effect on written laws. 256. Fluctuating charges. 257. Charge on acquisition of property. 258. Duty to register. 259. Register of charges. 260. Endorsement on debenture. 261. Satisfaction and payment. 262. Rectification of error. 263. Retention of copy. 264. Inspection of copies. 265. Registration of receiver. 266. External company.
+251. Registration with Registrar. 252. Contents of charge statements.
+(Repealed by Act No. 5 of 1997). 253.
+254. Later charges. 255. Effect on written laws. 256. Fluctuating charges. 257. Charge on acquisition of property. 258. Duty to register. 259. Register of charges. 260. Endorsement on debenture. 261. Satisfaction and payment. 262. Rectification of error. 263. Retention of copy. 264. Inspection of copies. 265. Registration of receiver. 266. External company.
 DIVISION 2-TRUST DEEDS AND DEBENTURES
 267. Definitions. 268. Application of Division.
 TRUSTEES
 269. Conflict of interest. 270. List of debenture holders. 271. Evidence of compliance. 272. Contents of evidence. 273. Further evidence.
-ARRANGEMENT OF SECTIONS-Continued
-SECTION
+ARRANGEMENT OF SECTIONS-Continued SECTION
 274. Evidence relating to conditions. 275. Certificate of compliance. 276. Notice of default. 277. Redemption of debenture. 278. Duty of care. 279. Reliance on statements. 280. No exculpation. 281. Rights of trustees.
 TRUST DEEDS
 282. Need for trust deed. 283. Kinds of debentures. 284. Cover of trust deed. 285. Exception. 286. Contents of trust deed. 287. Contents of debentures.
@@ -196,11 +194,14 @@ DIVISION 1-COMPANIES WITHOUT SHARE CAPITAL
 307. Application of Division. 308. Incorporation. 309. Form of articles. 310. Directors ex officio. 311. Members unlimited. 312. Admission to membership. 313. Voting by members. 314. Transfer of members. 315. Bye-laws. 316. Disposal of property on dissolution.
 DIVISION 2-EXTERNAL COMPANIES
 317. Application of Division. 318. Registration required. 319. Registration of external companies registered under former Act. 320. Entitlement to registration. 321. External amalgamated company. 322. Language. 323. Attorney of company. 324. Failure of power.
-ARRANGEMENT OF SECTIONS-Continued
-SECTION
-325. Capacity of attorney. 326. Certificate of registration. 327. Effect of registration. 328. (Repealed by Act No. 5 of 1997). 329. Cancelling registration. 330. Revival of registration. 331. Previous activities. 332. Fundamental changes. 333. Returns. 334. Incapacity of company. 335. Exhibition of company's name. 336. (Repealed by Act No. 5 of 1997). 337. Other provisions.
+ARRANGEMENT OF SECTIONS-Continued SECTION
+325. Capacity of attorney. 326. Certificate of registration. 327. Effect of registration. (Repealed by Act No. 5 of 1997). 328.
+329. Cancelling registration. 330. Revival of registration. 331. Previous activities. 332. Fundamental changes. 333. Returns. 334. Incapacity of company. 335. Exhibition of company's name. (Repealed by Act No. 5 of 1997). 336.
+337. Other provisions.
 DIVISION 3-FORMER-ACT COMPANIES
-338. Application of Division. 339. (Repealed by Act No. 5 of 1997). 340. Continuation of company. 341. (Repealed by Act No. 5 of 1997). 342. Articles of continuance. 343. Certificate of continuance. 344. Preservation of company. 345. Previous shares. 346. Non-continuance disability. 347. (Repealed by Act No. 5 of 1997).
+338. Application of Division. (Repealed by Act No. 5 of 1997). 339.
+340. Continuation of company. (Repealed by Act No. 5 of 1997). 341.
+342. Articles of continuance. 343. Certificate of continuance. 344. Preservation of company. 345. Previous shares. 346. Non-continuance disability. (Repealed by Act No. 5 of 1997). 347.
 PART VI
 WINDING UP
 DIVISION 1-PRELIMINARY
@@ -224,7 +225,7 @@ COMMITTEE OF INSPECTION
 committee of inspection shall be appointed.
 384. Constitution and proceedings of committee of inspection. 385. Powers of Court where no committee of inspection.
 GENERAL POWERS OF COURT
-386. Power to stay winding up, etc. 387. Settlement of list of contributories and application of assets. 388. Delivery of property to liquidator. 389. Payment of debts due by contributors to company and extent to
+386. Power to stay winding up, etc. 387. Settlement of list of contributories and application of assets. 388. Delivery of property to liquidator. 389. Payment of debts due by contributory to company and extent to
 which set-off allowed.
 390. Power of Court to make calls. 391. Payment into bank of moneys due to company. 392. Order on contributory is conclusive evidence. 393. Appointment of special manager. 394. Power to exclude creditors not proving in time. 395. Adjustment of rights of contributories. 396. Inspection of books by creditors or contributories. 397. Power to order costs of winding up to be paid out of assets. 398. Power to summon persons suspected of having property of company. 399. Power to order public examination of promoters, directors, etc. 399A. Power to restrain fraudulent persons from managing companies.
 400. Power to arrest absconding contributory. 401. Powers of Court cumulative. 402. Delegation to liquidator of certain powers of Court. 403. Dissolution of company. 404. Power to enforce orders and appeals from orders. SECTION
@@ -243,8 +244,8 @@ of insolvency.
 PROVISIONS APPLICABLE TO A CREDITORS'
 VOLUNTARY WINDING UP
 417A. Application of sections 418 to 425.
-418. Meeting of creditors. 419. Appointment of liquidator. 420. Appointment of committee of inspection. 421. Fixing of liquidator's remuneration and cesser of directors' powers. 422. Power to fill vacancy in office of liquidator. 423. Application of section 413 to a creditors' winding up. 424. Duty of liquidator to call meetings of company and of creditors at end
-of each year.
+418. Meeting of creditors. 419. Appointment of liquidator. 420. Appointment of committee of inspection. 421. Fixing of liquidator's remuneration and cesser of directors' powers. 422. Power to fill vacancy in office of liquidator. 423. Application of section 413 to a creditors' winding up. 424. Duty of liquidator to call meetings of company and of creditors at
+end of each year.
 425. Final meeting and dissolution.
 ARRANGEMENT OF SECTIONS-Continued
 SECTION
@@ -277,8 +278,7 @@ PROVISIONS AS TO DISSOLUTION
 460. Power of Court to declare dissolution of company void. 461. Registrar may strike defunct company off register. 462. Outstanding assets of defunct company to vest in Official Receiver. 463. Disposal of moneys.
 RULES
 464. Rules.
-ARRANGEMENT OF SECTIONS-Continued
-SECTION
+ARRANGEMENT OF SECTIONS-Continued SECTION
 DIVISION 5-WINDING UP OF UNREGISTERED COMPANIES
 465. Unregistered company. 466. Winding up of unregistered companies. 467. Contributories in winding up of unregistered company. 468. Power of Court to stay or restrain proceedings. 469. Outstanding assets of defunct unregistered company.
 PART VII
@@ -296,7 +296,9 @@ REMOVAL FROM REGISTER
 SERVICE
 491. Service on company.
 COMPANY NAMES
-492. Reservation of name. 493. Prohibited name. 494. (Repealed by Act No. 5 of 1997). 495. Amalgamated company. 496. Restored name.
+492. Reservation of name. 493. Prohibited name.
+(Repealed by Act No. 5 of 1997). 494.
+495. Amalgamated company. 496. Restored name.
 DIVISION 2-INVESTIGATION OF COMPANIES
 INVESTIGATIONS
 497. Non-application to public company. 498. Investigation order. 499. Court powers. 500. Inspector's powers. 501. In camera hearing. 502. Incriminating evidence. 503. Privilege absolute.
@@ -309,8 +311,10 @@ SECTION
 DIVISION 4-OFFENCES AND PENALTIES
 508. Name offence. 509. Abuse of corporate status. 510. Reports. 511. Specific offences. 512. Company offences. 513. General offence. 514. Order to comply. 515. Limitation. 516. Penalty for late filing. 517. Civil remedies unaffected. 517A. Criminal proceedings against firms.
 DIVISION 5-INCIDENTAL AND CONSEQUENTIAL MATTERS
-518. Repeal. 519. References to Companies Act. 520. Transitional. 521. (Repealed by Act No. 5 of 1997). 522. Security for costs. 523. Power of Court to grant relief in certain cases. 524. Saving for privileged communications.
-FIRST SCHEDULE. (Rules of Procedure on Applications under the Act). SECOND SCHEDULE. (Rules with respect to the Winding Up of Companies). THIRD SCHEDULE. (Rules in regard to Certified Copies, etc. required
+518. Repeal. 519. References to Companies Act. 520. Transitional. (Repealed by Act No. 5 of 1997). 521.
+522. Security for costs. 523. Power of Court to grant relief in certain cases. 524. Saving for privileged communications.
+FIRST SCHEDULE. (Rules of Procedure on Applications under the Act). SECOND SCHEDULE. (Rules with respect to the Winding Up of
+Companies). THIRD SCHEDULE. (Rules in regard to Certified Copies, etc. required
 under the Act and as to General Forms).
 
 CHAPTER 81:01

@@ -8,17 +8,15 @@ INCORPORATED OR CONTINUED UNDER THE ACT
 4. Anniversary Date of Incorporation / Continuance 5. Total amount of the indebtedness of the Company in respect of all mortgages and charges of the kind which are required to be registered with the Registrar under the Companies Act. $... 6. Particulars of directors of the company at the date of this return.
 Name Address Other Occupation
 If none, state so
-...
 ... [Subsidiary] Companies Regulations
 FORM 29-Continued
 7. The secretary/assistant secretary(ies) of the company as of the date of the Annual Return is/are:
 Name Address/Registered Office/ Other Occupation/
 Principal Place of Business Status*
 ...
-...
 8. Date Name and Title Signature
 ...
-Companies Regulations [Subsidiary]
+[Subsidiary] Companies Regulations
 INSTRUCTIONS
 Format
 Documents required to be sent to the Registrar pursuant to the Act must conform to regulation 3 of the Regulations under the Act.
@@ -49,5 +47,5 @@ accountants" or "company incorporated under the laws of Trinidad and Tobago" (or
 Signature
 A director or authorised officer of the company shall sign a return. Completed documents, in duplicate, and the prescribed fees are to be filed at
 the office of the Registrar and one set of the duplicate originals would be returned to the company or its representative with the endorsement "Registered" and the date of registration.
-Companies Regulations [Subsidiary]
+[Subsidiary] Companies Regulations
 - Margin: [Section 194(1)].

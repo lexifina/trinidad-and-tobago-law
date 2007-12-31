@@ -9,14 +9,14 @@ Date Name and Title Signature
 ...
 ...
 ...
-Companies Regulations [Subsidiary]
+[Subsidiary] Companies Regulations
 INSTRUCTIONS
 Format
 Documents required to be sent to the Registrar pursuant to the Act must conform to regulation 3 of the Regulations under the Act. General
-(a) This document shall set out the amendments to the Articles in
-accordance with the Court order pursuant to section 237 or 238 as the case may be.
-(b) The amendments must relate to the corresponding provisions of the
-Articles being amended, e.g., sections, subsections, clauses, etc. Signature
+(a) This document shall set out the amendments to the Articles in accordance
+with the Court order pursuant to section 237 or 238 as the case may be.
+(b) The amendments must relate to the corresponding provisions of the Articles
+being amended, e.g., sections, subsections, clauses, etc. Signature
 A director or officer authorised by the Company or the Court shall sign the Articles. Other Documents
 The Articles must be accompanied by:
 (a) A copy of the Court order; and

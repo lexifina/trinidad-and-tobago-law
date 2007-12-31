@@ -15,15 +15,16 @@ FORM 12-Continued
 9. Restrictions, if any, on business the Company may carry on ...
 10. Other provisions, if any
 ...
-11. The foregoing restates articles of incorporation correctly set out, without substantive
-change, the corresponding provisions of the articles of incorporation as amended, and supercede the original articles of incorporation and all amendments thereto as of the date shown below.
+11. The foregoing restates articles of incorporation correctly set out, without
+substantive change, the corresponding provisions of the articles of incorporation as amended, and supercede the original articles of incorporation and all amendments thereto as of the date shown below.
 Date Name and Title Signature
 ...
-Companies Regulations [Subsidiary]
+[Subsidiary] Companies Regulations
 INSTRUCTIONS
 Format
 Documents required to be sent to the Registrar pursuant to the Act must conform with regulation 3 of the Regulations under the Act. Where any provision required to be set out is too long to be set out in the space provided in the form, the form may incorporate the provisions by annexing a schedule in the manner described in regulation 3(5) of the said Regulations. General
-Restated Articles of Incorporation shall set out, WlTHOUT SUBSTANTIVE CHANGE, the Articles of Incorporation as previously amended. Item 1
+Restated Articles of Incorporation shall set out, WlTHOUT SUBSTANTIVE CHANGE, the Articles of Incorporation as previously amended.
+Item 1
 Set out the full legal name of the company and company number. Item 2
 Indicate whether the liability of members is limited by shares, by guarantee or by both shares and guarantee or whether the liability of members is unlimited. Tick the appropriate box. Item 3
 Indicate whether the company is a public company. Tick the appropriate box.
@@ -35,7 +36,7 @@ If restrictions are to be placed on the right to transfer or own shares of the c
 If the pre-emptive rights under section 38 of the Act with respect to the issue of shares are to be varied, state the nature of any such variation. [Subsidiary] Companies Regulations
 FORM 12-Continued
 Item 7
-If the power of the directors to make, amend or repeal the bye-laws under
+If the power of the directors to make, amend or repeal the Bye-laws under
 section 66 of the Act is restricted, state the nature of any such restriction. Item 8
 State the number of directors. If cumulative voting is permitted, the number of
 directors must be invariable, otherwise it is permissible to specify a minimum and maximum number of directors.
@@ -50,7 +51,7 @@ company in the event of its being wound up while he is a member, or within one y
 (b) the number of members with which the company is proposed to
 be registered.
 The articles of a company may provide for anything permitted by the Act or any
-other law to be provided for by the bye-laws of the company.
+other law to be provided for by the Bye-laws of the company.
 The following sections of the Act give a company the option to make, in its articles,
 provisions for the company which are different to the provisions set out in the Act:
 (a) section 38(1)-see item 6 above;
@@ -63,7 +64,8 @@ provisions for the company which are different to the provisions set out in the 
 (h) section 113(3)-re notice of adjourned meeting of shareholders;
 (i) section 127(1), (2) and (3)-re quorum at meetings of shareholders;
 (j) section 128-re voting on a show of hands or on a ballot;
-(k) section 130-re voting of shares held by joint shareholders; Companies Regulations [Subsidiary]
+(k) section 130-re voting of shares held by joint shareholders;
+[Subsidiary] Companies Regulations
 (l) section 131-re method of voting at meetings of shareholders;
 (m) section 216-re right of shareholders of a class to vote separately
 on certain proposed amendments to the articles;

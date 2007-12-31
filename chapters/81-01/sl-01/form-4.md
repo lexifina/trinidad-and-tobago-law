@@ -11,7 +11,7 @@ REGISTERED OFFICE
 5. If change of address, give previous address of Registered Office and date of change ...
 6. Date Name and Title Signature
 ...
-Companies Regulations [Subsidiary]
+[Subsidiary] Companies Regulations
 INSTRUCTIONS
 Format
 Documents required to be sent to the Registrar pursuant to the Act must conform to regulation 3 of the Regulations. Item 1
