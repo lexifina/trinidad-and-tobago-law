@@ -1,9 +1,7 @@
 SECURITIES INDUSTRY ACT
 CHAPTER 83:02
 Act
-32 of 1995
-Amended by
-39 of 2000
+32 of 1995 Amended by 39 of 2000 21 of 2005
 Index of Subsidiary Legislation
 Page Trinidad and Tobago Stock Exchange Rules (LN 174/1987)... 122 Securities Industry Bye-laws (LN 102/1997) ... 225
 CHAPTER 83:02
@@ -31,7 +29,7 @@ PART III THE TRINIDAD AND TOBAGO STOCK EXCHANGE AND
 OTHER SELF-REGULATORY ORGANISATIONS
 DIVISION 1 - THE STOCK EXCHANGE
 32. Transfer of property, assets, etc. 33. Continuation of legal proceedings. 34. Deemed registration of Stock Exchange. 35. Rules of the Stock Exchange. DIVISION 2 - SELF-REGULATORY ORGANISATIONS
-36. Registration of self-regulatory organisation. 37. Characteristics of self-regulatory organisation. 38. Processing of applications. 39. Obligatory rules. 40. Procedure on proposed amendment to rules. 41. Power of Commission to require change in rules. 42. Restriction on imposition of fees. SECTION
+36. Registration of self-regulatory organisation. 37. Characteristics of self-regulatory organisation. 38. Processing of applications. 39. Obligatory rules. 40. Procedure on proposed amendment to rules. 41. Power of Commission to require change in rules. 42. Restriction on imposition of fees schedule. SECTION
 43. Conditions for membership. 44. Filing of copy of decision with Commission. 45. Delisting of Securities. 46. Appointment of auditor. 47. Keeping and inspection of records, etc. 48. Contingency fund. 49. Sanctions re rules. 50. Complaints. 51. Dispute between member companies.
 PART IV
 REGISTRATION OF MARKET ACTORS
@@ -59,7 +57,8 @@ PART VIII
 SIMPLIFIED CLEARING FACILITIES
 102. Application of Part. 103. Definitions. 104. Use of clearing agency as registered owners of security. 105. Transfer of securities through clearing agency. 106. Transfer by record entry. 107. Blocked account. 108. Effecting pledge by record entry. 109. Effecting blocked account by record entry. 110. Security subject to restriction. 111. Blocking account by Court order. 112. Limitation on rights of participants. 113. Withdrawal of security. 114. Issuer's duty to request list of participants. 115. Access to clearing agency records. 116. Incorrect entry by clearing agency. 117. Liability in extraordinary circumstances. 118. Application to Court to rectify records. 119. Participation by financial institution.
 PART IX
-DEALING BY PERSONS CONNECTED WITH ISSUERS 120. Definitions. 121. Prohibition of buying or selling of securities by certain persons. 122. Disclosure of beneficial interest in share capital. 123. Offences. 124. Exceptions to section 121. 125. Defence not available. 126. Application to trustees and personal representatives. 127. Penalties.
+DEALING BY PERSONS CONNECTED WITH ISSUERS
+120. Definitions. 121. Prohibition of buying or selling of securities by certain persons. 122. Disclosure of beneficial interest in share capital. 123. Offences. 124. Exceptions to section 121. 125. Defence not available. 126. Application to trustees and personal representatives. 127. Penalties.
 ARRANGEMENT OF SECTIONS-Continued
 SECTION
 PART X
@@ -75,7 +74,7 @@ DIVISION 1-BYE-LAWS
 DIVISION 2-ORDERS OF COMMISSION
 133. Power to make orders. 134. Conduct of hearings.
 DIVISION 3-APPEALS
-135. Appeals for review re: section 7 or 43. 136. Appeal to Court of Appeal against final order. 137. Appeal to Court of Appeal against bye-law.
+135. Appeals for review re section 7 or 43. 136. Appeal to Court of Appeal against final order. 137. Appeal to Court of Appeal against bye-law.
 DIVISION 4-INVESTIGATIONS
 138. Investigation of contraventions. 139. Conduct of inquiry re proposed bye-laws. 140. Investigation of financial affairs of registrants and others. 141. Power to order cessation of trading. 142. Protection of investors re dealers in money, etc. 143. Order for penalty. SECTION
 DIVISION 5-ORDERS OF COURT

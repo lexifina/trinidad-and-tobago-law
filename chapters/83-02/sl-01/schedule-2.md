@@ -40,23 +40,23 @@ Branches through which business is transacted) ...
 3. Is Applicant applying for registration of any Branch Office? If so, state addresses
 of Branch Office(s) ...
 ...
-... INSTRUCTION: Answer "Yes" or "No" to the following questions. If "Yes"
-give particulars.
-4. Has the Applicant, or to the best of the Applicant's information and belief has
-any affiliate of the Applicant:
+... INSTRUCTION: Answer "Yes" or "No" to the following questions. If "Yes" give
+particulars.
+4. Has the Applicant, or to the best of the Applicant's information and belief has any
+affiliate of the Applicant:
 (a) been registered in any capacity under the Securities Industry Act, Ch. 83:02?
 ...
-(b) applied for registration, in any capacity, under the Securities Industry Act,
-Ch. 83:02? ...
-Securities Industry Bye-laws [Subsidiary]
-5. Is the Applicant, or to the best of the Applicant's information and belief is any affiliate
-of the Applicant, now, or has any such person or company been-
+(b) applied for registration, in any capacity, under the Securities Industry
+Act, Ch. 83:02? ...
+[Subsidiary] Securities Industry Bye-laws
+5. Is the Applicant, or to the best of the Applicant's information and belief is any
+affiliate of the Applicant, now, or has any such person or company been-
 (a) registered or licensed in any capacity in any other country which requires
 registration or licensing to deal or trade in securities? ...
 (b) registered or licensed in any other capacity in Trinidad and Tobago under
 any legislation which requires registration or licensing to deal with the public in any capacity? (e.g., as an insurance agent, real estate agent, private investigator, mortgage broker, etc.) ...
 (c) refused registration or a licence mentioned in 5(a) or (b) above or has any
-registration or licence been suspended or cancelled in any category-mentioned in 5(a) or (b) above? ...
+registration or licence been suspended or cancelled in any category mentioned in 5(a) or (b) above? ...
 (d) denied the benefit of any exemption from registration provided by the
 Securities Industry Act, Ch. 83:02? 6. Is the Applicant, or to the best of the Applicant's information and belief is any
 affiliate of the Applicant, now, or has any such person or company been-
@@ -72,50 +72,48 @@ FORM NO. 2 -Continued
 any affiliate of the Applicant-
 (a) ever been convicted under the laws of any country, excepting minor traffic
 offences? ...
-Is there currently an outstanding charge or indictment against the affiliate?
-... INSTRUCTION: Question 8(a) refers to all Laws, e.g., Criminal, Customs,
+Is there currently an outstanding charge or indictment against the affiliate? ... INSTRUCTION: Question 8(a) refers to all Laws, e.g., Criminal, Customs,
 Liquor, etc., of any State or country, in any part of the world. You are not required to disclose any convictions for which a pardon has been granted under the Laws of Trinidad and Tobago, and which pardon has not been revoked.
-(b) ever been the defendant or respondent in any proceedings in any Civil
-Court in any jurisdiction in any part of the world wherein fraud was alleged?
-...
+(b) ever been the defendant or respondent in any proceedings in any Civil Court
+in any jurisdiction in any part of the world wherein fraud was alleged? ...
 (c) at any time declared bankruptcy, or made a voluntary assignment in
 bankruptcy? (If "Yes", give particulars and also attach a certified copy of discharge)...
 (d) ever been refused a fidelity/surety bond? ...
 9. Set out in the space provided, the name of the Applicant, or the name of and
 position held by each director, officer or partner of the Applicant seeking or holding registration.
 NOTE: an underwriter may not trade with the public.
-Name of persons who will act (In addition to last name, Office held
-give full first and middle names) 1. 2. 3. 4. 5.
+Name of persons who will act (In addition to last name, Office held give full first and middle names)
+1. 2. 3. 4. 5.
 10. Attach and mark as an exhibit a completed form for each director, officer or
 partner of the Applicant seeking or holding registration.
-Securities Industry Bye-laws [Subsidiary]
+[Subsidiary] Securities Industry Bye-laws
 FORM NO. 3
 APPLICATION FOR REGISTRATION
 AS A SECURITIES COMPANY
-(Pursuant to section 601(a) of the Securities Industry Act)
+(Pursuant to section 60(1)(a) of the Securities Industry Act Ch. 83:02)
 To the Trinidad and Tobago Securities and Exchange Commission.
-In accordance with section 60(1)(a) of the Securities Industry Act,Ch. 83:02 we hereby apply for the registration of ... Limited as a securities company.
+In accordance with section 60(1)(a) of the Securities Industry Act,Ch. 83:02, we hereby apply for the registration of ...Limited as a securities company.
 We attach to this application:
 (i) a certified copy of the Memorandum and Articles of
 Association of the Company together with a certified copy of its certificate of incorporation;
 (ii) proof that prior to commencing trading on the securities
 exchange the Company will have a minimum paid up share capital of ... dollars.
-We are aware of the requirements related to securities companies under the Securities Industry Act, Ch. 83:02 and the Bye-laws made thereunder and, provided approval is granted to this application, we give a joint and several understanding that the Company will be operated in accordance with them...
+We are aware of the requirements related to securities companies under the Securities Industry Act, Ch. 83:02 and the Bye-laws made thereunder and, provided approval is granted to this application, we give a joint and several understanding that the Company will be operated in accordance with them.
+...
 We are the Directors of the Company and we hereby undertake to assume liability for the debts and obligations of the Company in terms of and within limitations expressed in ...
 Yours faithfully,
-Signed ... Dated ... [Subsidiary] Securities Industry Bye-laws
-(Bye-law 54). FORM NO. 4
+Signed ... Dated... [Subsidiary] Securities Industry Bye-laws
+FORM NO. 4 (Bye-law 54).
 REGISTRATION STATEMENT
 (Pursuant to section 64 or 65 of the Securities Industry Act, Ch. 83:02)
 1. Exact name of Registrant as specified in its constituent instrument ...
 ...
 2. Is Registrant a public company or government entity? (If yes, specify) ...
 ...
-3. Country of Incorporation or Organisation of Registrant ...
-4. Name and Address of Principal Executive Officer of Registrant ...
+3. Country of Incorporation or Organisation of Registrant ... 4. Name and Address of Principal Executive Officer of Registrant ...
 ...
-5. Names and Addresses of Members of the Board of Directors of Registrant (in the case of
-a Company)
+5. Names and Addresses of Members of the Board of Directors of Registrant (in the case of a
+Company)
 (a) ...
 (b) ...
 (c) ...
@@ -128,12 +126,12 @@ a Company)
 ...
 12. Name, Address and Telephone Number of Agent for Service (if applicable) ...
 ...
-13. Any other information that is not prohibited by bye-law 14. Signature ...
+13. Any other information that is not prohibited by bye-law ... 14. Signature ...
 ... NOTE: Where security to be registered, this registration statement shall be signed by-
-(a) the principal executive officer of the issuer and at least two members of
-the board of directors of the issuer; or
+(a) the principal executive officer of the issuer and at least two members of the
+board of directors of the issuer; or
 (b) in the case of a government entity, the underwriter or designated agent.
-Securities Industry Bye-laws [Subsidiary]
+[Subsidiary] Securities Industry Bye-laws
 - Margin: (Bye-law 4).
 - Margin: (Bye-law 10).
 - Margin: (Bye-law 14).
