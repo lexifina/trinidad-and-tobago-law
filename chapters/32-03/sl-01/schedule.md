@@ -2,7 +2,7 @@
 Husband's/Wife's Claim reference numbers
 Date of receipt of Claim
 ...
-For Office use only File No... Name ... Local Board No... Address ... Disability Assistance Grant No. …… I.D. No... Rejected Claim No... N.I.S. No...
+For Office use only File No... Name ... Local Board No... Address ... Disability Assistance Grant No. … I.D. No... Rejected Claim No... N.I.S. No...
 Public Assistance (Disability Assistance)
 (Prescribed Forms) Regulations
 FORM OF CLAIM FOR DISABILITY
@@ -14,7 +14,8 @@ at the same time each must fill out a separate application form. 3. A Disability
 QUALIFICATIONS
 To be eligible for a Disability Assistance Grant, a person-
 (a) must have attained the age of eighteen years;
-(b) (i) must be a citizen or resident of Trinidad and Tobago; and
+(b) (i) must be a citizen or resident of Trinidad and
+Tobago; and
 (ii) must have been continuously resident in Trinidad and
 Tobago for a period of three years preceding the claim for disability assistance, except that the period of residence has not been broken by a period exceeding six months in the aggregate or must have been continuously resident in Trinidad and Tobago for more than twelve months but less than three years and has received the approval of the Minister under section 11A(5) of the Act;
 (c) have an income not exceeding the total income specified
@@ -53,7 +54,7 @@ consist? (house, land, etc.) ...
 property? ...
 (e) If you rent the property, is it wholly or partly rented and what is your income
 from the rental of property? wholly/partly ... rental income $ ... 23. If you do not own a property or if you own but rent your property, do you pay rent
-for the house in which you live? ...If so, how much rent do you pay and to whom? ... 24. (a) Does your spouse own any property? ... If so, of what does
+for the house in which you live? ... If so, how much rent do you pay and to whom? ... 24. (a) Does your spouse own any property? ... If so, of what does
 the property consist? (house, land, etc.) ...
 (b) Where is the property situated? ...
 (c) What is the value of the property? ...
