@@ -1,7 +1,7 @@
 # FIRST SCHEDULE
 RATE OF CORPORATION TAX
-1. For every dollar of the chargeable profits of a company, thirty per cent, except as otherwise provided in paragraphs 2 and 3 in the case of the long-term insurance business of an assurance company.
-2. In the case of the long-term insurance business of an assurance company the rate of tax shall be fifteen per cent, except that where profits of that business are transferred to the shareholder's account, a corresponding amount of the profits of the accounting period ending in the year of income in which the transfer was made shall be treated as chargeable at the rate of thirty per cent, and where there is an insufficiency of such profits of that accounting period the amount by which the profits so transferred exceeds the profits of such period shall be deemed to be profits of that period after making allowance for any tax previously paid.
+1. For every dollar of the chargeable profits of a company, twenty-five per cent, except as otherwise provided in paragraphs 2 and 3 in the case of the long-term insurance business of an assurance company.
+2. In the case of the long-term insurance business of an assurance company the rate of tax shall be fifteen per cent, except that where profits of that business are transferred to the shareholder's account, a corresponding amount of the profits of the accounting period ending in the year of income in which the transfer was made shall be treated as chargeable at the rate of twenty-five per cent, and where there is an insufficiency of such profits of that accounting period the amount by which the profits so transferred exceeds the profits of such period shall be deemed to be profits of that period after making allowance for any tax previously paid.
 3. (1) Companies engaged in the-
 (a) liquefaction of natural gas;
 (b) manufacture of petro-chemicals;
@@ -18,5 +18,4 @@ a refilling operation;
 (b) involved in the sale and distribution of leaded and unleaded
 gasoline, diesel and kerosene lubricants and other car care products; or
 (c) operating service stations.
-*Confirmed by GN 14/1968.
-- Margin: Section 3. [2/1968* 5 of 1969 11 of 1988 6 of 1989 9 of 1990 4 of 1992 5 of 1995 8 of 1996 2 of 2002].
+- Margin: Section 3. [2/1968* 5 of 1969 11 of 1988 6 of 1989 9 of 1990 4 of 1992 5 of 1995 8 of 1996 2 of 2002 2 of 2006 17 of 2007].

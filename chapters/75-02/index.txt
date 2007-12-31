@@ -26,11 +26,13 @@ s-10K.md
 s-10L.md
 s-10M.md
 s-10N.md
+s-10O.md
 s-11.md
 s-12.md
 s-13.md
 s-14.md
 s-15.md
+s-16.md
 s-16A.md
 s-16D.md
 s-16E.md
