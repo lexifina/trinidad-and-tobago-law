@@ -14,16 +14,20 @@ TRANSPORT
 purchase means of transport.
 12. Transport to Tobago.
 CHAUFFEUR'S ALLOWANCE
-13. Chauffeur's Allowance.
+13. Chauffeur's allowance.
 SUBSISTENCE
-14. Subsistence. Judges (Conditions of Service and Allowances) Regulations (No. 1)
-ENTERTAINMENT ALLOWANCE l5. Entertainment allowance.
-MEDICAL TREATMENT l6. Medical treatment.
-EXEMPTION FROM INCOME TAX 17. Exemption from income tax.
+14. Subsistence.
+Judges (Conditions of Service and Allowances) Regulations (No. 1)
+REGULATION
+ENTERTAINMENT ALLOWANCE
+l5. Entertainment allowance.
+MEDICAL TREATMENT
+l6. Medical treatment.
+EXEMPTION FROM INCOME TAX
+17. Exemption from income tax.
 JUDGES (CONDITIONS OF SERVICE AND
 ALLOWANCES) REGULATIONS (NO. 1)
 made under section 16
 - Margin: [Subsidiary]
 - Margin: [Subsidiary]
-- Margin: 25/1965.
-- Margin: [47/1967].
+- Margin: 25/1965. [47/1967].
