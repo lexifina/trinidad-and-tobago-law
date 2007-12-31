@@ -1,3 +1,3 @@
 # FORM B
-20... DEATHS IN THE WARD OF
+DEATHS IN THE WARD OF 20...
 - Margin: Section 14.

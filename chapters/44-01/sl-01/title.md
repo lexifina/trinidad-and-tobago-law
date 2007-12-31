@@ -1,7 +1,6 @@
 SUBSIDIARY LEGISLATION
 REGISTRATION OF BIRTHS REGULATIONS
-ARRANGEMENT OF REGULATIONS
-REGULATION
+ARRANGEMENT OF REGULATIONS REGULATION
 1. Citation and commencement. 2. Officers before whom declaration may be made. 3. Prescribed forms. 4. Mother's request for entry of father's name. 5. Particulars to be produced. 6. Witnessing entry. 7. Signing. 8. Certificate of re-registration. 9. Noting of entries on re-registration.
 SCHEDULE. [Subsidiary]
 REGISTRATION OF BIRTHS REGULATIONS
@@ -20,15 +19,15 @@ Schedule shall be made by the mother before one of the officers specified in reg
 before whom it was made;
 (c) a statutory declaration in the prescribed Form B
 of the Schedule shall be made by the person acknowledging himself to be the father.
-5. (1) Where under section 21(1)(b) and (2)(b) of the Act, a
-mother requests entry of the father's name in the register the mother shall produce to the Registrar General-
+5. (1) Where under section 21(1)(b) and (2)(b) of the Act,
+a mother requests entry of the father's name in the register the mother shall produce to the Registrar General-
 (a) a declaration together with the statutory
 declaration in the prescribed Forms A and B of the Schedule;
 (b) evidence of identity of the parents or the child as
-the Registrar General may require.
+the Registrar General may require;
 (c) such other evidence as the Registrar General
 thinks fit.
-Registration of Births Regulations [Subsidiary]
+[Subsidiary] Registration of Births Regulations
 (2) In the case of-
 (a) re-registration of a birth under section 21 of the
 Act or the entry of the father's name under section 21A of the Act, the mother shall produce to the Registrar General a certificate of the birth of the child as well as the particulars specified in subregulation (1);
@@ -37,15 +36,15 @@ of the Act, the mother shall produce to the Registrar General a certificate of t
 6. (1) Parents or a parent, where permissible, may give such information and produce such evidence or particulars to a Registrar who shall as soon as practicable forward the same to the Registrar General.
 (2) Where the information, evidence and particulars are satisfactory to the Registrar General the parents or parent shall attend at the office of the Registrar General in Port-of-Spain to witness the entry of the name or any other particulars as provided in regulation 8 within seven days of the date specified in the notice to the parents or parent.
 7. (1) The Registrar General shall enter the name or any other particulars in the Register provided for that purpose in the presence of the parents or parent, as the case may be, and the parents or parent shall sign the Register in the presence of the Registrar General.
-(2) Re-registration of the birth of a person under the Act shall be effected at the Registrar General's Office in Port-of-Spain and in a register book kept for that purpose in the form set out as Form C of the Schedule. [Subsidiary] Registration of Births Regulations
+(2) Re-registration of the birth of a person under the Act shall be effected at the Registrar General's Office in Port-of- Spain and in a register book kept for that purpose in the form set out as Form C of the Schedule. [Subsidiary] Registration of Births Regulations
 8. Where application is made to the Registrar or the
 Superintendent Registrar for a certified copy of the entry of the birth of a child whose birth has been re-registered in a register in his custody, he shall, upon payment of a fee of one dollar and twenty cents, supply a certified copy of the entry of re-registration.
 9. The Superintendent Registrar or the Registrar having
 custody of the register in which the birth of a child was previously registered shall, when so directed by the Registrar General, note the previous entry relating to the birth with the words "Re-registered under section 21 of the Births and Deaths Registration Act on ..." inserting the date of the re-registration and make a certified copy of the note and send the copy to the Registrar General.
 SCHEDULE
 FORM A
-BIRTHS IN THE WARD OF 20...
-BIRTH Entry No. CHILD
+BIRTHS IN THE WARD OF
+20... BIRTH Entry No. CHILD
 1. Date of birth
 2. Place of birth
 No. of house or locality where born
@@ -55,11 +54,12 @@ FATHER
 5. Name and surname
 6. Address
 7. Rank or Profession
-Registration of Births Regulations [Subsidiary]
+[Subsidiary] Registration of Births Regulations
 Maiden surname Surname at marriage
 I ... DO SOLEMNLY AND SINCERELY DECLARE that I am the mother of the child the particulars of whose birth are specified above and that the person named in space 5 above is the father of the child, and I request that his name should be recorded as such in the Register of Births.
 ... Date ...
-Signed and declared by the above-named declarant in the presence of ... Registrar of Births and Deaths/Superintendent Registrar
+Signed and declared by the above-named declarant in the presence of
+... Registrar of Births and Deaths/Superintendent Registrar
 ... District [Subsidiary] Registration of Births Regulations
 FORM B
 REPUBLIC OF TRINIDAD AND TOBAGO
@@ -79,7 +79,7 @@ at ... in the Ward of ... in the County of ... in the Island of ... particulars 
 is the mother of the said child.
 3. The said "C.D." is the same person as "C.D." named in the certificate dated
 ... now produced to me marked "A.B. 1" and E.F. is the same person as "E.F." named in the said certificate now produced to me and marked "A.B. 1".
-Registration of Births Regulations [Subsidiary]
+[Subsidiary] Registration of Births Regulations
 4. On registration of the birth of C.D. I am informed and verily believe no person was entered in the register as the father of "C.D." and I now desire and consent that my name should be recorded as the father of the child in the Register of Births.
 And I make this declaration conscientiously believing the same to be true and according to the Statutory Declarations Act, Ch. 7:04 of the Laws of the Republic of Trinidad and Tobago and I am aware that if there is any statement in this declaration which is false in fact, which I know or believe to be false or do not believe to be true, I am liable to fine and imprisonment.
 Signed ...
@@ -134,26 +134,51 @@ child stating the date of birth of the child as appears on the registers of the 
 (vi) a baptismal certificate, if any, of the child;
 (vii) an affidavit from the mother or father of
 the child, stating the reason for the non-registration of the birth of the child; and
-(viii) a letter from the hospital stating the date of
-birth of the child;
+(viii) a letter from the hospital stating the date
+of birth of the child;
 (b) where the child is born at home, be accompanied
 by all of the items listed in paragraph (a), and-
 (i) an affidavit from a person, other than the
-mother or father of the child, who was present at the birth of the child; and [Subsidiary] Births and Deaths Registration (Registration of Births After Twelve Months)
-Regulations
+mother or father of the child, who was present at the birth of the child; and [Subsidiary] Births and Deaths Registration (Registration of Births After
+Twelve Months) Regulations
 (ii) an affidavit from a person from a category
 listed in the Schedule, who knows the child and has known the mother or father or both, for a period commencing not less than five years before the date of the affidavit.
-3. The Registrar General may waive any requirement set out
-in regulation 2.
+3. The Registrar General may waive any requirement set
+out in regulation 2.
 SCHEDULE
 CATEGORIES OF PERSONS WHO MAY SWEAR
 AFFIDAVITS UNDER RULE 2(b)(ii)
-Member of Parliament, Mayor, Alderman or Councillor Marriage Officer licensed to perform marriages in Trinidad and Tobago Managing Director of a company (endorsement of official stamp is necessary) Director and Manager of a bank or a company (endorsement of official stamp is
-necessary)
+Member of Parliament, Mayor, Alderman or Councillor Marriage Officer licensed to perform marriages in Trinidad and Tobago Managing Director of a company (endorsement of official stamp is necessary) Director and Manager of a bank or a company (endorsement of official stamp
+is necessary)
 Professional (University graduate) Notary Public or Justice of the Peace Senior Public Servant (above range 30) Police Officer (Sergeant and above, in rank) Fire Sub-Officer and above, in rank Prison Cadet Officer and above, in rank Member of the Defence Force (Corporal/Leading Seaman and above, in rank) Teacher
 [Subsidiary]
 REGISTRATION OF BIRTHS (FORM) REGULATIONS
 made under section 54(1)
+1.
+These Regulations may be cited as the Registration of Births (Form) Regulations.
+2. For the purposes of section 14 of the Births and Deaths Registration Act, the register book of entries of births may be in the form set out in the Schedule.
+SCHEDULE
+REPUBLIC OF TRINIDAD AND TOBAGO
+FEE EXEMPT FORM FOR REGISTRATION OF BIRTHS Pin No.: Given Name(s): Date of Birth: Other Name(s): Sex: Place of Birth: Name of Mother: Name of Father: Mother's Former Surname: Mother's Previous Surname(s): (List of other surnames where applicable): Mother's Pin No.: Father's Pin No.: Occupation: Occupation: Informant's Name and Relationship Informant's Name and to Child: Relationship to Child: Registration Date: Registration District: Name of Registrar: Entry No.:
+Issued under my Hand and Seal of Office this ... day of ..., 20... CERTIFIED TRUE AND CORRECT EXTRACT FROM THE REGISTER OF BIRTHS HELD BY THE REGISTRAR GENERAL'S DEPARTMENT, MINISTRY OF LEGAL AFFAIRS
+Registrar General [Subsidiary]
+REGISTRATION OF DEATHS (FORM) ORDER
+made under section 54(1)
+1. This Order may be cited as the Registration of Deaths
+(Form) Order.
+2. For the purposes of sections 14 and 41 respectively, of
+the Births and Deaths Registration Act, the register book of entries for deaths and the particulars required to be registered concerning a death may be in the form set out in the Schedule.
+SCHEDULE
+REPUBLIC OF TRINIDAD AND TOBAGO
+FORM FOR REGISTRATION OF DEATHS
+Name: Pin: Date of Death: Age: Rank/Profession: Sex:
+Name, Address and
+Description of Informant:
+Country of Birth: Place of Death: Cause of Death: Registration Date: Registration District:
+Name of Registrar: Entry No.:
+Issued under my Hand and Seal of Office this ... day of ..., 20...
+CERTIFIED TRUE AND CORRECT EXTRACT FROM THE REGISTER OF DEATHS HELD BY THE REGISTRAR GENERAL'S DEPARTMENT, MINISTRY OF LEGAL AFFAIRS
+Registrar General
 - Margin: 90/1983.
 - Margin: Citation and commencement.
 - Margin: Officers before whom declaration may be made.
@@ -183,3 +208,9 @@ made under section 54(1)
 - Margin: Waiver.
 - Margin: [Rule 2(b)(ii)].
 - Margin: 78/2003.
+- Margin: Citation.
+- Margin: Entries of birth may be in Form in Schedule. Ch. 44:01.
+- Margin: (Regulation 2).
+- Margin: 79/2006.
+- Margin: Citation.
+- Margin: Entries of deaths may be in the Form in the Schedule. Ch. 44:01.

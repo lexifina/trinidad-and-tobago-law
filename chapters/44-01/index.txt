@@ -48,6 +48,7 @@ s-44.md
 s-45.md
 s-46.md
 s-47.md
+s-47A.md
 s-48.md
 s-49.md
 s-50.md
@@ -72,6 +73,3 @@ third-schedule.md
 fourth-schedule.md
 fifth-schedule.md
 sl-01/title.md
-sl-01/r-1.md
-sl-01/r-2.md
-sl-01/schedule.md
