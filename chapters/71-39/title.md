@@ -2,8 +2,9 @@ TREASURY NOTES ACT
 CHAPTER 71:39
 Act
 14 of 1995
-Note on Subsidiary Legislation
-This Chapter contains no subsidiary legislation.
+7 1/2009
+Index of Subsidiary Legislation
+Page Resolutions (made under section 3) ... 7
 CHAPTER 71:39
 TREASURY NOTES ACT
 ARRANGEMENT OF SECTIONS
