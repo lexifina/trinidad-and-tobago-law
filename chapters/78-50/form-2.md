@@ -11,7 +11,7 @@ I ...
 (name of offender)
 of ...
 (address in Trinidad and Tobago)
-hereby admit without qualification that on the ... day of ... 20... at ... I committed an offence against section... of ...
+hereby admit without qualification that on the ... day of ... 20... at ... I committed an offence against section ... of ...
 (here insert particulars of Excise Act breached)
 in that I ...
 (here state facts constituting offence)
@@ -27,10 +27,3 @@ Signed ...
 - Margin: 71/1956. *117/1959. 146/1982. 6 of 1991.
 - Margin: 142/1967. 6 of 1991.
 - Margin: Ch. 87:54.
-- Margin: 58/1957.
-- Margin: Citation.
-- Margin: Interpretation.
-- Margin: Ch. 87:52.
-- Margin: Ch. 87:54.
-- Margin: Rum and gin.
-- Margin: Beer.
