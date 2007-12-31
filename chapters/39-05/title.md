@@ -1,9 +1,10 @@
 STUDENTS' REVOLVING LOAN FUND ACT
 CHAPTER 39:05
 Act
-3 of 1973 Amended by 9 of 1977 35 of 1998 91 of 2000
+3 of 1973 Amended by
+9 of 1977 35 of 1998 91 of 2000 12 of 2006
 Index of Subsidiary Legislation
-Page Designation of Financial Agent Notification (GN 151/1973) … … 12
+Page Designation of Financial Agent Notification (GN 151/1973) … … 13
 CHAPTER 39:05
 STUDENTS' REVOLVING LOAN FUND ACT
 ARRANGEMENT OF SECTIONS SECTION
