@@ -10,3 +10,4 @@ Period Tourism Transfer Tax
 8% Year 6
 8% Year 7
 Nil Year 8
+- Margin: (Section 6).
