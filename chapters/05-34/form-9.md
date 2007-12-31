@@ -1,0 +1,23 @@
+# FORM 9
+REPUBLIC OF TRINIDAD AND TOBAGO
+WAIVER OF RIGHT TO HAVE AN ADULT OF YOUR CHOICE PRESENT AT THE TAKING OF AN INTIMATE
+SAMPLE
+I, ...
+(Name)
+of ...
+(Address)
+further to being informed by ...
+..., of my
+(Name and number of police officer)
+right to have an adult of my choice present during the taking of an intimate sample, hereby waive this right to have an adult of my choice present during the taking of the intimate sample.
+Signed:
+...
+(Signature of person from whom the intimate sample is to be taken)
+...
+(Place where consent is given)
+In the presence of:
+...
+(Name in block letters and signature of the police officer of the First Division)
+at ...
+(Place where consent is given)
+- Margin: [Section 29(3)].
