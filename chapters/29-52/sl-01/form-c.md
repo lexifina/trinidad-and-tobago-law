@@ -1,0 +1,16 @@
+# FORM C
+(Pharmacy Board Act, Ch. 29:52)
+DECLARATION BY PHARMACIST APPROVED
+BY THE COUNCIL
+I, ...
+(Name of Pharmacist)
+of ...
+(Address of Pharmacist)
+Pharmacist, DO HEREBY DECLARE that in accordance with the Pharmacy Board Act, Ch. 29:52 ...
+(Name of pre-registration pharmacist)
+... has actually and diligently served and has been employed by me as a pre-registration pharmacist for the whole period of six months with effect from the ... day of ... 20... during which he gained pre-registration experience as a pre-registration pharmacist in accordance with the Pharmacy Board Act.
+Dated this ... day of ..., 20...
+...
+Signature of Pharmacist
+[Subsidiary] Pharmacy Board Regulations
+- Margin: Regulation 11(2).

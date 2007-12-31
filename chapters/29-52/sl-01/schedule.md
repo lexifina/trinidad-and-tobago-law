@@ -1,2 +1,2 @@
 # SCHEDULE
-- Margin: [Regulations 4(2)(a), (1), (5) and (3)].
+- Margin: [Regulation 4(1) and (2)(a)].
