@@ -1,14 +1,21 @@
 ARRANGEMENT OF REGULATIONS-Continued
 REGULATION
-26. Recreation spaces. 27. Offices. 28. Sanitary accommodation. 29. Supply of drinking water. 30. Supply of fresh water. 31. Facilities for washing and drying clothes and for hanging oilskins and working clothes.
-32. Galleys. 33. Dry provision storerooms. 34. Cold storerooms and refrigerating equipment. 35. Hospitals. 36. Medical cabinet. 37. Protection from mosquitoes. 38. Maintenance and inspection of crew accommodation.
+DIVISION 3
+Port Facilities
+23. Responsibilities of the designated authority for port facilities. 24. Duties of port facility operator for port facilities. 25. Port facility security officers. 26. Drills and exercises.
+DIVISION 4
+Supplementary
+27. Alternative security arrangements. 28. Equivalent security arrangements. 29. Communication of information.
+DIVISION 5 Enforcement
+30. Requirement to provide information. 31. Powers of inspection. 32. False statements relating to baggage, cargo, etc. 33. False statements in connection with identity documents. 34. Unauthorised presence in restricted zones. 35. Offences relating to authorised persons. 36. Penalties, defences, etc.
 PART II
-REQUIREMENTS TO BE COMPLIED WITH BY SHIPS REGISTERED IN TRINIDAD AND TOBAGO BEFORE THE DATE ON WHICH THESE REGULATIONS COME
-INTO OPERATION
-39. Interpretation. 40. Application. 41. Exemptions. 42. Duration of exemption.
-FIRST SCHEDULE. SECOND SCHEDULE. THIRD SCHEDULE. FOURTH SCHEDULE. FIFTH SCHEDULE. SIXTH SCHEDULE.
-[Subsidiary]
-SHIPPING (CREW ACCOMMODATION)
+CONTINUOUS SYNOPSIS RECORD
+37. Continuous Synopsis Record. 38. Transfer of flag by ship. 39. Offences and penalties. 40. Offences and penalty re master.
+PART III
+MISCELLANEOUS
+41. Fees. 42. Offences by bodies corporate.
+SCHEDULE. SHIPPING (SHIP AND PORT FACILITY SECURITY)
 REGULATIONS
-made under section 147
-- Margin: 94/1996.
+made under section 406(a)
+PRELIMINARY
+- Margin: 131/2004.

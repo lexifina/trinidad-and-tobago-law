@@ -12,8 +12,8 @@ requires a high standard of health and continuing fitness;
 inadequate, as few ships carry medical practitioners and medical supplies are limited;
 (iii) that there may be a delay before full medical treatment
 is available;
-(iv) the possible difficulty of providing or replacing required
-medication;
+(iv) the possible difficulty of providing or replacing
+required medication;
 (v) the confined nature of life on board a ship and the ability
 of a seafarer to live and work in a closed community;
 (vi) that the illness of a seafarer may place a burden on others
@@ -23,14 +23,14 @@ emergency drill, which may involve strenuous activity in adverse conditions.
 (2) An approved medical practitioner, before issuing a medical fitness certificate, shall be satisfied that the seafarer-
 (a) does not suffer from a disease, defect or condition which may
 be aggravated by working at sea or represent an unacceptable risk to the health of the seafarer, other seafarers or the safety of the ship; and
-(b) is not pursuing a course of treatment which may cause adverse
-side effects at sea. [Subsidiary] Shipping (Medical Examination) Regulations
+(b) is not pursuing a course of treatment which may cause
+adverse side effects at sea. [Subsidiary] Shipping (Medical Examination) Regulations
 (3) A seafarer shall not be allowed to serve at sea where he suffers
 from a condition which-
 (a) precludes air travel, including pneumothorax and a condition
 which predisposes to barotrauma; or
-(b) carries the possibility of serious exacerbation requiring expert
-treatment.
+(b) carries the possibility of serious exacerbation requiring
+expert treatment.
 (4) Where medication is acceptable for a seafarer, the seafarer shall,
 with the agreement of the master, arrange for a reserve stock of the prescribed medication to be held in a safe place.
 (5) As a general rule, a seafarer shall not be allowed to serve at sea
@@ -41,8 +41,8 @@ approved medical practitioner may assess the seafarer as fit and shall classify 
 (b) category A(T) where the seafarer is considered fit for all
 shipping trades, geographical areas, types of ship or job but medical surveillance is required at intervals; and
 (c) category B for restricted service at sea.
-(2) Where a seafarer does not satisfy the medical and visual standards,
-the approved medical practitioner shall assess the seafarer as not fit and classify him as-
+(2) Where a seafarer does not satisfy the medical and visual
+standards, the approved medical practitioner shall assess the seafarer as not fit and classify him as-
 (a) category C for a temporary restriction from service at sea;
 (b) category D for an indefinite restriction from service at sea; and
 (c) category E for permanent restriction from service at sea.
@@ -54,7 +54,7 @@ weeks; and
 (b) category D, his application may be reviewed after one month.
 (5) The employer of a seafarer, or the person authorised by the
 employer to act on his behalf, shall ensure that the category recommended by the approved medical practitioner is taken fully into account when the engagement or the continued employment of a seafarer is under consideration.
-Shipping (Medical Examination) Regulations [Subsidiary]
+[Subsidiary] Shipping (Medical Examination) Regulations
 3. (1) Where a seafarer has been classified as category B, the approved medical practitioner shall clearly state on the medical fitness certificate, the type of restriction and the period of time during which it shall be operative.
 (2) Where a seafarer has been assessed as fit but requires medical treatment or surveillance at frequent intervals, the approved medical practitioner may classify the seafarer as category B and recommend that his service be restricted to ferry and coastal work.
 4. (1) An approved medical practitioner shall, where possible, make full use of categories B, C and D before classifying a serving seafarer as category E.
@@ -81,10 +81,10 @@ category E.
 (a) is acutely infected shall be classified as category C;
 (b) is infected and undergoing treatment shall be classified as
 category C;
-(c) is under medical surveillance after undergoing treatment shall
-generally be regarded as fit for unrestricted service unless facilities for surveillance are inadequate, in which case, restricted service may be imposed; and
-(d) receives treatment shall produce evidence of a satisfactory test
-of cure.
+(c) is under medical surveillance after undergoing treatment
+shall generally be regarded as fit for unrestricted service unless facilities for surveillance are inadequate, in which case, restricted service may be imposed; and
+(d) receives treatment shall produce evidence of a satisfactory
+test of cure.
 9. (1) A seafarer who is infected with the Human Immune Virus (HIV),
 shall be classified as category A(T).
 (2) A seafarer who has confirmed Acquired Immune Deficiency
@@ -101,7 +101,7 @@ within five years of completion of treatment, be classified as category A.
 who suffers from-
 (a) thyroid disease, shall be classified as category C for
 investigation and subsequently category A, A(T), B or C on assessment;
-Shipping (Medical Examination) Regulations [Subsidiary]
+[Subsidiary] Shipping (Medical Examination) Regulations
 (b) an endocrine disease other than thyroid disease, shall be
 classified as category C for investigation upon which assessment will depend;
 (c) diabetes mellitus, and-
@@ -125,14 +125,14 @@ category E; and
 other existing risk factors for mobility and mortality taken into account before a classification is determined.
 12. In a case of a disease of the blood or a blood forming organ, a seafarer who suffers from-
 (a) a disease of the haemopoetic system, shall not be allowed sea
-service; and
-(b) unexplained or symptomatic anaemia, shall be classified as [Subsidiary] Shipping (Medical Examination) Regulations
+service; and [Subsidiary] Shipping (Medical Examination) Regulations
+(b) unexplained or symptomatic anaemia, shall be classified as
 category C and subsequently as category A, A(T), B or E on assessment.
 13. In a case of mental disorder, a seafarer who-
-(a) suffers from acute psychosis whether organic, schizophrenic,
-manic depressive or any other psychosis listed in the International Classification of Diseases, shall be classified as category E;
-(b) suffers from persistent abuse of alcohol that affects his health
-by causing physical or behavioural disorder shall be classified as category E;
+(a) suffers from acute psychosis whether organic,
+schizophrenic, manic depressive or any other psychosis listed in the International Classification of Diseases, shall be classified as category E;
+(b) suffers from persistent abuse of alcohol that affects his
+health by causing physical or behavioural disorder shall be classified as category E;
 (c) has a history of abuse of drugs or substances within the last
 five years, shall be classified as category E;
 (d) is dependent on a dangerous drug shall be classified as
@@ -147,7 +147,7 @@ seafarer who has a condition causing defect of muscular power, balance, mobility
 years shall be classified as category E;
 (c) is a serving seafarer and suffers a single seizure shall be
 classified as category C for investigation and then, providing that the post medical history is clear and investigation has shown no abnormality, re-entry into sea service may be considered after one year without a seizure without treatment, or after one year without a seizure following the cessation of treatment;
-Shipping (Medical Examination) Regulations [Subsidiary]
+[Subsidiary] Shipping (Medical Examination) Regulations
 (d) who is a serving seafarer and has had cranial surgery or
 significant traumatic brain damage shall be classified as category D for twelve months and subsequently as category A, B or E on assessment;
 (e) suffers from slight infrequent attacks of migraine and who
@@ -163,10 +163,10 @@ or requiring surgery shall be classified as category E;
 satisfactorily treated aterial septal defect may be accepted for sea service;
 (c) suffers from hypertension shall be classified as category C
 for investigation;
-(d) is a serving seafarer and suffers from hypertension and whose
-blood pressure can be maintained below 170/100 mm by dietary control shall be classified as category A(T) for annual assessment;
-(e) is a serving seafarer and suffers from hypertension and whose
-blood pressure can be maintained below 170/100 mm by anti-hypertension therapy without significant side effects shall be classified as category A(T) to allow medical surveillance and to ensure that arrangements have been made for continuation of treatment; [Subsidiary] Shipping (Medical Examination) Regulations
+(d) is a serving seafarer and suffers from hypertension and
+whose blood pressure can be maintained below 170/100 mm by dietary control shall be classified as category A(T) for annual assessment;
+(e) is a serving seafarer and suffers from hypertension and
+whose blood pressure can be maintained below 170/100 mm by anti-hypertension therapy without significant side effects shall be classified as category A(T) to allow medical surveillance and to ensure that arrangements have been made for continuation of treatment; [Subsidiary] Shipping (Medical Examination) Regulations
 (f) suffers from hypertension in circumstances other than those
 specified in paragraphs (d) and (e) shall be classified as category E;
 (g) has a history of coronary thrombosis myocardial infraction
@@ -178,8 +178,8 @@ rhythm or disorder of conduction shall be classified as category E;
 ischaemic attacks shall be classified as category E;
 (k) who suffers from general cerebral arteriosclerosis including
 dementia and senility shall be classified as category E;
-(l) has a history of intermittent claudication including a case where
-vascular surgery was required shall be classified as category E;
+(l) has a history of intermittent claudication including a case
+where vascular surgery was required shall be classified as category E;
 (m) has a slight or moderate degree of varicose veins without
 symptoms, or oedema shall be classified as category A, while a seafarer who has symptoms shall be classified as category C for treatment;
 (n) has had an operation for varicose veins and the disease recurs
@@ -194,27 +194,27 @@ thrombophlebitis shall be classified as category E;
 symptoms shall be classified as category A, while other cases shall be classified as category C until satisfactorily treated; and
 (s) has varicocoele without symptoms shall be classified as
 category A, while a seafarer who has symptoms shall be classified as category D for a surgical opinion.
-Shipping (Medical Examination) Regulations [Subsidiary]
+[Subsidiary] Shipping (Medical Examination) Regulations
 16. (1) The respiratory system of a seafarer shall generally be free from acute or chronic disease causing significant disability.
 (2) A seafarer who-
 (a) suffers from acute sinusitis shall be classified as category C
 until it is resolved;
 (b) suffers from chronic sinusitis that is causing disablility with
 frequent relapses despite treatment shall be classified as category E;
-(c) has nasal obstruction, including septal abnormality or polypus
-shall be classified as category C until satisfactorily treated;
+(c) has nasal obstruction, including septal abnormality or
+polypus shall be classified as category C until satisfactorily treated;
 (d) has a history of frequent sore throats or unhealthy tonsils
 with adenitis shall be classified as category C until satisfactorily treated;
 (e) has a mild uncomplicated case of bronchitis or emphysema
 and has a good tolerance for exercise may be classified as category A, while a seafarer with recurring chronic bronchitis or emphysema causing significant disability in relation to the job shall be classified as category E;
 (f) is suspected of having bronchial asthma shall be classified as
 category C for investigation;
-(g) has confirmed bronchial asthma shall be classified as category E,
-unless the seafarer has-
+(g) has confirmed bronchial asthma shall be classified as
+category E, unless the seafarer has-
 (i) a history of bronchial asthma which was resolved
 without recurrence, before the age of sixteen years, in which case he shall be classified as category A(T); and
-(ii) well controlled asthma treated with inhaled medication
-only and without a history of exacerbation requiring hospital admission or oral steroids, in which case he shall be classified as category A(T);
+(ii) well controlled asthma treated with inhaled
+medication only and without a history of exacerbation requiring hospital admission or oral steroids, in which case he shall be classified as category A(T);
 (h) suffers from occupational asthma shall be classified as
 category B to avoid the allergen;
 (i) suffers from pneumothorax shall be classified as category D
@@ -236,33 +236,33 @@ service until-
 at least three months;
 (c) is referred to in paragraph (b), who has been allowed sea
 service, shall be classified as category A(T);
-(d) suffers from gastrointestinal bleeding, perforation or recurrent
-peptic ulceration, despite maintenance H2 blocker treatment, or an unsatisfactory operation result, shall be classified as category E;
-(e) suffers from recurrent attacks of appendicitis shall be classified
-as category C pending surgical removal;
-(f) has non-infective enteritis and colitis that is severely recurrent
-or requires a special diet shall be classified as category E; and
+(d) suffers from gastrointestinal bleeding, perforation or
+recurrent peptic ulceration, despite maintenance H2 blocker treatment, or an unsatisfactory operation result, shall be classified as category E;
+(e) suffers from recurrent attacks of appendicitis shall be
+classified as category C pending surgical removal;
+(f) has non-infective enteritis and colitis that is severely
+recurrent or requires a special diet shall be classified as category E; and
 (g) has intestinal stoma shall be classified as category E.
 (4) In a case of a disease of the liver or pancreas, a seafarer who has-
 (a) cirrhosis of the liver shall be classified as category C for
 investigation, but where the condition is serious or progressive or where complications such as oesophageal varices or ascites are present, the seafarer shall be classified as category E;
-(b) had a complete surgical cure from biliary tract diseases shall
-be classified as category A or category A(T) on assessment; and
+(b) had a complete surgical cure from biliary tract diseases shall be
+classified as category A or category A(T) on assessment; and
 (c) recurrent pancreatitis or a case in which alcohol is an
 aetiological factor, shall be classified as category E.
-Shipping (Medical Examination) Regulations [Subsidiary]
+[Subsidiary] Shipping (Medical Examination) Regulations
 18. (1) A seafarer who has-
-(a) proteinuria, glycosuria or other urinary abnormalities shall be
-referred for investigation;
-(b) acute nephritis shall be classified as category C until resolved;
-and
+(a) proteinuria, glycosuria or other urinary abnormalities shall
+be referred for investigation;
+(b) acute nephritis shall be classified as category C until
+resolved; and
 (c) subacute, chronic nephritis or nephrosis shall be classified as
 category C for investigation and subsequently as category B or category E on assessment.
 (2) In a case of the urinary tract, a seafarer who-
-(a) has an acute urinary infection shall be classified as category C
-until satisfactorily treated, while a recurrent case shall be classified as category B, unless a full investigation has proved satisfactorily;
-(b) has renal or ureteric calculus shall be classified as category C
-for investigation and any necessary treatment;
+(a) has an acute urinary infection shall be classified as category
+C until satisfactorily treated, while a recurrent case shall be classified as category B, unless a full investigation has proved satisfactorily;
+(b) has renal or ureteric calculus shall be classified as category
+C for investigation and any necessary treatment;
 (c) suffers an isolated attack of renal colic with passage of small
 calculus shall be classified as category A after a period of observation, provided that his urine and renal function remain normal and there is no clinical and radiological evidence of other calculi;
 (d) suffers from recurrent formation of stone shall be classified
@@ -292,15 +292,15 @@ week may be permitted sea service on a short haul trip or on a long haul trip on
 shall not be permitted sea service until at least six weeks after delivery.
 (5) A seafarer diagnosed as having an abnormal pregnancy shall be
 classified as category D.
-20. (1) A person who has a focus of skin sepsis shall not be employed as
-a member of a catering staff.
+20. (1) A person who has a focus of skin sepsis shall not be employed
+as a member of a catering staff.
 (2) A seafarer whose skin is liable to be aggravated by heat, sea air,
 oil, caustics, detergents or specific occupational allergens shall be classified as category A(T), B, C, D or E on assessment.
 (3) A seafarer who has-
 (a) an infection of the skin shall be classified as category C until
 satisfactorily treated; and
-(b) acne, shall generally be classified as category A, but a seafarer
-who has severe pustular cystic acne shall be classified as category E.
+(b) acne, shall generally be classified as category A, but a
+seafarer who has severe pustular cystic acne shall be classified as category E.
 (4) In a case of another inflammatory skin condition, a seafarer
 who has-
 (a) atopic dermatitis and related conditions shall be classified as
@@ -309,7 +309,7 @@ category C until satisfactorily treated;
 referred for a dermatological opinion;
 (c) acute eczema shall be classified as category C and shall not
 resume sea service until his skin is healthy;
-Shipping (Medical Examination) Regulations [Subsidiary]
+[Subsidiary] Shipping (Medical Examination) Regulations
 (d) recurrent eczema of more than minimal extent shall be
 classified as category E; and
 (e) psoriasis shall generally be classified as category A but a
@@ -329,8 +329,8 @@ repaired; and
 the disability.
 22. A seafarer who suffers from a speech defect that is likely to interfere with communication shall be classified as category E.
 23. (1) A seafarer who suffers from-
-(a) acute and chronic otitis externa shall be classified as category C
-and shall be completely healed before returning to sea;
+(a) acute and chronic otitis externa shall be classified as category
+C and shall be completely healed before returning to sea;
 (b) acute otitis media shall be classified as category C until
 satisfactorily treated; and
 (c) chronic otitis media shall be classified as category C but may
@@ -344,8 +344,8 @@ loss of hearing shall be assessed of this condition in relation to the job; and
 acuity shall be referred for full investigation by a surgeon of the ear, nose and throat.
 (3) A seafarer employed in the catering department who uses a
 satisfactory hearing aid may be allowed sea service where not hearing an instruction would not result in danger to the seafarer or others but the hearing aid shall be sufficiently effective to allow communication at normal conversational tones.
-(4) A seafarer including an electrician and a radio officer who requires
-the use of a hearing aid shall not be permitted to work in, or be associated with, the deck or engine room departments.
+(4) A seafarer including an electrician and a radio officer who
+requires the use of a hearing aid shall not be permitted to work in, or be associated with, the deck or engine room departments.
 PART C
 Visual Standards
 24. A person shall not be accepted for training or service at sea where
@@ -360,7 +360,7 @@ fixation where hemianopic or quadrantopic is present.
 Table 1.
 26. (1) Notwithstanding clause 25-
 (a) a monocular serving seafarer; or
-Shipping (Medical Examination) Regulations [Subsidiary]
+[Subsidiary] Shipping (Medical Examination) Regulations
 (b) a seafarer who becomes monocular during service at sea with no
 evidence of progressive disease in the remaining eye and who satisfies the standards for monocular vision set out in Table 2, may be allowed to continue service at sea.
 (2) A seafarer shall be allowed a period of adaptation after becoming monocular, to enable him to descend and ascend stairs rapidly and safely.
@@ -384,20 +384,17 @@ perform watchkeeping duties or to operate lifting plant, 6/18 for the better eye
 (c) in the case of engineers, 6/60 for the other eye for aided
 visual acuity.
 TABLE 1
-Near Visual Field Colour Basic Visual Category Higher Visual
-Acuity of sea- Acuity
-farer Standard- Standard-
-unaided aided if
+Near Visual Field Colour Category Basic Visual Higher Visual
+Acuity Acuity of sea- Standard- Standard- farer unaided aided if
 necessary
-Deck or Better Other Better Other N8 Ishihara or No pathological dual eye eye eye eye Lantern 2 field defect career 6/60 6/60 6/6 6/12 miles
-- 6/18 6/18 N8 Sufficient to Engineer/ Ishihara or 6/60
-undertake Radio Farnsworth duties D15 or efficiently City
-University
+Other Better Other N8 Ishihara or Deck or Better No pathological eye eye eye Lantern 2 dual eye field defect 6/60 6/6 6/12 miles career 6/60
+- 6/18 6/18 N8 Ishihara or Sufficient to Engineer/ 6/60
+Farnsworth undertake Radio D15 or duties City efficiently University
 Others Sufficient to undertake duties efficiently
-Shipping (Medical Examination) Regulations [Subsidiary]
+[Subsidiary] Shipping (Medical Examination) Regulations
 TABLE 2
-Near Visual Field Colour Category Basic Visual Higher Visual of sea- Acuity Acuity farer Standard- Standard-
-unaided aided if
+Near Visual Field Colour Category Basic Visual Higher Visual
+Acuity Acuity of sea- Standard- Standard- farer unaided aided if
 necessary
 - - Deck 6/60 6/6 N8 Ishihara or No pathological
 Lantern 2 field defect miles
@@ -415,7 +412,7 @@ Others Sufficient to undertake duties efficiently [Subsidiary] Shipping (Medical
 - Margin: Sexually transmitted diseases.
 - Margin: Human immune virus.
 - Margin: Malignant neoplasms.
-- Margin: Endocrine and metabolic disease.
+- Margin: Endocrine and metabolic diseases.
 - Margin: Diseases of the blood or blood forming organs.
 - Margin: Mental disorders.
 - Margin: Diseases of the nervous system or sensory organs.

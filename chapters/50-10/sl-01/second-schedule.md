@@ -1,23 +1,20 @@
 # SECOND SCHEDULE
 FEES
-Service Fee in TT$ First Registration Registration anew Re-registration ... See tonnage rates below
+Service Fee in TT$ First Registration Registration anew Re-registration... See tonnage rates below
 (Gross tons) (Rate per ton)
 0-100 ... 3.00
 101-500 ... 2.50
 501-1600 ... 2.00
-1601-5000... 1.50
+1601-5000 ... 1.50
 5001 and over ... 1.00
 minimum fee of $150.00
 10% of the fees paid on first registration is payable annually in respect of each registered ship.
-Issue of a Provisional Certificate of Registry … … 100.00
+Issue of a Provisional Certificate of Registry … … … 100.00
 Issue of a Temporary Pass ... 150.00
-Change of Name of a Ship including consequential amendment
-to the ship's statutory safety certificates … … 400.00
-Registration of alterations (other than Registration anew)
-including consequential amendments to the Ship's Statutory Safety Certificate... 350.00
+Change of Name of a Ship including consequential amendment to the ship's statutory safety certificates … … … 400.00
+Registration of alterations (other than Registration anew) including consequential amendments to the Ship's Statutory Safety Certificate ... 350.00
 Issue of replacement or duplicate Certificate of Registry 75.00
-Change of Port of Registry of a ship including consequential
-amendments to the ship's Statutory Safety Certificates… 350.00
+Change of Port of Registry of a ship including consequential amendments to the ship's Statutory Safety Certificates … 350.00
 The registration of-
 (a) the transfer of ownership or a share thereof
 by bill of sale or transmission
@@ -32,11 +29,11 @@ Registration of Ships under Construction
 501-1600 ... 1.00
 1601-5000 ... 0.75
 5001 and over... 0.50 minimum fee of $75.00
-Registration of change of name of Company … … 50.00
+Registration of change of name of Company … … … 50.00
 Endorsement of change of Master ... 30.00
 Service Fee in TT$
 Each inspection of a Register Book ... 20.00
-Supplying a certified copy of entries in a Register … 60.00
+Supplying a certified copy of entries in a Register … … 60.00
 Supplying a copy of a document relating to the registration
 of a ship ... 25.00
 Note 1
@@ -59,12 +56,18 @@ PART II
 APPLICATION, ASCERTAINMENT OF TONNAGE AND
 CERTIFICATION FOR NEW SHIPS AND CERTAIN EXISTING SHIPS OF TWENTY-FOUR METRES IN
 LENGTH AND OVER
-3. Application of Part II. 4. Method of measurement. 5. Calculation of volumes. 6. Gross tonnage. 7. Net tonnage. 8. Miscellaneous tonnages. 9. Issue of certificates.
+3. Application of Part II.
+4. Method of measurement.
+5. Calculation of volumes.
+6. Gross tonnage.
+7. Net tonnage.
+8. Miscellaneous tonnages.
+9. Issue of certificates.
 10. Cancellation of certificates. 11. Change of net tonnage necessitating issue of certificate.
 PART III
 APPLICATION, ASCERTAINMENT OF TONNAGE AND
 CERTIFICATION FOR ALL SHIPS OF LESS THAN
 TWENTY-FOUR METRES IN LENGTH
 INCLUDING PLEASURE CRAFT
-12. Application of Part III.
-Shipping (Tonnage) Regulations [Subsidiary]
+12. Application of Part III. [Subsidiary]
+Shipping (Tonnage) Regulations
