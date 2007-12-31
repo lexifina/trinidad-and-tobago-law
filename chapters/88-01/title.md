@@ -6,19 +6,16 @@ Act
 59/1978 18 of 1987 60/1978 21 of 1990 61/1978 *5 of 1994
 *See Note on page 2
 Index of Subsidiary Legislation
-Page *Industrial Court (Pensions and Gratuities of Members) Regulations
-(GN 70/1976) ... 80 Registration Recognition and Certification Board Rules (GN 133/1972) … 86 Industrial Relations (Certification of Recognition) Regulations (GN 123/1972) 98 Delegation of Functions (Industrial Relations) Order (LN 203/1996) … 109 Industrial Relations (Agency Shop Order) (Authorisation Form)
-Regulations (LN 77/1988) ... 110
+Page *Industrial Court (Pensions and Gratuities of Members) Regulations (GN 70/1976) 80 Registration Recognition and Certification Board Rules (GN 133/1972) … 86 Industrial Relations (Certification of Recognition) Regulations (GN 123/1972) 98 Delegation of Functions (Industrial Relations) Order (LN 203/1996) … 109 Delegation of Functions (Industrial Relations) Order (LN 255/2007) … 110 Industrial Relations (Agency Shop Order) (Authorisation Form) Regulations (LN 77/1988) ... 111
 (*See Act No. 18 of 1983 and Act No. 19 of 1983 for the payment of Pension and Gratuity for former members of the Industrial Court).
 Note on Act No. 5 of 1994
 (Regional Health Authorities Act Ch. 29:05)
 Section 32 of Act No. 5 of 1994 provides as follows:
-"32. Any agreement applicable to former officers in the public service or a
-statutory authority who have transferred to the service of an Authority shall be valid and binding on the relevant representative association and the Authority shall be deemed to be registered under the Industrial Relations Act.".
+"32. Any agreement applicable to former officers in the public service or a statutory
+authority who have transferred to the service of an Authority shall be valid and binding on the relevant representative association and the Authority shall be deemed to be registered under the Industrial Relations Act.".
 CHAPTER 88:01
 INDUSTRIAL RELATIONS ACT
-ARRANGEMENT OF SECTIONS
-SECTION
+ARRANGEMENT OF SECTIONS SECTION
 1. Short title. Act at variance with the Constitution.
 PRELIMINARY
 2. Interpretation. 3. Delegation by Minister.
@@ -53,7 +50,9 @@ or support industrial action.
 PART VI
 MISCELLANEOUS AND GENERAL
 AGENCY SHOP ORDERS
-71. Rights of workers in respect of trade union membership and activities. 72. Definitions relating to agency shop orders. 73. Agency shop orders. 74. Effect of agency shop order. 75. Additional provisions as to agency shop orders. 76. Applications in restraint of agency shop orders and general
+71. Rights of workers in respect of trade union membership and
+activities.
+72. Definitions relating to agency shop orders. 73. Agency shop orders. 74. Effect of agency shop order. 75. Additional provisions as to agency shop orders. 76. Applications in restraint of agency shop orders and general
 restrictions thereon.
 MISCELLANEOUS
 77. Fraudulent medical certificates. 78. Prosecutions with consent of Director of Public Prosecutions. 79. Regulations. 80. Establishment of Industrial Relations Advisory Committee. 81. Functions of Advisory Committee. 82. Economic and Industrial Research. 83. Annual reports. 84. Industrial relations offences-procedure.
@@ -70,5 +69,5 @@ WHEREAS it is enacted inter alia by section 13(1) of the Constitution that an Ac
 And whereas it is provided by section 13(2) of the Constitution that an Act of Parliament to which that section applies is one the Bill for which has been passed by both Houses of Parliament and at the final vote thereon in each House has been supported by the votes of not less than three-fifths of all the members of that House:
 And whereas it is necessary and expedient that the provisions of this Act shall have effect notwithstanding sections 4 and 5 of the Constitution:
 - Margin: 23 of 1972.
-- Margin: Commencement. 119/1972.
+- Margin: Commencement 119/1972.
 - Margin: Preamble.
