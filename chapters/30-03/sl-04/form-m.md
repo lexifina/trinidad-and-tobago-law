@@ -1,0 +1,36 @@
+# FORM M
+REPUBLIC OF TRINIDAD AND TOBAGO
+PESTICIDES AND TOXIC CHEMICALS ACT, CH. 30:03
+Toxic Chemicals Regulations, 2007
+APPLICATION FOR EXPORT OF TOXIC CHEMICAL
+1. Name of applicant ... 2. Address of applicant ... 3. Importer in country of destination: ... 4. Date of dispatch envisaged: ... 5. Other operator/agent ... 6. Ultimate consignee: ... 7. Nature of business: ...
+Exporter Wholesaler Research Other
+I/We ... hereby apply to the Registrar for a licence to export the following toxic chemicals:
+...
+(Full name of toxic chemical to be exported)
+...
+(Number of Units) (Weight/Volume)
+...
+(HS Number) (% mixture)
+...
+(Invoice Number)
+8. The receipt for the prescribed fee of $ ... is submitted with this
+application.
+9. Declaration by applicant:
+I/We ... declare that all the particulars provided in this application are correctly and fully stated. Name: ...
+(Applicant)
+Representing: ... Signature: ... Date: ...
+[Subsidiary]
+Toxic Chemicals Regulations
+10. (For completion by Customs where export declaration is lodged)
+Number of Customs export ... Signature of Officer ...
+(Stamp) 11. Registrar, Pesticides and Toxic Chemicals.
+Signature ...
+(Registrar)
+Date ...
+(Stamp) 12. Confirmation of exit from Trinidad and Tobago.
+(for completion by Customs at point of exit)
+Date of exit: ... Signature of Officer: ... Date: ...
+(Stamp) [Subsidiary]
+Toxic Chemicals Regulations
+- Margin: (Regulation 43).

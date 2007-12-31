@@ -1,0 +1,5 @@
+# SCHEDULE III
+HIGHLY TOXIC CHEMICALS
+1. Arsenic and its compounds 2. Asbestos and related compounds 3. Benzidine 4. Benzoic acid, 3-amino-diazotized 5. Beryllium and its compounds 6. Bis (2-chloroisopropyl) ether 7. Bromine 8. Chromium and its compounds 9. Crocidolite 10. Cyanides 11. Dianisidine 12. Dimethyl sulphate 13. "Dioxin" (chlorinated dibenzodioxins, chlorinated dibenzofurans) 14. Fluorine 15. Hydrocyanic acid 16. Hydrofluoric acid 17. Hydrogen sulphide 18. Lead Arsenate 19. Methyl isocyanate 20. 1-Napthylamine 21. 2-Napthalamine 22. 2,4-Pentanedione 23. Organic phosphates (other than pesticides) 24. p-Phenylenediamine 25. Phosphine 26. Phosphorus and its compounds 27. Polybrominated biphenyls (PBBs) 28. Polychlorinated biphenyls (PCBs) 29. Polychlorinated terphenyls (PCTs) 30. Plutonium and its compounds 31. Tetra-ethyl lead 32. Tetra-methyl lead 33. Thallium and its compounds 34. Trifluoroethane 35. Tris (2,3 dibromopropyl) phosphate 36. o-Toluidine [Subsidiary]
+Toxic Chemicals Regulations
+- Margin: (Regulations 2, 4, 5, 26, 27, 36, 43, 53, 54 and 60).
