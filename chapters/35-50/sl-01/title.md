@@ -14,8 +14,7 @@ Equipment Supervisor.
 10. Waiver of qualifying period. 11. Age limit for candidate. 12. Employment of pensioners and others on contract. 13. Age limit for Service. 14. Examinations Board. 15. Medical examination.
 PART II
 PROBATIONARY PERIOD
-16. Chief Fire Officer to release transferred officer. 17. Probationary period.
-Fire Service (Terms and Conditions of Employment) Regulations [Subsidiary]
+16. Chief Fire Officer to release transferred officer. 17. Probationary period. [Subsidiary] Fire Service (Terms and Conditions of Employment) Regulations
 ARRANGEMENT OF REGULATIONS-Continued
 REGULATION
 18. Variation of probationary period. 19. Principles to be observed during probationary period. 20. Probationary reports. 21. Officer to make representations on adverse markings in
@@ -30,7 +29,9 @@ held acting appointment.
 33. Salary on reassignment of office. 34. Salary on reversion to substantive office. 35. Incremental date. 36. Incremental date on transfer. 37. Payment of increment. 38. Payment of increment where officer at maximum of salary scale. 39. Performance appraisal reports. 40. Conduct of performance appraisal. 41. Deferral.
 PART IV
 SECONDMENT
-42. Secondment. Fire Service (Terms and Conditions of Employment) Regulations [Subsidiary]
+42. Secondment.
+[Subsidiary]
+Fire Service (Terms and Conditions of Employment) Regulations
 REGULATION
 PART V
 PAYMENT OF PENSION
@@ -48,10 +49,12 @@ RECORDS OF PERSONNEL
 CHAPTER V
 LEAVE AND RELATED BENEFITS
 57. Restrictions on grant of leave. 58. Limit of officers on annual vacation leave. 59. Record of officers on annual vacation leave. 60. Exclusion of Saturdays, Sundays and public holidays from annual
-vacation leave.
-Fire Service (Terms and Conditions of Employment) Regulations [Subsidiary]
-ARRANGEMENT OF REGULATIONS-Continued REGULATION
-61. Eligibility for annual vacation leave. 62. Annual vacation leave. 63. Minimum annual vacation leave to be taken. 64. Application for annual vacation leave. 65. Grant of annual vacation leave. 66. Deferral of annual vacation leave. 67. No forfeiture of annual vacation leave. 68. Accumulation of annual vacation leave. 69. Notification of return from leave abroad. 70. Casual absence from duty. 71. Absences from duty may be treated as leave without pay. 72. Bereavement leave. 73. Bereavement leave not to affect other leave. 74. Scholarship and study leave. 75. Attending Court while on leave. 76. Duty leave and Special leave. 77. Special duty leave. 78. Leave-industrial relations matters. 79. Officer to undergo medical examination as required. 80. Medical Board. 81. Ordinary sick leave. 82. Extension of sick leave. 83. Sick leave abroad. 84. Medical record to be kept. 85. Absence through illness to be reported. 86. Maternity leave. 87. Other leave to be availed of. 88. Light duty during pregnancy. 89. Paternity leave. 90. Leave for work-related injury. 91. Medical benefits. Fire Service (Terms and Conditions of Employment) Regulations [Subsidiary]
+vacation leave. [Subsidiary] Fire Service (Terms and Conditions of Employment) Regulations
+ARRANGEMENT OF REGULATIONS-Continued
+REGULATION
+61. Eligibility for annual vacation leave. 62. Annual vacation leave. 63. Minimum annual vacation leave to be taken. 64. Application for annual vacation leave. 65. Grant of annual vacation leave. 66. Deferral of annual vacation leave. 67. No forfeiture of annual vacation leave. 68. Accumulation of annual vacation leave. 69. Notification of return from leave abroad. 70. Casual absence from duty. 71. Absences from duty may be treated as leave without pay. 72. Bereavement leave. 73. Bereavement leave not to affect other leave. 74. Scholarship and study leave. 75. Attending Court while on leave. 76. Duty leave and Special leave. 77. Special duty leave. 78. Leave-industrial relations matters. 79. Officer to undergo medical examination as required. 80. Medical Board. 81. Ordinary sick leave. 82. Extension of sick leave. 83. Sick leave abroad. 84. Medical record to be kept. 85. Absence through illness to be reported. 86. Maternity leave. 87. Other leave to be availed of. 88. Light duty during pregnancy. 89. Paternity leave. 90. Leave for work-related injury. 91. Medical benefits.
+[Subsidiary]
+Fire Service (Terms and Conditions of Employment) Regulations
 REGULATION
 CHAPTER VI
 BUILDINGS, STORES, QUARTERS, ETC.
@@ -59,13 +62,14 @@ BUILDINGS, STORES, QUARTERS, ETC.
 CHAPTER VII CONDUCT
 100. General conduct. 101. Duties of an officer. 102. Saluting. 103. Absence to be reported. 104. Activities outside the Service. 105. Officer not to call public meeting or participate in certain
 public meetings.
-106. Officer not to publish information. 107. Officer not to allow interview on questions of public policy. 108. Officer not to publish comment on national or local matter. 109. Officer not to edit or manage newspaper. 110. Rules relating to broadcast talks. 111. Indebtedness. 112. Bankruptcy. 113. Officer not to solicit intervention. 114. Gifts, rewards. 115. Officer not to accept gifts. 116. Exceptions. 117. Officer to attend Medical Board. 118. Appearance and turn out. 119. Other acts of misconduct. Fire Service (Terms and Conditions of Employment) Regulations [Subsidiary]
-ARRANGEMENT OF REGULATIONS-Continued REGULATION
+106. Officer not to publish information. 107. Officer not to allow interview on questions of public policy. 108. Officer not to publish comment on national or local matter. 109. Officer not to edit or manage newspaper. 110. Rules relating to broadcast talks. 111. Indebtedness. 112. Bankruptcy. 113. Officer not to solicit intervention. 114. Gifts, rewards. 115. Officer not to accept gifts. 116. Exceptions. 117. Officer to attend Medical Board. 118. Appearance and turn out. 119. Other acts of misconduct. [Subsidiary] Fire Service (Terms and Conditions of Employment) Regulations
+ARRANGEMENT OF REGULATIONS-Continued
+REGULATION
 CHAPTER VIII
 MISCELLANEOUS
 120. Circulars, Orders and Notices. 121. Corrections. 122. Circulation of Orders. 123. Forfeiture of benefits on dismissal. 124. Remuneration on suspension. 125. Channel of communication. 126. Complaints. 127. Permanent Secretary or Chief Fire Officer to facilitate request
 of Commission.
-128. Acceptance of foreign currency. 129. Payment from public funds. 130. Authorisation of deduction from pay. 131. Legal proceedings. 132. Determined form. 133. Availability of Regulations. 134. Act deemed to be done under these Regulations. 135. Chief Fire Officer to approve medical practitioner. 136. Application of regulations to Chief Fire Officer. 137. Revocation of LN No. 75 of 1990.
+128. Acceptance of foreign currency. 129. Payment from public funds. 130. Authorisation of deduction from pay. 131. Legal proceedings. 132. Determined form. 133. Availability of Regulations. 134. Act deemed to be done under these Regulations. 135. Chief Fire Officer to approve medical practitioner. 136. Application of Regulations to Chief Fire Officer. 137. Revocation of LN No. 75 of 1990.
 [Subsidiary]
 FIRE SERVICE (TERMS AND CONDITIONS OF
 EMPLOYMENT) REGULATIONS
