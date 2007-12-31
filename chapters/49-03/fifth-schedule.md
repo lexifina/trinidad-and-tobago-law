@@ -8,35 +8,39 @@ Omnidirectional Radio Range/Distance Measuring Equipment installation situated a
 Installation situated to the West of the Uriah Butler Highway, in the Ward of Cunupia, in the County of Caroni, in the island of Trinidad.
 (d) HF/SSB:10˚ 351 27˝ N lat. 061˚ 201 08˝ W long. High Frequency /single
 Sideband installation situated to the South of the Caroni North Bank Road, in the Ward of Tacarigua, in the County of St. George, in the island of Trinidad.
-(e) VHF/DF:10˚ 351 20˝ N lat. 061˚ 201 50˝ W long. Very High Frequency/
-Direction Finding installation situated to the South of the Golden Grove Road, in the Ward of Tacarigua, in the County of St. George, in the island of Trinidad. PIARCO ACC:10˚ 351 25˝ N lat. 061˚ 201 23˝ W long. Piarco Area Control (f) Centre situated to the west of the Caroni North Bank Road, in the Ward of Tacarigua, in the County of St. George, in the island of Trinidad. Reference points have been defined in accordance with the World Geodetic System (WGS 84).
+(e) VHF/DF:10˚ 351 20˝ N lat. 061˚ 201 50˝ W long. Very High
+Frequency/Direction Finding installation situated to the South of the Golden Grove Road, in the Ward of Tacarigua, in the County of St. George, in the island of Trinidad.
+(f) PIARCO ACC:10˚ 351 25˝ N lat. 061˚ 201 23˝ W long. Piarco Area
+Control Centre situated to the west of the Caroni North Bank Road, in the Ward of Tacarigua, in the County of St. George, in the island of Trinidad. Reference points have been defined in accordance with the World Geodetic System (WGS 84).
 - Margin: Section 43. [17 of 2003].
-- Margin: 100/2004. [301/2004].
-- Margin: Citation.
-- Margin: Interpretation. [301/2004].
-- Margin: Applicability of these Regulations. [301/2004].
+- Margin: 100/2004. [301/2004 273/2004 30/2005 222/2005 185/2006 284/2006 45/2007]. Citation.
+- Margin: Interpretation. [301/2004 185/2006 45/2007].
+- Margin: Sub. Leg.
+- Margin: Applicability of these Regulations. [301/2004 222/2005 45/2007].
+- Margin: 18 of 2004.
+- Margin: Schedule A.
 - Margin: Sub. Leg.
 - Margin: Prohibition on persons performing aviation related functions.
-- Margin: Airman Licence specification. [301/2004].
+- Margin: Airman Licence specification. [301/2004 45/2007].
 - Margin: Schedule 1. Part A.
 - Margin: Display of aviation documents.
 - Margin: Change of name on licence or certificate.
 - Margin: Change of address on licence or certificate.
 - Margin: Replacement of an aviation document.
-- Margin: Falsification, reproduction, or alteration of licence.
-- Margin: Suspension, revocation or limitation of licence, certificate or other aviation document.
-- Margin: Requirements of and effects of surrendered, suspended or revoked aviation document.
+- Margin: Falsification, reproduction or alteration of licence.
+- Margin: Suspension, revocation or limitation of licence, certificate or other aviation document. [185/2006].
+- Margin: Requirements of and effects of surrendered, suspended or revoked aviation document. [185/2006].
 - Margin: Restriction on re-application after revocation.
 - Margin: Re-application after suspension.
 - Margin: Voluntary surrender of aviation document.
 - Margin: Schedule 1. Part B.
-- Margin: Restriction on Performance due to medical deficiencies.
+- Margin: Restriction on Performance due to medical deficiencies. [185/2006].
 - Margin: Drug and alcohol testing and reporting.
 - Margin: Restrictions on deviation from procedures.
-- Margin: Issue of airman licences.
-- Margin: Validation of licences issued by another Contracting State.
+- Margin: Issue of airman licences. [185/2006].
+- Margin: Validation of licence or certificate. [45/2007].
 - Margin: Conversion of foreign licence.
-- Margin: Authority to issue ratings for pilots.
+- Margin: Authority to issue ratings for pilots. [45/2007].
 - Margin: Authority may issue authorisations.
 - Margin: Applicability.
 - Margin: Requirement for Student Pilot Licence.
@@ -50,57 +54,61 @@ Direction Finding installation situated to the South of the Golden Grove Road, i
 - Margin: Schedule 2 Part C.
 - Margin: Private Pilot Licence requirement.
 - Margin: Schedule 2. Part D.
-- Margin: Private Pilot Licence aeronautical knowledge requirements.
+- Margin: Private Pilot Licence aeronautical knowledge requirements. [45/2007].
 - Margin: Schedule 3. Part A.
-- Margin: Private pilot flight instruction requirements.
+- Margin: Private pilot flight instruction requirements. [45/2007].
 - Margin: Private Pilot skill requirement.
+- Margin: [45/2007].
 - Margin: Schedule 3. Part B. Part C.
-- Margin: Private Pilot Licence aeronautical experience requirements for additional ratings.
-- Margin: Schedule 3. Part A.
+- Margin: Private Pilot Licence aeronautical experience requirements for additional ratings. [45/2007].
 - Margin: Schedule 3. Part D.
 - Margin: Conversion of a Private Pilot Licence based on qualifications of another Contracting State.
 - Margin: Issue of Private Pilot Licence.
-- Margin: Private Pilot Licence privileges and limitations.
+- Margin: Private Pilot Licence privileges and limitations. [45/2007].
 - Margin: Limitations of Private Pilot with balloon rating.
 - Margin: General requirements for Commercial Pilot Licence and rating requirements.
 - Margin: Schedule 4. Part A.
 - Margin: Schedule 4. Part B.
 - Margin: Schedule 2. Part D.
-- Margin: Aeronautical knowledge requirements for the issue of a Commercial Pilot Licence. Schedule 4. Part C.
-- Margin: Commercial pilot flight instruction requirements.
+- Margin: Aeronautical knowledge requirements for the issue of a Commercial Pilot Licence. Schedule 4. Part C. [45/2007].
+- Margin: Commercial pilot flight instruction requirements. [45/2007].
 - Margin: Schedule 4. Part D.
+- Margin: Schedule 4. Part E.
 - Margin: Skill test for the issue of a Commercial Pilot Licence.
 - Margin: Schedule 4. Part A. Schedule 4. Part B.
-- Margin: Commercial Pilot Aeronautical Experience requirements. Schedule 4. Part E.
+- Margin: Commercial Pilot Aeronautical Experience requirements. Schedule 4. Part E. [45/2007].
 - Margin: Requirements for Commercial Pilot Licence where applicant holds equivalent licence.
 - Margin: Issue of Commercial Pilot Licence.
 - Margin: Requirements for additional category, class and Type Rating for the holder of a Commercial Pilot Licence.
-- Margin: Commercial Pilot Licence privileges.
+- Margin: Commercial Pilot Licence privileges. [45/2007].
 - Margin: Limitations of Commercial Pilot Licence.
-- Margin: Airline Transport Pilot Licence requirements.
+- Margin: Airline Transport Pilot Licence requirements. [45/2007].
 - Margin: Schedule 2. Part D.
-- Margin: Airline transport pilot aeronautical knowledge requirements.
-- Margin: Schedule 5. Part A.
-- Margin: Airline transport pilot flight skill requirements.
+- Margin: Airline transport pilot aeronautical knowledge requirements. Schedule 5. Part A. [45/2007].
+- Margin: Airline transport pilot flight skill requirements. [45/2007].
 - Margin: Schedule 5. Part B.
-- Margin: Airline transport pilot aeronautical experience for aeroplane category rating.
-- Margin: Airline Transport Pilot Licence aeronautical experience for rotorcraft category and class rating. Schedule 5. Part C.
+- Margin: Airline transport pilot aeronautical experience for aeroplane category rating. [45/2007].
+- Margin: Airline Transport Pilot Licence aeronautical experience for rotorcraft category and class rating. Schedule 5. Part C. [185/2006 45/2007].
 - Margin: Requirements for an Airline Transport Pilot Licence where applicant holds equivalent licence.
 - Margin: Issue and validity of Airline Transport Pilot Licence.
 - Margin: Requirements for additional category, class and Type Rating for holder of an Airline Transport Pilot Licence.
-- Margin: Airline Transport Pilot Licence privileges.
-- Margin: Type Rating requirements.
+- Margin: Airline Transport Pilot Licence privileges. [45/2007].
+- Margin: Requirements for Glider Pilot Licence. [45/2007]. Schedule 6A.
+- Margin: Requirements for Free Balloon Pilot Licence. [45/2007]. Schedule 6B.
+- Margin: Type Rating requirements. [45/2007].
 - Margin: Schedule 6. Part A. Schedule 5. Part B.
 - Margin: Special Pilot Authorisation.
-- Margin: Instrument rating requirements.
+- Margin: Instrument rating requirements. [45/2007].
 - Margin: Schedule 6. Part D.
 - Margin: Schedule 6. Part B.
 - Margin: Schedule 6. Part E.
-- Margin: Schedule 6. Part C. ScHEDUlE 6. PArt D.
+- Margin: Schedule 6. Part C.
+- Margin: Schedule 6. Part E.
 - Margin: Validity and revalidation of Instrument Ratings.
 - Margin: Renewal of expired Instrument Rating.
 - Margin: Limitation on Instrument Rating.
 - Margin: Credits and exemptions applicable to theoretical knowledge for licences.
+- Margin: Privileges of a holder of an instrument rating. [45/2007].
 - Margin: Category Rating requirements.
 - Margin: Additional class rating requirements.
 - Margin: Category II or III Pilot Authorisation requirements.
@@ -112,17 +120,16 @@ Direction Finding installation situated to the South of the Golden Grove Road, i
 - Margin: Schedule 7. Part D.
 - Margin: Schedule 7. Part E.
 - Margin: Schedule 7. Part F.
-- Margin: Validation of Foreign Pilot Licences.
 - Margin: Restrictions in who may act as a pilot in command or co-pilot.
 - Margin: Pilot in command and co-pilot shall hold category, class and Type Rating.
 - Margin: Further limitations for pilot in command or co-pilot.
 - Margin: Exceptions to requirements for training and endorsement.
-- Margin: Restrictions on acting as pilot in command or co- pilot of tail-wheel aeroplane.
+- Margin: Restrictions on acting as pilot in command or co-pilot of tail- wheel aeroplane.
 - Margin: Endorsement on limitations. [301/2004].
-- Margin: Applicability.
-- Margin: Prohibitions on instructing in flight training.
-- Margin: Flight Instructor Ratings requirements.
-- Margin: Flight Instructor Rating aeronautical ground training requirements.
+- Margin: Applicability. [45/2007].
+- Margin: Prohibition on instructors in flight training. [45/2007].
+- Margin: Flight Instructor Ratings requirements. [45/2007].
+- Margin: Flight Instructor Rating aeronautical ground training requirements. [45/2007].
 - Margin: Flight Instructor's areas of operation for flight proficiency.
 - Margin: Schedule 8.
 - Margin: Director- General to recommend issue of Flight Instructor Rating.
@@ -130,7 +137,7 @@ Direction Finding installation situated to the South of the Golden Grove Road, i
 - Margin: Flight Instructor records requirements.
 - Margin: Privileges of Flight Instructor.
 - Margin: Flight Instructor limitation.
-- Margin: Renewal of Flight Instructor Rating.
+- Margin: Renewal of Flight Instructor Rating. [185/2006].
 - Margin: Schedule 6. Part B.
 - Margin: Expired Flight Instructor Rating.
 - Margin: Schedule 6. Part C.
@@ -144,10 +151,10 @@ Direction Finding installation situated to the South of the Golden Grove Road, i
 - Margin: Ground Instructor recency requirements.
 - Margin: Renewal of expired Ground Instructor Authorisation.
 - Margin: Applicability.
-- Margin: General requirements of Flight Engineer Licence and rating.
+- Margin: General requirements of Flight Engineer Licence and Rating. [45/2007].
 - Margin: Flight Engineer Licence knowledge requirements. Schedule 9.
 - Margin: Flight Engineer Licence aeronautical experience requirements.
-- Margin: Flight Engineer Licence skill requirements.
+- Margin: Flight Engineer Licence skill requirements. [45/2007].
 - Margin: Issue of Flight Engineer Licence.
 - Margin: Flight Engineer Licence issued on the basis of a Flight Engineer Licence issued in another Contracting State.
 - Margin: Flight Engineer Licence requirements for additional aircraft rating.
@@ -155,12 +162,11 @@ Direction Finding installation situated to the South of the Golden Grove Road, i
 - Margin: General training and testing for airmen.
 - Margin: Requirements to take skill test.
 - Margin: General procedures for skill test.
-- Margin: .
 - Margin: Schedule 3. Part C. Schedule 4. Part C.
 - Margin: Equipment required for skill test.
 - Margin: Procedure for re-testing after failure.
-- Margin: Flight training and aeronautical experience to be recorded.
-- Margin: Limitation on the use of flight simulator and flight training devices.
+- Margin: Flight training and aeronautical experience to be recorded. [45/2007].
+- Margin: Limitation on the use of flight simulation training devices. [45/2007].
 - Margin: Flight training equipment for aeroplane category to be conducted in accordance with approved course.
 - Margin: Applicant, approved flight simulator and approved or accepted flight training devices for rotorcraft, helicopter class and Type Rating.
 - Margin: Applicant approved flight simulator or flight training device for powered-lift category and Type Rating to meet certain requirements.
@@ -198,48 +204,42 @@ Direction Finding installation situated to the South of the Golden Grove Road, i
 - Margin: Exemption where applicant completed flight dispatcher course.
 - Margin: Requirements of applicant who does not have a certificate of competency.
 - Margin: Issue of a Flight Operations Officer Authorisation.
-- Margin: Flight Operations Officer Authorisation Privileges and limitations.
-- Margin: Applicant to be designated as Civil Aviation Medical Examiner.
-- Margin: Ch. 29:50
+- Margin: Flight Operations Officer Authorisation, Privileges and limitations.
+- Margin: Applicant to be designated as Civil Aviation Medical Examiner. [185/2006].
+- Margin: Ch. 29:50.
 - Margin: Designation of Civil Aviation Medical Examiner.
 - Margin: Duties of a Civil Aviation Medical Examiner.
-- Margin: Medical record requirements.
+- Margin: Medical record requirements. [185/2006].
 - Margin: Medical certification procedures.
-- Margin: Medical certification requirements.
-- Margin: Duration of a medical certificate.
+- Margin: Medical certification requirements. [45/2007].
+- Margin: Validity of medical assessment. [45/2007].
 - Margin: Limitation on medical certificate.
 - Margin: Renewal of a medical certificate.
 - Margin: Deferral of medical examination.
 - Margin: Physical and mental standards for all medical examinations. Schedule 12.
 - Margin: Applicability.
 - Margin: General applicability and eligibility requirements for Aircraft Maintenance Engineer Licence.
-- Margin: Issue of Ratings.
-- Margin: Aircraft Maintenance Engineer Licence Rating Knowledge requirements.
-- Margin: Schedule 13.
-- Margin: Schedule 13.
+- Margin: Issue of Ratings. [185/2006].
+- Margin: Aircraft Maintenance Engineer Licence Rating knowledge requirements. [185/2006 284/2006]. Schedule 13.
 - Margin: Aircraft Maintenance Engineer to complete approved or accepted training course.
-- Margin: Aircraft Maintenance Engineer Licence proficiency requirements.
-- Margin: Aircraft Maintenance Engineer Licence aeronautical experience requirements.
+- Margin: Aircraft Maintenance Engineer Licence proficiency requirements. [185/2006].
+- Margin: Aircraft Maintenance Engineer Licence aeronautical experience requirements. [185/2006].
 - Margin: Issue of Aircraft Maintenance Engineer Licence.
-- Margin: Aircraft Maintenance Engineer Licence privileges and limitations.
+- Margin: Aircraft Maintenance Engineer Licence privileges and limitations. [185/2006].
 - Margin: Requirements for recency of experience of a Aircraft Maintenance Engineer.
-- Margin: Eligibility Requirements of an Aircraft Maintenance Inspection Authorisation.
+- Margin: Eligibility requirements of an Aircraft Maintenance Inspection Authorisation.
 - Margin: Schedule 13.
 - Margin: Issue of Aircraft Maintenance Engineer Inspection Authorisation.
 - Margin: Duration of Aircraft Maintenance Engineer Inspection Authorisation.
 - Margin: Renewal of Aircraft Maintenance Engineer Inspection Authorisation.
 - Margin: Schedule 13.
 - Margin: Privileges and limitations of Aircraft Maintenance Inspection Authorisation.
-- Margin: Sub. leg.
-- Margin: Requirements for Aviation Repair Specialist Licences.
-- Margin: Ratings.
-- Margin: Issue of Aviation Repair Specialist Licence.
-- Margin: Privileges and Limitations of Aviation Repair Specialist Licence.
+- Margin: Sub. Leg.
 - Margin: Requirements for Parachute Rigger Licence.
 - Margin: Issue of Parachute Rigger Licence.
 - Margin: Restrictions on Parachute Rigger Licence.
-- Margin: Experience, knowledge, and skill requirements for a Parachute Rigger Licence.
-- Margin: TYpE RAtiNGS.
+- Margin: Experience, knowledge and skill requirements for a Parachute Rigger Licence.
+- Margin: Type Ratings.
 - Margin: Requirements for additional Type Ratings for parachute rigger.
 - Margin: Privileges of a parachute rigger.
 - Margin: Facilities and equipment.
@@ -247,49 +247,66 @@ Direction Finding installation situated to the South of the Golden Grove Road, i
 - Margin: Parachute Rigger Records.
 - Margin: Seal of Parachute Rigger.
 - Margin: Exemptions from requirements for licensing, ratings and authorisations.
-- Margin: Language Proficiency. [301/2004].
+- Margin: Language Proficiency. [301/2004 45/2007].
 - Margin: Schedule 14.
-- Margin: Transitional provisions. [273/2004].
-- Margin: Requirements to comply with minimum standards. Schedule 14.
+- Margin: Transitional provisions. [273/2004 30/2005 222/2005 284/2006].
+- Margin: Requirements to comply with minimum standards. [222/2005].
+- Margin: Schedule 14.
 - Margin: Director- General to amend Schedule.
-- Margin: Commencement of Part VI.
-- Margin: Commencement of Part IX.
+- Margin: Commencement of Part VI. [30/2005 222/2005 284/2006].
+- Margin: Commencement of Part IX. [222/2005 284/2006].
+- Margin: 45/2007.
 - Margin: [Regulation 5(5)].
 - Margin: [Regulation 15(2)].
 - Margin: [Regulation 27(4) and 29(2)(a)].
 - Margin: [Regulation 27(5)].
 - Margin: [Regulation 29(2)(b)].
 - Margin: [Regulation 30(1)(i), 39(1)(j), and 49(1)(i)].
-- Margin: [Regulation 31(2) and 34(1)(a)].
-- Margin: [Regulation 33(1)(k), 33(1), 108(1)(b)].
+- Margin: [Regulations 31(2) and 34(1)(a)]. [45/2007].
+- Margin: [Regulation 33(l)]
 - Margin: [Regulation 33(1)].
 - Margin: [Regulation 34(3)].
-- Margin: [Regulation 39(1)(h), 42].
-- Margin: [Regulation 39(1)(i), 42].
-- Margin: [Regulation 40, 108(1)(b)].
+- Margin: (Regulation 42). [45/2007].
+- Margin: [Regulations 39(1), 42].
+- Margin: [Regulation 40].
 - Margin: [Regulation 41(2)].
 - Margin: [Regulation 43(1)].
-- Margin: Regulation 50.
-- Margin: [Regulation 51(2), 58(2)(c)].
-- Margin: Regulation 53.
-- Margin: [Regulation 58(2)(c)].
-- Margin: [Regulation 60(1)(b)(iv), 87(b)(iii)]
-- Margin: [Regulation 60(1)(c) and 88(b)].
-- Margin: [Regulation 60(1)(b)(iii), 60(1)(d)].
-- Margin: [Regulation 60(1)(b)(vi)].
+- Margin: [Regulation 50(1)]. [45/2007].
+- Margin: [Regulation 51(2)].
+- Margin: (Regulations 52 and 53).
+- Margin: [Regulation 58(2)(c)]. [45/2007].
+- Margin: [Regulation 60(1)(b)(iv), 87(b)(iii)].
+- Margin: Regulation 60(1)(c) and 88(b)].
+- Margin: [Regulation 60(1)(b)(iii)].
+- Margin: [Regulations 60(1)(b)(vi) and (d)].
+- Margin: (Regulation 57A). [45/2007].
+- Margin: (Regulation 57B). [45/2007].
 - Margin: [Regulation 69(6)(b)(ii)(A)].
 - Margin: [Regulation 69(6)(b)(ii)(B)].
 - Margin: [Regulation 69(8)(a)].
 - Margin: [Regulation 69(8)(b)].
+- Margin: Sub. Leg.
 - Margin: [Regulation 69(9)(a)].
 - Margin: [Regulation 69(9)(b)].
 - Margin: [Regulation 81(2)].
-- Margin: Regulation 100.
-- Margin: Regulation 122.
-- Margin: Regulation 123.
+- Margin: (Regulation 100). [45/2007].
+- Margin: (Regulation 122).
+- Margin: [Regulation 123].
 - Margin: [Regulation 129(1)(a)].
 - Margin: [Regulation 129(1)(b)].
 - Margin: [Regulation 141(2)(c)].
 - Margin: [Regulation 142(2)].
-- Margin: [Regulation 162(2),169(1)(e), 172(2)].
-- Margin: [Regulation 191(1)]. [301/2004].
+- Margin: not
+- Margin: an
+- Margin: the
+- Margin: is
+- Margin: an
+- Margin: the
+- Margin: be
+- Margin: to
+- Margin: be
+- Margin: in
+- Margin: stereopsis,
+- Margin: [Regulation 162(2) 169(1)(e) 172(2)].
+- Margin: [Regulation 164). [185/2006].
+- Margin: [Regulation 191 (1)]. [301/2004 222/2005].
