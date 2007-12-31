@@ -13,3 +13,194 @@ AN ASSOCIATION REGISTERED UNDER THIS ACT
 10. Disputes between members of the Association and the Executive Committee thereof.
 11. A prohibition against admission to membership with respect to an officer who is a member of an appropriate registered association.
 - Margin: Section 27. [8 of 1983].
+- Margin: 61/1968. [174/1973 191/1977 45 of 1979 46 of 1979 47 of 1980 260/2006].
+- Margin: Citation.
+- Margin: Interpretation. [260/2006].
+- Margin: Ch. 23:01.
+- Margin: Ch. 81:01.
+- Margin: Oath of Office.
+- Margin: First Schedule. Form 1.
+- Margin: Form 2.
+- Margin: Meetings.
+- Margin: Procedure, quorum and voting.
+- Margin: Decisions other than at meetings.
+- Margin: Record of meetings and decisions.
+- Margin: Dissents.
+- Margin: Consultation with other persons.
+- Margin: Non- compliance.
+- Margin: Instrument of delegation to be published.
+- Margin: Application for appointment.
+- Margin: Selection for appointment on basis of competitive examination.
+- Margin: Filling of vacancies.
+- Margin: Appointments to be by competition within the particular service.
+- Margin: Advertisement of vacancies.
+- Margin: Selection Boards.
+- Margin: Examination Board.
+- Margin: Principle of selection for promotion.
+- Margin: Promotion to Administrative Class.
+- Margin: Seniority lists to be kept up-to-date.
+- Margin: Seniority of officer to be reckoned from date of appointment or reappointment.
+- Margin: Commission to determine seniority.
+- Margin: Commencing pay.
+- Margin: Principles of selection for acting appointment as prelude to appointment.
+- Margin: Head of Statutory Authority to notify eligible officers of vacancy.
+- Margin: Principles of selection for acting appointment not as prelude to appointment.
+- Margin: Head of Statutory Authority to submit recommendation in advance.
+- Margin: Head of Statutory Authority to state reasons for passing over officers.
+- Margin: Transfers.
+- Margin: Officer to assume duties pending review of transfer order.
+- Margin: Date of appointment.
+- Margin: Medical examination on appointment. [*174/1973].
+- Margin: Exemption from medical examination.
+- Margin: Staff reports.
+- Margin: Officer to be informed of adverse report.
+- Margin: Period of probation on first appointment.
+- Margin: Period of probation on appointment.
+- Margin: Period of probation on promotion.
+- Margin: Waiver of portion of period of probation.
+- Margin: Principles to be observed while officer on probation.
+- Margin: Confidential reports on officer on probation.
+- Margin: Officer may make representation on recommendation of Head of Statutory Authority.
+- Margin: Commission to confirm appointment.
+- Margin: Incremental date when period of probation extended.
+- Margin: Head of Statutory Authority to keep record.
+- Margin: The Head of Statutory Authority not to allow payment out of public funds in certain circumstances.
+- Margin: Resignation.
+- Margin: Abandonment.
+- Margin: Reasons for termination of appointment.
+- Margin: Superannuation benefits.
+- Margin: Compulsory and voluntary retirement. [46 of 1979].
+- Margin: Ch. 23:52.
+- Margin: Head of Statutory Authority to notify Officer of officers aged 60 years compulsory.
+- Margin: Premature retirement.
+- Margin: Retirement in the public interest.
+- Margin: Termination of appointment on abolition of office or for facilitating improvement in the organisation of a Statutory Authority.
+- Margin: Termination of appointment on grounds of inefficiency.
+- Margin: Medical Boards.
+- Margin: Unfit officers.
+- Margin: General conduct.
+- Margin: Duties of officer.
+- Margin: Discourtesy.
+- Margin: Absence without leave.
+- Margin: Misconduct.
+- Margin: Activities outside the service. [46 of 1979].
+- Margin: Officer not to call public meeting or participate in certain public meetings.
+- Margin: Officer not to be candidate at election under Representation of the People Act.
+- Margin: Ch. 2:01.
+- Margin: Officer not to publish information.
+- Margin: Officer not to allow interview on questions of public policy.
+- Margin: Officer not to publish comment on national or local matter.
+- Margin: Reference to Head of Statutory Authority.
+- Margin: Officer not to contribute, edit or manage newspaper.
+- Margin: Indebtedness.
+- Margin: Return of debts.
+- Margin: Second Schedule. Form.
+- Margin: Second Schedule. Form.
+- Margin: Accommodation bill.
+- Margin: Bankruptcy.
+- Margin: Officer not to solicit intervention.
+- Margin: Gifts, rewards.
+- Margin: Exceptions.
+- Margin: Bribery.
+- Margin: Legal proceedings.
+- Margin: Application to initiate legal proceedings to be in writing.
+- Margin: Grounds for refusal of application.
+- Margin: Officer to report criminal charge.
+- Margin: Misconduct defined.
+- Margin: Officer liable to disciplinary proceedings.
+- Margin: Head of Statutory Authority to report misconduct or indiscipline.
+- Margin: Head of Statutory Authority may inform Police of offence.
+- Margin: Commission to issue instructions in certain cases.
+- Margin: Commission to exercise disciplinary control of Head of a Statutory Authority. [260/2006].
+- Margin: Suspension by Commission.
+- Margin: Interdiction. [260/2006].
+- Margin: Investigation of charges. [191/1977 260/2006].
+- Margin: Documents to be supplied to accused.
+- Margin: Officer to admit or deny charge in writing and may include explanation.
+- Margin: Hearing on failure to admit or deny charge. [47 of 1980].
+- Margin: Witnesses.
+- Margin: Appointment of disciplinary tribunal. [260/2006].
+- Margin: Duty of officers appointed to disciplinary tribunal. [191/1977].
+- Margin: Officer on charge not to be permitted leave.
+- Margin: Procedure at hearing. [191/1977].
+- Margin: Adjournment of hearing.
+- Margin: Hearing in absence of accused officer.
+- Margin: Standard of proof. [46 of 1979 260/2006].
+- Margin: Tribunal to report.
+- Margin: Report confidential.
+- Margin: Misconduct.
+- Margin: Disciplinary tribunal may adjourn and report to Commission.
+- Margin: Disciplinary tribunal to report where evidence insufficient.
+- Margin: Disciplinary tribunal to report evidence of other misconduct or indiscipline disclosed at hearing of charges.
+- Margin: Penalties that may be awarded under delegated authority. [260/2006].
+- Margin: Commission to inform officer of penalty imposed and of his right to apply for review. [260/2006].
+- Margin: Commission may remove officer in public interest.
+- Margin: Proceedings in private.
+- Margin: Penalties.
+- Margin: No disciplinary action while criminal proceedings pending.
+- Margin: Disciplinary action after acquittal of a criminal charge.
+- Margin: Officer convicted of criminal charge. [46 of 1979].
+- Margin: Non-payment of remuneration on conviction of a criminal charge.
+- Margin: Saving.
+- Margin: Application of Regulations.
+- Margin: Commission facsimile signatures.
+- Margin: Saving of existing Union Agreements.
+- Margin: Regulation 3(1).
+- Margin: Regulation 3(2).
+- Margin: Regulation 73(2), (3).
+- Margin: 131/1969. 132/1969. 133/1969. 134/1969. 176/1970. 258/1971. 23/1980. 24/1980.
+- Margin: Citation.
+- Margin: Delegations.
+- Margin: 131/1969.
+- Margin: Powers delegated.
+- Margin: Appointments.
+- Margin: Transfer and secondment.
+- Margin: Regulations to apply.
+- Margin: Report to Commission.
+- Margin: 134/1969.
+- Margin: Delegation of power.
+- Margin: Mode of exercise of power.
+- Margin: Fines.
+- Margin: Officers affected.
+- Margin: Report to Commission.
+- Margin: 132/1969.
+- Margin: Powers delegated.
+- Margin: Appointments.
+- Margin: Transfer and secondment.
+- Margin: Regulations to apply.
+- Margin: Report to Commission.
+- Margin: 133/1969.
+- Margin: Delegation of power.
+- Margin: Mode of exercise of power.
+- Margin: Fines.
+- Margin: Officers affected.
+- Margin: Report to Commission.
+- Margin: 258/1971.
+- Margin: Delegation of powers.
+- Margin: Acting appointments.
+- Margin: Appointments.
+- Margin: Promotion.
+- Margin: Transfer and secondment.
+- Margin: Granting of increments. Discipline.
+- Margin: Mode of exercise of powers.
+- Margin: Report to Commission.
+- Margin: 176/1970.
+- Margin: Delegation of powers.
+- Margin: Acting appointments.
+- Margin: Appointments.
+- Margin: Promotions.
+- Margin: Transfer.
+- Margin: Discipline.
+- Margin: Report to Commission.
+- Margin: Officers affected.
+- Margin: 23/1980.
+- Margin: Delegation of power.
+- Margin: Applications for appointment.
+- Margin: Regulations to apply.
+- Margin: 24/1980.
+- Margin: Delegation of power.
+- Margin: Discipline.
+- Margin: Mode of exercise of powers.
+- Margin: *29/1967.
+- Margin: Citation.
+- Margin: Authorities declared subject to the Act.
