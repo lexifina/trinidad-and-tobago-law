@@ -3,8 +3,7 @@ CHAPTER 1:02
 Act
 36 of 1966
 Amended by
-38 of 1968 45 of 1979 28 of 1972
-4 of 1980*
+38 of 1968 45 of 1979 28 of 1972 *4 of 1980
 17 of 1973
 1 of 1983
 7 of 1976
