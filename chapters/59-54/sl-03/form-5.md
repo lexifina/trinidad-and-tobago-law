@@ -12,4 +12,5 @@ or
 Dated the ... day of ..., 20...
 ...
 Signature of Landlord
-*Delete whichever is inapplicable. [Subsidiary] Land Tenants (Security of Tenure) (Forms and Notices) Regulations
+*Delete whichever is inapplicable. [Subsidiary ]
+Land Tenants (Security of Tenure) (Forms and Notices) Regulations
