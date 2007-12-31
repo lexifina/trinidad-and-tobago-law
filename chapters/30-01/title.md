@@ -10,9 +10,10 @@ Amended by
 12 of 1987
 6 of 1993
 16 of 1998
+6 of 2005
 *See Note on Validation at page 2
 Index of Subsidiary Legislation
-Page Food and Drugs Regulations (GN 130/1964) ... 24 Official Method Notification (GN 54/1972) ... 122 *Approval of New Drugs Notification ... 127 †Withdrawal of Approval of New Drugs Notification (GN 51/1969) … … 198 Fish and Fishery Products Regulations (LN 220/1998)... 199 †This Notification (i.e. 51/1969) has been amended by LNs 99 and 114/1984 which have been omitted.
+Page Food and Drugs Regulations (GN 130/1964) ... 25 Official Method Notification (GN 54/1972) ... 124 *Approval of New Drugs Notification ... 129 †Withdrawal of Approval of New Drugs Notification (GN 51/1969) … … 200 Fish and Fishery Products Regulations (LN 220/1998)... 201 †This Notification (i.e. 51/1969) has been amended by LNs 99 and 114/1984 which have been omitted.
 *Note on Approval of New Drugs Notification
 The list of new drugs set out in the Schedule to this Notification has been consolidated as at 31st December 1977. This list is so voluminous and changes to it so frequent that, especially in view of its very limited use by the general public, it is not practicable to update it annually. The references to the amendments to this list since 31st December 1977 are contained in the Current Consolidated Index of Acts and Subsidiary Legislation.
 †Note on
