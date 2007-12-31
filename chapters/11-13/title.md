@@ -5,6 +5,7 @@ Act
 Amended by
 20 of 1936
 *24 of 1981
+19 of 2005
 *See Note on Amendment at page 2
 Note on Subsidiary Legislation
 This Chapter contains no subsidiary legislation.
@@ -26,4 +27,5 @@ CHAPTER 11:13
 FORGERY ACT
 An Act relating to Forgery and Kindred Offences.
 [22ND APRIL 1925]
-- Margin: 1950 Ed. Ch. 4 No. 12. 13 of 1925. Commencement.
+- Margin: 1950 Ed. Ch. 4 No. 12.
+- Margin: 13 of 1925. Commencement.
