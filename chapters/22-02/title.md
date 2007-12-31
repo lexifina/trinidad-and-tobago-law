@@ -1,16 +1,13 @@
 FREEDOM OF INFORMATION ACT
 CHAPTER 22:02
 Act
-26 of 1999
-Amended by
-92 of 2000
-14 of 2003
+26 of 1999 Amended by 92 of 2000 14 of 2003
 Index of Subsidiary Legislation
 Page Freedom of Information (Publication of Arrangements) Regulations
-(LN 114/2001) ... 44 Freedom of Information (Fees and Charges) Regulations (LN 115/2001) … 45 Freedom of Information (Exemption) Order (LN 21/2003) … … 54 Freedom of Information (Exemption) (No. 2) Order (LN 76/2004)… … 54
+(LN 114/2001) ... 44 Freedom of Information (Fees and Charges) Regulations (LN 115/2001) … 45 Freedom of Information (Exemption) Order (LN 21/2003) … … 54 Freedom of Information (Exemption) (No. 2) Order (LN 76/2004)… … 54 Freedom of Information (Exemption ) (No. 2) Order (LN 131/2005) … 55
 Note on Commencement of Act
-A. Part I of the Act (i.e., sections 1 to 6) came into force on 20th November, 2000 by Legal
-Notice No. 282 of 2000.
+A. Part I of the Act (i.e., sections 1 to 6) came into force on 20th November, 2000 by
+Legal Notice No. 282 of 2000.
 B. Part II of the Act (i.e., sections 7 to 10) came into force on 30th April, 2001 by Legal
 Notice No. 46 of 2001.
 C. Parts III, IV and V of the Act (i.e., sections 11 to 41) came into force on 30th August,
@@ -30,7 +27,7 @@ authorities.
 10. Notice requiring to specify a document in the statement.
 PART III
 RIGHT OF ACCESS TO INFORMATION
-11. Right of access. 12. Access procedure not to apply to certain documents. 13. Requests for access. 14. Duty to assist applicants. 15. Time-limit for determining requests. 16. Giving of access and deletion of exempt information. 17. Fees for access to documents. 18. Forms of access. 19. Deferment of access. 20. Repeated requests.
+11. Right of access. 12. Access procedure not to apply to certain documents. 13. Requests for access. 14. Duty to assist applicants. 15. Time limit for determining requests. 16. Giving of access and deletion of exempt information. 17. Fees for access to documents. 18. Forms of access. 19. Deferment of access. 20. Repeated requests.
 ARRANGEMENT OF SECTIONS-Continued SECTION
 21. Requests may be refused in certain cases. 22. Decision to be made by authorised person. 23. Reasons to be given for deferment or refusal.
 PART IV
@@ -51,7 +48,7 @@ CHAPTER 22:02
 FREEDOM OF INFORMATION ACT
 An Act to give members of the public a general right (with
 exceptions) of access to official documents of public authorities and for matters related thereto.
-*[ASSENTED TO 4 TH NOVEMBER, 1999]
+*[ASSENTED TO 4TH NOVEMBER, 1999]
 PART I
 PRELIMINARY
 - Margin: 26 of 1999.
