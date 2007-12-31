@@ -1,6 +1,6 @@
 # SCHEDULE
-MATTERS TO BE PROVIDED FOR IN THE RULES OF A
-RECOGNISED ASSOCIATION
+MATTERS TO BE PROVIDED FOR IN THE RULES OF
+A RECOGNISED ASSOCIATION
 1. The name of the association and the place of meeting for its business.
 2. The whole of the objects for which the association is to be established, the purposes for which its funds are applicable, the conditions under which a member may become entitled to a benefit assured thereby, and the fines and forfeitures to be imposed on a member of the association.
 3. The manner of making, altering, amending, and rescinding the rules.
@@ -15,7 +15,3 @@ RECOGNISED ASSOCIATION
 - Margin: (Section 20H) [23/1994].
 - Margin: 156/1979.
 - Margin: 153/1986.
-- Margin: 211/1986.
-- Margin: Citation.
-- Margin: Basis of initial contribution.
-- Margin: Basis of annual premium.

@@ -11,6 +11,7 @@ Amended by
 10 of 1993
 23 of 1994
 15 of 2004
+237/2007
 Index of Subsidiary Legislation
 Page Credit (Non-Business Purposes) Notice (GN 156/1979) … … … 55 Cash Reserve Notice (LN 153/1986) ... 55 Central Bank (Deposit Insurance) Order (LN 211/1986) … … … 56 Central Bank (Deposit Insurance) Order (LN 207/1987) … … … 57 Par Value of the Trinidad and Tobago Dollar Order (LN 57/1993) … … 57 Central Bank (Deposit Insurance) Bye-Laws (LN 210/1986) … … 59
 Note on
@@ -19,8 +20,7 @@ B. Bye-laws 2, 6 and 7 of the Central Bank (Deposit Insurance) Bye-Laws
 The Financial Institutions (Non-Banking) Act (Ch. 83:01) and the Banking Act (Ch. 79:01) have been repealed by section 57 of the Financial Institutions Act, 1993 (Act No. 18 of 1993).
 CHAPTER 79:02
 CENTRAL BANK ACT
-ARRANGEMENT OF SECTIONS
-SECTION
+ARRANGEMENT OF SECTIONS SECTION
 PRELIMINARY
 1. Short title. 2. Interpretation.
 PART I
@@ -39,8 +39,10 @@ PERSONNEL
 20A. Interpretation. 20B. Consultation and negotiation with the Bank. 20C. Where agreement reached. 20D. Where no agreement reached. 20E. Disputes to be referred to Special Tribunal. 20F. Powers of Special Tribunal. 20G. Awards to be binding on parties for fixed period. 20H. Association to make Rules.
 PART II
 CURRENCY AND LEGAL TENDER
-21. Currency of Trinidad and Tobago. 22. Unit of currency. 23. Par value of Trinidad and Tobago dollar. 24. Notes and coins exempt from taxation. 25. Issue of currency. 26. Denominations and form of notes and coins. 27. Redemption of notes and coins. Refund of lost and stolen coins. Discretion of the Bank to refund mutilated or impaired notes and coins.
-28. Bills and notes payable on demand. 29. Imitation of currency notes. 30. Mutilating or defacing currency notes. 31. Definition of "note". 32. (Repealed by Act No. 23 of 1994). 33. Assets to cover currency in circulation.
+21. Currency of Trinidad and Tobago. 22. Unit of currency. 23. Par value of Trinidad and Tobago dollar. 24. Notes and coins exempt from taxation. 25. Issue of currency. 26. Denominations and form of notes and coins. 27. Redemption of notes and coins. Refund of lost and stolen coins. Discretion of the Bank to refund mutilated or impaired notes and
+coins.
+28. Bills and notes payable on demand. 29. Imitation of currency notes. 30. Mutilating or defacing currency notes. 31. Definition of "note". (Repealed by Act No. 23 of 1994). 32.
+33. Assets to cover currency in circulation.
 PART III
 CAPITAL AND RESERVE
 34. Capital of the Bank. 35. General and Special Reserve Funds.
@@ -49,16 +51,21 @@ THE BUSINESS OF THE BANK
 36. Authorised business of Bank. 37. Restrictions on business of the Bank.
 PART V
 RELATIONS WITH FINANCIAL INSTITUTIONS
-38. Bank as banker. 39. Minimum discount and re-discount rates.
+38. Bank as banker. 39. Minimum discount and rediscount rates.
 }
-40. to (Repealed by Act No. 23 of 1994). 44. 44A. Fixing of interest rates. 44B. Penalties for contravention of section 44A.
+40.
+(Repealed by Act No. 23 of 1994). to
+44. 44A. Fixing of interest rates. 44B. Penalties for contravention of section 44A.
 PART VA
-SPECIAL EMERGENCY POWERS OF BANK 44C. Definitions. 44D. Circumstances where Bank may take over control, etc. 44E. Notification of takeover of property and control. 44F. Duty to assist where Bank assumes control. 44G. Termination of control. 44H. Protection of persons acting under this Part. 44I. Offences.
+SPECIAL EMERGENCY POWERS OF BANK
+44C. Definitions. 44D. Circumstances where Bank may take over control, etc. 44E. Notification of takeover of property and control. 44F. Duty to assist where Bank assumes control. 44G. Termination of control. 44H. Protection of persons acting under this Part. 44I. Offences.
 PART VB
-DEPOSIT INSURANCE 44J. Definitions. 44K. Establishment of Deposit Insurance Fund. 44L. Membership in Fund compulsory. 44M. Financing of the Fund. 44N. Insurance cover. 44O. Contributions, etc., allowable tax deductions.
+DEPOSIT INSURANCE
+44J. Definitions. 44K. Establishment of Deposit Insurance Fund. 44L. Membership in Fund compulsory. 44M. Financing of the Fund. 44N. Insurance cover. 44O. Contributions, etc., allowable tax deductions.
 ARRANGEMENT OF SECTIONS-Continued
 SECTION
-44P. Management of the Fund. 44Q. Composition of Board. 44R. Term of office of members of Board. 44S. Chairman of the Board. 44T. Procedure. 44U. Validity of proceedings. 44V. Capital of Corporation. 44W. Powers of the Corporation. 44X. Insurance payment procedures. 44Y. Business with failed institutions. 44Z. Effect of closure. 44AA. Offences.
+44P. Management of the Fund. 44Q. Composition of Board. 44R. Term of office of members of Board. 44S. Chairman of the Board. 44T. Procedure. 44U. Validity of proceedings. 44V. Capital of Corporation.
+44W. Powers of the Corporation. 44X. Insurance payment procedures. 44Y. Business with failed institutions. 44Z. Effect of closure. 44AA. Offences.
 PART VI
 RELATIONS WITH THE GOVERNMENT
 45. Bank as banker to the Government. 46. Power of Bank to make advances to Government. 47. Maximum assets of Bank. 48. Power of Bank to act as agent for the Government. 49. Issues of policy. 50. Policy directives.
@@ -66,10 +73,13 @@ PART VII
 ACCOUNTS, REPORTS AND STATISTICS
 51. Bank's financial year. 52. Accounts and audits. 53. Reports. 54. Statistical information from financial institutions.
 PART VIII GENERAL
-55. Exemption from taxation and stamp duty. 56. Secrecy and penalty for disclosing information. 57. Transfer of statements, accounts or lists. 58. Transmission of false information by officers of financial institutions. 59. Method of service. 60. Regulations and Rules.
+55. Exemption from taxation and stamp duty. 56. Secrecy and penalty for disclosing information. 57. Transfer of statements, accounts or lists. 58. Transmission of false information by officers of financial
+institutions.
+59. Method of service. 60. Regulations and Rules.
 PART IX
 TRANSITIONAL PROVISIONS
-61. (Repealed by Act No. 23 of 1994). 62. Non-application of Exchequer and Audit Act.
+(Repealed by Act No. 23 of 1994). 61.
+62. Non-application of Exchequer and Audit Act.
 SCHEDULE.
 
 CHAPTER 79:02
