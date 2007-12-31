@@ -2,19 +2,22 @@ INCOME TAX (IN AID OF INDUSTRY) ACT
 CHAPTER 85:04
 Act
 12 of 1950 Amended by
-5 of 1951 106/1974 73 of 1951 46 of 1976
-48 of 1955
-6 of 1981
-2/1963
+5 of 1951 6 of 1981
+73 of 1951
 11 of 1984
-5 of 1964
+48 of 1955
 26 of 1985
-29 of 1966
+2/1963
 17 of 1992
-46 of 1969
-*5 of 1995
+5 of 1964
+*5 of 1995 29 of 1966
+46 of 1969 39 of 2000
 5 of 1970
-39 of 2000 42 of 1970 2 of 2002 36 of 1973
+2 of 2002
+42 of 1970
+21 of 2005
+36 of 1973
+2 of 2006 106/1974 30 of 2007 46 of 1976
 *See Note on page 2
 Index of Subsidiary Legislation
 Page Income Tax (Mineral Deposits) Regulations (GN 115/1950) … … … 83
@@ -32,7 +35,8 @@ ARRANGEMENT OF SECTIONS SECTION
 1A. Application of Act.
 2. Interpretation.
 PART I
-INDUSTRIAL BUILDINGS AND STRUCTURES, ETC. 3. Initial allowances. 4. Annual allowances. 5. Balancing allowances and balancing charges. 6. Writing-off of expenditure and meaning of "residue of expenditure". 7. Buildings and structures bought unused. 8. Cessation of depreciation allowances. 9. Definition of industrial building or structure.
+INDUSTRIAL BUILDINGS AND STRUCTURES, ETC.
+3. Initial allowances. 4. Annual allowances. 5. Balancing allowances and balancing charges. 6. Writing off of expenditure and meaning of "residue of expenditure". 7. Buildings and structures bought unused. 8. Cessation of depreciation allowances. 9. Definition of industrial building or structure.
 10. Sports pavilions. 11. Meaning of "the relevant interest". 12. Temporary disuse of industrial buildings or structures. 13. Requisitioned land, holding over of leased land, and other special
 cases.
 14. Exclusion of double allowances, etc. 15. Interpretation of Part I.
@@ -40,22 +44,21 @@ cases.
 PART II
 MACHINERY AND PLANT
 16. Initial allowances.
-16A. Initial and first year allowances. 16B. Initial allowance to lessee
+16A. Initial and first year allowances. (Deleted by Act No. 21 of 2005). 16B.
 17. Allowance for wear and tear. Amendment of section 11 of Income
 Tax Act.
 17A. Annual allowance. 17B. Previous allowance to be taken into account.
 ARRANGEMENT OF SECTIONS-Continued SECTION
-18. Balancing allowances and balancing charges. 19. Replacement of machinery or plant. 20. Meaning of "expenditure unallowed". 21. Expenditure on alterations to buildings in connection with installation
-of machinery or plant.
+18. Balancing allowances and balancing charges. 19. Replacement of machinery or plant. 20. Meaning of "expenditure unallowed". 21. Expenditure on alterations to buildings in connection with
+installation of machinery or plant.
 PART IIA
 OIL REFINERIES-MACHINERY AND PLANT
 21A. Allowances on oil refinery, machinery and plant. 21B. Meaning of expenditure.
 PART III
 MINES, OIL WELLS, ETC.
-22. Expenditure to which Part III applies. 23. Initial allowance.
-23A. First year allowance.
-24. Annual allowances. 25. Sale of source or part of source as going concern. 26. Application to expenditure incurred by person not engaged in the trade
-of mining, etc.
+22. Expenditure to which Part III applies. 23. Initial allowance. (Deleted by Act No. 21 of 2005). 23A.
+24. Annual allowances. 25. Sale of source or part of source as going concern. 26. Application to expenditure incurred by person not engaged in the
+trade of mining, etc.
 27. Land production allowance in certain cases. 28. Regulations.
 PART IV
 SUBMARINE OIL WELLS
@@ -63,12 +66,15 @@ SUBMARINE OIL WELLS
 PART V
 PRODUCTION BUSINESS ON LAND
 34. Definitions. SECTION
-35. (Repealed by Act No. 6 of 1981). 36. Investment allowances.
+(Repealed by Act No. 6 of 1981). 35.
+36. Investment allowances.
 36A. Eligibility for investment allowance under section 36 of the Act.
-37. Balancing charge or allowance. 38. (Repealed by Act No. 6 of 1981).
+37. Balancing charge or allowance. (Repealed by Act No. 6 of 1981). 38.
 PART VI
 PATENTS
-39. Annual allowances for capital expenditure on purchase of patent rights. 40. Effect of lapse of patent rights, sales, etc. 41. Charges on capital sums received for sale of patent rights. 42. Patent rights sold before appointed day. 43. Relief for expenses. 44. Spreading of income payments over several years. 45. When a person is to be treated as a trader. 46. Interpretation.
+39. Annual allowances for capital expenditure on purchase of patent
+rights.
+40. Effect of lapse of patent rights, sales, etc. 41. Charges on capital sums received for sale of patent rights. 42. Patent rights sold before appointed day. 43. Relief for expenses. 44. Spreading of income payments over several years. 45. When a person is to be treated as a trader. 46. Interpretation.
 PART VII
 SCIENTIFIC RESEARCH
 47. Allowances for expenditure not of capital nature incurred after "the
@@ -92,12 +98,14 @@ IN HUSBANDRY
 56. Annual allowances for capital expenditure or workers' dwellings. 57. Limitation of annual allowances. 58. Mode of dealing with annual allowances after transfer of land, etc. 59. Cesser of annual allowances during temporary non-use of building. 60. Claims for deductions under Part VIII. 61. Interpretation. 62. Application of Part VIII.
 PART IX
 MISCELLANEOUS AND GENERAL
-63. Manner of charging tax and granting allowances in cases of traders. 64. Meaning of "basis period". 65. Apportionment of consideration, and exchanges and surrenders of
+63. Manner of charging tax and granting allowances in cases of traders.
+63A. Allowance for capital expenditure. 63B. To request Board of Inland Revenue to reopen returns.
+64. Meaning of "basis period". 65. Apportionment of consideration, and exchanges and surrenders of
 leasehold interests.
 66. Special provisions as to certain sales. 67. Trade marks and designs. 68. Interpretation of certain references to expenditure, etc. 69. Subsidies, etc. 70. Computation of expenditure for purposes of sections 10 and 11 of the
 Income Tax Act.
 71. Other provisions as to interpretation. 72. Deductions and allowances for year of discharge of tax. 73. Written-down value of assets of refinery as at 31st December, 1979.
-FIRST SCHEDULE (Repealed by Act No. 2 of 2002). SECOND SCHEDULE. THIRD SCHEDULE. FOURTH SCHEDULE.
+FIRST SCHEDULE-(Repealed by Act No. 2 of 2002). SECOND SCHEDULE. THIRD SCHEDULE. FOURTH SCHEDULE.
 
 CHAPTER 85:04
 INCOME TAX (IN AID OF INDUSTRY) ACT
