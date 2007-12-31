@@ -8,7 +8,7 @@ to the Immigration Regulations to any person requiring him to appear at the time
 (b) administer oaths and examine any person upon oath,
 affirmation or otherwise;
 (c) issue commissions or requests to persons to take evidence in
-Trinidad and Tobago and such persons when so authorised by the Minister, have the same powers as Special Inquiry Officers to take evidence, issue summonses, enforce the attendance of witnesses, compel them to give evidence and otherwise conduct the inquiry;
+Trinidad and Tobago and such persons when so authorised by the Minister, have the same powers as Special Inquiry Officers to take evidence, issue summons, enforce the attendance of witnesses, compel them to give evidence and otherwise conduct the inquiry;
 (d) engage the services of such Attorneys-at-law, interpreters,
 technicians, or other experts, clerks, stenographers or other persons as he considers necessary for a full and proper inquiry; and
 (e) do all other things necessary to provide a full and
