@@ -2,8 +2,7 @@
 TRINIDAD AND TOBAGO UNIT TRUST CORPORATION
 Registered Office:
 FORM OF NOMINATION
-I/We hereby request and authorise until further notice that all monies in respect of
-units held by me/us should be placed to my/ our nominee.
+I/We hereby request and authorise until further notice that all monies in respect of units held by me/us should be placed to my/ our nominee.
 1. Name of Unitholder ...
 Address ...
 ...
