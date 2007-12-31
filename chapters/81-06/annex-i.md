@@ -7,7 +7,7 @@ ARTICLE II
 Definitions
 Except as provided herein, words and phrases shall have the meaning ascribed to them in the relevant Agreements of the WTO.
 Competent Authority-The authority which, in conformity with the legislation of the Parties, is responsible for the administration of their Customs tariff laws and regulations.
-Customs Tariff -Any tariff, tax or duty levied on imports and of any type applied to the importation of goods, including any form of surcharge or additional charge on imports, except any equivalent charge or internal tax established in conformity with Article III.2 of the GATT 1994. This definition of a Customs tariff does not include taxes or duties of lighterage, wharfage, storage and handling of merchandise, nor any others as may be required for port, custody or transport services; nor does it include exchange rate differences or other measures adopted by any Party.
+Customs Tariff -Any tariff, tax or duty levied on imports and of any type applied to the importation of goods, including any form of surcharge or additional charge on imports, except any equivalent charge or internal tax established in conformity with Article III.2 of the GATT 1994. This definition of a Customs tariff does not include taxes or duties of lighterage, wharfage, storage and handling of merchandise,noranyothersasmayberequiredforport,custodyortransportservices; nor does it include exchange rate differences or other measures adopted by any Party.
 Duties-Customs duties and any other charges of equivalent effect which are discriminatory in their application, whether fiscal, monetary, or of any kind, which are applied to Imports. Rates and analogous charges where they represent the cost of the services rendered are not included in this concept of "duties".
 Goods-Any materials or finished articles.
 Identical Goods-Goods whose characteristics all coincide with those of the good it is compared.
@@ -24,14 +24,14 @@ in Appendices II and III;
 rate of duty on goods as set out in Appendix II;
 (c) the application of the MFN rate of duty to those goods
 as set out in Appendix III;
-(ii) the goods originating in the Dominican Republic which satisfy
-the conditions contained in the Rules of Origin shall receive the following treatment on entry into the markets of CARICOM Member States:
+(ii) the goods originating in the Dominican Republic which
+satisfy the conditions contained in the Rules of Origin shall receive the following treatment on entry into the markets of CARICOM Member States:
 (a) duty-free access for all goods other than those set out in
-Appendices IV and V on entry into the markets of the MDCs;
+AppendicesIVandVonentryintothemarketsoftheMDCs;
 (b) phased reduction of the MFN rate of duty on goods as set
-out in Appendix IV on entry into the markets of the MDCs;
-(c) application of the MFN rate of duty on those goods set
-out in Appendix V on entry into the markets of the MDCs;
+out inAppendix IVon entry into the markets of the MDCs;
+(c) application of the MFN rate of duty on those goods set out
+in Appendix V on entry into the markets of the MDCs;
 (d) application of the MFN rate of duty on all goods on
 entry into the markets of the LDCs.
 3. The Lists of goods will be reciprocal unless the Parties agree otherwise.
@@ -58,8 +58,8 @@ Nothing in this Agreement shall prevent the adoption or enforcement by the Domin
 (d) to protect human, animal and plant life;
 (e) to secure compliance with laws or regulations which
 are not consistent with the provisions of this Agreement, including those relating to customs enforcement, the enforcement of monopolies operated under paragraph 4 of Article II and Article XVII of GATT 1994, the protection of patents, trademarks and copyrights and the prevention of deceptive practices;
-(f) and essential to the acquisition or distribution of products
-in general or local short supply, provided that any such measure shall be consistent with the principle that the Parties are entitled to an equitable share of the international supply of such products, and that any such measures, which are inconsistent with the other provisions of the Agreement, shall be discontinued as soon as the conditions giving rise to them have ceased to exist;
+(f) and essential to the acquisition or distribution of
+products in general or local short supply, provided that any such measure shall be consistent with the principle that the Parties are entitled to an equitable share of the international supply of such products, and that any such measures, which are inconsistent with the other provisions of the Agreement, shall be discontinued as soon as the conditions giving rise to them have ceased to exist;
 (ii) which relate to-
 (a) gold or silver production or trade;
 (b) the products of prison labour;
@@ -79,8 +79,8 @@ ARTICLE IX
 Bilateral Safeguard Measures
 The Dominican Republic and the Member States of CARICOM acknowledge that, as Members of the WTO, they have recourse to the Agreement on Safeguards in the WTO.
 2. The Member States of CARICOM and the Dominican Republic may apply bilateral safeguard measures of a temporary nature when-
-(i) imports of products from any Member State of CARICOM or
-the Dominican Republic are made in such quantities that such products cause serious injury or threat of serious injury to the domestic industry producing like or directly competitive products of the importing country;
+(i) imports of products from any Member State of CARICOM
+or the Dominican Republic are made in such quantities that such products cause serious injury or threat of serious injury to the domestic industry producing like or directly competitive products of the importing country;
 (ii) it is necessary to redress balance-of-payment deficits or to
 protect the external financial position of the importing country.
 3. Safeguard measures shall consist of the temporary suspension of the tariff preferences and the reinstatement of the MFN duties for the specific product.
@@ -98,24 +98,20 @@ Customs Co-operation
 The Parties, through their Customs authorities, agree to-
 (i) strengthen their bonds of co-operation, and mutual assistance
 to resolve any differences in relation to the administration of this Agreement;
-(ii) stimulate as much as possible the practices, procedures, terms
-and conditions of mutual assistance as well as to intensify the relationship between themselves with the aim of sharing experiences that may improve and harmonise the systems and customs procedures applicable, based on the principle of reciprocity; and
+(ii) stimulate as much as possible the practices, procedures,
+terms and conditions of mutual assistance as well as to intensify the relationship between themselves with the aim of sharing experiences that may improve and harmonise the systems and customs procedures applicable, based on the principle of reciprocity; and
 (iii) strengthen the co-operation through mechanisms that may
 speed up the movement of goods and clearance through Customs; without prejudice to the application of necessary measures and controls to avoid illegal trade and other practices that cause distortions to international trade.
 2. The Parties will facilitate the release of all originating merchandise in conformity with the measures and procedures agreed, after the entry into force of this Agreement.
 3. The Parties will give priority to the areas of harmonisation of Customs procedures, computer technology and training.
 4. The Parties will simplify and make available to the trading community information on procedures for the international transit of goods, the required documentation, the mode of transport, the Customs operation schedule, and information on the established sea ports and airports.
-5. (i) Each Party, through its Customs authorities, shall speedily
-release the goods originating in the other Party that enter its territory. In order to facilitate the clearance of goods originating in the other Party, automatic controls for time of stay, selective or aleatory criteria for revision, weight control, physical verification of the goods and direct release to importers shall be applied.
-(ii) The Parties agree to simplify documents needed for the transit
-of originating goods in accordance with the national legislation of the importing Party.
-(iii) Each Party, in conformity with its legislation, shall inform the
-other of procedures that will facilitate and speed up the release of goods, including the requirements for importation and entry to the territory of the Party.
+5. (i) Each Party, through its Customs authorities, shall speedily release the goods originating in the other Party that enter its territory. In order to facilitate the clearance of goods originating in the other Party, automatic controls for time of stay, selective or aleatory criteria for revision, weight control, physical verification of the goods and direct release to importers shall be applied.
+(ii) The Parties agree to simplify documents needed for the transit of originating goods in accordance with the national legislation of the importing Party.
+(iii) Each Party, in conformity with its legislation, shall inform the other of procedures that will facilitate and speed up the release of goods, including the requirements for importation and entry to the territory of the Party.
 6. The Customs authorities of the Parties will exchange, where possible, and subject to domestic legislation and regulations relating to confidentiality, information and experience on-
 (i) Classification and Customs Valuation;
 (ii) Rules of Origin;
-(iii) documents and requirements for the import and export of
-goods;
+(iii) documents and requirements for the import and export of goods;
 (iv) general or specific statistics of imports and exports;
 (v) goods subject to non-tariff measures;
 (vi) the Customs regimes and procedures;
@@ -129,13 +125,13 @@ RULES OF ORIGIN
 ARTICLE I
 Definitions
 For the purposes of this Appendix, the following definitions shall apply:
-(i) Materials- means raw materials, intermediate goods and parts
-or components utilised in production;
-(ii) Goods- means any materials or finished articles;
-(iii) Production- means planting, extraction, harvesting, fishing,
+(i) Materials-means raw materials, intermediate goods and
+parts or components utilised in production;
+(ii) Goods-means any materials or finished articles;
+(iii) Production-means planting, extraction, harvesting, fishing,
 hunting, manufacturing, processing or assembly of goods or products;
-(iv) Originating goods-means goods or materials which meet the
-Rules of Origin established in this Appendix.
+(iv) Originating goods-means goods or materials which meet
+the Rules of Origin established in this Appendix.
 The Transaction Value shall be determined according to the national legislation of the Parties.
 ARTICLE II
 Scope of Application
@@ -155,21 +151,21 @@ Wholly Produced Goods
 Wholly Produced Goods are-
 (i) Products from the mineral, plant or animal kingdoms
 (including those from hunting and fishing), extracted, harvested or gathered, born, bred or captured in the territories of the Parties, or in their territorial waters or in their exclusive economic zones;
-(ii) products of the sea extracted beyond the territorial waters of
-the Parties and their exclusive economic zones by ships, wholly or partially owned by nationals of the Parties, legally chartered, leased or contracted under joint venture arrangements by enterprises established in the territories of the Parties;
+(ii) products of the sea extracted beyond the territorial waters of the
+Parties and their exclusive economic zones by ships, wholly or partially owned by nationals of the Parties, legally chartered, leased or contracted under joint venture arrangements by enterprises established in the territories of the Parties;
 (iii) products of factory ships, wholly or partially owned by
 nationals of the Parties, legally chartered, leased or contracted under joint venture arrangements by enterprises established in the territories of the Parties produced from goods or products of the sea, extracted by ships in accordance with the provisions in (i) and (ii) above;
 (iv) the slag, ashes, residues, waste or scrap, gathered or obtained
 from manufacturing and processing operations performed in the territories of the parties, fit only for the recovery of raw materials, as long as they do not constitute toxic or hazardous wastes in accordance with national and international law;
-(v) goods produced in the territories of the Parties which are made
-solely from originating goods.
+(v) goods produced in the territories of the Parties which are
+made solely from originating goods.
 ARTICLE V
 Insufficient Working or Processing
 Goods shall not be treated as originating, if they are produced by any operation or process which consists only of one or more of the following:
 (i) operations to ensure the preservation of goods or products
 during transportation or storage, such as ventilation, refrigeration, freezing, addition of preservative or salt, removal of damaged parts and the like;
-(ii) operations such as dust removal, washing or cleaning, sifting,
-peeling, shelling, winnowing, maceration, drying, sorting, classification, grading, selection, crushing, filtering, diluting in water, painting or cutting up;
+(ii) operations such as dust removal, washing or cleaning,
+sifting, peeling, shelling, winnowing, maceration, drying, sorting, classification, grading, selection, crushing, filtering, diluting in water, painting or cutting up;
 (iii) the simple formation of sets of goods;
 (iv) the packing, placing in containers or repackaging;
 (v) the dividing up or assembly of packages;
@@ -182,13 +178,13 @@ Materials not Incorporated in the Goods
 Any material, input or product which is not physically incorporated in goods used in the production, verification and inspection of the goods and operation of equipment related with it or for the maintenance of buildings, will be considered originating regardless of the country where it was manufactured or produced.
 2. These include-
 (i) fuel, electrical energy, catalysts and solvents;
-(ii) equipment apparatus and accessories used for the verification
-or inspection of goods;
+(ii) equipment apparatus and accessories used for the
+verification or inspection of goods;
 (iii) gloves, protective eye masks, footwear, apparel, security
 equipment and accessories;
 (iv) tools, dies (for die-cutting) and moulds;
-(v) spare parts and materials used in the maintenance of equipment
-and buildings;
+(v) spare parts and materials used in the maintenance of
+equipment and buildings;
 (vi) lubricants, oils compound products and other products used
 in the production process, equipment operation or maintenance of building; and
 (vii) any other material or product which is not incorporated in the
@@ -199,12 +195,10 @@ For the purpose of the origin requirements, materials or products originating in
 ARTICLE VIII
 Regional Value Content
 The Regional Value Content (RVC) of the goods shall be calculated based on the transaction value method, applying the following formula:
-RVC = [(TV-NOG)/TV] •100 where;
-RVC = Regional Value Content expressed as percentage;
-TV = Transaction Value of the merchandise, adjusted on an FOB
-base;
-NOG = Value of non-originating goods used in the production of
-the final product.
+RVC = [(TV-NOG)/TV] •100 where; RVC = Regional Value Content expressed as percentage; TV = Transaction Value of the merchandise, adjusted on
+an FOB base;
+NOG = Value of non-originating goods used in the
+production of the final product.
 2. Where the value of the goods is on a basis other than FOB it shall be adjusted to FOB for purposes of this Article.
 3. When the origin is determined by the Regional Value Content, the required percentage shall be specified in the Attachment to this Appendix.
 4. All costs considered in the calculation of Regional Value Content, shall be registered and kept in accordance with generally accepted accounting principles, applicable in the territory of the Party where the good is produced.
@@ -224,10 +218,10 @@ The rules governing assembly goods shall be defined on a case-by-case basis in t
 ARTICLE XIII
 Accessories, Spare Parts and Tools
 The accessories, spare parts and tools dispatched with a piece of equipment, machine, apparatus or vehicle which are part of the normal equipment, will not be considered in determining if all non-originating materials or products used in the production of a piece of equipment, machine, apparatus or vehicle comply with the correspondent change in the classification established in this Appendix and its Attachment, provided that-
-(i) the accessories, parts and tools are not separately billed from
-the piece of equipment, machine, apparatus or vehicle, regardless of any detailed information contained in the invoice; and
-(ii) the quantity and the value of these accessories, parts and tools
-are the normal ones used for related goods.
+(i) the accessories, parts and tools are not separately billed from the
+piece of equipment, machine, apparatus or vehicle, regardless of any detailed information contained in the invoice; and
+(ii) the quantity and the value of these accessories, parts and
+tools are the normal ones used for related goods.
 The origin of the accessories, parts and tools that do not fulfil the conditions in the preceding paragraph will be determined by applying the corresponding rule of origin to each one of them separately.
 ARTICLE XIV
 Treatment of Retail Packing
@@ -241,8 +235,8 @@ Direct Transport
 In order for goods to benefit from the preferential treatment provided for under this Agreement, they must be directly delivered from the exporting country to the importing country.
 For this purpose, the following shall be considered as direct consignment:
 (i) goods transported without going through third countries;
-(ii) goods transported in transit through one or more third countries,with
-or without transhipment or temporary storage under the surveillance of Customs Authorities of such countries, provided that-
+(ii) goods transported in transit through one or more third
+countries, with or without transhipment or temporary storage under the surveillance of Customs Authorities of such countries, provided that-
 (a) the transit is justified by geographical reasons or by
 considerations related to transport requirements;
 (b) they are not designed for trade or use in the transit
@@ -257,7 +251,7 @@ ARTICLE XVIII
 Declaration and Certification of Origin
 The Certificate of Origin shall include-
 (i) a declaration by the exporter or the final producer that the
-origin requirements prescribed in this Appendix have been met;
+origin requirements prescribed in thisAppendix have been met;
 (ii) a certificate by the authorised body of the exporting country
 that the declaration by the exporter or the final producer, as the case may be, is accurate.
 2. Where the exporter is not the final producer of the goods or products, the former shall present the declaration of origin to the authorised body.
@@ -268,8 +262,8 @@ that the declaration by the exporter or the final producer, as the case may be, 
 7. The Certificate of Origin shall be valid for a period of 180 days from the date of issue.
 8. Where the goods traded under this Agreement are accompanied by a Certificate of Origin, that Certificate shall be deemed to satisfy the requirement of the Consular Invoice.
 ARTICLE XIX
-The Functions and Obligations of Bodies Authorised to carry out
-Certification
+The Functions and Obligations of Bodies Authorised to carry
+out Certification
 The Bodies authorised by the Parties to carry out Certification will-
 (i) verify the accuracy of the declaration presented to them by
 the final producer or the exporter by way of systems or procedures which ensure the accuracy of the data;
@@ -287,22 +281,21 @@ This exception will not apply where the imports are proven to be the result of t
 ARTICLE XXII
 Confidentiality
 Each Party shall maintain, in accordance with its national legislation, the confidentiality of confidential business information collected pursuant to this Agreement and shall protect that information from disclosure that could prejudice the competitive position of the persons providing the information.
-The confidential business information collected pursuant to this Agreement may be disclosed only to those authorities responsible for the administration and enforcement of determinations of origin and of Customs and revenue matters.
+The confidential business information collected pursuant to thisAgreement may be disclosed only to those authorities responsible for the administration and enforcement of determinations of origin and of Customs and Revenue matters.
 ARTICLE XXIII
 Origin Verification
 For purposes of determining whether goods imported into its territory from the territory of another Party qualify as originating goods, a Party may conduct verification solely by means of-
 (i) submitting to the competent authority of the exporting Party
 request for information from an exporter or a producer, in a territory of another Party;
-(ii) visits to the premises of an exporter or producer in the territory
-of another Party to review records and observe the production of the goods;
-(iii) other procedures agreed upon by the Parties whenever
-necessary.
+(ii) visits to the premises of an exporter or producer in the
+territory of another Party to review records and observe the production of the goods;
+(iii) other procedures agreed upon by the Parties whenever necessary.
 2. Prior to conducting verification pursuant to paragraph 1, a Party shall, through its designated entity, notify the competent authority of the exporting Party of its intention to carry out verification. Within five (5) days of dispatch of this notification, the competent authority in the exporting Party shall notify the exporter and/or the producer of the goods.
 3. The competent authority of the importing Party shall obtain the written consent of the exporter or producer of the goods whose premises are to be visited.
 4. The notification of visits which are provided for in paragraph 1(ii) shall include-
 (i) the identity of the designated entity issuing the notification;
-(ii) the name of the exporter or producer whose premises are to be
-visited;
+(ii) the name of the exporter or producer whose premises are to
+be visited;
 (iii) the date and place of the proposed verification visit;
 (iv) the object and scope of the verification visit, including specific
 reference to the goods which are the subject of the verification;
@@ -311,10 +304,10 @@ the visit; and
 (vi) the legal basis for the verification visit.
 5. The competent authority of the exporting Party may, at the request of the Party wishing to carry out verification pursuant to paragraph 1, call on the producer or the exporter to make available, inter alia, documentation and accounting records and permit inspection of materials, production facilities and processes.
 6. Where a verification has been notified, any modification of the information referred to in this Article shall be notified in writing to the competent authority of the exporting Party, who in turn shall immediately notify the modifications to the producer or the exporter. Such modifications shall be notified by the importing Party no later than fifteen (15) days after the initial notification.
-7. Where an exporter or a producer does not either give written consent to a proposed verification visit or provide any information requested as provided for in this Article within thirty (30) days of despatch of the notification, the Party which has notified intention to carry out verification may deny preferential tariff treatment to goods which would have been the subject of such verification.
-8. The Competent Authority of the importing Party may grant to the competent authority of the exporting Party an extension of not more than ten
-(10) days for the submission of any documents which may be required to support an application for verification of origin under this Agreement.
-9. Each Party shall provide that, where its competent authority receives notification, the competent authority may, within seven (7) days of receipt of the notification, postpone the proposed verification visit for a period not exceeding fifteen (15) days from the date of such receipt or for such longer period as the Parties may agree.
+7. Where an exporter or a producer does not either give written consent to a proposed verification visit or provide any information requested as provided for in thisArticle within thirty (30) days of despatch of the notification, the Party which has notified intention to carry out verification may deny preferential tariff treatment to goods which would have been the subject of such verification.
+8. The Competent Authority of the importing Party may grant to the competent authority of the exporting Party an extension of not more than ten (10) days for the submission of any documents which may be required to support an application for verification of origin under this Agreement.
+9. Each Party shall provide that, where its competent authority receives notification, the competent authority may, within seven (7) days of receipt of the notification, postpone the proposed verification visit for a period not exceeding fifteen
+(15)daysfromthedateofsuchreceiptorforsuchlongerperiodasthePartiesmayagree.
 10. The Parties shall permit an exporter or a producer whose goods are the subject of a verification visit to designate two observers to be present during the visit, providing that-
 (i) the observers do not participate in a manner other than as
 observers; and
@@ -337,19 +330,19 @@ APPENDIX VI TO ANNEX I
 TECHNICAL BARRIERS TO TRADE
 ARTICLE I
 Definitions
-For the purposes of this Appendix the terms defined in the Seventh Edition (1996) of the ISO/IEC Guide 2 Standardisation and related activities-General Vocabulary, shall, when used in this Appendix have the same meaning given in the said Guide. In addition, the following definitions shall apply:
-Risk Assessment- The evaluation of the potential of adverse effects to the health and safety of human, animal or plant life, or to the environment resulting from any goods or services traded between the Parties.
-Standards-related Measure- A standard, technical regulation or conformity assessment procedure.
-Standard- A document approved by a recognised body, that provides for common and repeated use, rules, guidelines or characteristics for products or related processes and production methods, with which compliance is not mandatory. It may also include or deal exclusively with terminology, symbols, packaging, marking or labelling requirements as they apply to a product, process or production method.
-International Standard- A standard or other guide or recommendation, adopted by an international standardising body and made available to the public.
-Legitimate Objectives- Objectives such as safety, protection of human, animal or plant life or health, the environment or consumers (including matters relating to quality and identifiability of goods or services); or, sustainable development, considering, among other things, where appropriate, fundamental climatic, geographical, technological or infrastructural factors or scientific justification.
-Conformity Assessment Procedure- Any procedure used directly or indirectly, to determine that relevant requirements in technical regulations or standards are satisfied.
-Technical Regulation- Document which lays down product characteristics or their related processes and production methods, including applicable administrative provisions, with which compliance is mandatory. It may also include or deal exclusively with terminology, symbols, packaging, marking or labelling requirements as they apply to a product, process or production method.
-Service- Any service within the scope of this Appendix that is subject to standards-related or metrology measures including standardisation, metrology and conformity assessment services themselves.
-Administrative Rejection- Any action taken by a public administration agency of the importing Party, to restrict the entry to its territory of a shipment or the provision of a service, due to technical reasons.
-Dangerous Wastes- Any material generated in the extraction, transformation, production, consumption, utilisation, control or treatment processes, whose properties do not allow for its re-use, and that, due to its corrosive, toxic, poisonous, reactive, radioactive, explosive, flammable, biologically infectious or irritating characteristics, represents a hazard to health or to the environment.
-Hazardous Substance- Any substance that is hazardous to health and safety of human, animal or plant life, or to the environment and that is identified as such by national and international agencies.
-Make Compatible- To bring different standards-related measures of the same scope approved by different standardising bodies to a level such that they are either identical, equivalent, or have the effect of permitting goods or services to be used in place of one another or fulfil the same purpose.
+For the purposes of this Appendix the terms defined in the Seventh Edition (1996) of the ISO/IEC Guide 2 Standardisation and related activities- General Vocabulary, shall, when used in this Appendix have the same meaning given in the said Guide. In addition, the following definitions shall apply:
+Risk Assessment-The evaluation of the potential of adverse effects to the health and safety of human, animal or plant life, or to the environment resulting from any goods or services traded between the Parties.
+Standards-related Measure-A standard, technical regulation or conformity assessment procedure.
+Standard-A document approved by a recognised body, that provides for common and repeated use, rules, guidelines or characteristics for products or related processes and production methods, with which compliance is not mandatory. It may also include or deal exclusively with terminology, symbols, packaging, marking or labelling requirements as they apply to a product, process or production method.
+International Standard-A standard or other guide or recommendation, adopted by an international standardising body and made available to the public.
+Legitimate Objectives-Objectives such as safety, protection of human, animal or plant life or health, the environment or consumers (including matters relating to quality and identifiability of goods or services); or, sustainable development, considering, among other things, where appropriate, fundamental climatic, geographical, technological or infrastructural factors or scientific justification.
+Conformity Assessment Procedure-Any procedure used directly or indirectly, to determine that relevant requirements in technical regulations or standards are satisfied.
+Technical Regulation-Document which lays down product characteristics or their related processes and production methods, including applicable administrative provisions, with which compliance is mandatory. It may also include or deal exclusively with terminology, symbols, packaging, marking or labelling requirements as they apply to a product, process or production method.
+Service-Any service within the scope of this Appendix that is subject to standards-related or metrology measures including standardisation, metrology and conformity assessment services themselves.
+Administrative Rejection-Any action taken by a public administration agency of the importing Party, to restrict the entry to its territory of a shipment or the provision of a service, due to technical reasons.
+Dangerous Wastes-Any material generated in the extraction, transformation, production, consumption, utilisation, control or treatment processes, whose properties do not allow for its re-use, and that, due to its corrosive, toxic, poisonous, reactive, radioactive, explosive, flammable, biologically infectious or irritating characteristics, represents a hazard to health or to the environment.
+Hazardous Substance-Any substance that is hazardous to health and safety of human, animal or plant life, or to the environment and that is identified as such by national and international agencies.
+Make Compatible-To bring different standards-related measures of the same scope approved by different standardising bodies to a level such that they are either identical, equivalent, or have the effect of permitting goods or services to be used in place of one another or fulfil the same purpose.
 ARTICLE II
 Scope of Application
 This Appendix applies to the standards-related and metrological measures of the Parties, as well as to other related measures that may directly or indirectly affect trade in goods or services between the Parties.
@@ -367,8 +360,8 @@ Risk Assessment
 Each Party may conduct risk assessment in its territory, provided that such assessment does not have the intention, or effect of creating unnecessary obstacles to trade between them. In so doing, the Parties shall take into consideration the risk assessment methods developed by international agencies.
 2. When conducting risk assessment, the Party performing it shall take into consideration all available pertinent scientific evidence, technical information, the intended end use, and the associated technology.
 3. Once the protection level that is considered adequate has been established and the risk assessment conducted, each Party shall avoid making arbitrary or unjustifiable distinctions between similar goods and services, if those distinctions-
-(i) result in arbitrary or unjustifiable discrimination against goods
-or services-providers of the other Party;
+(i) result in arbitrary or unjustifiable discrimination against
+goods or services-providers of the other Party;
 (ii) constitute a disguised restriction on trade between the
 Parties; or
 (iii) discriminate between similar goods or services for the same
@@ -386,7 +379,7 @@ If it is of mutual benefit, each Party shall in a reciprocal manner, accredit, a
 2. The Parties may utilise the technical and institutional capability of the conformity assessment bodies established in the territory of the Parties, and recognised in accordance with paragraph 1 of this Article.
 3. Whenever it is possible, the Parties shall provide for the carrying out of conformity assessment procedures in production facilities and the issuing of marks of conformity assessments when the product satisfies the requirements of the standard or technical regulation.
 4. Each Party shall acknowledge the results of the conformity assessment procedures in the other Party's territory.
-5. Prior to acceptance of results of a conformity assessment procedure pursuant to paragraph 4 of this Article and to enhance confidence in the continued reliability of each other's conformity assessment results, the Parties may consult on such matters as the technical competence of the conformity assessment bodies involved, including verified compliance with relevant international standards.
+5. Prior to acceptance of results of a conformity assessment procedure pursuant to paragraph 4 of thisArticle and to enhance confidence in the continued reliability of each other's conformity assessment results, the Parties may consult on such matters as the technical competence of the conformity assessment bodies involved, including verified compliance with relevant international standards.
 6. The Parties shall ensure the confidentiality of information about products or services originating in the territory of the other Party arising from, or supplied in connection with, conformity assessment procedures in the same way as for domestic products and in such a manner that legitimate commercial interests are protected.
 ARTICLE VIII
 Metrological Standards
@@ -407,23 +400,24 @@ publish a notice and notify the other Party in writing, using the same form of n
 of the proposed measure, and whenever possible, identify the parts which in substance deviate from relevant international standards;
 (iii) allow reasonable time for the other Party to make comments
 in writing, discuss these comments upon request; and take these written comments and the results of these discussions into account;
-(iv) provide the other Party, through the Enquiry Point, with a copy
-of the finalised measure to be implemented;
+(iv) provide the other Party, through the Enquiry Point, with a
+copy of the finalised measure to be implemented;
 (v) where urgent problems of safety, health, environmental
 protection or national security arise or threaten to arise for a Party, that Party may omit any of the steps enumerated in paragraph (iii) of this Article as it finds necessary, provided that the Party upon adoption of the measure notifies the other Party of the nature of the urgent problem, provides copies of the measure and takes any comments into consideration;
 (vi) each Party shall annually, or as later determined, notify in
 writing the other Party of its standardisation work programme;
 (vii) when one of the Parties administratively refuses a shipment
 or a service provision due to non-compliance with a standards-related or metrological measure it shall notify in writing, without delay, the owner(s) of the shipment or the service provider(s) the technical justification for the refusal;
-(viii) a copy of the technical justification provided for in
-paragraph (vii) of this Article shall immediately be notified to the Enquiry Points of the other Party;
-(ix) unless otherwise specified, any notification required under this
-Article shall be issued through the Enquiry Point designated under Article XI.
+(viii) a copy of the technical justification provided for in paragraph
+(vii) of this Article shall immediately be notified to the Enquiry Points of the other Party;
+(ix) unless otherwise specified, any notification required under
+this Article shall be issued through the Enquiry Point designated under Article XI.
 ARTICLE XI
 Enquiry Points
 Each Party shall ensure that an Enquiry Point exists, which is able to respond to all reasonable enquiries from the other Party, and other interested person(s), as well as to provide the relevant documents regarding standards-related and metrological measures adopted or proposed in its territory by Governmental or non-Governmental agencies.
 2. The Parties shall inform each other of the institutions which they have designated as Enquiry Points.
-3. Each Party shall take reasonable measures to ensure that where copies of documents are requested by the other Party, or by other interested person(s) in accordance with paragraph (i) of this Article, they are supplied at an equitable price (if any) which shall, apart from the actual cost of delivery, be the same for the nationals of the Party concerned. "Nationals" here shall be deemed, in the case of a separate Customs Territory Party, to mean persons, natural or legal, who are domiciled or who have a real and effective industrial or commercial establishment in that Customs territory.
+3. Each Party shall take reasonable measures to ensure that where copies of documents are requested by the other Party, or by other interested person(s) in accordance with paragraph (i) of this Article, they are supplied at an equitable price (if any) which shall, apart from the actual cost of delivery, be the same for the nationals of the Party concerned.
+"Nationals" here shall be deemed, in the case of a separate Customs Territory Party, to mean persons, natural or legal, who are domiciled or who have a real and effective industrial or commercial establishment in that Customs territory.
 ARTICLE XII
 Handling of Hazardous Substances and Waste
 The Parties shall apply the provisions, guidelines or recommendations of the pertinent United Nations Convention, the Basle Convention and the relevant international agreements and standards to which the Parties adhere in addition to the existing legislation of the Parties for the control and handling of hazardous substances and dangerous waste.
@@ -450,69 +444,69 @@ necessary, all pertinent facts as well as the different national and regional co
 (ii) is only maintained when there is scientific justification;
 (iii) is based on a risk assessment that is appropriate to the
 circumstances;
-(iv) does not restrict trade more than is necessary in order to protect
-human, animal or plant life or health;
+(iv) does not restrict trade more than is necessary in order to
+protect human, animal or plant life or health;
 (v) does not have as an objective or consequence, a disguised
 restriction on trade between the Parties; and
 (vi) is based on national/regional/international standards,
 guidelines or recommendations, or on the imminent adoption of such measures except when these measures do not constitute an adequate and effective means of protecting human, animal or plant life or health in its territory.
 3. Notwithstanding any other provision of this Appendix, each Party, in order to protect human, animal or plant life or health in its territory, has the right to establish appropriate levels of protection, taking into account the associated risk from the point of view of consequences for the introduction, establishment or spread of a pest or disease. For this purpose, the methodologies of analysis and risk assessment of relevant international organisations, CODEX ALIMENTARIUS, International Plant Protection Convention (IPPC), and the International Office of Epizootics (IOE), as well as relevant specialised regional organisations to which the Parties are members, shall be taken into account.
 4. The risk assessment conducted by the importing Party in order to establish the respective Sanitary and Phyto-Sanitary Measures shall be completed within four months from the date when the analysis is requested of the competent authority. By mutual agreement, an extension of one month will be granted when necessary.
-5. Each Party shall inform the Committee for Sanitary and Phyto-Sanitary Measures of its Competent Notifying Authority and shall utilise the designated Enquiry Points as the channel for notifying the other Party.
+5. Each Party shall inform the Committee for Sanitary and Phyto- Sanitary Measures of its Competent Notifying Authority and shall utilise the designated Enquiry Points as the channel for notifying the other Party.
 6. The Parties shall abide by the control, inspection and approval procedures for the application of Sanitary and Phyto-Sanitary Measures contained in Article III.
 7. The Parties shall not apply punitive Sanitary and Phyto-Sanitary Measures in the context of their reciprocal trade relations. The application of retaliatory measures will be considered punitive.
 ARTICLE II
 Definitions
 For the purpose of this Appendix, the following definitions shall apply:
-Animal- Any vertebrate or invertebrate, including acquatic and wild fauna. Appropriate Level of Sanitary or Phyto-Sanitary Protection- The level of protection deemed appropriate by the Party establishing a Sanitary or Phyto-Sanitary Measure to protect human, animal or plant life or health within its territory.
-Approval Procedure- Any registration, certification, notification or any other obligatory administrative procedure for approving the use of an additive or to establish a level of tolerance for contaminants for defined purposes or under conditions agreed upon for food, beverage or feedstuffs prior to permitting its use or commercialisation whenever any of these contains the additive or contaminant.
-Area of Low Pest or Disease Prevalence- An area, whether all of a country, part of a country or all or parts of several countries, as identified by the competent authorities, in which a specific pest or disease occurs at low levels, and which are subject to effective surveillance, control or eradication measures.
+Animal-Any vertebrate or invertebrate, including acquatic and wild fauna. Appropriate Level of Sanitary or Phyto-Sanitary Protection-The level of protection deemed appropriate by the Party establishing a Sanitary or Phyto-Sanitary Measure to protect human, animal or plant life or health within its territory.
+Approval Procedure-Any registration, certification, notification or any other obligatory administrative procedure for approving the use of an additive or to establish a level of tolerance for contaminants for defined purposes or under conditions agreed upon for food, beverage or feedstuffs prior to permitting its use or commercialisation whenever any of these contains the additive or contaminant.
+Area of Low Pest or Disease Prevalence-An area, whether all of a country, part of a country or all or parts of several countries, as identified by the competent authorities, in which a specific pest or disease occurs at low levels, and which are subject to effective surveillance, control or eradication measures.
 Biological Products-
 (i) biological reagents for use in the diagnosis of certain diseases;
 (ii) sera for use in the prevention or treatment of certain diseases;
 (iii) inactivated or modified vaccines for use in the preventive
 vaccination against certain diseases;
 (iv) microbial genetic material.
-Contaminant- Any substance not intentionally added to food, which is present in such food as a result of the production (including operations carried out in crop husbandry, animal husbandry and veterinary medicine), manufacture, processing, preparation, treatment, packing, packaging, transport or holding of such food or as a result of environmental contamination. The term does not include insect fragments, rodent hairs and other extraneous matter.
-Control or Inspection Procedure- Any procedure utilised directly or indirectly to determine compliance with a Sanitary or Phyto-Sanitary Measure. This includes sampling, testing, inspection, verification, monitoring, auditing, conformance evaluation, accreditation and other procedures involving the physical examination of the goods, packaging equipment and installations directly related to the production commercialisation or utilisation of goods, but not referred to as an approval procedure.
-Disease- A clinical or sub-clinical infection caused by one or more aetiological agents as listed in the IOE and IPPC Codes. Feedstuffs- Balanced daily food allowance for animal use.
-Food- Any substance, whether processed, semi-processed or raw, which is intended for human consumption, and includes drink, chewing gum and any substance which has been used in the manufacture, preparation or treatment of "food" but does not include cosmetics or tobacco or substances used only as drugs.
-Food Additive- Any substance not normally consumed as a food by itself and not normally used as a typical ingredient of the food, whether or not it has nutritive value, the intentional addition of which to food for a technological (including organoleptic) purpose in the manufacture, processing, preparation, treatment, packing, packaging, transport or holding of such food results, or may be reasonably expected to result (directly or indirectly) in it or its by-products becoming a component of or otherwise affecting the characteristics of such foods. The term does not include "contaminants" or substances added to food for maintaining or improving nutritional qualities.
-Food Safety- Quality that ensures that food is free of risk to human health.
-Goods- Food, animals, plants, their products and by-products, and biological products.
-Harmonisation- The establishment, recognition and application of common Sanitary and Phyto-Sanitary Measures by the Parties.
+Contaminant-Any substance not intentionally added to food, which is present in such food as a result of the production (including operations carried out in crop husbandry, animal husbandry and veterinary medicine), manufacture, processing, preparation, treatment, packing, packaging, transport or holding of such food or as a result of environmental contamination. The term does not include insect fragments, rodent hairs and other extraneous matter.
+Control or Inspection Procedure-Any procedure utilised directly or indirectly to determine compliance with a Sanitary or Phyto-Sanitary Measure. This includes sampling, testing, inspection, verification, monitoring, auditing, conformance evaluation, accreditation and other procedures involving the physical examination of the goods, packaging equipment and installations directly related to the production commercialisation or utilisation of goods, but not referred to as an approval procedure.
+Disease-A clinical or sub-clinical infection caused by one or more aetiological agents as listed in the IOE and IPPC Codes. Feedstuffs-Balanced daily food allowance for animal use.
+Food-Any substance, whether processed, semi-processed or raw, which is intended for human consumption, and includes drink, chewing gum and any substance which has been used in the manufacture, preparation or treatment of "food" but does not include cosmetics or tobacco or substances used only as drugs.
+Food Additive-Any substance not normally consumed as a food by itself and not normally used as a typical ingredient of the food, whether or not it has nutritive value, the intentional addition of which to food for a technological (including organoleptic) purpose in the manufacture, processing, preparation, treatment, packing, packaging, transport or holding of such food results, or may be reasonably expected to result (directly or indirectly) in it or its by-products becoming a component of or otherwise affecting the characteristics of such foods. The term does not include "contaminants" or substances added to food for maintaining or improving nutritional qualities.
+Food Safety-Quality that ensures that food is free of risk to human health.
+Goods-Food, animals, plants, their products and by-products, and biological products.
+Harmonisation-The establishment, recognition and application of common Sanitary and Phyto-Sanitary Measures by the Parties.
 International Standards, Guidelines and Recommendations-
-(i) for food safety: the standards, guidelines and recommendations
-established by the CODEX ALIMENTARIUS COMMISSION relating to food additives, veterinary drug and pesticide residues, contaminants, methods of analysis and sampling, and codes and guidelines of hygienic practice;
+(i) for food safety: the standards, guidelines and
+recommendations established by the CODEX ALIMENTARIUS COMMISSION relating to food additives, veterinary drug and pesticide residues, contaminants, methods of analysis and sampling, and codes and guidelines of hygienic practice;
 (ii) for animal health and zoonoses: the standards, guidelines and
 recommendations developed under the auspices of the International Office of Epizootics;
 (iii) or plant health: the international standards guidelines and
 recommendations developed under the auspices of the Secretariat of the International Plant Protection Convention in co-operation with regional organisations operating within the framework of the International Plant Protection Convention; and
 (iv) for matters not covered by the above organisations: appropriate
 standards, guidelines and recommendations promulgated by other relevant international organisations open for membership to the Parties, as identified by the Committee on Sanitary and Phyto-Sanitary Measures.
-Pest- Any species, strain or biotype of plant, animal or pathogenic agent, injurious to plants, animals and their products.
-Pest or Disease-Free Area- An area, whether all of a country, part of a country, or all or parts of several countries, as identified by the competent authorities, in which a specific pest or disease does not occur. A pest or disease-free area may surround, be surrounded by or be adjacent to an area, whether within part of a country or in a geographic region which includes parts of or all of several countries in which a specific pest or disease is known to occur but is subject to regional control measures such as the establishment of protection, surveillance and buffer zones which will confine or eradicate the pest or disease in question.
-Pesticide- Any substance intended for preventing, destroying, attracting, repelling, or controlling any pest including unwanted species of plants or animals during the production, storage, transport, distribution and processing of food agricultural commodities, or animal feeds or which may be administered to animals for the control of ectoparasites. The term includes substances intended for use as a plant-growth regulator, defoliant, desiccant, fruit thinning agent, or sprouting inhibitor and substances applied to crops either before or after harvest to protect the commodity from deterioration during storage and transport. The term normally excludes fertilizers, plant and animal nutrients, food additives, and animal drugs.
-Pesticide Residues- Any specified substance in food, agricultural commodities, or animal feed resulting from the use of a pesticide. The term includes any derivatives of a pesticide such as conversion products, metabolites, reaction products, and impurities considered to be of toxicological significance.
-Plants- Live plants and parts thereof, including seeds and germ plasm, forest and wild flora.
-Risk Assessment- The evaluation of the likelihood of entry, establishment or spread of a pest or disease within the territory of an importing Party according to the Sanitary or Phyto-Sanitary Measures which might be applied, and of the associated potential biological and economic consequences; or the evaluation of the potential for adverse effects on human or animal health arising from the presence of additives,
+Pest-Any species, strain or biotype of plant, animal or pathogenic agent, injurious to plants, animals and their products.
+Pest or Disease-Free Area-An area, whether all of a country, part of a country, or all or parts of several countries, as identified by the competent authorities, in which a specific pest or disease does not occur. A pest or disease-free area may surround, be surrounded by or be adjacent to an area, whether within part of a country or in a geographic region which includes parts of or all of several countries in which a specific pest or disease is known to occur but is subject to regional control measures such as the establishment of protection, surveillance and buffer zones which will confine or eradicate the pest or disease in question.
+Pesticide-Any substance intended for preventing, destroying, attracting, repelling, or controlling any pest including unwanted species of plants or animals during the production, storage, transport, distribution and processing of food agricultural commodities, or animal feeds or which may be administered to animals for the control of ectoparasites. The term includes substances intended for use as a plant-growth regulator, defoliant, desiccant, fruit thinning agent, or sprouting inhibitor and substances applied to crops either before or after harvest to protect the commodity from deterioration during storage and transport. The term normally excludes fertilisers, plant and animal nutrients, food additives, and animal drugs.
+Pesticide Residues-Any specified substance in food, agricultural commodities, or animal feed resulting from the use of a pesticide. The term includes any derivatives of a pesticide such as conversion products, metabolites, reaction products, and impurities considered to be of toxicological significance.
+Plants-Live plants and parts thereof, including seeds and germ plasm, forest and wild flora.
+Risk Assessment-The evaluation of the likelihood of entry, establishment or spread of a pest or disease within the territory of an importing Party according to the Sanitary or Phyto-Sanitary Measures which might be applied, and of the associated potential biological and economic consequences; or the evaluation of the potential for adverse effects on human or animal health arising from the presence of additives,
 contaminants, toxins or disease-causing organisms in food, feedstuffs and beverages.
 Sanitary or Phyto-Sanitary Measures-
 (i) to protect animal or plant life or health within the territory of
 the Party from risks arising from the entry, establishment or spread of pests, diseases, disease-carrying organisms or disease-causing organisms;
 (ii) to protect human or animal life or health within the territory
 of the Party from risks arising from additives, contaminants, toxins or disease-causing organisms in foods, beverages or feedstuffs;
-(iii) to protect human life or health within the territory of the Party
-from risks arising from diseases carried by animals, plants or products thereof, or from the entry, establishment or spread of pests; or
+(iii) to protect human life or health within the territory of the
+Party from risks arising from diseases carried by animals, plants or products thereof, or from the entry, establishment or spread of pests; or
 (iv) to prevent or limit other damage within the territory of the
 Party from the entry, establishment or spread of pests.
 Sanitary or Phyto-Sanitary Measures include all relevant laws, decrees, regulations, requirements and procedures including, inter alia, end product criteria processes and production methods; testing, inspection, certification and approval procedures; quarantine treatments including relevant requirements associated with the transport of animals or plants, or with the materials necessary for their survival during transport; provisions on relevant statistical methods, sampling procedures and methods of risk assessment; and packaging and labelling requirements directly related to food safety.
-Scientific Information- Data or Information derived from scientific principles and methods.
-Transportation- Means or mode of transport, and the form of packaging; used for the movement of goods, as established by a Sanitary or Phyto- Sanitary Measure.
+Scientific Information-Data or Information derived from scientific principles and methods.
+Transportation-Means or mode of transport, and the form of packaging; used for the movement of goods, as established by a Sanitary or Phyto-Sanitary Measure.
 ARTICLE III
 Control, Inspection and Approval Procedures in the Application of
 Sanitary and Phyto-Sanitary Measures
-In order to expedite the application of Sanitary and Phyto-Sanitary Measures in the territories of the Parties, and to facilitate trade flows, the procedures for control, inspection and approval of Sanitary and Phyto-Sanitary Measures will be governed by the provisions of this Article.
+In order to expedite the application of Sanitary and Phyto-Sanitary Measures in the territories of the Parties, and to facilitate trade flows, the procedures for control, inspection and approval of Sanitary and Phyto- Sanitary Measures will be governed by the provisions of this Article.
 2. Transparency: In order to ensure adequate transparency in the adoption and application of Sanitary and Phyto-Sanitary Measures the competent Notifying Authorities and Enquiry Points will utilise formats that are the same as or similar to those designed and utilised by the WTO Committee for Sanitary and Phyto-Sanitary Measures.
 3. Harmonisation: The Parties shall use international organisations and other specialised regional fora in the harmonisation of their Sanitary and Phyto-Sanitary Measures.
 4. Sanitary and Phyto-Sanitary Status: The Parties shall accept as valid, the Sanitary and Phyto-Sanitary status in accordance with the FAO database (food safety and plant health), the OIE database (animal health) and databases of relevant specialised regional organisations. In case of reasonable query by one Party, reasonable access for inspections, tests and other procedures will be permitted by mutual agreement in order to verify the said status.
