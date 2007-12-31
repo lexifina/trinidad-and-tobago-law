@@ -100,8 +100,12 @@ s-89.md
 s-90.md
 s-91.md
 s-92.md
+s-92A.md
+s-92B.md
 s-93.md
 s-94.md
+s-94A.md
+s-94B.md
 s-95.md
 s-96.md
 s-97.md

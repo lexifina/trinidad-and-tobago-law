@@ -1,23 +1,30 @@
 CHILDREN ACT
 CHAPTER 46:01
 Act
-4 of 1925
-Amended by
-20 of 1936 45 of 1979 14 of 1939 15 of 1981 24 of 1946 17 of 1981 44 of 1946 27 of 1986 6 of 1953 18 of 1994 40 of 1961 19 of 1994* 16 of 1962 28 of 1996 136/1976 68 of 2000* 20 of 1979 2 of 2002
+4 of 1925 Amended by 20 of 1936 45 of 1979
+15 of 1981 14 of 1939 17 of 1981 24 of 1946
+27 of 1986 44 of 1946
+18 of 1994
+6 of 1953
+19 of 1994* 40 of 1961
+28 of 1996 16 of 1962 68 of 2000* 136/1976 2 of 2002
+3 of 2007 20 of 1979
 *See Note on page 2
 Note on Subsidiary Legislation
 This Chapter contains no subsidiary legislation.
 Sitting of Juvenile Court
 For the sittings of the Juvenile Court under this Act, see GN 170/1979 and LN 91/1981.
 Maintenance Orders
-For Maintenance Orders under sections 13 and 65 of this Act see Schedule 1, Item 6, to the Attachment of Earnings (Maintenance) Act (Ch. 45:52).
+For Maintenance Orders under sections 13 and 65 of this Act see Schedule I, Item 6, to the Attachment of Earnings (Maintenance) Act (Ch. 45:52).
 Note on Act No. 19 of 1994
 Section 15 of Act No. 19 of 1994 provides as follows:
-15. The taking of a child or young person to a place of safety under "Validating of
-acts done under
-the Act or the making of an Order under the Act in respect of an offence
+15. The taking of a child or young person to a place of safety under
+"Validating of
+the Act or the making of an Order under the Act in respect of an offence acts done under
 repealed
-specified in a provision referred to in the Schedule to the Act which was provisions. repealed by the First Schedule to the Sexual Offences Act is not invalid by
+specified in a provision referred to in the Schedule to the Act which was
+provisions.
+repealed by the First Schedule to the Sexual Offences Act is not invalid by
 Ch. 11:28.
 reason solely of that repeal.".
 Note on Act No. 68 of 2000
@@ -47,8 +54,8 @@ FOR SAFETY OF CHILDREN
 Release on bail of persons arrested without warrant.
 11. Detention of child or young person in place of safety. Order pending hearing. Order pending enquiry.
 ARRANGEMENT OF SECTIONS-Continued SECTION
-11A. Child or young person to appear before Magistrate in eight days once
-taken to a place of safety.
+11A. Child or young person to appear before Magistrate in eight days
+once taken to a place of safety.
 12. Disposal of child or young person by order of Court. No order if child has fit, legal guardian. Order, how made. Order void on acquittal. Discharge. Rules. Emigration. Orphanage.
 13. Maintenance and control of child or young person committed to care
 of any person under order of Court.
@@ -111,7 +118,9 @@ ARRANGEMENT OF SECTIONS-Continued
 SECTION
 Remission of contributions. Contribution by person other than parent. Attachment of pension or income. Enforcement of payment of contributions.
 SUPPLEMENTAL PROVISIONS
-66. Power to send offenders conditionally pardoned to Industrial School. 67. Persons in charge of youthful offenders to have powers of constable. 68. Orders and notices. 69. Rules respecting evidence of documents. 70. Rules. Approval by Parliament. Forms.
+66. Power to send offenders conditionally pardoned to Industrial
+School.
+67. Persons in charge of youthful offenders to have powers of constable. 68. Orders and notices. 69. Rules respecting evidence of documents. 70. Rules. Approval by Parliament. Forms.
 PART IV
 JUVENILE OFFENDERS
 71. Bail of children and young persons arrested. 72. Custody of children and young persons not discharged on bail
@@ -133,7 +142,10 @@ of detention.
 PART V
 RESTRICTIONS ON EMPLOYMENT OF
 YOUNG PERSONS
-88. Interpretation of Part V. 89. President may define industrial undertakings. 90. Restrictions on employment at night of persons under eighteen years. 91. Restrictions on employment of children under fourteen years. 92. Employer to keep register of persons under sixteen years. 93. Persons under fourteen years not to be employed on vessels. 94. Prohibition of employment of child under twelve years. Penalty for employment. Neglectful parent. Liability of agent or employer. False certificate or representation as to age.
+88. Interpretation of Part V. 89. President may define industrial undertakings. 90. Restrictions on employment at night of persons under eighteen years. 91. Restrictions on employment of children under the age of sixteen years. 92. Employer to keep register of persons under the age of eighteen years.
+92A. Inspectors. 92B. Powers of entry. (Repealed by Act No. 3 of 2007). 93.
+94. Neglectful parent.
+94A. Liability of agent or employer. 94B. False certificate or representation of age.
 95. Presumption of age. 96. Penalties.
 PART VI
 MISCELLANEOUS AND GENERAL
