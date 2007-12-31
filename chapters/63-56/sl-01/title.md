@@ -27,9 +27,10 @@ vegetable organism inimical to the growth or existence of living plants or injur
 "plant pest" means any stage of an insect, nematode, mite,
 protozoan or other invertebrate or vertebrate animal, bacterium, fungus, parasitic plant or a reproductive part thereof, virus or any other agent or genetically-engineered variant of the foregoing, capable of having a deleterious effect on a plant or plant product;
 "Plants Import Schedule" refers to a list of economic crops held
-by the Plant Quarantine Service indicating which crops might
-[Subsidiary] Plant Protection Regulations
-be imported and the conditions and restrictions applicable to the importations; "planting material" include trees, shrubs, vines, cuttings, grafts,
+by the Plant Quarantine Service indicating which crops
+[Subsidiary]
+Plant Protection Regulations
+might be imported and the conditions and restrictions applicable to the importations; "planting material" include trees, shrubs, vines, cuttings, grafts,
 scions, buds, bulbs, roots, seeds and any other plant part capable of propagation; "Plant Quarantine Officer" means any person or persons assigned
 to the Plant Quarantine Service; "Plant Quarantine Service" means the Service established by
 section 11 of the Act; "restricted article" means-
@@ -37,13 +38,13 @@ section 11 of the Act; "restricted article" means-
 (b) fruit and vegetables, planting materials, plant
 products or soil;
 (c) non-plant articles prescribed by the Minister in
-accordance with section 17(a); "soil" means the loose surface material of the earth in which plants
-grow, in most cases consisting of disintegrated rock with an admixture of organic material and soluble salts.
+accordance with section 17(a); "soil" means the loose surface material of the earth in which
+plants grow, in most cases consisting of disintegrated rock with an admixture of organic material and soluble salts.
 3. (1) The entry in Trinidad and Tobago of all restricted articles, which may present a pest risk to the agriculture of Trinidad and Tobago, shall be subject to examination upon arrival by a Plant Quarantine Officer or a designated employee, and if necessary, to treatment, destruction or re-export, as the case may warrant.
 (2) All treatment, destruction or re-export shall be the responsibility of a Plant Quarantine Officer or a designated employee and shall be performed at the sole risk and expense of the importer or his agent to the satisfaction of a Plant Quarantine Officer or designated employee.
 (3) For the purpose of examination, a Plant Quarantine Officer or a designated employee may detain any consignment or part of a consignment of restricted articles being offered for entry or export, and take samples of such articles for such testing as may be considered necessary. [Subsidiary] Plant Protection Regulations
 (4) A shipment of restricted articles arriving at the
-designated ports of entry without an import permit, shall not be offloaded without the permission of a Plant Quarantine Officer or a designated employee.
+designated ports of entry without an import permit, shall not be off-loaded without the permission of a Plant Quarantine Officer or a designated employee.
 4. Notwithstanding anything in these Regulations,
 importation by or for the Ministry or of specific material for bona fide purposes may be allowed subject to such measures as are prescribed by the Plant Quarantine Service, to prevent pest entry and dissemination, including routine compliance with documentary requirements.
 5. The following ports are designated ports of entry and
@@ -51,15 +52,16 @@ export for plant quarantine purposes and plant inspection services shall be prov
 Port-of-Spain Wharves The Port of Pt. Lisas Piarco International Airport Scarborough Wharves Crown Point International Airport
 6. (1) Agricultural Assistants engaged in plant quarantine
 duties at ports of entry and Plant Quarantine Guards shall be paid overtime duty at the rates set out in the First Schedule.
-(2) There shall be paid to the Comptroller of Customs
-and Excise for overtime duties performed at ports of entry by Agricultural Assistants engaged in plant quarantine duties and Plant Quarantine Guards, fees at the rates set out in the Second Schedule.
+(2) There shall be paid to the Comptroller of Customs and
+Excise for overtime duties performed at ports of entry by Agricultural Assistants engaged in plant quarantine duties and Plant Quarantine Guards, fees at the rates set out in the Second Schedule.
 7. (1) All planting material is subject to such inspection
 and treatment as may be necessary, as a condition of entry into Trinidad and Tobago.
 (2) The entry of plants, cuttings, scions, stocks, tubers,
 roots, seeds, etc., for planting purposes shall be limited to the smallest possible propagative unit consistent with good horticultural practices.
 (3) The importation of planting material namely, plants,
 rooted-cuttings, or any other plant part shall be limited to soil-free
-[Subsidiary] Plant Protection Regulations
+[Subsidiary]
+Plant Protection Regulations
 plants and plant parts and an approved packaging material may be used around the roots of plants after the soil has been removed.
 (4) Plants, rooted-cuttings, seedlings and any other propagative units or plant parts are not admissible if established in a growing medium other than agar-based media, without specific approval.
 (5) In the case of forest trees, entry shall be restricted to seed or plantlets in agar.
@@ -72,7 +74,7 @@ plants and plant parts and an approved packaging material may be used around the
 (2) The importations of plant pests shall be subject to safeguard measures as specified on the permit. [Subsidiary] Plant Protection Regulations
 10. The entry of beneficial organisms shall not be authorised
 unless a permit is issued to the person importing such organisms.
-11. (1) A person shall not import soil into Trinidad and Tobago
+11. (1) Aperson shall not import soil into Trinidad and Tobago
 unless such importation is done by or on behalf of a recognised scientific and research laboratory to which a permit has been issued.
 (2) The importation of soil shall be subject to specific
 safeguard measures as enumerated on the permit.
@@ -83,8 +85,8 @@ one time;
 containers;
 (c) the soil may be used only in the laboratory of the
 permit holder; and
-(d) the soil shall be incinerated or otherwise sterilised
-in the manner approved by the Plant Quarantine Service at the conclusion of the test.
+(d) the soil shall be incinerated or otherwise
+sterilised in the manner approved by the Plant Quarantine Service at the conclusion of the test.
 (4) The entry of any plant or plant products, machinery,
 equipment or conveyance of any kind carrying or contaminated with soil is prohibited and entry shall be permitted only where they are free from soil to the extent approved by the Plant Quarantine Service.
 12. Restricted articles imported by mail, shall be subject to
@@ -93,9 +95,10 @@ the requirements of these Regulations which shall be enforced through co-operati
 Regulations:
 (a) any plant or plant part prohibited entry in
 accordance with the Plant Import Schedule shall not be entered as packing material;
-[Subsidiary] Plant Protection Regulations
-(b) the following shall also be specifically prohibited
-entry as packing material:
+[Subsidiary]
+Plant Protection Regulations
+(b) the following shall also be specifically
+prohibited entry as packing material:
 (i) banana plants and plant parts;
 (ii) citrus plants and plant parts;
 (iii) coconut or other palm material;
@@ -106,7 +109,7 @@ cotton products;
 (vii) grass plants and plant parts;
 (viii) leaves and stems of plants in general;
 (ix) rice straw and hulls;
-(x) sugarcane plants and plant parts; and
+(x) sugar cane plants and plant parts; and
 (xi) soil;
 (c) the following may be entered as packaging
 material:
@@ -127,18 +130,20 @@ requirements deemed necessary under this regulation shall be made at the owner's
 these safeguards until re-exported or destroyed;
 (e) restricted articles that are in transit shall not be
 opened, landed or re-packaged without the permission of the Plant Quarantine Service and transhipment of restricted articles shall require prior written permission;
-(f) restricted articles referred to in paragraph (e), shall
-not be removed from a port without written permission from the Plant Quarantine Serivce;
+(f) restricted articles referred to in paragraph (e),
+shall not be removed from a port without written permission from the Plant Quarantine Service;
 (g) where permission is given to remove a
 restricted article from the port to a specified place pending inspection, a plant quarantine seal may be placed on the article and any unauthorised person who breaks a seal referred to in subregulation (1)(g) commits an offence and any person found guilty of such an offence shall on summary conviction be liable to a fine of two thousand dollars; such articles shall not be opened unless a Plant Quarantine Officer or a designated employee is present;
-[Subsidiary] Plant Protection Regulations
+[Subsidiary]
+Plant Protection Regulations
 (h) garbage or refuse entering the territorial waters
 or temporarily in the ports of Trinidad and Tobago shall be subject to such safeguards as specified by the Plant Quarantine Service, in co-operation with other governmental agencies including the departments responsible for public health and animal health;
 (i) the landing of garbage is prohibited except in
 unusual circumstances and in these instances, prior approval shall be obtained from the appropriate agency and the Plant Quarantine Service;
 (j) garbage retained onboard in transit vessels and
 aircraft shall be enclosed in tightly sealed, insect-proof containers to prevent insect escape and in the case of ships in port, shall be inside the ship's rail.
-15. (1) The Plant Quarantine Service shall issue phytosanitary certificates based on inspections performed at the request of exporters to aid them in meeting the entry requirements for Trinidad and Tobago.
+15. (1) The
+Plant Quarantine Service shall issue phytosanitary certificates based on inspections performed at the request of exporters to aid them in meeting the entry requirements for Trinidad and Tobago.
 (2) A certificate shall be issued only for products grown or produced in Trinidad and Tobago, otherwise, a re-export certificate may be issued.
 (3) The issuance of a Phytosanitary Certificate shall not release the exporter from compliance with any export regulations of the Government of Trinidad and Tobago.
 (4) In this regulation a Phytosanitary Certificate is the certificate that is based on the model of that adopted by the International Plant Protection Convention of 1951.
@@ -166,19 +171,41 @@ of an Order made by the Minister, shall be carried to Tobago from Trinidad, or t
 may seize, treat and destroy or direct or authorise the treatment or destruction of any fruit, vegetable or plant material referred to in subregulation (1) which is found to be infested with any pest.
 (3) For the purposes of this regulation, a Plant
 Quarantine Officer or designated employee may, with or without the assistantce of a police officer, stop and search any vehicle on a public road which is being used to transport any plant material.
-19. No compensation shall be payable in respect of the seizure,
-destruction of or damage to any fruit, vegetable or plant material or thing, including packaging as a result of the exercise of the powers conferred by these Regulations.
-[Subsidiary] Plant Protection Regulations
+19. No compensation shall be payable in respect of the
+seizure, destruction of or damage to any fruit, vegetable or plant material or thing, including packaging as a result of the exercise of the powers conferred by these Regulations.
+[Subsidiary]
+Plant Protection Regulations
 FIRST SCHEDULE
 OVERTIME RATES PAYABLE
-(a) on ordinary week-days Plant Quarantine Guards … … $14.74 for each hour or part thereof Agricultural Assistant engaged in Plant Quarantine duties at Ports of entry … $30.25 for each hour or part thereof
-(b) on Saturdays, Sundays and Public Holidays Plant Quarantine Guards … … $19.66 for each hour or part thereof Agricultural Assistants engaged in Plant Quarantine duties at Ports of entry … $40.30 for each hour or part thereof
+1992- 1996 1997 1998 1999 2000 2001 1995
+For each hour or any part thereof for the first 8 hours on week days, Saturdays, Sundays and Public Holidays: Plant Quarantine Guards $17.52 $20.31 $20.71 $21.34 $22.20 $22.63 $24.00 Agricultural Assistants engaged in plant quarantine duties at ports of entry $33.34 $36.13 $36.85 $37.95 $39.15 $39.93 $42.33 For each hour or any part thereof after 8 hours: Plant Quarantine Guards $23.36 $27.08 $27.62 $28.45 $29.60 $30.18 $32.00 Agricultural Assistants engaged in plant quarantine duties at ports of entry $44.45 $48.17 $49.31 $50.60 $52.20 $53.24 $56.44
 SECOND SCHEDULE
 OVERTIME FEES PAYABLE BY MEMBERS OF THE
 PUBLIC FOR PLANT QUARANTINE SERVICES
-(a) on ordinary week-days Plant Quarantine Guards … … $16.21 for each hour or part thereof Agricultural Assistants … … $33.28 for each hour or part thereof
-(b) on Saturdays, Sundays and Public Holidays Plant Quarantine Guards … … $21.63 for each hour or part thereof Agricultural Assistants … … $44.37 for each hour or part thereof
-- Margin: 194/1997.
+(a) For each hour or any part thereof for the first 8 hours on week days, Saturdays, Sundays and Public Holidays:
+Plant Quarantine Guards ... $26.40 Agricultural Assistants engaged in plant quarantine duties at ports of entry ... $46.56
+(b) For each hour or any part thereof after 8 hours:
+Plant Quarantine Guards ... $35.20 Agricultural Assistants engaged in plant quarantine duties at ports of entry ... $62.08 [Subsidiary]
+PLANT PROTECTION (DECLARATION OF NOTIFIABLE
+DISEASE) ORDER
+made under section 4A(a) and (d)
+1. This Order may be cited as the Plant Protection
+(Declaration of Notifiable Disease) Order.
+2. The Mycosphaerella fijiensis (Black Sigatoka) disease is
+hereby declared a notifiable disease.
+3. The boundaries of the area infected with the Black
+Sigatoka disease are described in the Schedule hereunder.
+SCHEDULE
+That area of land in the Ward of Cedros in the County of St. Patrick in the
+island of Trinidad and bounded on the North by the Gulf of Paria, on the South by the Columbus Channel, on the East by Chatham Road and on the West by the Serpent's Mouth (sea).
+[Subsidiary]
+PLANT PROTECTION (CONTROL OF BLACK
+SIGATOKA DISEASE) (TOBAGO) ORDER
+made under section 4A
+WHEREAS by the Plant Protection (Declaration of Notifiable Disease) Order, 2004, Mycosphaerella fijiensis (Black Sigatoka) disease was declared a notifiable disease:
+And whereas it is necessary to take certain precautions to prevent the spread of that disease to Tobago:
+Now, therefore, the Minister in exercise of the powers conferred on him by section 4A(b), (e) and (g) of the Act, hereby orders as follows:
+- Margin: 194/1997. [4 / 2004].
 - Margin: Citation.
 - Margin: Interpretation.
 - Margin: Examination restricted articles.
@@ -200,5 +227,13 @@ PUBLIC FOR PLANT QUARANTINE SERVICES
 - Margin: Issue of import permit.
 - Margin: Control of movement of fruit, vegetables and plant material in Trinidad and Tobago.
 - Margin: No compensation payable.
-- Margin: [Regulation (6)(a)].
-- Margin: [Regulation (6)(b)].
+- Margin: [Regulation (6)(a)]. [4/2004].
+- Margin: (a)
+- Margin: (b)
+- Margin: [Regulation (6)(b)]. [4/2004].
+- Margin: 268/2004.
+- Margin: Citation.
+- Margin: Declaration of disease.
+- Margin: Boundaries of infected area.
+- Margin: 93/2006.
+- Margin: 268/2004.
