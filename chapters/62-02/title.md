@@ -4,7 +4,7 @@ CHAPTER 62:02
 Act
 14 of 1974 Amended by 34 of 1975
 6/1984
-16 of 1992 195/2003 249/2004
+16 of 1992 195/2003 249/2004 30 of 2007
 Index of Subsidiary Legislation
 Page Petroleum Production Levy and Subsidy (Gross Margin) Order
 (LN 172/2003) ... 15 Petroleum Production Levy and Subsidy (Gross Margin) (L.P.G.) Order
@@ -24,11 +24,10 @@ SUBSIDY
 5. Petroleum Products Subsidy Fund. 6. Comptroller of Accounts to pay subsidy. 7. Claims for subsidy to be made. 8. Method of computing subsidy.
 PETROLEUM PRODUCTION LEVY
 9. Charge to petroleum production levy.
-10. Offence not to pay levy within time specified. 11. Method of computing levy.
+9A. Production sharing contract to prevail. 10. Offence not to pay levy within time specified. 11. Method of computing levy.
 MISCELLANEOUS AND GENERAL
 12. Refining and marketing business to make return to the Minister. 13. Refining and marketing business to keep proper records. 14. Accounts. 15. Annual Audit. 16. Provisions as to recovery of levy. 17. Offence to export petroleum products obtained from sales by retail. 18. Offences and general penalty provisions. 19. Minister responsible for administration of Act.
-ARRANGEMENT OF SECTIONS-Continued
-SECTION
+ARRANGEMENT OF SECTIONS-Continued SECTION
 20. Minister may vary Schedule. 21. Power to make Regulations. 22. Transitional provisions as to Orders under section 8(3). 23. Disposal for use.
 SCHEDULE.
 

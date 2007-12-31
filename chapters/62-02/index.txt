@@ -8,6 +8,7 @@ s-6.md
 s-7.md
 s-8.md
 s-9.md
+s-9A.md
 s-10.md
 s-11.md
 s-12.md
@@ -26,3 +27,6 @@ schedule.md
 sl-01/title.md
 sl-01/r-1.md
 sl-01/r-2.md
+sl-02/title.md
+sl-02/r-1.md
+sl-02/r-2.md
