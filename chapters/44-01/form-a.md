@@ -1,3 +1,3 @@
 # FORM A
-20... BIRTHS IN THE WARD OF
+BIRTHS IN THE WARD OF 20...
 - Margin: Section 14.
