@@ -10,33 +10,38 @@ with persons carrying on refining business.
 (3) When converting from United States currency to Trinidad and Tobago currency, the rate of exchange shall be the average of the commercial bank selling rate quoted by the Central Bank of Trinidad and Tobago for Sight Drafts on New York for the corresponding calendar month.
 (4) If on account of Sundays, holidays or any other reason the price of any of the petroleum products set out in the First Schedule or the rate of exchange is not ascertainable for any day then the price or rate of exchange for the last preceding day for which such price or rate of exchange is ascertainable shall be used.
 2. The wholesale price of petroleum products listed hereunder is as follows:
-Petroleum Products Trinidad and Tobago cents per litre
-Exclusive Inclusive Inclusive of
-of Vat of Vat Vat and Road
-Improvement
-Tax Unleaded Premium
-Gasolene 95 RON … … 237.174 272.750 282.750 Unleaded Super
-Gasolene 92 RON … … 211.087 242.750 252.750 Unleaded Regular Gasolene 83 RON… 205.761 236.625 245.625 Domestic Kerosene … … 122.435 140.800 140.800 Auto Diesel … … 116.087 133.500 138.500
-Price of Petroleum Products Order [Subsidiary]
-3. Except as provided in paragraph 4 below, the retail price of the petroleum products listed hereunder shall be as follows:
-Petroleum Products Trinidad and Tobago cents per litre
-Exclusive Inclusive Inclusive of
-of Vat of Vat Vat and Road
-Improvement
-Tax Unleaded Premium
-Gasolene 95 RON … … 252.174 290.000 300.000 Unleaded Super
-Gasolene 92 RON … … 226.087 260.000 270.000 Unleaded Regular
-Gasolene 83 RON … … 218.261 251.000 260.000 Domestic Kerosene … … 130.435 150.000 150.000 Auto Diesel … … 126.087 145.000 150.000
-4. The retail price of the petroleum products listed in Appendix A and sold by a person carrying on marketing business-
+Petroleum Products Trinidad and Tobago
+cents per litre
+Exclusive Inclusive
+of Vat of Vat
+Unleaded Premium
+Gasoline 95 RON … … … 243.870 280.450 Unleaded Super
+Gasoline 92 RON … … … 217.783 250.450 Unleaded Regular Gasoline 83 RON … … 211.587 243.325 Domestic Kerosene … … … 120.435 138.500 Auto Diesel … … … 118.435 136.200 [Subsidiary] Price of Petroleum Products Order
+3. Except as provided in paragraph 4, the retail price of petroleum
+products listed hereunder is as follows:
+Petroleum Products Trinidad and Tobago
+cents per litre
+Exclusive Inclusive
+of Vat of Vat
+Unleaded Premium
+Gasoline 95 RON … … … 260.870 300.000
+Unleaded Super
+Gasoline 92 RON … … … 234.783 270.000
+Unleaded Regular
+Gasoline 83 RON … … … 226.087 260.000
+Domestic Kerosene … … … 130.435 150.000 Auto Diesel … … … 130.435 150.000
+4. The retail price of the petroleum products listed in Appendix A and
+sold by a person carrying on marketing business-
 (a) to an associated person (this expression here including one
 company that exercises or is entitled to exercise control directly or indirectly over the affairs of another and any company the majority of the shareholding of which is held by more than one other company similarly so controlled);
-(b) to a person carrying on production business or refining business
-or both, shall be at a price equal to the ex-refinery price plus the sum specified in Appendix B for each such petroleum product.
-Price of Petroleum Products Order [Subsidiary]
+(b) to a person carrying on production business or refining
+business or both,
+shall be at a price equal to the ex-refinery price plus the sum specified in Appendix B for each such petroleum product.
+[Subsidiary] Price of Petroleum Products Order
 - Margin: Ex-refinery price. [28/1987].
 - Margin: Formula for arriving at price of petroleum product.
 - Margin: Rate of exchange.
 - Margin: Price of last preceding day to be taken into account in certain circumstances.
-- Margin: Wholesale price of petroleum products. [250/2004].
-- Margin: Retail price of petroleum products. [250/2004].
+- Margin: Wholesale price of petroleum products. [250/2004 253/2005].
+- Margin: Retail price of petroleum products. [250/2004 253/2005].
 - Margin: Retail price of petroleum products in certain cases. Appendix A. Appendix B. [174/2003 250/2004].
