@@ -4,7 +4,7 @@ BALLOT PAPER
 Stub Name and Address of Candidate
 Emmanuel ABDULLAH 475, Marli Street Insurance Broker
 Consecutive
-Conrad D. BABULAH 72, Chancery Lane No... Engineer
+Conrad D. BABULAH 72, Chancery Lane Engineer No...
 Francis CARTER 291, Hoyte Street Merchant
 (Back)
 THE CONSTITUTION OF THE REPUBLIC

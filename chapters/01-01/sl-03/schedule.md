@@ -16,15 +16,15 @@ Chairman of the Committee;
 (d) the Chairman of the Elections Commission;
 (e) a Senior Public Officer appointed by the Prime Minister;
 (f) two persons representative of the General Public appointed
-by the Prime Minister. Such appointment shall be for a period not exceeding three years but a person whose appointment so expires shall be eligible for re-appointment.
+by the Prime Minister. Such appointment shall be for a period not exceeding three years but a person whose appointment so expires shall be eligible for reappointment.
 (2) The Committee shall have a Secretary who shall be appointed by the Prime Minister.
 Letters Patent establishing the Order of the Trinity
 7. A person is not a member or honorary member of the Order by reason only of his being a member of the Committee or an official for the Order.
 8. The Committee shall-
 (a) consider nominations of persons of merit who are citizens of
 Trinidad and Tobago together with recommendations and supporting material received by the Committee for awards of the Trinity Cross, the Chaconia Medal, the Humming Bird Medal, and the Medal of Merit;
-(b) compile separate lists in respect of the Trinity Cross and of
-each medal of those nominees to whom an award may be made;
+(b) compile separate lists in respect of the Trinity Cross and of each
+medal of those nominees to whom an award may be made;
 (c) forward to the Prime Minister the lists compiled pursuant
 to paragraph (b) together with its recommendations respecting awards;
 (d) advise the President in respect of any other matters concerning
@@ -78,8 +78,8 @@ when the use of such letters is customary; and
 (b) wear as a decoration the insignia prescribed by the President
 for recipients of the Trinity Cross.
 (2) A person to whom the Chaconia Medal is awarded is entitled to-
-(a) have the letters "C.M.T." placed after his name on all occasions
-when the use of such letters is customary; and
+(a) have the letters "C.M.T." placed after his name on all
+occasions when the use of such letters is customary; and
 (b) wear as a decoration the insignia prescribed by the President
 for recipients of the Chaconia Medal.
 (3) A person to whom the Humming Bird Medal is awarded is entitled to-
@@ -93,11 +93,11 @@ Letters Patent establishing the Order of the Trinity
 occasions when the use of such letters is customary; and
 (b) wear as a decoration the insignia prescribed by the President
 for recipients of the Medal of Merit.
-17. (l) When worn in Trinidad and Tobago by a citizen of Trinidad and Tobago the Trinity Cross shall be worn suspended from the neck and takes precedence of all other decorations.
+17. (1) When worn in Trinidad and Tobago by a citizen of Trinidad and Tobago the Trinity Cross shall be worn suspended from the neck and takes precedence of all other decorations.
 (2) When worn in Trinidad and Tobago by a citizen of Trinidad and Tobago the Chaconia Medal shall be worn immediately after the Trinity Cross and in front of all other decorations.
 (3) When worn in Trinidad and Tobago by a citizen of Trinidad and Tobago the Humming Bird Medal shall be worn immediately after the Chaconia Medal and in front of all other decorations.
 (4) When worn in Trinidad and Tobago the Medal of Merit shall be worn immediately after the Humming Bird Medal and in front of all other decorations.
-*18. Acting in accordance with the advice of the Prime Minister, the President may where in any year exceptional circumstances so warrant, make awards of the Trinity Cross, the Chaconia Medal or the Humming Bird Medal in excess of the maximum number prescribed, respectively, in section 11(4),12(4) or 13(4).
+*18. Acting in accordance with the advice of the Prime Minister, the President may, where in any year exceptional circumstances so warrant, make awards of the Trinity Cross, the Chaconia Medal or the Humming Bird Medal in excess of the maximum number prescribed, respectively, in section 11(4), 12(4) or 13(4).
 *This section was inserted in pursuance of a Cabinet decision set out in Cabinet Minute No. 3700(1) of 30th August, 1979.
 - Margin: [110/1983].
 - Margin: [Subsidiary]
