@@ -22,6 +22,12 @@ s-14D.md
 s-14E.md
 s-15.md
 s-15A.md
+s-15B.md
+s-15C.md
+s-15D.md
+s-15E.md
+s-15F.md
+s-15G.md
 s-16.md
 s-17.md
 s-18.md
