@@ -11,6 +11,6 @@ Dated this ... day of ..., 20 ...
 (Signed) ...
 (Magistrate or Justice)
 - Margin: Section 86.
-- Margin: (l) State concisely the substance of the complaint as in the conviction.
+- Margin: (1) State concisely the substance of the complaint as in the conviction.
 - Margin: (2) Or, on or before the ... day of ... 20 ... (3)Add, if it be so, and there kept to hard labour.
 - Margin: (4) Add, if it be so, and keep him to hard labour.
