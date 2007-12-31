@@ -3,12 +3,15 @@ MATTERS ACT
 CHAPTER 11:24
 Act
 39 of 1997 Amended by
-7 of 2001 14 of 2004
+7 of 2001 14 of 2004 *26 of 2005 (By implication)
+*See Note on page 2
 Index of Subsidiary Legislation
 Page Mutual Assistance (Agreement between Trinidad and Tobago and Canada)
-Order (LN 41/2003) ... 45 Mutual Assistance (Agreement between Trinidad and Tobago and the
-United States of America) Order (LN 46/2003) … … … 55 Mutual Assistance (Agreement between Trinidad and Tobago and the
-United Kingdom) Order (LN 53/2003) … … … 66
+Order (LN 41/2003) ... 45 Mutual Assistance (Agreement between Trinidad and Tobago and the United
+States of America) Order (LN 46/2003) … … … 55 Mutual Assistance (Agreement between Trinidad and Tobago and the United
+Kingdom) Order (LN 53/2003) ... 65
+Note on Act No. 26 of 2005
+See section 30 of Act No. 26 of 2005 which would enable a treaty to which Trinidad and Tobago is Party to be used as the basis for mutual legal assistance in criminal matters in respect of offences falling within the scope of that treaty.
 CHAPTER 11:24
 MUTUAL ASSISTANCE IN CRIMINAL
 MATTERS ACT
@@ -43,10 +46,10 @@ SUPPLEMENTARY
 PART VI
 MISCELLANEOUS
 34. Certificate given by the Attorney General. 35. Proof. 36. Transit. 37. Escaping. 38. Arrest of person who has escaped from custody. 39. Regulations. 40. Coming into force of Treaties.
-FIRST SCHEDULE- (Request for assistance made by Commonwealth
+FIRST SCHEDULE-(Request for Assistance made by Commonwealth
 Countries)
-SECOND SCHEDULE- (Omitted)
-THIRD SCHEDULE- (Trinidad and Tobago Evidence for use overseas)
+SECOND SCHEDULE-(Omitted)
+THIRD SCHEDULE-(Trinidad and Tobago Evidence for Use Overseas)
 
 CHAPTER 11:24
 MUTUAL ASSISTANCE IN CRIMINAL
