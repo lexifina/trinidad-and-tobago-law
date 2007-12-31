@@ -1,14 +1,14 @@
-COLLEGE OF SCIENCE, TECHNOLOGY
-AND APPLIED ARTS OF
-TRINIDAD AND TOBAGO ACT
+COLLEGE OF SCIENCE, TECHNOLOGY AND APPLIED ARTS OF TRINIDAD AND TOBAGO ACT
 CHAPTER 39:56
 Act
 77 of 2000
+Amended by
+179/2006
+1-4 1/2009 5-24 1/2006 25 1/2009
 Note on Subsidiary Legislation
 This Chapter contains no subsidiary legislation.
 CHAPTER 39:56
-COLLEGE OF SCIENCE, TECHNOLOGY AND
-APPLIED ARTS OF TRINIDAD AND TOBAGO ACT
+COLLEGE OF SCIENCE, TECHNOLOGY AND APPLIED ARTS OF TRINIDAD AND TOBAGO ACT
 ARRANGEMENT OF SECTIONS
 SECTION
 1. Short title. 2. Interpretation.
@@ -25,7 +25,7 @@ SECTION
 23. Estimates of expenditure. 24. Accounts and audit. 25. Financial year. 26. Borrowing. 27. Financial control.
 PART III
 STAFF AND RELATED MATTERS
-28. Employment of staff. 29. Secondment. 30. Transfer to College. 31. Hourly, daily and weekly-rated employees. 32. Establishment of pension fund plan. 33. Preservation and accural of superannuation benefits. 34. Payment of superannuation benefits by Board prior to the
+28. Employment of staff. 29. Secondment. 30. Transfer to College. 31. Hourly, daily and weekly-rated employees. 32. Establishment of pension fund plan. 33. Preservation and accrual of superannuation benefits. 34. Payment of superannuation benefits by Board prior to the
 establishment of the pension fund plan.
 35. Payment of superannuation benefits by pension fund plan. 36. Representation. 37. Preservation of Collective Agreement. 38. Preservation of terms and conditions.
 PART IV
