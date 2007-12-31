@@ -18,9 +18,10 @@ PETROLEUM OPERATIONS
 ...
 (Use additional sheets if necessary)
 Date ...
-Signature of Objector NOTES:
+Signature of Objector
+NOTES:
 1. A person may only object to the issue of a licence to engage in petroleum operations on
 the ground that it is inconsistent with, or would interfere with, rights held by him under the Petroleum Act, section 8(1).
-2. Objection to a licence shall be made in triplicate and lodged with the Minister within
-thirty days of the publication of the notice of application for the licence.
+2. Objection to a licence shall be made in triplicate and lodged with the Minister within thirty
+days of the publication of the notice of application for the licence.
 3. Copies of documentary evidence in support of an objection must accompany this form.

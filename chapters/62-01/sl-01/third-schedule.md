@@ -12,38 +12,44 @@ power in that company;
 that might be paid by that company; and
 (iii) the right to receive more than one-half of any capital
 distribution in the event of the winding up or of a reduction in the share capital of that company, or otherwise;
-(b) however owned, is under the control of the Fisheries Company
-by way of lease, charter or management contract;
-Price of Petroleum Products Order [Subsidiary]
+(b) however owned, is under the control of the Fisheries
+Company by way of lease, charter or management contract; [Subsidiary] Price of Petroleum Products Order
 "nationals" means citizens of Trinidad and Tobago and persons who under any
-law relating to immigration are regarded as belonging thereto or having the status of residents, and includes companies controlled by such persons or by companies so controlled and partnerships the majority share in which and the management of which are owned and performed by such persons; "retail price" means the price at which petroleum products may be sold to
-consumers in Trinidad and Tobago; "sales by retail" and "sales by wholesale" have the same meanings, respectively
-as in section 8 of the Petroleum Production Levy and Subsidy Act; "trawler" means a trawler used for the purpose of shrimping or fishing; "wholesale price" means the price at which petroleum products may be sold
-by a person carrying on marketing business to any person who carries on the business of selling those petroleum products.
-2. (1) The wholesale price of gas oil and diesel oil sold by a person carrying on marketing business to the Fisheries Company for use as bunkers for trawlers shall be-
+law relating to immigration are regarded as belonging thereto or having the status of residents, and includes companies controlled by such persons or by companies so controlled and partnerships the majority share in which and the management of which are owned and performed by such persons;
+"retail price" means the price at which petroleum products may be sold to
+consumers in Trinidad and Tobago;
+"sales by retail" and "sales by wholesale" have the same meanings, respectively
+as in section 8 of the Petroleum Production Levy and Subsidy Act;
+"trawler" means a trawler used for the purpose of shrimping or fishing; "wholesale price" means the price at which petroleum products may be sold by
+a person carrying on marketing business to any person who carries on the business of selling those petroleum products.
+2. (1) The wholesale price of gas oil and diesel oil sold by a person
+carrying on marketing business to the Fisheries Company for use as bunkers for trawlers shall be-
 (a) 82 cents per litre where the disposal is for sale by retail at the
 retail price fixed by paragraph 3(1)(a);
 (b) 82 cents per litre where the disposal is for sale by retail at the
 retail price fixed by paragraph 3(1)(b).
-(2) Sales by wholesale at the prices fixed by subparagraph (1) shall be made by persons carrying on marketing business to the Fisheries Company only for such use as is specified in paragraph 3(2)(b).
-3. (1) The retail price of diesel oil and gas oil sold by the Fisheries Company for use as bunker for trawlers in accordance with this paragraph shall be-
+(2) Sales by wholesale at the prices fixed by subparagraph (1) shall
+be made by persons carrying on marketing business to the Fisheries Company only for such use as is specified in paragraph 3(2)(b).
+3. (1) The retail price of diesel oil and gas oil sold by the Fisheries
+Company for use as bunker for trawlers in accordance with this paragraph shall be-
 (a) in the case of sales for use in trawlers under national control
 and ownership-85 cents per litre;
 (b) in any other case-85 cents per litre.
-(2) Sales by retail at the prices fixed by subparagraph (1) shall be made-
+(2) Sales by retail at the prices fixed by subparagraph (1) shall
+be made-
 (a) by persons carrying on marketing business, only to the
 Fisheries Company; and
 (b) by the Fisheries Company to a person only for use in-
-(i) trawlers under national control and ownership, the total
-catch of fish and shrimp of which is to be sold or otherwise disposed of in Trinidad and Tobago;
+(i) trawlers under national control and ownership, the
+total catch of fish and shrimp of which is to be sold or otherwise disposed of in Trinidad and Tobago;
 (ii) not more than 99 trawlers not under national control
-and ownership, the total catch of fish and shrimp of which is to be supplied under contract to the plants operated by the Fisheries Company. Price of Petroleum Products Order [Subsidiary]
+and ownership, the total catch of fish and shrimp of which is to be supplied under contract to the plants operated by the Fisheries Company.
+[Subsidiary] Price of Petroleum Products Order
 4. The Fisheries Company shall in each month deliver at the place of business of the person carrying on marketing business with whom it has dealt, a statement of the volume and value of all sales of diesel oil and gas oil for the preceding month, at the retail price fixed by paragraph 3 together with a statement of the volume and value of all sales made by it for that month.
 5. (1) For the purposes of this Order, the Fisheries Company shall keep proper records of accounts and of the volume and value of petroleum products sold by it during each month.
 (2) The Minister may authorise any employee of his Ministry to inspect the records of the Fisheries Company in order to verify the accuracy of the statement made pursuant to paragraph 4.
 6. This Schedule is deemed to have come into operation on 1st January 1976.
-- Margin: 109/1976. [173/1979 200/1979 201/1979 52/1981 22/1982 8/1984 178/1992].
-- Margin: Interpretation.
+- Margin: 109/1976. [173/1979 200/1979 201/1979 52/1981 22/1982 8/1984 178/1992]. Interpretation.
 - Margin: Ch. 81:01.
 - Margin: Ch. 62:02.
 - Margin: Ch. 62:02.
