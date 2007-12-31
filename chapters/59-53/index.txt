@@ -66,6 +66,7 @@ sl-01/r-7.md
 sl-01/r-8.md
 sl-01/schedule.md
 sl-01/form-1.md
+sl-01/schedule--2.md
 sl-01/form-2.md
 sl-01/form-3.md
 sl-01/form-4.md
@@ -75,4 +76,4 @@ sl-01/form-7.md
 sl-01/form-8.md
 sl-01/form-9.md
 sl-01/form-10.md
-sl-01/schedule--2.md
+sl-01/schedule--3.md

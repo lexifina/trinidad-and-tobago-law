@@ -1,8 +1,9 @@
 AGRICULTURAL SMALL HOLDINGS TENURE ACT
 CHAPTER 59:53
 Act
-32 of 1961 Amended by 40 of 1970 45 of 1979 *31 of 1980 †19 of 1981 *16 of 1987
-*See Note on Validation at page 2 †See Note on Amendment at page 2
+32 of 1961 Amended by 40 of 1970 45 of 1979 *31 of 1980 **19 of 1981 *16 of 1987 †25 of 2005
+*See Note on Validation at page 2 **See Note on Amendment at page 2
+† See Note on page 2
 Index of Subsidiary Legislation
 Page Agricultural Small Holdings Tenure Regulations (GN 35/1966) … … 34 Agricultural Tribunals Order (LN 25/1986) ... 48
 Note on Amendment
@@ -13,21 +14,32 @@ This Act was re-enacted with retrospective effect, and all acts done under it we
 purported to have been established under the Act together with the respective agricultural districts in which those tribunals exercised their powers and duties are deemed to have been established in accordance with the Act, and all things done or omitted to be done by any agricultural tribunal are deemed to have been lawfully and validly done or omitted to be done, and no legal proceedings or other action of any kind shall be entertained in respect of or in consequence of such acts and things.".
 Note on Adaptation
 Under paragraph 6 of the Second Schedule to the Law Revision Act (Ch. 3:03) the Commission amended certain references to public officers in this Chapter. The Minister's approval of the amendments was signified by LN 52/1980, but no marginal reference is made to this Notice where any such amendment is made in the text.
+Note on Act No. 25 of 2005
+Section 13 of the Caroni (1975) Limited and Orange Grove National Company Limited (Divestment) Act, 2005 (Act No. 25 of 2005) provides as follows:
+13. (1) Subject to subsection (2) from the appointed day, the Agricultural
+"Non-application of
+Small Holdings Tenure Act, the Land Tenants (Security of Tenure) Act and the
+certain Acts
+State Lands (Regularisation of Tenure) Act, shall not apply to the real estate Ch. 59:53,
+Ch. 59:54
+undertakings vested in the State.
+and Ch. 57:05.
+(2) This Act shall not operate to extinguish or otherwise derogate
+from any rights, benefits, legitimate expectations or real estate undertakings already acquired by or vested in any tenant or squatter under the Acts listed in subsection (1).".
 CHAPTER 59:53
 AGRICULTURAL SMALL HOLDINGS TENURE ACT
-ARRANGEMENT OF SECTIONS
-SECTION
+ARRANGEMENT OF SECTIONS SECTION
 1. Short title. 2. Interpretation.
 SECURITY OF TENURE
 3. Agricultural small holdings. 4. Statutory term not to be shortened. 5. Contract to be in writing. 6. Statutory conditions. 7. Copy of tenancy instrument to tenant. 8. Extension of renewal of contract of tenancy.
 8A. Further extension of contract of tenancy.
 9. Practice of good husbandry.
 10. Contracting out of Act void. 11. Right of entry.
-ESTABLISHMENT OF AGRICULTURAL TRIBUNALS 12. Agricultural tribunals. 13. Meetings of tribunals. 14. Acting Chairman. 15. Disqualification of members. 16. Witnesses before tribunals. 17. Regulation of proceedings and records. 18. Appointment of staff of tribunal. 19. Expenses and allowances of members of tribunal.
+ESTABLISHMENT OF AGRICULTURAL TRIBUNALS
+12. Agricultural tribunals. 13. Meetings of tribunals. 14. Acting Chairman. 15. Disqualification of members. 16. Witnesses before tribunals. 17. Regulation of proceedings and records. 18. Appointment of staff of tribunal. 19. Expenses and allowances of members of tribunal.
 POWERS AND DUTIES OF TRIBUNAL
 20. Functions of tribunal. 21. Provisions for securing tenancy instrument.
-ARRANGEMENT OF SECTIONS-Continued
-SECTION
+ARRANGEMENT OF SECTIONS-Continued SECTION
 RENT ASSESSMENT HEARINGS
 22. Application to fix maximum rent. 23. Holding of investigation following notice. 24. Voluntary evidence on investigation. 25. Compulsory evidence on investigation. 26. Oral evidence to be upon oath. 27. Place and hearing of investigation. 28. Representation before tribunal. 29. Relevant facts proved informally. 30. Inspection of small holding by tribunal. 31. Assessment of maximum rent in absence of evidence of landlord. 32. Witness expenses and costs. 33. Maximum rent certificate. 34. Evidential value of certificate. 35. Payment of difference on appeal.
 APPEALS
@@ -51,24 +63,24 @@ Tenure Act.
 which an agricultural tribunal may exercise its powers and duties under this Act;
 "agricultural land" means any arboreal plantation, banana land,
 cane land, market garden land or rice land;
-"arboreal plantation" means a plantation that is let or agreed to
-be let for the cultivation of cacao, coffee, citrus or other arboreal products;
+"arboreal plantation" means a plantation that is let or agreed to be
+let for the cultivation of cacao, coffee, citrus or other arboreal products;
 "banana land" means land that is let or agreed to be let for the
 cultivation, either wholly or mainly, of bananas or plantains;
 "cane land" means land that is let or agreed to be let for the
 farming, either wholly or mainly, of sugar cane;
 "contract of tenancy" means any contract express or implied that
 creates a tenancy in respect of agricultural land or any transaction that creates a licence to cultivate any agricultural land, but does not include an agricultural contract as defined in the Agricultural Contracts Act when the terms and conditions of such contracts are in writing and signed by the parties thereto;
-*See Act No. 31 of 1980. "landlord" means any person for the time being entitled to receive
-the rents and profits of any land; "market garden land" means land that is let or agreed to be let
-for the cultivation of market garden crops, and other annual foodcrops except rice; "practice of good husbandry" means in relation to any small holding
+*See Act No. 31 of 1980. "landlord" means any person for the time being entitled to
+receive the rents and profits of any land; "market garden land" means land that is let or agreed to be let for
+the cultivation of market garden crops, and other annual foodcrops except rice; "practice of good husbandry" means in relation to any small holding
 that standard of husbandry determined pursuant to section 9; "prescribed" means prescribed by regulations made under this Act; "regulations" means regulations made under this Act; "rice land" means land that is let or agreed to be let for use either
 wholly or mainly for the cultivation of paddy, if at the time of the letting or agreement to let the land is fit for the cultivation of paddy; "small holding" means a parcel of agricultural land held under a
 contract of tenancy for agricultural purposes and that consists of not less than one acre nor more than fifty acres whether with or without buildings; "tenant" means the holder of land under a contract of tenancy, and
-includes the personal representative, executors, administrators, assigns, committee in lunacy or trustee in bankruptcy of a tenant or other person deriving title from a tenant; "tenancy" includes a sub-tenancy; "tenancy instrument" means the writing evidencing a contract
-of tenancy; "tribunal" means an agricultural tribunal established pursuant to
+includes the personal representative, executors, administrators, assigns, committee in lunacy or trustee in bankruptcy of a tenant or other person deriving title from a tenant; "tenancy" includes a sub-tenancy; "tenancy instrument" means the writing evidencing a contract of
+tenancy; "tribunal" means an agricultural tribunal established pursuant to
 section 12.
-(2) A parcel of agricultural land that, immediately before the commencement of this Act, was a holding or small holding for the purposes of the Sugar Cane Small Holdings Ordinance (now repealed) or the Rents of Small Agricultural Holdings Ordinance (now repealed) but is not a small holding as defined in subsection (1) shall be deemed for the purposes of this Act to be a small holding-
+(2) Aparcel of agricultural land that, immediately before the commencement of this Act, was a holding or small holding for the purposes of the Sugar Cane Small Holdings Ordinance (now repealed) or the Rents of Small Agricultural Holdings Ordinance (now repealed) but is not a small holding as defined in subsection (1) shall be deemed for the purposes of this Act to be a small holding-
 (a) during the subsistence of any tenancy agreement
 in relation to that parcel and in effect on the commencement of this Act; and
 (b) during the continuance of any extension or
@@ -102,7 +114,7 @@ STATUTORY CONDITIONS
 - Margin: Short title.
 - Margin: Interpretation.
 - Margin: Ch. 63:50.
-- Margin: Ch. 23 No. 11 (1950 Ed.). Ch.23. No.20 (1950 Ed.).
+- Margin: Ch. 23 No. 11 (1950 Ed.). Ch. 23. No. 20 (1950 Ed.).
 - Margin: Agricultural small holdings.
 - Margin: Statutory term not to be shortened.
 - Margin: Contract to be in writing.
