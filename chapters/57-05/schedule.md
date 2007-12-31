@@ -3,7 +3,7 @@ North Trinidad
 Bagatelle South,
 Diego Martin
 Scorpion Village,
-Upper Carenage
+Upper Carenage North Trinidad-Continued
 Sea View Hill,
 Carenage West
 Factory Road Waterfall,
@@ -13,8 +13,7 @@ off Diego Martin Main Road
 l'Anse Mitan, Carenage
 Bagatelle Central including
 Savannah Terrace Nos. 1 and 2 Upper Bagatelle and Patna, Diego Martin
-Mickie Lands, Port-of-Spain
-Upper Belmont Valley Road
+Mickie Lands, Port-of-Spain Upper Belmont Valley Road
 into Lady Young Road,
 Port-of-Spain South
 Clifton Circular Road,
@@ -55,11 +54,11 @@ Mount Hope,
 North Elizabeth Gardens,
 St. Joseph
 North of Bamboo Drive,
-Champs Fleurs North Trinidad-Continued
+Champs Fleurs
 North of Hutton Street,
 St. Joseph
 Bamboo Settlement No. 3,
-Valsayn South
+Valsayn South North Trinidad-Continued
 Khalay Village, St. Augustine
 Dookiesingh Street, Spring Village Caroni*
 via Freeman Road, St. Augustine
@@ -73,59 +72,38 @@ Arouca North
 Five Rivers, Arouca North
 Printeryville, Arouca South
 Race Course, Arouca South
-Peytonville, Arouca South
-Samaroo Village, off
-O'Meara Road, Arouca South
+Peytonville, Arouca South Samaroo Village,
+off O'Meara Road, Arouca South
 Old Malabar and India,
 Arouca South
-Maturita Triangle, Arima
-Zone 8, Arima Heights of Aripo Heights of Guanapo,
+Maturita Triangle, Arima Zone 8, Arima Heights of Aripo Heights of Guanapo,
 La Retraite Dump Road
 Calvary Hill, Arima Paria-Brasso Seco,
 Morne Lacroix
-K.P. Lands, Valencia Alexander Trace, Valencia Valencia Long Stretch (N) Valencia Long Stretch (S),
-Scientific Area
-Farmlands, Turure
-Blake Avenue, Guaico
-Picton Road Extension,
-Sangre Grande
-Ojoe Road, Hospital Land,
-Sangre Grande
-Ojoe Road, Sellier Road,
-Sangre Grande
-Graham Trace,
-Sangre Grande
-Sahodeen Trace, Vega de Oropouche
-Toco Main Road including
-Mora Trace
-Matura Village, off
-Toco Main Road
-Salibia, off Toco Main Road
-l'Anse Noir, Paria Main Road,
-Toco
-Plantation Road, Valencia
-Clarence Trace, Valencia
-Quash Trace, off Foster Road,
-Sangre Grande
-Piarco Village, Piarco
-Mt. d'Or, north of NHA project
-Mt. Hope Road, Mt. Hope North Trinidad-Continued
-Morvant Old Road, Morvant
-Second Caledonia, Morvant
-Jean Avenue, Diego Martin
-River Estate, Diego Martin,
+K.P. Lands, Valencia Alexander Trace, Valencia Valencia Long Stretch (N)
+Valencia Long Stretch (S),
+Scientific Area Farmlands, Turure Blake Avenue, Guaico Picton Road Extension,
+Sangre Grande Ojoe Road, Hospital Land,
+Sangre Grande Ojoe Road, Sellier Road,
+Sangre Grande Graham Trace,
+Sangre Grande Sahodeen Trace, Vega de Oropouche Toco Main Road including
+Mora Trace Matura Village,
+off Toco Main Road Salibia, off Toco Main Road l'Anse Noir, Paria Main Road,
+Toco Plantation Road, Valencia Clarence Trace, Valencia Quash Trace, off Foster Road,
+Sangre Grande Piarco Village, Piarco Mt. d'Or, north of NHA project Mt. Hope Road, Mt. Hope Morvant Old Road, Morvant Second Caledonia, Morvant Jean Avenue, Diego Martin River Estate, Diego Martin, North Trinidad-Continued
 Las Cuevas Estate, Las Cuevas
-Ackbarali Trace, Arima
-Alexis Street, Morvant
-Maracas Valley, St. Joseph
+Ackbarali Trace, Arima Alexis Street, Morvant Maracas Valley, St. Joseph
 Madras Settlement, Cunupia
-Picton Quarry, Laventille
-Simeon Road, Petit Valley
+Picton Quarry, Laventille Simeon Road, Petit Valley
 Dundonald Hill, Port-of-Spain
 Beetham Estate, Phase IV,
 Port-of-Spain
 Eastern Quarries, Laventille
-Waller Field, off Churchill-Roosevelt Highway New City, Valencia Upper Leon Street, Laventille Streatham Lodge, St. Augustine Big Yard, Carenage Churchill-Roosevelt Highway,
+Waller Field, off Churchill-Roosevelt Highway New City, Valencia
+Upper Leon Street, Laventille
+Streatham Lodge, St. Augustine
+Big Yard, Carenage
+Churchill-Roosevelt Highway,
 d'Abadie
 Churchill-Roosevelt Highway,
 Piarco Old Road area
@@ -149,13 +127,13 @@ Corosal Road, Whiteland Squatterville, Macaulay Arena Road, Freeport, Bholai Tra
 Couva
 Ben Lomond, Williamsville Caroni* Carlsen Field East Caroni* South Trinidad
 Teak Village, Claxton Bay Bayshore, Marabella PSAEL* Harmony Hall Estate Caroni*
-near Lady Hochoy Home, Gasparillo South Trinidad-Continued
+near Lady Hochoy Home, Gasparillo
 Corner Realize and Cunjal Roads,
 Barrackpore
 Madingo Road, Blocks I and II, PSAEL*
 Princes Town
 Former Railway Line Road, Caroni*
-Gandhi Village, Debe
+Gandhi Village, Debe South Trinidad-Continued
 Digity Trace, Clarke Road,
 Penal
 Manohar Road, Rochard Road,
@@ -177,40 +155,38 @@ Penal
 Penal Junction, Penal Bunsee Trace, Penal Rock Road,
 Penal
 Laltoo Branch Trace, Penal PSAEL* Snail Trace, Morne Diablo Haggard Trace, Penal Rock Road,
-Penal Digity Village and Branch Road
-Penal Penal-Quinam Road, Penal Lachoos Road, Penal Mulchan Trace, Fyzabad PSAEL* Hickling Village, Fyzabad PSAEL* Sudama Village, Brothers Road,
-Fyzabad La Brea Trace, Siparia Unnamed Trace (back of Fyzabad PSAEL*
+Penal
+Digity Village and Branch Road
+Penal
+Penal-Quinam Road, Penal Lachoos Road, Penal Mulchan Trace, Fyzabad PSAEL* Hickling Village, Fyzabad PSAEL* Sudama Village, Brothers Road,
+Fyzabad La Brea Trace, Siparia Unamed Trace (back of Fyzabad PSAEL*
 Composite School) Siparia Road, Thick Village Small Trace, Fyzabad PSAEL* Standard Road, Fyzabad PSAEL* Zachariah Avenue, Thick Village PSAEL* Ramroopsingh Trace,
-San Francique Arena Village, Rancho Quemado PSAEL* S.T.O.L. Road, Lorensotte PSAEL* San Fernando-Siparia-Erin Road, PSAEL*
-Palo Seco Coora Branch Road, Siparia PSAEL* Jacob Settlement Santa Flora PSAEL* Tank Farm Road, La Brea PSAEL* School Road, Santa Flora PSAEL* Guerra Trace, Quarry Village,
+San Francique Arena Village, Rancho Quemado PSAEL* S.T.O.L. Road, Lorennotte PSAEL* San Fernando-Siparia-Erin Road, PSAEL*
+Palo Seco Coora Branch Road, Siparia PSAEL* Jacob Settlement, Santa Flora PSAEL* Tank Farm Road, La Brea PSAEL* School Road, Santa Flora PSAEL* Guerra Trace, Quarry Village,
 Siparia Quinam Road, Siparia Taylor Avenue, Rito Ville,
-Siparia South Trinidad-Continued
-Robert Hill, Quarry Road, PSAEL*
-behind Nello Buaccano Hill, Quarry Village, Siparia
-Alexander Village, PSAEL*
-Agapito Trace, La Victoria Trace, Santa Flora
-Jacob Alley No. 2 PSAEL*
-"Back-a-yard", Los Bajos
+Siparia Robert Hill, Quarry Road, PSAEL*
+behind Nello Buaccano Hill, Quarry Village, Siparia Alexander Village, PSAEL*
+Agapito Trace, La Victoria Trace, Santa Flora Jacob Alley No. 2 PSAEL*
+"Back-a-yard", Los Bajos South Trinidad-Continued
 Fly-Over, Santa Flora PSAEL* Beach Road, Palo Seco Palo Seco Settlement, PSAEL*
 Palo Seco
 No. 4 Road, Palo Seco PSAEL* Webber Trace, Palo Seco PSAEL* No. 9 Road, Palo Seco PSAEL* No. 7 Road, Palo Seco PSAEL* Chinese Village, La Brea PSAEL* Pt. d'Or, La Brea PSAEL* Pier Road, La Brea PSAEL* Belle Vue, La Brea PSAEL* Old Jersey, La Brea PSAEL* Los Bajos, Los Bajos PSAEL* Warden Road, Cap-de-Vile, PSAEL*
 Lower Hollywood Road, Point Fortin
 Sobo Main Road, La Brea PSAEL* Sobo Junction, La Brea PSAEL* Sobo Tank 100, La Brea PSAEL* Union Village, Vessigny PSAEL* Vance River, Guapo PSAEL* Trintopec Quarters, Guapo PSAEL* Lime Field Road, Guapo PSAEL* Cruse Field, Guapo PSAEL* Square Deal Corner PSAEL*
-Vessigny Guapo, Point Fortin Red Road-Cemetery,
-Block Road, Point Fortin La Fortune Extension,
+Vessigny
+Guapo, Point Fortin Red Road-Cemetery,
+Block Road, Point Fortin
+La Fortune Extension,
 New Village, Point Fortin Fortune Street, New Village,
 Point Fortin Springle Avenue, New Village,
 Point Fortin Dam Road Extension,
 Point Fortin Southern Gardens,
-Warden Road, Point Fortin Egypt Avenue, Point Fortin
-Reid Road and Reid Road PSAEL* Extension, Point Fortin Lot 10, Village, Guapo Southern Main Road, Cochrane PSAEL* Alexander Street, PSAEL*
-Point Fortin Seedon Alley, Point Fortin PSAEL Moraldo Street, Point Fortin PSAEL* Egypt Village, Point Fortin PSAEL* TNA Road No. 2, Point Fortin PSAEL* Reservoir Hill, Point Fortin PSAEL* Laptiste Street, Point Fortin PSAEL* Parry Lands, Point Fortin PSAEL* Egypt Extension, Point Fortin PSAEL* Warden Road, Point Fortin PSAEL* Old Dam Road, Point Fortin PSAEL* Dam Road, Point Fortin PSAEL* TNA Road No. 1, Point Fortin PSAEL* South Trinidad-Continued
-La Fortune Extension, PSAEL*
-Point Fortin
-TPD behind T & TEC Substation, PSAEL*
-Point Fortin
-Hollywood, Point Fortin PSAEL* Suzzannah Trace,
-Mt. Stewart Village off Naparima-Mayaro Road
+Warden Road, Point Fortin Egypt Avenue, Point Fortin Reid Road and Reid Road PSAEL*
+Extension, Point Fortin Lot 10, Village, Guapo Southern Main Road, Cochrane PSAEL* Alexander Street, PSAEL*
+Point Fortin Seedon Alley, Point Fortin PSAEL Moraldo Street, Point Fortin PSAEL* Egypt Village, Point Fortin PSAEL* TNA Road No. 2, Point Fortin PSAEL* Reservoir Hill, Point Fortin PSAEL* Laptiste Street, Point Fortin PSAEL* Parry Lands, Point Fortin PSAEL* Egypt Extension, Point Fortin PSAEL* Warden Road, Point Fortin PSAEL* Old Dam Road, Point Fortin PSAEL* Dam Road, Point Fortin PSAEL* TNA Road No. 1, Point Fortin PSAEL* La Fortune Extension, PSAEL*
+Point Fortin TPD behind T & TEC Substation, PSAEL*
+Point Fortin Hollywood, Point Fortin PSAEL* Suzzannah Trace,
+Mt. Stewart Village off Naparima-Mayaro Road South Trinidad-Continued
 Good Hope and Bawani
 Estate, Southern Main Road, Cunapo
 Guatapajaro Road,
@@ -219,15 +195,16 @@ O'Brien Trace, Biche Prudence Trace, Biche New Settlement, Biche Ecclesville, Ri
 Rio Claro
 Springle Street, Egypt Village La Fortune Drive, Egypt Drive,
 Point Fortin
-Cedar Grove, Mayaro Bristol Village, Mayaro Main Road, Guayaguayare Fairfield Estate, Princes Town St. Mary's Village, Moruga Blitz Village, San Fernando Embacadere, San Fernando La Savanne, Guayaguayare Toruba South Cumoto Road, Barrackpore PSAEL* Lagoon Trace, Moruga PSAEL* Siparia Road, Siparia PSAEL* Corinth Village via Caroni*
-San Fernando
-Friendship Village via Caroni*
-San Fernando
+Cedar Grove, Mayaro Bristol Village, Mayaro Main Road, Guayaguayare Fairfield Estate, Princes Town St. Mary's Village, Moruga Blitz Village, San Fernando Embacadere, San Fernando La Savanne, Guayaguayare Toruba South Cumoto Road, Barrackpore PSAEL* Lagoon Trace, Moruga PSAEL* Siparia Road, Siparia PSAEL* Corinth Village Caroni*
+via San Fernando
+Friendship Village Caroni*
+via San Fernando
 Mora Settlement Trace,
 Guayaguayare
-Diamond/Picton via Caroni*
-San Fernando
-Hermitage via San Fernando Caroni* Stone Road, Piparo
+Diamond/Picton Caroni*
+via San Fernando
+Hermitage via San Fernando Caroni*
+Stone Road, Piparo
 Butler's Park, New Village,
 Point Fortin
 Ravine Ranch, New Village,
@@ -239,10 +216,10 @@ Point Fortin
 Techier Village, Point Fortin Tobago
 Louis d'Or Estate,
 Louis d'Or, Tobago
-Castara Estate, Castara
+Castara Estate, Castara,
 Tobago
 Buccoo, Tobago
-*Where the word "Caroni" is listed to the right of a site name, this indicate that the site currently owned by Caroni (1975) Limited. Where the word "PSAEL" is listed to the right of the site name, this indicates that the site is currently owned or managed by Palo Seco Agricultural Enterprises Limited.
+*Where the word "Caroni" is listed to the right of a site name, this indicates that the site is currently owned by Caroni (1975) Limited. Where the word "PSAEL" is listed to the right of the site name, this indicates that the site is currently owned or managed by Palo Seco Agricultural Enterprises Limited.
 - Margin: (Section 17).
 - Margin: 151/1999.
 - Margin: B. Means by which we may contact you:
@@ -251,11 +228,12 @@ Buccoo, Tobago
 - Margin: Notes:
 - Margin: i.
 - Margin: ii.
+- Margin: becomes VOID and of no value.
 - Margin: iv.
 - Margin: married to that person.
 - Margin: v.
 - Margin: your application form.
 - Margin: other landmark:
-- Margin: WEST
+- Margin: WEST EAST
 - Margin: Notes:
 - Margin: this declaration.
