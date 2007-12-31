@@ -3,10 +3,21 @@ CHAPTER 57:05
 Act
 25 of 1998
 Index of Subsidiary Legislation
-Page Notification (LN 151/1999) ... 34
-State Land (Regularisation of Tenure) (Delegation of Power) Order
-(LN 198/1999) ... 38 State Land (Regularisation of Tenure) (Certificate of Comfort) Regulations
-(LN 36/2000) ... 39 Notification (LN 134/2000) ... 43 Notification (LN 135/2000) ... 45
+Page Notification (LN 151/1999) ... 34 State Land (Regularisation of Tenure) (Delegation of Power) Order (LN 198/1999) 38 State Land (Regularisation of Tenure) (Certificate of Comfort) Regulations
+(LN 36/2000) ... 39
+Notification (LN 134/2000) ... 43 Notification (LN 135/2000) ... 45
+Note on Act No. 25 of 2005
+Section 13 of the Caroni (1975) Limited and Orange Grove National Company Limited (Divestment) Act, 2005 (Act No. 25 of 2005) provides as follows:
+13. (1) Subject to subsection (2) from the appointed day, the Agricultural "Non-
+application of
+Small Holdings Tenure Act, the Land Tenants (Security of Tenure) Act and the
+certain Acts
+State Lands (Regularisation of Tenure) Act, shall not apply to the real estate Ch. 59:53,
+Ch. 59:54
+undertakings vested in the State.
+and Ch. 57:05.
+(2) This Act shall not operate to extinguish or otherwise derogate
+from any rights, benefits, legitimate expectations or real estate undertakings already acquired by or vested in any tenant or squatter under the Acts listed in subsection (1).".
 CHAPTER 57:05
 STATE LAND (REGULARISATION OF
 TENURE) ACT
@@ -17,15 +28,13 @@ PRELIMINARY
 1. Short title. 2. Interpretation. 3. Application of Act. 4. Protection from ejectment.
 PART II
 ADMINISTRATION
-5. The Land Settlement Agency. 6. Ministerial direction. 7. The Land Settlement Committee. 8. Tenure of office. 9. Termination of office.
-10. General powers of the Agency and the Assembly.
+5. The Land Settlement Agency. 6. Ministerial direction. 7. The Land Settlement Committee. 8. Tenure of office. 9. Termination of office. 10. General powers of the Agency and the Assembly.
 PART III
 CERTIFICATE OF COMFORT
 11. Certificate of Comfort and application therefor. 12. Late applications. 13. False declarations.
 PART IV LEASES
 14. Statutory Leases. 15. Deeds of Lease. 16. Delegation of power by the President.
-ARRANGEMENT OF SECTIONS-Continued
-SECTION
+ARRANGEMENT OF SECTIONS-Continued SECTION
 PART V
 DESIGNATED AREAS
 17. Designated Areas. 18. Power of Minister to designate areas. 19. Criteria for designation. 20. Obligations of Minister in designing an area.
@@ -39,8 +48,7 @@ LAND SETTLEMENT AREAS
 land settlement
 PART VIII
 GENERAL PROVISIONS
-27. Relocation of squatters. 28. Ejectment from Land Settlement Area. 29. State agencies. 30. Fund established. 31. Deposit. 32. Bank account. 33. Audit. 34. Regulations. 35. Act No. 20 of 1986 repealed.
-SCHEDULE.
+27. Relocation of squatters. 28. Ejectment from Land Settlement Area. 29. State agencies. 30. Fund established. 31. Deposit. 32. Bank account. 33. Audit. 34. Regulations. 35. Act No. 20 of 1986 repealed. SCHEDULE.
 
 CHAPTER 57:05
 STATE LAND (REGULARISATION OF TENURE) ACT
