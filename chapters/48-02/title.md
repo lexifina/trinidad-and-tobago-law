@@ -2,17 +2,19 @@ PUBLIC TRANSPORT SERVICE ACT
 CHAPTER 48:02
 Act
 11 of 1965 Amended by 9 of 1969 36 of 1974 45 of 1979 47 of 1980
+45 1/2009
 Index of Subsidiary Legislation
 Page Public Transport Service (Compensation for Loss of Office) Regulations
-36 (GN 57/1966) ... Public Transport Service (Tax Exemption) Order (LN 30/1991) … … 46 Public Transport Service (Tax Exemption) Order (LN 21/2000) … … 46 Public Transport Service (Tax Exemption) (No. 2) Order (LN 305/2000) … 47 Public Transport Service (Tax Exemption ) Order (LN 313/2004) … 47
+(GN 57/1966) ... 36
 Note on Part II (Administration) (page 15)
 Under section 3(2) of the Statutory Authorities Act (Chapter 24:01), the Public Transport Service Corporation has been declared a statutory authority subject to the provisions of that Act (see Chapter 24:01-Subsidiary Legislation). So long as this declaration remains in force, the provisions of this Act relating to staff must be read and construed accordingly.
 Note on Adaptation
 Certain fees in this Chapter were increased by the Commission under paragraph 4 of the Second Schedule to the Law Revision Act (Ch. 3:03). Where this occurs, a marginal reference in the form normally indicating an amendment is made to LN 51/1980 (the Legal Notice by which the President's approval was signified).
+Note on Omission
+The Public Transport Service (Tax Exemption) Orders made under section 45 of the Act have been omitted-(See the Current Edition of the Consolidated Index of Acts and Subsidiary Legislation for references to these Orders).
 CHAPTER 48:02
 PUBLIC TRANSPORT SERVICE ACT
-ARRANGEMENT OF SECTIONS
-SECTION
+ARRANGEMENT OF SECTIONS SECTION
 1. Short title.
 PRELIMINARY
 2. Interpretation.
@@ -24,7 +26,8 @@ PROCEDURE
 GENERAL POWERS AND DUTIES
 OF THE CORPORATION
 8. Powers and duties of Corporation. 9. Policy directions.
-VESTING OF PROPERTY IN THE CORPORATION 10. Assets and liabilities of the Corporation. Revesting of land in the State.
+VESTING OF PROPERTY IN THE CORPORATION
+10. Assets and liabilities of the Corporation. Revesting of land in the State.
 MISCELLANEOUS
 11. Remuneration of members. 12. Declaration of interest. 13. Execution of documents. 14. Annual report of Corporation.
 ARRANGEMENT OF SECTIONS-Continued SECTION
