@@ -1,8 +1,11 @@
 SUBSIDIARY LEGISLATION
-VESTING ORNER
-made under seGtt;On 16(1)
-TI """lres) :lent has ordered that all the land which the .vevCIUpment Plan describe" in the .n.ppendix below relates and which before the commencement of this Order (that is, 9th October 1974) was vested in the Government of ~~rinidad and Tobago no\\ ... sts L ;':le C._~uar;..u .. .ls Developme.lt Authority subject to the limitations laid down in section 16(1)(b) of the Act.
-1_ EN]_~
-The Development Plan referred to above is the development plan respecting the ~!ortt ~.7est Peninsula, as defined in the Schedule ~o the Act, force on the said 9th October 1974.
-- Margin: 6911975.
-- Margin: L.R.O.1I1980
+*VESTING ORDER
+made under section 16(1)
+The President has ordered that all the land to which the Development Plan described in the Appendix below relates and which before the commencement of this Order (that is, 9th October 1974) was vested in the Government of Trinidad and Tobago now vests in the Chaguaramas Development Authority subject to the limitations laid down in section 16(1)(b) of the Act.
+APPENDIX
+The Development Plan referred to above is the development plan respecting the North-West Peninsula, as defined in the Schedule to the Act, in force on the said 9th October 1974.
+* See the Chaguaramas Development Authority Divesting (Chaguaramas Heliport) Order 2003 (LN 59/2003) regarding the status of this Vesting Order.
+CHAGUARAMAS DEVELOPMENT AUTHORITY
+VESTING ORDER
+made under section 16(1)
+- Margin: 102/1993.
