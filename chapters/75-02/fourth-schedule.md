@@ -12,14 +12,14 @@ the place in which the principal place of business of the ship owner is situated
 that authority account of the whole of his business; and
 (ii) the ratio of the profits for the year of income as
 computed according to the tax law of that place (after deducting interest on any money borrowed and employed in acquiring the profits) to the aggregate of the amount of receipts of the shipowner's fleet or vessel for that period;
-(c) if the profits of a shipowner have for the purpose of assessment
-in Trinidad and Tobago under Part I of this Act, been computed on any basis other than the ratio of the profits shown by a certificate as aforesaid, and an assessment has been made accordingly, the shipowner shall, upon production of the certificate at any time within two years from the end of the year of income, be entitled to such adjustment as may be necessary to give effect to the said certificate and to have any tax paid in excess refunded;
-(d) in this paragraph, the expression "shipowner" means an owner
-or charterer of ships whose principal place of business is situated outside Trinidad and Tobago.
+(c) if the profits of a shipowner have for the purpose of
+assessment in Trinidad and Tobago under Part I of this Act, been computed on any basis other than the ratio of the profits shown by a certificate as aforesaid, and an assessment has been made accordingly, the shipowner shall, upon production of the certificate at any time within two years from the end of the year of income, be entitled to such adjustment as may be necessary to give effect to the said certificate and to have any tax paid in excess refunded;
+(d) in this paragraph, the expression "shipowner" means an
+owner or charterer of ships whose principal place of business is situated outside Trinidad and Tobago.
 2. (1) Where an assurance company carries on long-term insurance business in conjunction with assurance business of any other class, the long-term insurance business of the company shall for purposes of Part I of this Act be treated as a separate business from any other class of business carried on by the company.
 (2) Where an assurance company carries on ordinary life insurance business, general annuity business, industrial life insurance business, approved annuity business, bond investment business, non-cancellable sickness and accident insurance business or any of them-
-(a) the ordinary life insurance business or general annuity business
-or both, as the case may be, shall be treated as a separate class of business; and
+(a) the ordinary life insurance business or general annuity
+business or both, as the case may be, shall be treated as a separate class of business; and
 (b) the industrial life insurance business, approved annuity
 business, bond investment business, non-cancellable sickness and accident business, as the case may be, shall each be treated as a separate class of business, and paragraph 3 relating to expenses shall apply separately to each such class of business.
 (3) No loss incurred in connection with any business deemed to be a separate business under subparagraphs (1) and (2) shall be set off against the profits from any other business in any year of income but may be carried forward to be set off, to the extent provided by section 16 of the Income Tax Act as applied for the purposes of this Act against the profits of that business in succeeding years.
@@ -30,10 +30,10 @@ Percentage of annual premium
 Year of Income First year Second or subsequent years
 1969 … … 15% 2% 1970 … … 10% 2% 1971 … … 5% 2% 1972 … … Nil 2% 1973 and subsequent years Nil Nil
 (4) The profits of approved annuity business shall not be chargeable to tax except to the extent that such profits are distributed to the shareholders.
-4. (1) Where, in the case of a non-resident company, any part of the profits of its long-term insurance business is transferred to the shareholders account, the amount of the profits that is to be treated under the First Schedule of this Act as chargeable at the higher rate of tax shall be taken to be the amount produced by multiplying the total amount transferred by the ratio of the Trinidad and Tobago actuarial reserves over the company's world actuarial reserves.
+4. Where, in the case of a non-resident company, any part of the profits of its long-term insurance business is transferred to the shareholders account, the amount of the profits that is to be treated under the First Schedule of this Act as chargeable at the higher rate of tax shall be taken to be the amount produced by multiplying the total amount transferred by the ratio of the Trinidad and Tobago actuarial reserves over the company's world actuarial reserves.
 5. (1) In this Schedule- "foreign long-term insurance fund" means any fund representing the amount
-of the liability of an assurance company in respect of its long-term insurance business with policy holders and annuitants residing out of Trinidad and Tobago whose proposals were made to, or whose annuity contracts were granted by, the company at or through a branch or agency outside Trinidad and Tobago and, where such a fund is not kept separately from the Statutory Fund, means such part of the Statutory Fund as represents the liability of the company under such policies and annuity contracts, such liability being estimated in the same manner as it is estimated for the purpose of the periodical returns of the company to the supervisor under the Insurance Act; "long-term insurance business" means ordinary life assurance business, general
-annuity business, industrial life insurance business, approved annuity business, non-cancellable sickness and accident insurance and bond investment business; "revenue account" means the revenue account required to be kept under
+of the liability of an assurance company in respect of its long-term insurance business with policy holders and annuitants residing out of Trinidad and Tobago whose proposals were made to, or whose annuity contracts were granted by, the company at or through a branch or agency outside Trinidad and Tobago and, where such a fund is not kept separately from the Statutory Fund, means such part of the Statutory Fund as represents the liability of the company under such policies and annuity contracts, such liability being estimated in the same manner as it is estimated for the purpose of the periodical returns of the company to the supervisor under the Insurance Act; "long-term insurance business" means ordinary life assurance business,
+general annuity business, industrial life insurance business, approved annuity business, non-cancellable sickness and accident insurance and bond investment business; "revenue account" means the revenue account required to be kept under
 section 56 of the Insurance Act; "Statutory Fund" has the same meaning as in section 3 of the Insurance Act,
 except that in the case of a resident company the expression shall be deemed to include the authorised and paid up share capital of the company.
 (2) Subject to this paragraph, the First Schedule of the Insurance Act shall apply for the purpose of the definition of so much of the business referred to in this Schedule as are defined therein.
@@ -50,9 +50,7 @@ EMPLOYEES AND AGENTS WELFARE
 PROFESSIONAL AND SERVICE FEES AND EXPENSES
 10. Legal fees and expenses. 11. Auditors fees.
 MISCELLANEOUS EXPENSES
-12. Advertising. 13. Books and periodicals. 14. Bureau and Association dues. 15. Collection of Bank Charges.
-TABLE-Continued
-16. Commission on mortgages. 17. Insurance, except on real estate. 18. Postage, telegraph, telephone, express. 19. Office furniture. 20. Rental of equipment and general office maintenance. 21. Travelling expenses, head office. 22. Travelling expenses, branch office.
+12. Advertising. 13. Books and periodicals. 14. Bureau and Association dues. 15. Collection of Bank Charges. 16. Commission on mortgages. 17. Insurance, except on real estate. 18. Postage, telegraph, telephone, express. 19. Office furniture. 20. Rental of equipment and general office maintenance. 21. Travelling expenses, head office. 22. Travelling expenses, branch office.
 REAL ESTATE EXPENSES, EXCLUDING TAXES
 23. Real estate expenses.
 - Margin: Section 14. [5 of 1969 6 of 1989].

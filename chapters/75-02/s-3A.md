@@ -1,18 +1,19 @@
-# 3A. Business levy. [6 of 1993 22 of 1993 3 of 1994 5 of 1995 8 of 1996 9 of 1997 35 of 1998 91 of 2000].
+# 3A. Business levy. [6 of 1993 22 of 1993 3 of 1994 5 of 1995 8 of 1996 9 of 1997 35 of 1998 91 of 2000 21 of 2005 2 of 2006 30 of 2007].
 (1) There shall be levied and paid to the Board a tax to be known as business levy on the gross sales or receipts of a company for each year of income at the rate of 0.2 per cent.
 (2) Subsection (1) does not apply to-
 (a) companies during the first twelve months
 following their registration;
-(b) companies or statutory corporations exempt from
-corporation tax under any Act;
+(b) companies or statutory corporations exempt
+from corporation tax under any Act;
 (c) the gross sales or receipts of a company which
 give rise to profits exempt from corporation tax under any Act;
 (d) the Deposit Insurance Corporation, the
 Agricultural Development Bank, the Public Transport Service Corporation and public utilities under the jurisdiction of the Public Utilities Commission or exempted by Order of the President;
 (e) companies that are subject to tax under the
-Petroleum Taxes Act; and
+Petroleum Taxes Act;
 (f) the gross sales or receipts of a company whose
-gross sales or receipts in the preceding year of income do not exceed the sum of two hundred thousand dollars, unless there are reasonable grounds to believe that the gross sales or receipts of the company in the particular year will exceed that sum.
+gross sales or receipts in the preceding year of income do not exceed the sum of two hundred thousand dollars, unless there are reasonable grounds to believe that the gross sales or receipts of the company in the particular year will exceed that sum;
+(g) (Repealed by Act No. 2 of 2006).
 (2A) The President may, by Order subject to negative resolution of Parliament, amend subsection (2)(d) by exempting other public utilities from the business levy.
 (3) A company is entitled to a tax credit against its business levy liability for a year of income of any payment made in respect of its corporation tax liability for that year of income up to a maximum of its business levy liability.
 (4) (Repealed by Act No. 5 of 1995).
@@ -25,8 +26,9 @@ gross sales or receipts in the preceding year of income do not exceed the sum of
 (11) Notwithstanding anything in subsection (1), from 1st January 1999 the business levy shall not be levied earlier than the date of expiry of three years from the date of registration of a Corporation which is registered after the aforesaid date.
 TABLE
 INCOME TAX PROVISIONS APPLIED TO THE BUSINESS LEVY
-Section 2 (Interpretation) Sections 3 and 4 (Administration) Sections 59 to 65 (Trustees, agents, etc.) Section 66 (Deceased persons) Sections 76, 77 (Returns) Sections 79 to 82 (Payment of tax by instalments) Sections 83 and 84 (Assessments) Section 85 (Assessment lists, etc.) Section 86 (Notices of Assessment) Section 87 (Appeals) Sections 88 and 89 (Errors in assessments and additional assessments) Section 90(1) and (3) (Repayment of Tax) Section 92 (Refunds) Section 93 (Relief from double taxation) Section 94 (Certain income deemed to be income for the purposes of the
+Section 2 (Interpretation) Sections 3 and 4 (Administration) Sections 59 to 65 (Trustees, agents, etc.) Section 66 (Deceased persons) Sections 76, 77 (Returns) Sections 79 to 82 (Payment of tax by instalments) Section 82A (Relief from payment of tax) Sections 83 and 84 (Assessments) Section 85 (Assessment lists, etc.) Section 86 (Notices of Assessment) Section 87 (Appeals) Sections 88 and 89 (Errors in assessments and additional assessments) Section 90(1) and (3) (Repayment of Tax) Section 92 (Refunds) Section 93 (Relief from double taxation) Section 94 (Certain income deemed to be income for the purposes of the
 Income Tax Act)
 Section 103 (Interest for non-payment of tax) Sections 104 to 108 (Collection) Sections 109 to 112 (Recovery) Sections 113 and 114 (Notices) Section 115 (Imprisonment of defaulters) Sections 116, 117, 118 to 124 (General Provisions) Section 125 (Regulations) Sections 130, 131, 132 (Miscellaneous powers of Board) The Sixth Schedule.
 - Margin: Ch. 75:04.
+- Margin: Ch. 75:01.
 - Margin: Ch. 75:01.
