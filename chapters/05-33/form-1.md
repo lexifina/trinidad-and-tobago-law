@@ -1,0 +1,16 @@
+# FORM 1
+APPLICATION BY A PROSPECTIVE PARTICIPANT
+TO BE INCLUDED IN THE JUSTICE PROTECTION
+PROGRAMME
+I, ..., hereby apply for protection under the Justice
+(block letters) Protection Programme.
+I am also known as ...
+My current address is: ...
+Date of Birth: ... Occupation: ... Next of Kin: ...
+Address of Next Kin: ...
+...
+Details of any previous protection (if any, including the name of the Investigating Officer):
+Signature:
+Date:
+- Margin: (Regulation 3).
+- Margin: [Subsidiary]
