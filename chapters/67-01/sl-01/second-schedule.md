@@ -1,7 +1,6 @@
 # SECOND SCHEDULE
 THE CONSERVATION OF WILD LIFE ACT
-Serial No.
-ACKNOWLEDGMENT OF RELEASE OF PROTECTED ANIMAL
+Serial No. ACKNOWLEDGMENT OF RELEASE OF PROTECTED ANIMAL
 I, ... have today released the following
 (designation) protected animals and birds ...
 (here insert number) ...
@@ -25,3 +24,4 @@ commits an offence and is liable on summary conviction to a fine of two hundred 
 - Margin: 116/2002.
 - Margin: Citation.
 - Margin: Prohibition against hunting.
+- Margin: Second Schedule.

@@ -5,10 +5,10 @@ Act
 *See Note on Validation on page 2
 Index of Subsidiary Legislation
 Page Conservation of Wild Life Regulations (Act No. 16 of 1958) … … 20 Conservation of Wild Life (Prohibition Against Hunting During Certain Periods)
-Regulations (LN 116/2002) ... 28
-Note on Omission
+Regulations (LN 116/2002)... 28
+Note on Omissions
 (Appointment of Game Wardens and Honorary Game Wardens)
-The appointment of Game Wardens and Honorary Game Wardens have been omitted. (See the following Legal Notices: Nos. 49/1965; 135/1984; 203/2000; 204/2000; 194/2003).
+The appointments of Game Wardens and Honorary Game Wardens have been omitted. (See the following Legal Notices: Nos. 49/1965; 135/1984; 203/2000; 204/2000; 194/2003; 69/2006).
 Note on Validation
 The Act of this Chapter was re-enacted with retrospective effect and all acts done under it validated by Act No. 31 of 1980.
 CHAPTER 67:01
@@ -21,8 +21,8 @@ Committee.
 
 CHAPTER 67:01
 CONSERVATION OF WILD LIFE ACT
-An Act to make better provision for the Conservation of Wild
-Animal Life in Trinidad and Tobago.
+An Act to make better provision for the Conservation of
+Wild Animal Life in Trinidad and Tobago.
 [15TH MARCH 1963]
 - Margin: 16 of 1958.
 - Margin: Commencement. 49/1963.
