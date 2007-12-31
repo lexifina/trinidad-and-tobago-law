@@ -1,7 +1,7 @@
 # FOURTH SCHEDULE
-ARTICLES OF THE CONVENTION ON THE PRIVILEGES
-AND IMMUNITIES OF THE SPECIALISED AGENCIES
-HAVING THE FORCE OF LAW IN
+ARTICLES OF THE CONVENTION ON THE
+PRIVILEGES AND IMMUNITIES OF THE SPECIALISED
+AGENCIES HAVING THE FORCE OF LAW IN
 TRINIDAD AND TOBAGO
 Article I
 DEFINITIONS AND SCOPE
@@ -23,13 +23,12 @@ Cultural Organisation;
 accordance with Articles 57 and 63 of the Charter.
 (iii) The word "Convention" means, in relation to any
 particular specialised agency, the standard clauses as modified by the final (or revised) text of the annex transmitted by that agency in accordance with sections 36 and 38.
-(iv) For the purposes of Article III, the words "property and
-assets" shall also include property and funds administered by a specialised agency in furtherance of its constitutional functions.
-(v) For the purposes of articles V and VII, the expression
+(iv) For the purposes of Article III, the words "property
+and assets" shall also include property and funds administered by a specialised agency in furtherance of its constitutional functions.
+(v) For the purposes of Articles V and VII, the expression
 "representatives of members" shall be deemed to include all representatives, alternates, advisers, technical experts and secretaries of delegations.
-(vi) In sections 13, 14, 15 and 25, the expression "meetings
-convened by a specialised agency" means meetings-
-(1) of its assembly and of its executive body (however designated), and (2) of any commission provided for in its constitution; (3) of any international conference convened by it; and (4) of any committee of any of these bodies.
+(vi) In sections 13, 14, 15 and 25, the expression
+"meetings convened by a specialised agency" means meetings- (1) of its assembly and of its executive body (however designated), and (2) of any commission provided for in its constitution; (3) of any international conference convened by it; and (4) of any committee of any of these bodies.
 (vii) The term "executive head" means the principal
 executive official of the specialised agency in question, whether designated "Director-General" or otherwise.
 Article II
@@ -43,15 +42,15 @@ Section 6. The archives of the specialised agencies, and in general all document
 Section 7. Without being restricted by financial controls, regulations or moratoria of any kind-
 (a) the specialised agencies may hold funds, gold or currency of
 any kind and operate accounts in any currency;
-(b) the specialised agencies may freely transfer their funds, gold
-or currency from one country to another or within any country and convert any currency held by them into any other currency.
+(b) the specialised agencies may freely transfer their funds, gold or
+currency from one country to another or within any country and convert any currency held by them into any other currency.
 Section 9. The specialised agencies, their assets, income and other property shall be-
 (a) exempt from all direct taxes; it is understood, however,
 that the specialised agencies will not claim exemption from taxes which are, in fact, no more than charges for public utility services;
-(b) exempt from Customs duties and prohibitions and restrictions
-on imports and exports in respect of articles imported or exported by the specialised agencies for their official use; it is understood, however, that articles imported under such exemption will not be sold in the country into which they were imported except under conditions agreed to with the Government of that country;
-(c) exempt from duties and prohibitions and restrictions on imports
-and exports in respect of their publications.
+(b) exempt from Customs duties and prohibitions and
+restrictions on imports and exports in respect of articles imported or exported by the specialised agencies for their official use; it is understood, however, that articles imported under such exemption will not be sold in the country into which they were imported except under conditions agreed to with the Government of that country;
+(c) exempt from duties and prohibitions and restrictions on
+imports and exports in respect of their publications.
 Section 10. While the specialised agencies will not, as a general rule, claim exemption from excise duties and from taxes on the sale of movable and immovable property which forms part of the price to be paid, nevertheless when the specialised agencies are making important purchases for official use of property on which such duties and taxes have been charged or are chargeable, State parties to this Convention will, whenever possible, make appropriate administrative arrangements for the remission or return of the amount of duty or tax.
 Article IV
 FACILITIES IN RESPECT OF COMMUNICATIONS
@@ -65,10 +64,10 @@ Section 13. Representatives of members at meetings convened by a specialised age
 (a) immunity from personal arrest or detention and from seizure
 of their personal baggage, and in respect of words spoken or written and all acts done by them in their official capacity, immunity from legal process of every kind;
 (b) inviolability for all papers and documents;
-(c) the right to use codes and to receive papers or correspondence
-by courier or in sealed bags;
+(c) the right to use codes and to receive papers or
+correspondence by courier or in sealed bags;
 (d) exemption in respect of themselves and their spouses from
-immigration restrictions, aliens' registration or national service obligations in the State which they are visiting or through which they are passing in the exercise of their functions;
+immigration restrictions, aliens'registration or national service obligations in the State which they are visiting or through which they are passing in the exercise of their functions;
 (e) the same facilities in respect of currency or exchange
 restrictions as are accorded to representatives of foreign
 Governments on temporary official missions;
@@ -80,7 +79,7 @@ Section 16. Privileges and immunities are accorded to the representatives of mem
 Section 17. The provisions of sections 13, 14 and 15 are not applicable in relation to the authorities of a State of which the person is a national or of which he is or has been a representative.
 Article VI
 OFFICIALS
-Section 18. Each specialised agency will specify the categories of officials to which the provisions of this Article and of Article VIII shall apply. It shall communicate them to the Governments of all States party to this Convention in respect of that agency and to the Secretary-General of the United Nations. The names of the officials included in these categories shall from time to time be made known to the above-mentioned Governments.
+Section 18. Each specialised agency will specify the categories of officials to which the provisions of this Article and of Article VIII shall apply. It shall communicate them to the Governments of all States parties to this Convention in respect of that agency and to the Secretary-General of the United Nations. The names of the officials included in these categories shall from time to time be made known to the above-mentioned Governments.
 Section 19. Officials of the specialised agencies shall-
 (a) be immune from legal process in respect of words spoken
 or written and all acts performed by them in their official capacity;
@@ -90,13 +89,12 @@ salaries and emoluments paid to them by the specialised agencies and on the same
 dependent upon them, from immigration restrictions and alien registration;
 (d) be accorded the same privileges in respect of exchange of
 facilities as are accorded to officials of comparable rank of diplomatic missions;
-(e) be given, together with their spouses and relatives dependent
-on them, the same repatriation facilities in time of international crises as officials of comparable rank of diplomatic missions;
-(f) have the right to import free of duty their furniture and effects
-at the time of first taking up their post in the country in question.
+(e) be given, together with their spouses and relatives dependent on them, the same repatriation facilities in time of international crises as officials of comparable rank of diplomatic missions;
+(f) have the right to import free of duty their furniture and effects at
+the time of first taking up their post in the country in question.
 Section 20. The officials of the specialised agencies shall be exempt from national service obligations, provided that, in relation to the States of which they are nationals, such exemption shall be confined to officials of the specialised agencies whose names have, by reason of their duties, been placed upon a list compiled by the executive head of the specialised agency and approved by the State concerned.
 Should other officials of specialised agencies be called up for national service, the State concerned shall, at the request of the specialised agency concerned, grant such temporary deferment in the call-up of such officials as may be necessary to avoid interruption in the continuation of essential work.
-Section 21. In additon to the immunities and privileges specified in sections 19 and 20, the executive head of each specialised agency, including any official acting on his behalf during his absence from duty, shall be accorded in respect of himself, his spouse and minor children, the privileges and immunities, exemptions and facilities accorded to diplomatic envoys, in accordance with international law.
+Section 21. In addition to the immunities and privileges specified in sections 19 and 20, the executive head of each specialised agency, including any official acting on his behalf during his absence from duty, shall be accorded in respect of himself, his spouse and minor children, the privileges and immunities, exemptions and facilities accorded to diplomatic envoys, in accordance with international law.
 Section 22. Privileges and immunities are granted to officials in the interests of the specialised agencies only and not for personal benefit of the individuals themselves. Each specialised agency shall have the right and the duty to waive the immunity of any official in any case where, in its opinion, the immunity would impede the course of justice and can be waived without prejudice to the interests of the specialised agency.
 Section 23. Each specialised agency shall co-operate at all times with the appropriate authorities of member States to facilitate the proper administration of justice, secure the observance of police regulations and prevent the occurrence of any abuses in connection with the privileges, immunities and facilities mentioned in this Article.
 Article VII

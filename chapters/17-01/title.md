@@ -5,21 +5,17 @@ Act
 23 of 1965 Amended by 45 of 1979 18 of 1988 8 of 1994
 Index of Subsidiary Legislation
 Page Privileges and Immunities (European Economic Commission) Order
-(GN 107/1977) ... 52 Privileges and Immunities (Conventions of Lomé) Order (LN 199/1989) … 53
-Privileges and Immunities (Conventions of Lomé) (No. 2) Order
-(LN 200/1989) ... 54 Privileges and Immunities (Caribbean Agricultural Research and
-Development Institute) Order (LN 201/1989) … … … 55 Privileges and Immunities (Conventions of Lomé) Order (LN 88/1990) … 60
-Privileges and Immunities (Conventions of Lomé) (No. 2) Order
-(LN 89/1990) ... 61 Privileges and Immunities (Caribbean Community and Caribbean
-Common Market) Order (LN 129/1990) ... 63 Privileges and Immunities (Caribbean Financial Action Task Force) Order
-(LN 64/1994) ... 70 Privileges and Immunities (Multilateral Investment Guarantee
-Agency) Order (LN 199/1994) ... 71 Privileges and Immunities (Commission of the European Communities) Order
+(GN 107/1977) ... 52 Privileges and Immunities (Conventions of Lomé) Order (LN 199/1989) … 53 Privileges and Immunities (Conventions of Lomé) (No. 2) Order (LN 200/1989) 54 Privileges and Immunities (Caribbean Agricultural Research and Development
+Institute) Order (LN 201/1989) ... 55 Privileges and Immunities (Conventions of Lomé) Order (LN 88/1990) … 60 Privileges and Immunities (Conventions of Lomé) (No. 2) Order (LN 89/1990) 61 Privileges and Immunities (Caribbean Community and Caribbean Common
+Market) Order (LN 129/1990 ... 63 Privileges and Immunities (Caribbean Financial Action Task Force) Order
+(LN 64/1994) ... 70 Privileges and Immunities (Multilateral Investment Guarantee Agency) Order
+(LN 199/1994) ... 71 Privileges and Immunities (Commission of the European Communities) Order
 (LN 6/1995) ... 75 Privileges and Immunities (Caribbean Telecommunications Union) Order
 (LN 156/1995) ... 77 Privileges and Immunities (CARICOM Fisheries Resources Assessment and
-Management Programme-Resource Assessment Unit) Order (LN 164/1996) ... 83 Privileges and Immunities (Andean Development Corporation) Order
-(LN 166/1996) ... 90 Privileges and Immunities (Caribbean Export Development Agency)
-Order (LN 193/1997) ... 95 Privileges and Immunities (Conventions of Lomé) Order (LN 48/1999) … 103 Privileges and Immunities (Diplomatic, Consular and International Organisations)(Inter-American Institute for Co-operation on
-Agriculture) Order (LN 101/2001) ... 104
+Management Programme-Resource Assessment Unit) Order (LN 164/1996) 83 Privileges and Immunities (Andean Development Corporation) Order (LN 166/1996) 90 Privileges and Immunities (Caribbean Export Development Agency) Order
+(LN 193/1997) ... 95 Privileges and Immunities (Conventions of Lomé) Order (LN 48/1999) … 103 Privileges and Immunities (Diplomatic, Consular and International Organisations)
+(Inter-American Institute for Co-operation on Agriculture) Order (LN 101/2001) 104 Privileges and Immunities [Caribbean Court of Justice (CCJ), Regional Judicial
+and Legal Services Commission (RJLSC) and the Caribbean Court of Justice Trust Fund] Order (LN 99/2005) ... 105
 CHAPTER 17:01
 PRIVILEGES AND IMMUNITIES
 (DIPLOMATIC, CONSULAR AND INTERNATIONAL
