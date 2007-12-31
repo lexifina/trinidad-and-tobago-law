@@ -14,4 +14,4 @@ VEHICLE INSPECTION CLASSES: CLASS 1 - Motorcycles CLASS 3 - Private Motor Vehicl
 (Not exceeding 2,270 kg)
 This card is the property of the Transport Division, Ministry of Works and Transport. Duplication or modification of this card, or use by anyone rather than the Certified Examiner identified on this card, is a violation of the Motor Vehicle and Road Traffic Act, Ch. 48:50.
 ...
-Motor Vehicles and Road Traffic Regulations [Subsidiary]
+[Subsidiary ] Motor Vehicles and Road Traffic Regulations

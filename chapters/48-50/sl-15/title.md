@@ -1,10 +1,10 @@
-PORT-OF-SPAIN TRANSIT CENTRE
-(TAXI STAND) ORDER
+PRIORITY BUS ROUTE
+(TRAFFIC CONTROL) ORDER
 ARRANGEMENT OF CLAUSES
 CLAUSE
-1. Citation 2. Taxi stand. 3. Access-Red and Green Band maxi-taxis. 4. Access to taxi stand-6.00 a.m. to 9.00 a.m. 5. Parking, stopping restricted. 6. Parking prohibited. 7. Offence.
-[Subsidiary]
-PORT-OF-SPAIN TRANSIT CENTRE
-(TAXI STAND) ORDER
+1. Citation. 2. Conditional use of route. 3. No left turn-eastbound traffic. 4. No left turn-westbound traffic. 5. No right turn-eastbound traffic. 6. No right turn-westbound traffic. 7. Stopping prohibited. 8. Offence.
+[Subsidiary ]
+PRIORITY BUS ROUTE
+(TRAFFIC CONTROL) ORDER
 made under section 65
-- Margin: 226/1997.
+- Margin: 99/1988.
