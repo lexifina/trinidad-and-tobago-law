@@ -1,8 +1,7 @@
 TRINIDAD AND TOBAGO FREE ZONES ACT
 CHAPTER 81:07
 Act
-19 of 1988 Amended by
-6 of 1989 6 of 1991 33 of 1995 4 of 1997 15 of 2004
+19 of 1988 Amended by 6 of 1989 6 of 1991 33 of 1995 4 of 1997 15 of 2004 249/2005 200/1996 201/1996
 Note on Subsidiary Legislation
 The following Orders, viz:
 (a) Trinidad and Tobago Free Zones (Designation) Orders made under
@@ -29,10 +28,10 @@ OPERATIONS WITHIN A FREE ZONE
 15. Approval of enterprise to undertake approved activity. 16. Companies to be incorporated or registered locally.
 ARRANGEMENT OF SECTIONS-Continued
 SECTION
-17. Insurance business.
-17A. (Repealed by Act No. 4 of 1997).
-18. Dealing with or disposal of goods in free zones. 19. Persons not to enter free zones without permission. 20. Retail trade. 21. (Repealed by Act No. 33 of 1995). 22. Recording, marking and inspection of articles imported with Customs
-duty concessions.
+17. Insurance business. (Repealed by Act No. 4 of 1997). 17A.
+18. Dealing with or disposal of goods in free zones. 19. Persons not to enter free zones without permission. 20. Retail trade. (Repealed by Act No. 33 of 1995). 21.
+22. Recording, marking and inspection of articles imported with
+Customs duty concessions.
 22A. Directors to declare interest.
 23. Restriction on disposal of articles imported with Customs duty
 concessions.
@@ -42,15 +41,15 @@ PART IV
 LICENCES
 28. Import and export licensing.
 PART V
-BANKING AND FOREIGN CURRENCY ACTIVITIES 29. Banking activities.
+BANKING AND FOREIGN CURRENCY ACTIVITIES
+29. Banking activities.
 }
 30. to (Repealed by Act No. 33 of 1995). 32.
 PART VA
 TAX RELIEF
 32A. Exemption from lands and buildings taxes.
 33. Exemption from tax. SECTION
-34. Profits and distributions not chargeable to tax.
-34A. (Repealed by Act No. 33 of 1995).
+34. Profits and distributions not chargeable to tax. (Repealed by Act No. 33 of 1995). 34A.
 PART VI
 MISCELLANEOUS
 35. Service charges and dividends subject to exchange control and
