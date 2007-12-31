@@ -1,151 +1,186 @@
-BANKRUPTCY AND INSOLVENCY ACT
+BANKRUPTCY ACT
 CHAPTER 9:70
 Act
-26 of 2007
+38 of 1916
+Amended by
+24 of 1917
+52 of 1925
+19 of 1931
+25 of 1936
+35 of 1945
+52 of 1976
+45 of 1979
+*19 of 1981
+*24 of 1981
+*See Note on Amendments at page 2
 Index of Subsidiary Legislation
-Page Bankruptcy and Insolvency Regulations (LN 232/2014) … … … 175
-Note on Commencement
-At the date of Revision of this Act, Part XI was awaiting proclamation.
+Page Bankruptcy Rules (G. 19.11.25) ... 109
+Note on Amendments
+(a) Section 39(2) has been amended by Act No. 19 of 1981.
+(b) Section 56(3) and sections 123, 124 and 125 have been amended by Act No. 24 of 1981.
+However, Act No. 19 of 1981 and Act No. 24 of 1981 had not, up to the date of the last revision of this Act, been brought into operation.
+Note on Adaptation
+Under paragraph 6 of the Second Schedule to the Law Revision Act (Ch. 3:03) the Commission amended certain references to public officers in this Chapter. The Minister's approval of the amendment was signified by LN 52/1980, but no marginal reference is made to this Notice where any such amendment is made in the text.
 CHAPTER 9:70
-BANKRUPTCY AND INSOLVENCY ACT
-ARRANGEMENT OF SECTIONS
+BANKRUPTCY ACT
+ARRANGEMENT OF SECTIONS SECTION
+1. Short title. 2. Interpretation.
 PART I
-PRELIMINARY
-SECTION
-1. Short title. 2. Commencement. 3. Interpretation.
-PART II
+PROCEEDINGS FROM ACT OF BANKRUPTCY
+TO DISCHARGE
 ACTS OF BANKRUPTCY
-4. Acts of bankruptcy.
-PART III RECEIVING ORDERS, INTERIM RECEIVERS, SECURED
-CREDITORS AND RECEIVERS
-PETITION FOR RECEIVING ORDER
-5. Filing of petition. 6. Petition against estate of deceased. 7. Costs of petitioner.
-APPOINTMENT OF INTERIM RECEIVER
-8. Appointment of interim receiver. 9. Appointment of interim receiver where section 13 notice pending. 10. Appointment of interim receiver where notice of intention or
-proposal filed.
-11. Costs of interim receiver.
-SECURED CREDITORS AND RECEIVERS
-12. Who may be a receiver. 13. Secured party to provide notice. 14. Duties of the receiver. 15. Required action by receiver. 16. Rights of receiver. 17. Duty of debtor.
+3. Acts of bankruptcy.
+Assignments for benefit of creditors generally.
+Fraudulent assignments. Fraudulent preference. Absconding etc. Executions. Declaration of inability to pay.
+Non-compliance with bankruptcy notice.
+Suspension of payment.
+4. Bankruptcy notices.
+RECEIVING ORDER
+5. Jurisdiction to make receiving order. 6. Conditions on which creditor may petition. Petition by secured creditor.
+7. Proceedings and order on creditor's petition. Proof of facts. Court may dismiss. If act of bankruptcy is non-compliance with bankruptcy notice. Where debtor denies debt, proceedings may be stayed. If proceedings stayed. No withdrawal without leave.
+8. Debtor's petition and an order thereon. 9. Effect of receiving order. Secured creditor.
+10. Discretionary powers as to appointment of interim receiver. 11. Power to stay proceedings. Service of order.
+12. Power to appoint special manager.
 ARRANGEMENT OF SECTIONS-Continued SECTION
-18. Receiver to provide notice of disposition. 19. Personal liability of receiver. 20. Court order in respect of non-performance of duties. 21. Court may order statement of accounts to be submitted for review. 22. Receiver may apply to Court for directions. 23. Provisions of Companies Act to apply where debtor is a company. 24. Priorities of distribution in a receivership.
-PART IV
-ASSIGNMENTS
-25. Who may make an assignment.
-PART V
-PROPOSALS
-26. Who may make a proposal. 27. Filing of proof of secured claim. 28. Where secured creditors may not vote. 29. Secured claims upon bankruptcy. 30. Notice of intention. 31. Trustee to assist in preparation of proposal. 32. Meeting of creditors. 33. Adjournment of meeting. 34. Proven creditors may vote prior to meeting. 35. Creditors may accept or refuse proposal. 36. Proposal may include terms of supervision. 37. Creditors may appoint inspectors. 38. Effect of refusal of proposal by creditors. 39. Substitution of trustee by Court order. 40. Trustee to apply to Court for approval of proposal. 41. Trustee to prepare report to Court. 42. Payment of preferred claims and trustee's costs. 43. Where proposal approved by Court made by bankrupt. 44. Trustee to file proposal with Supervisor. 45. Default in performance of proposal. 46. Court may annul the proposal. 47. Date of assignment where Court approval not obtained. 48. Court to value claims where creditor participation required. SECTION
-49. Agreement not to be terminated or altered. 50. Certificate of performance. 51. Mutatis mutandis provisions.
-PART VI
-PROPERTY OF THE BANKRUPT
-52. Property of a bankrupt. 53. Excess income of individual bankrupts to be as prescribed. 54. Where assignment of certain payments ineffectual.
-STAY OF PROCEEDINGS
-55. Stay of proceedings upon filing of notice of intention or proposal. 56. Stay of proceedings upon bankruptcy. 57. Aggrieved creditor may apply to Court for removal of stay. 58. Stay ineffectual against certain parties and claims.
-GENERAL PROVISIONS
-59. Precedence of bankruptcy over certain creditors unless process completed. 60. Property of bankrupt to vest in trustee. 61. Trustee to avail himself of other rights. 62. Delivery of seized property to trustee. 63. Trustee may surrender lease or deal with leasehold interests. 64. Receiving order and assignment may be registered. 65. Joint tenancy to revert to tenants in common. 66. Transactions valid unless prior registration. 67. Where contributory indebted to bankrupt. 68. Banker to advise trustee of existence of account. 69. Trustee may inspect property. 70. Where trustee disposes property subject to an encumbrance. 71. Persons claiming ownership interest in property of the bankrupt. 72. Unpaid suppliers may prove for certain goods. 73. Claim of farmer or fisherman. 74. Sale of patented articles by trustee. 75. Copyright works dealt with by bankrupt. 76. Bankrupt's interest vests in purchaser upon sale by trustee.
-PARTNERSHIP PROPERTY
-77. Limited partnerships.
+13. Advertisement of receiving order.
+PROCEEDINGS CONSEQUENT ON ORDER
+14. First and other meetings of creditors. 15. Debtor's statement of affairs.
+PUBLIC EXAMINATION OF DEBTOR
+16. Public examination of debtor.
+COMPOSITION OR SCHEME OF ARRANGEMENT
+17. Compositions and schemes of arrangement. Meeting of creditors to approve. Amendment of terms. Assent or dissent. Application for approval of Court. Hearing of application. Public examination of joint debtors. Report of Receiver. When Court must refuse to approve. Idem. Testifying approval. Effect of composition. Certificate of Receiver. Enforcement of provisions. Default in instalment.
+Application of Act and meaning of terms.
+Payment in priority of preferred creditors.
+Release of debt by acceptance.
+18. Effect of composition or scheme.
+ADJUDICATION OF BANKRUPTCY AND APPOINTMENT
+OF TRUSTEE
+19. Adjudication where composition not accepted or approved. 20. Appointment of trustee. Where a person not fit to act. Security. Notice of objection to appointment. Evidence of appointment. Receiver not to be trustee. If trustee not appointed. Meeting to appoint trustee.
+21. Committee of inspection. SECTION
+Qualifications of committee. Meetings of committee. Quorum. Resignation. Vacation of office. Removal. Filling a vacancy. Continuing members may act. If no committee, Court to act.
+22. Power to accept composition or scheme after adjudication. Approval of Court. Defaults, etc.
+CONTROL OVER PERSON AND PROPERTY OF DEBTOR
+23. Duties of the debtor as to discovery and realisation of property. To discover property. To aid in realisation. Failure to perform duties.
+24. Arrest of debtor under certain circumstances. After issue of bankruptcy notice. After presentation of petition. After service of petition. Failure to attend examination. Payment after arrest may be fraudulent preference.
+25. Re-direction of debtor's letters. 26. Enquiry as to debtor's conduct, dealings, and property. In case of refusal. Examination. Order to pay. Order to deliver property.
+Examination out of Trinidad and Tobago.
+DISCHARGE OF BANKRUPT
+27. Discharge of bankrupt. Powers of Court. When Court must refuse discharge. Facts to be proved. Certificate that bankruptcy was caused by misfortue. When assets are seventy-five per cent. Report of Receiver. Notice of application for discharge. Duties of discharged bankrupt.
+28. Fraudulent settlement. 29. Effect of order of discharge.
 ARRANGEMENT OF SECTIONS-Continued SECTION
-STATE INTERESTS
-78. State's claims are unsecured. 79. State's security to be registered to be enforceable.
-SETTLEMENTS AND PREFERENCES
-80. Settlements within one year void. 81. Contracts in consideration of marriage. 82. Payments void except on proof of certain facts. 83. Assignment of book debts void. 84. Preferences voidable if made within three months. 85. Preference to related party voidable if made within twelve months. 86. Transactions between initial bankruptcy event and bankruptcy. 87. Proceeds from dealing with property obtained in voidable
-transaction.
-88. Good faith transactions with bankrupts protected. 89. Reviewable transactions in year prior to initial bankruptcy event. 90. Where dividend paid by company. 91. Sections 80 to 90 to apply. 92. Where proposal followed by bankruptcy.
-PART VII
-ADMINISTRATION OF ESTATES
-MEETINGS OF CREDITORS
-93. Trustee to send notice to creditors of first meeting. 94. Trustee may call meeting. 95. Notice regarding subsequent meetings.
-PROCEDURE AT MEETINGS
-96. Chairman of first meeting. 97. Quorum at meeting. 98. Creditors may vote by class. 99. Chairman may admit or reject proofs. 100. Completed proof of claim required to enable voting. 101. Voting where claims acquired. 102. Where non-bankrupt parties jointly liable. 103. Secured creditor may vote unsecured portion only. 104. Where trustee may vote. 105. Minutes to be proof of meeting. 106. Creditors vote by dollar. SECTION
-INSPECTORS
-107. Appointment of inspectors. 108. Trustee may call meeting of inspectors. 109. Trustee to call meeting to appoint inspectors. 110. Directions of creditors to override directions by inspectors. 111. Inspectors may not acquire assets.
-CLAIMS PROVABLE
-112. Claims provable. 113. Where bankruptcy follows proposal. 114. Proof in respect of distinct contracts.
-PROOF OF CLAIMS
-115. Proof of claim required to share in distribution. 116. Court may disallow false claims. 117. Proven creditors may examine proofs of claim.
-PROOF BY SECURED CREDITORS
-118. Secured creditor may prove for balance due. 119. Trustee may require proof of claim by secured creditor. 120. Trustee may require security to be sold. 121. Secured creditor may require election of trustee. 122. Amended claim where security realised. 123. Amendment of claim where security not realised. 124. Exclusion of secured creditor from dividend. 125. No creditor to receive more than 100 cents on dollar.
-ADMISSION AND DISALLOWANCE OF PROOFS OF CLAIM AND
-PROOFS OF SECURITY
-126. Trustee to examine proofs.
-SCHEME OF DISTRIBUTION
-127. Preferred creditors. 128. Claim of dividend where reviewable transaction. 129. Claim of relative of bankrupt. 130. Claim of participating lender. 131. Claim of officer and director. 132. Dividends pro rata. 133. Property of bankrupt partnership. 134. Where surplus remains after claims paid.
-ARRANGEMENT OF SECTIONS-Continued SECTION
-135. Final surplus to bankrupt. 136. Motor vehicle insurance. 137. Supervisor's levy.
-DIVIDENDS
-138. Inspectors to declare dividends to ordinary unsecured creditors. 139. Thirty-day notice to prove claims. 140. Where claim proven after dividend declared. 141. Final statements of receipts and disbursements to be prepared. 142. Final statement to be complete account. 143. Dividends on joint and separate properties. 144. Unclaimed dividends and undistributed funds.
-SUMMARY ADMINISTRATION
-145. Provisions applying to summary administration. 146. Remuneration in summary administration. 147. Provisions to apply mutatis mutandis.
-PART VIII
-BANKRUPTS
-COUNSELLING SERVICES
-148. Trustee to counsel individual bankrupts.
-DUTIES OF BANKRUPT
-149. Duties of bankrupt. 150. Bankrupt corporation. 151. Imprisoned bankrupt.
-EXAMINATION OF BANKRUPTS AND OTHERS
-152. Examination of bankrupt by Supervisor. 153. Investigation by Supervisor regarding bankrupt. 154. Trustee may examine bankrupt and others. 155. Trustee may require delivery of property of bankrupt and production
-of books and records.
-156. Where person may be ordered by Court to pay trustee. 157. Issue of warrant for apprehension and examination of persons. 158. Examination by Court. SECTION
-ARREST OF BANKRUPTS
-159. Court order for arrest of bankrupt.
-DISCHARGE OF BANKRUPTS
-160. Automatic discharge of first-time individual bankrupt. 161. Bankruptcy of an individual operates as an application for discharge. 162. Trustee to prepare report of application of bankrupt for discharge. 163. Trustee's report to provide recommendation. 164. Questions to debtor. 165. Facts pursuant to which bankrupt's conduct is subject to censure. 166. Value of bankrupt's assets. 167. Cessation of any statutory disqualification. 168. Bankrupt to report to trustee and Court. 169. Court may consider effects of settlement before marriage. 170. Debts not released by order of discharge. 171. Third parties not released. 172. Court may annul discharge. 173. Court may annul bankruptcy. 174. Issuance of orders to be delayed.
-PART IX
-ADMINISTRATIVE OFFICIALS
-SUPERVISOR
-175. Appointment of Supervisor. 176. Employee association to represent interest of employees. 177. Access to trustee's accounts. 178. Suspected offences.
-PUBLIC RECORDS
-179. Maintenance of public records.
-TRUSTEES
-LICENSING OF TRUSTEES
-180. Application for licence as trustee. 181. Form of licence. 182. Payment of fees.
-ARRANGEMENT OF SECTIONS-Continued SECTION
-CONDUCT OF TRUSTEES
-183. Trustee prohibited from acting in specified circumstances. 184. Independent legal opinion. 185. Code of ethics. 186. Cancelled licences.
-APPOINTMENT AND SUBSTITUTION OF TRUSTEES
-187. Appointment or substitution of trustee by creditors. 188. Rights of Supervisor where trustee's conduct is questionable. 189. Notice to trustee. 190. Protection of estate by Supervisor. 191. Court removal of trustee. 192. Appointment by Supervisor of non-licensed trustee. 193. Duty to act. 194. Acts done in good faith.
-CORPORATIONS AS TRUSTEE
-195. Corporate trustee. 196. Incorporation. 197. Acts by corporate trustee. 198. Corporate trustee not a trust company.
-OFFICIAL NAME
-199. Official name.
-DUTIES AND POWERS OF TRUSTEES
-200. Trustee to give security. 201. Delivery of property to trustee. 202. Protective measures. 203. Legal proceedings to protect estate. 204. Divesting of real property. 205. Initiation of criminal proceedings. 206. Returns. 207. Regulators empowered to review records. 208. Insure property. 209. Deposits. 210. Maintenance books and records. 211. Reporting by trustee. 212. Documents to be provided to Supervisor. 213. Report to Supervisor where trustee no longer appointed. 214. Permission to take specified action. SECTION
-215. Borrowing with permission of Court. 216. Trustee not required to operate business. 217. Order for sale of assets. 218. Application for directions. 219. Redirection of mail. 220. Former trustee to pass accounts. 221. Application to Court by aggrieved party. 222. Trustee refusing to act.
-REMUNERATION OF TRUSTEE
-223. Determination of fees.
-DISCHARGE OF TRUSTEE
-224. Property incapable of realisation. 225. Trustee to apply for discharge.
-PART X
-COURTS AND PROCEDURE
-JURISDICTION OF COURTS
-226. Jurisdiction of High Court. 227. Title of insolvency matters. 228. General power of Court. 229. Proceeding not invalidated by defect or irregularity. 230. Court may review, rescind, or vary order. 231. Court may give leave to omit material or to send notices in
-alternative manner.
-232. Seizure of property of bankrupt. 233. Evidence in Court. 234. Orders subject to appeal. 235. Costs are in the discretion of the Court. 236. Application to Court where default. 237. Trustee not personally liable.
-PART XI
-INTERNATIONAL INSOLVENCIES
-238. Interpretation. 239. Copy of order to be proof of event. 240. Stay of proceedings not to apply unless proceedings taken in
-Trinidad and Tobago.
+Order is conclusive evidence. No release of other persons.
+30. Annulling adjudication and the effect thereof. Meaning of payment of debt in full.
+PART II
+DISQUALIFICATIONS OF BANKRUPT
+31. Disqualifications of bankrupt. 32. Vacating of office.
+PART III
+ADMINISTRATION OF PROPERTY
+PROOF OF DEBTS
+33. Description of debts provable in bankruptcy.
+Creditor with notice of act of bankruptcy.
+What may be proved. Estimate of uncertain debts. Appeal from estimate. If not capable of being fairly estimated. Estimation before Court. Meaning of "liability".
+34. Debts founded in an arrestable offence. 35. Mutual credit and set-off. 36. Rules as to proof as debts. 37. Priority of debts. Rates and Taxes. Wages or salary. Labourers' wages.
+Foregoing debts to rank equally inter se.
+To be paid forthwith. First charge on distress. Application to insolvent estates. Application of joint and separate estate in partnership bankruptcies. All other debts pari passu. Surplus.
+38. Preferential claim in case of apprenticeship. Alternative power of trustee.
+39. Power of landlord to distrain for rent. Limit on amount of rent execution creditor must pay landlord. SECTION
+Liability of Marshal. "Order of adjudication".
+40. Postponement of husband's and wife's claims.
+PROPERTY AVAILABLE FOR PAYMENT OF DEBTS
+41. Relation back of trustee's title.
+Where receiving order made in lieu of committal.
+42. Description of bankrupt's property divisible amongst creditors. Trust property. Tools of trade, etc. Property vested or acquired. Powers. Reputed ownership.
+43. Provisions as to second bankruptcy.
+EFFECT OF BANKRUPTCY ON ANTECEDENT AND
+OTHER TRANSACTIONS
+44. Restriction of creditor's rights under execution or attachment. What is meant by completion.
+Execution not invalid because it is an act of bankruptcy.
+45. Duties of Marshal as to goods taken in execution. 46. Avoidance of certain settlements. Covenants in marriage settlements to settle after-accquired property. Transfers and payments under such covenants. "Settlement".
+47. Avoidance of general assignments of book debts unless registered. "Assignments".
+48. Avoidance of fraudulent preferences. Transferees from a creditor. Receiving order in lieu of committal.
+49. Protection of bona fide transactions without notice. Recovery of property transferred without knowledge of
+receiving order.
+50. Validity of certain payments to bankrupt and assignee. 51. Dealings with undischarged bankrupt. Real property. For the protection of bankers. Duties of bankers.
+REALISATION OF PROPERTY
+52. Possession of property by trustee. Position of trustee.
 ARRANGEMENT OF SECTIONS-Continued
 SECTION
-241. Proceedings by foreign representatives. 242. Court may seek aid of foreign authority. 243. Court order may be conditional on compliance of foreign
-representative with other Court order.
-244. Foreign representative not prevented from proceeding due to appeal. 245. Dividends subject to property the creditor may acquire outside
-Trinidad and Tobago.
-246. Claim payable in foreign currency.
-PART XII
-OFFENCES
-247. Offences committed by bankrupt. 248. Offences committed by undischarged bankrupt. 249. Where debtor having previously taken bankruptcy protection and
-not keeping proper books.
-250. False claims, unlawful fees and unlawful transactions. 251. Offences by trustee and others. 252. Removal of property. 253. Invalid trustee licence. 254. Trustee acting outside authority. 255. Offences committed by corporation. 256. Court may make order for community service. 257. Variation of order made under section 256. 258. Court may make an order regarding damages. 259. Trustee to report to Court. 260. Trustee to report criminal acts. 261. Substance of offence sufficient. 262. Time for commencement of action.
-PART XIII
-GENERAL
-263. Power respecting Bankruptcy Rules. 264. Gazette or local daily newspaper to be evidence of facts. 265. Admission not admissible under the law. 266. Acts by corporations, firms and individuals of unsound mind. 267. Leave of the Court required to pursue certain actions. 268. Regulations. 269. Transitional. 270. Repeal. 271. Act binds the State.
+Shares. Things in action. Property acquired after adjudication.
+53. Seizure of property of bankrupt. 54. Appropriation of portion of pay or salary to creditors. 55. Vesting and transfer of property. 56. Vesting in trustee. Passing from trustee to trustee. Certificate of appointment.
+57. Disclaimer of onerous property. Effect of disclaimer. Disclaimer of leases. Abandonment of right of disclaimer. Rescission of contract. Vesting orders. Disclaimer by Receiver as interim trustee. Proof of damages.
+58. Powers of trustee to deal with property. 59. Powers exercisable by trustee with permission of committee
+of inspection.
+60. Power to allow bankrupt to manage property. 61. Allowance to bankrupt for maintenance or services. 62. Right of trustee to inspect goods pawned or held as security. 63. Limitation of trustee's powers in relation to copyright. 64. Protection of Receiver and trustee from personal liability in
+certain cases.
+DISTRIBUTION OF PROPERTY
+65. Declaration and distribution of dividends. First dividend. Subsequent dividends. Notice of intention to declare. Notice of dividend.
+66. Joint and separate dividends. 67. Provision for distant creditors' disputed or undetermined claims. 68. Rights of creditor who has not proved before declaration of dividend. 69. Interest on debts. 70. Final dividend. 71. No action for dividend. SECTION
+72. Bankrupt's right to surplus.
+PART IV
+RECEIVER IN BANKRUPTCY
+73. Official Receiver. 74. Status of Receiver. 75. Duties of Receiver as to debtor's conduct. 76. Duties of Receiver as to debtor's estate.
+PART V
+TRUSTEES IN BANKRUPTCY
+OFFICIAL NAME
+77. Official name of trustee.
+APPOINTMENT
+78. Power to appoint joint or successive trustees. 79. Proceedings on vacancy in office of trustee.
+CONTROL OVER TRUSTEE
+80. Discretionary powers of trustee and control thereof. Summoning general meetings. Application for directions.
+81. Appeal to Court against trustee. 82. Control of Court over trustees.
+REMUNERATION AND COSTS
+83. Remuneration of trustee. 84. Allowance and taxation of costs.
+RECEIPTS, PAYMENTS, ACCOUNTS, AUDIT
+85. Trustee to furnish list of creditors.
+Trustee to furnish statement of accounts.
+86. Books to be kept by trustee. 87. Annual statement of proceedings. 88. Trustee not to pay into private account. 89. Payment of money into bank.
+ARRANGEMENT OF SECTIONS-Continued SECTION
+90. Audit of trustee's accounts.
+VACATION OF OFFICE BY TRUSTEE
+91. Release of trustee. 92. Office of trustee vacated by insolvency. 93. Removal of trustee.
+PART VI JURISDICTION, PROCEDURE, AND POWERS OF COURT
+JURISDICTION
+94. Jurisdiction of the Court. 95. Bankrupcty matters, how entitled. 96. Jurisdiction in Chambers and during vacation. 97. General powers of Court.
+JUDGMENT DEBTORS
+98. Receiving order on judgment summons.
+APPEALS
+99. Appeals in bankruptcy.
+PROCEDURE
+100. Discretionary powers of Court. 101. Consolidation of petitions. 102. Power to change carriage of proceedings. 103. Continuance of proceedings on death of debtor. 104. Power to stay proceedings. 105. Power to present petition against one partner. 106. Power to dismiss petition against some respondents only. 107. Property of partners to be vested in same trustee. 108. Actions by trustee and bankrupt's partners. 109. Actions on joint contract. 110. Proceedings in partnership name.
+SEARCH WARRANTS AND COMMITMENTS TO PRISON
+111. Execution of search warrant. 112. Commitment to prison. SECTION
+PART VII
+SUPPLEMENTAL PROVISIONS
+APPLICATION OF ACT
+113. Exclusion of registered companies, etc. 114. Application of Act in case of small estates. 115. Administration in bankruptcy of estate of person dying insolvent. The Order. Proceedings for administration. Property to vest in Receiver. Application of Act. Priority of claims. Surplus. Effect of notice to personal representative of presentation of petition.
+Personal representative may present petition.
+"Creditor".
+RULES
+116. Rules. 117. Power to make Rules.
+EVIDENCE
+118. Gazette to be evidence. 119. Evidence of proceedings at meetings of creditors. 120. Evidence of proceedings in bankruptcy. 121. Swearing of affidavits. 122. Death of debtor or witness.
+REGISTRATION, ENDORSEMENT, ETC., OF RECEIVING ORDERS 123. Registration of receiving orders. 124. Endorsement under Real Property Act. 125. Registration fee.
+MISCELLANEOUS
+126. Service of notices. 127. Formal defects not to invalidate proceedings. 128. Irregular appointments, etc. 129. Exemption of deed from stamp duty. 130. Acts of corporations, partners, and insane persons. 131. Construction of Acts and instruments mentioning repealed
+Bankruptcy Act. ARRANGEMENT OF SECTIONS-Continued SECTION
+132. Certain provisions to bind the State. 133. Attorney's-at-law right of audience. 134. Removal of bankrupt from trusteeship.
+UNCLAIMED FUNDS OR DIVIDENDS
+135. Unclaimed funds or dividends under this and former Acts.
+PART VIII
+BANKRUPTCY OFFENCES
+136. Fraudulent debtors. Non-discovery of property. Non-delivery of property. Non-delivery of books, etc. Concealment of property. Removal of property. Omission in statement of affairs. Not informing trustee of false claim. Preventing production of books, etc. Destruction, etc., of books. False entries in books, etc.
+Parting with alteration, etc., of documents.
+Accounting for property by fictitous losses, etc.
+Obtaining property on credit by fraud. Obtaining property on credit on pretence of carrying on business. Pawning property obtained on credit. Obtaining consent of creditors by fraud.
+137. Obtaining credit by undischarged bankrupts. 138. Frauds by bankrupts, etc. Causing or conniving at levy of execution to be deemed transfer
+or charge.
+139. Punishment of bankrupt for gambling, etc. 140. Punishment of bankrupt failing to keep proper accounts. 141. Bankrupt absconding with property. 142. False claims and fraudulent accounts. 143. Order to direct prosecution if desirable. 144. Criminal liability after discharge or composition. 145. Trial and punishment of offences.
+FIRST SCHEDULE. SECOND SCHEDULE.
 
 CHAPTER 9:70
-BANKRUPTCY AND INSOLVENCY ACT
-An Act to revise the law relating to bankruptcy to make
-provision for corporate and individual insolvency; to provide for the rehabilitation of the insolvent debtor and to create the office of Supervisor of Insolvency.
-*[ASSENTED TO 28TH SEPTEMBER 2007]
-PART I
-PRELIMINARY
-- Margin: 26 of 2007.
+BANKRUPTCY ACT
+An Act relating to bankruptcy.
+[1ST JANUARY 1918]
+- Margin: 1950 Ed. Ch. 6 No. 6.
+- Margin: 38 of 1916.
+- Margin: Commencement.

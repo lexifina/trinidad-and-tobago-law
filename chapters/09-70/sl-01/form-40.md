@@ -1,11 +1,13 @@
 # FORM 40
-(Regulation 60)
-NOTICE OF OBJECTION
-To: ____________________________________________________________________ ____________________________________________________________________
-(Insert Trustee's name and address as applicable)
-In the matter of ____________________________________ regarding the debtor __________________ (name of debtor), I, _________________, (name of creditor of the debtor) object to the taxation of the trustee's accounts on the grounds set out below.
-Reason(s) for objection: ____________________________________________________________________ ____________________________________________________________________ ____________________________________________________________________
-This notice must be filed with the trustee within thirty days of the notice of taxation having been sent.
-Dated at _______________, on this ______ day of ____________, 20_________.
-_____________________________
-Creditor Telephone No. _______________ Fax No. ____________________ E-mail Address _______________
+AFFIDAVIT AND CERTIFICATE OF POSTAGE OF
+NOTICES OF FIRST MEETING
+(TITLE)
+I, ... , a clerk in the office of the Receiver in the above matter (a) make
+oath and say as follows: (b)
+1. That I did on the ... day of ... , 20... , send to each
+creditor mentioned in the debtor's statement of affairs, and to the above-named debtor a notice of the time and place of the (c) first meeting of creditors, accompanied by summary of the debtor's statement of affairs in the form[s] hereunto annexed marked "A" and "B" respectively (d).
+2. That such notices were addressed to the said creditors respectively, according to
+their respective names and addresses appearing in the statement of affairs of the said debtor, and also to the said debtor at ...
+3. That I sent the said notice by putting the same into the Post Office before the hour of ... o'clock in the ... noon on the said day. Sworn, etc. [e]
+Bankruptcy Rules [Subsidiary]
+- Margin: (a) Or as the case may be. (b) Or hereby certify. (c) Insert here if necessary. "adjourned" or "new" or "adjourned new". (d) Strike out the words underlined if summary not sent. (e) or signed this ... day of ...

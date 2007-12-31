@@ -1,0 +1,14 @@
+# FORM 152
+NOTICE OF DISCLAIMER OF LEASE WITH LEAVE
+OF COURT
+(TITLE)
+Take notice that pursuant to an order of Court dated the ... day of
+... 20... , I, ... , the trustee of the property of the above-named bankrupt, by writing under my hand bearing date the ... day of ... disclaimed all interest in the lease dated the ... day of ... 20..., whereby the premises ... were demised to ... at a rent of $ ... a year, for a term of ...
+The above-mentioned disclaimer has been filed in Court with the proceedings in
+the bankruptcy.
+Dated this ... day of ... , 20...
+Trustee.
+...
+Address
+To ...
+Bankruptcy Rules [Subsidiary]

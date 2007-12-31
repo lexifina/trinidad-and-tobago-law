@@ -1,19 +1,12 @@
 # FORM 13
-[Section 30(1) of the Act and Regulation 19(1)]
-NOTICE OF INTENTION TO MAKE A PROPOSAL
-Take notice that:
-1. I, _________________________________, an insolvent person, state, pursuant
-to section 30(1) of the Act, that I intend to make a proposal to my creditors.
-2. _____________________________________________ (name of trustee), of
-_____________________________ (address of trustee), a licenced trustee, has consented to act as trustee under the proposal. A copy of the consent is attached.
-3. A list of the names of the known creditors with claims of $250 or more and the
-amounts of their claims is also attached.
-4. Pursuant to section 55 of the Act, all proceedings against me are stayed as of
-the date of filing of this notice with the Supervisor.
-Dated at __________________, this ______ day of __________, 20______.
-______________________________
-Insolvent Person
-To be completed by Supervisor:
-Filing Date ________________________
-______________________________
-Supervisor
+APPLICATION FOR INTERIM RECEIVER
+(TITLE)
+I, C.D., of ... , do, on the grounds set forth in the annexed affidavit,
+apply to the Court to appoint some fit and proper person as Interim Receiver of the property of the said A.B. and [here insert any special directions to the Receiver that may be desired].
+Dated this ... day of ... 20...
+(Signed) C.D.
+Order thereon.
+Upon reading this application and the affidavit therein referred to, and hearing
+... it is ordered that upon a deposit of $ ... being lodged by the applicant, X.Y., of ... be thereupon constituted Interim Receiver of the property of the said A.B. and [here insert directions, if any].
+Dated this ... day of ... , 20...
+By the Court, Registrar.
