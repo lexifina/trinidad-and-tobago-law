@@ -1,338 +1,218 @@
 # SIXTH SCHEDULE
-RULES FOR VALUING GOODS
-FOR PURPOSES OF AD VALOREM CUSTOMS DUTY
-1. (1) For the purposes of levying ad valorem duties of Cus-toms, the value of any goods imported for home use shall be taken to be the normal price, that is to say, the price such goods would fetch at the time of such entry (or, if they are not so entered, at the time of importation) on a sale in the open market between a buyer and a seller independent of each other.
-(2) The normal price of any imported goods shall be deter-mined on the following assumptions-
-( a) that the goods are delivered to the buyer at the port
-or place of introduction into Trinidad and Tobago;
-(b) that the seller bears all costs, charges and expenses
-incidental to the sale and to the delivery of the goods at the port or place of introduction, which are hence-forth included in the normal price;
-(c) that the buyer bears any duties or taxes applicable in
-Trinidad and Tobago, which are henceforth not in-cluded in the normal price;
-(d) that the sale is a sale of the quantity to be valued.
-2. For the purposes of these Rules, a sale in the open market between a buyer and seller independent of each other shall be on the assumption-
-( a) that the price is the sole consideration;
-(b) that the price is not influenced by any commercial,
-financial or other relationship, whether by contract or otherwise, between the seller or any person associated in business with him and the buyer or any person associated in business with him, other than the relationship created by the sale itself;
-(c) that no part of the proceeds of any subsequent re-
-sale, other disposal or use of the goods will accrue, either directly or indirectly, to the seller or any per-son associated in business with him.
-3. Where goods to be valued-
-( a) are manufactured in accordance with any patented
-invention or are goods to which any protected design has been applied; or
-(b) are imported under a foreign trademark; or
-(c) are imported for sale, other disposal or use under a
-foreign trademark, the normal price shall be determined on the assumption that it includes the value of the right to use the patent, design or trademark in respect of the goods, so however, that when the goods to be valued are imported for sale, other disposal or use, after further manufacture, under a foreign trademark, the normal price may be determined on the assumption that it includes the value of the right to use the patent, design or trademark in re-spect of the goods.
-4. For the purposes of these Rules-
-( a) the expression "costs, charges and expenses" refer-
-red to in rule 1(2)(b), includes inter alia, any of the following:
-(i) Carriage and freight;
-(ii) Insurance;
-(iii) Commission;
-(iv) Brokerage;
-(v) Costs, charges and expenses of drawing up
-outside Trinidad and Tobago documents in-cidental to the importation of the goods into Trinidad and Tobago, including consular fee;
-(vi) Duties and taxes applicable outside Trinidad
-and Tobago except those from which the goods have been exempted or have been or will be relieved by means of refund;
-(vii) Cost of containers excluding those which are
-treated as separate articles for the purpose of levying duties of customs, cost of packing (whether for labour, materials or otherwise); and
-(viii) Loading charges;
-(b) a trademark shall be treated as a foreign trademark
-if it is the mark of-
-(i) any person by whom the goods to be valued
-have been grown, produced, manufactured, offered for sale or otherwise dealt with out-side Trinidad and Tobago;
-(ii) any person associated in business with the per-
-son referred to in subparagraph (i); or
-(iii) any person whose rights in the mark are res-
-tricted by an agreement with any person refer-red to in subparagraph (i) or (ii);
-(c) two persons shall be deemed to be associated in busi-
-ness with one another if, whether directly or in-directly, either of them has any interest in the busi-ness or property of the other or both have a common interest in any business or property or some third person has an interest in the business or property of both of them.
-SUPPLEMENTARY
-The following does not form part of the Act and is published for general information.
-INTRODUCTORY NOTE ON NEW CUSTOMS TARIFF The Customs Co-operation Council introduced its revised Nomenclature on 1st January, 1978. The Council of Ministers of the Caribbean Community agreed to the introduction of a new Common External Tariff (C. E. T.) based on the revised Customs Co-operation Council Nomenclature with effect from 1st Janu-ary, 1979.
-The national tariff of Trinidad and Tobago follows the format of C.E.T. and is fully integrated, i.e. the tariff heading numbers are correlated to the Statistical Classification number.
-Importers and Exporters will not be required to quote the Statistical Classification number in their Entries.
-Trinidad and Tobago has agreed to the use of the metric sys-tem and this is reflected in consequential changes in the specific rates of duty, with few exceptions, i.e. beer and spirits.
-Certain headings have been re-assigned in the tariff (these appear in square brackets) as the amounts of the goods involved in world trade are not significant.
-The Customs and Excise Division will assist any member of the public in interpreting and making use of the provisions of the Tariff.
-IMPORT ANT SECTIONS OF THE CUSTOMS ACT,
-RELATING TO IMPORT DUTY
-Section 6-Parliament may impose duties by resolution. Section 7-Interim Orders by President. Section 8-Amendment of Common External Tariff. Section 19-Time of entry to govern payment of duty. Section 20-0bligation to pay duty. Section 21-Duty on goods re-imported. Section 22-In case of dispute, importer to deposit the duty
-demanded. Section 23-Valuation of goods. Section 26-Duty chargeable on reputed quantity. Section 27-Duty chargeable on gross weight in certain cases. Section 28-Standard contents of packages containing liquids
-(vide G.N. 609/18.12.39). Section 29-Duty to be proportional to quantity or value and to
-be paid in the legal tender of the Country. Section 35-Limitations as to wine and beer. Sections 40/42-Goods imported for temporary use. Section 134-Duty to be paid according to original account
-(warehouse goods). Section 242-Time of importation. Section 243-Special packages deemed separate articles. REFERENCES TO CERTAIN SECTION AND CHAPTER NOTES OF
-APPLICATION
-Where reference is
-Item located
-Alloys ... Section XV-Note 3
-Chapter 71-Note 5 Artificial Fur ... Chapter 43---Note 5 Cases, boxes and similar containers imported
-separately or with articles of:
-Jewellery ... Chapter 71-Note 11 Tools, implements, cutlery, etc ... Chapter 82-Note 4 Optical, photographic, etc., instruments ... Chapter 90--Note 6 Clocks and watches ... Chapter 91-Note 5 Musical instruments ... Chapter 92-Note 3 Arms and ammunition ... Chapter 93-Note 3 Miscellaneous manufactured articles ... Chapter 98--Note 3 Chocolate and other food preparations
-containing cocoa ... Chapter 18--Note 2 Composition leather ... Chapter 41-Note 2 Embroidery ... Chapter 58--Note 4 Fine animal hair ... Note to Chapter 53 Furniture ... Chapter 94-Notes
-2 and 3 Furskins ... Chapter 43---Note 1 Glass ... Chapter 70--Note 4 Horsehair ... Chapter 5-Note 4 Jewellery-Chapter 71, Notes 1-11:
-Precious Metal ... Chapter 71-Notes
-4(b) and 6
-Rolled precious metal ... -Note 7 Precious metal and rolled precious metal as
-minor constituents ... -Note 2
-Other metals of the platinum group ... -Note 4 Articles wholly of pearls, precious metal,
-etc ... -Note I
-Articles of jewellery ... -Note 8 Goldsmiths' or silversmiths' wares ... -Note 9 Imitation jewellery ... --Note 10 Miscellaneous manufactures of precious
-metal or rolled precious metal ... Chapter 98--Note !(b) Machines:
-Composite ... Section XVI-Note Multi-purpose Chapter 84-Note 5 Medicaments ... Chapter 30--Note 1 Mineral products-in crude state ... Chapter 25-Note I Parts of general use (of base metal) ... Section XV-Note 2 Pearls ... Chapter 71-Notes
-and 1(a) Sixth Schedule
-REFERENCES TO CERTAIN SECTION AND CHAPTER NOTES OF GENERAL OR
-Where reference
-Item located
-Plaiting materials ... Chapter 46--Note Rubber ... Chapter 40-Note Rubber, synthetic ... Chapter 40-Note Rubberised textile fabrics ... Chapter 59-Note Soap ... Chapter 34-Note Scrap and waste of base metal... Section XV-Note Sets of tools, cutlery, spoons and forks, etc ... Chapter 82-Note Textiles:
-Made up ... Section XI-Note "Man-made fabrics" ... Chapter 51-Note "Put up for retail sale (yarn)" ... Section XI-Note
-Twine, cordage, rope and cables ... Section XI-Note Vegetables ... Note to Chapter 7
-ENTRY PROCEDURE
-1. GENERAL: Under section 83 of the Customs Act, no goods shall be removed from any part of a Customs area or from a State Warehouse unless such goods have first been reported and en-tered. "Enter(;(d" in relation to goods imported or exported means the submission and acceptance and signature by the proper Officer of the correct form properly completed and with any pre-scribed bonds to cover the proposed transactions, and also, ex-cept on the entry for warehousing, the payment by the importer or exporter of any duty, purchase tax, rent or other charges due.
-Details of the forms to be used and the particulars to be shown are given below. The accuracy of those particulars is a matter of prime importance, both for the purpose of assessing any import export duty payable and for compiling trade statistics. An entry for imported goods (other than a transhipment shipping bill) must normally be accompanied by an invoice, certificate of origin, freight slip, statement of insurance premium, packing slip, weight note, etc.
-If urgent clearance of goods is required and any of the docu-ments necessary for entering the goods properly are not available a deposit may be accepted by the Comptroller of Customs and Excise pending production of the documents. The documents must be produced within the time specified, usually three months. If the importer is unable to produce the required documents with-in the time specified the deposit will be credited to the revenue of the country.
-2. An importer of goods valued one hundred dollars ($100.00) and over is required to make a declaration on the prescribed form (C. 75, C. 76 or C. 77), which must be completed by a repre-sentative of the importing firm itself, whether or not an agent is employed.
-3. Passengers' baggage: Formal entry is not required for per-sonal or household effects imported by a passenger in his accom-panied baggage. (See the Second Schedule of the Customs Tariff for duty free allowances). These arrangements do not apply to unaccompanied baggage when formal entry must be made.
-4. Forms to be used: Different entry forms are prescribed for use in different circumstances, and the appropriate form depends on the nature of the transaction. The forms commonly used are:
-(i) Entry ex-ship for Goods liable to Duty ... (C.20)
-(ii) Entry for Goods free of Duty ... (C.19)
-ENTRY PROCEDURE-Continued
-(iii) Warehousing Entry ... (C.22)
-(iv) Entry ex-warehouse for Goods liable to Duty (C.40)
-(v) Shipping Bill ex-warehouse ... (C.31)
-(vi) Shipping Bill for Goods Re-exported not liable
-to export duty ... (C.35)
-(vii) Shipping Bills for Goods Re-exported liable to
-export duty ... (C.36)
-(viii) Shipping Bill for Local Produce not liable to
-export duty ... (C.33)
-(ix) Shipping Bill for Local Produce liable to export
-duty ... (C.34)
-(x) Trinidad and Tobago Customs and Excise
-Petroleum Entry Form ... (C.73)
-(xi) Trinidad and Tobago Customs and Excise
-Petroleum Shipping Bill ... (C.74)
-(xii) Purchase Tax Form ... (C.74)
-5. Preparation of entries: Entries should be made up in tripli-cate at least, with supporting documents in duplicate. Entries should be typed, printed or written thereon legibly in ink or other indelible material, and every alteration that has been made in any such form or document prior to its submission to the Comptroller of Customs and Excise or proper Officer should be made in such a manner as to leave the error as well as the correction legible. All corrections must be initialled and, if required, by the Comptroller or proper Officer, dated by the person making the correction.
-6. Signatories to entries: Entries may be signed by or on be-half of the importer or exporter as follows:
-(a) If an individual, by-
-(i) the actual importer or exporter if the transac-
-tion is of a non-commercial nature;
-(ii) a person in his employ if duly authorised by
-him writing, viz:
-(1) a licensed Customs Broker;
-(2) a licensed Customs Clerk Grade III;
-(3) a licensed Customs Clerk Grade II;
-(4) a licensed Boarding Clerk. "Licensed" means being licensed under the Customs Clerks and
-Customs Brokers Act. The Comptroller of Customs and Ex-cise is to be notified in writing of all persons authorised to
-ENTRY PROCEDURE-Continued
-Customs forms and documents. Specimen signatures of
-persons authorised to sign must be submitted to the Com-ptroller of Customs and Excise.
-Particulars to be given on entries-
-( a) Importer and consignor: The name of the importer
-and the consignor must be stated on the entry. "Im-porter" includes any owner or other person pos-sessed of, or beneficially interested in the goods at any time between their importation and their clearance from Customs charge, and any person who signs any document relating to any imported goods required by the Customs laws to be signed by the importer.
-(b) Customs Broker: Where a Customs Broker is em-
-ployed to act for the importer the name and licence number of the Broker must be shown on the entry.
-(c) Date of importation: This is the date that the ship
-arrived in the waters of Trinidad and Tobago. In the case of an aircraft, it is the day on which the aircraft landed in the country.
-(d) Date of Report: The date on which the report of the
-ship or aircraft was presented and accepted by the proper Officer.
-(e) Rotation Number: All reports of ships and aircraft
-are numbered in numerical sequence at their report-ing station.
-(f) Value Slip Number: The number of the value slip
-issued by the Valuation Branch must be quoted in the relevant space. If no value slip has been issued then the word "Nil" must be inserted. In no instance should that space be left blank.
-(g) Port or place of loading: It is important that the
-correct port or place of loading be inserted in the space provided.
-(h) Description of goods: Goods must be described in
-such a manner as to show their precise nature and in sufficient detail to enable them to be classified for tariff purposes.
-(i) Rate of Exchange: The rate of exchange is that ap-
-plicable on the date of importation in the Trinidad and Tobago Gazette. Purchase Tax: Purchase Tax is payable on the c.i.f. value of
-goods plus import duty, if any.
-UNIT OF ACCOUNT
-1. The value of the unit of account used to express the specific rates of duty of the Common External Tariff shall be 0.395833 grams of fine gold.
-2. The parity of the currency of a Member State in relation to the unit of account shall be the relation between the weight of fine gold corresponding to a unit of account and the weight of fine gold corresponding to the parity of such currency as declared to the International Monetary Fund. Provided that, where a curren-cy has no fixed parity or where the rate of exchange of such currency is allowed to float beyond the margins fixed by the Inter-national Monetary Fund, the weight of fine gold corresponding to the parity of the currency shall be determined on the basis of its exchange rate for current payments against its intervention cur-rency and the parity of such intervention currency as declared as the International Monetary Fund; or, in case the intervention currency is on a floating exchange rate, on the basis of the gold value of that currency as derived from its market value for current payments.
-3. Where a Member State changes the parity of its currency, the specific rates of duty applied by that Member State in keeping with its obligations with respect to the Common External Tariff shall be adjusted in inverse ratio to the change in its currency.
-4. Where the currency of any Member State is allowed to float beyond the limits laid down under the rules of the International Monetary Fund, the Member State concerned shall adjust the specific duties applied in its national tariff in keeping with its obligations in respect of the Common External Tariff in reverse ratio to the alteration in the value of its currency, provided that, a Member State may not make such adjustment if the exchange rate of its currency varies by less than 3 per cent on either side of its value on July 3 1973, or, in the case where adjustments have previously been made, on the date of the last of such adjust-ments.
-5. If by a decision of the International Monetary Fund under Article 4, section 7 of its Statute there is a uniform proportionate change in the parity of all currencies then the weight of fine gold defining the unit of account shall vary in inverse ratio to such alteration. Provided, however, that where one or more Member State do not implement the decision of the International Mone-tary Fund, the Common Market Council shall examine the situation and shall decide on such measures as it considers necessary by majority vote.
-UNITS OF QUANTITY USED IN THE TRADE LIST AND
-UNIT CODE NUMBERS
-Code
-lfnit !Vo. Number (no) ... 01 Pairs (pr) ... 02 Gallon (gal. or L. gal.) ... 09 Proof Gallon (P. gal.) ... 19 Kilowatt Hour (k. Wh.) ... 21 Kilogram (kg) ... 41 Litre (l) ... 42 Tonne ... 43 Hundred Containers (100 ct.) ... 44 Thousand Matches ... 45 Metre (m) ... 46 Square Metre (m2) ... 47 Cubic Metre (m3) ...•... 48 Metric Carats ( crts.) ... 49 1000 Shingles (1000s) ... 51 Pack (playing cards) ... 52
-The unit of quantity to be used for each item in the Customs Tariff and Trade Classification is shown opposite the classification of the item. The code number for each unit used must be inserted on the Customs documents.
-The abbreviations for each unit name are shown in the brack-ets; no other form of abbreviation for unit names should be used on the Customs documents.
-DESIGNATIONS AND CODE NUMBERS
-OF COUNTRIES
-well as the name must be shown on the Customs documents. in this list the name only should be shown on the document.
-Code No. Country
-C-Contd.
-... 192 Canary Islands ... 196 Cape Verde Islands ...
-... 080 Cayenne (French Guiana) ...
-... 184 Cayman Islands ... 173 Celebes ...
-... 080 Central African Republic (Central African
-... 104 Empire) ...
-... 028 Ceuta ... 173 Ceylon (now Sri Lanka) ...
-... 027 Chad ...
-... 041 Chile ...
-Curacao China ...
-... 138 Colombia ...
-... 153 Congo, Peoples Republic of ...
-... 084 Corsica ... 140 Costa Rica ...
-... 012 Cuba ...
-... 003 Curacao ... 158 Cyprus ... 168 Czechoslovakia ...
-D
-... 045 Dahomey (now Benin) ... 075 Denmark ...
-... 106 Dodecanese ...
-... 043 Dominica ...
-... 136 Dominican Republic (Santo Domingo) ...
-... 028
-... 095 E
-... 046 Ecuador ... 022 Egypt ... 020 047 Eire (Republic of Ireland) ... 151 Ethiopia (including Eritrea) ...
-... 138
-... 057 F
-... 013 Falkland Islands ... 082 Faroe Islands ... 057 Fiji Islands ...
-... 190 Finland ... 071 Formosa (Taiwan) ... 021 France ...
-French Polynesia ...
-... 170 G
-... 015 Gabon ... 002 Gambia ...
-AND CODE NUMBERS OF COUNTRIEs--Continued
-Code No. Country
-K
-Kenya ...
-... 124 Kerguelon ... 123 Khymer Republic (Cambodia)
-... 008 Korea:
-... 009 South ...
-... 010 North ...
-... 097 Kuwait ...
-... 102
-... 033 L ... 026 Laos ...
-... 088 178 Lebanon ...
-... 147 Lesotho (formerly Basutoland)
-... 125 Liberia ...
-Libya ... Liechtenstein ...
-... 173 Luxembourg ...
-... 101
-... 132 M
-... 004 Macao (Macau) ...
-Madagascar ... Madeira ... Mali (formerly Sudan) ... 117 Malawi (formerly Nyasaland)
-... 080 Malaysia (formerly Malaya) ...
-... 178 Maldive Islands ...
-... 085 Malta ...
-... 166 Manchuria Martinique ...
-... 046 Mauretania ...
-... 050 Mauritius ...
-... 144 Mexico ...
-Midway Isles ... Miquelon ... Monaco ...
-... 073 Mongolia, Outer ...
-... 005 Montserrat (Leeward Islands)
-... 200 Morocco including Ifni ...
-... 154 Mozambique ... 072 Muscat ...
-... 001
-... 070 N ... 186 Namibia (South West Africa) ... 098 Nauru ...
-... 173 Nepaul ...
-Netherlands (Holland) ... New Caledonia ... NewFoundland ... New Guinea and Papua ...
-... 044 New Hebrides ... 099 New Zealand ... 200 Ngwana ...
-... 074 Nicaragua ...
-RECOGNISED DESIGNATIONS AND CODE NUMBERS OF COUNTRIEs-Continued
-Code
-Country No. Country
-Niger ... 173 Solomon Islands, British ... Nigeria ... 056 Somalia ... North Korea ... 076 Somaliland, French ... Norway ... 121 South Korea ...
-South Africa, Republic of ...
-0 Southern Rhodesia ... Oman 059 South-West Africa (Namibia) ...
-Spain ...
-p Spanish Sahara ...
-Spitzbergen ... Pakistan 006 Sri Lanka (Ceylon) ... Panama ... 160 St. Barthelemy ... Panama Canal Zone ... 091 St. Eustatius ... Paraguay ... 157 St. Helena ... Peninsula States (Kuwait, Qatar, Trucial, St. Kitts-Nevis ...
-Oman, Muscat) ... 059 St. Lucia ... Pemba ... 054 St. Martin: Persia (Iran) ... 154 French ... Peru ... 167 Netherlands ... Philippines ... 152 St. Pierre ... Poland ... 146 St. Vincent ... Polynesia, French ... 023 Sudan ... Portugal ... 112 Sumatra ... Portuguese East Africa (including Cape Surinam (formerly Netherlands Guiana)
-Verde Islands, Guinea, Sao Tome and Swaziland ... Principe) ... 132 Sweden ... Principe ... 132 Switzerland ... Puerto Rico ... 127 Syria ...
-Q T
-Qatar 059 Tahiti ...
-Tangier ... :. .
-R Tanzania ...
-Thailand (Siam) ... Reunion ... 172 Timor (Portuguese) ... Rhodesia (Southern) ... 052 Togo ... Rio de Oro, Bahia de ... 101 Tonga (Friendly Islands) ... Rumania ... 191 Tortola ... Russia (U.S.S.R.) ... 161 Taiwan (Formosa) ... Rwanda (Ruanda, Urundi) ... 182 Trieste ...
-s Trinidad and Tobago ...
-Trucial (United Arab Emirates) ... Saba ... 138 Tuamotu ... Salvador, El ... 162 Tunisia ... Samoa, American ... 178 Turkey ... Samoa, Western ... 068 Turks and Caicos Islands ... Santo Domingo (Dominican Republic) ... 118 u Sao Tome ... 132 Saudi Arabia ... 153 Uganda ... Senegal ... 173 United Arab.Emirates (Trucial) ... Seychelles Islands ... 012 United Kingdom (including Channel Siam (Thailand) ... 194 Islands) ... Sicily ... 111 United States of America ... Sierra Leone ... 012 UpperVolta ... Singapore ... 038 Uruguay ... Society Islands ... 176 U.S.S.R. (Russia) ...
-DESIGNATIONS AND CODE NUMBERS OF COUNTRIES-Continued
-Code No. Country
-y ... 081 Yemen ...
-Yemen, Southern ... 108 Yugoslavia ... 109
-... 028 ... 092
-... 173
-z
-Zaire ...
-... 178 Zambia (formerly Northern Rhodesia)
-... 110 Zanzibar ...
-LAWS 01<' TRINIDAD AND TOBAGO
-- Margin: Section 23. [23 of 1973).
-- Margin: Sixth Schedule
-- Margin: )
-- Margin: GENERAL OR SPECIAL
-- Margin: Extent of Application
-- Margin: Section XV Chapter 71
-- Margin: Throughout the tariff
-- Margin: Throughout the tariff Throughout the tariff Throughout the tariff Throughout the tariff Throughout the tariff Throughout the tariff Throughout the tariff
-- Margin: Throughout the tariff
-- Margin: Throughout the tariff
-- Margin: Chapter 58
-- Margin: Throughout the tariff
-- Margin: 1, Chapter 94
-- Margin: Throughout the tariff
-- Margin: Throughout the tariff
-- Margin: Throughout the tariff
-- Margin: Throughout the tariff
-- Margin: Throughout the tariff
-- Margin: Throughout the tariff Throughout the tariff (c)
-- Margin: Throughout the tariff Chapter 71 ) Chapter 71 Chapter 71
-- Margin: Chapter 98
-- Margin: Section XVI 3 Section XVI
-- Margin: Chapter 30
-- Margin: Chapter 25
-- Margin: Throughout the tariff
-- Margin: Throughout the tariff 4
-- Margin: SPECIAL APPLICATION-Continued
-- Margin: is Extent of Application
-- Margin: 1 Chapter 46
-- Margin: 1 Throughout the tariff
-- Margin: 4 Chapter 40
-- Margin: 3 Chapter 59
-- Margin: 2 Chapter 34
-- Margin: 6 Section XV
-- Margin: 3 Chapter 82
-- Margin: 6 Section XI 1 Throughout the tariff 4 Chapters 50, 51, 53, 54, 55 and 56
-- Margin: 3 Section XI
-- Margin: Chapter 7
-- Margin: )
-- Margin: )
-- Margin: )
-- Margin: Ch. 78:03.
-- Margin: sign
-- Margin: all
-- Margin: 7.
-- Margin: )
-- Margin: )
-- Margin: 8.
-- Margin: the
-- Margin: )
-- Margin: )
-- Margin: L.R.O. 1!1983
-- Margin: RECOGNISED
-- Margin: NOTES 1. The number of the country as
-- Margin: 2. If a country is not mentioned
-- Margin: Code Country No.
-- Margin: A .. 101 Aden (now part of Yemen) ... 132 Afghanistan ... 125 Alaska (U.S.A.) 039 Albania ... 200 Algeria ... America, United States of 016 Andorra 101 Anegada ... 007 Angola 017 Anguilla (Leeward Islands) 087 Antigua ... 120 Antilles, Netherlands (excluding 083 and Aruba) 018 Arabia, Saudi ... 129 Argentina .. . 096 Aruba 086 Ascension .. 139 Australia ... 064 Austria ... 094 Azores
-- Margin: B
-- Margin: Bahamas ... 022 Bahrein ... 093 Bangladesh . . . 097 Barbados ... 032 Barbuda (Leeward Islands) 118 Beef Island ... Belgium-Luxembourg Belize (British Honduras) 143 Benin (formerly Dahomey) 142 Bermuda ... 070 Bhutan 188 Bolivia Bonaire ... Borneo, British North 048 Botswana (formerly Bechuanaland) Brazil .. 103 060 Brunei Bulgaria ... 150 Burma 193 Burundi 089 023 c
-- Margin: Cambodia (Khymer Republic) Cameroon, Republic 019 Canada 012
-- Margin: RECOGNISED DESIGNATIONS
-- Margin: Code Country No.
-- Margin: G-Contd. 053 Germany: Democratic Republic (Eastern) ... 172 ... 170 Federal Republic (Western) Ghana ) 197 Gibraltar ... 076 Gozo 059 Greece (including Dodecanese) Greenland Grenada ... Grenadines ... 170 Guadeloupe a1td Dependencies ... 187 Guam ... 014 Guatemala 163 Guiana, French (Cayenne) 195 Guinea: ... 077 (i) Republic of (formerly French ... 095 Guinea) (ii) Equatorial (Spanish) (iii) Portuguese ... 180 Guyana (formerly British Guiana) ... 165 ... 113 155 H ... 012 Haiti 049 Hawaii ... 057 Hebrides, New ... 065 Holland (Netherlands) 100 Honduras ... 088 Honduras, British (Belize) 173 Hong Kong ... 012 Hungary 119 ... 178 177 129 I 078 Iceland ... 036 India, Republic of ... 128 Indonesia ... 159 Iran (Persia) 059 Iraq Ireland, Northern (Ulster) Ireland, Republic of (Eire) ... Israel ... 012 Italy 079 Ivory Coast ... 105 ... 085 176 002 J 061 Jamaica ... 178 Japan 011 Java 066 Jordan 114
-- Margin: Code No.
-- Margin: ... 062 ... 199 171 197 025 ... 052 012 145 067 103 007 ... 088 ... 138 012 042 ... 035
-- Margin: 088 138 ... 177 034 155 ... 200 ... 126 ... 024 122 ... 116 156
-- Margin: 176 ... 101 ... 054 194 ... 180 008 069 028 193 098 000 059 176 ... 164 149 040
-- Margin: 181 059
-- Margin: 001 080 173 115 161
-- Margin: )
-- Margin: RECOGNISED
-- Margin: Code No. Country v
-- Margin: 107 Venezuela 192 Vietnam: ... 185 North South Virgin Islands (British) Virgin Islands (U.S.A.) Volta, Upper
-- Margin: w 090 ... 051 Wake Island ... 054 Wallis and Futuna Islands
-- Margin: 111983
-- Margin: )
+VALUE OF IMPORTED GOODS
+Interpretation 1. (1) In this Schedule-
+(a) "buying agent" means a person who
+acts for the account of a buyer of goods, rendering services in connection with finding supplies informing the seller of the wishes of the importer, collecting samples, inspecting goods and in some cases, arranging the insurance, transport, storage and delivery of the goods for a buying commission;
+(b) "Customs value of imported goods"
+means the value of goods for the purposes of levying ad valorem duties of customs on imported goods;
+(c) "goods of the same class or kind"
+means goods which fall within a group or range of goods produced by a particular industry or industry sector, and includes identical or similar goods;
+(d) "identical goods" means goods
+produced in the same country which are the same in all respects, including physical characteristics, quality and reputation. Minor differences in appearance shall not preclude goods otherwise conforming to the definition from being regarded as identical;
+(e) "identical goods" and "similar goods",
+as the case may be, do not include goods which incorporate or reflect engineering, development, artwork, design work, and plans and sketches for which no adjustment has been made under paragraph 8(1)(d)(iv) because such elements were undertaken in Trinidad and Tobago;
+(f) "produced" includes grown, manufactured and mined;
+(g) "seller" means a person who has the
+legal or beneficial interest in the goods at the time that the contract of sale is concluded and to whom the proceeds of sale will ultimately be paid, exclusive of any commission;
+(h) "similar goods" means goods produced
+in the same country which, although not alike in all respects, have like characteristics and like component materials which enable them to perform the same functions and to be commercially interchangeable. The quality of the goods, their reputation and the existence of a trademark are among the factors to be considered in determining whether goods are similar;
+(2) For the purposes of this Schedule-
+(a) a buyer and seller of goods shall be
+deemed to be related only where-
+(i) one of them is an officer or director in a business owned or controlled by the other;
+(ii) they are legally recognised partners in business;
+(iii) they are employer and employee;
+(iv) any person directly or indirectly owns, controls or holds 5% or more of the outstanding voting stock or shares of the business of both the buyer and seller;
+(v) one of them directly or indirectly controls a business owned by the other;
+VALUE OF IMPORTED GOODS-Continued
+(vi) the business of the buyer and seller are directly or indirectly controlled by a third person;
+(vii) together they directly or indirectly control a business owned by a third person; or
+(viii) they are members of the same family;
+(b) one person shall be deemed to control
+the business of another when the former is legally or operationally in a position to exercise restraint or direction over the business of the other person;
+(c) persons who are associated in
+business with each other in that one is the sole agent, sole distributor or sole concessionaire, however described, in a business owned by the other, the other shall be deemed to be related only where they fall within the criteria of sub-subparagraph (a);
+(d) the term "person" means a natural or
+legal person;
+(e) an event shall be deemed to occur
+about the same time as another event if the first event, occurs on the same day as the other event or within 45 days immediately before, or the 45 days immediately after the day on which the other event occurs.
+Customs Value 2. (1) The Customs value of imported goods
+shall be determined under paragraph 3 whenever the conditions prescribed therein are fulfilled.
+(2) Where such value cannot be determined under paragraph 3, it shall be determined by proceeding sequentially through paragraphs 4 to 7, inclusive to the first such paragraph under which it can be determined, subject to the proviso that, where the importer requests it and the Comptroller agrees, the order of application of paragraphs 6 and 7 shall be reversed.
+(3) Except as provided for in subparagraph (2), it is only when the Customs value of imported goods cannot be determined under a particular paragraph that the provisions of the next paragraph in the sequence established by subparagraph (2) can be applied.
+(4) Where the Customs value of imported goods cannot be determined under paragraphs 3 to 7 inclusive, the value shall-
+(a) be determined using reasonable means
+consistent with the principles and general provisions of this Schedule;
+(b) to the greatest extent possible, be
+based on previously determined Customs values; and
+(c) be based on the methods of valuation
+laid down in paragraphs 3 to 7 inclusive, using where necessary, reasonable flexibility in their application.
+(5) No Customs value shall be determined under subparagraph (4) on the basis of-
+(a) the selling price in Trinidad and
+Tobago of goods produced in Trinidad and Tobago;
+(b) a system which provides for the
+acceptance for Customs purposes of the higher of two alternative values;
+(c) the price of goods on the domestic
+market of the country of exportation;
+VALUE OF IMPORTED GOODS-Continued
+(d) the cost of production, other than
+computed values which have been determined for identical or similar goods in accordance with paragraph 7;
+(e) the price of goods for export to a
+country other than Trinidad and Tobago;
+(f) minimum Customs values; or
+(g) arbitrary or fictitious values.
+Conditions for 3. (1) The Customs value of imported goods Customs value determined under this paragraph shall be the
+transaction value, that is, the price actually paid or payable for the goods when sold for export to Trinidad and Tobago, adjusted in accordance with paragraph 8, and in appropriate cases paragraph 9, except that-
+(a) there are no restrictions as to the
+disposition or use of goods by the buyer or other restrictions which-
+(i) are imposed or required by law or by the public authorities in Trinidad and Tobago;
+(ii) limit the geographical area in which the goods may be resold; or
+(iii) do not substantially affect the value of the goods;
+(b) the sale or price is not subject to some
+condition or consideration for which a value cannot be determined with respect to the goods being valued;
+(c) no part of the proceeds of any
+subsequent resale, disposal or use of the goods by the buyer will accrue directly
+or indirectly to the seller, unless an appropriate adjustment can be made in accordance with paragraph 8; and
+(d) the buyer and seller are not related,
+or, where the buyer and seller are related, that the transaction value is acceptable for Customs purposes under subparagraph (2).
+(2) (a) For the purposes of subparagraph (1),
+in determining whether the transaction value is acceptable, the fact that the buyer and the seller are related within the meaning of paragraph 1(2) shall not in itself be grounds for regarding the transaction value as unacceptable, but where necessary, the circumstances surrounding the sale shall be examined and the transaction value shall be accepted provided that the relationship did not influence the price. If, in the light of information provided by the importer or otherwise, the Comptroller has grounds for considering that the relationship influenced the price, he shall communicate the grounds to the importer who shall be given a reasonable opportunity to respond.
+But where the value of identical or similar goods, which was utilised in determining the value in paragraph 3(2)(b) was subsequently adjusted based upon discovery under section 23(2A), the value of the goods imported in a sale between related persons may also be adjusted in accordance with the adjusted value of the identical or similar goods;
+(b) In a sale between related persons, the
+transaction value shall be accepted and the goods valued in accordance with subparagraph (1) whenever the VALUE OF IMPORTED GOODS-Continued
+importer demonstrates that such value closely approximates to one of the following, occurring at or about the same time-
+(i) the transaction value in sales, between buyers and sellers who are not related in any particular case of identical or similar goods for export to Trinidad and Tobago;
+(ii) the Customs value of identical or similar goods, as determined under paragraph 6;
+(iii) the Customs value of identical or similar goods, as determined under paragraph 7;
+(3) In applying the foregoing tests, due account shall be taken of demonstrated differences in commercial levels, quantity levels, the elements enumerated in paragraph 8 and costs incurred by the seller in sales in which he and the buyer are related.
+(4) The tests set forth in subparagraph (2)(b) shall be used at the initiative of the importer and only for comparison purposes and substitute values may not be established under that subparagraph.
+(5) The price actually paid or payable is the total payment made or to be made by the buyer to or for the benefit of the seller for the imported goods. Payments may be made directly or indirectly, need not necessarily take the form of a transfer of money, and shall include-
+(i) all payments made or to be made as a condition of sale of the imported goods by the buyer to the seller or by
+the buyer to a third party to satisfy an obligation of the seller; and
+(ii) any settlement by the buyer, whether in whole or in part, of a debt owed by the seller.
+(6) Activities, including marketing activities, undertaken by the buyer on his own account, other than those for which an adjustment is provided in paragraph 8, are not considered to be indirect payment to the seller, even though they might be regarded as of benefit to the seller or have been undertaken by agreement with the seller, and their cost shall not be added to the price actually paid or payable in determining the Customs value of imported goods.
+(7) The Customs value of imported goods shall not include the following charges or costs, provided that they are distinguished from the price actually paid or payable for the imported goods:
+(a) charges for construction, erection,
+assembly, maintenance or technical assistance, undertaken after importation on imported goods such as industrial plant, machinery or equipment;
+(b) Customs duties and other taxes
+payable in Trinidad and Tobago by reason of the importation or sale of the goods;
+(c) the cost of transport after importation.
+(8) (Deleted by Act No. 34 of 1996).
+4. (1) The Customs value of imported goods Transaction value determined under this paragraph shall be the of identical goods transaction value of identical goods sold for export to Trinidad and Tobago and exported at or about the same time as the goods being valued but-
+(a) in applying this subparagraph, the
+transaction value of identical goods VALUE OF IMPORTED GOODS-Continued
+in a sale at the same commercial level and in substantially the same quantity as the goods being valued shall be used to determine the Customs value;
+(b) where no such sale is found, the
+transaction value of identical goods sold at a different commercial level and in different quantities, adjusted to take account of differences attributable to commercial level and to quantity shall be used, provided that such adjustments can be made on the basis of demonstrated evidence which clearly establishes the reasonableness and accuracy of the adjustment, whether the adjustment leads to an increase or a decrease in value.
+(2) Where the costs and charges referred to in paragraph 8(1)(g) are included in the transaction value, and adjustment shall be made to take account of significant differences in such costs and charges between the imported goods and the identical goods in question arising from differences in distances and modes of transport.
+(3) In applying this paragraph-
+(a) if more than one transaction value of
+identical goods is found, the lower or lowest such value shall be used to determine the Customs value of the imported goods;
+(b) a transaction value for goods
+produced by a different person shall be taken into account only when no transaction value can be found for identical goods produced by the same person as the goods being valued;
+(c) a condition for adjustment because of
+different commercial levels or different quantities shall be that such adjustment shall be made only on the basis of demonstrated evidence that clearly establishes the reasonableness and accuracy of the adjustment.
+(4) For the purposes of this paragraph the transaction value of identical imported goods means a Customs value previously determined under paragraph 3, adjusted as provided for, in subparagraphs (1)(b) and (2) of this paragraph.
+5. (1) The Customs value of imported goods Transaction value determined under this paragraph shall be the similar goods transaction value of similar goods sold for export to Trinidad and Tobago and exported at or about the same time as the goods being valued but-
+(a) in applying this subparagraph, the
+transaction value of similar goods in a sale at the same commercial level and in substantially the same quantity as the goods being valued shall be used to determine the Customs value;
+(b) where no such sale is found, the
+transaction value of similar goods sold at a different commercial level and in different quantities, adjusted to take account of differences attributable to commercial level and to quantity, shall be used, provided that such adjustments can be made on the basis of demonstrated evidence which clearly establishes the reasonableness and accuracy of the adjustment, whether the adjustment leads to an increase or a decrease in value.
+(2) Where the costs and charges referred to in paragraph 8(1)(g) are included in the
+VALUE OF IMPORTED GOODS-Continued
+transaction value, an adjustment shall be made to take account of significant differences in such costs and charges between the imported goods and the similar goods in question arising from differences in distances and modes of transport.
+(3) In applying this paragraph-
+(a) if more than one transaction value of
+similar goods is found, the lowest such value shall be used to determine the Customs value of the imported goods;
+(b) a transaction value for goods produced
+by a different person shall be taken into account only when no transaction value can be found under subparagraph (1) for similar goods produced by the same person as the goods being valued;
+(c) a condition for adjustment because of
+different commercial levels or different quantities shall be that such adjustment shall be made only on the basis of demonstrated evidence that clearly establishes the reasonableness and accuracy of the adjustment.
+(4) For the purposes of this paragraph, the transaction value of similar imported goods means a Customs value previously determined under paragraph 3, adjusted as provided for in subparagraphs (1)(b) and (2) of this paragraph.
+Value based on (1) Where the imported goods or identical or unit price of similar imported goods are sold in Trinidad greatest
+and Tobago in the condition as imported, the aggregate
+Customs value of imported goods, determined under this paragraph, shall be based on the unit quantity price at which the imported goods or identical or similar imported goods are sold in the greatest aggregate quantity, at or about the time of the importation of the goods being valued, to persons who are not related to the persons from whom they buy such goods, subject to deductions for the following:
+(a) either the commissions usually paid
+or agreed to be paid or the additions usually made for profit, and general expenses including the direct and indirect costs of marketing the goods in question in connection with sales in Trinidad and Tobago of imported goods of the same class or kind:
+(b) the usual costs of transport and
+insurance and associated costs incurred within Trinidad and Tobago; and
+(c) the Customs duties and other taxes
+payable in Trinidad and Tobago by reason of the importation or sale of the goods.
+(2) when neither the imported goods nor identical nor similar imported goods is sold at or about the time of importation of the goods being valued, the Customs value of imported goods determined under this paragraph shall, subject otherwise to the provisions of subparagraph (l)(a), be based on the unit price at which the imported goods or identical or similar imported goods are sold in Trinidad and Tobago in the condition as imported, at the earliest date after the importation of goods being valued but before the expiration of ninety days after such importation.
+(3) If neither the imported goods nor identical nor similar imported goods is sold in Trinidad and Tobago in the condition as imported, then where the Comptroller so decides, the Customs VALUE OF IMPORTED GOODS-Continued
+value shall be based on the unit price at which the imported goods, after further processing, are sold in the greatest aggregate quantity to persons in Trinidad and Tobago who are not related to the persons from whom they buy such goods, due allowance being made for the value added by such processing and the deductions provided for in subparagraph (1). Where this method of valuation is used, deductions made for the value added by further processing shall be based on objective and quantifiable data relating to the cost of such work and accepted industry formulas, recipes, methods of construction and other industry practices shall form the basis of the calculations.
+(4) In this paragraph, the unit price at which imported goods or identical or similar imported goods are sold in the greatest aggregate quantity is the price at which the greatest number of units is sold in sales to persons who are not related to the persons from whom they buy such goods at the first commercial level after importation at which such sales take place.
+(5) Any sale in Trinidad and Tobago to a person who supplies directly or indirectly free of charge or at reduced cost for use in connection with the production and sale for export of the imported goods any of the elements specified in paragraph 8(1)(b), shall not be taken into account in establishing the unit price for the purposes of this paragraph.
+(6) For the purposes of subparagraph (1)(a)-
+(a) "profit and general expenses" shall be
+taken as a whole, the figure for the purposes of this deduction being determined on the basis of information supplied by or on behalf of the importer unless his figures are inconsistent with those obtaining in sales of imported goods of the same
+class or kind. Where the importer's figures are inconsistent with such figures, the amount for profit and general expenses may be based upon relevant information other than that supplied by or on behalf of the importer; and
+(b) in determining either the commissions
+or the additions usually made for profit and general expenses, the question whether certain goods are of the same class or kind as other goods shall be determined on a case-by-case basis by reference to the circumstances involved and in doing this, sales for which the necessary information can be provided of the narrowest group or range of imported goods of the same class or kind as the goods being valued should be examined;
+(c) "goods of the same class or kind"
+includes goods imported from the same country as the goods being valued as well as goods imported from other countries.
+(7) For the purposes of subparagraph (2), the "earliest date" shall be the date by which sales of the imported goods or of identical or similar imported goods are made in sufficient quantity to establish the unit price.
+Computed value 7. (1)The Customs value of imported goods
+determined under this paragraph shall be based on a computed value which shall consist of the sum of-
+(a) the cost or value of materials and
+fabrication or other processing employed in producing the imported goods;
+(b) an amount for profit and general
+expenses equal to that usually reflected in sales of goods of the same class or VALUE OF IMPORTED GOODS-Continued
+kind as the goods being valued which are made by producers in the country of exportation for export to Trinidad and Tobago;
+(c) the cost or value of the items referred
+to in paragraph 8(l)(g).
+(2) The cost or value of materials and fabrication referred to in subparagraph(1)(a) shall include the cost of elements specified in paragraph 8(1) and the value duly apportioned, of any element specified in paragraph 8(1)(d) which has been supplied directly or indirectly by the buyer for use in connection with the production of the imported goods but the value of the elements specified in paragraph 8(1)(d)
+(iv) which are undertaken in Trinidad and Tobago shall be included only to the extent that such elements are charged to the producer, no cost or value of an element referred to in this subparagraph shall be counted more than once in determining the computed value.
+(3) The "cost or value" referred to in subparagraph 1(a) shall be determined on the basis of information relating to the production of the goods being valued supplied by or on behalf of the producer, it shall be based upon the commercial accounts of the producer, provided that these accounts are consistent with the generally accepted accounting principle applied in the country where the goods are produced.
+(4) For the purposes of subparagraph 1(b)-
+(a) the "amount for profit and general
+expenses" shall be taken as a whole and shall be determined on the basis of information supplied by or on behalf of the producer unless his figures are inconsistent with those usually
+reflected in sales of goods of the same class or kind as the goods being valued which are made by producers in the country of exportation for export to Trinidad and Tobago:
+(b) if the producer's own figures for profit
+and general expenses are not consistent with those usually reflected in sales of the goods of the same class or kind referred to in subparagraph (a) the amount for profit and general expenses may be based upon relevant information other than that supplied by or on behalf of the producer of the goods;
+(c) "goods of the same class or kind"
+means goods imported from the same country as the goods being valued;
+(d) whether goods are "of the same class
+or kind" as other goods shall be determined on a case-by-case basis with reference to the circumstances involved. In doing this, sales for export to Trinidad and Tobago of the narrowest group or range of goods of the same class or kind as the goods being valued for which the necessary information can be provided should be examined;
+(e) "general expenses" covers the direct
+and indirect costs of producing and selling the goods for export which are not included under subparagraph (1)(a).
+8. (1) In determining the Customs value under Customs value paragraph 3, there shall be added to the price includes certain actually paid or payable for the imported goods charges the following, to the extent that they are incurred by the buyer but are not included in the price actually paid or payable for the goods-
+(a) commission and brokerage, except
+buying commission; VALUE OF IMPORTED GOODS-Continued
+(b) the cost of containers which are
+treated as being one for Customs purposes with the goods in question;
+(c) the cost of packing, whether for
+labour or materials;
+(d) the value, apportioned as appropriate,
+of the following goods and services where supplied directly or indirectly by the buyer free of charge or at reduced cost for use in connection with the production and sale for export of the imported goods, to the extent that such value has not been included in the price actually paid or payable;
+(i) materials, components, parts and similar items incorporated in the imported goods;
+(ii) tools, dies, moulds and similar items used in the production of the imported goods;
+(iii) materials consumed in the production of the imported goods;
+(iv) engineering, development, artwork, design work, and plans and sketches undertaken elsewhere than in Trinidad and Tobago and necessary for the production of the imported goods;
+(e) royalties and licence fees, which
+among other things, may include payments in respect of patents, trademarks and copyrights, related to the goods being valued that the buyer must pay, either directly or indirectly, as a condition of sale of the goods being valued, to the extent that such royalties and fees are not included in the price actually paid or payable;
+(f) the value of any part of the proceeds of any subsequent resale, disposal or use of the imported goods that accrues directly or indirectly to the seller;
+(g) the cost of transport of the imported
+goods to the port or place of importation, the loading and handling charges associated with the transport of the imported goods to the port or place of exportation, and the cost of insurance.
+(2) No additions shall be made to the price actually paid or payable in determining the Customs value except as provided in this paragraph.
+(3) Additions to the price actually paid or payable shall be made under this paragraph only on the basis of objective and quantifiable data and if such do not exist a transaction value shall not be determined under the provisions of paragraph 3.
+(4) In this paragraph, the term "buying commissions" means fees paid by an importer to his agent for the service of representing him abroad in the purchase of the goods being valued.
+(5) Notwithstanding subparagraph (1) (c)-
+(a) charges for the right to reproduce the
+imported goods in Trinidad and Tobago shall not be added to the price actually paid or payable for the imported goods in determining the Customs value; and
+(b) payments made by the buyer for the
+right to distribute or resell the imported goods shall not be added to the price actually paid or payable for the imported goods if such payments are not a condition of the sale for export to
+Trinidad and Tobago of the goods.
+VALUE OF IMPORTED GOODS-Continued
+Charges for 9. (1)Charges for interest under a financing interest not arrangement entered into by the buyer and included related to the purchase of imported goods
+shall not be included in the Customs value determined under paragraph 3 except that:
+(a) the charges are distinguished from
+the price actually paid or payable for the goods;
+(b) the financing arrangement has been
+made in writing;
+(c) where required by the Comptroller,
+the buyer can demonstrate that-
+(i) such goods are actually sold at the price declared as the price actually paid or payable; and
+(ii) the claimed rate of interest does not exceed the level for such transactions prevailing in the country where, and at the time when, the finance was provided.
+(2) The provisions of subparagraph (1) shall apply whether or not the finance is provided by the seller, a bank or another person, and it shall also apply, mutatis mutandis, where Customs value is determined under a method other than the transaction value.
+- Margin: 239/1990. [34 of 1996].
