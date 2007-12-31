@@ -2,6 +2,7 @@ MALARIA ABATEMENT ACT
 CHAPTER 28:50
 Act
 6 of 1932
+1-6 .. 1/2009
 Note on Subsidiary Legislation
 This Chapter contains no subsidiary legislation.
 Note on Adaptation
@@ -9,8 +10,7 @@ Under paragraph 6 of the Second Schedule to the Law Revision Act (Ch. 3:03) the 
 CHAPTER 28:50
 MALARIA ABATEMENT ACT
 ARRANGEMENT OF SECTIONS SECTION
-1. Short title. 2. Interpretation. 3. Application of Act. 4. Power to enter and construct works. 5. Powers of rural sanitary authorities. 6. Cost of work. 7. Protection of officers, etc., against actions. 8. Assault or obstruction of officers, etc. 9. Penalty for damaging a main drainage channel.
-10. Power to make Regulations. 11. Penalties-recovery of. 12. Saving powers of Central Board of Health and local authority. 13. Use of water in main drainage channels.
+1. Short title. 2. Interpretation. 3. Application of Act. 4. Power to enter and construct works. 5. Powers of rural sanitary authorities. 6. Cost of work. 7. Protection of officers, etc., against actions. 8. Assault or obstruction of officers, etc. 9. Penalty for damaging a main drainage channel. 10. Power to make Regulations. 11. Penalties-recovery of. 12. Saving powers of Central Board of Health and local authority. 13. Use of water in main drainage channels.
 
 CHAPTER 28:50
 MALARIA ABATEMENT ACT
@@ -19,4 +19,4 @@ Abatement of Malaria in connection with certain main drainage channels and swamp
 [26TH MARCH 1932]
 - Margin: 1950 Ed. Ch. 12 No.16.
 - Margin: 6 of 1932.
-- Margin: Commencement.
+- Margin: C o m m e n c e m e n t .
