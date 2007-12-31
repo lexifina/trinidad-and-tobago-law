@@ -3,7 +3,8 @@ LIST OF CORPORATIONS
 CONTINUED UNDER THIS ACT
 I. Name of Corporation: Law under which Established
 The Mayor, Aldermen, The Port-of-Spain
-Councillors and Citizens of Corporation Ordinance the City of Port-of-Spain [Ch. 39. No. 1 (1950 Ed.)]
+Councillors and Citizens of Corporation Ordinance
+the City of Port-of-Spain [Ch. 39. No. 1 (1950 Ed.)]
 BOUNDARIES OF THE CITY OF PORT-OF-SPAIN
 The City of Port-of-Spain comprises the area which is bounded as follows:
 NORTH -From the point on the north-western boundary of the City of
@@ -25,7 +26,7 @@ Guaracara River proceeding in a generally easterly direction along the South ban
 EAST -From the last mentioned point proceeding southwards along
 Solomon Hochoy Highway to Tarouba Extension Road, thence eastwards along Tarouba Extension Road to Allamby Street Extension; thence in a generally south-westerly direction along Allamby Street Extension to Allamby Street; thence in a generally southerly direction along Allamby Street to Naparima-Mayaro Road; thence westwards along Naparima-Mayaro Road to Corinth Road; thence in a generally southerly direction along Corinth Road to its intersection with Cipero Road; thence proceeding southwards along an imaginary straight line to the point on the North bank of the Cipero River.
 SOUTH -From the last mentioned point proceeding in a generally
-westerly direction along the North bank of the Cipero River to the point where it is crossed by the San Fernando Bye- Pass; thence southwards along the San Fernando Bye-Pass to the South Trunk Road; thence in a generally south-westerly direction along the South Trunk Road to the point where it crosses Oropouche river; thence northwards along Oropouche River to the point at its mouth on the sea coast.
+westerly direction along the North bank of the Cipero River to the point where it is crossed by the San Fernando Bye- Pass; thence southwards along the San Fernando Bye-Pass to the South Trunk Road; thence in a generally south-westerly direction along the South Trunk Road to the point where it crosses Oropouche River; thence northwards along Oropouche River to the point at its mouth on the sea coast.
 WEST -From the last mentioned point proceeding in a generally
 northerly direction along the said sea coast to the point at the mouth of the Guaracara River at the point of commencement.
 III. Name of Corporation: Law under which Established
@@ -49,8 +50,8 @@ BOUNDARIES OF THE BOROUGH OF POINT FORTIN
 The Borough of Point Fortin comprises the area which is bounded as follows:
 NORTH -From the point on the sea coast at the northern end of Erin
 Road at the eastern boundary of Cedros Ward proceeding in a generally north-easterly direction along the said sea coast to the point on the West bank of Vance River.
-EAST -From the last mentioned point proceeding in a generally south-
-easterly direction along the West bank of the said river to the point where it is crossed by the Southern Main Road.
+EAST -From the last mentioned point proceeding in a generally
+south-easterly direction along the West bank of the said river to the point where it is crossed by the Southern Main Road.
 SOUTH -From the last mentioned point proceeding in a generally
 south-westerly direction along the Southern Main Road to the point where it crosses the eastern boundary of Cedros Ward at Erin Road.
 WEST -From the last mentioned point proceeding in a generally
