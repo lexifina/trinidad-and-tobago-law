@@ -1,16 +1,16 @@
 REGULATED INDUSTRIES COMMISSION ACT
 CHAPTER 54:73
 Act
-26 of 1998
-Amended by
+26 of 1998 Amended by
 4 of 2001
+1-2 .. 1/2009 3-4 .. 1/2006 5-6 .. 1/2009 7-28 .. 1/2006 29-30 .. 1/2009 31-34 .. 1/2006
 Note on Subsidiary Legislation
 The following Subsidiary Legislation have been omitted:
-(a) Regulated Industries Commission (Approval of Cess) Orders made under section 30;
-(b) Regulated Industries Commission Electricity (Transmission and Distribution) Order,
-2004 (LN 64/2004). With respect to paragraph (a) above, for references to these Orders -see the Current Edition of the Consolidated Index of Acts and Subsidiary Legislation.
-Note on Fair Trading Act, 1998
-The Fair Trading Act, 1998 was not enacted at the date of the revision of this Act.
+(a) Regulated Industries Commission Electricity (Transmission and Distribution)
+Order, 2004 (LN 64/2004).
+(b) Regulated Industries Commission (Approval of Cess) Orders made under section 30;
+(c) Notice Requesting Review of Tariffs (LN 282/2005).
+For reference to the above Orders and Notices-see the Current Edition of the Consolidated Index of Acts and Subsidiary Legislation.
 CHAPTER 54:73
 REGULATED INDUSTRIES COMMISSION ACT
 ARRANGEMENT OF SECTIONS
