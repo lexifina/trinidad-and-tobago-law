@@ -4,8 +4,8 @@ Act
 4 of 2001
 Amended by
 17 of 2004
-Note on Subsidiary Legislation
-This Chapter contains no subsidiary legislation.
+Index of Subsidiary Legislation
+Page Telecommunications Tenders Rules (LN 74/2005) … … … 62 Telecommunications (Access to Facilities) Regulations (LN 180/2006)… 83 Telecommunications (Interconnection) Regulations (LN 181/2006) … 105 Telecommunications (Fees) Regulations (LN 206/2006) … … 131
 CHAPTER 47:31
 TELECOMMUNICATIONS ACT
 ARRANGEMENT OF SECTIONS SECTION
@@ -17,14 +17,14 @@ PRELIMINARY
 PART II
 THE TELECOMMUNICATIONS AUTHORITY
 4. Establishment of the Authority. 5. Management of Authority by Board. 6. Constitution of Board. 7. Corporate Secretary. 8. Executive Director. 9. Absence from office of Executive Director.
-10. Seal. 11. Ordinary meetings. 12. Special meetings. 13. Quorum. 14. Decisions of the Board. 15. Disclosure of interest. 16. Inducement, collusion, concealment or connivance act. 17. Personal liability of members. 18. Functions and powers of the Authority. 19. Directions by the Minister. 20. Assets transferred to the Authority.
+10. Seal. 11. Ordinary meetings. 12. Special meetings. 13. Quorum. 14. Decisions of the Board. 15. Disclosure of interest. 16. Inducement, collusion, concealment or connivance. 17. Personal liability of members. 18. Functions and powers of the Authority. 19. Directions by the Minister. 20. Assets transferred to the Authority.
 PART III
 CONCESSIONS
 21. Requirement for a concession. 22. Conditions applicable to all concessions. 23. Conditions applicable to a concession for a broadcasting service.
 ARRANGEMENT OF SECTIONS-Continued
 SECTION
-24. Conditions applicable to a concession for a public telecommunications
-network or service.
+24. Conditions applicable to a concession for a public
+telecommunications network or service.
 25. Interconnection. 26. Access to facilities. 27. Government essential services. 28. Universal service. 29. Prices. 30. Termination, suspension or amendment of concession. 31. Renewal of concession. 32. Terminal equipment. 33. Road works. 34. Repairs and restoration. 35. Trees.
 PART IV
 LICENCES, SPECTRUM MANAGEMENT
@@ -57,10 +57,10 @@ TELECOMMUNICATIONS ACT
 An Act for the regulation of Telecommunications in Trinidad
 and Tobago.
 *[ASSENTED TO 5TH JULY, 2001]
-WHEREAS, the Government believes that in order to promote the country as the regional centre for the new information economy, it is necessary to establish a comprehensive and modern legal framework for an open telecommunications sector by permitting new providers of telecommunications services to enter the market and compete fairly:
+Whereas, the Government believes that in order to promote the country as the regional centre for the new information economy, it is necessary to establish a comprehensive and modern legal framework for an open telecommunications sector by permitting new providers of telecommunications services to enter the market and compete fairly:
 And whereas it is appropriate that an Authority be established with transparent regulatory processes to guide the sector's transformation from virtual monopoly, in which Telecommunications Services of Trinidad and Tobago is the principal provider of telecommunications services, to a competitive environment, to monitor and regulate the sector so transformed and, in particular, to prevent anti-competitive practices:
 And whereas, in order to achieve these stated goals, it is necessary to repeal the existing, outdated legislation and enact new legislation, as hereunder proposed:
-And whereas existing legislation in the related field of broadcasting is also outdated.
+And whereas existing legislation in the related field of broadcasting is also outdated:
 PART I
 PRELIMINARY
 - Margin: 4 of 2001.
