@@ -3,22 +3,23 @@ CHAPTER 75:06
 Act
 37 of 1989
 Amended by
-*22 of 1993 215/1989 *3 of 1994 5/1990 14 of 1994
-17/1990
-32 of 1994
+215/1989 *3 of 1994
+14 of 1994 5/1990 32 of 1994 17/1990 5 of 1995
 63/1990
-5 of 1995
-9 of 1990
 8 of 1996
-31/1991
+9 of 1990
 35 of 1998
-*6 of 1991 91 of 2000 4 of 1992 2 of 2002
-5 of 2004 6 of 1993
+31/1991
+91 of 2000
+*6 of 1991
+2 of 2002
+4 of 1992 5 of 2004 6 of 1993 17 of 2007
+*22 of 1993 30 of 2007
 *See Note on Exemption on page 2
 Index of Subsidiary Legislation
 Page
-Value Added Tax (Books and Records) Regulations (LN 170/1992) … 63 Value Added Tax (Prescribed Offences-Modified Penalties) Regulations
-(LN 169/1992) ... 65
+Value Added Tax (Books and Records) Regulations (LN 170/1992) … 65 Value Added Tax (Prescribed Offences-Modified Penalties) Regulations
+(LN 169/1992) ... 67
 Note on section 6 of the Act
 The "appointed day" for the purposes of section 6 is 1st January 1990-See LN 153/1989.
 Note on sections 61 and 62
@@ -27,12 +28,11 @@ Note on non-application of Act
 See-Section 34B of the Trinidad and Tobago Electricity Commission Act (Ch. 54:70) as
 amended by section 7 of Act No. 32 of 1994.
 Note on Exemption of Value Added Tax
-See-The First Schedule to this Act and also Act No. 6 of 1991; Act No. 22 of 1993 and
-Act No. 3 of 1994.
+See-The First Schedule to this Act and also Act No. 6 of 1991; Act No. 22 of 1993 and Act
+No. 3 of 1994.
 CHAPTER 75:06
 VALUE ADDED TAX ACT
-ARRANGEMENT OF SECTIONS
-SECTION
+ARRANGEMENT OF SECTIONS SECTION
 PART 1
 PRELIMINARY
 1. Short title. 2. Act binds State. 3. Interpretation. 4. What constitutes a business. 5. Consideration in foreign currency.
@@ -42,7 +42,7 @@ IMPOSITION OF THE TAX
 PART 3
 TAX ON IMPORTS
 9. Calculation of tax.
-10. Comptroller to collect tax. 11. When tax due and payable. 12. Value of imported goods. 13. (Repealed by Act No. 6 of 1991).
+10. Comptroller to collect tax. 11. When tax due and payable. 12. Value of imported goods. (Repealed by Act No. 6 of 1991). 13.
 13A. Refund on overpayments of tax on imports.
 PART 4
 TAX ON SUPPLY DIVISION 1-THE TAX
@@ -62,14 +62,14 @@ DIVISION 5 -SPECIAL CASES
 PART 5
 RELIEFS
 44. Certain imports exempt.
-44A. (Repealed by Act No. 8 of 1996).
+(Repealed by Act No. 8 of 1996). 44A.
 45. Certain imports by fishermen. 46. Certain supplies to fishermen.
 46A. Reliefs for diplomats and others. 46B. Reliefs for certain persons.
 47. Bad debts.
 PART 6
 MISCELLANEOUS
 48. Effect of changes in tax on existing contracts. 49. Administration. 50. Authorised persons. 51. Functions of authorised persons. 52. Secrecy. 53. Board may require security. 54. Interest and penalty.
-54A. Waiver of interest, penalty.
+54A. Waiver of certain liabilities.
 55. Certain provisions of Income Tax Act to apply.
 55A. Clearance certificate.
 56. General offences. 57. Additional liability for offence by body corporate. 58. Limitation period for prosecutions. 59. Regulations.
@@ -89,8 +89,8 @@ PART 9
 TRANSITIONAL PROVISIONS
 63. Invoices given or payments made on or before 31st December 1989.
 SCHEDULE 1- Exempt Services. SCHEDULE 2- Zero-rating. SCHEDULE 3- Matters with respect to the supply of goods or
-services. SCHEDULE 3A-Businesses exempt from the requirement to issue
-a tax invoice.
+services. SCHEDULE 3A-Businesses exempt from the requirement to issue a
+tax invoice.
 
 CHAPTER 75:06
 VALUE ADDED TAX ACT

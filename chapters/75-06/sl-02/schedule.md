@@ -1,13 +1,12 @@
 # SCHEDULE
-No... of 20... PART A
+PART A No... of 20...
 INFRINGEMENT NOTICE
 Made pursuant to section 59A of the Value Added Tax Act
 Board of Inland Revenue
 Value Added Tax Administration Centre
 20, St. Vincent Street
 Port-of-Spain
-(Name and Address of Alleged Offender)
-TAKE NOTICE that the Board of Inland Revenue has reason to believe that you have ...
+(Name and Address of Alleged Offender) TAKE NOTICE that the Board of Inland Revenue has reason to believe that you have ...
 (description of alleged offence)
 contrary to section ... of the Value Added Tax Act. A person who commits such an offence is liable on summary conviction to a fine of $ ... and imprisonment for...
 You are advised that if you do not wish to have a complaint of the alleged
@@ -16,15 +15,16 @@ You are further advised that payment of the modified penalty within the
 stipulated time, prevents the bringing of proceedings and the imposition of penalties to the same extent as if you were convicted by a Court, and punished for the alleged offence.
 You are further advised that payment of a modified penalty shall not be
 regarded as an admission for the purposes of any proceedings, whether civil or criminal.
-You are further advised that if the modified penalty is not paid by the stipulated
-time, the Board will proceed to have a complaint of the alleged offence heard and determined by a Court.
+You are further advised that if the modified penalty is not paid by the
+stipulated time, the Board will proceed to have a complaint of the alleged offence heard and determined by a Court.
 Date of issue ...
 Board of Inland Revenue
-Value Added Tax (Prescribed Offences-Modified Penalties) Regulations [Subsidiary]
+Value Added Tax (Prescribed Offences-Modified Penalties) Regulations
 PART B
 No... of 20...
-NOTICE OF WITHDRAWAL OF INFRINGEMENT NOTICE
-made pursuant to section 59A of the Value Added Tax Act
+NOTICE OF WITHDRAWAL OF INFRINGEMENT
+NOTICE
+Made pursuant to section 59A of the Value Added Tax Act
 Board of Inland Revenue
 Value Added Tax Administration Centre
 20, St. Vincent Street
