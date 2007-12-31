@@ -41,13 +41,3 @@ s-32.md
 s-33.md
 s-34.md
 sl-01/title.md
-sl-01/r-1.md
-sl-01/r-2.md
-sl-01/r-3.md
-sl-01/r-7.md
-sl-01/r-8.md
-sl-01/r-9.md
-sl-01/r-10.md
-sl-01/r-11.md
-sl-01/r-12.md
-sl-01/schedule.md
