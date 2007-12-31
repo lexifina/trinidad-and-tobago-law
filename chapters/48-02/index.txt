@@ -55,9 +55,3 @@ sl-01/r-9.md
 sl-01/r-14.md
 sl-01/first-schedule.md
 sl-01/second-schedule.md
-sl-02/title.md
-sl-02/r-1.md
-sl-02/r-2.md
-sl-03/title.md
-sl-03/r-1.md
-sl-03/r-2.md
