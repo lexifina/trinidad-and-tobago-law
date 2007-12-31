@@ -5,11 +5,11 @@ Act
 15 of 1937 29 of 1966 19 of 1948 45 of 1979 21 of 1949 26 of 1989 21 of 1959 37 of 1989 34 of 1960 239/1990
 8/1962 6 of 1991 38/1962 6 of 1993 97/1963 9 of 1997
 Index of Subsidiary Legislation
-Page Resolution (GN 71/1956) ... 42 Resolution (GN 142/1967) ... 43 Excise (General Provisions) Order (GN 58/1957) … … … 44 Excise Duty (Spirits) Order (GN 196/1957) ... 45 Excise Duty Order (GN 66/1961) ... 45 Excise Duty (Alcoholic Beverages) Order (LN 215/2001)… … … 46 Excise Duty (Other Malt Beverage) Order (GN 119/1973) … … 48 Excise Duty (Lubricating Oils) Order (GN 3/1968) … … … 49 Excise Duty (Petroleum Products) Order (LN 86/1997) … … … 50 Excise Duty (Edible Oil) Order (LN 9/1989) ... 51 Excise Duty (Tobacco Products) Order (LN 214/2001) … … … 51 Excise Duty (Beer) Order (GN 124/1978) ... 52 Excise Officers (Overtime) Regulations (GN 42/1957) … … … 52 Excise Regulations (G 27.12.1934) ... 54 Excise (Fees) Regulations (GN 43/1957)... 63
+Page Resolution (GN 71/1956) ... 42 Resolution (GN 142/1967) ... 43 Excise (General Provisions) Order (GN 58/1957) … … … 44 Excise Duty (Spirits) Order (GN 196/1957) ... 45 Excise Duty Order (GN 66/1961) ... 45 Excise Duty (Alcoholic Beverages) Order (LN 215/2001) … … … 46 Excise Duty (Other Malt Beverage) Order (GN 119/1973) … … 48 Excise Duty (Lubricating Oils) Order (GN 3/1968) … … 49 Excise Duty (Petroleum Products) Order (LN 86/1997) … … … 50 Excise Duty (Edible Oil) Order (LN 9/1989) ... 51 Excise Duty (Tobacco Products) Order (LN 214/2001) … … … 51 Excise Duty (Beer) Order (GN 124/1978) ... 52 Excise Officers (Overtime) Regulations (GN 42/1957) … … … 52 Excise Regulations (G 27.12.1934) ... 54 Excise (Fees) Regulations (GN 43/1957)... 63
 Note on Validation
 Act No. 8 of 1984 states as follows:
-2. Notwithstanding any rule of law to the contrary, it is declared that all Validation of acts done in
-acts and things purported to be done or omitted to be done by the Comptroller pursuance of Subsidiary of Customs and Excise under or in pursuance of the powers conferred by the Legislation.
+2. Notwithstanding any rule of law to the contrary, it is declared that all Validation of acts done in acts and things purported to be done or omitted to be done by the Comptroller pursuance of
+of Customs and Excise under or in pursuance of the powers conferred by the Subsidiary Legislation.
 Customs (Import Duty) (Caribbean Common Market) Order, 1984 and the Excise Duty (Petroleum Products) Order, 1984 on or after the 2nd day of February, 1984 are deemed to have been lawfully and validly done or omitted to be done and no legal proceedings or other action of any kind shall be entertained in respect of or in consequence of such acts and things.
 CHAPTER 78:50
 EXCISE (GENERAL PROVISIONS) ACT
@@ -22,8 +22,8 @@ PRELIMINARY
 10. Minister may restore seizures, etc. 11. All bonds and securities entered into, valid. 12. Surety to be deemed a principal debtor.
 PART II
 DUTIES AND DRAWBACKS
-13. Imposition and variation of duties. 14. Effect of obligation to pay duty. 15. Duty to be paid at rate in force on delivery. 16. Disputes as to duty payable. 17. Duty to be proportionate to quantity, etc. 18. Goods used contrary to purpose for which delivered. 19. Contract prices of goods may be adjusted to meet change in
-Excise Duty.
+13. Imposition and variation of duties. 14. Effect of obligation to pay duty. 15. Duty to be paid at rate in force on delivery. 16. Disputes as to duty payable. 17. Duty to be proportionate to quantity, etc. 18. Goods used contrary to purpose for which delivered. 19. Contract prices of goods may be adjusted to meet change in Excise
+Duty.
 20. Minister may direct granting of drawbacks. 21. Certification of debenture. Refund of duties paid in error.
 22. No duty payable on goods exported, shipped as stores, etc. Exemptions from duty; Petroleum used on works, etc.
 ARRANGEMENT OF SECTIONS-Continued SECTION
