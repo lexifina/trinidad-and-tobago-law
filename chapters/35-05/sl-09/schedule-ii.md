@@ -1,0 +1,43 @@
+# SCHEDULE II
+GUIDELINES FOR TECHNICAL AND
+EXPERT WITNESSES
+1. The Commission expects the technical and/or expert witness to provide it with assistance by way of qualified, relevant opinions and accurate information in relation to matters within his expertise. Objectivity and impartiality are necessary to assist the Commission in its decision.
+2. Evidence that is influenced by the special interests of a party may be received and considered, but the Commission may give this evidence little or no weight.
+3. The Witness should express an opinion to the Commission only when the opinion is based on adequate knowledge and sound conviction. The witness should be reluctant to accept an assignment to provide evidence for use by the Commission if the terms of reference of the assignment do not allow the witness to carry out the investigations and obtain the information necessary to provide such an opinion. A witness who accepts an assignment under these circumstances, should advise the Commission of the limitations that the terms of reference place on his ability to provide the information necessary to assist the Commission in making a sound decision or to give informed opinions.
+4. Technical and expert evidence should be and should be seen to be, the independent product of the witness uninfluenced as to form and content by the exigencies of litigation, the particular dispute before the Commission, and the interests of the witness' client.
+5. The witness must never assume the role of advocate for a party. Argument and advocacy should be left to an Attorney-at-law and agents presenting the party's case. This does not preclude the vigorous advancement of strongly held scientific or other professional opinions or prevent a duly qualified witness who is also a party, from advancing technical and opinion evidence.
+6. The witness has a duty to change his opinion where circumstances, such as the receipt of new information, require it. If at any time before the Commission issues its final decision, the witness changes his view on a material matter for any reason, particularly after having read the reports or listened to the evidence of witnesses for other parties, the change in information and/or opinion should be communicated to the Commission without delay. Where reports or documents prepared by the witness contain errors or information which has changed, this must be promptly identified.
+7. The witness must not change his opinion or change or withhold information to suit the position taken by the party that has retained or employed him. [Subsidiary ]
+Environmental Commission Rules of Practice and Procedure
+8. In preparing reports to be used by the witness' employer or client in determining the issues to be raised and the employer or client's position on those issues and for use as evidence, and in testifying before the Commission, the witness has the following duties of disclosure:
+(a) It is the responsibility of the witness to make fair and full disclosure.
+(b) The witness should make it clear when a particular question or
+issue falls outside his or her expertise.
+(c) To be useful, the opinion and evidence must provide enough clear
+information on assumptions, procedures used, and conclusions drawn to allow comprehension of the report as it stands, and permit fair and efficient cross-examination.
+(d) When the witness is providing an opinion or giving evidence on
+an issue or problem area for which there are differences of professional or scientific opinion, he has an obligation to make such differences clearly known to the Commission and all parties. The witness should make reasonable efforts to be fully informed of those differences.
+(e) The witness should state all the material facts and assumptions
+upon which his opinion is based. He or she should not omit to consider and acknowledge material facts which could detract from the opinion. Where the facts are in dispute, the Commission expects that the witness will give his view of the facts and the proof relied upon before giving the opinion.
+(f) Where the opinion and evidence are based on information
+contained in other documents, detailed references should be provided in any report prepared by the expert, and copies of those documents made available on request before and during the hearing. Copies of the documents should be brought for reference on cross-examination.
+(g) Parties and their respective representatives questioning their own
+witnesses are required by the Rules of Practice and Procedure of the Commission to ask questions designed to elicit the information required by these guidelines. However, the witness is expected to disclose to the Commission and to all other parties all significant information and opinions, and errors, shortcomings and limiting factors even if no one has asked for them.
+(h) The weight to be given to the evidence of technical and expert
+witnesses will be affected by the demeanor of the witness. The witness should give direct answers to questions and should not be evasive while giving testimony, even though the answers may appear to be detrimental to the case of the witness'client or employer. Any effort to avoid answering direct questions could adversely affect the weight assigned to the witness' evidence on the issue or the evidence as a whole.
+[Subsidiary ]
+Environmental Commission Rules of Practice and Procedure
+9. When giving an opinion, the witness should state and explain the degree of certainty of the opinion or the level of probability that it is correct. The degree of uncertainty and the reasons for uncertainty should be candidly acknowledged. Uncertainties and assumptions inherent in measurements should be clearly identified. The level of confidence or the sensitivity to error must be given.
+10. It is better for a witness to base conclusions on facts and data obtained from those who possess them, rather than construct a series of possibly incorrect assumptions, hypotheses and/or models.
+11. Where there is a lack of consensus with respect to the use of a particular model or formula, the rationale for the chosen approach should be identified.
+12. If the witness'opinion is not properly researched because insufficient data is available, this shortcoming must be stated. Any limiting qualification to the opinion should be identified. The Commission expects to be told when a lack of factual information or experience will increase the probability of inaccurate conclusions or predictions. The witness should avoid speculation where data is insufficient.
+13. Where an estimate falls within a range of reasonable possibilities, based on the same data, the variance within that range should be thoroughly disclosed. Where a prediction can lead to a range of potential impacts, that range should be fully described.
+Plain Language
+14. In preparing reports and giving testimony, the witness should take into account that the hearing process is a public process in which reports and testimony must be understood by participants and observers who may not have any significant technical knowledge. Therefore the language and writing style should be simple and direct and scientific or technical terms and concepts should be explained, where possible, in clear, simple language.
+15. Where specialised language is necessary to convey information accurately, the witness should use it rather than risk misleading or over-simplifying. However, where possible, the witness should avoid the use of scientific terms and jargon and unfamiliar acronyms, or at least fully explain those terms, so that technical information and opinion can be easily understood.
+Efficiency
+16. Reports, witness statements and information should be produced in a timely fashion to all parties.
+17. All reasonable requests for answers to interrogatories (that is, written questions) must be answered promptly and thoroughly by the witness. [Subsidiary ]
+Environmental Commission Rules of Practice and Procedure
+18. Notwithstanding the requirements for full disclosure, the witness should make every effort to give succinct answers to questions put to him in written questions and in examination-in-chief, cross-examination and re-examination, and questioning by the Commission. Answers should be concise, responsive and focused on the most essential issues.
+19. During his testimony a witness should not be called upon to review fundamental techniques in a painstaking step-by-step fashion, and to read correspondence and other reports line-by-line and page-by-page, unless it is clear that the purpose of such elaboration warrants this expenditure of time.
