@@ -7,8 +7,8 @@ SCHEDULE. [Subsidiary]
 RETIRING ALLOWANCES (DIPLOMATIC SERVICE)
 REGULATIONS
 made under section 19
-1. These Regulations may be cited as the Retiring Allowances
-(Diplomatic Service) Regulations.
+1. These Regulations may be cited as the Retiring
+Allowances (Diplomatic Service) Regulations.
 PRELIMINARY
 2. In these Regulations, "allowance" means retiring
 allowance awarded under section 7 of the Act and includes a widow's allowance and a children's allowance under sections 10 and 11 of the Act respectively.
@@ -16,8 +16,8 @@ allowance awarded under section 7 of the Act and includes a widow's allowance an
 contributor for recording contributions and special contributions.
 4. The Minister may designate a person or persons to be
 responsible for the keeping and recording of accounts of contributions, special contributions and awards.
-5. A record of awards made to each Head of Mission shall be
-kept and allowances paid monthly to the recipient.
+5. A record of awards made to each Head of Mission shall
+be kept and allowances paid monthly to the recipient.
 6. Payment of allowances shall be made on the last full
 working day of the month.
 7. The recipient of an allowance may, if incapacitated,
@@ -26,8 +26,7 @@ authorise another person in writing in the form set out as Form 1 in the Schedul
 (a) retiring allowance and children's allowance; and
 (b) widow's allowance,
 of a former Head of Mission shall be in the form set out as Forms 2 and 3, respectively, in the Schedule.
-Chap 17:04
-Retiring Allowances (Diplomatic Service) Regulations [Subsidiary]
+[Subsidiary] Retiring Allowances (Diplomatic Service) Regulations
 SCHEDULE
 FORM 1
 FORM OF AUTHORISATION
@@ -37,15 +36,13 @@ affixed here Trinidad
 ... 20...
 The
 You are hereby notified that, until further notice Mr... whose signature is affixed hereto, is authorised to receive all moneys due and owing to me or my firm and to give effectual receipts for same.
-...
-Name (in Block Letters) of Signature of Person Authorising Agent Person Authorising Agent
+... Name (in Block Letters) of Signature of Person Authorising Agent Person Authorising Agent
 ... Name, Occupation, Address of Signature of Witness Witness (in Block Letters) *
 ...
 Name (in Block Letters) of Signature of
 Authorised Agent Authorised Agent
 ... Name, Occupation, Address of Signature of Witness Witness (in Block Letters) *
-*To be witnessed by a Justice of the Peace, Notary Public, Commissioner of Oaths, Minister of Religion, Medical Practitioner, Superintendent of Police, Non-Commissioned Officer, Head or Deputy Head of Department or Clerk of the Peace, a Manager of a Bank or Branch Bank.
-Persons resident in a Foreign Country to be attested by a Consular Officer of Trinidad and Tobago. [Subsidiary] Retiring Allowances (Diplomatic Service) Regulations
+*To be witnessed by a Justice of the Peace, Notary Public, Commissioner of Oaths, Minister of Religion, Medical Practitioner, Superintendent of Police, Non-Commissioned Officer, Head or Deputy Head of Department or Clerk of the Peace, a Manager of a Bank or Branch Bank. Persons resident in a Foreign Country to be attested by a Consular Officer of Trinidad and Tobago. [Subsidiary] Retiring Allowances (Diplomatic Service) Regulations
 FORM 2 Regulation 8.
 LIFE CERTIFICATE
 Date ...
@@ -63,20 +60,18 @@ Signature of former Head of Mission
 ...
 Signature of Child of former Head of Mission
 CERTIFICATE
-I hereby certify that M ..., whose signature
-is affixed above, is living, and to the best of my knowledge and belief is the person entitled to the payment.
+I hereby certify that M ..., whose signature is affixed above, is living, and to the best of my knowledge and belief is the person entitled to the payment.
 To be signed by a Justice of the Peace, Pensioners
-Notary Public, Commissioner for Oaths, resident in a Minister of Religion, Medical Practitioner or Commonwealth territory. by a Superintendent of Police, Non-
-Commissioned Officer, Head or Deputy Head of Department, or Clerk of the Peace, before being presented for payment or by a Manager of a Bank or Branch Bank when presenting for payment...
+Notary Public, Commissioner for Oaths, resident in a Commonwealth Minister of Religion, Medical Practitioner or territory. by a Superintendent of Police, Non-
+Commissioned Officer, Head or Deputy Head of Department, or Clerk of the Peace, before being presented for payment or by a Manager of a Bank or Branch Bank when presenting
+... for payment.
 Signature of Justice of the Peace, Notary Public, etc.
-To be attested by a Consular Officer of Pensioners resident in a Trinidad and Tobago. foreign country.
-...
+To be attested by a Consular Officer of Pensioners resident in a Trinidad and Tobago. foreign country...
 Signature of Consular Officer
 Address ... Qualification ... Date ...
 *Delete where not applicable.
-Chap 17:04
-Retiring Allowances (Diplomatic Service) Regulations [Subsidiary]
-Regulation 8. FORM 3
+[Subsidiary] Retiring Allowances (Diplomatic Service) Regulations
+FORM 3 Regulation 8.
 LIFE CERTIFICATE
 Date ...
 WIDOW'S ALLOWANCE PAYABLE TO THE WIDOW OF A
@@ -85,20 +80,16 @@ Claim in respect of widow's allowance payable Full sum $ ... This form must be t
 examination if presented in person and one ... for ...
 day if presented through a Bank. the period ended ...
 $ ... Net sum payable This allowance
-cannot be assigned as a security for a $ ... Examined ... loan of money. If presented in Signature and date (across
-I solemnly declare that during this period I have not
-person this form
-a five cents stamp when the remarried. must be signed in
-payment amounts to $5.00
+cannot be assigned as a security for a $ ... Examined ... loan of money. If presented in Signature and date (across I solemnly declare that during this period I have not
+person this form a five cents stamp when remarried. must be signed in
+the payment amounts to
 the presence of the
-and upwards) Paying Cashier. Accountant ...
-CERTIFICATE
-I hereby certify that M... whose signature is affixed above, is living, and to the best of my knowledge and belief is the person entitled to the payment. To be signed by a Justice of the Peace, Notary Widow resident in
-a Commonwealth Public, Commissioner for Oaths, Minister of territory. Religion, Medical Practitioner or by a Superintendent of Police, Non- Commissioned Officer, Clerk of the Peace before being passed for payment or by a Manager of a Bank or Branch Bank when passing on for payment.
+$5.00 and upwards) Paying Cashier. Accountant ...
+CERTIFICATE I hereby certify that M... whose signature is affixed above, is living, and to the best of my knowledge and belief is the person entitled to the payment. To be signed by a Justice of the Peace, Notary Widow resident in Public, Commissioner for Oaths, Minister of a Commonwealth
+territory. Religion, Medical Practitioner or by a Superintendent of Police, Non- Commissioned Officer, Clerk of the Peace before being passed for payment or by a Manager of a Bank or Branch Bank when passing on for payment.
 ...
 Signature of Justice of the Peace,
-Notary Public, etc.
-To be attested by a Consular Officer of Widow resident in
+Notary Public, etc. To be attested by a Consular Officer of Widow resident in
 a foreign country. Trinidad and Tobago.
 ...
 Signature of Consular Officer
