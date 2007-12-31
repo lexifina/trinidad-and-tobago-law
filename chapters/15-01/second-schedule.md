@@ -1,5 +1,5 @@
 # SECOND SCHEDULE
-OFFICES IN THE SECOND DIVISION OF THE
-POLICE SERVICE
+OFFICES IN THE SECOND DIVISION OF
+THE POLICE SERVICE
 Inspector Sergeant Corporal Constable
-- Margin: Section 6(3).
+- Margin: [Section 7(3)].
