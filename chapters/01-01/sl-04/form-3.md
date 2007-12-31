@@ -17,4 +17,4 @@ PUBLIC SERVICE COMMISSION
 of the Constitution
 - Margin: Regulation 17(4).
 - Margin: [Subsidiary]
-- Margin: 158/1966. [109/1981 232/1990].
+- Margin: 158/1966. [109/1981 232/1990 105/2006].
