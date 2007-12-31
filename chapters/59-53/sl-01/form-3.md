@@ -1,8 +1,7 @@
 # FORM 3
 THE AGRICULTURAL SMALL HOLDINGS TENURE ACT (CH. 59:53)
 APPLICATION FOR FIXING MAXIMUM RENT OF SMALL HOLDING-SECTION 22(1) OF THE ACT
-To the Secretary of the Agricultural Tribunal for the agricultural district of
-...
+To the Secretary of the Agricultural Tribunal for the agricultural district of ...
 (here insert agricultural district)
 I/We* ... of ...
 (here insert name of applicant) (insert address of applicant)
@@ -14,6 +13,6 @@ hereby apply to the agricultural tribunal of the said agricultural district to h
 Dated this ... day of ... 20...
 ...
 Signature of applicant
-*Delete whichever is inapplicable.
-Agricultural Small Holdings Tenure Regulations [Subsidiary]
+*Delete whichever is inapplicable
+[Subsidiary] Agricultural Small Holdings Tenure Regulations
 - Margin: Regulation 4.
