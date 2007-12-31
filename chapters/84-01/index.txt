@@ -231,7 +231,6 @@ sl-01/r-3.md
 sl-01/r-4.md
 sl-01/r-5.md
 sl-01/first-schedule.md
-sl-01/form-a3.md
 sl-01/form-e1.md
 sl-01/form-e2.md
 sl-01/form-f.md
@@ -240,8 +239,6 @@ sl-01/second-schedule.md
 sl-01/third-schedule.md
 sl-01/schedule.md
 sl-01/form-i.md
-sl-01/form-a1.md
-sl-01/form-a3--2.md
 sl-01/form-b4.md
 sl-01/form-d1.md
 sl-01/form-d2.md

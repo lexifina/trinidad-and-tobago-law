@@ -16,10 +16,10 @@ valuation is made.
 PART II
 REQUIREMENTS AS TO STATEMENTS
 The Statements required to be prepared under this Part are as follows:
-(1) Statements as to policies issued in Trinidad and Tobago, [Subsidiary] Insurance (Forms) Regulations
+(1) Statements as to policies issued in Trinidad and Tobago, [Subsidiary ] Insurance (Forms) Regulations
 separately prepared in respect of policies with and without participation in profits, showing-
-(a) in relation to policies for the whole term of life, the
-rates of office premiums charged, in accordance with the published tables in use, for new policies giving the rates for decennial ages at entry from 20 to 70 inclusive;
+(a) in relation to policies for the whole term of life, the rates
+of office premiums charged, in accordance with the published tables in use, for new policies giving the rates for decennial ages at entry from 20 to 70 inclusive;
 (b) in relation to endowment insurance policies, the rates
 of office premiums charged, in accordance with the published tables in use, for new policies with original terms of ten, fifteen, twenty, thirty and forty years, giving the rates for ages at entry 20, 30 and 40, but excluding policies under which the age at maturity exceeds 60;
 (c) in relation to policies specified in the preceding
@@ -31,17 +31,17 @@ premiums charged in accordance with the published tables in use for new policies
 Provided that, in the case of industrial policies, there shall be shown, in lieu of the rates of office premiums charged as specified in the foregoing items, the sums insured by new policies, in accordance with the published tables in use, in return for fixed weekly and monthly office premiums and in addition the sums insured for ages at entry 1, 5, 10 and 15;
 (2) Statements separately prepared in respect of policies with
 immediate profits, with deferred profits, and without profits, showing in quinquennial groups-
-(a) in relation to policies on single lives for the whole term
-of life-
+(a) in relation to policies on single lives for the whole
+term of life-
 (i) the total amount insured (specifying sums
 insured and reversionary bonuses separately) grouped according to ages attained;
 (ii) the amount per annum, after deducting
 abatements made by application of bonus, of office premiums payable throughout life, and of the corresponding net premiums, grouped according to ages attained; and
-Insurance (Forms) Regulations [Subsidiary]
+[Subsidiary ] Insurance (Forms) Regulations
 (iii) the amount per annum, after deducting
 abatements made by application of bonus, of office premiums payable for a limited number of years, and, of the corresponding net premiums grouped in accordance with the grouping adopted for the purposes of the valuation;
-(b) in relation to endowment insurance policies on
-single lives-
+(b) in relation to endowment insurance policies on single
+lives-
 (i) the total amount insured (specifying sums
 insured and reversionary bonuses separately) grouped in accordance with the grouping adopted for the purposes of the valuation; and
 (ii) the amount per annum (after deducting
@@ -55,7 +55,7 @@ abatements made by application of bonus, of office premiums payable (including p
 (d) in relation to sinking fund policies (other than annuity
 policies)-
 (i) the total amount insured (specifying sums
-insured and reversionary bonuses separately) grouped according to the number of complete years from the valuation date to the date of maturity of the policies; and [Subsidiary] Insurance (Forms) Regulations
+insured and reversionary bonuses separately) grouped according to the number of complete years from the valuation date to the date of maturity of the policies; and [Subsidiary ] Insurance (Forms) Regulations
 (ii) the amount per annum, after deducting
 abatements made by application of bonus, of office premiums payable, and of the corresponding net premiums, grouped according to the number of years' payments remaining to be made;
 Provided that-
@@ -65,7 +65,7 @@ fund policies which will reach maturity in less than five years, and which are g
 whole term of life with premiums payable for a limited number of years, or the net premiums in respect of endowment insurance policies, are grouped for the purposes of the valuation otherwise than according to the number of years' payments remaining to be made, or, where the sums insured under endowment insurance policies are grouped for the purposes of the valuation otherwise than according to the years in which the policies will mature for payment or in which they are assumed to mature if earlier than the true year, then, in any such case, the valuation constants and an explanation of the method by which they are calculated shall be given for each group, and, in the case of sums insured under endowment insurance policies, a statement shall also be given of the amount insured maturing for payment in each of the two years following the valuation date;
 (3) Statements in relation to immediate annuities (separate for
 those payable under an approved scheme and others) on single lives for the whole term of life and annuities which were originally deferred but which have been entered upon before or on the valuation date, separately prepared in respect of annuities on male and female lives, showing in quinquennial age groups the total amount of those annuities, grouped according to ages attained at the valuation date;
-Insurance (Forms) Regulations [Subsidiary]
+[Subsidiary ] Insurance (Forms) Regulations
 (4) Statements in relation to deferred annuities (separate for those
 payable under an approved scheme and others) which have not been entered upon before or on the valuation date, separately prepared in respect of annuities on male and female lives, showing in quinquennial groups-
 (a) the total amount of those annuities, grouped according
@@ -76,12 +76,12 @@ according to the amount of the annuity, attained at the valuation date by the pr
 the method by which they are calculated; and
 (b) the amount per annum of office premiums payable and
 of the corresponding net premiums, grouped according to the number of years' payments remaining to be made;
-(5) Statements in relation to sinking fund policies, being immediate
-annuity policies, showing in quinquennial groups the total amount of those annuities, grouped according to the number of years from the valuation date to the date the annuities cease to be payable;
+(5) Statements in relation to sinking fund policies, being
+immediate annuity policies, showing in quinquennial groups the total amount of those annuities, grouped according to the number of years from the valuation date to the date the annuities cease to be payable;
 (6) Statements showing in quinquennial groups the amount per
 annum of continuous disability benefits payable at the valuation date in respect of disability of more than one year's duration, grouped according to ages attained; and
-(7) Statements showing the total amount of continuous disability
-benefit paid and premiums waived in each of the five years immediately preceding the valuation date. [Subsidiary]
+(7) Statements showing the total amount of continuous
+disability benefit paid and premiums waived in each of the five years immediately preceding the valuation date. [Subsidiary ]
 INSURANCE COMPANIES (REGISTRATION)
 REGULATIONS
 made under section 214(1)

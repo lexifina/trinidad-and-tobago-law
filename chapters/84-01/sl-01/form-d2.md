@@ -21,10 +21,11 @@ Government of Trinidad and Tobago (specify)… …
 (f) Other (specify) … … 4. Ordinary Shares in Trinidad and
 Tobago Companies (particulars to be
 … … … 5. Ordinary Shares in non-Trinidad and
-Tobago Companies (distinguish between Caricom and other foreign
+Companies (distinguish
+between Caricom and other foreign
 … … … 6. Preference Shares in Trinidad and
-Tobago Companies … … 7. Preference Shares in non-Trinidad and
-Tobago Companies (distinguish between Caricom and other foreign Companies)… … … [Subsidiary] Insurance Companies (Accounts and Forms) Regulations
+Tobago Companies … … 7. Preference Shares in non-Trinidad
+and Tobago Companies (distinguish between Caricom and other foreign Companies)… … … [Subsidiary ] Insurance Companies (Accounts and Forms) Regulations
 FORM D2-Continued
 STATEMENT OF VALUE OF ASSETS AT
 (BALANCE SHEET DATE)
@@ -36,8 +37,8 @@ Assets Insurance Insurance
 Business
 Business Business
 $ $ $ $
-8. Bonds and Debentures in Trinidad and
-Tobago Companies … …
+8. Bonds and Debentures in Trinidad
+and Tobago Companies… …
 9. Bonds and Debentures in non-Trinidad
 and Tobago Companies (distinguish between Caricom and other countries)
 10. Investment in dependent companies
@@ -49,18 +50,18 @@ which are not insurance companies
 14. Fixed Deposits with Bank … 15. Fixed Deposits with other financial
 institutions (specify) … …
 16. Cash on Current Account and in hand
-}
-due
+} due
 from agents and
 Uncollected
-18. Amounts due from
-Premiums
+due
+Premiums from brokers
+19. Amounts due
 from Policyholders
 20. Amounts due from other Insurance
 Companies … … …
 21. Interest, dividends and rents accruing
 but not due … … …
-Insurance Companies (Accounts and Forms) Regulations [Subsidiary]
+[Subsidiary ] Insurance Companies (Accounts and Forms) Regulations
 STATEMENT OF VALUE OF ASSETS AT
 (BALANCE SHEET DATE)
 Motor All Other
@@ -71,14 +72,15 @@ Insurance Insurance
 Business
 Business Business
 $ $ $ $
-22. Interest dividends and rents
+dividends and rents
 outstanding … … … 23. Sundry Debtors … … 24. Other Assets (specify) … …
-Total Assets as per Form D1 [Subsidiary] Insurance Companies (Accounts and Forms) Regulations
+Total Assets as per Form D1 [Subsidiary ] Insurance Companies (Accounts and Forms) Regulations
 - Margin: 2. Loans:-
 - Margin: specified)
+- Margin: Tobago
 - Margin: countries)
-- Margin: Bank …
+- Margin: Bank
 - Margin: 17. Amounts
 - Margin: sub-agents
-- Margin: brokers
-- Margin: 19. Amounts due
+- Margin: 18. Amounts
+- Margin: 22. Interest

@@ -9,14 +9,14 @@ Amended by
 35 of 1998
 39 of 2000
 *15 of 2004
+32/2006
+22 of 2007
 * See Note on page 2
 Index of Subsidiary Legislation
-Page Insurance (Pension Fund Plan Investments) Regulations (185/1976) … 146 Insurance (Pension Fund Plans Registration Fees) Regulations
-(184/1970)... 147 Insurance (Forms) Regulations (25/1967)... 149 Insurance Companies (Registration) Regulations (152/1980) … … 186 Insurance Companies (Accounts and Forms) Regulations (39/1981)… … 195 Insurance (Admissible Assets and Valuation of Assets) Regulations
-(107/1982) ... 231 Insurance (Agents, Brokers, Salesmen and Adjusters) (Registration)
-Regulations (121/1982)... 242 Insurance (Approved Securities) Regulations (70/1983) … … … 280
+Page Insurance (Pension Fund Plan Investments) Regulations (185/1976) … 146 Insurance (Pension Fund Plans Registration Fees) Regulations (184/1970) … 147 Insurance (Forms) Regulations (25/1967)... 149 Insurance Companies (Registration) Regulations (152/1980) … … 186 Insurance Companies (Accounts and Forms) Regulations (39/1981) … 195 Insurance (Admissible Assets and Valuation of Assets) Regulations (107/1982) 231 Insurance (Agents, Brokers, Salesmen and Adjusters) (Registration)
+Regulations (121/1982) ... 242 Insurance (Approved Securities) Regulations (70/1983) … … … 280
 Note on Omissions
-The Insurance (Assignments and Mortgages of Policies) Regulations 1968 (GN 103/1968) (which was re-Gazetted as GN 162/1968) made under the Insurance Act 1980 (Act No. 6 of 1980) (repealed by this Act) and preserved under section 215 of Act No. 6 of 1980 have been omitted.
+The Insurance (Assignments and Mortgages of Policies) Regulations 1968 (GN 103/1968) (which was re-Gazetted as GN 162/1968) made under the Insurance Act, 1980 (Act No. 6 of 1980) (repealed by this Act) and preserved under section 215 of Act No. 6 of 1980 have been omitted.
 Note on Act No. 15 of 2004
 See section 141 of Act No. 15 of 2004 for transitional provisions and indemnification of the former Supervisor of Insurance for exercising his duty under subsection (1)(c) of the said Act No. 15 of 2004.
 CHAPTER 84:01
@@ -33,18 +33,18 @@ ADMINISTRATION
 6. Central Bank may delegate powers or duties. 7. Reports and other information. 8. Inspector may act as arbitrator. 9. Central Bank to maintain registers.
 PART II
 REGISTRATION
-10. Non-application of Part. 11. Restriction on carrying on insurance business. 12. Restriction on carrying on insurance business with unregistered insurer
-or unregistered broker or without prior approval of the Central Bank.
+10. Non-application of Part. 11. Restriction on carrying on insurance business. 12. Restriction on carrying on insurance business with unregistered
+insurer or unregistered broker or without prior approval of the Central Bank.
 13. Share capital necessary for registration. 14. Application for registration. 15. Application for registration by companies carrying on insurance
 business before commencement of this Act.
 16. Registration of company. 17. Central Bank may refuse to register company. 18. Mode of execution of documents on foreign company. 19. Conditions precedent to appointment of managing director or chief
 executive officer.
 ARRANGEMENT OF SECTIONS-Continued
 SECTION
-20. Condition precedent to becoming a controller. 21. Central Bank to be notified of appointment, etc. 22. Certificate of registration. 23. Company to notify Central Bank of any change in particulars specified
-in the company's application.
-24. Duty of company to furnish Central Bank with copy of form of policy,
-form of endorsement or form of application.
+20. Condition precedent to becoming a controller. 21. Central Bank to be notified of appointment, etc. 22. Certificate of registration. 23. Company to notify Central Bank of any change in particulars
+specified in the company's application.
+24. Duty of company to furnish Central Bank with copy of form of
+policy, form of endorsement or form of application.
 25. Cancellation of registration. 26. Reasons for refusal or cancellation. 27. Effect of cancellation of registration. 28. Appeals. 29. Amount and form of deposits. 30. Deposits to form part of assets. 31. Application for a release of deposit. 32. Central Bank may release deposit to liquidator or refund deposit to
 company.
 33. Central Bank to furnish certificate of deposit. 34. Increase of deposit on depreciation of securities. 35. Responsibility for lost securities. 36. Substitution of deposit.
@@ -73,9 +73,10 @@ ARRANGEMENT OF SECTIONS-Continued SECTION
 TRANSFER AND AMALGAMATION
 84. Condition precedent to transfer, or amalgamation of insurance
 business.
-85. Scheme to set out terms of agreement or deed. 86. Submission, confirmation and effect of schemes. 87. Return to be made in case of transfer or amalgamation.
+85. Scheme to set out terms of agreement or Deed. 86. Submission, confirmation and effect of schemes. 87. Return to be made in case of transfer or amalgamation.
 PART III
-AGENTS, BROKERS, SALESMEN AND ADJUSTERS 88. Registration of agents, brokers, salesmen and adjusters. 89. Application for registration. 90. Restrictions on registration. 91. Central Bank to register person as salesman, agent, broker or adjuster. 92. Certificate of Registration. 93. Certificate to be produced on request. 94. Intention to cancel registration. 95. Cancellation of registration. 96. Establishment and composition of Tribunal. 97. Appointment of temporary members to Tribunal. 98. Right of appeal to Tribunal in certain cases. SECTION
+AGENTS, BROKERS, SALESMEN AND ADJUSTERS
+88. Registration of agents, brokers, salesmen and adjusters. 89. Application for registration. 90. Restrictions on registration. 91. Central Bank to register person as salesman, agent, broker or adjuster. 92. Certificate of Registration. 93. Certificate to be produced on request. 94. Intention to cancel registration. 95. Cancellation of registration. 96. Establishment and composition of Tribunal. 97. Appointment of temporary members to Tribunal. 98. Right of appeal to Tribunal in certain cases. SECTION
 99. Notice of termination of agency to be given.
 100. Central Bank may request information. 101. Agent or salesman deemed to be agent of insurer. 102. Liability for unlawful contracts. 103. Misleading advertisements. 104. Restriction on payment of compensation for placing or negotiating
 insurance.
@@ -91,21 +92,23 @@ business.
 ISSUE OF POLICIES
 117. Rates of premium. 118. Restriction on commission to be paid or reduction of premium to be
 allowed.
-119. Form of proposal to be approved by the Central Bank. 120. Company may give notice requiring proof of age. 121. Procedure where company declines to accept proof of age tendered. 122. Policy not to be avoided by reason only of mis-statement of age of the
-life insured or other incorrect statement.
+119. Form of proposal to be approved by the Central Bank. 120. Company may give notice requiring proof of age. 121. Procedure where company declines to accept proof of age tendered. 122. Policy not to be avoided by reason only of mis-statement of age of
+the life insured or other incorrect statement.
 ARRANGEMENT OF SECTIONS-Continued
 SECTION
 123. Minors may effect policies or take assignments of policies. 124. Persons who are deemed to have insurable interests.
 ASSIGNMENTS AND MORTGAGES OF POLICIES
 125. Assignment of policies. 126. Effect of notice. 127. Assignment of policy to company not to extinguish rights and
 liabilities.
-128. Policies held by trustees. 129. Memorandum of discharge and deed of release. 130. Existing assignments and notices to continue to have effect.
+128. Policies held by trustees. 129. Memorandum of discharge and Deed of Release. 130. Existing assignments and notices to continue to have effect.
 PROTECTION OF POLICIES
 131. Interest of insured to be protected in certain cases.
-PAID-UP POLICIES, SURRENDER VALUES AND NON-FORFEITURE 132. Application to class of policy. 133. Paid-up policies. 134. Surrender of policies. 135. Central Bank may suspend or vary obligation of company to pay
+PAID-UP POLICIES, SURRENDER VALUES AND
+NON-FORFEITURE
+132. Application to class of policy. 133. Paid-up policies. 134. Surrender of policies. 135. Central Bank may suspend or vary obligation of company to pay
 surrender value.
-136. Non-forfeiture of ordinary policies in certain cases of non-payment
-of premiums.
+136. Non-forfeiture of ordinary policies in certain cases of non-payment of
+premiums.
 137. Non-forfeiture of industrial policy in certain cases of non-payment of
 premiums.
 138. Treatment of debts on issue of paid-up policies.
@@ -119,8 +122,8 @@ PROVISIONS RELATING TO INDUSTRIAL
 LIFE INSURANCE BUSINESS
 145. Objection to policies. 146. Return of industrial policy and premium-receipt book after inspection. 147. Falsification. 148. Avoidance of policy by reason of particulars in proposal filled in by
 agent or servant of a company.
-149. Particulars to be specified in policies. 150. Issue of premium-receipt book. 151. Premium-receipt book to show date to which premiums
-have been paid.
+149. Particulars to be specified in policies. 150. Issue of premium-receipt book. 151. Premium-receipt book to show date to which premiums have
+been paid.
 152. Guarantor not liable to refund commission on lapsed policies. 153. Certificate as to agent's or guarantor's indebtedness not conclusive
 evidence thereof.
 MUTUALISATION
@@ -147,8 +150,8 @@ furnished to Central Bank.
 registration. SECTION
 PART VIII
 MISCELLANEOUS
-195. Jurisdiction of local Courts. 196. Issue of capital by company. 197. Voting by post. 198. Inspection of documents. 199. Documents to be received in evidence. 200. Publication of authorised subscribed and paid-up capital. 201. Power to collect statistics. 202. Serving of notice. 203. Authority to sign documents. 204. Printing of documents. 205. Appeals. 206. Offences. 207. Offence to sign false document. 208. Consequence of non-compliance with section 42. 209. Offence to induce person to enter into insurance contract by means of
-false statement.
+195. Jurisdiction of local Courts. 196. Issue of capital by company. 197. Voting by post. 198. Inspection of documents. 199. Documents to be received in evidence. 200. Publication of authorised subscribed and paid-up capital. 201. Power to collect statistics. 202. Serving of notice. 203. Authority to sign documents. 204. Printing of documents. 205. Appeals. 206. Offences. 207. Offence to sign false document. 208. Consequence of non-compliance with section 42. 209. Offence to induce person to enter into insurance contract by means
+of false statement.
 210. Restriction on issuing insurance advertisement. 211. Person who issues insurance advertisement on behalf of another is
 guilty of offence unless contents not devised by him.
 212. Director, etc., deemed to be guilty of offence. 213. Penalties. 214. Regulations.
