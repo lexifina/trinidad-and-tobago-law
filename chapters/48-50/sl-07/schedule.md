@@ -8,7 +8,7 @@ COUNTY OF MAYARO
 A. In a westerly direction only
 Pierreville Village Street in the Ward of Guayaguayare.
 B. In an easterly direction only
-1. Naparima-Mayaro Road in the Ward of Guayaguayare, from its intersection with Pierreville Village Street at its eastern end to the intersection with that Street at its western end. [Subsidiary] One-Way Traffic Order
+1. Naparima-Mayaro Road in the Ward of Guayaguayare, from its intersection with Pierreville Village Street at its eastern end to the intersection with that Street at its western end. [Subsidiary ] One-Way Traffic Order
 PART C
 COUNTY OF NARIVA
 Nil
@@ -26,7 +26,8 @@ D. In a westerly direction only
 1. Eastern Main Road, Sangre Grande, from its junction with Ojoe Road and Toco Road at the Roundabout on the East to the junction of Old Railway Road West, between 6.00 a.m. and 6.00 p.m. daily.
 2. Mary Street from Cunapo Southern Road to George Street, Sangre Grande, between 6.00 a.m. and 6.00 p.m. daily.
 E. In a northerly then easterly direction
-1. Old Railway Road West-i.e., in a northerly direction from the Eastern Main Road, to the first bend, then in an easterly direction to Riverside Extension Road, between 6.00 a.m. and 6.00 p.m. daily. One-Way Traffic Order [Subsidiary]
+1. Old Railway Road West-i.e., in a northerly direction from the Eastern Main Road, to the first bend, then in an easterly direction to Riverside Extension Road, between 6.00 a.m. and 6.00 p.m. daily.
+[Subsidiary ] One-Way Traffic Order
 PART E
 COUNTY OF ST. DAVID
 A. In a northerly direction only
@@ -48,7 +49,7 @@ COUNTY OF ST. GEORGE WEST
 A. In a northerly direction only
 1. Hubert Lane between Gloster Lodge Road and Hermitage Road, Belmont.
 2. Norfolk Street between Erthig Road and Belmont Circular Road, Belmont.
-3. Duncan Street between Independence Square South and Prince Street in the City of Port-of-Spain. [Subsidiary] One-Way Traffic Order
+3. Duncan Street between Independence Square South and Prince Street in the City of Port-of-Spain. [Subsidiary ] One-Way Traffic Order
 COUNTY OF ST. GEORGE WEST-Continued
 4. George Street between South Quay and Duke Street in the City of Port-of-Spain.
 5. Henry Street from South Quay to Gordon Street in the City of Port-of-Spain.
@@ -63,7 +64,8 @@ COUNTY OF ST. GEORGE WEST-Continued
 14. Hamilton Holder Street and O'Connor Street between Wrightson
 Road and Ariapita Avenue, Woodbrook.
 15. Gatacre Street, Woodbrook. 16. Alfredo Street, Woodbrook 17. Rosalino Street, Woodbrook. 18. Gallus Street, Woodbrook. 19. Petra Street between Warren Street and Ariapita Avenue, Woodbrook. 20. Damian Street between Warren Street and Kelly Kenny Street, Woodbrook.
-21. Henry Pierre Street, Mucurapo. 22. Benares Street, St. James. One-Way Traffic Order [Subsidiary]
+21. Henry Pierre Street, Mucurapo. 22. Benares Street, St. James.
+[Subsidiary ] One-Way Traffic Order
 23. Coronation Street from Mucurapo Road to Western Main Road, St. James.
 24. El Socorro Road, San Juan between the priority bus route and the Eastern Main Road.
 25. Colda Tinda Avenue between Eastern Main Road and Second Street, San Juan.
@@ -80,21 +82,20 @@ B. In a southerly direction only
 9. Frederick Street between Keate Street and Independence Square North in the City of Port-of-Spain.
 10. Chacon Street between Queen Street and Beetham Highway in the City of Port-of-Spain.
 11. St. Vincent Street between Gordon Street and Independence Square North in the City of Port-of-Spain.
-12. Dundonald Street between Queen's Park West and Tragarete Road in the City of Port-of-Spain. [Subsidiary] One-Way Traffic Order
+12. Dundonald Street between Queen's Park West and Tragarete Road in the City of Port-of-Spain. [Subsidiary ] One-Way Traffic Order
 COUNTY OF ST. GEORGE WEST-Continued
 13. Richmond Street between Fraser Street and Independence Square South in the City of Port-of-Spain.
 14. Scott-Bushe Street South Extension between Charles Street and the intersection of Wrightson Road and Sackville Street.
-15. Luis Street, Woodbrook. 16. White Street, Woodbrook. 17. Alberto Street, Woodbrook. 18. Ana Street between Warren Street and Wrightson Road, Woodbrook. 19. O'Connor Street between Warren Street and Ariapita Avenue, Woodbrook.
-20. De Verteuil Street and Dennis Mahabir Street between Ariapita Avenue and Wrightson Road.
-21. Gaston Johnson Street, Mucurapo. 22. Lucknow Street, St. James. 23. Luckput Street from Western Main Road, St. James to Mucurapo Road.
-24. Ethel Street, St. James between Pujadas Street and Mucurapo Road. 25. Bridge Road, San Juan between Eastern Main Road and Maloney Street, between 3.00 p.m. and 6.00 p.m. daily.
+15. Luis Street, Woodbrook. 16. White Street, Woodbrook. 17. Alberto Street, Woodbrook. 18. Ana Street between Warren Street and Wrightson Road, Woodbrook. 19. O'Connor Street between Warren Street and Ariapita Avenue, Woodbrook. 20. De Verteuil Street and Dennis Mahabir Street between Ariapita Avenue and Wrightson Road.
+21. Gaston Johnson Street, Mucurapo. 22. Lucknow Street, St. James. 23. Luckput Street from Western Main Road, St. James to Mucurapo Road. 24. Ethel Street, St. James between Pujadas Street and Mucurapo Road. 25. Bridge Road, San Juan between Eastern Main Road and Maloney Street, between 3.00 p.m. and 6.00 p.m. daily.
 26. Broome Street, San Juan between Eastern Main Road and Maloney Street, between 3.00 p.m. and 6.00 p.m. daily.
 27. Savannah Street between Neverson Street and Bridge Road.
 C. In an easterly direction only
 1. Meyler Street, Belmont. 2. Belmont Circular Road from Charlotte Street to Observatory Street, Belmont.
 3. Queen's Park West between Frederick Street and Charlotte Street in the City of Port-of-Spain.
 4. New Street in the City of Port-of-Spain between Dundonald Street and Charlotte Street.
-5. Park Street between St. Vincent Street and Charlotte Street in the City of Port-of-Spain. One-Way Traffic Order [Subsidiary]
+5. Park Street between St. Vincent Street and Charlotte Street in the City of Port-of-Spain.
+[Subsidiary ] One-Way Traffic Order
 6. Tragarete Road between Edward Street and St. Vincent Street in the City of Port-of-Spain.
 7. Knox Street between Abercromby Street and Frederick Street in the City of Port-of-Spain.
 8. Prince Street in the City of Port-of-Spain. 9. Sackville Street between Wrightson Road and Richmond Street in the City of Port-of-Spain.
@@ -108,7 +109,7 @@ D. In a westerly direction only
 3. Keate Street between Charlotte Street and Frederick Street in the City of Port-of-Spain.
 4. Oxford Street between Observatory Street and Dundonald Street in the City of Port-of-Spain.
 5. Fraser Street in the City of Port-of-Spain. 6. Kew Place between Longden Street and Park Street in the City of Port-of-Spain.
-7. Park Street between St. Vincent Street and Edward Street in the City of Port-of-Spain. [Subsidiary] One-Way Traffic Order
+7. Park Street between St. Vincent Street and Edward Street in the City of Port-of-Spain. [Subsidiary ] One-Way Traffic Order
 COUNTY OF ST. GEORGE WEST-Continued
 8. Duke Street between Charlotte Street and Richmond Street in the City of Port-of-Spain.
 9. Hart Street between Frederick Street and Abercromby Street in the City of Port-of-Spain.
@@ -121,7 +122,8 @@ COUNTY OF ST. GEORGE WEST-Continued
 16. Marli Street, St. Clair from Queen's Park West to Maraval Road in the City of Port-of-Spain.
 17. Methuen Street, Woodbrook. 18. Kelly Kenny Street, Woodbrook. 19. Hamilton Street, Woodbrook. 20. Avenue First, St. James from Ethel Street to Bay Road. 21. First Street between Second Street and First Avenue, San Juan. 22. First Street between Eastern Main Road and Saddle Road, San Juan. 23. Eastern Main Road from the intersection with the Old St. Joseph Road at its eastern end to the intersection with that road at its western end between the hours of 6.00 a.m. and 9.00 a.m. daily excluding Sundays and public holidays.
 24. Ariapita Avenue, Woodbrook, between Belle-Smythe Street and Taylor Street.
-25. Warren Street, Woodbrook, between Taylor Street and Belle-Smythe Street, between 6.00 a.m. and 9.00 a.m. and between 3.00 p.m. and 6.00 p.m. daily. One-Way Traffic Order [Subsidiary]
+25. Warren Street, Woodbrook, between Taylor Street and Belle-Smythe Street, between 6.00 a.m. and 9.00 a.m. and between 3.00 p.m. and 6.00 p.m. daily.
+[Subsidiary ] One-Way Traffic Order
 26. Bridge Road between Savannah Street and Neverson Street. 27. Maloney Street between Eastern Main Road and Bushe Street.
 PART H
 COUNTY OF ST. PATRICK
@@ -140,7 +142,7 @@ A. In a northerly direction only
 B. In a southerly direction only
 1. Burnett Street between Carrington and Main Streets, Scarborough. 2. Bacolet Street between Piggott and Main Streets, Scarborough. 3. Entry Street to Customs Area, Scarborough.
 C. In a westerly direction only
-1. Piggott Street between Bacolet and Robinson Streets, Scarborough. 2. Piggott Street between Jerningham and Burnett Streets, Scarborough. 3. Ross Street, Scarborough. [Subsidiary] One-Way Traffic Order
+1. Piggott Street between Bacolet and Robinson Streets, Scarborough. 2. Piggott Street between Jerningham and Burnett Streets, Scarborough. 3. Ross Street, Scarborough. [Subsidiary ] One-Way Traffic Order
 PART J
 COUNTY OF VICTORIA
 A. In a northerly direction only
@@ -161,6 +163,6 @@ C. In a south-easterly direction only
 D. In an easterly direction only
 1. San Fernando Street, San Fernando. 2. St. James Street between High Street and Quenca Street, San Fernando.
 3. High Street between Chancery Lane and the Library Corner, San Fernando.
-One-Way Traffic Order [Subsidiary]
+[Subsidiary ] One-Way Traffic Order
 4. Harris Promenade South, San Fernando. 5. Lord Street between Paradise Street and Mucurapo Street, San Fernando. 6. Carib Street, San Fernando.
-In a westerly direction only 1. St. James Street between Pointe-a-Pierre Road and Quenca Street, San Fernando. 2. High Street between Chancery Lane and Queen Street, San Fernando. 3. Harris Promenade North, San Fernando. 4. Library Street, San Fernando. 5. Lord Street between Coffee Street and Mucurapo Street, San Fernando. 6. Johnstone Street, San Fernando. [Subsidiary]
+In a westerly direction only 1. St. James Street between Pointe-a-Pierre Road and Quenca Street, San Fernando. 2. High Street between Chancery Lane and Queen Street, San Fernando. 3. Harris Promenade North, San Fernando. 4. Library Street, San Fernando. 5. Lord Street between Coffee Street and Mucurapo Street, San Fernando. 6. Johnstone Street, San Fernando. [Subsidiary ]

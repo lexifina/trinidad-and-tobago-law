@@ -3,16 +3,11 @@ INSPECTION STICKER
 INSPECTION PASSED INSPECTION PASSED
 MINISTRY OF WORKS AND TRANSPORT
 TRANSPORT DIVISION
-Jan
-Jul
-Feb
-Aug
-Mar
-Sep
-Apr
-Oct
-May Nov
+Jan Jul
+Feb Aug
+Sep Mar
+Apr Oct
+Nov May
 Jun Dec
 TRINIDAD & TOBAGO
-Registration No. Inspected
-[Subsidiary] Motor Vehicles and Road Traffic Regulations
+Registration No. Inspected [Subsidiary ] Motor Vehicles and Road Traffic Regulations

@@ -1,0 +1,14 @@
+# FORM 8
+6
+5
+4
+3
+2
+1
+[Subsidiary ] Motor Vehicles and Road Traffic Regulations
+- Margin: ADDRESS OWNER OF
+- Margin: OWNER NAME OF
+- Margin: NUMBER OF REGISTERED VEHICLE
+- Margin: CERTIFICATE DATE OF ISSUED
+- Margin: INSPECTION DATE OF FIRST
+- Margin: NUMBER OF CERTIFICATE ISSUED
