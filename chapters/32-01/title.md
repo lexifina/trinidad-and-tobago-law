@@ -12,13 +12,14 @@ Amended by
 **18 of 1993
 9 of 1999
 9 of 2004
+30 of 2007
 *See Note on Health Surcharge on page 3 **See Note on Act No. 18 of 1993 on page 3
 Index of Subsidiary Legislation
-Page National Insurance (Registration) Regulations (LN 27/2004) … … 81 National Insurance (Contribution) Regulations (GN 63/1972) … … 88 National Insurance (Medical Expenses) Regulations (GN 95/1977) … 103 National Insurance (Employment Injury)(Payment of Medical Expenses)
-Order (GN 226/1979) ... 107 National Insurance (Prescribed Diseases) Regulations (GN 94/1977) … 112 National Insurance (Benefits) Regulations (GN 77/1972) … … 127 National Insurance (Harmonisation of Pension Fund Plans) Regulations
-(GN 49/1972) ... 155 National Insurance (Appeals) Regulations (LN 131/1980) … … 158 National Insurance (CARICOM Reciprocal Agreement on Social Security)
-Order (LN 140/1998) ... 168 National Insurance (Agreement and Administrative Arrangement on
-Social Security between Canada and Trinidad and Tobago) Order (LN 21/1999) ... 195
+Page National Insurance (Registration) Regulations (LN 27/2004) … … 84 National Insurance (Contribution) Regulations (GN 63/1972) … … 91 National Insurance (Medical Expenses) Regulations (GN 95/1977) … 106 National Insurance (Employment Injury)(Payment of Medical Expenses)
+Order (GN 226/1979) ... 110 National Insurance (Prescribed Diseases) Regulations (GN 94/1977) … 115 National Insurance (Benefits) Regulations (GN 77/1972) … … 130 National Insurance (Harmonisation of Pension Fund Plans) Regulations
+(GN 49/1972) ... 158 National Insurance (Appeals) Regulations (LN 131/1980) … … 161 National Insurance (CARICOM Reciprocal Agreement on Social Security)
+Order (LN 140/1998) ... 171 National Insurance (Agreement and Administrative Arrangement on Social
+Security between Canada and Trinidad and Tobago) Order (LN 21/1999) 198
 Note on Commencement Date
 The following are the relevant commencement dates:
 (a) 15th November 1971-GN 223/1971 Section 1 to section 27, the provisions of Part II (i.e., section 28 to section 35) save in their application to self-employed persons and the provisions of sections 58, 64 and 71 came into operation on 15th November 1971 [GN 223/1971].
@@ -26,7 +27,8 @@ The following are the relevant commencement dates:
 (c) 15th January 1973-GN 6/1973
 Section 46 (1)(a) and (b) came into operation on 15th January 1973.
 (See GN 6/1973 see also 27 of 1974).
-(d) 16th July 1973-GN 108/1973 Section 46 (1)(g) came into operation on 16th July 1973 [GN 108/1973].
+(d) 16th July 1973-GN 108/1973
+Section 46 (1)(g) came into operation on 16th July 1973 [GN 108/1973].
 (e) 10th December 1974-27 of 1974 Sections 39 and 40 came into operation on 10th December 1974 [27 of 1974].
 (f) 17th February 1975-GN 21/1975 Section 46(1)(e) came into operation on 17th February 1975 [GN 21/1975].
 Note on Health Surcharge
@@ -36,6 +38,12 @@ In 1987, however, Act No. 14 of 1987 the Finance Act, made provisions for the ad
 For the same reason, LN 84/1984 which introduced the Health Surcharge Regulations is not being published.
 Note on Act No. 18 of 1993
 See sections 62 and 65 of, and the Third Schedule to, Act No. 18 of 1993.
+Note on LN No. 31 of 2006
+Legal Notice No. 213 of 1999 repealed subclause (g) of Clause 1 of the First Schedule. However, Legal Notice No. 31 of 2006 sought to amend the said subclause (g) which is an anomaly.
+Note on LN No. 32 of 2006
+Legal Notice No. 32 of 2006 purports to amend Clause 1 of the Second Schedule, but the Second Schedule consists only of Tables and does not include any clauses.
+Note on Act No. 30 of 2007
+Section 2 of Act No. 30 of 2007 provides that the amendments to sections 2, 29, 30, 35, 38, 39, 41, 46 and 54 shall come into effect from 7th January 2008.
 CHAPTER 32:01
 NATIONAL INSURANCE ACT
 ARRANGEMENT OF SECTIONS SECTION
@@ -74,7 +82,7 @@ BENEFITS
 46. Benefits. 47. Industrial disease. 48. Prescribed disease benefit. 49. Benefits to be inalienable.
 49A. Recovery of excess payment.
 50. Benefit lost by employer's default. 51. Accidents happening while acting in breach of regulations, etc. 52. Accidents happening while travelling in employer's transport. 53. Accident happening while meeting emergency. 54. Rates of benefit.
-54A. Benefit in accordance with earnings class.
+54A. Benefit in accordance with earnings class. 54B. Benefits in accordance with earnings class from 7th January 2008.
 55. Regulations in respect of benefits. 56. Amendment of rates.
 PART IV
 MISCELLANEOUS
