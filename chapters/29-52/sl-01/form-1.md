@@ -14,4 +14,5 @@ and I am satisfied that the said designated area conforms with the requirements 
 I HEREBY RECOMMEND that a licence to sell OTC drugs be granted to the above-named shopkeeper.
 ...
 (Inspector)
-Dated this ... day of ..., 20... [Subsidiary] Pharmacy Board (Sale of OTC Drugs) Regulations
+Dated this ... day of ..., 20...
+Pharmacy Board (Sale of OTC Drugs) Regulations

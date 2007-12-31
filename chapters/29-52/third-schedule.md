@@ -5,7 +5,7 @@ thereof except external
 Ether, except Commercial
 preparations containing less than
 Ethyl Chloride
-0.2 per cent aconitine.
+0.2 per cent aconitine
 Glycosides or Alkaloids: all Alkaloids or Glycosides: all
 poisonous vegetable alkaloids or
 poisonous vegetable alkaloids or
@@ -16,7 +16,7 @@ mentioned elsewhere in these
 their salts of all poisonous
 Schedules or their salts or all
 derivatives thereof
-poisonous derivatives thereof.
+poisonous derivatives thereof
 Henna Berries Amyl Nitrite
 Hydrocyanic (Prussic) acid Antimony or compounds
 Hyoscyamis or preparations or Arsenic or preparations or
@@ -24,14 +24,15 @@ compounds thereof, except as
 compounds thereof, except as
 provided in Part II of this Schedule
 provided in Part II of this Schedule
-Hyoscine (Scopoloamine) or its salts Atropine or its salts and internal
-and internal preparations
+Hyoscine (Scopoloamine) or its Atropine or its salts and internal
+salts and internal preparations
 preparations containing more than
-containing more than 0.325 mg per
+containing more than 0.325 mg
 0.13 mg per stated dose or other
-stated dose or inhalant preparations preparations containing more than containing more than 0.05 per cent 0.1 per cent by weight by weight Belladonna or preparations or
-Lobelia or alkaloids or preparations compounds thereof except plasters
-thereof, except internal and except as provided in Part II preparations containing not more of this Schedule than the equivalent of 2 mg per Cantharides or its derivatives or stated dose of lobeline and external preparations preparations containing not more Carbon disulﬁde
+per stated dose or inhalant preparations containing more than preparations containing more than 0.1 per cent by weight 0.05 per cent by weight Belladonna or preparations or
+Lobelia or alkaloids or preparations compounds thereof except
+thereof, except internal plasters and except as provided in preparations containing not more Part II of this Schedule than the equivalent of 2 mg per Cantharides or its derivatives or
+stated dose of lobeline and external preparations preparations containing not more Carbon disulﬁde
 than the equivalent of 6 grains per Chloroform, except when in internal
 stated dose of crude lobelia
 preparations as therapeutic
@@ -39,8 +40,8 @@ Mercurial Salts, except Calomel
 ingredient or preservative
 Mercury, oxides thereof Conium or preparations thereof
 Nitroglycerin, except in tablet form Cottonroot, the oil, derivatives or
-preparations Nux Vomica or preparation thereof Croton oil Oil of Bitter Almonds, unless
-deprived of Hydrocyanic (Prussic) Cyanides, other than complex salts Acid thereof
+Nux Vomica or preparation thereof preparations Croton oil Oil of Bitter Almonds, unless
+deprived of Hydrocyanic Cyanides, other than complex salts (Prussic) Acid thereof
 Oil of Croton Digitalis, its glycosides, or
 preparations of either Emetine Oxalic Acid
 PART I-Continued
@@ -52,7 +53,7 @@ preparations or 5 per cent or less
 Stramonium or preparations thereof,
 Picrotoxin
 except when in internal Potassium Antimonyltartarate (Tartar preparations as a therapeutic
-Emetic) except when in internal ingredient containing not more preparations as a therapeutic than 0.16 mg per stated dose ingredient containing not more
+Emetic) except when in internal ingredient containing not more than preparations as a therapeutic 0.16 mg per stated dose ingredient containing not more
 Strophanthus or preparations thereof
 than 3.3 mg per stated dose
 Strychnine or its salts in preparations Potassium Chlorate
@@ -72,9 +73,7 @@ Lead salts or preparations
 recognised therapeutic dosage
 Mercurous Chloride (Calomel)
 forms and when in doses not
-Mercury
-exceeding those generally
-Mercury with chalk recognised as safe medication Atropine or its salts and internal Nitrobenzene (when labelled as such
+Mercury exceeding those generally Mercury with chalk recognised as safe medication Atropine or its salts and internal Nitrobenzene (when labelled as such
 preparations containing not more
 or as notrobenzol or as oil or
 than 0.13 mg per stated dose or
@@ -88,32 +87,27 @@ including chloride and sulphide
 is poisonous when taken internally, Belladonna when combined with
 inhaled or in contact with the skin.
 other medical ingredients in
-Handle with care and avoid skin
-recognised therapeutic dosage
-contact and inhalation of vapours forms and when in doses not
+Handle with care and avoid skin recognised therapeutic dosage contact and inhalation of vapours forms and when in doses not
 exceeding those generally
 Nitroglycerine in tablet form
 recognised as safe medication.
 Phenol in preparations under 5 per cent Bromides, salts, compounds or
-Phosphorous in free state
-derivatives
-Potassium Hydroxide Cedar oil from leaf or wood
-Potassium Nitrite Chenopodium or preparations
-Rubbing alcohol compound Colchium or Colchicine
-Sabadilla seeds Copper salts or compounds, except
+Phosphorous in free state derivatives Potassium Hydroxide Cedar oil from leaf or wood Potassium Nitrite Chenopodium or preparations Rubbing alcohol compound Colchium or Colchicine Sabadilla seeds Copper salts or compounds, except
 Silver salts or preparations
 in trace amounts
 Sodium Hydroxide Creosote or preparations thereof
-Sodium Nitrite Cresol (Cresylic Acid) or its Stavesacre
+Sodium Nitrite Cresol (Cresylic Acid) or its
+Stavesacre
 preparations, the homologues of
 Strychnine when combined with
 Cresol or their preparations when
 other medicinal ingredients in
 stronger than 5 per cent Cresol
 recognised therapeutic dosage Digitalis or derivatives
-forms and in doses not exceeding Ephedrine, or its salts, except when
-those generally recognised as safe
+forms and in doses not exceeding Ephedrine, or its salts, except when those generally recognised as safe
 in inhalant form or in internal
 medication
-preparations containing not more than 11 mg per stated dose Zinc salts except in trace amounts.
+preparations containing not more
+Zinc salts except in trace amounts.
+than 11 mg per stated dose
 - Margin: Section 32.
