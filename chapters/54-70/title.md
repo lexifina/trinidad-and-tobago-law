@@ -4,7 +4,7 @@ CHAPTER 54:70
 Act
 42 of 1945 Amended by 32 of 1952 49 of 1952 26 of 1954 15 of 1958 25 of 1960 8 of 1961 16 of 1962 9 of 1969 31 of 1972 45 of 1979 11 of 1988 37 of 1989 28 of 1994 32 of 1994
 Note on Subsidiary Legislation
-Subsidiary Legislation made under sections 10, 31, 33 and 34A have been omitted. See the Current Edition of the Consolidated Index of Acts and Subsidiary Legislation for references to these Subsidiary Legislation.
+Subsidiary Legislation made under sections 10, 31, 33, 34A and 34B have been omitted. See the Current Edition of the Consolidated Index of Acts and Subsidiary Legislation for references to these Subsidiary Legislation.
 Note on Repealed Ordinances
 The following Ordinances, namely:
 (a) Trinidad Electricity Board Ordinance (Ch. 37. No. 5) (1940 Rev. Ed.);
@@ -78,8 +78,7 @@ etc., on behalf of Commission.
 of supply.
 49. Reduction of energy. 50. Supply of energy to public lamps. 51. Price for supply to public lamps.
 PRICE
-52. Methods of charging for supply. 53. Tariff of prices for electricity.
-53A. (Repealed by Act No. 37 of 1989).
+52. Methods of charging for supply. 53. Tariff of prices for electricity. (Repealed by Act No. 37 of 1989). 53A.
 ARRANGEMENT OF SECTIONS-Continued
 SECTION
 54. Charges by agreement. 55. Electric Inspector to certify meters. 56. Commission to supply meters if required. 57. Meters not to be connected or disconnected without notice. 58. Commission to keep meters in repair. 59. Differences as to correctness of meter to be settled by Electric
