@@ -9,13 +9,13 @@ This Chapter contains no subsidiary legislation.
 Note on Schedule of Offices
 The Schedule to this Act is consolidated as at 31st December 1977. It will not be updated annually as the amendments are numerous and frequent and of limited interest to the general public. The amending Notifications since 31st December 1977, are as follows:
 GNs 171/1978, 1/1979, 168/1979, 193/1979 and LNs 6/1980, 32/1984, 45/1985,
-223/1986, 65, 66/1987, 45, 80, 119, 163 and 166/1989, 86, 203, 205 and 206/1990, 55, 65/1991, 54, 106/1993, 143/1995, 52, 119 and 146/1996, 16, 29, 38 and 79/1997, 26, 141, 142, 218 and 270/1998, 115/1999, 293 and 301/2000; 157/2001; 95/2004. N.B. See the Current Edition of the Consolidated Index of Acts and Subsidiary Legislation for references to Pensionable Offices under the Act.
+223/1986, 65, 66/1987, 45, 80, 119, 163 and 166/1989, 86, 203, 205 and 206/1990, 55, 65/1991, 54, 106/1993, 143/1995, 52, 119 and 146/1996, 16, 29, 38 and 79/1997, 26, 141, 142, 218 and 270/1998, 115/1999, 293 and 301/2000; 157/2001; 95/2004, 47, 271 and 277/2005; 28, 54, 122 and 193/2006. N.B. See the Current Edition of the Consolidated Index of Acts and Subsidiary Legislation for references to Pensionable Offices under the Act.
 CHAPTER 23:53
 PENSIONS EXTENSION ACT
 ARRANGEMENT OF SECTIONS SECTION
-1. Short title. 2. Interpretation. 3. Application of Pensions Act. 4. Service under specified bodies preceding pensionable service. Continuous service.
-5. Depositor to Provident Fund may elect to continue to be a depositor. 6. Transfer from Provident Fund to Pensions Act. 7. Computation of pension benefits for retired officers. 8. Application of Provident Fund Act. 9. Variation of Schedule.
-10. Avoidance of double payment.
+1. Short title. 2. Interpretation. 3. Application of Pensions Act. 4. Service under specified bodies preceding pensionable service.
+Continuous service.
+5. Depositor to Provident Fund may elect to continue to be a depositor. 6. Transfer from Provident Fund to Pensions Act. 7. Computation of pension benefits for retired officers. 8. Application of Provident Fund Act. 9. Variation of Schedule. 10. Avoidance of double payment.
 SCHEDULE.
 
 CHAPTER 23:53
