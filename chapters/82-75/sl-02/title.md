@@ -1,4 +1,4 @@
 PROTECTION OF NEW PLANT
 VARIETIES ORDER
 made under section 8
-- Margin: 124/1998. [138/2004].
+- Margin: 124/1998. [138/2004 34/2006].

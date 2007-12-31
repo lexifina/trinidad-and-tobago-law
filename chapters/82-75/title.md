@@ -2,9 +2,8 @@ PROTECTION OF NEW PLANT
 VARIETIES ACT
 CHAPTER 82:75
 Act
-7 of 1997
-Amended by
-18 of 2000
+7 of 1997 Amended by 18 of 2000
+81 1/2009
 Index of Subsidiary Legislation
 Page Protection of New Plant Varieties Regulations (LN 298/2000) … … 32 Protection of New Plant Varieties Order (LN 124/1998) … … … 81
 CHAPTER 82:75
@@ -31,7 +30,8 @@ SCOPE AND DURATION OF THE
 BREEDER'S RIGHT
 15. Scope of the Breeder's Right. 16. Maintenance of propagating material. 17. Period of protection. 18. Renewal fees.
 PART VI
-TERMINATION, ANNULMENT AND FORFEITURE 19. Termination of protection, annulment and forfeiture of rights.
+TERMINATION, ANNULMENT AND FORFEITURE
+19. Termination of protection; annulment and forfeiture of rights.
 PART VII
 PROCEDURES BEFORE THE OFFICE
 20. Application. 21. Priority. 22. Documents and material to be furnished for priority. 23. Application to be in English.
