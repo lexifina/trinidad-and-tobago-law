@@ -4,13 +4,8 @@ Act
 19 of 1954 Amended by
 6 of 1963 15/1955 102/1977 45 of 1979 17 of 1997
 Index of Subsidiary Legislation
-Page Equine Influenza (Infected Places) Orders:
-[LN 30/1986-(Santa Rosa Paddock)] ... 18 [LN 31/1986-(Queen's Park Paddock)] ... 18 [LN 32/1986-(Union Park Paddock)] ... 19 [LN 57/1994-(Paradise Farm, Carapo)] ... 19 [LN 58/1994-(Trinidad Race Club Santa Rosa Park, O'Meara)] … 20 [LN 59/1994-(Highclaire Stud Farm, Ragoonanan Road, Enterprise)] … 20 Diseases of Animals (Veterinary Export Certificates) Regulations
-(GN 128/1949) ... 21 Fowl Pest Order (GN 164/1952) ... 22 Anthrax Regulations (GN 28/1955) ... 31 Swine Fever Regulations (GN 29/1955) ... 38 Epizootic Abortion Regulations (GN 30/1955) ... 44 Foot and Mouth Disease Regulations (GN 60/1955) … … … 45 Paralytic Rabies Regulations (GN 50/1956) ... 62 Equine Encephalomyelitis Regulations (GN 21/1960) … … … 66 Tuberculosis in Cattle and Goats Regulations (GN 15/1967) … … 69 Bovine Brucellosis or Contagious Abortion (Eradication) Regulations
-(LN 108/2003) ... 70 Amblyomma Variegatum (Prevention and Control Regulations)
-(LN 31/1998) ... 79 Importation of Frozen Carcases and Boiling of Animal Foodstuffs
-Regulations (G 24.12.31; GN 27/1955) ... 86 Animals (Importation) Control Regulations (GN 27/1955) … … 88 Importation of Poultry and Non-Poultry Products Permit Notice
-(LN 233/1986) ... 107 Poultry (Application of Act) Order (GN 16/1955) … … … 109
+Page Equine Influenza (Infected Places) Orders: [LN 30/1986-(Santa Rosa Paddock)] ... 18 [LN 31/1986-(Queen's Park Paddock)] ... 18 [LN 32/1986-(Union Park Paddock)] ... 19 [LN 57/1994-(Paradise Farm, Carapo)]... 19 [LN 58/1994-(Trinidad Race Club Santa Rosa Park, O'Meara)] … 20 [LN 59/1994-(Highclaire Stud Farm, Ragoonanan Road, Enterprise)] … 20 Diseases of Animals (Veterinary Export Certificates) Regulations (GN 128/1949) ... 21 Fowl Pest Order (GN 164/1952) ... 22 Anthrax Regulations (GN 28/1955) ... 31 Swine Fever Regulations (GN 29/1955) ... 38 Epizootic Abortion Regulations (GN 30/1955) ... 44 Foot and Mouth Disease Regulations (GN 60/1955) … … … 45 Paralytic Rabies Regulations (GN 50/1956) ... 62 Equine Encephalomyelitis Regulations (GN 21/1960) … … … 66 Tuberculosis in Cattle and Goats Regulations (GN 15/1967) … … 69 Bovine Brucellosis or Contagious Abortion (Eradication) Regulations
+(LN 108/2003) ... 70 Amblyomma Variegatum (Prevention and Control) Regulations (LN 31/1998) ... 79 Importation of Frozen Carcases and Boiling of Animal Foodstuffs Regulations (G 24.12.31; GN 27/1955) ... 86 Animals (Importation) Control Regulations (GN 27/1955) … … 88 Importation of Poultry and Non-Poultry Products Permit Notice (LN 233/1986) ... 107 Poultry (Application of Act) Order (GN 16/1955) … … … 109
 Note on Infected Places Orders
 The various Infected Places Orders made under section 5 should be read in the light of the amendments made to that section.
 Note on Adaptation
@@ -31,16 +26,15 @@ ANIMALS
 PART III
 IMPORTATION
 14. Prohibition of importation of birds, etc. 15. Regulations controlling the importation of animals, etc. 16. Import licences for birds, etc. 17. Quarantine stations. 18. Imported animals, etc., to be quarantined.
-ARRANGEMENT OF SECTIONS-Continued
-SECTION
+ARRANGEMENT OF SECTIONS-Continued SECTION
 PART IV
 GENERAL
 19. Powers of apprehension. 20. Powers of Inspector. 21. Offences. 22. Penalty. 23. Regulations to be laid before Parliament. 24. Transport through infected or infested places and areas. 25. Power to apply Act to poultry. 26. Bees. 27. Saving.
 SCHEDULE.
 CHAPTER 67:02
 ANIMALS (DISEASES AND IMPORTATION) ACT
-An Act to make further and better provisions for controlling the
-Importation of Animals, Birds, Reptiles and Insects, and for regulating the treatment and disposal of animals which are suffering or are suspected to be suffering from any disease, and for other matters related thereto or connected therewith.
+An Act to make further and better provisions for controlling
+the Importation of Animals, Birds, Reptiles and Insects, and for regulating the treatment and disposal of animals which are suffering or are suspected to be suffering from any disease, and for other matters related thereto or connected therewith.
 [15TH MARCH 1955]
 *1. This Act may be cited as the Animals (Diseases and Importation) Act.
 PART I
@@ -51,10 +45,10 @@ of the carcase or of the meat, bones, hide, skin, hoofs, horns, offal or other p
 water buffalo; "defined port" means a port as defined by any Regulation made
 under section 15; "disease" means any disease for the time being included in the
 Schedule; "diseased" means affected with disease; "feline animals" means cats and all other animals of the feline
-tribe, wild or domesticated; "fodder" means grass, hay or any other substance commonly used
-for the food of animals;
-*See GN 16/1955 for an application of this Act to poultry. "foreign" as applied to animals and things means brought to Trinidad
-and Tobago from any place outside Trinidad and Tobago; "infestation" means the presence of insects or arachnids
+tribe, wild or domesticated; "fodder" means grass, hay or any other substance commonly
+used for the food of animals;
+*See GN 16/1955 for an application of this Act to poultry. "foreign" as applied to animals and things means brought to
+Trinidad and Tobago from any place outside Trinidad and Tobago; "infestation" means the presence of insects or arachnids
 particularly ticks which are likely to cause any of the diseases listed in the Schedule; "infested" means being subject to an infestation; "infested area" means an area declared as such under section 6; "infested place" means a place declared as such under section 5; "litter" means straw or any other substance commonly used for
 bedding for or otherwise used for or about animals; "poultry" means domestic fowls, turkeys, geese, ducks, guinea
 fowls and pigeons; "suspected" means suspected of being diseased.
@@ -67,8 +61,8 @@ ANIMALS
 4. (1) Any person having in his possession or under his charge any diseased or infested animal shall-
 (a) as far as practicable keep such animal separate
 from animals not so diseased or infested; and
-(b) with all practicable speed give notice of the fact of
-the animal being so diseased or infested to the Inspector or to the person in charge of the nearest police station.
+(b) with all practicable speed give notice of the fact
+of the animal being so diseased or infested to the Inspector or to the person in charge of the nearest police station.
 (2) The person to whom notice under subsection (1) is given, if not the Inspector, shall forthwith give information thereof to the Inspector.
 5. (1) Where the Inspector suspects that any disease or infestation exists in any stable, shed, pen, field, pasture, or other similar place, he shall forthwith sign a notice to that effect and the notice shall contain a declaration that such place, the limits whereof shall be therein specified, is an infected or infested place. The Inspector shall serve a copy of the notice, or cause the same to be served, upon the occupier of such place.
 (2) Upon the service of the notice, the place therein specified shall be an infected or infested place subject to confirmation or otherwise by the Minister under subsection (4) except that the Inspector may, at any time within seven days of the service and before the confirmation or otherwise, withdraw the notice and thereupon such place shall cease to be an infected or infested place.
@@ -91,8 +85,8 @@ the animal being so diseased or infested to the Inspector or to the person in ch
 relation to any animals suffering from any particular disease or infestation;
 (b) the notices to be given by persons in possession
 or in charge of diseased or infested animals in the case of any particular disease or infestation, or in the case of illness of any such animal, and the persons to whom such notices are to be given;
-(c) the notification to the public of infected or infested
-places or infected or infested areas and the removal of anything into, within or out of those places or areas, and the cleansing or disinfecting of those places or areas;
+(c) the notification to the public of infected or
+infested places or infected or infested areas and the removal of anything into, within or out of those places or areas, and the cleansing or disinfecting of those places or areas;
 (d) the movement of persons into, within or out of
 infected or infested places or infected or infested areas, and the prevention of the spread of disease or infestation by persons in contact with diseased, suspected or infested animals;
 (e) the treatment, disinfecting, destruction, burial,
@@ -105,8 +99,8 @@ examination, testing, cleansing, disinfecting, protection from suffering, exposu
 cleansing and disinfecting of carcases, fodder, litter, dung and other things;
 (i) the cleansing, disinfecting and examination of
 places and vessels used by, and vehicles used for the transport of animals, and of markets and other places used in connection with animals;
-(j) the fees and expenses incurred for any purpose for
-which Regulations may be made under this section, and the persons by whom they are to be paid, and the manner in which they may be recovered.
+(j) the fees and expenses incurred for any
+purpose for which Regulations may be made under this section, and the persons by whom they are to be paid, and the manner in which they may be recovered.
 (3) Regulations made under this section may prescribe in respect of any contravention thereof a penalty not exceeding five thousand dollars on summary conviction.
 PART III
 IMPORTATION
@@ -118,8 +112,8 @@ reptile, or insect, otherwise than under and in accordance with a licence in tha
 such licence, is guilty of an offence; and any bird, reptile or insect in respect of which any such offence is alleged to have been committed may be seized by any person acting under the directions of the Inspector or by any constable, and shall be forfeited to the State, if the person importing the bird, reptile or insect is convicted of an offence under this section.
 15. (1) The Minister may, for the purpose of preventing the introduction or spread of any disease or infestation into Trinidad and Tobago, make Regulations prohibiting, restricting, controlling or regulating the importation or landing of animals, or any specific kind thereof, or of carcases, fodder, litter, dung or other similar things.
 (2) Regulations made under this section may, without prejudice to the generality of such power, make provision with regard to-
-(a) specifying and defining the ports at which animals
-or carcases, fodder, grain, litter, dung or similar things, may be landed;
+(a) specifying and defining the ports at which
+animals or carcases, fodder, grain, litter, dung or similar things, may be landed;
 (b) controlling, prohibiting or regulating the
 movement of animals, or of carcases, fodder, litter, dung or similar things into, within or out of, any defined port;
 (c) controlling the examination, cleansing,
@@ -153,16 +147,17 @@ respect whereof he has reasonable grounds for believing that this Act or any Reg
 (a) when required by this Act, or by any Regulation
 made thereunder, to keep any animal separate as far as practicable, or to give any notice of disease or infestation with all practicable speed, fails to do so without lawful authority or reasonable excuse, proof whereof shall lie on him;
 (b) contravenes any directions given under section 8;
-(c) refuses to the Inspector or any other person acting
-in the execution of this Act or any Regulations made thereunder, admission to any pen, building, land, place, vehicle, vessel or boat, which the Inspector or any person is entitled to enter or examine, or obstructs or impedes the Inspector or any person in the execution of his duty, or assists in any such obstructing or impeding;
-(d) throws or places or causes to be thrown or placed
-into or in any river, stream, drain, or other water or into or in the sea within three miles of the shore, the carcase of an animal which has died of disease, or was infested or has been slaughtered as diseased or suspected;
-(e) takes or allows to be taken, unless otherwise required
-by this Act or any Regulations made thereunder, or allows to stray, any diseased or infested animal in or upon any common, public road, or public place;
+(c) refuses to the Inspector or any other person
+acting in the execution of this Act or any Regulations made thereunder, admission to any pen, building, land, place, vehicle, vessel or boat, which the Inspector or any person is entitled to enter or examine, or obstructs or impedes the Inspector or any person in the execution of his duty, or assists in any such obstructing or impeding;
+(d) throws or places or causes to be thrown or
+placed into or in any river, stream, drain, or other water or into or in the sea within three miles of the shore, the carcase of an animal which has died of disease, or was infested or has been slaughtered as diseased or suspected;
+(e) takes or allows to be taken, unless otherwise
+required by this Act or any Regulations made thereunder, or allows to stray, any diseased or infested animal in or upon any common, public road, or public place;
 (f) digs up, or causes or allows to be dug up, the
 buried carcase of any animal which has been slaughtered under this Act as diseased or suspected or which has died or is suspected of having died from any disease;
 (g) takes or moves, or allows to be taken or moved
-any animal, carcase, fodder, litter, dung or other thing, into or out of any infected or infested place or infected or infested area otherwise than in accordance with this Act or with any Regulations made thereunder; or
+any animal, carcase, fodder, litter, dung or other thing, into or out of any infected or infested place or infected or infested area otherwise than in accordance with this Act or with any
+Regulations made thereunder; or
 (h) allows any animal to stray into or out of any infected
 or infested place or infected or infested area, is guilty of an offence against this Act.
 22. Any person guilty of an offence against this Act shall, save where otherwise expressly provided, be liable for each such offence on summary conviction to a fine of five thousand dollars.
@@ -175,7 +170,8 @@ or infested place or infected or infested area, is guilty of an offence against 
 (Poultry) Ordinance, Ch. 25 No. 10 by the Law Revision (Miscellaneous Amendments) (No. 1) Act 1979, the Fowl Pest Order, 1952-1953 made under section 3(2) of that Ordinance shall continue in force and have effect as if made under this Act.
 *See GN 16/1955.
 SCHEDULE
-DISEASES WITHIN THE MEANING OF THIS ACT African Horse Sickness African Swine Fever Anaplasmosis Anthrax Babesiosis Blue Tongue Bovine Spongiform Encephalopathy Bovine Viral Diarrhea Brucellosis (Brucella abortus, Brucella suis, Brucella ovis, Brucella melitensis) Campylobacteriosis (C. fetus venerealis) Contagious Equine Metritis (T. equigenitalis) Contagious Pleuro-pneumonia Cowdriosis (Heartwater-C. ruminantium) Cysticercosis Dermatophilosis Duck Viral Enteritis Duck Viral Hepatitis Enzootic Lymphangitis Epizootic Bovine Abortion Equine Encephalomyelitis Equine Infectious Anemia Equine Rhinopneumonitis Foot and Mouth Disease Fowl Cholera (Pasteurella multocida) Fowl Typhoid (Salmonella gallinarum) Glanders Hemorrhagic Septicaemia Infectious Bovine Rhinotracheitis Infectious Laryngotracheitis Influenza (Avian and Equine) Leptospirosis Lumpy Skin Disease Malignant Catarrhal Fever Newcastle Disease (Velogenic, viscerotrophic) Ornithosis Paralytic Rabies Paratuberculosis (Johne's Disease) Peste des petits ruminants Porcine Reproductive and Respiratory Syndrome Pseudo Rabies (Aujeszky's Disease) Psittacosis Pullorum Disease (Salmonella pullorum) Rabies Rift Valley Fever Rinderpest Salmonellosis Scrapie Swine Fever (Hog Cholera) Swine Vesicular Disease Swine Vesicular Exanthema Theileriasis Trichomoniasis Trypanosomiasis (Dourine-T. equiperdum; Nagana-T. vivax; Surra-T. evansi) Tuberculosis Ulcerative Lymphangitis Variola Ovina or Sheep Pox Variola Vaccinia or Cow Pox Vesicular Stomatitis Viral Hemorrhagic Disease (rabbits)
+DISEASES WITHIN THE MEANING OF THIS ACT
+African Horse Sickness African Swine Fever Anaplasmosis Anthrax Babesiosis Blue Tongue Bovine Spongiform Encephalopathy Bovine Viral Diarrhea Brucellosis (Brucella abortus, Brucella suis, Brucella ovis, Brucella melitensis) Campylobacteriosis (C. fetus venerealis) Contagious Equine Metritis (T. equigenitalis) Contagious Pleuro-pneumonia Cowdriosis (Heartwater-C. ruminantium) Cysticercosis Dermatophilosis Duck Viral Enteritis Duck Viral Hepatitis Enzootic Lymphangitis Epizootic Bovine Abortion Equine Encephalomyelitis Equine Infectious Anemia Equine Rhinopneumonitis Foot and Mouth Disease Fowl Cholera (Pasteurella multocida) Fowl Typhoid (Salmonella gallinarum) Glanders Hemorrhagic Septicaemia Infectious Bovine Rhinotracheitis Infectious Laryngotracheitis Influenza (Avian and Equine) Leptospirosis Lumpy Skin Disease Malignant Catarrhal Fever Newcastle Disease (Velogenic, viscerotrophic) Ornithosis Paralytic Rabies Paratuberculosis (Johne's Disease) Peste des petits ruminants Porcine Reproductive and Respiratory Syndrome Pseudo Rabies (Aujeszky's Disease) Psittacosis Pullorum Disease (Salmonella pullorum) Rabies Rift Valley Fever Rinderpest Salmonellosis Scrapie Swine Fever (Hog Cholera) Swine Vesicular Disease Swine Vesicular Exanthema Theileriasis Trichomoniasis Trypanosomiasis (Dourine-T. equiperdum; Nagana-T. vivax; Surra-T. evansi) Tuberculosis Ulcerative Lymphangitis Variola Ovina or Sheep Pox Variola Vaccinia or Cow Pox Vesicular Stomatitis Viral Hemorrhagic Disease (rabbits)
 SUBSIDIARY LEGISLATION
 EQUINE INFLUENZA (INFECTED PLACES) ORDER
 made under section 5(4)
