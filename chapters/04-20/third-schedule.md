@@ -11,13 +11,15 @@ ENFORCING APPEARANCE OF DEFENDANT
 3. Summons to defendant upon complaint. 4. Warrant of apprehension where defendant has disobeyed summons. 5. Warrant of apprehension of defendant in the first instance.
 PART III
 WITNESSES
-6. Summons to witness. 7. Warrant of apprehension where witness has disobeyed summons. 8. Warrant of apprehension of witness in the first instance. 9. Warrant of commitment of witness for refusing to be sworn or to
+6. Summons to witness. 7. Warrant of apprehension where witness has disobeyed summons. 8. Warrant for apprehension of witness in the first instance. 9. Warrant of commitment of witness for refusing to be sworn or to
 give evidence.
 PART IV
 CONVICTIONS AND ORDERS
 10. Conviction for penalty, and, in default of payment, imprisonment. 11. Conviction where the punishment is by imprisonment. 12. Conviction for penalty to be levied by distress, and, in default of
 distress, imprisonment.
-13. Order for payment of money, and, in default of payment, imprisonment. 14. Order for payment of money to be levied by distress, and, in default
+13. Order for payment of money, and, in default of payment,
+imprisonment.
+14. Order for payment of money to be levied by distress, and, in default
 of distress, imprisonment.
 15. Order for any other matter, where the disobeying of it is punishable
 by imprisonment.
@@ -44,8 +46,8 @@ in the first instance.
 28B. Security for payment of fine.
 PART VII
 RECOGNISANCES
-29. Recognisance for appearance of defendant where the case is adjourned
-or not at once proceeded with.
+29. Recognisance for appearance of defendant where the case is
+adjourned or not at once proceeded with.
 30. Notification to be made to defendant and his surety on entering into
 such recognisance.
 31. Recognisance for appearance, or for doing some other thing in, to, or
@@ -56,8 +58,8 @@ do or commit some act or thing.
 been forfeited by conviction of principal.
 35. Adjudication of forfeiture of recognisance where person bound as
 principal has been convicted of an offence which is a breach of the condition.
-36. Oral or written acknowledgment of undertaking to perform condition
-or forfeited recognisance.
+36. Oral or written acknowledgment of undertaking to perform
+condition or forfeited recognisance.
 37. Order cancelling or mitigating forfeiture of recognisance.
 PART VIII
 SUMMARY TRIAL OF INDICTABLE OFFENCES

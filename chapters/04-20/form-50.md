@@ -3,7 +3,8 @@ AFFIDAVIT FOR USE IN PROVING
 SERVICE OF PROCESS
 REPUBLIC OF TRINIDAD AND TOBAGO.
 No... Return of Service of Process in respect of Summary Offences for the ... Court.
-Name of Mode of Document Place of Name of Date of Defendant Service served Service Complainant Service
+Name of Mode of Document Place of Name of Date of
+Service Defendant served Service Complainant Service
 I do swear that the above Return of Service is true and in accordance with the facts of such Service.
 (Signed) ...
 (Deponent)

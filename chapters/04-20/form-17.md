@@ -14,4 +14,3 @@ WARRANTS OF DISTRESS
 - Margin: Sections 66 and 67.
 - Margin: (1) State concisely the substance of the complaint. *If the complainant does not appear, these words may be omitted.
 - Margin: (2) Or, on or before the ... day of ... 20... (3) Add, if it be so, and there kept to hard labour.
-- Margin: Section 82.
