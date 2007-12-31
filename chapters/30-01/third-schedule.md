@@ -1,15 +1,694 @@
 # THIRD SCHEDULE
-PART I Amitriptyline and its salts Appetite suppressant agents (anorectics), excluding amphetamine, its derivatives
-and their salts, except those specifically exempted by the Director Bemegride Bromal and the following derivatives:
+PART I Amitriptyline and its salts Appetite suppressant agents (anorectics), excluding amphetamine, its
+derivatives and their salts, except those specifically exempted by the Director Bemegride Bromal and the following derivatives:
 Bromal hydrate Brometone Bromoform
-THIRD SCHEDULE-Continued Carbromal and the following derivatives:
+THIRD SCHEDULE-Continued
+Carbromal and the following derivatives:
 Acetylcarbromal Allylisopropylacetylurea Bromisoval Diethylbromacetamide Chloral and the following derivatives:
 Butyl chloral hydrate Alpha-chloralose Choral hydrate (except in preparations for external use containing not more
 than 1 per cent)
 Chloralformamide Chloralimide Disulfiram Imipramine and its salts Iproniazid and its salts Isocarboxazid and its salts Metaldehyde Nialamide and its salts Paraldehyde Pemoline and its salts Phenelzine and its salts Pheniprazine and its salts Pipamazine and its salts Sulphonal and alkyl sulphonals Sulphonamides and their salts and derivatives.
-PART II Adrenocortical hormones and their salts and derivatives Aminopterin and its salts 4-aminopteroylaspartic acid and its salts 4-aminopteroyl-N-methyglutamic acid and its salts Aminopyrine and its derivatives and their salts Anticoagulants Antihypertensive drugs Anticonvulsants Azacyclonol 1 Benactyzine Busulfan Captodiame Chlorambucil and its salts and derivatives Chlorprothixene and its salts Cinchophen and its salts Cyclizine and its salts Cyclophosphamide 2, 4-dinitrophenol and its salts Diuretics, excluding caffeine and its salts Emylcamate Ergot alkaloids and their salts and derivatives Hydroxyzine Isoniazide Mebanazine and its salts Mephenoxalone and its salts 6-mercaptopurine Mustine (or Meclorethamine) and its salts Neocinchophen and its salts Oral hypoglycaemic drugs for the control of diabetes Pargyline and its salts Phenothiazine derivatives, the following and their salts:
-Acepromazine Chlorpromazine Fluphenazine Levomepromazine (or Mepromazine or Methotrimeprazine) Perphenazine Pecazine (or Mepazine) Prochlorperazine Promazine Thiethylperazine Thiopropazate Thioproperazine Thioridazine Trifluoperazine Trifluopromazine Trimeprazine Phenylbutazone and its salts Prothipendyl hydrochloride Pyrazinamide Rauwolfia, and the following Rauwolfia alkaloids and their salts and derivatives:
+PART II Adrenocortical hormones and their salts and derivatives Aminopterin and its salts 4-aminopteroylaspartic acid and its salts 4-aminopteroyl-N-methyglutamic acid and its salts Aminopyrine and its derivatives and their salts Anticoagulants Antihypertensive drugs Anticonvulsants Azacyclonol 1 Benactyzine Busulfan Captodiame Chlorambucil and its salts and derivatives Chlorprothixene and its salts Cinchophen and its salts Cyclizine and its salts Cyclophosphamide 2, 4-dinitrophenol and its salts Diuretics, excluding caffeine and its salts Emylcamate Ephedrine and its salts, optical isomers (except in cough and decongestant
+preparations) and salts of optical isomers (except in cough and decongestant preparations) Ergot alkaloids and their salts and derivatives Hydroxyzine Isoniazide Mebanazine and its salts Mephenoxalone and its salts 6-mercaptopurine Mustine (or Meclorethamine) and its salts Neocinchophen and its salts N-Methylephedrine and its salts, optical isomers (except in cough and
+decongestant preparations) and salts of optical isomers (except in cough and decongestant preparations) N-Methylpseudoephedrine and its salts, optical isomers (except in cough and
+decongestant preparations) and salts of optical isomers (except in cough and decongestant preparations) Norpseudoephedrine and its salts, optical isomers (except in cough and
+decongestant preparations) and salts of optical isomers (except in cough and decongestant preparations) Oral hypoglycaemic drugs for the control of diabetes Pargyline and its salts Phenothiazine derivatives, the following and their salts:
+Acepromazine Chlorpromazine Fluphenazine Levomepromazine (or Mepromazine or Methotrimeprazine) Perphenazine Pecazine (or Mepazine) Prochlorperazine Promazine Thiethylperazine Thiopropazate Thioproperazine Thioridazine Trifluoperazine Trifluopromazine Trimeprazine Phenylbutazone and its salts Phenylpropanolamine and its salts, optical isomers and salts of optical isomers Prothipendyl hydrochloride Pseudoephedrine and its salts, optical isomers (except in cough and
+decongestant preparations) and salts of optical isomers (except in cough and decongestant preparations) Pyrazinamide Rauwolfia, and the following Rauwolfia alkaloids and their salts and derivatives:
 Deserpidine Raubasine Rescinnamine Reserpine Sex Hormones, natural and synthetic, or their derivatives (except cosmetic
 preparations for external use and oral contraceptive preparations which have been shown to have no significant side effects) Sulfinpyrazone and its salts Tetrabenazine Thiotepa Thiouracil and its derivatives Thyroid Thyroxin and its salts Tranylcypromine Tretamine 1-triiodothyronine Trimethadione
 All drugs containing more than 0.75 per cent by weight of Hexachlorophane [Synonyms:-Hexachlorophene, di-(3, 5, 6-Trichloro-2 Hydroxyphenyl)- Methane].
-- Margin: Section 13. [130/1964 94/1969 156/1972 12 of 1987].
+- Margin: Section 13. [130/1964 94/1969 156/1972 12 of 1987 6 of 2005].
+- Margin: 130/1964. [94/1969 53/1972 52/1974 105/1974 9/1985].
+- Margin: Citation.
+- Margin: Requirements prescribed by Regulation.
+- Margin: Interpretation. [94/1969].
+- Margin: Request to Director. [94/1969].
+- Margin: Functions, duties, responsibilities of Inspectors.
+- Margin: Certificate of appointment. Form A. Third Schedule.
+- Margin: Taking of photographs.
+- Margin: Taking samples and detention pending further examination.
+- Margin: Violation of Act or Regulations and re-labelling or re-conditioning of food, drug, cosmetic or device.
+- Margin: Issue of certificate.
+- Margin: Taking a sample, notification of intention and division of sample.
+- Margin: Division an interference and objection to procedure by owner or person.
+- Margin: Certificate of Analysis. Form B. Third Schedule. [94/1969].
+- Margin: Definition of terms in Part II. [94/1969 52/1974 118/2003].
+- Margin: First Schedule.
+- Margin: First Schedule.
+- Margin: First Schedule.
+- Margin: Ch. 78:01.
+- Margin: Ch. 78:50.
+- Margin: Offence to sell unlabelled food. [52/1974].
+- Margin: Labelling of package. [94/1969 52/1974 9/1985 118/2003].
+- Margin: Labelling of breastfeeding substitutes. [9/1985].
+- Margin: Labelling of beverages containing alcohol. [118/2003].
+- Margin: Labelling of brewery products. [118/2003].
+- Margin: Declaration of net contents not required on certain labels. [52/1974].
+- Margin: List of ingredients not required on certain labels. [52/1974].
+- Margin: Declaration not required. [52/1974].
+- Margin: Declaration not required to indicate presence of flavouring. [52/1974].
+- Margin: Dried or dehydrated products. [52/1974 37/1991 118/2003].
+- Margin: Food from vending machine. [52/1974].
+- Margin: Non-application of regulation 16. [52/1974 118/2003].
+- Margin: Standard for a food.
+- Margin: Name of designation given to standard, grade or definition. [94/1969].
+- Margin: Adulteration of food. [53/1972 192/1999].
+- Margin: First Schedule.
+- Margin: Non- adulteration.
+- Margin: Contents of package.
+- Margin: Display of information on label.
+- Margin: First Schedule.
+- Margin: Offence.
+- Margin: Definition of terms in Part III. [94/1969 52/1974].
+- Margin: Ch. 30:02.
+- Margin: Second Schedule.
+- Margin: *27 of 1961.
+- Margin: Second Schedule.
+- Margin: Second Schedule.
+- Margin: Third Schedule.
+- Margin: Ch. 29:52.
+- Margin: Second Schedule.
+- Margin: Third Schedule.
+- Margin: Ch. 67:04.
+- Margin: Labelling of drug.
+- Margin: Contents of label. [94/1969 52/1974].
+- Margin: Second Schedule.
+- Margin: Label on bulk package. [52/1974].
+- Margin: Second Schedule.
+- Margin: Drug sold on prescription.
+- Margin: Packing cases. [52/1974].
+- Margin: Name and proportion of drug to be stated on label.
+- Margin: Label to contain all information.
+- Margin: Information clearly and prominently displayed.
+- Margin: Reference to drug.
+- Margin: Drug to conform to standard.
+- Margin: Parenteral, Third Schedule or controlled drugs.
+- Margin: First Schedule.
+- Margin: Exemption from section 4(1).
+- Margin: Drug in form of tablet.
+- Margin: Variations from declared quantity.
+- Margin: Caution on label of drug.
+- Margin: Third Schedule or a controlled drug not to be advertised.
+- Margin: Prohibition.
+- Margin: Second Schedule.
+- Margin: Contravention or non- compliance with Part III.
+- Margin: Date Regulations became effective.
+- Margin: Regulation 30. [94/1969 53/1972 105/1974 111/1986 72/1996 192/1999 199/1999 118/2003].
+- Margin: Gelatin
+- Margin: Tea
+- Margin: Ch. 67:53. Sub. Leg.
+- Margin: Regulation. [130/1964 94/1969 49/1987].
+- Margin: Third Schedule. Part II.
+- Margin: Third Schedule.
+- Margin: Ch. 29:52.
+- Margin: Ch. 29:52.
+- Margin: Third Schedule. Form C.
+- Margin: Third Schedule. Form E.
+- Margin: Third Schedule. Form D.
+- Margin: Third Schedule. Form E.
+- Margin: Ch. 30:02.
+- Margin: 27 of 1961.
+- Margin: Ch. 29:52.
+- Margin: Ch. 29:52. Ch. 30 No. 2 (1950 Ed.). Ch. 12 No. 4 (1950 Ed.).
+- Margin: Schedule.
+- Margin: Second Schedule.
+- Margin: Regulations 6 and 13. [49/1987]. (Regulation 6).
+- Margin: (Regulation 13).
+- Margin: (Regulation 2).
+- Margin: 54/1972.
+- Margin: Conditions of Sale
+- Margin: Freely do. do. do. do. do. do.
+- Margin: do. Third Schedule do. do. do. do. do. do.
+- Margin: do.
+- Margin: do. do. do. do. do. do. do. do. Freely do. do. do. do. do. do. do. do.
+- Margin: do. do. do.
+- Margin: do. do. do. do. do. do. do. do. do. do. do.
+- Margin: do.
+- Margin: Trade Name and Form
+- Margin: Tedral Elixir … … Transpulmin syrup … Tusana cough syrup … Akrinor tablets … Akrinor ampoules 2 ml. … Aldoril-15 tablets … Andantol ampoules 1 ml … Aptin injection … Lovely Curves cream … Perphyllon ampoules 2 ml
+- Margin: Perphyllon tablets … Vaginex cream … Bellaravil dragees … Clima-Sed tablets …
+- Margin: Absorbine lotion … Absorbine medicated soap Bisolvon elixir … Bisolvon solution … Blulo liquid (vet.) … Cornuflex liquid (vet.) … Coryban-D capsules … Coryban-D syrup … E. & W. spray aerosol (vet.) Kaogel suspension … Kruschen capsules … Lubafax lubricant …
+- Margin: Prontopyrin tablets … Sudafed syrup …
+- Margin: Trypzyme aerosol (vet.) … Zincofax Cream …
+- Margin: Albaton tablets … Albaton compound caplets Anectine injection 10 c.c.
+- Margin: Betnovate rectal ointment
+- Margin: Bisolvon ampoules … Brufen tablets … Bu-Biomin injection (vet.) Butocin injection (vet.) … Cardilate 10 tablets …
+- Margin: Cardilate 15 tablets … Colpan capsules … Cortrosyn Depot injection Dap-test reagent …
+- Margin: Dilantin injection …
+- Margin: Ismelin 5% eye drops …
+- Margin: Conditions of Sale
+- Margin: Third Schedule do.
+- Margin: do.
+- Margin: do.
+- Margin: do. do. do. do. do.
+- Margin: do. do. do.
+- Margin: do. Controlled Drug do. Freely do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. Third Schedule do. do. do. do. do. do. do. do. do. do. do. do. do.
+- Margin: do.
+- Margin: Trade Name and Form
+- Margin: Limbitrol 10 capsules … Medihaler-Duo Inhaler … Metoxidon tablets …
+- Margin: Neo-Testis E. ampoules … Neo-Testis E. capsules … Pantozyme capsules … Pantozyme tablets … Pavulon injection … Perivar tablets … Primostat injection … Septrin Compound tablets Septrin Paediatric suspension Septrin Paediatric tablets Spasmo-Canulase tablets Trasylol i.v. injection … Ventolin aerosol inhaler … Vitamin B12 injection … Anugesic ointment … Anugesic suppositories … Anusol ointment … Anusol suppositories … Boric acid powder … Calamine lotion … Chlorodine syrup … Dicalets improved tablets Ear-ache drops … Eatongel liquid … Eatongel tablets … En-Zy-Mex tablets … Fer-Folic 500 tablets … Gets-It salve … Hydrogen Peroxide (20 vol.) Ketrax tablets … Lergoban tablets … Liquid paraffin … Mercurochrome solution … Normenon tablets … St. Joseph Liquid A solution Silk-Lax tablets … Sinutab tablets … … Sodium Bicarbonate … Sorbifer P tablets … Tincture of Iodine … Urolucosil suspension … Anusol HC ointment … Anusol HC suppositories … Arcored injection … Brinerdin tablets … Butazolidin Alka tablets … Cor-Tar-Quin 1/4% cream Cor-Tan-Quin 1/2% cream Diademil tablets …
+- Margin: Conditions of Sale
+- Margin: Third Schedule do. do. do. do. do. do. Freely do. do. do.
+- Margin: do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. Third Schedule do.
+- Margin: do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do.
+- Margin: Trade Name and Form
+- Margin: Alka-2 Tablets … Aimax Methallibure Pre-Mix 1% for veterinary use Dynastan Powder … Dynastan Cream …
+- Margin: use
+- Margin: Mansonil for veterinary use Neguvon for veterinary use
+- Margin: Liver Oil Supervim 28 tablets Thera-Blem Cream Celestamine-F Syrup
+- Margin: units)
+- Margin: units) Detanol-E Compositum for veterinary use Geristone Capsules Ludobal Quinuronium Sulphate for veterinary use Persumbrax Tablets Progynova 1 mg. Tablets Prosalve Diabetabs Tablets
+- Margin: Stelazine Syrup …
+- Margin: Supronal pessaries for veterinary use Synalar Gel … Supronal Solution 20% for veterinary use Ulcinal Tablets … Sodeca Capsules … Betnovate Compound Suppositories Gonaplex (injectable) Haflutan Tablets … Ipharon Compound Tablets Pasaden Tablets … Sohydrone 1% Eye Drops Sohydrone 1% Eye Ointment Sohydrone Forte Eye Drops Sohydrone Forte Eye Ointment Triavil Tablets … Vasopred Ophthalmic Suspension Winavit Tablets … Alka-Seltzer Plus cold tablets
+- Margin: Conditions of Sale
+- Margin: Freely do. do. do. do. do. Third Schedule do. do. do. do. do. do. do. do. do. do. do. do.
+- Margin: … Freely … Third Schedule … Freely … Third Schedule … do. do.
+- Margin: Freely do. do. do. do. Third Schedule do. do. do. do. do. do.
+- Margin: Country of Conditions origin of Sale
+- Margin: Freely do. do.
+- Margin: do. do. do. do. do. Third Schedule
+- Margin: Trade Name and Form
+- Margin: Akineton Tablets …
+- Margin: Colprone Tablets … Eldopaque Cream *Intra-Cebrin Tablets Isodril Sublingal Tablets Mafylon Acetate Cream Neogynon Coated Tablets
+- Margin: Nordiol-21 Tablets Ovulen 50 Tablets Tonovan Tablets … Vagestrol Vaginal Suppositories Calcibronat syrup … Becotin-T tablets … Cosaldon Retard Dragees
+- Margin: Asilone Suspension Chocks Tablets … Depo-Provera 150 i.m. injection Vascunicol Tablets Unicap M. Tablets Maltsupex liquid … Maltsupex powder Forapin Liniment … Psorex Cream … Psorex Shampoo … Woodward's Diarrhoea Mixture *Biligrafin Forte Amps 50%
+- Margin: Compoz Tablets … Dextopic Cream … Duraphat Varnish …
+- Margin: Tofranil Syrup … Trasicor Tablets 40 mgm. Ubretid Ampoules Ubretid Tablets … *Urografin Amps 76% Ventolin Tablets …
+- Margin: Trade Name and Form
+- Margin: A-Compleat Capsulettes …
+- Margin: Andantol Jelly …
+- Margin: Andantol Syrup … Andantol Tablets … Andantol F. Tablets … Anti-Sat Capsules …
+- Margin: B-Compleat Tablets …
+- Margin: *Change in formula.
+- Margin: Conditions of Sale
+- Margin: Freely do. do. do.
+- Margin: do. do. do. do. do. do.
+- Margin: do.
+- Margin: do. do. do. do. do. do. do. do.
+- Margin: do. do. do. do. do. do.
+- Margin: do.
+- Margin: do. do. do. do. do. do.
+- Margin: do. do.
+- Margin: do. do. do. do. do. do. do. do. do.
+- Margin: Trade Name and Form
+- Margin: Tavegyl Tablets … Test Sixty Tablets … Unicap Capsules … Veg-E-Tabs. … … Ver-O-Rheum … Ver-O-Vine … … Ver-O-Zest … … Vigorton 2 Elixir … Vit-Amino Tablets …
+- Margin: Vi-Tablets Vitality … Vita-Mines Tablets … VM Tabsules … Celestamine Tablets … Daonil Tablets … Dipar Retard Dragees … Infrocin Capsules …
+- Margin: Lamprene Capsules … Minidon Tablets … Restovar Tablets …
+- Margin: Super A. Capsules … Talodex Injectable …
+- Margin: Itridal Tablets …
+- Margin: formula
+- Margin: Trade Name and Form
+- Margin: Arcogen-12 … Benylin DM Cough Syrup Hybin Tablets … In-Vite Powder … Oraldene Liquid … Rotersept Spray … Sanatogen Junior Vitamins Scanbecomplex Capsules Scandrops … Scandex Capsules Scaniplex Syrup … Scanlax Capsules Scanminplex Capsules Scanoscapine Syrup Scanplast Elastic Plaster Scanplast P.V.C. Plaster Ultravite Tablets …
+- Margin: Country of Conditions origin of Sale
+- Margin: Freely do. Third Schedule do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. Freely do. do.
+- Margin: do. do. do. do. do.
+- Margin: do. do. do. do. do. Third Schedule do. do. do. do. do. do. do.
+- Margin: do. do.
+- Margin: do. do. do. do. do. do. do. do. do. do. do. do. do.
+- Margin: Trade Name and Form
+- Margin: Zolyse …
+- Margin: Actifs Capsules … Budoform Tablets Coryztime Capsules Daribiol Capsules … D.D.D. Balm … D.D.D. Prescription Extra Strength Energin Tablets …
+- Margin: Fuca Excellent … Heptuna Plus Capsules Nilverm Pig Wormer Reoribec Tablets … Sine-Off Tablets … Testiviton Tablets Wate-On Tonic …
+- Margin: Graded Sequential Tablets Hiprex Tablets …
+- Margin: Lyndiol Tablets … Marek's Disease Vaccine Mutabon-M Tablets Opovitam Tablets … Septrin Adult Suspension Topilar Cream … Arthricol Tablets … Activarol Oral Suspension Activarol 500 Elixir
+- Margin: Tablets *Autrin Capsules … Aradolene Cream … Aspellin Spirit Liniment Ami-proteine Tablets Antiasthmaticae Tablets Antianem B 12 2000 Elixir Anti-germ Healing Ointment Arco C 500 Pellets A.P.C. Tablets … Bropene Lotion …
+- Margin: Bronal Cough and Catarrh Elixir *B. N. Liniment … Beltux Coated Tablets Bantex Capsules … Beneuran Compositum Tablets
+- Margin: *Change in formula.
+- Margin: Country of Conditions origin of Sale
+- Margin: Freely do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do.
+- Margin: do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do.
+- Margin: do. do. do. do. do.
+- Margin: do. do. do. do.
+- Margin: do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do.
+- Margin: Trade Name and Form
+- Margin: Ulcelac Tablets … Wormex Orange Flavour
+- Margin: Yobinol Tablets … Acetone Test …
+- Margin: Acton-x Injection Alupent Syrup … Aldactide Tablets Arcobutina Forte Pills Anafranil Ampoules Anafranil Capsules Anafranil Syrup … Buffazone Tablets
+- Margin: Beneuran Compositum Ampoules Cornatal Suppository Adult Cortiment Suppository
+- Margin: Cortiment Junior Suppository Cystalgine Tablets Coba-12 Injection … Cortiment Dermal Topical Solution
+- Margin: 250 mgm. Combantrin Suspension Cantharone … Denco Pregnancy Test Dopalin Tablets 250 mgm. Fluazine "2" Tablets Fluazine "5" Tablets Fluazine "10" Tablets *Folbesyn Parenteral Femagest Tablets Fasigyn Tablets … Glytet Bitab 595 … Glynacort Suppository Hepacon B12 Injection Hepacon Plex Injection Immune Serum Globulin (Human) Jonit Capsules 50 mgm . K.U.B. Tablets … K.U.B. Minus Tablets Meprobex Tablets Mesco Tablets … Monotest … Motival Tablets … Moduretic Tablets Meltex Cream … Manticor Q Cream 0.5% Manticor Q Cream 1.0% Nack "5" Capsule … Nack "10" Capsule Nack "15" Capsule
+- Margin: *Change in formula.
+- Margin: Country of Conditions origin of Sale
+- Margin: Third Schedule do.
+- Margin: do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. Controlled Drug do. do. do. do. Freely do. do.
+- Margin: do. do. do. do. do. do. do.
+- Margin: do.
+- Margin: do. do.
+- Margin: do. do. do. do. do.
+- Margin: Trade Name and Form
+- Margin: Infantol Liquid …
+- Margin: Infrarub Analgesic Balm Maltlevol-12 …
+- Margin: Magnesium Trisilicate Compound Tablets No-Rash Cream … *Nupercaine Cream Ovol Drops …
+- Margin: Paracetamol Compound Tablets Panets Baby Syrup Panets Paracetamol Tablets Plexafer Tablets … Pyrets Lozenges … Syrup of Piperazine Citrate Slimming Disks for Men Secron … … Tinactin Cream … Tussol …
+- Margin: Tee-Ten Tonic … Vibrolex Throat Paint Vibrolex Ear Drops Vibrolex Polyvitamin Tablets Vibrolex Eye Drops Vibrolex Pain Balm
+- Margin: Antiminth Chewable Tablets
+- Margin: Antiminth Oral Suspension Cendevax Rubella Virus Vaccine
+- Margin: Duo Autohaler … Chlorpromazine Tablets 100 mgm. Dihydergot Ampoules Dihydergot Tablets *Doriden Tablets … Gravol L/A Capsules
+- Margin: Gravol Tablets … Gravol Liquid … Iso Autohaler … Metosyn Ointment Pangavit 1000 Injection
+- Margin: Pangavit 5000 Injection Palerol Ampoules Palerol Tablets … Propantheline Bromide Tablets 15 mgm.
+- Margin: Sandoven Tablets …
+- Margin: *Change in formula.
+- Margin: Country of Conditions origin of Sale
+- Margin: Third Schedule
+- Margin: do. do . do. do.
+- Margin: do. do.
+- Margin: do. do.
+- Margin: do. Controlled Drug do. do. Freely do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do.
+- Margin: do. do.
+- Margin: do. do. do. do. do. do. do. do. do. do. Third Schedule do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do.
+- Margin: do. do.
+- Margin: Trade Name and Form
+- Margin: Cyanocobalamin Injection 100 mcg. Cyanocobalamin Injection 200 mcg. Cyanocobalamin Injection 500 mcg. Digoxin Tablets 0.25 mgm. Nildrin 100 Tablets Nildrin 200 Tablets Prednisolone Tablets Stabrium Tablets 10 mgm. Stabrium Tablets 25 mgm. Sulphadimidine Tablets Tolbutamide Tablets Eskalith Capsules Teldrin Spansules Diarenine Tablets … Alfapsin Injectable Alfapsin Tablets … Alfapsin Ointment… D.C.T. Vaccine … Diphtheria Toxoid Geriotonique Tablets Immune Serum Globulin Influenza Virus Vaccine Polio Virus Vaccine, Live Oral (Sabin) Trivalent T.A.B. Vaccine … T.A.B.T. Vaccine … Tetanus Toxoid … Tetanus Antitoxin … Vaccination Against Small Pox Mutabon 4/25 Tablets Flenzavax Flue Vaccine Locoid Cream … Locoid Lotion … Locoid Ointment … Butacote Tablets … Renese-R Tablets … Anugesic H.C. Suppositories Josual Scherurich Dragees Aquacare Dry Skin Cream Aquacare Dry Skin Lotion Acetylsalicylic Acid Tablets 5 grs. Alomag Tablets … Enzymex Tablets … Enzymex Liquid … Folisules Tablets … Folic Acid with Fe Tablets Ipcamalt … Ipcavite Drops … Ipcavite Syrup … Pyriplex Syrup … Vipacamine Tablets Vitamin B6 Tablets 50 mgm. Vitamin B Complex Forte Tablets
+- Margin: Country of Conditions origin of Sale
+- Margin: India Freely U.K. do. do. do. Trinidad do. U.K. do. U.S.A. do. Belgium do. do. do. U.S.A. do. do. do. do. do. do. do. U.K. do. do. do. do. do. do. do. do. do. U.S.A. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. U.K. do. do. do. do. do. do. do. do. do. do. do. do. do.
+- Margin: do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. W. Germany do. U.S.A. do. W. Germany do. do. do. do. do.
+- Margin: Switzerland do. U.K. do. do. do. do. do.
+- Margin: Trade Name and Form
+- Margin: Waxsol Ear Drops
+- Margin: Solution Epifrin Ophthalmic Solution 0.5% Epifrin Ophthalmic Solution 1.0%
+- Margin: F.M.L. Liquifilm Ophthalmic Solution
+- Margin: Butacynil Tablets Chlorpromazine Tablets 25 mgm. Chlorpromazine Tablets 50 mgm. Chlorpromazine Syrup 10 mgm. per 5 ml. Ipcavite Forte Capsules Chlorpromazine Syrup 25 mgm. per 5 ml. Chlorpromazine Tablets 100 mgm. Euviton Capsules … Marax Suspension Marax Tablets … Pro-Benthine P.A. Tablets Bezide 5 mgm. Tablets Dekam 2 Tablets 2 mgm. Dekam 5 Tablets 5 mgm.
+- Margin: Diutensen R Tablets Diutensen Tablets Lufyllin Tablets … Lufyllin G.G. Tablets Lufyllin G.G. Elixir
+- Margin: Nortensin Dragees Bradilan Tablets … P.I.B. Spray … Doloxene 365 Pulvules
+- Margin: Dicynene Tablets Injection Crinagen Gel … Concavit Injection
+- Margin: Ironorm Injection Tranquo-Buscopan Suppositories Corti Bisolvon Inhalant Celestone Soluspan Etrafon 2/25 Tablets Etrafon 4/10 Tablets Etrafon 4/25 Tablets *Imuran Tablets …
+- Margin: *Change in formula.
+- Margin: Country of Conditions origin of Sale
+- Margin: U.K. Third Schedule Switzerland do.
+- Margin: U.S.A. Freely do. do. do. do.
+- Margin: do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. U.K. do. U.S.A. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. U.K. do. Venezuela do. U.S.A. do. do. do. do. do. do. do.
+- Margin: U.K. do. U.S.A. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. U.K. do.
+- Margin: do. do. do. do. do. do.
+- Margin: Trade Name and Form
+- Margin: Multivitamin Tablets Polybe Tablets … Nu-Vita 27 Tablets Pancoxin … Pancoxin Plus … *Children's Cafenol Tablets Powdered Tyrax … Lisophen Liquid …
+- Margin: *Geriatric Pharmaton Kiddi Syrup …
+- Margin: P.P.P. Pharmaton Capsules Bacid Capsules …
+- Margin: Co-Salt … … Gaviscon Tablets …
+- Margin: Geritol Tablets … Geritol Liquid … W. L. Tablets …
+- Margin: Adult's Bronchial Balsam Syrup Adult's Expectorant Adult's Nerve Tonic Benzac Tablets … Calmo Rheumatic Tablets Children's Cherry Cough Linctus Ephedrine Inhalex Oil Golden Ear Drops … Gould's Gripe Mixture Gly-Cologne Hand Jelly Infants Nasal Drops Junior Expectorant Opas Powder … Opas Tablets … Panalene Elixir … Panalene Tablets … Rapid Energy Release Tab. Slim Maid Tablets Vesagex Antiseptic Oint. Worm Syrup … *Sanatogen Powder Supplamins Tablets
+- Margin: Similac Isomil … Beminal 500 Tablets Ornade Liquid …
+- Margin: Galexir Liquid …
+- Margin: *Change in formula.
+- Margin: Country of Conditions origin of Sale
+- Margin: Trinidad Freely do. do. U.S.A. Third Schedule Trinidad do. U.K. do. do. do.
+- Margin: do. do. do. do.
+- Margin: Trinidad do.
+- Margin: do. do.
+- Margin: Hungary do.
+- Margin: do. do. do. do. do. do.
+- Margin: do. do. do. do. do. do. do. do. do. do.
+- Margin: do. do. do. do. do. do. do. do. do. do.
+- Margin: do. do.
+- Margin: do. do. do. do.
+- Margin: Ireland do. do. do. W. Germany do. do. do. U.S.A. do.
+- Margin: do. do. do. do.
+- Margin: do. do.
+- Margin: do. do.
+- Margin: Trade Name and Form
+- Margin: Flaminon Capsules
+- Margin: Oncovin Injection
+- Margin: Obin Tablets 500 mgm. Clinium Tablets … Daktarin Cream 2% Daktarin Powder … Gyno-Daktarin Cream 2% Orap Tablets 1 mgm. Orap Forte Tablets Stugeron Tablets 25 mgm.
+- Margin: Complamin Injection 100 mgm. Etoval Tablets 100 mgm.
+- Margin: Bridine Aerosol Spray Bridine Solution … Bridine Surgical Scrub Bridine Shampoo Liquid Calamine Lotion … Calcium Lactate Tablets Chase Cold Tablets Dispray Tinct. Benz. Co. Emtryl Soluble … Ferinut Tablets …
+- Margin: Geltex Topical Liquid Histaspan-D Capsules Histalix Expectorant
+- Margin: Livernut Capsules
+- Margin: Multiple Vitamin Tablets Olaf Super B. Complex with C Tablets
+- Margin: Olaf Vitamin E 100 mgm. Pevidine Surgical Scrub
+- Margin: Profer Tablets …
+- Margin: Promin 12 Tablets 50 mcg. Sinex Nasal Spray… Sinutab S.A. Tablets Salt Tablets … Soda Mint Tablets *Senokot Tablets … Vitanorm …
+- Margin: Wallgreen Aspirin Tablets Ancoloxin Tablets
+- Margin: *Change in formula.
+- Margin: Country of Conditions origin of Sale
+- Margin: U.S.A. Third Schedule Canada do. do. do. Trinidad do. U.K. do. U.S.A. do.
+- Margin: U.K. do. U.S.A. do.
+- Margin: U.K. do. India do.
+- Margin: do. do. Trinidad do. do. do. do. do. Denmark do. India do.
+- Margin: do. do. do. do. U.K. do. Italy do. do. do. U.K. do. Belgium do. U.S.A. Freely do. do. do. do. do. do do. do. do. do.
+- Margin: do. do. do. do. do. do. do. do. Trinidad do. do. do. do. do. do. do. do. do. U.K. do. do. do. do. do.
+- Margin: do. do. W. Germany do. Denmark do. U.K. do. do. do. do. do.
+- Margin: Switzerland do
+- Margin: Trade Name and Form
+- Margin: Spontavit-M … Spontavit-F … Oramascul …
+- Margin: Becotide Inhaler …
+- Margin: Meltrol-50 mg. Capsules Eldo-Sed Tablets … Prolone Tablets … Promax Capsules … Synacthen Depot Ampoules 1 mgm. per 1 ml. Synacthen Depot Ampoules 2 mgm. per 2 ml. Synacthen Ampoules 0.25 mgm. per ml. Microval Tablets … Tab Chlordiazepoxide BP 10 mgm. Caps Chlordiazepoxide BP 10 mgm. Tab Chlorpromazine BP 25 mgm. Tab Chlorpropamide BP 250 mgm.
+- Margin: Tab Metronidazole BP 200 mgm. Tab Methaqualone HCL BP 150 mgm. Tab Prednisone BP 1 mgm. Tab Prednisone BP 5 mgm. Tab Prednisolone BP 1 mgm. Tab Prednisolone BP 5 mgm.
+- Margin: Tab Phenylbutazone BP 100 mgm. Tab Phenylbutazone BP 200 mgm. Stelabid Forte Tablets
+- Margin: per ml. x 2 ml. 8 Ativan Tablets … Progyluton Coated Tablets Disium Vaginal Spray Noriday Tablets …
+- Margin: Rondec Oral Drops Rondec Syrup …
+- Margin: Country of Conditions origin of Sale
+- Margin: U.S.A. Third Schedule U.K. do. Belgium do. U.K. Freely
+- Margin: do. Third Schedule do. do. do. do. do. do. do. Freely do. do. W. Germany Third Schedule Trinidad Freely U.S.A. Third Schedule do. do. U.K. Freely do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do.
+- Margin: do. do. do. do. Ireland do. do. do. do. do. do. do. U.S.A. Third Schedule do. do.
+- Margin: U.K. do.
+- Margin: do. do.
+- Margin: U.K. Freely
+- Margin: do. do. U.S.A. do.
+- Margin: do. do. U.K. do.
+- Margin: do. do. do. do. do. do. do. do.
+- Margin: Trade Name and Form
+- Margin: Tragacanth Powder Compound BP Orange Tincture BPC Ipecacuanha Tincture BP Lavender Tincture Compound BPC 1949 Naxogin Tablets …
+- Margin: Imap Injection … *Topilar Cream … Lenium … Mil-Par … D.P.T. Vaccine …
+- Margin: D. T. Vaccine … Sabin Oral Poliomyelitis Vaccine Soparine Tablets … Ocal Eye Bath … Ocal Eye Drops … Phenergan Compound Cough Linctus Purantix Cream …
+- Margin: Purantix Ointment Landromil Powder Landromil Tincture Landromil Ointment Pantozyme Bitabs… Spasmo-Canulase Bitabs Tegretol Tablets …
+- Margin: Taxofit Effervescent Tablets 500 mgm. Taxofit Effervescent Tablets 1 gramme Sali-Catapres Tablets
+- Margin: Infrocin Suppositories Supres Tablets-150 Supres Tablets-250 Claradin Tablets …
+- Margin: BP 500 mgm. Aspirin Tablets BP 300 mgm.
+- Margin: Sulphadimidine Tablets BP 500 mgm. Sulphaguanidine Tablets BP 500 mgm. Prednisolone Tablets 1 mgm. Prednisolone Tablets 5 mgm. Imipramine Tablets 10 mgm.
+- Margin: Country of Conditions origin of Sale
+- Margin: U.K. Third Schedule do. do. do. do. do. do. do. Controlled Drug do. do. Canada do. U.S.A. Freely do. do. do. do. do. do. W. Germany Third Schedule U.K. Controlled Drug do. Freely do. do. do. do. do. do. do. do.
+- Margin: do. do.
+- Margin: do. do.
+- Margin: do. do. do. do. do. do. do. do. do. do. do. do.
+- Margin: do. do.
+- Margin: do. do. do. do. do. do. do. do.
+- Margin: do. do. do. do. do. do
+- Margin: do. do.
+- Margin: do. do. U.S.A. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do.
+- Margin: Trade Name and Form
+- Margin: Vitamin A 25,000 I.U. Capsules Chargers Tablets … Anti-Tension Tablets Motion Sickness Tablets Corn Liquid … Zinc Oxide Ointment Allergy Tablets … Wheat Germ Oil liquid Wheat Germ Oil Capsules
+- Margin: Wart Away … Toothache Drops … Toothache Wax … Ear Oil … … Drawing Salve … Blue Ointment … Boric Acid Ointment Go-pain Analgesic Cream Wheatacol Tablets Decongestant Syrup Itchi-kool Liquid … Itchi-kool Ointment Alkacade Tablets … Hinkle's Formula Laxative Terpin Hydrate with D-methorphan Liquid
+- Margin: Fiorinal-P Capsules
+- Margin: Visken Ampoules Visken Tablets 5 mgm.
+- Margin: Auraltone Ear Drops Bronchotone Liquid Secaderm Salve … Phytocil Cream … Phytocil Powder … Stastabs 600 … Mynah Tablets …
+- Margin: Allujel DF Tablets Lota Ointment … Ringworm Ointment Magsil Tablets … Eutheria Anodyne Cream Antiflamin Poultice Ear Drops … Catazoc Nasal Drops Dentol Toothache Drops
+- Margin: *Change in formula.
+- Margin: Country of Conditions origin of Sale
+- Margin: India Third Schedule do. do. do. do. do. do. do. do. do. do. U.K. Freely do. do. do. Third Schedule Switzerland do. do. do. do. do. do. do. U.S.A. Freely U.K. do. do. do. U.S.A. do. do. Third Schedule do. do. do. Freely
+- Margin: do. do. do. do. do. do. do. do. do. do.
+- Margin: do. do.
+- Margin: do. do.
+- Margin: do. do. do. do. do. do. do. do. do. do. do. do. do. Third Schedule U.K. Freely do. do. do. do. do. do. do. do. do. do.
+- Margin: do. do.
+- Margin: do. do. do. do. do. do.
+- Margin: Trade Name and Form
+- Margin: Vitamin B Compound Strong Tablets Carbachol Injection
+- Margin: Halebarb Tablets …
+- Margin: Maalox Suspension Maalox Tablets No. I Maalox Tablets No. 2 Emetrol Solution … Pankreon Compositum Tablets Isoderm Liquid 125 ml. Isoderm Liquid 250 ml. Isoderm Liquid 1000 ml. Ananase Dragees …
+- Margin: Dermovate Cream Aspro Junior Tablets Probutamid Tablets
+- Margin: Win-Ger Tablets … Promide Tablets … Prodoxide Tablets Glycemex Tablets Gastrindon Tablets
+- Margin: Butacortindon Tablets
+- Margin: Amphetindon Tablets
+- Margin: Dermovate Ointment
+- Margin: Eryfer Capsules … Flaminon-Alka Capsules 125 mgm. Exluton Tablets … *Iberet 500 Filmtab
+- Margin: Rowlind Liniment … Junior Phensic Tablets Phensic Cough Mixture
+- Margin: Strepsils with Honey and Lemon Terfluzin Tablets …
+- Margin: Ex-Lax Instant Mix Ecotrin Tablets 10 grains
+- Margin: Inderal 80 Tablets
+- Margin: Sucaryl Liquid …
+- Margin: Sucaryl Tablets … Surbex T. Tablets …
+- Margin: *Change in formula.
+- Margin: Country of Conditions origin of Sale
+- Margin: Jamaica Freely
+- Margin: do. do. do. do. do. Third Schedule do. do. India Freely do. Third Schedule do. do. do. do.
+- Margin: do. do. England do. U.K. Freely Holland Third Schedule do. do. U.S.A. do. do. do. do. do. Mexico Freely U.K. do. do. do. do. do.
+- Margin: do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. Third Schedule do. do. Venezuela do. do. do. U.K. do. do. do. U.S.A. Freely Canada do. Czechoslovakia do.
+- Margin: do. do. do. do. do. do. do. do. do. do.
+- Margin: Trade Name and Form
+- Margin: Tab Ephedrine HC1 15 mg.
+- Margin: Tab Ephedrine HC1 30 mg. Tab Ephedrine HC1 60 mg. Tab Ferrous Sulphate Tab Nicotinamide 100 mg.
+- Margin: Tab Vit. B2 10 mg. Tab Vit. B1 100 mg. Tab. Vit. B6 20 mg. Tab. Vit. B6 50 mg. Tab Vit. B Complex Tab Vit. C 50 mg. Tab Vit. C 100 mg. Tab Vit. C 200 mg. Tab. Vit. C 500 mg. Caps Vit. E 10 mg. Inj. Nicotinamide lc.c. 25% Inj. Oxytocin 5 I.U. Inj. Procaine HC1 1% x 5cc
+- Margin: Inj. Procaine HC1 2% x 5cc Inj. Procaine HC1 2% x 1cc Inj. Procaine HC1 1% x 10cc Inj. Procaine HC1 2% x 10cc Inj. Procaine cum Adrenaline 2% x 2cc Inj. Procaine cum Adrenaline 1% x 2cc Inj. Procaine cum Adrenaline 1% x 5cc Caps. Vit. E 100 mg. Tab Ergometrine Mal 0.2 mg.
+- Margin: Tab Ergometrine Mal 0.5 mg. Tab Ergotamine Tart 1 mg.
+- Margin: Tab Phthalysulphathiazole 500 mg. Tab Stilboestrol 0.5 mg. Tab Stilboestrol 5.0 mg. Tab Stilboestrol 20 mg.
+- Margin: Tab Trisulpha 500 mg
+- Margin: Inj. Ergotamine Tart 0.5 mg. Inj. Glucose 10% x 10cc Inj. Glucose 20% x 10cc Inj. Glucose 40% X 10cc Inj. Herparin 5,000 I.U. Inj. Lobeline HC1 3 mg. Inj. Lobeline HC1 10 mg Inj. Methylergometrine Mal 0.2 mg.
+- Margin: Country of Conditions origin of Sale
+- Margin: Czechoslovakia Third Schedule do. do. do. do.
+- Margin: do. do.
+- Margin: do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. Controlled Drug do. do. do. do.
+- Margin: do. do.
+- Margin: do. Third Schedule do. do. U.S.A. do. U.K. do. do. do. do. do.
+- Margin: U.S.A. Freely W. Germany Third Schedule do. do. do. do. do. do. Belgium do. do. do. do. do. U.S.A. do. do. do. Belgium do. Canada do. do. do. do. do. do. do. do. do. do. do. do. do.
+- Margin: do. do. do. do. do. do. U.K. do. Canada do. do. do. do. do.
+- Margin: Trade Name and Form
+- Margin: Urozide Tablets 50 mg. Rhinopront Syrup … Vibazine with B Complex Tablets Demulen Tablets 0.5 mg.
+- Margin: Fasigyn Tablets … Orande Expectorant Cough Mixture Gervine Capsules … Zubes Lemon and Honey Lozenges Parfenac Cream 5% SK 65 Capsules …
+- Margin: *Nilvern Drench … *Nilzan Drench … Darbid Tablets …
+- Margin: Sanatogen Junior Vitamins
+- Margin: Leponex Ampoules Leponex Tablets … Tetavax … … Tremaril Tablets … Tremaril Bitabs … Halothane BP … Noveril Tablets … Korean Ginseng Capsules Melbrosia For Men Tablets Melbrosia P.I.D. for Women Okabukal Tablets …
+- Margin: Baoercon Capsules
+- Margin: Vicks Lipwick … Pankreosil Tablets Maalox Plus Tablets Maalox Plus Suspension Biligram Amps …
+- Margin: Microgynon 30 Tablets
+- Margin: Denorex Medicated Shampoo Liquid Denerex Medicated Shampoo Gel. Anbesol … Resiguard Liquid … Aldecin Inhaler …
+- Margin: *Change in formula.
+- Margin: Country of Conditions origin of Sale
+- Margin: U.K. Freely U.S.A. do. do. do. do. do. do. do. do. do. U.K. Third Schedule do. do. do. do. do. do. W. Germany Freely U.S.A. do. do. do. India do do. do. do. do. do. do. do. do. do. do. do. Third Schedule do. do. do. do. do. Freely U.S.A. do. U.K. do. do. do. do. Third Schedule do. do U.K. Freely do. do. U.S.A. do. U.K. Third Schedule W. Germany do. U.K. Freely do. Third Schedule Czechoslovakia Freely do. do. do. do. do. do. do. do. U.K. do. do. do. do. do. do. do. do. do. do. do. do. do.
+- Margin: Trade Name and Form
+- Margin: Extravite Tablets … Garlic Capsules … Garlic and Parsley Capsules Garlic and Parsley Tablets Halibut Liver Oil Capsules Hi-Pro Liver Tablets High Potency B Complex Capsules High Potency Brewers Yeast Tablets Phisoderm Liquid Integrin Capsules …
+- Margin: Integrin Tablets … Ferofolindon Tablets Neo Fortindon Tablets Laxindon Tablets … Pine Bros. Cough Drops Beach Nut Cough Drops Pred Mild Ophthalmic Suspension Pred Forte Ophthalmic Suspension Sinemet Tablets … Desone Tablets 0.5 mg. Desone Injection … Diazepam Tablets 5 mg. Vagyl Tablets … Chlorpromazine Syrup Aspirin Tablets 300 mg.
+- Margin: Carr's Nasal Inhalers Trental Dragees …
+- Margin: Trental Ampoules 5 ml. Spasmacid Tablets Serenack Tablets 2 mg.
+- Margin: Sanatogen Vit. C. Tablets Rynacrom Capsules Dantrium Capsules 25 mg.
+- Margin: Poly B Syrup … Equipoise Injection
+- Margin: Alligoa Garlic Pills De-Menthasin Lozenges Restora Dragees … Corti-Europuran Ointment
+- Margin: Hijuven Capsules Richbron Capsules Strocain Tablets … Methaphyllin Tablets
+- Margin: Franol TF Tablets
+- Margin: Country of Conditions origin of Sale
+- Margin: U.S.A. Third Schedule do. Freely U.K. do. do. do. do. do. do. do. do. do.
+- Margin: do. do.
+- Margin: do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. Canada Third Schedule do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. Mexico Freely do. do. Venezuela do. do. do. do. do. India do. do. do. do. do. do. do. do. do. do. do. do. Third Schedule do. Controlled Drug U.S.A. Third Schedule do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do.
+- Margin: Trade Name and Form
+- Margin: Chlorphentermine Tablets
+- Margin: Chlorpromazine Tablets Dicyclomine Injection Dicyclomine HC1 Tablets Digitoxin Tablets … Dexamethasone Tablets Dihydroxycoumarin Tablets Digitalis Tablets …
+- Margin: Digoxin Tablets … Diethylpropion HCI Tablets Epinephrine HC1 Injection Diphenhydramine Injection Estradiol Valerate Tablets Ergonovine Maleate Tablets Gluthimide Tablets Hydralazine Tablets Hydrocortisone Cream Hydrocortisone Ointment Hydrocortisone Tablets Hydrocortisone Injection Hydrochlorothiazide Tablets
+- Margin: Mannitol Hexanitrate Tablets Nytime Syrup … Promethazine Expectorant Promethazine Pediatric Expectorant Promethazine Tablets Promethazine Phenylephrine Expectorant Poly-Flor-Vite … Poly-Vite … Sinudrain Tablets … Sinu-Wol Tablets … Sinu-Wol II Tablets Sansprin Tablets … Sansprin Chewable Tablets Syr-Vite … Theophylline Elixir Theophylline K. I. Elixir Theolate Elixir … Trio-Wol Tablets … Trio-Wol Syrup … Tri-Vites … Tuss-Chlorphenade Caps Vitamin E Capsules Vita-Min Tablets … Vita-Min T. Tablets Una-Vit Tablets … Una-Vit Fer Tablets Vitamin B12 Tablets Vit-A-Day Capsules Vit-A-Day M. Capsules Vit-A-Day T. Capsules Wolgraine Tablets Wolgelsil Tablets … Wol-Lac Tablets … Woltrinsic Capsules
+- Margin: Country of Conditions origin of Sale
+- Margin: U.S.A. Freely do. Third Schedule do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do.
+- Margin: do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do: do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do.
+- Margin: do. do.
+- Margin: do. do.
+- Margin: do. do. do. do. do. do. do. do.
+- Margin: Trade Name and Form
+- Margin: Tetracaine Ophthalmic Solution Theobromine Tablets Thyroid Tablets … Vitamin A Capsules Vitamin B1 Injection Vit B 12 Injection Vaginal Sulfa Cream Amobarbital Capsules
+- Margin: Batabarbital Elixir Butabarbital Tablets Dicyclomine HC1 with Phenobarbital Capsules Dexamo Capsules … Dextro-Amphetamine Sulphate Tablets Pentobarbital Sodium Capsules Pentobarbital Sodium Elixir
+- Margin: D.S.S. Syrup …
+- Margin: Dimenhydrinate Tablets
+- Margin: Decongestant Expectorant D.S.S. with Casanthranol Capsules Ferrous Sulfate Tablets Ferrous Gluconate Tablets Folic Acid Tablets H.B. Ear Drops … H.P. Bee-Cee Capsules Histawol Elixir … Kaowol Suspension Liothyronine Sodium Tablets Magnalum Tablets Magwol Liquid … Aminophylline Tablets Ammonium Chloride Tablets Asperin E.C. Tablets Aspirin Buffered Tablets Apap Elixir …
+- Margin: B. Complex T. Tablets Bellacher Tablets …
+- Margin: Bisalex Tablets … Chlorpheniramine Maleate Tablets Chlorpheniramine Maleate Syrup
+- Margin: Country of Conditions origin of Sale
+- Margin: U.S.A. Freely do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. Mexico Third Schedule do. do U.K. Freely do. do. do. do. U.S.A. do. do. do. do. do. do. do. do. do. do do. do. do. do. do.
+- Margin: do. do. do. do. do. Third Schedule do. do. do. do. U.K. Freely do. do. do do. do. do. do. do. do. do. do. do. do. do. U.S.A. do.
+- Margin: do. do. U.K. do. do do. do. do. do. Third Schedule. do. do. Belgium Freely do. do. U.S.A. Third Schedule do. do. do. do. U.K. Freely do. do.
+- Margin: Trade Name and Form
+- Margin: Vitamin E. 100 I.U. (Natural) Capsules
+- Margin: Vitamin E. 200
+- Margin: Vitamin C 100 mg. Chewable Tablets Vitamin C 25 mg. Chewable Tablets Vitamin C 500 mg. Chewable Tablets Otoryl Ear Drops … Euthatal Solution …
+- Margin: *Synandone Cream
+- Margin: *Synalar Forte Cream Blocadren Tablets Rowacylat Tablets Ovral Tablets 21's Nordiol Tablets 21's Ovulen 50 Tablets Ovulen Tablets …
+- Margin: Enavid 5 mg. Tablets Metrulen-M Tablets Norinyl-L Tablets Noriday Tablets … Nopmenon Tablets Norinyl-2 Tablets
+- Margin: Microgynon 30 Tablets Anovlar 21 4 mg. Tablets Anovlar 1 mg. Tablet Gynovlar 21 Tablets Eugynon Tablets … Eugynon ED Tablets Neogynon Tablets Neogynon ED Tablets Microlut Tablets Rivotril Tablets 0.5 mg.
+- Margin: Rivotril Injection 1 mg./ml. Rivotril Tablets 2.0mg. †Trasicor Tablets 20mg. †Trasicor Tablets 40mg. †Trasicor Tablets 80mg. ‡Engran Tablets … §Flaminon Capsules
+- Margin: *Denotes change in Formula. †Now film coated. ‡Change in excipient. §Change in country of origin.
+- Margin: Country of Conditions origin of Sale
+- Margin: U.S.A. Third Schedule U.K. do. U.S.A. Freely
+- Margin: do. do.
+- Margin: Colombia Third Schedule do. do. do. do. Switzerland do.
+- Margin: do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. Ireland Freely Puerto Rico do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. Belgium do. Puerto Rico do. do. do. do. Third Schedule do. do. do. do. do. Freely U.S.A. Third Schedule W. Germany do. do. Freely U.K. do.
+- Margin: do. do. do. do. U.S.A. Third Schedule do. do. do. do.
+- Margin: Trade Name and Form
+- Margin: Climestrone Tablets 0.625
+- Margin: Climestrone Tablets 1.25 Sandopart Tablets 50 I.U. Teronac Tablets 1 mg. Teronac Tablets 2 mg. Cadilagripe Liquid Cadimalt … Cadiplex Tablets … Cadrol Tablets … Cadistin Expectorant Cadistin Tablets … Fergulate Syrup … Hoopar Granules … Multimin Drops … Multimin Liquid … Neuroxin-12 Tablets Vitarbin Elixir … Wormicid Elixir … Butadex Tablets …
+- Margin: Cabrium Tablets … Cadiprol Tablets … Cadisper-C Tablets Cadistin Injection … Cadiphylate Injection Caduserp Tablets … Calcirol D2 Granules Cal-D-Rubra Injection Cardina Tablets … Cemide Eye Drops 10% Cemide Eye Drops 20% Cemide Eye Drops 30% Chlorformin Tablets Dexaphylate Tablets Dexona Tablets … Dexona Injection … Epsolin Tablets … Isocadipas Tablets Isopar Tablets … Neurabol-H Injection Neuroxin-12 Injection Novrison Capsules Pesulin Liquid … Pesulin-O Liquid … Phenormin Tablets P.M.T. Tablets … Renitol Injection … Socrol Injection … Thisopar Tablets … Panadol Elixir … Allerest Tablets …
+- Margin: Allerest Time Capsules Coldene Adult Cough Formula Syrup Coldene Children's Cough Formula Syrup Cruex Aerosol … Desenex Ointment
+- Margin: Country of Conditions origin of Sale
+- Margin: U.S.A. Freely
+- Margin: do. do. do. do. W. Germany do. do. do. do. do. do. do. do. Third Schedule U.S.A. do. do. do. do. do. U.K. Freely Korea Freely
+- Margin: U.S.A. do.
+- Margin: W. Germany Third Schedule U.S.A. do. do. Freely U.K. do. do. do. do. do. do. do. do. do. do. do. do Third Schedule W. Germany Freely U.K. Third Schedule do. do. U.S.A. Freely
+- Margin: do. do. Canada do. U.K. Third Schedule U.S.A. Freely U.K. do. U.S.A. Third Schedule U.K. do. India do. Belgium Freely U.K. Third Schedule Canada do. do. do. U.K. Freely Switzerland do. U.S.A. do. do. do. do. do. do. do.
+- Margin: Trade Name and Form
+- Margin: Micronor Tablets 42's
+- Margin: Glucophage Tablets 850 mg. Novinol 21 Tablets Novinol 28 Tablets Oestrilin Vaginal Cones Oestrilin Tablets 0.65 mg. Oestrilin Tablets 1.25 mg. Oestrilin Vaginal Cream Rubion 1000 Injection Metaboline Tablets
+- Margin: B-Totum 500 Capsules Hemo-Somaton with Vitamin C Ampoules and Tablets Kaolin Pectin Mixture NF Maxi-6 Tablets … Maxi-10 Tablets … Neo-Derm Powder Fertinic Capils … Vasculine Tablets
+- Margin: Aspirin Tablets 300 mg.
+- Margin: Ephedrine Hydrochloride Tablets 15 mg. Ferrous Sulphate Tablets Multivitamin Tablets Vitamin Capsules
+- Margin: Digoxin Tablets 0.25 mg.
+- Margin: Prednisolone Tablets 1 mg. Burinex Tablets 1 mg.
+- Margin: Septrin Dispersible Tablets
+- Margin: Vitamin E Capsules Vitamin C Tablets
+- Margin: Chewable Multivitamins Senior Multivitamins
+- Margin: Dabylen Tablets … Dabylen Forte Tablets Dabylen-Calcium Tablets Migranant Tablets
+- Margin: Country of Conditions origin of Sale
+- Margin: U.S.A. Freely
+- Margin: do. do. do. do.
+- Margin: do. do. do. do. do. do.
+- Margin: do. do. do. do.
+- Margin: do. do.
+- Margin: do. do.
+- Margin: U.K. do. do. do. do. do. Canada do. do. do. do. do. do. do. do. do. do. do. Belgium do. do. Third Schedule U.S.A. Freely do. do. do. do. Guyana do. do. do. U.K. do. do. do. do. Third Schedule Switzerland do. do. do. U.S.A. do. Finland do. do. do. do. do. do. do. do. do. do. do. do. do. dp. do. do. do. do. do. do. do.
+- Margin: Trade Name and Form
+- Margin: Koshmir Pain Balm Tonic Indon Syrup
+- Margin: Lysindon Drops … Spasmindon Pediatric Drops
+- Margin: Geriatric Indon Tablets Univite Drops … Sycocam 5 Tablets
+- Margin: Sycocam 10 Tablets Sycocam Injection Borolene Cream … Vapolene Ointment Neurovitam Tablets Multivitan Tablets Vitafer Tablets … Beoktan Tablets …
+- Margin: Potentol Tablets …
+- Margin: Bellavita Ointment Ani-korti Compound Suppositories Vitone Tablets …
+- Margin: Ludiomil Tablets 10 mg.
+- Margin: Ludiomil Tablets 25 mg. Ludiomil Tablets 50 mg. Beconase Nasal Spray
+- Margin: Urecholine Tablets 5 mg.
+- Margin: Urecholine Tablets 10mg. Urecholine Tablets 25mg. Globuman Berna B.C.G. See Vaccine Ferrum Hausmann Drops Ferrum Hausmann Syrup Ferrum S.R. Capsules Calcium Hausmann Syrup Swizzina Tonic … Sansilla …
+- Margin: Kalium S.R. Capsules Ferrum Hausmann Intramuscular Hippiron 400 … Ferrum Hausmann Vet Solcoseryl Eye Gel Stugeron Forte Capsules
+- Margin: Triperidol Tablets 1 mg.
+- Margin: Country of Conditions origin of Sale
+- Margin: Belgium Third Schedule do. do.
+- Margin: U.K. Freely do. do.
+- Margin: do. do.
+- Margin: U.S.A. Third Schedule do. do. do. do. do. do. do. do. do. do. do. do. do. do. Costa Rica Freely do. do. do. Third Schedule U.S.A. do. do. do. do. do. do. do. do. do. Venezuela Freely Japan Third Schedule U.K. do. U.S.A. Freely
+- Margin: U.K. Third Schedule U.S.A. Freely do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. Third Schedule Canada Freely U.S.A. do. do. do.
+- Margin: do. do. do. do.
+- Margin: Trade Name and Form
+- Margin: Vitamin C 500 mg. Tablets
+- Margin: Nalefirm Capsules … Aspirin Tablets 300 mg Folic Acid Tablets 5 mg. Sodium Bicarbonate Compound Tablets Vitamin B Compound Tablets B.P.C. Ferrous Gluconate Tablets 300 mg. Multivitamin Tablets Phthalylsulphathiazole Tablets 500 mg. Prednisolone Tablets 5 mg. Prednisone Tablets 5 mg. Sulphaguanidine Tablets 500 mg. Sulphadimidine Tablets 500 mg. Imipramine Tablets 25 mg. Phenylbutazone Tablets 200 mg.
+- Margin: Seirogan Pills …
+- Margin: Kelpathin Tablets Paradenyl Tablets
+- Margin: Madecassol Powder
+- Margin: Madecassol Ointment Heptacort Plus Cream
+- Margin: Furosemida Tablets 40 mg. Diazepam Tablets 2 mg. Diazepam Tablets 5 mg.
+- Margin: Reserpina Tablets 0.25 mg. Prednisolona Tablets 5 mg. Sulfametazina 25% Injection Levamisol Injectable Acid Nalidixoco 500 mg.
+- Margin: Country of Conditions origin of Sale
+- Margin: Venezuela Third Schedule Canada do. do. do. U.S.A. Freely do. do. India Third Schedule Venezuela do. U.K. Freely do. do. Canada do. do. do. do. do. do. do. do. Third Schedule Belgium Freely do. do. do. do. do. Third Schedule do. do. do. do. U.K. do. do. do. U.S.A. Freely
+- Margin: do. do.
+- Margin: do. do.
+- Margin: do. do.
+- Margin: do. do. do. do.
+- Margin: do. do. do. do.
+- Margin: do. do. do. do.
+- Margin: do. do.
+- Margin: do. do.
+- Margin: do. do.
+- Margin: do. do.
+- Margin: do. do.
+- Margin: do. do.
+- Margin: do. do.
+- Margin: Trade Name and Form
+- Margin: Novofuran Tablets 50 mg. Novofuran Tablets 100 mg. Novoflurazine Tablets 1 mg. Novoflurazine Tablets 2 mg.
+- Margin: Novopoxide Tablets 10 mg.
+- Margin: Novopropoxeyn Compound Capsules 65 mg Novodiapam Tablets 5 mg. Novodiapam Tablets 10 mg. Novonidazole Oral Tablets Novempro 400 mg. Tablets Roha-Lac Stomach Tablets Decadron-La Injection
+- Margin: Kilofort Granules … Orgabolin Tablets 2 mg.
+- Margin: Dantrium Capsules 50 mg. Epilim Tablets 200 mg.
+- Margin: Naphcon Forte Ophthalmic
+- Margin: Balanced Salt Solution Econopred Suspension 1.8% Econopred Suspension 1% Glaucon Solution 0.5% Glaucon Solution 1.0% Glaucon Solution 2.0% Valadol Tablets 325 mg. Halog Cream 0.1%
+- Margin: Nalidixie Acid 500 mg.
+- Margin: Tablets Osiren Dragees 50 mg. Osiren Dragees 100 mg. Gamma-Veinine Vaccine IFA Tablets … IFA Syrup … Diphenyl Expectorant
+- Margin: Tridyl 2 Tablets …
+- Margin: Country of Conditions origin of Sale
+- Margin: Barbados Third Schedule U.S.A. Freely do. do. do. do. do. do do. do. do. do. U.K. Controlled Drug do. do. do. do. do. Third Schedule do. do. do. do. do. do. do. do. do. do. do. do.
+- Margin: do. do. do. do. do. do. do. do. do. do. do. do.
+- Margin: do. do.
+- Margin: do. do. do. do. do. do. do. do. do. do. do. do. do. do.
+- Margin: do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do.
+- Margin: do. Freely do. do. do do.
+- Margin: Trade Name and Form
+- Margin: Ferrous Gluconate Tablets 300 mg. Promethazine Tablets 25 mg. Biscodyl Tablets 5 mg.
+- Margin: Quinine Bisulphate Tablets 200 mg.
+- Margin: Frusemide Tablets 40 mg.
+- Margin: Akrofollin Injection
+- Margin: Hydrocortisone Injection 125 mg./5 ml. Rausedyl Tablets 0.25 mg. Seduxen Tablets 10 mg. Klion Tablets 250 mg. Rigedal Tablets … Rigenicid Dragees Atravet Injectable Atravet Granules … Atravet Tablets …
+- Margin: Vertigon Spansule 10 mg. Vertigon Spansule 15 mg. Maalox Plus Suspension (lemon flavoured) Maalox Plus Tablets (lemon flavoured)
+- Margin: Paracetamol Tablets 500 mg.
+- Margin: Folic Acid Tablets 5 mg. Piperazine Citrate Elixir Prednisolone Tablets 5 mg.
+- Margin: Digoxin Tablets 0.25 mg. Reserpine Tablets 0.25 mg.
+- Margin: Phenobarbital Tablets 1/4 gr.
+- Margin: Phenobarbital Tablets 1/2 gr.
+- Margin: Phenobarbital Tablets 1 gr. Sequilar Tablets …
+- Margin: Country of Conditions origin of Sale
+- Margin: W. Germany Freely do. Third Schedule U.K. Freely
+- Margin: do. do.
+- Margin: do. do.
+- Margin: do. do. do. do. do. do. do. do. do. do. do. Third Schedule do. do. do. do. do. do. India Freely U.K. do. do. do. India do. do. do. Belgium do. U.K. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. Costa Rica do. do. do. Canada Third Schedule do. do. U.S.A. Freely do. do. do. do. do. Third Schedule U.K. do. do. do. do. Freely Denmark Third Schedule do. do. do. do. do. do. Jamaica Freely UK. do.
+- Margin: Trade Name and Form
+- Margin: Ludiomil Tablets 75 mg.
+- Margin: Vitamin E Skin Oil Vitamin E Skin Cream Vitamin C & E (Vitalitee) Capsules Oriental Ginseng Capsules Omni-M Tablets … H-11 Tablets …
+- Margin: H-11 Extract 2.5 ml. H-11 Oral liquid 50 cc. H-11 Suppositories… H-11 Ointment … Prednisolene Injection 10 mg. per ml. Psymod Tablets 1 mg. Psymod Injection 2 mg./ml. Renzol Tablets … Repositol Progesterone Injection 50 mg./ml. Sparteine Digitalis … Strophanthin Compound Tablets Stiglyn 1,500 Injection Telmin Powder …
+- Margin: Tussivax … Atropine Sulphate Injection Bactrovet 125 mg. Tablets Bactrovet 250 mg. Tablets Bactrovet 1G Tablets
+- Margin: Conofile Cream 2 per cent Dexamethasone Injection 2 mg/ml.
+- Margin: Ectoral Tablets 250 mg. 500 mg. 1G Innovar-vet … Metofane … Phenylbutozone Injection 20 per cent Canex Solution … Cerbinol Solution … Cerbinol Cream … Diryl Powder … Epitone Liquid … Ferrogen Liquid … Iron-Dextran complex K.F.L. Insecticide Shampoo
+- Margin: Country of Conditions origin of Sale
+- Margin: U.S.A. Freely do. do. do. do. do. do. do. do. do. do. Belgium Third Schedule do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. Hungary do.
+- Margin: do. do.
+- Margin: do. do.
+- Margin: do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. U.S.A. Freely do. do. Denmark Third Schedule do. do. do. do. do. do. U.K. do. do. Freely
+- Margin: do. do. do. do. do. do.
+- Margin: do. do. do. do. do. do. do. do. do. do. do. do. do. do.
+- Margin: Trade Name and Form
+- Margin: Methylthiouracil Tablets 100 mg. Methyltestosterone Tablets 10 mg. Stilboestrol Tablets 1 mg. Stilboestrol Tablets 5 mg.
+- Margin: Sip'n Rinse Powder Virazole Capsules 100 mg.
+- Margin: Polioral 2 ml. … Dif-Tet-All Vaccine Diphtheria and Tetanus Toxoids and Pertussis Vaccine
+- Margin: Normal Saline Injection Potassium Chloride Injection Aminophylline I.V. Injection Lignocaine Hydrochlor 1 per cent Plain for Injection Saccharin Tablets Ferrous Sulphate Tablets Halibut Liver Oil Capsules Calcium Lactate Tablets Ferrous Gluconate Tablets 300 mg. Calcium Gluconate Tablets 600 mg. Folic Acid Tablets 5 mg.
+- Margin: Digitalis Tablets 30 mg. Digitalis Tablets 60 mg. Imipramine Tablets 25 mg. Glyceryl Trinitrate Tablets 0.5 mg. Dogmatil Capsules Dogmatil Oral Solution Dogmatil Ampoules Primperan Elixir Primperan Suppositories Primperan Drops … Primperan Paediatric Suppositories Primperan Injection Primperan Tablets
+- Margin: Acetomenaphthone Tablets
+- Margin: Country of Conditions origin of Sale
+- Margin: U.K. Controlled Drug do. do. do. do. do. do. U.S.A. Freely do. do. do. do. do. do. do. do. do. do. do. do.
+- Margin: do. do.
+- Margin: do. do. do. do.
+- Margin: U.K. do.
+- Margin: do. do. do. do. do. do. do. Third Schedule do. do.
+- Margin: do. do. do. do. do. do. do. do. do. Controlled Drug Guyana Freely U.K. Third Schedule do. do. do. do.
+- Margin: do. do.
+- Margin: do. do. do. do. Switzerland Freely do. Third Schedule Canada Freely do. do. U.K. Third Schedule do. do.
+- Margin: Trade Name and Form
+- Margin: Isophane Insulin Injection 40 V/ml. Isophane Insulin Injection 80 V/ml.
+- Margin: Heparin (Mucous) Injection
+- Margin: Heparin (Mucous) Injection
+- Margin: Heparin (Mucous) Injection
+- Margin: Tinactin Aerosol … Etrafon A Tablets …
+- Margin: Etrafon D Tablets … Etrafon M Tablets Hyperstat I.V. Injection Quitaxon Tablets 10 mg. Quitaxon Tablets 25 mg. Euglocan Tablets 5 mg. Sotacor Ampoules Zipix Tablets 40 mg. Eros Surface Anaesthetic Cream Eros Surface Anaesthetic Spray Datril Tablets … Datril Syrup … Sebulex Cream … Sebulex Lotion … Fostex Cake … Fostex Cream Lotion Estar Gel … Sebucare Lotion … Transact Gel … Pernox Regular Cream
+- Margin: Lowika Cake … Fostril Lotion … Fostril HC Lotion
+- Margin: Diuril Tablets …
+- Margin: Dubam Spray …
+- Margin: Neothylline Tablets 400 mg. Neothylline Elixir … Neothylline Injection
+- Margin: Country of Conditions origin of Sale
+- Margin: U.S.A. Freely do. Third Schedule Germany do. U.S.A. Freely U.K. Third Schedule do. do. do. do. Switzerland do. do. do. do. Freely do. do. do. do. U.K. do. do. do. do. do.
+- Margin: do. do.
+- Margin: do. do.
+- Margin: do. do. do. do. Puerto Rico do. do. do. Canada Third Schedule do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. Freely do. do. do. do.
+- Margin: do. do. do. do. do. do.
+- Margin: do. do. do. Third Schedule do. do. do. do. do. do.
+- Margin: Trade Name and Form
+- Margin: Aparkane Tablets 5 mg.
+- Margin: Chloromide Tablets Corax Capsules 5 mg. Corax Capsules 10 mg. Corax Capsules 25 mg. Ade Powder … Biodin … Bronclear … Eddi … … Electrosan … Flav-a-Dee … Head Start Poultry Head Start Swine … Piperazine Dihydrochloride Piperazine Wormer Solution Ro-Con … Tri-Sulfalyte … Whitstn-S … Wheat Germ Oil … Whit Vim Nos. 1, 2, 3 and 6 Piperazine A/M … B-Comp Injection Respiraid …
+- Margin: Sorbitrate Chewable Tablets 5 mg. Sorbitrate Sublingual Tablets 2.5 mg. Sorbitrate Sublingual Tablets 5 mg. Suladyne Tablets … Kinesed Chewable Tablets
+- Margin: Evadyne Tablets 25 mg.
+- Margin: Evadyne Tablets 50 mg. Stuart Prenatal with Folic Acid Tablets Theron Tablets … Antasil Tablets … Antasil Liquid … Sylixon-80 Tablets Cari-Tab Tablets … Dialose Capsules … Dialose Plus Capsules Effersyllium Instant Mix Ferancee HB Tablets Stuart Hematinic Tablets Stuart Hematinic Liquid Mucoplex Tablets Mulvidren-F Tablets Orexin Tablets … Probec-T Tablets … Stuart Amino Acids Tablets
+- Margin: Country of Conditions origin of Sale
+- Margin: U.S.A. Freely do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. Third Schedule do. do. do. Freely do. Third Schedule do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. Canada Freely Australia Third Schedule do. do. do. do. U.K. do. do. do. Switzerland do. do. do. do. do. do. do. do. do. U.S.A. Freely do. do. do. do. do. do. do. do. U.K. do. U.S.A. do. do. Third Schedule
+- Margin: Trade Name and Form
+- Margin: Coforta Injection …
+- Margin: Chloroprom Tablets 25 mg. Chloroprom Tablets 50 mg.
+- Margin: Eryfer Compound Capsules Merital Capsules 25 mg. Merital Capsules 50 mg. Amprovine 25% … Amprovine 20% W.S.P. Equine Proleen 775 Pelletes Vitasil Plus Powder Anaprime Injection
+- Margin: Synsac Solution Enema Synotic Otic Solution Norpace 100 mg. Capsules Norpace 150 mg. Capsules Valpin 50 Tablets … Valpin 50 P. B. Tablets
+- Margin: Oculosan Eye Drops Novesin Eye Drops 0.4%
+- Margin: Oculoforte Eye Drops Sperscarpine Eye Ointment
+- Margin: Spersallerg Eye Drops Spersacarpine H6 Drops 1% Spersacarpine H6 Eye Drops 2% Spersacarpine H6 Eye Drops 3% Spersacarpine H6 Eye Drops 4%
+- Margin: Lecithin Capsules Humphrey's High Potency
+- Margin: Humphrey's High Potency with Mineral Tablets Humphrey's Vitamin C 300 Tablets Humphrey's Vitamin E 100 Capsules Humphrey's Vitamin C 500 Tablets Humphrey's Vitamin E 200 Capsules Humphrey's Multivitamins with Iron Tablets Equimate Injection
+- Margin: Estrumate Injection
+- Margin: Country of Conditions origin of Sale
+- Margin: Hungary Third Schedule do. do. do do. U.S.A. Freely U.K. do. do. Third Schedule U.K. Freely do. do. do. Third Schedule do. do. do. do. do. do. do. do. Ireland do. do. do. do. do.
+- Margin: do. Controlled Drug do. do. do. do. do. Freely do. do.
+- Margin: do. do.
+- Margin: do. do. do. do. do. do. do. do. do. Third Schedule W. Germany do. do. do. do. do. U.K. Freely do. do. do. do. do. do. do. do. do. do.
+- Margin: do. do.
+- Margin: do do. do. do. do. do. do. do. do. do.
+- Margin: Trade Name and Form
+- Margin: Mild Ocean Help Tablets Lanes Carotene Capsules
+- Margin: Lusty's Lecithin Capsules Lusty's Garlic Pearls Lusty's Malted Kelp Tablets A and D Halibut Liver Oil Capsules Dried Yeast Tablets 500 mg. One Daily and Iron Multivitamin Tablets A and D Cod Liver Oil Capsules 300 mg. Ferrous Sulfate Tablets 300 mg. U.S.P. Ferrous Gluconate Tablets 300 mg. N.F. Calcium Gluconate Tablets 600 mg. Calcium Lactate Tablets 600 mg.
+- Margin: Vitamin B6 with Kelp,
+- Margin: Capsules Go-Pain Gel … Toilet Lanolin Cream Golden Eye Ointment Cold Sore Ointment Orange Halibut Vitamins
+- Margin: K-Lens Wetting Solution Junior Antiseptic Cream Vapine Rub … Tancolin Linctus … Maws Gripe Mixture K. L. N. Suspension Soothadent Liquid Vitamin C 250 mg. Chewable Tablets Vitamin C 500 mg. Chewable Tablets Vitamin B1 50 mg. Tablets Vitamin B1 100 mg. Tablets Vitamin B1 500 mg. Tablets Vitamin B6 25 mg. Tablets Vitamin B6 100 mg. Tablets
+- Margin: Multimin Multivitamin and Mineral Tablets One Daily Multivitamins
+- Margin: Country of Conditions origin of Sale
+- Margin: Canada Freely
+- Margin: do. do. do. do. do. do. do. do. do. do.
+- Margin: U.S.A. Third Schedule do. do. do. Freely do. Third Schedule do. do. do. do. do. do. do. do. do. do. Sweden do. do. do. do. do. U.S.A. do. do. do. do. do. do. do. do. do. do. Freely do. do.
+- Margin: do. do. do. do. do. do. do. do. do. do.
+- Margin: U.K. do.
+- Margin: do. do. England do. do. do. do. do. do. do. do. Third Schedule do. do. do. do.
+- Margin: do. do.
+- Margin: do. do.
+- Margin: do. do. do. do. do. do. do. do. do. do. England Freely
+- Margin: Trade Name and Form
+- Margin: Kloref Tablets … Histalon Tablets … Duofilm Liquid … Dristan … Darvocet N50 & 100
+- Margin: 51/1969.
