@@ -1,0 +1,7 @@
+# ANNEX II
+(Paragraph 3 of Article 98)
+CONSULTATIONS
+1. As soon as possible after an application for an investigation is accepted and in any event before the initiation of any investigation, a Member State whose products may be subject to such investigation, shall be invited for consultations with the aim of clarifying the situation and arriving at a mutually agreed solution.
+2. Furthermore, throughout the period of investigation, a Member State whose products are the subject of the investigation shall be afforded a reasonable opportunity to continue consultations, with a view to clarifying the factual situation and to arriving at a mutually agreed solution.
+3. Without prejudice to the obligation to afford reasonable opportunity for consultations, these provisions regarding consultations are not intended to prevent the authorities of a Member State from proceeding expeditiously with regard to initiating the investigation, reaching preliminary or final determinations, whether affirmative or negative, or from applying provisional or final measures, in accordance with the provisions of this Agreement.
+4. The Member State which intends to initiate any investigation or is conducting such an investigation shall permit, upon request, the Member State whose products are subject to such investigation access to non-confidential evidence, including any non-confidential summary of confidential data being used for initiating or conducting the investigation.
