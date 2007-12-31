@@ -1,7 +1,8 @@
 CORPORAL PUNISHMENT (OFFENDERS OVER EIGHTEEN) ACT
 CHAPTER 13:04
 Act
-7 of 1953 Amended by 9 of 1994 66 of 2000
+7 of 1953 Amended by
+9 of 1994 66 of 2000 16 of 2005 (By implication) 18 of 2005
 Note on Subsidiary Legislation
 This Chapter contains no subsidiary legislation.
 CHAPTER 13:04
@@ -23,5 +24,5 @@ An Act relating to the Corporal Punishment of Offenders
 above the age of eighteen years.
 [2ND APRIL 1953]
 - Margin: (1951-53 Ed). Vol. 1. Ch. 4. No. 28
-- Margin: 7 of 1953 [66 of 2000].
+- Margin: 7 of 1953. [66 of 2000].
 - Margin: Commencement.
