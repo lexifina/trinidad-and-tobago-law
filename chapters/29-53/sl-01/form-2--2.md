@@ -16,5 +16,4 @@ I certify that ... of ... who is applying for Registration as a Nurse was attach
 (4) Signature of person testifying ...
 Note: This Certificate must on completion be returned directly to-
 The Secretary, The Nursing Council of Trinidad and Tobago, ..., Port-of-Spain, Trinidad, Trinidad and Tobago, West Indies.
-Nurses and Midwives Registration Regulations [Subsidiary]
 - Margin: Regulation 40(2)(b).

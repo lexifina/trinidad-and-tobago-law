@@ -1,6 +1,5 @@
 # FORM 3
-Fees Receipt No. Result Examination No.
-...
+Fees Receipt No. Result Examination No...
 THE NURSING COUNCIL OF TRINIDAD AND TOBAGO
 FORM OF APPLICATION FOR ENTRY TO THE
 PRELIMINARY NURSING EXAMINATION
@@ -17,17 +16,18 @@ a Registered Student Nurse of the institution named above, hereby apply to be ad
 (Month) (Year)
 and have paid the Fee in the sum of $ ... in the manner stipulated.
 ...
-Signature of Applicant
-Date ...
+Signature of Applicant Date ...
 *Any name inserted here, different from that under which Student registration was effected must be supported by documentary evidence.
-Nurses and Midwives Registration Regulations [Subsidiary]
 (To be completed by Authority of Approved School of Nursing)
 Experience of Applicant
 Theoretical Clinical
-No. No. given attended Lectures
-Total experience received Elementary Anatomy and over the period- Physiology … … Personal and Communal
-From ... Health … … Principles and Practice of
-To ... Nursing … … Total clinical experience Introduction to Microbiology … (in hours) ... Emergency care … … Introduction-Study of Human
+No. No.
+Lectures given attended
+Elementary Anatomy and Total experience received
+over the period- Physiology … … Personal and Communal
+Health … … From ... Principles and Practice of
+Nursing … … To ... Introduction to Microbiology … Total clinical experience
+(in hours) ... Emergency care … … Introduction-Study of Human
 Behaviour … … Any Other(s)
 Leave Taken by Applicant
 Type of Leave No. of Hours Total
@@ -38,5 +38,4 @@ I, Authority of the Approved School of Nursing named above, do hereby certify th
 Day Month Year and that the conduct and performance of the Applicant has been satisfactory. I therefore recommend the Applicant for admission to the Preliminary Examination.
 Signature of Authority of School ...
 Title ... Date ...
-Nurses and Midwives Registration Regulations [Subsidiary]
 - Margin: Regulation 29(1).

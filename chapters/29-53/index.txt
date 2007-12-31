@@ -89,7 +89,6 @@ sl-01/r-34.md
 sl-01/r-35.md
 sl-01/r-36.md
 sl-01/r-37.md
-sl-01/r-38.md
 sl-01/r-39.md
 sl-01/r-40.md
 sl-01/r-41.md

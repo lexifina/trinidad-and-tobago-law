@@ -4,7 +4,8 @@ FORM OF APPLICATION FOR ADMISSION TO THE
 APTITUDE TEST FOR PROSPECTIVE STUDENT NURSES
 AND PUPIL-MIDWIVES
 Fees Receipt No. Form No. Examination No.
-... AFFIX
+...
+AFFIX
 PHOTOGRAPH
 HERE
 Complete this Application in your own handwriting
@@ -20,7 +21,6 @@ Full Postal Address ...
 ...
 I hereby apply to the Nursing Council of Trinidad and Tobago to be admitted to the Aptitude Test for prospective Student Nurses and Pupil-Midwives. I promise in the event of my being so admitted and in consideration thereof, to be bound by and to conform in all respects to the Regulations for the time being in force.
 And I also declare that the particulars which I have entered on this Form of Application are true and correct.
-Nurses and Midwives Registration Regulations [Subsidiary]
 I now remit herewith the prescribed fee and forward the following original documents, viz:
 (a) Certificate of Birth (with affidavit or with Certificate of Baptism)
 (b) Certificate of Marriage (if any).
@@ -31,7 +31,7 @@ Date ...
 (For Office Use Only)
 Documents Returned Educational Certificates Returned
 to Applicant G.C.E. or CXC Certificates
-CAM, LON or CXC Year Subject Shown (State 'O' or 'A') Certificate of Birth
+Year Subject Shown (State 'O' or 'A') Certificate of Birth CAM, LON or CXC
 of Baptism of Marriage
 ... Affidavit Any other supporting ...
 document (specify):
