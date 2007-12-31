@@ -1,5 +1,6 @@
 # SCHEDULE
-AGREEMENT ESTABLISHING THE FREE TRADE AREA BETWEEN THE CARIBBEAN COMMUNITY AND THE
+[87/2005 112/2005]. AGREEMENT ESTABLISHING THE FREE TRADE AREA
+BETWEEN THE CARIBBEAN COMMUNITY AND THE
 DOMINICAN REPUBLIC
 The Caribbean Community (CARICOM), of the one part, and the Dominican Republic, of the other part, (which hereinafter shall be referred to as "the Parties");
 CONSIDERING the growing process of economic globalisation and the intensification of the regional and sub-regional economic integration processes in which the Parties are deeply involved, and with the purpose of achieving more adequate integration in these processes and a more significant joint presence at their fora of negotiation;
@@ -12,22 +13,20 @@ CONSIDERING the rights and obligations of Member States of CARICOM and the Domin
 The Parties agree to create a Free Trade Area that includes Trade in Goods and Services, Investment and Economic Co-operation.
 ARTICLE I
 Establishment of the Free Trade Area
-1. (i) The Free Trade Area between CARICOM, comprising the
-States listed in 1(ii) and the Dominican Republic, (hereinafter referred to as "the Parties") is hereby established.
-(ii) Antigua and Barbuda, Barbados, Belize, Dominica, Grenada,
-Guyana, Jamaica, Montserrat, St. Kitts and Nevis, Saint Lucia, St. Vincent and the Grenadines, Suriname and Trinidad and Tobago.
+1. (i) The Free Trade Area between CARICOM, comprising the States listed in 1(ii) and the Dominican Republic, (hereinafter referred to as "the Parties") is hereby established.
+(ii) Antigua and Barbuda, Barbados, Belize, Dominica, Grenada, Guyana, Jamaica, Montserrat, St. Kitts and Nevis, Saint Lucia, St. Vincent and the Grenadines, Suriname and Trinidad and Tobago.
 2. For the purpose of this Agreement, its Annexes and Appendices, reference to the "territory of the Parties" shall-
 (i) for each Member State of CARICOM mean its territory, as
 well as its maritime areas, including the seabed and subsoil adjacent to the outer limit of the territorial sea, over which that State exercises, in accordance with international law, jurisdiction or sovereign rights for the purpose of exploration and exploitation of the natural resources of such areas;
 (ii) for the Dominican Republic mean the land areas, maritime
 area, air space, subsoil as well as the air space above them in accordance with its national legislation and international law.
-3. For the purpose of this Agreement, its Annexes and Appendices, the More Developed Countries of CARICOM (hereinafer referred to as "the MDCs") are:
+3. For the purpose of thisAgreement, itsAnnexes andAppendices, the More Developed Countries of CARICOM (hereinafer referred to as "the MDCs") are:
 (i) Barbados
 (ii) Guyana
 (iii) Jamaica
 (iv) Suriname
 (v) Trinidad and Tobago
-4. For the purpose of this Agreement, its Annexes and Appendices, the Less Developed Countries of CARICOM (hereinafter referred to as "the LDCs") are:
+4. For the purpose of thisAgreement, itsAnnexes andAppendices, the Less Developed Countries of CARICOM (hereinafter referred to as "the LDCs") are:
 (i) Antigua and Barbuda
 (ii) Belize
 (iii) Dominica
@@ -42,15 +41,14 @@ The fundamental objective of the Agreement shall be to strengthen the commercial
 (i) the establishment of a Free Trade Area between the Parties
 consistent with the Marrakesh Agreement Establishing the World Trade Organisation (the WTO);
 (ii) the promotion and expansion of the sale of goods originating
-in the territories of the Parties through, inter alia, free access to the markets of the Parties, elimination of non-tariff barriers to trade, and the establishment of a system of Rules of Origin, Customs Co-operation and the Harmonisation of Technical,
-Sanitary and Phyto-Sanitary Procedures;
+in the territories of the Parties through, inter alia, free access to the markets of the Parties, elimination of non-tariff barriers to trade, and the establishment of a system of Rules of Origin, Customs Co-operation and the Harmonisation of Technical, Sanitary and Phyto-Sanitary Procedures;
 (iii) the progressive liberalisation of trade in services;
 (iv) the liberalisation of the movement of capital between the
 Parties, and the promotion and protection of investments aimed at taking advantage of the opportunities offered by the markets of the Parties, and the strengthening of their competitiveness;
 (v) the promotion of the active participation of private economic
 agents with a view to deepening and broadening the economic relations between the Parties, including the promotion and establishment of joint ventures;
-(vi) the promotion and development of co-operative activities in
-the following areas: agriculture, mining, industry, construction, tourism, transportation, telecommunications, banking, insurance, capital markets, professional services and science and technology;
+(vi) the promotion and development of co-operative activities in the
+following areas: agriculture, mining, industry, construction, tourism, transportation, telecommunications, banking, insurance, capital markets, professional services and science and technology;
 (vii) the discouragement of anti-competitive business practices
 between and within the Parties.
 ARTICLE III
@@ -59,8 +57,8 @@ The Parties hereby establish a Joint Council comprising representatives of both 
 2. The Joint Council (hereinafter referred to as "the Council") shall-
 (i) supervise the implementation and administration of the
 Agreement, its Annexes and Appendices;
-(ii) resolve any dispute which may arise out of the
-interpretation, execution of, or non-compliance with, or application of this Agreement, its Annexes and Appendices in accordance with its powers under Article XV dealing with Settlement of Disputes;
+(ii) resolve any dispute which may arise out of the interpretation,
+execution of, or non-compliance with, or application of this Agreement, itsAnnexes andAppendices in accordance with its powers under Article XV dealing with Settlement of Disputes;
 (iii) establish and delegate responsibilities to ad hoc or standing
 committees, working groups or expert groups;
 (iv) supervise the work of all ad hoc or standing committees,
@@ -72,12 +70,11 @@ governmental entities, as necessary;
 periodic review, evaluating the functioning of this Agreement and recommending measures it considers suitable to better achieve its objective;
 (vii) carry out any other functions which may be assigned to it by
 the Parties;
-(viii) consider any other matter that may affect the operation of this
-Agreement, its Annexes and Appendices and take appropriate action.
+(viii) consider any other matter that may affect the operation of
+this Agreement, its Annexes and Appendices and take appropriate action.
 3. (i) The Council shall establish its rules and procedures.
 (ii) All decisions shall be taken by consensus.
-(iii) The decisions of the Council shall have the status of
-recommendations to the Parties.
+(iii) The decisions of the Council shall have the status of recommendations to the Parties.
 4. Each Party shall designate a representative to transmit and receive correspondence on its behalf.
 ARTICLE IV
 Meetings of the Joint Council
@@ -109,7 +106,7 @@ Double Taxation Agreements
 The Parties agree to work towards the adoption of agreements to prevent and avoid double taxation between the Member States of CARICOM and the Dominican Republic.
 ARTICLE XI
 Government Procurement
-The Parties agree to work towards the adoption of an agreement to encourage and facilitate greater participation by their economic entities in business opportunities arising from government procurement activities.
+The Parties agree to work towards the adoption of an agreement to encourage and facilitate greater participation by their economic entities in business opportunities arising from Government procurement activities.
 ARTICLE XII
 Intellectual Property Rights
 The Parties agree to develop and adopt an Agreement on Intellectual Property Rights, taking into account the rights and obligations provided for in the Agreement on Trade-Related Aspects of Intellectual Property Rights (TRIPS), contained in Annex IC of the Agreement establishing the WTO, and other relevant international agreements to which all the Member States of CARICOM and the Dominican Republic are signatories.
@@ -128,15 +125,15 @@ There shall be the following Standing Committees which shall operate under the g
 (vi) Committee on Investment;
 (vii) Committee on Intellectual Property Rights;
 (viii) Committee on Anti-Competitive Business Practices;
-(ix) Any other Committee which may be established by the Council
-pursuant to Article III 2(iii).
+(ix) Any other Committee which may be established by the
+Council pursuant to Article III 2(iii).
 2. Each Committee shall, inter alia, have the following functions:
 (i) monitor the implementation of the provisions of the
 Agreement, Annex or Appendix within its area of competence;
 (ii) consider all matters relating to the subject area within its
 competence, including such matters as may be referred to it by the Parties;
-(iii) consult on issues of mutual concern relating to its subject area
-which arise in international fora;
+(iii) consult on issues of mutual concern relating to its subject
+area which arise in international fora;
 (iv) facilitate information exchange among the Parties;
 (v) create working groups or convene expert panels on topics of
 mutual interest relating to its subject area;
@@ -166,7 +163,7 @@ Any Party may at any time withdraw from this Agreement by giving written notice 
 3. The provisions of the Agreement on the Reciprocal Promotion and Protection of Investments (Annex III) shall continue to apply to investments established or acquired prior to the date of termination, for a period of ten years from the date of termination, except in so far as those provisions extend to the establishment of covered investments.
 ARTICLE XIX
 Accession by other States
-This Agreement shall be open to other States subject to prior negotiations between the Parties and those States which have requested to become Parties to this Agreement.
+This Agreement shall be open to other States subject to prior negotiations between the parties and those States which have requested to become parties to this Agreement.
 The negotiations shall take into account that this Agreement, its Annexes and its Appendices establish preferential treatment by the Dominican Republic to the Less Developed Member States of CARICOM by reason of their lesser degree of development.
 ARTICLE XX
 Status of Annexes and Appendices
@@ -176,8 +173,9 @@ Depositary
 This Agreement shall be deposited with the Secretary General of the Caribbean Community who shall transmit certified copies to the Parties.
 ARTICLE XXII
 Entry into Force
-This Agreement, its Annexes and Appendices shall enter into force on the 1st day of January, 1999, or as soon thereafter as the Parties have notified each other through diplomatic channels that all internal legal procedures have been completed. IN WITNESS WHEREOF, the undersigned Plenipotentiaries, being duly authorised, have affixed their signatures to this Agreement.
+ThisAgreement, itsAnnexes andAppendices shall enter into force on the 1st day of January, 1999, or as soon thereafter as the Parties have notified each other through diplomatic channels that all internal legal procedures have been completed. IN WITNESS WHEREOF, the undersigned Plenipotentiaries, being duly authorised, have affixed their signatures to this Agreement.
 DONE AT Santo Domingo in the Dominican Republic in the English and Spanish languages, both being equally, authentic, this 22nd day of August, 1998.
 For the Caribbean Community For the Government of the
 Dominican Republic
-SIGNED ... SIGNED ... DR. THE HON. KENNY ANTHONY DR. THE HON. LEONEL Chairman of the Conference of FERNANDEZ REYNA Heads of Government of President of the Dominican the Caribbean Community Republic
+SIGNED ... SIGNED ... DR. THE HON. KENNY ANTHONY DR. THE HON. LEONEL
+FERNANDEZ REYNA Chairman of the Conference of Heads of Government of President of the Dominican the Caribbean Community Republic
