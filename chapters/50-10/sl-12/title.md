@@ -1,11 +1,14 @@
-SHIPPING (CERTIFICATION OF SEAMEN) (ENGINEERING RATINGS) REGULATIONS
-ARRANGEMENT OF REGULATIONS
+ARRANGEMENT OF REGULATIONS-Continued
 REGULATION
-1. Citation. 2. Definitions. 3. Classification of engineering ratings and category of certificates. 4. Engineering rating category 4. 5. Engineering rating category 3. 6. Engineering rating category 2. 7. Engineering rating category 1. 8. Examinations and apppointment of examiners. 9. Application for examination and issue of certificate of competency.
-10. Qualifying sea service. 11. Reduction of qualifying sea service. 12. Application for certificates of competency or classification. 13. Record of certificates. 14. Loss of certificates. 15. Fees.
+26. Recreation spaces. 27. Offices. 28. Sanitary accommodation. 29. Supply of drinking water. 30. Supply of fresh water. 31. Facilities for washing and drying clothes and for hanging oilskins and working clothes.
+32. Galleys. 33. Dry provision storerooms. 34. Cold storerooms and refrigerating equipment. 35. Hospitals. 36. Medical cabinet. 37. Protection from mosquitoes. 38. Maintenance and inspection of crew accommodation.
+PART II
+REQUIREMENTS TO BE COMPLIED WITH BY SHIPS REGISTERED IN TRINIDAD AND TOBAGO BEFORE THE DATE ON WHICH THESE REGULATIONS COME
+INTO OPERATION
+39. Interpretation. 40. Application. 41. Exemptions. 42. Duration of exemption.
 FIRST SCHEDULE. SECOND SCHEDULE. THIRD SCHEDULE. FOURTH SCHEDULE. FIFTH SCHEDULE. SIXTH SCHEDULE.
 [Subsidiary]
-SHIPPING (CERTIFICATION OF SEAMEN)
-(ENGINEERING RATINGS) REGULATIONS
-made under section 87
-- Margin: 135/1995.
+SHIPPING (CREW ACCOMMODATION)
+REGULATIONS
+made under section 147
+- Margin: 94/1996.

@@ -5,15 +5,16 @@ A TONNAGE MARK
 Name of Ship Port of Registry Official Number
 Depth Main Dimensions Length Breadth
 I, the undersigned Surveyor appointed by the Minister hereby certify that I have measured the above ship in accordance with Rule of the Shipping (Tonnage) Regulations, 1988 and by this Rule the- Gross tonnage is ... tons (...cubic metres) and the Net Register tonnage is ... tons ( ... cubic metres).
-A summary of the tonnages is given overleaf, together with an account of the spaces which have not been included in the above tonnages.
+A summary of the tonnages is given overleaf, together with an account of the
+spaces which have not been included in the above tonnages.
 Examined by Dated at ...
 this ... day of ... 20...
 ...
 Surveyor
-NOTE: FOR TUGS. If and when employed for the carriage of passengers, cargo or stores, or using
-graving docks or dry docks or places provided for the repairing of vessels, the net or register tonnage applicable under these circumstances is to be endorsed on this certificate. This certificate ceases to be valid if any alteration is made in the form or capacity of the ship or if it
-is discovered that the tonnage of the ship has been erroneously computed.
-Shipping (Tonnage) Regulations [Subsidiary]
+NOTE: FOR TUGS. If and when employed for the carriage of passengers, cargo or stores, or
+using graving docks or dry docks or places provided for the repairing of vessels, the net or register tonnage applicable under these circumstances is to be endorsed on this certificate. This certificate ceases to be valid if any alteration is made in the form or capacity of the ship or
+if it is discovered that the tonnage of the ship has been erroneously computed. [Subsidiary]
+Shipping (Tonnage) Regulations
 SUMMARY OF THE PARTICULARS OF TONNAGE
 Gross Tonnage No. of Tons Deductions Allowed No. of Tons
 Under tonnage deck … … On account of space required
@@ -26,13 +27,15 @@ Workshops and Storerooms … Break … … …
 Donkey Engine and Boiler … Side houses … …
 Pump Rooms … … Deck houses … …
 Sail Room … … … Spaces for machinery and light
-Water Ballast … … and air, under paragraph 5(1)(e) of the Fourth Schedule to the Shipping (Tonnage) Regulations, 1988.
+Water Ballast … … and air, under paragraph 5(1)(e) of the Fourth Schedule to the Shipping (Tonnage) Regulations.
 Excess of hatchways… …
 Cubic metres
-GROSS TONNAGE
+GROSS
+TONNAGE
 Deductions, as per contra
 Total … Net/Register Tonnage
 The tonnage of the engine room spaces below the upper deck is ...tons.
 The tonnage of the total spaces framed in above the upper deck for propelling machinery and for light and air is ... tons.
 The undermentioned cargo spaces above the upper deck are not included in the above tonnages.
-Shipping (Tonnage) Regulations [Subsidiary]
+[Subsidiary]
+Shipping (Tonnage) Regulations

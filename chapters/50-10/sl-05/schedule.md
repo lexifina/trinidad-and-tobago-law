@@ -1,16 +1,16 @@
 # SCHEDULE
-1. (1) In this Schedule- "appropriate authority" means in relation to Trinidad and Tobago, the Minister,
-and in relation to any other State the authority responsible under the law of that State for promoting the safety of life at sea and the avoidance of collisions; "Minister" has the same meaning as in section 2 of the Act; "the diagram" referred to in paragraph 7 of Annex I to the International
+1. (1) In this Schedule- "appropriate authority" means in relation to Trinidad and Tobago, the
+Minister, and in relation to any other State the authority responsible under the law of that State for promoting the safety of life at sea and the avoidance of collisions; "Minister" has the same meaning as in section 2 of the Act; "the diagram" referred to in paragraph 7 of Annex I to the International
 Regulations means the diagram specified in the Chromaticity Chart (1975) published by the International Commission on Illumination (CIE); "the International Code of Signals" mentioned in paragraph 3 of Annex IV to
 the International Regulations means the International Code of Signals (1987) published by the International Maritime Organisation, or any document amending or replacing that publication which is considered by the Minister to be relevant; "the Merchant Ship Search and Rescue Manual" mentioned in paragraph 3 of
 Annex IV to the International Regulations means the manual of that name published in 1986 by the International Maritime Organisation or any document amending or replacing that publication which is considered by the Minister to be relevant; "the traffic separation schemes" referred to in Rule 10(a) of the International
 Regulations means the schemes listed in the Organisation's publication entitled "Ships Routing" or any document amending or replacing it which is considered by the Minister to be relevant. [Subsidiary] Shipping (Distress Signals and Prevention of Collisions) Regulations
-(2) The "date of entry into force" of the International Regulations for
-the purposes of Rule 38 of those Regulations means-
+(2) The "date of entry into force" of the International Regulations
+for the purposes of Rule 38 of those Regulations means-
 (a) in the case of Trinidad and Tobago ships, the 15th February,
 1979; and
-(b) in the case of a vessel registered outside of Trinidad and Tobago,
-the date of entry into force of the International Regulations for the State whose flag the vessel is entitled to fly.
+(b) in the case of a vessel registered outside of Trinidad and
+Tobago, the date of entry into force of the International Regulations for the State whose flag the vessel is entitled to fly.
 INTERNATIONAL REGULATIONS FOR
 PREVENTING COLLISIONS AT SEA, 1972
 [as amended by Resolution A464(xII) and Resolution A626(15)]
@@ -21,13 +21,13 @@ Application
 waters connected therewith navigable by seagoing vessels.
 (b) Nothing in these Rules shall interfere with the operation of special
 rules made by an appropriate authority for roadsteads, harbours, rivers, lakes or inland waterways connected with the high seas and navigable by seagoing vessels. Such special rules shall conform as closely as possible to these Rules.
-(c) Nothing in these Rules shall interfere with the operation of any special
-rules made by the Government of any State with respect to additional station or signal lights, shapes or whistle signals for ships of war and vessels proceeding under convoy, or with respect to additional station or signal lights or shapes for fishing vessels engaged in fishing as a fleet. These additional station or signal lights, shapes or whistle signals shall, so far as possible, be such that they cannot be mistaken for any light, shape or signal authorised elsewhere under these Rules.
+(c) Nothing in these Rules shall interfere with the operation of any
+special rules made by the Government of any State with respect to additional station or signal lights, shapes or whistle signals for ships of war and vessels proceeding under convoy, or with respect to additional station or signal lights or shapes for fishing vessels engaged in fishing as a fleet. These additional station or signal lights, shapes or whistle signals shall, so far as possible, be such that they cannot be mistaken for any light, shape or signal authorised elsewhere under these Rules.
 (d) Traffic separation schemes may be adopted by the Organisation for
 the purpose of these Rules.
 (e) Whenever the Government concerned shall have determined that a
 vessel of special construction or purpose cannot comply fully with the provisions of any of these Rules with respect to the number, position, range or arc of visibility of lights or shapes, as well as to the disposition and characteristics of sound-signalling appliances, such vessel shall comply with
-Shipping (Distress Signals and Prevention of Collisions) Regulations [Subsidiary]
+[Subsidiary] Shipping (Distress Signals and Prevention of Collisions) Regulations
 such other provisions in regard to the number, position, range or are of visibility of lights or shapes, as well as to the disposition and characteristics of sound signalling appliances, as her Government shall have determined to be the closest possible compliance with these Rules in respect of that vessel.
 RULE 2
 Responsibility
@@ -49,7 +49,7 @@ manoeuvre on the water.
 (f) The term "vessel not under command" means a vessel which
 through some exceptional circumstance is unable to manoeuvre as required by these Rules and is therefore unable to keep out of the way of another vessel. [Subsidiary] Shipping (Distress Signals and Prevention of Collisions) Regulations
 (g) The term "vessel restricted in her ability to manoeuvre"
-means a vessel which from the nature of her work is restricted in her ability to manoeuvre as required by these Rules and is therefore unable to keep out of the way of another vessel. The term "vessels restricted in their ability to manoeuvre" shall include but not be limited to:
+means a vessel which from the nature of her work is restricted in her ability to manoeuvre as required by these Rules and is therefor unable to keep out of the way of another vessel. The term "vessels restricted in their ability to manoeuvre" shall include but not be limited to:
 (i) a vessel engaged in laying, servicing or picking up a
 navigation mark, submarine cable or pipeline;
 (ii) a vessel engaged in dredging, surveying or underwater
@@ -59,14 +59,14 @@ persons, provisions or cargo while underway;
 (iv) a vessel engaged in the launching or recovery of
 aircraft;
 (v) a vessel engaged in mine-clearance operations;
-(vi) a vessel engaged in a towing operation such as severely
-restricts the towing vessel and her tow in their ability to deviate from their course.
-(h) The term "vessel constrained by her draught" means a power-
-driven vessel which, because of her draught in relation to the available depth and width of navigable water, is severely restricted in her ability to deviate from the course she is following.
-(i) The word "underway" means that a vessel is not at anchor,
-or made fast to the shore, or aground.
-(j) The words "length" and "breadth" of a vessel mean her length
-overall and greatest breadth.
+(vi) a vessel engaged in a towing operation such as
+severely restricts the towing vessel and her tow in their ability to deviate from their course.
+(h) The term "vessel constrained by her draught" means a
+power-driven vessel which, because of her draught in relation to the available depth and width of navigable water, is severely restricted in her ability to deviate from the course she is following.
+(i) The word "underway" means that a vessel is not at anchor, or
+made fast to the shore, or aground.
+(j) The words "length" and "breadth" of a vessel mean her
+length overall and greatest breadth.
 (k) Vessels shall be deemed to be in sight of one another only
 when one can be observed visually from the other.
 (l) The term "restricted visibility" means any condition in which
@@ -75,7 +75,7 @@ PART B-STEERING AND SAILING RULES Section 1. Conduct of vessels in any condition
 RULE 4
 Application
 Rules in this Section apply in any condition of visibility.
-Shipping (Distress Signals and Prevention of Collisions) Regulations [Subsidiary]
+[Subsidiary] Shipping (Distress Signals and Prevention of Collisions) Regulations
 RULE 5
 Look-out
 Every vessel shall at all times maintain a proper look-out by sight and hearing as well as by all available means appropriate in the prevailing circumstances and conditions so as to make a full appraisal of the situation and of the risk of collision.
@@ -87,12 +87,12 @@ In determining a safe speed the following factors shall be among those taken int
 (i) the state of visibility;
 (ii) the traffic density including concentrations of fishing
 vessels or any other vessels;
-(iii) the manoeuvrability of the vessel with special reference
-to stopping distance and turning ability in the prevailing conditions;
+(iii) the manoeuvrability of the vessel with special
+reference to stopping distance and turning ability in the prevailing conditions;
 (iv) at night the presence of background light such as from
 shore lights or from back scatter of her own lights;
-(v) the state of wind, sea and current, and the proximity of
-navigational hazards;
+(v) the state of wind, sea and current, and the proximity
+of navigational hazards;
 (vi) the draught in relation to the available depth of water.
 (b) Additionally, by vessels with operational radar-
 (i) the characteristics, efficiency and limitations of the
@@ -100,24 +100,24 @@ radar equipment;
 (ii) any constraints imposed by the radar range scale in use;
 (iii) the effect on radar detection of the sea state, weather
 and other sources of interference;
-(iv) the possibility that small vessels, ice and other floating
-objects may not be detected by radar at an adequate range;
-(v) the number, location and movement of vessels detected
-by radar;
-(vi) the more exact assessment of the visibility that may be
-possible when radar is used to determine the range of vessels or other objects in the vicinity. [Subsidiary] Shipping (Distress Signals and Prevention of Collisions) Regulations
+(iv) the possibility that small vessels, ice and other
+floating objects may not be detected by radar at an adequate range;
+(v) the number, location and movement of vessels
+detected by radar;
+(vi) the more exact assessment of the visibility that may
+be possible when radar is used to determine the range of vessels or other objects in the vicinity. [Subsidiary] Shipping (Distress Signals and Prevention of Collisions) Regulations
 RULE 7
 Risk of collision
-(a) Every vessel shall use all available means appropriate to the prevailing
-circumstances and conditions to determine if risk of collision exists. If there is any doubt such risk shall be deemed to exist.
+(a) Every vessel shall use all available means appropriate to the
+prevailing circumstances and conditions to determine if risk of collision exists. If there is any doubt such risk shall be deemed to exist.
 (b) Proper use shall be made of radar equipment if fitted and operational,
 including long range scanning to obtain early warning of risk of collision and radar plotting or equivalent systematic observation of detected objects.
 (c) Assumptions shall not be made on the basis of scanty information,
 especially scanty radar information.
 (d) In determining if risk of collision exists the following considerations
 shall be among those taken into account:
-(i) such risk shall be deemed to exist if the compass bearing of an
-approaching vessel does not appreciably change;
+(i) such risk shall be deemed to exist if the compass bearing of
+an approaching vessel does not appreciably change;
 (ii) such risk may sometimes exist even when an appreciable
 bearing change is evident, particularly when approaching a very large vessel or a tow or when approaching a vessel at close range.
 RULE 8
@@ -126,11 +126,11 @@ Action to avoid collision
 case admit, be positive, made in ample time and with due regard to the observance of good seamanship.
 (b) Any alteration of course and/or speed to avoid collision shall, if the
 circumstances of the case admit, be large enough to be readily apparent to another vessel observing visually or by radar; a succession of small alterations of course and/or speed should be avoided.
-(c) If there is sufficient sea room, alteration of course alone may be
-the most effective action to avoid a close-quarters situation provided that it is made in good time, is substantial and does not result in another close-quarters situation.
+(c) If there is sufficient sea room, alteration of course alone may be the
+most effective action to avoid a close-quarters situation provided that it is made in good time, is substantial and does not result in another close-quarters situation.
 (d) Action taken to avoid collision with another vessel shall be such as to
 result in passing at a safe distance. The effectiveness of the action shall be carefully checked until the other vessel is finally past and clear.
-Shipping (Distress Signals and Prevention of Collisions) Regulations [Subsidiary]
+[Subsidiary] Shipping (Distress Signals and Prevention of Collisions) Regulations
 (e) If necessary to avoid collision or allow more time to assess the situation, a vessel shall slacken her speed or take all way off by stopping or reversing her means of propulsion.
 (f) (i) A vessel which, by any of these Rules, is required not to impede the passage or safe passage of another vessel shall, when required by the circumstances of the case, take early action to allow sufficient sea room for the safe passage of the other vessel.
 (ii) A vessel required not to impede the passage or safe passage of another vessel is not relieved of this obligation if approaching the other vessel so as to involve risk of collision and shall, when taking action have full regard to the action, which may be required by the Rules of this Part.
@@ -145,8 +145,8 @@ Narrow channels
 (ii) This Rule does not relieve the overtaking vessel of her obligation under Rule 13. [Subsidiary] Shipping (Distress Signals and Prevention of Collisions) Regulations
 (f) A vessel nearing a bend or an area of a narrow channel or fairway
 where other vessels may be obscured by an intervening obstruction shall navigate with particular alertness and caution and shall sound the appropriate signal prescribed in Rule 34(e).
-(g) Any vessel shall, if the circumstances of the case admit, avoid anchoring
-in a narrow channel.
+(g) Any vessel shall, if the circumstances of the case admit, avoid
+anchoring in a narrow channel.
 RULE 10
 Traffic separation schemes
 (a) This Rule applies to traffic separation schemes adopted by the
@@ -160,17 +160,17 @@ separation zone;
 lane, but when joining or leaving from either side shall do so at as small an angle to the general direction of traffic flow as practicable.
 (c) A vessel shall so far as practicable avoid crossing traffic lanes, but if
 obliged to do so shall cross on a heading as nearly as practicable at right angles to the general direction of traffic flow.
-(d) Inshore traffic zones shall not normally be used by through traffic which
-can safely use the appropriate traffic lane within the adjacent traffic separation scheme. However, vessels of less than 20 metres in length and sailing vessels may under all circumstances use inshore traffic zones.
+(d) Inshore traffic zones shall not normally be used by through traffic
+which can safely use the appropriate traffic lane within the adjacent traffic separation scheme. However, vessels of less than 20 metres in length and sailing vessels may under all circumstances use inshore traffic zones.
 (e) A vessel other than a crossing vessel or a vessel joining or leaving a
 lane shall not normally enter a separation zone or cross a separation line except:
 (i) in cases of emergency to avoid immediate danger;
 (ii) to engage in fishing within a separation zone.
 (f) A vessel navigating in areas near the terminations of traffic separation
 schemes shall do so with particular caution.
-(g) A vessel shall so far as practicable avoid anchoring in a traffic separation
-scheme or in areas near its terminations.
-Shipping (Distress Signals and Prevention of Collisions) Regulations [Subsidiary]
+(g) A vessel shall so far as practicable avoid anchoring in a traffic
+separation scheme or in areas near its terminations.
+[Subsidiary] Shipping (Distress Signals and Prevention of Collisions) Regulations
 (h) A vessel not using a traffic separation scheme shall avoid it by as wide a margin as is practicable.
 (i) A vessel engaged in fishing shall not impede the passage of any vessel following a traffic lane.
 (j) A vessel of less than 20 metres in length or a sailing vessel shall not impede the safe passage of a power-driven vessel following a traffic lane.
@@ -185,14 +185,14 @@ Sailing vessels
 (a) When two sailing ships are approaching one another, so as to involve risk of collision, one of them shall keep out of the way of the other as follows:
 (i) when each has the wind on a different side, the vessel which
 has the wind on the port side shall keep out of the way of the other;
-(ii) when both have the wind on the same side, the vessel which is
-to windward shall keep out of the way of the vessel which is to leeward;
+(ii) when both have the wind on the same side, the vessel which
+is to windward shall keep out of the way of the vessel which is to leeward;
 (iii) if a vessel with the wind on the port side sees a vessel to
 windward and cannot determine with certainty whether the other vessel has the wind on the port or on the starboard side, she shall keep out of the way of the other.
 (b) For the purposes of this Rule the windward side shall be deemed to be the side opposite to that on which the mainsail is carried or, in the case of a square-rigged vessel, the side opposite to that on which the largest fore-and-aft sail is carried. [Subsidiary] Shipping (Distress Signals and Prevention of Collisions) Regulations
 RULE 13 Overtaking
-(a) Notwithstanding anything contained in the Rules of Part B, Sections I
-and II any vessel overtaking any other shall keep out of the way of the vessel being overtaken.
+(a) Notwithstanding anything contained in the Rules of Part B, Sections
+I and II any vessel overtaking any other shall keep out of the way of the vessel being overtaken.
 (b) A vessel shall be deemed to be overtaking when coming up with
 another vessel from a direction more than 22.5 degrees abaft her beam, that is, in such a position with reference to the vessel she is overtaking, that at night she would be able to see only the sternlight of that vessel but neither of her sidelights.
 (c) When a vessel is in any doubt as to whether she is overtaking another,
@@ -211,7 +211,7 @@ RULE 15
 Crossing situation
 When two power-driven vessels are crossing so as to involve risk of
 collision, the vessel which has the other on her own starboard side shall keep out of the way and shall, if the circumstances of the case admit, avoid crossing ahead of the other vessel.
-Shipping (Distress Signals and Prevention of Collisions) Regulations [Subsidiary]
+[Subsidiary] Shipping (Distress Signals and Prevention of Collisions) Regulations
 RULE 16
 Action by give-way vessel
 Every vessel which is directed to keep out of the way of another vessel shall, so far as possible, take early and substantial action to keep well clear.
@@ -240,26 +240,26 @@ keep out of the way of-
 (ii) a vessel restricted in her ability to manoeuvre.
 (d) (i) Any vessel other than a vessel not under command or a vessel
 restricted in her ability to manoeuvre shall, if the circumstances of the case admit, avoid impeding the safe passage of a vessel constrained by her draught, exhibiting the signals in Rule 28;
-(ii) A vessel constrained by her draught shall navigate with
-particular caution having full regard to her special condition.
-(e) A seaplane on the water shall, in general, keep well clear of all vessels
-and avoid impeding their navigation. In circumstances, however, where risk of collision exists, she shall comply with the Rules of this Part.
+(ii) A vessel constrained by her draught shall navigate with particular
+caution having full regard to her special condition.
+(e) A seaplane on the water shall, in general, keep well clear of all
+vessels and avoid impeding their navigation. In circumstances, however, where risk of collision exists, she shall comply with the Rules of this Part.
 Section III. Conduct of vessels in restricted visibility
 RULE 19
 Conduct of vessels in restricted visibility
-(a) This Rule applies to vessels not in sight of one another when navigating
-in or near an area of restricted visibility.
+(a) This Rule applies to vessels not in sight of one another when
+navigating in or near an area of restricted visibility.
 (b) Every vessel shall proceed at a safe speed adapted to the prevailing
 circumstances and conditions of restricted visibility. A power-driven vessel shall have her engines ready for immediate manoeuvre.
 (c) Every vessel shall have due regard to the prevailing circumstances
 and conditions of restricted visibility when complying with the Rules of Section I of this Part.
 (d) A vessel which detects by radar alone the presence of another vessel
 shall determine if a close-quarters situation is developing and/or risk of collision exists. If so, she shall take avoiding action in ample time, provided that when such action consists of an alteration of course, so far as possible the following shall be avoided:
-(i) an alteration of course to port for a vessel forward of the beam,
-other than for a vessel being overtaken;
+(i) an alteration of course to port for a vessel forward of the
+beam, other than for a vessel being overtaken;
 (ii) an alteration of course towards a vessel a beam or abaft
 the bean.
-Shipping (Distress Signals and Prevention of Collisions) Regulations [Subsidiary]
+[Subsidiary] Shipping (Distress Signals and Prevention of Collisions) Regulations
 (e) Except where it has been determined that a risk of collision does not exist, every vessel which hears apparently forward of her beam the fog signal of another vessel, or which cannot avoid a close-quarters situation with another vessel forward of her beam, shall reduce her speed to the minimum at which she can be kept on her course. She shall if necessary take all her way off and in any event navigate with extreme caution until danger of collision is over.
 PART C-LIGHTS AND SHAPES
 RULE 20
@@ -277,18 +277,18 @@ Definitions
 stern showing an unbroken light over an arc of the horizon of 135 degrees and so fixed as to show the light 67.5 degrees from right aft on each side of the vessel.
 (d) "Towing light" means a yellow light having the same characteristics
 as the "sternlight" defined in paragraph (c) of this Rule.
-(e) "All-round light" means a light showing an unbroken light over an arc
-of the horizon of 360 degrees.
-(f) "Flashing light" means a light flashing at regular intervals at a frequency
-of 120 flashes or more per minute.
+(e) "All-round light" means a light showing an unbroken light over an
+arc of the horizon of 360 degrees.
+(f) "Flashing light" means a light flashing at regular intervals at a
+frequency of 120 flashes or more per minute.
 RULE 22
 Visibility of light
 The lights prescribed in these Rules shall have an intensity as specified in
 section 8 of Annex I to these Regulations so as to be visible at the following minimum ranges:
 (a) In vessels of 50 metres or more in length-
 a masthead light, 6 miles; a sidelight, 3 miles; a sternlight, 3 miles; a towing light, 3 miles; a white, red, green or yellow all-round light, 3 miles.
-(b) In vessels of 12 metres or more in length but less than 50 metres
-in length-
+(b) In vessels of 12 metres or more in length but less than 50
+metres in length-
 a masthead light, 5 miles; except that where the length
 of the vessel is less than 20 metres, 3 miles;
 a sidelight, 2 miles; a sternlight, 2 miles; a towing light, 2 miles; a white, red, green or yellow all-round light, 2 miles.
@@ -296,7 +296,7 @@ a sidelight, 2 miles; a sternlight, 2 miles; a towing light, 2 miles; a white, r
 a masthead light, 2 miles; a sidelight, 1 mile; a sternlight, 2 miles; a towing light, 2 miles; a white, red, green or yellow all-round light, 2 miles.
 (d) In inconspicuous, partly submerged vessels or objects towed-
 a white all-round light, 3 miles.
-Shipping (Distress Signals and Prevention of Collisions) Regulations [Subsidiary]
+[Subsidiary] Shipping (Distress Signals and Prevention of Collisions) Regulations
 RULE 23
 Power-driven vessels underway
 (a) A power-driven vessel underway shall exhibit-
@@ -307,8 +307,8 @@ one; except that a vessel of less than 50 metres in length shall not be obliged 
 (iv) a sternlight.
 (b) An air-cushion vessel when operating in the non-displacement mode shall, in addition to the lights prescribed in paragraph (a) of this Rule, exhibit an all-round flashing yellow light.
 (c) (i) A power-driven vessel of less than 12 metres in length may in lieu of the lights prescribed in paragraph (a) of this Rule exhibit an all-round white light and sidelights;
-(ii) a power-driven vessel of less than 7 metres in length whose maximum speed does not exceed 7 knots may in lieu of the lights prescribed in paragraph (a) of this Rule exhibit an all-round white light and shall, if practicable, also exhibit sidelights;
-(iii) the masthead light or all-round white light on a power-driven vessel of less than 12 metres in length may be displaced from the fore and aft centreline of the vessel if centreline fitting is not practicable, provided that the sidelights are combined in one lantern which shall be carried on the fore and aft centreline of the vessel or located as nearly as practicable in the same fore and aft line as the masthead light or the all-round white light.
+(ii) A power-driven vessel of less than 7 metres in length whose maximum speed does not exceed 7 knots may in lieu of the lights prescribed in paragraph (a) of this Rule exhibit an all-round white light and shall, if practicable, also exhibit sidelights;
+(iii) The masthead light or all-round white light on a power-driven vessel of less than 12 metres in length may be displaced from the fore and aft centreline of the vessel if centreline fitting is not practicable, provided that the sidelights are combined in one lantern which shall be carried on the fore and aft centreline of the vessel or located as nearly as practicable in the same fore and aft line as the masthead light or the all-round white light.
 RULE 24
 Towing and pushing
 (a) A power-driven vessel when towing shall exhibit-
@@ -321,14 +321,14 @@ masthead lights in a vertical line. When the length of the tow, measuring from t
 shape where it can best be seen.
 (b) When a pushing vessel and a vessel being pushed ahead are rigidly
 connected in a composite unit they shall be regarded as a power-driven vessel and exhibit the lights prescribed in Rule 23.
-(c) A power-driven vessel when pushing ahead or towing alongside, except
-in the case of a composite unit, shall exhibit-
+(c) A power-driven vessel when pushing ahead or towing alongside,
+except in the case of a composite unit, shall exhibit-
 (i) instead of the light prescribed in Rule 23(a)(i) or (a)(ii), two
 masthead lights in a vertical line;
 (ii) sidelights;
 (iii) a sternlight.
-(d) A power-driven vessel to which paragraph (a) or (c) of this Rule apply
-shall also comply with Rule 23(a)(ii).
+(d) A power-driven vessel to which paragraph (a) or (c) of this Rule
+apply shall also comply with Rule 23(a)(ii).
 (e) A vessel or object being towed, other than those mentioned in
 paragraph (g) of this Rule, shall exhibit-
 (i) sidelights;
@@ -343,18 +343,17 @@ unit, shall exhibit at the forward end, sidelights;.
 at the forward end, sidelights.
 (g) An inconspicuous, partly submerged vessel or object, or combination
 of such vessels or objects being towed, shall exhibit-
-(i) if it is less than 25 metres in breadth, one all-round white light
-at or near the forward end and one at or near the after end except that dracones need not exhibit a light at or near the forward end;
+(i) if it is less than 25 metres in breadth, one all-round white
+light at or near the forward end and one at or near the after end except that dracones need not exhibit a light at or near the forward end;
 (ii) if it is 25 metres or more in breadth, two additional all-round
 white lights at or near the extremities of its breadth;
 (iii) if it exceeds 100 metres in length, additional all-round white
-lights between the lights prescribed in sub-paragraphs (i) and
+lights between the lights prescribed in subparagraphs (i) and
 (ii) so that the distance between the lights shall not exceed 100 metres;
-Shipping (Distress Signals and Prevention of Collisions) Regulations [Subsidiary]
+[Subsidiary] Shipping (Distress Signals and Prevention of Collisions) Regulations
 (iv) a diamond shape at or near the aftermost extremity of the last
 vessel or object being towed and if the length of the tow exceeds 200 metres an additional diamond shape where it can best be seen and located as far forward as is practicable.
-(h) Where from any sufficient cause it is impracticable for a vessel or object being towed to exhibit the lights or shapes prescribed in paragraph (e) or
-(g) of this Rule, all possible measures shall be taken to light the vessel or object towed or at least to indicate the presence of such vessel or object.
+(h) Where from any sufficient cause it is impracticable for a vessel or object being towed to exhibit the lights or shapes prescribed in paragraph (e) or (g) of this Rule, all possible measures shall be taken to light the vessel or object towed or at least to indicate the presence of such vessel or object.
 (i) Where from any sufficient cause it is impracticable for a vessel not normally engaged in towing operations to display the lights prescribed in paragraph (a) or (c) of this Rule, such vessel shall not be required to exhibit those lights when engaged in towing another vessel in distress or otherwise in need of assistance. All possible measures shall be taken to indicate the nature of the relationship between the towing vessel and the vessel being towed as authorised by Rule 36, in particular by illuminating the towline.
 RULE 25
 Sailing vessels underway and vessels under oars
@@ -365,8 +364,8 @@ Sailing vessels underway and vessels under oars
 (c) A sailing vessel underway may, in addition to the lights prescribed in paragraph (a) of this Rule, exhibit at or near the top of the mast, where they can best be seen, two all-round lights in a vertical line, the upper being red and the lower green, but these lights shall not be exhibited in conjunction with the combined lantern permitted by paragraph (b) of this Rule.
 (d) (i) A sailing vessel of less than 7 metres in length shall, if practicable, exhibit the lights prescribed in paragraph (a) or (b) of this Rule, but if she does not, she shall have ready at hand an electric torch or lighted lantern showing a white light which shall be exhibited in sufficient time to prevent collision.
 (ii) A vessel under oars may exhibit the lights prescribed in this Rule for sailing vessels, but if she does not, she shall have ready at hand an electric torch or lighted lantern showing a white light which shall be exhibited in sufficient time to prevent collision. [Subsidiary] Shipping (Distress Signals and Prevention of Collisions) Regulations
-(e) A vessel proceeding under sail when also being propelled by machinery
-shall exhibit forward where it can best be seen a conical shape, apex downwards.
+(e) A vessel proceeding under sail when also being propelled by
+machinery shall exhibit forward where it can best be seen a conical shape, apex downwards.
 RULE 26
 Fishing vessels
 (a) A vessel engaged in fishing, whether underway or at anchor, shall
@@ -390,7 +389,7 @@ prescribed in this paragraph, sidelights and a sternlight.
 engaged in fishing may exhibit the additional signals described in Annex II to these Regulations.
 (e) A vessel when not engaged in fishing shall not exhibit the lights or
 shapes prescribed in this Rule, but only those prescribed for a vessel of her length.
-Shipping (Distress Signals and Prevention of Collisions) Regulations [Subsidiary]
+[Subsidiary] Shipping (Distress Signals and Prevention of Collisions) Regulations
 RULE 27
 Vessels not under command or restricted in their ability to manoeuvre
 (a) A vessel not under command shall exhibit-
@@ -405,14 +404,14 @@ prescribed in this paragraph, sidelights and a sternlight.
 seen. The highest and lowest of these lights shall be red and the middle light shall be white;
 (ii) three shapes in a vertical line where they can best be seen.
 The highest and lowest of these shapes shall be balls and the middle one a diamond;
-(iii) when making way through the water, a masthead light or lights,
-sidelights and a sternlight, in addition to the lights prescribed in subparagraph (i);
+(iii) when making way through the water, a masthead light or
+lights, sidelights and a sternlight, in addition to the lights prescribed in subparagraph (i);
 (iv) when at anchor, in addition to the lights or shapes prescribed
 in subparagraphs (i) and (ii), the light, lights or shape prescribed in Rule 30.
 (c) A power-driven vessel engaged in a towing operation such as severely restricts the towing vessel and her tow in their ability to deviate from their course shall, in addition to the lights or shapes prescribed in Rule 24(a), exhibit the lights or shapes prescribed in subparagraphs (b)(i) and (ii) of this Rule.
 (d) A vessel engaged in dredging or underwater operations, when restricted in her ability to manoeuvre, shall exhibit the lights and shapes prescribed in subparagraphs (b)(i), (ii) and (iii) of this Rule and shall in addition, when an obstruction exists, exhibit-
-(i) two all-round red lights or two balls in a vertical line to indicate
-the side on which the obstruction exists;
+(i) two all-round red lights or two balls in a vertical line to
+indicate the side on which the obstruction exists;
 (ii) two all-round green lights or two diamonds in a vertical line
 to indicate the side on which another vessel may pass;
 (iii) when at anchor, the lights or shapes prescribed in this
@@ -421,12 +420,12 @@ paragraph instead of the lights or shape prescribed in Rule 30. [Subsidiary] Shi
 impracticable to exhibit all lights and shapes prescribed in paragraph (d) of this Rule, the following shall be exhibited:
 (i) three all-round lights in a vertical line where they can best be
 seen. The highest and lowest of these lights shall be red and the middle light shall be white;
-(ii) a rigid replica of the International Code flag "A" not less than
-one metre in height. Measures shall be taken to ensure its all-round visibility.
+(ii) a rigid replica of the International Code flag "A" not less
+than one metre in height. Measures shall be taken to ensure its all-round visibility.
 (f) A vessel engaged in mine-clearance operations shall in addition to the
 lights prescribed for a power-driven vessel in Rule 23 or to the lights or shape prescribed for a vessel at anchor in Rule 30 as appropriate, exhibit three all-round green lights or three balls. One of these lights or shapes shall be exhibited near the foremast head and one at each end of the fore yard. These lights or shapes indicate that it is dangerous for another vessel to approach within 1000 metres of the mine-clearance vessel.
-(g) Vessels of less than 12 metres in length, except those engaged in diving
-operations, shall not be required to exhibit the lights and shapes prescribed in this Rule.
+(g) Vessels of less than 12 metres in length, except those engaged in
+diving operations, shall not be required to exhibit the lights and shapes prescribed in this Rule.
 (h) The signals prescribed in this Rule are not signals of vessels in
 distress and requiring assistance. Such signals are contained in Annex IV to these Regulations.
 RULE 28
@@ -442,14 +441,14 @@ the upper being white and the lower red;
 (iii) when at anchor, in addition to the lights prescribed in
 subparagraph (i), the light, lights or shape prescribed in
 Rule 30 for vessels at anchor.
-Shipping (Distress Signals and Prevention of Collisions) Regulations [Subsidiary]
+[Subsidiary] Shipping (Distress Signals and Prevention of Collisions) Regulations
 (b) A pilot vessel when not engaged on pilotage duty shall exhibit the lights or shapes prescribed for a similar vessel of her length.
 RULE 30
 Anchored vessels and vessels aground
 (a) A vessel at anchor shall exhibit where it can best be seen-
 (i) in the fore part, an all-round white light or one ball;
-(ii) at or near the stem and at a lower level than the light prescribed
-in subparagraph (i), an all-round white light.
+(ii) at or near the stem and at a lower level than the light
+prescribed in subparagraph (i), an all-round white light.
 (b) A vessel of less than 50 metres in length may exhibit an all-round white light where it can best be seen instead of the lights prescribed in paragraph (a) of this Rule.
 (c) A vessel at anchor may, and a vessel of 100 metres and more in length shall, also use the available working or equivalent lights to illuminate her decks.
 (d) A vessel aground shall exhibit the lights prescribed in paragraph (a) or (b) of this Rule and in addition, where they can best be seen-
@@ -464,13 +463,13 @@ PART D-SOUND AND LIGHT SIGNALS
 RULE 32 Definitions
 (a) The word "whistle" means any sound signalling appliance capable of
 producing the prescribed blasts and which complies with the specifications in Annex III to these Regulations.
-(b) The term "short blast" means a blast of about one-second's duration.
+(b) The term "short blast" means a blast of about one second's duration.
 (c) The term "prolonged blast" means a blast of from four to six seconds'
 duration.
 RULE 33
 Equipment for sound signals
-(a) A vessel of 12 metres or more in length shall be provided with a whistle
-and a bell and a vessel of 100 metres or more in length shall, in addition, be provided with a gong, the tone and sound of which cannot be confused with that of the bell. The whistle, bell and gong shall comply with the specifications in Annex III to these Regulations. The bell or gong or both may be replaced by other equipment having the same respective sound characteristics, provided that manual sounding of the prescribed signals shall always be possible.
+(a) A vessel of 12 metres or more in length shall be provided with a
+whistle and a bell and a vessel of 100 metres or more in length shall, in addition, be provided with a gong, the tone and sound of which cannot be confused with that of the bell. The whistle, bell and gong shall comply with the specifications in Annex III to these Regulations. The bell or gong or both may be replaced by other equipment having the same respective sound characteristics, provided that manual sounding of the prescribed signals shall always be possible.
 (b) A vessel of less than 12 metres in length shall not be obliged to carry
 the sound signalling appliances prescribed in paragraph (a) of this Rule but if she does not, she shall be provided with some other means of making an efficient sound signal.
 RULE 34
@@ -482,18 +481,18 @@ one short blast to mean "I am altering my course to starboard"; two short blasts
 paragraph (a) of this Rule by light signals, repeated as appropriate, whilst the manoeuvre is being carried out-
 (i) these lights signals shall have the following significance:
 one flash to mean "I am altering my course to starboard"; two flashes to mean "I am altering my course to port"; three flashes to mean "I am operating astern propulsion";
-Shipping (Distress Signals and Prevention of Collisions) Regulations [Subsidiary]
+[Subsidiary] Shipping (Distress Signals and Prevention of Collisions) Regulations
 (ii) the duration of each flash shall be about one second, the interval
 between flashes shall be about one second, and the interval between successive signals shall be not less than ten seconds;
 (iii) the light used for this signal shall, if fitted, be an all-round
 white light, visible at a minimum range of 5 miles, and shall comply with the provisions of Annex I to these Regulations.
 (c) When in sight of one another in a narrow channel or fairway-
-(i) a vessel intending to overtake another shall in compliance with
-Rule 9(e)(i) indicate her intention by the following signals on her whistle:
+(i) a vessel intending to overtake another shall in compliance
+with Rule 9(e)(i) indicate her intention by the following signals on her whistle:
 two prolonged blasts followed by one short blast to mean
 "I intend to overtake you on your starboard side";
-two prolonged blasts followed by two short blasts to mean
-"I intend to overtake you on your port side";
+two prolonged blasts followed by two short blasts to
+mean "I intend to overtake you on your port side";
 (ii) the vessel about to be overtaken when acting in accordance
 with Rule 9(e)(i) shall indicate her agreement by the following signal on her whistle:
 one prolonged, one short, one prolonged and one short
@@ -509,8 +508,8 @@ In or near an area of restricted visibility, whether by day or night, the signal
 through the water shall sound at intervals of not more than 2 minutes two prolonged blasts in succession with an interval of about 2 seconds between them.
 (c) A vessel not under command, a vessel restricted in her ability to
 manoeuvre, a vessel constrained by her draught, a sailing vessel, a vessel engaged in fishing and a vessel engaged in towing or pushing another vessel shall, instead of the signals prescribed in paragraph (a) or (b) of this Rule, sound at intervals of not more than 2 minutes three blasts in succession, namely one prolonged followed by two short blasts.
-(d) A vessel engaged in fishing, when at anchor, and a vessel restricted in
-her ability to manoeuvre when carrying out her work at anchor, shall instead of the signals prescribed in paragraph (g) of this Rule sound the signal prescribed in paragraph (c) of this Rule.
+(d) A vessel engaged in fishing, when at anchor, and a vessel restricted
+in her ability to manoeuvre when carrying out her work at anchor, shall instead of the signals prescribed in paragraph (g) of this Rule sound the signal prescribed in paragraph (c) of this Rule.
 (e) A vessel towed or if more than one vessel is towed the last vessel of
 the tow, if manned, shall at intervals of not more than 2 minutes sound four blasts in succession, namely one prolonged followed by three short blasts. When practicable, this signal shall be made immediately after the signal made by the towing vessel.
 (f) When a pushing vessel and a vessel being pushed ahead are rigidly
@@ -521,7 +520,7 @@ the bell rapidly for about 5 seconds. In a vessel of 100 metres or more in lengt
 signal prescribed in paragraph (g) of this Rule and shall, in addition, give three separate and distinct strokes on the bell immediately before and after the rapid ringing of the bell. A vessel aground may in addition sound an appropriate whistle signal.
 (i) A vessel of less than 12 metres in length shall not be obliged to give
 the above-mentioned signals but, if she does not, shall make some other efficient sound signal at intervals of not more than 2 minutes.
-Shipping (Distress Signals and Prevention of Collisions) Regulations [Subsidiary]
+[Subsidiary] Shipping (Distress Signals and Prevention of Collisions) Regulations
 (j) A pilot vessel when engaged on pilotage duty may in addition to the signals prescribed in paragraph (a), (b) or (g) of this Rule sound an identity signal consisting of four short blasts.
 RULE 36
 Signals to attract attention
@@ -545,5 +544,5 @@ of section 2(b) of Annex I to these Regulations, until nine years after the date
 sections 2(g) and 3(b) of Annex I to these Regulations, until nine years after the date of entry into force of these Regulations.
 (g) The requirements for sound signal appliances prescribed in Annex III
 to these Regulations, until nine years after the date of entry into force of these Regulations.
-(h) The repositioning of all-round lights resulting from the prescription of
-section 9(b) of Annex I to these Regulations, permanent exemption.
+(h) The repositioning of all-round lights resulting from the prescription
+of section 9(b) of Annex I to these Regulations, permanent exemption.
