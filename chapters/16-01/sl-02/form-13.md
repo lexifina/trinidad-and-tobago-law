@@ -21,5 +21,5 @@ Dated ...
 Police Officer
 Police Station ...
 *Delete as applicable.
-Firearms Regulations [Subsidiary]
+Firearms Regulations
 - Margin: Regulation 15.
