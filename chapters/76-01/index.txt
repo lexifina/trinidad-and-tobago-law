@@ -66,7 +66,6 @@ s-65.md
 s-66.md
 s-67.md
 s-68.md
-s-69.md
 s-70.md
 s-71.md
 s-72.md
@@ -97,7 +96,6 @@ sl-01/r-14.md
 sl-01/r-15.md
 sl-01/r-16.md
 sl-01/r-17.md
-sl-01/r-20.md
 sl-01/r-21.md
 sl-02/title.md
 sl-02/r-1.md
