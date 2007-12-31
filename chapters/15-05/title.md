@@ -1,45 +1,48 @@
 POLICE COMPLAINTS AUTHORITY ACT
 CHAPTER 15:05
 Act
-17 of 1993
-Amended by
-10 of 2000
+8 of 2006
 Note on Subsidiary Legislation
 This Chapter contains no subsidiary legislation.
+Note on Section 53 Section 53 amends section 23(6) of the Domestic Violence Act, Chap. 45:56. See Act No. 8 of 2006.
 CHAPTER 15:05
 POLICE COMPLAINTS AUTHORITY ACT
 ARRANGEMENT OF SECTIONS
 SECTION
 PART I
 PRELIMINARY
-1. Short title. 2. Commencement. 3. Interpretation.
+1. Short title. 2. Commencement. 3. Act inconsistent with Constitution. 4. Interpretation.
 PART II
-THE AUTHORITY
-4. Establishment of the Authority. 5. Functions of the Authority. 6. Powers of the Authority. 7. Membership of the Authority. 8. Qualification and disqualification for appointment to Authority. 9. Remuneration.
-10. Tenure of office. 11. Acting appointments. 12. Resignation. 13. Revocation of appointment. 14. Gazetting of membership. 15. Location and meetings. 16. Staff for the Authority. 17. Funds.
-17A. Auditing of accounts. 17B. Submission of Annual Reports, etc.
-18. Independence of the Authority. 19. Rules.
+THE POLICE COMPLAINTS AUTHORITY
+5. Establishment of the Authority. 6. Membership of the Authority. 7. Qualification of Director and Deputy Director. 8. Disqualification of Director and Deputy Director. 9. Tenure of office.
+10. Gazetting of membership. 11. Acting appointment. 12. Revocation of appointment. 13. Resignation. 14. Remuneration. 15. Location. 16. Staff. 17. Funding. 18. Auditing of accounts. 19. Independence of the Authority. 20. Annual report.
 PART III
-THE COMPLAINTS DIVISION
-20. The Complaints Division. 21. Submission of complaints.
+POWERS AND FUNCTIONS OF THE AUTHORITY 21. Functions of the Authority. 22. Powers of the Authority.
 ARRANGEMENT OF SECTIONS-Continued
 SECTION
-22. Authority to send complaints to Division. 23. Frivolous complaints. 24. Formal resolution of complaints. 25. Reports to the Authority. 26. Preservation of evidence. 27. Review by Commissioner. 28. Delegation of functions of Commissioner. 29. Rules by Commissioner.
+23. Co-operation with any person or body. 24. Exercise of the functions of the Authority. 25. Power to appoint specialists.
 PART IV
-REVIEW OF COMPLAINTS BY AUTHORITY
-30. Application for review 31. Commissioner to furnish Authority. 32. Review by Authority. 33. Hearing instituted by Authority. 34. Non-attendance of complainant/non-appearance of police officer
-or witnesses.
-35. Completion of hearing.
+INVESTIGATIONS
+26. Investigation on receipt of complaint. 27. Limitation to make complaint. 28. Making or continuing of complaint on behalf of complainant. 29. Recording of complaint. 30. Preliminary investigation. 31. Entry to public premises. 32. Entry to private premises. 33. Application to High Court.
 PART V
-MISCELLANEOUS
-36. Immunity of members. 37. Delegation of functions of Authority. 38. Prohibition and privilege. 39. Secrecy. 40. Offences. 41. Annual Report. 42. Regulations.
-SCHEDULE.
+HEARINGS
+34. Hearings. 35. Public and private hearings. 36. Evidence and procedure. 37. Hearings in relation to judicial proceedings. 38. Right of appearance of interested person. 39. Legal representation. 40. Power to summon witnesses. 41. Examination and cross-examination of witness. 42. Legal assistance for witnesses. 43. Financial assistance for witnesses. 44. Conclusion of investigation.
+PART VI
+MISCELLANEOUS PROVISIONS
+45. Contempt of the Authority. 46. Punishment of contempt. SECTION
+47. Offences. 48. Effect of Act on the powers of the Commission and the
+Commissioner.
+49. Liability for proceedings. 50. Regulations. 51. Transitional. 52. Repeal. 53. Amendment to written law.
 
 CHAPTER 15:05
 POLICE COMPLAINTS AUTHORITY ACT
-An Act to establish the Police Complaints Authority and for
-matters incidental thereto.
-*[ASSENTED TO 13TH JULY, 1993]
+An Act to establish an independent body to investigate
+criminal offences involving police officers, police corruption and serious police misconduct and for other related matters.
+*[ASSENTED TO 13TH APRIL 2006]
+WHEREAS it is enacted inter alia by subsection (1) of section 13 of the Constitution that an Act to which that section applies may expressly declare that it shall have effect even though inconsistent with sections 4 and 5 of the Constitution and, if any such Act so declare, it shall have effect accordingly:
+And whereas it is provided by subsection (2) of the said section 13 of the Constitution that an Act to which this section applies is one the Bill for which has been passed by both Houses of Parliament and at the final vote thereon in each House has been supported by the votes of not less than three-fifths of all the members of that House:
+And whereas it is necessary and expedient that the provisions of this Act shall have effect even though inconsistent with sections 4 and 5 of the Constitution:
 PART I
 PRELIMINARY
-- Margin: 17 of 1993.
+- Margin: 8 of 2006.
+- Margin: Preamble.
