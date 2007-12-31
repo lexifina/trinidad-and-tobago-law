@@ -21,8 +21,8 @@ the domestic service of a consular post;
 consular employees and members of the service staff;
 (h) "members of the consular staff" means consular officers,
 other than the head of a consular post, consular employees and members of the service staff;
-(i) "member of the private staff" means a person who is employed
-exclusively in the private service of a member of the consular post;
+(i) "member of the private staff" means a person who is
+employed exclusively in the private service of a member of the consular post;
 (j) "consular premises" means the buildings or parts of buildings
 and the land ancillary thereto, irrespective of ownership, used exclusively for the purposes of the consular post;
 (k) "consular archives" includes all the papers, documents,
@@ -76,7 +76,7 @@ inform without delay the consular post in whose district the death occurred;
 case where the appointment of a guardian or trustee appears to be in the interests of a minor or other person lacking full capacity who is a national of the sending State. The giving of this information shall, however, be without prejudice to the operation of the laws and regulations of the receiving State concerning such appointments;
 (c) if a vessel, having the nationality of the sending State, is
 wrecked or runs aground in the territorial sea or internal waters of the receiving State, or if an aircraft registered in the sending State suffers an accident on the territory of the receiving State, to inform without delay the consulate post nearest to the scene of the occurrence.
-Artcle 39
+Article 39
 CONSULAR FEES AND CHARGES
 1. The consular post may levy in the territory of the receiving State the fees and charges provided by the laws and regulations of the sending State for consular acts.
 2. The sums collected in the form of the fees and charges referred to in paragraph 1 of this Article, and the receipts for such fees and charges, shall be exempted from all dues and taxes in the receiving State.
@@ -137,8 +137,8 @@ EXEMPTION FROM TAXATION
 the price of goods or services;
 (b) dues or taxes on private immovable property situated in the
 territory of the receiving State, subject to the provisions of Article 32;
-(c) estate, succession or inheritance duties, and duties on transfers,
-levied by the receiving State, subject to the provisions of paragraph (b) of Article 51;
+(c) estate, succession or inheritance duties, and duties on
+transfers, levied by the receiving State, subject to the provisions of paragraph (b) of Article 51;
 (d) dues and taxes on private income, including capital gains,
 having its source in the receiving State and capital taxes relating to investments made in commercial or financial undertakings in the receiving State;
 (e) charges levied for specific services rendered;
@@ -158,10 +158,10 @@ Article 51
 ESTATE OF A MEMBER OF THE CONSULAR POST OR OF A
 MEMBER OF HIS FAMILY
 In the event of the death of a member of the consular post or of a member of his family forming part of his household, the receiving State-
-(a) shall permit the export of the movable property of the deceased,
-with the exception of any such property acquired in the receiving State the export of which was prohibited at the time of his death;
-(b) shall not levy national, regional or municipal estate, succession
-or inheritance duties, and duties on transfers, on movable property the presence of which in the receiving State was due solely to the presence in that State of the deceased as a member of the consular post or as a member of the family of a member of the consular post.
+(a) shall permit the export of the movable property of the
+deceased, with the exception of any such property acquired in the receiving State the export of which was prohibited at the time of his death;
+(b) shall not levy national, regional or municipal estate,
+succession or inheritance duties, and duties on transfers, on movable property the presence of which in the receiving State was due solely to the presence in that State of the deceased as a member of the consular post or as a member of the family of a member of the consular post.
 Article 52
 EXEMPTION FROM PERSONAL SERVICES AND CONTRIBUTION
 The receiving State shall exempt members of the consular post and members of their families forming part of their households from all personal services, from all public service of any kind whatsoever, and from military obligations such as those connected with requisitioning, military contributions and billeting.
