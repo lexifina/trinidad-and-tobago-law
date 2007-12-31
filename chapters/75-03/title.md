@@ -3,7 +3,7 @@ CHAPTER 75:03
 Act
 16 of 1970 Amended by 22 of 1974 1 of 1979
 *47 of 1980
-2 of 1982 11 of 1988 6 of 1989
+2 of 1982 11 of 1988 6 of 1989 21 of 2005 2 of 2006
 *See Note on page 2
 Note on Subsidiary Legislation
 This Chapter contains no subsidiary legislation.
@@ -16,13 +16,13 @@ UNEMPLOYMENT LEVY ACT
 ARRANGEMENT OF SECTIONS SECTION
 1. Short title. 2. Interpretation. 3. Administration of Act. 4. Application of Act to certain exempt profits or gains. 5. Charge of unemployment levy.
 5A. Exception.
-6. Basis of charge of levy. 7. Rates of levy. 8. Due date, interest and administration. 9. Payment in advance by instalments.
-10. (Repealed by Act No. 6 of 1989). 11. Small adjustments. 12. Saving for income tax and corporation tax or petroleum profits tax. 13. Application of certain provisions of the Income Tax Act. 14. Unemployment fund. 15. Accounts. 16. Audit. 17. Levy to be paid into fund. 18. General penalty. 19. Regulations.
+6. Basis of charge of levy. 7. Rates of levy. 8. Due date, interest and administration. 9. Payment in advance by instalments. (Repealed by Act No. 6 of 1989). 10.
+11. Small adjustments. 12. Saving for income tax and corporation tax or petroleum profits tax. 13. Application of certain provisions of the Income Tax Act. 14. Unemployment fund. 15. Accounts. 16. Audit. 17. Levy to be paid into fund. 18. General penalty. 19. Regulations.
 
 CHAPTER 75:03
 UNEMPLOYMENT LEVY ACT
-An Act to provide for the imposition of an unemployment levy
-upon the chargeable income or profits of persons.
+An Act to provide for the imposition of an unemployment
+levy upon the chargeable income or profits of persons.
 [4TH JUNE 1970]
 - Margin: 16 of 1970.
 - Margin: Commencement.
