@@ -6,18 +6,14 @@ Amended by
 8 of 1964 9 of 1969 43 of 1969 8 of 1971 2 of 1975 136/1976 45 of 1979 37 of 1980 18 of 1994
 Index of Subsidiary Legislation
 Page Government Shipping Service (Passenger and Freight Rates) Regulations
-(LN 10/1984) ... 46 Port Authority (Tariff) Regulations (LN 203/1994)... 48 Port Authority (Store Rent Exemptions) Regulations (LN 92/1995) … … 77
+(LN 10/1984) ... 46 Port Authority (Tariff) Regulations (LN 203/1994) … … … 48 Port Authority (Store Rent Exemptions) Regulations (LN 92/1995) … 77 Port Authority of Trinidad and Tobago (Vesting) Order (LN 68/2006) … 81
 Note on Port Services (Dues, Charges and Management)
 Ordinance, Ch. 18 No. 2 (1950 Ed.)
 Section 76 of this Act repeals the Port Services (Dues, Charges and Management) Ordinance, except sections 3 to 8 inclusive, and the Bye-laws made under section 22 of the said Ordinance. However, these sections and the Bye-laws will remain in force until the said sections 3 to 8 are amended and the said Bye-laws are revoked and replaced by new Regulations made under this Act.
 Sections 3 to 8 of the Ordinance and the Bye-laws made under section 22 are appended herewith as an APPENDIX.
 Note on Amendment
-The Port Authority Act is amended as follows:
-Section 8. [37 of 1980].
-Immediately after subsection (2), insert the following subsection:
-"(3) Notwithstanding the provisions of subsection (2)(a), the Tobago House of
-Assembly is charged with the responsibility of constructing, maintaining and
-repairing storage and warehousing facilities at ports in Tobago.".
+The Port Authority Act is amended as follows: Section 8. [37 of 1980]. Immediately after subsection (2), insert the following subsection:
+"(3) Notwithstanding the provisions of subsection (2)(a), the Tobago House of Assembly is charged with the responsibility of constructing, maintaining and repairing storage and warehousing facilities at ports in Tobago.".
 Note on Staff Provisions (Page 16)
 Under section 3(2) of the Statutory Authorities Act (Chap. 24:01), the Port Authority has been declared a statutory authority subject to the provisions of that Act (see Chap. 24:01- Subsidiary Legislation). So long as this declaration remains in force, the provisions of the Act of this Chapter relating to staff must be read and construed accordingly.
 CHAPTER 51:01
@@ -36,7 +32,7 @@ Services Departments.
 ARRANGEMENT OF SECTIONS-Continued SECTION
 PART III
 FINANCIAL PROVISIONS
-24. Authority may borrow, secure or raise money. 25. Powers of the Authority to borrow from Government. 26. Application of revenue. 27. Authorised investments. 28. Dues, etc., chargeable by the Authority. 29. Accounting of Authority. 30. Cash deposits and payments. 31. Preparation of documents under the Act. 32. Rules. 33. Annual report. 34. Non-application from Customs duty and Income tax. 35. Exemption from Customs duty and Income tax. 36. Service contracts with local authorities.
+24. Authority may borrow, secure or raise money. 25. Powers of the Authority to borrow from Government. 26. Application of revenue. 27. Authorised investments. 28. Dues, etc., chargeable by the Authority. 29. Accounting of Authority. 30. Cash deposits and payments. 31. Preparation of documents under the Act. 32. Rules. 33. Annual report. 34. Non-application of certain sections. 35. Exemption from Customs duty and Income tax. 36. Service contracts with local authorities.
 PART IV
 RESPONSIBILITY OF THE AUTHORITY
 AS A WAREHOUSEMAN
@@ -49,14 +45,14 @@ SAFETY OF NAVIGATION
 PART VII
 EMBARKATION AND DISEMBARKATION OF
 PASSENGERS AND GOODS
-44. Passengers etc., to be embarked, etc., only at a harbour. 45. Master to supply information. 46. Harbour dues and charges to be levied. 47. Power to arrest ship for dues and charges. 48. Master required to obtain certificate of clearance. 49. Power of authorised employee with respect to wrecks, etc. 50. General Manager may retain goods until freight, etc., is paid. 51. Liability for delay or demurrage. 52. Master responsible for contravention of Act, etc. 53. Delivery to masters of copy of Act.
+44. Passengers, etc., to be embarked, etc., only at a harbour. 45. Master to supply information. 46. Harbour dues and charges to be levied. 47. Power to arrest ship for dues and charges. 48. Master required to obtain certificate of clearance. 49. Power of authorised employee with respect to wrecks, etc. 50. General Manager may retain goods until freight, etc., is paid. 51. Liability for delay or demurrage. 52. Master responsible for contravention of Act, etc. 53. Delivery to masters of copy of Act.
 PART VIII
 VESTING OF CERTAIN PROPERTY RIGHTS
 AND LIABILITIES IN THE AUTHORITY
 54. Vesting of property rights and liabilities in the Authority. 55. Revesting in State of portion of land and property. 56. Transitional provisions. 57. Vesting of other ports and harbours in Authority. 58. Safeguarding interests of the State and other persons. 59. Restriction on execution against property of Authority.
 PART IX
 GOVERNMENT SHIPPING SERVICE
-60. Interpretation. 61. Operation on services by Authority. 62. Authority not to subsidise service. 63. Authority to keep separate accounts. 64. Government to meet deficits by subvention. 65. Surplus to be transferred to special account.
+60. Interpretation. 61. Operation of services by Authority. 62. Authority not to subsidise service. 63. Authority to keep separate accounts. 64. Government to meet deficits by subvention. 65. Surplus to be transferred to special account.
 ARRANGEMENT OF SECTIONS-Continued SECTION
 PART X
 OFFENCES
