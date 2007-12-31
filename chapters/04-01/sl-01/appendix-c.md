@@ -47,33 +47,37 @@ SUPREME COURT OF JUDICATURE ACT O. III, CRIMINAL FORM IV r. 14, 22(1).
 NOTICE OF APPEAL
 Question of Law only
 To Registrar of the Supreme Court
-I, ... having been convicted (Here state the offence, e.g., of the offence of ... and being now a prisoner in ... Larceny, Murder, Forgery, etc.).
-(or* now living at ... *Where
-do hereby give you Notice of Appeal against my conviction (particulars of which hereinafter appear) appellant for any to the Court of Appeal on questions of law, that is to say- reason not in custody. (Here state as ... clearly as you are able the
-... question or questions of law
-(Signed) ... on which you
-Appellant desire to appeal).
-(or Mark) ...
+I, ... having been convicted (Here state the
+of the offence of ... and being now a prisoner in ... offence, e.g., Larceny,
+(or* now living at ... Murder, Forgery, etc.). do hereby give you Notice of Appeal against my conviction (particulars of which hereinafter *Where appear) to the Court of Appeal on questions of law, that is to say- appellant for any reason not in
+... custody. (Here state as clearly as you ... are able the question or
+(Signed) ... questions of law Appellant on which you
+(or Mark) ... desire to appeal).
 ...
 Signature and address of Witness attesting Mark
 Dated this ... day of ..., 20...
-PARTICULARS OF TRIAL AND CONVICTION Fill in all these 1. Date of Trial ... particulars.
+PARTICULARS OF TRIAL AND CONVICTION
+1. Date of Trial ... Fill in all these particulars.
 2. In what Court tried ... 3. Sentence ... 4. Whether above questions of law were raised at the Trial ... You are required to answer the following questions:
-1. If you desire to apply to the Court of Appeal to assign you legal aid on your appeal, state your position in life, and amount of wages, or salary, etc., and any other facts which you submit show reason for legal aid being assigned to you.
-2. Do you desire to be present on the hearing of your appeal by the Court of Appeal? If you do so desire, state the reasons upon which you submit the said Court should give you leave to be present.
-3. The Court of Appeal will, if you desire it, consider your case and argument if put into writing by you or on your behalf, instead of your case and argument being presented orally. If you desire to present your case and argument in writing set out here as fully as you think right your case and argument in support of your appeal.
+1. If you desire to apply to the Court of Appeal to assign you legal aid on your appeal, state
+your position in life, and amount of wages, or salary, etc., and any other facts which you submit show reason for legal aid being assigned to you.
+2. Do you desire to be present on the hearing of your appeal by the Court of Appeal? If you
+do so desire, state the reasons upon which you submit the said Court should give you leave to be present.
+3. The Court of Appeal will, if you desire it, consider your case and argument if put into
+writing by you or on your behalf, instead of your case and argument being presented orally. If you desire to present your case and argument in writing set out here as fully as you think right your case and argument in support of your appeal.
 Court of Appeal Rules [Subsidiary]
 SUPREME COURT OF JUDICATURE ACT
-O. III, CRIMINAL FORM V r. 14, 22(1).
+CRIMINAL FORM V O. III,
+r. 14, 22(1).
 NOTICE OF APPEAL UPON CERTIFICATE OF THE
 JUDGE OF THE COURT OF TRIAL
 To the Registrar of the Supreme Court.
 I, ... having been convicted of the offence of
 (Here state the ...
-offence, e.g., Larceny, and now being a prisoner in ... (or* now living at
-Murder, Forgery, etc.)...) *Where and having duly obtained a Certificate which is hereto annexed from the Judge before whom I was
-appellant for tried for the said offence, that it is a fit case for appeal, Do Hereby Give You Notice of Appeal any reason not
-in custody. against my said conviction (particulars of which hereinafter appear) to the Court of Appeal.
+offence, e.g., and now being a prisoner in ... (or* now living at Larceny,
+Murder, ...) Forgery, etc.). and having duly obtained a Certificate which is hereto annexed from the Judge before whom I was
+*Where tried for the said offence, that it is a fit case for appeal, Do Hereby Give You Notice of Appeal appellant for
+any reason not against my said conviction (particulars of which hereinafter appear) to the Court of Appeal. in custody.
 (Signed) ...
 Appellant
 (or Mark) ...
@@ -81,19 +85,19 @@ Appellant
 ...
 Signature and address of Witness attesting Mark
 Dated this ... day of ..., 20...
-PARTICULARS OF TRIAL AND CONVICTION
-Date of Trial ... Fill in all these
-particulars.
-In what Court tried ... Sentence ... You are required to answer the following questions:
-If you desire to apply to the Court of Appeal to assign you legal aid on your appeal, state your position in life, amount of wages, or salary, etc., and any other facts which you submit show reasons for legal aid being assigned to you. Do you desire to be present on the hearing of your appeal by the Court of Appeal? The Court of Appeal will, if you desire it, consider your case and argument if put in writing by you or on your behalf instead of your case and argument being presented orally. If you desire to present your case and argument in writing, set out here as full as you think right your case and argument in support of your appeal. You must send with this Notice to the Registrar the Certificate of the Judge who tried you. [Subsidiary] Court of Appeal Rules
-SUPREME COURT OF JUDICATURE ACT O. III, CRIMINAL FORM VI r. 14, 22(1).
+PARTICULARS OF TRIAL AND CONVICTION 1. Date of Trial ... Fill in all these
+particulars. 2. In what Court tried ... 3. Sentence ... You are required to answer the following questions:
+1. If you desire to apply to the Court of Appeal to assign you legal aid on your appeal, state
+your position in life, amount of wages, or salary, etc., and any other facts which you submit show reasons for legal aid being assigned to you.
+2. Do you desire to be present on the hearing of your appeal by the Court of Appeal? 3. The Court of Appeal will, if you desire it, consider your case and argument if put in writing
+by you or on your behalf instead of your case and argument being presented orally. If you desire to present your case and argument in writing, set out here as full as you think right your case and argument in support of your appeal. You must send with this Notice to the Registrar the Certificate of the Judge who tried you. [Subsidiary] Court of Appeal Rules
+SUPREME COURT OF JUDICATURE ACT
+CRIMINAL FORM VI O. III, r. 14, 22(1).
 NOTICE OF APPLICATION FOR LEAVE TO APPEAL
 AGAINST A CONVICTION UNDER SECTION 5(b)
-To the Registrar of the Supreme Court. I, ... having been convicted of the offence of (Here state the
-... offence, e.g., Larceny,
+To the Registrar of the Supreme Court. I, ... having been convicted of the offence of (Here state the ... offence, e.g., Larceny,
 and (being now a prisoner in Prison) at ... Murder, Forgery, etc.).
-(or* now living at ...) *Where
-and being desirous of appealing against my said conviction Do Hereby Give You Notice that I applicant for
+(or* now living at ...) *Where and being desirous of appealing against my said conviction Do Hereby Give You Notice that I applicant for
 apply to the Court of Appeal for leave to appeal against my conviction on the grounds hereinafter any reason not
 set forth. in custody.
 (Signed) ...
@@ -102,45 +106,45 @@ Applicant
 ...
 Signature and address of Witness attesting Mark
 Dated this ... day of ..., 20...
-PARTICULARS OF TRIAL AND CONVICTION
-1. Date of Trial ... Fill in all these particulars.
+PARTICULARS OF TRIAL AND CONVICTION Fill in all these 1. Date of Trial ... particulars.
 2. In what Court tried ... 3. Sentence ...
-GROUNDS FOR APPLICATION (Here state as ... clearly and concisely as ... possible the grounds on
-You are required to answer the following questions: which you
-1. If you desire to apply to the Court of Appeal to assign you legal aid on your appeal, state your desire to appeal
-position in life, and amount of wages, or salary, etc., and any other facts which you submit against your
-show reason for legal aid being assigned to you. conviction.)
-2. If you desire to be present when the Court of Appeal considers your present application for leave to appeal, state the grounds on which you submit that the Court of Appeal should give you leave to be present thereat.
-3. The Court of Appeal will, if you desire it, consider your case and argument if put into writing by you or on your behalf, instead of your case and argument being presented orally. If you desire to present your case and argument in writing set out here as fully as you think right your case and argument in support of your appeal.
+GROUNDS FOR APPLICATION (Here state as ... clearly and concisely as
+... possible the
+You are required to answer the following questions: grounds on
+1. If you desire to apply to the Court of Appeal to assign you legal aid on your appeal, state which you desire to appeal your position in life, and amount of wages, or salary, etc., and any other facts which you against your submit show reason for legal aid being assigned to you. conviction.)
+2. If you desire to be present when the Court of Appeal considers your present application for
+leave to appeal, state the grounds on which you submit that the Court of Appeal should give you leave to be present thereat.
+3. The Court of Appeal will, if you desire it, consider your case and argument if put into
+writing by you or on your behalf, instead of your case and argument being presented orally. If you desire to present your case and argument in writing set out here as fully as you think right your case and argument in support of your appeal.
 State if you desire to be present at the final hearing of your appeal.
 Court of Appeal Rules [Subsidiary]
 SUPREME COURT OF JUDICATURE ACT
-O. III, r. 22(1). CRIMINAL FORM VII
+CRIMINAL FORM VII O. III, r. 22(1).
 NOTICE OF APPLICATION FOR LEAVE TO APPEAL
-AGAINST SENTENCE
-To the Registrar of the Supreme Court. I, ... having been convicted of the offence of ... (Here state the
-offence, e.g., Larceny, and now being a prisoner in Prison at ... Murder, Forgery, etc.). (or* now living at ...)
-* Where Do Hereby Give You Notice that I desire to apply to the Court of Appeal for leave to appeal to the
-appellant for any reason not said Court against the sentence of ...
-in custody. passed upon me for the said offence, on the following grounds: ... (Here set forth
-the grounds on which you ... desire to question the ...
-sentence).
+AGAINST SENTENCE To the Registrar of the Supreme Court. I, ... having been convicted of the offence (Here state the
+offence, e.g., Larceny, of ... Murder, Forgery, etc.). and now being a prisoner in Prison at ... (or* now living at ...) * Where
+appellant for Do Hereby Give You Notice that I desire to apply to the Court of Appeal for leave to appeal to the any reason not in custody. said Court against the sentence of ... passed upon me for the said offence, on the following grounds: ...
+(Here set forth the grounds on ... which you
+desire to question the ... sentence).
 (Signed) ...
 Appellant
 (or Mark) ...
 Signature and address of Witness attesting Mark Dated this ... day of ..., 20...
-PARTICULARS OF TRIAL AND CONVICTION 1. Date when sentence passed ... Fill in all these
-particulars. 2. In what Court tried ... You are required to answer the following questions:
-If you desire to apply to the Court of Appeal to assign you legal aid on your appeal, state your position in life, wages, salary, etc., and any other facts which you submit show reason for legal aid being assigned to you. If you desire to be present when the Court of Appeal considers your present application for leave to appeal, state the grounds on which you submit that the Court of Appeal should give you leave to be present thereat. State if you desire to be present at the final hearing of your appeal. The Court of Appeal will, if you desire it, consider your case and argument if put into writing by you or on your behalf instead of your case and argument being presented orally. If you desire to present your case and argument in writing set out here as fully as you think right your case and argument in support of your appeal. [Subsidiary] Court of Appeal Rules
+Fill in all these PARTICULARS OF TRIAL AND CONVICTION particulars. 1. Date when sentence passed ... 2. In what Court tried ... You are required to answer the following questions:
+1. If you desire to apply to the Court of Appeal to assign you legal aid on your appeal, state
+your position in life, wages, salary, etc., and any other facts which you submit show reason for legal aid being assigned to you.
+2. If you desire to be present when the Court of Appeal considers your present application for
+leave to appeal, state the grounds on which you submit that the Court of Appeal should give you leave to be present thereat. State if you desire to be present at the final hearing of your appeal.
+3. The Court of Appeal will, if you desire it, consider your case and argument if put into
+writing by you or on your behalf instead of your case and argument being presented orally. If you desire to present your case and argument in writing set out here as fully as you think right your case and argument in support of your appeal. [Subsidiary] Court of Appeal Rules
 SUPREME COURT OF JUDICATURE ACT
 CRIMINAL FORM VIII
 DECLARATION VERIFYING TRANSCRIPT OF
 SHORTHAND NOTES
 I, ... of
 ... do solemnly and sincerely declare that, having been required by the Registrar of the Supreme Court to furnish him a transcript of the shorthand note relating to the trial (or other proceeding) in relation to which shorthand note is now produced
-and shown to me marked ... and
-purporting to have been signed and certified by ... (or signed and certified by me), I have made a correct and complete transcript thereof to the best of my skill and ability in pursuance of the said requirement, which said transcript is now shown to me marked "B". And I make this declaration
-conscientiously believing the same to be ... and according to the Statutory Declarations Act, and I am aware that if there is any statement in this declaration which is false in fact, which I know or believe to be false or do not believe to be true, I am liable to fine and imprisonment.
+and shown to me marked ..., and
+purporting to have been signed and certified by ... (or signed and certified by me), I have made a correct and complete transcript thereof to the best of my skill and ability in pursuance of the said requirement, which said transcript is now shown to me marked "B". And I make this declaration conscientiously believing the same to be ... and according to the Statutory Declarations Act, and I am aware that if there is any statement in this declaration which is false in fact, which I know or believe to be false or do not believe to be true, I am liable to fine and imprisonment.
 Dated this ... day of ..., 20...
 (Signed) ...
 Court of Appeal Rules [Subsidiary]
@@ -148,16 +152,16 @@ SUPREME COURT OF JUDICATURE ACT
 CRIMINAL FORM IX
 NOTICE OF APPLICATION FOR EXTENSION OF TIME
 WITHIN WHICH TO APPEAL
-To the Registrar of the Supreme Court. I, ... having been convicted
-of the offence of ... at the Court of ... held at ... in this
-... of ... on the ... day of ..., 20... and now being a prisoner in ... (or* now living at ...) Give You Notice, that I hereby apply to the Court of Appeal for an extension of the time within which I may give Notice of Appeal (or Notice of Application for leave to appeal), on the grounds following: ...
+To the Registrar of the Supreme Court. I, ... having been convicted of the offence of ... at the Court of ... held at ... in this ... of ... on the ... day of ..., 20... and now being a prisoner in ... (or* now living at ...) Give You Notice, that I hereby apply to the Court of Appeal for an extension of the time within which I may give Notice of Appeal (or Notice of Application for leave to appeal), on the grounds following: ...
 (Signed) ...
 Appellant
 (or Mark) ...
-... Signature and address of Witness
+...
+Signature and address of Witness
 attesting Mark
 Dated this ... day of ..., 20... You are required to send to the ... of Supreme Court, duly filled up, and with the questions appearing thereon properly answered, Form IV, if your proposed appeal involves a question of law alone; or Form V if you have obtained the Certificate of the Judge of the Court of Appeal; or Form VI if you have not obtained such Certificate; or Form VII if you desire to appeal against your sentence only, together with this Notice. [Subsidiary] Court of Appeal Rules
-SUPREME COURT OF JUDICATURE ACT O. III. CRIMINAL FORM X r. 4(3), 26(7).
+SUPREME COURT OF JUDICATURE ACT
+CRIMINAL FORM X O. III. r. 4(3), 26(7).
 RECOGNISANCE OF BAIL OF APPELLANT
 Be it remembered that whereas ... was convicted of ... on the ... day of ..., 20... (and was thereupon sentenced to ... ), and now is in lawful custody in Prison at ... and has duly appealed against his conviction (and sentence) to the Court of Appeal, and has applied to the said Court for bail pending the determination of his appeal, and the said Court has granted him bail on entering into his own recognisances in the sum of $... (and with ... sureties each in the sum of $...), the said ... personally cometh before me the undersigned and acknowledges himself to owe to the State the said sum of ..., of good and lawful money to be made and levied of his goods and chattels, lands and tenements to the use of the State if he the said ... fail in the ... condition endorsed. Taken and acknowledged this ... day of ... 20... at the ...
 before me,
@@ -174,14 +178,14 @@ RECOGNISANCE OF APPELLANT'S SURETIES
 Be it remembered that on this ... day of ..., 20... of ... (occupation) and ... of ... (occupation) personally came before me the undersigned Justice of the Peace at ... in the ... of ... and severally acknowledged themselves to owe to the State the several sums following, that is to say, the said ... the sum of $ ..., and the said ... the sum of $ ..., of good and lawful money to be made and levied of their goods and chattels, lands and tenements, respectively to the use of the State if ... now in lawful custody in ... fail in the condition hereon endorsed.
 Taken and acknowledged before (us) the undersigned, the day and year first above-mentioned.
 ...
-Justice of the Peace
+Justice of the Peace,
 County of ...
 CONDITION
 The condition of the within written Recognisance is such that whereas the said ... having been convicted of ... and now in such lawful custody as before-mentioned (under a sentence of ... for such offence), has duly appealed to the Court of Appeal against his said conviction (and sentence), and having applied to the said Court for bail, pending the determination of his said appeal, has been granted bail on his entering into recognisance in the sum of $ ..., with ... sureties each in the sum of $ ..., if the said ... shall personally appear and surrender himself at and before the said Court at each and every hearing of his said appeal to such Court and at the final determination thereof, and to there and then abide by the Judgment of the said Court, and not depart or be absent from the said Court at any such hearing without leave of the Court, and in the meantime not to depart out of Trinidad and Tobago, then this recognisance to be void or else to stand in full force and effect. [Subsidiary] Court of Appeal Rules
 SUPREME COURT OF JUDICATURE ACT
 CRIMINAL FORM XII
-NOTICE TO COMMISSIONER OF PRISONS TO RELEASE
-APPELLANT ON BAIL
+NOTICE TO COMMISSIONER OF PRISONS TO
+RELEASE APPELLANT ON BAIL
 THE STATE v.
 ... To the Commissioner of Prisons, Whereas ... has duly appealed to the Court
 of Appeal against his conviction for ... (and sentence of
@@ -204,8 +208,8 @@ UNDER SECTION 59
 THE STATE v.
 ... I hereby Give you Notice that a Judge of the Court of Appeal having considered your application for-
 (a) leave to appeal;
-(b) for extension of time within which Notice of Appeal or of Application
-for leave to appeal may be given;
+(b) for extension of time within which Notice of Appeal or of
+Application for leave to appeal may be given;
 (c) legal aid to be assigned to you;
 (d) permission to you to be present at the hearing of any proceedings in
 relation to your appeal,
@@ -256,19 +260,15 @@ County of ...
 I acknowledge that the above Certificate is correct.
 (Signed) ...
 Surety [Subsidiary] Court of Appeal Rules
-SUPREME COURT OF JUDICATURE ACT O. III, r. 26(10). CRIMINAL FORM XVI
+SUPREME COURT OF JUDICATURE ACT
+CRIMINAL FORM XVI
 INFORMATION OF SURETY FOR ARREST OF
 APPELLANT
 THE STATE v.
 ... (Appellant)
-The Information of *... of ... (...) laid before me the undersigned upon an application for a Warrant for the apprehension of *...and the deposition of the said in support thereof on the ... day of... 20... The said *... said as follows: *Here state Appellant's
-... name and address if ... known.
-...
-I, ...* do say that the above-named *... having been granted *Here fill in the name,
-bail by the Court of Appeal, himself in the sum of $..., and with ...surety description, and address of in the sum of $ ... was released on such bail on condition that he should personally appear Surety.
-and be present at and before the Court of Appeal at each and every hearing of his appeal and at the final determination thereof and to then and there abide by the Judgment of the said "Court" and not to depart or be absent from such Court on any such hearing without the leave of the said Court and in the meantime not to depart out of Trinidad and Tobago. And that I became surety for the performance of the said conditions by the said ...in the sum of $... , a Certificate whereof signed by the Clerk of the
-Peace of ... and by me is now shown to me marked (a).
-And that I suspect that the said ... is about to depart out of Trinidad and Tobago (or state in what manner the Appellant is believed to be about to fail in the observance of this recognisances) and I therefore desire to surrender ... into custody and, thereby discharge myself from my said recognisances. I verily believe that the said... is now in ...
+The Information of *... of ... (...) laid before me the undersigned upon an application for a Warrant for the apprehension of *...and the deposition of the said in support thereof on the ... day of... 20...
+The said *... said as follows: ... I, ...* do say that the above-named *... having been granted bail by the Court of Appeal, himself in the sum of $..., and with ...surety in the sum of $ ... was released on such bail on condition that he should personally appear and be present at and before the Court of Appeal at each and every hearing of his appeal and at the final determination thereof and to then and there abide by the Judgment of the said "Court" and not to depart or be absent from such Court on any such hearing without the leave of the said Court and in the meantime not to depart out of Trinidad and Tobago. And that I became surety for the performance of the said conditions by the said ...in the sum of $... , a Certificate whereof signed by the Clerk of the Peace of ... and by me is now shown to me marked (a).
+And that I suspect that the said ... is about to depart out of Trinidad and Tobago (or state in what manner the Appellant is believed to be about to fail in the observance of this recognisances) and I therefore desire to surrender the said ... into custody and, thereby discharge myself from my said recognisances. I verily believe that the said ... is now in ...
 (Signed) ...
 Surety
 Laid before me the day and year first above written.
@@ -278,8 +278,7 @@ Court of Appeal Rules [Subsidiary]
 SUPREME COURT OF JUDICATURE ACT
 CRIMINAL FORM XVII
 WARRANT ON INFORMATION OF SURETY
-To all Constables,
-Whereas Information hath been duly laid before me the undersigned by
+To all Constables, Whereas Information hath been duly laid before me the undersigned by
 ...of ...for that* ... having been released on bail by the Court of Appeal on recognisances conditioned to appear and to be present at and before the Court of Appeal at each and every hearing of his appeal and at the final determination thereof and to then and there abide by the Judgment of the said Court and not to depart or be absent from such Court on any such hearing without the leave of the said Court and in the meantime not to depart out of Trinidad and Tobago and that the said
 ... doth suspect that the
 said ... is about to depart out of Trinidad and Tobago (or as the case may be) and that
@@ -439,7 +438,7 @@ To ... of ...
 Whereas on good cause shown to the Court of Appeal you have been ordered to be examined as a witness upon the appeal of the above named, and your deposition to be taken for the use of the said Court.
 This is to give you notice to attend* ...
 on the ... day of ... 20... before†
-...at ... o'clock in the ...noon.
+... at ... o'clock in the ...noon.
 You are also required to have with you at the said time and place any books, papers or other things under your control or in your possession in any manner relating to the said appeal of which you may have notice so to produce.
 ...
 Registrar of Supreme Court
@@ -485,8 +484,8 @@ To The Minister
 To the Commissioner of Prisons
 This is to give you Notice that the above-mentioned having applied for-
 (a) leave to appeal to the said Court;
-(b) leave to extend the time within which he may give Notice of Appeal or
-of an Application for leave to appeal;
+(b) leave to extend the time within which he may give Notice of Appeal
+or of an Application for leave to appeal;
 (c) legal aid to be assigned to him;
 (d) permission to be present during the proceedings in his Appeal;
 (e) his admission to bail;
@@ -532,8 +531,8 @@ BARRISTERS (DISCIPLINARY PROCEEDINGS) RULES
 CRIMINAL APPEAL (REFERENCE
 OF POINTS OF LAW) RULES
 ARRANGEMENT OF RULES
-1. Citation. 2. Interpretation. 3. Form of reference. 4. Notice of reference. 5. Withdrawal of amendment of reference. 6. Amendment of respondent's argument. 7. Application under section 63(3). 8. Non-disclosure of respondent's identity. 9. Service on respondent.
-10. Service on Registrar.
+RULE
+1. Citation. 2. Interpretation. 3. Form of reference. 4. Notice of reference. 5. Withdrawal of amendment of reference. 6. Amendment of respondent's argument. 7. Application under section 63(3). 8. Non-disclosure of respondent's identity. 9. Service on respondent. 10. Service on Registrar.
 SCHEDULE. [Subsidiary]
 *CRIMINAL APPEAL (REFERENCE OF
 POINTS OF LAW) RULES
@@ -546,10 +545,8 @@ made under section 77
 "Form" means a criminal form set out in the Schedule;
 "reference" means a reference of a point of law to the Court in
 pursuance of section 63 of the Act;
-"Registrar" means the Registrar of the Supreme Court of
-Judicature;
-"respondent", in relation to a reference, means the acquitted person
-in whose case the point of law referred to arose.
+"Registrar" means the Registrar of the Supreme Court of Judicature; "respondent", in relation to a reference, means the acquitted
+person in whose case the point of law referred to arose.
 3. (1) A reference shall be in writing, and shall-
 (a) specify the point of law referred and, where
 appropriate, such facts of the case as are necessary for the proper consideration of the point of law;
@@ -593,14 +590,6 @@ the Registrar may be effected by addressing it to him and posting it to or leavi
 - Margin: Here specify in general terms the grounds on which Certificate granted.
 - Margin: O. III, r. 17(1).
 - Margin: O. III, r. 20.
-- Margin: 1.
-- Margin: 2.
-- Margin: 3.
-- Margin: 1.
-- Margin: 2. 3.
-- Margin: 1.
-- Margin: 2.
-- Margin: 3.
 - Margin: O. III, r. 2(7).
 - Margin: O. III, r. 21.
 - Margin: (Here state the offence, e.g., Larceny, Murder, Forgery, etc.).
@@ -615,7 +604,9 @@ the Registrar may be effected by addressing it to him and posting it to or leavi
 - Margin: *Strike out this if you do not desire to be present.
 - Margin: O. III, r. 26(5).
 - Margin: *Here fill in Surety's name and address.
-- Margin: the said
+- Margin: O. III, r. 26(10).
+- Margin: *Here state Appellant's name and address if known.
+- Margin: *Here fill in the name, description, and address of Surety.
 - Margin: O. III, r. 26(10).
 - Margin: *Here fill in the appellant's name .
 - Margin: *Here fill in Surety's name.
@@ -641,7 +632,6 @@ the Registrar may be effected by addressing it to him and posting it to or leavi
 - Margin: O. III, r. 31(1).
 - Margin: O. III, r. 31(1).
 - Margin: O. III, r. 5(3).
-- Margin: RULE
 - Margin: 87/1981.
 - Margin: Citation.
 - Margin: Interpretation.
