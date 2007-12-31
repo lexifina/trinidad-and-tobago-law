@@ -3,11 +3,22 @@ CHAPTER 30:02
 Act
 18 of 1948
 Amended by
-48/1957 190/1950 106/1958 178/1951 13/1960 219/1951
-20 of 1960 123/1952
-31/1961 59/1954 46/1964 71/1954 55/1964 147/1954 9/1965 76/1955 34/1965 128/1955 47/1965 173/1955 113/1968 174/1956 4 of 1988 17/1957
+13/1960 190/1950
+178/1951 20 of 1960 219/1951 31/1961 123/1952 46/1964 59/1954
+55/1964
+71/1954
+9/1965
+147/1954
+34/1965
+76/1955
+47/1965
+128/1955
+113/1968
+173/1955
+4 of 1988 174/1956 55/2003 17/1957 12/2005 48/1957
+106/1958 213/2005
 Index of Subsidiary Legislation
-Page Importation of Antibiotic Preparations Order ... 12 Approved Pharmaceutical Firms Order ... 33 Antibiotics (Conditions for Use) Order (LN 29/1989) … … … 40
+Page Importation of Antibiotics Preparations Order ... 12 Approved Pharmaceutical Firms Order ... 33 Antibiotics (Conditions for Use) Order (LN 29/1989) … … … 40
 Note on the above Orders
 The amendments to the above Orders are long and frequent, and in view of their very limited use by the general public they will not be updated annually (following the policy adopted with respect to the Approval of New Drugs Notification under the Food and Drugs Act- See page 2 of Ch. 30:01).
 For amendments to these Orders-See the Current Edition of the Consolidated Index of Acts and Subsidiary Legislation.
