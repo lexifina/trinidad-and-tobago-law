@@ -1,7 +1,6 @@
 # SCHEDULE 7
 AERONAUTICAL DATA CONTROL SYSTEM
-The aeronautical data required to be provided under regulation 57(2) shall
-include in relation to-
+The aeronautical data required to be provided under regulation 57(2) shall include in relation to-
 (a) airports the following:
 (i) facilities;
 (ii) navigational and communications aids;
@@ -9,7 +8,7 @@ include in relation to-
 operations; and
 (iv) air traffic facilities;
 (b) runways, clearways and stopways the following:
-(i) dimensions;
+(i) dimensions; [Subsidiary] Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations
 (ii) surface;
 (iii) markings and lighting systems; and
 (iv) elevations and gradient;
@@ -25,7 +24,6 @@ computations;
 (iv) instruments flight procedures
 (v) approach procedure; and
 (vi) missed approach procedure; and
-Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations [Subsidiary]
 (e) special information the following:
 (i) runway visual range measurement equipment; and
 (ii) prevailing winds under low visibility conditions.

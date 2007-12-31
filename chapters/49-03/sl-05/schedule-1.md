@@ -1,44 +1,27 @@
 # SCHEDULE 1
-The following instruments and equipment shall be installed on an aircraft
-engaged in Category II operations in accordance with its aircraft group:
-(a) Group I. Aircraft
-(i) two localizer and glide slope receiving systems
-in which-
-(A) each system shall provide a basic Instrument
-Landing System display; and
-(B) each side of the instrument panel must have a basic
-Instrument Landing System display;
-(ii) a communication system that does not affect the
-operation of at least one of the Instrumental
-Landing System;
-(iii) a marker beacon receiver that provides distinctive aural
-and visual indications of the outer and the middle markers;
-(iv) two gyroscopic pitch and bank indicating systems;
-(v) two gyroscopic direction indicating systems;
-(vi) two airspeed indicators;
-(vii) two sensitive altimeters adjustable for barometric
-pressure, having markings at 20-foot intervals and each having a placarded correction for altimeter scale error and for the wheel height of the aircraft;
-(viii) two vertical speed indicators; and
-(ix) a flight control guidance system that consists of-
-(A) either an automatic approach coupler; or
-(B) a flight director system.
-A FLIGHT DiRECTOR SYSTEM MUST DiSpLAY COMpUTED iNFORMATiON AS STEERiNG COMMAND iN RELATiON TO AN INSTRUMENT LANDiNG SYSTEM LOCALIZER AND, ON THE SAME iNSTRUMENT, EiTHER COMpUTED iNFORMATiON AS piTCH COMMAND iN RELATiON TO AN INSTRUMENT LANDiNG SYSTEM GLIDE SLOpE OR BASiC INSTRUMENT LANDiNG SYSTEM GLIDE SLOpE iNFORMATiON. AN AUTOMATiC AppROACH COUpLER MUST pROViDE AT LEAST AUTOMATiC STEERiNG iN RELATiON TO AN INSTRUMENT LANDiNG SYSTEM LOCALIZER. THE FLIGHT CONTROL GUiDANCE SYSTEM MAY BE OpERATED FROM ONE OF THE RECEiViNG SYSTEMS REQUiRED BY pARAGRApH (1)(A)(i).
-(x) for Category II operations with decision heights below
-150 feet either a marker beacon receiver providing aural and visual indications of the inner marker or a radio altimeter.
-Civil Aviation [(No. 7) Instruments and Equipment] Regulations [Subsidiary]
-(b) Group II. Aircraft
-(i) all the items under paragraph (1);
-(ii) warning systems for immediate detection by the
-pilot of system faults in paragraphs (1)(a), (d), (e) and (i) of Group I and, if installed for use in
-Category III operations-
-(A) the Radio Altimeter system; and
-(B) auto-throttle system;
-(iii) dual controls;
-(iv) an externally vented static pressure system with an
-alternate static pressure source;
-(v) a windshield wiper or equivalent means of providing
-adequate cockpit visibility for a safe visual transition by either pilot to touchdown and rollout; and
-(vi) a heat source for each airspeed system pitot tube
-installed or an equivalent means of preventing malfunctioning due to icing of the pitot system.
-- Margin: Regulation 12.
-- Margin: NotE:
+TRAINING AND PROCEDURES MANUAL
+1. An Approved Training Organisation may provide a training and
+procedures manual for the use and guidance of personnel concerned and shall be issued in separate parts containing at least the following information:
+(a) a general description of the scope of training authorised
+under the organisation's terms of approval;
+(b) the content of the training programmes offered including the
+courseware and equipment to be used;
+(c) a description of the organisation's quality assurance system
+in accordance with regulation 14A;
+(d) a description of the organisations facilities;
+(e) the name, duties and qualification of the person designated as
+responsible for compliance with the requirements of the approval in regulation 15(1);
+Civil Aviation [(No. 9) Approved Training Organisation] Regulations [Subsidiary]
+(f) a description of the duties and qualification of the personnel
+designated as responsible for planning, performing and supervising the training in regulation 15(2);
+(g) a description of the procedures used to establish and
+maintain the competence of instructional personnel as required by regulation 15(3);
+(h) a description of the method used for the completion and
+retention of the training records required by regulation 22;
+(i) a description, when applicable, of additional training needed to
+comply with an operator's procedures and requirements; and
+(j) where an Approved Training Organisation is authorised to
+conduct the testing required for the issue of a licence or rating in accordance with regulation 18A, a description of the selection, role and duties of the authorised personnel, as well as the applicable requirements established by the Authority.
+2. The Approved Training Organisation shall ensure that the Training and Procedures Manual is amended when necessary and shall keep the information contained in the Training and Procedures Manual up to date.
+3. Copies of all amendments to the Training and Procedures Manual shall be furnished promptly to all organisations or persons to whom the manual has been issued. [Subsidiary] Civil Aviation [(No. 9) Approved Training Organisation] Regulations
+- Margin: [Regulation 5(2)(b)(i)]. [191/2006 290/2006].
