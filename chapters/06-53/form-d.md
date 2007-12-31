@@ -10,9 +10,9 @@ QUALIFICATIONS FOR A JUROR
 Return by Employer
 Whether Christian
 Business
-qualified and Nature of qualification Place of
+Nature of qualification qualified and Place of
 Sex or
-as Special Surname Abode under section 4(1)(e)
+as Special Surname under section 4(1)(e) Abode
 Occupation
 Juror in full
 - Margin: [Section 10(2)(d)].
