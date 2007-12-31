@@ -38,7 +38,7 @@ TAKE NOTICE that the Attorney General/Respondent, being dissatisfied with the op
 *Attorney General/Respondent
 *Delete as appropriate.
 - Margin: Section 2(1).
-- Margin: [Rule 4(1)]
+- Margin: [Rule 4(1)].
 - Margin: [Rule 5(2)].
 - Margin: [Rule 5(3)].
 - Margin: [Rule 6(3)].
