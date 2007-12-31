@@ -25,8 +25,8 @@ made under section 12
 (Licensing of Premises) Regulations.
 2. In these Regulations-
 "Act" means the Pesticides and Toxic Chemicals Act;
-"Board" means the Pesticides and Toxic Chemicals Control Board
-established under section 3 of the Act;
+"Board" means the Pesticides and Toxic Chemicals Control
+Board established under section 3 of the Act;
 "licence" means a licence issued by the Board under regulation 7; "premises" includes any building, temporary building or any
 stationary vehicle or other places open to the public in which pesticides are offered for sale by retail or wholesale, or are packaged, stored or manufactured;
 "Registrar" means a person designated to be the Registrar of
@@ -44,11 +44,11 @@ any premises who desires to sell, store, package or manufacture a pesticide or a
 (2) An application to which subregulation (1) relates shall be accompanied by a receipt for a fee of four hundred dollars and such fee shall be payable to the Comptroller of Accounts or any District Revenue Office.
 5. The owner or occupier of premises used for the sale, storage, packaging or manufacturing of pesticides before the commencement of these Regulations may apply within one hundred and twenty days to the Registrar for a licence in the manner prescribed.
 6. (1) Where an application for a licence has been made the Registrar shall arrange for an inspection of the premises by an Inspector, an analyst, a medical examiner, or a member of the Board who shall prepare a report to be submitted to the Board as early as possible.
-(2) Upon consideraton of a report submitted under subregulation (1) if in the opinion of the Board, the premises, facilities or staffing need to be altered to comply with the requirements of these Regulations, the Registrar shall issue a notice to the owner or occupier specifying the alterations to be made, and shall withhold the issue of any licence until the alterations are satisfactorily completed.
-7. Where the Board is satisfied that in relation to an application before it, requirements of these regulations have been complied with the Board shall approve the grant of the licence on such terms and conditions as it sees fit and the Registrar shall issue the licence in the form set out in Form B of the Schedule.
+(2) Upon consideration of a report submitted under subregulation (1) if in the opinion of the Board, the premises, facilities or staffing need to be altered to comply with the requirements of these Regulations, the Registrar shall issue a notice to the owner or occupier specifying the alterations to be made, and shall withhold the issue of any licence until the alterations are satisfactorily completed.
+7. Where the Board is satisfied that in relation to an application before it, requirements of these Regulations have been complied with the Board shall approve the grant of the licence on such terms and conditions as it sees fit and the Registrar shall issue the licence in the form set out in Form B of the Schedule.
 8. (1) Premises licensed for the sale, storage, manufacture or packaging of-
-(a) pesticides in Classes 1A and 1B are deemed to be
-licensed for the sale of pesticides in Classes II and III and unclassified pesticides; [Subsidiary] Pesticides (Licensing of Premises) Regulations
+(a) pesticides in Classes 1A and 1B are deemed to
+be licensed for the sale of pesticides in Classes II and III and unclassified pesticides; [Subsidiary] Pesticides (Licensing of Premises) Regulations
 (b) pesticides in Class II are deemed to be licensed
 for the sale of pesticides in Class III and unclassified pesticides, but not for the sale of pesticides in Classes 1A and 1B;
 (c) pesticides in Class III are deemed to be licensed
@@ -68,12 +68,12 @@ form and manner prescribed in Form B of the First Schedule.
 time for public information-
 (a) a list of premises licensed for the sale, storage,
 packaging or manufacturing of pesticides in different classes;
-(b) a list of premises, the licenses of which have been
-cancelled or varied.
+(b) a list of premises, the licenses of which have
+been cancelled or varied.
 11. Where the owner or occupier of premises licensed under
 this Act has been convicted of any offence against the Act or the Regulations, the Board may direct the Registrar to cancel or vary any licence issued in respect of those premises.
 [Subsidiary] Pesticides (Licensing of Premises) Regulations
-12. Notice of cancellation or variation of a licence shall be sent to the owner or occupier of the premises and such cancellation or variation shall have effect on his receipt of the notice.
+12. Notice of cancellation or variation of a licence shall be sent to the owner or occupier of the premises, and such cancellation or variation shall have effect on his receipt of the notice.
 13. (1) Where the Board refuses to grant a licence, an aggrieved applicant may appeal to the Appeals Tribunal within ten days of the receipt of the letter of refusal under section 4(4) of the Act.
 (2) At the request of the Appeals Tribunal the Board should submit to it all documents relevant to the application under review.
 (3) Where the Tribunal is of the view that new circumstances warrant a review of the application the Tribunal may nominate an Inspector, an analyst, or medical examiner to inspect the premises anew and to submit a report to the Tribunal and the Tribunal shall forthwith consider the report and give such directives to the Board as it sees fit.
@@ -83,8 +83,8 @@ SALE, STORAGE, MANUFACTURE, PACKAGING OF
 PESTICIDES IN CLASSES 1A, 1B, II AND III
 14. Premises licensed for the sale, manufacture or storage of pesticides shall be constructed in accordance with the requirements of regulations 15 to 19.
 15. Premises shall be constructed as follows:
-(a) the site shall not be such as to cause or allow entry
-to run-off and liquid effluent into adjoining or adjacent property;
+(a) the site shall not be such as to cause or allow
+entry to run-off and liquid effluent into adjoining or adjacent property;
 (b) facilities for run-off from the premises, especially
 from the storage areas, shall be constructed so as to avoid contamination of public waterways, and such run-offs shall not enter septic tanks;
 (c) areas and sections of the premises used for the
@@ -99,14 +99,14 @@ for mixing, formulatory or repackaging pesticides, so as to minimise the movemen
 ensure easy reading of labels, instructions and for identification of materials;
 (h) electrical wiring shall comply with the National
 Wiring Code of Trinidad and Tobago;
-(i) filament lamps shall be placed or guarded so as
-to prevent ignition of any flammable materials, and any guard or shade used for this purpose shall be suitable to withstand the heat from the lamp;
+(i) filament lamps shall be placed or guarded so as to
+prevent ignition of any flammable materials, and any guard or shade used for this purpose shall be suitable to withstand the heat from the lamp;
 (j) switchgear, switches and power points (such as
 socket outlets) shall be approved for use in hazardous situations and shall not be placed where flammable dusts and vapours accumulate;
 (k) an adequate supply of water shall be readily
 available on the premises at all times for the purpose of washing of the body and washing away spillages into sumps;
-(l) eye fountains with a regular supply of clear water
-shall be available at all times.
+(l) eye fountains with a regular supply of clear
+water shall be available at all times.
 [Subsidiary] Pesticides (Licensing of Premises) Regulations
 16. (1) Facilities for the disposal of empty packages and containers and spilled or waste pesticides and toxic chemicals shall be such as to avoid contamination of the environment.
 (2) Covered dustbins and other receptacles for waste and spillages shall be made of materials able to resist corrosion by pesticide waste and shall be made sufficiently secure to discourage the removal of waste material by unauthorised persons and to prevent spillage of pesticides.
@@ -127,13 +127,13 @@ Classes 1A and 1B shall be constructed in accordance with the following requirem
 (a) areas and sections of the premises used for the
 storage or the display for sale of pesticides in these classes shall be-
 (i) protected from excessive damp, heat,
-ventilated for removing the fumes of volatile pesticides and dust and exhaust/ ventilation systems shall be provided;
-(ii) provided with an adequate supply of water
-(at a pressure considered suitable by the Fire Service) which shall be easily available at all times for fighting fires and for washing away absorbed material used for absorbing waste and spillages from the storage area;
+ventilated for removing the fumes of volatile pesticides and dust and exhaust/ventilation systems shall be provided;
+(ii) provided with an adequate supply of
+water (at a pressure considered suitable by the Fire Service) which shall be easily available at all times for fighting fires and for washing away absorbed material used for absorbing waste and spillages from the storage area;
 (iii) securely enclosed, and capable of being
 locked to prevent theft or unauthorised removal of pesticides;
-(b) storage areas shall be separated from living areas,
-sleeping areas, cooking and eating areas and offices;
+(b) storage areas shall be separated from living
+areas, sleeping areas, cooking and eating areas and offices;
 (c) facilities shall be available for maintaining
 records, for controlling stock movement and transfers and up-to-date records of receipts and sales shall be kept.
 [Subsidiary] Pesticides (Licensing of Premises) Regulations
@@ -155,7 +155,8 @@ Signed ...
 Applicant Date
 For use by the Board
 A licence is hereby granted to ...
-... to sell*, store*, package* or manufacture* pesticides in Classes 1A*, 1B*, II*, III*, for a period of ...
+... to sell*, store*, package* or manufacture* pesticides in Classes 1A*, 1B*, II*, III*,
+for a period of ...
 ...
 Dated this ... day of ... 20...
 ...
@@ -183,9 +184,11 @@ LICENSED FOR THE SALE OF PESTICIDES
 - Margin: Application period.
 - Margin: Inspection of premises.
 - Margin: Grant of licence.
+- Margin: Form B. Schedule.
 - Margin: Licence in respect of classes of pesticides.
 - Margin: Display of licence.
-- Margin: First Schedule.
+- Margin: Form C. First Schedule.
+- Margin: Form B. First Schedule.
 - Margin: Publication by Registrar.
 - Margin: Cancellation or variation of licence.
 - Margin: Notice of cancellation or variation of licence.
@@ -199,6 +202,6 @@ LICENSED FOR THE SALE OF PESTICIDES
 - Margin: Storage area.
 - Margin: Construction of premises.
 - Margin: (Regulation 4).
-- Margin: Being owner/ occupier)
+- Margin: (Being owner/ occupier)
 - Margin: (Regulations 7 and 9).
 - Margin: (Regulation 9).

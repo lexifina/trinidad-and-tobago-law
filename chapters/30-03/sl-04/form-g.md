@@ -1,0 +1,16 @@
+# FORM G
+REPUBLIC OF TRINIDAD AND TOBAGO
+PESTICIDES AND TOXIC CHEMICALS ACT, CH. 30:03
+Toxic Chemicals Regulations, 2007
+APPLICATION FOR APPROVAL FOR MANUFACTURE OF OR USE OF A TOXIC CHEMICAL FOR MANUFACTURE
+I ... of ...
+(Surname first, if a person) (Address of applicant)
+wish to apply to have the following toxic chemical registered by the Pesticides and Toxic Chemicals Control Board for use in Trinidad and Tobago.
+TRADE NAME OF TOXIC CHEMICAL ...
+Physical form in which it may be stored for the purpose of manufacture, packaging, sale or use ...
+Common Name of Active Ingredients in Toxic Chemical Percentage ... NAME OF MANUFACTURER ... ADDRESS OF MANUFACTURER ... REGISTRATION NUMBER ... HAZARD CLASS OF FORMULATION ... CONDITIONS SUBJECT TO WHICH REGISTRATION IS GRANTED ... OTHER INFORMATION ...
+...
+Signature of applicant Date
+[Subsidiary]
+Toxic Chemicals Regulations
+- Margin: (Regulation 29).

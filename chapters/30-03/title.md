@@ -1,13 +1,10 @@
 PESTICIDES AND TOXIC CHEMICALS ACT
 CHAPTER 30:03
 Act
-42 of 1979
-Amended by
-11 of 1986
-6 of 1993
+42 of 1979 Amended by 11 of 1986 6 of 1993 7 of 2005
 Index of Subsidiary Legislation
 Page Pesticides (Registration and Import Licensing) Regulations (LN 225/1987)… 24 Pesticides (Importation) Regulations (LN 226/1987) … … … 40 Pesticides (Licensing of Premises) Regulations (LN 227/1987) … … 46 Pesticides and Toxic Chemicals (Fees for Analyses and Inspection Services)
-Regulations (LN 74/1993) ... 59
+Regulations (LN 74/1993) ... 59 Toxic Chemicals Regulations (LN 161/2007) … … … 61
 CHAPTER 30:03
 PESTICIDES AND TOXIC CHEMICALS ACT
 ARRANGEMENT OF SECTIONS SECTION
@@ -20,7 +17,8 @@ examiners and appointment of other officers.
 
 CHAPTER 30:03
 PESTICIDES AND TOXIC CHEMICALS ACT
-An Act to regulate the importation, storage, manufacture,
-sale, use and transportation of pesticides and toxic chemicals and to provide for the establishment of the Pesticides and Toxic Chemicals Control Board and for matters incidental thereto.
+An Act to regulate the importation, exportation, storage,
+manufacture, sale, use and transportation of pesticides and toxic chemicals and to provide for the establishment of the Pesticides and Toxic Chemicals Control Board and for matters incidental thereto.
 [1ST NOVEMBER 1987]
+- Margin: 42 of 1979.
 - Margin: Commencement. [186/1987].
