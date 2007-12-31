@@ -19,5 +19,6 @@ JUDGMENTS EXTENSION ACT
 An Act to make provision for the reciprocal enforcement in
 Trinidad and Tobago of judgments of Courts of the United Kingdom and other Commonwealth countries.
 [1ST APRIL 1922]
-- Margin: 1950 Ed. Ch. 5 No. 9. 50 of 1921.
+- Margin: 1950 Ed. Ch. 5 No. 9.
+- Margin: 50 of 1921.
 - Margin: Commencement.
