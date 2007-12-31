@@ -1,11 +1,11 @@
 # SECOND SCHEDULE
-CONSTITUTION AND PROCEDURE OF THE BOARDS OF
-THE REGIONAL HEALTH AUTHORITIES
+CONSTITUTION AND PROCEDURE OF THE BOARDS
+OF THE REGIONAL HEALTH AUTHORITIES
 1. (1) Subject to subsection (2) a Board shall consist of-
-(a) no less than seven and no more than nine members
-appointed by the President;
-(b) a Chief Executive Officer who is ex officio a member but does
-not have a vote.
+(a) no less than seven and no more than nine members appointed
+by the President;
+(b) a Chief Executive Officer who is ex officio a member but
+does not have a vote.
 (2) In respect of subclause (1)(a)-
 (a) at least one member of each Board shall:
 (i) represent the public interest and welfare;
@@ -14,7 +14,7 @@ Authority, be an individual with local government experience and nominated by th
 (iii) be a registered medical practitioner;
 (iv) be a registered nurse;
 (b) an employee of the Ministry of Health shall be a member of
-the Board of the South-West Regional Health Authority, the Eastern Regional Health Authority and the North-West Regional Health Authority, and an employee of the Tobago House of Assembly shall be a member of the Board of the Tobago Regional Health Authority;
+the Board of the South-West Regional Health Authority, the Eastern Regional Health Authority, the North-West Regional Health Authority, and the North Central Regional Health Authority and an employee of the Tobago House of Assembly shall be a member of the Board of the Tobago Regional Health Authority;
 (c) the Board members other than those listed in
 subclause (2)(a) and (b) shall be appointed from amongst persons who have special qualifications in, and practical experience of, matters relating to one or more of the following disciplines:
 (i) finance, accountancy or economics;
@@ -49,7 +49,7 @@ Office within the period of three years preceding his proposed appointment to a 
 7. At any meeting of a Board, a quorum is constituted if at least one-half of the members are present.
 8. (1) The decisions of a Board are by a majority of votes of the members present and voting.
 (2) The Chairman, or other person duly presiding, has an original vote and, if the vote is equal, a casting vote.
-9. (1) A member of a Board, who is in any way, whether directly or indirectly, interested in a contract or a proposed contract with the Authority, that is the subject of consideration by the Board, shall declare the nature of his interest at the first meeting of the Board at which it is practicable for him to do so.
+9. A member of a Board, who is in any way, whether directly or indirectly, interested in a contract or a proposed contract with the Authority, that is the subject of consideration by the Board, shall declare the nature of his interest at the first meeting of the Board at which it is practicable for him to do so.
 10. (1) Minutes in proper form of each meeting shall be kept by the Secretary.
 (2) All decisions, resolutions and rules made by the Board with respect to the operation of the Authority shall be recorded in the Minutes.
 (3) The Minutes shall be confirmed by the Board at the next meeting.
@@ -58,7 +58,7 @@ Office within the period of three years preceding his proposed appointment to a 
 (a) a review of the Authority's performance in the preceding
 year; and
 (b) its plans, goals and targets for the current year.
-- Margin: (Section 7). [3/1995 169/2003].
+- Margin: (Section 7). [3/1995 169/2003 73/2005].
 - Margin: Board of Directors. [3/1995].
 - Margin: Tenure of office.
 - Margin: Remuneration.
