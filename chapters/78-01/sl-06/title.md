@@ -1,0 +1,3 @@
+CUSTOMS (IMPORT DUTY) (CARIBBEAN COMMON *†50/1980.
+MARKET) ORDER
+made under sections 7(1) and 10

@@ -1,0 +1,3 @@
+SPIRITS AND TOBACCO PACKAGE SIZES ORDER
+made under section 47
+- Margin: GN 1227/1951.

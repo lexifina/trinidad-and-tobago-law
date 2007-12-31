@@ -1,0 +1,3 @@
+PACKAGES (STANDARD CAPACITIES) NOTIFICATION
+made under section 28
+- Margin: G. 21.12.39.

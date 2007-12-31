@@ -1,0 +1,3 @@
+CUSTOMS (EXPORTATION OF LIQUOR) REGULATIONS
+made under section 47
+- Margin: GN 69/1959.
