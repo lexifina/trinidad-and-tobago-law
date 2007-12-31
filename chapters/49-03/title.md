@@ -4,11 +4,19 @@ Act
 11 of 2001
 Amended by
 17 of 2003
+1-2 .. 1/2009 3-14 .. 1/2006 15-16 .. 1/2009 17-52 .. 1/2006 53-1687 .. 1/2009
 Index of Subsidiary Legislation
 Page Civil Aviation [(No. 1) General Application and Personnel Licensing] Regulations
-(LN 100/2004) ... 54 Civil Aviation [(No. 2) Operations] Regulations (LN 101/2004) … … 315 Civil Aviation [(No. 3) Air Operator Certification and Administration]
-Regulations (LN 102/2004) ... 645 Civil Aviation [(No. 4) Registration and Markings] Regulations (LN 103/2004) 779 Civil Aviation [(No. 5) Airworthiness] Regulations (LN 104/2004) … 795 Civil Aviation [(No. 6) Approved Maintenance Organisation] Regulations
-(LN 105/2004) ... 869 Civil Aviation [(No. 7) Instruments and Equipment] Regulations (LN 106/2004) 965 Civil Aviation [(No. 8) Aviation Security] Regulations (LN 107/2004) … 1047 Civil Aviation [(No. 9) Aviation Training Organisation] Regulations (LN 108/2004) 1143 Civil Aviation [(No. 10) Foreign Operator] Regulations (LN 109/2004) … 1253 Civil Aviation [(No. 11) Aerial Work] Regulations (LN 110/2004) … 1269 Civil Aviation [(No. 12) Aerodrome Licensing] Regulations (LN 111/2004) … 1308 Civil Aviation (Tenders Committee) Rules (LN 307/2004) … … 1351
+(LN 100/2004) ... 54 Civil Aviation [(No. 2) Operations] Regulations (LN 101/2004) … … 313 *Civil Aviation [(No. 3) Air Operator Certification and Administration]
+Regulations (LN 102/2004)... 665 *Civil Aviation [(No. 4) Registration and Markings] Regulations (LN 103/2004) 799 *Civil Aviation [(No. 5) Airworthiness] Regulations (LN 104/2004)… … 814 *Civil Aviation [(No. 6) Approved Maintenance Organisation] Regulations
+(LN 105/2004) ... 893 *Civil Aviation [(No. 7) Instruments and Equipment] Regulations (LN 106/2004) 991 *Civil Aviation [(No. 8) Aviation Security] Regulations (LN 107/2004) … 1074 *Civil Aviation [(No. 9) Approved Training Organisation] Regulations (LN 108/2004) 1171 *Civil Aviation [(No. 10) Foreign Operator] Regulations (LN 109/2004) … 1283 *Civil Aviation [(No. 11) Aerial Work] Regulations (LN 110/2004) … 1298 *Civil Aviation [(No. 12) Aerodrome Licensing] Regulations (LN 111/2004)… 1338 *Civil Aviation [(No. 13) Charges for Air Navigation Services] Regulations
+(LN 239/2005) ... 1384 *Civil Aviation [(No. 14) Aircraft Accident and Incident Investigation] Rgulations
+(LN 306/2006) ... 1389 *Civil Aviation [(No. 15) Air Navigation Services] Regulations (LN 308/2006) 1425 *Civil Aviation [(No. 16) Compounding of Offences] (Pecuniary Penalties)
+Regulations (LN 52/2007) ... 1659 *Civil Aviation (Tenders Committee) Rules (LN 307/2004)… … … 1670
+Note on Subsidiary Legislation
+Civil Aviation [(No. 5) Airworthiness] Regulations
+Amendments made to the Civil Aviation [(No. 5) Airworthiness] Regulations by LN 48/2007 took effect on 1st October 2007.
+* See Volume XVI for the continuation of the above Subsidiary Legislation.
 CHAPTER 49:03
 CIVIL AVIATION ACT
 ARRANGEMENT OF SECTIONS
@@ -73,8 +81,8 @@ FIRST SCHEDULE. SECOND SCHEDULE. THIRD SCHEDULE. FOURTH SCHEDULE . FIFTH SCHEDUL
 
 CHAPTER 49:03
 CIVIL AVIATION ACT
-An Act to make provision for the establishment of the Trinidad
-and Tobago Civil Aviation Authority, for the regulation of all civil aviation activities, for the implementation of certain international conventions and for the institution of safety requirements.
+An Act to make provision for the establishment of the
+Trinidad and Tobago Civil Aviation Authority, for the regulation of all civil aviation activities, for the implementation of certain international conventions and for the institution of safety requirements.
 [1ST NOVEMBER 2001]
 - Margin: 11 of 2001.
 - Margin: Commencement. 242/2001.

@@ -6,7 +6,7 @@ PART I: GENERAL ORGANISATION
 (a) brief description of organisation;
 (b) relationship with other organisations;
 (c) fleet composition-type of operation; and
-(d) line station locations. [Subsidiary] Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations
+(d) line station locations.
 1.3 Maintenance management personnel:
 (a) accountable manager;
 (b) nominated postholder;
@@ -24,7 +24,7 @@ PART 2: MAINTENANCE PROCEDURES
 information (Airworthiness Directives).
 2.5 Analysis of the effectiveness of the maintenance.
 2.6 Non-mandatory modification embodiment policy.
-2.7 Major modification standards.
+2.7 Major modification standards. [Subsidiary] Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations
 2.8 Defect reports:
 (a) Analysis;
 (b) liaison with manufacturers and regulatory authorities; and
@@ -37,7 +37,6 @@ information (Airworthiness Directives).
 2.10 Pre-flight inspection:
 (a) preparation of aircraft for flight;
 (b) sub-contracted ground handling functions;
-Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations [Subsidiary]
 (c) security of cargo and baggage loading;
 (d) control of refuelling, quantity/quality; and
 (e) control of snow, ice, dust and sand contamination.

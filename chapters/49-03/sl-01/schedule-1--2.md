@@ -11,12 +11,11 @@ This certificate is not transferable and, unless sooner surrendered, suspended o
 Certificate number: ... Initial issue date: ...
 Effective date: ... Expiry date: ...
 Name: ... Signature: ...
-(/f/ Authority)
-Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations [Subsidiary]
+(/f/ Authority) [Subsidiary] Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations
 GOVERNMENT OF TRINIDAD AND TOBAGO
 OPERATIONS SPECIFICATIONS
 Issued to: ...
-Air Operator Certificate No... Initial issue date:...
+Air Operator Certificate No... Initial issue date: ...
 PART A-GENERAL PROVISIONS
 1. Applicability.
 2. Definitions and abbreviations.
@@ -35,7 +34,8 @@ LIMITATIONS
 1. General.
 2. Instrument approach procedures and aerodrome operating minima.
 (a) Instrument approach minima;
-(b) Take-off minima; [Subsidiary] Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations
+(b) Take-off minima;
+Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations [Subsidiary]
 (c) Circling minima; and
 (d) Authorised instrument approach minima.
 3. Authorised aerodromes.
@@ -55,7 +55,7 @@ PART E-MASS AND BALANCE
 PART F-INTERCHANGE OR EQUIPMENT OPERATIONS
 PART G-AIRCRAFT LEASING OPERATIONS
 (wet lease)
-Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations [Subsidiary]
+[Subsidiary] Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations
 - Margin: [Regulation 7(1)].
 - Margin: Ch. 49:03.
 - Margin: [(Regulation 7(1)].
