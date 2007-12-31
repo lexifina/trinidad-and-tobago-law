@@ -12,7 +12,7 @@ Gunsmith's Licence.
 10. Particulars as to register of transactions in firearms.
 CERTIFICATES AND PERMITS
 11. Application for Firearm User's (Employee's) Certificate. 12. Form of Firearm User's (Employee's) Certificate. 13. Variation of licences, certificates or permits. 14. Firearm Disposal Permit. 15. Firearm Import Permit. 16. Permit to take firearm abroad. 17. Other certificates and permits. 18. Photographs. 19. Appropriate fee.
-Firearms Regulations [Subsidiary]
+Firearms Regulations
 REGULATION
 MISCELLANEOUS
 20. Public places prescribed under section 8 of the Act. 21. Custody of firearms and ammunition by officer of Customs. 22. Commissioner to keep records. 23. Fee.
@@ -34,9 +34,9 @@ relates shall at all times when not in actual use be kept in a secure place with
 (b) the loss or theft of any of the firearms to which
 the licence relates shall be at once reported to the nearest police station;
 (c) except the Commissioner otherwise permits, the
-firearm and ammunition must be kept at the permanent address of the holder of the licence and the Commissioner must be notified in writing
-Firearms Regulations [Subsidiary]
-within forty-eight hours of any change of such address and of any change in the address at which the holder of the licence is otherwise permitted to keep the firearm and ammunition;
+firearm and ammunition must be kept at the permanent address of the holder of the licence and the Commissioner must be notified in
+Firearms Regulations
+writing within forty-eight hours of any change of such address and of any change in the address at which the holder of the licence is otherwise permitted to keep the firearm and ammunition;
 (d) the holder of the licence shall take all necessary
 steps to secure compliance with the provisions of regulation 7.
 6. (1) Every Firearm User's Licence granted under Part II of the Act shall be in the form set out as Form 2 in the First Schedule, and shall contain forms of the certificate set out in Form 3 in the First Schedule.
@@ -62,9 +62,9 @@ the case may be shall be in the forms respectively set out as Forms 4 and 5 in t
 entered in the register of transactions required to be kept under section 26(1) of the Act, the following particulars:
 (a) the quantities and description of firearms and
 ammunition purchased or acquired with the names and addresses of the sellers or transferors and the dates of the several transactions;
-Firearms Regulations [Subsidiary]
-(b) the quantities and description of firearms
-and ammunition sold or transferred with the names and addresses of the purchasers and transferees (except in cases where the purchasers are transferees), the areas in which firearms were sold or transferred and the dates of the several transactions;
+Firearms Regulations
+(b) the quantities and description of firearms and
+ammunition sold or transferred with the names and addresses of the purchasers and transferees (except in cases where the purchasers are transferees), the areas in which firearms were sold or transferred and the dates of the several transactions;
 (c) the quantities and description of firearms and
 ammunition accepted for sale, repair, test, proof, cleaning, storage, destruction or other purpose, with the names and addresses of the transferors and the dates of the several transactions;
 (d) the quantities and description of firearms and
@@ -83,11 +83,10 @@ form and contain such particulars as are specified in Form 12 in the First Sched
 16. Application for a written permit to take a firearm abroad
 in accordance with section 33 of the Act may be made by the holder of a Firearm User's Licence and shall be in the form set out as, and contain such particulars as are specified in, Form 14 in the First Schedule and the written permit to do so shall be in the form set out as Form 15 in the First Schedule.
 17. Applications for all certificates and permits (other than
-those expressly provided for herein) required to be issued under any provision of the Act shall be made in writing and shall contain such particulars as the Commissioner of Police may require and such certificates and permit shall be in such form as the
-Commissioner of Police may consider appropriate.
-18. (1) Every application for a licence or a Firearm User's
-(Employee's) Certificate shall be accompanied by two copies of a recent photograph of the applicant, taken full face and bareheaded.
-Firearms Regulations [Subsidiary]
+those expressly provided for herein) required to be issued under any provision of the Act shall be made in writing and shall contain such particulars as the Commissioner of Police may require and such certificates and permit shall be in such form as the Commissioner of Police may consider appropriate.
+18. (1) Every application for a licence or a Firearm
+User's (Employee's) Certificate shall be accompanied by two copies of a recent photograph of the applicant, taken full face and bareheaded.
+Firearms Regulations
 (2) The size of the photograph shall not be more than two and one-half inches by two inches or less than two inches by one and one-half inches.
 (3) A copy of the photograph shall be mounted upon every licence or Firearm User's (Employee's) Certificate and immediately below such photograph the application shall bear a specimen of the signature (or where such person cannot write, the thumbprint) of the person to whom the licence or certificate is granted.
 19. (1) The appropriate fee payable in respect of a licence, certificate or permit shall be the fees respectively set out in the Third Schedule and shall be paid to the Commissioner and form part of the general revenue.
@@ -102,11 +101,11 @@ pays the appropriate Customs duty and fee on such firearm or ammunition, in whic
 to the Commissioner specifying some port at which he intends to embark for some place outside of Trinidad and Tobago, and the date, time and vessel or aircraft upon which he intends to embark, in which event the sealed packet containing such firearm or ammunition shall be delivered to the traveller immediately before he so embarks.
 (2) Where any firearm or ammunition is to be lodged at
 the Carenage Police Station it shall be retained at that Station and not delivered to the Commissioner of Police.
-22. The Commissioner of Police shall keep books and records
-respecting all licences, certificates and permits granted by him under the Act in such form as he considers appropriate for the purpose of securing the proper administration of the provisions of the Act.
-23. The fee for musketry training shall be two hundred dollars
-for the training of a group of ten persons or less.
-Firearms Regulations [Subsidiary]
+22. The Commissioner of Police shall keep books and
+records respecting all licences, certificates and permits granted by him under the Act in such form as he considers appropriate for the purpose of securing the proper administration of the provisions of the Act.
+23. The fee for musketry training shall be two hundred
+dollars for the training of a group of ten persons or less.
+Firearms Regulations
 FIRST SCHEDULE
 FORMS
 FORM 1
@@ -120,10 +119,10 @@ Do you suffer from any form of mental disorder or defect? YES/ NO If YES, give d
 I hereby apply to the Commissioner of Police for a Firearm User's Licence
 in respect of the above-mentioned firearm(s) and ammunition and for the reasons specified. I declare that the statements made on this form are true.
 Date ... Usual signature of applicant ...
-Firearms Regulations [Subsidiary]
+Firearms Regulations
 FORM 2
 THE FIREARMS REGULATIONS
-FIREARMS USER'S LICENCE
+FIREARM USER'S LICENCE
 Licence No.
 PHOTO
 ...
@@ -144,8 +143,8 @@ at any one time ...
 ...
 Date Commissioner of Police
 [Subsidiary] Firearms Regulations
-I ... Police Officer hereby certify that I have examined
-the firearm and ammunition to which this licence relates and that I am satisfied that the firearm and ammunition are in conformity with this licence. Dated: ... Police Station: ...
+I ...Police Officer hereby certify that I have examined the
+firearm and ammunition to which this licence relates and that I am satisfied that the firearm and ammunition are in conformity with this licence. Dated: ... Police Station: ...
 ...
 Police Officer
 Notes: (a) State type, quantity, make, calibre, identification numbers and
@@ -155,62 +154,65 @@ any other distinguishing marks.
 The following conditions shall be observed by the holder of this licence:
 (1) the firearms and ammunition to which this licence relates shall at all
 times when not in actual use be kept in a secure place with a view to preventing access to them by unauthorised persons;
-(2) the loss or theft of any of the firearms to which this licence relates shall
-be reported at once to the nearest police station;
-(3) except the Commissioner otherwise permits, the firearm and ammunition
-must be kept at the permanent address of the holder of the licence and the Commissioner must be notified in writing within forty-eight (48) hours of any change of such address and of the address at which the holder of the licence is otherwise permitted to keep the firearm or ammunition;
+(2) the loss or theft of any of the firearms to which this licence relates
+shall be reported at once to the nearest police station;
+(3) except the Commissioner otherwise permits, the firearm and
+ammunition must be kept at the permanent address of the holder of the licence and the Commissioner must be notified in writing within forty-eight (48) hours of any change of such address and of the address at which the holder of the licence is otherwise permitted to keep the firearm or ammunition;
 (4) the holder of this licence shall take all necessary steps to secure that
 regulation 7 of the Firearms Regulations (which relates to instructions concerning the sale or transfer of firearms and ammunition by licensed dealers) is complied with;
-(5) every firearm purchased or acquired under this licence shall be produced
-within forty-eight (48) hours at the nearest police station for the purpose of obtaining the certificate of the police officer.
+(5) every firearm purchased or acquired under this licence shall be
+produced within forty-eight (48) hours at the nearest police station for the purpose of obtaining the certificate of the police officer.
 (Here insert any other conditions subject to which the Commissioner of
 Police may grant this licence).
-Firearms Regulations [Subsidiary]
-4. IN THE CASE OF A FIREARM, WITHIN 48 HOURS FROM THE TRANSACTION, SEND BY REGISTERED POST OR THE RECORDED DELIVERY SERVICE, A COPY OF THIS 5. IN ANY CASE REPORT IN WRITING WITHIN 48 HOURS TO THE COMMISSIONER OF POLICE ANY CIRCUMSTANCES ATTENDING THE TRANSACTION WHICH APPEAR TO I CERTIFIY THAT THE ENTRIES IN COLUMNS A TO C ARE CORRECT AND RELATE TO A TRANSACTION WITH THE HOLDER OF THIS LICENCE, THAT I HAVE INSPECTED THIS LICENCE AND THE RECORD OF PREVIOUS TRANSACTIONS AND I HAVE SATISFIED MYSELF THAT THE TRANSACTION WILL NOT PLACE THE HOLDER OF THE LICENCE IN POSSESSION OF FIREARMS IN
-EXCESS OF OR OTHERWISE THAN AS AUTHORISED BY THE LICENCE.
+Firearms Regulations
+4. IN THE CASE OF A FIREARM, WITHIN 48 HOURS FROM THE TRANSACTION, SEND BY REGISTERED POST OR THE RECORDED DELIVERY SERVICE, A COPY OF THIS 5. IN ANY CASE REPORT IN WRITING WITHIN 48 HOURS TO THE COMMISSIONER OF POLICE ANY CIRCUMSTANCES ATTENDING THE TRANSACTION WHICH APPEAR TO I CERTIFIY THAT THE ENTRIES IN COLUMNS ATO C ARE CORRECT AND RELATE TO A TRANSACTION WITH THE HOLDER OF THIS LICENCE, THAT I HAVE INSPECTED THIS LICENCE AND THE RECORD OF PREVIOUS TRANSACTIONS AND I HAVE SATISFIED MYSELF THAT THE TRANSACTION WILL NOT PLACE THE HOLDER OF THE LICENCE IN POSSESSION OF FIREARMS IN EXCESS OF
 CERTIFICATE OF LICENSED DEALER FROM WHOM THE HOLDER OF A FIREARM
 USER'S LICENCE OR A FIREARM DEALER'S LICENCE PURCHASES OR ACQUIRES
-1. MAKE AN APPROPRIATE ENTRY IN EACH COLUMN OF TABLE 1 (FIREARMS) OR TABLE 2 (AMMUNITION). SIGNATURE AND DATE
+OR OTHERWISE THAN AS AUTHORISED BY THE LICENCE.
+1. MAKE AN APPROPRIATE ENTRY IN EACH COLUMN OF TABLE 1 (FIREARMS) OR TABLE 2 (AMMUNITION).
+SIGNATURE AND DATE
 2. COMPLETE THE CERTIFICATE BY GIVING HIS SIGNATURE AND THE DATE IN COLUMN D OR E, RESPECTIVELY.
-D CERTIFICATE FIREARMS OR AMMUNITION
+D CERTIFICATE
+FIREARMS OR AMMUNITION
 THE FIREARMS REGULATIONS
-TABLE 1 (FIREARMS) 3. OBTAIN A RECEIPT FOR ANY FIREARM SUPPLIED AND KEEP IT FOR PRODUCTION IF REQUIRED.
+TABLE 1 (FIREARMS)
+3. OBTAIN A RECEIPT FOR ANY FIREARM SUPPLIED AND KEEP IT FOR PRODUCTION IF REQUIRED.
 EVERY PERSON SELLING A FIREARM OR AMMUNITION TO THE HOLDER OF A LICENCE MUST- FORM 3
-(HERE THE COMMISSIONER OF POLICE MAY INSERT OTHER INSTRUCTIONS).
 QUANTITY, CALIBRE, MAKE AND TYPE OF FIREARM, IDENTIFICATION NUMBER OR
+(HERE THE COMMISSIONER OF POLICE MAY INSERT OTHER INSTRUCTIONS).
 CERTIFICATE OF THE TRANSACTION TO THE COMMISSIONER.
 OTHER MARK
 C
-TRANSFERRING FIREARM OF PERSON SELLING OR
+OF PERSON SELLING OR TRANSFERRING FIREARM
 NAME AND ADDRESS
 REQUIRE INVESTIGATION.
 B
 DATE OF SALE
 OR TRANSFER
 A [Subsidiary] Firearms Regulations
-I CERTIFY THAT THE ENTRIES IN COLUMNS A TO D ARE CORRECT AND RELATE TO A TRANSACTION WITH THE HOLDER OF THIS LICENCE, THAT I HAVE INSPECTED THIS LICENCE AND THE RECORD OF PREVIOUS TRANSACTIONS AND I HAVE SATISFIED MYSELF THAT THE TRANSACTION WILL NOT PLACE THE HOLDER OF THE LICENCE IN POSSESSION OF AMMUNITION IN EXCESS OF OR OTHERWISE THAN AS AUTHORISED BY
-SIGNATURE AND DATE
+I CERTIFY THAT THE ENTRIES IN COLUMNS A TO D ARE CORRECT AND RELATE TO A TRANSACTION WITH THE HOLDER OF THIS LICENCE, THAT I HAVE INSPECTED THIS LICENCE AND THE RECORD OF PREVIOUS TRANSACTIONS AND I HAVE SATISFIED MYSELF THAT THE TRANSACTION WILL NOT PLACE THE HOLDER OF THE LICENCE IN POSSESSION OF AMMUNITION IN EXCESS OF
+OR OTHERWISE THAN AS AUTHORISED BY THE LICENCE.
 E CERTIFICATE
-THE LICENCE. TABLE 2 (AMMUNITION)
+TABLE 2 (AMMUNITION)
 OF AMMUNITION
 CALIBRE AND DESCRIPTION
 D
-AMMUNITION QUANTITY OF
+QUANTITY OF AMMUNITION
 C
 NAME AND ADDRESS OF
 PERSON SELLING OR
-AMMUNITION TRANSFERRING
+TRANSFERRING AMMUNITION
 B
 DATE OF SALE
 OR TRANSFER
 A
-Firearms Regulations [Subsidiary]
+Firearms Regulations
 FORM 4
 THE FIREARMS REGULATIONS
 FIREARM DEALER'S LICENCE
 Licence No.
 PHOTO
-... of ... is hereby licensed to buy or sell or buy and sell *firearms and ammunition under the provisions of the Firearms Act, at the premises known as ... situated at ...
+... of ... is hereby licensed to buy or sell or buy and sell *firearms and ammunition under the provisions of the Firearms Act, at the premises known as... situated at ...
 Dated this ... day of ... 20...
 ...
 Commissioner of Police
@@ -219,13 +221,13 @@ FORM 5
 THE FIREARMS REGULATIONS GUNSMITH'S LICENCE
 Licence No.
 PHOTO
-... of ... is hereby licensed to carry on the business of repairing, testing or proving firearms or ammunition and such other business incidental to the foregoing as is specified below under the provisions of the Firearms Act, at the premises known as ...
+... of ... is hereby licensed to carry on the business of repairing, testing or proving firearms or ammunition and such other business incidental to the foregoing as is specified below under the provisions of the Firearms Act, at the premises known as...
 situated at ...
 Incidental Business
 Dated this...day of ... 20...
 ...
 Commissioner of Police
-Firearms Regulations [Subsidiary]
+Firearms Regulations
 FORM 6
 THE FIREARMS REGULATIONS
 FORM OF REGISTER OF TRANSACTIONS TO BE
@@ -240,19 +242,19 @@ received of licence
 †Remarks to specify whether for sale, repair, etc. [Subsidiary] Firearms Regulations
 2. FIREARMS AND AMMUNITION
 DELIVERY BOOK
-Number Date of Address Nature *Description †Remarks Persons to
-of delivery of of of firearms whom
+Number Address Nature *Description Date of †Remarks Persons to
+of of of of firearms delivery whom
 licence persons licence or delivered
 to whom ammunition delivered
 *Description to be full and accurate-specifying whether rifle, gun, etc., Serial No., number of barrels or chambers in case of revolvers, bore, whether magazine or repeating, maker's name, if known, etc., quantity, type and calibre of ammunition.
 †Remarks to specify whether for sale, repair, etc.
-Firearms Regulations [Subsidiary]
+Firearms Regulations
 FORM 7
 THE FIREARMS REGULATIONS
 APPLICATION FOR THE GRANT OF A FIREARM
 USER'S (EMPLOYEE'S) CERTIFICATE
 To: the Commissioner of Police,
-Application is hereby made under the above-mentioned Act for the grant of a Firearm User's (Employee's) Certificate and the following particulars are supplied.
+Application is hereby made under the above-mentioned Act for the grant of a Firearm User's (Employee's) Certificate and the following particulars are supplied:
 - Margin: 31/1971. [45 of 1979 51/1980 11 of 1988 6/1993 38/1995 10/1999].
 - Margin: Citation.
 - Margin: Interpretation.
@@ -284,7 +286,8 @@ Application is hereby made under the above-mentioned Act for the grant of a Fire
 - Margin: Photographs.
 - Margin: Appropriate fee.
 - Margin: Third Schedule.
-- Margin: Public places prescribed under section 8 of the Act. Fourth Schedule.
+- Margin: Public places prescribed under section 8 of the Act.
+- Margin: Fourth Schedule.
 - Margin: Custody of firearms and ammunition by officer of Customs. [38 of 1995].
 - Margin: Commissioner to keep records.
 - Margin: Fee. [6 of 1993].

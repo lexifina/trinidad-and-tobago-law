@@ -10,7 +10,8 @@ Amended by
 20 of 1992
 3 of 1994
 22 of 1995
-3 of 2004*
+*3 of 2004
+26 of 2006
 *See Note on page 2
 Index of Subsidiary Legislation
 Page Firearms (Air Weapons) Order (GN 3/1971) ... 43 Firearms Regulations (GN 31/1971) ... 44
@@ -42,11 +43,11 @@ GENERAL PROVISIONS
 16A. Application for Firearm User's Licence.
 ARRANGEMENT OF SECTIONS-Continued
 SECTION
-17. General provisions as to grant and issue of licences, certificates
-and permits.
-18. Firearms User's (Employee's) Certificate. 19. General provisions as to licences, certificates and permits. 20. Amendment of licences, certificates and permits. 21. Revocation of licences, certificates and permits.
-21A. Appeals. 21B. Restrictions on domestic violence offender holding Firearm
-User's Licence.
+17. General provisions as to grant and issue of licences, certificates and
+permits.
+18. Firearm User's (Employee's) Certificate. 19. General provisions as to licences, certificates and permits. 20. Amendment of licences, certificates and permits. 21. Revocation of licences, certificates and permits.
+21A. Appeals. 21B. Restrictions on domestic violence offender holding Firearm User's
+Licence.
 21C. Firearms register.
 22. Power to call in firearms and ammunition.
 THE FIREARMS APPEAL BOARD
@@ -62,7 +63,9 @@ police as to. SECTION
 28. Report of loss or theft of firearm or ammunition, etc. 29. Power to stop and search vehicles. 30. Search warrants.
 PART IV
 IMPORTATION OF FIREARMS, ETC.
-31. Restrictions on importation and exportation of firearms and ammunition. 32. Travellers to make declaration of firearms and ammunition. 33. Permission to take firearm abroad. 34. Special offence relating to firearms on aircraft.
+31. Restrictions on importation and exportation of firearms and
+ammunition.
+32. Travellers to make declaration of firearms and ammunition. 33. Permission to take firearm abroad. 34. Special offence relating to firearms on aircraft or vessel.
 PART V
 MISCELLANEOUS
 35. Controlled delivery. 36. Regulations. 37. Service of notices. 38. Forfeiture and disposal by Court. 39. Appropriate fee. 40. Custody of firearms and ammunition. 41. Evidence.
