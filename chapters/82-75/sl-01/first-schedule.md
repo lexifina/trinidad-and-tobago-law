@@ -7,7 +7,7 @@ $1,000.00 1 breeder's right [section 20(1); regulation 6]
 assignment or transfer [section 13(3);
 $150.00 4 regulation 11]
 3. Renewal of protection
-No fee - lst year $150.00 per year 2nd year-5th year $500.00 per year 6th year-10th year $1,000.00 per year 11th year-18th year
+No fee - 1st year $150.00 per year 2nd year-5th year $500.00 per year 6th year-10th year $1,000.00 per year 11th year-18th year
 [section 18; regulation 12]
 4. Filing of request for annulment
 $150.00 7 [sections 19(3) and 33(1); regulation 14]
