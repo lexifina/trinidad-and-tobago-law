@@ -1,8 +1,10 @@
 # FORM 47
-[Section 65(2) of the Act and Regulation 96]
-CLAIM BY SPOUSE OR COHABITANT
-I, ________________________ (full name) of ________________ (address), hereby confirm that I am the spouse (or cohabitant) of _______________, the debtor, and that I share the matrimonial home/dwelling house of which the debtor is the sole registered owner.
-I hereby claim, pursuant to section 65(2) of the Bankruptcy and Insolvency Act, one-half of the net proceeds of the sale of the matrimonial home/dwelling house after satisfaction of any valid and enforceable charges against the said property.
-The matrimonial home/dwelling house can be described as: (include here a description of the property against which the claim pursuant to section 65(2) of the Act is being made.)
-________________________________
-Spouse/Cohabitant
+ORDER OF COURT FOR GENERAL MEETING
+OF CREDITORS
+(TITLE)
+Upon the application of C.D., of ... ,it is ordered that the trustee of the
+property of the Bankrupt [or the Receiver in this matter] do summon a meeting of the creditors of the bankrupt to be held at ... on the ... day of ... , 20... at ... o'clock in the ... noon [here state the purpose for which meeting called].
+Dated this ... day of ... , 20...
+By the Court,
+Registrar.
+Bankruptcy Rules [Subsidiary]

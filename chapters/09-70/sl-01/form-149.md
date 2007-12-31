@@ -1,0 +1,13 @@
+# FORM 149
+DISCLAIMER OF LEASEHOLD PROPERTY AFTER
+NOTICE TO LANDLORD, MORTGAGEES, ETC.
+(TITLE)
+Pursuant to notice dated the ... day of ... addressed to
+(a) ... , I , ... , the trustee of the property of the above-named bankrupt, hereby disclaim the lease dated the ... day of ... , 20... , whereby (b) ... were let to (c) ... at a rent of $ ... for a term of ...
+Notice of this disclaimer has been given to (d) ...
+Dated this ... day of ... , 20...
+Trustee.
+...
+Address
+Bankruptcy Rules [Subsidiary]
+- Margin: (a) Names and addresses of persons to whom notice of intention to disclaim has been given. (b) Particulars of demised property. (c)The above- named bankrupt or as the case may be. (d) Names and addresses of persons to whom notice of disclaimer has been given.
