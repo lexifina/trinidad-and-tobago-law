@@ -6,22 +6,22 @@ BYE-LAW NO. 1
 A bye-law relating generally to the conduct of the affairs of:
 ...
 [INSERT NAME OF COMPANY]
-BE IT ENACTED as the general bye-law of [INSERT NAME OF COMPANY] (hereinafter called the "Company") as follows:
-1. INTERPRETATION 1.1 In this bye-law and all other bye-laws of the Company, unless the context
+BE ENACTED as the general bye-law of [INSERT NAME OF COMPANY] IT (hereinafter called the "Company") as follows:
+1. INTERPRETATION 1.1 In this Bye-law and all other bye-laws of the Company, unless the context
 otherwise requires:
 (a) "Act" means the Companies Act, Ch. 81:01 as from time to time
-amended and every statute substituted therefor and, in the case of such substitution, any references in the bye-laws of the Company to provisions of the Act shall be read as references to the substituted provisions therefor in the new statute or statutes;
+amended and every statute substituted therefor and, in the case of such substitution, any references in the Bye-laws of the Company to provisions of the Act shall be read as references to the substituted provisions therefor in the new statute or statutes;
 (b) "Regulations" means any regulations made under the Act, and every
-regulation substituted therefor and, in the case of such substitution, any references in the bye-laws of the Company to provisions of the Regulations shall be read as references to the substituted provisions therefor in the new regulations;
-(c) "bye-laws" means any bye-law of the Company from time to time
+regulation substituted therefor and, in the case of such substitution, any references in the Bye-laws of the Company to provisions of the Regulations shall be read as references to the substituted provisions therefor in the new Regulations;
+(c) "Bye-laws" means any bye-law of the Company from time to time
 in force;
-(d) all terms contained in the bye-laws and defined in the Act or the
+(d) all terms contained in the Bye-laws and defined in the Act or the
 Regulations shall have the meanings given to such terms in the Act or the Regulations; and
 (e) the singular includes the plural and the plural includes the singular;
 the masculine gender includes the feminine and neuter genders; the word "person" includes bodies corporate, companies, partnerships, syndicates, trusts and any association of persons; and the word "individual" means a natural person.
 2. REGISTERED OFFICE 2.1 The registered office of the Company shall be in Trinidad and Tobago at
 such address as the directors may fix from time to time by resolution.
-Companies Regulations [Subsidiary]
+[Subsidiary] Companies Regulations
 3. SEAL 3.1 The common seal of the Company shall be such as the directors may by resolution from time to time adopt.
 4. DIRECTORS 4.1 Powers: Subject to any unanimous shareholder agreement, the business and affairs of the Company shall be managed by the directors.
 4.2 Number: There shall be [INSERT NUMBER OF DIRECTORS OR MAXIMUM AND MINIMUM NUMBER OF DIRECTORS] directors.
@@ -29,8 +29,8 @@ Companies Regulations [Subsidiary]
 4.4 Tenure: Unless his tenure is sooner determined, a director shall hold office from the date on which he is elected or appointed until the close of the annual meeting of the shareholders next following but he shall be eligible for re-election if qualified.
 4.4.1 A director who is also an officer shall continue to be a director until he ceases to be an officer.
 4.4.2 A director shall cease to be a director-
-(a) if he becomes bankrupt (or compounds with his creditors or is declared
-insolvent);
+(a) if he becomes bankrupt (or compounds with his creditors or is
+declared insolvent);
 (b) if he is found to be mentally ill; or
 (c) if by notice in writing to the Company he resigns his office and any
 such resignation shall be effective at the time it is sent to the Company or at the time specified in the notice, whichever is later.
@@ -41,50 +41,50 @@ such resignation shall be effective at the time it is sent to the Company or at 
 (b) issue, reissue, sell or pledge debentures of the Company;
 (c) subject to section 56 of the Act, give a guarantee on behalf of the
 Company to secure performance of an obligation of any person; and
-(d) mortgage, charge, pledge or otherwise create a security interest in all
-or any property of the Company, owned or subsequently acquired, to secure any obligation of the Company or any other person. [Subsidiary] Companies Regulations
+(d) mortgage, charge, pledge or otherwise create a security interest
+in all or any property of the Company, owned or subsequently acquired, to secure any obligation of the Company or any other person. [Subsidiary] Companies Regulations
 5.2 The directors may from time to time by resolution delegate to any officer
-of the Company all or any of the powers conferred on the directors by paragraph 5.1 here of to the full extent thereof or such lesser extent as the directors may in any such resolution provide.
-5.3 The powers conferred by paragraph 5.1 hereof shall be in supplement of and
-not in substitution for any powers to borrow money for the purposes of the Company possessed by its directors or officers independently of a borrowing bye-law.
+of the Company all or any of the powers conferred on the directors by paragraph 5.1 hereof to the full extent thereof or such lesser extent as the directors may in any such resolution provide.
+5.3 The powers conferred by paragraph 5.1 hereof shall be in supplement of
+and not in substitution for any powers to borrow money for the purposes of the Company possessed by its directors or officers independently of a borrowing bye-law.
 6. MEETINGS OF DIRECTORS 6.1 Place of Meeting: Meetings of the directors and of any committee of the
 directors may be held within or outside Trinidad and Tobago.
 6.2 Notice: A meeting of the directors may be convened at any time by any
 director or the Secretary, when directed or authorised by any director. Subject to subsection 81(1) of the Act the notice of any such meeting need not specify the purpose of or the business to be transacted at the meeting. Notice of any such meeting shall be served in the manner specified in paragraph 18.1 hereof not less than two days (exclusive of the day on which the notice is delivered or sent but inclusive of the day for which notice is given) before the meeting is to take place. A director may in any manner waive notice of a meeting of the directors and attendance of a director at a meeting of the directors shall constitute a waiver of notice of the meeting except where a director attends a meeting for the express purpose of objecting to the transaction of any business on the grounds that the meeting is not lawfully called.
-6.2.1 It shall not be necessary to give notice of a meeting of the directors to a
-newly elected or appointed director for a meeting held immediately following the election of directors by the shareholders or the appointment to fill a vacancy among the directors.
+6.2.1 It shall not be necessary to give notice of a meeting of the directors to a newly
+elected or appointed director for a meeting held immediately following the election of directors by the shareholders or the appointment to fill a vacancy among the directors.
 6.3 Quorum: [INSERT NUMBER OF DIRECTORS] directors shall form a
 quorum for the transaction of business and, notwithstanding any vacancy among the directors, a quorum may exercise all the powers of the directors. No business shall be transacted at a meeting of directors unless a quorum is present.
 6.3.1 A director may, if all the directors consent, participate in a meeting of
 directors or of any committee of the directors by means of such telephone or other communications facilities as permit all persons participating in the meeting to hear each other and a director participating in such a meeting by such means is deemed to be present at that meeting.
-6.4 Voting: Questions arising at any meeting of the directors shall be decided by
-a majority of votes. In case of an equality of votes the chairman of the meeting in addition to his original vote shall have a second or casting vote.
+6.4 Voting: Questions arising at any meeting of the directors shall be decided
+by a majority of votes. In case of an equality of votes the chairman of the meeting in addition to his original vote shall have a second or casting vote.
 6.5 Resolution in lieu of meeting: Notwithstanding any of the foregoing
-provisions of this bye-law a resolution in writing signed by all the directors entitled to vote on that resolution at a meeting of the directors or any committee of the directors is as valid as if it had been passed at a meeting of the directors or any committee of the directors.
-Companies Regulations [Subsidiary]
-7. REMUNERATION OF DIRECTORS 7.1 The remuneration to be paid to the directors shall be such as the directors may from time to time determine and such remuneration may be in addition to the salary paid to any officer or employee of the Company who is also a director. The directors may also award special remuneration to any director undertaking any special services on the Company's behalf other than the routine work ordinarily required of a director and the confirmation of any such resolution or resolutions by the shareholders shall not be required. The directors shall also be entitled to be paid their travelling and other expenses properly incurred by them in connection with the affairs of the Company.
-8. SUBMISSION OF CONTRACTS OR TRANSACTIONS TO
+provisions of this Bye-law a resolution in writing signed by all the directors entitled to vote on that resolution at a meeting of the directors or any committee of the directors is as valid as if it had been passed at a meeting of the directors or any committee of the directors.
+[Subsidiary] Companies Regulations
+7. REMUNERATION OF DIRECTORS 7.1 The remuneration to be paid to the directors shall be such as the directors may from time to time determine and such remuneration may be in addition to the salary paid to any officer or employee of the Company who is also a director. The directors may also award special remuneration to any director undertaking any special services on the Company's behalf other than the routine work ordinarily required of a director and the confirmation of any such resolution or resolutions by the shareholders shall not be required. The directors shall also be entitled to be paid their travelling and other expenses properly incurred by them in connection with the affairs of the Company. 8. SUBMISSION OF CONTRACTS OR TRANSACTIONS TO
 SHAREHOLDERS FOR APPROVAL
 8.1 The directors in their discretion may submit any contract, act or transaction for appproval or ratification at any annual meeting of the shareholders or at any special meeting of the shareholders called for the purpose of considering the same and, subject to the provisions of section 93(1) of the Act, any such contract, act or transaction that is approved or ratified or confirmed by a resolution passed by a majority of the votes cast at any such meeting (unless any different or additional requirement is imposed by the Act or by the Company's articles or any other bye-law) shall be as valid and is binding upon the Company and upon all the shareholders as though it had been approved, ratified or confirmed by every shareholder of the Company.
 9. FOR THE PROTECTION OF DIRECTORS AND OFFICERS 9.1 No director or officer of the Company shall be liable to the Company for-
-(a) the acts, receipts, neglects or defaults of any other director or officer or employee or for joining in any receipt or act for conformity;
+(a) the acts, receipts, neglects or defaults of any other director or officer
+or employee or for joining in any receipt or act for conformity;
 (b) any loss, damage or expense incurred by the Company through the
 insufficiency or deficiency of title to any property acquired by the
 Company or for or on behalf of the Company;
 (c) the insufficiency or deficiency of any security in or upon which
 any of the moneys of or belonging to the Company shall be placed out or invested;
-(d) any loss or damage arising from the bankruptcy, insolvency or tortious
-act of any person, including any person with whom any moneys, securities or effects shall be lodged or deposited;
+(d) any loss or damage arising from the bankruptcy, insolvency or
+tortious act of any person, including any person with whom any moneys, securities or effects shall be lodged or deposited;
 (e) any loss, conversion, misapplication or misappropriation of or any
 damage resulting from any dealings with any moneys, securities or other assets belonging to the Company;
 (f) any other loss, damage or misfortune whatever which may happen
 in the execution of the duties of his respective office or trust or in relation thereto, unless the same happens by or through his failure to exercise the powers and to discharge the duties of his office honestly and in good faith with a view to the best interests of the Company and in connection therewith to exercise the care, diligence and skill that a reasonably prudent person would exercise in comparable circumstances. [Subsidiary] Companies Regulations
 9.2 Nothing herein contained shall relieve a director or officer from the duty to
-act in accordance with the Act or regulations made thereunder or relieve him from liability for breach thereof.
+act in accordance with the Act or Regulations made thereunder or relieve him from liability for breach thereof.
 9.2.1 The directors for the time being of the Company shall not be under any duty
 or responsibility in respect of any contract, act or transaction whether or not made, done or entered into in the name or on behalf of the Company, except such as are submitted to and authorised or approved by the directors.
-9.2.2 If any director or officer of the Company is employed by or performs services
-for the Company otherwise than a director or officer or is a member of a firm or a shareholder, director or officer of a body corporate which is employed by or performs services for the Company, the fact of his being a shareholder, director or officer of the Company shall not disentitle such director or officer or such firm or body corporate, as the case may be, from receiving proper remuneration for such services.
+9.2.2 If any director or officer of the Company is employed by or performs
+services for the Company otherwise than a director or officer or is a member of a firm or a shareholder, director or officer of a body corporate which is employed by or performs services for the Company, the fact of his being a shareholder, director or officer of the Company shall not disentitle such director or officer or such firm or body corporate, as the case may be, from receiving proper remuneration for such services.
 10. INDEMNITIES TO DIRECTORS AND OFFICERS 10.1 Subject to section 101 of the Act, except in respect of an action by or on
 behalf of the Company to obtain a judgment in its favour, the Company shall indemnify a director or officer of the Company, a former director or officer of the Company or a person who acts or acted at the Company's request as a director or officer of a body corporate of which the Company is or was a shareholder or creditor, and his personal representatives, against all costs, charges and expenses, including an amount paid to settle an action or satisfy a judgment, reasonably incurred by him in respect of any civil, criminal or administrative action or proceeding to which he is made a party by reason of being or having been a director or officer of such company, if-
 (a) he acted honestly and in good faith with a view to the best interests of the Company; and
@@ -92,7 +92,7 @@ behalf of the Company to obtain a judgment in its favour, the Company shall inde
 is enforced by a monetary penalty, he had reasonable grounds for believing that his conduct was lawful.
 11. OFFICERS 11.1 Appointment: The directors shall as often as may be required appoint a
 Secretary and, if deemed advisable, may as often as may be required appoint any or all of the following officers: a Chairman, a Deputy Chairman, a Managing Director, [a President, one or more Vice-Presidents,] a Treasurer, one or more Assistant Secretaries or one or more Assistant Treasurers. A director may be appointed to any office of the Company but none of the officers except the Chairman, the Deputy Chairman, the Managing Director, the President and Vice-President need be a director. Two or more of the aforesaid offices may be held by the same person. In case and whenever the same person holds the offices of Secretary and Treasurer, he may but need not be known as the Secretary-Treasurer. The directors may from time to time appoint such other officers and agents as they deem necessary who shall have such authority and shall perform such duties as may from time to time be prescribed by the directors.
-Companies Regulations [Subsidiary]
+[Subsidiary] Companies Regulations
 11.2 Remuneration: The remuneration of all officers appointed by the directors shall be determined from time to time by resolution of the directors. The fact that any officer or employee is a director or shareholder of the Company shall not disqualify him from receiving such remuneration as may be determined.
 11.3 Powers and Duties: All officers shall sign such contracts, documents or instruments in writing as require their respective signatures and shall respectively have and perform all powers and duties incident to their respective offices and such other powers and duties respectively as may from time to time be assigned to them by the directors.
 11.4 Delegation: In case of the absence or inability to act of any officer of the Company except a Managing Director or for any other reason that the directors may deem sufficient, the directors may delegate all or any of the powers of such officer to any other officer or to any director.
@@ -106,7 +106,8 @@ Companies Regulations [Subsidiary]
 11.12 Assistant Secretary and Assistant Treasurer: The Assistant Secretary or, if
 more than one, the Assistant Secretaries in order of seniority, and the Assistant Treasurer or, if more than one, the Assistant Treasurers in order of seniority, shall respectively perform all the duties of the Secretary and the Treasurer, respectively, in the event of the Secretary or Treasurer's absence or inability or refusal to act, as the case may be.
 11.13 General Manager or Manager: The directors may from time to time appoint
-one or more General Managers or Managers and may delegate to him or them full power to manage and direct the business and affairs of the Company (except such matters and duties as by law must be transacted or performed by the directors or by the shareholders) and to employ and discharge agents and employees of the Company or may delegate to him or them any lesser authority. A General Manager or Manager shall conform to all lawful orders given to him by the directors of the Company and shall at all reasonable times give to the directors or any of them all information they may require regarding the affairs of the Company. Any agent or employee appointed by the General Manager or Manager may be discharged by the directors.
+one or more General Managers or Managers and may delegate to him or them full power to manage and direct the business and affairs of the Company (except such matters and duties as by law must be transacted or performed by the directors or by the shareholders) and to employ and discharge agents and employees of the Company or may delegate to him or them any lesser authority. A General Manager or Manager shall conform to all lawful orders given to him by the directors of the Company and shall at all reasonable times give to the directors or any of them all information they may require regarding the affairs of the Company. Any agent or employee appointed by the
+General Manager or Manager may be discharged by the directors.
 11.14 Vacancies: If the office of any officer of the Company becomes vacant by
 reason of death, resignation, disqualification or otherwise, the directors by resolution shall, in the case of the Secretary, and may, in the case of any other office, appoint a person to fill such vacancy.
 12. SHAREHOLDERS' MEETINGS 12.1 Annual Meeting: Subject to the provisions of section 109 of the Act, the
@@ -119,14 +120,15 @@ cent of the issued shares of the Company that carry a right to vote at the meeti
 signed by the requisitionists and deposited at the Registered Office, and may consist of several documents in like form each signed by one or more of the requisitionists;
 (b) if the directors do not, within twenty-one days from the date of the
 requisition being so deposited, proceed to convene a meeting, the requisitionists or any of them may themselves convene the meeting, but any meeting so convened shall not be held after three months from the date of such deposit;
-Companies Regulations [Subsidiary]
+[Subsidiary] Companies Regulations
 (c) unless subsection (3) of section 133 of the Act applies, the directors
 shall be deemed not to have duly convened the meeting if they do not give such notice as is required by the Act within twenty-one days from the deposit of the requisition;
 (d) any meeting convened under this paragraph by the requisitionists
-shall be called as nearly as possible in the manner in which meetings are to be called pursuant to the bye-laws and Divisions 5 and 6 of Part III of the Act;
+shall be called as nearly as possible in the manner in which meetings are to be called pursuant to the Bye-laws and Divisions 5 and 6 of Part III of the Act;
 (e) a requisition by joint holders of shares must be signed by all such
 holders.
-12.3 Notice: A printed, written or typewritten notice stating the day, hour and place of meeting shall be given by serving such notice on each shareholder entitled to vote at such meeting, on each director and on the auditor of the Company in the manner specified in paragraph 18.1 hereof, not less than twenty-one days or more than fifty days (in each case exclusive of the day for which the notice is delivered or sent and of the day for which notice is given) before the date of the meeting. Notice of a meeting at which special business is to be transacted shall state (a) the nature of that business in sufficient detail to permit the shareholder to form a reasoned judgment thereon, and (b) the text of any special resolution to be submitted to the meeting.
+12.3 Notice: A printed, written or typewritten notice stating the day, hour and place of meeting shall be given by serving such notice on each shareholder entitled to vote at such meeting, on each director and on the auditor of the Company in the manner specified in paragraph 18.1 hereof, not less than twenty-one days or more than fifty days (in each case exclusive of the day for which the notice is delivered or sent and of the day for which notice is given) before the date of the meeting. Notice of a meeting at which special business is to be transacted shall state (a) the nature of that business in sufficient detail to permit the shareholder to form a reasoned judgment thereon, and
+(b) the text of any special resolution to be submitted to the meeting.
 12.4 Waiver of Notice: A shareholder and any other person entitled to attend a meeting of shareholders may in any manner waive notice of a meeting of shareholders and attendance of any such person at a meeting of shareholders shall constitute a waiver of notice of the meeting except where such person attends a meeting for the express purpose of objecting to the transaction of any business on the grounds that the meeting is not lawfully called.
 12.5 Omission of Notice: The accidental omission to give notice of any meeting or any irregularity in the notice of any meeting or the non-receipt of any notice by any shareholder, director or the auditor of the Company shall not invalidate any resolution passed or any proceedings taken at any meeting of the shareholders.
 12.6 Votes: Every question submitted to any meeting of shareholders shall be decided in the first instance by a show of hands unless a person entitled to vote at the meeting has demanded a ballot and in the case of an equality of votes the chairman of the meeting shall on a ballot have a casting vote in addition to any votes to which he may be otherwise entitled.
@@ -134,26 +136,26 @@ holders.
 12.6.2 At any meeting unless a ballot is demanded, a declaration by the chairman of the meeting that a resolution has been carried or carried unanimously or by a particular majority or lost or not carried by a particular majority shall be conclusive evidence of the fact. [Subsidiary] Companies Regulations
 12.6.3 When the Chairman, the Deputy Chairman, the President and the Vice-
 President are absent, the persons who are present and entitled to vote shall choose another director as chairman of the meeting, but if no director is present or all the directors present decline to take the chair, the persons who are present and entitled to vote shall choose one of their number to be chairman.
-12.6.4 A ballot, either before or after any vote by a show of hands, may be demanded
-by any person entitled to vote at the meeting. If at any meeting a ballot is demanded on the election of a chairman or on the question of adjournment, it shall be taken forthwith without adjournment. If at any meeting a ballot is demanded on any other question or as to the election of directors, the vote shall be taken by ballot in such manner and either at once, later in the meeting or after adjournment as the chairman of the meeting directs. The result of a ballot shall be deemed to be the resolution of the meeting at which the ballot was demanded. A demand for a ballot may be withdrawn.
-12.6.5 If two or more persons hold shares jointly, one of those holders present at a
-meeting of shareholders may, in the absence of the other, vote the shares, but if two or more of those persons who are present, in person or by proxy vote, they must vote as one on the shares jointly held by them or not at all.
-12.7 Proxies: Votes at meetings of shareholders may be given either personally or
-by proxy or, in the case of a shareholder who is a body corporate or association, by an individual authorised by a resolution of the directors or governing body of that body corporate or association to represent it at meetings of shareholders of the Company.
+12.6.4 A ballot, either before or after any vote by a show of hands, may be
+demanded by any person entitled to vote at the meeting. If at any meeting a ballot is demanded on the election of a chairman or on the question of adjournment, it shall be taken forthwith without adjournment. If at any meeting a ballot is demanded on any other question or as to the election of directors, the vote shall be taken by ballot in such manner and either at once, later in the meeting or after adjournment as the chairman of the meeting directs. The result of a ballot shall be deemed to be the resolution of the meeting at which the ballot was demanded. A demand for a ballot may be withdrawn.
+12.6.5 If two or more persons hold shares jointly, one of those holders present at
+a meeting of shareholders may, in the absence of the other, vote the shares, but if two or more of those persons who are present, in person or by proxy vote, they must vote as one on the shares jointly held by them or not at all.
+12.7 Proxies: Votes at meetings of shareholders may be given either personally
+or by proxy or, in the case of a shareholder who is a body corporate or association, by an individual authorised by a resolution of the directors or governing body of that body corporate or association to represent it at meetings of shareholders of the Company.
 12.7.1 A proxy shall be executed by the shareholder or his attorney authorised
 in writing and is valid only at the meeting in respect of which it is given or any adjournment thereof.
 12.7.2 A person appointed by proxy need not be a shareholder.
-12.7.3 Subject to the provisions of Part V of the Regulations, a proxy may be in the
-following form:
+12.7.3 Subject to the provisions of Part V of the Regulations, a proxy may be in
+the following form:
 The undersigned shareholder of [INSERT NAME OF COMPANY]
 hereby appoints ... of ..., or failing him, ... of ...as the nominee of the undersigned to attend and act for the undersigned and act on behalf of the undersigned at the ... meeting of the shareholders of the said Company to be held on the ...day of ... 20... and at any adjournment or adjournments thereof in the same manner, to the same extent and with the same powers as if the undersigned were present at the said meeting or such adjournment or adjournments thereof.
-DATED this ... day of ...!.
+DATED this ... day of ...
 ...
 Signature of Shareholder
-Companies Regulations [Subsidiary]
+[Subsidiary] Companies Regulations
 12.8 Adjournment: The Chairman of any meeting may with the consent of the meeting adjourn the same from time to time to a fixed time and place and no notice of such adjournment need be given to the shareholders unless the meeting is adjourned by one or more adjournments for an aggregate of thirty days or more in which case notice of the adjourned meeting shall be given as for an original meeting. Any business that might have been brought before or dealt with at the original meeting in accordance with the notice calling the same may be brought before or dealt with at any adjourned meeting for which no notice is required.
 12.9 Quorum: Subject to the Act, and except in the case of a Company having only one shareholder a quorum for the transaction of business at any meeting of the shareholders shall be two persons present in person, each being either a shareholder entitled to vote thereat, or a duly appointed proxy holder or representative of a shareholder so entitled. If a quorum is present at the opening of any meeting of the shareholders, the shareholders present or represented may proceed with the business of the meeting notwithstanding a quorum is not present throughout the meeting. If a quorum is not present within 30 minutes of the time fixed for a meeting of shareholders, the persons present and entitled to vote may adjourn the meeting to a fixed time and place but may not transact any other business.
-12.10 Resolution in lieu of meeting: Notwithstanding any of the foregoing provisions of this bye-law, a resolution in writing signed by all the shareholders entitled to vote on that resolution at a meeting of the shareholders is, subject to section 132 of the Act, as valid as if it had been passed at a meeting of the shareholders.
+12.10 Resolution in lieu of meeting: Notwithstanding any of the foregoing provisions of this Bye-law, a resolution in writing signed by all the shareholders entitled to vote on that resolution at a meeting of the shareholders is, subject to section 132 of the Act, as valid as if it had been passed at a meeting of the shareholders.
 13. SHARES 13.1 Allotment and Issuance: Subject to the pre-emptive rights as varied by the articles and any unanimous shareholder agreement, shares in the capital of the Company may be allotted and issued by resolution of the directors at such times and on such terms and conditions and to such persons or class of persons as the directors determine.
 13.2 Certificates: Share certificates and the form of share transfer shall (subject to section 197 of the Act) be in such form as the directors may by resolution approve and such certificates shall be signed by a Chairman or a Deputy Chairman or a Managing Director [or a President or a Vice-President] and the Secretary or an Assistant Secretary holding office at the time of signing.
 13.2.1 The directors or any agent designated by the directors may in their or his discretion direct the issuance of a new share or other such certificate in lieu of and upon cancellation of a certificate that has been mutilated or in substitution for a certificate claimed to have been lost, destroyed or wrongfully taken, on payment of such reasonable fee and on such terms as to indemnity, reimbursement of expenses and evidence of loss and of title as the directors may from time to time prescribe, whether generally or in any particular case. [Subsidiary] Companies Regulations
@@ -176,8 +178,8 @@ in such names as they may determine without the necessity of a resolution or oth
 17. INFORMATION AVAILABLE TO SHAREHOLDERS 17.1 Except as provided by the Act, no shareholder shall be entitled to any
 information respecting any details or conduct of the Company's business which in the opinion of the directors it would be inexpedient in the interests of the Company to communicate to the public.
 17.2 The directors may from time to time, subject to rights conferred by the Act,
-determine whether and to what extent and at what time and place and under what conditions or regulations the documents, books and registers and accounting records of the Company or any of them shall be open to the inspection of shareholders and no shareholder shall have any right to inspect any document or book or register or accounting record of the Company except as conferred by statute or authorised by the directors or by a resolution of the shareholders.
-Companies Regulations [Subsidiary]
+determine whether and to what extent and at what time and place and under what conditions or Regulations the documents, books and registers and accounting records of the Company or any of them shall be open to the inspection of shareholders and no shareholder shall have any right to inspect any document or book or register or accounting record of the Company except as conferred by statute or authorised by the directors or by a resolution of the shareholders.
+[Subsidiary] Companies Regulations
 18. NOTICES 18.1 Method of giving notice: Any notice or other document required by the Act, the Regulations, the articles or the Bye-laws to be sent to any shareholder, debenture holder, director or auditor may be delivered personally or sent by pre-paid mail or cable or telex or telefax to any such person at his latest address as shown in the records of the Company or its transfer agent and to any such director at his latest address as shown in the records of the Company or in the latest notice filed under section 71 or 79 of the Act, and to the auditor at his business address.
 18.2 Waiver of notice: Notice may be waived or the time for the notice may be waived or abridged at any time with the consent in writing of the person entitled thereto.
 18.3 Undelivered notices: If a notice or document is sent to a shareholder or debenture holder by pre-paid mail in accordance with this paragraph and the notice or document is returned on three consecutive occasions because the shareholder or debenture holder cannot be found, it shall not be necessary to send any further notices or documents to the shareholder or debenture holder until he informs the Company in writing of his new address.
@@ -188,16 +190,16 @@ Companies Regulations [Subsidiary]
 18.8 Computation of time: Where a notice extending over a number of days or other period is required under any provisions of the articles or the Bye-laws, the day of sending the notice shall, unless it is otherwise provided, be counted in such number of days or other period. [Subsidiary] Companies Regulations
 18.9 Proof of service: Where a notice required under paragraph 18.1 hereof is
 delivered personally to the person to whom it is addressed or delivered to his address as mentioned in paragraph 18.1 hereof, service shall be deemed to be at the time of delivery of such notice.
-18.9.1 Where such notice is sent by post, service of the notice shall be deemed to be
-effected forty-eight hours after posting if the notice was properly addressed and posted by pre-paid mail.
+18.9.1 Where such notice is sent by post, service of the notice shall be deemed to
+be effected forty-eight hours after posting if the notice was properly addressed and posted by pre-paid mail.
 18.9.2 Where the notice is sent by cable, telex or telefax, service is deemed to be
 effected on the date on which the notice is so sent.
-18.9.3 A certificate of an officer of the Company in office at the time of the making
-of the certificate or of any transfer agent of shares of any class of the Company as to facts in relation to the delivery or sending of any notice shall be conclusive evidence of those facts.
+18.9.3 A certificate of an officer of the Company in office at the time of the
+making of the certificate or of any transfer agent of shares of any class of the Company as to facts in relation to the delivery or sending of any notice shall be conclusive evidence of those facts.
 19. CHEQUES, DRAFTS AND NOTES 19.1 All cheques, drafts or orders for the payment of money and all notes and
 acceptances and bills of exchange shall be signed by such officers or persons and in such manner as the directors may from time to time designate by resolution.
-20. EXECUTION OF INSTRUMENTS 20.1 Contracts, deeds, documents or instruments in writing requiring the signature
-of the Company may be signed by:
+20. EXECUTION OF INSTRUMENTS 20.1 Contracts, deeds, documents or instruments in writing requiring the
+signature of the Company may be signed by:
 (a) a Chairman, a Deputy Chairman, a Managing Director, [a President
 or a Vice-President]; or
 (b) any other director together with the Secretary or the Treasurer,
@@ -208,12 +210,13 @@ and instruments in writing signed as aforesaid or by any officers or persons spe
 (a) a director together with the Secretary or the Treasurer; or
 (b) any two directors,
 shall have authority to sign and execute (under seal of the Company or otherwise) all instruments and deeds that may be necessary for the purpose of selling, assigning, transferring, exchanging, converting or conveying any property, shares, stocks, bonds, debentures, rights, warrants or other securities.
-Companies Regulations [Subsidiary]
+[Subsidiary] Companies Regulations
 21. SIGNATURES 21.1 The signature of the Chairman, a Deputy Chairman, a Managing Director, [a President, a Vice-President,] the Secretary, the Treasurer, an Assistant Secretary or an Assistant Treasurer or any director of the Company or of any officer or person, appointed pursuant to paragraph 20 hereof by resolution of the directors, may, if specifically authorised by resolution of the directors, be printed, engraved, lithographed or otherwise mechanically reproduced upon any certificate for shares in the Company or contract, document or instrument in writing, bond, debenture or other security of the Company executed or issued by or on behalf of the Company. Any document or instrument in writing on which the signature of any such officer or person is so reproduced shall be deemed to have been manually signed by such officer or person whose signature is so reproduced and shall be as valid to all intents and purposes as if such document or instrument in writing had been signed manually and notwithstanding that the officer or person whose signature is so reproduced has ceased to hold office at the date on which such document or instrument in writing is delivered or issued.
 22. FINANCIAL YEAR 22.1 The directors may from time to time by resolution establish the financial year of the company.
 Dated this ... day of ... 20...
 Corporate
 Seal
 ...
-Chairman Secretary [Subsidiary] Companies Regulations
+Chairman Secretary
+[Subsidiary] Companies Regulations
 - Margin: (Regulation 4).

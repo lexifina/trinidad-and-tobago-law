@@ -4,19 +4,22 @@ THE COMPANIES ACT, CH. 81:01
 EXTERNAL COMPANY
 APPLICATION FOR REGISTRATION
 1. Name of Company ... Company No...
-2.. Address of Registered or Head Office ... 3. Address of Principal Office in Trinidad and Tobago ... 4. Corporate Structure:
+2.. Address of Registered or Head Office
+...
+3. Address of Principal Office in Trinidad and Tobago ...
+4. Corporate Structure:
 (a) Jurisdiction in which incorporated;
 (b) Date and manner of incorporation;
 (c) Period fixed for duration of Company;
 (d) Extent to which liability of shareholders limited.
 5.
-Class of Authorised Subscribed Paid-up or Number of Shares Nominal or Par Shares Capital Capital Stated Company is Value of Shares,
-Capital authorised to issue if any
+Class of Number of Shares Nominal or Par Authorised Subscribed Paid-up or Shares Company is Value of Shares, Capital Capital Stated
+authorised to issue if any Capital
 ...
 6. Restrictions, if any, on the business that the Company may carry on and the date on which the Company commenced or intends to commence any of its operations in Trinidad and Tobago. 7. The Directors of the Company are:
 Full Name Address Occupation
 ...
-Companies Regulations [Subsidiary]
+[Subsidiary] Companies Regulations
 8. Documents attached are:
 (a) Verified copy of corporate instruments defining constitution of Company;
 (b) Power of Attorney in accordance with section 323;
@@ -40,5 +43,5 @@ A director or authorised officer of the company or an Attorney-at-law shall sign
 the application.
 Completed documents, in duplicate, and the prescribed fees are to be filed at
 the office of the Registrar and one set of the duplicate originals would be returned to the company or its representative with the endorsement "Registered" and the date of registration.
-Companies Regulations [Subsidiary]
+[Subsidiary] Companies Regulations
 - Margin: (Section 318).

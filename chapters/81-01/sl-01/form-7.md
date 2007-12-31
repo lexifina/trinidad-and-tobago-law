@@ -8,9 +8,9 @@ a receiver of...
 ...
 (c) The above-mentioned person has entered into possession of ...
 ...
-(d) The above-mentioned person who was appointed receiver of
+(d) The above-mentioned person who was appointed receiver of...
 ... has ceased to act as such receiver.
-(e) The above-mentioned person having entered into possession of
+(e) The above-mentioned person having entered into possession of ...
 ... has gone out of possession.
 4. Particulars of Charge(s) or Order pursuant to each action in item 3 taken ...
 Date Name and Title Signature
@@ -18,8 +18,8 @@ Date Name and Title Signature
 FORM 7-Continued
 INSTRUCTIONS
 Format
-Documents required to be sent to the Registrar pursuant to the Act must conform to
-regulation 3 of the Regulations under the Act. Item 1
+Documents required to be sent to the Registrar pursuant to the Act must conform
+to regulation 3 of the Regulations under the Act. Item 1
 Set out the full legal name of the company and, except where a number has not
 been assigned, state the company number. Item 2
 State the name of the person seeking registration.
@@ -31,5 +31,5 @@ Signature
 The person registering the document shall add his signature.
 Completed documents, in duplicate, and the prescribed fees are to be filed at the
 office of the Registrar and one set of the duplicate originals would be returned to the company or its representative with the endorsement "Registered" and the date of registration.
-Companies Regulations [Subsidiary]
+[Subsidiary] Companies Regulations
 - Margin: (Section 265).

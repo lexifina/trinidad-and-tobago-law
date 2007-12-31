@@ -10,31 +10,35 @@ Particulars of Contract relating to Shares allotted as fully or partly paid up o
 fully or partly paid up otherwise than in cash.
 (2) The nominal amount of each $
 such share.
-(3) The amount to be considered as paid $
-up on each such share otherwise than in cash.
+(3) The amount to be considered as $
+paid up on each such share otherwise than in cash.
 (4) If the amount to be considered for
 the allotment of such shares is services, or any consideration
 (1) Brief description of property. other than that mentioned below
-in part (5), state the nature of such
+in part (5), state the nature of
 (2) Purchase Price...$
-consideration, and the number of
+such consideration, and the
 (a) Total amount
-shares so allotted:
+number of shares so allotted:
 considered as paid
 (5) If the allotment is made in
 on shares allotted
-satisfaction or part satisfaction of
+satisfaction or part satisfaction
 otherwise than in
-the purchase price of property,
+of the purchase price of property,
 cash...$
 give a brief description of such
-(b) Cash...$ property, and full particulars of
-the manner in which the purchase (c) Amount of price is to be satisfied. debt released or
+(b) Cash...$
+property, and full particulars of
+(c) Amount of
+the manner in which the
+debt released or
+purchase price is to be satisfied.
 liabilities assumed by the purchaser (including mortgages on property acquired)...$
 Total purchase price...$ Rules in regard to Verified or Certified Copies and Certified Translations under the
 Act and as to General Forms
-(6) Give full particulars, in the form of the following table, of the property which is the
-subject of the sale, showing in detail how the total purchase price is apportioned between the respective heads:
+(6) Give full particulars, in the form of the following table, of the property which is
+the subject of the sale, showing in detail how the total purchase price is apportioned between the respective heads:
 TABLE
 $
 Legal Estates in Freehold Property and Fixed Plant
@@ -57,5 +61,5 @@ Signature...
 [State whether Director or Manager or Secretary]
 Dated the ...day of...20...
 (a) Where such properties are sold subject to mortgage, the gross value should be shown.
-(b) No Plant and Machinery which was not in an actual state of severance on the date of the
-Sale should be included under this head.
+(b) No Plant and Machinery which was not in an actual state of severance on the date of
+the Sale should be included under this head.

@@ -13,8 +13,7 @@ Deponent's Signature ...
 Before me ...
 Schedule referred to on the other side
 1. 2. 3. 4. 5. 6.
-No. Full Name of Address Description Period over Amount
-Workman which wages
+Period over No. Full Name of Address Description Amount which wages Workman
 due
 Deponent's Signature...
 The Companies Winding Up Rules

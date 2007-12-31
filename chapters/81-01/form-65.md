@@ -12,8 +12,7 @@ Proxies to be used at the meeting must be lodged with me at my office not later 
 Official Receiver
 (The statement of the Company's affairs has not been lodged /has been lodged, and summary is enclosed).
 NOTE
-At the first meetings of the creditors and contributories they may amongst other things:
-1. By resolution determine whether or not an application shall be made to the Court to appoint a liquidator in place of the Official Receiver.
-2. By resolution determine whether or not an application shall be made to the Court for the appointment of a committee of inspection to act with the liquidator, and who are to be the members of the committee if appointed.
+At the first meetings of the creditors and contributories they may amongst other things: 1. By resolution determine whether or not an application shall be made to the Court to appoint a liquidator in place of the Official Receiver.
+2. By resolution determine whether or not an application shall be made to the Court for the appointment of a Committee of Inspection to act with the liquidator, and who are to be the members of the committee if appointed.
 (NOTE-If a liquidator is not appointed by the Court the Official Receiver will be the liquidator).
 The Companies Winding Up Rules

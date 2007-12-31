@@ -12,5 +12,5 @@ FORM 52-Continued
 A.
 THE SCHEDULE ABOVE REFERRED TO
 No. on Amount due Name Address Description In what Character List included
-Sworn,!etc.
+Sworn, etc.
 NOTE: In addition to the above affidavit, an affidavit of the service of the application for the call will be required in cases in which the Committee of Inspection or the Court has authorised a call to be made.

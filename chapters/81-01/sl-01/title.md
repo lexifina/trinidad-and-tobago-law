@@ -15,8 +15,7 @@ SHARE DESIGNATIONS
 8. Designation of ordinary and preference shares.
 PART V
 PROXIES AND CIRCULARS
-9. Voting by proxy.
-10. Statement of notice.
+9. Voting by proxy. 10. Statement of notice.
 PART VI
 FINANCIAL DISCLOSURE
 11. Standard of financial statements. 12. Content of financial statement. [Subsidiary] Companies Regulations
@@ -32,4 +31,4 @@ COMPANIES REGULATIONS
 made under section 507
 PART I
 PRELIMINARY
-- Margin: 69/1997.
+- Margin: 69/1997. [13/2007].

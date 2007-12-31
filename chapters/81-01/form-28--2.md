@@ -10,7 +10,7 @@ Particulars supplied by above-named Company
 (B) of Mortgages or Charges to which any property acquired by the Company before the date of the commencement of the Act, is subject and, which would have been required to be registered under the Act if the property had been acquired on or after that date.
 (1) (2) (3) (4) (5)
 Short Date and Date of Amount owing Names, Addresses
-Particulars of description of acquisition of on the security and Descriptions the Property the instrument the Property (b) of the Mortgage of the Mortgagees Mortgaged creating or or Charge at the or Persons entitled or Charged evidencing the date of the to the Charge
+Particulars of description of acquisition of on the security and Descriptions the Property the Property (b) the instrument of the Mortgage of the Mortgagees Mortgaged creating or or Charge at the or Persons entitled or Charged evidencing the date of the to the Charge
 Mortgage or commencement Charge (a) of the Act
 [(a) A description of the Instrument, e.g., "Trust Deed", "Mortgage", "Debenture", etc., as the
 case may be, should be given.

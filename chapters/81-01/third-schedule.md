@@ -1,11 +1,13 @@
 # THIRD SCHEDULE
 RULES IN REGARD TO VERIFIED OR CERTIFIED
-COPIES AND CERTIFIED TRANSLATIONS REQUIRED UNDER PART V, DIVISION 2, OF THE COMPANIES ACT,
-AND AS TO GENERAL FORMS
+COPIES AND CERTIFIED TRANSLATIONS REQUIRED
+UNDER PART V, DIVISION 2, OF THE COMPANIES
+ACT, AND AS TO GENERAL FORMS
 1. In regard to verified copies and certified copies and certified translations required by Part V of the Companies Act to be filed with the Registrar, the following rules, subject to clause 4 of this Schedule, shall apply:
 (1) A certified copy of the Charter, Statutes or Memorandum and Articles of Association, or other instrument constituting or defining the constitution of the company, in the case of a company incorporated in a foreign country, required to be filed with the Registrar under Part V shall be deemed to be certified as a true copy if in such foreign country it is-
 (a) duly certified as a true copy by an official of the Government
-to whose custody the original is committed, the signature or seal of such official being authenticated by a consular officer within the meaning of the Diplomatic Agents and Consular Officers (Oaths and Notarial Acts) Act;
+to whose custody the original is committed, the signature or seal of such official being authenticated by a consular officer within the meaning of the Diplomatic Agents and Consular
+Officers (Oaths and Notarial Acts) Act;
 (b) duly certified as a true copy by a Notary of such foreign
 country, the certificate of the Notary being authenticated by a consular officer mentioned in paragraph (a) above; or
 (c) duly certified as a true copy on oath by some officer of the
@@ -18,7 +20,7 @@ place; or
 (c) duly certified as a true copy on oath by some officer of the
 company before some person having authority to administer an oath in such place. Rules in regard to Verified or Certified Copies and Certified Translations under the
 Act and as to General Forms
-(3) In the case of a company in which the charter, statutes, or memorandum and articles of association, or other instrument constituting, or defining the constitution of the company is not written in the English language, a certified translation thereof required to be filed with the Registrar shall be deemed to be certified as a correct translation if certified to be a correct translation-
+(3) In the case of a company in which the Charter, Statutes, or Memorandum and Articles of Association, or other instrument constituting, or defining the constitution of the company is not written in the English language, a certified translation thereof required to be filed with the Registrar shall be deemed to be certified as a correct translation if certified to be a correct translation-
 (a) when such translation is made out of Trinidad and
 Tobago, by-
 (i) an official having custody of the original; or

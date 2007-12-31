@@ -1,11 +1,11 @@
 # FORM 95
-!(Rule 187)
+(Rule 187)
 NOTICES FOR GAZETTE
 (1) NOTICE OF WINDING UP ORDER
 [Rule 34(1)(c)]
 Name of Company ... Address of Registered Office ... Number of Matter ... Date of Order ... Date of Presentation of Petition*...
-[* Where it is known that a voluntary winding up preceded the presentation of the Petition,
-the date of the resolution for voluntary winding up should also be given.]
+[* Where it is known that a voluntary winding up preceded the presentation of the
+Petition, the date of the resolution for voluntary winding up should also be given.]
 (2) NOTICE OF FIRST MEETING
 (Rule 103)
 Name of Company ... Address of Registered Office ... Number of Matter ... CREDITORS, Date ... Hour... Place ... CONTRIBUTORIES, Date... Hour... Place ...
@@ -15,7 +15,7 @@ Name of Company... Address of Registered Office ... Number of Matter ... Date fi
 The Companies Winding Up Rules
 FORM 95-Continued
 (4) NOTICE OF INTENDED DIVIDEND
-[Rule!!100(1)]
+[Rule 100(1)]
 Name of Company ... Address of Registered Office ... Number of Matter... Last day for Receiving Proofs ... Name of Liquidator ... Address...
 (5) NOTICE OF DIVIDEND
 [Rule 100(3)]
