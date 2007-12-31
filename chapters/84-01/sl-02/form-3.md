@@ -20,11 +20,10 @@ Executive of the Company or by the Agent.
 4. The details required in section C item 9 must be certified true and correct
 by the Chief Executive of the Company or the Agent.
 5. This application must be accompanied by-
-(a) The receipt obtained from the Central Bank on payment of the
-registration fee.
-(b) A copy of the Insurance Salesman Examination Certificate if available
-at the time of application.
-Insurance (Agents, Brokers, Salesmen and Adjusters) (Registration) Regulations [Subsidiary]
+(a) The receipt obtained from the Central Bank on payment of the registration fee.
+(b) A copy of the Insurance Salesman Examination Certificate if
+available at the time of application.
+[Subsidiary ] Insurance (Agents, Brokers, Salesmen and Adjusters) (Registration) Regulations
 6. The following persons are not qualified to be registered as an
 Insurance Salesman:
 (a) A person under the age of eighteen years.
@@ -53,8 +52,8 @@ I certify that the information at (A) and (B) above is true and correct. Date ..
 Title ...
 (Affix official stamp of company or agent)
 [Subsidiary] Insurance (Agents, Brokers, Salesmen and Adjusters) (Registration) Regulations
-(d) Details of any previous registration which was cancelled including
-the reasons for cancellation.
+(d) Details of any previous registration which was cancelled
+including the reasons for cancellation.
 (e) Other class/classes of insurance business in respect of which you
 are now registered as a Salesman.
 C-QUALIFICATION AND EXPERIENCE
@@ -71,13 +70,16 @@ N.B. Details must be certified by the Chief Executive of the company or by the A
 D-GENERAL INFORMATION
 9. Give the names of your employers and the position held during the
 last five years.
-10. Are you now registered or have you applied for registration as a broker? 11. Are you a member, director or controller of a company carrying on
+10. Are you now registered or have you applied for registration as a
+broker?
+11. Are you a member, director or controller of a company carrying on
 brokerage business? If so, give details.
-12. Details of shares held in any Insurance brokerage business. 13. Are you an undischarged bankrupt? If so, have you leave to carry on
-the business of Insurance Salesman by the Court by which you were adjudged bankrupt?
+12. Details of shares held in any Insurance brokerage business. 13. Are you an undischarged bankrupt? If so, have you leave to carry
+on the business of Insurance Salesman by the Court by which you were adjudged bankrupt?
 14. Are you a member of an association of Insurance Salesmen? If so,
 give the name and address of the association.
 I certify that to the best of my knowledge and belief all of the information
 given in this application is true and correct.
-Signature of Applicant ... Date ...
-Insurance (Agents, Brokers, Salesmen and Adjusters) (Registration) Regulations [Subsidiary]
+Signature
+of Applicant ... Date ...
+[Subsidiary ] Insurance (Agents, Brokers, Salesmen and Adjusters) (Registration) Regulations

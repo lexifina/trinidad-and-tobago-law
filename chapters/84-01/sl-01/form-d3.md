@@ -9,17 +9,15 @@ Ordinary Life Industrial Life
 Outstanding Claims:-
 Death Maturities Other (to be specified) Annuities due and unpaid
 Provisions for unreported claims
-Deposits re policies Premiums paid in advance Unpaid dividends
-Accrued interest on policies
-Other (specify)
+Deposits re policies Premiums paid in advance Unpaid dividends Accrued interest on policies Other (specify)
 Less
 Loans on policies of the Company
 Interest accrued on policy loans Outstanding Premiums Other (specify)
 Statutory Fund Requirement
-Insurance Companies (Accounts and Forms) Regulations [Subsidiary]
+[Subsidiary ] Insurance Companies (Accounts and Forms) Regulations
 FORM D3-Continued
 STATUTORY FUND REQUIREMENTS
-(b) in respect of Long-Term Insurance Business as at
+(b) in respect of Motor Insurance Business as at
 (Balance Sheet ... Date) ...
 LIABILITIES TO TRINIDAD AND TOBAGO POLICYHOLDERS
 Add $
@@ -34,7 +32,7 @@ Other (specify)
 Less
 Market Value of Securities placed on
 deposit with the Central Bank in respect of Motor Insurance business
-Statutory Fund Requirement [Subsidiary] Insurance Companies (Accounts and Forms) Regulations
+Statutory Fund Requirement [Subsidiary ] Insurance Companies (Accounts and Forms) Regulations
 PART I
 PROVISIONS AS TO THE BALANCE SHEET
 OF EVERY COMPANY
@@ -59,14 +57,14 @@ BUSINESS BUT NOT LONG-TERM BUSINESS
 including any amount payable in connection with reinsurance accepted by the company but excluding any amount payable in connection with claims under insurance contracts;
 (c) the amount payable to the company's reinsurers identifying
 any part of the amount of reinsurance premiums payable which has been retained by the company as a security for future claims against the company's reinsurers;
-Insurance Companies (Accounts and Forms) Regulations [Subsidiary]
-(d) the amount payable to persons carrying on insurance business
-(other than amounts payable in connection with reinsurance accepted and ceded);
+[Subsidiary ] Insurance Companies (Accounts and Forms) Regulations
+(d) the amount payable to persons carrying on insurance
+business (other than amounts payable in connection with reinsurance accepted and ceded);
 (e) the amount of bank loans and overdrafts;
 (f) the amount payable to other creditors classified under
 appropriate headings;
 (g) other amounts set aside classified under appropriate headings.
-5. (1) There shall be shown under separate headings:-
+5. (1) There shall be shown under separate headings:
 (a) the amount receivable from policyholders, brokers and agents
 including any amount receivable in connection with reinsurance accepted by the company identifying any part of the amount receivable by way of reinsurance premiums which has been retained by persons reinsured as a security for future claims against the company;
 (b) the amount receivable from the company's reinsurers;
@@ -74,8 +72,8 @@ including any amount receivable in connection with reinsurance accepted by the c
 business (other than amounts receivable in connection with reinsurance accepted or ceded);
 (d) the amount receivable from other debtors;
 (e) cash on current account at bankers and in hand;
-(f) the amount of assets not included in the amounts shown under
-other headings classified under appropriate headings.
+(f) the amount of assets not included in the amounts shown
+under other headings classified under appropriate headings.
 6. (1) The matters referred to in the following subparagraphs shall be stated by way of note, or in a statement or report annexed, if not otherwise shown.
 (2) Particulars of any charge on the assets of the company to secure the liabilities of any other person (other than liabilities arising under a contract of reinsurance), including the amount secured.
 (3) The general nature of any other contingent liabilities not provided for (other than one arising under a contract of insurance) and the aggregate amount or estimated amount of those liabilities, if it is material.
@@ -86,13 +84,13 @@ BUSINESS-BUT NOT GENERAL BUSINESS
 7. The requirements of Part II of this Schedule shall apply and shall apply as if-
 (i) for head (a) of paragraph 4(1) there were substituted-
 (a) the amount of each long-term business fund carried
-forward in the revenue account of the company for the financial year. [Subsidiary] Insurance Companies (Accounts and Forms) Regulations
+forward in the revenue account of the company for the financial year. [Subsidiary ] Insurance Companies (Accounts and Forms) Regulations
 PART IV
 ADDITIONAL PROVISIONS AS TO THE BALANCE
 SHEET OF A COMPOSITE COMPANY
-8. The requirements of Part II of this Schedule shall apply and shall apply
-as if in head (a) of paragraph 4(1) after the words "the aggregate amounts set aside respectively" there were added the words "in relation to the company's general business." In showing the amount of each item thus required to be shown and in stating any matter in relation to any amount thus required to be shown and in stating any matter in relation to any amount required to be stated there shall be excluded any part of that amount which relates only to the company's long-term business and, in relation to each amount so excluded, that amount shall be separately shown (or the relevant matter in relation to that amount shall be separately stated), in the Balance Sheet and the following amounts in relation to the company's long-term business shall also be so shown under separate headings that is to say-
+8. The requirements of Part II of this Schedule shall apply and shall
+apply as if in head (a) of paragraph 4(1) after the words "the aggregate amounts set aside respectively" there were added the words "in relation to the company's general business." In showing the amount of each item thus required to be shown and in stating any matter in relation to any amount thus required to be shown and in stating any matter in relation to any amount required to be stated there shall be excluded any part of that amount which relates only to the company's long-term business and, in relation to each amount so excluded, that amount shall be separately shown (or the relevant matter in relation to that amount shall be separately stated), in the Balance Sheet and the following amounts in relation to the company's long-term business shall also be so shown under separate headings that is to say-
 (a) the amount of each fund carried forward in the long-term
 business revenue account of the company for the financial year; and
 (b) the amount of claims admitted but not paid.
-Insurance Companies (Accounts and Forms) Regulations [Subsidiary]
+[Subsidiary ] Insurance Companies (Accounts and Forms) Regulations
