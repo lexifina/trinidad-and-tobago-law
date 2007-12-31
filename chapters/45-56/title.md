@@ -1,7 +1,7 @@
 DOMESTIC VIOLENCE ACT
 CHAPTER 45:56
 Act
-27 of 1999
+27 of 1999 Amended by 8 of 2006
 Note on Subsidiary Legislation
 This Chapter contains no subsidiary legislation.
 CHAPTER 45:56
@@ -10,7 +10,8 @@ ARRANGEMENT OF SECTIONS
 SECTION
 PART I
 PRELIMINARY
-1. Short title. Act inconsistent with Constitution.
+1. Short title.
+Act inconsistent with Constitution.
 2. Objects of the Act. 3. Interpretation.
 PART II
 PROTECTION ORDERS
