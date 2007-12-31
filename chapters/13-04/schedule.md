@@ -6,4 +6,5 @@ ORDERED TO BE FLOGGED
 3. Robbery with violence, or with aggravation.
 4. Rape.
 5. Any attempt to commit the offences specified in paragraphs 3 and 4.
-- Margin: Section 2.
+6. Incest.
+- Margin: Section 2. [18 of 2005].
