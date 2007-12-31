@@ -1,12 +1,16 @@
-RETIRING ALLOWANCES
-(DIPLOMATIC SERVICE) ACT
+RETIRING ALLOWANCES (DIPLOMATIC SERVICE) ACT
 CHAPTER 17:04
 Act
 44 of 1976
+17 of 2007
+* 30 of 2007
+*See Note on page 2
 Index of Subsidiary Legislation
 Page Retiring Allowances (Diplomatic Service) Regulations (GN 104/1976) … 15
 Note on Adaptation
 Under paragraph 6 of the Second Schedule to the Law Revision Act (Ch. 3:03) the Commission amended certain references to public officers in this Chapter. The Minister's approval of the amendments was signified by LN 52/1980, but no marginal reference is made to this Notice where any such amendment is made in the text.
+Note on Act No. 30 of 2007
+Amendments made by Act No. 30 of 2007 took effect from 1st October 2007.
 CHAPTER 17:04
 RETIRING ALLOWANCES
 (DIPLOMATIC SERVICE) ACT
@@ -17,7 +21,8 @@ PART I
 CIVIL SERVANTS APPOINTED HEADS OF MISSION
 3. Civil servants appointed Heads of Mission.
 PART II
-HEADS OF MISSION-RETIREMENT BENEFITS 4. Application of Part II. 5. Contributors. 6. Contributions. 7. Circumstances in which retiring allowances shall be paid. 8. Rate of retiring allowance. 9. Gratuity.
+HEADS OF MISSION-RETIREMENT BENEFITS
+4. Application of Part II. 5. Contributors. 6. Contributions. 7. Circumstances in which retiring allowances shall be paid. 8. Rate of retiring allowance. 9. Gratuity.
 10. Widow's allowance. 11. Children's allowance.
 PART III
 SPECIAL PROVISIONS FOR CERTAIN
