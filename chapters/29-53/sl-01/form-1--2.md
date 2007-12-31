@@ -13,4 +13,3 @@ NOTE: This Form should be completed by one of the following:
 (ii) The religious leader of Applicant, e.g., Priest, etc.;
 (iii) A member of the Trinidad and Tobago Police Service
 to whom Applicant is well known.
-Nurses and Midwives Registration Regulations [Subsidiary]

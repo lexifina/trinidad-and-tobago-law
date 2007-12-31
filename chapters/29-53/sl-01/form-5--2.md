@@ -17,5 +17,4 @@ Signature of person testifying
 The Secretary, The Nursing Council of Trinidad and Tobago ..., Port-of-Spain.
 This Form is to be completed by any one of the following:
 A Registered Medical Practitioner; A Registered Nurse; A Principal of Applicant's School; or Applicant's Priest or Religious Leader.
-Nurses and Midwives Registration Regulations [Subsidiary]
 - Margin: Regulation 69(3).

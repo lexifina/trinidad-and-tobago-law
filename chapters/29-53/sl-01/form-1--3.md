@@ -5,22 +5,19 @@ A STUDENT NURSE
 (To be completed in Handwriting of Applicant)
 A: I, ...
 Surname (in Block Letters: if married, write Married Name
-Affix
-first: then write Maiden name after word "nee".)
-Passport ... Sized
-Photograph (Other Name(s) 1st 2nd 3rd)
-Here now in training at the ... Hospital School of Nursing do hereby apply for Registration with the Council as a Student Nurse, and I declare that all the particulars I insert below are true and correct:
-State whether Married, Single or Widow ... Date of Birth ... Nationality ...
-Tick off the qualification whereby you secured entry to training, viz:
-Received Council's Received Council's Received Council's
-Education Test Letter of permission to
+Affix first: then write Maiden name after word "nee".) Passport ... Sized (Other Name(s) 1st 2nd 3rd)
+Photograph
+now in training at the ... Here Hospital School of Nursing do hereby apply for Registration with the Council as a Student Nurse, and I declare that all the particulars I insert below are true and correct:
+State whether Married, Single or Widow ... Date of Birth ... Nationality ... Tick off the qualification whereby you secured entry to training, viz:
+Received Council's Received Council's Received Council's Education Test Letter of permission to
 Certificate Exemption continue training
 commenced overseas/
-elsewhere If you had on a previous occasion commenced training, state-
+elsewhere
+If you had on a previous occasion commenced training, state-
 (a) Name of the Hospital School of Nursing ...
 (b) Date of entry to the School referred to in (a) above ...
-(c) Date of termination of such training ... Name the Programme of Training for which you are now making application for registration: ... Signature of Applicant ... Full Permanent Postal Address ...
-Nurses and Midwives Registration Regulations [Subsidiary]
+(c) Date of termination of such training ...
+Name the Programme of Training for which you are now making application for registration: ... Signature of Applicant ... Full Permanent Postal Address ...
 B: (To be completed by the Authority of the Hospital
 School of Nursing)
 I hereby certify that the Applicant named above was admitted to this Hospital School of
@@ -32,7 +29,5 @@ Receipt for Fees paid ... Registered Student Number
 Date of submission of application ...
 Any Change of Name subsequent to becoming qualified for selection as a Student Nurse- ...
 ...
-Secretary of Council
-Date ...
-Nurses and Midwives Registration Regulations [Subsidiary]
+Secretary of Council Date ...
 - Margin: Regulation 10(1).

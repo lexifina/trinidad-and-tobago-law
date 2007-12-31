@@ -18,5 +18,4 @@ I certify that ... of ... who is applying for Registration and Licensing as a Mi
 person testifying ...
 (4) Signature of person testifying ... NOTE: This Certificate must on completion be returned directly to-
 The Secretary, The Nursing Council of Trinidad and Tobago, ..., Port-of-Spain, Trinidad, Trinidad and Tobago, West Indies.
-Nurses and Midwives Registration Regulations [Subsidiary]
 - Margin: Regulation 64(2)(b).
