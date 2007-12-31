@@ -11,8 +11,7 @@ Applicant's Signature or Mark
 Signature of Witness to Mark
 *"Identification Card No." means the registration number shown on the applicant's Identification
 Card issued under the Representation of the People Act (Ch. 2:01). †"National Insurance No." means the national insurance number shown on the applicant's identity
-card issued under regulation 8 of the National Insurance (Registration) (No. 2) Regulations.
-National Insurance (Contribution) Regulations [Subsidiary]
+card issued under regulation 8 of the National Insurance (Registration) (No. 2) Regulations. [Subsidiary ] National Insurance (Contribution) Regulations
 FORM NI. 7
 THE NATIONAL INSURANCE (CONTRIBUTION) REGULATIONS
 CERTIFICATE OF VOLUNTARY INSURANCE
@@ -24,6 +23,6 @@ Chairman, Board of Management
 *"Identification Card No." means the registration number shown on the applicant's Identification
 Card issued under the Representation of the People Act (Ch. 2:01). †"National Insurance No." means the national insurance number shown on the applicant's identity
 card issued under regulation 8 of the National Insurance (Registration) (No. 2) Regulations.
-National Insurance (Contribution) Regulations [Subsidiary]
+[Subsidiary ] National Insurance (Contribution) Regulations
 - Margin: (Regulation 7).
 - Margin: [Regulation 8(2)].
