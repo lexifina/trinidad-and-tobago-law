@@ -12,7 +12,9 @@ DRUG TRAFFICKING
 (a) it appears to the Magistrate that the person
 convicted may have benefited from drug trafficking and has or may have realisable property; or
 (b) it appears to the Director of Public Prosecutions
-that the person convicted may have benefited from drug trafficking and has or may have realisable property, on application by the Director of Public Prosecutions, the Magistrate shall at the time of conviction commit such person for sentence by a Judge of the High Court and shall remit to the Judge his recommendations as to such sentence and the reasons therefor.
+that the person convicted may have benefited from drug trafficking and has or may have realisable property, on application by the
+Director of Public Prosecutions,
+the Magistrate shall at the time of conviction commit such person for sentence by a Judge of the High Court and shall remit to the Judge his recommendations as to such sentence and the reasons therefor.
 (2) Where a person appears before the High Court (hereinafter referred to as "the Court") to be sentenced in respect of a drug trafficking offence or where a person, after having been committed to the Court for trial, is convicted of a drug trafficking offence, the Court shall act as follows:
 (a) the Court shall first determine whether he has
 benefited from drug trafficking;
@@ -45,8 +47,8 @@ the aggregate of the values of the payments or other rewards.
 (a) that any property appearing to the Court-
 (i) to have been held by him at any time since
 his conviction; or
-(ii) to have been transferred to him at any time
-since the beginning of the period of six years ending when the proceedings were instituted against him,
+(ii) to have been transferred to him at any
+time since the beginning of the period of six years ending when the proceedings were instituted against him,
 was received by him, at the earliest time at which he appears to the Court to have held it, as a payment or reward in connection with drug trafficking carried on by him;
 (b) that any expenditure of his since the beginning
 of that period of six years was met out of payments received by him in connection with drug trafficking carried on by him; and
@@ -56,23 +58,23 @@ received or assumed to have been received by him at any time as such a reward, h
 32. (1) Where-
 (a) there is tendered to the Court by the Director of
 Public Prosecutions a statement as to any matters relevant to the determination whether the defendant has benefited from drug trafficking or to the assessment of the value of his proceeds of drug trafficking; and
-(b) the defendant accepts to any extent any allegation
-in the statement, the Court may, for the purposes of that determination and assessment, treat his acceptance as conclusive of the matters to which it relates.
+(b) the defendant accepts to any extent any
+allegation in the statement, the Court may, for the purposes of that determination and assessment, treat his acceptance as conclusive of the matters to which it relates.
 (2) Where-
 (a) a statement is tendered under subsection (1)(a);
 and
-(b) the Court is satisfied that a copy of that statement
-has been served on the defendant, the Court may require the defendant to indicate to what extent he accepts each allegation in the statement and, so far as he does not accept any such allegation, to indicate any matters he proposes to rely on.
+(b) the Court is satisfied that a copy of that
+statement has been served on the defendant, the Court may require the defendant to indicate to what extent he accepts each allegation in the statement and, so far as he does not accept any such allegation, to indicate any matters he proposes to rely on.
 (3) If the defendant fails in any respect to comply with a requirement under subsection (2) he may be treated for the purposes of this section as accepting every allegation in the statement apart from-
-(a) any allegation in respect of which he has complied
-with the requirement; and
+(a) any allegation in respect of which he has
+complied with the requirement; and
 (b) any allegation that he has benefited from drug
 trafficking or that any payment or other reward was received by him in connection with drug trafficking carried on by him or another.
 (4) Where-
 (a) there is tendered to the Court by the defendant
 a statement as to any matters relevant to determining the amount that might be realised at the time the confiscation order is made; and
-(b) the Director of Public Prosecutions accepts to any
-extent any allegation in the statement, the Court may, for the purposes of that determination, treat the acceptance by the prosecutor as conclusive of the matters to which it relates.
+(b) the Director of Public Prosecutions accepts to
+any extent any allegation in the statement, the Court may, for the purposes of that determination, treat the acceptance by the prosecutor as conclusive of the matters to which it relates.
 (5) An allegation may be accepted or a matter indicated for the purposes of this section either-
 (a) orally before the Court; or
 (b) in writing to the Court.
@@ -88,11 +90,11 @@ defendant has directly or indirectly made a gift caught by this Act.
 (3) For the purposes of sections 32 and 34 the amount that might be realised at the time a confiscation order is made against the defendant is-
 (a) the total of the values at that time of all the
 realisable property held by the defendant, less
-(b) where there are obligations having priority at that
-time, the total amounts payable in pursuance of such obligations, together with the total of the values at that time of all gifts caught by this Act.
+(b) where there are obligations having priority at
+that time, the total amounts payable in pursuance of such obligations, together with the total of the values at that time of all gifts caught by this Act.
 (4) Subject to this section, for the purposes of this Act the value of property, other than cash, in relation to any person holding the property-
 (a) where any other person holds an interest in the
-property, is the market value of the first mentioned person's beneficial interest in the property, less the amount required to discharge any encumbrance, other than a charging order, on that interest; and.
+property, is the market value of the first mentioned person's beneficial interest in the property, less the amount required to discharge any encumbrance, other than a charging order, on that interest; and
 (b) in any other case, is its market value.
 (5) Subject to subsection (9), references in this Act to the value at any time, referred to in subsection (6) as "the material time", of a gift caught by this Act or of any payment or reward are references to-
 (a) the value of the gift, payment or reward to the
@@ -100,20 +102,20 @@ recipient when he received it adjusted to take account of subsequent changes in 
 (b) where subsection (6) applies, the value there
 mentioned, whichever is the greater.
 (6) Subject to subsection (9), if at the material time the recipient holds-
-(a) the property not being cash, which he received;
-or
+(a) the property not being cash, which he
+received; or
 (b) property which, in whole or in part, directly or
 indirectly, represents in his hands the property which he received, the value referred to in subsection (5)(b) is the value to him at the material time of the property referred to in paragraph (a) or, as the case may be, of the property referred to in paragraph (b) so far as it represents the property which he received, but disregarding in either case any charging order.
 (7) For the purposes of subsection (3), an obligation has priority at any time if it is an obligation of the defendant to-
 (a) pay an amount due in respect of a fine or other
 order of a Court, imposed or made on conviction of an offence, where the fine was imposed or order made before the confiscation order; or
-(b) pay any sum which would be included among the
-priority debts in the defendant's bankruptcy commencing on the date of the confiscation order or winding up under an order of the Court made on that date.
+(b) pay any sum which would be included among
+the priority debts in the defendant's bankruptcy commencing on the date of the confiscation order or winding up under an order of the Court made on that date.
 (8) A gift, including a gift made before the commencement of this Act, is caught by this Act if-
 (a) it was made by the defendant at any time since
 the beginning of the period of six years ending when the proceedings were instituted against him; or
-(b) it was made by the defendant at any time and was
-a gift of property-
+(b) it was made by the defendant at any time and
+was a gift of property-
 (i) received by the defendant in connection
 with drug trafficking carried on by him or another; or
 (ii) which in whole or in part directly or
@@ -147,8 +149,8 @@ Affairs is assigned.
 (3) The Minister may by Order apply this section to an external confiscation order or an external forfeiture order made by a Court of a designated country being an order of a description specified in the Order.
 (4) Subject to subsection (5), the Court may, on an application by or on behalf of the government of a designated country register an external confiscation order or an external forfeiture order made there.
 (5) The Court shall not register an external confiscation order or an external forfeiture order unless-
-(a) the Court is satisfied that at the time of registration
-the order is in force in the designated country and is not subject to appeal in that country;
+(a) the Court is satisfied that at the time of
+registration the order is in force in the designated country and is not subject to appeal in that country;
 (b) the Court is satisfied, where the person against
 whom the order is made did not appear in the proceedings, that he received notice of the proceedings in sufficient time to enable him to defend them; and
 (c) the Court is of the opinion that enforcing the
@@ -159,8 +161,9 @@ order in Trinidad and Tobago would not be contrary to the interests of justice.
 (9) An Order made by the Minister under this section may include such provision-
 (a) as to evidence or proof of any matter for the
 purpose of this section;
-(b) as to the circumstances in which proceedings are
-to be treated for those purposes as instituted or concluded in a designated country, as the Minister considers expedient.
+(b) as to the circumstances in which proceedings
+are to be treated for those purposes as instituted or concluded in a designated country, as the
+Minister considers expedient.
 (10) An Order made by the Minister under this section varying or revoking a previous Order made by the Minister under this section may contain such incidental, consequential and transitional provisions as the Minister considers expedient.
 (11) In any case where the Court is satisfied, on an application by or on behalf of the government of a designated country, that proceedings which might result in an external confiscation order or an external forfeiture order being made against a person have been instituted in the designated country and have not been concluded, Part VI shall have effect in relation to those proceedings as they would have effect in relation to proceedings instituted in Trinidad and Tobago against that person for a drug trafficking offence which has not been concluded.
 35B. (1) If any sum required to be paid by a person under a confiscation order is not paid when it is required to be paid that person shall be liable to pay interest on that sum for the period for which it remains unpaid and the amount of the interest shall for the purposes of enforcement be treated as part of the amount to be recovered from him under the confiscation order.
@@ -174,8 +177,8 @@ exceeding the amount assessed as the value referred to in subsection (1), as app
 fixed in respect of the confiscation order.
 35D. (1) The senior Customs Officer on duty at the port, at the time or a police officer of the rank of sergeant or higher may seize and, in accordance with this section, detain any cash which is being imported into or exported from Trinidad and Tobago if its amount is not less than the prescribed sum if he has reasonable grounds for suspecting that it directly or indirectly represents any person's proceeds of, or is intended by any person for use in, drug trafficking.
 (2) Cash seized by virtue of this section shall not be detained for more than ninety-six hours unless its continued detention is authorised detention authorised by an order made by a Magistrate and no such order shall be made unless the Magistrate is satisfied-
-(a) that there are reasonable grounds for the suspicion
-mentioned in subsection (1); and
+(a) that there are reasonable grounds for the
+suspicion mentioned in subsection (1); and
 (b) that continued detention of the cash is justified
 while its origin or derivation is further investigated or consideration is given to the institution, whether in Trinidad and Tobago or elsewhere, of criminal proceedings against any person for an offence with which the cash is connected.
 (3) Any order under subsection (2) shall authorise the continued detention of the cash to which it relates for such period, not exceeding three months beginning with the date of the order, as may be specified in the order and a Magistrate, if satisfied as to the matters mentioned in that subsection, may thereafter from time to time by order authorise the further detention of the cash but so that-
@@ -189,16 +192,15 @@ two years from the date of the order under subsection (2).
 (a) a Magistrate may direct its release if satisfied-
 (i) on application made by the person from
 whom it was seized or a person by or on whose behalf it was being imported or exported, that there are no, or are no longer, any such grounds for its detention as are mentioned in subsection (2); or
-(ii) on an application made by any other person,
-that detention of the cash is not for that or any other reason justified; and
-(b) the Comptroller of Accounts, may release the cash
-together with any interest that may have accrued, if satisfied that its detention is no longer justified but shall first notify the Justice of the Peace or Magistrate under whose order it is being detained.
+(ii) on an application made by any other
+person, that detention of the cash is not for that or any other reason justified; and
+(b) the Comptroller of Accounts, may release the
+cash together with any interest that may have accrued, if satisfied that its detention is no longer justified but shall first notify the Justice of the Peace or Magistrate under whose order it is being detained.
 (7) If at a time when any cash is being detained under this section-
 (a) an application for its forfeiture is made under
 this Act; or
 (b) proceedings are instituted, whether in Trinidad
-and Tobago or elsewhere, against any person for an offence with which the cash is connected,
-the cash shall not be released until any proceedings pursuant to the application or, as the case may be, the proceedings for that offence have been concluded.
+and Tobago or elsewhere, against any person for an offence with which the cash is connected, the cash shall not be released until any proceedings pursuant to the application or, as the case may be, the proceedings for that offence have been concluded.
 (8) In this section "the prescribed sum" means such sum in Trinidad and Tobago currency as may be prescribed for the purposes of this section by an Order made by the Minister to whom responsibility for National Security is assigned and in determining under this section whether an amount of currency other than Trinidad and Tobago currency is not less than the prescribed sum that amount shall be converted at the prevailing rate of exchange.
 (9) An Order made under subsection (8) shall be subject to negative resolution of Parliament.
 PART VI
@@ -207,16 +209,16 @@ RESTRAINT ORDERS
 (a) proceedings have been instituted against the
 defendant for a drug trafficking offence;
 (b) the proceedings have not been concluded; and
-(c) the Court is satisfied that there is reasonable cause
-to believe that the defendant has benefited from drug trafficking.
+(c) the Court is satisfied that there is reasonable
+cause to believe that the defendant has benefited from drug trafficking.
 (2) Those powers are also exercisable where the Court is satisfied-
-(a) that an information is to be laid that a person has
-committed, or is suspected of having committed, a drug trafficking offence; and
+(a) that an information is to be laid that a person
+has committed, or is suspected of having committed, a drug trafficking offence; and
 (b) that there is reasonable cause to believe that he
 has benefited from drug trafficking.
 (3) For the purposes of sections 37 and 38, at any time when those powers are exercisable before proceedings have been instituted-
 (a) references in this Act to the defendant shall be
-construed as references to the person referred in subsection (2)(a);
+construed as references to the person referred to in subsection (2)(a);
 (b) references in this Act to the prosecutor shall be
 construed as references to the person who the Court is satisfied is to have the conduct of the proposed proceedings; and
 (c) references in this Act to realisable property shall
@@ -228,15 +230,15 @@ be construed as if, immediately before that time, proceedings had been institute
 (a) to all realisable property held by a specified
 person, whether the property is described in the order or not; and
 (b) to realisable property held by a specified person,
-being property transferred to him after making of the order.
+being property transferred to him after the making of the order.
 (3) This section shall not have effect in relation to any property for the time being subject to a charge under section 38.
 (4) A restraint order-
 (a) may be made only on an application by the
 Director of Public Prosecutions;
 (b) may be made on an ex parte application to a
 Judge in Chambers; and
-(c) shall provide for the notice to be given to persons
-affected by the order.
+(c) shall provide for the notice to be given to
+persons affected by the order.
 (5) A restraint order-
 (a) may be discharged or varied in relation to any
 property; and
@@ -262,8 +264,8 @@ amount not exceeding the amount payable under the confiscation order.
 (3) A charging order-
 (a) may be made only on an application by the
 Director of Public Prosecutions;
-(b) may be made on an ex parte application to a Judge
-in Chambers;
+(b) may be made on an ex parte application to a
+Judge in Chambers;
 (c) shall provide for notice to be given to persons
 affected by the order; and
 (d) may be subject to such conditions as the Court
@@ -274,8 +276,8 @@ interest held beneficially by the defendant or by a person to whom the defendant
 (i) in any asset of a kind mentioned in
 subsection (5); or
 (ii) under any trust; or
-(b) any interest in realisable property held by a person
-as trustee of a trust if the interest is in such an asset or is an interest under another trust and a charge may by virtue of paragraph (a) be imposed by a charging order on the whole beneficial interest under the first mentioned trust.
+(b) any interest in realisable property held by a
+person as trustee of a trust if the interest is in such an asset or is an interest under another trust and a charge may by virtue of paragraph (a) be imposed by a charging order on the whole beneficial interest under the first mentioned trust.
 (5) The assets referred to in subsection (4) are-
 (a) land in the Territory; or
 (b) securities of any of the following kinds-
@@ -284,8 +286,8 @@ as trustee of a trust if the interest is in such an asset or is an interest unde
 the Territory;
 (iii) securities of any body incorporated
 outside the Territory or of any country or territory outside the Territory being stock registered in a register kept at any place within the Territory;
-(iv) units of any unit trust in respect of which a
-register of the unitholders is kept at any place within the Territory;
+(iv) units of any unit trust in respect of which
+a register of the unitholders is kept at any place within the Territory;
 (v) foreign securities transferable by delivery
 which are in the Territory.
 (6) In any case where a charge is imposed by a charging order on any interest in an asset of a kind mentioned in subsection (5)(b), the Court may provide for the charge to extend to any interest or dividend payable in respect of the asset.
@@ -300,12 +302,12 @@ subparagraph (a), section 37 or in pursuance of a charging order-
 section 38 on realisable property or on interest or dividends payable in respect of such property;
 (ii) in relation to any realisable property
 other than property for the time being subject to a charge under section 38, to take possession of the property subject to such conditions or exceptions as may be specified by the Court;
-(c) order any person having possession of realisable
-property to give possession of it to any such receiver;
+(c) order any person having possession of
+realisable property to give possession of it to any such receiver;
 (d) empower any such receiver to realise any
 realisable property in such manner as the Court may direct;
-(e) order any person holding an interest in realisable
-property to make such payment to the receiver in respect of any beneficial interest held by the defendant or, as the case may be, the recipient of a gift caught by this Act as the Court may direct and, on the payment being made, by order, transfer, grant or extinguish any interest in the property.
+(e) order any person holding an interest in
+realisable property to make such payment to the receiver in respect of any beneficial interest held by the defendant or, as the case may be, the recipient of a gift caught by this Act as the Court may direct and, on the payment being made, by order, transfer, grant or extinguish any interest in the property.
 (2) Subsection (1)(c) to (e) do not apply to property for the time being subject to a charge under section 38.
 (3) The Court shall not in respect of any property exercise the powers conferred by paragraph (b)(i), (d) or (e) of subsection (1) unless a reasonable opportunity has been given for persons holding any interest in the property to make representations to the Court.
 40. (1) Subject to subsection (2), the following sums in the hands of a receiver appointed under section 37 or 39 or in pursuance of a charging order, that is-
@@ -317,8 +319,8 @@ enforcement of such a charge, of any property under section 37 or 38; and
 defendant, shall, after such payments, if any, as the Court may direct, have been made out of those sums, be applied on the defendant's behalf towards the satisfaction of the confiscation order.
 (2) If, after the amount payable under the confiscation order has been fully paid, any sums remain in the hands of the receiver, the receiver shall distribute those sums among such of those who held property which has been realised under this Act, and in such proportions as the Court may direct after giving reasonable opportunity for such persons to make representations to the Court.
 (3) The receipt of any sum by the Court on account of an amount payable under a confiscation order shall reduce the amount so payable, but the sum shall be applied as follows:
-(a) if paid by a receiver under subsection (1), it shall
-first be applied in payment of his remuneration and expenses;
+(a) if paid by a receiver under subsection (1), it
+shall first be applied in payment of his remuneration and expenses;
 (b) subject to paragraph (a), it shall be applied in
 reimbursement of any sums paid by the State under section 45(2), and the balance shall be treated as if it were a fine imposed by the Court.
 41. (1) This section applies to the powers conferred on the Court by sections 37 to 40, or on a receiver appointed under section 37 or 39 or in pursuance of a charging order.
@@ -342,13 +344,13 @@ detention in respect of the amount to be recovered under the order such shorter 
 (a) property for the time being subject to a restraint
 order made before the order adjudging him bankrupt; and
 (b) any proceeds of property realised by virtue of
-section 37(7) or 39(1)(f) or (g) for the time being in the hands of a receiver appointed under section 37 or 39, are excluded from the bankrupt's estate for the purpose of the Bankruptcy Act.
+section 37(7) or 39(1)(d) or (e) for the time being in the hands of a receiver appointed under section 37 or 39, are excluded from the bankrupt's estate for the purpose of the Bankruptcy Act.
 (2) Where a person has been adjudged bankrupt, the powers conferred on the Court by sections 37 to 40 shall not be exercised in relation to property for the time being comprised in the bankrupt's estate for the purpose of sections 37 to 40.
 44. (1) Where realisable property is held by a company and an order for the winding up of the company has been made or a resolution has been passed by the company for the voluntary winding up, the functions of the liquidator shall not be exercisable in relation to-
 (a) property for the time being subject to a restraint
 order made before the relevant time; and
 (b) any proceeds of property realised by virtue of
-section 37(7) or 39(1)(f) or (g) for the time being in the hands of a receiver appointed under section 37 or 38, but there shall be payable out of such property any expenses, including the remuneration of the liquidator, properly incurred in the winding up in respect of the property.
+section 37(7) or 39(1)(d) or (e) for the time being in the hands of a receiver appointed under section 37 or 38, but there shall be payable out of such property any expenses, including the remuneration of the liquidator, properly incurred in the winding up in respect of the property.
 (2) Where, in the case of a company, such an order has been made or such a resolution has been passed, the powers conferred on the Court by sections 37 to 40 or on a receiver so appointed shall not be exercised in relation to which the functions of the liquidator are exercisable-
 (a) so as to inhibit him from exercising those
 functions for the purpose of distributing any property held by the company to the company's creditors; or
@@ -358,8 +360,8 @@ of expenses, including the remuneration of the liquidator, properly incurred in 
 (4) Nothing in the Companies Act shall be taken as restricting or enabling the restriction of the exercise of powers under this section.
 (5) In this section- "company" means any company which may be wound up under
 the Companies Act; and "the relevant time" means-
-(a) where no order for the winding up of the company
-has been made, the time of the passing of the resolution for voluntary winding up;
+(a) where no order for the winding up of the
+company has been made, the time of the passing of the resolution for voluntary winding up;
 (b) where such an order has been made and, before
 the presentation of the petition for the winding up of the company by the Court, such a resolution had been passed by the company, the time of the passing of the resolution; and
 (c) in any other case where such an order has been
@@ -381,23 +383,23 @@ convictions for any drug trafficking offence, or
 trafficking offences the convictions concerned are quashed, and no conviction for any drug trafficking offence is substituted, the Court may, on an application by a person who held property which was realisable property, order compensation to be paid to the applicant, if having regard to all the circumstances, it considers it appropriate to make such an order.
 (2) The Court shall not order compensation to be paid in any case unless the Court is satisfied-
 (a) that there has been some serious default on the
-part of a person concerned in the investigation or prosecution of the offence or offences concerned, and that, but for the default, the proceedings would not have been instituted or continued, and
+part of a person concerned in the investigation or prosecution of the offence or offences concerned, and that, but for the default, the proceedings would not have been instituted or continued;
 (b) that the applicant has suffered substantial loss in
 consequence of anything done in relation to the property by or in pursuance of an order of the
-Court under sections 37 to 39;
-(c) that the proceedings would have, been instituted
+Court under sections 37 to 39; or
+(c) that the proceedings would have been instituted
 or continued if the serious default had not occurred.
 (3) The amount of compensation to be paid under this section shall be such as the Court thinks just in all the circumstances of the case.
 47. (1) A person is guilty of an offence if he-
 (a) conceals or disguises any property which is, or
 which, in whole or in part directly or indirectly represents, his proceeds of drug trafficking; or
-(b) converts, transfers or disposes of that property or
-removes it from the jurisdiction,
+(b) converts, transfers or disposes of that property
+or removes it from the jurisdiction,
 for the purpose of avoiding prosecution for a drug trafficking offence or the making or enforcement in his case of a confiscation order or a forfeiture order.
 (2) A person is guilty of an offence if, knowing or having reasonable grounds to suspect that any property is, or in whole or in part directly or indirectly represents, another person's proceeds of drug trafficking, he-
 (a) conceals or disguises that property; or
-(b) converts, transfers or disposes of that property or
-removes it from the jurisdiction,
+(b) converts, transfers or disposes of that property
+or removes it from the jurisdiction,
 for the purpose of assisting any person to avoid prosecution for a drug trafficking offence or the making or enforcement of a confiscation order or a forfeiture order.
 (3) A person is guilty of an offence who conceals, disposes, disguises, transfers, brings into Trinidad and Tobago or removes from Trinidad and Tobago any money or other property knowing or having reasonable grounds to suspect that the money or other property is derived, obtained or realised, directly or indirectly from drug trafficking.
 (4) A person is guilty of an offence if, knowing or having reasonable grounds to suspect that any money or other property is, or in whole or in part directly or indirectly represents another person's proceeds of drug trafficking, he receives, possesses or converts that money or other property.
@@ -414,7 +416,7 @@ on his initiative and as soon as it is reasonable for him to make it.
 (a) he intended to disclose to a police officer such a
 suspicion, belief or matter as is mentioned in subsection (7); and
 (b) there is reasonable excuse for his failure to
-make the disclosure in accordance with subsection (7)(b).
+make the disclosure in accordance with subsection (7).
 (11) In the case of a person who was in employment at the relevant time, subsections (7) and (9) shall have effect in relation to disclosures and intended disclosures to the appropriate person in accordance with the procedure established by his employer for the making of such disclosures as they have effect in relation to disclosures, and intended disclosures, to a police officer.
 (12) No police officer or other person shall be guilty of an offence under this section in respect of anything done by him in the course of acting in connection with the enforcement, or intended enforcement, of any provision of this Act or of any written law relating to drug trafficking or the proceeds of such trafficking, if the Court is satisfied that the act was done in good faith and there were reasonable grounds for doing it.
 (13) A person guilty of an offence under this section is liable-
@@ -433,7 +435,7 @@ take away;
 (ii) give a police officer access to it; or
 (b) that the person being a relative or associate of
 such person shall within such period as the order may specify make a statutory declaration-
-(i) identiying each item of property, whether
+(i) identifying each item of property, whether
 within or outside the Territory, belonging to or possessed by such person;
 (ii) identifying each property sent out of the
 Territory by such persons during such period as may be specified in the notice;
@@ -452,12 +454,13 @@ by itself or together with other material, to the investigation for the purpose 
 (ii) the material does not consist of or include
 items subject to legal privilege or excluded material; and
 (c) that there are reasonable grounds for believing
-that it is in the public interest, having regard-
-(i) to the benefit likely to accrue to the
+that it is in the public interest, having regard to-
+(i) the benefit likely to accrue to the
 investigation if the material is obtained or the declaration made; and
-(ii) to the circumstances under which the
-person in possession of the material holds it, or the relationship or dealings of the person required to make the declaration with the specified person referred to in subparagraph (a), that the material should be produced or that access to it should be given or that the declarations be made.
-(5) Where the Judge makes an order under subsection (2)(b) in relation to material on any premises, he may, on the application of a police officer, order any person who appears to him to be entitled to grant entry to the premises, to allow a police officer to enter the premises to obtain access to the material.
+(ii) the circumstances under which the person
+in possession of the material holds it, or the relationship or dealings of the person required to make the declaration with the specified person referred to in subparagraph (a), that the material should be produced or that access to it should be given or that the declarations be made.
+(5) Where the Judge makes an order under subsection
+(2)(b) in relation to material on any premises, he may, on the application of a police officer, order any person who appears to him to be entitled to grant entry to the premises, to allow a police officer to enter the premises to obtain access to the material.
 (6) Provision may be made by Rules of Court as to-
 (a) the discharge and variation of orders under this
 section; and
@@ -477,10 +480,10 @@ possession of a government department.
 (9) In this section- "associate" in relation to a person includes-
 (a) any person who was or is residing in the
 residential premises (including appurtenances) of such person;
-(b) any person who was or is an agent or nominee of
-such person;
-(c) any person who was or is managing the affairs of
-keeping the accounts of such person;
+(b) any person who was or is an agent or nominee
+of such person;
+(c) any person who was or is managing the affairs
+of keeping the accounts of such person;
 (d) any partnership firm of which such person, or
 agent or nominee of his, is or was a partner or a person in charge or control of its business or affairs;
 (e) any company within the meaning of the
@@ -491,8 +494,8 @@ of any partnership firm or corporation referred to in paragraph (d) or (e);
 (i) the trust was created by such person; or
 (ii) the total value of the assets contributed by
 such person to the trust at any time, whether before or after the creation of the trust, amounts, or had amounted, at any time, to not less than twenty per centum of the total value of the assets of the trust;
-(h) any person who has in his possession any property
-belonging to such person; and
+(h) any person who has in his possession any
+property belonging to such person; and
 (i) any person who is indebted to such person; "relative", in relation to a person, means-
 (a) spouse of the person;
 (b) brother or sister of the person;
@@ -514,16 +517,16 @@ fulfilled; or
 (3) The conditions referred to in subsection (2)(b) are-
 (a) that there are reasonable grounds for suspecting
 that a specified person has carried on or has benefited from drug trafficking;
-(b) that the conditions in section 48(4)(b) and (c) are
-fulfilled in relation to any material on the premises; and
+(b) that the conditions in section 48(4)(b) and (c)
+are fulfilled in relation to any material on the premises; and
 (c) that it would not be appropriate to make an
 order under that section in relation to the material because-
 (i) it is not practicable to communicate with
 any person entitled to produce the material;
-(ii) it is not practicable to communicate
-with any person entitled to grant access to the material or entitled to grant entry to the premises on which the material is situated; or
-(iii) the investigation for the purposes of which
-the application is made might be seriously prejudiced unless a police officer could secure immediate access to the material.
+(ii) it is not practicable to communicate with any
+person entitled to grant access to the material or entitled to grant entry to the premises on which the material is situated; or
+(iii) the investigation for the purposes of
+which the application is made might be seriously prejudiced unless a police officer could secure immediate access to the material.
 (4) The conditions referred to in subsection (2)(c) are-
 (a) that there are reasonable grounds for suspecting
 that a specified person has carried on or has benefited from drug trafficking; and
@@ -534,8 +537,8 @@ that there is on the premises material relating to the specified person or to dr
 any person entitled to grant entry to the premises;
 (ii) entry to the premises will not be granted
 unless a warrant is produced; or
-(iii) the investigations for the purpose of which
-the application is made might be seriously prejudiced unless a police officer arriving at the premises could secure immediate entry to them.
+(iii) the investigations for the purpose of
+which the application is made might be seriously prejudiced unless a police officer arriving at the premises could secure immediate entry to them.
 (5) Where a police officer has entered premises in the execution of a warrant issued under this section, he may seize and retain any material, other than items subject to legal privilege and excluded material, which is likely to be of substantial value, whether by itself or together with other material, to the investigation for the purpose of which the warrant was issued.
 (6) The person to whom a search warrant is issued shall furnish a report in writing to the Judge who issued the warrant-
 (a) stating whether or not the warrant was executed;
@@ -543,7 +546,7 @@ the application is made might be seriously prejudiced unless a police officer ar
 the result of the execution of the warrant including a brief description of anything seized;
 (c) if the warrant was not executed, setting out briefly
 the reasons why the warrant was not executed.
-(7) A report with respect to a search warrant shall be made within ten days after the execution of the warrant or the expiry of the warrant whichever first occurs and if the Judge who issued the search warrant died, has ceased to be a Judge or is absent, the report shall be furnished to the Chief Justice.
+(7) Areport with respect to a search warrant shall be made within ten days after the execution of the warrant or the expiry of the warrant whichever first occurs and if the Judge who issued the search warrant died, has ceased to be a Judge or is absent, the report shall be furnished to the Chief Justice.
 50. (1) Subject to subsection (2), in sections 48 and 49 "items subject to legal privilege" means-
 (a) communications between a professional legal
 adviser and his client made in connection with the giving of legal advice to the client;
@@ -558,8 +561,8 @@ legal proceedings and for the purposes of such proceedings,
 when they are in the possession of a person who is entitled to possession of them.
 (2) Items held with the intention of furthering a criminal purpose are not items subject to legal privilege.
 (3) Subject to subsections (4) and (5), in sections 48 and 49 "excluded material" means-
-(a) personal records which a person has acquired or
-created in the course of any trade; business, profession or other occupation or for the purposes of any paid or unpaid office and which he holds in confidence;
+(a) personal records which a person has acquired
+or created in the course of any trade, business, profession or other occupation or for the purposes of any paid or unpaid office and which he holds in confidence;
 (b) human tissue or tissue fluid which has been taken
 for the purpose of diagnosis or medical treatment and which a person holds in confidence;
 (c) journalistic material which a person holds in
@@ -590,8 +593,8 @@ sections 37(1) and 41(1) are exercisable by virtue of section 36(1); or
 (b) those powers are exercisable by virtue of
 section 36(2) and the Court has made a restraint or charging order which has not been discharged, but where the power to make an order under subsection (1) is exercisable by virtue only of paragraph (b), section 36(3) shall apply for the purposes of this section as it applies for the purposes of sections 37 and 38.
 (3) The material referred to in subsection (1) is any material which-
-(a) has been submitted to an officer of a government
-department by the defendant or by a person who has at any time held property which was realisable property;
+(a) has been submitted to an officer of a
+government department by the defendant or by a person who has at any time held property which was realisable property;
 (b) has been made by an officer of a government
 department in relation to the defendant or a person, referred to in paragraph (a); or
 (c) is correspondence which passed between an
@@ -620,8 +623,8 @@ within the period referred to in subsection (1), shall report the reasons for th
 (2) In proceedings against a person for an offence under this section, it is a defence to prove-
 (a) that he did not know or suspect that the disclosure
 was likely to prejudice the investigation; or
-(b) that he had lawful authority or reasonable excuse
-for making the disclosure.
+(b) that he had lawful authority or reasonable
+excuse for making the disclosure.
 (3) A person who is guilty of an offence under this section shall be liable-
 (a) on summary conviction to a fine of two thousand
 dollars and to imprisonment for two years; and
@@ -638,8 +641,8 @@ commission of a drug trafficking offence; or
 of committing a drug trafficking offence, the Court may make an order for forfeiture of that property under this section.
 (2) Facilitating, the commission of an offence shall be taken for the purpose of this section to include the taking of any steps after it has been committed for the purpose of disposing of any property to which it relates or of avoiding apprehension or detection.
 (3) Where, upon application made by the Director of Public Prosecutions, the Court determines that property identified in the application constitutes the proceeds of drug trafficking and is satisfied that the property-
-(a) forms part of or represents the estate of a deceased
-person; or
+(a) forms part of or represents the estate of a
+deceased person; or
 (b) has been abandoned, the Court may make an order for forfeiture of that property under this section.
 (4) In making its determination-
 (a) under subsection (3)(a) the Court shall consider
