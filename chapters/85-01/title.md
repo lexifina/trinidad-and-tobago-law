@@ -1,13 +1,13 @@
 FISCAL INCENTIVES ACT
 CHAPTER 85:01
 Act
-22 of 1979 Amended by *11 of 1984 14 of 1994
+22 of 1979 Amended by *11 of 1984 14 of 1994 21 of 2005 2 of 2006 17 of 2007
 *See Note on page 2
 Note on Subsidiary Legislation
 The following Subsidiary Legislation made under the Act are omitted:
 (a) Orders made under section 4 (Declaring Approved Products).
-(b) Orders made under section 6 (Declaring Relief from Income Tax on Dividends
-of Approved Products).
+(b) Orders made under section 6 (Declaring Relief from Income Tax on
+Dividends of Approved Products).
 (c) Orders made under section 10 (Declaring an Enterprise to be an Approved
 Enterprise).
 (d) Orders made under section 11 (with respect to Orders made under section 10).
@@ -42,12 +42,13 @@ Customs duty.
 22. Restriction on sale or other disposal of certain articles.
 PART IV
 CORPORATION TAX PROVISIONS
-23. Deduction for capital expenditure. 24. Losses may be carried forward for the purpose of set-off. 25. Allowances to be taken into account in computing profits for purpose
-of relief from corporation tax.
+23. Deduction for capital expenditure. 24. Losses may be carried forward for the purpose of set-off. 25. Allowances to be taken into account in computing profits for
+purpose of relief from corporation tax.
+(Repealed by Act No. 2 of 2006). 25A.
 26. Profits for accounting period to be apportioned. 27. Allocation of outgoings and expenses.
 PART V
 MISCELLANEOUS
-28. Restriction on use of factory. 29. Transitional. 30. President or Minister to have absolute discretion. 31. Regulations.
+28. Restriction on use of factory. 29. Transitional. 30. President or Minister to have absolute discretion. 31. Regulations. 32. Application of Act.
 FIRST SCHEDULE. SECOND SCHEDULE. THIRD SCHEDULE.
 
 CHAPTER 85:01
