@@ -1,0 +1,19 @@
+# FORM 9A
+REPUBLIC OF TRINIDAD AND TOBAGO
+IMMIGRATION REGULATIONS
+(To be prepared in triplicate)
+NOTICE OF APPEAL TO THE MINISTER AGAINST
+DECISION OF SPECIAL INQUIRY OFFICER
+TAKE NOTICE that I, ... of ...
+(last place of residence)
+being aggrieved by the decision of a Special Inquiry Officer hereby appeal to the Minister from the deportation order made against me by the said Special Inquiry Officer ... at ...on the ... day of ..., 20...
+AND TAKE FURTHER NOTICE that (a) all notices and papers in connection with the appeal may be sent to me at the following address: ... and
+(b) I wish/do not wish to make representations in this matter...
+Dated at ... this ... day of ..., 20...
+...
+Appellant
+Service hereof acknowledged this ... day of ..., 20... at ... a.m./p.m.
+...
+Immigration Officer
+Immigration Regulations
+- Margin: [Regulations 26(1), 30(1) and 42].

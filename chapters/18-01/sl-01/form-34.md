@@ -1,0 +1,14 @@
+# FORM 34
+REPUBLIC OF TRINIDAD AND TOBAGO
+IMMIGRATION REGULATIONS
+APPLICATION FOR STUDENT'S PERMIT
+To the Chief Immigration Officer
+I, ... Born at ... on ... holder of ... Passport No... issued at ... on ... and valid until ... in which my national status is given as ... and now residing at ... hereby make application for a Student's Permit valid until ...
+2. I have been accepted for admission to- ...
+I expect to remain as a student for a period of ... years. 3. I attach the required documentary proof of my acceptance as a student.
+State offences (other than traffic offences) of which applicant has been convicted, if any, and give the date of conviction in each case ...
+Date...
+Signature of Applicant or Signature of
+Responsible Parent or Guardian
+Immigration Regulations
+- Margin: [Regulation 9(6)(b)].

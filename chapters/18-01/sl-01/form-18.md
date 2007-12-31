@@ -1,0 +1,14 @@
+# FORM 18
+REPUBLIC OF TRINIDAD AND TOBAGO
+IMMIGRATION REGULATIONS
+ADMISSION OF BREACHES OF IMMIGRATION ACT
+AND REGULATIONS IN ACCORDANCE WITH
+SECTION 42(4)
+I admit that ... contrary to section/regulation ... of Immigration Act/Regulations ... Dated this ... day of..., 20...
+Signed ... in the presence of ...
+...
+Signature of Witness
+Fined:
+Paid ...
+Immigration Regulations
+- Margin: (Regulation 58).
