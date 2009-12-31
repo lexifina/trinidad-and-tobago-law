@@ -4,9 +4,14 @@ Act
 7 of 2006
 Amended by
 13 of 2007
+5-46 .. 1/2009
+49-100 .. 1/2009
+103-128 .. 1/2009
+131-162 .. 1/2009
 Index of Subsidiary Legislation
 Page
-Police Service Regulations (LN 145/2007) … … … 43
+Police Service Regulations (LN 145/2007) … … … 43 Police Service (Recruitment of Special Reserve Police) Regulations
+(LN 175/2008) ... 163
 Note on Subsidiary Legislation
 For Resolution affirming the Police Service Regulations (LN 145/2007) See LN 111/2007.
 Note on Omission
@@ -31,7 +36,7 @@ POLICE OFFICERS
 17A. Promotional assessment process.
 18. Promotion Advisory Board.
 ARRANGEMENT OF SECTIONS-Continued SECTION
-19. Function of the Board. 20. Promotion in Second Division. 21. Appointment or promotion on probation. 22. Contract officers.
+19. Functions of the Board. 20. Promotion in Second Division. 21. Appointment or promotion on probation. 22. Contract officers.
 PART V
 DISCIPLINE
 23. Disciplinary powers.

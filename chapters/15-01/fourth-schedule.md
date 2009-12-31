@@ -12,4 +12,4 @@ A POLICE ASSOCIATION
 9. The powers, duties and functions of the Executive Committee of the Association.
 10. Method to resolve disputes between the members of the Association and the members of the Executive Committee.
 11. Prohibition against admission to membership with respect to a police officer who is a member of an appropriate recognised association.
-- Margin: [Section 36(1)].
+- Margin: Section 36(1).

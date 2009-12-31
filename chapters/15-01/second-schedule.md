@@ -2,4 +2,4 @@
 OFFICES IN THE SECOND DIVISION OF
 THE POLICE SERVICE
 Inspector Sergeant Corporal Constable
-- Margin: [Section 7(3)].
+- Margin: Section 7(3).
