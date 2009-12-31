@@ -1,3 +1,3 @@
-EXCISE DUTY (OTHER MALT BEVERAGE) ORDER
+EXCISE DUTY (EDIBLE OIL) ORDER
 made under section 13(2)
-- Margin: *119/1973.
+- Margin: *9/1989.
