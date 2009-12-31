@@ -24,6 +24,13 @@ I certify that no threat, promise or other form of inducement has been held out 
 Signed ...
 (Signature of Offender)
 - Margin: Section 9. [26 of 1989].
-- Margin: 71/1956. *117/1959. 146/1982. 6 of 1991.
-- Margin: 142/1967. 6 of 1991.
+- Margin: 71/1956. *117/1959. [146/1982. 6 of 1991].
+- Margin: 142/1967. [6 of 1991].
 - Margin: Ch. 87:54.
+- Margin: 58/1957.
+- Margin: Citation.
+- Margin: Interpretation.
+- Margin: Ch. 87:52.
+- Margin: Ch. 87:54.
+- Margin: Rum and gin.
+- Margin: Beer.
