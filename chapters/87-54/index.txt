@@ -188,7 +188,6 @@ sl-04/r-11.md
 sl-04/r-12.md
 sl-04/r-13.md
 sl-04/r-14.md
-sl-04/r-15.md
 sl-04/schedule-a.md
 sl-04/schedule-b.md
 sl-05/title.md
@@ -197,6 +196,4 @@ sl-05/r-2.md
 sl-05/r-3.md
 sl-05/r-4.md
 sl-05/r-5.md
-sl-05/r-8.md
-sl-05/r-9.md
-sl-05/r-10.md
+sl-05/r-7.md

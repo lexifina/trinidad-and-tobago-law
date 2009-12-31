@@ -8,8 +8,7 @@ METHYLATION
 PART II
 KEEPING, SALE, DELIVERY AND
 REMOVAL OF METHYLATED SPIRITS
-8. Application. 9. Persons authorised to receive.
-10. Directions for keeping stock of methylated spirits. 11. Copy of Regulations and Act to be exhibited. 12. Vessels in which methylated spirits may be kept. 13. Stock account. 14. How stock account to be kept. 15. Bonds. 16. Hours for removal. 17. Permits and certificates to be kept for one year. 18. Methylated spirits may not be watered.
+8. Application. 9. Persons authorised to receive. 10. Directions for keeping stock of methylated spirits. 11. Copy of Regulations and Act to be exhibited. 12. Vessels in which methylated spirits may be kept. 13. Stock account. 14. How stock account to be kept. 15. Bonds. 16. Hours for removal. 17. Permits and certificates to be kept for one year. 18. Methylated spirits may not be watered.
 PART III
 PENALTY FOR OFFENCES
 19. Penalties.
@@ -17,4 +16,4 @@ SCHEDULE A. SCHEDULE B.
 [Subsidiary]
 METHYLATED SPIRITS REGULATIONS
 made under section 126
-- Margin: 11.1.34. [91/1967 250/1971 59/1975 80/1978 67/1983 239/1990 120/1996 110/2002 227/2004].
+- Margin: 11.1.34. [91/1967 250/1971 59/1975 80/1978 67/1983 239/1990 120/1996 110/2002 227/2004 5/2009].
