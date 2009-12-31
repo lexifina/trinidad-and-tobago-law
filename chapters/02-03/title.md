@@ -6,7 +6,8 @@ Amended by
 44 of 1976
 17 of 2007
 21 of 2007
-1-22 .. 1/2009
+4 of 2008
+13-20 .. 1/2009
 Index of Subsidiary Legislation
 Page Retiring Allowances (Legislative Service) Regulations (GN 234/1971) … 18
 Note on Adaptation
@@ -28,7 +29,7 @@ SCHEDULE.
 CHAPTER 2:03
 RETIRING ALLOWANCES (LEGISLATIVE SERVICE) ACT
 An Act to provide retiring allowances, on a contributory basis,
-to persons who have served as members of the House of R e p resentatives, or in certain parliamentary offices to p rovide allowances for the widows and children of such persons and to provide for matters connected with or incidental to the foregoing purposes.
+to persons who have served as members of the House of Representatives, or in certain parliamentary offices to provide allowances for the widows and children of such persons and to provide for matters connected with or incidental to the foregoing purposes.
 [1ST JANUARY 1969]
 - Margin: 24 of 1969.
-- Margin: C o m m e n c e m e n t.
+- Margin: Commencement.
