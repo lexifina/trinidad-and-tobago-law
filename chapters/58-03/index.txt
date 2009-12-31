@@ -34,3 +34,5 @@ s-32.md
 s-33.md
 s-34.md
 s-35.md
+schedule-i.md
+schedule-ii.md
