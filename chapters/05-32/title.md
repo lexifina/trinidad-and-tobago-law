@@ -2,9 +2,9 @@ MEDIATION ACT
 CHAPTER 5:32
 Act
 8 of 2004
-Note on Subsidiary Legislation
-This Chapter contains no subsidiary legislation.
-CHAPTER 5:32
+1-16 .. 17-32 .. 1/2006 33-50 .. Index of Subsidiary Legislation
+Page
+… … … 34 Community Mediation Regulations (LN 62/2008) CHAPTER 5:32
 MEDIATION ACT
 ARRANGEMENT OF SECTIONS
 SECTION
@@ -16,7 +16,7 @@ PART II
 THE MEDIATION BOARD
 3. Establishment of Mediation Board. 4. Appointment, composition and quorum. 5. Functions and powers.
 THE REGISTERS
-6. Mediation Board to maintain Registers. 7. Procedure for entry of a name on a register. 8. Registration of mediators trained under certain programmes. 9. Approved Mediation agencies.
+6. Mediation Board to maintain registers. 7. Procedure for entry of a name on a register. 8. Registration of mediators trained under certain programmes. 9. Approved Mediation Agencies.
 PART III
 CONFIDENTIALITY AND RELATED MATTERS
 10. Confidentiality. 11. Non-disclosure of confidential information. 12. Immunity from suit. 13. Admissibility of evidence.
