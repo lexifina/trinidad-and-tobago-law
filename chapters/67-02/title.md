@@ -3,6 +3,7 @@ CHAPTER 67:02
 Act
 19 of 1954 Amended by
 6 of 1963 15/1955 102/1977 45 of 1979 17 of 1997
+1-2 .. 3-88 .. 1/2006 89-90 .. 91-102 .. 1/2006 103-109 ..
 Index of Subsidiary Legislation
 Page Equine Influenza (Infected Places) Orders: [LN 30/1986-(Santa Rosa Paddock)] ... 18 [LN 31/1986-(Queen's Park Paddock)] ... 18 [LN 32/1986-(Union Park Paddock)] ... 19 [LN 57/1994-(Paradise Farm, Carapo)]... 19 [LN 58/1994-(Trinidad Race Club Santa Rosa Park, O'Meara)] … 20 [LN 59/1994-(Highclaire Stud Farm, Ragoonanan Road, Enterprise)] … 20 Diseases of Animals (Veterinary Export Certificates) Regulations (GN 128/1949) ... 21 Fowl Pest Order (GN 164/1952) ... 22 Anthrax Regulations (GN 28/1955) ... 31 Swine Fever Regulations (GN 29/1955) ... 38 Epizootic Abortion Regulations (GN 30/1955) ... 44 Foot and Mouth Disease Regulations (GN 60/1955) … … … 45 Paralytic Rabies Regulations (GN 50/1956) ... 62 Equine Encephalomyelitis Regulations (GN 21/1960) … … … 66 Tuberculosis in Cattle and Goats Regulations (GN 15/1967) … … 69 Bovine Brucellosis or Contagious Abortion (Eradication) Regulations
 (LN 108/2003) ... 70 Amblyomma Variegatum (Prevention and Control) Regulations (LN 31/1998) ... 79 Importation of Frozen Carcases and Boiling of Animal Foodstuffs Regulations (G 24.12.31; GN 27/1955) ... 86 Animals (Importation) Control Regulations (GN 27/1955) … … 88 Importation of Poultry and Non-Poultry Products Permit Notice (LN 233/1986) ... 107 Poultry (Application of Act) Order (GN 16/1955) … … … 109
@@ -21,12 +22,12 @@ PRELIMINARY
 PART II
 CONTROL OF DISEASED, SUSPECTED OR INFESTED
 ANIMALS
-4. Segregation and notification of diseased or infested animals, etc. 5. Infected or infested places. 6. Infected or infested areas. 7. Defined port. 8. Slaughter of diseased, suspected or infested animals. 9. Disposal of animals.
-10. Straying of animals. 11. Compensation. 12. Order amending definition of disease. 13. Regulations.
+4. Segregation and notification of diseased or infested animals, etc. 5. Infected or infested places. 6. Infected or infested areas. 7. Defined port. 8. Slaughter of diseased, suspected or infested animals. 9. Disposal of animals. 10. Straying of animals. 11. Compensation. 12. Order amending definition of disease. 13. Regulations.
 PART III
 IMPORTATION
 14. Prohibition of importation of birds, etc. 15. Regulations controlling the importation of animals, etc. 16. Import licences for birds, etc. 17. Quarantine stations. 18. Imported animals, etc., to be quarantined.
-ARRANGEMENT OF SECTIONS-Continued SECTION
+ARRANGEMENT OF SECTIONS-Continued
+SECTION
 PART IV
 GENERAL
 19. Powers of apprehension. 20. Powers of Inspector. 21. Offences. 22. Penalty. 23. Regulations to be laid before Parliament. 24. Transport through infected or infested places and areas. 25. Power to apply Act to poultry. 26. Bees. 27. Saving.
@@ -121,10 +122,10 @@ destruction, disposal, seizure and detention of any animal or of carcases, fodde
 (d) the fees and expenses incurred for any
 purposes for which Regulations may be made under this section, and the persons to whom they are to be paid and the manner in which they may be recovered.
 (3) Regulations made under this section may prescribe in respect of any contravention thereof a penalty not exceeding five thousand dollars on summary conviction.
-16. (1) The Chief Technical Officer (Agriculture) may grant to any person a licence to import any bird, reptile or insect into Trinidad and Tobago, and may, notwithstanding anything contained in any regulations made under section 15, for the purposes of any exhibition, performance or circus, grant a licence to import any particular animal into Trinidad and Tobago.
+16. (1) The Chief Technical Officer (Agriculture) may grant to any person a licence to import any bird, reptile or insect into Trinidad and Tobago, and may, notwithstanding anything contained in any Regulations made under section 15, for the purposes of any exhibition, performance or circus, grant a licence to import any particular animal into Trinidad and Tobago.
 (2) Any licence granted under this section may contain such terms and conditions as the Chief Technical Officer (Agriculture) may think necessary.
 (3) Every person desirous of applying for a licence under this section shall make application to the Chief Technical Officer (Agriculture) in such form as such Officer may require.
-17. The Minister may by Order under this section appoint quarantine stations in such places as he may deem necessary and all animals, reptiles or insects, required to be quarantined under this Act or any regulations made, or licence granted thereunder, shall be placed within such stations in accordance with the directions of the Inspector.
+17. The Minister may by Order under this section appoint quarantine stations in such places as he may deem necessary and all animals, reptiles or insects, required to be quarantined under this Act or any Regulations made, or licence granted thereunder, shall be placed within such stations in accordance with the directions of the Inspector.
 18. All animals, reptiles and insects imported into Trinidad and Tobago shall, subject to any regulations made under this Act or to the terms and conditions of any licence granted under this Act, be placed in a quarantine station for such time and under such conditions as may be specified in the Regulations or in the licence.
 PART IV
 GENERAL
@@ -167,11 +168,10 @@ or infested place or infected or infested area, is guilty of an offence against 
 26. Nothing in this Act shall apply to bees.
 27. Notwithstanding the repeal of the Diseases of Animals
 
-(Poultry) Ordinance, Ch. 25 No. 10 by the Law Revision (Miscellaneous Amendments) (No. 1) Act 1979, the Fowl Pest Order, 1952-1953 made under section 3(2) of that Ordinance shall continue in force and have effect as if made under this Act.
+(Poultry) Ordinance, Ch. 25. No. 10 by the Law Revision (Miscellaneous Amendments) (No. 1) Act 1979, the Fowl Pest Order, 1952-1953 made under section 3(2) of that Ordinance shall continue in force and have effect as if made under this Act.
 *See GN 16/1955.
 SCHEDULE
-DISEASES WITHIN THE MEANING OF THIS ACT
-African Horse Sickness African Swine Fever Anaplasmosis Anthrax Babesiosis Blue Tongue Bovine Spongiform Encephalopathy Bovine Viral Diarrhea Brucellosis (Brucella abortus, Brucella suis, Brucella ovis, Brucella melitensis) Campylobacteriosis (C. fetus venerealis) Contagious Equine Metritis (T. equigenitalis) Contagious Pleuro-pneumonia Cowdriosis (Heartwater-C. ruminantium) Cysticercosis Dermatophilosis Duck Viral Enteritis Duck Viral Hepatitis Enzootic Lymphangitis Epizootic Bovine Abortion Equine Encephalomyelitis Equine Infectious Anemia Equine Rhinopneumonitis Foot and Mouth Disease Fowl Cholera (Pasteurella multocida) Fowl Typhoid (Salmonella gallinarum) Glanders Hemorrhagic Septicaemia Infectious Bovine Rhinotracheitis Infectious Laryngotracheitis Influenza (Avian and Equine) Leptospirosis Lumpy Skin Disease Malignant Catarrhal Fever Newcastle Disease (Velogenic, viscerotrophic) Ornithosis Paralytic Rabies Paratuberculosis (Johne's Disease) Peste des petits ruminants Porcine Reproductive and Respiratory Syndrome Pseudo Rabies (Aujeszky's Disease) Psittacosis Pullorum Disease (Salmonella pullorum) Rabies Rift Valley Fever Rinderpest Salmonellosis Scrapie Swine Fever (Hog Cholera) Swine Vesicular Disease Swine Vesicular Exanthema Theileriasis Trichomoniasis Trypanosomiasis (Dourine-T. equiperdum; Nagana-T. vivax; Surra-T. evansi) Tuberculosis Ulcerative Lymphangitis Variola Ovina or Sheep Pox Variola Vaccinia or Cow Pox Vesicular Stomatitis Viral Hemorrhagic Disease (rabbits)
+DISEASES WITHIN THE MEANING OF THIS ACT African Horse Sickness African Swine Fever Anaplasmosis Anthrax Babesiosis Blue Tongue Bovine Spongiform Encephalopathy Bovine Viral Diarrhea Brucellosis (Brucella abortus, Brucella suis, Brucella ovis, Brucella melitensis) Campylobacteriosis (C. fetus venerealis) Contagious Equine Metritis (T. equigenitalis) Contagious Pleuro-pneumonia Cowdriosis (Heartwater-C. ruminantium) Cysticercosis Dermatophilosis Duck Viral Enteritis Duck Viral Hepatitis Enzootic Lymphangitis Epizootic Bovine Abortion Equine Encephalomyelitis Equine Infectious Anemia Equine Rhinopneumonitis Foot and Mouth Disease Fowl Cholera (Pasteurella multocida) Fowl Typhoid (Salmonella gallinarum) Glanders Hemorrhagic Septicaemia Infectious Bovine Rhinotracheitis Infectious Laryngotracheitis Influenza (Avian and Equine) Leptospirosis Lumpy Skin Disease Malignant Catarrhal Fever Newcastle Disease (Velogenic, viscerotrophic) Ornithosis Paralytic Rabies Paratuberculosis (Johne's Disease) Peste des petits ruminants Porcine Reproductive and Respiratory Syndrome Pseudo Rabies (Aujeszky's Disease) Psittacosis Pullorum Disease (Salmonella pullorum) Rabies Rift Valley Fever Rinderpest Salmonellosis Scrapie Swine Fever (Hog Cholera) Swine Vesicular Disease Swine Vesicular Exanthema Theileriasis Trichomoniasis Trypanosomiasis (Dourine-T. equiperdum; Nagana-T. vivax; Surra-T. evansi) Tuberculosis Ulcerative Lymphangitis Variola Ovina or Sheep Pox Variola Vaccinia or Cow Pox Vesicular Stomatitis Viral Hemorrhagic Disease (rabbits)
 SUBSIDIARY LEGISLATION
 EQUINE INFLUENZA (INFECTED PLACES) ORDER
 made under section 5(4)
