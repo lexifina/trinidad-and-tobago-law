@@ -20,8 +20,8 @@ Page Central Tenders Board Regulations (GN 137/1965)… … … 25 Central Tende
 (LN 89/1992) ... 34 Central Tenders Board (SECT International) (Exclusion) Order (LN 45/1982) 45 Central Tenders Board (Functions and Duties) Order (LN 179/1997) … 46 Central Tenders Board (Contracts for the Lease of Computers and Computer
 Equipment) Order (LN 52/2002)... 47
 Note on the Ordinance before it was Revised
-INCREASE IN FINES - See Act No. 47 of 1979 which increased the fines in A. the Ordinance in accordance with paragraph 1(b), (c) and (d) of the Second Schedule to Act No. 44 of 1979.
-INCREASE IN MONETARY SUMS - See LN 51/1980 (Pages 551 to 552) for B. increases in monetary sums.
+A. INCREASE IN FINES - See Act No. 47 of 1979 which increased the fines in the Ordinance in accordance with paragraph 1(b), (c) and (d) of the Second Schedule to Act No. 44 of 1979.
+B. INCREASE IN MONETARY SUMS - See LN 51/1980 (Pages 551 to 552) for increases in monetary sums.
 Note on Act No. 45 of 1979
 See sections 6 and 7 of Act No. 45 of 1979.
 Note on Act No. 31 of 1980
@@ -41,11 +41,12 @@ ESTABLISHMENT, FUNCTIONS AND PROCEDURE
 OF THE BOARD
 4. Establishment of Board. 5. Composition of Board. 6. Officers of the Board. 7. Tenure of office. 8. Payment of remuneration to members of the Board and of the
 Committees.
-9. Filling of vacancies of the membership of the Board.
-10. Leave of absence of members of the Board. Acting Appointments.
+9. Filling of vacancies of the membership of the Board. 10. Leave of absence of members of the Board.
+Acting appointments.
 11. Chairman to preside over meetings. 12. Meetings of the Board. 13. Quorum. 14. Decisions of the Board. 15. Method of recording decisions of the Board. 16. Establishment of Committees of the Board.
 Duties and powers of Sub-Committees.
-17. Meetings of Committees. 18. Quorum. Decisions of Committees.
+17. Meetings of Committees. 18. Quorum.
+Decisions of Committees.
 19. Financial limits of Committee.
 ARRANGEMENT OF SECTIONS-Continued SECTION
 20. Request for invitation of officers to be in writing.
@@ -55,8 +56,7 @@ ARRANGEMENT OF SECTIONS-Continued SECTION
 24. Board to accept best offer. 25. Board to notify acceptance of offers. 26. Formal contract to be entered into. 27. Power of Board to require security.
 PART II
 APPOINTMENT OF CONSULTANTS
-27A. Interpretation. 27B. Additional functions of the Board. 27C. Board to keep register. 27D. Procedure for appointing consultants. 27E. Fees. 27F. Monthly reports.
-28. Disposal of surplus or unserviceable stores. 29. Custody and control of surplus and unserviceable articles. 30. Power of Board to consult officers and members of the public. 31. Offences. 32. Information to be confidential. 33. General or special directions of the Minister. 34. No personal liability shall attach to the Board. 35. Regulations. FIRST SCHEDULE. SECOND SCHEDULE. THIRD SCHEDULE. FOURTH SCHEDULE.
+27A. Interpretation. 27B. Additional functions of the Board. 27C. Board to keep register. 27D. Procedure for appointing consultants. 27E. Fees. 27F. Monthly reports. 28. Disposal of surplus or unserviceable stores. 29. Custody and control of surplus and unserviceable articles. 30. Power of Board to consult officers and members of the public. 31. Offences. 32. Information to be confidential. 33. General or special directions of the Minister. 34. No personal liability shall attach to the Board. 35. Regulations. FIRST SCHEDULE. SECOND SCHEDULE. THIRD SCHEDULE. FOURTH SCHEDULE.
 
 CHAPTER 71:91
 CENTRAL TENDERS BOARD ACT
