@@ -58,7 +58,7 @@ eastern corner of lands originally granted to Bascilla Coa on the north-eastern 
 EAST -From the last mentioned point proceeding in a generally
 southerly direction along the sea coast to the point at the North bank of the Dubloon River at its mouth.
 SOUTH -From the last mentioned point proceeding westwards along
-an imaginary straight line across Nariva Swamp to the point where Plum Mitan Road crosses the North bank of the Poole River; thence continuing in a generally westerly direction along the North bank of the Poole River to the point where it crosses the eastern boundary of the Central Range Reserve; thence proceeding westwards along an imaginary straight line passing across the Central Range Reserve (39706a. 2r. 34p.) to the point where the Guaico-Tamana Road meets Edwards Trace; thence southwards along Guaico-Tamana Road to the northern boundary of the Central Range Forest Reserve (40151a. 1r. 11p.) thence westwards along the northern boundary of the said Reserve to the point where it is crossed by the Cumuto Main Road.
+an imaginary straight line across Nariva Swamp to the point where Plum Mitan Road crosses the North bank of the Poole River; thence continuing in a generally westerly direction along the North bank of the Poole River to the point where it crosses the eastern boundary of the Central Range Reserve; thence proceeding westwards along an imaginary straight line passing across the Central Range Reserve (39,706a. 2r. 34p.) to the point where the Guaico-Tamana Road meets Edwards Trace; thence southwards along Guaico-Tamana Road to the northern boundary of the Central Range Forest Reserve (40,151a. 1r. 11p.) thence westwards along the northern boundary of the said Reserve to the point where it is crossed by the Cumuto Main Road.
 WEST -From the last mentioned point proceeding in a generally
 northerly direction along Cumuto Main Road to its junction with Tamana Road at the eastern boundary of the County of St. George (as described in section 2 of the Division of Trinidad Act, Ch. 26:01); thence proceeding in a generally northerly direction along the eastern boundary of the County of St. George to its north-eastern boundary (as described in section 2 of the Division of Trinidad Act, Ch. 26:01) on the sea coast at a point North of the north-eastern corner of lands originally to Bascilla Coa at the point of commencement. V. Name of Corporation:
 The Chairman, Aldermen, Councillors and
@@ -66,7 +66,7 @@ Electors of the Region of Mayaro/Rio Claro
 BOUNDARIES OF THE REGION OF MAYARO/RIO CLARO
 The Region of Mayaro/Rio Claro comprises of:
 NORTH -From the point where the Guaico-Tamana Road meets
-Edwards Trace proceeding eastwards along an imaginary straight line passing across the Central Range Reserve (39706a. 2r. 34p.) to the point where the north bank of the Poole River crosses the eastern boundary of the Central Range Reserve; thence in a generally easterly direction along the north bank of the Poole River to the point where it crosses Plum Mitan Road; thence proceeding eastwards along an imaginary straight line passing across the Nariva Swamp to the point on the sea coast at the north bank of the Dubloon River at its mouth.
+Edwards Trace proceeding eastwards along an imaginary straight line passing across the Central Range Reserve (39,706a. 2r. 34p.) to the point where the north bank of the Poole River crosses the eastern boundary of the Central Range Reserve; thence in a generally easterly direction along the north bank of the Poole River to the point where it crosses Plum Mitan Road; thence proceeding eastwards along an imaginary straight line passing across the Nariva Swamp to the point on the sea coast at the north bank of the Dubloon River at its mouth.
 EAST -From the last mentioned point proceeding in a generally
 southerly direction along the sea coast to Galeota Point.
 SOUTH -From the last mentioned point proceeding in a generally
@@ -120,6 +120,5 @@ generally north-easterly direction along the said coast to the Guapo-Cap-de-Vill
 EAST -From the last mentioned point proceeding in a generally
 south-easterly direction along the South bank of the Godineau River (the northern boundary of the Siparia Ward) to the point where the south-eastern boundary of lands of G. Parbhoo and others (4a. 3r. 32p.) meets it; thence proceeding south-westwards along an imaginary straight line to the point on Blackwater Channel; thence south-eastwards along Blackwater Channel to its confluence with Coora River; thence in a generally south-westerly direction along the west bank of the Coora River to the point where it is crossed by Coora Road; thence southwards along Coora Road to Penal-Quinam Road; thence in a generally southerly direction along Penal-Quinam Road to the point on the sea coast.
 -From the last mentioned point proceeding westwards and SOUTH
-thence north-eastwards along the said sea coast to Los AND
-Gallos Point at the point of commencement. WEST
-- Margin: (Section 4). [8 of 1992].
+thence north-eastwards along the said sea coast to AND Los Gallos Point at the point of commencement. WEST
+- Margin: Section 4. [8 of 1992].

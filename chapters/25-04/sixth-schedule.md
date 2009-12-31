@@ -1,2 +1,2 @@
 # SIXTH SCHEDULE
-- Margin: [Section 81(1)].
+- Margin: Section 81(1).

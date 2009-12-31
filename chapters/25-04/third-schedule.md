@@ -7,4 +7,4 @@ Districts Aldermen
 3. Borough of Arima 7 2
 4. Borough of Point Fortin 6 2
 5. Borough of Chaguanas 8 2
-- Margin: [Section 11(2)]. [Section 12(2)].
+- Margin: Section 11(2). Section 12(2).

@@ -14,5 +14,5 @@ The Sixth Schedule to the Point Fortin Corporation Act, 1980 (Act
 No. 12 of 1980).
 5. In respect of the several Municipalities referred to in the Second Schedule to this Act and insofar as such laws were in force at the commencement of this Act-
 The Public Health (Streets and Buildings) Bye Laws, made under the
-Public Health Ordinance Ch. 12. No. 4 (1950 Edition).
-- Margin: (Section 160).
+Public Health Ordinance, Ch. 12. No. 4 (1950 Edition).
+- Margin: Section 160.
