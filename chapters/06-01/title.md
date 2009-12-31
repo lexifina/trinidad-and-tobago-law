@@ -2,14 +2,14 @@ JUDICIAL AND LEGAL SERVICE ACT
 CHAPTER 6:01
 Act
 22 of 1977 Amended by
-193/1977 91 of 1991 194/1977 92 of 1991 147/1978 13 of 1992 176/1978 60 of 1996 28/1979 12 of 1997 107/1979 203 of 1997 108/1979 204 of 1997 109/1979 213 of 1997 110/1979 19 of 2000 2 of 1980 32 of 2000 47 of 1980 93/2002 *24 of 1981 186/2003
-124/1981 208/2003 21 of 1986 115/2005 (225/1986) 271/2007
+193/1977 92 of 1991 194/1977 13 of 1992 147/1978 60 of 1996 176/1978 12 of 1997 28/1979 203 of 1997 107/1979 204 of 1997 108/1979 213 of 1997 109/1979 19 of 2000 110/1979 32 of 2000 2 of 1980 93/2002 47 of 1980 186/2003 *24 of 1981 208/2003
+124/1981 115/2005 21 of 1986 271/2007 (225/1986) 65/2008 91 of 1991 150/2008
 *See Note on page 2
 Index of Subsidiary Legislation
 Page Legal Profession (Law Offices) Order (LN 256/1986) … … 16 Remuneration (Judicial and Legal Service) Order (LN 10/1987) … … 16 Legal Service (Vacation Leave) Regulations (LN 230/2000) … … 17
 Note on Adoption of the Public Service Commission Regulations
 (Subsidiary Legislation-Ch. 1:01)
-With respect to the adoption of the Public Service Commission Regulations by the Judicial and Legal Service Commission, see Gazette Notice No. 358 published in the Trinidad and Tobago Gazette Vol. 23 No. 51 dated 23rd February, 1984.
+With respect to the adoption of the Public Service Commission Regulations by the Judicial and Legal Service Commission, see Gazette Notice No. 358 published in the Trinidad and Tobago Gazette, Vol. 23, No. 51, dated 23rd February 1984.
 Note on Act No. 24 of 1981 re amendments to Act
 Act No. 24 of 1981 made several amendments to this Act, but Act No. 24 of 1981 had not, up to the date of the last revision of this Act, been brought into operation.
 CHAPTER 6:01
