@@ -11,11 +11,12 @@ Act, Ch. 90:03
 (f) Postal Address: and my postal address is (f)
 (g) Name of Attorney-at-law: (2) That (g)
 (h) Set out facts complained of: (h)
-(i) Set out shortly the ground (3) The complaint I made against the of complaint: Attorney-at-law is that he (i)
+(i) Set out shortly the ground (3) The complaint I made against the
+of complaint: Attorney-at-law is that he (i)
 Sworn at ...this ... day of ... 20...
-If the person making the Affidavit (The same having first read over and can read and write, strike out the explained to the deponent when he/ words in bracket. she appeared fully to understand
-the same)
+If the person making the (The same having first read over and Affidavit can read and write, explained to the deponent when strike out the words in bracket. he/she appeared fully to
+understand the same)
 Before me:
 ...
 Justice of the Peace
-- Margin: (Paragraph 3).
+- Margin: Paragraph 3.

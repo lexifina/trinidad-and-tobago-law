@@ -1,12 +1,10 @@
 LEGAL PROFESSION ACT
 CHAPTER 90:03
 Act
-21 of 1986
-Amended by
-15 of 1996
-76 of 2000
+21 of 1986 Amended by 15 of 1996 76 of 2000 3 of 2008
 Index of Subsidiary Legislation
-Page Legal Profession (Law Offices) Order (LN 256/1986) … … 72 Attorneys-at-law (Remuneration) (Non-Contentious Business) Rules (LN 77/1997) 73
+Page Legal Profession (Law Offices) Order (LN 256/1986) … … … 72 Attorneys-at-law (Remuneration) (Non-Contentious Business) Rules
+(LN 77/1997) ... 73
 See also the following:
 Council of the Law Association - Part A of First Schedule … 40
 Constitution of First Council - Part B of First Schedule … 44
@@ -14,30 +12,29 @@ Constitution of First Council - Part B of First Schedule … 44
 Form of Certificates - Second Schedule … … 44
 Code of Ethics - Third Schedule … … 46
 Disciplinary Committee - Fourth Schedule … … 61
-Legal Profession (Disciplinary
-Proceedings) Rules - Fifth Schedule … … 62
+Legal Profession (Disciplinary Proceedings) Rules - Fifth Schedule … … 62
 Compensation Fund - Sixth Schedule … … 70
-* LN 44/1987 [The Legal Profession (First Council) Directions, 1987] has been spent since
-it applied only for the purpose of constituting the First Council.
+* LN 44/1987 [The Legal Profession (First Council) Directions, 1987] has been spent
+since it applied only for the purpose of constituting the First Council.
 Note on Omissions
 (Orders made under sections 15A and 16 of the Act)
-A. Orders [Legal Profession (Eligibility for Admission) Order] made under Section 15A of
+A. Orders [Legal Profession (Eligibility for Admission) Order] made under section 15A of
 the Act have been omitted.
 B. Orders [Legal Profession (Reciprocal Arrangements) Order] made under section 16 of
 the Act have been omitted.
 (N.B. See Latest Edition of Consolidated Index of Acts and Subsidiary Legislation for
-LN references to Orders made under sections 15A and 16 of the Act).
+Orders made under sections 15A and 16 of the Act).
 CHAPTER 90:03
 LEGAL PROFESSION ACT
 ARRANGEMENT OF SECTIONS
 PART I
 PRELIMINARY SECTION
-1. Short title. Act inconsistent with sections 4 and 5 of the Constitution.
+1. Short title.
+Act inconsistent with sections 4 and 5 of the Constitution.
 2. Interpretation.
 PART II
 LAW ASSOCIATION
-3. Establishment of Law Association. 4. Council to manage affairs of Association. 5. Purpose of Law Association. 6. Practitioner members. 7. Non-practitioner members. 8. Honorary members. 9. Privileges of membership.
-10. Expulsion and suspensions of rights and privileges. 11. Termination of membership. 12. Annual subscription to Association.
+3. Establishment of Law Association. 4. Council to manage affairs of Association. 5. Purpose of Law Association. 6. Practitioner members. 7. Non-practitioner members. 8. Honorary members. 9. Privileges of membership. 10. Expulsion and suspensions of rights and privileges. 11. Termination of membership. 12. Annual subscription to Association.
 PART III
 MEMBERSHIP OF THE LEGAL PROFESSION
 ENROLMENT, ADMISSION, STATUS
@@ -47,8 +44,9 @@ before this Act.
 15A. Special case of admission.
 16. Eligibility of non-citizen who has obtained prescribed qualifications
 to be admitted as an Attorney-at-law.
-17. Saving of enactments restricting persons other than citizens of Trinidad
-and Tobago. SECTION
+17. Saving of enactments restricting persons other than citizens of
+Trinidad and Tobago.
+ARRANGEMENT OF SECTIONS-Cont'd SECTION
 18. Oath to be taken on admission. 19. Certificate of enrolment. 20. Status of Attorney-at-law. 21. Attorney-at-law not to be Justice of the Peace. 22. Liability for negligence and lack of skill. 23. Practising certificate. 24. Court may in special cases order, issue or refusal of practising
 certificate or impose conditions on issue.
 25. Suspension of practising certificate.
@@ -81,6 +79,8 @@ RECOVERY OF COSTS
 PART VI
 COMPENSATION FUND
 54. Establishment and ownership of Fund. 55. Composition and administration of Fund. 56. Annual contribution to the Fund. 57. Compensation for loss due to dishonesty. 58. Compensation for loss in cases of hardship. 59. Savings and exceptions in respect of payments from Fund.
+ARRANGEMENT OF SECTIONS-Cont'd
+SECTION
 PART VII
 MISCELLANEOUS PROVISIONS
 60. Power to make Rules of Court.

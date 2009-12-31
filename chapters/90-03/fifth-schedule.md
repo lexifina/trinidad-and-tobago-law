@@ -22,7 +22,7 @@ PROCEEDINGS) RULES
 19. (1) Attorneys-at-law and witnesses shall have the same privileges and immunities in relation to hearings on applications under this Act as in any Court of law.
 (2) A party to an application is entitled to be represented by an Attorney-at-law.
 20. If after hearing an application the Committee is satisfied that no case of professional misconduct has been made out, it may dismiss the application.
-- Margin: (Section 38)
+- Margin: Section 38.
 - Margin: Short title.
 - Margin: Secretary of the Committee.
 - Margin: Application and Affidavits. Form 1, Form 2.

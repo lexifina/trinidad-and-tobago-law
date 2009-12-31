@@ -19,7 +19,7 @@ DISCIPLINARY COMMITTEE
 (4) The quorum of the Committee shall, subject to paragraph 3, be three.
 (5) The validity of any proceedings of the Committee shall not be affected by any vacancy among the members thereof or by any defect in the appointment of a member thereof.
 (6) Subject to this Schedule and the Fifth Schedule, the Committee shall have power to regulate its own proceedings.
-- Margin: (Section 36).
+- Margin: Section 36.
 - Margin: Constitution and membership.
 - Margin: Term of office.
 - Margin: Power of Disciplinary Committee to sit in divisions.
