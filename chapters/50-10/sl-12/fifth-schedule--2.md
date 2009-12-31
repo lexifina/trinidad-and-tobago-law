@@ -18,7 +18,6 @@ Date of birth of the holder of the certificate .../...,/...
 ( dd / mm / yy )
 Photograph
 Signature of the holder of the certificate ... of holder
-[Subsidiary]
-Shipping (Training, Certification, Safe Manning, Hours of Work
+[Subsidiary] Shipping (Training, Certification, Safe Manning, Hours of Work
 and Watchkeeping) Regulations
-- Margin: [Regulation 15(2)].
+- Margin: Regulation 15(2).

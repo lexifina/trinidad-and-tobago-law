@@ -12,7 +12,7 @@ taken into account.
 12. (1) Deckhouses which are situated on the freeboard deck-
 (a) which comply with the conditions for enclosed superstructures
 as in paragraph 11 may be taken into account;
-[Subsidiary] Shipping (Load Line) Regulations
+Shipping (Load Line) Regulations [Subsidiary]
 (b) which comply with the conditions for enclosed superstructures
 as in paragraph 11, except that no additional exit from the deckhouse to the deck above is provided, shall not be taken into account; however, any deck openings inside such deckhouses shall be considered as closed even where no means of closure is provided;
 (c) the doors of which do not comply with the requirements of
@@ -35,7 +35,7 @@ include single tanks or combinations of tanks for each kind of liquid, including
 (b) for the purposes of determining this free surface correction,
 the tanks assumed slack should be those which develop the greatest free surface moment, MR.6 at a 30º inclination when in the 50 per cent full condition;
 (c) the value of Mr.s for each tank may be derived from the formula:
-Mr.s =vbrk √b
+Mr.s =vbrk √ b
 where-Mr.s = the free surface moment at any inclination in
 metre-tons;
 v = the tank total capacity in m3; b = the tank maximum breadth in m; r = the specific weight of liquid in the tank in 1/m3;
@@ -48,12 +48,11 @@ from the following Table according to the ratio b/h. The intermediate values are
 value of k corresponding to the angle of inclination of 30°, need not be included in computation:
 vbrk o
 < 0.0lm
-∆mln
-∆mln =
-where- minimum ship displacement in tonnes (metric tonnes).
+Δmln
+where- Δmln = minimum ship displacement in tonnes (metric tonnes).
 (e) The usual remainder of liquids in the empty tanks is not
 taken into account in computation.
-[Subsidiary] Shipping (Load Line) Regulations
+Shipping (Load Line) Regulations [Subsidiary]
 TABLE 5
 TABLE OF VALUES FOR COEFFICIENT "K" FOR CALCULATING
 FREE SURFACE CORRECTIONS
@@ -97,7 +96,7 @@ B-Assumptions for calculating the loading conditions
 carrying liquid cargoes, the fully loaded conditions referred to in paragraphs 19(a) and (b) and 20(a) and (b) shall be examined in accordance with each of the following two assumptions:
 (a) that the cargo is homogeneously stowed excluding the liquid
 cargo tanks;
-[Subsidiary] Shipping (Load Line) Regulations
+Shipping (Load Line) Regulations [Subsidiary]
 (b) that the cargo is homogeneously stowed including the liquid
 cargo tanks.
 22. In the fully loaded departure conditions mentioned in 18(a), 19(a) and 20(a) it should be assumed that the ship is loaded to her sub-division loadline, summer load line or, if the ship is marked with timber load lines, to the summer timber load line respectively, with water ballast tanks empty.
@@ -137,7 +136,7 @@ assumed to be distributed about the ship in the spaces they will normally occupy
 the maximum amount of deck cargo which the ship may reasonably be expected to carry on an exposed deck shall be given.
 (2) The estimated weight of the deck cargo referred to in
 subparagraph (1) shall include, in the case of deck cargoes susceptible to water absorption, an estimated weight of water likely to be so absorbed, which should be allowed for in arrival conditions.
-[Subsidiary] Shipping (Load Line) Regulations
+Shipping (Load Line) Regulations [Subsidiary]
 (3) In the case of timber deck cargo the increase in weight due to water absorption shall be taken as 15 per cent of the weight of the cargo.
 32. A diagram or scale shall be provided showing the load line mark and load lines with particular of the corresponding freeboards, and also showing the displacement, metric tonnes per centimetre immersion, and deadweight corresponding in each case to a range of mean draughts extending between the waterline representing the deepest loadline and the waterline of the ship in light condition.
 33. (1) A diagram or tabular statement, shall be made available showing the hydrostatic particulars of the ship, including-
@@ -177,7 +176,7 @@ from the cross curves of stability referred to in paragraph 35; where credit is 
 provided separately for each for the following conditions of the ship:
 (a) Light condition-where the ship has permanent ballast, such
 diagram and statements shall be provided for the ship in light condition both with and without such ballast;
-[Subsidiary] Shipping (Load Line) Regulations
+Shipping (Load Line) Regulations [Subsidiary]
 (b) Ballast condition-both on departure and on arrival, it being
 assumed for the purpose of the latter in this and the following items that fuel, fresh water and other consumables are reduced to 10 per cent of their capacity;
 (c) Loaded condition-both on departure, and on arrival, when
@@ -220,7 +219,7 @@ horizontal stiffener placed not lower than 10 inches below the upper edge, and w
 are made of wood, the finished thickness shall be at least 2 3⁄8 inches in association with a span of not more than 5 feet.
 (2) The width of each bearing surface for wood hatchway covers
 shall be at least 2 1⁄2 inches.
-[Subsidiary] Shipping (Load Line) Regulations
+Shipping (Load Line) Regulations [Subsidiary]
 (3) The ends of the wood covers shall be protected by galvanized steel bands efficiently secured.
 5. (1) Where wood hatchway covers are fitted the hatchway beams are fore-and-afters shall be of the scantlings and spacing given in Table 1 in subparagraph (4) where coamings 24 inches high are required, and as given in Table 2 in subparagraph (5) where coamings 18 inches high are required.
 (2) Angle bar mountings on the upper edge shall extend continuously for the full length of each beam.
@@ -234,7 +233,7 @@ HATCHWAY BEAMS
 Beams without
 Beams with Fore-and-Afters
 Fore-and-Afters Breadth
-Spacing Centre to of Mounting
+Spacing Centre to Mounting of
 Spacing Centre to Centre
 Centre Hatchway
 10' 0" 8' 0" 5' 0" 4' 0" 6' 0"
@@ -246,8 +245,7 @@ Bulb Plate
 Bulb Angle Length
 Centre Fore-and-
 Side Fore-and-Afters of
-Afters
-Mounting
+Afters Mounting
 Fore-
 Spacing Centre to
 Spacing Centre to Centre and-
@@ -259,13 +257,13 @@ Ins. Ins. Ins. Ins. Ins. Ins. Ins. Ins.Ins. Ins. Ins. Ins.Ins. Ins. Ins. Ins.Ins
 Wood Centre Fore-and-Afters Wood Side Fore-and-Afters
 Spacing Centre to Centre Spacing Centre to Centre
 3' 0" 4' 0" 5' 0" 3' 0" 4' 0" 5' 0" D B D B D B D B D B D B Ins. Ins. Ins. Ins. Ins. Ins. Ins. Ins. Ins. Ins. Ins. Ins.
-6' 0" 51/2 7 6 7 61/2 7 51/2 51/2 6 6 61/2 8' 0" 61/2 7 71/2 7 8 7 61/2 61/2 71/2 7 8 10' 0" 8 7 81/2 8 9 9 8 7 81/2 8 9
+6' 0" 51/2 7 6 7 61/2 7 51/2 51/2 6 6 61/2 6 8' 0" 61/2 7 71/2 7 8 7 61/2 61/2 71/2 7 8 7 10' 0" 8 7 81/2 8 9 9 8 7 81/2 8 9 9
 A-Plain angle. BP-Bulb plate. P-Plate. D-Depth. B-Breadth.
 Depths for hatchway beams are at the middle of the length and are measured from the top
 mounting to the lower edge. Depths for fore-and-afters are measured from the under side of the hatch covers to the lower edge. Sizes for intermediate lengths and spacing are obtained by interpolation. Where plates are specified, two angles, of the size given for mountings, are to be fitted at the upper and at the lower part of the beam. Where bulb plates are specified, two angles, of the size given for mountings, are to be fitted at the upper part of the beam or fore-and-after. Where bulb angle are specified, one angle, of the size given for mountings, is to be fitted at the upper part of the section. Where specified flanges of an angle are of different dimension, the larger flange is to be horizontal.
 *In ships not exceeding 100 feet in length, the depths of beams which are formed of plates and
 angles may be 60 per cent of the depths given above; the depths of beams and steel fore-and afters formed of bulb angle or bulb plate section may be 80 per cent of the depths given above; the thickness of plates, bulb angles and bulb plates should correspond to the thickness tabulated for the reduced depths with a minimum thickness of.30 inch; the depths and breadths of wood fore-and-afters may be 80 per cent of those given in the tables for side fore-and-afters, but the centre fore-and-after must be not less than 61/2 inches wide. In ships between 100 feet and 200 feet in length, the sizes of the beams and fore-and-afters are to be determined by linear interpolation.
-[Subsidiary] Shipping (Load Line) Regulations
+Shipping (Load Line) Regulations [Subsidiary]
 (5) Table 2 referred to in subparagragh (1) is-
 TABLE 2
 (Coamings 18 inches in height)
@@ -275,7 +273,7 @@ HATCHWAY BEAMS
 Beams without
 Beams with Fore-and-Afters
 Fore-and-Afters Breadth
-Spacing Centre to of Mounting
+Spacing Centre to Mounting of
 Spacing Centre to Centre
 Centre Hatchway
 10' 0" 8' 0" 5' 0" 4' 0" 6' 0"
@@ -290,7 +288,7 @@ Spacing Centre to
 Spacing Centre to Centre and-
 Centre Afters
 3' 0" 4' 0" 5' 0" 3' 0" 4' 0" 5' 0"
-Ins. Ins. Ins. Ins. Ins. Ins. Ins. Ins. Ins. Ins. Ins. Ins. Ins. Ins. Ins. Ins. Ins. Ins. 6' 0" 21/2 x 21/2 x .36 5 x. 34 51/2 x .34 6 x .36 5 x 3 x.34 51/2 x 3 x .34 6 x 3 x .36 8' 0" 21/2 x 21/2 x .38 6 x .38 7 x .40 71/2 x .42 6 x 3 x .38 7 x 3 x .40 71/2 x 31/2 x .42 10' 0" 21/2x 21/2 x .40 7 x .44 8 x .46 9 x .50 7 x 3 x .44 8 x 31/2 x .46 9 x 31/2 x .50 [Subsidiary] Shipping (Load Line) Regulations
+Ins. Ins. Ins. Ins. Ins. Ins. Ins. Ins. Ins. Ins. Ins. Ins. Ins. Ins. Ins. Ins. Ins. Ins. 6' 0" 21/2 x 21/2 x .36 5 x. 34 51/2 x .34 6 x .36 5 x 3 x.34 51/2 x 3 x .34 6 x 3 x .36 8' 0" 21/2 x 21/2 x .38 6 x .38 7 x .40 71/2 x .42 6 x 3 x .38 7 x 3 x .40 71/2 x 31/2 x .42 10' 0" 21/2x 21/2 x .40 7 x .44 8 x .46 9 x .50 7 x 3 x .44 8 x 31/2 x .469 x 31/2 x .50 [Subsidiary] Shipping (Load Line) Regulations
 Wood Centre Fore-and-Afters Wood Side Fore-and-Afters
 Spacing Centre to Centre Spacing Centre to Centre 3' 0" 4' 0" 5' 0" 3' 0" 4' 0" 5' 0"
 D B D B D B D B D B D B Ins. Ins. Ins. Ins. Ins. Ins. Ins. Ins. Ins. Ins. Ins. Ins.
@@ -313,7 +311,7 @@ and shall be not less than 1⁄2 inch thick at the toe.
 proofed and of ample strength, shall be provided for each hatchway in an exposed position on freeboard and superstructure decks.
 (4) The material of the tarpaulins shall be guaranteed free from jute,
 and the minimum weight of the material, before treatment, shall be l9 ozs. per square yard if to be tarred, 18 ozs. per square yard if to be chemically dressed or 16 ozs. per square yard for black oil dressing.
-[Subsidiary] Shipping (Load Line) Regulations
+Shipping (Load Line) Regulations [Subsidiary]
 9. (1) Where the coamings are required to be 24 inches high, steel bars or other equilavent means shall be provided for efficiently and independently securing each section of hatchway covers after the tarpaulins are battened down.
 (2) At all other hatchways in exposed positions on freeboard and superstructure decks, ring bolts or other fittings for lashings shall be provided.
 (3) Where the hatchway covers extend over intermediate supports, steel bars or their equivalent shall be fitted at each end of each section of the covers.
@@ -356,7 +354,7 @@ stiffened between the deck beams.
 arrangement.
 (4) Where such ventilators are situated on the freeboard deck, or on
 the superstructure deck within a quarter of the ship's length from the stem, and the closing arrangements of the ventilators are of a temporary character, the coamings shall be at least 36 inches in height; in other exposed positions on the superstructure deck they are to be at least 30 inches in height.
-[Subsidiary] Shipping (Load Line) Regulations
+Shipping (Load Line) Regulations [Subsidiary]
 (5) Where the coaming of any ventilator exceeds 36 inches in height it shall be specially supported and secured.
 17. (1) Where the air pipes to ballast and other tanks extend above freeboard or superstructure decks, the exposed parts of the pipes shall be of substantial construction.
 (2) The height from the deck to the opening shall be at least 36 inches in wells on freeboard decks, 30 inches on raised quarterdecks, and 18 inches on other superstructure decks.
@@ -395,7 +393,7 @@ Length of Bulwarks in on each side
 15 ... 8.0 20 ... 8.5 25 ... 9.0 30 ... 9.5 35 ... 10.0 40 ... 10.5 45 ... 11.0 50 ... 11.5 55 ... 12.0 60 ... 12.5 65 ... 13.0
 Above 65 … … 1 square foot for each additional 5 feet
 length of bulwarks.
-[Subsidiary] Shipping (Load Line) Regulations
+Shipping (Load Line) Regulations [Subsidiary]
 (7) The lower edges of the freeing ports shall be as near the deck as practicable and as a general rule shall not be higher than the upper edge of the gunwale bar.
 (8) Two-thirds of the freeing port area required shall be provided in the midship half of the well.
 (9) All openings in the bulwarks shall be protected by rails or bars spaced about 9 inches apart.
@@ -435,12 +433,9 @@ the depth used with the Table set out in paragraph 62 shall not be taken as less
 15
 30. (1) The coefficient of fineness (c) to be used with this Schedule is
 given by the formula-
-35 ∆
-c =
-L.B.d1
-where ∆is the ship's moulded displacement in tons (excluding bossing) at a mean moulded draught d1 which is 85 per cent of the moulded depth.
-(2) The coefficient (c) shall not be taken as less than 0.68.
-[Subsidiary] Shipping (Load Line) Regulations
+35 Δ c = L.B.d1
+where Δ is the ship's moulded displacement in tons (excluding bossing) at a mean moulded draught d1 which is 85 per cent of the moulded depth.
+(2) The coefficient (c) shall not be taken as less than 0.68. Shipping (Load Line) Regulations [Subsidiary]
 B-Scantlings
 31. (1) The Assigning Authority shall be satisfied with the structural strength of any ship before assigning to it a freeboard.
 (2) Ships which comply with the highest standard of rules of a Classification Society recognised for this purpose by the Minister shall be regarded as having sufficient strength for the minimum freeboards allowed under this Schedule.
@@ -481,7 +476,7 @@ tier of beams is the moment of inertia I of the frame section about the neutral 
 (iii) the required frame modulus is expressed by the formula:
 s (d -t) (f1+ f2)
 1,000
-[Subsidiary] Shipping (Load Line) Regulations
+Shipping (Load Line) Regulations [Subsidiary]
 where-
 s is the frame spacing in inches; t is the vertical distance in feet measured at amidships from the top of the keel to a point midway between the top of the inner bottom at side and top of the heel bracket in accordance with figure 1 in sub-item (vii); where there is no double bottom, t is measured to a point midway between the top of the floor at centre and the top of the floor at side; f1 is a coefficient depending on H, which, in ships fitted with double bottoms, is the vertical distance in feet from the middle of the beam bracket of the lowest tier of beams at side to a point midway between the top of the inner bottom at side and the top of the heel bracket in accordance with figure 1 of sub-item (vii) where there is no double bottom, H is measured to a point midway between the top of the floor at centre and the top of the floor at side; where the frame obtains additional strength from the form of the ship, due allowance is made in the value of f1; f2 is a coefficient depending on K, which is the vertical distance in feet from the top of the lowest tier of beams at side to a point 7 feet 6 inches above the freeboard deck at side, or, if there is a superstructure, to a point 12 feet 6 inches above the freeboard deck at side in accordance with figure 1 of sub-item (vii);
 H in feet 0 7 9 11 13 15 17 19 21 23 25
@@ -498,7 +493,7 @@ inclusive, and the horizontal distance from the outside of the frame to the cent
 not exceed 18 feet, the frame modulus determined by the preceding method is multiplied by the factor f3 where- f3 = .50+ .05(H-8);
 (vii) where the horizontal distance from the outside of the
 frame to the centre of the first row of pillars exceeds 20 feet, sufficient additional strength shall be provided to the satisfaction of the Assigning Authority.
-[Subsidiary] Shipping (Load Line) Regulations
+Shipping (Load Line) Regulations [Subsidiary]
 TABLE OF SCANTLINGS
 Exposed Bulkheads of Superstructures of Standard Height
 Bridge Front Bulkheads Bulkheads of Poops Unprotected Bulkheads Partially Protected After Bulkheads of of Poops .4 L or more or less in Length Bridges and Forecastles
@@ -540,7 +535,7 @@ with the following conditions:
 (a) they shall be constructed of iron or steel;
 (b) they shall in all cases be permanently and strongly attached
 to the bulkhead;
-[Subsidiary] Shipping (Load Line) Regulations
+Shipping (Load Line) Regulations [Subsidiary]
 (c) they shall be framed, stiffened and fitted so that the whole
 structure is of equivalent strength to the unpierced bulkhead;
 (d) they shall be weathertight when closed;
@@ -582,7 +577,7 @@ and the access openings in the bulkheads are fitted with Class 1 closing applian
 Class 1 closing appliances and the access openings in the after bulkhead with Class 2 closing appliances, the length between the bulkheads shall be the effective length; but where an allowance is given for an efficient trunk adjacent to the after bulkhead in accordance with paragraph 46, 90 per cent of the length shall be the effective length; where the access openings in both bulkheads are fitted with Class 2 closing appliances, 90 per cent of the length between the bulkheads shall be the effective length; where the access openings in the forward bulkhead are fitted with Class 1 or Class 2 closing appliances and the access openings in the after bulkhead have no closing appliances, 75 per cent of the length between the bulkhead shall be the effective length; where the access openings in both bulkheads have no closing appliances, 50 per cent of the length shall be the effective length.
 (3) 75 per cent of the length of an open extension beyond the after
 bulkhead, and 50 per cent of that beyond the forward bulkhead, shall be the effective length.
-[Subsidiary] Shipping (Load Line) Regulations
+Shipping (Load Line) Regulations [Subsidiary]
 45. (1) Where there is an efficient bulkhead and the access openings are fitted with Class 1 or Class 2 closing appliances, the length of the forecastle to the bulkhead shall be the effective length; where no closing appliances are fitted and the sheer forward of amidships is not less than the standard sheer, 100 per cent of the length of the forecastle forward of 0.1 L from the forward perpendicular shall be the effective length.
 (2) Where the sheer forward is half the standard sheer or less, 50 per cent of the length shall be the effective length; and where the sheer forward is intermediate between the standard and half the standard sheer, an intermediate percentage of that length shall be the effective length.
 (3) 50 per cent of the length of an open extension beyond the bulkhead or beyond 0.1 L from the forward perpendicular shall be the effective length.
@@ -618,7 +613,7 @@ is taken as .5.
 H-Deductions For Superstructure
 48. Where the effective length of superstructures is 1.0 L, the deduction from
 the freeboard shall be 14 inches at 80 feet length of ship, 34 inches at 280 feet length, and 42 inches at 400 feet length and above; deductions at intermediate
-[Subsidiary] Shipping (Load Line) Regulations
+Shipping (Load Line) Regulations [Subsidiary]
 lengths shall be obtained by interpolation, where the total effective length of superstructures is less than 1.0 L, the deductions shall be a percentage obtained from the following Table:
 Total Effective Length of Superstructure
 Super-structures Line
@@ -649,7 +644,7 @@ S determined in accordance with paragraph 51 multiplied by .75 - , where S 2L
 is the total length of superstructure, as described in paragraph 34.
 53. Where the sheer is less than the standard, the correction for
 deficiency in sheer, detemined in accordance with paragraph 52, shall be added to the freeboard.
-[Subsidiary] Shipping (Load Line) Regulations
+Shipping (Load Line) Regulations [Subsidiary]
 54. In flush deck ships and in ships where an enclosed superstructure covers 0.1 L before and 0.1 L abaft amidships, the correction for excess of sheer determined in accordance with paragraph 52 shall be deducted from the freeboard; in ships with detached superstructures where no enclosed superstructure covers amidships, no deduction shall be made from the freeboard; where an enclosed superstructure covers less than 0.1 L before and 0.1 L abaft amidships, the deduction shall be obtained by interpolation, the maximum deduction for excess sheer shall be 11⁄2 inches at 100 feet length of ship and shall increase at the rate of 11⁄2 inches for each additional 100 feet in the length of the ship.
 J-Round of Beam
 55. The standard round of beam of the freeboard deck is 1/50 of the breadth of the ship.
@@ -661,10 +656,8 @@ K-Minimum Freeboard
 60. The minimum winter North Atlantic freeboard for steamers not exceeding 330 feet in length shall be the winter freeboard plus two inches; for steamers over 330 feet in length the minimum winter North Atlantic freeboard shall be the Winter freeboard. [Subsidiary] Shipping (Load Line) Regulations
 61. The minimum freeboard in fresh water of unit density shall be the
 freeboard obtained by deducting from the minimum freeboard in salt water
-∆
-inches, where
-40 T
-∆ = displacement in salt water in tons at the summer load
+Δ inches, where 40 T
+Δ = displacement in salt water in tons at the summer load
 waterline, and
 T = tons per inch immersion in salt water at the summer load
 waterline.
@@ -676,7 +669,7 @@ L Freeboard L Freeboard L Freeboard L Freeboard Feet Inches Feet Inches Feet Inc
 obtained by an addition to the above Table at the rate of 11⁄2 inches for every 100 feet of length;
 (b) the freeboards at intermediate lengths shall be obtained by
 interpolation;
-[Subsidiary] Shipping (Load Line) Regulations
+Shipping (Load Line) Regulations [Subsidiary]
 (c) where the coefficient of fineness (c) exceed .68, the
 c + .68 freeboard shall be multiplied by the factor 1.36
 (L) (d) where D exceed the freeboard shall be increased by 15
@@ -720,7 +713,7 @@ obtained by interpolation between lines B and A; percentages for intermediate le
 68. Minimum freeboards shall be as follows:
 (a) no addition to the freeboard shall be required for winter freeboard,
 nor shall a deduction be permitted for Tropical freeboard;
-[Subsidiary] Shipping (Load Line) Regulations
+Shipping (Load Line) Regulations [Subsidiary]
 (b) an increase in freeboard of 3 inches shall be made for the
 Winter North Atlantic freeboard;
 (c) in computing the Fresh Water freeboard for a wood ship, the
@@ -764,7 +757,7 @@ feet 3 inches high, specially stiffened on the upper edge and supported by stron
 cargo, and, as far as practicable, shall be accessible; efficient provision shall be made for steering in the event of a breakdown in the main steering arrangements.
 78. Eye plates for lashing shall be rivetted to the sheerstrake at intervals
 of not more than 10 feet, the distance from an end bulkhead of a superstructure to the first eye plate being not more than 6 feet 6 inches; additional eye plates may be fitted the stringer plate.
-[Subsidiary] Shipping (Load Line) Regulations
+Shipping (Load Line) Regulations [Subsidiary]
 79. (1) Where the Assigning Authority is satisfied that the steamer is suitable and that the conditions and arrangements are at least equal to the foregoing requirements for the carriage of timber deck cargo, the summer freeboards computed in accordance with this Schedule and the Tables in Part III may be modified to give special timber freeboards, by substituting the following percentages for those in paragraph 48:
 Total Effective length of superstructures. (E).
 0 .1L .2L .3L .4L .5L .6L .7L .8L .9L 1.0 L
@@ -804,7 +797,7 @@ for its exposed position shall be fitted fore and aft of the level of the supers
 quarters of the crew, the machinery space and all other parts used in the necessary work of the ship, shall be available at all times.
 (2) Subparagraph (1) does not apply to pump rooms if suitable
 means of access are provided from the freeboard deck, and the access openings are fitted with Class 1 closing appliances.
-[Subsidiary] Shipping (Load Line) Regulations
+Shipping (Load Line) Regulations [Subsidiary]
 86. All hatchways on the freeboard deck and on the deck of expansion trunks shall be closed watertight by efficient steel covers.
 87. Ventilators to spaces below the freeboard deck shall be of ample strength or shall be protected by superstructures or by equally efficient means.
 88. (1) Ships with bulwarks shall have open rails fitted for at least half the length of the exposed portion of the weather deck or such other freeing arrangements as are in the opinion of the Assigning Authority effective for the purpose of freeing the decks of water.
@@ -828,7 +821,7 @@ L Freeboard L Freeboard Feet Inches Feet Inches
 190 21.5 400 62.5 200 23.1 410 64.9 210 24.7 420 67.4 220 26.3 430 69.9 230 28.0 440 72.5 240 29.7 450 75.1 250 31.5 460 77.7 260 33.3 470 80.2 270 35.2 480 82.7 280 37.1 490 85.1 290 39.1 500 87.5 300 41.1 510 89.8 310 43.1 520 92.1 320 45.1 530 94.3 330 47.1 540 96.5 340 49.2 550 98.6 350 51.3 560 100.7 360 53.5 570 102.7 370 55.7 580 104.6 380 57.9 590 106.5 390 60.2 600 108.4
 (2) The freeboards for ships above 600 feet shall be determined by
 the Minister.
-[Subsidiary] Shipping (Load Line) Regulations
+Shipping (Load Line) Regulations [Subsidiary]
 PART VII
 FREEBOARDS FOR SHIPS OF SPECIAL TYPE
 94. (1) In the case of steamers of special type over 300 feet in length possessing constructional features similar to those of a tanker which, in the opinion of the Minister, afford extra invulnerability the sea, a reduction in the freeboard computed for steamers under Part III may be granted.
@@ -848,7 +841,7 @@ corresponding to a mean draught † of ...millimetres
 corresponding to a mean draught † of ...millimetres
 (equal to ... feet ... inches).
 [Subsidiary] Shipping (Load Line) Regulations
-NINTH SCHEDULE-Continued
+NINTH SCHEDULE-(Continued)
 (3) Tropical freeboard ...millimetres
 corresponding to a mean draught† of ...millimetres (equal to ... feet ... inches).
 (4) Winter North Atlantic freeboard ...millimetres
@@ -867,7 +860,7 @@ corresponding to a mean draught† of ...millimetres (equal to ... feet ... inch
 ... millimetres.
 The particulars to be given above of freeboards and allowances for fresh
 water are to be taken from the load line certificate currently in force in respect of the ship. Paragraphs referring to freeboards which the certificate shows have not been assigned to the ship must be deleted.
-[Subsidiary] Shipping (Load Line) Regulations
+Shipping (Load Line) Regulations [Subsidiary]
 *In the case of a ship having alternative gross tonnages, both must be given.
 †1. The mean draught to be given above is the mean of the draughts
 which would be shown on the scales of measurements on the stem and on the stern post of the ship if it were so loaded that the upper edge of the load line on each side of the ship appropriate to the particular freeboard were on the surface of the water.
@@ -915,9 +908,6 @@ NOTES:
 - Margin: Hatchways coamings.
 - Margin: Hatchway covers.
 - Margin: Hatchway beams and fore- and-after.
-- Margin: 6
-- Margin: 7
-- Margin: 9
 - Margin: Carriers or sockets.
 - Margin: Cleats.
 - Margin: Battens, wedges and tarpaulins.

@@ -13,8 +13,7 @@ Rank/Rating ...
 Nationality ...
 Other Marine Qualifications Held
 (if any)
-PHOTOGRAPH ... [Subsidiary]
-Shipping (Certification of Seamen) (Deck Ratings) Regulations
+PHOTOGRAPH ... [Subsidiary] Shipping (Certification of Seamen) (Deck Ratings) Regulations
 SECTION B-PREVIOUS CERTIFICATES
 Have you previously been issued with a Seaman Class 2 Certificate? Yes // No // If yes, give date of issue ...
 Notes to applicant
@@ -33,23 +32,22 @@ The following documents are submitted with this application:
 Remarks
 1. Certificate of attendance at a basic sea survival course / /
 / / 2. Birth Certificate or other proof of age / / 3. Passport or other proof of nationality
-4. Medical Fitness Certificate / / 5. Certificate of attendance at an approved maritime / / safety training course (applicable only where remission of sea service is being claimed)
+4. Medical Fitness Certificate / / 5. Certificate of attendance at an approved maritime / /
+safety training course (applicable only where remission of sea service is being claimed)
 / / 6. Discharge Book, Certificates of Discharge or other
 documentary evidence of sea service
 7. Steering Certificate / / 8. Two passport size photographs / / 9. Certificate of Proficiency in Survival Craft / /
-[Subsidiary]
-Shipping (Certification of Seamen) (Deck Ratings) Regulations
+[Subsidiary] Shipping (Certification of Seamen) (Deck Ratings) Regulations
 C.T.-CHEMICAL TANKER O.S.-OFFSHORE SUPPLY
 O.-OTHER (SPECIFY)
 (FOR OFFICIAL USE ONLY) REMARKS
 G.C.-GAS CARRIER
 O.T.-OIL TANKER
 D.-DRILLING 2. SEA SERVICE IN FOREIGN FLAGSHIPS MUST BE CONFIRMED BY THE CONSUL OR OTHER OFFICIAL AUTHORITY OF THE FOREIGN STATE.
-1. TAKE DETAILS FROM YOUR DISCHARGE BOOK, CERTIFICATES OF DISCHARGE OR OTHER DOCUMENTARY EVIDENCE OF SEA SERVICE.
+NOTES: 1. TAKE DETAILS FROM YOUR DISCHARGE BOOK, CERTIFICATES OF DISCHARGE OR OTHER DOCUMENTARY EVIDENCE OF SEA SERVICE.
 T.-TUG
-AMOUNT OF D
+AMOUNT OF M D
 SERVICE
-M
 † FOR TYPE OF SHIP USE THE FOLLOWING CODES:
 R.R.P.-RO-RO PASSENGER FERRY
 VOYAGE PERIOD TO
@@ -61,19 +59,16 @@ C.-CONTAINER P.-PASSENGER
 S.-SURVEY
 OF SHIP †TYPE
 AREA OF VOYAGE *TYPE/
-WHICH SERVED
+WHICH SERVED *USE THE FOLLOWING CODES:
 CAPACITY IN
 G = SERVICE PRIMARILY IN THE GULF OF PARIA
+U = UNLIMITED
 FLAG
+C = CARIBBEAN TRADE
 TONNAGE
 GROSS
-*USE THE FOLLOWING CODES:
-C = CARIBBEAN TRADE
 L = LIMITED TRADE
-U = UNLIMITED
-NAME OF SHIP
-NOTES: [Subsidiary]
-Shipping (Certification of Seamen) (Deck Ratings) Regulations
+NAME OF SHIP [Subsidiary] Shipping (Certification of Seamen) (Deck Ratings) Regulations
 SECTION E-DECLARATION OF APPLICANT
 (Any person making a false declaration is guilty of an offence and is liable to a
 fine and imprisonment under the Shipping Act, Chap. 50:10).
@@ -92,8 +87,7 @@ Signed ... Name ...
 Official Stamp
 Date ...
 Maritime Services Division
-[Subsidiary]
-Shipping (Certification of Seamen) (Deck Ratings) Regulations
+[Subsidiary] Shipping (Certification of Seamen) (Deck Ratings) Regulations
 SECTION G-AUTHORITY TO ISSUE CERTIFICATE
 This is to certify that ... may be issued with
 (Name of Applicant)
@@ -105,4 +99,4 @@ Name of Examiner ...
 Official Stamp
 Date ...
 Maritime Services Division
-- Margin: (Regulation 14).
+- Margin: Regulation 14.

@@ -5,7 +5,7 @@ EXISTING SHIPS
 accommodation, other than storerooms, shall be wholly situated above the Summer load line, if any, marked on the ship in accordance with the provisions of the regulations made under section 280 of the Act.
 (2) In every ship to which this Schedule applies the crew
 accommodation, other than storerooms, shall be situated amidships or aft and in no case be situated forward of the collision bulkhead.
-[Subsidiary] Shipping (Crew Accommodation) Regulations
+Shipping (Crew Accommodation) Regulations [Subsidiary]
 (3) Sleeping rooms forming part of the crew accommodation of a passenger ship to which this Schedule applies shall not be situated immediately beneath a working passageway.
 2. (1) In every ship to which this Schedule applies the height of the crew accommodation measured from the top of the floor beams to the top of the crown beams shall be not less than the following:
 (a) in ships of under 1,600 tons-7 feet; and
@@ -55,7 +55,7 @@ deck is situated on the top of an oil tank, impervious to oil.
 shall be at least 2 1⁄2 inches thick and shall be properly laid and caulked.
 (4) The surface of metal decks which form the floors of the crew
 accommodation, not being floors in sanitary accommodation, galleys,
-[Subsidiary] Shipping (Crew Accommodation) Regulations
+Shipping (Crew Accommodation) Regulations [Subsidiary]
 storerooms or laundries, shall be covered with linoleum or wooden planking, or with a material which complies with the requirements specified in Appendix I to this Schedule.
 (5) The joinings of such material with the side walls shall be rounded in a manner which will avoid crevices.
 (6) Such linoleum, planking or material shall be properly laid.
@@ -106,7 +106,7 @@ above any part of the crew accommodation;
 recreation of the crew in compliance with paragraphs 18(8) and 18(9) of this Schedule as will provide a shaded area adequate in extent having regard to the number of persons in the crew and to any shade provided for such spaces by overhanging decks;
 (m) the awnings shall be supported by stanchions or by other
 suitable means;
-[Subsidiary] Shipping (Crew Accommodation) Regulations
+Shipping (Crew Accommodation) Regulations [Subsidiary]
 (n) there shall be no direct opening between the crew
 accommodation, other than recreation deck spaces, and spaces used as-
 (i) permanent coal bunkers;
@@ -159,7 +159,7 @@ thereof is unreasonable or impracticable in the circumstances, by which, without
 is not affected by the use or non-use of any steering-gear, deck machinery, calorifiers or cooking appliances in the ship.
 (8) The heating system shall be in operation at all times when any
 members of the crew are living or working on board the ship and circumstances require its use.
-[Subsidiary] Shipping (Crew Accommodation) Regulations
+Shipping (Crew Accommodation) Regulations [Subsidiary]
 (9) While the ship is in port the heating system shall not be required to be in operation if efficient temporary means of heating are provided for such parts of the crew accommodation as are in use.
 8. (1) In every ship to which this Schedule applies every part of the crew accommodation, other than pantries, laundries, drying rooms, lockers and storerooms shall be properly lighted by natural light.
 (2) Where in any space in a passenger steamer or in a ship engaged in the whaling industry it is impracticable to provide proper natural lighting, such lighting shall not be required where adequate electric lighting is always available in that space.
@@ -197,7 +197,7 @@ beds shall not be taken into account in determining the illumination of a space 
 (18) Mess rooms shall contain the following:
 (a) 2 foot-candles at general measurement points; and
 (b) 5 foot-candles at any table and sink.
-[Subsidiary] Shipping (Crew Accommodation) Regulations
+Shipping (Crew Accommodation) Regulations [Subsidiary]
 (19) Recreation and smoking rooms shall contain the following:
 (a) 2 foot-candles at general measurement points;
 (b) 5 foot-candles at the recreation tables; and
@@ -256,7 +256,7 @@ stairway or exhaust opening.
 other than a part serving only a drying room or locker, shall be at least 6 square inches for each person for whose use at any one time the space is appropriate, and shall not be less than 19 square inches in all at any point in the system.
 (7) The effective area of the inlet and exhaust system serving each
 space shall be capable of being adjusted from fully open down to a minimum of 3 square inches for each person likely to use the space at any one time.
-[Subsidiary] Shipping (Crew Accommodation) Regulations
+Shipping (Crew Accommodation) Regulations [Subsidiary]
 (8) Every enclosed space, other than a cold storeroom, forming part of the crew accommodation of a ship to which this Schedule applies, being a ship of 3,000 tons or over for the time being regularly employed otherwise than as a home trade ship, or a ship of under 3,000 tons for the time being regularly engaged only on voyages confined to the area within the Tropics and the Persian Gulf, shall be provided with a trunked mechanical ventilation system complying with the requirements specified in Appendix 2 to this Schedule.
 (9) Such a system shall not be required in any galley which is situated on an open deck and exposed to the weather on the fore-end and the port and starboard sides.
 (10) In the crew accommodation of every ship to which this Schedule applies, being a ship not provided with a trunked mechanical ventilation system, and not being a ship for the time being regularly engaged only on voyages as a Caribbean Trade Ship or on the coasts of New Zealand or at latitudes north of 53° North latitude or south of 45° South latitude, an electric fan shall be fitted in every sleeping room, mess room, recreation room, study, office, galley and pantry.
@@ -302,7 +302,7 @@ paragraph shall be in clear characters and in a readily visible position on the 
 in an equally permanent manner.
 (5) No space forming part of the crew accommodation of a ship to
 which this Schedule applies shall be marked, whether inside or outside the space, with any marking which may be taken to indicate that the space is appropriated for use by persons differing in number or description from the persons for whose use the space has been certified by a surveyor of ships.
-[Subsidiary] Shipping (Crew Accommodation) Regulations
+Shipping (Crew Accommodation) Regulations [Subsidiary]
 13. (1) In every ship to which this Schedule applies, unless the circumstances are such that no members of the crew are required to sleep on board, sleeping rooms shall be provided for the crew in accordance with the following provisions of this paragraph.
 (2) Separate and appropriate sleeping rooms shall be provided wherever required by the widely different national habits and customs of groups of persons in the crew.
 (3) Each of the following classes of persons shall be provided with sleeping rooms separate from those provided for the other classes:
@@ -352,7 +352,7 @@ provided for the First or only Radio Officer shall be situated as near as practi
 (13) The said sleeping room shall not be the radiotelegraph room.
 14. (1) Every sleeping room in the crew accommodation of a ship to
 which this Schedule applies shall be fitted with a bed for each person accommodated in the room.
-[Subsidiary] Shipping (Crew Accommodation) Regulations
+Shipping (Crew Accommodation) Regulations [Subsidiary]
 (2) The framework of each bed, and the lee boards or lee rails thereof, if any, shall-
 (a) be constructed of metal or other material which is hard and
 smooth and unlikely to become corroded;
@@ -372,8 +372,8 @@ bed is so supported and the room so constructed as to avoid harbouring dirt and 
 (8) No bed shall be less than 1 foot from the floor of the room measured from the bottom of the mattress referred to in paragraph (10) below.
 (9) The upper bed in a double tier shall be at least 2 feet 6 inches below the lower side of the deck head beams or other obstructions measured from the bottom of the mattress.
 (10) The bottom of the mattress in the lower bed shall be at least 3 feet below the bottom of the mattress in the upper bed if the height of the sleeping room is 7 feet 6 inches or more, and at least 2 feet 9 inches below the bottom of the mattress in the upper bed if the height of the sleeping room is less than 7 feet 6 inches.
-(11) For the purposes of this subparagraphs the height of the room shall be measured from the top of the floor beams to the top of the crown beams.
-(12) Subject to the provisions of subparagraphs (9), (10) and (11) of [Subsidiary] Shipping (Crew Accommodation) Regulations
+(11) For the purposes of this subparagraphs the height of the room shall be measured from the top of the floor beams to the top of the crown beams. [Subsidiary] Shipping (Crew Accommodation) Regulations
+(12) Subject to the provisions of subparagraphs (9), (10) and (11) of
 this paragraph the size of the beds provided for the crew shall be at least 6 feet 3 inches by 2 feet 3 inches, the measurements being taken inside the lee boards, or lee rails, if any, and at right angles to each other.
 (13) The size of the beds provided in a ship of 3,000 tons or over for
 the Chief Officer and for the Chief and Second Engineers shall be at least 6 feet 3 inches by 2 feet 9 inches in a passenger ship and at least 6 feet 3 inches by 3 feet 6 inches in any other ship, the measurements in each case being taken inside the lee board or lee rails, if any, and at right angles to each other.
@@ -404,7 +404,7 @@ each bed or tier or beds, as the case may be;
 only one person; and
 (j) a curtain fitted to each sidescuttle, unless the sidescuttle is
 fitted with blinds or jalousies.
-[Subsidiary] Shipping (Crew Accommodation) Regulations
+Shipping (Crew Accommodation) Regulations [Subsidiary]
 (2) Paragraph 1 shall apply to sleeping rooms for petty officers as it applies to sleeping rooms for other ratings, subject to the following modifications and additions:
 (a) for each person accommodated in the room a second drawer
 having a capacity of at least 2 cubic feet shall be provided in addition to the drawer referred to in subparagraph(1)(a)(i);
@@ -467,7 +467,7 @@ inclusive may be provided in washing accommodation appropriated for the exclusiv
 practicable in the circumstances be provided with the equipment, other than a book case, referred to in subparagraph (4), save that any of the equipment referred to in subparagraph (4)(b), (c) and (d) may be provided in a study for the sole use of the apprentices instead of in their sleeping rooms.
 (8) Subject to subparagraphs (1) to (7), all lockers, wardrobes, tables,
 desks, the un-upholstered parts of chairs and settees and similar furnishings
-[Subsidiary] Shipping (Crew Accommodation) Regulations
+Shipping (Crew Accommodation) Regulations [Subsidiary]
 provided in compliance with this paragraph shall be made of polished hardwood, rustproof metal or other smooth and impervious material not likely to crack, warp or become corroded.
 (9) All furniture provided in sleeping rooms shall be so made as not to be likely to harbour vermin.
 16. (1) In every ship to which this Schedule applies, unless the circumstances are such that no members of the crew are required to mess on board, mess rooms shall be provided for the crew and shall be of such dimensions as will be sufficient to accommodate the greatest number of persons likely to use them at any one time.
@@ -514,7 +514,7 @@ in size for each of those persons.
 food shall be fitted with a storage locker for each person which shall be of sufficient size to be capable of containing his mess utensils together with a supply of food sufficient for him for at least 7 days.
 (11) All storage lockers provided in compliance with this paragraph
 shall be adequately ventilated, and all storage lockers provided for one person shall be fitted with a lock or hasp for a padlock, and shall be so fixed as to clear the floor by at least 1 foot.
-[Subsidiary] Shipping (Crew Accommodation) Regulations
+Shipping (Crew Accommodation) Regulations [Subsidiary]
 (12) The lockers or racks may be fitted in a pantry, storeroom or other suitable place outside a mess room and readily accessible therefrom.
 (13) No lockers or racks, being lockers or racks intended to contain food, shall be fitted in a sleeping room, not being a sleeping room combined with a mess room.
 (14) A dresser, hot-press, sink and boiler or other means from which boiling drinking water shall always be available shall be fitted in each mess room, unless such equipment is fitted in a pantry readily accessible from the room or, in the case of a ship of under 1,000 tons, in a galley.
@@ -555,7 +555,7 @@ classes of persons shall be provided with washing accommodation separate from th
 (c) ratings other than petty officers.
 (2) The washing accommodation shall be situated close to the
 sleeping accommodation of the persons for whose use it is appropriated.
-[Subsidiary] Shipping (Crew Accommodation) Regulations
+Shipping (Crew Accommodation) Regulations [Subsidiary]
 (3) Part of the washing accommodation for ratings of the engine room department may be adjacent to the engine room and stokehold.
 (4) Access to washing accommodation shall not be directly obtained from a mess room or a sleeping room and shall wherever reasonable and practicable in the circumstances be obtained from a passageway.
 (5) Access to washing accommodation may be obtained directly from not more than 2 sleeping rooms accommodating not more than 4 persons in all, if the washing accommodation is appropriated for use solely by the person or persons accommodated in those sleeping rooms.
@@ -605,7 +605,7 @@ accommodation forming part of a permanent hospital, and for the purposes of subp
 available a supply of fresh water sufficient for the washbasins, baths and showers fitted in compliance with this Schedule.
 (2) The supply shall be provided from tanks of a capacity of at least
 10 replenishments of the water or by other equally efficient means.
-[Subsidiary] Shipping (Crew Accommodation) Regulations
+Shipping (Crew Accommodation) Regulations [Subsidiary]
 (3) Where service tanks are fitted for that purpose they shall be directly connected with the ship's main washing water or drinking water storage tanks.
 (4) In ships of 1,000 tons or over any pumping necessary for the supply of fresh water shall be by mechanical power.
 (5) Hot and cold fresh water shall be laid on to all washbasins, baths and showers fitted in compliance with this Schedule subject to the following conditions:
@@ -648,7 +648,7 @@ sleeping rooms the crew and in a position readily accessible therefrom.
 24. (1) In every ship to which this Schedule applies, each of the
 following classes of persons shall be provided with water closets separate from those provided for the other classes:
 (a) officers and apprentices;
-[Subsidiary] Shipping (Crew Accommodation) Regulations
+Shipping (Crew Accommodation) Regulations [Subsidiary]
 (b) petty officers; and
 (c) ratings other than petty officers.
 (2) One water closet shall be provided for every 8 persons in each of the classes as aforesaid and each of such classes shall be provided with at least one water closet.
@@ -703,7 +703,7 @@ and supplied through self-closing non-concussive supply valves with a portable s
 as to facilitate cleaning and minimise the risk of obstruction which have a direct overboard outfall fitted with a storm-valve unless it is connected with a main sewerage outfall by an efficient and hygienic system;
 (d) a device for holding toilet paper; and
 (e) a handrail or grip.
-[Subsidiary] Shipping (Crew Accommodation) Regulations
+Shipping (Crew Accommodation) Regulations [Subsidiary]
 (20) Every water closet provided for the exclusive use of special ratings shall be designed and equipped in a manner suited to the national habits and customs of those ratings and in particular shall be provided with-
 (a) a water closet pedestal of single type with a trapped pan of
 white vitreous china or other suitable material;
@@ -751,7 +751,7 @@ is intended to serve ovens
 not more than 20 ... 1 more than 20, but not more than 60 ... 2 more than 60 ... 3
 (c) the top-plate of every cooking range shall be at a height
 which will enable it to be conveniently used by a person of normal height standing on the floor of the galley, unless a separate boiling table is provided at such a height.
-[Subsidiary] Shipping (Crew Accommodation) Regulations
+Shipping (Crew Accommodation) Regulations [Subsidiary]
 (18) Salt water taps shall not be fitted over a sink in any galley or other place in which food may be prepared for the crew.
 (19) Hot and cold fresh water shall be laid on to a sink in the galley for washing-up purposes.
 (20) A connection shall be provided on a water pipe within the galley and shall be suitable for the connection of a hose with which the floor may be scoured.
@@ -793,7 +793,7 @@ treatment of patients in all weathers.
 shall be 30 inches or as near thereto as is practicable in the circumstances.
 (9) The hospital shall be so arranged that a stretcher can easily be
 carried into the hospital and placed alongside at least one single-tier bed therein.
-[Subsidiary] Shipping (Crew Accommodation) Regulations
+Shipping (Crew Accommodation) Regulations [Subsidiary]
 (10) The floor-covering in every permanent hospital shall, as far as is practicable, be free from joins.
 (11) Every permanent hospital shall include a hospital ward fitted on at least two sides with side scuttles at least 12 inches in diameter.
 (12) The side scuttle shall be capable of being opened. Where it is not practicable to fit a side scuttle on two sides of the hospital ward, a skylight, capable of being opened and of as large a size as is practicable, may be substituted for a side scuttle on one side of the ward.
@@ -831,7 +831,7 @@ internal length shall be fitted in washing accommodation forming part of the hos
 hygienic and durable material having a smooth and impervious surface not likely to crack, flake or become corroded.
 (29) They shall be fitted with an efficient and hygienic discharge
 system separate, if practicable, from any other discharge system in the ship and in particular the waste pipes shall be fitted in a manner which will facilitate cleaning.
-(30) Ascupper at least 2 inches in diameter shall be fitted in the lowest
+(30) A scupper at least 2 inches in diameter shall be fitted in the lowest
 part of any room, other than a ward, which contains such washbasin or bath.
 (31) A water closet pedestal shall be fitted as part of every
 permanent hospital.
@@ -839,7 +839,7 @@ permanent hospital.
 or in washing accommodation forming part of the hospital.
 (33) Access to the water closet pedestal, or washing accommodation,
 as the case may be, shall be obtained directly from the hospital ward or from a lobby forming part of the hospital.
-[Subsidiary] Shipping (Crew Accommodation) Regulations
+Shipping (Crew Accommodation) Regulations [Subsidiary]
 (34) The room in which the water closet pedestal is installed shall be provided with a gastight self-closing door unless it is served by a mechanical system of exhaust ventilation, and shall be so constructed as to facilitate cleaning and not to harbour dirt or vermin.
 (35) Such room shall be ventilated in the manner specified in paragraph 24(16) of this Schedule and shall comply with the requirements of paragraph 24(19) or (20), whichever shall be applicable in the circumstances.
 29. (1) In every ship to which this Schedule applies a medical cabinet shall be provided in a position adjacent to the permanent hospital, if any, required by paragraph 28 of this Schedule or near to the sleeping room of the person in charge of sick persons on board.
@@ -885,7 +885,7 @@ or any part thereof was found by any of the persons making the inspection not to
 shall be used, or appropriated for use, by passengers.
 (2) No galley or storeroom provided in compliance with this
 Schedule shall be used, or appropriated for use, for the preparation of storage or food for passengers.
-[Subsidiary] Shipping (Crew Accommodation) Regulations
+Shipping (Crew Accommodation) Regulations [Subsidiary]
 - Margin: (Regulation 40).
 - Margin: Position of crew accommodation.
 - Margin: Height of crew accommodation .

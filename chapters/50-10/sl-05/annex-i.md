@@ -6,9 +6,11 @@ continuous deck. This height shall be measured from the position vertically bene
 2. Vertical positioning and spacing of lights
 (a) On a power-driven vessel of 20 metres or more in length the
 masthead lights shall be placed as follows:
-(i) the forward masthead light, or if only one masthead light is carried, then that light, at a height above the hull of not less than 6 metres, and, if the breadth of the vessel exceeds 6 metres, then at a height above the hull not less than such breadth, so however that the light need not be placed at a greater height above the hull than 12 metres;
-[Subsidiary] Shipping (Distress Signals and Prevention of Collisions) Regulations
-(ii) when two masthead lights are carried the after one shall be at least 4-5 metres vertically higher than the forward one.
+(i) the forward masthead light, or if only one masthead light is
+carried, then that light, at a height above the hull of not less than 6 metres, and, if the breadth of the vessel exceeds 6 metres, then at a height above the hull not less than such breadth, so however that the light need not be placed at a greater height above the hull than 12 metres;
+Shipping (Distress Signals and Prevention of Collisions) Regulations [Subsidiary]
+(ii) when two masthead lights are carried the after one shall be at
+least 4-5 metres vertically higher than the forward one.
 (b) The vertical separation of masthead lights of power-driven vessels shall be such that in all normal conditions of trim the after light will be seen over and separate from the forward light at a distance of 1,000 metres from the stern when viewed from sea-level.
 (c) The masthead light of a power-driven vessel of 12 metres but less than 20 metres in length shall be placed at a height above the gunwale of not less than 2.5 metres.
 (d) A power-driven vessel of less than 12 metres in length may carry the uppermost light at a height of less than 2.5 metres above the gunwale. When however a masthead light is carried in addition to sidelights and a sternlight or the all-round light prescribed in Rule 23(c)(i) is carried in addition to sidelights, then such masthead light or all-round light shall be carried at least 1 metre higher than the sidelights.
@@ -39,7 +41,7 @@ vertically between the forward masthead light(s) and the after masthead light(s)
 dredgers and vessels engaged in underwater operations.
 (a) The light indicating the direction of the outlying gear from a vessel
 engaged in fishing as prescribed in rule 26(c)(ii) shall be placed at a horizontal
-[Subsidiary] Shipping (Distress Signals and Prevention of Collisions) Regulations
+Shipping (Distress Signals and Prevention of Collisions) Regulations [Subsidiary]
 distance of not less than 2 metres and not more than 6 metres away from the two all-round red and white lights. This light shall be placed not higher than the all-round white light prescribed in rule 26(c)(i) and not lower than the sidelights.
 (b) The lights and shapes on a vessel engaged in dredging or underwater operations to indicate the obstructed side and/or the side on which it is safe to pass, as prescribed in rule 27(d)(i) and (ii), shall be placed at the maximum practical horizontal distance, but in no case less than 2 metres, from the lights or shapes prescribed in rule 27(b)(i) and (ii). In no case shall the upper of these lights or shapes be at a greater height than the lower of the three lights or shapes prescribed in rule 27(b)(i) and (ii).
 5. Screens for sidelights
@@ -57,8 +59,8 @@ above having a common base.
 (c) In a vessel of less than 20 metres in length shapes of lesser dimensions but commensurate with the size of the vessel may be used and the distance apart may be correspondingly reduced.
 7. Colour specification of lights
 The chromaticity of all navigation lights shall conform to the following standards, which lie within the boundaries of the area of the diagram specified for each colour by the International Commission on Illumination (CIE). [Subsidiary] Shipping (Distress Signals and Prevention of Collisions) Regulations
-The boundaries of the area for each colour are given by indicating the corne
-co-ordinates, which are as follows:
+The boundaries of the area for each colour are given by indicating the
+corner co-ordinates, which are as follows:
 (i) White
 x 0.525 0.525 0.452 0.310 0.310 0.443 y 0.382 0.440 0.440 0.348 0.283 0.382
 (ii) Green
@@ -83,18 +85,22 @@ Range of visibility Luminous intensity of (luminous range) of light in candelas 
 D I 1 0.9 2 4.3 3 12 4 27 5 52 6 94
 Note: The maximum luminous intensity of navigation lights should be
 limited to avoid undue glare. This shall not be achieved by a variable control of the luminous intensity.
-[Subsidiary] Shipping (Distress Signals and Prevention of Collisions) Regulations
+Shipping (Distress Signals and Prevention of Collisions) Regulations [Subsidiary]
 9. Horizontal sectors
 (a) (i) In the forward direction, sidelights as fitted on the vessel shall show the minimum required intensities. The intensities shall decrease to reach practical cut-off between 1 degree and 3 degrees outside the prescribed sectors.
 (ii) For sternlights and masthead lights and at 22.5 degrees abaft the beam for sidelights, the minimum required intensities shall be maintained over the arc of the horizon up to 5 degrees within the limits of the sectors prescribed in rule 21. From 5 degrees within the prescribed sectors the intensity may decrease by 50 per cent up to the prescribed limits; it shall decrease steadily to reach practical cut-off at not more than 5 degrees outside the prescribed sectors.
 (b) All-round lights shall be so located as not to be obscured by masts, topmasts or structures within angular sectors of more than 6 degrees, except anchor lights prescribed in rule 30, which need not be placed at an impractical height above the hull.
 10. Vertical sectors
 (a) The vertical sectors of electric lights as fitted, with the exception of lights on sailing vessels underway shall ensure that-
-(i) at least the required minimum intensity is maintained at all angles from 5 degrees above to 5 degrees below the horizontal;
-(ii) at least 60 per cent of the required minimum intensity is maintained from 7.5 degrees above to 7.5 degrees below the horizontal.
+(i) at least the required minimum intensity is maintained at all
+angles from 5 degrees above to 5 degrees below the horizontal;
+(ii) at least 60 per cent of the required minimum intensity is maintained
+from 7.5 degrees above to 7.5 degrees below the horizontal.
 (b) In the case of sailing vessels underway the vertical sectors of electric lights as fitted shall ensure that-
-(i) at least the required minimum intensity is maintained at all angles from 5 degrees above to 5 degrees below the horizontal;
-(ii) at least 50 per cent of the required minimum intensity is maintained from 25 degrees above to 25 degrees below the horizontal.
+(i) at least the required minimum intensity is maintained at all
+angles from 5 degrees above to 5 degrees below the horizontal;
+(ii) at least 50 per cent of the required minimum intensity is maintained
+from 25 degrees above to 25 degrees below the horizontal.
 (c) In the case of lights other than electric these specifications shall be met as closely as possible.
 11. Intensity of non-electric lights
 Non-electric lights shall so far as practicable comply with the minimum intensities, as specified in the Table given in section 8 of this Annex.

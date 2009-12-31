@@ -25,7 +25,8 @@ a description of the casualty and the place where, or the position of the ship w
 or person is in distress at sea, that was observed or received.
 [Subsidiary]
 SHIPPING (MEDICAL EXAMINATION) REGULATIONS
-ARRANGEMENT OF REGULATIONS REGULATION
+ARRANGEMENT OF REGULATIONS
+REGULATION
 1. Citation. 2. Definitions. 3. Application. 4. Prohibition on employment. 5. Issue of medical fitness certificate.
 5A. Medical examination. 5B. Approved medical practitioner may consult.
 6. Certificates equivalent to medical fitness certificates. 7. Certificates issued by foreign States. 8. Period of validity of certificate. 9. Suspension or cancellation of valid certificate.
@@ -53,12 +54,12 @@ commercial fishing;
 determined in accordance with the Shipping (Tonnage) Regulations, and where a ship is assigned alternative gross tonnages it shall be taken to be the larger of those tonnages;
 "medical fitness certificate" means a certificate issued under
 regulation 5, whether or not subject to restrictions, or a certificate deemed to be equivalent thereto under regulation 6 or 7;
-[Subsidiary] Shipping (Medical Examination) Regulations
+Shipping (Medical Examination) Regulations [Subsidiary]
 "Minister" means, unless otherwise specified within the
 Regulations, the Minister to whom the responsibility for shipping is assigned; "pleasure craft" means a ship, however propelled, that is used
 exclusively for pleasure and does not carry passengers for hire or reward, but does not include a ship that is provided for the transport or entertainment of lodgers at any institution, hotel, boarding house, guest house or other establishment; "restricted service" means that the employment of a seafarer is
-restricted to certain shipping trades, geographical areas and types of ship or job, for such period of time as may be stipulated by an approved medical practitioner; "seafarer" includes a master and a seaman; "Trinidad and Tobago Ship" has the same meaning as in section
-2 of the Shipping Act.
+restricted to certain shipping trades, geographical areas and types of ship or job, for such period of time as may be stipulated by an approved medical practitioner; "seafarer" includes a master and a seaman; "Trinidad and Tobago Ship" has the same meaning as in section 2
+of the Shipping Act.
 3. (1) These Regulations apply to Trinidad and Tobago ships.
 (2) Regulations 13 and 14 apply to ships other than Trinidad and Tobago ships when they are in a port or the territorial waters of Trinidad and Tobago.
 (3) These Regulations apply to ships which are of two hundred gross tons or over and which proceed to sea and are actively engaged in commercial trading but excluding fishing vessels, pleasure craft and ships trading exclusively in the Gulf of Paria.
@@ -88,7 +89,7 @@ and who is not engaged in the navigation of the ship or is not engaged in the de
 such a member;
 (e) a person employed in a port who is not
 ordinarily employed at sea; or
-[Subsidiary] Shipping (Medical Examination) Regulations
+Shipping (Medical Examination) Regulations [Subsidiary]
 (f) a person employed in a ship solely to provide
 goods, personal services or entertainment on board and who is not employed by the owner or the person employing the master of the ship and who has no emergency safety responsibilities.
 5. (1) An applicant for a medical fitness certificate shall be examined by an approved medical practitioner.
@@ -124,7 +125,7 @@ remain valid from the date of the medical examination only for the appropriate m
 accordance with the provisions of the Medical Examination (Seafarers) Convention 1946 (International Labour Organisation Convention 73 of 1946) or the Merchant Shipping (Minimum Standards) Convention 1976 (International Labour Organisation Convention 147 of 1976)-
 (a) by an authority empowered in that behalf by the
 laws of a country outside Trinidad and Tobago which has ratified the Convention of 1946 or the Convention of 1976; or
-[Subsidiary] Shipping (Medical Examination) Regulations
+Shipping (Medical Examination) Regulations [Subsidiary]
 (b) by an approved authority empowered in that
 behalf by the laws of a foreign State,
 shall be deemed for the purposes of these Regulations to be equivalent to a medical fitness certificate issued under these Regulations.
@@ -166,7 +167,7 @@ certificate at any time during the two years immediately preceding that refusal,
 . (5) An application under subregulation (1)-
 (a) shall be lodged with the Minister within one
 month of the date on which the seafarer is given notice of the refusal, imposition of a restriction,
-[Subsidiary] Shipping (Medical Examination) Regulations
+Shipping (Medical Examination) Regulations [Subsidiary]
 suspension or cancellation, or such longer period as the Minister may determine if delay is caused by the seafarer's employment on board ship away from Trinidad and Tobago; and
 (b) shall specify the name and address of the medical
 practitioner responsible for the refusal, imposition of a restriction, suspension or cancellation and shall include the consent of the seafarer for that practitioner to provide a report to the Chief Medical Officer and to the medical referee.
@@ -192,7 +193,7 @@ medical examination in accordance with these Regulations shall-
 medical examination on the form set out in the Fourth Schedule and shall retain the notes and the record for a period of six years from the date of the examination; and
 (b) send to the Director of Maritime Services an
 annual return of all such examinations in the form set out in the Fifth Schedule, which form, so far as the Minister considers practicable, shall not include medical information which can be identified as applying to a particular person.
-[Subsidiary] Shipping (Medical Examination) Regulations
+Shipping (Medical Examination) Regulations [Subsidiary]
 12. (1) A person duly authorised by the Minister may inspect any Trinidad and Tobago ship to which these Regulations apply.
 (2) Where a person mentioned in subregulation (1) is satisfied that a seafarer, whose employer is required by regulation 4 to ensure that he is the holder of a medical fitness certificate-
 (a) is unable to produce a certificate which meets
@@ -226,8 +227,8 @@ by the owner by reason of the detention.
 who contravenes regulation 4 is guilty of an offence and liable on summary conviction to a fine not exceeding one thousand dollars for each contravention.
 (2) In any proceedings for an offence under these
 Regulations it shall be a defence for the employer to show that all reasonable steps had been taken by him to ensure compliance with the Regulations.
-[Subsidiary] Shipping (Medical Examination) Regulations
-- Margin: (Regulation 11).
+Shipping (Medical Examination) Regulations [Subsidiary]
+- Margin: Regulation 11.
 - Margin: 2/1991. [80/2002].
 - Margin: Citation.
 - Margin: Definitions.

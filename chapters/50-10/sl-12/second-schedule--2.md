@@ -8,8 +8,7 @@ The Government of the Republic of Trinidad and Tobago certifies that Certificate
 Function Level Limitations (If any)
 The lawful holder of this endorsement may serve in the following capacity or capacities specified in the applicable safe manning requirements of the Maritime Services Division:
 Capacity Limitations (If any)
-[Subsidiary]
-Shipping (Training, Certification, Safe Manning, Hours of Work
+[Subsidiary] Shipping (Training, Certification, Safe Manning, Hours of Work
 and Watchkeeping) Regulations
 Endorsement No... issued on .../... /...
 (dd / mm / yy)
@@ -30,7 +29,6 @@ The validity of this endorsement is hereby extended to ... (Official Seal)
 Name of duly authorised official
 The validity of this endorsement is hereby extended to ... (Official Seal)
 ... Signature of duly authorised official Date of revalidation ...
-Name of duly authorised official [Subsidiary]
-Shipping (Training, Certification, Safe Manning, Hours of Work
+Name of duly authorised official [Subsidiary] Shipping (Training, Certification, Safe Manning, Hours of Work
 and Watchkeeping) Regulations
-- Margin: [Regulation 7(5)].
+- Margin: Regulation 7(5).

@@ -27,7 +27,7 @@ special rules made by the Government of any State with respect to additional sta
 the purpose of these Rules.
 (e) Whenever the Government concerned shall have determined that a
 vessel of special construction or purpose cannot comply fully with the provisions of any of these Rules with respect to the number, position, range or arc of visibility of lights or shapes, as well as to the disposition and characteristics of sound-signalling appliances, such vessel shall comply with
-[Subsidiary] Shipping (Distress Signals and Prevention of Collisions) Regulations
+Shipping (Distress Signals and Prevention of Collisions) Regulations [Subsidiary]
 such other provisions in regard to the number, position, range or are of visibility of lights or shapes, as well as to the disposition and characteristics of sound signalling appliances, as her Government shall have determined to be the closest possible compliance with these Rules in respect of that vessel.
 RULE 2
 Responsibility
@@ -75,7 +75,7 @@ PART B-STEERING AND SAILING RULES Section 1. Conduct of vessels in any condition
 RULE 4
 Application
 Rules in this Section apply in any condition of visibility.
-[Subsidiary] Shipping (Distress Signals and Prevention of Collisions) Regulations
+Shipping (Distress Signals and Prevention of Collisions) Regulations [Subsidiary]
 RULE 5
 Look-out
 Every vessel shall at all times maintain a proper look-out by sight and hearing as well as by all available means appropriate in the prevailing circumstances and conditions so as to make a full appraisal of the situation and of the risk of collision.
@@ -130,7 +130,7 @@ circumstances of the case admit, be large enough to be readily apparent to anoth
 most effective action to avoid a close-quarters situation provided that it is made in good time, is substantial and does not result in another close-quarters situation.
 (d) Action taken to avoid collision with another vessel shall be such as to
 result in passing at a safe distance. The effectiveness of the action shall be carefully checked until the other vessel is finally past and clear.
-[Subsidiary] Shipping (Distress Signals and Prevention of Collisions) Regulations
+Shipping (Distress Signals and Prevention of Collisions) Regulations [Subsidiary]
 (e) If necessary to avoid collision or allow more time to assess the situation, a vessel shall slacken her speed or take all way off by stopping or reversing her means of propulsion.
 (f) (i) A vessel which, by any of these Rules, is required not to impede the passage or safe passage of another vessel shall, when required by the circumstances of the case, take early action to allow sufficient sea room for the safe passage of the other vessel.
 (ii) A vessel required not to impede the passage or safe passage of another vessel is not relieved of this obligation if approaching the other vessel so as to involve risk of collision and shall, when taking action have full regard to the action, which may be required by the Rules of this Part.
@@ -170,7 +170,7 @@ lane shall not normally enter a separation zone or cross a separation line excep
 schemes shall do so with particular caution.
 (g) A vessel shall so far as practicable avoid anchoring in a traffic
 separation scheme or in areas near its terminations.
-[Subsidiary] Shipping (Distress Signals and Prevention of Collisions) Regulations
+Shipping (Distress Signals and Prevention of Collisions) Regulations [Subsidiary]
 (h) A vessel not using a traffic separation scheme shall avoid it by as wide a margin as is practicable.
 (i) A vessel engaged in fishing shall not impede the passage of any vessel following a traffic lane.
 (j) A vessel of less than 20 metres in length or a sailing vessel shall not impede the safe passage of a power-driven vessel following a traffic lane.
@@ -211,7 +211,7 @@ RULE 15
 Crossing situation
 When two power-driven vessels are crossing so as to involve risk of
 collision, the vessel which has the other on her own starboard side shall keep out of the way and shall, if the circumstances of the case admit, avoid crossing ahead of the other vessel.
-[Subsidiary] Shipping (Distress Signals and Prevention of Collisions) Regulations
+Shipping (Distress Signals and Prevention of Collisions) Regulations [Subsidiary]
 RULE 16
 Action by give-way vessel
 Every vessel which is directed to keep out of the way of another vessel shall, so far as possible, take early and substantial action to keep well clear.
@@ -259,7 +259,7 @@ shall determine if a close-quarters situation is developing and/or risk of colli
 beam, other than for a vessel being overtaken;
 (ii) an alteration of course towards a vessel a beam or abaft
 the bean.
-[Subsidiary] Shipping (Distress Signals and Prevention of Collisions) Regulations
+Shipping (Distress Signals and Prevention of Collisions) Regulations [Subsidiary]
 (e) Except where it has been determined that a risk of collision does not exist, every vessel which hears apparently forward of her beam the fog signal of another vessel, or which cannot avoid a close-quarters situation with another vessel forward of her beam, shall reduce her speed to the minimum at which she can be kept on her course. She shall if necessary take all her way off and in any event navigate with extreme caution until danger of collision is over.
 PART C-LIGHTS AND SHAPES
 RULE 20
@@ -296,7 +296,7 @@ a sidelight, 2 miles; a sternlight, 2 miles; a towing light, 2 miles; a white, r
 a masthead light, 2 miles; a sidelight, 1 mile; a sternlight, 2 miles; a towing light, 2 miles; a white, red, green or yellow all-round light, 2 miles.
 (d) In inconspicuous, partly submerged vessels or objects towed-
 a white all-round light, 3 miles.
-[Subsidiary] Shipping (Distress Signals and Prevention of Collisions) Regulations
+Shipping (Distress Signals and Prevention of Collisions) Regulations [Subsidiary]
 RULE 23
 Power-driven vessels underway
 (a) A power-driven vessel underway shall exhibit-
@@ -350,7 +350,7 @@ white lights at or near the extremities of its breadth;
 (iii) if it exceeds 100 metres in length, additional all-round white
 lights between the lights prescribed in subparagraphs (i) and
 (ii) so that the distance between the lights shall not exceed 100 metres;
-[Subsidiary] Shipping (Distress Signals and Prevention of Collisions) Regulations
+Shipping (Distress Signals and Prevention of Collisions) Regulations [Subsidiary]
 (iv) a diamond shape at or near the aftermost extremity of the last
 vessel or object being towed and if the length of the tow exceeds 200 metres an additional diamond shape where it can best be seen and located as far forward as is practicable.
 (h) Where from any sufficient cause it is impracticable for a vessel or object being towed to exhibit the lights or shapes prescribed in paragraph (e) or (g) of this Rule, all possible measures shall be taken to light the vessel or object towed or at least to indicate the presence of such vessel or object.
@@ -389,7 +389,7 @@ prescribed in this paragraph, sidelights and a sternlight.
 engaged in fishing may exhibit the additional signals described in Annex II to these Regulations.
 (e) A vessel when not engaged in fishing shall not exhibit the lights or
 shapes prescribed in this Rule, but only those prescribed for a vessel of her length.
-[Subsidiary] Shipping (Distress Signals and Prevention of Collisions) Regulations
+Shipping (Distress Signals and Prevention of Collisions) Regulations [Subsidiary]
 RULE 27
 Vessels not under command or restricted in their ability to manoeuvre
 (a) A vessel not under command shall exhibit-
@@ -441,7 +441,7 @@ the upper being white and the lower red;
 (iii) when at anchor, in addition to the lights prescribed in
 subparagraph (i), the light, lights or shape prescribed in
 Rule 30 for vessels at anchor.
-[Subsidiary] Shipping (Distress Signals and Prevention of Collisions) Regulations
+Shipping (Distress Signals and Prevention of Collisions) Regulations [Subsidiary]
 (b) A pilot vessel when not engaged on pilotage duty shall exhibit the lights or shapes prescribed for a similar vessel of her length.
 RULE 30
 Anchored vessels and vessels aground
@@ -481,7 +481,7 @@ one short blast to mean "I am altering my course to starboard"; two short blasts
 paragraph (a) of this Rule by light signals, repeated as appropriate, whilst the manoeuvre is being carried out-
 (i) these lights signals shall have the following significance:
 one flash to mean "I am altering my course to starboard"; two flashes to mean "I am altering my course to port"; three flashes to mean "I am operating astern propulsion";
-[Subsidiary] Shipping (Distress Signals and Prevention of Collisions) Regulations
+Shipping (Distress Signals and Prevention of Collisions) Regulations [Subsidiary]
 (ii) the duration of each flash shall be about one second, the interval
 between flashes shall be about one second, and the interval between successive signals shall be not less than ten seconds;
 (iii) the light used for this signal shall, if fitted, be an all-round
@@ -520,7 +520,7 @@ the bell rapidly for about 5 seconds. In a vessel of 100 metres or more in lengt
 signal prescribed in paragraph (g) of this Rule and shall, in addition, give three separate and distinct strokes on the bell immediately before and after the rapid ringing of the bell. A vessel aground may in addition sound an appropriate whistle signal.
 (i) A vessel of less than 12 metres in length shall not be obliged to give
 the above-mentioned signals but, if she does not, shall make some other efficient sound signal at intervals of not more than 2 minutes.
-[Subsidiary] Shipping (Distress Signals and Prevention of Collisions) Regulations
+Shipping (Distress Signals and Prevention of Collisions) Regulations [Subsidiary]
 (j) A pilot vessel when engaged on pilotage duty may in addition to the signals prescribed in paragraph (a), (b) or (g) of this Rule sound an identity signal consisting of four short blasts.
 RULE 36
 Signals to attract attention
@@ -537,7 +537,8 @@ Any vessel (or class of vessels) provided that she complies with the requirement
 (c) The repositioning of lights as a result of conversion from Imperial to metric units and rounding off measurement figures, permanent exemption. [Subsidiary] Shipping (Distress Signals and Prevention of Collisions) Regulations
 (d) (i) The repositioning of masthead lights on vessels of less then 150
 metres in length, resulting from the prescriptions of section 3(a) of Annex I to these Regulations, permanent exemption.
-(ii) The repositioning of masthead lights on vessels of 150 metres or more in length, resulting from the prescriptions of section 3(a) of Annex I to these Regulations, until nine years after the date of entry into force of these Regulations.
+(ii) The repositioning of masthead lights on vessels of 150 metres
+or more in length, resulting from the prescriptions of section 3(a) of Annex I to these Regulations, until nine years after the date of entry into force of these Regulations.
 (e) The repositioning of masthead lights resulting from the prescriptions
 of section 2(b) of Annex I to these Regulations, until nine years after the date of entry into force of these Regulations.
 (f) The repositioning of sidelights resulting from the prescriptions of

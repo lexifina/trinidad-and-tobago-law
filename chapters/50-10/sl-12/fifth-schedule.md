@@ -14,4 +14,4 @@ Certified for Crew
 *There shall be inserted here the maximum number of seamen who may be accommodated in the room in accordance with these Regulations.
 1. In the case of a room intended for the sole use of any other officer the
 rank of that officer shall be substituted here.
-- Margin: (Regulation 20).
+- Margin: Regulation 20.

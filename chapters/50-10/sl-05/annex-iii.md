@@ -7,7 +7,7 @@ Technical details of sound signal appliances
 (ii) 130-350 Hz, for a vessel 75 metres but less than 200 metres
 in length;
 (iii) 250-700 Hz, for a vessel less than 75 metres in length.
-(c) Sound signal intensity and range of audibility Awhistle fitted in a vessel shall provide, in the direction of maximum intensity of the whistle and at a distance of 1 metre from it, a sound pressure level in at least one 1⁄3 rd-octave band within the range of frequencies 180-700 Hz (‡ 1 per cent) of not less than the appropriate figure given in the table below.
+(c) Sound signal intensity and range of audibility A whistle fitted in a vessel shall provide, in the direction of maximum intensity of the whistle and at a distance of 1 metre from it, a sound pressure level in at least one 1⁄3 rd-octave band within the range of frequencies 180-700 Hz (‡ 1 per cent) of not less than the appropriate figure given in the table below.
 1⁄3 rd-octave band level at Audibility range in
 Length of vessel in metres 1 metre in dB referred to nautical miles
 2 X 105- N/m2
@@ -29,7 +29,7 @@ so arranged that they are not sounded simultaneously.
 (g) Combined whistle systems
 If due to the presence of obstructions the sound field of a single whistle or
 of one of the whistles referred to in paragraph 1(f) above is likely to have a zone of greatly reduced signal level, it is recommended that a combined whistle system be fitted so as to overcome this reduction. For the purposes of the Rules a combined whistle system is to be regarded as a single whistle. The whistles of a combined system shall be located at a distance apart of not more than 100 metres and arranged to be sounded simultaneously. The frequency of any one whistle shall differ from those of the others by at least 10 Hz.
-[Subsidiary] Shipping (Distress Signals and Prevention of Collisions) Regulations
+Shipping (Distress Signals and Prevention of Collisions) Regulations [Subsidiary]
 2. Bell or gong
 (a) Intensity of signal
 A bell or gong, or other device having similar sound characteristics shall produce a sound pressure level of not less than 110 dB at a distance of 1 metre from it.

@@ -17,7 +17,7 @@ the system shall be sufficient to ensure that the velocity of air at each exhaus
 8. The speed of every supply fan forming part of the system shall be
 capable of being varied where DC motors are used.
 9. The system shall be quiet in operation.
-[Subsidiary] Shipping (Crew Accommodation) Regulations
+Shipping (Crew Accommodation) Regulations [Subsidiary]
 10. All trunking forming part of the system shall be fitted with non-return flaps where such flaps are necessary for the exclusion of effluvia and the preservation of health of the crew.
 11. If the system is designed to circulate heated air as the sole means of heating the crew accommodation, the system shall be sub-divided into sections which can be separately controlled to the extent necessary to enable a comfortable temperature to be maintained in all parts of the crew accommodation.
 12. The spare gear referred to in regulation 16(9) shall be-
@@ -85,7 +85,7 @@ machinery casings … 15 0.71(a)
 (2) adjoining machinery
 casings … … …
 18 0.71(a)
-[Subsidiary] Shipping (Crew Accommodation) Regulations
+Shipping (Crew Accommodation) Regulations [Subsidiary]
 1 2 3
 Volume of fresh
 air in cubic
@@ -149,7 +149,7 @@ Sanitary accommodation F
 laundries drying rooms and pantries private or semi-
 (d) 10
 private toilets
-[Subsidiary] Shipping (Crew Accommodation) Regulations
+Shipping (Crew Accommodation) Regulations [Subsidiary]
 14. TABLE II-Continued
 1 2 3
 Fresh air changes
@@ -172,4 +172,4 @@ weather;
 (b) mechanical supply ventilation may be fitted in addition to the
 mechanical exhaust ventilation provided that the volume of air supplied does not exceed that provided by the exhaust;
 (c) subject to the provisions of regulation 33(5). [Subsidiary] Shipping (Crew Accommodation) Regulations
-- Margin: (Regulation 16).
+- Margin: Regulation 16.

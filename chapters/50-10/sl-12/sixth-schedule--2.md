@@ -29,7 +29,6 @@ Regulations;
 (v) endorsements; and
 (vi) limitations; and
 (f) the date of issue of the latest medical certificate relating to
-the issue or revalidation of a certificate. [Subsidiary]
-Shipping (Training, Certification, Safe Manning, Hours of Work
+the issue or revalidation of a certificate. [Subsidiary] Shipping (Training, Certification, Safe Manning, Hours of Work
 and Watchkeeping) Regulations
-- Margin: [Regulation 22(5)].
+- Margin: Regulation 22(5).

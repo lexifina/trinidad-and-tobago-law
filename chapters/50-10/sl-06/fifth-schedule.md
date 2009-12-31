@@ -4,8 +4,8 @@ FREEBOARDS
 meanings thereby assigned to them respectively, and-"block coefficient": or the symbol "(Cb)" in relation to a ship means the product of-
 ∇
 L.Bd1
-Where - ∇
-is the volume of the moulded displacement of the ship (excluding bossing) if the ship has a metal shell, and of displacement to the outer surface of the hull if the ship has a shell of any other material, displacement being taken in each case at a moulded draught of d1, and
+Where - ∇ is the volume of the moulded displacement of the ship (excluding
+bossing) if the ship has a metal shell, and of displacement to the outer surface of the hull if the ship has a shell of any other material, displacement being taken in each case at a moulded draught of d1, and
 d1 is 85 per cent of the least moulded depth; and in no case shall the block
 coefficient (Cb) be taken to be less than 0.68;
 "depth for freeboard" and the symbol "(D)" in relation to a ship means-
@@ -19,7 +19,7 @@ the effective length of the superstructure ascertained in accordance with paragr
 deck;
 "length" and the symbol "(S)" in relation to a superstructure means the length
 of the superstructure ascertained in accordance with paragraph 9 of this Schedule;
-[Subsidiary] Shipping (Load Line) Regulations
+Shipping (Load Line) Regulations [Subsidiary]
 "moulded depth" in relation to a ship means the vertical distance measured
 from the top of the keel to the top of the freeboard deck beam at side. However-
 (a) in the case of a wood or composite ship, it shall be measured
@@ -59,11 +59,11 @@ Summer freeboard applicable to the ship one forty-eighth (1/48th) of the summer 
 freeboard applicable to the ship one forty-eighth (1/48th) of the summer draught of the ship.
 (4) The Winter North Atlantic freeboard shall be obtained by adding
 to the Winter freeboard applicable to the ship a distance of 50 millimetres.
-[Subsidiary] Shipping (Load Line) Regulations
+Shipping (Load Line) Regulations [Subsidiary]
 (5) The Fresh Water freeboard shall, subject to subparagraph (6), be obtained by deducting from the Summer freeboard the quantity-
-∆
+Δ
 millimetres
-4Τ where ∆is the displacement in salt water in metric tons at the Summer load waterline, and T represents metric tonnes per centimetre immersion in salt water at that waterline.
+4Τ where Δ is the displacement in salt water in metric tons at the Summer load waterline, and T represents metric tonnes per centimetre immersion in salt water at that waterline.
 (6) In any case in which the displacement at the waterline referred to in subparagraph (5) cannot be ascertained the deduction shall be one-forty-eighth (1/48th) of the summer draught of the ship.
 4. The Summer freeboard to be assigned to a Type "A" ship shall be determined as follows:
 (a) there shall first be ascertained the ship's tabular freeboard;
@@ -112,7 +112,7 @@ the machinery space alone, at an assumed permeability of 0.85.
 and (5) is as follows:
 (a) the final waterline after flooding is below the top of any
 ventilator coaming, the lower edge of any air pipe opening,
-[Subsidiary] Shipping (Load Line) Regulations
+Shipping (Load Line) Regulations [Subsidiary]
 the upper edge of the sill of any access opening fitted with a weathertight door, and the lower edge of any other opening through which progressive flooding may take place;
 (b) the angle of heel due to unsymmetrical flooding does not
 exceed 15 degrees;
@@ -151,7 +151,7 @@ than 100 metres in length having enclosed superstructures the total effective le
 (10) The freeboard calculated in respect of a ship referred to in
 subparagraph (10) in accordance with subparagraphs (2) and (8) shall be increased by an amount ascertained in accordance with the formula 7.5 (100-(L) (0.35 (E) ) millimetres.
 (L)
-[Subsidiary] Shipping (Load Line) Regulations
+Shipping (Load Line) Regulations [Subsidiary]
 (11) In the case of a ship the block coefficient (Cb) of which exceeds 0.68 the freeboard calculated in respect of the ship in accordance with subparagraphs (1) to (11) shall be multiplied by the factor (Cb) + 0.68
 1.36
 (12) Corrections in accordance with paragraphs 6 to 16 of this Schedule shall be applied to the freeboard ascertained in accordance with subparagraphs (1) to (11) and, subject to paragraph 3(1), the freeboard so corrected shall be the summer freeboard to be assigned to the ship.
@@ -192,7 +192,7 @@ its length (S) modified in the ratio b/Bs, where-"b" is the breadth of the super
 so however that if the superstructure is so set in for part only of its length, such modification shall be applied only to that part;
 (b) subject to item (c), (E) in the case of an enclosed superstructure of
 less than standard height shall be its length (S) reduced in the ratio of the actual height of the superstructure to its standard height;
-[Subsidiary] Shipping (Load Line) Regulations
+Shipping (Load Line) Regulations [Subsidiary]
 (c) (E) in the case of an enclosed superstructure consisting of a
 raised quarterdeck shall, if the deck is fitted with an intact front bulkhead, be its length (S) subject to a maximum of 0.6 of the ship's length (L); and if not so fitted, be ascertained by treating the raised quarterdeck as a poop of less than standard height.
 (5) A superstructure which is not an enclosed superstructure shall have no effective length.
@@ -239,7 +239,7 @@ PERCENTAGE OF DEDUCTION FOR TYPE "A" SHIPS
 Total effective length of superstructures and trunks
 0 0.1 (L) 0.2 (L) 0.3 (L) 0.4 (L) 0.5 (L) 0.6 (L) 0.7 (L) 0.8 (L) 0.9 (L) 1.0 (L)
 Percentage 0 7 14 21 31 41 52 63 75.3 87.7 100 of deduction for all types of superstructures
-[Subsidiary] Shipping (Load Line) Regulations
+Shipping (Load Line) Regulations [Subsidiary]
 (b) the percentage of deduction in the case of a Type "A" ship
 having superstructures and trunks of an effective length intermediate to those specified in Table A shall be ascertained by linear interpolation;
 (c) in the case of a Type "B" ship, by a percentage ascertained
@@ -280,14 +280,14 @@ freeboard deck; or
 (b) is of more than standard height,
 an addition to the sheer of the freeboard deck shall be made calculated in accordance with paragraph 14(6).
 13. The ordinates of the standard sheer profile are given in the following Table:
-Ordinate Station Factor
+Station Ordinate Factor
 (in millimetres)
 After half After perpendicular ... 25 ((L) + 10) 1
 ... 3 1/6 (L)from A.P ... 11.1 ((L) +10) 3 ... 3 1/3 (L) from A.P... 2.8 ((L) + 10) 3 ... 3 Amidships ... 0 1
 Forward half Amidships ... 0 1
 1/3 (L) from F.P... 5.6 ((L) + 10) 3 ... 3 1/6 (L) from F.P... 22.2 ((L)+10) 3 ... 3 Forward perpendicular ... 50 ((L) + 10) 1
 3
-[Subsidiary] Shipping (Load Line) Regulations
+Shipping (Load Line) Regulations [Subsidiary]
 14. (1) Where the sheer profile of a ship differs from the standard sheer profile, the four ordinates of each profile in the forward and after halves of the ship shall be multiplied by the appropriate factors given in the Table of Ordinates in paragraph 13; the difference between the sums of the respective products and those of the standard divided by 8 shall be the deficiency or excess of sheer in the forward or after half; the arithmetical mean of the excess or deficiency in the forward and after halves shall be the excess or deficiency of sheer.
 (2) Where the after half of the sheer profile is greater than the standard sheer profile and the forward half is less than the standard sheer profile, no credit shall be allowed for the part in excess, and deficiency only shall be measured.
 (3) Where the forward half of the sheer profile exceeds the standard sheer profile, and the after half of the sheer profile is not less than 75 per cent of the standard sheer profile, credit shall be allowed for the part in excess.
@@ -330,7 +330,7 @@ been so constructed or modified as to comply with all the requirements of the Fo
 the freeboard determined for the ship in accordance with paragraphs 3 to 15 shall be increased by such amount as the Minister may determine in each particular case.
 (3) In the case of a ship to which subparagraph (1) applies, being a
 ship which is constructed to meet exceptional operational requirements, the correction to be made pursuant to the preceding subparagraphs may be reduced or waived if the Minister is satisfied that the safety of the ship will not be impaired in consequence in the worst sea and weather conditions likely to be encountered by the ship in service.
-[Subsidiary] Shipping (Load Line) Regulations
+Shipping (Load Line) Regulations [Subsidiary]
 (4) The bow height of a ship is the vertical distance at the forward perpendicular between the Summer load waterline of the ship at the designed trim and the top of the exposed deck at side ascertained as follows:
 (a) where the bow height is obtained by including sheer, the
 sheer shall extend for not less than 15 per cent of the ship's length (L) measured from the forward perpendicular;
@@ -376,13 +376,13 @@ the Winter North Atlantic freeboard assigned to the ship.
 from the Summer Timber freeboard one-forty-eighth (1/48th) of the summer timber draught of the ship.
 (4) The Fresh Water Timber freeboard shall, subject to
 subparagraph (5), be obtained by deducting from the Summer Timber freeboard the quantity-
-∆
+Δ
 millimetres
 4Τ
-where ∆ is the displacement in salt water in metric tonnes at the waterline which will, when load lines have been marked on the ship's side, correspond to the Summer Timber load line, and T represents metric tonnes per centimetre immersion in salt water at that waterline.
+where Δ is the displacement in salt water in metric tonnes at the waterline which will, when load lines have been marked on the ship's side, correspond to the Summer Timber load line, and T represents metric tonnes per centimetre immersion in salt water at that waterline.
 (5) In any case in which the displacement at the waterline referred to
 in subparagraph (4) cannot be ascertained the deduction shall be one forty-eighth (1/48th) of the summer timber draught of the ship.
-[Subsidiary] Shipping (Load Line) Regulations
+Shipping (Load Line) Regulations [Subsidiary]
 PART III
 SAILING SHIPS AND OTHER SHIPS
 19. The freeboards to be assigned to sailing ships and tugs shall be freeboards determined in accordance with Part I of this Schedule increased by such amounts as the Minister may direct in each particular case.

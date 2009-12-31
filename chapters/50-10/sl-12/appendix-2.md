@@ -1,7 +1,7 @@
 # APPENDIX 2
 TRUNKED MECHANICAL VENTILATION SYSTEM
-1. The trunked mechanical ventilation system referred to in paragraph
-9(8) of this Schedule (in this Appendix referred to as "the system") shall in relation to the spaces specified in the second column of Table I annexed hereto, be capable of the respective standards of performance specified in the third or fourth column of that Table, whichever standard shall be the higher in the circumstances.
+1. The trunked mechanical ventilation system referred to in paragraph 9(8)
+of this Schedule (in this Appendix referred to as "the system") shall in relation to the spaces specified in the second column of Table I annexed hereto, be capable of the respective standards of performance specified in the third or fourth column of that Table, whichever standard shall be the higher in the circumstances.
 2. Nothing in Table I shall be taken to relate to a space specified in the
 second column of Table II annexed hereto.
 3. The system shall, in relation to the spaces specified in the second
@@ -17,7 +17,7 @@ capable of being varied where direct current motors are used.
 return flaps where such flaps are necessary for the exclusion of effluvia and the preservation of the health of the crew.
 9. Where the system is designed to circulate heated air as the sole means
 of heating the crew accommodation, the system shall be subdivided into sections which can be separately controlled to the extent necessary to enable a comfortable temperature to be maintained in all parts of the crew accommodation.
-[Subsidiary] Shipping (Crew Accommodation) Regulations
+Shipping (Crew Accommodation) Regulations [Subsidiary]
 10. TABLE I
 4 1 2 3
 Volume of fresh air, in cubic feet Fresh air Category Space
@@ -84,7 +84,7 @@ machinery casing or abreast of an adjoining machinery casing, other than mess ro
 (4) Mess rooms, smoking
 rooms and recreation rooms in each case adjoining machinery
 20 30(b) casing ...
-[Subsidiary] Shipping (Crew Accommodation) Regulations
+Shipping (Crew Accommodation) Regulations [Subsidiary]
 (a) Whatever the number of persons likely to use the room at
 any one time, the total volume of fresh air per minute shall not be required to be such as would result in more than 20 fresh air changes per hour.
 (b) Whatever the number of persons likely to use the room at
@@ -114,4 +114,4 @@ and not more than
 (c) 15, if at least two sides of the galley are exposed to the
 weather.
 (d) Subject to the provisions of paragraph 26(5). [Subsidiary] Shipping (Crew Accommodation) Regulations
-- Margin: [Paragraph 9(8)].
+- Margin: Paragraph 9(8).

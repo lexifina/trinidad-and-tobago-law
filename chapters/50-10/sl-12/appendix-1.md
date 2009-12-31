@@ -22,4 +22,4 @@ produce any injurious effect upon persons who may come in contact with it.
 sufficiently hard and strong to withstand all conditions of service and shall be sufficiently flexible to prevent cracking under those conditions.
 2. Where the material is laid in a permanent hospital, it shall be material not likely to be damaged by surgical spirit or other liquids which may be used in the hospital.
 3. Where the material is laid on the crown of an oil fuel tank, the material shall be such that if it is immersed in fuel oil for a period of 24 hours at a temperature of 150º F the weight of the material will not increase by more than 1 per cent and the material will not be penetrated by the oil. [Subsidiary] Shipping (Crew Accommodation) Regulations
-- Margin: [Paragraphs 4(2) and 5(4)].
+- Margin: Paragraphs 4(2) and 5(4).

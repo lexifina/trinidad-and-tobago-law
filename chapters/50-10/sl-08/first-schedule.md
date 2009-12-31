@@ -17,6 +17,5 @@ Dated this ... day of ... 20...
 Director of Maritime Services Official Stamp
 Signature of Seaman ...
 *Delete whichever is inapplicable.
-[Subsidiary]
-Shipping (Certification of Seamen) (Deck Ratings) Regulations
-- Margin: [Regulation 3(5)].
+[Subsidiary] Shipping (Certification of Seamen) (Deck Ratings) Regulations
+- Margin: Regulation 3(5).

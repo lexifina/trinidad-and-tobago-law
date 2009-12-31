@@ -1,4 +1,4 @@
-ARRANGEMENT OF REGULATIONS-Continued
+ARRANGEMENT OF REGULATIONS-(Continued)
 REGULATION
 PART IV
 LOAD LINES AND MARKS
@@ -13,7 +13,7 @@ PART VII
 STABILITY, LOADING, AND BALLASTING
 INFORMATION
 42. Information as to the stability of ships. 43. Information as to loading and ballasting of ships.
-[Subsidiary] Shipping (Load Line) Regulations
+Shipping (Load Line) Regulations [Subsidiary]
 PART VIII
 RECOGNITION OF OTHER LOAD LINE CERTIFICATES
 44. Recognition of Certificates issued by other Governments. FIRST SCHEDULE. SECOND SCHEDULE. THIRD SCHEDULE. FOURTH SCHEDULE. FIFTH SCHEDULE. SIXTH SCHEDULE. SEVENTH SCHEDULE. EIGHTH SCHEDULE. NINTH SCHEDULE. TENTH SCHEDULE. [Subsidiary]
@@ -42,7 +42,7 @@ Cargo) Regulations, 1992;
 "existing ship" means a ship which is not a new ship;
 "freeboard" means the distance measured vertically downwards
 amidships from the upper edge of the deck line described in regulation 23 to the position at which the upper edge of the load line appropriate to the freeboard is to be marked;
-[Subsidiary] Shipping (Load Line) Regulations
+Shipping (Load Line) Regulations [Subsidiary]
 "freeboard deck" in relation to a ship means the deck from which
 the freeboards assigned to the ship are calculated, being either-
 (a) the uppermost complete deck exposed to
@@ -83,7 +83,7 @@ Tobago ship other than-
 (a) ships of War;
 (b) pleasure yachts; and
 (c) fishing vessels.
-[Subsidiary] Shipping (Load Line) Regulations
+Shipping (Load Line) Regulations [Subsidiary]
 PART II
 APPROPRIATE LOAD LINES AND ZONES
 4. Subject to regulations 6 to 9, the load line appropriate to a ship shall be-
@@ -116,7 +116,7 @@ to the Assigning Authority such plans, drawings, specifications and other docume
 together with other relevant information required by regulation 11, the Assigning Authority shall cause the ship to be surveyed by a surveyor in order to ascertain-
 (a) whether the ship complies with such of the
 requirements of Part V and the Fourth Schedule as are applicable; and
-[Subsidiary] Shipping (Load Line) Regulations
+Shipping (Load Line) Regulations [Subsidiary]
 (b) what other data is required-
 (i) for the determination of the freeboard
 which is to be assigned to the ship in accordance with Part VI and the Fifth Schedule; and
@@ -149,7 +149,7 @@ deck line and the load line mark are to be so marked; and
 Services Division then the Assigning Authority shall forward to the Director of Maritime Services a copy of the documents and information specified in subregulation (2).
 15. (1) Subject to regulation 20 the Assigning Authority
 shall, on being satisfied that the ship has been duly marked in accordance with the directions given to the owner of the ship
-[Subsidiary] Shipping (Load Line) Regulations
+Shipping (Load Line) Regulations [Subsidiary]
 under regulation 14, issue either an International Load Line Certificate (1966) or a Trinidad and Tobago Load Line Certificate as may be required by section 282 of the Act, in the form set out for such Certificates in the First Schedule.
 (2) Where the Assigning Authority is not the Maritime Services Division then the Assigning Authority shall forward to the Director of Maritime Services a copy of the Load Line Certificate issued to the ship.
 16. Every Load Line Certificate issued under these Regulations shall be valid until a date to be determined by the Assigning Authority, not being a date more than five years after the date of completion of survey of the ship under regulation 12 and such date shall be specified by the Assigning Authority in every certificate issued by it, failing which the certificate shall not be deemed to be a valid certificate.
@@ -180,7 +180,7 @@ the ship;
 Tobago when the certificate was issued and has since ceased to be registered.
 (2) In every such case the Minister shall notify the
 owner of the ship in writing of the cancellation specifying the grounds for cancellation and the date on which it is to take effect.
-[Subsidiary] Shipping (Load Line) Regulations
+Shipping (Load Line) Regulations [Subsidiary]
 19. (1) Every ship in respect of which a Load Line Certificate is in force shall be periodically inspected by a surveyor in accordance with this Regulation in order to ensure that-
 (a) the fittings and appliances for the protection of
 openings, the guard rails, the freeing ports and the means of access to the crew's quarters in the ship are in an effective condition; and
@@ -209,7 +209,7 @@ LOAD LINES AND MARKS
 relation to a ship means the load lines, the deck line and the load line mark directed to be marked on the ship pursuant to regulation 14.
 22. On receipt from the Assigning Authority of the
 particulars and directions referred to in regulation 14, the owner of the ship shall cause the appropriate marks to be made on each side of the ship in accordance with the directions and the requirements of this Part.
-[Subsidiary] Shipping (Load Line) Regulations
+Shipping (Load Line) Regulations [Subsidiary]
 23. (1) The deck line shall consist of a horizontal line 300 millimetres in length and 25 millimetres in width and shall be marked amidships on each side of the ship in accordance with subregulations (2) and (3) so as to indicate the position of the freeboard deck.
 (2) Subject to subregulation (3), the deck line shall be marked in such a position on the side of the ship that its upper edge passes through the point amidships where the continuation outwards of the upper surface of the freeboard deck, or of any sheathing of that deck, intersects the outer surface of the shell of the ship as shown in Figure 1 of the Eleventh Schedule.
 (3) Where the design of the ship or other circumstances render it, in the opinion of the Assigning Authority, impracticable to mark the deck line in accordance with subregulation (2), the Authority may include in the directions given pursuant to regulation 14 a direction that it may be marked by reference to another fixed point in the ship as near as practicable to the position described in subregulation (2).
@@ -237,7 +237,7 @@ subregulation (1) shall be the depth indicated by the upper edge of the appropri
 passing through the centre of the ring of the load line mark; and
 (b) the Winter North Atlantic Load Line and Fresh
 Water Load Line only shall be marked on the ship as shown in Figure 4 of the Eleventh Schedule.
-[Subsidiary] Shipping (Load Line) Regulations
+Shipping (Load Line) Regulations [Subsidiary]
 26. (1) Timber Load Lines shall consist, as shown in Figure 3 of the Eleventh Schedule, of horizontal lines of the dimensions specified in respect of such lines in regulation 25, extending abaft or forward of a vertical line of the dimensions specified in respect of such a line in that Regulation, marked 540 millimetres abaft the centre of the ring of the Load Line mark and at right angles to that line.
 (2) Individual Timber Load Lines shall be as follows:
 (a) the Summer Timber Load Line, which shall
@@ -275,7 +275,7 @@ PART V
 CONDITIONS OF ASSIGNMENT
 32. (1) Except as otherwise provided in subregulations (2)
 and (3), every ship to which freeboards are to be assigned under these Regulations shall comply with the requirements applicable to it under Part I of the Fourth Schedule.
-[Subsidiary] Shipping (Load Line) Regulations
+Shipping (Load Line) Regulations [Subsidiary]
 (2) Every ship, being-
 (a) a ship of Type "A" to which the requirements of
 Part II of the Fourth Schedule apply; or
@@ -308,7 +308,7 @@ Load Line Certificate is to be issued, the front page of the Record of Particula
 Tobago Load Line Certificate is to be issued the front page of the Record of Particulars shall be in the form of Record 1 of the Third Schedule.
 (2) The Record of Particulars shall be completed by the
 surveyor carrying out the survey of the ship pursuant to regulation 12 and shall be furnished by him to the Assigning Authority in accordance with the provisions of regulation 13 and two copies of the Record shall be sent by the Assigning Authority to the owner of the ship together with the particulars and directions required to be so furnished in regulation 14.
-[Subsidiary] Shipping (Load Line) Regulations
+Shipping (Load Line) Regulations [Subsidiary]
 (3) One copy of the Record of Particulars furnished by the Assigning Authority to the owner of the ship shall, at all times, be kept on board the ship in the custody of the Master.
 (4) Where the Assigning Authority is not the Maritime Services Division then the Assigning Authority shall forward to the Director of Maritime Services a copy of the Record of Particulars.
 PART VI
@@ -351,7 +351,7 @@ to stability;
 assigned to the ship is such that the position of load lines on the sides of the ship appropriate to that freeboard would correspond to, or be lower than the position at which the lowest of the load lines appropriate to minimum freeboards for that ship would have been marked-
 (i) only the load lines appropriate to the
 greater than minimum freeboard and the fresh water freeboard shall be marked on the sides of the ship;
-[Subsidiary] Shipping (Load Line) Regulations
+Shipping (Load Line) Regulations [Subsidiary]
 (ii) the load line appropriate to the greater
 than minimum freeboard shall be called the "All seasons load line" which shall consist of a horizontal line intersecting the load line mark and such mark shall be placed accordingly;
 (iii) the vertical line described in
@@ -383,7 +383,7 @@ subregulation (3) shall be replaced by fresh information whenever its accuracy i
 (5) The Minister may-
 (a) in the case of any ship, allow the information to
 be based on the determination, by means of an inclining test, of the stability of a sister ship;
-[Subsidiary] Shipping (Load Line) Regulations
+Shipping (Load Line) Regulations [Subsidiary]
 (b) in the case of a ship specially designed for the
 carriage of liquids or ore in bulk, or of any class of such ships, dispense with an inclining test if satisfied from the information available in respect of similar ships that the ship's proportions and arrangements are such as to ensure more than sufficient stability in all probable loading conditions.
 (6) The Information, and any fresh information to replace the same in accordance with subregulations (3) and (4) shall, before being issued to the master-
@@ -410,7 +410,7 @@ country stated in the certificate to have issued the certificate at the request 
 authority of a Government specified in subparagraph (i) or (ii);
 (b) the certificate is in the official language or
 languages of the issuing country and, if the language used is neither English nor French, includes in its text a translation into one of those languages;
-[Subsidiary] Shipping (Load Line) Regulations
+Shipping (Load Line) Regulations [Subsidiary]
 (c) the certificate is in the form set out in Annex III
 to the Load Line Convention for an International Load Line Certificate (1966) and contains all the particulars required by such form;
 (d) the certificate shows that it is currently in force
@@ -452,8 +452,7 @@ Timber Summer … … … mm (LS) … … mm above (S)
 Timber Winter … … … mm (LW) … … mm below (LS)
 Timber Winter North Atlantic mm (LWNA) … …mm below (LS)
 NOTE: Freeboards and Load Lines which are not applicable need not be entered on the
-certificate.
-[Subsidiary] Shipping (Load Line) Regulations
+certificate. Shipping (Load Line) Regulations [Subsidiary]
 Allowance for Fresh Water for all freeboards other than timber ... mm.
 Allowance for Fresh Water for Timber freeboards ... mm.
 The upper edge of the deck-line from which these freeboards are measured
@@ -484,7 +483,7 @@ Place ... Date ...
 on behalf of ... (specify Assigning Authority)
 NOTE:
 This Certificate must be kept framed and posted up in some conspicuous place on board the ship, so long as it remains in force and the ship is in use.
-[Subsidiary] Shipping (Load Line) Regulations
+Shipping (Load Line) Regulations [Subsidiary]
 FORM 2
 INTERNATIONAL LOAD LINE EXEMPTION
 CERTIFICATE
@@ -530,7 +529,7 @@ Place ... Date ...
 ...
 Authorised by the Maritime
 Services Division
-[Subsidiary] Shipping (Load Line) Regulations
+Shipping (Load Line) Regulations [Subsidiary]
 FORM 3
 TRINIDAD AND TOBAGO LOAD LINE CERTIFICATE
 (Official Seal)
@@ -573,7 +572,7 @@ on behalf of ... (specify Assigning Authority)
 Place ... Date ...
 (Signature and designation) ...
 on behalf of ... (specify Assigning Authority)
-[Subsidiary] Shipping (Load Line) Regulations
+Shipping (Load Line) Regulations [Subsidiary]
 Survey of this ship having been satisfactorily completed in accordance with the requirements of the Shipping (Load Line) Regulations 20...this certificate is extended until ...
 Place ... Date ...
 (Signature and designation) ...
@@ -587,7 +586,7 @@ CERTIFICATE
 Name of Ship Distinctive Number Port of Registry
 or Letters
 This is to certify that the above-mentioned ship is exempted pursuant to section 287(2) of the Shipping Act from *All the provisions of that Act and of the Shipping (Load Line) Regulations, 1992. *The following provisions of that Act and of the Shipping (Load Line) Regulations, 1992...
-Subject to the following conditions**: ...
+Subject to the following conditions: ...
 *Delete if inapplicable. [Subsidiary] Shipping (Load Line) Regulations
 This certificate is valid until ... subject where appropriate, to periodical inspections in accordance with the Shipping (Load Line) Regulations.
 Issued at ... on ... 20...
@@ -597,7 +596,7 @@ Signed ... Place ... Date ... Surveyor, Maritime Services Division
 Signed ... Place ... Date ... Surveyor, Maritime Services Division
 Signed ... Place ... Date ... Surveyor, Maritime Services Division
 Signed ... Place ... Date ... Surveyor, Maritime Services Division
-[Subsidiary] Shipping (Load Line) Regulations
+Shipping (Load Line) Regulations [Subsidiary]
 SECOND SCHEDULE
 ZONES, AREAS AND SEASONAL PERIODS
 A. Northern Winter Seasonal Zones and Areas
@@ -635,7 +634,7 @@ B. Southern Winter Seasonal Zone
 Periods shall be as set out in subparagraphs (2), (3) and (4).
 (2) The northern boundary of the Southern Winter Seasonal Zone is
 the rhumb line from the East coast of the American continent at Cape Tres Puntas to the point latitude 34° 00' South, longitude 50° 00' West, thence the parallel of latitude 34° 00' South to longitude 17° 00' East, thence the rhumb line to the point latitude 35° 10' South, longitude 20° 00' East, thence the rhumb line to the point latitude 34° 00' South, longitude 28° 00' East, thence the rhumb line to the point latitude 35° 30' South, longitude 118° 00' East, and thence the rhumb line to Cape Grim on the northwest coast of Tasmania; thence along the North and East coast of Tasmania to the southernmost point of Bruny Island, thence the rhumb line to Black Rock Point on Stewart Island, thence the rhumb line to the point latitude 47° 00' South, longitude 170° 00' East, thence the rhumb line to the point latitude 33° 00' South, longitude 170° 00' West and
-[Subsidiary] Shipping (Load Line) Regulations
+Shipping (Load Line) Regulations [Subsidiary]
 thence the parallel of latitude 33° 00' South to the point latitude 33° 00' South, longitude 79° 00' West, thence the rhumb line to the point latitude 41° 00' South, longitude 75° 00' West, thence the rhumb line to Punta Corona lighthouse on Chiloe Island, Latitude 41° 47' South, longitude 73° 53' West, thence along the North, East and South coasts of Chiloe Island to the point latitude 43° 20' South, longitude 74° 20' West, and thence the meridian of longitude 74° 20' West to the parallel of latitude 45° 45' South, including the inner Zone of Chiloe channels from the meridian 74° 20' West to the East.
 (3) The seasonal periods for the Southern Winter Seasonal Zone are-
 (a) Winter: 16th April to 15th October.
@@ -672,7 +671,7 @@ Tropical Zone.
 Atlantic are-
 (a) Tropical: 1st November to 15th July.
 (b) Summer: 16th July to 31st October.
-[Subsidiary] Shipping (Load Line) Regulations
+Shipping (Load Line) Regulations [Subsidiary]
 (4) The Seasonal Tropical Area in the Arabian Sea shall consist of an area bounded-
 (a) on the West by the coast of Africa, the meridian of longitude
 45° 00' East in the Gulf of Aden, the coast of South Arabia and the meridian of longitude 59° 00' East in the Gulf of Oman;
@@ -734,7 +733,7 @@ continent;
 (b) on the West by the meridian of longitude 123° 00' West from
 the coast of the American continent to latitude 33° 00' North and by the rhumb line from the point latitude 33° 00' North, longitude 123° 00' West to the point latitude 13° 00' North, longitude 105° 00' West;
 (c) on the South by the parallel of latitude 13° 00' North.
-[Subsidiary] Shipping (Load Line) Regulations
+Shipping (Load Line) Regulations [Subsidiary]
 (18) The Seasonal Periods for the Seasonal Tropical Area 2 in the North Pacific are-
 (a) Tropical: 1st March to 30th June and 1st November to
 30th November.
@@ -791,7 +790,7 @@ longitude 3° 00' East to the West coast of Sardinia;
 (c) on the East by the West and North coasts of Sardinia from
 latitude 40° 00' North to longitude 9° 00' East, thence by the meridian of longitude 9° 00' East to the South coast of Corsica, thence by the West and North coasts of Corsica to longitude 9° 00' East and thence by the rhumb line to Cape Sicié,
 is a Winter Seasonal Area.
-[Subsidiary] Shipping (Load Line) Regulations
+Shipping (Load Line) Regulations [Subsidiary]
 (7) The Seasonal Periods for the Winter Seasonal Area defined in subparagraph (6) are-
 (a) Winter: 16th December to 15th March.
 (b) Summer: 16th March to 15th December.
@@ -816,8 +815,8 @@ RECORD OF PARTICULARS RELATING TO
 CONDITIONS OF ASSIGNMENT
 In this record references to regulations are references to the regulations set
 out in Annex I to the International Convention on Load Lines, 1966. Name of Ship ... Port of registry ... Nationality ... Distinctive number or letters ... Shipbuilders ... Yard number ... Date of build/conversion ... Freeboards assigned as a ship of Type ... Classification ... Date and place of initial survey ...
-[Subsidiary] Shipping (Load Line) Regulations
-DISPOSITION AND DIMENSIONS OF SUPERSTRUCTURES, TRUNKS, DECKHOUSES, MACHINERY CASINGS; EXTENT OF BULWARKS, GUARD RAILS AND WOOD SHEATHING ON EXPOSED DECK TO BE INSERTED IN THE DIAGRAMS AND TABLES FOLLOWING; TOGETHER WITH POSITIONS OF HATCHWAYS, GANGWAYS, AND OTHER MEANS FOR THE PROTECTION OF THE CREW, CARGO PORTS, BOW AND STERN DOORS, SIDE SCUTTLES, SCUPPERS, VENTILATORS, AIR PIPES,
+Shipping (Load Line) Regulations [Subsidiary]
+AND OTHER MEANS FOR THE PROTECTION OF THE CREW, CARGO PORTS, BOW AND STERN DOORS, SIDE SCUTTLES, SCUPPERS, VENTILATORS, AIR PIPES, DISPOSITION AND DIMENSIONS OF SUPERSTRUCTURES, TRUNKS, DECKHOUSES, MACHINERY CASINGS; EXTENT OF BULWARKS, GUARD RAILS AND WOOD SHEATHING ON EXPOSED DECK TO BE INSERTED IN THE DIAGRAMS AND TABLES FOLLOWING; TOGETHER WITH POSITIONS OF HATCHWAYS, GANGWAYS,
 A PLAN OF SUITABLE SIZE MAY BE ATTACHED TO THIS REPORT IN PREFERENCE TO THE
 COMPANIONWAYS, AND OTHER ITEMS THAT WOULD AFFECT THE SEAWORTHINESS OF THE SHIP.
 SKETCHES ON THIS PAGE [Subsidiary] Shipping (Load Line) Regulations
@@ -832,10 +831,8 @@ NUMBER AND SIZE OF OPENINGS
 ON SKETCH
 REF. NO.
 OF PLAN
-IN EXPOSED MACHINERY CASINGS ON IN FORECASTLE BULKHEAD IN BRIDGE AFTER BULKHEAD IN RAISED QUARTER DECK BULKHEAD IN POOP BULKHEAD FREEBOARD OR RAISED QUARTER DECKS
-IN BRIDGE FORWARD BULKHEAD
-LOCATION
-[Subsidiary] Shipping (Load Line) Regulations
+IN EXPOSED MACHINERY CASINGS ON IN FORECASTLE BULKHEAD IN BRIDGE FORWARD BULKHEAD IN BRIDGE AFTER BULKHEAD IN RAISED QUARTER DECK BULKHEAD IN POOP BULKHEAD FREEBOARD OR RAISED QUARTER DECKS
+LOCATION Shipping (Load Line) Regulations [Subsidiary]
 DOORWAYS IN SUPERSTRUCTURES, EXPOSED MACHINERY CASINGS AND DECKHOUSES
 NUMBER OF CLIPS
 PROTECTING OPENINGS IN FREEBOARD AND SUPERSTRUCTURE DECKS-CONTINUED
@@ -847,9 +844,10 @@ NUMBER AND SIZE OF OPENINGS
 ON SKETCH
 REF. NO.
 OF PLAN
-ON IN MACHINERY CASINGS WITHIN SUPERSTRUCTURES OR DECKHOUSES IN DECKHOUSES IN POSITION 1 ENCLOSING OPENINGS LEADING IN DECKHOUSES IN POSITION 2 ENCLOSING OPENINGS LEADING WITHIN ENCLOSED SUPERSTRUCTURES
+IN MACHINERY CASINGS WITHIN SUPERSTRUCTURES OR DECKHOUSES ENCLOSING OPENINGS LEADING WITHIN ENCLOSED SUPERSTRUCTURES ON IN DECKHOUSES IN POSITION 1 ENCLOSING OPENINGS LEADING IN DECKHOUSES IN POSITION 2
 IN EXPOSED PUMP ROOM CASINGS
-OR BELOW FREEBOARD DECK CASINGS
+OR BELOW FREEBOARD DECK
+CASINGS
 BELOW FREEBOARD DECK
 SUPERSTRUCTURE DECKS
 ON FREEBOARD DECK
@@ -860,20 +858,19 @@ HATCHWAYS AT POSITIONS 1 AND 2 CLOSED BY PORTABLE COVERS AND SECURED
 WEATHERTIGHT BY TARPAULINS AND BATTENING DEVICES (REG. 15)
 ARE WOOD COVERS FITTED WITH
 GALVANISED END BANDS? (FOURTH SCHEDULE PARAGRAPH 5)
-THICKNESS DIRECTION FITTED BEARING SURFACE PORTABLE COVERS MATERIAL TARPAULINS NUMBER OF LAYERS MATERIALS
-SPACING OF CLEATS
-SPACING B1 X TF D X TW B2 X TF BEARING SURFACE MEANS OF SECURING EACH BEAM NUMBER HEIGHT OF COAMING ABOVE DECK
-DIMENSIONS OF CLEAR OPENING MEANS OF SECURING EACH SECTION
+PORTABLE COVERS MATERIAL THICKNESS DIRECTION FITTED BEARING SURFACE TARPAULINS NUMBER OF LAYERS MATERIALS
+SPACING OF CLEATS SPACING B1 X TF D X TW B2 X TF BEARING SURFACE MEANS OF SECURING EACH BEAM PORTABLE BEAMS NUMBER
+HEIGHT OF COAMING ABOVE DECK DIMENSIONS OF CLEAR OPENING
+MEANS OF SECURING EACH SECTION
 POSITION AND REFERENCE NO.
 AT TOP OF COAMING ON SKETCH OR PLAN
-PORTABLE BEAMS
 OF COVER.
-[Subsidiary] Shipping (Load Line) Regulations
+Shipping (Load Line) Regulations [Subsidiary]
 HATCHWAYS AT POSITIONS 1 AND 2 CLOSED BY WEATHERTIGHT COVERS
 OF STEEL (OR OTHER EQUIVALENT MATERIAL) FITTED WITH GASKETS
 (FOURTH SCHEDULE PARAGRAPHS 6 AND 19)
 AND CLAMPING DEVICES (REG. 16)
-POSITION AND REFERENCE NO. ON MATERIAL MATERIAL HEIGHT OF COAMING ABOVE DECK TYPE OF COVER OR PATENT NAME HEIGHT OF COAMING ABOVE DECK TYPE OF COVER OR PATENT NAME
+POSITION AND REFERENCE NO. ON HEIGHT OF COAMING ABOVE DECK TYPE OF COVER OR PATENT NAME MATERIAL HEIGHT OF COAMING ABOVE DECK TYPE OF COVER OR PATENT NAME MATERIAL
 DIMENSIONS OF CLEAR OPENING DIMENSION OF CLEAR OPENING
 POSITION AND REFERENCE NO.
 AT TOP OF COAMING ON SKETCH OR PLAN
@@ -887,7 +884,7 @@ COVER COVER
 SKETCH OR PLAN SKETCH OR PLAN
 { {
 ARRANGEMENTS:
-[Subsidiary] Shipping (Load Line) Regulations
+Shipping (Load Line) Regulations [Subsidiary]
 CLOSING APPLIANCES
 VENTILATORS ON FREEBOARD AND SUPERSTRUCTURE DECKS
 (STATE PATENT NAME IF ANY)
@@ -910,7 +907,7 @@ DIMENSIONS
 NUMBER
 FITTED
 DECK ON WHICH FITTED
-[Subsidiary] Shipping (Load Line) Regulations
+Shipping (Load Line) Regulations [Subsidiary]
 REMARKS
 CARGO PORTS AND OTHER SIMILAR OPENINGS (REG. 21)
 SECURING DEVICES (FOURTH SCHEDULE PARAGRAPH 11)
@@ -921,12 +918,12 @@ OPENING
 POSITION OF PORT [Subsidiary] Shipping (Load Line) Regulations
 POSITION OF
 CON
-SDANB-SCREW DOWN AUTOMATIC NON-RETURN
+GM-GUN METAL SDANB-SCREW DOWN AUTOMATIC NON-RETURN
 AND MATERIAL † OF DISCHARGE VALVES NUMBER, TYPE ‡
-ANR-AUTOMATIC NON-RETURN
+D-DISCHARGE CS-CAST STEEL ANR-AUTOMATIC NON-RETURN
 SCUPPERS' INLET AND DISCHARGES (REG. 22) VERTICAL DISTANCE ABOVE TOP OF KEEL UPPERMOST
 VALVE
-‡ SD-SCREW DOWN (FOURTH SCHEDULE PARAGRAPH 12)
+S-SCUPPER † MS-MILD STEEL ‡ SD-SCREW DOWN (FOURTH SCHEDULE PARAGRAPH 12)
 INBOARD
 END
 DISCHARGE
@@ -939,16 +936,12 @@ IN RO-RO SHIPS, INDICATE HOW READY ACCESSIBILITY
 MATERIAL
 †
 THICK-
-PIPE NESS GM-GUN METAL
-† MS-MILD STEEL
-CS-CAST STEEL
+PIPE NESS
 DIAMETER
 NUMBER
-D-DISCHARGE
-S-SCUPPER
 SCUPPER OR DISCHARGE
 STATE IF
-[Subsidiary] Shipping (Load Line) Regulations
+Shipping (Load Line) Regulations [Subsidiary]
 STANDARDS USED AND TYPE NO.
 INDICATE THE VERTICAL DISTANCE BETWEEN THE FREEBOARD DECK AND THE LOWER SILL OF THE SIDE SCUTTLE POSITIONED AT THE GREATEST
 TYPE OF GLASS AND
@@ -979,7 +972,7 @@ STATE FORE AND AFT POSITION OF EACH FREEING PORT IN RELATION TO SUPERSTRUCTURE E
 AFTER WELL FORWARD WELL
 SUPERSTRUCTURE DECK
 FREEBOARD DECK
-[Subsidiary] Shipping (Load Line) Regulations
+Shipping (Load Line) Regulations [Subsidiary]
 (FOURTH SCHEDULE PARAGRAPHS 15, 18, 22, 23 AND 24)
 PROTECTION OF THE CREW (REGS. 25 AND 26)
 FOURTH SCHEDULE PARAGRAPH (REG. 29) TIMBER DECK CARGO FITTINGS (REG. 44)
@@ -1008,13 +1001,12 @@ Signature Port of Survey Date of Survey
 ...
 ...
 ...
-[Subsidiary] Shipping (Load Line) Regulations
+Shipping (Load Line) Regulations [Subsidiary]
 FOURTH SCHEDULE
 CONDITIONS OF ASSIGNMENT
 - Margin: 3/1993.
 - Margin: Citation and commencement.
 - Margin: Definitions.
-- Margin: Ch. 50:10.
 - Margin: 24/1993.
 - Margin: Application.
 - Margin: Appropriate load lines.
@@ -1081,7 +1073,7 @@ CONDITIONS OF ASSIGNMENT
 - Margin: Information as to the stability of ships.
 - Margin: Information as to loading and ballasting of ships.
 - Margin: Recognition of Certificates issued by other Governments.
-- Margin: (Regulations 15 and 20).
+- Margin: Regulations 15 and 20.
 - Margin: Regulation 5.
 - Margin: Regulation 34.
 - Margin: Regulation 32.

@@ -17,6 +17,6 @@ two red lights in a vertical line.
 of the other vessel of the pair;
 (ii) when shooting or hauling their nets or when their nets
 have come fast upon an obstruction, the lights prescribed in 2(a) above.
-[Subsidiary] Shipping (Distress Signals and Prevention of Collisions) Regulations
+Shipping (Distress Signals and Prevention of Collisions) Regulations [Subsidiary]
 3. Signals for purse seiners
 Vessels engaged in fishing with purse seine gear may exhibit two yellow lights in a vertical line. These lights shall flash alternately every second and with equal light and occultation duration. These lights may be exhibited only when the vessel is hampered by its fishing gear.

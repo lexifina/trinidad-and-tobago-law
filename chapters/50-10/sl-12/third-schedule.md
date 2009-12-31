@@ -15,7 +15,7 @@ specifications:
 (c) at every seat at a writing desk or table ... 150 lux; and
 (d) at not less than half the seats [other than those
 mentioned in (3) above], in a sleeping room provided for use of more than one person ... 150 lux.
-[Subsidiary] Shipping (Crew Accommodation) Regulations
+Shipping (Crew Accommodation) Regulations [Subsidiary]
 (2) mess rooms shall be lit to the following specifications:
 (a) at general measurement points ... 100 lux; and
 (b) at every table and sink ... 150 lux.
@@ -54,5 +54,5 @@ spaces shall be lit to the following specifications:
 (i) at the head of each stairway, ladder and hatchway; and
 (ii) at or near the doors of lockers provided for oilskins or
 working clothes.
-- Margin: (Regulation 15).
+- Margin: Regulation 15.
 - Margin: Definition.

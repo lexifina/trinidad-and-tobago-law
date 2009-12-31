@@ -43,11 +43,10 @@ allowance, not exceeding 4 per cent of the breadth of the ship, for a rounded gu
 side of the ship shall not exceed 10°, using, under normal circumstances, a passenger distribution value of 4 persons per square metre.
 (b) The angle of heel on account of turning should not exceed
 10° when calculated using the following formula:
-0.02 ∆ (KG- d V2 MR = )
-2
-L
-Where: MR = heeling moment in metre-tonnes; Vo = service speed in m/s; L = length of ship at waterline in metres; ∆ = displacement in salt water in metric tonnes; d = means draught in metres; KG = height of centre of gravity above keel in metres.
-[Subsidiary] Shipping (Load Line) Regulations
+d V2 MR = 0.02 Δ (KG- ) 2
+L Where:
+MR = heeling moment in metre-tonnes; Vo = service speed in m/s; L = length of ship at waterline in metres; Δ = displacement in salt water in metric tonnes; d = means draught in metres; KG = height of centre of gravity above keel in metres.
+Shipping (Load Line) Regulations [Subsidiary]
 7. (1) New decked sea-going passenger and cargo ships of 24 metres in length and over, in addition to meeting the appropriate stability criteria laid down in paragraphs (4), (5) and (6), shall also comply with the weather criteria laid down in this paragraph.
 (2) The ability of the ship to withstand the combined effects of beam wind and rolling should be demonstrated, with reference to Figure 1 and Tables 1 to 4 as contained in subparagraph (5), for each standard condition of loading referred to in paragraphs 18, 19, and 20, as follows:
 (a) the ship is subjected to a steady wind pressure acting
@@ -63,18 +62,18 @@ accordance with paragraph 16 for each standard condition of loading being invest
 (3) The wind heeling levers 1w1 and 1w2 referred to in subparagraph (2) are constant values at all angles of inclination and should be calculated as follows:
 P.A.Z.
 1w1 = (m) and
-∆
+Δ
 1w2 = 1.51w1 (m) where- P = 0.0514 tonnes per square metres under normal
 conditions or such lesser value as may be approved by the Minister for ships in restricted service;
 A = projected lateral area in square metres of the
 portion of the ship and deck cargo above the waterline;
 Z = vertical distance in metres from the centre of A
 to the centre of the underwater lateral area or approximately to a point at one-half the draught;
-∆ = displacement (tonnes).
+Δ = displacement (tonnes).
 [Subsidiary] Shipping (Load Line) Regulations
 (4) The angle of roll (Q1) referred to in subparagraph (2) should be
 calculated, without taking into account the operation of any anti-rolling devices which may be fitted, as follows:
-= l0gk. X1.X2. √r.s (degrees); Q1
+Q1 = l0gk. X1.X2. √ r.s (degrees);
 where- X1 = factor as shown in Table 1;
 X2 = factor as shown in Table 2; K = factor as follows; K = 1.0 for round-bilged ship having no bilge or bar
 keels;
@@ -88,12 +87,12 @@ d = mean moulded draught in metres of the ship; s = factor as shown in Table 4.
 as follows:
 FIGURE 1
 Severe wind and rolling criterion
-[Subsidiary] Shipping (Load Line) Regulations
+Shipping (Load Line) Regulations [Subsidiary]
 The angles in the above figure (on page 566) are defined as follows:
 0 = angle of heel under action of steady wind; 1 = angle of roll to windward due to wave action 2 = angle of downflooding ( 1) or 50º or QC whichever
 is less; where-
-f =
-angle of heel at which openings in the hull, superstructures or deckhouses which cannot be closed weathertight immerse; in applying this criterion shall;
+f = angle of heel at which openings in the hull,
+superstructures or deckhouses which cannot be closed weathertight immerse; in applying this criterion shall;
 c = angle of second intercept between wind heeling
 lever 1 w2 and GZ curves.
 Table 1 Table 2 Table 3 Table 4

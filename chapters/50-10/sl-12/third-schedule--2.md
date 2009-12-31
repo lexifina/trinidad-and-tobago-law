@@ -24,10 +24,9 @@ seafarer to speak and comprehend English; and
 seafarer to write English.
 5. An examination referred to in clauses 1 and 4 may be taken by prior
 arrangement through the Maritime Services Division, or under other arrangements as may be approved by the Minister.
-[Subsidiary]
-Shipping (Training, Certification, Safe Manning, Hours of Work
+[Subsidiary] Shipping (Training, Certification, Safe Manning, Hours of Work
 and Watchkeeping) Regulations
-- Margin: [Regulation 7(6)].
+- Margin: Regulation 7(6).
 - Margin: Seafarers at management level to have knowledge of the maritime legislation of Trinidad and Tobago.
 - Margin: Seafarers at certain levels required to have an appropriate level of proficiency in English language.
 - Margin: Evidence of proficiency in English language.

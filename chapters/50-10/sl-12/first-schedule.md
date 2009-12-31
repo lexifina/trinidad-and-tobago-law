@@ -22,4 +22,4 @@ deck on which it is laid;
 a coating supplied for the purpose;
 (l) be fitted only by means of an adhesive or otherwise so as to
 affix it securely to the deck. [Subsidiary] Shipping (Crew Accommodation) Regulations
-- Margin: [Regulation 10(6)].
+- Margin: Regulation 10(6).

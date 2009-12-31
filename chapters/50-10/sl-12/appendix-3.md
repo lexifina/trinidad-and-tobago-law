@@ -37,13 +37,11 @@ and officers in charge of an engineering watch.
 7. Recognition of appropriate certificates.
 PART III
 CERTIFICATE AND TRAINING
-8. Familiarisation and basic safety training. 9. Qualification as rating forming part of a navigational watch.
-10. Qualification as rating forming part of an engine room watch. 11. Radio-communication and radio personnel on GMDSS ships. 12. Training and qualification of seafarers on tankers. 13. Training and qualification of seafarers on ro-ro passenger ships. 14. Training and qualification of seafarers on passenger ships other than
+8. Familiarisation and basic safety training. 9. Qualification as rating forming part of a navigational watch. 10. Qualification as rating forming part of an engine room watch. 11. Radio-communication and radio personnel on GMDSS ships. 12. Training and qualification of seafarers on tankers. 13. Training and qualification of seafarers on ro-ro passenger ships. 14. Training and qualification of seafarers on passenger ships other than
 ro-ro passenger ships.
 15. Training and qualification of seafarers on survival craft and
 rescue boats.
-16. Service at sea to be approved. 17. Requirements for training in advanced fire-fighting. [Subsidiary]
-Shipping (Training, Certification, Safe Manning, Hours of Work
+16. Service at sea to be approved. 17. Requirements for training in advanced fire-fighting. [Subsidiary] Shipping (Training, Certification, Safe Manning, Hours of Work
 and Watchkeeping) Regulations
 ARRANGEMENT OF REGULATIONS-Continued
 REGULATION
@@ -60,8 +58,7 @@ familiarisation, training and certification.
 27. Ships to be safely manned. 28. Responsibilities of companies and masters regarding safe manning. 29. Safe manning document. 30. Determination of safe manning levels. 31. Company to inform of changes. 32. Circumstances of exceptional necessity. 33. Dispensations. 34. Application of certain regulations. 35. General duty of companies, employers and masters regarding hours
 of work.
 36. Duties of seafarers. 37. Schedule of duties and need to maintain records. 38. Exceptions for emergencies. 39. Failure to comply with provisions relating to hours of work and rest. 40. Duty to keep copy of Regulations.
-[Subsidiary]
-Shipping (Training, Certification, Safe Manning, Hours of Work
+[Subsidiary] Shipping (Training, Certification, Safe Manning, Hours of Work
 and Watchkeeping) Regulations
 REGULATION
 PART VI
@@ -92,8 +89,7 @@ First Schedule;
 be known, issued or recognised by Trinidad and Tobago or an STCW country, authorising the holder thereof to serve as stated in the document or as authorised by Trinidad and Tobago or the STCW country;
 "chemical tanker" means a ship constructed or adapted and used
 for the carriage, in bulk, of any liquid product listed in the Table in Chapter 17 of the IBC Code;
-[Subsidiary]
-Shipping (Training, Certification, Safe Manning, Hours of Work
+[Subsidiary] Shipping (Training, Certification, Safe Manning, Hours of Work
 and Watchkeeping) Regulations
 "company" means the owner of a ship or any other organisation
 or person who has assumed the responsibility for the operation of the ship from the owner and who, on assuming such responsibility, has agreed to take over all the duties and responsibilities imposed on a company by these Regulations; "constructed" means that the keel of a ship is laid or at a
@@ -111,8 +107,7 @@ associated with-
 officer or second engineer officer on board a ship; and
 (b) ensuring that all functions within the designated
 area of responsibility are properly performed; "master" includes a seafarer having command or charge of a ship,
-other than a pilot; [Subsidiary]
-Shipping (Training, Certification, Safe Manning, Hours of Work
+other than a pilot; [Subsidiary] Shipping (Training, Certification, Safe Manning, Hours of Work
 and Watchkeeping) Regulations
 "Minister" means the Minister to whom the responsibility for
 shipping is assigned;
@@ -132,8 +127,7 @@ watch or an engineering watch or as designated duty engineer for periodically un
 of all functions within the designated area of responsibility in accordance with proper procedures and under the direction of a seafarer serving at management level within the area of responsibility;
 "passenger ship" means a ship which is constructed or is
 habitually or on any particular occasion used, for carrying more than twelve passengers;
-[Subsidiary]
-Shipping (Training, Certification, Safe Manning, Hours of Work
+[Subsidiary] Shipping (Training, Certification, Safe Manning, Hours of Work
 and Watchkeeping) Regulations
 "propulsion power" means the total maximum continuous rated
 output power, in kilowatts, of a ship's main propulsion machinery, as stated on the ship's certificate of registry or other official document; "Radio Regulations" means the Radio Regulations annexed to,
@@ -150,8 +144,7 @@ the Safety of Life at Sea, 1974 and its Protocol of 1978, as amended; "STCW Code
 Watchkeeping Code adopted by the 1995 Conference of Parties to the International Convention on the Standards of Training, Certification and Watchkeeping for Seafarers, 1978; "STCW Convention" means the International Convention on
 Standards of Training, Certification and Watchkeeping for Seafarers, 1978, as amended; "STCW country" means a country, other than Trinidad and
 Tobago, which is a party to the STCW Convention;
-[Subsidiary]
-Shipping (Training, Certification, Safe Manning, Hours of Work
+[Subsidiary] Shipping (Training, Certification, Safe Manning, Hours of Work
 and Watchkeeping) Regulations
 "STCW ship" means a ship entitled to fly the flag of an
 STCW country;
@@ -181,8 +174,7 @@ officer where he holds an appropriate certificate in one of the following capaci
 (c) officer in charge of a navigational watch;
 (d) chief engineer officer;
 (e) second engineer officer;
-[Subsidiary]
-Shipping (Training, Certification, Safe Manning, Hours of Work
+[Subsidiary] Shipping (Training, Certification, Safe Manning, Hours of Work
 and Watchkeeping) Regulations
 (f) officer in charge of an engineering watch; or
 (g) radio operator.
@@ -205,8 +197,7 @@ on a ship powered by main propulsion machinery of 3000 kilowatts propulsion powe
 officer on a ship powered by main propulsion machinery of between 750 and 3000 kilowatts propulsion power.
 (3) In respect of service on a ship of less than 500 GT, not engaged on near-coastal voyages-
 (a) an officer in charge of a navigational watch shall
-hold an appropriate certificate for the capacity of officer in charge of a navigational watch on a ship of 500 GT or more; and [Subsidiary]
-Shipping (Training, Certification, Safe Manning, Hours of Work
+hold an appropriate certificate for the capacity of officer in charge of a navigational watch on a ship of 500 GT or more; and [Subsidiary] Shipping (Training, Certification, Safe Manning, Hours of Work
 and Watchkeeping) Regulations
 (b) a master shall hold an appropriate certificate for
 the capacity of master on a ship of between 500 and 3000 GT.
@@ -232,8 +223,7 @@ training record book; or
 (ii) three years;
 (c) performed, during the approved seagoing service,
 bridge watchkeeping duties under the supervision
-[Subsidiary]
-Shipping (Training, Certification, Safe Manning, Hours of Work
+[Subsidiary] Shipping (Training, Certification, Safe Manning, Hours of Work
 and Watchkeeping) Regulations
 of the master or a qualified officer for a period of not less than six months;
 (d) met any applicable requirements of regulation
@@ -254,8 +244,7 @@ charge of a navigational watch on a ship of 500 GT or more and twelve months as 
 referred to and met the standard of competence specified in section A-II/2 of the STCW Code, for a master or chief mate on a ship of 3000 GT or more, as the case may be.
 (3) A master or chief mate on a ship of between 500 and 3000 GT shall have-
 (a) met the requirements for certification as officer
-in charge of a navigational watch on a ship of 500 GT or more; [Subsidiary]
-Shipping (Training, Certification, Safe Manning, Hours of Work
+in charge of a navigational watch on a ship of 500 GT or more; [Subsidiary] Shipping (Training, Certification, Safe Manning, Hours of Work
 and Watchkeeping) Regulations
 (b) completed approved education and training
 referred to and met the standard of competence specified in section A-II/2 of the STCW Code, for a master or chief mate on ship of between 500 and 3000 GT, as the case may be; and
@@ -282,8 +271,7 @@ near-coastal voyages shall have-
 (a) attained twenty years of age;
 (b) approved seagoing service of not less than
 twelve months as officer in charge of a navigational watch; and
-[Subsidiary]
-Shipping (Training, Certification, Safe Manning, Hours of Work
+[Subsidiary] Shipping (Training, Certification, Safe Manning, Hours of Work
 and Watchkeeping) Regulations
 (c) completed approved education and training
 referred to and met the standard of competence specified in section A-II/3 of the STCW Code for a master on a ship of less than 500 GT engaged on near-coastal voyages.
@@ -299,8 +287,7 @@ in charge of an engineering watch;
 (b) for certification as second engineer officer,
 approved seagoing service of not less than twelve months as assistant engineer officer or engineer officer;
 (c) for certification as chief engineer officer,
-approved seagoing service of not less than thirty-six months of which not less than twelve months shall have been served as engineer [Subsidiary]
-Shipping (Training, Certification, Safe Manning, Hours of Work
+approved seagoing service of not less than thirty-six months of which not less than twelve months shall have been served as engineer [Subsidiary] Shipping (Training, Certification, Safe Manning, Hours of Work
 and Watchkeeping) Regulations
 officer in a position of responsibility while qualified to serve as second engineer officer; and
 (d) completed approved education and training
@@ -321,8 +308,7 @@ and Tobago ship, recognise an appropriate certificate where he is satisfied that
 been complied with, in respect of standards of competence, the issue and endorsement of certificates and record-keeping; and
 (b) prompt notification will be given to him by the
 issuing STCW country, of any significant change in the arrangements for training and certification.
-[Subsidiary]
-Shipping (Training, Certification, Safe Manning, Hours of Work
+[Subsidiary] Shipping (Training, Certification, Safe Manning, Hours of Work
 and Watchkeeping) Regulations
 (2) For the purpose of satisfying himself under subregulation (1), the Minister-
 (a) with respect to the issuing STCW country, shall
@@ -343,12 +329,11 @@ accompanied by an official translation in the English language.
 (b) be assigned the same number as that of the
 appropriate certificate concerned, where that number is unique;
 (c) state the capacity in which the holder of the
-appropriate certificate is authorised to serve; and [Subsidiary]
-Shipping (Training, Certification, Safe Manning, Hours of Work
+appropriate certificate is authorised to serve; and [Subsidiary] Shipping (Training, Certification, Safe Manning, Hours of Work
 and Watchkeeping) Regulations
 (d) expire as soon as the appropriate certificate
 endorsed, expires or is withdrawn, suspended or cancelled by the issuing STCW country and, in any case, not more than five years after the date of issue.
-(6) Aseafarer who presents for recognition, an appropriate
+(6) A seafarer who presents for recognition, an appropriate
 certificate as certification at management level or operational level, shall satisfy the Minister that he has proficiency in the English language relevant to the functions which he is permitted to perform and in the case of certification at management level, knowledge of the maritime legislation of Trinidad and Tobago, in accordance with the requirements specified in the Third Schedule.
 (7) The Minister may, where the circumstances require,
 authorise a seafarer to serve in a capacity other than radio operator, except as provided in the Radio Regulations, for a period not exceeding three months, on board a Trinidad and Tobago ship, where the seafarer holds an appropriate certificate which has not yet been endorsed to attest to its recognition, where he is satisfied that the seafarer has applied for an endorsement.
@@ -358,8 +343,7 @@ keep readily available on board the ship, documentary proof that he has applied 
 the Minister may issue to a suitably qualified seafarer who holds an appropriate certificate, an endorsement attesting to the recognition of the appropriate certificate and authorising the seafarer to serve on a ship engaged on near-coastal voyages, in a capacity or at a level, other than that stated in the appropriate certificate, subject to such restrictions or conditions that the Minister may consider necessary, having regard to the safety of all seafarers and ships which may be operating in the same waters.
 (10) Subregulation (9) shall not apply to service on a
 tanker or passenger ship.
-[Subsidiary]
-Shipping (Training, Certification, Safe Manning, Hours of Work
+[Subsidiary] Shipping (Training, Certification, Safe Manning, Hours of Work
 and Watchkeeping) Regulations
 (11) The Minister may revoke or cancel, at any time, an endorsement issued under subregulation (4), where he has reasonable grounds for believing that the holder of the appropriate certificate in respect of which the endorsement was issued has-
 (a) violated any provision of the Act or Regulations
@@ -380,8 +364,7 @@ CERTIFICATION AND TRAINING
 less than six months training and experience; or
 (ii) special training, either before going to sea
 for the first time or on board ship, including approved seagoing service of not less than two months,
-associated with navigational watchkeeping functions and involving the performance of [Subsidiary]
-Shipping (Training, Certification, Safe Manning, Hours of Work
+associated with navigational watchkeeping functions and involving the performance of [Subsidiary] Shipping (Training, Certification, Safe Manning, Hours of Work
 and Watchkeeping) Regulations
 duties carried out under the direct supervision of the master, the officer in charge of the navigational watch or a qualified rating; and
 (c) met the standard of competence specified in
@@ -401,8 +384,7 @@ associated with engine room watchkeeping functions and involving the performance
 section A-III/4 of the STCW Code.
 (2) A rating who is qualified under subregulation (1)
 shall hold a Certificate of Classification or a Certificate of Competency issued pursuant to the Shipping (Certification of Seamen) (Engine Room Ratings) Regulations.
-[Subsidiary]
-Shipping (Training, Certification, Safe Manning, Hours of Work
+[Subsidiary] Shipping (Training, Certification, Safe Manning, Hours of Work
 and Watchkeeping) Regulations
 11. (1) The crew of a ship shall include a seafarer who-
 (a) is qualified for the distress and safety radio
@@ -419,8 +401,7 @@ referred to and met the standard of competence specified in section A-IV/2 of th
 12. (1) An officer or a rating assigned specific duties and responsibilities related to cargo or cargo equipment on a tanker shall have-
 (a) satisfied the requirements of regulation 8;
 (b) completed an approved shore-based advanced
-fire-fighting course specified in section A-VI/3 of the STCW Code and met the required standard of competence; and [Subsidiary]
-Shipping (Training, Certification, Safe Manning, Hours of Work
+fire-fighting course specified in section A-VI/3 of the STCW Code and met the required standard of competence; and [Subsidiary] Shipping (Training, Certification, Safe Manning, Hours of Work
 and Watchkeeping) Regulations
 (c) completed-
 (i) approved seagoing service of not less than
@@ -441,8 +422,7 @@ engineer officer or any seafarer assigned immediate responsibility for loading, 
 of tanker on which he serves; and
 (b) completed an approved specialised training
 programme which covers the subjects specified
-[Subsidiary]
-Shipping (Training, Certification, Safe Manning, Hours of Work
+[Subsidiary] Shipping (Training, Certification, Safe Manning, Hours of Work
 and Watchkeeping) Regulations
 in section A-V/1 of the STCW Code that are appropriate to his duties on the type of tanker on which he serves.
 (4) A rating who is qualified under this regulation shall hold a Certificate of Competency or a Certificate of Classification issued pursuant to the Shipping (Certification of Seamen) (Deck Ratings) Regulations, or the Shipping (Certification of Seamen) (Engine Room Ratings) Regulations, as the case may be.
@@ -453,8 +433,7 @@ in section A-V/1 of the STCW Code that are appropriate to his duties on the type
 (b) provide evidence of having achieved the
 required standard of competence within the previous five years.
 (3) A master, an officer or a seafarer designated on a muster list to assist passengers in emergency situations on board a ro-ro passenger ship shall have completed approved crowd management training referred to in section A-V/2, paragraph 1 of the STCW Code.
-(4) A master, an officer or a seafarer assigned specific duties and responsibilities on board a ro-ro passenger ship shall have completed approved familiarisation training referred to in section A-V/2, paragraph 2 of the STCW Code. [Subsidiary]
-Shipping (Training, Certification, Safe Manning, Hours of Work
+(4) A master, an officer or a seafarer assigned specific duties and responsibilities on board a ro-ro passenger ship shall have completed approved familiarisation training referred to in section A-V/2, paragraph 2 of the STCW Code. [Subsidiary] Shipping (Training, Certification, Safe Manning, Hours of Work
 and Watchkeeping) Regulations
 (5) A seafarer who provides direct service to passengers
 in passenger spaces on board a ro-ro passenger ship shall have completed approved safety training referred to in section A-V/2, paragraph 3 of the STCW Code.
@@ -474,8 +453,7 @@ accordance with subregulations (4), (7) and (8) shall, at intervals not exceedin
 (a) undertake appropriate refresher training; or
 (b) provide evidence of having achieved the
 required standard of competence within the previous five years.
-[Subsidiary]
-Shipping (Training, Certification, Safe Manning, Hours of Work
+[Subsidiary] Shipping (Training, Certification, Safe Manning, Hours of Work
 and Watchkeeping) Regulations
 (4) A seafarer designated on a muster list to assist passengers in emergency situations on board a passenger ship shall have completed approved crowd management training specified in section A-V/3, paragraph 1 of the STCW Code.
 (5) A master, an officer or a seafarer assigned specific duties and responsibilities on board a passenger ship shall have completed approved familiarisation training specified in section A-V/3, paragraph 2 of the STCW Code.
@@ -488,8 +466,7 @@ and Watchkeeping) Regulations
 section A-VI/2, paragraphs 1 to 4 of the STCW Code; and
 (c) approved seagoing service of not less than-
 (i) twelve months; or
-(ii) six months in addition to approved training. [Subsidiary]
-Shipping (Training, Certification, Safe Manning, Hours of Work
+(ii) six months in addition to approved training. [Subsidiary] Shipping (Training, Certification, Safe Manning, Hours of Work
 and Watchkeeping) Regulations
 (2) The Minister may issue to a person who satisfies
 the requirements of subregulation (1), a Certificate of Proficiency on the form set out in the Fifth Schedule.
@@ -513,8 +490,7 @@ these Regulations, the Minister may approve fifty per cent of a seafarer's servi
 Paria, for the purpose of certification of the seafarer.
 (3) In calculating the length of the periods of actual
 service, a discharge book or a certificate of discharge shall be conclusive evidence of the period of time a seafarer has served at sea.
-[Subsidiary]
-Shipping (Training, Certification, Safe Manning, Hours of Work
+[Subsidiary] Shipping (Training, Certification, Safe Manning, Hours of Work
 and Watchkeeping) Regulations
 (4) Service at sea to be approved shall be performed within the period of five years preceding the date upon which certification is sought, subject to the discretion of the Minister.
 17. (1) A seafarer designated to control fire-fighting operations shall have completed advanced training in techniques for fighting fire with particular emphasis on organisation, tactics and command, referred to in section A-VI/3 of the STCW Code and shall have met the required standard of competence.
@@ -522,8 +498,7 @@ and Watchkeeping) Regulations
 18. (1) A seafarer designated to provide medical first aid on board a ship shall have met the standard of competence in medical first aid referred to in section A-VI/4, paragraphs 1 to 3 of the STCW Code.
 (2) A seafarer designated to take charge of medical care on board a ship shall have met the standard of competence in medical care referred to in section A-VI/4, paragraphs 4 to 6 of the STCW Code.
 (3) Where training in medical first aid or medical care is not included in the qualifications for the issue of a certificate held by a seafarer, the seafarer shall be in possession of a special certificate or documentary evidence, indicating that he has attended a course of training in medical first aid or in medical care, as the case may be.
-19. An authorised person who provides training referred to in these Regulations shall give documentary evidence to a person who completes the training and meets the required standard of competence. [Subsidiary]
-Shipping (Training, Certification, Safe Manning, Hours of Work
+19. An authorised person who provides training referred to in these Regulations shall give documentary evidence to a person who completes the training and meets the required standard of competence. [Subsidiary] Shipping (Training, Certification, Safe Manning, Hours of Work
 and Watchkeeping) Regulations
 20. (1) The Minister may recognise documentary evidence
 or a certificate, issued to a seafarer by an STCW country, other than an appropriate certificate where-
@@ -545,8 +520,7 @@ prescribed fee, shall be entitled to be issued a certificate, an endorsement or 
 (a) provide proof of his identity and nationality;
 (b) provide proof of the sufficiency of his age;
 (c) hold a valid certificate of medical fitness; and
-[Subsidiary]
-Shipping (Training, Certification, Safe Manning, Hours of Work
+[Subsidiary] Shipping (Training, Certification, Safe Manning, Hours of Work
 and Watchkeeping) Regulations
 (d) provide testimonials as to his character,
 including sobriety, and a record of suitable experience and satisfactory conduct during service at sea.
@@ -555,8 +529,7 @@ including sobriety, and a record of suitable experience and satisfactory conduct
 (5) A record of certificates, endorsements and dispensations issued under these Regulations and of any alteration of or any other matters affecting the certificates, endorsements and dispensations shall be kept in such manner as the Minister may require and include the information specified in the Sixth Schedule and any other information which may be specified by the IMO from time to time.
 (6) Where a seafarer is convicted of an offence under section 93 of the Act or where a certificate or an endorsement is issued and the conditions for its issue specified in these Regulations or by the Minister, have not been complied with, the holder of the certificate or endorsement shall, at the direction of the Minister, deliver it for cancellation to the Minister or to such person as the Minister may direct.
 (7) The Minister shall make available, information on the status of such certificates, endorsements and dispensations as are referred to in subregulation (1), to STCW countries and companies which request verification of the authenticity and validity of certificates produced to them by seafarers seeking recognition of their certificates or for employment on board a ship.
-(8) The Minister may request from STCW countries, information on certificates, endorsements and dispensations issued by them, where such certificates, endorsements and dispensations are produced to the Minister by seafarers seeking recognition of their certificates or seeking employment on board a Trinidad and Tobago ship or by seafarers serving on board a foreign ship operating in Trinidad and Tobago waters. [Subsidiary]
-Shipping (Training, Certification, Safe Manning, Hours of Work
+(8) The Minister may request from STCW countries, information on certificates, endorsements and dispensations issued by them, where such certificates, endorsements and dispensations are produced to the Minister by seafarers seeking recognition of their certificates or seeking employment on board a Trinidad and Tobago ship or by seafarers serving on board a foreign ship operating in Trinidad and Tobago waters. [Subsidiary] Shipping (Training, Certification, Safe Manning, Hours of Work
 and Watchkeeping) Regulations
 23. (1) Notwithstanding that an applicant for a certificate or
 an endorsement has complied with the standards or fulfilled the conditions under these Regulations, the Minister shall not issue or revalidate a certificate or an endorsement unless he is satisfied, having regard to all the relevant circumstances, that the applicant is a fit person to be the holder of the certificate or endorsement and to act in the capacity to which it relates.
@@ -576,8 +549,7 @@ QUALITY STANDARDS
 administered, supervised and monitored in accordance with the provisions of section A-I/6 of the STCW Code.
 (2) A person responsible for the training and assessment
 of a seafarer shall be suitably qualified in accordance with the provisions of section A-I/6 of the STCW Code, for the type and level of training or assessment involved.
-[Subsidiary]
-Shipping (Training, Certification, Safe Manning, Hours of Work
+[Subsidiary] Shipping (Training, Certification, Safe Manning, Hours of Work
 and Watchkeeping) Regulations
 (3) Under the direction of the Minister and in accordance with section A-I/8 of the STCW Code, a quality standards system shall be established, through which all activities relating to training, assessment of competence, certification, endorsement and revalidation shall be continuously monitored to ensure the achievement of defined objectives including those concerning the qualifications and experience of an instructor or assessor.
 (4) An independent evaluation shall be undertaken in accordance with section A-I/8 of the STCW Code by a suitably qualified person appointed by the Minister, who is not himself involved in the activities concerned, and information relating to the evaluation shall be communicated to the Secretary-General.
@@ -589,8 +561,7 @@ a certificate in respect of a function he is required to perform on the ship, in
 (b) documentation and data relevant to a seafarer on
 its ship are maintained and readily available for inspection and include, without being limited to, documentation and data on his experience, training, medical fitness and competence in respect of assigned duties.
 (2) Nothing in subregulation (1) shall prohibit the allocation of tasks for training under supervision or in circumstances of force majeure.
-(3) A company shall provide written instructions to the master of its ship, setting out the policies and procedures to be followed to ensure that a seafarer who is newly employed on board the ship is given a reasonable opportunity to become familiar with the shipboard equipment, operating procedures and [Subsidiary]
-Shipping (Training, Certification, Safe Manning, Hours of Work
+(3) A company shall provide written instructions to the master of its ship, setting out the policies and procedures to be followed to ensure that a seafarer who is newly employed on board the ship is given a reasonable opportunity to become familiar with the shipboard equipment, operating procedures and [Subsidiary] Shipping (Training, Certification, Safe Manning, Hours of Work
 and Watchkeeping) Regulations
 other arrangements needed for the proper performance of his duties, before being assigned to those duties.
 (4) The policies and procedures referred to in
@@ -615,8 +586,7 @@ of 500 GT or more-
 of the ship and the manning of the ship;
 (b) the safe manning document is kept on board the
 ship at all times; and
-[Subsidiary]
-Shipping (Training, Certification, Safe Manning, Hours of Work
+[Subsidiary] Shipping (Training, Certification, Safe Manning, Hours of Work
 and Watchkeeping) Regulations
 (c) the manning of the ship is maintained at all
 times at least at the levels specified in the safe manning document.
@@ -628,8 +598,7 @@ times at least at the levels specified in the safe manning document.
 (5) A company may consult with seafarers or their representatives and the Minister on its proposed manning levels and hours of work when new ships are at the design stage and prior to registering existing ships in Trinidad and Tobago.
 (6) Where there is a disagreement between the company and seafarers or their representatives, regarding proposed manning levels and hours of work, the Minister-
 (a) shall consider any views put forward and may
-require a revision of the manning levels and hours of work, where he deems it necessary; and [Subsidiary]
-Shipping (Training, Certification, Safe Manning, Hours of Work
+require a revision of the manning levels and hours of work, where he deems it necessary; and [Subsidiary] Shipping (Training, Certification, Safe Manning, Hours of Work
 and Watchkeeping) Regulations
 (b) may arrange for some form of practical
 demonstration of the ability of the crew to carry out the essential tasks in the context of the principles of safe manning.
@@ -650,8 +619,7 @@ efficiently, all fire equipment and life-saving appliances provided, including m
 where not underway;
 (f) maintain a safe engineering watch at sea in
 accordance with Regulation VIII/2 of the STCW
-[Subsidiary]
-Shipping (Training, Certification, Safe Manning, Hours of Work
+[Subsidiary] Shipping (Training, Certification, Safe Manning, Hours of Work
 and Watchkeeping) Regulations
 Convention, and a general surveillance of spaces containing main propulsion and auxiliary machinery;
 (g) operate and maintain in a safe condition, the
@@ -666,8 +634,7 @@ necessary to protect the marine environment in accordance with the International
 (l) maintain safety in all operations of a ship while
 in port.
 31. A company which has obtained a safe manning document, shall inform the Minister as soon as any circumstance which is pertinent to the safe manning document changes, for the purpose of enabling the Minister to review the document's continuing validity or approve new proposals from the company.
-32. The Minister may, in circumstances of exceptional necessity and where in his opinion no danger to persons, property or the environment shall be caused, permit a ship which is not manned in full compliance with the safe manning document, to proceed to sea for a specified period. [Subsidiary]
-Shipping (Training, Certification, Safe Manning, Hours of Work
+32. The Minister may, in circumstances of exceptional necessity and where in his opinion no danger to persons, property or the environment shall be caused, permit a ship which is not manned in full compliance with the safe manning document, to proceed to sea for a specified period. [Subsidiary] Shipping (Training, Certification, Safe Manning, Hours of Work
 and Watchkeeping) Regulations
 33. (1) Subject to subregulation (2), the Minister may, in
 circumstances of exceptional necessity and where in his opinion no danger to persons, property or the environment shall be caused, issue a dispensation on the form set out in the Eighth Schedule, permitting a specified seafarer to serve on a specified ship for a specified period not exceeding six months, in a capacity other than radio operator, except as provided by the Radio Regulations, for which the seafarer does not hold the appropriate certificate, provided the seafarer to whom the dispensation is issued is adequately qualified to fill the vacant post in a safe manner, in accordance with the applicable safe manning requirements.
@@ -681,8 +648,7 @@ certificated to fill the post immediately below and where certification for the 
 ensure that the post in respect of which the dispensation was issued is filled by the holder of an appropriate certificate as soon as possible.
 (6) The Minister shall, as soon as practicable after the
 first day of January each year, submit to the Secretary-General, a report indicating the total number of dispensations granted for each capacity for which an appropriate certificate is required in
-[Subsidiary]
-Shipping (Training, Certification, Safe Manning, Hours of Work
+[Subsidiary] Shipping (Training, Certification, Safe Manning, Hours of Work
 and Watchkeeping) Regulations
 respect of all seagoing Trinidad and Tobago ships and the numbers of those ships above and below 3000 GT.
 34. Regulations 35 to 40 apply to a Trinidad and Tobago ship.
@@ -698,8 +664,7 @@ respect of all seagoing Trinidad and Tobago ships and the numbers of those ships
 (5) Subject to subregulation (6), a schedule shall-
 (a) set out hours of work for-
 (i) a master and a seafarer whose work
-includes regular watchkeeping duties or ship handling; and [Subsidiary]
-Shipping (Training, Certification, Safe Manning, Hours of Work
+includes regular watchkeeping duties or ship handling; and [Subsidiary] Shipping (Training, Certification, Safe Manning, Hours of Work
 and Watchkeeping) Regulations
 (ii) a chief mate, chief engineer officer and
 second engineer officer,
@@ -720,8 +685,7 @@ company, have been consulted;
 views of the master on the proposed changes and the master has sought and conveyed to the company, the views of persons specified in subregulation (4)(a) or (b); and
 (c) the schedule as changed, complies with
 subregulation (5).
-[Subsidiary]
-Shipping (Training, Certification, Safe Manning, Hours of Work
+[Subsidiary] Shipping (Training, Certification, Safe Manning, Hours of Work
 and Watchkeeping) Regulations
 (9) The company shall ensure that the schedule is displayed prominently in the crew accommodation for the information of all seafarers and that it is in a standardised format, in the common language of the ship and in English.
 (10) The master shall ensure, as far as is reasonably practicable, that the hours of work specified in the schedule are not exceeded.
@@ -735,8 +699,7 @@ in paragraph (b), there ceases to be a company in relation to the ship, the duty
 (d) the master shall give to a seafarer a copy of the
 schedule pertaining to the seafarer, which shall be signed by the master or a person authorised by the master, and by the seafarer.
 (12) Musters, fire-fighting and lifeboat drills shall be conducted in a manner that minimises the disturbance of the periods of rest and does not induce fatigue.
-(13) Where a seafarer is on call, such as where a machinery space is unattended, an adequate period of rest shall [Subsidiary]
-Shipping (Training, Certification, Safe Manning, Hours of Work
+(13) Where a seafarer is on call, such as where a machinery space is unattended, an adequate period of rest shall [Subsidiary] Shipping (Training, Certification, Safe Manning, Hours of Work
 and Watchkeeping) Regulations
 be given to the seafarer where the normal period of rest is disturbed by call-outs to work.
 (14) In this regulation and in regulation 38, "schedule"
@@ -755,8 +718,7 @@ the master shall ensure that a seafarer who has performed work in a scheduled pe
 within a scheduled period of rest, his name shall be entered in the record required to be maintained under regulation 37(11), together with the reason that he so worked.
 39. (1) Where the records or other evidence indicate a failure,
 on the part of a person concerned, to comply with the provisions of these Regulations relating to hours of work and rest, the Minister
-[Subsidiary]
-Shipping (Training, Certification, Safe Manning, Hours of Work
+[Subsidiary] Shipping (Training, Certification, Safe Manning, Hours of Work
 and Watchkeeping) Regulations
 shall take such measures as he may deem necessary to ensure that such failure to comply is not repeated.
 (2) The measures referred to in this Regulation may include a revision of the safe manning requirements.
@@ -766,8 +728,7 @@ WATCHKEEPING
 41. (1) The master of a ship shall ensure that the watchkeeping arrangements for the ship are at all times adequate for maintaining safe navigational and engineering watches in accordance with Regulation VIII of the Annex to the STCW Convention and section A-VIII/1 of the STCW Code.
 (2) Without prejudice to the duties of the master under subregulation (1), the master shall give directions to the deck watchkeeping officer responsible for navigating the ship safely during his period of duty, in accordance with Part 3-1 of section A-VIII/2 of the STCW Code and the guidelines specified in the Seventh Schedule.
 (3) The chief engineer officer of a ship shall ensure that the engineering watchkeeping arrangements for the ship are at all times adequate for maintaining a safe watch, in accordance with Part 3-2 of section A-VIII/2 of the STCW Code and when deciding the composition of the watch, the chief engineer officer shall observe the principles specified in Part 3-2 of that section and the guidelines specified in the Seventh Schedule.
-42. The master of a ship which is safely moored or safely at anchor under normal circumstances in port, shall arrange for an appropriate and effective watch to be maintained for the purposes of safety and the arrangements shall be in accordance with Part 4 of section A-VIII/2 of the STCW Code and the guidelines in the Seventh Schedule. [Subsidiary]
-Shipping (Training, Certification, Safe Manning, Hours of Work
+42. The master of a ship which is safely moored or safely at anchor under normal circumstances in port, shall arrange for an appropriate and effective watch to be maintained for the purposes of safety and the arrangements shall be in accordance with Part 4 of section A-VIII/2 of the STCW Code and the guidelines in the Seventh Schedule. [Subsidiary] Shipping (Training, Certification, Safe Manning, Hours of Work
 and Watchkeeping) Regulations
 43. (1) The master of a ship which is carrying hazardous
 cargo and which is in port, even when safely moored or safely at anchor, in addition to any watchkeeping arrangements required under regulation 42, shall ensure in the case of-
@@ -789,8 +750,7 @@ shall not work at night.
 a period of at least nine consecutive hours, including the period from midnight to 0500 hours.
 45. A common language, which need not be the English
 language, shall exist on board a Trinidad and Tobago ship to enable the effective communication among seafarers.
-[Subsidiary]
-Shipping (Training, Certification, Safe Manning, Hours of Work
+[Subsidiary] Shipping (Training, Certification, Safe Manning, Hours of Work
 and Watchkeeping) Regulations
 46. (1) An authorised person may inspect a ship while in port in Trinidad and Tobago for the purposes of-
 (a) verifying that a seafarer serving on board who is
@@ -811,8 +771,7 @@ such a manner as to pose a danger to persons, property or the environment.
 (2) An authorised person who finds on inspection, a deficiency of a kind specified in subregulation (3), shall notify in writing, the master of the ship and in the case of a foreign ship, the nearest maritime consular or diplomatic representative of the flag state.
 (3) Deficiencies referred to in subregulation (2) are-
 (a) a failure of a seafarer required to hold a
-certificate, an endorsement or a dispensation; [Subsidiary]
-Shipping (Training, Certification, Safe Manning, Hours of Work
+certificate, an endorsement or a dispensation; [Subsidiary] Shipping (Training, Certification, Safe Manning, Hours of Work
 and Watchkeeping) Regulations
 (b) a failure of a seafarer to produce the
 documentary evidence or proof, required by these Regulations or the STCW Convention, as the case may be;
@@ -834,8 +793,7 @@ that there is any contravention of these Regulations; or
 or 43; or
 (ii) a failure to correct a deficiency of a kind
 specified in regulation 46(3), after notification to the master pursuant to
-[Subsidiary]
-Shipping (Training, Certification, Safe Manning, Hours of Work
+[Subsidiary] Shipping (Training, Certification, Safe Manning, Hours of Work
 and Watchkeeping) Regulations
 regulation 46(2), and there is in consequence, a danger to persons, property or the environment, the ship may be detained and section 387 of the Act shall apply to the detention.
 48. Regulations 46 and 47 shall be applied as may be necessary to ensure that no more favourable treatment is given to non-STCW ships than is given to STCW ships.
@@ -844,8 +802,7 @@ regulation 46(2), and there is in consequence, a danger to persons, property or 
 (2) A master who contravenes regulation 26(5), 28(3), 38(2), 41(1) or (2), 42, 43 or fails to ensure that original certificates and other documents issued pursuant to these Regulations or the STCW Convention, indicating the qualification of a seafarer to perform required functions on a ship, are kept on board the ship, commits an offence and is liable on conviction to a fine of thirty thousand dollars or imprisonment for twelve months or both.
 (3) A member of the crew who contravenes regulation 26(5) commits an offence and is liable on conviction to a fine of eighteen thousand dollars.
 (4) A chief engineer officer who contravenes regulation 41(3) commits an offence and is liable on conviction to a fine of thirty thousand dollars.
-(5) A company which contravenes regulation 35(1) commits an offence and is liable on conviction to a fine of thirty thousand dollars. [Subsidiary]
-Shipping (Training, Certification, Safe Manning, Hours of Work
+(5) A company which contravenes regulation 35(1) commits an offence and is liable on conviction to a fine of thirty thousand dollars. [Subsidiary] Shipping (Training, Certification, Safe Manning, Hours of Work
 and Watchkeeping) Regulations
 (6) An employer who contravenes regulation 35(1)
 commits an offence and is liable on conviction to a fine of thirty thousand dollars.
@@ -861,23 +818,20 @@ Regulations consisting of a failure to comply with a duty or requirement to do s
 exemptions from all or any provisions of these Regulations to a person or class of person.
 51. The fees prescribed in the Ninth Schedule shall be paid
 in respect of the examinations and documents specified therein.
-[Subsidiary]
-Shipping (Training, Certification, Safe Manning, Hours of Work
+[Subsidiary] Shipping (Training, Certification, Safe Manning, Hours of Work
 and Watchkeeping) Regulations
-FIRST SCHEDULE (Regulation 2).
+FIRST SCHEDULE Regulation 2.
 CARIBBEAN TRADING AREA
 In these Regulations "the Caribbean Trading Area" means the area bounded by the East coasts of North, Central and South America and a line from the East coast of the United States of America in latitude 32˚ 30'N to a point 20˚N: 60˚W, to a point 10˚N : 50˚W, and South to the coast of South America, illustrated on the map below-
 CARIBBEAN TRADING AREA
-"Caribbean Trading Area" is the area within the limiting line bounded by the East coast of the Americas. "Near-Coastal Voyage" is a voyage within the Caribbean Trading Area within 130 miles of a port of refuge. [Subsidiary]
-Shipping (Training, Certification, Safe Manning, Hours of Work
+"Caribbean Trading Area" is the area within the limiting line bounded by the East coast of the Americas. "Near-Coastal Voyage" is a voyage within the Caribbean Trading Area within 130 miles of a port of refuge. [Subsidiary] Shipping (Training, Certification, Safe Manning, Hours of Work
 and Watchkeeping) Regulations
-- Margin: (Paragraph 12).
+- Margin: Paragraph 12.
 - Margin: 81/2002.
 - Margin: Citation.
 - Margin: Interpretation.
-- Margin: Ch. 50:10.
 - Margin: First Schedule.
-- Margin: 147/1988.
+- Margin: Sub. Leg.
 - Margin: Ch. 51:06.
 - Margin: Application.
 - Margin: Masters and officers to hold appropriate certificates.
@@ -888,9 +842,9 @@ and Watchkeeping) Regulations
 - Margin: Third Schedule.
 - Margin: Familiarisation and basic safety training.
 - Margin: Qualification as rating forming part of a navigational watch.
-- Margin: 254/2001.
+- Margin: Sub. Leg.
 - Margin: Qualification as rating forming part of an engine room watch.
-- Margin: 248/2001.
+- Margin: Sub. Leg.
 - Margin: Radio- communication and radio personnel on GMDSS ships.
 - Margin: Training and qualification of seafarers on tankers.
 - Margin: Fourth Schedule.
