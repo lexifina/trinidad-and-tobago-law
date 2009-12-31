@@ -8,5 +8,5 @@ Signature of holder ...
 ...
 Licensing Authority.
 FEE $10.00
-[Subsidiary ] Motor Vehicles and Road Traffic Regulations
-- Margin: (Regulation 111).
+[Subsidiary] Motor Vehicles and Road Traffic Regulations
+- Margin: Regulation 111.

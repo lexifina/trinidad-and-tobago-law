@@ -8,7 +8,7 @@ Nil
 PART C
 COUNTY OF NARIVA
 Motor Omnibus Stands-Rio Claro
-On the South side of the Naparima-Mayaro Road, East of the Taxi Stand- three omnibuses facing West. [Subsidiary ] Public Stands (Motor Omnibuses) Parking Order
+On the South side of the Naparima-Mayaro Road, East of the Taxi Stand- three omnibuses facing West. [Subsidiary] Public Stands (Motor Omibuses) Parking Order
 PART D
 COUNTY OF ST. ANDREW
 Motor Omnibus Stands-Sangre Grande
@@ -31,7 +31,7 @@ Street and extending in an easterly direction for a distance of forty-five metre
 PART G
 COUNTY OF ST. GEORGE WEST
 Nil
-[Subsidiary ] Public Stands (Motor Omnibuses) Parking Order
+Public Stands (Motor Omibuses) Parking Order [Subsidiary]
 PART H
 COUNTY OF ST. PATRICK
 Motor Omnibus Stands-Penal
@@ -42,7 +42,7 @@ Motor Omnibus Stands-Tobago Carrington Street from a point one metre West of Exi
 PART J
 COUNTY OF VICTORIA
 1. The Eastern side of the triangle in Buen Intento Road-two omnibuses facing North.
-2. Omnibuses entering Princes Town from the East shall park along the North side of the Naparima-Mayaro Road from a point one hundred metres East of the corner of the Naparima-Mayaro Road and Buen Intento Road to a point three metres East of the said corner-two omnibuses facing East. [Subsidiary ]
+2. Omnibuses entering Princes Town from the East shall park along the North side of the Naparima-Mayaro Road from a point one hundred metres East of the corner of the Naparima-Mayaro Road and Buen Intento Road to a point three metres East of the said corner-two omnibuses facing East. [Subsidiary]
 GOODS VEHICLES STANDS PARKING ORDER
 made under section 65
 1. This Order may be cited as the Goods Vehicles Stands

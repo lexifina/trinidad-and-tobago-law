@@ -1,128 +1,120 @@
 SUBSIDIARY LEGISLATION
 MOTOR VEHICLES AND ROAD TRAFFIC REGULATIONS
-ARRANGEMENT OF REGULATIONS REGULATION
+ARRANGEMENT OF REGULATIONS
+REGULATION
 PART I
 GENERAL
 1. Citation. 2. Interpretation. 3. Forms, as in First Schedule.
 PART II
 REGISTRATION
-4. Application by owner for registration. 5. Number to be assigned. 6. When Licensing Authority may cancel registration. 7. Identification mark. 8. Use for registered purpose only. 9. Position of identification mark.
-10. Illumination of identification mark at night. 11. General identification marks for dealer. 12. Record Book.
+4. Application by owner for registration. 5. Number to be assigned. 6. When Licensing Authority may cancel registration. 7. Identification mark. 8. Use for registered purpose only. 9. Position of identification mark. 10. Illumination of identification mark at night. 11. General identification marks for dealer. 12. Record Book.
 PART III
 LICENSING
-(Revoked by Act No. 9 of 1997). 13.
-14. Weighing of vehicles.
-}
-15.
+13. (Revoked by Act No. 9 of 1997). 14. Weighing of vehicles.
+} 15.
 (Repealed by Act No. 9 of 1997).
-16. 17. Number of persons to be carried.
+16. 17. Number of persons to be carried. [Subsidiary] Motor Vehicles and Road Traffic Regulations
+ARRANGEMENT OF REGULATIONS-Continued
+REGULATION
 PART IV
 DRIVING AND CONDUCTOR'S PERMITS
-18. Application for permit. 19. Form of driving permit or provisional permit.
-[Subsidiary ] Motor Vehicles and Road Traffic Regulations
-REGULATION
-20. Application for renewal prior to date of expiration.
+18. Application for permit. 19. Form of driving permit or provisional permit. 20. Application for renewal prior to date of expiration.
 20A. Application for renewal where applicant will be absent from country.
 21. Conductor's permit. 22. Badges for conductors. 23. Re-issue of lost or defaced permit or badge. 24. Cancellation or suspension of conductor's permit. 25. Cancellation or suspension of driver's permit. 26. Medical certificate.
 PART V
 INSPECTION OF MOTOR VEHICLES
 27. Inspection of motor vehicles, etc., and register.
-* PART VA
+*PART VA
 AUTHORISED EXAMINERS AND PREMISES
-27A. Applications for authorisations. 27B. Authorisations. 27C. Conditions to be complied with by proprietors. 27D. Termination of authorisation. 27E. Forms and documents to be returned to Transport Commissioner. 27F. Application for examination. 27G. Requirements as to vehicles submitted for examination. 27H. Conditions as to responsibility for damage to vehicles and third party.
-27I. Results of examinations. 27J. Refusal of a test certificate where braking test cannot be carried out. 27K. Removal of vehicles submitted for examination. 27L. Appeal on refusal of a test certificate. 27M. Payment to proprietors at whose premises examinations on appeals
-are carried out.
-27N. Fees for examination. 27O. Fees on appeals. 27P. Records to be kept and returns to be furnished by proprietors.
-28. Conditions of use of motor vehicles on public road. Reversing. Width. Length. Overhang. Distribution of weight. [Subsidiary ] Motor Vehicles and Road Traffic Regulations
-ARRANGEMENT OF REGULATIONS-Continued
+27A. Applications for authorisations. 27B. Authorisations. 27C. Conditions to be complied with by proprietors. 27D. Termination of authorisation. 27E. Forms and documents to be returned to Transport Commissioner. 27F. Application for examination. 27G. Requirements as to vehicles submitted for examination. 27H. Conditions as to responsibility for damage to vehicles and third party. 27I. Results of examinations. Motor Vehicles and Road Traffic Regulations [Subsidiary]
 REGULATION
-Brakes. Trailers. Weight shown in certain cases.
-Condition of vehicle.
-Silencers. Cut-outs.
-Unauthorised lights.
-Unauthorised letters and figures. Lights.
+27J. Refusal of a test certificate where braking test cannot be carried out. 27K. Removal of vehicles submitted for examination. 27L. Appeal on refusal of a test certificate. 27M. Payment to proprietors at whose premises examinations on appeals
+are carried out.
+27N. Fees for examination. 27O. Fees on appeals. 27P. Records to be kept and returns to be furnished by proprietors. 28. Conditions of use of motor vehicles on public road.
+Reversing. Width. Length. Overhang. Distribution of weight. Brakes. Trailers. Weight shown in certain cases. Condition of vehicle. Silencers. Cut-outs. Unauthorised lights. Unauthorised letters and figures. Lights.
 29. Stationary motor vehicle. 30. Direction indicators. 31. Left-hand driven vehicles.
 PART VI
 INSPECTION OF VEHICLES OTHER
 THAN MOTOR VEHICLES
-32. Definition. 33. Bells, etc. 34. Lights on vehicles other than motor vehicles. 35. Cycle brakes. 36. Constable may test cycle brakes. 37. Liability of parents and guardians.
+32. Definition. 33. Bells, etc. [Subsidiary] Motor Vehicles and Road Traffic Regulations
+ARRANGEMENT OF REGULATIONS-Continued
+REGULATION
+34. Lights on vehicles other than motor vehicles. 35. Cycle brakes. 36. Constable may test cycle brakes. 37. Liability of parents and guardians.
 PART VII
 USE OF MOTOR VEHICLES
 38. Rules to be observed by drivers.
 Travelling backwards.
-Full control and view to be maintained. Brakes to be applied and engine stopped on quitting motor vehicle. Restrictions as to sitting by driver. To keep to the left. To keep on the left on meeting other traffic. Overtaking. Being overtaken. Cutting in. Corners. Crossings.
-[Subsidiary ] Motor Vehicles and Road Traffic Regulations
+Full control and view to be maintained. Brakes to be applied and engine stopped on quitting motor vehicle. Restrictions as to sitting by driver. To keep to the left. To keep on the left on meeting other traffic. Overtaking. Being overtaken. Cutting in. Corners. Crossings. Turning to left. Turning to right.
+Stopping at corners.
+Drawing up alongside other motor vehicles. Drawing up and standing alongside of fire hydrant. Obstruction.
+Turnings and crossroads.
+Traffic signals. Traffic directions.
+Slow moving traffic.
+Drawing up at side of road.
+Horns, etc. Sparks, smoke, vapour, lubricating oil.
+Motor Vehicles and Road Traffic Regulations [Subsidiary]
 REGULATION
-Turning to left. Turning to right. Stopping at corners. Drawing up alongside other motor vehicles.
-Drawing up and standing alongside of fire hydrant.
-Obstruction. Turnings and crossroads. Traffic signals. Traffic directions. Slow moving traffic. Drawing up at side of road. Horns, etc. Sparks, smoke, vapour, lubricating oil. Stopping of motor vehicle at request of constable, or person in
+Stopping of motor vehicle at request of constable, or person in
 charge of horse.
 Projections. Overcrowding. Riding outside. Motor vehicles unattended. Passage of Fire Brigade. Towing other vehicles. Length of tow rope.
 39. Filling petrol into motor vehicles. 40. Reflecting mirror. 41. Fittings and equipment to be properly adjusted. 42. Load to be properly secured. 43. Noisy motor vehicles. 44. Tyres. 45. Safety glass windshield. 46. Windshield wiper. 47. Traffic signal. 48. Cyclists and pedestrians to comply with traffic control signal. 49. Prohibition on playing of musical or noisy instruments in a
-motor vehicle. [Subsidiary ] Motor Vehicles and Road Traffic Regulations
-ARRANGEMENT OF REGULATIONS-Continued
-REGULATION
+motor vehicle.
 PART VIII
 USE OF VEHICLES OTHER THAN
 MOTOR VEHICLES AND OF ANIMALS
 50. Application of certain provisions of Part VII to drivers and riders of
 vehicles other than motor vehicles, and of animals.
-51. Traffic signals. 52. Reckless driving. 53. Careless driving. 54. Driving or riding while under influence of drink. 55. Control of animal drawing vehicle. 56. Control of cattle. 57. Driving or riding on the footpath.
+51. Traffic signals. 52. Reckless driving. 53. Careless driving. 54. Driving or riding while under influence of drink. [Subsidiary] Motor Vehicles and Road Traffic Regulations
+ARRANGEMENT OF REGULATIONS-Continued
+REGULATION
+55. Control of animal drawing vehicle. 56. Control of cattle. 57. Driving or riding on the footpath.
 PART IX
 PUBLIC SERVICE VEHICLES-
 CONSTRUCTION AND MAINTENANCE
 MOTOR OMNIBUSES
 58. Body and chassis. 59. Curtains, screens, etc., to be properly fastened. 60. Flooring.
 Fittings for motor omnibuses.
-61. Seats, corridor and safety exits. 62. Steps, etc. 63. Toeguards. 64. Driver's seat. 65. Conductor's seat. 66. Motor omnibus to carry conductor. 67. Front protection. 68. Internal height. 69. Driver's uniform and badge. 70. Special regulations for motor bus conductors. 71. Motor bus to proceed direct to destination. 72. Entering or leaving bus.
-[Subsidiary ] Motor Vehicles and Road Traffic Regulations
+61. Seats, corridor and safety exits. 62. Steps, etc. 63. Toeguards. 64. Driver's seat. 65. Conductor's seat. 66. Motor omnibus to carry conductor. 67. Front protection. 68. Internal height. 69. Driver's uniform and badge. 70. Special regulations for motor bus conductors. 71. Motor bus to proceed direct to destination. 72. Entering or leaving bus. 73. Licensing Authority may delegate his powers. 74. Motor omnibuses registered prior to 1st January 1935. 75. Saving as to motor omnibus.
+Motor Vehicles and Road Traffic Regulations [Subsidiary]
 REGULATION
-73. Licensing Authority may delegate his powers. 74. Motor omnibuses registered prior to 1st January 1935. 75. Saving as to motor omnibus.
 PUBLIC SERVICE VEHICLES
-76. Special regulations for drivers of public service vehicles. 77. Lost property. 78. Touting. 79. Attire of taxi driver. 80. Advertisement. 81. Refusal to hire motor vehicle. (Repealed by LN 197/1999). 82. (Deleted by LN 34/2003). 83.
-84. Right to demand fare.
+76. Special regulations for drivers of public service vehicles. 77. Lost property. 78. Touting. 79. Attire of taxi driver. 80. Advertisement. 81. Refusal to hire motor vehicle. 82. (Repealed by LN 197/1999). 83. (Deleted by LN 34/2003). 84. Right to demand fare.
 PART X
-RESTRICTIONS RELATING TO MOTOR OMNIBUSES
+RESTRICTIONS RELATING TO
+MOTOR OMNIBUSES
 85. Omnibus routes. 86. Routes to be specified on licence. 87. Special permits.
-} 88.
-(Repealed by LN 197/1999). 89.
-90. 91. Reconsideration of Licensing Authority's decision.
+}
+88. to (Repealed by LN 197/1999). 90. 91. Reconsideration of Licensing Authority's decision.
 PART XI
 RULES FOR PARKING OF VEHICLES
 92. No lighted lamps on motor vehicles required when in parking places
 and public stands.
-93. Rules for parking of taxis. 94. Taxis leaving stands. 95. Parking of taxis. 96. Alignment of omnibuses. [Subsidiary ] Motor Vehicles and Road Traffic Regulations
+93. Rules for parking of taxis. 94. Taxis leaving stands. 95. Parking of taxis. 96. Alignment of omnibuses. 97. Omnibuses leaving stands. [Subsidiary] Motor Vehicles and Road Traffic Regulations
 ARRANGEMENT OF REGULATIONS-Continued
 REGULATION
-97. Omnibuses leaving stands. 98. Parking.
+98. Parking.
 } (Repealed by LN 197/1999). 99.
 100.
 PART XII
 TRAFFIC LIGHT SIGNALS
-101. Licensing Authority to erect and maintain light signals. 102. Significance of light signals.
-(Repealed by LN 197/1999). 103.
-104. "Cross" and "Don't Cross" Signals.
+101. Licensing Authority to erect and maintain light signals. 102. Significance of light signals. 103. (Repealed by LN 197/1999). 104. "Cross" and "Don't Cross" Signals.
 104A. Inoperative traffic lights.
 PART XIII
 SPECIAL TRAFFIC DIRECTIONS
-105. Traffic at dual carriageways. 106. Traffic at roundabouts. 107. Traffic at crossroads.
-(Repealed by LN 197/1999). 108.
-109. Restricting lorries on part of High Street. 110. Parking of vehicles in San Fernando.
-PART XIV
-TAXIS
+105. Traffic at dual carriageways. 106. Traffic at roundabouts. 107. Traffic at crossroads. 108. (Repealed by LN 197/1999). 109. Restricting lorries on part of High Street. 110. Parking of vehicles in San Fernando.
+PART XIV TAXIS
 111. Taxi Drivers' licences. 112. Duplicate licences. 113. Cancellation of Taxi Drivers' licences. 114. Changes in particulars set out in taxi drivers' licences to be notified. 115. Production and inspection of taxi drivers' licences. 116. Only bona fide passengers to be in taxis plying for or on hire in
 taxi stands.
 No person to loiter on or about a taxi stand.
-[Subsidiary ] Motor Vehicles and Road Traffic Regulations
+Motor Vehicles and Road Traffic Regulations [Subsidiary]
 REGULATION
-117. Taxi not to be used for indecent or immoral purpose. (Repealed by LN 197/1999). 118.
-119. Exemption. 120. Rented cars not to be used as taxis.
+117. Taxi not to be used for indecent or immoral purpose. 118. (Repealed by LN 197/1999). 119. Exemption. 120. Rented cars not to be used as taxis.
 PART XV
 MISCELLANEOUS
 121. Limitation of drivers' working hours. 122. Discretionary powers of Licensing Authority. 123. Eastern Main Road Regulations. 124. Eastern Main Road, Demerara Road, Aripo and Heights of
 Guanapo Roads.
 125. Western Main Road. 126. Chaguanas Road. 127. Liability for contravention or failure to comply with Regulations.
-FIRST SCHEDULE. SECOND SCHEDULE. THIRD SCHEDULE. FOURTH SCHEDULE. FIFTH SCHEDULE. SIXTH SCHEDULE. SEVENTH SCHEDULE. [Subsidiary ]
+FIRST SCHEDULE. SECOND SCHEDULE. THIRD SCHEDULE. FOURTH SCHEDULE. FIFTH SCHEDULE. SIXTH SCHEDULE. SEVENTH SCHEDULE. [Subsidiary]
 *MOTOR VEHICLES AND ROAD TRAFFIC
 REGULATIONS
 made under section 100
@@ -144,7 +136,7 @@ any other suitable material placed on, in or near the centre of a road for the p
 "City of Port-of-Spain" means the City of Port-of-Spain as defined
 in the First Schedule to the Municipal Corporations Act;
 * These Regulations were amended by the following: GNs 200/1951, 233/1951, 83/1952, 71/1953, 177/1956, 26/1957, 27/1957, 39/1957, 43/1958, 124/1958, 148/1958, 94/1959, 125/1959, 108/1960, 88/1961, 11 of 1963, 32/1964, 32 of 1964, 21/1966, 73/1966, 105/1970, 57/1971, 86/1971, 151/1971, 105/1972, 15/1977, 27/1979, 61/1979, 72/1979; 206/1979, 207/1979, 208/1979, 211/1979; 104/1982; 6 of 1993; 9 of 1997; 197/1999; (See Act No. 9 of 2001); 34/2003. These Regulations, though made under section 100, are published first because of their importance and because it avoids the inconvenience of separating certain of the Orders from the others.
-[Subsidiary ] Motor Vehicles and Road Traffic Regulations
+Motor Vehicles and Road Traffic Regulations [Subsidiary]
 "City of San Fernando" means the City of San Fernando
 as defined in the First Schedule to the Municipal Corporations Act; "cycle" means a pedal bicycle or pedal tricycle, not being in
 either case a mechanically propelled vehicle; "identification mark" means the index mark and the separate
@@ -153,7 +145,7 @@ face of the tyre on the rear wheel on the same side of the vehicle (and in the c
 centre of a hub of a rear wheel to a vertical line let fall from the extreme limit of the body; "Municipal area" means the City of Port-of-Spain, the City of
 San Fernando, the Borough of Arima, the Borough of Chaguanas and the Borough of Point Fortin; "overall length" in relation to a single vehicle means the length
 of the vehicle exclusive of the starting handle, if any, and of the hood, if any, when down, or, in the case of a trailer, the draw-bar, measured between parallel planes passing through the extreme projecting points of the vehicle, and, in relation to a combination of vehicles, the length measured between parallel planes passing through the extreme forward projecting point of the tractor and the extreme rear projecting point of the last trailer being towed; "overall width" means the width measured between parallel
-lines passing through the extreme projecting points of the vehicle exclusive of any driving mirror or of any direction indicator when in operation, and of so much of the distortion of any tyre as is caused by the weight of the vehicle; [Subsidiary ] Motor Vehicles and Road Traffic Regulations
+lines passing through the extreme projecting points of the vehicle exclusive of any driving mirror or of any direction indicator when in operation, and of so much of the distortion of any tyre as is caused by the weight of the vehicle; [Subsidiary] Motor Vehicles and Road Traffic Regulations
 "overcrowding" means more persons that will allow the driver to
 operate his vehicle freely without interference, and safely; that is, if his movement as they affect the gear shift lever, the brakes, the clutch, the steering wheel, is interfered with, or if his vision is obstructed so that he cannot safely drive or operate his vehicle;
 "public stand" means an appointed place where public service vehicles
@@ -171,7 +163,7 @@ register it shall apply to the Licensing Authority and shall furnish him with th
 and the fee of ten dollars, the Licensing Authority shall, subject to the provisions of the Act, assign a separate number to the motor vehicle or trailer and register it by making the required entries in the register. On the registration of a motor vehicle or trailer, the Licensing Authority shall furnish the owner thereof with a certified copy of the entry.
 6. If the Licensing Authority is satisfied that a motor
 vehicle or trailer which has been registered is destroyed, broken up or permanently removed from Trinidad and Tobago, he may cause the entries in the register with respect to that motor vehicle
-[Subsidiary ] Motor Vehicles and Road Traffic Regulations
+Motor Vehicles and Road Traffic Regulations [Subsidiary]
 or trailer to be cancelled, and may, if he thinks fit, assign the registered number of the motor vehicle or trailer to any other motor vehicle or trailer.
 7. (1) The identification mark to be carried by a registered motor vehicle or trailer in pursuance of section 12 of the Act, shall consist of two plates which must conform as to size, lettering, numbering and otherwise with the following provisions:
 (a) (i) each plate must be rectangular and bear upon
@@ -181,7 +173,7 @@ conformity with the arrangement of letters and figures shown on one or other of 
 (b) the two plates may, at the option of the owner,
 be of either of the shapes shown in the alternative diagrams in the Second Schedule or one of one shape and one of the other;
 (c) (i) the identification mark shall be formed of
-white letters and figures on a black surface, and every letter or figure shall be indelibly inscribed or so attached to such surface that it cannot readily be detached therefrom; [Subsidiary ] Motor Vehicles and Road Traffic Regulations
+white letters and figures on a black surface, and every letter or figure shall be indelibly inscribed or so attached to such surface that it cannot readily be detached therefrom; [Subsidiary] Motor Vehicles and Road Traffic Regulations
 (ii) the identification mark may, at the option
 of the owner, be constructed and used in a manner which illuminates it by reflection, transparency, translucency or otherwise. If the identification mark is so constructed and used, the letters and figures shall be black on a white surface, and every letter or figure shall be indelibly inscribed or so attached to such surface that it cannot readily be detached therefrom;
 (d) all letters and figures must be eighty-five
@@ -190,22 +182,21 @@ millimetres high; every part of every letter and figure must be fifteen millimet
 between adjoining letters and between adjoining figures on each plate shall be ten millimetres, and there shall be a margin between the nearest part of any letter or figure and the top and bottom of the plate of at least ten millimetres, and between the nearest part of any letter or figure and the sides of the plate of at least twenty-five millimetres;
 (ii) where a registration number comprises
 three letters and four figures the space between adjoining letters and between adjoining figures on each plate shall be eight millimetres, and there shall be a margin between the nearest part of any letter or figure and the top and bottom of the plate of at least ten millimetres, and between the nearest part of any letter or figure and the sides of the plate of at least fifteen millimetres;
-[Subsidiary ] Motor Vehicles and Road Traffic Regulations
+Motor Vehicles and Road Traffic Regulations [Subsidiary]
 (f) in the alternative diagram No. 1, the space
 between the upper and lower lines must be fifteen millimetres. In the alternative diagram No. 2, the space between the letter and the figures must be thirty-five millimetres.
 (2) Letters and numbers as prescribed in the Second Schedule painted on or otherwise fixed to the motor vehicle or trailer, may be used instead of plates. Any reference to plates in these Regulations shall be construed to include a reference to numbers and letters so painted or fixed, and any reference to the fixing of plates to include a reference to the numbers and letters so painted or fixed or other delineation of the numbers and figures.
 8. No person shall use a motor vehicle for a purpose other than that for which it is registered.
 9. The plates forming the identification mark shall be fixed, one on the front and the other on the back of the motor vehicle or trailer, in an upright position, so that every letter or figure on the plate is upright and easily distinguishable, in the case of the plate placed on the front of the motor vehicle or trailer from in front of the motor vehicle or trailer, and in the case of the plate placed on the back, from behind the motor vehicle or trailer.
 In the case of a motor cycle, the plate fixed on the front of the cycle may, if it is a plate having duplicate faces conforming with the Second Schedule be fixed so that from whichever side the cycle is viewed the letters or figures on one or other face of the plate are easily distinguishable, though they may not be distinguishable from the front of the cycle.
-Subject to the provisions of this regulation, the plates forming the identification mark shall be fixed on the motor vehicle or trailer in the position indicated in the particulars given in the application for the registration of the motor vehicle or trailer or subsequently furnished to the Licensing Authority or if he is not satisfied with the position so indicated, in such a position as he directs. [Subsidiary ] Motor Vehicles and Road Traffic Regulations
+Subject to the provisions of this regulation, the plates forming the identification mark shall be fixed on the motor vehicle or trailer in the position indicated in the particulars given in the application for the registration of the motor vehicle or trailer or subsequently furnished to the Licensing Authority or if he is not satisfied with the position so indicated, in such a position as he directs. [Subsidiary] Motor Vehicles and Road Traffic Regulations
 No motor vehicle shall be used on any road unless the plates
 forming the identification mark are clean and maintained in such condition as to render each letter or figure readily distinguishable.
 10. Whenever a motor vehicle or trailer is used on a public
 road at night a lamp shall be kept burning on the motor vehicle, or trailer so contrived as to illuminate by means of reflection, transparency or otherwise, and render easily distinguishable, every letter or figure on the identification plate fixed on the back of the motor vehicle or trailer.
 In the application of this regulation to a motorcycle, the plate
 fixed on the front of the cycle may, if desired, be substituted for the plate fixed on the back of the cycle.
-11.
-(1) The Licensing Authority may assign to the holder of a
+11. (1) The Licensing Authority may assign to the holder of a
 dealer's general licence such number of general identification marks as he thinks fit. The marks shall be such as the Licensing Authority directs in each case-
 Provided that-
 (a) they shall consist of two plates, each bearing
@@ -216,17 +207,17 @@ from that used for the plates forming the ordinary identification mark; and
 so far as possible, be similar to those required in the case of the plates forming the ordinary identification mark.
 (2) Every holder of a dealer's general licence to whom
 general identification marks have been assigned shall keep a Demonstration Book, and on every occasion on which such identification mark is used on a motor vehicle, he shall make or
-[Subsidiary ] Motor Vehicles and Road Traffic Regulations
+Motor Vehicles and Road Traffic Regulations [Subsidiary]
 cause to be made in the Demonstration Book an immediate entry of the following particulars:
-Date. Identification mark.
-Description of motor vehicle on which used.
-Driver's name. Time of departure from garage. Time of return to garage.
+Date; Identification mark;
+Description of motor vehicle on which used;
+Driver's name; Time of departure from garage; Time of return to garage;
 Purpose for which the motor vehicle is used.
 (3) The provisions of these Regulations which relate to the fixing and illumination of identification plates shall apply to the plates forming the general identification mark as they apply to the plates forming the ordinary identification mark.
 (4) A motor vehicle used under the authority of a dealer's general licence shall not be used for any purposes other than those specified in section 35 of the Act and shall not be used for private or trade purposes either by the dealer or by any other person.
 (5) Every holder of a dealers' licence shall not operate under the authority of such licence between the hours of 8.00 p.m. and 5.00 a.m. without the express written permission of the Licensing Authority.
 12. Every owner of a rented car shall keep a record book and on every occasion on which such car is hired out he shall make or cause to be made in such record book an immediate entry of the following particulars:
-Date. Identification mark of rented car. Hirer's name and address. Time vehicle is hired out. Period for which vehicle is hired out. Time and date vehicle is returned. [Subsidiary ] Motor Vehicles and Road Traffic Regulations
+Date; Identification mark of rented car; Hirer's name and address; Time vehicle is hired out; Period for which vehicle is hired out; Time and date vehicle is returned. [Subsidiary] Motor Vehicles and Road Traffic Regulations
 PART III
 LICENSING
 (This Heading is deleted by Act No. 9 of 1997)
@@ -237,7 +228,8 @@ weighbridges and portable scales maintained by the Licensing Authority, who is h
 registration-twenty dollars;
 (b) for the weighing of any vehicle (with or without
 load) for other purposes-fifty cents per tonne or part thereof.
-} (Repealed by Act No. 9 of 1997). 15.
+} (Repealed by Act No. 9 of 1997).
+15.
 16.
 17. The owner of every public service vehicle shall keep
 distinctly painted on the outside of such vehicle the number of persons which, under the terms of its registration, may be carried in such vehicle. Such number shall be painted in conspicuous figures and shall ordinarily be placed in the following positions:
@@ -249,7 +241,7 @@ PART IV
 DRIVING AND CONDUCTOR'S PERMITS
 18. Applications for the issue or renewal of a driving permit
 or a provisional permit shall be made in the form set out as Form 4 in the First Schedule.
-[Subsidiary ] Motor Vehicles and Road Traffic Regulations
+Motor Vehicles and Road Traffic Regulations [Subsidiary]
 19. A driving permit shall be in the form set out as Form 5A in the First Schedule and a provisional permit shall be in the form set out as Form 5B in that Schedule.
 20. Application for the grant or renewal of a driving permit may be received and dealt with at any time within one month before the date on which the renewal of the driving permit is to take effect.
 20A. The Licensing Authority may receive and deal with applications for the renewal of a driving permit within six months before its date of expiration once it is proved to the Authority's satisfaction that the applicant will be absent from the country at the time of expiration of his permit.
@@ -262,7 +254,7 @@ physically and mentally fit;
 (c) he has sufficient knowledge of the rules of the
 road and of the Motor Vehicles and Road Traffic Regulations.
 (4) The Licensing Authority on being satisfied as above shall grant a permit to the applicant on payment of a prescribed fee.
-(5) The permit shall be in such form as may be approved by the Licensing Authority and shall have attached thereto a photograph of the applicant, such photograph being [Subsidiary ] Motor Vehicles and Road Traffic Regulations
+(5) The permit shall be in such form as may be approved by the Licensing Authority and shall have attached thereto a photograph of the applicant, such photograph being [Subsidiary] Motor Vehicles and Road Traffic Regulations
 supplied in duplicate by the applicant when applying for the permit. The permit shall commence on the day on which the same is granted and shall expire on 31st December next following.
 (6) Every conductor shall, on being so required by any
 constable in uniform, produce his permit for examination so as to enable such constable to ascertain the name and address of the holder of the permit, the date of issue and the Police Officer or Transport Officer in uniform by whom it was issued, and if he fails to do so, he shall be guilty of an offence under this regulation:
@@ -276,7 +268,7 @@ granted by the Licensing Authority satisfies the Licensing Authority that his pe
 permit of any conductor on any conviction or contravention of the Act or of these Regulations or on being satisfied that he is not a fit and proper person to hold a conductor's licence.
 25. (1) If it appears to the Transport Officer that there is
 reason to believe that any person who holds a driver's permit is suffering from a disease or physical disability likely to cause the driving by him of a motor vehicle being a vehicle of any such class or description as he is authorised by the permit to drive, to be a source of danger to the public and, on enquiring into the
-[Subsidiary ] Motor Vehicles and Road Traffic Regulations
+Motor Vehicles and Road Traffic Regulations [Subsidiary]
 matter, the Transport Officer is satisfied that the holder of the permit is suffering from such a disease or disability as aforesaid, then whether or not the holder of the permit so suffering as aforesaid has previously passed a driving test, the Transport Officer may, after giving to the holder of the permit notice of his intention to do so, revoke the permit, and the holder shall on receipt of such notice deliver the permit to the Transport Officer for cancellation.
 (2) If any person is aggrieved by the revocation of a driving permit under this regulation, he may, after giving notice to the Transport Officer of his intention to do so, appeal to the Licensing Authority, and on any such appeal the Licensing Authority may confirm or revoke the decision of the Transport Officer.
 (3) If it appears to the Licensing Authority that a driving permit has been obtained through misrepresentation or has been issued to a person under a wrong name or under an assumed name by which he is not generally known, the Licensing Authority may, after giving to the holder of the permit notice of his intention to do so, revoke the permit, and the holder shall, on receipt of such notice, deliver the permit to the Licensing Authority for cancellation.
@@ -287,10 +279,10 @@ INSPECTION OF MOTOR VEHICLES
 (a) the name of the manufacturer of the chassis;
 (b) model;
 (c) engine number and number of cylinders;
-(d) year manufactured; [Subsidiary ] Motor Vehicles and Road Traffic Regulations
+(d) year manufactured; [Subsidiary] Motor Vehicles and Road Traffic Regulations
 (e) factory number of chassis, body number or
 VIN number;
-(f) maximum gross weight in kilograms;
+(f) maximum gross weight in kilogrammes;
 (g) type of body.
 so, however, that a registered owner of a private motor vehicle or motorcycle where such motor vehicle or motorcycle is five years old or more, shall produce it for inspection by an examiner biennially, at such premises designated for that purpose as the Licensing Authority may direct.
 (2) Where an owner is unable to furnish the information
@@ -307,12 +299,12 @@ in writing require the registered owner of a motor vehicle or trailer to produce
 conductor's permits between 15th and 31st December, to become effective on the following 1st January.
 (8) Where a Transport Officer has examined a motor
 vehicle or trailer under subregulation (5) and determines that it is not in a fit and proper state of repair he shall immediately report that fact to the Licensing Authority.
-[Subsidiary ] Motor Vehicles and Road Traffic Regulations
+Motor Vehicles and Road Traffic Regulations [Subsidiary]
 (9) Where a motor vehicle or trailer referred to in subregulation (8) was issued a certificate in accordance with subregulation (3) the person who issued the certificate is guilty of an offence where it is determined that the motor vehicle or trailer was defective at the time of inspection.
 (10) A person who commits an offence under subregulation (9) is liable on summary conviction to a fine of fifty thousand dollars or imprisonment for one year.
 (11) A registered owner of a private motor vehicle or motorcycle, public service motor vehicle, rental car, goods vehicle, omnibus or trailer who fails to produce the vehicle for inspection or drives the vehicle without obtaining an inspection sticker and certificate in accordance with these Regulations commits an offence and is liable, on summary conviction, to a fine of five thousand dollars.
 (12) A person who uses an inspection sticker or an inspection certificate, without authorisation, commits an offence and is liable on summary conviction to imprisonment for one year and a fine of fifteen thousand dollars.
-* PART VA
+*PART VA
 AUTHORISED EXAMINERS AND PREMISES
 27A. (1) Applications for authorisations of premises to be used for inspections of motor vehicles may be made by-
 (a) an individual proposing to carry out examinations
@@ -320,7 +312,8 @@ otherwise than on behalf of any other person;
 (b) persons in partnership; or
 (c) a company, hereinafter referred to as "proprietor".
 (1A) A person who desires to become an examiner shall apply to the Transport Commissioner.
-(2) Every application shall be made on a form approved by the Licensing Authority and signed, where the application is made under paragraph (1)(a), by the individual making the *See Note on LN 197/1999 at page 3. [Subsidiary ] Motor Vehicles and Road Traffic Regulations
+(2) Every application shall be made on a form approved by the Licensing Authority and signed, where the application is made under paragraph (1)(a), by the individual making the
+*See Note on LN 197/1999 at page 3. [Subsidiary] Motor Vehicles and Road Traffic Regulations
 application and, where the application is made under paragraph
 (1)(b) or (c) by a person duly authorised by the firm or company.
 (3) In a case where the applicant proposes to carry out
@@ -341,7 +334,7 @@ authorisation prior to the expiration of the period of authorisation, shall subm
 commits an offence and is liable, on summary conviction, to a fine of five thousand dollars.
 (6) A proprietor or examiner who conducts inspections
 of motor vehicles for the purpose of these Regulations without the required authorisation commits an offence and is liable on summary conviction to imprisonment for one year and a fine of twenty thousand dollars.
-[Subsidiary ] Motor Vehicles and Road Traffic Regulations
+Motor Vehicles and Road Traffic Regulations [Subsidiary]
 (7) A person guilty of an offence under subregulation (6) shall, in addition to the penalty stipulated for the offence therein, be required to reimburse any fee paid by a motorist whose motor vehicle had been inspected by him during the period he was not authorised to inspect motor vehicles.
 (8) A motorist whose vehicle was inspected by an unauthorised examiner shall, within thirty days of being informed by the Licensing Authority that his inspection was invalid, have his vehicle inspected in accordance with these Regulations.
 27C. (1) Subject to these Regulations, every proprietor shall comply with such conditions set out in the document entitled "Responsibilities of a vehicle testing station Proprietor or Examiner" as indicated in the Sixth Schedule and also with the following conditions:
@@ -352,7 +345,7 @@ carried out or to be personally supervised, and for test certificates to be sign
 (i) are competent to act for such a purpose; and
 (ii) if they are not the proprietor or, where the
 proprietor consists of persons in partnership with one of those persons, carry out the examination in a manner which is under the direct control of the proprietor,
-save that no person shall be first authorised to carry out or supervise an examination or sign a test certificate unless he has successfully completed a course of instruction approved for the purpose by the Licensing Authority as set out in paragraph 4 of the Sixth Schedule; [Subsidiary ] Motor Vehicles and Road Traffic Regulations
+save that no person shall be first authorised to carry out or supervise an examination or sign a test certificate unless he has successfully completed a course of instruction approved for the purpose by the Licensing Authority as set out in paragraph 4 of the Sixth Schedule; [Subsidiary] Motor Vehicles and Road Traffic Regulations
 (c) the proprietor shall supply the Licensing Authority
 with the names of all persons who are from time to time authorised in pursuance of arrangements made in accordance with subparagraph (b) to carry out or personally supervise examinations at that station and in either case to sign test certificates; and such names shall be given within seven days after the date of any such authorisation;
 (d) the proprietor shall put up and keep exhibited
@@ -365,21 +358,21 @@ being authorised to carry out or personally supervise examinations at that stati
 outside the vehicle testing station of that proprietor in a conspicuous place a sign of the size, colour and type shown in Part I of the Seventh Schedule and complying with the conditions specified in Part II of the Sixth Schedule;
 (f) the proprietor shall, after not less than three clear
 days' notice given to that proprietor by the Licensing Authority, make the vehicle testing station of that proprietor and the apparatus at that station with which examinations are carried out available for the purpose of an examination to be carried out by the Licensing Authority as a result of an appeal which has been made against the refusal of a test certificate, whether
-[Subsidiary ] Motor Vehicles and Road Traffic Regulations
+Motor Vehicles and Road Traffic Regulations [Subsidiary]
 by that or any other authorised proprietor or by an inspector appointed by the Licensing Authority;
-(g) the proprietor shall give notice to the Licensing Authority at the sub-office in which is situated the vehicle testing station of the proprietor-
+(g) the proprietor shall give notice to the Licensing
+Authority at the sub-office in which is situated the vehicle testing station of the proprietor-
 (i) in a case where the proprietor is the sole
 individual named in an authorisation, of his entering into any partnership with a view to carrying on a business which will comprise the carrying out of examinations at that station; and
 (ii) in a case where the proprietor consists of
 persons in partnership, of any change in the constitution of the firm, and such notice shall be given not later than seven days after the occurrence of the entry into partnership or the change in the constitution, as the case may be.
-(2) The Licensing Authority may give notice to a
-proprietor that in the opinion of the Licensing Authority a person should not carry out or supervise examinations, or sign test certificates, and on receipt of that notice the proprietor shall arrange that that person shall no longer carry out or supervise examinations or sign test certificates, as the case may require.
+(2) The Licensing Authority may give notice to a proprietor that in the opinion of the Licensing Authority a person should not carry out or supervise examinations, or sign test certificates, and on receipt of that notice the proprietor shall arrange that that person shall no longer carry out or supervise examinations or sign test certificates, as the case may require.
 27D. (1) An authorisation of an individual as a proprietor terminates if he-
 (a) dies;
 (b) commits a criminal offence;
 (c) is adjudged bankrupt;
 (d) becomes mentally incapacitated; or
-(e) is found to be in breach of his duties under the Act. [Subsidiary ] Motor Vehicles and Road Traffic Regulations
+(e) is found to be in breach of his duties under the Act. [Subsidiary] Motor Vehicles and Road Traffic Regulations
 (2) An authorisation as a proprietor of persons in
 partnership terminates if the firm is dissolved.
 (3) An authorisation of a company as a proprietor
@@ -399,7 +392,7 @@ authorisation of an individual as a proprietor or examiner on the following grou
 (a) the improper or fraudulent issue of a test certificate;
 (b) the deliberate failure to report the loss or theft of
 any certification relating to the inspection process to the Licensing Authority or the police;
-[Subsidiary ] Motor Vehicles and Road Traffic Regulations
+Motor Vehicles and Road Traffic Regulations [Subsidiary]
 (c) the conviction of the proprietor or examiner
 under his control for any criminal offence that in the opinion of the Licensing Authority is likely to damage the integrity of the inspection programme;
 (d) the continued failure to comply with the provisions
@@ -412,7 +405,7 @@ ceases is less than twenty-one days from the date of the notice, that the Licens
 (c) that within twenty-one days from the date of the
 notice, the proprietor or any person acting on his behalf may appeal the decision of the Authority to the Trinidad Transport Board who shall determine whether the notice of termination shall be upheld or cancelled.
 (8) An authorisation in respect of which a notice is given in accordance with subsection (6) shall, except as is provided in paragraph (6)(a), cease on the date specified in the notice as the date upon which the authorisation shall cease.
-(9) The termination of an authorisation shall be effective from such time specified in the notice given under subsection (6) or for such period as is determined by the Trinidad Transport Board upon an appeal under subsection (6). [Subsidiary ] Motor Vehicles and Road Traffic Regulations
+(9) The termination of an authorisation shall be effective from such time specified in the notice given under subsection (6) or for such period as is determined by the Trinidad Transport Board upon an appeal under subsection (6). [Subsidiary] Motor Vehicles and Road Traffic Regulations
 27E. (1) If an authorisation of a proprietor ceases to have
 effect, the former proprietor or, if appropriate, his authorised representative, shall send to the Licensing Authority such of the following documents as are then in the possession of the proprietor:
 (a) all unused forms of test certificates, inspection
@@ -430,18 +423,18 @@ forms of test certificates sent to it in accordance with subregulation (1) it sh
 forms of test certificates which are returned to it as having been cancelled because they have been spoilt or defaced make an appropriate refund to the proprietor by whom the forms are so returned.
 27F. (1) An application for an examination of a vehicle under
 these Regulations shall be made to the Transport Commissioner.
-[Subsidiary ] Motor Vehicles and Road Traffic Regulations
+Motor Vehicles and Road Traffic Regulations [Subsidiary]
 (2) An application for an examination (including a re-examination) of a vehicle in a class other than Class VI under these Regulations shall be made as indicated in the Table below:
 (1) (2) (3)
 Item Person or body to whom Manner in which
 No. application must be made Appointment must be made
 By arrangement following 1. A proprietor application made in writing or, during the normal working week, by telephone to, or in person at (whether by submitting the vehicle or not), the vehicle testing station where the applicant desires the vehicle to be examined.
-By arrangement 2. The Transport following prior Commissioner Application.
+By arrangement following prior 2. The Transport Application. Commissioner
 (3) Subject to the following provisions of these Regulations, proprietors shall ensure that:
 (a) where in accordance with the provisions of
 paragraph (2) an appointment is requested for the carrying out of an examination by the proprietor, an appointment is forthwith offered for the carrying out of the examination at the earliest time at which it is reasonably practicable for the examination to be carried out during the normal working week;
 (b) where in accordance with the provisions of
-paragraph (2) a vehicle is submitted for examination by the proprietor or, as the case may [Subsidiary ] Motor Vehicles and Road Traffic Regulations
+paragraph (2) a vehicle is submitted for examination by the proprietor or, as the case may [Subsidiary] Motor Vehicles and Road Traffic Regulations
 be, the Licensing Authority without any appointment for the carrying out of the examination having been previously made, the applicant is informed either that the examination can be carried out forthwith or, if not, of the earliest time at which it is reasonably practicable for the examination to be carried out during the normal working week;
 (c) except in so far as prevented by circumstances
 beyond the control of the proprietor or the Licensing Authority examinations are carried out in accordance with the appointments made or the information given in pursuance of the preceding provisions of this paragraph or at such other times as may be arranged between the applicant and the proprietor.
@@ -451,7 +444,7 @@ arranged for the carrying out of an examination in accordance with paragraph (3)
 Licensing Authority may carry out an examination of a motor vehicle in accordance with the provisions of these Regulations notwithstanding that the foregoing provisions of this regulation have not been complied with.
 (6) Nothing in this regulation shall be taken as entitling
 an examiner to carry out an examination of a vehicle not being of a type included in the authorisation of the proprietor.
-[Subsidiary ] Motor Vehicles and Road Traffic Regulations
+Motor Vehicles and Road Traffic Regulations [Subsidiary]
 27G. A proprietor appointed shall not be under obligation to carry out an examination of a motor vehicle where-
 (a) on the submission of a vehicle for an
 examination the applicant does not, after being requested to do so, produce his driver's permit and certified copy of ownership of the vehicle and the serial number and the engine number given to the vehicle by its manufacturer and, if the manufacturer has also given the vehicle an identification number, that number also;
@@ -462,7 +455,7 @@ the facilities and apparatus available to him at the place at which the examinat
 (d) before the carrying out of an examination of a
 motor vehicle, any things which are on the vehicle, and are not part of its equipment or accessories, are required by the proprietor or Transport Officer to be removed from the vehicle or to be secured in such manner as he may think necessary and the things are not removed or secured accordingly; and
 (e) in a case where the fee for the examination is
-payable in advance of the examination the examiner, or Transport Officer, or the Licensing Authority is not satisfied that the fee payable for the examination has been paid as required under these Regulations. [Subsidiary ] Motor Vehicles and Road Traffic Regulations
+payable in advance of the examination the examiner, or Transport Officer, or the Licensing Authority is not satisfied that the fee payable for the examination has been paid as required under these Regulations. [Subsidiary] Motor Vehicles and Road Traffic Regulations
 27H. (1) Where a motor vehicle has been submitted for an
 examination to be carried out by a proprietor or the Licensing Authority, the proprietor or the Licensing Authority as the case may be, shall have the same responsibility for-
 (a) loss of or damage to the vehicle or its equipment
@@ -476,7 +469,7 @@ or having an interest in such a vehicle shall be requested or required by a prop
 any person from being requested or required to accept any responsibility for, or to give a release or indemnity in respect of-
 (a) loss of or damage to a vehicle or its equipment or
 accessories occurring during any period while the vehicle is in the custody of a proprietor or the
-[Subsidiary ] Motor Vehicles and Road Traffic Regulations
+Motor Vehicles and Road Traffic Regulations [Subsidiary]
 Licensing Authority after the time when the vehicle is required to be removed from such custody in pursuance of the provisions of regulation 17(1); or
 (b) loss, damage or injury arising out of the
 carrying out by a proprietor, at the request of the person submitting the vehicle for an examination or of a person having an interest in the vehicle, of repairs to the vehicle or of repairs or replacements of its equipment or accessories.
@@ -491,7 +484,7 @@ prescribed statutory requirements are complied with in relation to the vehicle, 
 (b) where it is not so found on the examination, issue
 a notice of the refusal of a test certificate; and
 (c) issue an inspection checklist on a form
-approved by the Licensing Authority. [Subsidiary ] Motor Vehicles and Road Traffic Regulations
+approved by the Licensing Authority. [Subsidiary] Motor Vehicles and Road Traffic Regulations
 (2) Where it is not practicable for a test certificate and
 inspection checklist to be issued on the same date as that on which the examination of the vehicle is completed the certificate and list may be issued within one day following that date, if between the time of the completion of the examination and the time of issue of the test certificate the vehicle has not been moved from the vehicle testing station at which the examination was carried out and the condition of the vehicle has not altered so as to result in the prescribed statutory requirements being no longer complied with in relation thereto, and where it is not practicable for a notice of the refusal of a test certificate and inspection checklist to be issued on the same date as that on which the examination of the vehicle is completed, the said notice and list may be issued within one day following that date.
 (3) Subject to the provisions of these Regulations-
@@ -509,7 +502,7 @@ found on examination to comply with the prescribed statutory requirements;
 where the examination occurred;
 (vi) the date of the issue of the test certificate
 and the date on which it will expire;
-[Subsidiary ] Motor Vehicles and Road Traffic Regulations
+Motor Vehicles and Road Traffic Regulations [Subsidiary]
 (vii) if the date of the expiry of the certificate is
 more than twelve months after the date of its issue, the serial number of the certificate last issued in respect of the vehicle;
 (b) every notice of the refusal of a test certificate
@@ -525,7 +518,7 @@ issued and the number allotted by the Licensing Authority to the vehicle testing
 (a) where the examination is carried out at the
 premises of a proprietor, by the person who carried out the examination;
 (b) (Deleted by LN 34/2003), and any signature on a test certificate or notice of refusal of a test certificate by a person in accordance with subparagraph (a) shall be accompanied by an embossment by a stamp of the proprietor or the Licensing Authority on whose behalf the certificate or notice is signed.
-27J. (1) Where in the course of an examination of a vehicle by an examiner or the Transport Officer it is found that there are such defects in the construction or condition of the vehicle or its equipment or accessories that to carry out a braking test of the vehicle in the manner in which braking tests of such vehicles are carried out at the vehicle testing station at which the examination [Subsidiary ] Motor Vehicles and Road Traffic Regulations
+27J. (1) Where in the course of an examination of a vehicle by an examiner or the Transport Officer it is found that there are such defects in the construction or condition of the vehicle or its equipment or accessories that to carry out a braking test of the vehicle in the manner in which braking tests of such vehicles are carried out at the vehicle testing station at which the examination [Subsidiary] Motor Vehicles and Road Traffic Regulations
 is being carried out would be likely to cause danger to any person or damage to the vehicle or any other property, the proprietor or the Transport Officer shall not carry out the braking test but shall complete the rest of the examination in accordance with the provisions of these Regulations.
 (2) Where in any such case as is mentioned in paragraph (1)
 a proprietor or the Licensing Authority does not carry out a braking test of a vehicle, he shall provide the applicant for the test with a notice on a form supplied by the Licensing Authority and stating-
@@ -543,7 +536,7 @@ made for the carrying out of the examination on a particular day and the examina
 day after the day on which the person submitting the vehicle for examination is given notice whether in writing or not-
 (i) that the examination has been carried
 out; or
-[Subsidiary ] Motor Vehicles and Road Traffic Regulations
+Motor Vehicles and Road Traffic Regulations [Subsidiary]
 (ii) in a case where the examination is not
 carried out by reason of any of the provisions of regulation 27G that he is to remove the vehicle from such custody.
 (2) In this regulation references to an examination, in relation to a vehicle which, after the carrying out of an examination, remains in the custody of a proprietor, or the Licensing Authority in order that a further examination of that vehicle may be carried out, include references to that further examination.
@@ -558,7 +551,7 @@ purposes of the appeal will occur; and
 (b) the time at which that examination will start.
 (3) Save as may be otherwise permitted by the Licensing Authority, the examination mentioned in subregulation (2), shall not occur unless the applicant, or a person acting on his behalf-
 (a) submits the vehicle in respect of which the
-appeal is made to the place specified in the notice given by the Licensing Authority mentioned in subregulation (2), not later than the time specified in that notice as that at which the examination will start; [Subsidiary ] Motor Vehicles and Road Traffic Regulations
+appeal is made to the place specified in the notice given by the Licensing Authority mentioned in subregulation (2), not later than the time specified in that notice as that at which the examination will start; [Subsidiary] Motor Vehicles and Road Traffic Regulations
 (b) produces to the person appointed by the Licensing
 Authority to carry out the examination-
 (i) the notice of the refusal of a test
@@ -579,7 +572,7 @@ stating the grounds thereof; and
 certificate, and inspection checklists issued under this regulation-
 (a) shall, subject to such modifications as may be
 appropriate, be in the same form and contain the same particulars as are appropriate in the case of a test certificate, notice of the refusal of a test certificate and an inspection checklist issued under the provisions of these Regulations; and
-[Subsidiary ] Motor Vehicles and Road Traffic Regulations
+Motor Vehicles and Road Traffic Regulations [Subsidiary]
 (b) shall be signed on behalf of the Licensing
 Authority by the officer carrying out the examination for the purposes of the appeal.
 (6) The provisions of this regulation do not apply where a notice of refusal of a test certificate has been issued following an examination for the purpose of an appeal.
@@ -597,7 +590,7 @@ attached to it, $112.00; or
 a privately owned light motor vehicle, $165.00.
 (2) Subject to the following provisions of this regulation, every fee prescribed by paragraph (1) shall be paid:
 (a) if the application is one to which item 1 in the
-Table to regulation 27F(1) applies, or is one, other [Subsidiary ] Motor Vehicles and Road Traffic Regulations
+Table to regulation 27F(1) applies, or is one, other [Subsidiary] Motor Vehicles and Road Traffic Regulations
 than an application for re-examination, to which item 2 in that Table applies, by a remittance accompanying the application;
 (b) if the application is one to which regulation 27F(2)
 applies or, in the case of an application for a re-examination, is one to which item 2 in the Table to regulation 27F(1) applies-
@@ -615,7 +608,7 @@ station in consequence of a notice of refusal of a test certificate but within s
 testing station for a third examination, a fee of $100 shall be payable; and
 (ii) if a vehicle is brought to another vehicle
 testing station the amount payable in subregulation (1) shall be payable.
-[Subsidiary ] Motor Vehicles and Road Traffic Regulations
+Motor Vehicles and Road Traffic Regulations [Subsidiary]
 (4) The fees prescribed by subregulations (1) and
 (3)(b), shall be payable notwithstanding that the vehicle is not submitted for examination in accordance with any such appointment or arrangement as is mentioned in regulation 27F:
 Save that if the applicant for the examination has not less than
@@ -624,11 +617,11 @@ one day before the time so appointed or arranged given the examining authority n
 (6) (Deleted by LN 34/2003).
 27O. (1) The fees payable on an appeal made in accordance with regulation 27L are the same amount as the fees payable under regulation 27N.
 (2) Save as provided in paragraph (4), every fee prescribed by paragraph (1) as the fee payable on an appeal shall be paid at the same time as the appeal is made, and if that fee is not so paid the Licensing Authority shall not be obliged to deal with the appeal.
-(3) After the completion of the examination for the purposes of the appeal the Licensing Authority may repay to the appellant, as he think fit, either the whole or a part of the fee paid on the appeal where it appears to him that there are substantial grounds for contesting the whole or part of the decision appealed against. [Subsidiary ] Motor Vehicles and Road Traffic Regulations
+(3) After the completion of the examination for the purposes of the appeal the Licensing Authority may repay to the appellant, as he think fit, either the whole or a part of the fee paid on the appeal where it appears to him that there are substantial grounds for contesting the whole or part of the decision appealed against. [Subsidiary] Motor Vehicles and Road Traffic Regulations
 (4) A fee payable on an appeal in accordance with this
 on shall be payable notwithstanding that the vehicle is not submitted for examination in accordance with the provisions of regulation 27L:
 Except that if the appellant has before the time fixed under
-regulation 27Lfor the carrying out of the examination given the Licensing Authority not less than two days' notice, whether in writing or otherwise, at the office of the traffic area at which his appeal was lodged or if he has been given such notice as is specified in regulation 27L(2), at the address specified in that notice as the address to which any communication relating to the appeal is to be sent, that the appellant does not propose to submit the vehicle for examination at that time, the appeal shall be treated for the purposes of this regulation as one in respect of which no fee is payable and any amount previously paid in respect of such a fee, shall be repaid by the Licensing Authority to the appellant unless another time is arranged for the carrying out of the examination.
+regulation 27L for the carrying out of the examination given the Licensing Authority not less than two days' notice, whether in writing or otherwise, at the office of the traffic area at which his appeal was lodged or if he has been given such notice as is specified in regulation 27L(2), at the address specified in that notice as the address to which any communication relating to the appeal is to be sent, that the appellant does not propose to submit the vehicle for examination at that time, the appeal shall be treated for the purposes of this regulation as one in respect of which no fee is payable and any amount previously paid in respect of such a fee, shall be repaid by the Licensing Authority to the appellant unless another time is arranged for the carrying out of the examination.
 27P. (1) Proprietors shall make, in duplicate, at each of their
 respective vehicle testing stations a record relating to all examinations carried out at that station, and that record shall be on a form supplied by the Licensing Authority and contain the particulars required by that form.
 (2) On one of the first seven days of each month each
@@ -639,11 +632,11 @@ made therein relating to any examination as a result of which a test certificate
 issued, a notice to that effect.
 (3) Subject to the following provisions of these
 Regulations, the other copy of the record shall be kept by the proprietor at the station at which the examinations to which it relates
-[Subsidiary ] Motor Vehicles and Road Traffic Regulations
+Motor Vehicles and Road Traffic Regulations [Subsidiary]
 are carried out for a period sufficient to ensure that upon the inspection at any time of that record the entries relating to any examination carried out within the last preceding eighteen months will be available for inspection.
 28. No person shall cause or permit a motor vehicle to be used on any public road, or shall drive or have charge of a motor vehicle when so used unless the conditions set out below are satisfied, namely-
 (a) the motor vehicle, if it exceeds in weight
-unladen three hundred and sixty-five kilograms, shall be capable of being so worked that it may travel either forward or backwards;
+unladen three hundred and sixty-five kilogrammes, shall be capable of being so worked that it may travel either forward or backwards;
 (b) no motor vehicle or trailer shall exceed two and
 a half metres in overall width;
 (c) (i) no motor vehicle constructed for the
@@ -655,17 +648,16 @@ shall exceed eleven metres in overall length;
 (iv) no motor vehicle and trailer attached shall
 exceed fourteen metres in overall length: Provided that the overall length of a motor vehicle and pole trailer carrying pipes may extend to fifteen and a half metres and of an agricultural tractor drawing two trailers to seventeen metres;
 (d) except with the permission of the Licensing
-Authority, no motor vehicle or trailer shall have [Subsidiary ] Motor Vehicles and Road Traffic Regulations
+Authority, no motor vehicle or trailer shall have [Subsidiary] Motor Vehicles and Road Traffic Regulations
 a lateral overhang of more than one hundred and fifty-five millimetres or a longitudinal overhang which exceeds seven twenty-fourths (7/24ths) of the overall length of the vehicle, and when a trailer is connected to a motor vehicle by a bar or pipe, such bar or pipe shall not be allowed to project more than one metre beyond the rear of the trailer;
 (e) (i) the total weight transmitted to the road
 surface by the wheels of any one axle of a motor vehicle or trailer shall not exceed ten tonnes;
 (ii) the combined gross weights of a motor
-vehicle and trailers shall not exceed the weight arrived at by the formula "eight thousand one hundred and sixty-five kilograms + (L x 800)" where L equals the length in millimetres measured from the centre of the front wheels to the centre of the rearmost wheels of the vehicle or combination of vehicles;
+vehicle and trailers shall not exceed the weight arrived at by the formula "eight thousand one hundred and sixty-five kilogrammes + (L x 800)" where L equals the length in millimetres measured from the centre of the front wheels to the centre of the rearmost wheels of the vehicle or combination of vehicles;
 (iii) for the purposes of this paragraph two or
 more axles in line transversely and two or more axles the distance between the centre lines of which is less than one and three-tenths metres shall be deemed to be a single axle;
 (f) (i) every motor vehicle shall be equipped
-with an efficient braking system or efficient braking systems in either case having two means of operation so designed and constructed that one means of operation shall apply brakes to not less than all the wheels on each of two axles (or in the case of a motorcycle, one axle) of the motor vehicle and that
-[Subsidiary ] Motor Vehicles and Road Traffic Regulations
+with an efficient braking system or efficient braking systems in either case having two means of operation so designed and constructed that one means of operation shall apply brakes to not less than all the wheels on each of two axles (or in the case of a motorcycle, one axle) of the motor vehicle and that Motor Vehicles and Road Traffic Regulations [Subsidiary]
 notwithstanding the failure of any part (other than a fixed member or a brake shoe anchor pin) through or by means of which the force necessary to apply the brakes is transmitted, there shall still be available for application by the driver to not less than half the number of the wheels of the vehicle (or in the case of a motorcycle or a motor vehicle having less than four wheels to not less than one wheel) brakes sufficient under the most adverse conditions to bring the vehicle to rest within a reasonable distance:
 Provided that a motor vehicle
 manufactured prior to 1st January 1935, may be fitted with brakes capable of being applied to all the wheels of one axle but the braking system or systems of such motor vehicle shall have two independent means of operation as prescribed;
@@ -674,7 +666,7 @@ are operated by one of the means of operation shall be capable of being applied 
 (iii) one at least of the means of operation
 shall be capable of causing the brakes to be applied directly and not through the transmission gear to not less than half the number of the wheels of the vehicle;
 (iv) in the case of a steam driven vehicle which
-is not used as a public service vehicle for the conveyance of passengers for gain or hire, the engine of the vehicle shall be deemed to be an efficient braking system if the engine is capable of being reversed [Subsidiary ] Motor Vehicles and Road Traffic Regulations
+is not used as a public service vehicle for the conveyance of passengers for gain or hire, the engine of the vehicle shall be deemed to be an efficient braking system if the engine is capable of being reversed [Subsidiary] Motor Vehicles and Road Traffic Regulations
 and is incapable of being disconnected from any of the driving wheels except by the sustained effort of the driver;
 (v) every part of every braking system and of the
 means of operation thereof fitted to a motor vehicle or trailer, shall at all times, while the motor vehicle or trailer is used on a road, be maintained in good and efficient working order and shall be properly adjusted;
@@ -688,12 +680,12 @@ thereof shall be in such a condition as not to cause, or to be likely to cause, 
 to the satisfaction of the Licensing Authority. The use of cut-outs is forbidden throughout Trinidad and Tobago;
 (k) there shall not be affixed to the front of a motor
 vehicle any lighted lamp other than the headlights and side lights except with the approval in writing of the Licensing Authority, nor to the rear of a
-[Subsidiary ] Motor Vehicles and Road Traffic Regulations
+Motor Vehicles and Road Traffic Regulations [Subsidiary]
 motor vehicle or trailer any lighted lamp other than the red light prescribed by these Regulations except as permitted by paragraph (m)(iii) of this regulation;
 (l) there shall not be painted or otherwise affixed to
 the front or rear of a motor vehicle any combination of letters or figures resembling, or likely to obscure, or likely to be confused with, the letters and figures on the identification plate prescribed by these Regulations, and no letters or figures other than those on the identification plate shall be painted or affixed within five hundred millimetres of the identification plate;
 (m) (i) every motor vehicle shall be equipped with
-a minimum of two lamps at the front of the vehicle, one on each side to the satisfaction of the Licensing Authority. When a motor vehicle is in motion on a road at night, the lamps at the front of the vehicle shall be lighted, and the rays from the lamps shall be of a type approved by the Licensing Authority and, if the vehicle is capable of proceeding at a speed greater than thirty kilometres per hour, of such intensity as to illuminate the road ahead for a distance of at least ninety-five metres or such greater distance as is sufficient to ensure the safety of the vehicle and the persons carried on the vehicle, and to indicate clearly the presence of the vehicle to approaching traffic. However, a motorcycle shall show one such lamp as aforesaid, but if a side-car is attached to the motorcycle, there shall be shown on that side of the side-car not adjacent to the motorcycle, an additional light of sufficient intensity to indicate the presence of the side-car from a reasonable distance to approaching traffic; [Subsidiary ] Motor Vehicles and Road Traffic Regulations
+a minimum of two lamps at the front of the vehicle, one on each side to the satisfaction of the Licensing Authority. When a motor vehicle is in motion on a road at night, the lamps at the front of the vehicle shall be lighted, and the rays from the lamps shall be of a type approved by the Licensing Authority and, if the vehicle is capable of proceeding at a speed greater than thirty kilometres per hour, of such intensity as to illuminate the road ahead for a distance of at least ninety-five metres or such greater distance as is sufficient to ensure the safety of the vehicle and the persons carried on the vehicle, and to indicate clearly the presence of the vehicle to approaching traffic. However, a motorcycle shall show one such lamp as aforesaid, but if a side-car is attached to the motorcycle, there shall be shown on that side of the side-car not adjacent to the motorcycle, an additional light of sufficient intensity to indicate the presence of the side-car from a reasonable distance to approaching traffic; [Subsidiary] Motor Vehicles and Road Traffic Regulations
 (ii) save as is contained in regulation 92, when
 stationary on a road at night every motor vehicle and every trailer not attached to a motor vehicle shall show two lights in front, one at each side, of sufficient intensity to indicate the presence of the motor vehicle or trailer from a reasonable distance to approaching traffic; but a motorcycle not attached to a side-car shall show one such light as aforesaid;
 (iii) save as provided elsewhere in these
@@ -702,7 +694,7 @@ Regulations, every motor vehicle or trailer when on a road at night, whether in 
 lamps shall be carried on any motor vehicle without the authority of the Licensing Authority, who may authorise such lights at his discretion and subject to such conditions as he may impose;
 (v) in addition to the foregoing provisions as
 to lamps to be carried, motor omnibuses shall also carry a lighted lamp on the
-[Subsidiary ] Motor Vehicles and Road Traffic Regulations
+Motor Vehicles and Road Traffic Regulations [Subsidiary]
 inside top of the hood showing a white light visible within a reasonable distance in all directions;
 (vi) in the case of motor omnibuses and goods
 vehicles, when either of the lamps referred to in subparagraph (i) hereof is placed in such a position that the distance of the centre of the lamp from the extreme outside point of the vehicle on its appropriate side exceeds three hundred millimetres, two additional lamps shall be fitted at the front of the said vehicle one on each side so that its centre shall not exceed the aforesaid distance of three hundred millimetres, and so as clearly to indicate the width of the vehicle to approaching traffic; the said lamps shall be focussed below the horizontal and shall exhibit a light of sufficient power only to indicate the width of the vehicle;
@@ -712,7 +704,7 @@ fixed in such a position that oil or any vaporisable or inflammable material is 
 (a) if such vehicle is drawn up as close as possible
 to its left or near side of the road;
 (b) if there is affixed or painted on the rear of the
-vehicle a reflective material or substance that is easily visible to approaching traffic. [Subsidiary ] Motor Vehicles and Road Traffic Regulations
+vehicle a reflective material or substance that is easily visible to approaching traffic. [Subsidiary] Motor Vehicles and Road Traffic Regulations
 30. (1) Every motor vehicle or trailer manufactured after
 1960 shall be fitted with directional indicators on either side of the front and rear of such vehicle, and every indicator shall be so designed and fitted that-
 (a) it emits an amber light to the front and red or
@@ -736,7 +728,7 @@ used or intended to be used for the conveyance of passengers;
 barrow or any other vehicle or machine howsoever drawn or propelled, and used or intended to be used for the carrying or conveyance of any goods, wares or other burden whatsoever, but does not include a motor vehicle.
 33. (1) Every cycle and every carriage on a road shall carry
 attached thereto a bell or other instrument approved by the Licensing Authority, capable of giving audible and sufficient warning of its approach or position.
-[Subsidiary ] Motor Vehicles and Road Traffic Regulations
+Motor Vehicles and Road Traffic Regulations [Subsidiary]
 (2) No person riding a cycle or driving a carriage on a road shall sound any bell or other instrument except for the purpose of giving reasonable and necessary warning of the approach or position of such cycle or carriage.
 34. (1) At night-
 (a) the person in charge of a carriage on a road shall
@@ -753,7 +745,7 @@ and in addition thereto an unobscured white surface which complies in all respec
 (a) not less than half the area lies on the off-side of
 the centre line of the vehicle; and
 (b) not less than half the area is over two hundred
-and fifty-five millimetres above the ground. [Subsidiary ] Motor Vehicles and Road Traffic Regulations
+and fifty-five millimetres above the ground. [Subsidiary] Motor Vehicles and Road Traffic Regulations
 For the purposes of this subregulation "white" includes the colour of polished aluminium or of chromium plating, or of a white reflective material.
 35. (1) No person shall ride, or cause, or permit any cycle
 to be ridden on any road unless he complies with the provisions of this regulation.
@@ -771,11 +763,11 @@ shall be equipped with at least one braking system.
 be efficient and shall be kept in proper working order.
 (5) For the purposes of subregulation (4), a braking
 system shall be deemed not to be efficient if the brake operates directly on the tyre of any wheel.
-[Subsidiary ] Motor Vehicles and Road Traffic Regulations
+Motor Vehicles and Road Traffic Regulations [Subsidiary]
 36. Any constable in uniform is hereby empowered and shall be permitted by the owner or other person in charge of any cycle to test and inspect the brakes of the cycle, either on a road or on any premises where the cycle is. Such a test and inspection shall not be carried out on any premises where the cycle is, unless-
 (a) the cycle has been involved in an accident;
-(b) the test and inspection are carried out within 48
-hours of the accident; and
+(b) the test and inspection are carried out within
+48 hours of the accident; and
 (c) the owner of the premises consents thereto.
 37. No parent, guardian or any other person having legal custody of a child or young person below the age of 16 years shall knowingly permit such child or young person to ride on a road a cycle which does not comply with any of the provisions of this Part.
 PART VII
@@ -787,7 +779,7 @@ backwards for a greater distance or time than may be requisite for the safety or
 In the City of Port-of-Spain or the City of San Fernando
 or the Boroughs of Arima, Chaguanas and Point Fortin he shall not cause the motor vehicle to travel backwards at the junction of any roads or round a corner.
 2. He shall not, when on the motor vehicle, be in such
-a position that he cannot have full control over the same, or that he cannot obtain a full view of the road and traffic ahead of the motor vehicle. [Subsidiary ] Motor Vehicles and Road Traffic Regulations
+a position that he cannot have full control over the same, or that he cannot obtain a full view of the road and traffic ahead of the motor vehicle. [Subsidiary] Motor Vehicles and Road Traffic Regulations
 3. He shall before quitting the motor vehicle stop the
 engine and apply the brakes.
 4. In the case of goods vehicles and public service
@@ -804,7 +796,7 @@ to the right or off side of such other vehicles.
 shall drive as close to the side of the road as possible so as to allow such other vehicles to pass, and in all cases he shall drive so as to give as much space as possible for the passing of other traffic and shall not speed abreast any vehicle when such vehicle is overtaking him.
 (5) He shall not drive so as to overtake other traffic
 unless he has a clear and unobstructed view of the road ahead and he shall not overtake such other traffic unless he sees that the road ahead is clear for a sufficient distance to enable him to overtake and get back to his proper side before meeting any traffic coming from the opposite direction.
-[Subsidiary ] Motor Vehicles and Road Traffic Regulations
+Motor Vehicles and Road Traffic Regulations [Subsidiary]
 (6) He shall not overtake other traffic when rounding a corner or when roads intersect or fork or where the road passes over the brow of a hill or over a humpbacked bridge or in any other circumstances where the driver cannot see sufficiently far ahead to overtake with safety.
 (7) He shall not cross a road or turn in a road or proceed from one road into another road, or drive from a place which is not a road into a road, or from a road into a place which is not a road unless he can do so without obstructing any other traffic on the road, and for this purpose he shall be held to be obstructing other traffic if he causes risk of accident thereto.
 (8) When turning from one road into another road to the left he shall keep as close as possible to the left side of each road.
@@ -812,7 +804,7 @@ unless he has a clear and unobstructed view of the road ahead and he shall not o
 (10) He shall not park his motor vehicle within a distance of nine metres from any corner or road intersection or nearer thereto than the distance indicated by the appropriate traffic sign, if any.
 (11) He shall not draw up the motor vehicle alongside any other motor vehicle nor shall he back the motor vehicle to the kerb stone of any foot-path or to the side of any road except for the purpose of turning.
 (12) He shall not draw up his motor vehicle on any road or leave his motor vehicle standing on any road, within three metres of a fire hydrant.
-(13) He shall not draw up his motor vehicle or permit it to remain on either side of any road, within three metres of the frontage of any Fire Brigade Station. [Subsidiary ] Motor Vehicles and Road Traffic Regulations
+(13) He shall not draw up his motor vehicle or permit it to remain on either side of any road, within three metres of the frontage of any Fire Brigade Station. [Subsidiary] Motor Vehicles and Road Traffic Regulations
 6. He shall not negligently or wilfully prevent, hinder
 or interrupt the free passage of any vehicle, person or animal, and shall not allow such motor vehicle and any trailer drawn thereby to stand in such road so as to cause any unnecessary obstruction thereto.
 7. (1) He shall, when approaching turnings and cross-
@@ -831,7 +823,7 @@ the right arm and hand horizontally with the palm of the hand turned downwards a
 right he shall extend the right hand and arm horizontally, palm turned to the front or if the motor vehicle is fitted with direction indicators the driver shall signal with the indicators fitted on the offside of the vehicle;
 (c) when acknowledging a signal indicating that
 the driver of a vehicle proceeding in the same direction wishes to pass he shall extend the right arm and hand below the level of the shoulder and move them backwards and forwards;
-[Subsidiary ] Motor Vehicles and Road Traffic Regulations
+Motor Vehicles and Road Traffic Regulations [Subsidiary]
 (d) when about to turn to the left he shall extend
 the right arm and rotate it from the shoulder in an anti-clockwise direction, or if the motor vehicle is fitted with direction indicators the driver shall signal with the indicator on the near side of the vehicle.
 In no case shall the required traffic signal be given by the driver of a motor omnibus by means of a dummy arm unless the construction of the motor omnibus and the position of the driver's seat are such as to render it impossible for the driver to make such signal with his arm.
@@ -841,7 +833,7 @@ shall extend the left arm and hand horizontally with the palm of the hand turned
 (ii) when about to turn across traffic or to
 turn to the right, he shall extend the left arm and rotate it from the shoulder in a clockwise direction or, if the motor vehicle is fitted with direction indicators, the driver shall signal with the indicator fitted to the offside of the vehicle;
 (iii) when about to turn to the left, he shall
-extend the left hand and arm horizontally, palm turned to the front, or if the motor vehicle is fitted with direction indicators, the driver shall signal with the indicator on the near side of the vehicle. [Subsidiary ] Motor Vehicles and Road Traffic Regulations
+extend the left hand and arm horizontally, palm turned to the front, or if the motor vehicle is fitted with direction indicators, the driver shall signal with the indicator on the near side of the vehicle. [Subsidiary] Motor Vehicles and Road Traffic Regulations
 9. He shall conform to the rules of the road in regard
 to all kinds of traffic and shall comply with the lawful directions of any constable or Transport Officer charged with the regulation of traffic. He shall give the following signals for the purpose of indicating the direction in which he wishes to proceed:
 (a) when it is proposed to go straight ahead, raise the
@@ -858,12 +850,12 @@ left arm and hand with the palm turned to the front and hold them rigid in a hor
 extend the left arm and rotate it from the shoulder in a clockwise direction.
 10. Slow moving traffic shall keep as much to the left as
 possible at all times, and unladen vehicles shall give way to laden vehicles.
-[Subsidiary ] Motor Vehicles and Road Traffic Regulations
+Motor Vehicles and Road Traffic Regulations [Subsidiary]
 11. He shall, when about to stop the motor vehicle on any road, draw up as close as possible to the side of the road so as to allow a clear roadway for passing traffic; and shall remove the motor vehicle at the request of any constable when it is placed in such a position as to cause or be likely to cause obstruction on any road. He shall not draw up a vehicle or animal on a road in such manner as to obstruct a vehicular entrance to any premises. He shall not draw up the motor vehicle on a road in such a manner as to prevent or hinder the drivers of other vehicles complying with the directions of any traffic sign. He shall not leave the motor vehicle drawn up on any public road for an undue length of time having regard to all the circumstances of the case, including the amount of traffic which is at the time, or which might reasonably be expected to be, on the road.
 12. (1) He shall carry attached to the motor vehicle a horn or other instrument capable of giving audible and sufficient warning of its approach or position and he shall not himself sound or allow any other person to sound such horn or other instrument except for the purpose of giving reasonable and necessary warning of the approach or position of the motor vehicle.
 (2) He shall not himself sound or allow any other person to sound such horn or other instrument between the hours of 9.00 p.m. and 5.30 a.m. in any Municipal area, and also in any other area in Trinidad and Tobago in respect of which the Licensing Authority shall issue a prohibition notice to that effect in the Gazette.
 (3) The Licensing Authority shall have power at any time to prohibit the use of any horn or instrument, the use of which for the purpose authorised in this regulation is likely to cause annoyance to the general public.
-(4) Every horn or other instrument used for the purposes authorised shall either be of a kind which has been approved by the Licensing Authority generally as proper to be used on motor vehicles or which has been approved by him in a special case on the application of the owner of the motor vehicle. [Subsidiary ] Motor Vehicles and Road Traffic Regulations
+(4) Every horn or other instrument used for the purposes authorised shall either be of a kind which has been approved by the Licensing Authority generally as proper to be used on motor vehicles or which has been approved by him in a special case on the application of the owner of the motor vehicle. [Subsidiary] Motor Vehicles and Road Traffic Regulations
 (5) Any horn or other instrument which has been
 approved by the Licensing Authority for use on motor vehicles shall not be used on any other class of vehicles.
 13. He shall not permit sparks, smoke or visible vapour of
@@ -872,13 +864,13 @@ any avoidable nature which would cause annoyance or danger to the public to come
 of any person having charge of a horse or any other animal, or if any such constable or Transport Officer or person shall put up his hand as a signal for that purpose, cause the motor vehicle to stop and to remain stationary so long as may be reasonably necessary.
 15. He shall not carry on the motor vehicle or trailer, or
 being the owner of any motor vehicle or trailer shall not suffer or permit to be carried thereon, any tree, timber or iron beam or any lumber or other matter or thing projecting on either side of such motor vehicle or trailer more than three hundred millimetres beyond the plane of the wheels of such motor vehicle or trailer, or projecting more than one and a half metres in front or behind, or in such a manner as to obstruct, endanger or interfere with traffic, nor any load in such manner that the width of such load together with the overall width of the vehicle shall exceed two and a half metres. First Division Police Officers in charge of divisions may grant permits for the transport over any road, within stated hours, by a stated route and under stated conditions, of articles the transport of which would otherwise infringe the provisions of this regulation. Such permits shall be carried on the motor vehicle and shall be produced by the driver at the request of any Police Officer or Transport Officer. Any motor vehicle operating under the authority of any such permit shall carry by day a white flag and by night a red lamp affixed at the extreme rear end of the load.
-[Subsidiary ] Motor Vehicles and Road Traffic Regulations
+Motor Vehicles and Road Traffic Regulations [Subsidiary]
 16. He shall not allow the motor vehicle to be overcrowded with persons.
 17. He shall not allow any person to stand in or on a goods vehicle, agricultural trailer or trailer or on the tray or platform thereof whilst the vehicle is in motion, or to be carried in such a position that danger is caused or likely to be caused to such person or any other person, notwithstanding any permission granted by the Licensing Authority for the conveyance of persons.
 18. He shall not leave or permit to be left on any public road any motor vehicle which has broken down without taking the requisite steps to indicate its presence and position by lighting or otherwise to other persons using the road, and shall take immediate steps to have it removed as near to the left of the road as possible.
 19. He shall on the approach of any engine or other apparatus of the Fire Services proceeding to and from a fire or suspected fire, or Police vehicles, Defence Force vehicles, Ambulances on emergency calls sounding their sirens or other warning instrument approved by the Licensing Authority, draw up close to the left-hand side of the road and stop, leaving the centre of the road for the passage of such vehicles, and he shall not stand abreast of any other vehicle.
 20. He shall not, without the written permission of the Licensing Authority, tow anything except another motor vehicle in case of necessity, or a single registered trailer, except that in the case of an agricultural tractor he may tow not more than two trailers.
-21. No motor vehicle shall tow any other vehicle unless the tow rope, chain or draw bar be so adjusted that the distance separating the nearest two points of the two vehicles shall not, except in the case of a pole trailer, exceed five metres, and the tow rope, chain or draw bar is easily distinguisable by other users of the road. [Subsidiary ] Motor Vehicles and Road Traffic Regulations
+21. No motor vehicle shall tow any other vehicle unless the tow rope, chain or draw bar be so adjusted that the distance separating the nearest two points of the two vehicles shall not, except in the case of a pole trailer, exceed five metres, and the tow rope, chain or draw bar is easily distinguisable by other users of the road. [Subsidiary] Motor Vehicles and Road Traffic Regulations
 39. Any person who fills petrol into any receptacle on or
 adjacent to any motor vehicle or into the tank of a motor vehicle while the engine is running, or while any light, other than an electric light, is alight on the vehicle, and any person who smokes or lights a match or exposes a naked light in close proximity while petrol is being so filled is guilty of an offence.
 40. Every motor vehicle or trailer, other than a motorcycle,
@@ -894,14 +886,14 @@ secured in such a manner as effectively to prevent the displacement of any porti
 which causes a loud noise to the annoyance or disturbance of any person is guilty of an offence under these Regulations.
 44. (1) All tyres of a motor vehicle or trailer shall at all times
 be maintained in such condition as to be free from any defect which might in any way cause damage to the surface of the road, or danger to persons in or on the vehicle or to any persons using the road.
-[Subsidiary ] Motor Vehicles and Road Traffic Regulations
+Motor Vehicles and Road Traffic Regulations [Subsidiary]
 A person shall not be convicted under this regulation if he proves to the satisfaction of the Court that he could not by reasonable diligence have become aware of the defect.
 (2) Any constable may require the driver of a motor vehicle, any of the tyres of which appears to the constable to be defective, to proceed to the nearest Police Station for examination and if the driver refuses to do so the motor vehicle may, at the expense and risk of the owner, be detained and taken to the said station or to a place for safe keeping until such request is complied with.
 45. The glass windshield of any motor vehicle imported into Trinidad and Tobago after 31st December 1937 shall be made of safety glass.
 46. An effective wiper shall be provided on the glass windshield of a motor vehicle.
 47. No person, other than the driver, whilst travelling in a motor vehicle shall make any traffic signal.
 48. Whenever any constable or Transport Officer on point duty gives a traffic control signal to enable any vehicle to proceed in an indicated direction, no cyclist or pedestrian shall proceed across the current of traffic consequent upon such signal, or loiter in the roadway, or otherwise impede any vehicle from proceeding in the direction indicated.
-49. No musical instrument shall be played, no noisy instrument shall be played or operated in any motor vehicle, whilst in motion, except on the written permission of the Licensing Authority; and any person who plays or operates any such instrument in contravention of this regulation and the driver of the vehicle who permits such instrument to be played or operated is each guilty of an offence against this regulation. [Subsidiary ] Motor Vehicles and Road Traffic Regulations
+49. No musical instrument shall be played, no noisy instrument shall be played or operated in any motor vehicle, whilst in motion, except on the written permission of the Licensing Authority; and any person who plays or operates any such instrument in contravention of this regulation and the driver of the vehicle who permits such instrument to be played or operated is each guilty of an offence against this regulation. [Subsidiary] Motor Vehicles and Road Traffic Regulations
 PART VIII
 USE OF VEHICLES OTHER THAN
 MOTOR VEHICLES AND OF ANIMALS
@@ -920,7 +912,7 @@ apply in respect of any person driving any vehicle drawn by an animal, and in re
 (f) regulation 44 shall apply in respect of any person
 riding a cycle on any road,
 and references in those provisions to motor vehicles, drivers and driving shall be construed accordingly.
-[Subsidiary ] Motor Vehicles and Road Traffic Regulations
+Motor Vehicles and Road Traffic Regulations [Subsidiary]
 (2) In this regulation "cart" means any hand cart, dray, van, wagon, truck, car, sledge, barrow and any other vehicle drawn or propelled by hand and used or intended to be used for the carrying of or conveyance of any goods, wares or other burden whatsoever, but does not include a motor vehicle.
 51. The driver of any vehicle drawn by an animal and the rider of any cycle or animal on any road shall make the following traffic signals for the information of traffic or of any constable charged with the regulation of traffic:
 (a) when about to slow down or stop, he shall
@@ -933,7 +925,7 @@ the driver or rider of a vehicle or the rider of an animal proceeding in the sam
 right arm and rotate it from the shoulder in an anti-clockwise direction;
 (e) when he proposes to go straight ahead, he shall
 raise the right hand towards the shoulder, and move the forearm well forwards and then back in a vertical plane, making the movement sufficiently pronounced to be easily seen.
-52. No person shall drive, ride, draw or propel a vehicle other than a motor vehicle (in respect of which similar provision is made in section 71 of the Act) or ride any animal on any road recklessly, [Subsidiary ] Motor Vehicles and Road Traffic Regulations
+52. No person shall drive, ride, draw or propel a vehicle other than a motor vehicle (in respect of which similar provision is made in section 71 of the Act) or ride any animal on any road recklessly, [Subsidiary] Motor Vehicles and Road Traffic Regulations
 or at a speed or in a manner which is dangerous to the public, having regard to all the circumstances of the case, including the nature, condition and use of the road, and the amount of traffic which is actually at the time, or which might reasonably be expected to be on the road.
 53. No person shall drive, ride, draw or propel a vehicle
 other than a motor vehicle (in respect of which similar provision is made in section 71 of the Act) or ride any animal on any road without due care and attention or without reasonable consideration for other persons using the road.
@@ -948,7 +940,7 @@ unload any cattle in or upon any road from any vehicle without sufficient assist
 any road.
 (4) No person, not being a person employed by the
 owner thereof to drive the same, shall run after any animal on any road, or by shouting or making a noise or in any other manner frighten any cattle which may have broken loose on any road.
-[Subsidiary ] Motor Vehicles and Road Traffic Regulations
+Motor Vehicles and Road Traffic Regulations [Subsidiary]
 (5) No person shall by negligence or ill-usage in driving any cattle on any road cause injury to be done by such cattle.
 (6) No person shall allow any cattle to wander, stray or be tethered on any road.
 (7) In this regulation "cattle" includes sheep, goats and swine.
@@ -959,7 +951,7 @@ CONSTRUCTION AND MAINTENANCE
 MOTOR OMNIBUSES
 58. All bodies of motor omnibuses shall be of first-class workmanship and be securely bolted and braced. Where it is necessary to extend the chassis frame the extension shall be inspected by a Transport Officer before the body is finally bolted and braced to the frame.
 59. In the case of motor omnibuses, all curtains, or screens, or other devices for the protection of passengers from the weather shall be properly secured by straps or other fastenings so as to prevent flapping or other displacement of such curtains, or screens, or other devices while the vehicle is in motion.
-60. Motor omnibuses shall be so constructed that the height of the main floor measured at a certain point shall not exceed seven hundred and sixty millimetres measured vertically from the surface of the road when the vehicle is fully loaded. The Inspecting Engineer shall be empowered to pass vehicles as motor omnibuses with a greater height of flooring (but not exceeding the floor height passed by the Ministry of Transport) if he is satisfied as to the stability and safety of the vehicle. [Subsidiary ] Motor Vehicles and Road Traffic Regulations
+60. Motor omnibuses shall be so constructed that the height of the main floor measured at a certain point shall not exceed seven hundred and sixty millimetres measured vertically from the surface of the road when the vehicle is fully loaded. The Inspecting Engineer shall be empowered to pass vehicles as motor omnibuses with a greater height of flooring (but not exceeding the floor height passed by the Ministry of Transport) if he is satisfied as to the stability and safety of the vehicle. [Subsidiary] Motor Vehicles and Road Traffic Regulations
 Every motor omnibus shall be fitted with-
 (a) a device by which a passenger may signal to the
 driver or conductor when required;
@@ -975,12 +967,12 @@ the seats are placed lengthwise shall be not less than one and a half metres. Wh
 of which are enclosed, shall be fitted at the rear of the vehicle with an emergency door opening outwards, or other sufficient exit which shall be readily accessible from all seats; such door or exit shall be kept secured against use by any passenger, except in the case of an emergency.
 62. No steps, footboard or running-board shall be allowed
 on the right or off side of any motor omnibus. Horizontal metal
-[Subsidiary ] Motor Vehicles and Road Traffic Regulations
+Motor Vehicles and Road Traffic Regulations [Subsidiary]
 rails spaced not more than two hundred and thirty millimetres apart shall run from end to end and from floor level to six hundred millimetres above the level of the seats. Such rails shall not be moveable.
 63. Where running-boards, steps or footboards are fitted to the left or near side of the omnibus these must be fitted with a toeguard at least one hundred millimetres above the running-board, step or footboard and securely fastened to same. The length of this toeguard not to be less than one hundred and fifty millimetres longer than the outside diameter of the rear tyre and to be fitted equidistant from the centre of the rear wheel.
 64. The driver's seat shall not be less than six hundred millimetres wide, and shall be so constructed that there is a space of at least three hundred millimetres on each side of the steering column, the space between the rear lower part of the steering wheel and the top of the driver's seat (inclusive of any cushion) shall not be less than one hundred and eighty millimetres. This seat shall slope backwards with a rake of one hundred and twenty-five millimetres per metre measured horizontally, the distance between the back part of the steering wheel and the back of the driver's seat shall not be less than three hundred and thirty millimetres. The driver's seat shall be divided off from that of the person sitting beside him on his left by a wooden partition not less than seven hundred and sixty millimetres high measured from the floor, and extending from the front of the front seat to the dashboard. In any case this partition is to have a clearance of not less than fifty millimetres to the left of the extreme left lever controlled by the driver.
 65. A fixed seat shall be provided for the conductor in every motor omnibus which shall not in any way interfere with the driver or passenger seating accommodation.
-66. Every motor omnibus with seating accommodation for more than ten passengers when in use on any road shall at all times carry a conductor in addition to a driver. [Subsidiary ] Motor Vehicles and Road Traffic Regulations
+66. Every motor omnibus with seating accommodation for more than ten passengers when in use on any road shall at all times carry a conductor in addition to a driver. [Subsidiary] Motor Vehicles and Road Traffic Regulations
 The owner and driver shall both be liable if the motor
 omnibus is used in contravention of this regulation.
 67. Where passengers are carried on the left or near side of
@@ -1005,7 +997,7 @@ any person to travel by any such omnibus;
 omnibus except when collecting a fare;
 (e) he shall not permit more passengers than such
 omnibus is registered for to be carried in such omnibus. If there are passengers in excess, the conductor, or the driver when there is no conductor, shall at the request of any constable
-[Subsidiary ] Motor Vehicles and Road Traffic Regulations
+Motor Vehicles and Road Traffic Regulations [Subsidiary]
 in uniform eject the passengers being carried in excess, and on his refusal so to do the constable may arrest the conductor or the driver, as the case may be, and take such steps as may be necessary to prevent the vehicle from proceeding on its journey with such excess passengers. Three children, if they are each under the age of fifteen years, shall be counted as two passengers for the purposes of this paragraph;
 (f) he shall not permit luggage other than personal
 luggage to be carried on such omnibus, "Personal Luggage" means wearing apparel and such other personal requisities as are usually carried by a traveller for his comfort and convenience, and includes the receptacle in which such articles are being conveyed;
@@ -1016,13 +1008,12 @@ conspicuously in such a manner that the whole of the writing thereon is distinct
 (i) he shall at all times be suitably attired and wear
 boots or shoes and a distinguishing cap and uniform, to consist of a forage cap and a khaki or blue serge suit.
 71. Every person driving a motor omnibus on a road shall after quitting any stand or garage with passengers proceed direct to the place or places included in the route of such omnibus, and shall not delay in so doing, and shall not return to the place of departure after leaving it, except on the return journey.
-72. The driver or conductor of a motor omnibus on any road shall not permit passengers to enter or leave such omnibus otherwise than by the rear or by the left or near side thereof. [Subsidiary ] Motor Vehicles and Road Traffic Regulations
+72. The driver or conductor of a motor omnibus on any road shall not permit passengers to enter or leave such omnibus otherwise than by the rear or by the left or near side thereof. [Subsidiary] Motor Vehicles and Road Traffic Regulations
 73. All acts and things required by this Part to be done by the
 Licensing Authority may be done by any person or persons to whom he may from time to time delegate all or any of his powers.
 74. The Licensing Authority in his discretion need not
 enforce any or all of these Regulations in respect of motor omnibuses that were registered as such prior to 1st January 1935.
-75.
-The Licensing Authority may in his discretion exempt
+75. The Licensing Authority may in his discretion exempt
 motor omnibuses from any of the provisions of these Regulations having regard to-
 (a) the number of passengers or amount of load to
 be carried by such omnibuses;
@@ -1045,7 +1036,7 @@ person to travel by such public service vehicle;
 passengers or otherwise;
 (f) he shall not, while waiting to pick up
 passengers, race his engine or make any loud or unnecessary noise with his engine;
-[Subsidiary ] Motor Vehicles and Road Traffic Regulations
+Motor Vehicles and Road Traffic Regulations [Subsidiary]
 (g) he shall at the request of any passenger
 immediately stop in order to enable such passenger to alight; and when he is driving a motor omnibus in any area where stopping places are designated he shall not stop the motor omnibus to pick up or set down passengers elsewhere than at a stopping place marked as such by signboard or other device, nor shall he stop at any such stopping place unless passengers are waiting to be picked up or desire to alight; and when stopping to pick up or set down passengers he shall not cause any obstruction to the ordinary traffic on the road;
 (h) he shall not in the City of Port-of-Spain, the City
@@ -1055,7 +1046,7 @@ clean and sanitary condition;
 (j) he shall carry at least one spare inflated tyre
 fixed to the rim, spare wheel or other device, capable of being fitted to a wheel or axle.
 77. The driver of a public service vehicle and the conductor of a motor omnibus wherein any property is left shall within twenty-four hours deposit such property, if not sooner claimed, at the police station nearest to his residence.
-78. No owner, driver or conductor of a public service vehicle plying for hire or any other person shall speak, make any noise or sound any instrument in order to attract the attention of the public or of a possible passenger; or by troublesome and frequent demands or by persistent following hold out the vehicle for hire to the public in such a manner as to constitute a nuisance, or act in any way so as to cause annoyance or inconvenience to any person. [Subsidiary ] Motor Vehicles and Road Traffic Regulations
+78. No owner, driver or conductor of a public service vehicle plying for hire or any other person shall speak, make any noise or sound any instrument in order to attract the attention of the public or of a possible passenger; or by troublesome and frequent demands or by persistent following hold out the vehicle for hire to the public in such a manner as to constitute a nuisance, or act in any way so as to cause annoyance or inconvenience to any person. [Subsidiary] Motor Vehicles and Road Traffic Regulations
 79. Every driver of a taxi on a public road shall be
 suitably attired.
 80. No owner or driver of a taxi shall place or suffer to be
@@ -1076,7 +1067,7 @@ stand, the driver thereof shall, except for good and substantial cause, the proo
 83. (Deleted by LN 34/2003).
 84. (1) The driver or conductor of any public service
 vehicle shall have the right to demand his fare of any person employing him or intending to travel in such vehicle, upon such person entering the vehicle or ordering him to wait or to drive further, and may refuse to convey any such person who does not comply with such demand, and may require any constable to remove from the vehicle any person so refusing to pay his fare.
-[Subsidiary ] Motor Vehicles and Road Traffic Regulations
+Motor Vehicles and Road Traffic Regulations [Subsidiary]
 (2) Every driver or conductor of a public service vehicle who demands more than his legal fare, and every person who refuses or omits to pay his legal fare, and every person who resists or obstructs a constable in the performance of his duty under this regulation is liable on summary conviction to a penalty not exceeding one hundred and fifty dollars.
 PART X
 *RESTRICTIONS RELATING TO MOTOR OMNIBUSES
@@ -1084,9 +1075,9 @@ PART X
 (2) If the driver of a motor omnibus uses any route other than that specified in the licence or permit for the purpose of plying for hire or reward, or of conveying any passenger, he shall be guilty of an offence.
 86. Every licence for a motor omnibus shall specify the route or routes and the limits thereof on or along which the vehicle is permitted to ply for hire or reward.
 87. A Transport Officer may in his discretion issue occasional special permits to enable any motor omnibus to operate on special occasions on a route other than that for which the motor omnibus is licensed upon payment of a fee of twenty-five cents. Such permit shall be valid for the period therein stated but not exceeding seven days. The driver of the motor omnibus shall retain the permit in his possession and produce the same for inspection to any police officer on demand.
-88. }
-to (Repealed by LN 197/1999). 90.
-*See Note on Application at page 3. [Subsidiary ] Motor Vehicles and Road Traffic Regulations
+}
+88. to (Repealed by LN 197/1999). 90.
+*See Note on Application at page 3. [Subsidiary] Motor Vehicles and Road Traffic Regulations
 91. Any person aggrieved by any decision of the Licensing
 Authority or of a Transport Officer shall have the right to submit his application by way of appeal to the Trinidad Transport Board for further consideration.
 PART XI
@@ -1105,11 +1096,12 @@ appointed for taxis.
 metre nor more than one and a half metres apart from each other.
 97. On the departure of any motor omnibus standing for hire
 in any such stands the motor omnibus next in rear thereto shall
-[Subsidiary ] Motor Vehicles and Road Traffic Regulations
+Motor Vehicles and Road Traffic Regulations [Subsidiary]
 move forward and occupy the vacant place and in like manner other motor omnibuses in rear shall move forward in line and occupy the vacant spaces immediately in front of them.
 98. (1) No vehicles other than motor omnibuses may park in Public Stands appointed for motor omnibuses.
 (2) No vehicle may park at any time on the Golden Grove Road, Arouca, within four hundred and sixty metres of any part of the Golden Grove Prison.
-99. }
+}
+99.
 (Repealed by LN 197/1999).
 100.
 PART XII
@@ -1124,10 +1116,10 @@ the effective diameter of the lens thereof shall not be less than two hundred mi
 (d) the height of the centre of the green lens from
 the carriageway shall be not less than one and a half metres;
 (e) the edges of the lenses shall not be more than
-three hundred and sixty millimetres apart; } (f)
-(Deleted by LN 197/1999).
-(g)
-(h) [Subsidiary ] Motor Vehicles and Road Traffic Regulations
+three hundred and sixty millimetres apart; }
+(f)
+(g) (Deleted by LN 197/1999).
+(h) [Subsidiary] Motor Vehicles and Road Traffic Regulations
 102. The significance of the light signals shall be as follows:
 (a) the red signal shall be taken as prohibiting
 vehicular traffic to proceed beyond the stop line on the carriageway provided in conjunction with the signals;
@@ -1143,7 +1135,7 @@ that vehicular traffic may pass the signal and proceed with due regard to the sa
 arrow signal shall be taken to indicate that vehicular traffic is prohibited from proceeding beyond the stop sign on the carriageway provided in conjunction with the signal except in the case of the vehicles proceeding in the direction indicated by the green arrow signal;
 (g) the combination of the red signal and the amber
 arrow shall be taken to indicate that vehicular traffic is prohibited from proceeding beyond the
-[Subsidiary ] Motor Vehicles and Road Traffic Regulations
+Motor Vehicles and Road Traffic Regulations [Subsidiary]
 stop sign on the carriageway provided in conjunction with the signals except when proceeding in the direction indicated by the arrow and that vehicles so proceeding shall give way to vehicles proceeding across their path;
 (h) the flashing red signal shall be taken to indicate
 that vehicular traffic may proceed with extreme caution beyond the stop line on the carriageway save that vehicles so proceeding shall give way to vehicles proceeding in pursuance of the flashing amber signal referred to in paragraph (i);
@@ -1156,7 +1148,7 @@ indicate that vehicular traffic may proceed with extreme caution beyond the stop
 (a) a red standing man or red palm or the words
 "DON'T WALK" illuminated in red that shall be taken as indicating to pedestrians the period during which they should not cross the carriageway;
 (b) a flashing red standing man or the flashing
-words "DON'T WALK" illuminated in red that shall be taken as indicating to pedestrians that they should not begin to cross the carriageway; [Subsidiary ] Motor Vehicles and Road Traffic Regulations
+words "DON'T WALK" illuminated in red that shall be taken as indicating to pedestrians that they should not begin to cross the carriageway; [Subsidiary] Motor Vehicles and Road Traffic Regulations
 (c) a lunar and white walking man or the word
 "WALK" illuminated in lunar white that shall be taken to indicate to pedestrians the period during which they should cross the carriageway.
 (4) (Deleted by LN 197/1999).
@@ -1169,7 +1161,7 @@ road all vehicles shall proceed along or keep to the left hand carriageway and s
 constructed and where such roundabout is indicated by traffic signs all vehicles will proceed in a clockwise direction only.
 107. Any person who is driving a motor vehicle or who is
 driving or is in control of any other vehicle shall slow down when coming from any private road or place to any public road or when approaching any crossroads or road junction, and if on his near side of the road along which he is proceeding there is erected a traffic sign bearing the legend "Stop at Major Road Ahead" or "Stop-Major Road Ahead", he shall stop his vehicle before reaching, and as near as possible to, the stop line and shall not move his vehicle or cause his vehicle to move to the crossroads
-[Subsidiary ] Motor Vehicles and Road Traffic Regulations
+Motor Vehicles and Road Traffic Regulations [Subsidiary]
 or road junction next ahead until he has satisfied himself that it is safe to do so and he shall then proceed slowly and give way to any traffic which may be on such crossroads or road junction.
 108. (Repealed by LN 197/1999).
 109. No person shall drive a lorry on High Street, in the City of San Fernando, between Cuenca Street and the Library Corner except for the purpose of delivering or removing goods within that area.
@@ -1178,7 +1170,7 @@ PART XIV
 TAXIS
 111. (1) No person shall drive on any road a taxi registered as such unless he is the holder of a taxi driver's licence issued to him by the Licensing Authority under these Regulations.
 (2) Every application for a taxi driver's licence shall be in the form set out in the Fourth Schedule and shall be signed by the applicant. Duplicate photographs of the applicant of passport size, a Police Certificate of Character and his driving permit issued under the Act shall accompany each application.
-(3) The Licensing Authority may refuse a taxi driver's licence to any applicant who fails to satisfy him that he is a fit and proper person to hold such a licence. Before refusing a licence the Licensing Authority shall inform the applicant of the grounds for the proposed refusal and shall consider any representations made in writing in support of his application within seven days thereafter. If the applicant notifies the Licensing Authority that he wishes to make oral representations and/or adduce witnesses in support of his application the [Subsidiary ] Motor Vehicles and Road Traffic Regulations
+(3) The Licensing Authority may refuse a taxi driver's licence to any applicant who fails to satisfy him that he is a fit and proper person to hold such a licence. Before refusing a licence the Licensing Authority shall inform the applicant of the grounds for the proposed refusal and shall consider any representations made in writing in support of his application within seven days thereafter. If the applicant notifies the Licensing Authority that he wishes to make oral representations and/or adduce witnesses in support of his application the [Subsidiary] Motor Vehicles and Road Traffic Regulations
 Licensing Authority shall hear such representations and/or witnesses or shall direct his Deputy or such other officer as he may appoint to hear and determine the matter in dispute. A taxi driver's licence may be refused notwithstanding that the applicant is the holder of a driving permit under the Act, but shall in no case be issued to an applicant who is not the holder of such a permit. The fee for a taxi driver's licence shall be ten dollars and shall be paid to the Licensing Authority before the licence is issued. The licence shall be in the form set out in the Fifth Schedule. A taxi driver's licence shall not be valid during any period in which the holder is not the holder of a driving permit under the Act, and is renewable every three years.
 (4) On the grant of a taxi driver's licence there shall be
 issued to the holder thereof a badge on which is embossed the number of the licence and a photograph of the holder if the Licensing Authority provides such badge and/or photograph. Such badge shall be displayed therein at all times when any taxi of which such holder is the driver is standing, plying or being driven for hire, in such a manner as to be plainly and distinctly visible.
@@ -1186,11 +1178,11 @@ issued to the holder thereof a badge on which is embossed the number of the lice
 driver's licence and badge may be dealt with at any time within one month before the date on which the renewal of the taxi driver's licence and badge is to take effect.
 112. If the holder of a taxi driver's licence shall satisfy the
 Licensing Authority that the licence issued to him has been lost, destroyed or defaced and that he has not wilfully effected or been a party to such loss, destruction or defacement, it shall be lawful for the Licensing Authority to issue a duplicate licence. If the former licence has been defaced it shall be surrendered to the Licensing Authority prior to the issue of a duplicate licence. The provisions of regulation 111(3) shall apply in relation to duplicate licences and every such duplicate licence shall be endorsed as such by the Licensing Authority. The Licensing Authority shall not refuse to issue a duplicate licence on the ground that the applicant is not a fit and proper person to hold a licence except on facts which have come to his knowledge since the original licence was issued.
-[Subsidiary ] Motor Vehicles and Road Traffic Regulations
+Motor Vehicles and Road Traffic Regulations [Subsidiary]
 113. (1) The Licensing Authority may cancel any taxi driver's licence (which expression when hereinafter used shall include a duplicate licence) if the holder thereof is convicted of any offence against any of the regulations contained in this Part or if the Licensing Authority is satisfied that it was obtained by any false representation, or that the holder has ceased to be a fit and proper person to hold a taxi driver's licence. The Licensing Authority shall inform him of the substance of what is alleged against him and shall consider any explanations or representations made by him in writing in connection with such proposed cancellation within seven days thereafter. If the holder of the taxi driver's licence notifies the Licensing Authority that he wishes to make oral representation and/or adduce witnesses in connection with such proposed cancellation, the Licensing Authority shall hear such representations and/or witnesses or shall direct his Deputy or such other officer as he may appoint to hear and determine the matter in dispute. Cancellation of a taxi driver's licence may be effected by notice to the holder, and on such cancellation the holder shall forthwith surrender his licence and badge to the Licensing Authority. When the driving permit of any person has been cancelled under the Act it shall be in the discretion of the Licensing Authority to refuse any further taxi driver's licence to that person.
 (2) The holder of a taxi driver's licence shall surrender such licence and the badge issued therewith forthwith to the Licensing Authority on ceasing to be the holder of a driving permit issued under the Act.
 (3) Whenever a taxi driver's licence and badge are surrendered for any reason by the holder thereof, the Licensing Authority shall refund to such holder the sum of eighty cents.
-114. It shall be the duty of the holder of a taxi driver's licence to notify the officer in charge of the police station nearest his residence of any change in the particulars set out in his licence and to produce such licence to such officer. If required to do so by the officer, he shall sign a statement containing full [Subsidiary ] Motor Vehicles and Road Traffic Regulations
+114. It shall be the duty of the holder of a taxi driver's licence to notify the officer in charge of the police station nearest his residence of any change in the particulars set out in his licence and to produce such licence to such officer. If required to do so by the officer, he shall sign a statement containing full [Subsidiary] Motor Vehicles and Road Traffic Regulations
 particulars of the information given and the officer shall forward the licence and the particulars to the Licensing Authority who may make any necessary correction on the licence and return the same to the holder.
 115. It shall be the duty of every taxi-driver to take all proper
 steps to preserve his licence and badge against loss, destruction or defacement, and to produce the same on demand for inspection by any member of a police service or any Transport Officer constituted by law in Trinidad and Tobago or by any passenger in any taxi of which he may be the driver.
@@ -1204,15 +1196,14 @@ contravened, the driver of the taxi and the persons who were in the taxi in cont
 (whether in a vehicle or otherwise) and shall fail to give a good account of himself, he shall be deemed to have contravened these Regulations.
 117. A driver of a taxi shall not himself use, or knowingly
 permit the taxi to be used by any other person for any indecent or immoral purpose.
-118. (Repealed by LN 197/1999).
-[Subsidiary ] Motor Vehicles and Road Traffic Regulations
+118. (Repealed by LN 197/1999). Motor Vehicles and Road Traffic Regulations [Subsidiary]
 119. The provisions of regulation 111(1) and of regulation 116 shall not apply in relation to any taxi when it is on a road or is being driven on a road for the purpose of test by any garage keeper or any employee of any garage keeper and is not being used for hire or reward.
 120. No person shall cause or permit a rented car to ply for hire on any road.
 PART XV
 MISCELLANEOUS
 121. (1) No person shall drive or cause or permit any person employed by him or subject to his orders to drive any hiring car or motor omnibus, or any goods vehicle, continuously for more than five-and-a-half hours without at least a half hour intervening during which the driver can obtain rest and refreshment, nor for an aggregate of more than ten hours in any twenty-four-hour period, nor for more than fifty-six hours in any one week, and provided that the driver shall have at least ten consecutive hours for rest during such twenty-four-hour period and shall not be employed in any capacity by his employer for more than eleven hours during such twenty-four-hour period.
 (2) For the purposes of this regulation, a twenty-four-hour period shall be the period of time commencing from the hour at which the driver first took up work on any day to the corresponding hour on the following day.
-122. The Licensing Authority, in his discretion, need not enforce any or all of the provisions contained in regulations 58 to 65, 67 and 68 of these Regulations, and the provisions of regulation 70(e) and (f) of these Regulations shall have effect in relation to any motor omnibus subject to any modification approved by the Licensing Authority and endorsed on the licence relating to such vehicle by such Authority or on his behalf. [Subsidiary ] Motor Vehicles and Road Traffic Regulations
+122. The Licensing Authority, in his discretion, need not enforce any or all of the provisions contained in regulations 58 to 65, 67 and 68 of these Regulations, and the provisions of regulation 70(e) and (f) of these Regulations shall have effect in relation to any motor omnibus subject to any modification approved by the Licensing Authority and endorsed on the licence relating to such vehicle by such Authority or on his behalf. [Subsidiary] Motor Vehicles and Road Traffic Regulations
 123. (1) No person shall, except for the purpose of taking up
 or setting down passengers, allow a vehicle to remain stationary at any time between the hours of 7.30 a.m. and 9.00 a.m. or between the hours of 4.00 p.m. and 5.30 p.m. on any day at any place on the following sections of road:
 (a) that portion of South Quay and the Eastern
@@ -1228,11 +1219,11 @@ easterly direction along that section of the Eastern Main Road which lies betwee
 124. No person shall, except for the purpose of taking up or
 setting down passengers, allow a vehicle, other than a vehicle belonging to the Government of the United States, to remain stationary at any time at any place on the following sections of roads:
 (a) that portion of the Eastern Main Road which
-lies between the thirty kilometres and the thirty-five kilometres marks;
+lies between the thirty-kilometre and the thirty-five-kilometre marks;
 (b) the whole of Demerara Road;
 (c) that portion of the Aripo Road which lies
 between the zero and three-kilometre marks;
-[Subsidiary ] Motor Vehicles and Road Traffic Regulations
+Motor Vehicles and Road Traffic Regulations [Subsidiary]
 (d) that portion of the Heights of Guanapo Road which
 lies between the zero and four-kilometre marks.
 125. (1) Between the hours of 7.00 a.m. and 9.00 a.m. and 4.00 p.m. and 6.00 p.m. daily no vehicle shall be drawn up and parked on the north side of the Western Main Road between Mucurapo Road on the East and the Diego Martin Road on the West.
@@ -1242,12 +1233,11 @@ lies between the zero and four-kilometre marks.
 (a) applicable to the class or description of vehicles
 to which the vehicle belongs as to the construction, weight and equipment thereof; or
 (b) as to the use or maintenance of any such vehicle
-or trailer or part thereof in a specified condition. [Subsidiary ] Motor Vehicles and Road Traffic Regulations
-*FIRST SCHEDULE
-REPUBLIC OF TRINIDAD AND TOBAGO
-FORM 1
-FORM OF PARTICULARS TO BE GIVEN BY
-APPLICANT FOR REGISTRATION OF A MOTOR VEHICLE
+or trailer or part thereof in a specified condition. [Subsidiary] Motor Vehicles and Road Traffic Regulations
+[11 of 1963 *FIRST SCHEDULE 61/1979].
+REPUBLIC OF TRINIDAD AND TOBAGO Regulation 4. FORM 1
+FORM OF PARTICULARS TO BE GIVEN BY APPLICANT
+FOR REGISTRATION OF A MOTOR VEHICLE
 No.
 Motor Vehicles and Road Traffic Act, Ch. 48:50
 1. Full Name of Owner … … … 2. Postal Address of residence of Owner… … 3. Description or type of Vehicle … … 4. Type and Colour of Body and Seating
@@ -1268,9 +1258,8 @@ is proposed to place the plates forming the identification mark … … …
 Date of Application
 N.B.-It is an offence under the Act to give any particulars which are not correct and you will
 be liable to prosecution if you do so. * Regulation 13 was revoked by Act No. 9 of 1997. Accordingly Forms 2 and 3 have been
-removed from the First Schedule.
-[Subsidiary ] Motor Vehicles and Road Traffic Regulations
-FORM 4 (Regulation 18).
+removed from the First Schedule. Motor Vehicles and Road Traffic Regulations [Subsidiary]
+FORM 4 Regulation 18.
 MOTOR VEHICLES AND ROAD TRAFFIC REGULATIONS
 APPLICATION FOR DRIVING
 PERMIT(S)/ENDORSEMENT(S)
@@ -1373,7 +1362,7 @@ respect misleading and you will be liable to prosecution if you do so. Answers m
 - Margin: Obstruction.
 - Margin: Turnings and crossroads.
 - Margin: Traffic signals.
-- Margin: Traffic directions.
+- Margin: Traffic directions. [197/1999].
 - Margin: Slow moving traffic.
 - Margin: Drawing up at side of road.
 - Margin: Horns, etc.
@@ -1383,7 +1372,7 @@ respect misleading and you will be liable to prosecution if you do so. Answers m
 - Margin: Overcrowding.
 - Margin: Riding outside. [197/1999].
 - Margin: Motor vehicles unattended.
-- Margin: Passage of Fire Brigade.
+- Margin: Passage of Fire Brigade. [197/1999].
 - Margin: Towing other vehicles.
 - Margin: Length of tow rope.
 - Margin: Filling petrol into motor vehicles.
@@ -1470,5 +1459,3 @@ respect misleading and you will be liable to prosecution if you do so. Answers m
 - Margin: Western Main Road.
 - Margin: Chaguanas Road. [43/1958].
 - Margin: Liability for contravention or failure to comply with Regulations. [177/1956].
-- Margin: [11 of 1963 61/1979].
-- Margin: (Regulation 4).

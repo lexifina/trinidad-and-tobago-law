@@ -1,12 +1,10 @@
-PORT-OF-SPAIN TRANSIT CENTRE (PUBLIC SERVICE
-VEHICLE STATION) REGULATIONS
-ARRANGEMENT OF REGULATIONS
-REGULATION
-1. Citation. 2. Interpretation. 3. Appointment as Public Service Vehicle Station. 4. Issue of permits to owners and operators. 5. Regulation of conduct of owners and operators. 6. Conductor's permit. 7. Holding Bay. 8. Ready Bay. 9. Loading Bay.
-10. Refusal of passenger. 11. Cancellation or suspension of permits. 12. Appeals. 13. General. 14. Offence.
-SCHEDULE.
-[Subsidiary ]
-PORT-OF-SPAIN TRANSIT CENTRE (PUBLIC
-SERVICE VEHICLE STATION) REGULATIONS
-made under section 101
-- Margin: 227/1997.
+PORT-OF-SPAIN TRANSIT CENTRE
+(TAXI STAND) ORDER
+ARRANGEMENT OF CLAUSES
+CLAUSE
+1. Citation 2. Taxi stand. 3. Access-Red and Green Band maxi-taxis. 4. Access to taxi stand-6.00 a.m. to 9.00 a.m. 5. Parking, stopping restricted. 6. Parking prohibited. 7. Offence.
+[Subsidiary]
+PORT-OF-SPAIN TRANSIT CENTRE
+(TAXI STAND) ORDER
+made under section 65
+- Margin: 226/1997.

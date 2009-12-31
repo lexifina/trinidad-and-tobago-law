@@ -1,6 +1,5 @@
 # APPENDIX VI
-TRANSPORT DIVISION
-For Official Use MOTOR VEHICLE INSPECTION CHECKLIST
+TRANSPORT DIVISION For Official Use MOTOR VEHICLE INSPECTION CHECKLIST
 No.
 Name/Address of Inspector/Testing Site ... Testing Centre No... Date ... Inspection No... Vehicle Registration No... Registered Owner ... 1. Required Documentation: Good Defective 4. Electrical: Good Defective
 (a) Head lamps including focus (a) Inspection Receipt
@@ -37,9 +36,9 @@ in fair condition (iv) Seating ...
 (vi) Horse Power ...
 (iv) Emergency door
 (vii) Engine Size ... (Maxi-Taxi)
-(b)Condition of Fender/ 3. Engine: Good Defective Panels (i.e., not
+(b) Condition of Fender/ 3. Engine: Good Defective Panels (i.e., not
 excessively corroded) (a) Oil and Fuel Leaks
-(c) Seats secured (b)Water/Coolant Leaks
+(c) Seats secured (b) Water/Coolant Leaks
 (d) Seat Belt
 (c) Operation of cut-off
 (e) Seat Upholstered
@@ -47,20 +46,19 @@ switch (Diesel Trucks)
 (f) Glasses (Windscreens
 (d) Starter Mechanism
 included)
-(e) Engine properly washed (g)Tint of Glasses
-(h)Outside mirror (f) Battery properly secured
-(i) Length, Width and (g)Tuned properly
+(e) Engine properly washed (g) Tint of Glasses
+(h) Outside mirror (f) Battery properly secured
+(i) Length, Width and (g) Tuned properly
 overhangs
-(h)Visible Vapour/Sparks, etc.
-(j) Bumpers secured [Subsidiary ] Motor Vehicles and Road Traffic Regulations
+(h) Visible Vapour/Sparks, etc.
+(j) Bumpers secured [Subsidiary] Motor Vehicles and Road Traffic Regulations
 APPENDIX VI-Continued
 6. Markings: 10. Under Carriage
 Good Defective Check for: Good Defective
-(a) Letter (S) painted on all (a) Washed under carriage
+(a) Washed under carriage (a) Letter (S) painted on all
 special Vehicles (b) Exhaust System:
 (b) M.G.W., Tare and Licence (i) Noise
-Weight clearly marked (ii) Corrosion
-and are to Regulation's
+Weight clearly marked (ii) Corrosion and are to Regulation's
 (iii) Length
 size and colour
 (c) Drive Shaft, Universal
@@ -108,4 +106,4 @@ Box/Rack Power Hoses, etc.
 (e) Suspension Rubber and
 Bushings
 (f) Stablizer/Torsion Bars
-[Subsidiary ] Motor Vehicles and Road Traffic Regulations
+Motor Vehicles and Road Traffic Regulations [Subsidiary]

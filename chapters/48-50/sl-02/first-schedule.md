@@ -11,7 +11,7 @@ ROAD
 1. Naparima-Mayaro Road from its junction with Pierreville Village
 Street and extending in an easterly direction to a point 45 metres East of its junction with Manzanilla-Mayaro Road.
 *This Order has been amended by the following: 220/1980; 148/1983; 117/1984; 75/1985; 114/1985; 138/1986 and 184/1986.
-[Subsidiary ] Road Traffic (Prohibited Parking) Order
+Road Traffic (Prohibited Parking) Order [Subsidiary]
 2. Manzanilla-Mayaro Road from its junction with Naparima-Mayaro Road and extending in a northerly direction for a distance of 45 metres.
 3. Peter Hill Trace from its junction with Naparima-Mayaro Road and extending in a northerly direction for a distance of 50 metres.
 4. Guayaguayare Road from its junction with Naparima-Mayaro Road and extending in a southerly direction to a point 10 metres South of the Mayaro Post Office.
@@ -30,7 +30,7 @@ ROAD
 6. George Street between Eastern Main Road and Mary Street.
 7. Toco Road from its junction with Eastern Main Road at the Roundabout and extending in an easterly direction to the junction of Henderson Street.
 8. Brierley Street between Riverside Extension Road and Foster Local Road, between 6.00 a.m. and 6.00 p.m. daily, Sundays and Public Holidays not included.
-9. Old Railway Road West, from its junction with Eastern Main Road and Riverside Extension Road. [Subsidiary ] Road Traffic (Prohibited Parking) Order
+9. Old Railway Road West, from its junction with Eastern Main Road and Riverside Extension Road. [Subsidiary] Road Traffic (Prohibited Parking) Order
 PART E
 COUNTY OF ST. DAVID
 NIL
@@ -58,7 +58,7 @@ ROAD
 eight hundred-metre post from its junction with Circular Road to the three-kilometre post.
 2. Cascade Road, St. Ann's between Spring Bank Avenue and
 Walker Avenue.
-[Subsidiary ] Road Traffic (Prohibited Parking) Order
+Road Traffic (Prohibited Parking) Order [Subsidiary]
 3. Nook Avenue, situate at St. Ann's.
 4. La Fantasie Road in the Ward of St. Ann's.
 5. Reid Lane, Belmont, in the City of Port-of-Spain between Belmont Circular Road and Norfolk Street.
@@ -75,12 +75,12 @@ Walker Avenue.
 16. Edward Street from a point ninety metres South of the intersection of Sackville and Edward Streets extending further South to a point one hundred metres South of the said intersection in the City of Port-of-Spain.
 17. Edward Street, Port-of-Spain, from a point commencing five metres South of vehicle entrance of "Trinidad House" and continuing to a point five metres North of the said entrance.
 18. Edward Street, Port-of-Spain, between Independence Square North and Independence Square South.
-19. Richmond Street between Fraser Street and Park Street in the City of Port-of-Spain. [Subsidiary ] Road Traffic (Prohibited Parking) Order
+19. Richmond Street between Fraser Street and Park Street in the City of Port-of-Spain. [Subsidiary] Road Traffic (Prohibited Parking) Order
 20. Queen Street in the City of Port-of-Spain between Frederick Street
 and Chacon Street.
 21. Harvey Street in the City of Port-of-Spain.
-22. The surfaced portion of the Beetham Highway situated in the Ward of
-St. Ann's not including that portion appearing under Part "G" of the First
+22. The surfaced portion of the Beetham Highway situated in the Ward
+of St. Ann's not including that portion appearing under Part "G" of the First
 Schedule to the Miscellaneous Roads (Unilateral Parking) Order.
 23. Wrightson Road between Edward and St. Vincent Streets in the City
 of Port-of-Spain.
@@ -103,9 +103,9 @@ mark and ending a distance of one and a half kilometres, measured along the said
 hundred and seventy-five metres North of Old St. Joseph Road through Prizgar Lands.
 33. Jogie Road in the Ward of St. Ann's between Fifth Street, Barataria
 and the Eastern Main Road.
-34. First Street, San Juan, in the Ward of St. Ann's between Second
-Street and a point one hundred and forty metres North of Second Street.
-[Subsidiary ] Road Traffic (Prohibited Parking) Order
+34. First Street, San Juan, in the Ward of St. Ann's between Second Street
+and a point one hundred and forty metres North of Second Street.
+Road Traffic (Prohibited Parking) Order [Subsidiary]
 35. Second Street, San Juan, in the Ward of St. Ann's between Saddle Road and First Avenue, not including those portions appointed as Taxi Stands.
 36. Real Street, San Juan, in the Ward of St. Ann's between Saddle Road and San Juan Street.
 37. Saddle Road, San Juan, in the Ward of St. Ann's between Eastern Main Road and Mission Road.
@@ -125,13 +125,13 @@ Oropouche Road situated between the junction of the said road with the Delhi Set
 PART I
 TOBAGO
 ROAD
-1. Carrington Street from the junction of Burnett Street to Crooks River Bridge, Scarborough. [Subsidiary ] Road Traffic (Prohibited Parking) Order
-2. Bacolet Street from the junction of Main Street to the southern end
-of the New County Hall, Scarborough.
+1. Carrington Street from the junction of Burnett Street to Crooks River Bridge, Scarborough. [Subsidiary] Road Traffic (Prohibited Parking) Order
+2. Bacolet Street from the junction of Main Street to the southern end of
+the New County Hall, Scarborough.
 3. Bacolet Street, Tobago, from a point ninety metres East of the entrance
 to the Temporary Court House and Police Station extending in a westerly direction for a distance of one hundred and eighty-five metres, Scarborough.
-4. North Side Road from Crooks River Bridge to the southern side of the
-Botanic Station, Scarborough.
+4. North Side Road from Crooks River Bridge to the southern side of
+the Botanic Station, Scarborough.
 5. Wilson Road between Milford and Darrel Spring Roads, Scarborough.
 PART J
 COUNTY OF VICTORIA
@@ -148,12 +148,12 @@ San Fernando.
 Fernando.
 8. Hollis Street, San Fernando.
 9. Paradise Street, San Fernando.
-10. Hubert Rance Street between Vistabella Road and a point one hundred
-and eighty-five metres North of Boodoosingh Street, San Fernando.
+10. Hubert Rance Street between Vistabella Road and a point one
+hundred and eighty-five metres North of Boodoosingh Street, San Fernando.
 11. St. James Street between Penitence Street and High Street, San Fernando.
 12. Cipero Street between Coffee Street and a point thirty-five metres
 South of Coffee Street, San Fernando.
-[Subsidiary ] Road Traffic (Prohibited Parking) Order
+Road Traffic (Prohibited Parking) Order [Subsidiary]
 13. Coffee Street between Library Corner and a point forty-five metres East of Johnstone Street, San Fernando.
 14. Keate Street between Prince Alfred Street and Gransaul Street, San Fernando.
 15. Chancery Lane, San Fernando.
@@ -167,4 +167,4 @@ South of Coffee Street, San Fernando.
 23. Independence Avenue, San Fernando between Keate Street and Harris Promenade.
 24. Southern Main Road from Cross Crossing to the Union Roundabout, San Fernando.
 25. Guaracara-Tabaquite Road between Southern Main Road and a point forty-five metres eastwards, San Fernando.
-26. San Fernando Bye-Pass, in the Ward of Naparima, which commences at the fifty-kilometre mark, Southern Road (the Marabella Roundabout) and ends at the fifty-five-kilometre mark on the said Southern Road (the Union Hall Roundabout), San Fernando. [Subsidiary ] Road Traffic (Prohibited Parking) Order
+26. San Fernando Bye-Pass, in the Ward of Naparima, which commences at the fifty-kilometre mark, Southern Road (the Marabella Roundabout) and ends at the fifty-five-kilometre mark on the said Southern Road (the Union Hall Roundabout), San Fernando. [Subsidiary] Road Traffic (Prohibited Parking) Order
