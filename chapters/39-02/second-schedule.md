@@ -1,5 +1,5 @@
 # SECOND SCHEDULE
-1. Any Government Primary, Intermediate or Special School within the meaning of the Education Act.
+1. Any Government Primary, Intermediate or Special School, within the meaning of the Education Act.
 2. Any Assisted Primary, Intermediate or Special School, within the meaning of the Education Act.
 3. Any Certified School within the meaning of Part III of the Children Act. 4. Any Government or Assisted Training College within the meaning of the Education Act.
 5. Any School or Institute for the education of Artisans and Apprentices carried on by the Board of Industrial Training under the Industrial Training Act.
