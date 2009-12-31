@@ -11,4 +11,4 @@ BE IMPORTED INTO A FREE ZONE FREE
 OF CUSTOMS DUTY
 Building materials including tools, pipes, pumps, conveyor belts, electronic and electrical machinery, and goods and machinery incidental to the setting up of an enterprise in the free zone.
 Other apparatus and materials necessary for construction, alteration, extension or repairs to premises.
-- Margin: (Section 18). [33 of 1995 201/1996].
+- Margin: Section 18. [33 of 1995 201/1996].
