@@ -25,8 +25,7 @@ authorise another person in writing in the form set out as Form 1 in the Schedul
 8. The Life Certificate in respect of-
 (a) retiring allowance and children's allowance; and
 (b) widow's allowance,
-of a former Head of Mission shall be in the form set out as Forms 2 and 3, respectively, in the Schedule.
-[Subsidiary] Retiring Allowances (Diplomatic Service) Regulations
+of a former Head of Mission shall be in the form set out as Forms 2 and 3, respectively, in the Schedule. Retiring Allowances (Diplomatic Service) Regulations [Subsidiary]
 SCHEDULE
 FORM 1
 FORM OF AUTHORISATION
@@ -36,7 +35,8 @@ affixed here Trinidad
 ... 20...
 The
 You are hereby notified that, until further notice Mr... whose signature is affixed hereto, is authorised to receive all moneys due and owing to me or my firm and to give effectual receipts for same.
-... Name (in Block Letters) of Signature of Person Authorising Agent Person Authorising Agent
+...
+Name (in Block Letters) of Signature of Person Authorising Agent Person Authorising Agent
 ... Name, Occupation, Address of Signature of Witness Witness (in Block Letters) *
 ...
 Name (in Block Letters) of Signature of
@@ -49,34 +49,34 @@ Date ...
 RETIRING ALLOWANCE/ CHILDREN'S ALLOWANCE PAYABLE TO
 FORMER HEAD OF MISSION OR THEIR CHILDREN
 Claim in respect of retiring allowance as:
-*(a) a former Head of Mission; or Full sum
-This form must be
-$ ... left one day for
-*(b) children's allowance in respect of former examination if presented through
-Head of Mission ... $ ... a Bank. for the period ended ... $ ... 20 ... This allowance
-Net Sum Payable $ ... cannot be assigned as a security for a
-... loan of money.
+*(a) a former Head of Mission; or Full sum This form must be
+left one day for $ ... examination if *(b) children's allowance in respect of former presented through a Bank.
+Head of Mission ... $ ... This allowance for the period ended ... $ ... cannot be assigned as a security for a ... 20 ... loan of money.
+Net Sum Payable $ ...
+...
 Signature of former Head of Mission
 ...
 Signature of Child of former Head of Mission
 CERTIFICATE
-I hereby certify that M ..., whose signature is affixed above, is living, and to the best of my knowledge and belief is the person entitled to the payment.
-To be signed by a Justice of the Peace, Pensioners
-Notary Public, Commissioner for Oaths, resident in a Commonwealth Minister of Religion, Medical Practitioner or territory. by a Superintendent of Police, Non-
-Commissioned Officer, Head or Deputy Head of Department, or Clerk of the Peace, before being presented for payment or by a Manager of a Bank or Branch Bank when presenting
-... for payment.
-Signature of Justice of the Peace, Notary Public, etc.
-To be attested by a Consular Officer of Pensioners resident in a Trinidad and Tobago. foreign country...
+I hereby certify that M ..., whose signature
+is affixed above, is living, and to the best of my knowledge and belief is the person entitled to the Pensioners
+payment. resident in a Commonwealth
+To be signed by a Justice of the Peace, territory.
+Notary Public, Commissioner for Oaths, Minister of Religion, Medical Practitioner or by a Superintendent of Police, Non- Commissioned Officer, Head or Deputy Head of Department, or Clerk of the Peace, before being presented for payment or by a Manager of a Bank or Branch Bank when presenting
+... for payment. Pensioners
+Signature of Justice of the resident in a
+Peace, Notary Public, etc. foreign country.
+To be attested by a Consular Officer of
+Trinidad and Tobago.
+...
 Signature of Consular Officer
 Address ... Qualification ... Date ...
-*Delete where not applicable.
-[Subsidiary] Retiring Allowances (Diplomatic Service) Regulations
+*Delete where not applicable. Retiring Allowances (Diplomatic Service) Regulations [Subsidiary]
 FORM 3 Regulation 8.
 LIFE CERTIFICATE
 Date ...
 WIDOW'S ALLOWANCE PAYABLE TO THE WIDOW OF A
-FORMER HEAD OF MISSION
-Claim in respect of widow's allowance payable Full sum $ ... This form must be to me as widow of the late left one hour for
+FORMER HEAD OF MISSION Claim in respect of widow's allowance payable Full sum $ ... This form must be to me as widow of the late left one hour for
 examination if presented in person and one ... for ...
 day if presented through a Bank. the period ended ...
 $ ... Net sum payable This allowance
@@ -85,8 +85,10 @@ person this form a five cents stamp when remarried. must be signed in
 the payment amounts to
 the presence of the
 $5.00 and upwards) Paying Cashier. Accountant ...
-CERTIFICATE I hereby certify that M... whose signature is affixed above, is living, and to the best of my knowledge and belief is the person entitled to the payment. To be signed by a Justice of the Peace, Notary Widow resident in Public, Commissioner for Oaths, Minister of a Commonwealth
-territory. Religion, Medical Practitioner or by a Superintendent of Police, Non- Commissioned Officer, Clerk of the Peace before being passed for payment or by a Manager of a Bank or Branch Bank when passing on for payment.
+CERTIFICATE
+I hereby certify that M... whose signature is affixed above, is living, and to the best of my knowledge and belief is the person entitled to the payment.
+To be signed by a Justice of the Peace, Widow resident in Notary Public, Commissioner for Oaths, a Commonwealth
+territory. Minister of Religion, Medical Practitioner or by a Superintendent of Police, Non- Commissioned Officer, Clerk of the Peace before being passed for payment or by a Manager of a Bank or Branch Bank when passing on for payment.
 ...
 Signature of Justice of the Peace,
 Notary Public, etc. To be attested by a Consular Officer of Widow resident in
