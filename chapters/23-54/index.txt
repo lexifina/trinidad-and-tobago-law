@@ -49,5 +49,6 @@ s-47.md
 s-48.md
 first-schedule.md
 second-schedule.md
+second-schedule--2.md
 third-schedule.md
 sl-01/title.md
