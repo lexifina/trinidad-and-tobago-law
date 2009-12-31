@@ -4,8 +4,7 @@ ARRANGEMENT OF REGULATIONS REGULATION
 1. Citation and Commencement. 2. Interpretation.
 PART I
 RECRUITMENT AND APPOINTMENT
-3. Qualification for appointment as trainee. 4. Recruitment procedure for trainee. 5. Qualification for appointment as Band Apprentice. 6. Recruitment procedure for Band Apprentice. 7. Appointment and discharge of Band Apprentice. 8. Service number and name tag. 9. Appointment to the First Division.
-10. Date of appointment.
+3. Qualification for appointment as trainee. 4. Recruitment procedure for trainee. 5. Qualification for appointment as Band Apprentice. 6. Recruitment procedure for Band Apprentice. 7. Appointment and discharge of Band Apprentice. 8. Service number and name tag. 9. Appointment to the First Division. 10. Date of appointment.
 PART II
 PROBATION AND PROMOTION
 11. Probation of constable. 12. Principles applicable to constable on probation. 13. Probationary assessment of constable on first appointment. 14. Dismissal of constable on probation. 15. Examination Board. 16. Qualifying examination. 17. Constable eligible for promotion after three years of service. 18. Advertisement of vacancy. 19. Principles of selection for promotion to and within the First
@@ -65,14 +64,13 @@ MEDICAL BENEFITS
 98. Officer entitled to free medical, etc., attention.
 PART IX
 CUSTODY AND CARE OF PRISONERS
-99. Key for female cell.
-100. Opening of cell. 101. Searching of prisoner. 102. Record to be kept of prisoner's property. 103. Prisoner's property handed over. 104. Prisoner in cell to be visited. 105. Children of prisoner in custody. 106. Feeding of prisoner. 107. Legal adviser to prisoner. 108. Sick prisoner. 109. Numerical strength of escort. 110. Prison van. 111. Dangerous prisoner. 112. Handcuffs. 113. Armed escort.
+99. Key for female cell. 100. Opening of cell. 101. Searching of prisoner. 102. Record to be kept of prisoner's property. 103. Prisoner's property handed over. 104. Prisoner in cell to be visited. 105. Children of prisoner in custody. 106. Feeding of prisoner. 107. Legal adviser to prisoner. 108. Sick prisoner. 109. Numerical strength of escort. 110. Prison van. 111. Dangerous prisoner. 112. Handcuffs. 113. Armed escort.
 Police Service Regulations
 ARRANGEMENT OF REGULATIONS-Continued REGULATION
 PART X
 GOVERNMENT BUILDING, FURNITURE,
 HOSPITAL, ETC.
-114. Quarters. 115. Furniture to be kept in good condition. 116. Repair to or replacement of furniture. 117. Notice board. 118. Reception area. 119. Prisoner's cell. 120. Hospital.
+114. Quarters. 115. Furniture to be kept in good condition. 116. Repair to or replacement of furniture. 117. Notice board. 118. Reception area. 119. Prisoners' cells. 120. Hospital.
 PART XI
 UNIFORM, EQUIPMENT, ARMS, STORES, ETC.
 121. Uniform and order of dress. 122. Unauthorised badge or other decoration. 123. Issue of arms and ammunition. 124. Control of arms and ammunition issued. 125. Issue of uniform. 126. Wearing of uniform and plain clothes. 127. Issue of stores. 128. Issue of bedding. 129. Requisition. 130. Stores Ledgers.

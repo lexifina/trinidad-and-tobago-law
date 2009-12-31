@@ -302,3 +302,10 @@ sl-01/appendix-b.md
 sl-01/appendix-c.md
 sl-01/appendix-d.md
 sl-01/appendix-e.md
+sl-02/title.md
+sl-02/r-1.md
+sl-02/r-2.md
+sl-02/r-3.md
+sl-02/r-4.md
+sl-02/r-5.md
+sl-02/r-6.md
