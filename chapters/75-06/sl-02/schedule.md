@@ -1,7 +1,7 @@
 # SCHEDULE
-PART A No... of 20...
+No... of 20... PART A
 INFRINGEMENT NOTICE
-Made pursuant to section 59A of the Value Added Tax Act
+made pursuant to section 59A of the Value Added Tax Act
 Board of Inland Revenue
 Value Added Tax Administration Centre
 20, St. Vincent Street
@@ -19,12 +19,12 @@ You are further advised that if the modified penalty is not paid by the
 stipulated time, the Board will proceed to have a complaint of the alleged offence heard and determined by a Court.
 Date of issue ...
 Board of Inland Revenue
-Value Added Tax (Prescribed Offences-Modified Penalties) Regulations
+Value Added Tax (Prescribed Offences-Modified Penalties) Regulations [Subsidiary]
 PART B
 No... of 20...
 NOTICE OF WITHDRAWAL OF INFRINGEMENT
 NOTICE
-Made pursuant to section 59A of the Value Added Tax Act
+made pursuant to section 59A of the Value Added Tax Act
 Board of Inland Revenue
 Value Added Tax Administration Centre
 20, St. Vincent Street
@@ -34,5 +34,5 @@ TAKE NOTICE that the Board of Inland Revenue has withdrawn the Infringement Noti
 You are advised that if you have already paid the modified penalty, the amount paid shall be refunded.
 Date of issue ...
 Board of Inland Revenue
-- Margin: [Regulation 3(b)].
-- Margin: [Regulation 3(b)].
+- Margin: Regulation 3(b).
+- Margin: Regulation 3(b).

@@ -16,23 +16,24 @@ Amended by
 4 of 1992 5 of 2004 6 of 1993 17 of 2007
 *22 of 1993 30 of 2007
 *See Note on Exemption on page 2
+13-26 .. 1/2009
+29-46 .. 1/2009
 Index of Subsidiary Legislation
 Page
-Value Added Tax (Books and Records) Regulations (LN 170/1992) … 65 Value Added Tax (Prescribed Offences-Modified Penalties) Regulations
-(LN 169/1992) ... 67
-Note on section 6 of the Act
-The "appointed day" for the purposes of section 6 is 1st January 1990-See LN 153/1989.
+Value Added Tax (Books and Records) Regulations (LN 170/1992) … 67 Value Added Tax (Prescribed Offences-Modified Penalties) Regulations
+(LN 169/1992) ... 69
 Note on sections 61 and 62
 Schedule 4 to the Value Added Tax Act 1989 (Act No. 37 of 1989) has been omitted since this Schedule dealt with amendments and repeals to other Acts mentioned therein. For a reference to Schedule 4 of the Value Added Tax Act, 1989-See the 1989 Annual Volumes of Acts and Subsidiary Legislation.
 Note on non-application of Act
 See-Section 34B of the Trinidad and Tobago Electricity Commission Act (Ch. 54:70) as
 amended by section 7 of Act No. 32 of 1994.
 Note on Exemption of Value Added Tax
-See-The First Schedule to this Act and also Act No. 6 of 1991; Act No. 22 of 1993 and Act
-No. 3 of 1994.
+See-The First Schedule to this Act and also Act No. 6 of 1991; Act No. 22 of 1993 and
+Act No. 3 of 1994.
 CHAPTER 75:06
 VALUE ADDED TAX ACT
-ARRANGEMENT OF SECTIONS SECTION
+ARRANGEMENT OF SECTIONS
+SECTION
 PART 1
 PRELIMINARY
 1. Short title. 2. Act binds State. 3. Interpretation. 4. What constitutes a business. 5. Consideration in foreign currency.
@@ -41,28 +42,28 @@ IMPOSITION OF THE TAX
 6. Value added tax. 7. Rate of tax. 8. Zero-rating.
 PART 3
 TAX ON IMPORTS
-9. Calculation of tax.
-10. Comptroller to collect tax. 11. When tax due and payable. 12. Value of imported goods. (Repealed by Act No. 6 of 1991). 13.
+9. Calculation of tax. 10. Comptroller to collect tax. 11. When tax due and payable. 12. Value of imported goods. 13. (Repealed by Act No. 6 of 1991).
 13A. Refund on overpayments of tax on imports.
 PART 4
 TAX ON SUPPLY DIVISION 1-THE TAX
 14. Commercial supply. 15. What constitutes a supply of goods or services. 16. Place of supply.
-ARRANGEMENT OF SECTIONS-Continued SECTION
+ARRANGEMENT OF SECTIONS-Continued
+SECTION
 17. Time of supply. 18. Value of supply. 19. Open market value of supply.
-DIVISION 2 -REGISTRATION
+DIVISION 2-REGISTRATION
 20. Suppliers to be registered. 21. Low level supplies. 22. Declarations. 23. Registered person may recover tax from person supplied. 24. Application for registration. 25. Registration. 26. Certain self-supply may be disregarded. 27. Certificate of registration. 28. Notification of changes. 29. Cancellation of registration.
-DIVISION 3 -PAYMENT OF THE TAX
+DIVISION 3-PAYMENT OF THE TAX
 30. Tax periods. 31. Returns. 32. Calculation of tax payable or refund due. 33. Output tax. 34. Input tax. 35. Payment or refund of tax. 36. Tax invoices. 37. Credit and debit notes. 38. Books and records to be kept.
-DIVISION 4 -ASSESSMENTS
+DIVISION 4-ASSESSMENTS
 39. Board may assess tax.
 39A. Refund of overpayments of tax on supplies.
 40. Objections and appeals.
-DIVISION 5 -SPECIAL CASES
+DIVISION 5-SPECIAL CASES
 41. Branches and divisions. 42. Unincorporated bodies. 43. Agents of absentee principals. SECTION
 PART 5
 RELIEFS
 44. Certain imports exempt.
-(Repealed by Act No. 8 of 1996). 44A.
+44A. (Repealed by Act No. 8 of 1996).
 45. Certain imports by fishermen. 46. Certain supplies to fishermen.
 46A. Reliefs for diplomats and others. 46B. Reliefs for certain persons.
 47. Bad debts.
