@@ -18,6 +18,7 @@ Note on Commencement Date
 (a) Regulations 6(1), 7(1) and 9(1) came into operation on 16th February 1984.
 (b) Regulation 16(1) and (2) came into operation on 16th February 1984.
 (c) Regulations 36(6) and 37(4) came into operation on 1st January 1976.
+(d) Regulation 14A came into operation on 1st September 2008.
 Note on Omissions
 The following Regulations have been omitted:
 (a) The Acting Allowance Regulations (GN 71/1951).
@@ -31,7 +32,7 @@ The First Schedule to the Act, containing the Classification of Offices has been
 Note on Adaptation
 Under paragraph 6 of the Second Schedule to the Law Revision Act (Ch. 3:03) the Commission amended certain references to Public Officers in this Chapter. The Minister's approval of the amendments was signified by LN 120/1980 but no marginal reference is made to this Notice where any such amendment is made in the text.
 Note on Transferred Provisions
-Section 2 and section 7 of the Deceased Officers'Salary Ordinance (Ch. 9 No. 10-1950 Edition) have been incorporated in this Act as sections 32 and 33 respectively.
+Section 2 and section 7 of the Deceased Officers' Salary Ordinance (Ch. 9 No. 10-1950 Edition) have been incorporated in this Act as sections 32 and 33 respectively.
 Note on Application
 This Act does not apply to the Judicial and Legal Service or officers of that Service (see section 17 of the Judicial and Legal Service Act, Chapter 6:01).
 Note on Amendments
@@ -51,18 +52,17 @@ PRELIMINARY
 PART II
 ESTABLISHMENT AND STRUCTURE OF
 THE CIVIL SERVICE
-3. Establishment of Civil Service. Classification titles to be observed in records.
+3. Establishment of Civil Service.
+Classification titles to be observed in records.
 4. Orders. 5. Increments.
 TERMS AND CONDITIONS OF EMPLOYMENT
-6. Tenure of office. 7. Appointment for specified period. 8. Resignation. 9. Civil servant and voting.
-10. Civil servants and political activities. 11. Civil servants to take oath.
+6. Tenure of office. 7. Appointment for specified period. 8. Resignation. 9. Civil servant and voting. 10. Civil servants and political activities. 11. Civil servants to take oath.
 TERMINATION
 12. Modes of leaving service.
 PART III
 THE PERSONNEL DEPARTMENT
-13. Establishment of Personnel Department. 14. Powers and Duties. Consideration of recommendation on pay rates. Consultation with organisations.
-ARRANGEMENT OF SECTIONS-Continued
-SECTION
+13. Establishment of Personnel Department. 14. Powers and Duties.
+Consideration of recommendation on pay rates. Consultation with organisations. SECTION
 15. Department in negotiations subject to direction of Minister of
 Finance.
 16. Consultation with association of civil servants. 17. Where no agreement reached on proposals of association. 18. Department to submit proposals to association for approval. 19. Agreement reached with Department. 20. Disputes to be referred to Special Tribunal.

@@ -1,8 +1,8 @@
 SUBSIDIARY LEGISLATION
 CIVIL SERVICE REGULATIONS
-ARRANGEMENT OF REGULATIONS
+ARRANGEMENT OF REGULATIONS REGULATION
 CHAPTER I
-PRELIMINARY REGULATION
+PRELIMINARY
 1. Citation. 2. Interpretation. 3. Copy of Regulations to officers.
 CHAPTER II
 COMPOSITION
@@ -10,13 +10,15 @@ COMPOSITION
 CHAPTER III
 PART I
 RECRUITMENT
-5. Clerical Class. 6. Clerk/Stenographer. 7. Clerk/Typist. 8. Examination fees. 9. Administrative Class.
-10. Professional and Scientific Class. 11. Technical Class. 12. Manipulative Class. 13. Age limit of candidates. 14. Employment of married women. 15. Re-employment of pensioners. 16. Age of recruitment. 17. Vacancies in the Civil Service. 18. Date of appointment. 19. Medical examination. [Subsidiary] Civil Service Regulations
+5. Clerical Class. 6. Clerk/Stenographer. 7. Clerk/Typist. 8. Examination fees. 9. Administrative Class. 10. Professional and Scientific Class. 11. Technical Class. 12. Manipulative Class. 13. Age limit of candidates. 14. Employment of married women.
+14A. Services of Permanent Secretaries or Heads of Departments to be
+extended past age of compulsory retirement.
+15. Re-employment of pensioners. 16. Age of recruitment. 17. Vacancies in the Civil Service. 18. Date of appointment. 19. Medical examination. [Subsidiary] Civil Service Regulations
 ARRANGEMENT OF REGULATIONS-Continued
 REGULATION
 PART II
 PROBATIONARY APPOINTMENT
-20. Appointment on probation. 21. Exemption from probation. 22. Probation on promotion. 23. Waiver of probation. 24. Principles to be observed during probation. 25. Confidential Reports. 26. Recommendations to Commission. 27. Confirmation of appointment. 28. Incremental date when probation extended. 29. Record to be kept. 30. No payment before approval by Commission.
+20. Appointment on probation. 21. Exemption from probation. 22. Probation on promotion. 23. Waiver of probation. 24. Principles to be observed during probation. 25. Confidential reports. 26. Recommendations to Commission. 27. Confirmation of appointment. 28. Incremental date when probation extended. 29. Record to be kept. 30. No payment before approval by Commission.
 PART III
 SECONDMENTS
 31. Secondment.
@@ -25,13 +27,13 @@ PART I
 PAYMENT, PENSIONS AND GRATUITIES
 32. Pension Laws. 33. Computation of pension-a matter of high priority.
 PART II
-CERTIFICATES OF SERVICE AND TESTIMONIALS
-34. Personal testimonials.
+CERTIFICATES OF SERVICE AND TESTIMONIALS 34. Personal testimonials.
 CHAPTER V
 PART I
 REMUNERATION
 35. Remuneration. 36. Salary on first appointment.
-[Subsidiary] Civil Service Regulations
+Civil Service Regulations [Subsidiary]
+REGULATION
 37. Salary within the range. 38. Salary to officer on secondment. 39. Payment of salary. 40. Salary on acting appointment.
 PART II
 INCREMENTS
@@ -59,7 +61,8 @@ CHAPTER IX
 PART I
 LEAVE AND LEAVE PASSAGES
 72. Annual leave. 73. Calculation of annual leave. 74. Minimum leave to be taken. 75. Deferred annual leave. 76. Casual absences from work. 77. No forfeiture of leave. 78. Accumulation of annual leave. 79. No leave earned while on leave.
-[Subsidiary] Civil Service Regulations
+Civil Service Regulations [Subsidiary]
+REGULATION
 80. Casual absence to be recorded as annual leave. 81. Casual absence may be treated as leave without pay. 82. Applications for annual leave. 83. Special leave. 84. Leave of absence in certain cases. 85. Sick leave. 86. Extensions of sick leave. 87. Sick leave abroad. 88. Maternity leave. 89. Passage grant for study abroad.
 PART II
 LEAVE AND LEAVE PASSAGES EARNED
@@ -75,7 +78,8 @@ REGULATION
 CHAPTER XI
 CODE OF CONDUCT
 134. General conduct. 135. Duties of officers.
-[Subsidiary] Civil Service Regulations
+Civil Service Regulations [Subsidiary]
+REGULATION
 136. Absence without leave. 137. Activities outside the service. 138. Officer not to publish information. 139. Officer's comment on questions of public policy. 140. Lectures/talks. 141. Indebtedness. 142. Bankruptcy. 143. Officer not to solicit intervention. 144. Gifts, rewards. 145. Exceptions. 146. Bribery. 147. Legal proceedings. 148. Officer to report criminal charge. 149. Misconduct defined.
 SCHEDULE. [Subsidiary]
 *CIVIL SERVICE REGULATIONS
@@ -103,8 +107,8 @@ Ministry or Department, not involving a change of office;
 prescribed by the appropriate authority;
 "promotion" means the appointment of an officer to an office in
 a grade carrying a higher remuneration whether such office is in the same Ministry or Department or not;
-*These Regulations were amended by the following: GNs 84/1970, 190/1971, 196/1971, 142/1972, 216/1973, 174/1976, 127/1977, 128/1977, 167/1977, 175/1978; Act No. 47 of 1980; LNs 81/1982, 144/1984; 96/1985; 217/1996 and 292/2000.
-[Subsidiary] Civil Service Regulations
+*These Regulations were amended by the following: GNs 84/1970, 190/1971, 196/1971, 142/1972, 216/1973, 174/1976, 127/1977, 128/1977, 167/1977, 175/1978; Act No. 47 of 1980; LNs 81/1982, 144/1984, 96/1985, 217/1996, 292/2000 and 139/2008.
+Civil Service Regulations [Subsidiary]
 "secondment" means the temporary movement of an officer
 holding office in the Civil Service to an office or position outside the Civil Service, and includes the temporary movement of a person from an office or position outside the Civil Service to an office within such Service; "temporary appointment" means the appointment of a person to
 a temporary office or the appointment of a person temporarily to a permanent office; "transfer" means the movement of an officer-
@@ -146,11 +150,12 @@ PART I
 RECRUITMENT
 5. (1) Entry into the Clerical Class shall normally be in the
 grade of Clerk I and candidates for appointment to such grade shall not be less than seventeen and not more than twenty-three years of age on the date of appointment, subject to the provisions of subregulation (1A).
-(1A) Whereas at 30th November, 2000, a person is
+(1A) Whereas at 30th November 2000, a person is
 holding an appointment as Clerk I in the Civil Service in a temporary capacity and has been so employed for a continuous period of two years or more on the above-mentioned date, that person is eligible when a vacancy arises for permanent appointment to such office notwithstanding subregulation (1).
-[Subsidiary] Civil Service Regulations
-(2) Candidates shall posses at least five General Certificate of Education "O" Level passes, one of which must be in English language.
-} (3)
+Civil Service Regulations [Subsidiary]
+(2) Candidates shall possess at least five General Certificate of Education "O" Level passes, one of which must be in English language.
+}
+(3)
 (Revoked by LN 292/2000).
 (4)
 (5) (a) Officers in Manipulative or Secretarial classes shall be eligible for promotion or transfer to the Clerical Class, subject to the passing of a competitive examination, including an interview, set for the purpose.
@@ -166,9 +171,8 @@ test to disclose their competence in spelling, vocabulary and grammar;
 test their ability to write shorthand at the rate of 100 words per minute and to typewrite at the rate of 50 words per minute. [Subsidiary] Civil Service Regulations
 (3) A candidate who has obtained a credit in English in
 the School Certificate or a pass in English at Ordinary Level in the General Certificate of Education, or holds some equivalent qualification in English, may be exempted from the written examination in English language but shall be required to take the written examination in General Knowledge.
-7. (1) A candidate for appointment as Clerk/Typist shall be
-not less than seventeen and not more than fifty years of age on 1st
-January of the year in which the examination is held.
+7. (1) A candidate for appointment as Clerk/Typist shall
+be not less than seventeen and not more than fifty years of age on 1st January of the year in which the examination is held.
 (2) Candidates will be required to take-
 (a) a qualifying written examination in-
 (i) English language which shall include a
@@ -182,10 +186,10 @@ the School Certificate or a pass in English at Ordinary Level in the General Cer
 fee as may be prescribed, provided that candidates who pass the examination but are required to re-sit the same on any subsequent occasion shall be exempted from payment of any fee.
 (2) Payment of the examination fee shall be made at the
 office of the Comptroller (Financial and Accounting Administration) in Port-of-Spain or at any District Revenue Office, and the official receipt for same shall be attached to the application form.
-[Subsidiary] Civil Service Regulations
+Civil Service Regulations [Subsidiary]
 9. (1) Entry into this class shall be in the grade of Administrative Cadet, which is a grade requiring three years training of Graduates between the ages of twenty-one and fifty years, with approved degrees of approved Universities. However, an Administrative Cadet may be appointed to a post of Administrative Assistant before the completion of the three years' period of training.
-(2) Upon successful completion of the training specified in subregulation (1) as evidence by reports to the Director of Personnel Administration from the Permanent Secretary or Head of Department, the Cadet shall be eligible for appointment to the next higher grade in the class, that is to say, Administrative Assistant.
-(3) Notwithstanding subregulation (1), appointments to the grade of Administrative Assistant shall be open to officers from the Clerical Class, who after the date of the coming into effect of these Regulations, held office in a grade not lower than the grade of Principal Office; and who-
+(2) Upon successful completion of the training specified in subregulation (1) as evidenced by reports to the Director of Personnel Administration from the Permanent Secretary or Head of Department, the Cadet shall be eligible for appointment to the next higher grade in the class, that is to say, Administrative Assistant.
+(3) Notwithstanding subregulation (1), appointments to the grade of Administrative Assistant shall be open to officers from the Clerical Class, who after the date of the coming into effect of these Regulations, held office in a grade not lower than the grade of Principal Officer; and who-
 (a) are suitable for appointment on grounds of merit,
 experience, character and temperament; and
 (b) have passed a written examination set for the
@@ -215,18 +219,23 @@ Manipulative Class, account shall be taken of the principles approved by the Gov
 the Civil Service, there shall be deducted from the candidate's actual age-
 (a) any period of approved whole-time national
 service; and
-[Subsidiary] Civil Service Regulations
+Civil Service Regulations [Subsidiary]
 (b) any period of continuous approved service in
 the civil capacity under the State including acting or temporary service where such service immediately precedes the date on which the examination is held, so however, that such credit shall not exceed two years.
 14. (1) Married women may be recruited on a permanent basis into the Civil Service and female officers shall not be required to resign their appointment on marriage.
 (2) A female officer who marries shall report the fact of her marriage to the Public Service Commission, through the Permanent Secretary of the Ministry or Departmental Head of the Department to which she is attached.
-15. (1) Apensioner may, with the prior approval of the Prime Minister, be re-employed in a public office on contract, if it is established to the satisfaction of the appropriate Commission-
+14A. (1) Notwithstanding any other written law, where a Permanent Secretary or Head of Department in the public service reaches the compulsory age of retirement, i.e., sixty years, his service may, in the exigencies of the service, and subject to subregulation (2), be extended beyond such retirement age.
+(2) Where the service of such Permanent Secretary or Head of Department is to be extended beyond the age of compulsory retirement, such extension shall not exceed one year but may be renewed annually for up to five years.
+(3) Subject to the provisions of the Pensions Act, where the service of a Permanent Secretary or Head of Department is extended beyond the age of compulsory retirement under this regulation, his service and pensionable emoluments shall be taken into account in computing his pension, gratuity or other allowances.
+15. (1) A pensioner may, with the prior approval of the Prime Minister, be re-employed in a public office on contract, if it is established to the satisfaction of the appropriate Commission-
 (a) that the pensioner is in possession of essential
 experience or technical qualification which makes him particularly useful to the specific
 Ministry or Department; and
+[Subsidiary] Civil Service Regulations
 (b) that it is not possible to fill the particular post
 by the promotion of a suitable officer or by a new appointment.
-(2) Where the re-employment of a pensioner is contemplated, the Director of Personnel Administration shall, before making any recommendations thereof to the Public Service Commission, report the matter to the Chief Personnel Officer who shall consult with the appropriate recognised association, so however, that in a case where there is disagreement between the Chief Personnel Officer and the appropriate recognised association, a dispute shall be deemed to exist and the provisions of sections 18 and 20 of the Civil Service Act, shall apply. [Subsidiary] Civil Service Regulations
+(2) Where the re-employment of a pensioner is
+contemplated, the Director of Personnel Administration shall, before making any recommendations thereof to the Public Service Commission, report the matter to the Chief Personnel Officer who shall consult with the appropriate recognised association, so however, that in a case where there is disagreement between the Chief Personnel Officer and the appropriate recognised association, a dispute shall be deemed to exist and the provisions of sections 18 and 20 of the Civil Service Act, shall apply.
 (3) In subregulations (1) and (2) the expression "re-
 employment of pensioner" means-
 (a) the appointment of a person who has retired
@@ -239,21 +248,22 @@ the age of sixty years other than a person described in paragraph (a) or (b).
 officer who has retired on grounds of ill-health may in the discretion of the appropriate Commission be re-employed in the Civil Service if he is certified to be fit for duty by a Medical
 Board and has not attained the age of sixty years.
 16. (1) The minimum age of recruitment of officers shall
-be seventeen years, and, except where otherwise specified, the maximum age of recruitment or re-employment of officers shall be fifty years. However, a person who has attained the age of fifty years and who has previous service, whether pensionable or non-pensionable which under section 10(2) of the Pensions Act may be deemed to count for pension purposes may, notwithstanding his age, be recruited to or re-employed in the Civil Service if upon attaining the age of compulsory retirement he would qualify, in terms of length of service, for a pension.
-(2) Notwithstanding subregulation (1), but subject to
-subregulation (3), persons over the age of fifty years may be recruited on contract for specialised work.
-(3) Except as provided by regulation 15, a person who
-has attained the age of sixty years shall not be recruited to the Civil Service.
-[Subsidiary] Civil Service Regulations
+be seventeen years, and, except where otherwise specified, the maximum age of recruitment or re-employment of officers shall be fifty years. However, a person who has attained the age of fifty years and who has previous service, whether pensionable or non-pensionable which under section 10(2) of the Pensions Act may be deemed to count for pension purposes
+Civil Service Regulations [Subsidiary]
+may, notwithstanding his age, be recruited to or re-employed in the Civil Service if upon attaining the age of compulsory retirement he would qualify, in terms of length of service, for a pension.
+(2) Notwithstanding subregulation (1), but subject to subregulation (3), persons over the age of fifty years may be recruited on contract for specialised work.
+(3) Except as provided by regulation 15, a person who has attained the age of sixty years shall not be recruited to the Civil Service.
 (4) The age limit for entry into the grade of Postman I shall be not less than eighteen years nor more than thirty-five years.
 17. (1) Subject to subregulations (2) and (3), all vacancies for appointment to the Civil Service shall be filled by recruitment of citizens of Trinidad and Tobago.
 (2) Notwithstanding subregulation (1), a vacancy in a public office in the Civil Service may with the approval of the Prime Minister be filled by the recruitment of a person who is not a citizen of Trinidad and Tobago, if the appropriate Commission fails to find a citizen of Trinidad and Tobago who is suitable to fill the vacancy.
 (3) The carrying into effect of this regulation shall not affect the rights of the holders of public offices in the Public Service that by the Act are made public offices in the Civil Service to be considered for promotion or transfer within the Civil Service.
 18. (1) The effective date of an officer's appointment shall normally be the date on which he assumes duties of his office as a permanently appointed officer.
 (2) If an officer is selected for appointment from outside Trinidad and Tobago, the date of appointment shall be the date of embarkation for Trinidad and Tobago.
-(3) In this regulation, "appointment" includes "appointment on probation" but does not include an acting appointment.
-19. (1) A candidate selected for appointment shall undergo a medical examination by a Government Medical Officer and shall not be confirmed unless and until he has been passed as medically fit.
-(2) Where an officer is recruited from outside Trinidad and Tobago, he shall undergo and pass a medical examination conducted by a medical practitioner approved by the Minister before he leaves the country from which he is recruited. [Subsidiary] Civil Service Regulations
+(3) In this regulation, "appointment" includes "appointment on probation" but does not include an acting appointment. [Subsidiary] Civil Service Regulations
+19. (1) A candidate selected for appointment shall undergo
+a medical examination by a Government Medical Officer and shall not be confirmed unless and until he has been passed as medically fit.
+(2) Where an officer is recruited from outside Trinidad
+and Tobago, he shall undergo and pass a medical examination conducted by a medical practitioner approved by the Minister before he leaves the country from which he is recruited.
 PART II
 PROBATIONARY APPOINTMENT
 20. Except as otherwise provided in this Chapter, an officer
@@ -268,12 +278,9 @@ office in which he has not acted satisfactorily, the appropriate Commission shal
 on promotion to an office shall be required to serve on probation for one year in the office to which he is promoted.
 (2) Subject to subregulation (3), where within two years
 immediately preceding his promotion an officer has served in an acting appointment in the office to which he is promoted, the period of probation shall be abated by the extent of the aggregate of service in such acting appointment unless the Commission otherwise directs.
-(3) In calculating the aggregate of service in an acting
-appointment for the purpose of subregulation (2), only continuous service of three months or more shall count.
-(4) Where an officer is transferred from one Ministry or
-Department to another, the Permanent Secretary or Head of
-[Subsidiary] Civil Service Regulations
-Department shall take immediate steps to ensure the release of such officer to assume duties in his new office on the date fixed by the appropriate Commission.
+Civil Service Regulations [Subsidiary]
+(3) In calculating the aggregate of service in an acting appointment for the purpose of subregulation (2), only continuous service of three months or more shall count.
+(4) Where an officer is transferred from one Ministry or Department to another, the Permanent Secretary or Head of Department shall take immediate steps to ensure the release of such officer to assume duties in his new office on the date fixed by the appropriate Commission.
 (5) Where an officer is promoted and transferred from one Ministry or Department to another and the exigencies of the service preclude his assumption of duties in his new office on the date fixed by the appropriate Commission, the period of probation shall be deemed to commence from such date.
 23. Where an officer is promoted before he has completed the full period of probation in the lower office, the unserved portion of that period of probation shall be deemed to be waived and the officer deemed to be confirmed in that appointment.
 24. The following principles shall be observed for the treatment of an officer during his period of probation:
@@ -286,7 +293,8 @@ supervision;
 (d) so far as the exigencies of the service permit, he
 shall be assigned to duty only where such observation is possible; and
 (e) if at any time during his period of probation
-he shall exhibit tendencies which render it in any way doubtful that he is likely to become fit for confirmation in his appointment, these shall at once be drawn to his attention in writing by the Permanent Secretary or Head of Department and he shall be given such assistance as may be possible to enable him to correct his faults. [Subsidiary] Civil Service Regulations
+he shall exhibit tendencies which render it in any way doubtful that he is likely to become fit for confirmation in his appointment, these shall at once be drawn to his attention in [Subsidiary] Civil Service Regulations
+writing by the Permanent Secretary or Head of Department and he shall be given such assistance as may be possible to enable him to correct his faults.
 25. (1) In the case of an officer serving a two-year period of
 probation, the Permanent Secretary or Head of Department shall submit to the Director three confidential reports as follows:
 (a) a first report after the officer has completed one
@@ -310,8 +318,9 @@ or Head of Department shall make a firm recommendation-
 (c) that the services of the officer be terminated; or
 (d) that the officer revert to his former office.
 (5) A report of the Permanent Secretary or Head of
-Department under this regulation shall not be seen by the officer on probation, but any adverse comments on his work shall be in specific terms; the officer shall be notified in writing in duplicate as early as possible, so that he should have sufficient time in which to make an effort to correct his shortcomings before his period of probation expires. The officer shall retain the original notification and shall sign the duplicate and return it to the Permanent Secretary or Head of Department for the period.
-[Subsidiary] Civil Service Regulations
+Department under this regulation shall not be seen by the officer on probation, but any adverse comments on his work shall be in specific terms; the officer shall be notified in writing in duplicate as early as possible, so that he should have sufficient time in which to make an effort to correct his shortcomings before his
+Civil Service Regulations [Subsidiary]
+period of probation expires. The officer shall retain the original notification and shall sign the duplicate and return it to the Permanent Secretary or Head of Department for the period.
 26. (1) Before any recommendation is made to the appropriate Commission for the extension of the period of probation of an officer or for the termination of his appointment, the Permanent Secretary or Head of Department shall inform the officer of this recommendation and of the specific reasons therefor and he shall invite the officer to submit any representation he may wish to make.
 (2) Subject to these Regulations, the first appointment on probation of an officer may, at any time during the period of probation, be terminated by the Commission.
 27. (1) If, after consideration of the final report of the Permanent Secretary or Head of Department, the appropriate Commission is satisfied that the service of an officer on probation has been satisfactory, the Commission shall confirm his appointment with effect from the date of appointment.
@@ -321,14 +330,16 @@ Department under this regulation shall not be seen by the officer on probation, 
 which the extended period of probation expired without change in the incremental date; or
 (b) with effect from the date following that on
 which the extended period of probation expired which would then become his incremental date.
-29. A Permanent Secretary or Head of Department shall keep a record of every officer who has been appointed on probation to an office in his Ministry or Department.
-30. The Permanent Secretary or Head of Department shall ensure that no payment shall be made out of public funds in respect of any matter requiring the approval of the appropriate Commission until such approval has been obtained. [Subsidiary] Civil Service Regulations
+29. A Permanent Secretary or Head of Department shall keep a record of every officer who has been appointed on probation to an office in his Ministry or Department. [Subsidiary] Civil Service Regulations
+30. The Permanent Secretary or Head of Department shall
+ensure that no payment shall be made out of public funds in respect of any matter requiring the approval of the appropriate
+Commission until such approval has been obtained.
 PART III
 SECONDMENTS
 31. (1) An officer on secondment shall draw the full pay of
 the post to which he is seconded and shall be eligible for increments, if any, normally payable in such a post. However, where an officer is seconded from an office in the Civil Service to an office or post outside the Civil Service, increments shall be paid in accordance with the rule or regulations made in that behalf by the receiving Government, Administration or Organisation.
-(2) The pay of an officer on secondment shall be paid by
-the receiving Ministry or Department, Government, Administration or Organisation.
+(2) The pay of an officer on secondment shall be paid
+by the receiving Ministry or Department, Government, Administration or Organisation.
 (3) During the period of secondment, the officer shall be
 deemed to remain on the establishment of his Ministry or Department, and shall be eligible for promotion in absentia.
 (4) The service of an officer while on secondment shall
@@ -342,10 +353,8 @@ PAYMENT, PENSIONS AND GRATUITIES
 the provisions of the Pensions Laws in force for the time being.
 33. (1) The computation and authorisation of pensions and
 gratuities of persons whose retirement from the Civil Service is known to be impending shall be treated as urgent matters of high priority.
-(2) Permanent Secretaries and Heads of Departments
-shall ensure that particulars of service and pay of all officers
-[Subsidiary] Civil Service Regulations
-whose retirement is known to be imminent are furnished accurately to the Comptroller (Financial and Accounting Administration) not less than three calendar months before the date on which the officers concerned are due to retire, in order to enable the computation and checking of pensions, retiring allowances and gratuities to be completed by the Comptroller and the Auditor General and submitted for authorisation before the date on which the officer's retirement from the Service is due to take effect.
+Civil Service Regulations [Subsidiary]
+(2) Permanent Secretaries and Heads of Departments shall ensure that particulars of service and pay of all officers whose retirement is known to be imminent are furnished accurately to the Comptroller (Financial and Accounting Administration) not less than three calendar months before the date on which the officers concerned are due to retire, in order to enable the computation and checking of pensions, retiring allowances and gratuities to be completed by the Comptroller and the Auditor General and submitted for authorisation before the date on which the officer's retirement from the Service is due to take effect.
 (3) The Comptroller (Financial and Accounting Administration) shall keep separate records with respect to each officer in the Civil Service, showing the various offices held by each officer and the pay drawn by him while in the Civil Service.
 PART II
 CERTIFICATES OF SERVICE AND TESTIMONIALS
@@ -371,7 +380,7 @@ Commission may authorise the payment of any commencing salary within the range i
 conform with the rates and conditions for payment of salary applicable to the office to which the officer is seconded. An officer who has completed a period of secondment shall normally revert to the point in the salary range of his substantive office which he would have reached if he had not been seconded.
 39. (1) Salary shall be paid on the day previous to the last
 full business day of the month. When, however, the last business day falls on a Saturday or a Monday, payment of salary shall be made on the preceding Thursday or Friday respectively.
-[Subsidiary] Civil Service Regulations
+Civil Service Regulations [Subsidiary]
 (2) The Permanent Secretary in the Ministry of Finance, may vary the date of payment of salary to an earlier date, whenever it appears to him expedient to do so.
 (3) An officer who is proceeding on leave may receive his salary before the normal pay day for the whole month in which he proceeds on leave, provided the period of leave extends beyond the end of the particular month.
 40. (1) An officer appointed to act in a post in a salary range which is higher than that of his substantive post shall, with effect from the date of the commencement of his acting appointment, receive salary as follows:
@@ -397,7 +406,7 @@ another office carrying the same salary range shall retain the incremental date 
 regulation 45 below should be the anniversary of his acting appointment where this is more advantageous to him than the preceding provisions.
 (4) Permanent Secretaries or Heads of Departments shall
 sign incremental certificates on the prescribed form, effective from the dates when the officer's increments become due, and shall attach the said certificates to the paysheets for the months in which the increments accrue.
-[Subsidiary] Civil Service Regulations
+Civil Service Regulations [Subsidiary]
 43. (1) Subject to subregulation (2), an officer appointed or promoted to an office on probation, shall, where the office carries a salary range, be paid annual increments during his period of probation.
 (2) Increments shall be earned only if the officer's work and conduct for the preceding year have been satisfactory and the Permanent Secretary or Head of Department signs the necessary increment certificate.
 44. In cases of promotion-
@@ -421,7 +430,7 @@ increments in the higher office but shall continue to draw increments in his sub
 substantive office, and the office in which he is acting is on a salary range, such an officer shall receive an increment in the higher scale on the anniversary date of his acting appointment;
 (b) where he has reached the maximum salary of his
 substantive office which maximum may be equal to or greater than the minimum, but less than the maximum of the higher office, he shall receive an increment in the higher scale as in paragraph (a).
-[Subsidiary] Civil Service Regulations
+Civil Service Regulations [Subsidiary]
 (2) The grant of increments under subregulation (1)(a) and (b) shall be subject-
 (a) to the officer acting continuously for a period of
 twelve months in the higher office;
@@ -456,7 +465,7 @@ PART I
 SEPARATION ALLOWANCES
 52. (1) An officer shall be considered to be "separated" if
 as a result of promotion, posting or transfer he is compelled to take up residence in another district without being able to take
-[Subsidiary] Civil Service Regulations
+Civil Service Regulations [Subsidiary]
 with him the family for which he is responsible, with the result that he is required to maintain two establishments because-
 (a) suitable accommodation cannot be immediately
 found in the new district;
@@ -497,7 +506,7 @@ and from the place of business;
 reasonable taxi hire);
 (d) official telephone and telegram charges, and
 such other expenses which may be incurred in connection with the transaction of the official business; and
-[Subsidiary] Civil Service Regulations
+Civil Service Regulations [Subsidiary]
 (e) a subsistence allowance at approved rates to
 cover out-of-pocket expenses.
 57. The Permanent Secretary in the Ministry of Finance shall issue appropriate instructions which will determine by what type or class of accommodation an officer shall travel.
@@ -525,7 +534,7 @@ by Permanent Secretaries or Heads of Departments to meet Ministerial or Departme
 have the discretion to require the attendance of staff on such days and for such hours as they consider it necessary for the efficient conduct of public business.
 64. Officers shall not leave their offices during working
 hours without the permission of the Permanent Secretary or Head of Department or other appropriate senior officer.
-[Subsidiary] Civil Service Regulations
+Civil Service Regulations [Subsidiary]
 65. (1) Officers shall be regular and punctual in their attendance. In each Government Office an Attendance Register shall be kept in which each officer shall record daily the hour of his arrival at and departure from the office and sign the entry.
 (2) The Attendance Register shall be examined at least once a month by a designated senior officer, and officers shall be warned in writing of cases of late coming or irregular attendance. Working of hours less than the minimum laid down or irregular attendance may form the basis of disciplinary charges.
 (3) Officers who hold offices set out in the Second Schedule to the Act shall not be required to record the time of their departure and arrival in the Attendance Register.
@@ -559,7 +568,7 @@ Officers in receipt of a salary equal to or greater than that of the maximum of
 35 days Range 24 28 days
 Officers in receipt of a salary less than
 28 days that of the maximum of Range 24 21 days
-[Subsidiary] Civil Service Regulations
+Civil Service Regulations [Subsidiary]
 (2) In computing length of service for the purposes of subregulation (1), "service" shall include "other public service" and "service in the group" as defined in section 2 of the Pensions Act.
 *73. In calculating annual leave, Saturdays, Sundays and public holidays shall not be counted.
 74. An officer shall not take less than-
@@ -597,7 +606,7 @@ Permanent Secretary or Head of Department may be treated as leave without pay.
 addressed to the Permanent Secretary or Head of Department.
 83. (1) Special leave may be granted to an officer to permit
 him to participate in a national or international sporting event or a social or educational convention.
-[Subsidiary] Civil Service Regulations
+Civil Service Regulations [Subsidiary]
 (2) An officer selected to represent Trinidad and Tobago abroad at a sporting event or at a social or educational convention will be granted the leave for which he is eligible, plus additional leave with full pay, to enable him to complete his engagement. The amount of additional leave so granted will be regarded as an advance on the officer's future leave eligibility; but the amount of leave to be so mortgaged shall not exceed half of the maximum amount of leave for which he will be eligible in the following year.
 84. (1) An officer who is given employment with an appropriate recognised association may be given leave of absence up to three (3) years without pay from the Civil Service.
 (2) The period of employment of such officer with such association shall not be taken into account for the purpose of calculating pension, provided that if the association agrees to pay the appropriate pension contribution in respect of such officer, then the period of employment with the association shall be taken into account.
@@ -613,13 +622,13 @@ practicable, be made well in advance of the commencement of such leave.
 a year provided that he tenders a Medical Certificate written under the hand of a registered Medical Practitioner.
 (2) An officer who is away from duty, due to illness, for
 a period not exceeding two days shall not normally be required to tender a Medical Certificate, but any leave taken under this provision shall count in calculating the total sick leave for the year. The Permanent Secretary may require an officer who habitually takes advantage of this concession to present himself to a Government Medical Officer for a Medical Examination.
-86. (1) Extensions of sick leave on full-pay may be
+86. (1) Extensions of sick leave on full pay may be
 granted by the Chief Personnel Officer provided the leave is supported by a medical certificate from an approved registered medical practitioner.
 (2) Sick leave or extension of sick leave on full-pay
 under this regulation may be granted by a High Commissioner or other duly appointed Representative of Trinidad and Tobago abroad, as the case may be.
 (3) An officer who is certified by a Medical Board to be
-suffering from pulmonary tuberculosis or leprosy and to be unfit for duty may be granted sick leave on full-pay for a period of six months in the first instance, followed by a further extension of six months sick leave on full-pay if still unfit for duty at the expiration of the first six months. Thereafter, if the officer is certified as still unfit for duty, he may be granted the annual leave, if any, for which he is eligible. If, at the expiration of the above period of sick and annual leave, a Medical Board recommends the grant of further
-[Subsidiary] Civil Service Regulations
+suffering from pulmonary tuberculosis or leprosy and to be unfit for duty may be granted sick leave on full pay for a period of six months in the first instance, followed by a further extension of six months sick leave on full pay if still unfit for duty at the expiration of the first six months. Thereafter, if the officer is certified as still unfit for duty, he may be granted the annual leave, if any, for which he is eligible. If, at the expiration of the above period of sick and annual leave, a Medical Board recommends the grant of further
+Civil Service Regulations [Subsidiary]
 leave to such officer, the Chief Personnel Officer shall decide, on the merits of each individual case, whether such leave shall be granted, and if so, whether on full pay, half pay or without pay. The grant of leave under this regulation is subject to an examination of the officer by a Medical Board at quarterly intervals, or more frequently if necessary.
 87. An officer who desires to leave Trinidad and Tobago during a period of sick leave shall obtain the prior approval of the Chief Personnel Officer.
 88. (1) Maternity leave consisting of leave with full pay for one month followed by leave with half pay for two months shall be granted to female officers on the following conditions:
@@ -650,7 +659,7 @@ appointed or appointed to act has come to an end;
 (d) misconduct.
 89. (1) An officer who is undertaking an approved course of
 study and attachment abroad during his annual leave accumulated
-[Subsidiary] Civil Service Regulations
+Civil Service Regulations [Subsidiary]
 under regulation 78(1) shall be granted a passage grant for himself and may be granted passage grant for his dependants in accordance with rules prescribed by the Minister of Finance.
 (2) Passage grants shall be available for approved courses of study and attachments abroad for all countries approved by the Cabinet.
 (3) Whenever possible, an officer shall be required to travel by the National Carrier.
@@ -664,10 +673,10 @@ THE 1956 AND 1960 REGULATIONS
 91. An officer who at 31st December 1966, had not completed a tour for passage shall be entitled to a proportionate part of the long leave and passage grant in respect of the completed part of his tour.
 92. An officer who at 31st December 1966, had not completed a year's service for the purpose of annual leave shall be entitled to a proportionate part of annual leave in respect of the completed part of the year.
 93. The utilisation of long leave with passage grants including proportionate long leave with passages is conditional on the officer spending at least one-half (1/2) of his long leave eligibility outside of the country.
-94. All leave due under the Leave and Leave Passage Regulations 1960, shall as far as practicable, be taken at one and [Subsidiary] Civil Service Regulations
-the same time. Where, however, it is in the interest of the Service, such leave may be taken in part.
-95. Long leave under the Leave and Leave Passage
-Regulations 1960, includes annual leave in respect of the final year of the tour. Therefore, before calculating the proportionate part of long leave the annual leave for the final year shall be deducted. Where an officer has entered the final year of his tour, he should also be granted a proportion of the annual leave in respect of that year.
+94. All leave due under the Leave and Leave Passage Regulations 1960, shall as far as practicable, be taken at one [Subsidiary] Civil Service Regulations
+and the same time. Where, however, it is in the interest of the Service, such leave may be taken in part.
+95. Long leave under the Leave and Leave Passage Regulations
+1960, includes annual leave in respect of the final year of the tour. Therefore, before calculating the proportionate part of long leave the annual leave for the final year shall be deducted. Where an officer has entered the final year of his tour, he should also be granted a proportion of the annual leave in respect of that year.
 96. An officer who subsequent to 1st January 1963, had
 proceeded on leave under the Leave and Leave Passage Regulations 1956, shall, unless he had been granted at that time a proportionate part of long leave under the Leave and Leave Passage Regulations 1960, have his tour for the purpose of long leave and passage grant under the Leave and Leave Passage Regulations 1960, counted from 1st January 1963, but the period of leave under the Leave and Leave Passage Regulations 1956, shall not be taken into account for the purpose of leave or leave passages under the Leave and Leave Passage Regulations 1960.
 97. Leave earned under the Leave and Leave Passage
@@ -679,7 +688,7 @@ and shall be allocated to officers who are by these Regulations eligible for the
 99. Quarters shall be provided for-
 (a) officers recruited from overseas and officers
 provided under technical assistance by other countries; and
-[Subsidiary] Civil Service Regulations
+Civil Service Regulations [Subsidiary]
 (b) officers who are required to reside in or near their
 districts or within easy call of the institutions or establishments to which they are assigned for duty.
 100. Where an officer is required to reside in any outlying district, it shall be the duty of the Minister of Finance to ensure that the officer does reside in the residence provided for him.
@@ -713,12 +722,12 @@ allowance for travelling between his residence and his station;
 (j) technical or other qualification of the applicant;
 (k) reason for requesting quarters.
 107. A Permanent Secretary or Head of Department shall
-inform the Permanent Secretary, Ministry of Finance or the Permanent Secretary, Ministry for Tobago Affairs, well in advance,whenever any quarters will be vacated by an officer and at the same time submit any proposals they may wish for having the quarters immediately occupied.
+inform the Permanent Secretary, Ministry of Finance or the Permanent Secretary, Ministry for Tobago Affairs, well in advance, whenever any quarters will be vacated by an officer and at the same time submit any proposals they may wish for having the quarters immediately occupied.
 108. The Permanent Secretary, Ministry for Tobago Affairs
 shall submit to the Permanent Secretary, Ministry of Finance each month a statement showing the allocations made and the vacations and occupations of all Government quarters in Tobago.
 109. The Permanent Secretary or Head of Department shall
 notify the Permanent Secretary, Ministry for Tobago Affairs as
-[Subsidiary] Civil Service Regulations
+Civil Service Regulations [Subsidiary]
 soon as they know that quarters will be needed for an officer transferred or about to be transferred to Tobago so that the Permanent Secretary, Ministry for Tobago Affairs may make arrangements in good time for accommodating the officer.
 110. In respect of departmental or institutional quarters, the Permanent Secretary or Head of Department shall obtain in advance the approval of the Minister of Finance if it is proposed to place in such quarters an officer other than the officer for whom the quarters in question are provided. If, however, the appropriate officer is to occupy the quarters, the Permanent Secretary controlling such quarters may authorise the occupation and inform the Ministry of Finance of his action.
 111. If institutional or departmental quarters are expected to remain vacant for a long period, the Permanent Secretary or Head of Department shall report this to the Permanent Secretary, Ministry of Finance.
@@ -726,8 +735,8 @@ soon as they know that quarters will be needed for an officer transferred or abo
 113. In the case of an officer who resides in Government quarters and is temporarily posted to a new district where Government quarters are also provided, the officer may occupy the new quarters in which event he shall pay the appropriate rental. If the Minister of Finance is satisfied that undue hardship will be caused by the officer having to remove his family to the new quarters, the officer shall be permitted to continue in occupation of the former quarters and shall not be required to pay rent for the new quarters.
 114. (1) Where an officer who has been occupying Government quarters departs from Trinidad and Tobago on leave, he may-
 (a) surrender the quarters to his Permanent
-Secretary or Head of Department for disposal by [Subsidiary] Civil Service Regulations
-the Minister of Finance subject to the preservation of his right to reoccupy such quarters on his return to Trinidad and Tobago; or
+Secretary or Head of Department for disposal by the [Subsidiary] Civil Service Regulations
+Minister of Finance subject to the preservation of his right to reoccupy such quarters on his return to Trinidad and Tobago; or
 (b) retain possession of the quarters for the use of his
 family and continue to pay the appropriate rental therefor during the period of his stay abroad.
 (2) Every such officer shall notify the Permanent
@@ -738,7 +747,7 @@ regulation 114(1) may be allowed when proceeding on annual leave to retain one r
 permission to retain a room will be refused and the officer will have to make other arrangements for the storage of his personal effects during his leave. In such case, Government will meet the payment of the cost of truckage for removal. An officer who is permitted to utilise a room for the above-mentioned purpose shall be required to pay rent for the portion of the quarters retained by him in the manner set out in regulation 104. In applying for approval the floor area of the room in question in relation to the other room must be specified.
 116. In the case of an officer who dies while officially
 occupying quarters with his family, the Minister of Finance may permit the family to remain in occupation of the quarters for a period not exceeding three (3) months and paying rent at the rate previously paid by the officer.
-[Subsidiary] Civil Service Regulations
+Civil Service Regulations [Subsidiary]
 117. As soon as possible after an allocation of quarters is made by the appropriate authority, the Permanent Secretary or Head of Department or the Permanent Secretary for Tobago Affairs shall ensure that the officers in the respective Ministries or Departments who are allocated quarters report the date of vacation or occupation of quarters to the following:
 Permanent Secretary in the Ministry of Finance;
 Permanent Secretary in the Ministry of Works;
@@ -764,7 +773,7 @@ required by regulation 123, he shall be liable for the rent payable for the mont
 example, occupying quarters while the permanent occupier is on accumulated annual leave, shall be given at least seven days' notice in advance to vacate such quarters if required for a permanent allocation. If he fails to vacate within seven days from the date of notification, he shall be liable to a penalty equal to the amount of the house allowance payable to or the alternative accommodation expenses incurred by the officer to whom the quarters are allocated not exceeding the rental value per month. This penalty shall be in addition to the rent of the quarters which the officer is temporarily occupying.
 126. The rental of electrical appliances and equipment
 installed in quarters shall be at the rate of 10 per cent a year of their value and in the case of heavy furniture at the rate of 5 per cent a year of its value.
-[Subsidiary] Civil Service Regulations
+Civil Service Regulations [Subsidiary]
 127. Officers who occupy quarters shall be required to keep such quarters and the curtilage thereof in a clean, tidy and sanitary condition at their own expense. Before vacating such quarters, officers shall ensure that the quarters are in a clean and sanitary condition.
 128. No allowance shall be granted when Government quarters are under repairs unless the officer is required to vacate the premises or in exceptional circumstances. In the latter event the officer affected must make representation immediately upon receiving notice that repairs are to be undertaken.
 129. Occupiers of quarters shall neither make structural alterations nor install electrical fittings or lighting equipment except through the medium of the Works Division of the Ministry of Works. This regulation shall apply also to any addition, alteration or modification of an existing installation, whether of the self-contained or any other type.
@@ -792,7 +801,7 @@ involved in any financial or other interest or undertaking which could compromis
 (2) Where an actual or potential compromise arises, the
 officer shall inform the Permanent Secretary or Head of Department.
 *Chapter XI, comprising regulations 134 to 149 was inserted by LN 217/1996.
-[Subsidiary] Civil Service Regulations
+Civil Service Regulations [Subsidiary]
 (3) The Permanent Secretary or Head of Department shall determine the nature and degree of compromise, decide upon an appropriate course to resolve it which may include assigning the officer to other duties, and advise the officer accordingly.
 (4) An officer who is aggrieved by a decision made under subregulation (3) may appeal to the Chief Personnel Officer who shall review that decision.
 (5) Where the officer is aggrieved by the outcome of the review of the Chief Personnel Officer, the matter may be pursued on his behalf by the appropriate recognised association as a grievance to be dealt with under Part III of the Act.
@@ -806,9 +815,9 @@ knowledgeable in a particular subject, whether or not he has specialised in the 
 (3) Where the subject matter of the lecture or talk
 referred to in subregulation (2) is related to the work of his department or if the officer is to be announced by his departmental title, the prior authority of the Permanent Secretary or Head of Department is required to ensure that-
 (a) there is nothing in the lecture or talk contrary to
-the pubic interest or inconsistent with the status of the officer; and
-(b) the standing of the officer is sufficient to justify
-the delivery of the lecture under his departmental title.
+the public interest or inconsistent with the status of the officer; and
+(b) the standing of the officer is sufficient to
+justify the delivery of the lecture under his departmental title.
 (4) In respect of a lecture or talk given by an officer in
 accordance with subregulations (2) and (3) the officer shall make his own private arrangements for remuneration and in every case such lecture or talk shall be prepared and delivered outside of official hours.
 141. An officer shall not incur indebtedness to the extent that
@@ -819,7 +828,7 @@ been taken or who becomes insolvent or who has been declared a bankrupt shall wi
 of members of Parliament, Ministers, members of a Commission, or prominent members of the community to support or advance his individual claims in the Service.
 144. Except with the permission of the Permanent Secretary or
 Head of Department, an officer shall not accept any gift or reward from any member of the public or from any organisation for services rendered in the course of performing official duties.
-[Subsidiary] Civil Service Regulations
+Civil Service Regulations [Subsidiary]
 145. Notwithstanding regulation 144, an officer may accept a present offered by-
 (a) a representative of a foreign government on the
 occasion of an official visit to that country;
@@ -862,128 +871,138 @@ Secretary or Head of Department, any property or facilities provided for the pur
 (k) participates in the meetings of any political
 organisation while on duty, while on official business or while wearing official uniform,
 commits an act of misconduct.
-Civil Service Regulations
-SCHEDULE
+Civil Service Regulations [Subsidiary]
+SCHEDULE Regulation 4.
 PART I
 ADMINISTRATIVE CLASS
-Office Office
-Commissioner for Co-operative Assistant Secretary to President Development Second Assistant Clerk of the House Chief Trade Officer
-Administrative Officer IV Principal Officer and Second Deputy Hospital Manager III
-Public Relations Officer Government Printer Friendly Societies Officer II Deputy Postmaster General Manager, Adult Education Centre Deputy Registrar and Marshal Assistant Clerk of the House Supervisor of Elections Hospital Supplies Officer Assistant Director of Contracts Administrative Assistant Deputy Conservator of Forests District Welfare and Development Transport Commissioner
-Director, Organisation and Methods Director, Classification and
-Compensation Radio Communication Assistant Chief Technical Officer (Agriculture) Administrative Officer I Technical Officer (Development
-Control) Chief Co-operative Officer Technical Officer (Planning Second Deputy Registrar General Co-ordination) Third Deputy Registrar General Technical Officer (Development Plan) Administrative Officer II Assistant Commissioner of Inland
-Revenue Chief Community Development Officer Chief Establishment and Training Officer Chief Public Assistance Officer Director of Social and Community Chief Probation Officer Development Chief Supplies Officer Budget Supervisor Secretary to President Assistant Comptroller of Customs and Private Secretary to President Excise Assistant Government Printer Assistant Comptroller (Financial and Assistant Transport Commissioner Accounting Administration)
-Supervisor, Cost Accounting Assistant Chief Immigration Officer Assistant Director of Food and Drugs Deputy Commissioner for Co-operative Registrar General
-Registrar and Marshal Assistant Supervisor of Elections Chief Immigration Officer Administrative Officer III Works Comptroller Deputy Registrar General Postmaster General
-Civil Service Regulations
-ADMINISTRATIVE CLASS-Continued Office Office Assistant Registrar and Deputy Marshal Director of Contracts Clerk of the House Director of Civil Aviation Assistant Director of Social Welfare Commissioner of Labour Assistant Director of Community Director of Personnel Administration
-Development Director, Estimates and Cost Accounting Assistant Director of Civil Aviation Permanent Secretary Harbour Master and Superintendent of Chief Personnel Officer
-Lighthouses Comptroller (Financial and Accounting Director of Radio Communication Administration)
-Service Commissioner of Inland Revenue Deputy Commissioner of Labour Director, Finance and Economics
+Office Office Administrative Cadet Commissioner for Co-operative Assistant Secretary to President Development Second Assistant Clerk of the House Chief Trade Officer Hospital Manager I Administrative Officer IV Principal Officer and Second Deputy Hospital Manager III
+Marshal Public Relations Officer Supervisor (Electoral) Government Printer Friendly Societies Officer II Deputy Postmaster General Manager, Adult Education Centre Deputy Registrar and Marshal Assistant Clerk of the House Supervisor of Elections Hospital Supplies Officer Assistant Director of Contracts Administrative Assistant Deputy Conservator of Forests District Welfare and Development Transport Commissioner
+Supervisor Director, Organisation and Methods Chief Storekeeper Director, Classification and Hansard Editor Compensation Radio Communication Assistant Chief Technical Officer (Agriculture) Administrative Officer I Technical Officer (Development Clerk of the Peace III Control) Chief Co-operative Officer Technical Officer (Planning Second Deputy Registrar General Co-ordination) Third Deputy Registrar General Technical Officer (Development Plan) Administrative Officer II Assistant Commissioner of Inland Hospital Manager II Revenue Chief Community Development Officer Chief Establishment and Training Officer Chief Public Assistance Officer Director of Social and Community Chief Probation Officer Development Chief Supplies Officer Budget Supervisor Secretary to President Assistant Comptroller of Customs and Private Secretary to President Excise Assistant Government Printer Assistant Comptroller (Financial and Assistant Transport Commissioner Accounting Administration) Clerk of the Senate Supervisor, Cost Accounting Assistant Chief Immigration Officer Assistant Director of Food and Drugs Deputy Commissioner for Co-operative Registrar General
+Development Registrar and Marshal Assistant Supervisor of Elections Chief Immigration Officer Administrative Officer III Works Comptroller Deputy Registrar General Postmaster General [Subsidiary] Civil Service Regulations
+ADMINISTRATIVE CLASS-Continued Office Office
+Assistant Registrar and Deputy Marshal Director of Contracts Clerk of the House Director of Civil Aviation Assistant Director of Social Welfare Commissioner of Labour Assistant Director of Community Director of Personnel Administration
+Development Director, Estimates and Cost Accounting
+Assistant Director of Civil Aviation Permanent Secretary Harbour Master and Superintendent of Chief Personnel Officer
+Lighthouses Comptroller (Financial and Accounting
+Director of Radio Communication Administration)
+Service Commissioner of Inland Revenue
+Deputy Commissioner of Labour Director, Finance and Economics
 PART II
 PROFESSIONAL AND SCIENTIFIC CLASS
-Office Office Legal Cadet Chief Nutritionist Medical Intern Agricultural Economist Cost Accountant Zoologist Architect Livestock Officer Statistician Agricultural Engineer Chemist Plant Pathologist Biochemist Agronomist Economist Agricultural Entomologist Accountant Soil Chemist Auditor Analytical Chemist Assistant Conservator of Forests Soil Survey Officer Electrical Engineer Biochemist III Mechanical Engineer Botanist Civil Engineer Entomologist Quantity Surveyor I Microbiologist Legal Assistant Drainage Engineer (Planning) Agricultural Officer Accounting Executive I Land Surveyor Solicitor II Town Planner Treasury Solicitor Weather Forecaster Agricultural Economist II Valuer III Senior Magistrate State Counsel Pathologist Magistrate Registrar Parliamentary Counsel I Public Health Medical Officer Dentist I Land Surveyor IV Medical Officer (Curative) Senior State Counsel
-Civil Service Regulations
-Office Office Medical Officer, Schools and Clinics Sanitary Engineer II
-Hospital Plant Engineer Chief Engineer Planning Engineer (E.P.D.) Chief Officer (Services) Radio Communication Engineer Chief Bridges Engineer (Roads) Mechanical Engineer III Chief Planning Engineer
-Chief Construction Engineer (Roads) Parliamentary Counsel II Electrical Engineer III Chief Designs Engineer
-Chief Planning Engineer (Drainage) Senior Fisheries Officer Senior Statistician Agricultural Officer III Senior Economist
-Meteorologist Assistant Solicitor General Principal Auditor Deputy Legal Secretary Parliamentary Counsel II Director of Red Ring Research Chief Architect Director of Drainage Accounting Executive II County Public Health Medical Officer Actuary Chief Electrical Inspector Specialist Dental Surgeon Technical Officer Works Specialist Medical Officer Thoracic Medical Director
-Hospital Medical Director Psychiatric Hospital Director Administrator General and Public Deputy Auditor General
-Chief Magistrate Director of Meteorological Services Chief Parliamentary Counsel Principal Medical Officer Conservator of Forests Chief Chemist and Director of Food and
-Drugs Senior Dental Surgeon Director of Statistics
-Chief Petroleum Engineer Chief Technical Officer (Agriculture) Special Medical Officer (Insect Vector Chief Technical Officer (Works)
-Chief Medical Officer Director of Construction Head National Economic Planning
-Solicitor General
-Civil Service Regulations
+Office Office
+Legal Cadet Chief Nutritionist
+Medical Intern Agricultural Economist Cost Accountant Zoologist
+Architect Livestock Officer
+Statistician Agricultural Engineer
+Chemist Plant Pathologist
+Biochemist Agronomist
+Economist Agricultural Entomologist
+Accountant Soil Chemist
+Auditor Analytical Chemist
+Assistant Conservator of Forests Soil Survey Officer
+Electrical Engineer Biochemist III
+Mechanical Engineer Botanist
+Civil Engineer Entomologist
+Quantity Surveyor I Microbiologist
+Legal Assistant Drainage Engineer (Planning) Agricultural Officer Accounting Executive I Land Surveyor Solicitor II
+Town Planner Treasury Solicitor
+Weather Forecaster Agricultural Economist II
+Valuer III Senior Magistrate
+State Counsel Pathologist
+Magistrate Registrar Parliamentary Counsel I Public Health Medical Officer
+Dentist I Land Surveyor IV
+Medical Officer (Curative) Senior State Counsel
+Civil Service Regulations [Subsidiary]
+Office Office Medical Officer, Schools and Clinics Sanitary Engineer II Solicitor I Hospital Plant Engineer Physicist Chief Engineer Fisheries Officer Planning Engineer (E.P.D.) Document Examiner Chief Officer (Services) Radio Communication Engineer Chief Bridges Engineer (Roads) Mechanical Engineer III Chief Planning Engineer Drug Analyst Chief Construction Engineer (Roads) House Officer Parliamentary Counsel II Electrical Engineer III Chief Designs Engineer Veterinary Officer Chief Planning Engineer (Drainage) Quantity Surveyor III Senior Fisheries Officer Architect III Senior Statistician Agricultural Officer III Senior Economist Land Surveyor Meteorologist Statistician III Assistant Solicitor General Chemist III Principal Auditor Petroleum Engineer I Deputy Legal Secretary Economist III Parliamentary Counsel II Accountant V Director of Red Ring Research Auditor IV Chief Architect Cost Accountant III Director of Drainage Civil Engineer III Accounting Executive II Sanitary Engineer I County Public Health Medical Officer Senior Pathologist Actuary Radiologist Chief Electrical Inspector Specialist Dental Surgeon Technical Officer Works Specialist Medical Officer Thoracic Medical Director Anaesthetist Hospital Medical Director State Solicitor Psychiatric Hospital Director Administrator General and Public Deputy Auditor General
+Trustee Chief Magistrate Geologist Director of Meteorological Services Petroleum Engineer II Chief Parliamentary Counsel Director of Surveys Principal Medical Officer Conservator of Forests Chief Chemist and Director of Food and Chief Town Planner Drugs Senior Dental Surgeon Director of Statistics Principal Pathologist Chief Petroleum Engineer Senior Radiologist Chief Technical Officer (Agriculture) Special Medical Officer (Insect Vector Chief Technical Officer (Works)
+Control) Chief Medical Officer Director of Construction Head National Economic Planning Director of Highways Solicitor General [Subsidiary] Civil Service Regulations
 PART III
 TECHNICAL CLASS
 Office Office
-Maintenance Repairman Dietitian Aide Agricultural Assistant Trainee Tailor I Print Room Operator I Cook II Public Health Inspector Trainee Draughting Assistant I Agricultural Technical Aide Baker II
-Print Room Operator II Launch Mechanic I Coxswain Food Demonstrator X-ray Technical Assistant Medical Orderly Customs and Excise Guard I Bailiff I
-Midwife Plant Maintenance Attendant Health Control Officer I Trade School Maintenance Officer Radio Communication Assistant Boiler Operator
-Works Foreman I Plant Maintenance Mechanic Revenue Officer I Printing Operator IV Customs and Excise Guard II Customs and Excise Officer I Handicraft Development Officer I Photographer II
-Transport Foreman II Radio Communication Mechanic I Nurse Quantity Surveyor Assistant I Kitchen Supervisor
-Postal Officer II Scientific Assistant I Precast Concrete Foreman Student Pharmacist II Inspector of Weights and Measures Quantity Surveyor Assistant II
-Postman Inspector I Cartographer Book-keeping Machine Operator II Revenue Officer Cadet Tabulating Machine Operator II Health Control Officer II Customs and Excise Guard Supervisor
-Civil Service Regulations
-Office Office
-Assistant Development Planning Officer Area Inspector Furniture Foreman Navigational Aids Maintenance Officer I Works Foreman II Automotive Mechanic Works Supervisor I Agricultural Mechanic Foreman Workshop Foreman
-Cypher Clerk Assistant Film Technician Trainee Lithographer II
-Plumbing and Sanitation Foreman Electrical Foreman I Public Health Inspector I Meterological Assistant Trainee Medical Photographer II Key Punch Operator II Health Control Officer III Orthopaedic Appliance Technician Orthopaedic Appliance Technician II
-Public Health Nurse Air Traffic Controller I Navigational Aids Maintenance Engineering Surveyor I Officer II Motor Vehicle Officer II Press Officer I Medical Photographer I Bailiff III
-Printing Operator V Field Interviewer I Probation Officer I Instrument Technician Community Development Adviser I Fisherman-Engineman Co-operative Adviser I
-Welfare Officer I Assistant Broadcasting Technician Friendly Societies Officer I Customs and Excise Guard III Fisheries Extension Officer Foreman Mechanical Units Labour Inspector I
-Engineering Surveyor II Radio Communication Operator I Engineering Assistant I Technical Assistant (Town and Quarry Supervisor I
-Laundry Supervisor II Assistant Film Technician Revenue Officer II Alcoholism Rehabilitation Officer Labour Inspector II Broadcasting Officer I Probation Officer II
-Postal Officer III Laundry Superintendent Broadcasting Technician Clerk of the Peace I Immigration Officer II Postman Inspector II Inspector of State Lands Lithographer III
-Civil Service Regulations
+Printing Assistant Maintenance Repairman
+Moulder Dietitian Aide
+Baker I Agricultural Assistant Trainee Cook I Tailor I Print Room Operator I Cook II Public Health Inspector Trainee Draughting Assistant I Agricultural Technical Aide Baker II Student Pharmacist Print Room Operator II Draughtsman Trainee Launch Mechanic I
+Student Nurse Coxswain
+Midwifery Student Food Demonstrator Vari-Typist I X-ray Technical Assistant
+Radiographer Student Medical Orderly
+Customs and Excise Guard I Bailiff I Seamstress Midwife Smelter Plant Maintenance Attendant Health Control Officer I Trade School Maintenance Officer
+Radio Communication Assistant Boiler Operator
+Printing Operator I Works Foreman I
+Radiographer Aide Plant Maintenance Mechanic
+Postman II Revenue Officer I
+Sterilizer Operator Printing Operator IV Customs and Excise Guard II Customs and Excise Officer I
+Handicraft Development Officer I Photographer II
+Printing Operator II Transport Foreman II Printing Mechanic Radio Communication Mechanic I Launch Mechanic II Nurse Quantity Surveyor Assistant I Kitchen Supervisor
+Lithographer I Postal Officer II
+Carpenter Foreman Scientific Assistant I Precast Concrete Foreman Student Pharmacist II Inspector of Weights and Measures Quantity Surveyor Assistant II Vari-Typist II Postman Inspector I
+Statistical Officer I Cartographer
+Immigration Officer I Book-keeping Machine Operator II Revenue Officer Cadet Tabulating Machine Operator II Health Control Officer II Customs and Excise Guard Supervisor
+Civil Service Regulations [Subsidiary]
+Office Office Postal Officer I Assistant Development Planning Officer Photographer I Area Inspector Cook III Furniture Foreman Navigational Aids Maintenance Officer I Works Foreman II Automotive Mechanic Works Supervisor I Agricultural Mechanic Foreman Workshop Foreman Forester I Cypher Clerk Assistant Film Technician Trainee Lithographer II Transport Foreman I Plumbing and Sanitation Foreman Darkroom Technician Electrical Foreman I Furniture Inspector Public Health Inspector I Meterological Assistant Trainee Medical Photographer II Key Punch Operator II Health Control Officer III Orthopaedic Appliance Technician Orthopaedic Appliance Technician II X-ray Technologist I Public Health Nurse Bailiff II Air Traffic Controller I Postman III Navigational Aids Maintenance Engineering Surveyor I Officer II Motor Vehicle Officer II Press Officer I Medical Photographer I Bailiff III Launch Supervisor Printing Operator V Electrician Field Interviewer I Tailor II Probation Officer I Instrument Technician Community Development Adviser I Fisherman-Engineman Co-operative Adviser I Printing Operator III Welfare Officer I Assistant Broadcasting Technician Friendly Societies Officer I Customs and Excise Guard III Fisheries Extension Officer Foreman Mechanical Units Labour Inspector I Laundry Supervisor I Engineering Surveyor II Radio Communication Operator I Engineering Assistant I Technical Assistant (Town and Quarry Supervisor I
+Regional Planning) Laundry Supervisor II Assistant Film Technician Revenue Officer II Alcoholism Rehabilitation Officer Labour Inspector II Broadcasting Officer I Probation Officer II Topographer Postal Officer III Road Officer I Laundry Superintendent Broadcasting Technician Clerk of the Peace I Immigration Officer II Postman Inspector II Inspector of State Lands Lithographer III [Subsidiary] Civil Service Regulations
 PART III-(Continued)
 TECHNICAL CLASS-(Continued)
 Office Office
-Welfare Officer II Public Health Inspector II Medical Social Worker I Occupational Therapist I Physiotherapist I Radiographer I Meterological Assistant Health Control Officer IV
-Nursing Instructor I Radio Communication Operator II Driver Licensing Examiner Developmental Control Inspector
-Petroleum Inspector Psychiatric Social Worker I Electrical Supervisor Equipment Supervisor Accountant I
-X-ray Technologist II Public Health Educator Draughtsman III Air Traffic Controller II Medical Records Officer
-Customs and Excise Officer II Statistical Officer III Building Inspector II Home Sister Plumbing and Sanitation Supervisor Junior Matron Radio Communication Mechanic II Electrical Inspector II
-Departmental Nursing Supervisor District Health Visitor Printing Mechanical Supervisor I Weather Forecaster Trainee
-Roads Supervisor Building Supervisor Electrical Workshop Supervisor Engineering Assistant II Electrical Work Supervisor Handicraft Development Officer II Electrician Supervisor Statistical Assistant II Assistant Shipping Master
-Road Surfacing Supervisor Shop Supervisor Electro Encephalograph Recordist Road Officer III
-Automotive Licensing Officer Broadcasting Officer II Motor Vehicle Supervisor
-Civil Service Regulations
-Office Office Co-operative Adviser II Motor Vehicle Inspector Community Development Adviser II Engineering Assistant III
-Director, Milk Feeding Programme Tabulating Machine Supervisor County Health Visitor Industrial Training Officer I Films Officer II Air Traffic Controller III Agricultural Assistant III
-Valuer II Agricultural Assistant II Air Traffic Controller IV Conveyancing Clerk II Postal Supervisor II Scientific Assistant III Chief Scientific Assistant
-Radio Communication Supervisor Revenue Officer IV Psychiatric Nursing Instructor I Dietitian Printing Mechanical Supervisor II Immigration Officer IV
-Trade Officer III Forest Utilization Officer Customs and Excise Officer III
-Psychiatric Nursing Instructor II Public Health Inspector III Nursing Instructor III Co-operative Adviser III Chief Health Educator Plant Maintenance Supervisor II Postal Supervisor III
-Matron Public Health Nursing Instructor Chief Male Nurse
-Industrial Safety Officer I Printing Supervisor III Assistant Public Health Nursing Director
-Pharmacist III Radio Communication Mechanic III Equipment Superintendent
-Drainage Superintendent District Superintendent Building Superintendent Roads Superintendent Development Control Inspector II Roads Surfacing Superintendent
-Works Study Officer Labour Officer II Handicraft Development Officer II Industrial Training Officer II Executive Officer Co-operative Faculty Budget Analyst II
-Personnel Technician II Personnel Technician I Training Officer (Community Organisation and Methods Officer I Development) Training Officer (Works) Postal Supervisor IV
-Organisation and Methods Officer II Statistical Survey Officer Aerodrome Superintendent Friendly Societies Officer II Public Health Nursing Director
-Civil Service Regulations
+Statistical Officer II Welfare Officer II
+Draughtsman I Public Health Inspector II Agricultural Assistant Medical Social Worker I Skipper Occupational Therapist I
+Electrical Foreman Physiotherapist I
+Conveyancing Clerk I Radiographer I
+Meterological Assistant Health Control Officer IV Traffic Safety Officer Nursing Instructor I Senior Nurse Radio Communication Operator II Driver Licensing Examiner Developmental Control Inspector Ward Sister Petroleum Inspector Furniture Supervisor Psychiatric Social Worker I Transport Supervisor Electrical Supervisor
+Equipment Supervisor Accountant I
+Quarry Supervisor II X-ray Technologist II
+Public Health Educator Draughtsman III
+Air Traffic Controller II Medical Records Officer Draughtsman II Customs and Excise Officer II Films Officer I Statistical Officer III Valuer I Building Inspector II
+Clinical Instructor Home Sister
+Printing Supervisor I Plumbing and Sanitation Supervisor
+Hydrographer Junior Matron
+Radio Communication Mechanic II Electrical Inspector II Electrical Inspector I Departmental Nursing Supervisor Building Inspector I District Health Visitor Printing Mechanical Supervisor I Weather Forecaster Trainee
+Scientific Assistant II Roads Supervisor
+Forest Supervisor Building Supervisor Works Supervisor Electrical Workshop Supervisor Engineering Assistant II Electrical Work Supervisor Handicraft Development Officer II Electrician Supervisor Statistical Assistant II Assistant Shipping Master Actuarial Assistant Road Surfacing Supervisor
+Press Officer II Shop Supervisor
+Electro Encephalograph Recordist Road Officer III
+Works Foreman III Automotive Licensing Officer Road Officer II Broadcasting Officer II Field Interviewer II Motor Vehicle Supervisor
+Civil Service Regulations [Subsidiary]
+Office Office Co-operative Adviser II Motor Vehicle Inspector Community Development Adviser II Engineering Assistant III Youth Officer I Director, Milk Feeding Programme Trade Officer I Tabulating Machine Supervisor Labour Officer I County Health Visitor Industrial Training Officer I Films Officer II Air Traffic Controller III Agricultural Assistant III Costs Inspector Valuer II Agricultural Assistant II Air Traffic Controller IV Conveyancing Clerk II Postal Supervisor II Scientific Assistant III Chief Scientific Assistant Medical Technologist Radio Communication Supervisor Printing Supervisor II Revenue Officer IV Psychiatric Nursing Instructor I Dietitian Printing Mechanical Supervisor II Immigration Officer IV Research Assistant II Trade Officer III Forest Utilization Officer Customs and Excise Officer III Pharmacist I Psychiatric Nursing Instructor II Public Health Inspector III Nursing Instructor III Co-operative Adviser III Chief Health Educator Plant Maintenance Supervisor II Postal Supervisor III Nursing Instructor II Matron Public Health Nursing Instructor Chief Male Nurse Accountant II Industrial Safety Officer I Printing Supervisor III Assistant Public Health Nursing Director Revenue Officer III Pharmacist III Radio Communication Mechanic III Equipment Superintendent Postal Supervisor I Drainage Superintendent Youth Officer II District Superintendent Auditor I Building Superintendent Trade Officer II Roads Superintendent Development Control Inspector II Roads Surfacing Superintendent Clerk of the Peace II Works Study Officer Stock Verifier II Labour Officer II Handicraft Development Officer II Industrial Training Officer II Executive Officer Co-operative Faculty Budget Analyst II Budget Analyst I Personnel Technician II Personnel Technician I Training Officer (Community Organisation and Methods Officer I Development) Training Officer (Works) Postal Supervisor IV Systems Analyst Organisation and Methods Officer II Statistical Survey Officer Aerodrome Superintendent Friendly Societies Officer II Public Health Nursing Director [Subsidiary] Civil Service Regulations
 PART III-(Continued)
 TECHNICAL CLASS-(Continued)
 Office Office
-Nursing Superintendent (Curative) Immigration Officer III Pharmacist IV
-Shipping Master X-ray Technologist III Archivist Orthopaedic Workshop Superintendent Senior Dietitian Medical Social Worker II Catering Supervisor Occupational Therapist II Industrial Safety Officer I
-Customs and Excise Supervisor Principal Statistical Officer Revenue Officer V
-Nutritionist Manpower Officer Psychiatric Social Worker II Principal Nursing Officer
-Customs and Excise Collector Personnel Technician III Customs and Excise Preventative
-Inspector Organisation and Methods Officer III Industrial Safety Officer II
+Radiographer II Nursing Superintendent (Curative) Immigration Officer III Pharmacist IV Works Supervisor III Shipping Master
+X-ray Technologist III Archivist
+Orthopaedic Workshop Superintendent Senior Dietitian Medical Social Worker II Catering Supervisor Occupational Therapist II Industrial Safety Officer I Physiotherapist II Customs and Excise Supervisor Principal Statistical Officer Revenue Officer V
+County Matron Nutritionist
+Pharmacist II Manpower Officer Psychiatric Social Worker II Principal Nursing Officer Principal Pharmacist Customs and Excise Collector Personnel Technician III Customs and Excise Preventative
+Budget Analyst III Inspector
+Organisation and Methods Officer III Industrial Safety Officer II
 PART IV
 CLERICAL CLASS
 Office Office
-Statistical Assistant I Radio Communication Assistant Draughting Assistant II
-Hostel Manageress Research Assistant I Sales Officer Proof Reader's Assistant Clerk III
-Storekeeper II Housekeeper II Customs Clearance Clerk Paymaster I Book-keeping Machine Operator I Storekeeper II Tabulating Machine Operator I Stock Verifier I
-Clerk IV Paymaster II Auditing Assistant Hospital Steward Storekeeper IV
-Civil Service Regulations
+Receptionist Statistical Assistant I Radio Communication Assistant Draughting Assistant II Stores Clerk I Hostel Manageress Search Clerk Research Assistant I
+Record Keeper Sales Officer
+Proof Reader's Assistant Clerk III
+Clerk I Storekeeper II Cashier I Housekeeper II Key Punch Operator I Customs Clearance Clerk
+Film Librarian Paymaster I
+Book-keeping Machine Operator I Storekeeper III Tabulating Machine Operator I Stock Verifier I
+Stores Clerk II Clerk IV
+Clerk II Paymaster II
+Storekeeper I Auditing Assistant Cashier II Hospital Steward Title Clerk Storekeeper IV Accounting Assistant
+Civil Service Regulations [Subsidiary]
 PART V
 SECRETARIAL CLASS
-Office Office
-Palantypist Court Reporter Hansard Reporter I Secretary to Minister Clerk Stenographer III Hansard Reporter II
+Office Office Clerk Typist I Palantypist Clerk Stenographer I Court Reporter Clerk Typist II Hansard Reporter I Clerk Stenographer II Secretary to Minister Clerk Stenographer III Hansard Reporter II
 PART VI
 MANIPULATIVE CLASS
-Office Office
-Custodian I Marine Signalman Vault Attendant II Orderly Anti-Rabies Assistant I Boiler Operator Helper Female Airport Attendant I Linen Maid
-Butler I Telephone Operator I Lighthouse Keeper I Fisheries Assistant Postal Guard II Custodian II Chauffeur-Handyman Navigational Aids Assistant Mobile Operator-Chauffeur I Motor Vehicle Operator Motor Vehicle Attendant Chainman
-Domestic Supervisor I Motor Vehicle Officer I Hospital Attendant II Male Airport Attendant I Boatman
-Boatswain Sergeant-at-Arms
-Civil Service Regulations
+Office Office Dog Catcher Custodian I Cook Trainee Marine Signalman Office Attendant Vault Attendant II Maid Orderly Cleaner I Anti-Rabies Assistant I Laundress I Boiler Operator Helper Female Airport Attendant I Linen Maid Attendant Butler I Ship Cook I Telephone Operator I Porter Lighthouse Keeper I Janitor Fisheries Assistant Cleaner II Postal Guard II Watchman Custodian II Maid, Parliament Chauffeur-Handyman Caretaker Navigational Aids Assistant Groundsman Mobile Operator-Chauffeur I Stores Attendant Motor Vehicle Operator Motor Vehicle Attendant Chainman Wardsmaid Domestic Supervisor I Nurse's Aide Motor Vehicle Officer I Laboratory Assistant I Hospital Attendant II Male Airport Attendant I Boatman Mortuary Attendant Boatswain Hospital Attendant I Sergeant-at-Arms [Subsidiary] Civil Service Regulations
 PART VI-(Continued)
 MANIPULATIVE CLASS-(Continued)
-Office Office Darkroom Attendant Telegraph Messenger II
-Male Airport Attendant II Plant Quarantine Guard Laboratory Assistant II District/Estate Constable Cattle Breeding Inseminator
-Addressing Machine Operator Supervisor of Cesspits Telephone Operator II Orthopaedic Attendant Mobile Operator Chauffeur II
-Airport Attendant III Female Airport Attendant II Lighthouse Keeper II
-Game Warden I Anti-Rabies Assistant II Butler II Telegraph Messenger I Housekeeper I
-Domestic Supervisor II Motorboat Operator I Hospital Attendant III
-Game Warden II Forester II Hospital Manageress Housekeeper II
+Office Office
+Darkroom Attendant Telegraph Messenger II Laundress II Male Airport Attendant II Plant Quarantine Guard Laboratory Assistant II District/Estate Constable Cattle Breeding Inseminator Messenger I Addressing Machine Operator Vault Attendant I Supervisor of Cesspits Postal Guard I Telephone Operator II Orthopaedic Attendant Mobile Operator Chauffeur II Postal Assistant Airport Attendant III Female Airport Attendant II Lighthouse Keeper II Explosives Keeper Game Warden I Ship Fireman/Oiler Anti-Rabies Assistant II
+Chauffeur Butler II
+Telegraph Messenger I Housekeeper I
+Deckhand I Domestic Supervisor II Motorboat Operator I Hospital Attendant III Messenger II Game Warden II
+Dental Assistant Forester II
+X-ray Orderly Hospital Manageress
+Postman I Housekeeper II
+[Subsidiary]
 CIVIL SERVICE (EXTERNAL AFFAIRS) REGULATIONS
 ARRANGEMENT OF REGULATIONS
 REGULATION
@@ -995,13 +1014,12 @@ CHAPTER II
 ENTRY INTO THE GRADE OF FOREIGN SERVICE OFFICER I
 4. Qualifications for entry.
 CHAPTER III POSTING
-5. Posting. 6. Initial service at Headquarters. 7. Pre-posting medical examination. 8. Tours of duty. 9. Passages and transportation of baggage, etc.
-10. Storage charges on personal and household effects. 11. Officers to travel by air. 12. Retirement. 13. Death.
+5. Posting. 6. Initial service at Headquarters. 7. Pre-posting medical examination. 8. Tours of duty. 9. Passages and transportation of baggage, etc. 10. Storage charges on personal and household effects. 11. Officers to travel by air. 12. Retirement. 13. Death.
 CHAPTER IV
 ALLOWANCES AND OTHER BENEFITS
-14. Foreign Service allowance. 15. Child allowance. 16. Children's passages. 17. Education allowance.
-Civil Service (External Affairs) Regulations
-ARRANGEMENT OF REGULATIONS-(Continued) REGULATION
+14. Foreign Service allowance. 15. Child allowance. 16. Children's passages. 17. Education allowance. [Subsidiary] Civil Service (External Affairs) Regulations
+ARRANGEMENT OF REGULATIONS-(Continued)
+REGULATION
 18. Travelling allowance. 19. Commencement and termination of payment of allowances. 20. Displacement allowance. 21. Separation allowance. 22. Outfit allowance. 23. Warm-clothing allowance. 24. Allowances whilst acting in a higher post. 25. Language allowance. 26. Fees for translation, etc. 27. Travelling on official business. 28. Compassionate travel allowance and other expenses. 29. Reimbursement of emergency evacuation expenses. 30. Medical insurance. 31. Medical expenses. 32. Government to pay necessary transportation costs for medical
 treatment.
 CHAPTER V
@@ -1014,28 +1032,39 @@ and Tobago.
 CHAPTER VI
 LEAVE AND LEAVE PASSAGES
 38. Annual leave. 39. Long leave. 40. Passages for long leave. 41. Allowances payable during periods of leave.
-Civil Service (External Affairs) Regulations
+[Subsidiary] Civil Service (External Affairs) Regulations
+REGULATION
 CHAPTER VII CONDUCT
 42. Conduct and discipline. 43. Working spouse. 44. Marriage. 45. Political activity. 46. Foreign honours or decorations. 47. Commencement.
-SCHEDULE. *CIVIL SERVICE (EXTERNAL AFFAIRS) REGULATIONS
+SCHEDULE. [Subsidiary]
+*CIVIL SERVICE (EXTERNAL AFFAIRS) REGULATIONS
 made under section 28
-1. These Regulations may be cited as the Civil Service (External Affairs) Regulations.
+1. These Regulations may be cited as the Civil Service
+(External Affairs) Regulations.
 CHAPTER I
 PRELIMINARY
-2. In these Regulations- "approved rate" means the rate approved by the Minister under
-section 14 of the Act; "child" means-
+2. In these Regulations-
+"approved rate" means the rate approved by the Minister under
+section 14 of the Act;
+"child" means-
 (a) an unmarried dependent child below the age of
 twenty years; or
 (b) a physically or mentally handicapped unmarried
 child over the age of twenty years, who is living with and solely dependent upon his parents,
-and includes a child of the family within the meaning of the Matrimonial Proceedings and Property Act; "Civil Service" means the Service established under section 3
-of the Act; "Foreign Service" means that branch of the Civil Service the
-administration of which is the responsibility of the Minister of External Affairs and includes the Missions; "Foreign Service Officer" means an officer classified as such in
-the First Schedule to the Act but does not include a Foreign Service Executive Officer; "Head of Mission" means a person appointed under section 135
-of the Constitution as Ambassador, High Commissioner or other Principal Representative of Trinidad and Tobago in any other country; "Headquarters" means the head office of the Ministry of
+and includes a child of the family within the meaning of the
+Matrimonial Proceedings and Property Act;
+"Civil Service" means the Service established under section 3
+of the Act;
+"Foreign Service" means that branch of the Civil Service the
+administration of which is the responsibility of the Minister of External Affairs and includes the Missions;
+"Foreign Service Officer" means an officer classified as such in
+the First Schedule to the Act but does not include a Foreign Service Executive Officer;
+"Head of Mission" means a person appointed under section 135
+of the Constitution as Ambassador, High Commissioner or other Principal Representative of Trinidad and Tobago in any other country;
+"Headquarters" means the head office of the Ministry of
 External Affairs;
 * These Regulations have been amended by LNs 30/1982; 149/1989; 150/1989; 8/1995; 42/1995.
-Civil Service (External Affairs) Regulations
+[Subsidiary] Civil Service (External Affairs) Regulations
 "locally recruited staff at Missions" means employees recruited
 in the country in which a Mission is situated and does not include Foreign Service Officers and non-diplomatic staff; "Minister" means the member of the Cabinet to whom
 responsibility for the subject of Finance is assigned; "Ministry" means the Ministry of External Affairs; "Mission" means an office of the Government of Trinidad and
@@ -1051,26 +1080,32 @@ CHAPTER II
 ENTRY INTO THE GRADE OF FOREIGN SERVICE
 OFFICER I
 4. (1) Entry into the Foreign Service shall be restricted to citizens of Trinidad and Tobago.
-(2) The minimum qualification for entry into the grade of Foreign Service Officer I shall be a second class degree from an approved University.
-Civil Service (External Affairs) Regulations
-(3) Notwithstanding subregulation (1) the Chief Personnel Officer may accept-
+(2) The minimum qualification for entry into the grade of Foreign Service Officer I shall be a second class degree from an approved University. [Subsidiary] Civil Service (External Affairs) Regulations
+(3) Notwithstanding subregulation (1) the Chief
+Personnel Officer may accept-
 (a) a professional qualification; or
-(b) any combination of experience and training,which
+(b) any combination of experience and training, which
 is considered equivalent to a second class degree.
-CHAPTER III
-POSTING
+CHAPTER III POSTING
 5. (1) An officer may be posted to a Mission or to Headquarters.
-(2) Subject to subregulation (3), an officer shall be given at least two months' notice of a posting or a transfer.
-(3) Where the exigencies of the service require, an officer may be given a shorter period of notice.
-(4) A Foreign Service Officer who after being notified in accordance with subregulation (2) or (3) refuses without reasonable excuse to accept a posting shall be liable to-
+(2) Subject to subregulation (3), an officer shall be given
+at least two months' notice of a posting or a transfer.
+(3) Where the exigencies of the service require, an
+officer may be given a shorter period of notice.
+(4) A Foreign Service Officer who after being notified
+in accordance with subregulation (2) or (3) refuses without reasonable excuse to accept a posting shall be liable to-
 (a) disciplinary action;
 (b) transfer; or
 (c) both disciplinary action and transfer.
-(5) A member of the non-diplomatic staff who after being notified in accordance with subregulation (2) or (3) refuses without reasonable excuse to accept a posting shall be liable to transfer.
-6. (1) Subject to subregulation (3) a Foreign Service Officer shall on first appointment be required to serve at Headquarters for a period of not less than one year.
-(2) Subject to subregulation (3), a member of the non-diplomatic staff shall on first appointment be required to serve at Headquarters for a period of not less than six months.
-(3) The Permanent Secretary may, where he considers it proper or expedient to do so vary or waive the period of service under subregulation (1) or (2).
-Civil Service (External Affairs) Regulations
+(5) A member of the non-diplomatic staff who after
+being notified in accordance with subregulation (2) or (3) refuses without reasonable excuse to accept a posting shall be liable to transfer.
+6. (1) Subject to subregulation (3) a Foreign Service Officer
+shall on first appointment be required to serve at Headquarters for a period of not less than one year.
+(2) Subject to subregulation (3), a member of the
+non-diplomatic staff shall on first appointment be required to serve at Headquarters for a period of not less than six months.
+(3) The Permanent Secretary may, where he considers
+it proper or expedient to do so vary or waive the period of service under subregulation (1) or (2).
+[Subsidiary] Civil Service (External Affairs) Regulations
 7. (1) Where it is proposed to post an officer from Headquarters to a Mission or vice versa or from one Mission to another such officer may, in the discretion of the Permanent Secretary, be required to undergo an appropriate medical examination by a Government Medical Officer or by a medical practitioner approved by the Head of Mission, as the case may be, before assuming his new assignment.
 (2) An officer is entitled to make to the Permanent Secretary any representations he may consider necessary in respect of the second or any subsequent examination.
 8. (1) Subject to subregulation (2) and regulation 6, a tour of duty at Headquarters or in any one Mission shall be three years.
@@ -1085,22 +1120,28 @@ Civil Service (External Affairs) Regulations
 baggage and personal effects;
 (c) transportation of not more than one motor car; and
 (d) transportation of such household effects as may
-be approved by the Minister.
-Civil Service (External Affairs) Regulations
-(2) Payment of expenses under subregulation (1)(b), (c) and (d) is conditional upon the expense having been incurred within three months of the date of the officer's travel or such further time as the Permanent Secretary may in his discretion allow.
-(3) The Government shall also pay the cost of passages, of transportation and of insurance against loss or damage of the personal baggage of the following members of an officer's household who accompany him or join him subsequently:
+be approved by the Minister. [Subsidiary] Civil Service (External Affairs) Regulations
+(2) Payment of expenses under subregulation (1)(b), (c)
+and (d) is conditional upon the expense having been incurred within three months of the date of the officer's travel or such further time as the Permanent Secretary may in his discretion allow.
+(3) The Government shall also pay the cost of passages,
+of transportation and of insurance against loss or damage of the personal baggage of the following members of an officer's household who accompany him or join him subsequently:
 (a) (i) the officer's spouse; or
 (ii) in the case of a single Foreign Service
 Officer, a relative who will share the officer's home and assist in the performance of the officer's diplomatic duties;
 (b) his children; and
 (c) one domestic servant where, in the opinion of the
 Permanent Secretary, the circumstances justify it.
-(4) The cost of air transportation of personal and household effects shall be subject to the weight limits prescribed by the Minister.
-(5) In this regulation and in regulation 14 "single" includes divorced and widowed.
-10. (1) Where an officer proceeds on leave from a Mission prior to being posted to another Mission, he shall be refunded the cost of storing in the country of his old or of his new posting his personal effects and such household effects as are approved by the Minister, until he occupies appropriate accommodation in the country of his new posting.
-(2) Where an officer has been allowed the cost of transporting his furniture under regulation 9(1) but cannot immediately find suitable accommodation, he shall be refunded the cost of storage of his furniture for a period of thirty days or for such further period as the Permanent Secretary may allow.
-(3) Where an officer serving at a Mission is posted to another Mission where he does not require his furniture, he may
-Civil Service (External Affairs) Regulations
+(4) The cost of air transportation of personal and
+household effects shall be subject to the weight limits prescribed by the Minister.
+(5) In this regulation and in regulation 14 "single"
+includes divorced and widowed.
+10. (1) Where an officer proceeds on leave from a Mission
+prior to being posted to another Mission, he shall be refunded the cost of storing in the country of his old or of his new posting his personal effects and such household effects as are approved by the Minister, until he occupies appropriate accommodation in the country of his new posting.
+(2) Where an officer has been allowed the cost of
+transporting his furniture under regulation 9(1) but cannot immediately find suitable accommodation, he shall be refunded the cost of storage of his furniture for a period of thirty days or for such further period as the Permanent Secretary may allow.
+(3) Where an officer serving at a Mission is posted to
+another Mission where he does not require his furniture, he may
+[Subsidiary] Civil Service (External Affairs) Regulations
 be refunded the cost of its transportation to Trinidad and Tobago and the cost, within the limits approved by the Minister, of storing it there.
 11. (1) Subject to subregulation (2) officers are required to travel by air when proceeding to a posting.
 (2) Where the Permanent Secretary is satisfied that the circumstances warrant the use of other means of transport he may waive the requirement under subregulation (1).
@@ -1111,9 +1152,9 @@ be refunded the cost of its transportation to Trinidad and Tobago and the cost, 
 (3) The Permanent Secretary may, in his discretion, extend the periods specified in subregulation (2).
 CHAPTER IV
 ALLOWANCES AND OTHER BENEFITS
-14. (1) An officer posted at a Mission shall be paid a Foreign Service allowance at the rate approved in respect of single or married officers.
-Civil Service (External Affairs) Regulations
-(2) In determining the allowance payable under subregulation (1), regard shall be had where relevant to the following factors:
+14. (1) An officer posted at a Mission shall be paid a Foreign Service allowance at the rate approved in respect of single or married officers. [Subsidiary] Civil Service (External Affairs) Regulations
+(2) In determining the allowance payable under
+subregulation (1), regard shall be had where relevant to the following factors:
 (a) the difference between the living costs in Trinidad
 and Tobago and those in the host country;
 (b) the need to ensure a standard of living
@@ -1124,18 +1165,22 @@ by spouses;
 to perform certain representational functions;
 (e) the need to incur non-accountable entertainment
 expenses.
-15. (1) An officer posted at a Mission shall be paid a child allowance at the approved rate in respect of a child who-
+15. (1) An officer posted at a Mission shall be paid a child
+allowance at the approved rate in respect of a child who-
 (a) resides with the officer; or
 (b) is wholly maintained by the officer but resides
 in Trinidad and Tobago.
-(2) An officer posted at a Mission may, subject to the approval of the Minister, be paid a child allowance at the approved rate in respect of a child who is wholly maintained by the officer but who for educational purposes resides away from the officer either within or outside of the host country.
-(3) An officer posted at Headquarters may, subject to the approval of the Minister, be paid a child allowance at the approved rate in respect of a child who is wholly maintained by the officer but who for educational purposes is required to reside outside of Trinidad and Tobago.
-16. (1) Where an officer is posted from Headquarters to a Mission or from one Mission to another and the officer-
+(2) An officer posted at a Mission may, subject to the
+approval of the Minister, be paid a child allowance at the approved rate in respect of a child who is wholly maintained by the officer but who for educational purposes resides away from the officer either within or outside of the host country.
+(3) An officer posted at Headquarters may, subject to the
+approval of the Minister, be paid a child allowance at the approved rate in respect of a child who is wholly maintained by the officer but who for educational purposes is required to reside outside of Trinidad and Tobago.
+16. (1) Where an officer is posted from Headquarters to a
+Mission or from one Mission to another and the officer-
 (a) either has a child attending primary or
 secondary school in Trinidad and Tobago; or
 (b) with the permission of the Permanent Secretary
 has a child attending primary or secondary
-Civil Service (External Affairs) Regulations
+[Subsidiary] Civil Service (External Affairs) Regulations
 school in a country other than the one in which that officer is posted, the Government may meet in respect of that child the cost of one return passage annually to the Mission at which the officer is posted.
 (2) Payment of passages under subregulation (1) shall be limited to a maximum of three children.
 17. An education allowance shall be paid to an officer posted at a Mission in respect of each child educated at primary or secondary level as follows:
@@ -1147,25 +1192,30 @@ attends school in the host country and in that country free education of the sta
 another and in the opinion of the Permanent Secretary it is not expedient for the child either to accompany him to his new posting or to be sent to Trinidad and Tobago and that child attends school in a country other than the host country the actual cost of tuition and other compulsory fees where such costs do not exceed the limits approved by the Minister.
 18. An officer posted at a Mission shall be paid a travelling allowance at the approved rate.
 19. (1) Subject to subregulation (2), the allowances payable under regulations 14 to 18 shall be paid from the day on which an officer assumes duty at a Mission and shall cease on the day he relinquishes duty at that Mission.
-(2) An officer who is posted from one Mission to another may, with the approval of the Minister, continue to receive
-Civil Service (External Affairs) Regulations
+(2) An officer who is posted from one Mission to another may, with the approval of the Minister, continue to receive [Subsidiary] Civil Service (External Affairs) Regulations
 the allowances payable in respect of his former posting until the date of his assumption of duty at his new posting.
-20. An officer who incurs financial loss as a consequence of a posting or transfer shall be paid a displacement allowance equivalent to such loss provided that he submits to the Permanent Secretary adequate proof of that loss.
-21. (1) An officer whose spouse and children do not accompany him on a posting to a Mission, shall be paid a separation allowance at the approved rates in the following circumstances:
+20. An officer who incurs financial loss as a consequence of
+a posting or transfer shall be paid a displacement allowance equivalent to such loss provided that he submits to the Permanent Secretary adequate proof of that loss.
+21. (1) An officer whose spouse and children do not
+accompany him on a posting to a Mission, shall be paid a separation allowance at the approved rates in the following circumstances:
 (a) where accommodation for the officer and his
-family is not immediately available at the
-Mission to which he is posted; or
+family is not immediately available at the Mission to which he is posted; or
 (b) where his spouse is unable to accompany him
 immediately because of illness or the serious illness of one of their children; or
 (c) in the case of a wife, advanced pregnancy; or
 (d) with the approval of the Chief Personnel
 Officer, any other circumstances recommended as justifiable by the Permanent Secretary.
-(2) Payment of the above allowance shall not normally exceed a maximum period of three months.
-(3) The Minister may in his discretion extend the maximum period set out in subregulation (2).
-22. (1) An officer on his first posting away from Headquarters shall be paid at the approved rates an outfit allowance in respect of himself and his family.
-(2) An outfit renewal allowance equal to thirty-three and a third per cent of the initial allowance shall be paid every three years to each officer in receipt of an allowance under subregulation (1).
-23. (1) In addition to the allowance payable under regulation 22, an officer posted to a Mission in a temperate climate shall be paid at the approved rates an initial warm-clothing allowance in respect of himself and his family.
-Civil Service (External Affairs) Regulations
+(2) Payment of the above allowance shall not normally
+exceed a maximum period of three months.
+(3) The Minister may in his discretion extend the
+maximum period set out in subregulation (2).
+22. (1) An officer on his first posting away from
+Headquarters shall be paid at the approved rates an outfit allowance in respect of himself and his family.
+(2) An outfit renewal allowance equal to thirty-three
+and a third per cent of the initial allowance shall be paid every three years to each officer in receipt of an allowance under subregulation (1).
+23. (1) In addition to the allowance payable under
+regulation 22, an officer posted to a Mission in a temperate climate shall be paid at the approved rates an initial warm-clothing allowance in respect of himself and his family.
+[Subsidiary] Civil Service (External Affairs) Regulations
 (2) A warm-clothing allowance equal to fifty per cent of the initial allowance shall be paid every two years to an officer in receipt of an allowance under subregulation (1) in respect of himself, his spouse and children over the age of sixteen years.
 (3) The warm-clothing allowance in respect of an officer's children up to the age of sixteen years shall be renewable annually.
 24. (1) Where a Head of Mission is absent from the country in which his Mission is located whether on leave or on duty, any officer acting as Head of Mission shall be paid an increased Foreign Service allowance as Charge d'Affaires calculated as follows:
@@ -1176,42 +1226,54 @@ consecutive days an allowance equal to thirty-three and a third per cent of the 
 (2) Where an officer is appointed to be in charge of a Mission to which no Head of Mission is appointed, he shall be paid all the allowances approved for the post of Head of Mission instead of his own allowances.
 (3) Where a Head of Mission is supported by one or more Foreign Service Officers, the senior of whom is below the level of Foreign Service Officer III such senior officer shall, irrespective of his substantive grade, be paid the allowances attached to the grade of Foreign Service Officer III.
 (4) Where an officer acts in a post other than that of Head of Mission he shall be paid an acting allowance in accordance with the Civil Service Regulations.
-25. Where the Permanent Secretary has approved of a course of tuition in a foreign language for an officer or an
-Civil Service (External Affairs) Regulations
+25. Where the Permanent Secretary has approved of a course of tuition in a foreign language for an officer or an [Subsidiary] Civil Service (External Affairs) Regulations
 officer's spouse, the fees of such tuition shall be paid by Government either directly to the tutor or shall be refunded to the officer on production of adequate proof of payment.
-26. (1) Fees for the translation of documents or for interpretation shall be paid on the authorisation of the Permanent Secretary in accordance with the approved rates.
-(2) Acceptance of fees by an officer for the translation of documents or interpretation is governed by the Public Service Commission Regulations.
-27. (1) An officer posted at a Mission who is required to travel on official business outside the country in which he is posted shall be paid the special travelling allowances in accordance with regulation 56 of the Civil Service Regulations.
-(2) An officer who is required to travel on official business within the country in which he is posted shall be refunded such reasonable travel and hotel expenses as the Minister may approve.
-28. (1) Where an officer posted at a Mission travels to Trinidad and Tobago because of the terminal illness or death occurring there of his spouse, parent, or child, he shall, subject to the approval of the Minister, be paid a compassionate travel allowance and be reimbursed for reasonable expenses in excess of those he would have incurred had he been serving at Headquarters.
-(2) Where an officer incurs reasonable expenses in circumstances not specified in subregulation (1) but which in the opinion of the Permanent Secretary, seem justifiable, the Permanent Secretary may recommend to the Minister that such officer be reimbursed.
-29. Where, owing to the outbreak of hostilities or a natural disaster or other threatening circumstances the Permanent Secretary or Head of Mission, or in the absence of the Head of Mission, the
-Civil Service (External Affairs) Regulations
+26. (1) Fees for the translation of documents or for
+interpretation shall be paid on the authorisation of the Permanent Secretary in accordance with the approved rates.
+(2) Acceptance of fees by an officer for the translation
+of documents or interpretation is governed by the Public Service Commission Regulations.
+27. (1) An officer posted at a Mission who is required to
+travel on official business outside the country in which he is posted shall be paid the special travelling allowances in accordance with regulation 56 of the Civil Service Regulations.
+(2) An officer who is required to travel on official
+business within the country in which he is posted shall be refunded such reasonable travel and hotel expenses as the Minister may approve.
+28. (1) Where an officer posted at a Mission travels to
+Trinidad and Tobago because of the terminal illness or death occurring there of his spouse, parent, or child, he shall, subject to the approval of the Minister, be paid a compassionate travel allowance and be reimbursed for reasonable expenses in excess of those he would have incurred had he been serving at Headquarters.
+(2) Where an officer incurs reasonable expenses in
+circumstances not specified in subregulation (1) but which in the opinion of the Permanent Secretary, seem justifiable, the Permanent Secretary may recommend to the Minister that such officer be reimbursed.
+29. Where, owing to the outbreak of hostilities or a natural
+disaster or other threatening circumstances the Permanent Secretary or Head of Mission, or in the absence of the Head of Mission, the
+[Subsidiary] Civil Service (External Affairs) Regulations
 senior officer at the Mission, authorises evacuation of all employees and members of their household, all reasonable expenses or losses thereby incurred by an officer shall, subject to the approval of the Minister, be met by Government.
 30. (1) Where an approved medical insurance policy is operative at a Mission, an officer posted there shall be a participant on behalf of himself and his family.
 (2) Seventy-five per cent of the cost of a policy under subregulation (1) shall be borne by the Government and twenty-five per cent by the officer.
 (3) In countries where there is a comprehensive National Health Scheme in which the officer may participate, the Government shall bear the cost of the contributions payable by the employer and the officer shall bear the cost of the contributions payable by the employee.
 (4) In this regulation "approved medical insurance policy" means a group policy approved for that particular Mission by the Minister.
-31. (1) Where there is no insurance under regulation 30 or where though insured an officer incurs an expense for a non-insurable risk he shall be reimbursed for such reasonable medical, para-medical or dental expenses incurred in excess of the cost of similar treatment in Trinidad and Tobago.
+31. (1) Where there is no insurance under regulation 30 or where though insured an officer incurs an expense for a non-insurable risk he shall be reimbursed for such reasonable medical, paramedical or dental expenses incurred in excess of the cost of similar treatment in Trinidad and Tobago.
 (2) Notwithstanding subregulation (1), where an officer bears a proportion of the cost of medical, paramedical or dental expenses, such proportion shall not exceed fifty per cent.
-32. Where adequate evidence is supplied to the Minister to support a claim that proper medical or surgical treatment is not available to an officer in the country in which he is posted, the Government shall pay the necessary transportation costs for the officer or for a member of his household, as the case may be, to obtain such medical or surgical treatment.
-Civil Service (External Affairs) Regulations
+32. Where adequate evidence is supplied to the Minister to support a claim that proper medical or surgical treatment is not available to an officer in the country in which he is posted, the Government shall pay the necessary transportation costs for the officer or for a member of his household, as the case may be, to obtain such medical or surgical treatment. [Subsidiary] Civil Service (External Affairs) Regulations
 CHAPTER V
 HOUSING ACCOMMODATION
-33. Where suitable housing accommodation is not available to an officer posted to a Mission the Government shall bear the cost of his hotel accommodation and food and beverages, excluding alcoholic drinks.
-34. (1) The Government shall be responsible for providing officers posted to Missions with furnished housing accommodation and shall pay in respect thereof-
+33. Where suitable housing accommodation is not available
+to an officer posted to a Mission the Government shall bear the cost of his hotel accommodation and food and beverages, excluding alcoholic drinks.
+34. (1) The Government shall be responsible for providing
+officers posted to Missions with furnished housing accommodation and shall pay in respect thereof-
 (a) all rents, rates, tax assessments, cost of heating,
 removal of snow and garaging for one motor car;
 (b) such other charges arising out of and incidental
 to the accommodation as may be approved by the Minister.
-(2) The Head of Mission shall, before any lease or tenancy agreement is entered into, determine the suitability of premises for an officer in regard to their locality and the officer's rank and family requirements.
-(3) An officer provided with accommodation in accordance with this regulation shall pay a rental charge at the approved rates.
-(4) An officer shall not under this regulation be liable for a rental higher than that payable by an officer of comparable status in the Civil Service for the rental of Government quarters in Trinidad and Tobago.
-35. Where unfurnished accommodation is acquired in pursuance of regulation 34 the Government shall pay the cost of furnishing such accommodation up to an amount specified by the Minister.
-35A. An officer who is not provided with accommodation by the Government in accordance with regulation 34, and is-
+(2) The Head of Mission shall, before any lease or
+tenancy agreement is entered into, determine the suitability of premises for an officer in regard to their locality and the officer's rank and family requirements.
+(3) An officer provided with accommodation in
+accordance with this regulation shall pay a rental charge at the approved rates.
+(4) An officer shall not under this regulation be liable
+for a rental higher than that payable by an officer of comparable status in the Civil Service for the rental of Government quarters in Trinidad and Tobago.
+35. Where unfurnished accommodation is acquired in
+pursuance of regulation 34 the Government shall pay the cost of furnishing such accommodation up to an amount specified by the Minister.
+35A. An officer who is not provided with accommodation by
+the Government in accordance with regulation 34, and is-
 (a) recruited in the country in which he is normally
 domiciled and owns a home; or
-Civil Service (External Affairs) Regulations
+[Subsidiary] Civil Service (External Affairs) Regulations
 (b) posted from Trinidad and Tobago to serve in a
 country where his spouse holds resident status or citizenship and is normally domiciled therein and owns a home, shall be entitled to receive a Special Housing Allowance, which shall be equal to the actual monthly ownership costs namely mortgage amounts, property taxes and home insurance incurred by him or the maximum sums set out in the Schedule, whichever is less, and his monthly salary shall also be subject to a deduction of a maximum of ten per cent.
 36. (1) Where a Foreign Service Officer is posted from a Mission to Headquarters either for a tour of duty or pending reposting abroad, he shall be provided with Government quarters in Trinidad and Tobago for a maximum period of one year and shall pay rent for such quarters in accordance with Chapter X of the Civil Service Regulations.
@@ -1219,17 +1281,22 @@ country where his spouse holds resident status or citizenship and is normally do
 (3) Foreign Service Officers eligible for housing accommodation under this regulation shall be entitled to hotel accommodation for a settling-in period of twenty-eight days or such further period as the Minister may allow.
 (4) Notwithstanding subregulation (2), an officer shall not be entitled to a housing allowance in respect of any period during which he is provided with hotel accommodation.
 (5) A Foreign Service Officer who returns to Trinidad and Tobago prior to his retirement from the Foreign Service shall be entitled to hotel accommodation for himself and his family for a period of twenty-eight days or such further period as the Minister may allow.
-(6) Where a Foreign Service Officer is transferred out of the Ministry while he is posted to a Mission or while he is attached to Headquarters following his posting to a Mission, he shall, subject to the approval of the Permanent Secretary, be
-Civil Service (External Affairs) Regulations
+(6) Where a Foreign Service Officer is transferred out of the Ministry while he is posted to a Mission or while he is attached to Headquarters following his posting to a Mission, he shall, subject to the approval of the Permanent Secretary, be [Subsidiary] Civil Service (External Affairs) Regulations
 eligible to be paid a housing allowance in accordance with subregulation (2) for a maximum period of one year after his return to Trinidad and Tobago.
-37. (1) A member of the non-diplomatic staff who is posted to Headquarters after a Mission posting shall be paid a housing allowance at the approved rates for a maximum period of one year.
-(2) Officers eligible for a housing allowance under subregulation (1) shall be entitled to hotel accommodation for a settling-in period of twenty-eight days or such further period as the Minister may allow.
-(3) Notwithstanding subregulation (2), an officer shall not be entitled to a housing allowance in respect of any period during which he is provided with hotel accommodation.
-(4) A member of the non-diplomatic staff who is transferred out of the Ministry while he is posted to a Mission or while he is attached to Headquarters following his posting to a Mission shall, subject to the approval of the Permanent Secretary, be eligible to be paid a housing allowance in accordance with subregulation (2) of regulation 36 for a maximum period of one year after his return to Trinidad and Tobago.
+37. (1) A member of the non-diplomatic staff who is
+posted to Headquarters after a Mission posting shall be paid a housing allowance at the approved rates for a maximum period of one year.
+(2) Officers eligible for a housing allowance under
+subregulation (1) shall be entitled to hotel accommodation for a settling-in period of twenty-eight days or such further period as the Minister may allow.
+(3) Notwithstanding subregulation (2), an officer shall
+not be entitled to a housing allowance in respect of any period during which he is provided with hotel accommodation.
+(4) A member of the non-diplomatic staff who is
+transferred out of the Ministry while he is posted to a Mission or while he is attached to Headquarters following his posting to a Mission shall, subject to the approval of the Permanent Secretary, be eligible to be paid a housing allowance in accordance with subregulation (2) of regulation 36 for a maximum period of one year after his return to Trinidad and Tobago.
 CHAPTER VI
 LEAVE AND LEAVE PASSAGES
-38. (1) An officer serving at Headquarters shall be eligible for annual leave in accordance with the Civil Service Regulations.
-(2) Annual leave for officers posted at a Mission shall be as follows:
+38. (1) An officer serving at Headquarters shall be eligible
+for annual leave in accordance with the Civil Service Regulations.
+(2) Annual leave for officers posted at a Mission shall
+be as follows:
 (a) Foreign Service Officers-21 working days;
 (b) Members of the non-diplomatic staff-
 (i) who have been in the Service for a period
@@ -1237,7 +1304,7 @@ exceeding 10 years; and
 (ii) who are in receipt of a salary either equal
 to or greater than that of the maximum salary range 24-21 working days;
 (c) Other non-diplomatic staff-14 working days.
-Civil Service (External Affairs) Regulations
+[Subsidiary] Civil Service (External Affairs) Regulations
 39. (1) A Foreign Service Officer or non-diplomatic staff entitled to annual leave under clause (b) of regulation 38 (2) posted at a Mission shall be eligible for long leave of sixty-three working days at the end of a three-year tour of duty, or where under regulation 8(2) he completes a tour of duty of less than three years, he shall be eligible for a proportionate part of such long leave.
 (2) A member of the non-diplomatic staff posted at a Mission shall be eligible for long leave of fifty-six working days at the end of a three-year tour of duty or where under regulation 8(2) he completes a tour of less than three years he shall be eligible for a proportionate part of such long leave.
 (3) Long leave at the end of a three-year tour of duty includes annual leave earned in respect of the third year.
@@ -1249,39 +1316,46 @@ Civil Service (External Affairs) Regulations
 (2) An officer on being posted to Headquarters shall cease to be entitled to any passages under subregulation (1).
 41. (1) Where an officer posted at a Mission qualifies for the payment of an allowance, such payment shall continue unabated during-
 (a) any period of sick leave on full pay including
-extended sick leave;
-Civil Service (External Affairs) Regulations
+extended sick leave; [Subsidiary] Civil Service (External Affairs) Regulations
 (b) periods of leave under regulation 38(2);
 (c) the period of annual leave forming part of long
 leave under regulation 39(3).
-(2) Payment of the foreign service allowance shall abate by fifty per cent during all periods of leave not included in subregulation (1).
-(3) Allowances payable to an officer posted at a Mission shall not be payable during pre-retirement leave.
-CHAPTER VII
-CONDUCT
-42. (1) All matters relating to conduct and discipline of officers shall be governed by the Public Service Commission Regulations.
-(2) An officer serving at a Mission shall at no time engage in any activity which would in any way impair his usefulness as an official representative of Trinidad and Tobago or bring the Government of Trinidad and Tobago into disrepute.
-(3) An officer posted at a Mission shall be held responsible for the conduct of the members of his household.
-43. The spouse of a Foreign Service Officer may take up such mode of employment in the host country as is approved by the Head of Mission.
-44. (1) An officer who decides to marry shall so inform the Permanent Secretary in writing at least two months before the event giving the name, address, occupation and nationality of the intended spouse.
-(2) Where the effect of an officer's marriage would be to diminish substantially his or her usefulness as a Trinidad and Tobago representative abroad as by limiting the number of
-Civil Service (External Affairs) Regulations
+(2) Payment of the foreign service allowance shall
+abate by fifty per cent during all periods of leave not included in subregulation (1).
+(3) Allowances payable to an officer posted at a
+Mission shall not be payable during pre-retirement leave.
+CHAPTER VII CONDUCT
+42. (1) All matters relating to conduct and discipline
+of officers shall be governed by the Public Service Commission Regulations.
+(2) An officer serving at a Mission shall at no time
+engage in any activity which would in any way impair his usefulness as an official representative of Trinidad and Tobago or bring the Government of Trinidad and Tobago into disrepute.
+(3) An officer posted at a Mission shall be held
+responsible for the conduct of the members of his household.
+43. The spouse of a Foreign Service Officer may take up
+such mode of employment in the host country as is approved by the Head of Mission.
+44. (1) An officer who decides to marry shall so inform
+the Permanent Secretary in writing at least two months before the event giving the name, address, occupation and nationality of the intended spouse.
+(2) Where the effect of an officer's marriage would be to
+diminish substantially his or her usefulness as a Trinidad and Tobago representative abroad as by limiting the number of
+[Subsidiary] Civil Service (External Affairs) Regulations
 countries to which that officer could be posted or would otherwise affect that officer's usefulness as a member of the Foreign Service that officer may be transferred from the Foreign Service.
 45. An officer posted at a Mission shall not, without the specific instructions in writing of the Head of Mission or the Permanent Secretary, engage in or take part in any activity which is or is likely to be one of national or international political controversy in the country in which he is serving.
 46. An officer or his spouse shall not accept any foreign honour, decoration or medal without the prior approval of the Government of Trinidad and Tobago.
-47. With the exception of regulations 4 to 8, 11, 30, 31, and 42 to 46, these Regulations shall be deemed to have come into force on 1st January 1976.
-Civil Service (External Affairs) Regulations
-SCHEDULE
+47. With the exception of regulations 4 to 8, 11, 30, 31, and 42 to 46, these Regulations shall be deemed to have come into force on 1st January 1976. [Subsidiary] Civil Service (External Affairs) Regulations
+SCHEDULE (Regulation 35A). [149/1989].
 Status of Officers Maximum Sums Allowed
 U.S.A. Canada Caribbean Other Countries US Can TT
-Foreign Service
+(a) Foreign Service
 equivalent of US $1,000 per Officers V, IV, III 1,000 per 1,000 per 1,000 per
 month converted into $TT month month month and re-converted into the currency of the country at the exchange rate fixed by Treasury Division of the Ministry of Finance
-Foreign Service
+(b) Foreign Service
 equivalent of US$750 per Officers II, I … 750 per 750 per 750 per
 month converted into $TT month month month and re-converted into the Foreign Service currency of the country at Executive Officer III the exchange rate fixed by Treasury Division of the Ministry of Finance
-Foreign Service Executive
+(c) Foreign Service
+Executive
 equivalent of US$500 per Officers II, I … 500 per 500 per 500 per
 month converted into $TT month month month and re-converted into the currency of the country at the exchange rate fixed by Treasury Division of the Ministry of Finance.
+[Subsidiary]
 UNITED KINGDOM-TRINIDAD AND TOBAGO
 PUBLIC OFFICERS AGREEMENT
 Her Majesty's Government in the United Kingdom and the Government of Trinidad and Tobago have agreed as follows:
@@ -1299,16 +1373,14 @@ paragraph (a), (b) or (c) of this Article) is or has been a member of Her Majest
 benefit or other like benefit payable by the Government of Trinidad and Tobago to or in respect of any officer, including any increase of pension;
 (b) any pension, including any increase of pension,
 payable to the widow or child of an officer and any contributions repayable by that Government and interest thereon under any law providing
-United Kingdom-Trinidad and Tobago Public Officers Agreement
+United Kingdom-Trinidad and Tobago Public Officers Agreement [Subsidiary]
 for the payment of pension to the widows and children of officers; "substantive holder" in relation to any office includes a person
 serving in that office on probation but does not include a person (other than a person serving under a probationary agreement) serving in that office for a specified term under a contract.
-2. (1) (a) Subject to the provisions of Article 3 of this
-Agreement an officer who does not cease to be in the public service of Trinidad and Tobago before the appointed day shall be entitled to conditions of service not less favourable than those applicable to him immediately before that date.
-(b) In this Article the expression "conditions of
-service" means the laws, rules, regulations, orders and other instruments that regulate the terms of service of an officer, including (without prejudice to the generality of the foregoing) provisions regulating his tenure of office, transfer, promotion, disciplinary control, remuneration, leave and passages.
+2. (a) Subject to the provisions of Article 3 of this Agreement an officer who does not cease to be in the public service of Trinidad and Tobago before the appointed day shall be entitled to conditions of service not less favourable than those applicable to him immediately before that date.
+(b) In this Article the expression "conditions of service" means the laws, rules, regulations, orders and other instruments that regulate the terms of service of an officer, including (without prejudice to the generality of the foregoing) provisions regulating his tenure of office, transfer, promotion, disciplinary control, remuneration, leave and passages.
 3. The entitlement of an officer who does not cease to be in the public service of Trinidad and Tobago before the appointed day to retire and his eligibility and that of his widow, children, dependants and personal representatives to receive a pension shall be governed by the laws, Regulations and administrative directions in force immediately before that day or by such other laws, regulations or administrative directions made thereafter that are not less favourable; and pensions shall be granted and paid to such officers and other persons accordingly.
 4. (1) Pensions to officers who have been, or have ceased to be, in the public service of Trinidad and Tobago before the appointed day, or to their widows, children, dependants or personal representatives, shall be granted and paid or, if granted before that date, shall continue to be paid, in accordance with the laws, regulations and administrative directions governing those pensions
-United Kingdom-Trinidad and Tobago Public Officers Agreement
+United Kingdom-Trinidad and Tobago Public Officers Agreement [Subsidiary]
 on the relevant day or in accordance with such other laws, regulations or administrative directions made thereafter that are not less favourable.
 (2) For the purposes of this Article, "the relevant day" means-
 (a) in relation to a pension granted before the
@@ -1319,7 +1391,7 @@ the appointed day the day immediately before that day.
 Provided that if there is a general revision of salaries consequent upon a revaluation of the currency of Trinidad and Tobago as a result of which the pensionable emoluments of an officer may be increased the Government of Trinidad and Tobago may require that officer to agree that any pension that may be granted to him shall be calculated at the rate of exchange prevailing at the date of the revision of salaries before granting him the benefit of the increase of pensionable emoluments:
 Provided further that in the event of a change in the monetary unit of currency in use in Trinidad and Tobago, such change shall not affect the calculations of any pension payable under this Article outside the Federation, so as to reduce the amount of the pension in terms of the pound sterling.
 (2) Every pensioner who is being paid a pension on the appointed day shall exercise within six months of that date an option as to whether his pension and any pension that may become payable to his widow, children, dependants or personal representatives shall be paid in the Federation or outside the Federation:
-United Kingdom-Trinidad and Tobago Public Officers Agreement
+United Kingdom-Trinidad and Tobago Public Officers Agreement [Subsidiary]
 Provided that where no option is exercised within six months after the appointed day an option shall be deemed to have been exercised for the payment of the pension either in the Federation or outside the Federation, as the case may be according to where it was being paid on that date.
 (3) In every other case an officer eligible for a pension shall exercise before the award of his pension an option as to whether his pension and any pension that may become payable to his widow, children, dependants or personal representatives, shall be paid in the Federation or outside the Federation.
 (4) Where, in consequence of the death of any person, a pension becomes payable after the appointed day to his widow, children or any dependant, or to his personal representatives, an option as to whether the pension shall be paid in the Federation or outside the Federation-
@@ -1332,7 +1404,7 @@ option (if any) exercised by that person under paragraph (2) or paragraph (3) of
 (7) An option exercised or revoked in accordance with this Article-
 (a) shall be exercised or revoked by notice in
 writing; and
-United Kingdom-Trinidad and Tobago Public Officers Agreement
+United Kingdom-Trinidad and Tobago Public Officers Agreement [Subsidiary]
 (b) shall be deemed to have been exercised or revoked
 on the date on which the notice is received.
 (8) For the purposes of this Article-
@@ -1361,6 +1433,8 @@ Done in duplicate at London this 6th day of October 1960 and this 14th day of No
 - Margin: Manipulative Class.
 - Margin: Age limit of candidates.
 - Margin: Employment of married women.
+- Margin: Services of Permanent Secretaries or Heads of Departments to be extended past age of compulsory retirement. [139/2008].
+- Margin: Ch. 23:52.
 - Margin: Re-employment of pensioners. [184/1970].
 - Margin: Age of recruitment. [127/1977 81/1982 144/1984].
 - Margin: Ch. 23:52.
@@ -1490,7 +1564,7 @@ Done in duplicate at London this 6th day of October 1960 and this 14th day of No
 - Margin: Activities outside the service.
 - Margin: Officer not to publish information.
 - Margin: Officer's comment on questions of public policy.
-- Margin: Lectures/ talks.
+- Margin: Lectures/talks.
 - Margin: Indebtedness.
 - Margin: Bankruptcy.
 - Margin: Officer not to solicit intervention.
@@ -1500,303 +1574,71 @@ Done in duplicate at London this 6th day of October 1960 and this 14th day of No
 - Margin: Legal proceedings.
 - Margin: Officer to report criminal charge.
 - Margin: Misconduct defined.
-- Margin: [Subsidiary]
-- Margin: Regulation 4.
-- Margin: Administrative Cadet
-- Margin: Hospital Manager I
-- Margin: Marshal
-- Margin: Supervisor (Electoral)
-- Margin: Supervisor
-- Margin: Chief Storekeeper
-- Margin: Hansard Editor
-- Margin: Clerk of the Peace III
-- Margin: Hospital Manager II
-- Margin: Clerk of the Senate
-- Margin: Development
-- Margin: [Subsidiary]
-- Margin: [Subsidiary]
-- Margin: Solicitor I
-- Margin: Physicist
-- Margin: Fisheries Officer
-- Margin: Document Examiner
-- Margin: Drug Analyst
-- Margin: House Officer
-- Margin: Veterinary Officer
-- Margin: Quantity Surveyor III
-- Margin: Architect III
-- Margin: Land Surveyor
-- Margin: Statistician III
-- Margin: Chemist III
-- Margin: Petroleum Engineer I
-- Margin: Economist III
-- Margin: Accountant V
-- Margin: Auditor IV
-- Margin: Cost Accountant III
-- Margin: Civil Engineer III
-- Margin: Sanitary Engineer I
-- Margin: Senior Pathologist
-- Margin: Radiologist
-- Margin: Anaesthetist
-- Margin: State Solicitor
-- Margin: Trustee
-- Margin: Geologist
-- Margin: Petroleum Engineer II
-- Margin: Director of Surveys
-- Margin: Chief Town Planner
-- Margin: Principal Pathologist
-- Margin: Senior Radiologist
-- Margin: Control)
-- Margin: Director of Highways
-- Margin: [Subsidiary]
-- Margin: Printing Assistant
-- Margin: Moulder
-- Margin: Baker I
-- Margin: Cook I
-- Margin: Student Pharmacist
-- Margin: Draughtsman Trainee
-- Margin: Student Nurse
-- Margin: Midwifery Student
-- Margin: Vari-Typist I
-- Margin: Radiographer Student
-- Margin: Seamstress
-- Margin: Smelter
-- Margin: Printing Operator I
-- Margin: Radiographer Aide
-- Margin: Postman II
-- Margin: Sterilizer Operator
-- Margin: Printing Operator II
-- Margin: Printing Mechanic
-- Margin: Launch Mechanic II
-- Margin: Lithographer I
-- Margin: Carpenter Foreman
-- Margin: Vari-Typist II
-- Margin: Statistical Officer I
-- Margin: Immigration Officer I
-- Margin: [Subsidiary]
-- Margin: Postal Officer I
-- Margin: Photographer I
-- Margin: Cook III
-- Margin: Forester I
-- Margin: Transport Foreman I
-- Margin: Darkroom Technician
-- Margin: Furniture Inspector
-- Margin: X-ray Technologist I
-- Margin: Bailiff II
-- Margin: Postman III
-- Margin: Launch Supervisor
-- Margin: Electrician
-- Margin: Tailor II
-- Margin: Printing Operator III
-- Margin: Laundry Supervisor I
-- Margin: Regional Planning)
-- Margin: Topographer
-- Margin: Road Officer I
-- Margin: [Subsidiary]
-- Margin: Statistical Officer II
-- Margin: Draughtsman I
-- Margin: Agricultural Assistant
-- Margin: Skipper
-- Margin: Electrical Foreman
-- Margin: Conveyancing Clerk I
-- Margin: Traffic Safety Officer
-- Margin: Senior Nurse
-- Margin: Ward Sister
-- Margin: Furniture Supervisor
-- Margin: Transport Supervisor
-- Margin: Quarry Supervisor II
-- Margin: Draughtsman II
-- Margin: Films Officer I
-- Margin: Valuer I
-- Margin: Clinical Instructor
-- Margin: Printing Supervisor I
-- Margin: Hydrographer
-- Margin: Electrical Inspector I
-- Margin: Building Inspector I
-- Margin: Scientific Assistant II
-- Margin: Forest Supervisor
-- Margin: Works Supervisor
-- Margin: Actuarial Assistant
-- Margin: Press Officer II
-- Margin: Works Foreman III
-- Margin: Road Officer II
-- Margin: Field Interviewer II
-- Margin: [Subsidiary]
-- Margin: Youth Officer I
-- Margin: Trade Officer I
-- Margin: Labour Officer I
-- Margin: Costs Inspector
-- Margin: Medical Technologist
-- Margin: Printing Supervisor II
-- Margin: Research Assistant II
-- Margin: Pharmacist I
-- Margin: Nursing Instructor II
-- Margin: Accountant II
-- Margin: Revenue Officer III
-- Margin: Postal Supervisor I
-- Margin: Youth Officer II
-- Margin: Auditor I
-- Margin: Trade Officer II
-- Margin: Clerk of the Peace II
-- Margin: Stock Verifier II
-- Margin: Budget Analyst I
-- Margin: Systems Analyst
-- Margin: [Subsidiary]
-- Margin: Radiographer II
-- Margin: Works Supervisor III
-- Margin: Physiotherapist II
-- Margin: County Matron
-- Margin: Pharmacist II
-- Margin: Principal Pharmacist
-- Margin: Budget Analyst III
-- Margin: Receptionist
-- Margin: Stores Clerk I
-- Margin: Search Clerk
-- Margin: Record Keeper
-- Margin: Clerk I
-- Margin: Cashier I
-- Margin: Key Punch Operator I
-- Margin: Film Librarian
-- Margin: Stores Clerk II
-- Margin: Clerk II
-- Margin: Storekeeper I
-- Margin: Cashier II
-- Margin: Title Clerk
-- Margin: Accounting Assistant
-- Margin: [Subsidiary]
-- Margin: Clerk Typist I
-- Margin: Clerk Stenographer I
-- Margin: Clerk Typist II
-- Margin: Clerk Stenographer II
 - Margin: Shorthand Writer
-- Margin: Dog Catcher
-- Margin: Cook Trainee
-- Margin: Office Attendant
-- Margin: Maid
-- Margin: Cleaner I
-- Margin: Laundress I
-- Margin: Attendant
-- Margin: Ship Cook I
-- Margin: Porter
-- Margin: Janitor
-- Margin: Cleaner II
-- Margin: Watchman
-- Margin: Maid, Parliament
-- Margin: Caretaker
-- Margin: Groundsman
-- Margin: Stores Attendant
-- Margin: Wardsmaid
-- Margin: Nurse's Aide
-- Margin: Laboratory Assistant I
-- Margin: Mortuary Attendant
-- Margin: Hospital Attendant I
-- Margin: [Subsidiary]
-- Margin: Laundress II
-- Margin: Messenger I
-- Margin: Vault Attendant I
-- Margin: Postal Guard I
-- Margin: Postal Assistant
-- Margin: Explosives Keeper
-- Margin: Ship Fireman/Oiler
-- Margin: Chauffeur
-- Margin: Deckhand I
-- Margin: Messenger II
-- Margin: Dental Assistant
-- Margin: X-ray Orderly
-- Margin: Postman I
-- Margin: [Subsidiary]
-- Margin: [Subsidiary]
-- Margin: [Subsidiary]
-- Margin: [Subsidiary]
 - Margin: 149/1977.
 - Margin: Citation.
 - Margin: Interpretation. [8/1995].
 - Margin: Ch. 45:51.
 - Margin: First Schedule.
-- Margin: [Subsidiary]
+- Margin: Ch. 1:01.
 - Margin: Application.
 - Margin: Sub. Leg. supra.
 - Margin: Qualifications for entry.
-- Margin: [Subsidiary]
 - Margin: Posting.
 - Margin: Initial service at Headquarters.
-- Margin: [Subsidiary]
 - Margin: Pre-posting medical examination.
 - Margin: Tours of duty.
 - Margin: Passages and transportation of baggage, etc.
-- Margin: [Subsidiary]
 - Margin: Storage charges on personal and household effects.
-- Margin: [Subsidiary]
 - Margin: Officers to travel by air.
 - Margin: Sub. Leg. supra.
 - Margin: Retirement.
 - Margin: Death.
-- Margin: Foreign Service Allowance.
-- Margin: [Subsidiary]
+- Margin: Foreign Service allowance.
 - Margin: Child allowance.
 - Margin: Children's passages. [150/1989].
-- Margin: [Subsidiary]
 - Margin: Education allowance.
 - Margin: Travelling allowance.
 - Margin: Commencement and termination of payment of allowances.
-- Margin: [Subsidiary]
 - Margin: Displacement allowance.
 - Margin: Separation allowance.
 - Margin: Outfit allowance.
 - Margin: Warm-clothing allowance.
-- Margin: [Subsidiary]
 - Margin: Allowances whilst acting in a higher post.
 - Margin: Sub. Leg. supra.
 - Margin: Language allowance.
-- Margin: [Subsidiary]
 - Margin: Fees for translation, etc.
 - Margin: Travelling on official business.
 - Margin: Sub. Leg. supra.
 - Margin: Compassionate travel allowance and other expenses.
 - Margin: Reimbursement of emergency evacuation expenses.
-- Margin: [Subsidiary]
 - Margin: Medical insurance.
 - Margin: Medical expenses.
 - Margin: Government to pay necessary transportation costs for medical treatment.
-- Margin: [Subsidiary]
 - Margin: Hotel accommodation.
 - Margin: Housing accommodation of officers posted to Missions.
 - Margin: Furnishing of unfurnished accommodation.
 - Margin: Special Housing Allowance. [149/1989].
-- Margin: [Subsidiary]
 - Margin: Schedule.
 - Margin: Housing accommodation for Foreign Service Officers in Trinidad and Tobago. [30/1982].
 - Margin: Sub. Leg. supra.
-- Margin: [Subsidiary]
 - Margin: Housing allowance for non-diplomatic staff posted to Headquarters. [30/1982].
 - Margin: Annual leave. [149/1989]. Sub. Leg. supra.
-- Margin: [Subsidiary]
 - Margin: Long leave. [149/1989].
 - Margin: Sub. Leg. supra.
 - Margin: Passages for long leave.
 - Margin: Allowances payable during periods of leave.
-- Margin: [Subsidiary]
 - Margin: Conduct and discipline.
 - Margin: Working spouse.
 - Margin: Marriage.
-- Margin: [Subsidiary]
 - Margin: Political activity.
 - Margin: Foreign honours or decorations.
 - Margin: Commencement.
-- Margin: [Subsidiary]
-- Margin: (Regulation 35A). [149/1989].
-- Margin: (a)
-- Margin: (b)
-- Margin: (c)
-- Margin: [Subsidiary]
 - Margin: 135/1960.
 - Margin: Interpretation.
-- Margin: [Subsidiary]
 - Margin: Conditions of Service.
 - Margin: Retirement and pensions of officers, etc.
 - Margin: Preservation of pensions.
-- Margin: [Subsidiary]
 - Margin: Payment of pension.
-- Margin: [Subsidiary]
-- Margin: [Subsidiary]
 - Margin: Options.
 - Margin: Officers in H.M.O.C.S. and H.M.O.J.
