@@ -1,17 +1,17 @@
 # FIRST SCHEDULE
 CODE OF ETHICS
-1. This code of ethics shall apply to certified mediators and is intended to assist and guide certified mediators in their conduct and to provide a framework within which mediation is conducted and regulated.
+1. This Code of Ethics shall apply to certified mediators and is intended to assist and guide certified mediators in their conduct and to provide a framework within which mediation is conducted and regulated.
 2. In this Code- "Conflict of interests" means direct or indirect financial personal interests in
-the outcome of the dispute or an existing or past financial, business, professional, family or social relationship which is likely to affect the impartiality or reasonably create an appearance of partiality or bias; "impartiality" means freedom from favouritism and bias either by words, action
-or by appearance and implies a commitment to serve all mediation parties as opposed to a single mediation party in moving towards or reaching agreement.
+the outcome of the dispute or an existing or past financial, business, professional, family or social relationship which is likely to affect the impartiality or reasonably create an appearance of partiality or bias; "impartiality" means freedom from favouritism and bias either by words,
+action or by appearance and implies a commitment to serve all mediation parties as opposed to a single mediation party in moving towards or reaching agreement.
 GENERAL RESPONSIBILITIES
 3. Certified mediators shall-
 (a) conduct themselves in a manner which will instill confidence
 in the mediation process, confidence in their integrity and confidence that disputes entrusted to them are handled in accordance with the highest ethical standards;
 (b) be responsible to the parties, to the profession, to the public
 and to themselves, and accordingly shall be honest and unbiased, act in good faith, be diligent, and not seek to advance their own interest, but rather the needs and interests of the mediation parties;
-(c) act fairly in dealing with the mediation parties, have no personal
-interests in the terms of the settlement, show no bias towards individuals or parties involved in the disputes and be certain that the mediation parties are informed of the process in which they are involved.
+(c) act fairly in dealing with the mediation parties, have no
+personal interests in the terms of the settlement, show no bias towards individuals or parties involved in the disputes and be certain that the mediation parties are informed of the process in which they are involved.
 ETHICAL STANDARDS
 4. (1) The primary role of the mediator is to facilitate the voluntary resolution of a dispute.
 (2) The primary responsibility for the resolution of the dispute and the shaping of a settlement rests with the mediation parties.

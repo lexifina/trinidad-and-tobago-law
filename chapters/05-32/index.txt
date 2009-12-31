@@ -21,3 +21,9 @@ first-schedule.md
 second-schedule.md
 third-schedule.md
 fourth-schedule.md
+sl-01/title.md
+sl-01/r-1.md
+sl-01/r-2.md
+sl-01/third-schedule.md
+sl-01/fourth-schedule.md
+sl-01/fifth-schedule.md
