@@ -30,13 +30,13 @@ company incorporated in Trinidad and Tobago and approved by the Central Bank;
 scheme for indebtedness of the Unit Trust Corporation of Trinidad and Tobago;
 (i) unit certificates, shares or evidence of participation in
 financial assets not exceeding ten per cent of the Statutory Fund Requirement and whose portfolio is regulated either by authorities in Trinidad and Tobago or in any-
-(a) member country of the Organisation of Economic
+(i) member country of the Organisation of Economic
 Co-operation and Development;
-(b) Commonwealth country;
-(c) other country,
-that the Minister may by Order declare an approved country.
+(ii) Commonwealth country;
+(iii) other country, that the Minister may by Order declare an approved country.
 (j) the shares of a venture capital company registered under the
-Venture Capital Act. 2. Mortgages and other titles for repayment of loan secured by-
+Venture Capital Act.
+2. Mortgages and other titles for repayment of loan secured by-
 (a) real estate or leaseholds for a term of years or other estate or
 interest in real estate in Trinidad and Tobago where the amount of the loan together with the amount of indebtedness under any mortgage or other charge on the real estate or interest therein ranking equally with or superior to the loan does not exceed eighty per cent of the value of the real estate or interest therein, subject to the exception that a company-
 (i) may upon the sale of real estate in which its funds are
@@ -46,7 +46,8 @@ on real estate where the amount of indebtedness under any mortgage or other char
 (b) real estate or leaseholds in Trinidad and Tobago
 notwithstanding that the loan exceeded the amount which the company may otherwise invest in, if the excess is guaranteed or insured by the Government or through an agency of the Govermnent of Trinidad and Tobago;
 (c) ground rents, mortgages or hypothecs on real estate or
-leaseholds in Trinidad and Tobago or in the country in which the head office of the company is situated, where the amount of the mortgage or hypothec together with the amount of indebtedness under any mortgage or hypothec on the real estate or leasehold ranking equally with or superior to the mortgage or hypothec which is invested in does not exceed eighty per cent of the value of the real estate or leasehold covered thereby. 3. Real estate or leaseholds-
+leaseholds in Trinidad and Tobago or in the country in which the head office of the company is situated, where the amount of the mortgage or hypothec together with the amount of indebtedness under any mortgage or hypothec on the real estate or leasehold ranking equally with or superior to the mortgage or hypothec which is invested in does not exceed eighty per cent of the value of the real estate or leasehold covered thereby.
+3. Real estate or leaseholds-
 (a) real estate or leaseholds in Trinidad and Tobago for the
 production of income either alone or jointly with any other company transacting insurance business in Trinidad and Tobago or with any other company incorporated in Trinidad and Tobago where-
 (i) a lease of the real estate or leasehold is made to or
@@ -54,8 +55,8 @@ guaranteed by the Government of Trinidad and Tobago or an agency of the Governme
 (ii) the real estate or leasehold has produced in each of the
 three years immediately preceding the date of investing therein net revenue in an amount which if received in each year following the date of investment, would be sufficient to yield a reasonable interest return on the amount invested in the real estate or leasehold and to repay at least eighty-five per cent of that amount
 within the portion of the economic lifetime of the improvements to the real estate or leasehold which remain at the date of investment but not exceeding forty years from that date;
-(b) real estate in Trinidad and Tobago required by the company for its
-actual use or occupation or reasonably required by it for the natural expansion of its business or acquired by it for the natural expansion of its business or acquire by foreclosure of a mortgage on real estate where the mortgage is an investment under this Act, save that the total amount of investment in real estate either for the production of income or for the use and natural expansion of the business of the company shall not exceed-
+(b) real estate in Trinidad and Tobago required by the company for
+its actual use or occupation or reasonably required by it for the natural expansion of its business or acquired by it for the natural expansion of its business or acquire by foreclosure of a mortgage on real estate where the mortgage is an investment under this Act, save that the total amount of investment in real estate either for the production of income or for the use and natural expansion of the business of the company shall not exceed-
 (i) in the case of a company carrying on long-term insurance
 business, twenty per cent of the total value of assets required to satisfy the statutory fund requirement; or
 (ii) in the case of a company carrying on general insurance
@@ -81,6 +82,6 @@ insurance business such amount as may be approved by the Central Bank.
 8. A company shall not invest in trust bonds, debentures or other evidence of indebtedness on which payment of principal or interest is in default.
 9. A company shall not purchase more than thirty per cent of the ordinary shares of any corporation.
 10. A company registered to carry on life insurance business shall not, in respect of that business, purchase the shares of a company, incorporated in Trinidad and Tobago and carrying on such business.
-- Margin: (Section 46). [180/1983 41/1987 13/1992 93/1992 9 of 1997 110/1998 281/2000 15 of 2004 32/2006 22 of 2007].
+- Margin: Section 46. [180/1983 41/1987 13/1992 93/1992 9 of 1997 110/1998 281/2000 15 of 2004 32/2006 22 of 2007].
 - Margin: Ch. 81:08.
 - Margin: Ch.79:09.

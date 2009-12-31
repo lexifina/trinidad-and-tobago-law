@@ -1,2 +1,2 @@
 # THIRD SCHEDULE
-- Margin: [Section 125(1)].
+- Margin: Section 125(1).

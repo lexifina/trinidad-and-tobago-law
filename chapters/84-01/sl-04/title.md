@@ -1,0 +1,4 @@
+INSURANCE COMPANIES (REGISTRATION)
+REGULATIONS
+made under section 214(1)
+- Margin: 152/1980. [15 of 2004].
