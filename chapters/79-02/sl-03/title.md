@@ -1,4 +1,0 @@
-PAR VALUE OF THE TRINIDAD AND TOBAGO
-DOLLAR ORDER
-made under section 23(1)
-- Margin: 57/1993.
