@@ -8,13 +8,13 @@ Judge of High Court
 NOTE ON SECOND SCHEDULE
 Regulation 73 which dealt with the incurring of debts by an officer has been revoked by LN 28/1991.
 Public Service Commission Regulations
-REGULATION 73(2). SIGNATURE ... NUMBER OF DEPENDANTS ... MARRIED/SINGLE ...
+REGULATION 73(2)... NUMBER OF DEPENDANTS ... SIGNATURE ... MARRIED/SINGLE ...
 AMOUNT NOW
 OUTSTANDING
 REPAYMENT
 TERMS OF
 HOW SECURED
-AS AT ... 20... *SECOND SCHEDULE
-RETURN OF INDEBTEDNESS
+AS AT ... 20...
+RETURN OF INDEBTEDNESS *SECOND SCHEDULE
 - Margin: Regulation 3(2).
 - Margin: [Subsidiary]

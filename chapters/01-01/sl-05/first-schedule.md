@@ -157,7 +157,7 @@ Department of Central Administrative Services, Tobago, to cease to report for du
 of misconduct or indiscipline described in column 1 of the Second Schedule being a breach of a regulation in respect of the Civil Service as specified in Column 2.
 2. In exercise of the power delegated under paragraph 1(e) the Permanent Secretary shall-
 (a) exercise the powers of the Commission under regulation 90(6)
-and (7).
+and (7);
 (b) assign a public officer of a grade higher than that of the
 officer charged with misconduct or indiscipline but in no case of a grade lower than that of a Clerk IV to be a disciplinary tribunal, and that officer shall hear the evidence, find the facts and make a report thereon to the Permanent Secretary in accordance with the provisions respecting the functions and duties of a Disciplinary Tribunal as prescribed in the Regulations.
 3. Any fine which the Permanent Secretary imposes under paragraph 1(e) shall not exceed an amount calculated on four days pay per month to a maximum of three months.
