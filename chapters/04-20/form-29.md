@@ -4,7 +4,7 @@ WHERE THE CASE IS ADJOURNED OR NOT AT
 ONCE PROCEEDED WITH
 REPUBLIC OF TRINIDAD AND TOBAGO. County of ...
 Be it remembered that on the ...day of ..., 20..., C.D., of ...,and G.H., of ...personally came before me, the undersigned Magistrate [or Justice] for the ... District, and severally acknowledged themselves to owe to the State the several sums following, namely, the said C.D., as principal, the sum of ... and the said G.H., as surety, the sum of ... to be levied on their several movable and immovable property respectively, if the said C.D. fails in the condition hereon endorsed.
-Taken and acknowledged the day and year first above mentioned before me.
+Taken and acknowledged the day and year first above-mentioned before me.
 (Signed) ...
 (Magistrate or Justice)
 CONDITION ENDORSED
