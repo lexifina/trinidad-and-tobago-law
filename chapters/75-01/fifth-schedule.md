@@ -30,8 +30,8 @@ Limit on Total Credit
 5. Without prejudice to the provisions of regulation 4 the total credit to be allowed to a person against income tax for any year of income for foreign tax under all arrangements having effect by virtue of section 93 of this Act shall not exceed the total tax payable by him for that year.
 Effect on Computation of Income of Allowance of Credit
 6. (1) In computing the amount of the income-
-(a) no deduction shall be allowed in respect of foreign tax (whether
-in respect of the same or any other income);
+(a) no deduction shall be allowed in respect of foreign tax
+(whether in respect of the same or any other income);
 (b) where the income tax chargeable depends on the amount
 received in Trinidad and Tobago, the said amount shall be increased by the appropriate amount of the foreign tax in respect of the income;
 (c) where the income includes a dividend and under the
@@ -41,10 +41,10 @@ arrangements, foreign tax not chargeable directly or by deduction in respect of 
 (2) For the purposes of subregulation (1), the relevant profits are-
 (a) if the dividend is paid for a specified period, the profits of
 that period;
-(b) if the dividend is not paid for a specified period but is paid out
-of specified profits, those profits;
-(c) if the dividend is paid neither for a specified period nor out of
-specified profits, the profits of the last period for which accounts of the body corporate were made up which ended before the dividend became payable. Provided that if, however, in a case falling under paragraph (a) or paragraph (c) of this subregulation, the total dividend exceeds the profits available for distribution of the period mentioned in the said paragraph (a) or the said paragraph (c), as the case may be, the relevant profits shall be the profits of that period plus so much of the profits available for distribution of preceding periods (other than profits previously distributed or previously treated as relevant for the purposes of this subregulation) as are equal to the excess; and for the purposes of this proviso the profits of the most recent preceding period shall first be taken into account, then the profits of the next most recent preceding period, and so on.
+(b) if the dividend is not paid for a specified period but is paid
+out of specified profits, those profits;
+(c) if the dividend is paid neither for a specified period nor out
+of specified profits, the profits of the last period for which accounts of the body corporate were made up which ended before the dividend became payable. Provided that if, however, in a case falling under paragraph (a) or paragraph (c) of this subregulation, the total dividend exceeds the profits available for distribution of the period mentioned in the said paragraph (a) or the said paragraph (c), as the case may be, the relevant profits shall be the profits of that period plus so much of the profits available for distribution of preceding periods (other than profits previously distributed or previously treated as relevant for the purposes of this subregulation) as are equal to the excess; and for the purposes of this proviso the profits of the most recent preceding period shall first be taken into account, then the profits of the next most recent preceding period, and so on.
 8. Where-
 (a) the arrangements provide, in relation to dividends of some
 classes but not in relation to dividends of other classes, that foreign tax not chargeable directly or by deduction in respect of dividends is to be taken into account in considering whether any, and if so, what credit is to be given against income tax in respect of the dividends; and
@@ -73,7 +73,7 @@ COMMONWEALTH COUNTRIES PRESCRIBED FOR
 DOUBLE TAXATION PURPOSES [WHICH PROVISIONS
 WERE FORMERLY CONTAINED IN SECTIONS 47(3),
 48 AND 49 OF THE INCOME TAX ORDINANCE
-CH. 33 NO. 1 (1950 ED.) BUT WERE REPEALED BY
+CH. 33. NO. 1 (1950 ED.) BUT WERE REPEALED BY
 THE FINANCE ACT 1966 (ACT NO. 29 OF 1966)]
 1. For the purposes of section 96(2) (in this Part referred to as "the section"), the expression "rate of tax" when applied to tax paid or payable under this Act, means the rate determined by dividing the amount of tax paid or payable for the year (before the deduction of any relief granted under the section) by the amount of the income in respect of which the tax paid or payable under this Act has been charged for that year, except that where the income which is the subject of a claim to relief under the section is computed by reference to the provisions of section 60 on an amount other than the ascertained amount of the actual profits, the rate of tax shall be determined by the Board.
 2. If any person resident in Trinidad and Tobago who has paid, by deduction or otherwise, or is liable to pay tax under this Act for any year of income on any part of income, proves to the satisfaction of the Board that he has paid by deduction or otherwise, or is liable to pay Commonwealth income tax for that year in respect of the same part of his income, he shall be entitled to relief from tax in Trinidad and Tobago paid or payable by him on that part of his income at a rate thereon to be determined as follows:
@@ -84,8 +84,8 @@ be half the rate of tax appropriate to his case under this Act.
 3. If any person not resident in Trinidad and Tobago, who has paid by deduction or otherwise, or is liable to pay, tax under this Act for any year of income on any part of his income, proves to the satisfaction of the Board that he has paid, by deduction or otherwise or is liable to pay, Commonwealth income tax for that year of income in respect of the same part of his income, he shall be entitled to relief from tax paid or payable by him under this Act on that part of his income at a rate thereon to be determined as follows:
 (a) if the Commonwealth rate of tax appropriate to his case does
 not exceed the rate of tax appropriate to his case under this Act, the rate at which relief is to be given shall be one-half of the Commonwealth rate of tax;
-(b) if the Commonwealth rate of tax appropriate to his case exceeds
-the rate of tax appropriate to his case under this Act, the rate at which relief is to be given shall be equal to the amount by which the rate of tax appropriate to his case under this Act exceeds one-half of the Commonwealth rate of tax.
+(b) if the Commonwealth rate of tax appropriate to his case
+exceeds the rate of tax appropriate to his case under this Act, the rate at which relief is to be given shall be equal to the amount by which the rate of tax appropriate to his case under this Act exceeds one-half of the Commonwealth rate of tax.
 4. For the purposes of this Part, the expression "Commonwealth income tax" means any income tax charged under any law in force in any Commonwealth country (other than the United Kingdom or Trinidad and Tobago), provided that the legislature of that country has provided for relief in respect of tax charged on income both in that part of place and Trinidad and Tobago in a manner similar to that provided in the section.
 5. For the purposes of the section, the rate of tax under this Act shall be computed in the manner provided by paragraph 1 and the Commonwealth rate of tax shall be computed in a similar manner.
 6. Where a person is, for any year of income, resident both in Trinidad and Tobago and in a country in which Commonwealth income tax is charged, he shall, for the purposes of the section, be deemed to be resident where, during that year, he resides for the longer period.

@@ -16,7 +16,6 @@ DEDUCTION OF TAX
 PAYMENT OF TAX DEDUCTED
 9. Tax deducted to be paid to Board.
 ACCOUNTING FOR TAX DEDUCTED
-10. Returns. (Repealed by LN 106/1989). 11.
-12. Employer to give a certificate to employee. 13. Cessation of employment. 14. Cessation of business. 15. Death of employee. 16. Particulars of payments. 17. Record of emoluments.
+10. Returns. 11. (Repealed by LN 106/1989). 12. Employer to give a certificate to employee. 13. Cessation of employment. 14. Cessation of business. 15. Death of employee. 16. Particulars of payments. 17. Record of emoluments.
 MISCELLANEOUS AND PENALTIES
 18. Death of employer. 19. Change of employer. 20. Declaration. 21. Tax tables. [Subsidiary] Income Tax (Employment) Regulations
