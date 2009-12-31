@@ -1,36 +1,38 @@
 NATIONAL INSURANCE ACT
 CHAPTER 32:01
 Act
-35 of 1971
-Amended by
-27 of 1974
-27 of 1977
-23 of 1980
+35 of 1971 Amended by
+27 of 1974 27 of 1977 23 of 1980
 11/1984
-*13 of 1984
-*14 of 1987
-**18 of 1993
-9 of 1999
-9 of 2004
-30 of 2007
-*See Note on Health Surcharge on page 3 **See Note on Act No. 18 of 1993 on page 3
+*13 of 1984 *14 of 1987 †18 of 1993
+9 of 1999 9 of 2004
+†30 of 2007
+17/2008 18/2008
+*See Note on Health Surcharge on page 3
+†See Note on page 3
 Index of Subsidiary Legislation
-Page National Insurance (Registration) Regulations (LN 27/2004) … … 84 National Insurance (Contribution) Regulations (GN 63/1972) … … 91 National Insurance (Medical Expenses) Regulations (GN 95/1977) … 106 National Insurance (Employment Injury)(Payment of Medical Expenses)
-Order (GN 226/1979) ... 110 National Insurance (Prescribed Diseases) Regulations (GN 94/1977) … 115 National Insurance (Benefits) Regulations (GN 77/1972) … … 130 National Insurance (Harmonisation of Pension Fund Plans) Regulations
-(GN 49/1972) ... 158 National Insurance (Appeals) Regulations (LN 131/1980) … … 161 National Insurance (CARICOM Reciprocal Agreement on Social Security)
-Order (LN 140/1998) ... 171 National Insurance (Agreement and Administrative Arrangement on Social
-Security between Canada and Trinidad and Tobago) Order (LN 21/1999) 198
+Page National Insurance (Registration) Regulations (LN 27/2004) … … 98 National Insurance (Contribution) Regulations (GN 63/1972) … … 105 National Insurance (Medical Expenses) Regulations (GN 95/1977) … 123 National Insurance (Employment Injury)(Payment of Medical Expenses)
+Order (GN 226/1979) ... 127 National Insurance (Prescribed Diseases) Regulations (GN 94/1977) … 135 National Insurance (Benefits) Regulations (GN 77/1972) … … 150 National Insurance (Harmonisation of Pension Fund Plans) Regulations
+(GN 49/1972) ... 183 National Insurance (Appeals) Regulations (LN 131/1980) … … 186 National Insurance (CARICOM Reciprocal Agreement on Social Security)
+Order (LN 140/1998) ... 196 National Insurance (Agreement and Administrative Arrangement on Social
+Security between Canada and Trinidad and Tobago) Order (LN 21/1999) 223
 Note on Commencement Date
 The following are the relevant commencement dates:
-(a) 15th November 1971-GN 223/1971 Section 1 to section 27, the provisions of Part II (i.e., section 28 to section 35) save in their application to self-employed persons and the provisions of sections 58, 64 and 71 came into operation on 15th November 1971 [GN 223/1971].
-(b) 10th April 1972-GN 62/1972 Section 36 to section 38; section 41 to section 45; section 46 (1)(d) and (f) to section 56 of Part III save in their application to employed persons employed by more than one person within the meaning of the said section 45; section 57; section 59 to section 63 and section 65 to section 70 of Part IV came into operation on 10th April 1972 [GN 62/1972].
+(a) 15th November 1971-GN 223/1971
+Section 1 to section 27, the provisions of Part II (i.e., section 28 to section 35) save in their application to self-employed persons and the provisions of sections 58, 64 and 71 came into operation on 15th November 1971 [GN 223/1971].
+(b) 10th April 1972-GN 62/1972
+Section 36 to section 38; section 41 to section 45; section 46(1)(d) and (f) to section 56 of Part III save in their application to employed persons employed by more than one person within the meaning of the said section 45; section 57; section 59 to section 63 and section 65 to section 70 of Part IV came into operation on 10th April 1972 [GN 62/1972].
 (c) 15th January 1973-GN 6/1973
 Section 46 (1)(a) and (b) came into operation on 15th January 1973.
 (See GN 6/1973 see also 27 of 1974).
 (d) 16th July 1973-GN 108/1973
-Section 46 (1)(g) came into operation on 16th July 1973 [GN 108/1973].
-(e) 10th December 1974-27 of 1974 Sections 39 and 40 came into operation on 10th December 1974 [27 of 1974].
-(f) 17th February 1975-GN 21/1975 Section 46(1)(e) came into operation on 17th February 1975 [GN 21/1975].
+Section 46(1)(g) came into operation on 16th July 1973 [GN 108/1973].
+(e) 10th December 1974-27 of 1974
+Sections 39 and 40 came into operation on 10th December 1974 [27 of 1974].
+(f) 17th February 1975-GN 21/1975
+Section 46(1)(e) came into operation on 17th February 1975 [GN 21/1975].
+(g) 7th January 2008-LNs 17, 18, 19, 20, 21, 22, 23, 24, 25, 37, 38,
+39 and 40.
 Note on Health Surcharge
 Legal Notice 11/1984 the Provisional Collection of Taxes Order, had introduced section 38 (a), dealing with surcharge contributions, but this new section was repealed by Act No. 13 of 1984, the National Insurance Amendment Act.
 Act No. 13 of 1984, amended section 8(1) and section 21. It introduced section 21(2). This Act also introduced Part IIIA, that is sections 56A to 56I. It also amended section 64, by introducing subsections (4A) and (4B). It also introduced section 65A.
@@ -60,12 +62,14 @@ THE BOARD
 MISCELLANEOUS
 10. Remuneration of Directors. 11. Declaration of interest. 12. Execution of documents. 13. Financial year and annual report of Board.
 PERSONNEL
-14. Appointment of officers and other employees. 15. Transfer of officers of Government to the Board.
+14. Appointment of officers and other employees. 15. Transfer of officers of Government to the Board. SECTION
 16. Transfer on secondment. 17. Establishment of a Pension Scheme. 18. Content of Pension Scheme. 19. Public officers to exercise option. 20. Responsibility of officers. 21. Funds and resources of the Board. 22. Application of revenue. 23. Authorised investments. 24. Investment Committee. 25. Accounting of the Board. 26. Cash deposits and payments. 27. Rules made by the Board.
 PART II
 REGISTRATION
-28. Interpretation. 29. Persons to be registered. 30. Registration and penalty. 30A. National Insurance Registration Card.
-31. Powers of inspection. 32. Powers of entry. 32A. Furnishing of data.
+28. Interpretation. 29. Persons to be registered. 30. Registration and penalty.
+30A. National Insurance Registration Card.
+31. Powers of inspection. 32. Powers of entry.
+32A. Furnishing of data.
 33. False information-penalty. 34. Penalty. 35. Regulations.
 PART III
 NATIONAL INSURANCE PROVISIONS
@@ -86,7 +90,8 @@ BENEFITS
 55. Regulations in respect of benefits. 56. Amendment of rates.
 PART IV
 MISCELLANEOUS
-57. President to make Regulations for harmonisation. 58. Initial expenditure and advances. 59. Determination of claims and questions. 60. Appeals tribunals. 61. President to determine remuneration of appeals tribunals. 62. Appeals from decisions of the Board. 63. Offences. 64. General provisions as to prosecutions under this Act. 65. Recovery of contributions on prosecution.
+57. President to make Regulations for harmonisation. 58. Initial expenditure and advances. SECTION
+59. Determination of claims and questions. 60. Appeals tribunals. 61. President to determine remuneration of appeals tribunals. 62. Appeals from decisions of the Board. 63. Offences. 64. General provisions as to prosecutions under this Act. 65. Recovery of contributions on prosecution.
 65A. Liability of body corporate.
 66. Civil proceedings to recover sums due to Board. 67. Insured persons outside Trinidad and Tobago. 68. Accidents in course of illegal conditions of employment. 69. Reciprocal agreements with other parts of Commonwealth. 70. Actuarial review. 71. Regulations subject to negative resolution. 72. Indemnity. 73. Pending proceedings. 74. Act to bind State.
 FIRST SCHEDULE. SECOND SCHEDULE. THIRD SCHEDULE.
