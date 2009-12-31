@@ -10,6 +10,8 @@ s-8.md
 s-9.md
 s-10.md
 s-11.md
+s-11A.md
+s-11B.md
 s-12.md
 s-13.md
 s-14.md
@@ -20,3 +22,11 @@ s-18.md
 s-19.md
 s-20.md
 sl-01/title.md
+sl-01/r-1.md
+sl-01/r-2.md
+sl-01/r-3.md
+sl-01/r-4.md
+sl-01/r-8.md
+sl-01/r-9.md
+sl-01/r-10.md
+sl-01/r-12.md
