@@ -20,8 +20,8 @@ State Lands (Fees) Regulations
 TABLE OF FEES-Continued
 $ ¢.
 8. The grant of consent of the Director of Surveys to the assignment of interests held in lease:
-0.1 per cent … … (a) For an absolute assignment … of value of land with a minimum fee of $200.00
-(b) For an assignment by way of mortgage… … 0.1 per cent
+0.1 per cent (a) For an absolute assignment … … … of value of land with a minimum fee of $200.00
+… (b) For an assignment by way of mortgage… 0.1 per cent
 of value of land with a minimum fee of $200.00
 9. For the processing, preparation and renewal of the following leases:
 100.00 (a) Standard agricultural lease … … … 200.00 … … (b) Residential lease … … 500.00 (c) Commercial lease ... 500.00 (d) Industrial lease ... 200.00 (e) Community organisation and church lease … 500.00 (f) Social club lease ...
