@@ -2,12 +2,16 @@ PRESIDENT'S EMOLUMENTS ACT
 CHAPTER 2:50
 Act
 40 of 1976
+Amended by
+12 of 2009
 Note on Subsidiary Legislation
 This Chapter contains no subsidiary legislation.
 CHAPTER 2:50
 PRESIDENT'S EMOLUMENTS ACT
 ARRANGEMENT OF SECTIONS SECTION
-1. Short title. 2. Emoluments of the President of the Republic. 3. Gratuity and pension payable to President. 4. Gratuity payable to legal personal representatives. 5. Pension payable to surviving widow of a President. 6. Duty-free goods. 7. Payments to be charge on Consolidated Fund.
+1. Short title. 2. Emoluments of the President of the Republic. 3. Gratuity and pension payable to President.
+3A. Review of pension payable to President.
+4. Gratuity payable to legal personal representatives. 5. Pension payable to surviving widow of a President. 6. Duty-free goods. 7. Payments to be charge on Consolidated Fund.
 
 CHAPTER 2:50
 PRESIDENT'S EMOLUMENTS ACT
