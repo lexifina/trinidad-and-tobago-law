@@ -1,7 +1,7 @@
 # APPENDIX 3
-Part C Clause 2(1) and
-(13)].
+Part C Paragraph 2(1) and (13).
 NOTAM FORMAT
+[100/2009].
 Priority indicator Address
 Date and time of filing Originator's indicator
 Message series, number and identifier NOTAM containing new information NOTAMN
@@ -10,7 +10,7 @@ Message series, number and identifier NOTAM containing new information NOTAMN
 ... (series and number/year of NOTAM to be cancelled) (series and number/year)
 Qualifiers
 FIR NOTAM Code Traffic Purpose Scope Lower Upper Co-ordinates, Radius
-limit limit Q) Q Identification of ICAO location indicator in which the facility airspace or condition reported on is located A)
+limit limit Q) Q identification of ICAO location indicator in which the facility airspace or condition reported on is located A)
 Period of Validity From (date-time group)
 B) To (PERM or date-time group)
 C) Time Schedule (if applicable)
@@ -37,8 +37,8 @@ significant information is issued in accordance with Appendix 4 and Chapter 6 an
 valid NOTAM, insert "KKKK" as the second, third, fourth and fifth letters; and
 (v) The following fourth and fifth letters of the NOTAM
 Code shall be used in NOTAM cancellations:
-AK: RESUMED NORMAL OPERATION AL: OPERATIVE OR RE-OPERATIVE SUBJECT
-TO PREVIOUSLY PUBLISHED LIMITATIONS OR CONDITIONS
+AK: RESUMED NORMAL OPERATION AL: OPERATIVE OR RE-OPERATIVE
+SUBJECT TO PREVIOUSLY PUBLISHED LIMITATIONS OR CONDITIONS
 AO: OPERATIONAL CC: COMPLETED XX: PLAIN LANGUAGE
 (c) TRAFFIC
 I = IFR V= VFR K= NOTAM is a checklist
@@ -62,17 +62,17 @@ LOWER and UPPER limits shall always be filled and
 shall only be expressed in flight levels (FL). In the case of navigation warnings and airspace restrictions, values entered shall be consistent with those provided under Items F and G.
 Where the subject does not contain specific height
 information, insert "000" for LOWER and "999" for UPPER as default values.
-(g) COORDINATES, RADIUS
+(g) CO-ORDINATES, RADIUS
 The latitude and longitude accurate to one minute, as
-well as a three-digit distance figure giving the radius of influence in NM (e.g., 4700N01140E043). Coordinates present approximate centre of circle whose radius encompasses the whole area of influence, and if the NOTAM affects the entire FIR, enter the default value "999" for radius.
+well as a three-digit distance figure giving the radius of influence in NM (e.g., 4700N01140E043). Co-ordinates present approximate centre of circle whose radius encompasses the whole area of influence, and if the NOTAM affects the entire FIR, enter the default value "999" for radius.
 4. Item A Insert the location indicator as contained in ICAO Doc 7910 of the aerodrome or FIR in which the facility, airspace, or condition being reported on is located. More than one FIR or IR may be indicated when appropriate. If there is no available ICAO location indicator, use the ICAO nationality letter as given in ICAO Doc 7910, Part 2, plus "XX" and followed up in Item E by the name, in plain language.
 If information concerns GNSS, insert the appropriate ICAO location indicator allocated for a GNSS element or the common location indicator allocated for all elements of GNSS (except GBAS). Note: In the case of GNSS, the location indicator may be used when identifying a GNSS element
 outage (e.g., KNMH for a GPS satellite outage).
-5. Item B For date-time group use a ten-figure group, giving year, month, day, hours and minutes in UTC. This entry is the date-time at which the NOTAMN comes into force. In the cases of NOTAMR and NOTAMC, the date-time group is the actual date and time of the NOTAM origination.
+5. Item B For the date-time group, use a ten-figure group, giving year, month, day, hours and minutes in UTC and this entry shall be the date-time at which the NOTAMN, NOTAMR or NOTAMC comes into force.
 6. Item C With the exception of NOTAMC, a ten-figure day-time group giving year, month, day, hours and minutes in UTC indicating duration of information shall be used unless the information is of a permanent nature in which case the [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
 abbreviation "PERM" is inserted instead. Where the information on timing is uncertain, the approximate duration shall be indicated using a date-time group followed by the abbreviation "EST". Any NOTAM which includes an "EST" shall be cancelled or replaced before the date-time specified in Item C.
 7. Item D Where the hazard, status of operation or condition of facilities being
-reported on will be active in accordance with a specific time and date schedule between the dates-times indicated in Items (B) and (C), insert such information under Item (D). Where Item (D) exceeds two hundred characters, consideration shall be given to providing such information in a separate, consecutive NOTAM. Note: Guidance concerning a harmonized definition of Item (D) content is provided in
+reported on will be active in accordance with a specific time and date schedule between the dates-times indicated in Items (B) and (C), insert such information under Item (D). Where Item (D) exceeds two hundred characters, consideration shall be given to providing such information in a separate, consecutive NOTAM. Note: Guidance concerning a harmonised definition of Item (D) content is provided in
 Doc 8126.
 8. Item E Use decoded NOTAM Code, complemented where necessary by ICAO
 abbreviations, indicators, identifiers, designators, call signs, frequencies, figures and plain language. When NOTAM is selected for international distribution, English text shall be included for those parts expressed in plain language. This entry shall be clear and concise in order to provide a suitable PIB entry. In the case of NOTAMC, a subject reference and status message shall be included to enable accurate plausibility checks.
@@ -96,4 +96,4 @@ PROVISION OF INFORMATION IN ELECTRONIC FORM
 3. (1) Where the Authority has established an aeronautical database in and thereafter updates the contents of that database concerning the circumstances listed in Part 1 of the Appendix, the Authority shall ensure that the effective dates of the data coincide with the established AIRAC effective dates used for the provision of information in paper copy form.
 (2) The information provided in electronic form, concerning the circumstances listed in Part 1 of the Appendix, shall be distributed and made available by the AIS unit so as to reach recipients at least twenty-eight days in advance of the AIRAC effective date.
 - Margin: EST* PERM*
-- Margin: (Regulation 22).
+- Margin: Regulation 22.

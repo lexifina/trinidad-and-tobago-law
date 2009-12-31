@@ -29,9 +29,9 @@ AIR TRAFFIC CONTROLLERS
 9. Prohibition on the performance of duty on air traffic controllers. [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
 ARRANGEMENT OF REGULATIONS-Continued
 REGULATION
-RNP FOR EN ROUTE OPERATIONS
+PERFORMANCE-BASED NAVIGATION (PBN) OPERATIONS
 10. RNP for en route operations.
-CONTROL OF PERSONS AND VEHICULER TRAFFIC
+CONTROL OF PERSONS AND VEHICULAR TRAFFIC
 AT AERODROMES
 11. Control of persons and vehicular traffic at aerodromes.
 PROVISION OF FLIGHT INFORMATION SERVICE
@@ -47,8 +47,8 @@ PART III
 AERONAUTICAL INFORMATION SERVICES
 DEFINITIONS OF AERONAUTICAL INFORMATION SERVICE 17. Definitions of Aeronautical Information Service.
 PROVISION OF AERONAUTICAL INFORMATION SERVICE
-18. Provision of aeronautical information service.
-ESTABLISHMENT OF A QUALITY MANAGEMENT SYSTEM 19. Establishment of a quality management system.
+18. Provision of Aeronautical Information Service.
+ESTABLISHMENT OF A QUALITY MANAGEMENT SYSTEM 19. Establishment of a Quality Management System.
 Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
 REGULATION
 FORM CONTENTS SPECIFICATION AND DISTRIBUTION OF AIP
@@ -79,4 +79,4 @@ INFORMATION TO OTHER CONTRACTING STATES
 Contracting States.
 QUALITY SYSTEM FOR AERONAUTICAL DATA
 29. Quality system for aeronautical data. [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
-- Margin: (Regulation 32).
+- Margin: Regulation 32.

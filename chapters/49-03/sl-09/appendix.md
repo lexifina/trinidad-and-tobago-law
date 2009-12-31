@@ -74,7 +74,7 @@ national legislation;
 of equipment;
 (xv) actual or planned availability of new or revised
 editions of aeronautical charts; [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
-(xvi) carriage of radio equipment;
+(xvi) carriage of communication equipment;
 (xvii) explanatory information relating to noise abatement;
 (xviii) selected airworthiness directives;
 (xix) changes in NOTAM series or distribution, new
@@ -116,20 +116,20 @@ aircraft operations;
 (g) failure or irregular operation of part or all of the aerodrome
 lighting system including approach, threshold, runway, taxiway, obstruction and manoeuvring area unserviceability lights and aerodrome power supply;
 (h) failure, irregular operation and changes in the operational
-status of ILS including markers, basic GNSS, SBAS, GBAS, SRE, PAR, DME, SSR, VOR, NDB, VHF aeromobile channels, RVR observing system, and secondary power supply; and
+status of ILS including markers, basic GNSS, SBAS, GBAS, SRE, PAR, DME, SSR, ADS-B, ADS-C, CPDLC, D-ATIS, D-VOLMET, VOR, NDB, VHF aeromobile channels, RVR observing system, and secondary power supply; and
 (i) presence and operation of humanitarian relief missions, such
 as those undertaken under the auspices of the United Nations, together with any associated procedures or limitations applied thereof.
 (3) A summary of current NOTAM and other information of urgent character shall be made available to flight crews in the form of plain-language pre-flight information bulletins (PIB). Note: Guidance on the preparation of PIB is contained in ICAO Doc 8126.
 AUTOMATED AERONAUTICAL INFORMATION SYSTEMS
 2. (1) Where the Authority uses automated pre-flight information systems to make aeronautical information or data available to operations personnel including flight crew members for self-briefing, flight planning and flight information service purposes, the information or data made available shall comply with the provisions of subclauses (2) and (4).
-(2) Where automated pre-flight information systems are used to provide the harmonized, common point of access by operations personnel, including flight crew members and other aeronautical personnel concerned, to aeronautical information or data and meteorological information, the Authority shall remain responsible for the quality and timeliness of the aeronautical information and data provided by means of such a system.
+(2) Where automated pre-flight information systems are used to provide the harmonised, common point of access by operations personnel, including flight crew members and other aeronautical personnel concerned, to aeronautical information or data and meteorological information, the Authority shall remain responsible for the quality and timeliness of the aeronautical information and data provided by means of such a system.
 (3) Self-briefing facilities of an automated pre-flight information system shall provide for every access to all relevant information or data in guided manner to operations personnel, including flight crew members and other aeronautical [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
 personnel concerned, to consultation as necessary with the aeronautical information service by telephone or other suitable telecommunications means.
 POST-FLIGHT INFORMATION
-3. (1) The Authority shall ensure that arrangements are made to
-receive at aerodromes and heliports information concerning-
+3. The Authority shall ensure that arrangements are made to receive at
+aerodromes and heliports information concerning-
 (a) the state and operation of air navigation facilities noted by
-aircrews and shall ensure that such information is made available to the aeronautical information service for distribution as the circumstances necessitate.
+aircrews and shall ensure that such information is made available to the aeronautical information service for distribution as the circumstances necessitate;
 (b) the presence of birds observed by aircrews and shall ensure
 that such information is made available to the aeronautical information service for such distribution as the circumstances necessitate.
 PART G
@@ -175,13 +175,13 @@ REQUIREMENTS
 (3) Area 2 shall be the terminal control area as published in the AIP or limited to a forty-five kilometre radius from the aerodrome or heliport reference point whichever is smaller.
 (4) At IFR aerodromes and heliports-
 (a) where a terminal control area has not been established, Area 2
-shall be the area within a forty-five kilometre radius of the aerodrome or heliport reference point.
-(b) area 3 shall cover the area that extends from the edges of the
+shall be the area within a forty-five-kilometre radius of the aerodrome or heliport reference point;
+(b) Area 3 shall cover the area that extends from the edges of the
 runways to ninety metres from the runway centre line and for all other parts of aerodrome or heliport movement areas, fifty metres from the edges of the defined areas.
 (5) Area 4 shall be restricted to those runways where precision approach Category II or III operations have been established and where detailed terrain information is required by operators to enable them to assess, by use of radio altimeters, the effect of terrain on decision height determination.
 (6) The width of the area under subclause (5), shall be sixty metres on either side of the extended runway centre line while the length shall be nine hundred metres from the runway threshold measured along the extended runway centre line. [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
 (7) According to the air navigation applications listed in subclause 1
-and areas of coverage, sets of electronic terrain data shall satisfy the numerical requirements specified in Table A-1 of the Appendix, while obstacle data shall satisfy the numerical requirements specified in Table A-2 of the Appendix.
+and areas of coverage, sets of electronic terrain data shall satisfy the numerical requirements specified in Table 1 of the Appendix, while obstacle data shall satisfy the numerical requirements specified in Table 2 of the Appendix.
 CONTENT AND STRUCTURE OF TERRAIN DATABASE
 3. (1) A terrain database shall contain digital sets of data representing
 terrain surface in the form of continuous elevation values at all intersections of a defined grid, referenced to common datum.
@@ -193,12 +193,12 @@ put together would represent a continuous surface that exists at the bare earth,
 (4) Terrain data shall be collected according to-
 (a) the areas specified in clause 2;
 (b) terrain data collection surfaces and criteria specified in
-Figure A8-1 of Appendix 8; and
+Figure 1 of the Appendix; and
 (c) the terrain data numerical requirements provided in
-Table A8-1 of Appendix 8.
+Table 1 of the Appendix.
 (5) In terrain databases, only terrain feature type shall be recorded.
 (6) Feature attributes describing terrain under subclause (5), shall be those
-listed in Table A8-3 of Appendix 8, representing the minimum set of terrain attributes, and those annotated as mandatory shall be recorded in the terrain database.
+listed in Table 3 of the Appendix, representing the minimum set of terrain attributes, and those annotated as mandatory shall be recorded in the terrain database.
 CONTENT AND STRUCTURE OF OBSTACLE DATABASE
 4. (1) One obstacle database shall contain a digital set of obstacle data
 that includes those features having vertical significance in relation to adjacent and surrounding features that are considered hazardous to air navigation.
@@ -209,8 +209,8 @@ horizontal extent of man-made objects; and
 (3) Obstacle data elements are features that shall be represented in
 the database by points, lines or polygons.
 Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
-(4) Obstacles shall be identified within the areas defined in Clause 2, on the basis of the obstacle data collection surfaces and criteria specified in Figure A-2 of the Appendix, and collected in accordance with obstacle data numerical requirements provided in Table A-2 of the Appendix.
-(5) In an obstacle database, all defined obstacle feature types shall be recorded and each of them shall be described according to the list of mandatory attributes provided in Table A8-4 of Appendix 8.
+(4) Obstacles shall be identified within the areas defined in Clause 2, on the basis of the obstacle data collection surfaces and criteria specified in Figure 2 of the Appendix, and collected in accordance with obstacle data numerical requirements provided in Table 2 of the Appendix.
+(5) In an obstacle database, all defined obstacle feature types shall be recorded and each of them shall be described according to the list of mandatory attributes provided in Table 4 of the Appendix.
 TERRAIN AND OBSTACLE DATA PRODUCT SPECIFICATIONS
 5. (1) To allow and support the interchange and use of sets of electronic terrain and obstacle data among different data providers and data users, the ISO 19100 series of standards for geographic information shall be used as a general data modelling framework.
 (2) A comprehensive statement of available electronic terrain and obstacle data sets shall be provided in the form of terrain data product specifications as well as obstacle data product specifications on which basis air navigation users will be able to evaluate the products and determine whether the products fulfil the requirements for the intended application.
@@ -254,22 +254,43 @@ included in the data product specifications.
 (17) Any additional metadata items required to be supplied shall be
 stated in each product specification together with the format and encoding of the metadata.
 Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
-Note: Terrain data numerical requirements for Areas 1 and 2 are specified in Table A8-1. [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary] [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
+Part H. APPENDIX 8 Schedule 2.
+TERRAIN AND OBSTACLE DATA REQUIREMENTS
+'       
+' 
+1. Within the area covered by a 10 km radius from the ARP, terrain data shall be collected and recorded in accordance with the Area 2 numeric requirements.
+2. In the area between 10 km and the TMA boundary or 45 km radius (whichever is smaller), data on terrain that penetrates the horizontal plan 120 m above the lowest runway elevation shall be collected and recorded in accordance with the Area 2 numerical requirements.
+3. In the area between 10 km and the TMA boundary or 45 km radius (whichever is smaller), data on terrain that does not penetrate the horizontal plane 120 m above the lowest runway elevation shall be collected and recorded in accordance with the Area 1 numerical requirements.
+4. In those portions of Area 2 where flight operations are prohibited due to very high terrain or other local restrictions and/or regulations, terrain data shall only be collected and recorded in accordance with the Area 1 numerical requirements. [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
+Note: Terrain data numerical requirements for Areas 1 and 2 are specified in    '  ''   '        '  '   '    
+Table 1 of the Appendix  '         
+     '    ''     '  '  '  
+1. Obstacle data shall be collected and recorded in accordance with the Area 2 numerical requirements specified in Table 2 of the Appendix:
+(a) any obstacle that penetrates the conical surface whose origin is at the edges
+of the 180 m wide rectangular area and at the nearest runway elevation measured along the runway centre line, extending at 1.2 per cent slope until it reaches 120 m above the lowest runway elevation of all operational runways at the aerodrome (1.2 per cent slope reaches 120 m at 10 km); in the remainder of Area 2 (between 10 km and the TMA boundary or 45 km radius, whichever is smaller), the horizontal surface 120 m above the lowest runway elevation; and
 Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
-TABLE A-1. TERRAIN DATA NUMERICAL REQUIREMENTS
+(b) in those portions of Area 2 where flight operations are prohibited due to
+very high terrain or other local restrictions and/or regulations, obstacle data shall be collected and recorded in accordance with the Area 1 requirements.
+2. Data on every obstacle within Area 1 whose height above the ground is 100 m or higher shall be collected and recorded in the database in accordance with the Area 1 numerical requirements specified in Table 2 of the Appendix.
+          '            [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
+1. Data on terrain and obstacles that extend more than a half-metre (0.5 m) above the horizontal plane passing through the nearest point on the aerodrome/heliport movement area shall be collected and recorded.
+2. Terrain and obstacle data in Area 3 shall be collected and recorded in accordance with numerical requirements specified in Table 1 and Table 2 of the Appendix, respectively.
+         ' '   '   
+Only terrain data shall be collected and recorded in Area 4 in accordance with the numerical requirements specified in Table 1 of the Appendix.
+Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
+TABLE 1. TERRAIN DATA NUMERICAL REQUIREMENTS
 Area 1 Area 2 Area 3 Area 4
-3 arc seconds 1 arc second 0.6 arc seconds 0.3 arc seconds (approx. 90 m) (approx. 30 m) (approx. 20 m) (approx. 9 m) Vertical accuracy 30 m 3 m 0.5 m 1 m Vertical resolution 1 m 0.1 m 0.01 m 0.1 m Horizontal accuracy 50 m 5 m 0.5 m 2.5 m Confidence level (1s) 90% 90% 90% 90% Data classification routine essential essential essential Integrity level 1 x 10-3 1 x 10-3 1 x 10-5 1 x 10-5 Maintenance period as required as required as required as required
-TABLE A-2. OBSTACLE DATA NUMERICAL REQUIREMENTS
-Area 1 Area 2 Area 3
-Vertical accuracy 30 m 3 m 0.5 m Vertical resolution 1 m 0.1 m 0.01 m Horizontal accuracy 50 m 5 m 0.5 m Confidence level (1s) 90% 90% 90% Data classification routine essential essential Integrity level 1 x 10-3 1 x 10-5 1 x 10-5 Maintenance period as required as required as required [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
-TABLE A-3. TERRAIN ATRIBUTES
-Terrain attribute Mandatory/Optional Area of coverage Mandatory Data originator identifier Mandatory Aquisition method Mandatory Post spacing Mandatory Horizontal reference system Mandatory Horizontal resolution Mandatory Horizontal accuracy Mandatory Horizontal confidence level Mandatory Horizontal position Mandatory Elevation Mandatory Elevation reference Mandatory Vertical reference system Mandatory Vertical resolution Mandatory Vertical accuracy Mandatory Vertical confidence level Mandatory Surface type Mandatory Recorded surface Mandator y Penetration level Optional Known variations Optional Integrity Mandatory Date and time stamp Mandatory Unit of measurement used Mandatory
+3 arc seconds 1 arc second 0.6 arc seconds 0.3 arc seconds (approx. 90 m) (approx. 30 m) (approx. 20 m) (approx. 9 m) Vertical accuracy 30 m 3 m 0.5 m 1 m Vertical resolution 1 m 0.1 m 0.01 m 0.1 m Horizontal accuracy 50 m 5 m 0.5 m 2.5 m Confidence level 90% 90% 90% 90% Data classification routine essential essential essential Integrity level 1 x 10-3 1 x 10-5 1 x 10-5 1 x 10-5 Maintenance period as required as required as required as required
+TABLE 2. OBSTACLE DATA NUMERICAL REQUIREMENTS
+Area 1 Area 2 Area 3 Vertical accuracy 30 m 3 m 0.5 m Vertical resolution 1 m 0.1 m 0.01 m Horizontal accuracy 50 m 5 m 0.5 m Confidence level 90% 90% 90% Data classification routine essential essential Integrity level 1 x 10-3 1 x 10-5 1 x 10-5 Maintenance period as required as required as required [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
+TABLE 3. TERRAIN ATTRIBUTES
+Terrain attribute Mandatory/Optional Area of coverage Mandatory Data originator identifier Mandatory Acquisition method Mandatory Post spacing Mandatory Horizontal reference system Mandatory Horizontal resolution Mandatory Horizontal accuracy Mandatory Horizontal confidence level Mandatory Horizontal position Mandatory Elevation Mandatory Elevation reference Mandatory Vertical reference system Mandatory Vertical resolution Mandatory Vertical accuracy Mandatory Vertical confidence level Mandatory Surface type Mandatory Recorded surface Mandator y Penetration level Optional Known variations Optional Integrity Mandatory Date and time stamp Mandatory Unit of measureme nt used Mandatory
 Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
-TABLE A-4. OBSTACLE ATRIBUTES
-Obstacle attribute Mandatory/Optional Area of coverage Mandatory Data originator identifier Mandatory Obstacle identifier Mandatory Horizontal accuracy Mandatory Horizontal confidence level Mandatory Horizontal position Mandatory Horizontal resolution Mandatory Horizontal extent Mandatory Horizontal reference system Mandatory Elevation Mandatory Vertical accuracy Mandatory Vertical confidence level Mandatory Elevation reference Mandatory Vertical resolution Mandatory Vertical reference system Mandatory Obstacle type Mandatory Geometry type Mandator y Integrity Mandatory Date and time stamp Mandatory Unit of measurement used Mandatory Operations Optional Effectivity Optional [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
-- Margin: [Clauses 1(1), 6 and 7 of Part D].
-- Margin: (Regulation 23).
-- Margin: (Regulation 24).
-- Margin: (Regulation 25).
-- Margin: (Regulation 26).
+TABLE 4. OBSTACLE ATTRIBUTES
+Obstacle attribute Mandatory/Optional Area of coverage Mandatory Data originator identifier Mandatory Obstacle identifier Mandatory Horizontal accuracy Mandatory Horizontal confidence level Mandatory Horizontal position Mandatory Horizontal resolution Mandatory Horizontal extent Mandatory Horizontal reference system Mandatory Elevation Mandatory Vertical accuracy Mandatory Vertical confidence level Mandatory Elevation reference Mandatory Vertical resolution Mandatory Vertical reference system Mandatory Obstacle type Mandatory Geometry type Mandator y Integrity Mandatory Date and time stamp Mandatory Unit of measurement used Mandatory Operations Optional Effectivity Optional Lighting Mandatory Marking Mandatory [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
+- Margin: Paragraphs 1(1), 6 and 7 of Part D.
+- Margin: Regulation 23.
+- Margin: Regulation 24. [100/2009].
+- Margin: Regulation 25.
+- Margin: Regulation 26. [100/2009].
 - Margin: Post spacing

@@ -1,8 +1,10 @@
 # SCHEDULE 3
 IMPLEMENTING STANDARDS
-The following standards are numbered to correspond numerically with the relevant provisions in the Regulations.
+The following standards are numbered to correspond numerically with the
+relevant provisions in the Regulations:
 Regulation 16
-The categories of operation under Regulation 16 and the related purposes for which the aircraft may fly are as outlined in the following Table: [Subsidiary] Civil Aviation [(No. 5) Airworthiness] Regulations
+The categories of operation under Regulation 16 and the related purposes for
+which the aircraft may fly are as outlined in the following Table:
 TABLE
 Category of Operation Purpose
 Transport Category (Passengers) Any Purpose
@@ -20,12 +22,11 @@ airworthiness of aircraft and components:
 to duplicate inspections. A duplicate inspection is an inspection first made and certified by one person authorised under the Regulations and subsequently made and certified by a second person authorised under the Regulations. It shall be conducted following initial assembly or any disturbance of a Control System. A control system is a system by which the flight path, attitude, or propulsive force of an aircraft is changed, including the flight controls, engine and propeller controls, the related system controls and the associated operating mechanisms;
 (b) duplicate inspections are also applicable to any defined point
 of the aircraft at any point where a single mal-assembly could lead to an accident or serious incident;
-(c) a duplicate inspection of all Vital Points and Control Systems
-in an aircraft shall be made after initial assembly and before a Certificate of Release to Service has been issued after overhaul, repair, replacement, modification or adjustment and, in any case, before the first flight;
-(d) the first and second inspections of a duplicate inspection must
-take account of the full extent of the work undertaken and not
 [Subsidiary] Civil Aviation [(No. 5) Airworthiness] Regulations
-simply the immediate area of disturbance. This is to ensure that distant or remote parts of the system that may have been affected by the disturbance are also subject to duplicate inspections. Where work has been carried out on other systems for safety precautions, or to enhance accessibility, the need to carry out a duplicate inspection on these systems shall be considered. Persons who carry out and certify duplicate inspections are therefore required to undertake an independent review of the complete task, as detailed in the maintenance manual and by reference to worksheets used, including shift hand-over records, to assess the scope of the duplicate inspection(s) required;
+(c) a duplicate inspection of all Vital Points and Control
+Systems in an aircraft shall be made after initial assembly and before a Certificate of Release to Service has been issued after overhaul, repair, replacement, modification or adjustment and, in any case, before the first flight;
+(d) the first and second inspections of a duplicate inspection
+must take account of the full extent of the work undertaken and not simply the immediate area of disturbance. This is to ensure that distant or remote parts of the system that may have been affected by the disturbance are also subject to duplicate inspections. Where work has been carried out on other systems for safety precautions, or to enhance accessibility, the need to carry out a duplicate inspection on these systems shall be considered. Persons who carry out and certify duplicate inspections are therefore required to undertake an independent review of the complete task, as detailed in the maintenance manual and by reference to worksheets used, including shift hand-over records, to assess the scope of the duplicate inspection(s) required;
 (e) it may not be possible to inspect the complete Vital Point or
 Control System when assembled in the aircraft, due to routing the controls through conduits or boxed-in sections and the pre-sealing of various units. In these cases the persons certifying the duplicate inspection shall be satisfied that a duplicate inspection has been made previously on the units and covered sections and that the sealed units are acceptable for the particular use. Such tests as are necessary shall be completed to determine that these particular units and sections have full, free and correct directional movement;
 (f) vital Point or Control Systems subject to duplicate inspection
@@ -33,9 +34,9 @@ must not be disturbed or re-adjusted after the first certified inspection and th
 (g) if a Vital Point or Control System is disturbed after completion
 of the duplicate inspection, that part which has been disturbed shall again be inspected in duplicate and a Certificate of Release to Service issued before the aircraft flies;
 (h) the duplicate inspection shall be the final operation to
-establish the integrity of the Vital Point or Control System when all the work has been completed and shall take into account all the relevant instructions and information contained in the associated technical data;
+establish the integrity of the Vital Point or Control System when all the work has been completed and shall take into account all the relevant instructions and information contained in the associated technical data; [Subsidiary] Civil Aviation [(No. 5) Airworthiness] Regulations
 (i) the inspections prescribed here shall include an inspection to
-ensure that full, free and correct movement of the controls is obtained throughout the systems relative to the movements of the crew controls. An additional inspection shall be made, when all covers and fairings are finally secured, to ensure that full, free and correct movement of the controls is obtained; [Subsidiary] Civil Aviation [(No. 5) Airworthiness] Regulations
+ensure that full, free and correct movement of the controls is obtained throughout the systems relative to the movements of the crew controls. An additional inspection shall be made, when all covers and fairings are finally secured, to ensure that full, free and correct movement of the controls is obtained;
 (j) persons qualified to make the first and second part of a
 duplicate inspection are as follows:
 (i) appropriately licensed aircraft engineers;
@@ -55,9 +56,9 @@ duplicate inspection required units or components are as follows:
 (i) for Approved Manufacturing Organisations, persons
 employed who are appropriately authorised and qualified to make such inspections in accordance with company procedures. Persons employed by a sub-contracting firm, not directly approved by Authority, who are appropriately authorised by the primary Approved Organisation with a Quality Control Surveillance System controlling the sub-contractor, qualified to make such inspections; and
 (ii) for Approved Maintenance Organisations who release
-Control System units and components, both inspections and the subsequent Certificates of Release to Service
+Control System units and components, both inspections
 Civil Aviation [(No. 5) Airworthiness] Regulations [Subsidiary]
-must be issued by persons authorised by the Maintenance Organisation approved under the Act or
+and the subsequent Certificates of Release to Service must be issued by persons authorised by the Maintenance Organisation approved under the Act or
 Regulations made thereunder.
 Regulation 19
 An Aircraft Maintenance Progamme under regulation 19 shall meet the following minimum standards:
@@ -126,12 +127,12 @@ Board or Maintenance Planning Document tasks intervals (e.g., no variations or o
 (v) pooling arrangements-
 (A) in some cases, in order that sufficient data
 may be analysed it may be desirable to "pool" data: i.e., collate data from a number of operators of the same type of aircraft. For the analysis to be valid, the aircraft concerned, mode of operation, and maintenance procedures applied must be substantially the same; variations in utilisation between two operators may more than anything, fundamentally corrupt the analysis. Although not exhaustive, the following list gives guidance on the primary factors which need to be taken into account:
-(I) certification factors, such as: aircraft
+(I) certification factors, such as-aircraft
 Type Certificate Data Sheet, compliance modification status, including Service Bulletin compliance;
-(II) operational factors, such as:
+(II) operational factors, such as-
 operational environment, utilisation, for example, low, high, and seasonal, respective fleet size operating rules applicable, for example, extended range operations, reduced vertical separation minimum and weather operations, operating procedures, Minimum Equipment List and Minimum Equipment List utilisation;
-(III) maintenance factors, such as:
-aircraft age maintenance procedures; maintenance standards applicable; lubrication procedures and programme; Maintenance Planning Document revision or escalation applied or maintenance programme applicable;
+(III) maintenance factors, such as-aircraft
+age maintenance procedures; maintenance standards applicable; lubrication procedures and programme; Maintenance Planning Document revision or escalation applied or maintenance programme applicable;
 (B) although it may not be necessary for all of the
 foregoing to be completely common, it is necessary for a substantial amount of Civil Aviation [(No. 5) Airworthiness] Regulations [Subsidiary]
 commonality to prevail. Decision should be taken by the Authority on a case by case basis;
@@ -153,7 +154,7 @@ precisely as possible the prime objectives of the Programme. The extent of the o
 (ii) identification of items-
 the Items controlled by the Programme should be
 stated. Where some items (e.g., aircraft structure, engines, Auxiliary Power Unit) are controlled by separate inspection and development procedures, the associated procedures will be subject to individual approval by the Authority, e.g., individual Sampling or Life Development Programmes, Constructor's Structure Sampling Programmes. In the case of the Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations approved programme, these supplemental documents shall form part of the approved maintenance control manual or maintenance organisation procedures manual as appropriate and should be cross-referenced in the programme;
-(iii) terms and definitions:
+(iii) terms and definitions-
 the significant terms and definitions applicable to
 the Programme should be clearly identified. Terms already defined in the World Airlines Technical Glossary of Terms and other industry standards should be used. The number of other defined terms should be kept to a minimum;
 (iv) information sources and collection-
@@ -337,14 +338,15 @@ e.g., Maintenance Review Board, Maintenance Planning Document and Maintenance Ma
 400FH, B Check-800 FH, etc.);
 Civil Aviation [(No. 5) Airworthiness] Regulations [Subsidiary]
 (k) maintenance programmes-engines and auxiliary power units-
-A reliability centred maintenance and condition monitored maintenance programme for an engine or auxiliary power unit is required when the restoration task for the engine or auxiliary power unit is not defined as either a hot section inspection (hsi) and/or overhaul in accordance with the constructor's approved engine overhaul manual;
-(i) approval:
+A reliability centred maintenance and condition
+monitored maintenance programme for an engine or auxiliary power unit is required when the restoration task for the engine or auxiliary power unit is not defined as either a hot section inspection (hsi) and/or overhaul in accordance with the constructor's approved engine overhaul manual;
+(i) approval-
 Engine or Auxiliary Power Unit Programmes
 should form part of the associated aircraft Programme. These procedures provide guidance on elements to be followed to obtain Authority approval of Programmes, and amendments to them;
-(ii) programme elements:
+(ii) programme elements-
 (A) Introduction
 An Engine or Auxiliary Power Unit
-Reliability Centred Maintenance and Condition Monitored Maintenance Programme provides for the integration of Reliability Analysis, Hard Time Control, On Condition and Condition Monitoring into one Programme. It may vary in size and scope depending on the complexity and number of different engine and Auxiliary Power Unit types being controlled by the Programme. The Programme sets out the means to identify both on-wing and off-wing maintenance tasks. On-wing engine or Auxiliary Power Unit maintenance tasks and their intervals are initially established by means of threshold and opportunity samples, Constructor's Engine Maintenance Planning Guides and the inspection requirements of the Engine Manuals. The on-wing and off-wing maintenance tasks and intervals may be changed as a result of reviewingthe experience gained by operating the Programme and information provided in Service Bulletins, Manual Revisions, Service Letters, Airworthiness Directives and other relevant sources. [Subsidiary] Civil Aviation [(No. 5) Airworthiness] Regulations
+Reliability Centred Maintenance and Condition Monitored Maintenance Programme provides for the integration of Reliability Analysis, Hard Time Control, On Condition and Condition Monitoring into one Programme. It may vary in size and scope depending on the complexity and number of different engine and Auxiliary Power Unit types being controlled by the Programme. The Programme sets out the means to identify both on-wing and off-wing maintenance tasks. On-wing engine or Auxiliary Power Unit maintenance tasks and their intervals are initially established by means of threshold and opportunity samples, Constructor's Engine Maintenance Planning Guides and the inspection requirements of the Engine Manuals. The on-wing and off-wing maintenance tasks and intervals may be changed as a result of reviewing the experience gained by operating the Programme and information provided in Service Bulletins, Manual Revisions, Service Letters, Airworthiness Directives and other relevant sources. [Subsidiary] Civil Aviation [(No. 5) Airworthiness] Regulations
 (B) Objectives
 A statement should be included
 summarising the objectives of the Programme, together with a definition of the engines or Auxiliary Power Unit types controlled by the Programme and the associated aircraft in which those engine or Auxiliary Power Unit types are installed.
@@ -476,7 +478,12 @@ conditions that could impair or preclude continued safe flight or landing?
 the pilot's capability to control the aircraft?
 16 Does the change involve alterations to the interior
 arrangement or cabin materials? [Subsidiary] Civil Aviation [(No. 5) Airworthiness] Regulations
-Item Question 17 Does the change involve systems for cabin pressurisation
+TABLE-Continued
+CRITERIA FOR ASSESSING A MODIFICATION OR
+REPAIR AS MAJOR OR MINOR
+Item Question
+Structural Strength
+17 Does the change involve systems for cabin pressurisation
 or the provision of breathing oxygen?
 18 Does the change involve flight controls or an autopilot?
 19 Does the change involve critical or essential components
@@ -492,8 +499,8 @@ Other Qualities Affecting Environmental Characteristics
 24 Does the change alter the aircraft noise or emission
 characteristics?
 Non-Standard Practices
-25 Does the change involve practices or techniques which are
-novel or unproven in the proposed application?
+25 Does the change involve practices or techniques which
+are novel or unproven in the proposed application?
 Civil Aviation [(No. 5) Airworthiness] Regulations [Subsidiary]
 2. The following are typically classified as major modifications or major repairs where they meet the criteria in clause 1:
 (a) Major modifications:
@@ -520,9 +527,11 @@ control surfaces which affect flutter and vibration characteristics;
 (ii) major power plant modifications, even when not listed
 in the applicable engine specifications, include-
 (A) conversion of an aircraft engine from one
-approved model to another, involving any changes in compression ratio, propeller reduction gear, impeller gear ratios or the substitution of major engine parts which requires extensive re-work and testing of the engine; [Subsidiary] Civil Aviation [(No. 5) Airworthiness] Regulations
+approved model to another, involving any changes in compression ratio, propeller reduction gear, impeller gear ratios or the substitution of major engine parts which requires extensive re-work and testing of the engine;
 (B) changes to the engine by replacing aircraft
-engine structural parts with parts not supplied by the original manufacturer or parts not specifically approved by the Authority;
+engine structural parts with parts not supplied by the original manufacturer or parts not specifically approved by the
+Authority;
+[Subsidiary] Civil Aviation [(No. 5) Airworthiness] Regulations
 (C) installation of an accessory which is not
 approved for the engine;
 (D) removal of accessories that are listed as
@@ -545,12 +554,11 @@ propeller;
 accordance with recommendations of the appliance manufacturer or in accordance with applicable Airworthiness Directive are appliance major modifications. In addition, changes in the basic design of radio communication and navigation equipment approved under type certification or other Authorisation that have an effect on frequency stability, noise level, sensitivity, selectivity, distortion, spurious radiation, Automatic Voltage Control characteristics, or ability to meet environmental test conditions and other changes that have an effect on the performance of the equipment are also major modifications;
 (b) Major repairs:
 (i) Airframe major repairs. Repairs to the following parts
-of an airframe and repairs of the following types, Civil Aviation [(No. 5) Airworthiness] Regulations [Subsidiary]
-involving the strengthening, reinforcing, splicing, and manufacturing of primary structural members of their replacement, when replacement is by fabrication such as riveting or welding, are airframe major repairs:
+of an airframe and repairs of the following types, involving the strengthening, reinforcing, splicing, and manufacturing of primary structural members of their replacement, when replacement is by fabrication such as riveting or welding, are airframe major repairs:
 (A) box beams;
 (B) monocoque or semi-monocoque wings or
 control surfaces;
-(C) wing stringers or chord members;
+(C) wing stringers or chord members; Civil Aviation [(No. 5) Airworthiness] Regulations [Subsidiary]
 (D) spars;
 (E) spar flanges;
 (F) members of truss-type beams;
@@ -577,17 +585,17 @@ plywood stressed covering exceeding six inches in any direction;
 additional seams;
 (W) the splicing of skin sheets;
 (X) the repair of three or more adjacent wing or
-control surface ribs or the leading edge of wings and control surfaces, between such adjacent ribs; [Subsidiary] Civil Aviation [(No. 5) Airworthiness] Regulations
+control surface ribs or the leading edge of wings and control surfaces, between such adjacent ribs;
 (Y) repair of fabric covering involving an area
 greater than that required to repair two adjacent ribs;
 (Z) replacement of fabric on fabric covered parts
 such as wings, fuselages, stabilisers, and control surfaces;
-(AA) repairing, including re-bottoming, of removable
-or integral fuel tanks oil tanks;
+(AA) repairing, including re-bottoming, of
+removable or integral fuel tanks oil tanks;
 (ii) Power plant major repairs. Repairs of the following
 parts of an engine and repairs of the following types, are power plant major repairs:
 (A) separation or disassembly of a crankcase or
-crankshaft of a reciprocating engine equipped with an integral supercharger;
+crankshaft of a reciprocating engine equipped with an integral supercharger; [Subsidiary] Civil Aviation [(No. 5) Airworthiness] Regulations
 (B) separation or disassembly of a crankcase or
 crankshaft of a reciprocating engine equipped with other than spur-type propeller reduction gearing;
 (C) special repairs to structural engine parts by
@@ -610,9 +618,8 @@ fixed pitch wood propellers;
 (L) overhaul of controllable pitch propellers;
 (M) repairs to deep dents, cuts, scars, nicks, etc.,
 and straightening of aluminum blades; and
-Civil Aviation [(No. 5) Airworthiness] Regulations [Subsidiary]
-(N) the repair or replacement of internal
-elements of blades;
+(N) the repair or replacement of internal elements
+of blades;
 (iv) Appliance major repairs. Repairs of the following
 types to appliances are appliance major repairs:
 (A) calibration and repair of instruments;
@@ -624,8 +631,10 @@ power valves;
 (E) overhaul of pressure type carburetors, and
 pressure type fuel, oil, and hydraulic pumps.
 Regulation 25
-Preventive maintenance under regulation 25 is limited to the following work, provided it does not involve complex assembly operations:
+Preventive maintenance under regulation 25 is limited to the following
+work, provided it does not involve complex assembly operations:
 (a) removal, installation and repair of landing gear tyres;
+Civil Aviation [(No. 5) Airworthiness] Regulations [Subsidiary]
 (b) replacing elastic shock absorber cords on landing gear;
 (c) servicing landing gear shock struts by adding oil, air, or both;
 servicing landing gear wheel bearings, such as cleaning and greasing;
@@ -640,24 +649,23 @@ surfaces (excluding balanced control surfaces), fairings, cowling, landing gear,
 (i) applying preservative or protective material to components
 where no disassembly of any primary structure or operating system is involved and where such coating is not prohibited or is not contrary to good practices;
 (j) repairing upholstery and decorative furnishings of the cabin
-or cockpit when the repairing does not require disassembly of [Subsidiary] Civil Aviation [(No. 5) Airworthiness] Regulations
-any primary structure or operating system or interfere with an operating system or affect primary structure of the aircraft;
+or cockpit when the repairing does not require disassembly of any primary structure or operating system or interfere with an operating system or affect primary structure of the aircraft;
 (k) making small simple repairs to fairings, non-structural cover
 plates, cowlings, and small patches and reinforcements not changing the contour so as to interfere with proper airflow;
 (l) replacing side windows where that work does not interfere
 with the structure of any operating system such as controls, electrical equipment, etc;
 (m) replacing seats or seat parts with replacement parts approved
 for the aircraft, not involving disassembly of any primary structure or operating system;
-(n) troubleshooting and repairing broken circuits in landing light
-wiring circuits;
-(o) replacing bulbs, reflectors, and lenses of position and landing
-lights;
+(n) troubleshooting and repairing broken circuits in landing
+light wiring circuits;
+(o) replacing bulbs, reflectors, and lenses of position and
+landing lights;
 (p) replacing wheels and skis where no weight and balance
 computation is involved;
 (q) replacing any cowling not requiring removal of the propeller
 or disconnection of flight controls;
 (r) replacing or cleaning spark plugs and setting of spark plug
-gap clearance;
+gap clearance; [Subsidiary] Civil Aviation [(No. 5) Airworthiness] Regulations
 (s) replacing any hose connection except hydraulic connections;
 (t) replacing prefabricated fuel lines;
 (u) cleaning fuel and oil strainers;
@@ -668,9 +676,7 @@ incidental to operations; and
 diameter of fuel tank filler openings provided the specific device has been made a part of the aircraft type certificate data by the aircraft manufacturer, the manufacturer has provided appropriately approved instructions acceptable to the Authority for the installation of the specific device, and installation does not involve the disassembly of the existing filler opening.
 Regulation 30 One hundred-hour inspections under regulation 30 shall meet the following minimum standards for its performance:
 (a) a person authorised under these Regulations to perform an
-annual or one hundred-hour inspection shall, before that inspection, thoroughly clean the aircraft and aircraft engine
-Civil Aviation [(No. 5) Airworthiness] Regulations [Subsidiary]
-and remove or open all necessary inspection plates, access doors, fairings and cowlings;
+annual or one hundred-hour inspection shall, before that inspection, thoroughly clean the aircraft and aircraft engine and remove or open all necessary inspection plates, access doors, fairings and cowlings;
 (b) a person authorised under these Regulations performing an
 annual or one hundred-hour inspection shall inspect, where applicable, the following components:
 (i) fuselage and hull group-
@@ -681,14 +687,15 @@ installation, apparent defects, and unsatisfactory operation;
 (C) the cabin and cockpit group;
 (D) generally-for uncleanness and loose
 equipment that might foul the controls;
-(E) seats and safety belts-for poor condition
-and apparent defects;
+(E) seats and safety belts-for poor condition and
+apparent defects;
 (F) windows and windshields-for deterioration
 and breakage;
 (G) instruments-for poor condition, mounting,
 marking, and (where practicable) for improper operation;
 (H) flight and engine controls for improper
 installation and improper operation;
+Civil Aviation [(No. 5) Airworthiness] Regulations [Subsidiary]
 (I) batteries-for improper installation and
 improper charge; and
 (J) all systems-for improper installation, poor
@@ -699,15 +706,15 @@ excessive oil, fuel, or hydraulic leaks, and sources of such leaks;
 (B) studs and nuts-for improper torquing and
 obvious defects;
 (C) internal engine-for cylinder compression
-and for metal particles or foreign matter on screens and sump drain plugs; if there is weak cylinder compression, for improper internal condition and improper internal tolerances; [Subsidiary] Civil Aviation [(No. 5) Airworthiness] Regulations
+and for metal particles or foreign matter on screens and sump drain plugs; if there is weak cylinder compression, for improper internal condition and improper internal tolerances;
 (D) engine mount-for cracks, looseness of
 mounting, and looseness of engine to mount;
 (E) flexible vibration dampeners-for poor
 condition and deterioration;
 (F) engine controls-for defects, improper
 travel, and improper safetying;
-(G) lines, hoses, and clamps-for leaks, improper
-condition, and looseness;
+(G) lines, hoses, and clamps-for leaks,
+improper condition, and looseness;
 (H) exhaust stacks-for cracks, defects, and
 improper attachment;
 (I) accessories-for apparent defects in security
@@ -726,7 +733,7 @@ excessive wear, fatigue, and distortion;
 improper operation;
 (E) hydraulic lines-for leakage;
 (F) electrical system-for chafing and improper
-operation of switches;
+operation of switches; [Subsidiary] Civil Aviation [(No. 5) Airworthiness] Regulations
 (G) wheels-for cracks, defects, and condition
 of bearings;
 (H) tires-for wear and cuts;
@@ -739,7 +746,6 @@ obvious or apparent defects;
 (C) distortion;
 (D) evidence of failure;
 (E) insecurity of attachment;
-Civil Aviation [(No. 5) Airworthiness] Regulations [Subsidiary]
 (v) complete empennage assembly for-
 (A) poor general condition;
 (B) fabric or skin deterioration;
@@ -749,8 +755,8 @@ Civil Aviation [(No. 5) Airworthiness] Regulations [Subsidiary]
 (F) improper component installation; and
 (G) improper component operation;
 (vi) propeller group-
-(A) propeller assembly-for cracks, nicks,
-binds, and oil leakage;
+(A) propeller assembly-for cracks, nicks, binds,
+and oil leakage;
 (B) bolts-for improper torquing and lack of
 safety;
 (C) anti-icing devices-for improper operations
@@ -764,6 +770,7 @@ improper installation and insecure mounting;
 insecure mounting, and obvious defects;
 (C) bonding and shielding-for improper
 installation and poor condition; and
+Civil Aviation [(No. 5) Airworthiness] Regulations [Subsidiary]
 (D) antenna including trailing antenna-for poor
 condition, insecure mounting, and improper operation;
 (viii) electronic/electrical group-
@@ -772,12 +779,21 @@ insecure mounting, and obvious defects; and
 (B) bonding and shielding-for improper
 installation and poor condition;
 (ix) each installed miscellaneous item that is not otherwise
-covered by this listing and/or has instructions for continued airworthiness-for improper installation and improper operation. [Subsidiary] Civil Aviation [(No. 5) Airworthiness] Regulations
-Regulation 34
-The content and form of the Maintenance, Preventive Maintenance and
-Rebuilding Record under regulation 34 shall meet the following minimum standards:
+covered by this listing and/or has instructions for continued airworthiness-for improper installation and improper operation.
+Regulation 31A
+Certificate of Maintenance Review required to operate a Trinidad and Tobago aircraft in civil aviation operations:
+CERTIFICATE OF MAINTENANCE REVIEW
+Aircraft Type: ...
+Nationality and Registration Mark: ...
+Certified that a maintenance review of this aircraft and such of its equipment as is necessary for its airworthiness has been carried out in accordance with the requirements of the Act and Regulations made thereunder for the time being in force.
+The next maintenance review is due: ...
+Name: ... Signature: ...
+CAA Licence No.: ... Date: ...
+Organisation: ... Regulation 34
+The content and form of the Maintenance, Preventive Maintenance and Rebuilding Record under regulation 34 shall meet the following minimum standards:
 (a) appropriately authorised persons may maintain or perform
-preventive maintenance, an aeronautical product. When the work is satisfactorily performed, the person who has performed the work is required to make the following entries on the applicable forms and document for recording purposes, such as Logbooks, Technical Log, Routine and non-Routine Work/Record cards, Major Modification and Major Repair Record card. Certain documents may be provided by the Authority, however, where the operator develops official company documents for recording purposes, such documents shall be approved by the Authority prior to official use;
+preventive maintenance, an aeronautical product. When the [Subsidiary] Civil Aviation [(No. 5) Airworthiness] Regulations
+work is satisfactorily performed, the person who has performed the work is required to make the following entries on the applicable forms and document for recording purposes, such as Logbooks, Technical Log, Routine and non-Routine Work/Record cards, Major Modification and Major Repair Record card. Certain documents may be provided by the Authority, however, where the operator develops official company documents for recording purposes, such documents shall be approved by the Authority prior to official use;
 (b) the maintenance record entry is required to include "a description
 of the work performed", which must be in sufficient detail to permit a person unfamiliar with the work to understand what was done, including the methods and procedures used in doing it. Manufacturer's manuals, service letters, bulletins, work orders, and others, which accurately describe what was done, or how it was done, may be referenced. Except for the documents mentioned, which are in common usage, referenced documents are to be made a part of the maintenance records;
 (c) the date of completion of work performed is normally the
@@ -791,9 +807,9 @@ modification shall-
 modification form prescribed by the Authority at least in duplicate;
 (B) give a signed copy of that form to the aircraft
 operator; and
-Civil Aviation [(No. 5) Airworthiness] Regulations [Subsidiary]
 (C) forward a copy of that form to the Authority,
 in accordance with Authority instructions, within 48 hours after the aeronautical product is approved for return to service;
+Civil Aviation [(No. 5) Airworthiness] Regulations [Subsidiary]
 (ii) in place of the requirements of paragraph (a), major
 repairs made in accordance with a manual or specifications acceptable to the Authority, an Approved Maintenance Organisation may-
 (A) use the customer's work order upon which
@@ -846,7 +862,7 @@ The content and form of records for the inspection of aeronautical products shal
 (a) persons issuing Certificate of Release to Service for
 Inspections performed in accordance with these Regulations and the Civil Aviation [(No. 2) Operations)] Regulations, the Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations, are required to make an entry in the maintenance record of that equipment. The following information may be made in the airframe, engine, engine module or propeller logbook, the Technical log, Routine and non-Routine Job Cards or Defect or Work card as appropriate to the recording scheme adopted by the operator approved by the Authority:
 (i) the type of inspection, including references to the
-maintenance manual and procedures used; and a brief description of the extent of the inspection performed; [Subsidiary] [Subsidiary] Civil Aviation [(No. 5) Airworthiness] Regulations Civil Aviation [(No. 5) Airworthiness] Regulations
+maintenance manual and procedures used; and a brief description of the extent of the inspection performed; [Subsidiary] Civil Aviation [(No. 5) Airworthiness] Regulations
 (ii) the date the inspection was completed and the total
 time-in-service at that time. The total time-in-service is the cumulative times that the aircraft was in flight;
 (b) in recording of time-in-service under paragraph (1)(b) the
@@ -872,4 +888,12 @@ HOUSING, FACILITIES, EQUIPMENT AND MATERIALS
 PART III
 ADMINISTRATION
 19. Applicability of Part III. [Subsidiary] Civil Aviation [(No. 6) Approved Maintenance Organisation] Regulations
-- Margin: Regulation 37. [304/2004 226/2005].
+- Margin: Regulation 37. [304/2004 226/2005 199/2009].
+- Margin: Sub. Leg.
+- Margin: Sub. Leg.
+- Margin: Sub. Leg.
+- Margin: Sub. Leg.
+- Margin: Sub. Leg.
+- Margin: Sub. Leg.
+- Margin: Sub. Leg.
+- Margin: Sub. Leg.

@@ -13,8 +13,8 @@ Frequency/Direction Finding installation situated to the South of the Golden Gro
 (f) PIARCO ACC:10˚ 351 25˝ N lat. 061˚ 201 23˝ W long. Piarco Area
 Control Centre situated to the west of the Caroni North Bank Road, in the Ward of Tacarigua, in the County of St. George, in the island of Trinidad. Reference points have been defined in accordance with the World Geodetic System (WGS 84).
 - Margin: Section 43. [17 of 2003].
-- Margin: 100/2004. [301/2004 273/2004 30/2005 222/2005 185/2006 284/2006 45/2007]. Citation.
-- Margin: Interpretation. [301/2004 185/2006 45/2007].
+- Margin: 100/2004. [301/2004 273/2004 30/2005 222/2005 185/2006 284/2006 45/2007 29/2008 179/2008]. Citation.
+- Margin: Interpretation. [301/2004 185/2006 45/2007 179/2008].
 - Margin: Sub. Leg.
 - Margin: Applicability of these Regulations. [301/2004 222/2005 45/2007].
 - Margin: 18 of 2004.
@@ -26,8 +26,8 @@ Control Centre situated to the west of the Caroni North Bank Road, in the Ward o
 - Margin: Display of aviation documents.
 - Margin: Change of name on licence or certificate.
 - Margin: Change of address on licence or certificate.
-- Margin: Replacement of an aviation document.
-- Margin: Falsification, reproduction or alteration of licence.
+- Margin: Replacement of an aviation document. [196/2009].
+- Margin: Falsification, reproduction or alteration of an aviation document, record, report and application. [196/2009].
 - Margin: Suspension, revocation or limitation of licence, certificate or other aviation document. [185/2006].
 - Margin: Requirements of and effects of surrendered, suspended or revoked aviation document. [185/2006].
 - Margin: Restriction on re-application after revocation.
@@ -37,11 +37,11 @@ Control Centre situated to the west of the Caroni North Bank Road, in the Ward o
 - Margin: Restriction on Performance due to medical deficiencies. [185/2006].
 - Margin: Drug and alcohol testing and reporting.
 - Margin: Restrictions on deviation from procedures.
-- Margin: Issue of airman licences. [185/2006].
-- Margin: Validation of licence or certificate. [45/2007].
+- Margin: Issue of airman licences. [185/2006 196/2009].
+- Margin: Validation of licence or certificate. [45/2007 196/2009].
 - Margin: Conversion of foreign licence.
 - Margin: Authority to issue ratings for pilots. [45/2007].
-- Margin: Authority may issue authorisations.
+- Margin: Authority may issue authorisations. [196/2009].
 - Margin: Applicability.
 - Margin: Requirement for Student Pilot Licence.
 - Margin: Issue and validity of Student Pilot Licence.
@@ -60,7 +60,7 @@ Control Centre situated to the west of the Caroni North Bank Road, in the Ward o
 - Margin: Private Pilot skill requirement.
 - Margin: [45/2007].
 - Margin: Schedule 3. Part B. Part C.
-- Margin: Private Pilot Licence aeronautical experience requirements for additional ratings. [45/2007].
+- Margin: Private Pilot Licence aeronautical experience requirements for additional ratings. Schedule 3. Part D. [45/2007].
 - Margin: Schedule 3. Part D.
 - Margin: Conversion of a Private Pilot Licence based on qualifications of another Contracting State.
 - Margin: Issue of Private Pilot Licence.
@@ -88,6 +88,7 @@ Control Centre situated to the west of the Caroni North Bank Road, in the Ward o
 - Margin: Airline transport pilot flight skill requirements. [45/2007].
 - Margin: Schedule 5. Part B.
 - Margin: Airline transport pilot aeronautical experience for aeroplane category rating. [45/2007].
+- Margin: Schedule 5. Part C.
 - Margin: Airline Transport Pilot Licence aeronautical experience for rotorcraft category and class rating. Schedule 5. Part C. [185/2006 45/2007].
 - Margin: Requirements for an Airline Transport Pilot Licence where applicant holds equivalent licence.
 - Margin: Issue and validity of Airline Transport Pilot Licence.
@@ -172,8 +173,8 @@ Control Centre situated to the west of the Caroni North Bank Road, in the Ward o
 - Margin: Applicant approved flight simulator or flight training device for powered-lift category and Type Rating to meet certain requirements.
 - Margin: Graduation certificate to be sufficient evidence of training and experience.
 - Margin: Applicability.
-- Margin: Restrictions on persons to exercise air traffic control privileges.
-- Margin: Issue of Air Traffic control Licences.
+- Margin: Restrictions on persons to exercise air traffic control privileges. [179/2008].
+- Margin: Issue of Air Traffic control Licences. [179/2008].
 - Margin: Air Traffic Trainee Licence Requirements.
 - Margin: Air Traffic Controller Licence, aeronautical knowledge requirements. Schedule 10. Part A.
 - Margin: Applicant for Air Traffic Trainee Licence to demonstrate knowledge and ability in air traffic control procedures. Schedule 10. Part B.
@@ -181,13 +182,14 @@ Control Centre situated to the west of the Caroni North Bank Road, in the Ward o
 - Margin: Director- General to designate examiner to administer test to applicant for Air Traffic Trainee Licence.
 - Margin: Examiner to recommend issue of Air Traffic Trainee Licence.
 - Margin: Privileges of an Air Traffic Trainee Licence.
-- Margin: Air Traffic Controller Licence Requirements.
+- Margin: Air Traffic Controller Licence Requirements. [196/2009].
 - Margin: Requirements for Air Traffic Controller Ratings.
 - Margin: Schedule 10. Part C.
 - Margin: Schedule 10. Part D.
 - Margin: Issue of Air Traffic Controller Ratings.
+- Margin: Sub. Leg.
 - Margin: Requirements for additional ratings for Air Traffic Controller.
-- Margin: Privileges and limitations of Air Traffic Controller. [301/2004].
+- Margin: Privileges and limitations of Air Traffic Controller. [301/2004 179/2008].
 - Margin: Rest and duty limitation for Air Traffic Controllers.
 - Margin: Air Traffic Instructor Authorisation requirements.
 - Margin: Issue of Air Traffic Control Instructor Authorisation.
@@ -217,24 +219,34 @@ Control Centre situated to the west of the Caroni North Bank Road, in the Ward o
 - Margin: Renewal of a medical certificate.
 - Margin: Deferral of medical examination.
 - Margin: Physical and mental standards for all medical examinations. Schedule 12.
-- Margin: Applicability.
-- Margin: General applicability and eligibility requirements for Aircraft Maintenance Engineer Licence.
-- Margin: Issue of Ratings. [185/2006].
-- Margin: Aircraft Maintenance Engineer Licence Rating knowledge requirements. [185/2006 284/2006]. Schedule 13.
-- Margin: Aircraft Maintenance Engineer to complete approved or accepted training course.
-- Margin: Aircraft Maintenance Engineer Licence proficiency requirements. [185/2006].
-- Margin: Aircraft Maintenance Engineer Licence aeronautical experience requirements. [185/2006].
-- Margin: Issue of Aircraft Maintenance Engineer Licence.
-- Margin: Aircraft Maintenance Engineer Licence privileges and limitations. [185/2006].
-- Margin: Requirements for recency of experience of a Aircraft Maintenance Engineer.
-- Margin: Eligibility requirements of an Aircraft Maintenance Inspection Authorisation.
+- Margin: Requirements of Part IX. [196/2009].
+- Margin: General requirements for an Aircraft Maintenance Engineer Licence Category or Rating. Schedule 13. Part A. [196/2009].
+- Margin: Schedule 13. Part B.
+- Margin: Schedule 13. Part C.
+- Margin: Schedule 13. Part D.
+- Margin: Knowledge test. [196/2009].
+- Margin: Schedule 13. Part B.
+- Margin: Interview to test knowledge and practical application. [196/2009].
+- Margin: Issue of Aircraft Maintenance Engineer Licence. [196/2009].
+- Margin: Schedule 13. Part E.
+- Margin: Privileges of a person holding an Aircraft Maintenance Engineer Licence or Rating. [196/2009]. Schedule 13. Part F.
+- Margin: Period of validity of an Aircraft Maintenance Engineer Licence. [196/2009].
+- Margin: Compass Compensation and Adjustment Rating. [196/2009].
+- Margin: Application for renewal of an Aircraft Maintenance Engineer Licence. [196/2009].
+- Margin: Schedule 13. Part G.
+- Margin: Renewal of an Aircraft Maintenance Engineer Licence. [196/2009].
+- Margin: Schedule 13. Part G.
+- Margin: Application for validation of an Aircraft Maintenance Engineer Licence or Certificate issued by another Contracting State. [196/2009].
 - Margin: Schedule 13.
-- Margin: Issue of Aircraft Maintenance Engineer Inspection Authorisation.
-- Margin: Duration of Aircraft Maintenance Engineer Inspection Authorisation.
-- Margin: Renewal of Aircraft Maintenance Engineer Inspection Authorisation.
-- Margin: Schedule 13.
-- Margin: Privileges and limitations of Aircraft Maintenance Inspection Authorisation.
-- Margin: Sub. Leg.
+- Margin: Knowledge test requirements for validation of an Aircraft Maintenance Engineer Licence or Certificate issued by another Contracting State. Schedule 13. Part B. [196/2009].
+- Margin: Validation of an Aircraft Maintenance Engineer Licence or Certificate issued by another Contracting State. Schedule 13. Part B. Part E. [196/2009].
+- Margin: Application for conversion of an Aircraft Maintenance Engineer Licence or Certificate issued by another Contracting State. [196/2009].
+- Margin: Knowledge test for conversion of an Aircraft Maintenance Engineer Licence or Certificate issued by another Contracting State. Schedule 13. Part B. [196/2009].
+- Margin: Interview to test knowledge and practical application for conversion of an Aircraft Maintenance Engineer Licence. [196/2009].
+- Margin: Conversion of an Aircraft Maintenance Engineer Licence or Certificate of another Contracting State. [196/2009].
+- Margin: Schedule 13. Part E.
+- Margin: Aircraft Maintenance Engineer Rest and Duty Limitations. Sub. Leg. [196/2009].
+- Margin: Aircraft Maintenance Personal Record. [196/2009].
 - Margin: Requirements for Parachute Rigger Licence.
 - Margin: Issue of Parachute Rigger Licence.
 - Margin: Restrictions on Parachute Rigger Licence.
@@ -249,53 +261,55 @@ Control Centre situated to the west of the Caroni North Bank Road, in the Ward o
 - Margin: Exemptions from requirements for licensing, ratings and authorisations.
 - Margin: Language Proficiency. [301/2004 45/2007].
 - Margin: Schedule 14.
-- Margin: Transitional provisions. [273/2004 30/2005 222/2005 284/2006].
+- Margin: Transitional provisions. [273/2004 30/2005 222/2005 284/2006 29/2008].
 - Margin: Requirements to comply with minimum standards. [222/2005].
 - Margin: Schedule 14.
 - Margin: Director- General to amend Schedule.
-- Margin: Commencement of Part VI. [30/2005 222/2005 284/2006].
-- Margin: Commencement of Part IX. [222/2005 284/2006].
+- Margin: Commencement of Part VI. [30/2005 222/2005 284/2006 29/2008].
+- Margin: Commencement of Part IX. [222/2005 284/2006 29/2008].
 - Margin: 45/2007.
-- Margin: [Regulation 5(5)].
-- Margin: [Regulation 15(2)].
-- Margin: [Regulation 27(4) and 29(2)(a)].
-- Margin: [Regulation 27(5)].
-- Margin: [Regulation 29(2)(b)].
-- Margin: [Regulation 30(1)(i), 39(1)(j), and 49(1)(i)].
-- Margin: [Regulations 31(2) and 34(1)(a)]. [45/2007].
-- Margin: [Regulation 33(l)]
-- Margin: [Regulation 33(1)].
-- Margin: [Regulation 34(3)].
-- Margin: (Regulation 42). [45/2007].
-- Margin: [Regulations 39(1), 42].
-- Margin: [Regulation 40].
-- Margin: [Regulation 41(2)].
-- Margin: [Regulation 43(1)].
-- Margin: [Regulation 50(1)]. [45/2007].
-- Margin: [Regulation 51(2)].
-- Margin: (Regulations 52 and 53).
-- Margin: [Regulation 58(2)(c)]. [45/2007].
-- Margin: [Regulation 60(1)(b)(iv), 87(b)(iii)].
-- Margin: Regulation 60(1)(c) and 88(b)].
-- Margin: [Regulation 60(1)(b)(iii)].
-- Margin: [Regulations 60(1)(b)(vi) and (d)].
-- Margin: (Regulation 57A). [45/2007].
-- Margin: (Regulation 57B). [45/2007].
-- Margin: [Regulation 69(6)(b)(ii)(A)].
-- Margin: [Regulation 69(6)(b)(ii)(B)].
-- Margin: [Regulation 69(8)(a)].
-- Margin: [Regulation 69(8)(b)].
+- Margin: Regulation 5(5).
+- Margin: Regulation 15(2).
+- Margin: Regulation 27(4) and 29(2)(a).
+- Margin: Regulation 27(5).
+- Margin: Regulation 29(2)(b).
+- Margin: Regulation 30(1)(i), 39(1)(j) and 49(1)(i).
+- Margin: Regulations 31(2) and 34(1)(a). [45/2007].
+- Margin: Regulation 33(l).
+- Margin: Regulation 33(1).
+- Margin: Regulation 34(3).
+- Margin: Regulation 42. [45/2007].
+- Margin: Regulations 39(1), 42.
+- Margin: Regulation 40.
+- Margin: Regulation 41(2).
+- Margin: Regulation 43(1).
+- Margin: Schedule 4. Part D.
+- Margin: Regulation 50(1). [45/2007].
+- Margin: Regulation 51(2).
+- Margin: Regulations 52 and 53.
 - Margin: Sub. Leg.
-- Margin: [Regulation 69(9)(a)].
-- Margin: [Regulation 69(9)(b)].
-- Margin: [Regulation 81(2)].
-- Margin: (Regulation 100). [45/2007].
-- Margin: (Regulation 122).
-- Margin: [Regulation 123].
-- Margin: [Regulation 129(1)(a)].
-- Margin: [Regulation 129(1)(b)].
-- Margin: [Regulation 141(2)(c)].
-- Margin: [Regulation 142(2)].
+- Margin: Regulation 58(2)(c). [45/2007].
+- Margin: Regulations 60(1)(b)(iv), 87(b)(iii).
+- Margin: Regulations 60(1)(c) and 88(b).
+- Margin: Regulation 60(1)(b)(iii).
+- Margin: Regulation 60(1)(b)(vi) and (d).
+- Margin: Regulation 57A. [45/2007].
+- Margin: Regulation 57B. [45/2007].
+- Margin: Regulation 69(6)(b)(ii)(A).
+- Margin: Regulation 69(6)(b)(ii)(B).
+- Margin: Regulation 69(8)(a).
+- Margin: Regulation 69(8)(b).
+- Margin: Sub. Leg.
+- Margin: Regulation 69(9)(a).
+- Margin: Regulation 69(9)(b).
+- Margin: Regulation 81(2).
+- Margin: Regulation 100. [45/2007].
+- Margin: Regulation 122. [179/2008 196/2009].
+- Margin: Regulation 123.
+- Margin: Regulation 129(1)(a). [179/2008].
+- Margin: Regulation 129(1)(b). [179/2008 196/2009].
+- Margin: Regulation 141(2)(c).
+- Margin: Regulation 142(2).
 - Margin: not
 - Margin: an
 - Margin: the
@@ -307,6 +321,14 @@ Control Centre situated to the west of the Caroni North Bank Road, in the Ward o
 - Margin: be
 - Margin: in
 - Margin: stereopsis,
-- Margin: [Regulation 162(2) 169(1)(e) 172(2)].
-- Margin: [Regulation 164). [185/2006].
-- Margin: [Regulation 191 (1)]. [301/2004 222/2005].
+- Margin: Regulation 160(a). [196/2009].
+- Margin: Regulation 160(e).
+- Margin: Regulation 160(f).
+- Margin: Regulation 160(g).
+- Margin: Regulation 163(3).
+- Margin: Regulation 164.
+- Margin: Sub. Leg.
+- Margin: Regulation 167.
+- Margin: Schedule 13. Part B.
+- Margin: Regulation191 (1). [301/2004 222/2005 196/2009].
+- Margin: Sub. Leg.

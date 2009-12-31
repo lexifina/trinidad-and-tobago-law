@@ -7,4 +7,4 @@ Class C-external-load suspended from the rotorcraft, which can be
 jettisoned, but remains in contact with land or water during rotocraft operation.
 Class D-external-load suspended from the rotorcraft for the carriage
 of persons.
-- Margin: (Regulation 2).
+- Margin: Regulation 2.

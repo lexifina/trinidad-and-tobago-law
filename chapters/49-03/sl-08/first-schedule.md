@@ -8,5 +8,5 @@ regulation 78(1) of the Civil Aviation [(No. 2) Operations] Regulations;
 of the aircraft, expressed in tonnes as set out in the
 Certificate of Airworthiness for the aircraft.
 [Subsidiary] Civil Aviation [(No. 13) Charges for Air Navigation Services] Regulations
-- Margin: [Regulation 4(1)].
+- Margin: Regulation 4(1).
 - Margin: Sub. Leg.

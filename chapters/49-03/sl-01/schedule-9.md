@@ -62,7 +62,7 @@ PART C
 INITIAL EMERGENCY EQUIPMENT DRILLS
 1. Each aircraft crew member shall accomplish emergency training during the specified training periods, using those items of installed emergency equipment for each type of aeroplane in which he or she is to serve.
 2. During initial training, each aircraft crew member shall perform the following one-time emergency drills:
-(a) protective Breathing Equipment and Fire-fighting Drill:
+(a) protective Breathing Equipment and Fire-fighting Drill-
 (i) locate source of fire or smoke (actual or simulated fire);
 (ii) implement procedures for effective crew co-ordination
 and communication, including notification of flight crew members about fire situation; [Subsidiary] Civil Aviation [(No. 2) Operations] Regulations
@@ -116,7 +116,8 @@ ensure slide or slide-raft inflation;
 securing device;
 (iv) prepare extinguisher for use;
 (v) actually operate and discharge each type of installed
-hand fire extinguisher; Note: Fighting an actual or a simulated fire is not necessary during this drill.
+hand fire extinguisher; Note: Fighting an actual or a simulated fire is not necessary
+during this drill.
 (vi) utilise correct fire-fighting techniques for type of
 fire; and
 (vii) implement procedures for effective crew co-ordination
@@ -144,7 +145,8 @@ procedures; and
 (ii) remove and use flotation seat cushions; and
 (iii) demonstrate swimming techniques using a seat cushion;
 (e) ditching drill, (if applicable):
-Note: During a ditching drill students shall perform the "prior to impact" and "after impact" procedures for a ditching, as appropriate to the specific operator's type of operation.
+Note: During a ditching drill students shall perform the "prior to
+impact"and "after impact" procedures for a ditching, as appropriate to the specific operator's type of operation.
 (i) implement crew co-ordination procedures, including
 briefing with captain to obtain pertinent ditching information and briefing cabin crews;
 (ii) co-ordinate time frame for cabin and passenger
@@ -240,7 +242,7 @@ training curriculum for the flight crew applicable to the type of operations con
 (A) aircraft dimensions, turning radius, panel
 layouts, cockpit and cabin configurations; and
 (B) other major systems and components or
-appliances of the aircraft.
+appliances of the aircraft;
 (ii) power plants:
 (A) basic engine description;
 (B) engine thrust ratings; and
@@ -317,7 +319,7 @@ LORAN-C, RNAV, Marker Beacon, DME);
 (H) aircraft transponders;
 (I) radio altimeters;
 (J) weather radar; and
-(K) cathode ray tube or computer generated displays
+(K) Cathode Ray Tube or computer generated displays
 of aircraft position and navigation information;
 (xiii) auto flight system:
 (A) autopilot;
@@ -379,7 +381,7 @@ systems;
 [Subsidiary] Civil Aviation [(No. 2) Operations] Regulations
 (G) escape straps or handles; and
 (H) hatches, ladders and movable stairs;
-(xxii) auxiliary Power Unit (APU):
+(xxii) Auxiliary Power Unit (APU):
 (A) electric and bleed air capabilities;
 (B) interfaces with electrical and pneumatic systems;
 (C) inlet doors and exhaust ducts; and
@@ -402,7 +404,7 @@ minimums or alternate requirements);
 (A) pre-flight and operation of applicable receivers;
 (B) onboard navigation systems; and
 (C) flight plans information input and retrieval;
-(iv) auto flight Autopilot, auto thrust, and flight director
+(iv) auto flight autopilot, auto thrust, and flight director
 systems, including the appropriate procedures, normal and abnormal indications, and annunciators;
 (v) cockpit familiarisation:
 (A) activation of aircraft system controls and
@@ -441,7 +443,7 @@ passenger); and
 normal operation);
 (C) exits without slides (pre-flight and normal
 operations); and
-(D) window exits.
+(D) window exits;
 (v) crew member communication and co-ordination:
 (A) authority of pilot in command;
 (B) routine communication signals and procedures;
@@ -572,9 +574,8 @@ private agencies;
 for flight operations officers includes a competence check given by an appropriate supervisor or ground instructor that demonstrates the required knowledge and abilities.
 PART E
 A national air operator shall ensure that pilot initial flight training
-includes at least the following:
-Note: Flight training may be conducted in an appropriate aircraft or adequate training
-simulator (simulator shall have landing capability).
+includes at least the following: Note: Flight training may be conducted in an appropriate aircraft or adequate training simulator
+(simulator shall have landing capability).
 (a) preparation:
 (i) visual inspection (for aircraft with a flight engineer,
 use of pictorial display authorised);
@@ -616,11 +617,11 @@ engine (2 engines; inoperative on 3-engine aeroplanes) (pilot in command only);
 (iv) Instrument Flight Rules precision approaches
 (Instrument Landing System normal and Instrument
 Landing System with one-engine inoperative);
-(v) instrument Flight Rules non-precision approaches
+(v) Instrument Flight Rules non-precision approaches
 (Non-directional beacon normal and VHF omni Range normal); and
 (vi) non-precision approach with one-engine inoperative
-(Loaliser back course procedures, SDF and LDA, GPS, TACAN and circling approach procedures); Note: Simulator shall be qualified for training and
-checking on the circling manoeuvre.
+(Loaliser back course procedures, SDF and LDA, GPS, TACAN and circling approach procedures); Note: Simulator shall be qualified for training and checking on the
+circling manoeuvre.
 (vii) missed approach from precision approach; [Subsidiary] Civil Aviation [(No. 2) Operations] Regulations
 (viii) missed approach from non-precision approach; and
 (ix) missed approach with power plant failure;
@@ -718,43 +719,50 @@ cabin crew-
 (b) during conversion and differences training, training is given
 on the location, removal and use of all safety and survival equipment carried on the aeroplane, as well as all normal and emergency procedures related to the aeroplane type, variant and configuration to be operated.
 [Subsidiary] Civil Aviation [(No. 2) Operations] Regulations
-6. Fire and smoke training; An operator shall ensure that cabin crew members are given fire and smoke training as follows:
+6. Fire and smoke training:
+An operator shall ensure that cabin crew members are given fire and smoke training as follows:
 Each cabin crew member shall be given realistic and
 practical training in the use of all fire fighting equipment including protective clothing representative of that carried in the aeroplane. Such training shall include the following activities:
 (i) each cabin crew member extinguishing a fire
 characteristic of an aeroplane interior fire except that, in the case of halon extinguishers, an alternative extinguishing agent may be used; and
 (ii) the donning and use of protective breathing equipment
 by each cabin crew member in an enclosed, simulated smoke-filled environment.
-7. Operation of doors and exits; An operator shall ensure that cabin crew members are given training in the operation of aircraft doors and exits as follows:
+7. Operation of doors and exits:
+An operator shall ensure that cabin crew members are given training in the operation of aircraft doors and exits as follows:
 (a) each cabin crew member shall operate and actually open all
 normal and emergency exits for passenger evacuation in an aircraft or representative training device; and
 (b) the operation of all other exits, such as flight deck windows
 is demonstrated.
-8. Evacuation slide training; An operator shall ensure that cabin crew members are given training in aircraft evacuation and slide training as follows:
-(a) each cabin crew member descends an evacuation slide from
-a height representative of the aeroplane main deck sill height; and
+8. Evacuation slide training:
+An operator shall ensure that cabin crew members are given training in aircraft evacuation and slide training as follows:
+(a) each cabin crew member descends an evacuation slide from a
+height representative of the aeroplane main deck sill height; and
 (b) the slide is fitted to an aeroplane or a representative
 training device.
-9. Evacuation procedures and other emergency situations. An operator shall ensure that cabin crew members are given training in evacuation procedures and other emergency situations as follows:
+9. Evacuation procedures and other emergency situations:
+An operator shall ensure that cabin crew members are given training in evacuation procedures and other emergency situations as follows:
 (a) emergency evacuation training includes the recognition of
 planned or unplanned evacuations on land or water. This training shall include recognition of when exits are unusable or when evacuation equipment is unserviceable; and
 (b) each cabin crew member is trained to deal with the following:
 (i) an in-flight fire, with particular emphasis on
 identifying the actual source of the fire;
 (ii) severe air turbulence; [Subsidiary] Civil Aviation [(No. 2) Operations] Regulations
-(iii) sudden decompression, including the donning of
-portable oxygen equipment by each cabin crew member; and
+(iii) sudden decompression, including the donning of portable
+oxygen equipment by each cabin crew member; and
 (c) other in-flight emergencies.
-10. Crowd control; An operator shall ensure cabin crew members are
-given training on the practical aspects of crowd control in various emergency situations, as applicable to the aeroplane type.
-11. Pilot incapacitation; An operator shall ensure that cabin crew
-members are trained to render assistance where a pilot becomes incapacitated. This training shall include a demonstration of:
+10. Crowd control:
+An operator shall ensure cabin crew members are given training
+on the practical aspects of crowd control in various emergency situations, as applicable to the aeroplane type.
+11. Pilot incapacitation:
+An operator shall ensure that cabin crew members are trained to
+render assistance where a pilot becomes incapacitated. This training shall include a demonstration of:
 (a) the pilot's seat mechanism;
 (b) fastening and unfastening the pilot's seat harness;
 (c) use of the pilot's oxygen equipment; and
 (d) use of pilots' checklists.
-12. Safety equipment; An operator shall ensure that each cabin crew
-member is given realistic training on, and demonstration of, the location and use of safety equipment including the following:
+12. Safety equipment:
+An operator shall ensure that each cabin crew member is given
+realistic training on, and demonstration of, the location and use of safety equipment including the following:
 (a) slides, and where non self-supporting slides are carried, the
 use of any associated ropes;
 (b) life-rafts and slide-rafts, including the equipment attached to
@@ -771,8 +779,9 @@ or carried in, the raft;
 (l) first-aid kits, their contents and emergency medical
 equipment; and
 (m) other cabin safety equipment or systems where applicable.
-13. Passenger Briefing and Safety Demonstrations; An operator shall ensure
-that cabin crew members are given training in the preparation of passengers for normal and emergency situations in accordance these Regulations.
+13. Passenger Briefing and Safety Demonstrations:
+An operator shall ensure that cabin crew members are given
+training in the preparation of passengers for normal and emergency situations in accordance these Regulations.
 [Subsidiary] Civil Aviation [(No. 2) Operations] Regulations
 14. An operator shall ensure that all appropriate Regulatory requirements are included in the training of cabin crew members.
 PART H
@@ -796,12 +805,12 @@ May be waived
 Instrument Procedures
 May be waived PiC and Co-Pilot Area departure May be waived PiC and Co-Pilot Area arrival May be waived PiC and Co-Pilot Holding
 Normal ILS approach PiC and Co-Pilot Engine-out ILS PiC and Co-Pilot Coupled ILS approach PiC and Co-Pilot Non-precision approach Both pilots may take simultaneous credit PiC and Co-Pilot Second non-precision approach PiC and Co-Pilot Missed approach from an ILS PiC and Co-Pilot Second missed approach PiC only Circling approach Only when authorised in the AOC holder's PiC and Co-Pilot
-Operations Manual. May be waived [Subsidiary] Civil Aviation [(No. 2) Operations] Regulations
-TYPE OF OPERATION OR PROCEDURE PIC or Co-Pilot Notes
+Operations Manual. May be waived [Subsidiary] [Subsidiary] Civil Aviation [(No. 2) Operations] Regulations
+TYPE OF OPERATION OR PROCEDURE PIC or Co-Pilot Notes Inflight Manoeuvres
 May be waived PiC only
-PiC and Co-Pilot Specific flight characteristics PiC and Co-Pilot May be waived PiC and Co-Pilot
+PiC and Co-Pilot Specific flight characteristics PiC and Co-Pilot Approaches to stalls May be waived PiC and Co-Pilot
 2 engine inoperative approach (3 and 4 engine aircraft) PiC and Co-Pilot
-PiC and Co-Pilot PiC and Co-Pilot PiC and Co-Pilot PiC and Co-Pilot
+PiC and Co-Pilot PiC and Co-Pilot Landing from an ILS PiC and Co-Pilot PiC and Co-Pilot Landing with engine-out
 Only if authorised in Operations Manual PiC and Co-Pilot Landing from circling approach May be waived
 Normal and Non-Normal Procedures PiC and Co-Pilot
 PiC and Co-Pilot
@@ -821,7 +830,7 @@ in the co-pilot seat and carry out the duties of co-pilot, or pilot in command r
 (i) an engine failure during take-off;
 (ii) a one-engine inoperative approach and go-around; and
 (iii) a one-engine inoperative landing.
-[Subsidiary] Civil Aviation [(No. 2) Operations] Regulations
+[Subsidiary] [Subsidiary] Civil Aviation [(No. 2) Operations] Regulations
 (b) when engine-out manoeuvres are carried out in an aircraft,
 the engine failure shall be simulated;
 (c) when operating in the right-hand seat, the checks required for
@@ -944,14 +953,14 @@ before a Flight Operations Officer is qualified in ETOPS or other special operat
 PART M
 Supervised line experience for Cabin Crew shall include the following:
 The following areas of operation are required for supervised line experience for cabin crew:
-New entrant Cabin Crew
-(a) Each new entrant cabin crew member having no previous
+New entrant cabin crew
+(a) each new entrant cabin crew member having no previous
 comparable operating experience should-
 (i) participate in a visit to the aircraft to be operated; and
 (ii) participate in familiarisation flights as described in
-paragraph (c) below.
+paragraph (c) below;
 Cabin crew operating on a subsequent aircraft type
-(b) A cabin crew member assigned to operate on a subsequent
+(b) a cabin crew member assigned to operate on a subsequent
 aircraft type with the same operator should either-
 (i) participate in a familiarisation flight as described in
 paragraph 3 below; or
@@ -966,11 +975,11 @@ involve the cabin crew member in the participation of safety related pre-flight,
 (iv) familiarisation flights should be operated with the
 cabin crew member in the operator's uniform; and
 (v) familiarisation flights should form part of the training
-record for each cabin crew member.
+record for each cabin crew member;
 Aircraft visits
-(d) The purpose of aircraft visits is to familiarise each cabin
-crew member with the aircraft environment and its equipment. Accordingly, aircraft visits should be conducted by suitably qualified persons and in accordance with a syllabus described in the Operations Manual, Part D. The [Subsidiary] Civil Aviation [(No. 2) Operations] Regulations
-aircraft visit should provide an overview of the aircraft's exterior, interior and systems including the following:
+(d) the purpose of aircraft visits is to familiarise each cabin crew
+member with the aircraft environment and its equipment. Accordingly, aircraft visits should be conducted by suitably qualified persons and in accordance with a syllabus described in the Operations Manual, Part D. The aircraft visit [Subsidiary] Civil Aviation [(No. 2) Operations] Regulations
+should provide an overview of the aircraft's exterior, interior and systems including the following:
 (i) interphone and public address systems;
 (ii) evacuation alarm systems;
 (iii) emergency lighting;
@@ -1011,7 +1020,7 @@ phenomena including the principles of frontal system, icing, fog, thunderstorms,
 (v) major aircraft systems (i.e., flight controls, electric,
 hydraulic and other systems as appropriate); and
 (vi) ground icing and de-icing procedures and requirements;
-(c) emergency equipment and drills-
+(c) emergency equipment and drills:
 (i) every twelve months-
 (A) instruction on the location and use of all
 emergency and safety equipment carried on the aircraft;
@@ -1026,8 +1035,7 @@ equipment; and
 (B) demonstration of the method used to operate a
 slide, where fitted;
 (C) firefighting using equipment representative of that
-carried in the aircraft on an actual or simulated fire; Note: With halon extinguishers, an alternative method acceptable
-to the Authority may be used.
+carried in the aircraft on an actual or simulated fire; Note: With halon extinguishers, an alternative method acceptable to the Authority may be used.
 (D) effects of smoke in an enclosed area and actual
 use of all relevant equipment in a simulated smoke-filled environment;
 (E) actual handling of pyrotechnics, real or
@@ -1036,9 +1044,9 @@ simulated, where fitted;
 fitted;
 (G) an emergency evacuation drill;
 (H) a "dry" ditching drill; and
-(I) a rapid decompression drill, if applicable; and
-{ (d)
-(Deleted by LN 223/2005).
+(I) a rapid decompression drill, if applicable;
+(d) {
+(Deleted by LN 223/2005);
 (e) [Subsidiary] Civil Aviation [(No. 2) Operations] Regulations
 (f) every twelve months, crew resource management:
 (i) decision making skills;
@@ -1076,15 +1084,15 @@ authorised); and
 (B) crosswind;
 (C) rejected;
 (D) power failure after V1;
-*Note: Flight Training may be conducted in an Appropriate Aircraft or Adequate Training
-Simulator (Simulator shall have Landing Capability).
+*Note: Flight Training may be conducted in an Appropriate Aircraft or Adequate
+Training Simulator (Simulator shall have Landing Capability).
 [Subsidiary] Civil Aviation [(No. 2) Operations] Regulations
 (E) power plant failure during second segment; and
 (F) lower than standard minimum;
 (iv) climb:
 (A) normal; and
-(B) one-engine inoperative during climb to en
-route altitude;
+(B) one-engine inoperative during climb to
+en route altitude;
 (v) en route:
 (A) steep turns;
 (B) approaches to stalls (take-off, en route, and
@@ -1105,8 +1113,8 @@ engine (2 engines inoperative on 3-engine aeroplanes) (pilot in command only);
 (E) instrument flight rules non-precision approaches
 (non- directional beacon normal and VHF omni range normal); and
 (F) non-precision approach with one engine
-inoperative (localizer back course, SDF or LDA, GPS, TACAN and circling approach procedures); Note: Simulator shall be qualified for training and checking
-on the circling manoeuvre.
+inoperative (localizer back course, SDF or LDA, GPS, TACAN and circling approach procedures); Note: Simulator shall be qualified for training and
+checking on the circling manoeuvre.
 (G) missed approach from precision approach;
 (H) missed approach from non-precision
 approach; and
@@ -1163,9 +1171,9 @@ and stability augmentation systems;
 (F) flight control system malfunction; and
 (G) landing gear and flap system malfunction;
 (k) the national air operator may combine training with the
-national air operator's proficiency check.
+national air operator's proficiency check;
 (l) the national air operator shall ensure that the aeroplane or
-flight simulator training programme is established such that all major failures of aeroplane systems and associated procedures will have been practiced in the preceding three-year period.
+flight simulator training programme is established such that all major failures of aeroplane systems and associated procedures will have been practiced in the preceding three-year period;
 (m) recurrent ground and flight training curricula may be
 accomplished concurrently or intermixed, but completion of each of these curricula shall be recorded separately.
 PART O
@@ -1214,7 +1222,7 @@ equipment carried on the aircraft;
 (C) actual donning of a life jacket where fitted;
 (D) actual donning of protective breathing equipment; and
 (E) actual handling of fire extinguishers;
-(iv) every three years;
+(iv) every three years:
 (A) operation of all types of exits;
 (B) demonstration of the method used to operate a
 slide, where fitted; and
@@ -1241,12 +1249,12 @@ where fitted;
 goods;
 (B) proper packaging, marking and documentation; and
 (C) instructions regarding compatibility, loading,
-storage and handling characteristics.
+storage and handling characteristics;
 (vii) every twelve months, security:
 (A) hijacking; and
-(B) disruptive passengers.
+(B) disruptive passengers;
 (b) a national air operator may administer each of the recurrent
-training curricula concurrently or intermixed, but shall record completion of each of these curricula separately.
+training curricula concurrently or intermixed, but shall record completion of each of these curricula separately;
 (c) a national air operator should ensure that a formalised course
 of recurrent training is provided for cabin crew in order to ensure continued proficiency with all equipment relevant to the aircraft types that they operate.
 PART P
@@ -1263,7 +1271,7 @@ and procedures;
 conducting the required checks;
 (d) proper evaluation of student performance including the
 detection of-
-(i) improper and insufficient training, and
+(i) improper and insufficient training; and
 (ii) personal characteristics of an applicant that could
 adversely affect safety;
 (e) appropriate corrective action in the case of unsatisfactory
@@ -1280,22 +1288,22 @@ for flight instructors includes the approved methods, procedures, and limitation
 5. A national air operator shall ensure that the initial and transition flight
 training for flight instructors includes the following:
 (a) the safety measures for emergency situations that are likely
-to develop during instruction.
+to develop during instruction;
 (b) the potential results of improper, untimely, or non-execution
-of safety measures during instruction.
+of safety measures during instruction;
 (c) for pilot flight instructor:
 (i) in-flight training and practice in conducting flight
 instruction from the left and right pilot seats in the
 [Subsidiary] Civil Aviation [(No. 2) Operations] Regulations
 required normal, abnormal and emergency procedures to ensure competence as an instructor; and
 (ii) the safety measures to be taken from either pilot seat
-for emergency situations that are likely to develop during instruction.
+for emergency situations that are likely to develop during instruction;
 (d) for Flight Instructors assigned to Flight Engineer instruction,
 in-flight training to ensure competence to perform assigned duties.
 6. A national air operator may accomplish the flight training requirements for Flight Instructors in full or in part in flight, in a flight simulator, or in a flight training device, as appropriate.
 7. A national air operator shall ensure that the initial and transition flight training for Simulator Flight Instructors includes the following:
 (a) training and practice in the required normal, abnormal and
-emergency procedures to ensure competence to conduct the flight instruction required by this Part. This training and practice shall be accomplished in full or in part in a flight simulator or in a flight training device.
+emergency procedures to ensure competence to conduct the flight instruction required by this Part. This training and practice shall be accomplished in full or in part in a flight simulator or in a flight training device;
 (b) training in the operation of flight simulators or flight training
 devices, or both, to ensure competence to conduct the flight instruction required by this Part.
 PART Q
@@ -1308,7 +1316,7 @@ and procedures;
 conducting the required checks;
 (d) proper evaluation of student performance including the
 detection of-
-(i) improper and insufficient training, and
+(i) improper and insufficient training; and
 (ii) personal characteristics of an applicant that could
 adversely affect safety;
 (e) appropriate corrective action in the case of unsatisfactory
@@ -1334,26 +1342,26 @@ devices, or both, to ensure competence to conduct the evaluations required by th
 5. A national air operator may accomplish flight training for check
 airmen in full or in part in an aircraft, in a flight simulator, or in a flight training device, as appropriate.
 [Subsidiary] Civil Aviation [(No. 2) Operations] Regulations
-- Margin: (Regulation 229). [223/2005].
-- Margin: (Regulation 232).
-- Margin: (Regulation 233).
-- Margin: (Regulation 234).
-- Margin: [Regulation 235(4)].
-- Margin: (Regulation 236).
-- Margin: [Regulation 239(8)].
-- Margin: [Regulation 240(5)].
-- Margin: Inflight Manoeuvres
+- Margin: Regulation 229. [223/2005].
+- Margin: Regulation 232.
+- Margin: Regulation 233.
+- Margin: Regulation 234.
+- Margin: Regulation 235(4).
+- Margin: Regulation 236.
+- Margin: Regulation 239(8).
+- Margin: Regulation 240(5).
 - Margin: Steep turns
-- Margin: Approaches to stalls Power plant failure
-- Margin: Normal landing Landing from an ILS Crosswind landing Landing with engine-out
+- Margin: Power plant failure
+- Margin: Normal landing
+- Margin: Crosswind landing
 - Margin: Rejected landing
 - Margin: Other events
-- Margin: (Regulation 242).
-- Margin: (Regulation 248).
-- Margin: (Regulation 249).
-- Margin: (Regulation 250).
+- Margin: Regulation 242.
+- Margin: Regulation 248.
+- Margin: Regulation 249.
+- Margin: Regulation 250.
 - Margin: (Regulation 253).
-- Margin: (Regulation 260). [223/2005].
-- Margin: (Regulation 261). [223/2005].
-- Margin: (Regulation 264).
-- Margin: (Regulation 266).
+- Margin: Regulation 260. [223/2005].
+- Margin: Regulation 261. [223/2005].
+- Margin: Regulation 264.
+- Margin: Regulation 266.

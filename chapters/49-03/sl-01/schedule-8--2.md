@@ -4,7 +4,7 @@ a security training programme:
 (a) security of the flight crew compartment;
 (b) aeroplane search procedure checklist;
 (c) determination of the seriousness of any occurrence;
-(d) crew communication and coordination;
+(d) crew communication and co-ordination;
 (e) appropriate self-defence responses;
 (f) use authorised by the state of the operator of non-lethal
 protective devices assigned to crew members;

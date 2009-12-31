@@ -15,4 +15,4 @@ radar summary charges, and satellite imagery reports made by commercial weather 
 (g) a national air operator operated and maintained weather-
 reporting system approved by the Authority.
 Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations [Subsidiary]
-- Margin: [Regulation 51(1)].
+- Margin: Regulation 51(1)).
