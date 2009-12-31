@@ -12,7 +12,7 @@ Teaching Service Commission (Delegation of Powers) Order
 is subject to consultation with the Prime Minister.
 3. (1) The power to certify the eligibility of teachers whose Staff Reports are not adverse, for annual increments of salary (when due).
 (2) The power to certify eligibility of teachers for annual increments hereby delegated shall not affect the duty to render Staff Reports to the Commission in accordance with the provisions of regulation 34.
-4. (1) The power to exercise disciplinary control in respect of any alleged act of misconduct or indiscipline prescribed in regulations 62 and 64 and in regulation 83(2)(a), (b), (c), (d), (e), (f) and (h) or of any indiscipline prescribed in regulation 84 to the extent that the Permanent Secretary may charge a member of the Teaching Service with any offence prescribed as aforesaid and may impose, in respect of such misconduct or indiscipline the penalty of a fine under paragraph (g) or of a reprimand under paragraph (f) of regulation 110(1).
+4. (1) The power to exercise disciplinary control in respect of any alleged act of misconduct or indiscipline prescribed in *regulations 62 and 64 and in regulation 83(2)(a), (b), (c), (d), (e), (f) and (h) or of any indiscipline prescribed in regulation 84 to the extent that the Permanent Secretary may charge a member of the Teaching Service with any offence prescribed as aforesaid and may impose, in respect of such misconduct or indiscipline the penalty of a fine under paragraph (g) or of a reprimand under paragraph (f) of regulation 110(1).
 (2) In exercise of the powers delegated under subparagraph (1) the Permanent Secretary shall-
 (a) exercise the powers of the Commission under regulation 88(1)
 and regulation 90(6) and (7); and
@@ -23,6 +23,7 @@ in a grade higher than that of the teacher charged with misconduct or indiscipli
 (2) The power to exercise disciplinary control hereby delegated does not extend to a member of the Teaching Service who is the holder of an office in an assisted school.
 6. The Permanent Secretary, Ministry of Education and Culture shall submit to the Commission once in every month, a report of the exercise of the powers delegated under paragraph 1 of this Schedule.
 7. The Permanent Secretary shall submit to the Commission once in every quarter a report of the exercise of any of the powers delegated to the Permanent Secretary under paragraphs 2, 3 and 4 of this Schedule.
+*Regulations 60 to 83 of the Public Service Commission Regulations were Revoked by LN 28/1991.
 PUBLIC SERVICE COMMISSION REGULATIONS
 ARRANGEMENT OF REGULATIONS REGULATION
 CHAPTER I
@@ -31,9 +32,9 @@ PRELIMINARY
 2A. Application and saving of regulations to officers in the Fire Service.
 CHAPTER II
 THE PUBLIC SERVICE COMMISSION
-3. Oath of Office. 4. Meetings. 5. Procedure, quorum and voting. 6. Decisions other than at meetings. 7. Record of meetings and decisions. Dissents.
-8. Consultation with other persons. 9. Non-compliance.
-10. Instrument of delegation to be published.
+3. Oath of Office. 4. Meetings. 5. Procedure, quorum and voting. 6. Decisions other than at meetings. 7. Record of meetings and decisions.
+Dissents.
+8. Consultation with other persons. 9. Non-compliance. 10. Instrument of delegation to be published.
 CHAPTER III
 APPOINTMENTS, PROMOTIONS AND TRANSFERS 11. Application for appointment. 12. Selection for appointment on basis of competitive examination. 13. Filling of vacancies. 14. Appointments to be by competition within the particular service. 15. Advertisement of vacancies. 16. Selection Boards. 17. Examination Boards. 18. Principle of selection for promotion. 19. Promotion to Administrative Class.
 Public Service Commission Regulations
@@ -45,7 +46,8 @@ or reappointment.
 to appointment.
 25. Permanent Secretary to notify eligible officers of vacancy. 26. Principles of selection for acting appointment not as prelude
 to appointment.
-27. Permanent Secretary to submit recommendation in advance. 28. Permanent Secretary to state reasons for passing over officers. 29. Transfers. 30. Officer to assume duties pending review of transfer order. Exception.
+27. Permanent Secretary to submit recommendations in advance. 28. Permanent Secretary to state reasons for passing over officers. 29. Transfers. 30. Officer to assume duties pending review of transfer order.
+Exception.
 31. Date of appointment. 32. Medical examination on appointment. 33. Exemption from medical examination.
 CHAPTER IV
 STAFF REPORTS
@@ -68,7 +70,8 @@ compulsory.
 improvement in the organisation of a Ministry or Department.
 56. Termination of appointment on grounds of inefficiency. 57. (Revoked by LN 282/1998). 58. Medical Boards. 59. Unfit officers.
 CHAPTER VII
-} CONDUCT
+CONDUCT
+}
 60.
 (Revoked by LN 28/1991). to
 83.
@@ -84,8 +87,8 @@ or Head of Department.
 dealt with.
 88. Suspension by Commission. 89. Interdiction. 90. Investigation of charges. 91. Documents to be supplied to accused. 92. Officer to admit or deny charge in writing and may include
 explanation.
-93. Hearing on failure to admit or deny charge. 94. Witnesses. 95. Appointment of disciplinary tribunal. 96. Duty of officers appointed to disciplinary tribunal. 97. Officer on charge not to be permitted leave. 98. Procedure at hearing. 99. Adjournment of hearing.
-100. Hearing in absence of accused officer. 101. Standard of proof. 102. Tribunal to report. Report confidential.
+93. Hearing on failure to admit or deny charge. 94. Witnesses. 95. Appointment of disciplinary tribunal. 96. Duty of officers appointed to disciplinary tribunal. 97. Officer on charge not to be permitted leave. 98. Procedure at hearing. 99. Adjournment of hearing. 100. Hearing in absence of accused officer. 101. Standard of proof. 102. Tribunal to report.
+Report confidential.
 103. Disciplinary tribunal may adjourn and report to Commission. 104. Disciplinary tribunal to report where evidence insufficient.
 Public Service Commission Regulations
 REGULATION
@@ -93,8 +96,8 @@ REGULATION
 indiscipline disclosed at hearing of charges.
 106. Penalties that may be awarded under delegated authority. 107. Commission to inform officer of penalty imposed and of his right to
 apply for review.
-108. Commission may remove officer in public interest. 109. Proceedings in private.
-} 110. Penalties.
+108. Commission may remove officer in public interest. 109. Proceedings in private. 110. Penalties.
+}
 111. to (Revoked by LN 28/1991). 113. 114. Non-payment of remuneration on conviction of a criminal charge.
 CHAPTER IX
 REVIEWS
