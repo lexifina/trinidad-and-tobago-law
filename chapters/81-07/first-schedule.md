@@ -25,4 +25,4 @@ APPROVED ACTIVITIES
 1. Exploration for and production, extraction, refining, processing, purifying, liquefying, mixing, blending, storing, loading and unloading or trans-shipment of petroleum or natural gas.
 2. Any production activity in which petroleum, natural gas or petrochemicals are a major input, even if used as a fuel.
 3. Activities involving investment in excess of U.S. $50M.
-- Margin: (Section 4). [33 of 1995 200/1996].
+- Margin: Section 4. [33 of 1995 200/1996].
