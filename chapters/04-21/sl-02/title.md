@@ -6,7 +6,8 @@ FORMS
 JUDGMENT SUMMONSES
 51. Procedure on judgment summons.
 ACTIONS FOR RECOVERY OF LAND
-52. Action for recovery of land. 53. Service of summons. Vacant possession.
+52. Action for recovery of land. 53. Service of summons.
+Vacant possession.
 54. Admission in action for recovery of land. 55. Defence limited to part of land. 56. In action for recovery of land, any person not named as a defendant
 may, by leave, appear.
 57. Time within which application may be made for transfer of action to
@@ -22,4 +23,4 @@ PETTY CIVIL COURTS RULES
 made under section 53
 - Margin: [Subsidiary]
 - Margin: [Subsidiary]
-- Margin: G.20.11.41 [G 30.4.42 23.12.43 97/1958 51/1980 201/1980 6/1989 3 of 1994 5 of 1995].
+- Margin: G.20.11.41 [G 30.4.42 23.12.43 97/1958 51/1980 201/1980 6/1989 3 of 1994 5 of 1995]. Citation.

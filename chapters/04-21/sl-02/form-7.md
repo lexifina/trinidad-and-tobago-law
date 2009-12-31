@@ -8,5 +8,5 @@ Dated this ... day of ... , 20...
 - Margin: (Confession of Claim).
 - Margin: Plaintiff,
 - Margin: Defendant.
-- Margin: Signed in the presence of The above-named Defendant... Clerk of the Court.
-- Margin: I accept the above terms.
+- Margin: Signed in the presence of The above-named Defendant.
+- Margin: ... Clerk of the Court. I accept the above terms.

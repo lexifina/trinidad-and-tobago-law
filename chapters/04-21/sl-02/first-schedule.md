@@ -7,11 +7,10 @@ two or more defendants ... 2.00 And for every defendant other than the first …
 of two or more defendants ... 2.00 And for every defendant other than the first … … … 1.00 Summons for witness ... 1.00 Issuing Writ of Execution ... 1.00
 In Actions for over $300.00 and up to $1,200.00
 COURT FEES
-Filing Ordinary Summons ... 5.00 Serving Ordinary Summons on a single defendant or on the
-first of two or more defendants … … … 2.00 And for every defendant other than the first … … … 1.00 Filing Default Summons ... 4.00 Affidavit fee on Default Summons ...50 Serving Default Summons on a single defendant or on the first
+Filing Ordinary Summons ... 5.00 Serving Ordinary Summons on a single defendant or on the first
+of two or more defendants ... 2.00 And for every defendant other than the first … … … 1.00 Filing Default Summons ... 4.00 Affidavit fee on Default Summons ...50 Serving Default Summons on a single defendant or on the first
 of two or more defendants ... 1.00 And for every defendant other than the first ...50 Issuing Summons to Witness ...50 Filing application for leave to defend … … … 1.00 Filing any other application ... 1.00 Issuing Writ of Execution ...50
-Petty Civil Courts Rules
-In Actions over $1,200 or for the Recovery of Land or for the
+In Actions over $1, 200 or for the Recovery of Land or for the
 Delivery of Specific Goods
 $ ¢. COURT FEES
 Filing Ordinary Summons ... 8.00 Other fees: as in Actions over $300.00 and up to $1,200.00
@@ -26,7 +25,7 @@ INSTRUCTING ATTORNEYS'-AT-LAW FEES
 In Actions for Amounts not Exceeding $300.00
 $ ¢.
 1. Where the claim is for a liquidated demand and judgment is obtained by default or confession and-
-(a) the sum recovered does not execed $ 75.00 … … 15.00
+(a) the sum recovered does not execed $ 75.00… … 15.00
 (b) the sum recovered exceeds $75.00 but does not
 exceed $150.00 ... 30.00
 (c) the sum recovered exceeds $150.00 but does not
@@ -35,7 +34,6 @@ exceed $300.00 ... 45.00
 (a) the subject matter involved or sum recovered or amount
 claimed (as the Judge shall direct) does not exceed $150.00 such sum as the Judge may award not exceeding … 45.00
 Petty Civil Courts Rules
-INSTRUCTING ATTORNEYS'-AT-LAW FEES-Continued
 $ ¢.
 (b) the subject matter involved or sum recovered or amount
 claimed (as the Judge shall direct) exceeds $150.00 but does not exceed $300.00 such sum as the Judge may award not exceeding ... 75.00
@@ -51,8 +49,8 @@ Out of the Jurisdiction
 (a) where the subject matter involved or sum recovered
 or amount claimed in the action (as the Judge shall direct) does not exceed $300.00, such sum as the Judge may award not exceeding ... 25.00
 (b) where the subject matter involved or sum recovered or
-amount claimed in the action (as the Judge shall direct) exceeds $300.00, such sum as the Judge may award not exceeding ... 500.00
-Petty Civil Courts Rules
+amount claimed in the action (as the Judge shall direct) not exceeding ... 500.00
+FIRST SCHEDULE-Continued
 INSTRUCTING ATTORNEYS'-AT-LAW FEES-Continued
 $ ¢.
 Particulars
@@ -81,8 +79,8 @@ $1,200.00, such sum as the Judge may award not
 exceeding ... 500.00
 (c) in actions for the recovery of land or for the delivery of
 specific goods fees to Advocate Attorney-at-law and
-Instructing Attorney-at-law shall be according to the scale
-hereinabove provided for claims for unliquidated amount, the Judge fixing the value of the land or the rent payable in respect thereof whichever is higher, or the value of the goods for the purpose of determining the costs payable thereon.
+Instructing Attorney-at-law shall be according to the
+scale hereinabove provided for claims for unliquidated amount, the Judge fixing the value of the land or the rent payable in respect thereof whichever is higher, or the value of the goods for the purpose of determining the costs payable thereon.
 Petty Civil Courts Rules
 - Margin: Rule 49. [51/1980 201/1980 3 of 1994 5 of 1995].
 - Margin: [Subsidiary]

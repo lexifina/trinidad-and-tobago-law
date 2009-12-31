@@ -193,6 +193,7 @@ sl-02/form-5.md
 sl-02/form-6.md
 sl-02/form-7.md
 sl-02/form-8.md
+sl-02/form-9.md
 sl-02/form-10.md
 sl-02/form-11.md
 sl-02/form-12.md
