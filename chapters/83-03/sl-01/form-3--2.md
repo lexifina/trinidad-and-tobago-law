@@ -10,7 +10,7 @@ Joint Holder(s)
 (3) ...
 Registered Holder(s) of Certificate(s) Number(s)
 for
-for Units do hereby transfer units.
+for Units do hereby transfer Units.
 Please Print full name(s) of Person(s) to whom Units are being Transferred
 Full Address
 New A/C No...
@@ -19,10 +19,10 @@ SIGNATURE(S) DATE OF BIRTH
 I.D. No...
 DATE ...
 ...
-Transferee's Signature [Subsidiary] Unit Trust Second Unit Scheme Regulations
+Transferee's Signature
+Unit Trust Second Unit Scheme Regulations [Subsidiary]
 TRANSFER RECEIPT
-DATE ...
-This is to certify receipt of $ ... for transfer of units
+DATE ... This is to certify receipt of $ ... for transfer of Units
 from
 Certificate(s) AGENT'S STAMP No(s).
 Address ...
@@ -33,8 +33,7 @@ Trinidad and Tobago Unit Trust Corporation
 [Subsidiary]
 UNIT TRUST REGULATIONS
 ARRANGEMENT OF REGULATIONS REGULATION
-1. Citation. 2. Register. 3. Inspection of register. 4. Contribution certificate. 5. Replacement. 6. Transfer Form. 7. Effect of cancellation. 8. Meetings of Board. 9. Place.
-10. Notice. 11. Extraordinary meetings. 12. Minutes of Board. 13. Meetings of Investment Committee. 14. Voting. 15. Minutes of investment Committee. 16. Revocation of appointment. 17. Quorum. 18. Oath of secrecy. 19. Fee for attendance. 20. Travelling expenses. 21. Resolution of Board. 22. Keeping of Funds. 23. Form of accounts. 24. Nomination form. 25. Cancellation or substitution of nomination. 26. Accompanying unit certificate. 27. Nomination fees. 28. Recording of nomination. 29. Validity. 30. Serving of notice.
+1. Citation. 2. Register. 3. Inspection of Register. 4. Contribution certificate. 5. Replacement. 6. Transfer Form. 7. Effect of cancellation. 8. Meetings of Board. 9. Place. 10. Notice. 11. Extraordinary meetings. 12. Minutes of Board. 13. Meetings of Investment Committee. 14. Voting. 15. Minutes of Investment Committee. 16. Revocation of appointment. 17. Quorum. 18. Oath of secrecy. 19. Fee for attendance. 20. Travelling expenses. 21. Resolution of Board. 22. Keeping of Funds. 23. Form of accounts. 24. Nomination form. 25. Cancellation or substitution of nomination. 26. Accompanying unit certificate. 27. Nomination fees. 28. Recording of nomination. 29. Validity. 30. Serving of notice.
 SCHEDULE. [Subsidiary]
 UNIT TRUST REGULATIONS
 made under section 45
@@ -104,7 +103,7 @@ section 8(3) of the Act before entering upon his duties shall take and subscribe
 23. The accounts of the Trust shall comprise a balance sheet prepared as set out in Form 3 of the Schedule and a profit and loss account prepared as set out in Form 4 of the Schedule and shall be complied in accordance with accepted principles of accountancy practice.
 24. A nomination shall be in the form set out as Form 5 in the Schedule and shall be submitted to the Trust for entry in the register of unitholders and shall include the names of the unitholder and the nominee.
 25. (1) A nomination may be cancelled or substituted at any time after it has been made so however that every cancellation or substitution shall relate to all units in respect of which the nomination was made.
-(2) A cancellation or substitution of a nomination shall be notified in writing and shall be submitted to the Trust for entry in the register of unitholders. [Subsidiary] Unit Trust Regulations
+(2) A cancellation or substitution of a nomination shall be notified in writing and shall be submitted to the Trust for entry in the register of unitholders. [Subsidiary] Unit Trust Regulations Unit Trust Regulations
 26. (1) Every nomination submitted to the Trust shall be
 accompanied by the unit certificate in respect of which the nomination is made.
 (2) Every cancellation or substitution of a nomination

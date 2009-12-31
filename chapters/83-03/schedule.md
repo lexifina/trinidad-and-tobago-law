@@ -9,4 +9,4 @@ I further declare that I will not communicate or condone any communication to an
 Declared before me:
 ...
 *Delete whichever is not applicable.
-- Margin: (Section 40).
+- Margin: Section 40.

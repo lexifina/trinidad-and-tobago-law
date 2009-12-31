@@ -1,5 +1,5 @@
 # FORM 3
-THE TRINIDAD AND TOBAGO UNIT TRUST CORPORATION
+TRINIDAD AND TOBAGO UNIT TRUST CORPORATION
 BALANCE SHEET
 as at ...
 Assets
@@ -18,4 +18,4 @@ Less: Depreciation
 Land and Building at cost
 Less: Depreciation
 TOTAL CAPITAL AND
-LIABILITIES TOTAL ASSETS [Subsidiary] Unit Trust Regulations Unit Trust Regulations
+LIABILITIES TOTAL ASSETS [Subsidiary] Unit Trust Regulations
