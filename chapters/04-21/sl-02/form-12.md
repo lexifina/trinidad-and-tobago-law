@@ -10,6 +10,5 @@ I, ... [name, residence and occupation of deponent] make oath and say as follows
 [Where the deponent is not the proposed plaintiff].
 3. And I further say that I am a person in the employ of the proposed plaintiff [or as the case may be] and that the facts herein deposed to are within my own knowledge, and that I am duly authorised by the proposed plaintiff to make this affidavit.
 Before me,
-Petty Civil Courts Rules
 - Margin: Sworn to
 - Margin: [Subsidiary]
