@@ -8,15 +8,15 @@ Issued this ... day of ... 20... by virtue of and pursuant to the authority vest
 as the appropriate recognised majority Association in respect of ... employed by ...
 (Name of Employer)
 and comprised in a bargaining unit as hereunder described: ...
-The number of persons in the bargaining unit aforesaid as at the
-relevant date, that is to say the ... day of ... 20... was ...
+The number of persons in the bargaining unit aforesaid as at the relevant date, that is to say the ... day of ... 20... was ...
 The Certificate is effective from the ... day of ... 20...
 ...
 Chairman
 ...
 Secretary
 Teaching Service (Certification of Recognition) Regulations
-REMARKS TEACHING SERVICE (CERTIFICATION OF RECOGNITION) REGULATIONS-RECORD OF CERTIFICATION
+REMARKS
+TEACHING SERVICE (CERTIFICATION OF RECOGNITION) REGULATIONS-RECORD OF CERTIFICATION
 VARIATION OF BARGAINING
 DATE OF
 UNIT
@@ -29,7 +29,8 @@ DATE OF
 BARGAINING UNIT AND NUMBER OF PERSONS
 IN DETERMINED
 RELEVANT
-DATE FORM 3
+DATE
+FORM 3
 AS DETERMINED BY
 BARGAINING UNIT DESCRIPTION OF
 APPROPRIATE THE BOARD
@@ -50,8 +51,7 @@ PRELIMINARY
 PART II
 COMPOSITION AND PROCEDURES OF BOARD 3. Composition of Board and qualification of member. 4. Term of Board. 5. Appointment and termination of appointment. 6. Appointment of member where vacancy in Board. 7. Procedure of Board.
 7A. Decisions not to conflict.
-8. Annual general meetings. 9. Ordinary meetings.
-10. Extraordinary meetings. 11. Emergency meeting. 12. Quorum. 13. Voting. 14. Declaration of interest. 15. Variation of decision. 16. Minutes and correspondence. 17. Documents.
+8. Annual general meetings. 9. Ordinary meetings. 10. Extraordinary meetings. 11. Emergency meeting. 12. Quorum. 13. Voting. 14. Declaration of interest. 15. Variation of decision. 16. Minutes and correspondence. 17. Documents.
 PART III
 DUTIES AND POWERS OF THE BOARD
 18. Role of the Board. EDUCATION (LOCAL SCHOOL BOARD) REGULATIONS
@@ -116,7 +116,7 @@ Education (Local School Board) Regulations
 13. (1) The decision of the Board is by a majority of votes of the members present and voting by secret ballot.
 (2) The Chairman, or other person duly presiding, has an original vote and, if the vote is equal, a casting vote.
 14. (1) A member of a Board who is in any way, whether directly or indirectly, interested in a contract under consideration by the Board, shall at the first practicable opportunity declare his interest and those of his immediate family and remove himself from any decision-making process with respect to such contract.
-(2) A declaration referred to in subsection (1) shall be recorded in the minutes.
+(2) A declaration referred to in subregulation (1) shall be recorded in the minutes.
 (3) Where a member does not declare his interest, the Minister shall revoke his appointment.
 Education (Local School Board) Regulations
 15. A decision of the Board may be rescinded or varied by the Board at a meeting subsequent to that at which the original decision was ratified and recorded in the minutes where there is a change in circumstances or fresh evidence which affects the original decision.
@@ -168,14 +168,13 @@ school; and
 (r) in taking such action which may redound to the
 benefit of the school.
 (2) The Board may make Rules for and in relation to the matters specified in subregulation (1).
-- Margin: (Regulation 8).
+- Margin: Regulation 8.
 - Margin: [Subsidiary]
 - Margin: [Subsidiary]
 - Margin: [Subsidiary]
 - Margin: 112/2001. [104/2005 105/2005].
 - Margin: Citation.
 - Margin: Interpretation.
-- Margin: Ch. 39:01.
 - Margin: Composition of Board and qualification of member. [104/2005 105/2005].
 - Margin: [Subsidiary]
 - Margin: Term of Board.

@@ -11,8 +11,7 @@ THE TEACHING SERVICE
 4. (Revoked by LN 75/1981). 5. Requirement for posts in the Teaching Service.
 PART III
 RECRUITMENT APPOINTMENTS
-6. Maximum age of recruitment. 7. Vacancies to be filled normally by citizens. 8. Date of appointment. 9. Medical examination.
-10. Re-employment of pensioners.
+6. Maximum age of recruitment. 7. Vacancies to be filled normally by citizens. 8. Date of appointment. 9. Medical examination. 10. Re-employment of pensioners.
 PROBATIONARY APPOINTMENTS AND SECONDMENTS
 11. First appointment. 12. Probation on promotion. 13. Secondments.
 PART IV
@@ -38,8 +37,15 @@ Education (Teaching Service) Regulations
 REGULATION
 SPECIAL TRAVEL ALLOWANCES
 37. Allowances for temporary teachers. 38. Teachers travelling abroad. 39. Power of Ministry of Finance. 40. Clothing allowance. 41. Subsistence. 42. Travelling expenses.
+42A. Allowance for teaching in remote areas.
 LEAVE, PASSAGE GRANTS, ETC.
-43. Definitions. 44. Teacher may be recalled to duty during vacation. 45. Occasional leave from duty. 46. Special leave. 47. Sick leave. 48. Maternity leave. 49. Application for occasional or sick leave. 50. Leave without pay in exceptional circumstances. 51. Permission to leave the country. 52. Passage grants.
+43. Definitions. 44. Teacher may be recalled to duty during vacation. 45. Occasional leave from duty. 46. Special leave.
+46A. Sabbatical leave.
+47. Sick leave.
+47A. Bereavement leave.
+48. Maternity leave.
+48A. Paternity leave. 48B. Adoption leave.
+49. Application for occasional or sick leave. 50. Leave without pay in exceptional circumstances. 51. Permission to leave the country. 52. Passage grants.
 RESIGNATION
 53. Notice of resignation.
 PART VII
@@ -51,7 +57,8 @@ REGULATION
 PART VIII
 CODE OF CONDUCT
 62. General conduct. 63. Duties of teacher. 64. Absence without leave. 65. Activities outside the Service. 66. Teacher not to publish information. 67. Teacher's comment on questions of public policy. 68. Lectures, talks. 69. Indebtedness. 70. Bankruptcy proceedings. 71. Teacher not to solicit intervention. 72. Gifts, rewards. 73. Exceptions. 74. Teacher not to solicit or accept bribe. 75. Legal proceedings. 76. Teacher to report criminal charge. 77. Definition of misconduct.
+SCHEDULE.
 EDUCATION (TEACHING SERVICE) REGULATIONS
 made under section 85(11)
 - Margin: [Subsidiary]
-- Margin: 85/1967. [85/1968 116/1969 175/1976 75/1981 184/2000].
+- Margin: 85/1967. [85/1968 116/1969 175/1976 75/1981 184/2000 25/2009].

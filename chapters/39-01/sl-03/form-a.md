@@ -9,4 +9,4 @@ Dated this ... day of ... 20...
 Secretary,
 Registration Recognition and Certification
 Board
-- Margin: (Rule 17).
+- Margin: Rule 17.
