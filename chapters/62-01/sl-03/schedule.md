@@ -5,11 +5,11 @@ Name of Licensee Address of Licensed Premises
 Road, Chaguanas
 Corner of Dumfries Road and South
 Trunk Road, La Romaine
-Fernandes Industrial Centre, Eastern
-Main Road, Laventille
+Fernandes Industrial Centre,
+Eastern Main Road, Laventille
 O'Meara Industrial Estate, O'Meara
 Road, Arima
-[Subsidiary ] Petroleum (Compressed Natural Gas) Regulations
+Petroleum (Compressed Natural Gas) Regulations [Subsidiary]
 NOTIFICATION
 ISSUED UNDER REGULATION 15 OF THE PETROLEUM
 (COMPRESSED NATURAL GAS) REGULATIONS, 1994
