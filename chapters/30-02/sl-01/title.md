@@ -6,7 +6,7 @@ Approval has been given for the following antibiotics preparations to be importe
 Maurry Biological Co., 6109S, Western Avenue, Los Angeles 47,
 California, U.S.A.
 Mycillin (Procain Penicillin G. U.S.P. and Streptomycin Sulphate, U.S.P.) Carlo Erba, S.P.A., Milano, Italy.
-Tetralysal Capsules 150 mgm. (contg: Lymecyeline i.e. tetracycline-
+Tetralysal Capsules 150 mgm. (contg: Lymecyeline i.e., tetracycline-
 L-methylenelysine)
 Tetralysal Ampoules I.M. (100-mgm. and 200-mgm.) Mebinol Complex Tablets (contg: Streptomycin Sulphate) Entero-Piristina Syrup (contg: Dihydrostreptomycin) Frank W. Horner Ltd., Montreal 3, Canada.
 P-50 Liquid (contg: Penicillin G. Potassium) P-50 Tablets (contg: Penicillin G. Potassium) Therapharm Ltd., 86A, Richmond Road, Kingston-on-Thames, Surrey,
@@ -61,7 +61,8 @@ Beecham Research Laboratories, Brentford, Middlesex, England.
 Veracillin Capsules 125 mgm. Veracillin Syrup 62.5 mgm./5 ml. Veracillin in 60-mil. phials Veracillin Suspension 62.5 mgm./5ml. in 60-mil. phials Glaxo Laboratories Ltd., of Greenford, England -through Glaxo-Allenburys
 (Export) Ltd., 106, High Holborn, London, W.C.1.
 Crystapen G. Syrup 125 mgm./5ml. in 100-mil. phials Crystapen G. Syrup 250 mgm./5ml. in 100-mil. phials Warner-Chilcott Laboratories, Division of Warner Lambert Pharmaceutical Co.,
-Morris Plains, N.J., U.S.A. Coly-Mycin M Injectable 150-mgm. (Sodium Colistimethate
+Morris Plains, N.J., U.S.A.
+Coly-Mycin M Injectable 150-mgm. (Sodium Colistimethate
 for injection)
 Coly-Mycin S Otic, 5-mil. (with Neomycin and Hydrocortisone)
 Coly-Mycin S Otic, 10-mil.(with Neomycin and Hydrocortisone)
@@ -83,12 +84,12 @@ Pigot & Smith Ltd., Leigh Street, Wigan, Lancashire, England.
 Trisep Aerosol Disbiotic Aerosol Dispray Aerosol
 Allen & Hanburys Ltd., Bethnal Green, London, E.2., England.
 Propaderm A Ointment
-G. D. Searle & Co., Ltd., Lane End Road, High Wycombe, Bucks., England.
+G. D. Searle & Co. Ltd., Lane End Road, High Wycombe, Bucks., England.
 Lomotil with Neomycin Tablets (each tablet containing diphenoxylate
 hydrochloride 2.5-mg., neomycin sulphate B.P. 250-mg. and atropine sulphate, 0.025 mg.)
 Riker Laboratories, Morley Street, Loughborough, England.
 Rikospray
-Fison's limited, 9, Grosvenor Street, London, W.1.
+Fison's Limited, 9, Grosvenor Street, London, W.1.
 Sterispray Steritulle
 Ayrton Saunders & Co. Ltd., Hanover Street, Liverpool, England.
 Pulv. Penicillin et Sulphathiazole 5000-units/gm.
@@ -101,7 +102,9 @@ E. R. Squibb & Sons, Inc., New York.
 Fungizone Intravenous 50-mgm. Kenalog-S Ophthalmic Ointment 3.6-gm. Mycostatin Cream 15-gm. Mycostatin Topical Powder 15-gm. Pentids "400" for Syrup Pentids "400" Tablets Pentids "800" Tablets E. R. Squibb & Sons, Montreal, Canada.
 Kenacomb Mild Ointment 0.025% Kenacomb Mild Cream 0.025% Lifepharma, Milan, Italy.
 Chlortetracycline (Lifechlorine) Capsules 250 mgm. B.P./NF
-Chlortetracycline Oral Suspension 125 mgm./5 cc. B.P.C. 2, 4, & 16-oz. Chlortetracycline Pediatric Drops 100 mgm./10 cc. 10's Chlortetracycline Dispersible Powder 50 mgm./3 g.m. chocolate Mixture F.S. bots. 50 gm. & 75 gm. Chlortetracycline Ear Drops 0.5% 10 cc. B.P.C. Chlortetracycline Eye Drops 0.5% 10 cc. B.P.C. Chlortetracycline Eye Ointment 1%, 1⁄8-oz. tube B.P.C. Chlortetracycline Skin Ointment 3%, 1⁄2-oz. tube B.P.C. Cycloserine Capsules 250-mgm. B.P. Demethylchlortetracycline (Demechloryn) Capsules 150 mgm. B.P. Demethylchlortetracycline Oral Suspension 75 mgm./5cc. B.P.C. 2,4,
+Chlortetracycline Oral Suspension 125 mgm./5 cc. B.P.C. 2, 4, & 16-oz. Chlortetracycline Pediatric Drops 100 mgm./10 cc. 10's Chlortetracycline Dispersible Powder 50 mgm./3 g.m. chocolate Mixture
+F.S. bots. 50 gm. & 75 gm.
+Chlortetracycline Ear Drops 0.5% 10 cc. B.P.C. Chlortetracycline Eye Drops 0.5% 10 cc. B.P.C. Chlortetracycline Eye Ointment 1%, 1⁄8-oz. tube B.P.C. Chlortetracycline Skin Ointment 3%, 1⁄2-oz. tube B.P.C. Cycloserine Capsules 250-mgm. B.P. Demethylchlortetracycline (Demechloryn) Capsules 150 mgm. B.P. Demethylchlortetracycline Oral Suspension 75 mgm./5cc. B.P.C. 2,4,
 and 16-fl. oz.
 Demethylchlortetracycline Pediatric Drops, 60 mgm./cc. X 10 cc. B.P.C. Erythromycin (Liferythryn)Tablets 100 mgm. B.P./U.S.P. Erythromycin (Liferythryn)Tablets 250 mgm. B.P./U.S.P. Erythromycin Eye Ointment 1% 5-gm. tubes F.S. Erythromycin Skin Ointment 3% 15-gm. tubes F.S. Erythromycin Estolate Capsules 250-mgm. B.P. Kanamycin Sulphate (Lifekanamyn) Injections 1-gm. phials B.P.C./U.S.P. Novobiocin (Lifebiocin) Tablets or Capsules 250-mgm. B.P./U.S.P. Novobiocin-Tetracycline Association (Novotetra)Tablets Oxytetracycline (Lifeoxyne) Tablets 100 mgm. sugar-coated, B.P.
 (or capsules B.P.C./N.F.)
@@ -185,9 +188,9 @@ benzathine Penicillin G
 Retarcillin Injection 1.2 megaunits, containing: 1,200,000-units benzathine
 Penicillin G
 Messrs. Ciba Laboratories Ltd., Horsham, Sussex, England.
-Rimactane Capsules containing:300-mg. Rifampicin (Rifampin
+Rimactane Capsules containing: 300-mg. Rifampicin (Rifampin
 or Rifamycin)
-Rimactane Capsules containing:150-mg. Rifampicin (Rifampin
+Rimactane Capsules containing: 150-mg. Rifampicin (Rifampin
 or Rifamycin)
 Messrs. Glaxo Laboratories Ltd., Greenford, Middlesex, England.
 Betnovate A Ointment 15-gms. containing: Betamethasone and
@@ -208,8 +211,7 @@ Ledermycin Film-coated Tablets 150 mgm., Product No. 9218
 Ledermycin Film-coated Tablets 300 mgm., Product No. 9270
 Allergan Pharmaceuticals, 1000, South Grand Ave., Santa Ana,
 California, U.S.A.
-*Chloroptic Ophthalmic Solution
-Dumex Limited, Copenhagen, Denmark.
+*Chloroptic Ophthalmic Solution Dumex Limited, Copenhagen, Denmark.
 Fenocin Penicillin V Potassium Suspension Fenocin Penicillin V Potassium Tablets Glaxo-Allenbury (Export) Limited, Greenford, Middlesex, England.
 Grisovin Tablets 500 mg. 25's and 250's Ceporex Capsules 250 mg. Ceporex Capsules 500 mg. Roussel Laboratories Limited, Middlesex, London, England.
 Soframycin Unitulle Pfizer Inc. (J.B. Roerig Division), 235, East 42nd Street, N.Y., N.Y.
@@ -237,7 +239,7 @@ Fungilin Lotion 3% Fungilin Ointment 3% Fungilin Cream 3% Fungilin Oral Tablets 
 Fungilin Oral Suspension 100 mgm./ml.
 Fungilin Lozenge x 10 mgm.
 Consolidated Chemicals Ltd., Wrexham, Denbighshire, Great Britain.
-Chemocycline Tabs. } Oxytetra cycline
+} Oxytetra cycline Chemocycline Tabs.
 Chemocycline Syrup
 Upjohn International Inc., Kalamazoo, Michigan, U.S.A.
 Gleocin Hcl. Capsules (Clindamycin Hcl. Hydrate 150 mgm.)
@@ -295,14 +297,15 @@ May & Baker Ltd., Dagenham, Essex, England.
 Trobicin Ampoules (Spectinomycin Dihydrochlor Pentahydrate)
 Pfizer Ltd., Sandwich, Kent, England.
 Geocillin (Carbenicillin) Tablets Vibramycin I.V. Injection (Doxycycline) Terra Bron
-Tetracycline 250 mg. } Ephedrine Hcl. 7.5. mg. in 5 ml. Ipecac Liq. Ext. 0.03 ml. G.D. Searle & Co. Ltd., Lane End Road, High Wycombe, Buckinghamshire,
+} Tetracycline 250 mg.
+Ephedrine Hcl. 7.5. mg. in 5 ml. Ipecac Liq. Ext. 0.03 ml. G.D. Searle & Co. Ltd., Lane End Road, High Wycombe, Buckinghamshire,
 England.
 Lomotil with Neomycin E.R. Squibb and Sons, Swords, County Dublin, Ireland.
 Vagimycin Vaginal Tablets, Tetracycline 100 mg., Amphotericin B.
 50 mg.
 Mycostatin Effervescent Vaginal Tablets (Nystatin 100,000 units)
 Glaxo Laboratories, Glaxo Holdings Ltd., Graham Street, London N1, England.
-Ceporacin Injection (Cephalotin GI) E.R.Squibb and Sons Ltd., Regal House, Twickenham, England.
+Ceporacin Injection (Cephalotin GI) E.R. Squibb and Sons Ltd., Regal House, Twickenham, England.
 Velosef Syrup (Cephradine 125 mg.) Velosef Syrup 250 mg. Velosef Capsules 250 mg. Velosef Capsules 500 mg. C.H. Boehringer Sohn, 6507 Inglehein, Germany.
 Cohortan Rectal Suppositories (Tyrothricin 1.5 mg.) Cohortan Rectal Ointment (Tyrothricin 1 mg.) [Subsidiary] Importation of Antibiotics Preparations Order
 Bristol Laboratories Co., Syracuse, New York, U.S.A.
@@ -421,14 +424,14 @@ Tetravate x 15 gm.
 Harris Pharmaceutical, London, England.
 Ampicillin Tribydrate Capsules x 250 gm.
 Purepac Pharmaceutical, New Jersey, U.S.A.
-Erythrocin Stearate Tablets U.S.P. Penicillin G Potassium Buffered Tablets U.S.P Tetracycline HCL Capsules U.S.P. (250 mg., 500mg.) Penicillin V Potassium Tablets U.S.P.
+Erythrocin Stearate Tablets U.S.P. Penicillin G Potassium Buffered Tablets U.S.P Tetracycline HCL Capsules U.S.P. (250 mg., 500 mg.) Penicillin V Potassium Tablets U.S.P.
 [Subsidiary] Importation of Antibiotics Preparations Order
 Carlisle Laboratories Ltd., Barbados.
 Ampicyn Capsules 250 mg. Ampicyn Syrup x 100 ml. (125mg./ml.) ICN Canada Ltd., Montreal, Canada.
-Ampen-Ampicillin Capsules U.S.P. 500 mg. Ampen-Ampicillin Capsules U.S.P. 250mg. Ampen Liquid-Ampicillin for Oral 250 mg./ml. Suspension U.S.P. T. Caps-Tetracycline HCL Capsules U.S.P. 250 mg. Pro-Ampen 500 Kit (Ampicillin and Probenecid) Ampen Liquid-Ampicillin for Oral 125 mg/ml Suspension U.S.P. Purepac Pharmaceutical Co., 200, Elmora Avenue, Elizabeth, New York,
+Ampen-Ampicillin Capsules U.S.P. 500 mg. Ampen-Ampicillin Capsules U.S.P. 250 mg. Ampen Liquid-Ampicillin for Oral 250 mg./ml. Suspension U.S.P. T. Caps-Tetracycline HCL Capsules U.S.P. 250 mg. Pro-Ampen 500 Kit (Ampicillin and Probenecid) Ampen Liquid-Ampicillin for Oral 125 mg/ml Suspension U.S.P. Purepac Pharmaceutical Co., 200, Elmora Avenue, Elizabeth, New York,
 07202, U.S.A.
 Ampicillin Capsules V.S.P. 250 mg. Ampicillin Capsules V.S.P. 500 mg. Oxytetracycline HCL Capsules V.S.P. x 250 mg. Tetracycline Syrup 125 mg. per 5 cc. M.T.C. Pharmaceutical Ltd., Hamilton, Canada.
-Ampilean Suspension 100 ml.(125mg./5ml.) Ampilean Suspension 60 ml.(250mg./5ml.) Ampilean Capsules x 250 mg. Ampilean Capsules x 500 mg. Ampilean Injection 125 mg. IM/IV Ampilean Injection 500 mg. IM/IV Ampilean Injection 1gm. IM/IV Dia-Guan 4 oz. Tetralean Capsules 250 mg. I.N.C., Canada, 1956, Bowden Street, Montreal, Quebec, Canada.
+Ampilean Suspension 100 ml.(125 mg./5ml.) Ampilean Suspension 60 ml.(250 mg./5ml.) Ampilean Capsules x 250 mg. Ampilean Capsules x 500 mg. Ampilean Injection 125 mg. IM/IV Ampilean Injection 500 mg. IM/IV Ampilean Injection 1gm. IM/IV Dia-Guan 4 oz. Tetralean Capsules 250 mg. I.N.C., Canada, 1956, Bowden Street, Montreal, Quebec, Canada.
 Emcinka "Erythrocin Estolate Capsules" NF 250 mg. T. Liquid Arthur Cox & Co. Ltd., Brighton, England.
 Tetradyl Veterinary Products M.T.C. Pharmaceutical Ltd., Hamilton, Canada.
 Chlorolean Injection-Chloramphenicol [Subsidiary] Importation of Antibiotics Preparations Order
@@ -440,55 +443,47 @@ Aqueous Suspension)
 Vetropolycin* (Bacitracin Neomycin-Polymyxin)
 Entromycin* (Bacitracin Methylene Disalisylate and Streptomycin
 Sulphate Oral)
-[Subsidiary]
 *APPROVED PHARMACEUTICAL FIRMS ORDER
 made under section 20
-Approval has been given for the following pharmaceutical firms as manufacturing firms from whom antibiotics may be imported into Trinidad and Tobago:
-Abbott Laboratories, U.K. Allen & Hanburys Ltd., U.K. Ayrton, Saunders & Co., Ltd., U.K. The British Drug Houses Ltd., U.K. Boots Pure Drug Co., Ltd., U.K. Burroughs Wellcome & Co., U.K. Evans Medical Supplies, U.K. Gale, Baiss & Co., Ltd., U.K. Glaxo Laboratories Ltd., U.K. Herts Pharmaceuticals Ltd., U.K. Imperial Chemical (Pharmaceuticals Ltd.), U.K. H. & T. Kirby & Co., Ltd., U.K. Parke Davis & Co., Ltd., U.K. Pharmaceuticals Specialities
-(May & Baker), U.K. Lederle Laboratories, U.S.A. Parke Davis & Co. Ltd., U.S.A. Dakin Brothers Limited, U.K. Davis, Schottlander & Davis Ltd., U.K. Hirst, Brooke & Hirst Ltd., U.K. Medo-Chemicals Ltd., U.K. Camden Chemical Co. Ltd., U.K. E. R. Squibb & Sons, U.S.A. and Canada Chas. R. Will & Co. Ltd., U.K. and Canada Frank W. Horner Ltd., Canada Cannought Laboratories, Canada Ayerst McKenna & Harrison Ltd., Canada Winthrop Stearns Inc., Canada and U.K. Sharpe & Dohne Inter-American Corporation, U.S.A. and U.K.
+Approval has been given for the following pharmaceutical
+firms as manufacturing firms from whom antibiotics may be imported into Trinidad and Tobago:
+Abbott Laboratories, U.K. Allen & Hanburys Ltd., U.K. Ayrton, Saunders & Co., Ltd., U.K. The British Drug Houses Ltd., U.K. Boots Pure Drug Co., Ltd., U.K. Burroughs Wellcome & Co., U.K. Evans Medical Supplies, U.K. Gale, Baiss & Co., Ltd., U.K. Glaxo Laboratories Ltd., U.K. Herts Pharmaceuticals Ltd., U.K. Imperial Chemical (Pharmaceuticals Ltd.), U.K. H. & T. Kirby & Co., Ltd., U.K. Parke Davis & Co., Ltd., U.K.
 * The pharmaceutical firms mentioned in this Order have been approved by the following:
-GNs 167 and 273/1950; 11 and 198/1952; 73/1953; 42, 58, 146 and 162/1954; 77/1955; 62 and 173/1956; 77, 78, 112, 139 and 154/1957; 48, 91, 92 and 114/1958; 75, 101 and 110/1959; 8, 127 and 148/1960; 20/1961; 29/1962; 44, 52 and 102/1963; 38 and 80/1964; 6, 35 and 44/1965; 32/1966; 53, 118 and 169/1967; 112, 171 and 177/1968; 18/1969; 43/1970; 110, 150, 197 and 232/1971; 34 and 145/1972; 150/1973; 93 and 94/1975; 63 and 170/1976; 195/1977; 132/1978; 162/1978;46/1979--*See also page 2 of this Act. [Subsidiary] Approved Pharmaceutical Firms Order
-Charles Pfizer & Co. Inc., U.S.A. Robert Blackie Limited, U.K. †Wyeth International Ltd. Inc., U.S.A. John Wyeth and Brother Ltd., U.K. Wm. R. Warner & Co. Ltd.,U.K. Wm. R. Warner & Co. Inc., U.S.A. Charles E. Frosst & Company of Montreal, Canada. Messrs. Eli Lilly & Co., Indianapolis 6, Indiana, U.S.A. Messrs. Upjohn, Kalamazoo, U.S.A., and their affiliate
-Messrs. Upjohn Ltd., U.K.
-Messrs. Eli Lilly & Co. Ltd., Basingstoke, U.K. Merck & Co. Limited, Montreal, Canada. Carlos Erba, Milan, Italy. Messrs. Calmic Ltd., Crewe, Cheshire, U.K. Messrs. Farbenfabriken Bayer, Leverkusen, W. Germany. Dr. Salsbury's Laboratories, Iowa, U.S.A.
-The Roskilde Medical Company Limited, Roskilde, Denmark.
-Messrs. Roger Bellon, France. Messrs. Organon Laboratories Ltd., London, U.K. n.v. Organon, Oss, Holland.
-Messrs. Moore, Thompson Clinger Ltd., Hamilton, Canada.
-Messrs. Roussel Laboratories Limited, London, U.K. Vineland Poultry Laboratories, (Export Department) 307, Fifth Avenue,
+GNs 167 and 273/1950; 11 and 198/1952; 73/1953; 42, 58, 146 and 162/1954; 77/1955; 62 and 173/1956; 77, 78, 112, 139 and 154/1957; 48, 91, 92 and 114/1958; 75, 101 and 110/1959; 8, 127 and 148/1960; 20/1961; 29/1962; 44, 52 and 102/1963; 38 and 80/1964; 6, 35 and 44/1965; 32/1966; 53, 118 and 169/1967; 112, 171 and 177/1968; 18/1969; 43/1970; 110, 150, 197 and 232/1971; 34 and 145/1972; 150/1973; 93 and 94/1975; 63 and 170/1976; 195/1977; 132/1978; 162/1978; 46/1979--*See also page 2 of this Act.
+Approved Pharmaceutical Firms Order [Subsidiary]
+Pharmaceuticals Specialities
+(May & Baker), U.K. Lederle Laboratories, U.S.A. Parke Davis & Co. Ltd., U.S.A. Dakin Brothers Limited, U.K. Davis, Schottlander & Davis Ltd., U.K. Hirst, Brooke & Hirst Ltd., U.K. Medo-Chemicals Ltd., U.K. Camden Chemical Co. Ltd., U.K. E. R. Squibb & Sons, U.S.A. and Canada Chas. R. Will & Co. Ltd., U.K. and Canada Frank W. Horner Ltd., Canada Cannought Laboratories, Canada Ayerst McKenna & Harrison Ltd., Canada Winthrop Stearns Inc., Canada and U.K. Sharpe & Dohne Inter-American Corporation, U.S.A. and U.K. Charles Pfizer & Co. Inc., U.S.A. Robert Blackie Limited, U.K. †Wyeth International Ltd. Inc., U.S.A. John Wyeth and Brother Ltd., U.K. Wm. R. Warner & Co. Ltd.,U.K. Wm. R. Warner & Co. Inc., U.S.A. Charles E. Frosst & Company of Montreal, Canada. Messrs. Eli Lilly & Co., Indianapolis 6, Indiana, U.S.A. Messrs. Upjohn, Kalamazoo, U.S.A., and their affiliate
+Messrs. Upjohn Ltd., U.K. Messrs. Eli Lilly & Co. Ltd., Basingstoke, U.K. Merck & Co. Limited, Montreal, Canada. Carlos Erba, Milan, Italy. Messrs. Calmic Ltd., Crewe, Cheshire, U.K. Messrs. Farbenfabriken Bayer, Leverkusen, W. Germany. Dr. Salsbury's Laboratories, Iowa, U.S.A. The Roskilde Medical Company Limited, Roskilde, Denmark. Messrs. Roger Bellon, France. Messrs. Organon Laboratories Ltd., London, U.K. n.v. Organon, Oss, Holland. Messrs. Moore, Thompson Clinger Ltd., Hamilton, Canada. Messrs. Roussel Laboratories Limited, London, U.K.
+† Includes the parent corporation, "Wyeth Laboratories Division American Home Products
+Corporation" and its subsidiary "Wyeth Laboratories Inc.", both of the United States of America, and that both are approved manufacturing firms from which antibiotics may be imported into Trinidad and Tobago. (GN 73/1953). [Subsidiary] Approved Pharmaceutical Firms Order
+Vineland Poultry Laboratories, (Export Department) 307, Fifth Avenue,
 New York, 16, New York, U.S.A.
 Messrs. Pitman Moore Co., Indianapolis, U.S.A. Eaton Laboratories, Norwich, New York, U.S.A. Bristol Laboratories, Syracuse, New York, U.S.A. Consolidated Midland Corp., Katonah, New York, U.S.A. Armour Laboratories & Armour Veterinary Laboratories, Kankakee,
 Illinois, U.S.A.
 Messrs. C. F. Boehringer & Soehne G/m/b/h., Mannheim, Waldhof,
 W. Germany.
-Schering A. G., Berlin, E. Germany. Cyanamid Inter-American Corporation, U.S.A. Cyanamid of Great Britain Ltd., U.K. Lederle Laboratories Division, U.K. Pfizer Ltd., U.K. Pfizer Canada Ltd., Canada.
-† Includes the parent corporation, "Wyeth Laboratories Division American Home Products
-Corporation" and its subsidiary "Wyeth Laboratories Inc.", both of the United States of America, and that both are approved manufacturing firms from which antibiotics may be imported into Trinidad and Tobago. (GN 73/1953).
-[Subsidiary] Approved Pharmaceutical Firms Order
-Pfizer Corporation, Belgium. The Distillers Company (Biochemicals) Ltd., U.K. Allen & Hanburys (Australasia) Ltd., Australia. Allen & Hanburys Co., Ltd., Canada. Allen & Hanburys Ltd., India. Allen & Hanburys (Italia) Soc. a.r.l., Italy. Allen & Hanburys (Nigeria) Ltd., Nigeria. Allen & Hanburys Ltd., E. Pakistan. Allen & Hanburys (Africa) Ltd., S. Rhodesia. Allen & Hanburys (Africa) Ltd., S. Africa. Ets Sopar, Brussels, Belgium. Merck Sharp & Dohme Ltd., Hoddesdon, Herts., U.K. Merck Sharp & Dohme (I.A.) Corp., P.O. Box 7217, Santurce, Puerto Rico. Merck (Pan American) Inc., 161, Avenue of the Americas, New York 13,
-New York, U.S.A. E. R. Squibb & Sons Ltd., 17/18, Old Bond Street, London, W.1, U.K. The British Oil and Cake Mills Limited, a company registered in the
+Schering A. G., Berlin, E. Germany. Cyanamid Inter-American Corporation, U.S.A. Cyanamid of Great Britain Ltd., U.K. Lederle Laboratories Division, U.K. Pfizer Ltd., U.K. Pfizer Canada Ltd., Canada. Pfizer Corporation, Belgium. The Distillers Company (Biochemicals) Ltd., U.K. Allen & Hanburys (Australasia) Ltd., Australia. Allen & Hanburys Co., Ltd., Canada. Allen & Hanburys Ltd., India. Allen & Hanburys (Italia) Soc. a.r.l., Italy. Allen & Hanburys (Nigeria) Ltd., Nigeria. Allen & Hanburys Ltd., E. Pakistan. Allen & Hanburys (Africa) Ltd., S. Rhodesia. Allen & Hanburys (Africa) Ltd., S. Africa. Ets Sopar, Brussels, Belgium. Merck Sharp & Dohme Ltd., Hoddesdon, Herts., U.K. Merck Sharp & Dohme (I.A.) Corp., P.O. Box 7217, Santurce, Puerto Rico. Merck (Pan American) Inc., 161, Avenue of the Americas, New York 13,
+New York, U.S.A.
+E. R. Squibb & Sons Ltd., 17/18, Old Bond Street, London, W.1, U.K. The British Oil and Cake Mills Limited, a company registered in the
 United Kingdom and having offices in England with the following postal addresses:
 (a) Unilever House, London, E.C.4;
 (b) P.O. Box 50, Stoneferry Road, Hull, Yorkshire;
 (c) P.O. Box 2, Olympia Mills, Selby, Yorkshire;
-(d) Trafford Wharf Road, Manchester 17. Messrs. Mead Johnson & Co., Evansville 21, Indiana, U.S.A. Messrs. Mead Johnson International Ltd., 1511, Loiza Street, San Juan,
-Puerto Rico. Messrs. Angelini Francesco Aziende Chemiche Riunite, Rome, Italy. Messrs. Cutter Laboratories, Berkeley 10, California, U.S.A. Messrs Lepitit S.P.A., Milan, Italy. Messrs. Genatosan Ltd., Loughborough, Leicestershire., U.K. Messrs. Pure Laboratories Inc., 120, Wall Street, New York 5, New York, U.S.A. Messrs. Farbwerke Hoechst A.G., 16, Frankfurt (M) Hoechst, W. Germany. Messrs. Schering Corporation, Bloomfield, New Jersey, U.S.A. Leo Pharmaceutical Products Trading Ltd., Ballerup, Denmark. Federated Pharmaceutical Co., Ltd., Kingston, Jamaica. Messrs. Beecham Research Laboratories Limited, Brentford, Middlesex, U.K. Messrs. Wallace Manufacturing Chemists Ltd., 198, Finchley Road, London, U.K. Messrs. Marsing & Co., 28, Nyropsgade, Copenhagen, Denmark. Messrs. Mycofarm-Delft, Division of Royal Netherlands Fermentation
-Industries Limited, Delft, Holland. Messrs. Riker Laboratories, Morley Street, Loughborough, Leicestershire, U.K. The Sigma Company Ltd., Melbourne, Australia. Armour Pharmaceutical Co., Kankakee, Illinois, U.S.A. [Subsidiary] Approved Pharmaceutical Firms Order
-White Laboratories Inc., Kenilworth, New Jersey, U.S.A. Gedeon Richter (Great Britain) Limited, Richter House, 14-18 Weedington
-Road, London, N.W.5, U.K.
-Dista Products Limited, Broadway House, The Broadway, Wimbledon,
-London, S.W.19., U.K.
-Walter Gregory & Co., Ltd., Wellington, Somerset, U.K.
-Mesco Laboratories Ltd., 6, Broad St. Place, London, E.C.2., U.K.
-Robert Blackie Ltd., 25, Pomeroy St., London, S.E.14., U.K.
-Alcon Laboratories Inc., Fort Worth, Texas, U.S.A. Messrs. Merck Sharp & Dohme Ltd., Hoddesdon, Hertfordshire, U.K. Messrs. Merck & Co. Inc., Rahway, New Jersey, U.S.A. Messrs. Merck Sharp & Dohme Inter-American Corporation, Apartado 7217,
-Santurce, Puerto Rico.
-Messrs. Lifepharma Laboratories Division, Giovanni Ogna & Figli S.P.A.,
-Milan, Italy.
-Dermik Pharmacal Co., 150, Eileen Way Syosset, N.Y., New York, U.S.A. Messrs. Pfizer Co., Ltd., Bogota, Colombia. Messrs. Phial Aust. Pty. Ltd., 160, Pacific Highway, North Sydney, Australia. Messrs. Carlysle Laboratories Ltd., 48, Tudor Street, Bridgetown, Barbados. Interalia Pharmaceutical Services Ltd., Sibley Grove, London, E.12, U.K. Messrs. West-Silten Pharmaceuticals Ltd., Silten House, Hatfield,
-Hertfordshire, U.K.
-Messrs. Martindale Samoore Ltd., Sabem Road, Queensway, London, U.K. Messrs. Carlton Laboratories (Southern Ltd.), 2, Norfolk Square, Brighton,
-Sussex, U.K.
-Messrs. Mowatt & Noore Ltd., 64, Prince Street, Montreal, Quebec, Canada. Messrs. Ciba Laboratories Ltd., Horsham, Sussex, U.K. Messrs. British Schering Ltd., 225, Bath Road, Slough, Bucks., U.K. Maurry Biological Co., 6109 S, Western Avenue, Los Angeles 47,
+(d) Trafford Wharf Road, Manchester 17.
+Messrs. Mead Johnson & Co., Evansville 21, Indiana, U.S.A.
+Messrs. Mead Johnson International Ltd., 1511, Loiza Street, San Juan,
+Puerto Rico.
+Messrs. Angelini Francesco Aziende Chemiche Riunite, Rome, Italy.
+Approved Pharmaceutical Firms Order [Subsidiary]
+Messrs. Cutter Laboratories, Berkeley 10, California, U.S.A. Messrs Lepitit S.P.A., Milan, Italy. Messrs. Genatosan Ltd., Loughborough, Leicestershire., U.K. Messrs. Pure Laboratories Inc., 120, Wall Street, New York 5, New York, U.S.A. Messrs. Farbwerke Hoechst A.G., 16, Frankfurt (M) Hoechst, W. Germany. Messrs. Schering Corporation, Bloomfield, New Jersey, U.S.A. Leo Pharmaceutical Products Trading Ltd., Ballerup, Denmark. Federated Pharmaceutical Co., Ltd., Kingston, Jamaica. Messrs. Beecham Research Laboratories Limited, Brentford, Middlesex, U.K. Messrs. Wallace Manufacturing Chemists Ltd., 198, Finchley Road, London, U.K. Messrs. Marsing & Co., 28, Nyropsgade, Copenhagen, Denmark. Messrs. Mycofarm-Delft, Division of Royal Netherlands Fermentation
+Industries Limited, Delft, Holland. Messrs. Riker Laboratories, Morley Street, Loughborough, Leicestershire, U.K. The Sigma Company Ltd., Melbourne, Australia. Armour Pharmaceutical Co., Kankakee, Illinois, U.S.A. White Laboratories Inc., Kenilworth, New Jersey, U.S.A. Gedeon Richter (Great Britain) Limited, Richter House, 14-18 Weedington
+Road, London, N.W.5, U.K. Dista Products Limited, Broadway House, The Broadway, Wimbledon,
+London, S.W.19., U.K. Walter Gregory & Co., Ltd., Wellington, Somerset, U.K. Mesco Laboratories Ltd., 6, Broad St. Place, London, E.C.2., U.K. Robert Blackie Ltd., 25, Pomeroy St., London, S.E.14., U.K. Alcon Laboratories Inc., Fort Worth, Texas, U.S.A. Messrs. Merck Sharp & Dohme Ltd., Hoddesdon, Hertfordshire, U.K. Messrs. Merck & Co. Inc., Rahway, New Jersey, U.S.A. Messrs. Merck Sharp & Dohme Inter-American Corporation, Apartado 7217,
+Santurce, Puerto Rico. Messrs. Lifepharma Laboratories Division, Giovanni Ogna & Figli S.P.A.,
+Milan, Italy. Dermik Pharmacal Co., 150, Eileen Way Syosset, N.Y., New York, U.S.A. Messrs. Pfizer Co., Ltd., Bogota, Colombia. Messrs. Phial Aust. Pty. Ltd., 160, Pacific Highway, North Sydney, Australia. Messrs. Carlysle Laboratories Ltd., 48, Tudor Street, Bridgetown, Barbados. Interalia Pharmaceutical Services Ltd., Sibley Grove, London, E.12, U.K. Messrs. West-Silten Pharmaceuticals Ltd., Silten House, Hatfield,
+Hertfordshire, U.K. Messrs. Martindale Samoore Ltd., Sabem Road, Queensway, London, U.K. Messrs. Carlton Laboratories (Southern Ltd.), 2, Norfolk Square, Brighton,
+Sussex, U.K. Messrs. Mowatt & Noore Ltd., 64, Prince Street, Montreal, Quebec, Canada. Messrs. Ciba Laboratories Ltd., Horsham, Sussex, U.K. [Subsidiary] Approved Pharmaceutical Firms Order
+Messrs. British Schering Ltd., 225, Bath Road, Slough, Bucks., U.K. Maurry Biological Co., 6109 S, Western Avenue, Los Angeles 47,
 California, U.S.A.
 Therapharm, 86A, Richmond Road, Kingston-on-Thames, Surrey, U.K. Nordia, 6, Chestnut Road, Rayes Park, London, S.W.20., U.K., or
 Hilleroed, Denmark.
@@ -501,24 +496,34 @@ through-Bristol Laboratories Int. S.A.), Colon, Republic of Panama.
 Fugisawa Pharmaceutical Co., 3, Doshomachi 4-Chrome, Osaka, Japan. Consolidated Chemicals Ltd., The Industrial Estate, Wrexham, Denbighshire,
 North Wales, U.K.
 Norma Chemicals Ltd., 198, Finchley Road, London, N.W.3, U.K.
-[Subsidiary] Approved Pharmaceutical Firms Order
 A/S Dumex Ltd., Copenhagen, Denmark. Pfizer Ltd., Bombay, India. Berk Pharmaceuticals Ltd., Cattleshall Lane, Godalming, Surrey, U.K. The Veterinary Corporation of America, 111-115, Park Avenue, Summit,
-N.J., U.S.A. Warner-Chilcott Laboratories Division of Warner Lambert Pharmaceutical Co.,
-Morris Plains, N.J., U.S.A. Glaxo Laboratories Ltd. of Greenford, England-through-Glaxo-Allenburys
-(Export) Ltd., 106, High Holborn, London, W.C.1, U.K. Schering Corporation Ltd. of 3535 Trans-Canada Highway, Pointe Claire,
-Quebec-through Schering Transamerica Corp., Colon, R.P. Depot, Apt. 949, Colon Free Zone, Republic of Panama. Mowatt & Moore Ltd., Quebec, Canada. Pigot & Smith Ltd., Leigh Street, Wigan, Lancashire, U.K. G. D. Searle & Co., Ltd., Lane End Road, High Wycombe, Bucks., U.K. Fison's Limited, 9, Grosvenor Street, London, W.1., U.K. Pharmax Limited, Thames Road, Crayford, Dartford, Kent., U.K. Chemie Grunethal G.M.B.H., Stolberg, W. Germany. Dome Laboratories, Division of Miles Laboratories Ltd., Stoke Court,
-Stoke Poges, Slough, Buckinghamshire, U.K. Burroughs Wellcome (Canada) Ltd., Montreal, Quebec, Canada. Wallace Pharmaceuticals, Division of Carter Wallace Inc., Cranbury,
-New Jersey, U.S.A. Upjohn S.A., Lichtorstrast Puurs, Belgium. Halewood Chemicals Ltd., Horton Road, Stanwell Moor, Staines,
-Middlesex, U.K. John Wyeth & Brother (Canada) Ltd., Windsor, Ontario, Canada. Amdal Co., (Division of Abbott International), Abbott Park,
+N.J., U.S.A.
+Warner-Chilcott Laboratories Division of Warner Lambert Pharmaceutical Co.,
+Morris Plains, N.J., U.S.A.
+Glaxo Laboratories Ltd. of Greenford, England-through-Glaxo-Allenburys
+(Export) Ltd., 106, High Holborn, London, W.C.1, U.K.
+Schering Corporation Ltd. of 3535 Trans-Canada Highway, Pointe Claire,
+Quebec-through Schering Transamerica Corp., Colon, R.P. Depot, Apt. 949, Colon Free Zone, Republic of Panama.
+Mowatt & Moore Ltd., Quebec, Canada. Pigot & Smith Ltd., Leigh Street, Wigan, Lancashire, U.K. G. D. Searle & Co. Ltd., Lane End Road, High Wycombe, Bucks., U.K. Fison's Limited, 9, Grosvenor Street, London, W.1., U.K.
+Pharmax Limited, Thames Road, Crayford, Dartford, Kent., U.K.
+Chemie Grunethal G.M.B.H., Stolberg, W. Germany. Dome Laboratories, Division of Miles Laboratories Ltd., Stoke Court,
+Stoke Poges, Slough, Buckinghamshire, U.K.
+Burroughs Wellcome (Canada) Ltd., Montreal, Quebec, Canada.
+Wallace Pharmaceuticals, Division of Carter Wallace Inc., Cranbury,
+New Jersey, U.S.A.
+Upjohn S.A., Lichtorstrast Puurs, Belgium. Halewood Chemicals Ltd., Horton Road, Stanwell Moor, Staines,
+Middlesex, U.K.
+John Wyeth & Brother (Canada) Ltd., Windsor, Ontario, Canada.
+Approved Pharmaceutical Firms Order [Subsidiary]
+Amdal Co., (Division of Abbott International), Abbott Park,
 North Chicago, U.S.A. Cyanamide of Canada Ltd., Montreal, P.Q., Canada. Minnesota 3M Laboratories Ltd., Morley Street, Loughborough,
 Leicestershire, U.K. Laboratoire Octo Limitée, Ville de Laval, Quebec, Canada.
-NOTE: *Denotes Name of Sponsor.
 Schering Pharmaceutical Corporation, Puerto Rico
 *Adtelco (Alfred Telfer & Co., Ltd.)
 Lloyd's Pharmaceutical, Hull, U.K.
 *Alstons Marketing Co. Ltd.
 Unigreg Ltd., 15/17 Worple Road, Wimbledon, London, S.W.19 4JS, U.K.
-*Queen's Pharmacy. [Subsidiary] Approved Pharmaceutical Firms Order
+*Queen's Pharmacy.
 Approved Prescription Services, P.O. Box 15, Whitcliffe Road,
 Cleckheaton, Yorkshire, U.K.
 *Queen's Pharmacy.
@@ -549,26 +554,29 @@ Pitman-Moore Inc., Washington Crossing, New Jersey 08560, U.S.A.
 *Johnson & Johnson (Trinidad) Ltd.
 Harris Laboratories (Pharmaceutical Division of Canada Packes),
 Hamilton, Canada.
-*Medi-Vet Trinidad Ltd.
+*Medi-Vet Trinidad Ltd. [Subsidiary] Approved Pharmaceutical Firms Order
 Arthur Cox & Co., Ltd., Brighton, U.K.
 *S & R Agencies.
 Leo Laboratories Ltd., Cashel Road, Dublin 12, Ireland.
 *Trinidad Distributors Limited.
 Regent Laboratories Ltd., Cunard Road, Park Royal, London, N.W.10, U.K
 *Austin, Browne & Co.
-Avlex Limited (Subsidiary Co. of I.C.I.), Leigh Street, Wigan,
-Lancashire, U.K.
+Avlex Limited (Subsidiary Co. of I.C.I.), Leigh Street, Wigan, Lancashire, U.K.
 *Smith Robertson & Co. Ltd.
-[Subsidiary] Approved Pharmaceutical Firms Order
 Syntex Laboratories Inc., California, U.S.A.
-*Oscar H. Francois. E. R. Squibb & Sons Ltd., Dublin, Ireland.
-*Alstons Marketing Co. Ltd. Eli Lilly (Puerto Rico Branch), P.O. Box 1268, Heto Rey Station,
+*Oscar H. Francois.
+E. R. Squibb & Sons Ltd., Dublin, Ireland.
+*Alstons Marketing Co. Ltd.
+Eli Lilly (Puerto Rico Branch), P.O. Box 1268, Heto Rey Station,
 Puerto Rico 00919, Puerto Rico.
-*Ross Drugs. Desbergers Limited, 8480 Boul. St. Laurent, Montreal 351, Canada.
+*Ross Drugs.
+Desbergers Limited, 8480 Boul. St. Laurent, Montreal 351, Canada.
 *Trinidrugs (Caribbean) Co., 2, Henry Street, Port of Spain.
 Capital Pharmaceuticals Ltd., Dublin, Republic of Ireland.
-*Trindrugs (Caribbean Ltd.), 7, Saddle Road, San Juan. Consolidated Agricultural Supplies Ltd. (C. Vet Ltd.), Suffolk, England.
-* Pharmaceutical and General Supplies Ltd., Tacarigua. [Subsidiary]
+*Trindrugs (Caribbean Ltd.), 7, Saddle Road, San Juan.
+Consolidated Agricultural Supplies Ltd. (C. Vet Ltd.), Suffolk, England.
+* Pharmaceutical and General Supplies Ltd., Tacarigua.
+NOTE: *Denotes Name of Sponsor.
 ANTIBIOTICS (CONDITIONS FOR USE) ORDER
 made under section 21
 1. This Order may be cited as the Antibiotics (Conditions
@@ -618,20 +626,19 @@ food-producing animals.
 - Margin: 42/1954.
 - Margin: 42/1954.
 - Margin: 58/1954.
-- Margin: 146/1954
+- Margin: 146/1954.
 - Margin: 162/1954
 - Margin: 77/1955.
 - Margin: 62/1956.
-- Margin: 173/1956
+- Margin: 173/1956.
 - Margin: 77/1957.
-- Margin: 78/1957.
-- Margin: 112/1957
+- Margin: 78/1957. 112/1957
 - Margin: 139/1957
 - Margin: 154/1957
 - Margin: 48/1958.
 - Margin: 91/1958.
 - Margin: 92/1958.
-- Margin: 114/1958
+- Margin: 114/1958.
 - Margin: 75/1959.
 - Margin: 101/1959.
 - Margin: 8/1960.
@@ -649,7 +656,7 @@ food-producing animals.
 - Margin: 44/1965.
 - Margin: 32/1966.
 - Margin: 53/1967.
-- Margin: 118/1967
+- Margin: 118/1967.
 - Margin: 169/1967.
 - Margin: 112/1968.
 - Margin: 171/1968.
@@ -664,7 +671,7 @@ food-producing animals.
 - Margin: 94/1975.
 - Margin: 63/1976.
 - Margin: 170/1976.
-- Margin: 195/ 1977.
+- Margin: 195/1977.
 - Margin: 34/1972.
 - Margin: 145/1972.
 - Margin: 150/1973.
