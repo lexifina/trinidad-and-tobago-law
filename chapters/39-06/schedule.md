@@ -6,7 +6,7 @@
 2. (1) The Council may appoint such number of committees as the Council may deem fit and may delegate any of its functions to such committees.
 (2) Membership of a committee may include persons who are not members of the Council.
 3. A member of the Council or a committee of the Council who is in any manner, whether directly or indirectly, interested in a contract or proposed contract or has any interest in a matter under consideration by the Council or any committee thereof shall disclose that fact at the next meeting of the Council or committee and shall not participate in the consideration of, or vote on, any question relating to that matter.
-- Margin: (Section 12).
+- Margin: Section 12.
 - Margin: Meetings.
 - Margin: Appointment and delegation to committees.
 - Margin: Declaration of interest.
