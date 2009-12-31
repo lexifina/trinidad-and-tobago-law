@@ -6,7 +6,7 @@ COUNCIL OF THE LAW ASSOCIATION
 (a) the immediate past President of the Association when he is
 resident in Trinidad and Tobago;
 (b) elected members comprising-
-(i) officers of the Association, and
+(i) officers of the Association; and
 (ii) ordinary members, who shall be nationals of Trinidad and Tobago.
 (2) In this paragraph "national" means a citizen of Trinidad and Tobago and a person who is a resident of Trinidad and Tobago by virtue of section 5(1) of the Immigration Act.
 3. (1) The officers of the Association shall be the President, the Vice- President and the Treasurer who shall be elected at the same time as the ordinary members in accordance with paragraph 6 and the Secretary who shall be appointed by the Council as soon as it is constituted from among the ordinary members.
@@ -14,8 +14,8 @@ resident in Trinidad and Tobago;
 4. There shall be fifteen ordinary members of the Council comprising-
 (a) ten practitioner members, each of whom shall be of not less
 than ten years standing on the day of his nomination for election to the Council; and
-(b) five practitioner members, each of whom shall be of not more
-than ten years standing on the day of his nomination for election to the Council.
+(b) five practitioner members, each of whom shall be of not
+more than ten years standing on the day of his nomination for election to the Council.
 5. In every year elections shall be held in accordance with this Schedule and any rules made thereunder for the election of President, Vice-President, and Treasurer of the Association and the ordinary members of the Council.
 6. In the month of January every year the Council shall publish in the Gazette and in any other manner which it deems expedient so to do, the closing date for nomination of candidates for election to the Association and the Council.
 7. Every nomination of a candidate for election to the Association and the Council shall be in writing signed by not less than five practitioner members and shall name only one candidate whose consent shall be endorsed thereon.
@@ -29,18 +29,18 @@ than ten years standing on the day of his nomination for election to the Council
 (3) On that date, the terms of office of the members of the previous Council shall expire.
 13. Subject to the provisions of this Act, all members of the Council shall hold office until the coming into office of a new Council in the following year under paragraph 12.
 14. If a vacancy arises in the office of an elected member it shall be filled in one of the following ways:
-(a) where it arises less than six months after a member took office,
-by a by-election; and
-(b) where it arises six months or more after the member took office,
-by the appointment by the Council of a person qualified for election to the office.
-15. (1) The President of the Association or, in his absence the Vice- President of the Association shall be the Chairman of the Council and the Association and shall preside at all meetings of the Council and the Association.
+(a) where it arises less than six months after a member took
+office, by a by-election; and
+(b) where it arises six months or more after the member took
+office, by the appointment by the Council of a person qualified for election to the office.
+15. (1) The President of the Association or, in his absence the Vice-President of the Association shall be the Chairman of the Council and the Association and shall preside at all meetings of the Council and the Association.
 (2) In the absence from a meeting of both the President and the Vice- President the members present shall select one of their members to preside at that meeting.
 16. Subject to paragraph 15, where for any reason an officer of the Association is unable to carry out his functions under this Act, the Council shall appoint a member from among the elected members of the Council to act in his place.
 17. The statutory member of the Council shall vacate his office if-
 (a) he is struck off the Roll or is suspended from practising as an
 Attorney-at-law;
 (b) he becomes bankrupt or is insolvent;
-(c) be becomes of unsound mind; or
+(c) he becomes of unsound mind; or
 (d) he resigns his seat on the Council.
 18. An elected member shall vacate his office in any of the circumstances specified in paragraph 17 and shall also vacate his office if-
 (a) being elected under paragraph 5, he ceases for any reason to
@@ -50,12 +50,12 @@ without its consent.
 19. Seven members present at a meeting of the Council shall constitute a quorum for the transaction of any business.
 20. No fees shall be paid to any member of the Council but a member may be reimbursed from the funds of the Association for out-of-pocket and travelling expenses incurred by him in relation to the affairs of the Association.
 21. (1) The Council shall convene an Annual General Meeting which shall be held on or before the 31st day of March in each year and shall cause to be prepared and presented to the Annual General Meeting-
-(a) a report on the activities of the Association, and
-(b) proper accounts, duly audited, of all funds, property and assets
-of the Association, for the year terminating on the 31st day of January preceding such General Meeting.
+(a) a report on the activities of the Association; and
+(b) proper accounts, duly audited, of all funds, property and
+assets of the Association, for the year terminating on the 31st day of January preceding such General Meeting.
 (2) The Auditor shall be appointed at each Annual General Meeting.
 22. The Council may convene a Special General Meeting of the Association at such time or times as the Council deems expedient.
-23. (1) Any twenty-five practitioner members of the Association may at any time requisition a Special General Meeting by written notice signed by them stating the objects of the meeting and served on the President, Vice- President or Secretary of the Association.
+23. (1) Any twenty-five practitioner members of the Association may at any time requisition a Special General Meeting by written notice signed by them stating the objects of the meeting and served on the President, Vice-President or Secretary of the Association.
 (2) The Council shall convene a General Meeting to be held within thirty days of the service of the notice.
 (3) If the Council fails to convene a Special General Meeting within the time required by subparagraph (2), the requisitioning members may convene that General Meeting within sixty days of the service of the notice.
 24. At every General Meeting, every practitioner member present shall have one vote and the person presiding at that meeting shall have a casting as well as an original vote.
@@ -70,18 +70,18 @@ persons nominated for election;
 (d) the times at which the various steps in an election are to take
 place;
 (e) the mode of voting; and
-(f) the number of practitioner members (not being less than fifty)
-to constitute a quorum at a General Meeting.
+(f) the number of practitioner members (not being less than
+fifty) to constitute a quorum at a General Meeting.
 PART B
 CONSTITUTION OF FIRST COUNCIL
-1. Until the First Council is constituted and a person is appointed to perform the functions of Secretary of the Association, the Registrar shall perform these functions and shall be responsible for making arrangements for constituting the first Council and for holding elections for this purpose.
-2. If any difficulties arise in applying any of the provisions of Part A of this Schedule to the constituting of the first Council, the Minister may issue directions modifying these provisions so far as may appear to him necessary or expedient for removing the difficulty, and the Registrar shall for the purpose of constituting the first Council apply these provisions as modified by the Minister.
+1. Until the First Council is constituted and a person is appointed to perform the functions of Secretary of the Association, the Registrar shall perform these functions and shall be responsible for making arrangements for constituting the First Council and for holding elections for this purpose.
+2. If any difficulties arise in applying any of the provisions of Part A of this Schedule to the constituting of the First Council, the Minister may issue directions modifying these provisions so far as may appear to him necessary or expedient for removing the difficulty, and the Registrar shall for the purpose of constituting the First Council apply these provisions as modified by the Minister.
 3. Without prejudice to the generality of subparagraph (1), paragraph 4 of Part A of the First Schedule shall, for the purpose of constituting the first Council, apply as if-
 (a) the words "President of either the Bar Association or the Law
 Society" were substituted for "President of the Association" in paragraph (a); and
 (b) the words "of the Bar Association and of the Law Society"
 were substituted for the words "of the Association".
-- Margin: (Sections 4 and 61).
+- Margin: Sections 4 and 61.
 - Margin: Council to be governing and executive body of Association.
 - Margin: Types of members.
 - Margin: Ch. 18:01.
@@ -106,7 +106,7 @@ were substituted for the words "of the Association".
 - Margin: Out-of-pocket expenses to be paid to members of the Council.
 - Margin: Annual General Meeting.
 - Margin: Special General Meeting.
-- Margin: Twenty -five practitioner members can requisition Special General Meeting.
+- Margin: Twenty-five practitioner members can requisition Special General Meeting.
 - Margin: Requisitioning members can convene meeting when Council fails to do so.
 - Margin: Chairman to have casting vote at General Meeting.
 - Margin: Management of Association to be vested in Council.

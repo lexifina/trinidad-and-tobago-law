@@ -11,8 +11,8 @@ GENERAL GUIDELINES I. In Relation to the Profession and Himself
 (2) Where a referred client offers other work to the Attorney-at-law to whom he is referred and the offer is sufficiently proximate to the referral, that Attorney-at-law shall not accept that offer unless it has been brought to the attention of the referring Attorney-at-law.
 6. An Attorney-at-law may speak in public or write for publication on legal topics so long as he does not thereby advertise his own professional competence and is not likely to be regarded as being concerned thereby with the giving of individual advice.
 7. The best advertisement for an Attorney-at-law is the establishment of a well merited reputation for personal integrity, capacity, dedication to work and fidelity to trust and it is unprofessional-
-(a) to solicit business by circulars or advertisements or interviews
-not warranted by personal relations;
+(a) to solicit business by circulars or advertisements or
+interviews not warranted by personal relations;
 (b) to seek retainers through agents of any kind.
 8. An Attorney-at-law shall defend the interests of his client without fear of judicial disfavour or public unpopularity and without regard to any unpleasant consequences to himself or to any other person.
 9. Subject to paragraph 17, no Attorney-at-law is obliged to act either as adviser or advocate for every person who may wish to become his client; he has a right to decline employment.
@@ -74,7 +74,7 @@ IV. In Relation to the Courts and the Administration of Justice
 38. An Attorney-at-law should never seek privately to influence directly or indirectly the Judges of the Court in his favour or in the favour of his client, nor should he attempt to curry favour with juries by fawning, flattery or pretended solicitude for their personal comfort.
 39. An Attorney-at-law shall be punctual in attendance before the Courts and concise and direct in the trial and disposition of causes.
 40. An Attorney-at-law appearing before the Court shall at all times be attired in such a manner as prescribed or agreed by the proper authorities and as befits the dignity of the Court.
-V. In Relation to his Fellow Attorneys-at-Law
+V. In Relation to his Fellow Attorneys-at-law
 41. (1) The conduct of an Attorney-at-law towards his fellow attorneys shall be characterised by courtesy, fairness and good faith and he shall not permit ill-feeling between clients to affect his relationship with his colleagues.
 (2) All personal conflicts between Attorneys-at-law should be scrupulously avoided as should also colloquies between them which cause delay and promote unseemly wrangling.
 42. (1) An Attorney-at-law shall reply promptly to letters from other Attorneys-at-law making inquiries on behalf of their clients.
@@ -87,7 +87,7 @@ V. In Relation to his Fellow Attorneys-at-Law
 47. (1) An Attorney-at-law shall not ignore the customs or practices of the legal profession even when the law expressly permits it, without giving timely notice to the opposing Attorney-at-law.
 (2) An Attorney-at-law should avoid all sharp practices and should refrain from taking any paltry advantage when his opponent has made or overlooked some technical error or matter, bearing in mind that no client has a right to demand that an Attorney-at-law representing him shall be illiberal or shall do anything repugnant to his own sense of honour and propriety.
 48. An Attorney-at-law shall not accept instructions to act in Court proceedings in which to his knowledge the client has previously been represented by another Attorney-at-law, unless he first notifies the other Attorney-at-law of the change, and makes reasonable efforts to ensure that attorney has been paid for his services, but shall be deemed to have notified the other Attorney-at-law if he has made reasonable efforts to notify him.
-49. An Attorney-at-law shall not accept instructions to act in proceedings (other than Court proceedings) in which to his knowledge, another Attorney-at-law has previously represented the client unless he makes reasonable efforts to ascertain that the retatiner of that Attorney-at-law has been determined by the client, or that the client wishes both Attorneys-at-law to represent him.
+49. An Attorney-at-law shall not accept instructions to act in proceedings (other than Court proceedings) in which to his knowledge, another Attorney-at-law has previously represented the client unless he makes reasonable efforts to ascertain that the retainer of that Attorney-at-law has been determined by the client, or that the client wishes both Attorneys-at-law to represent him.
 50. An Attorney-at-law who instructs or employs another Attorney-at-law to act on behalf of his client, unless otherwise agreed, shall pay the proper fee of such Attorney-at-law whether or not he has received payment from his client.
 51. In undertaking to render assistance to a foreign colleague, an Attorney-at-law shall remember that his responsibility is much greater both when giving advice and handling a case, that it would be had he undertaken to assist a colleague in Trinidad and Tobago.
 VI. General
@@ -106,7 +106,8 @@ SPECIFIC PROHIBITIONS
 5. An Attorney-at-law shall not in the carrying on of his practice or otherwise permit any act or thing which is likely or is intended to attract business unfairly or can reasonably be regarded as touting or advertising.
 6. (1) An Attorney-at-law shall not in any way make use of any form of advertisement calculated to attract clients to himself or any firm with which he is associated and he shall not permit, authorise or encourage anyone to do so or reward anyone for doing so on his behalf.
 (2) An Attorney-at-law shall not permit his professional standing to be used for the purpose of advertising any particular product, service or commercial organisation.
-(3) An Attorney-at-law shall not advertise for business indirectly by furnishing or inspiring newspaper comment concerning cases or causes in which an Attorney-at-law has been or is connected or concerning the manner of their conduct, the magnitude of the interests involved, the importance of the Attorney-at-law's position and any similar self-laudations. Provided however that-
+(3) An Attorney-at-law shall not advertise for business indirectly by furnishing or inspiring newspaper comment concerning cases or causes in which an Attorney-at-law has been or is connected or concerning the manner of their conduct, the magnitude of the interests involved, the importance of the Attorney-at-law's position and any similar self-laudations.
+Provided however that-
 (a) an Attorney-at-law may permit limited and dignified
 identification of himself as an Attorney-at-law-
 (i) in political advertisements relevant to the course of a
@@ -115,18 +116,18 @@ political campaign or issue;
 professional status is required or authorised by law, or is reasonably necessary for a purpose other than the attraction of potential clients;
 (iii) in reports and announcements of bona fide commercial,
 civic, professional or political organisations in which he serves as a director or officer;
-(iv) in and on legal textbooks, articles, professional journals
-and other legal publications and in dignified and restrained advertisements thereof;
+(iv) in and on legal textbooks, articles, professional
+journals and other legal publications and in dignified and restrained advertisements thereof;
 (v) in announcements of any public address, lecture, or
 publication by him on legal topics, provided that such announcements do not emphasise his own professional competence and are not likely to be regarded as being concerned with the giving of individual advice by him.
-(b) An Attorney-at-law may speak in public or write for publication
-on legal topics so long as he does not thereby emphasise his own professional competence and is not likely to be regarded as being concerned thereby with the giving of individual advice.
+(b) An Attorney-at-law may speak in public or write for
+publication on legal topics so long as he does not thereby emphasise his own professional competence and is not likely to be regarded as being concerned thereby with the giving of individual advice.
 (c) The following cards, office signs, letterheads or directory
 listings may be used by an Attorney-at-law but in a restrained and dignified form:
 (i) a professional card identifying the Attorney-at-law by
 name and as an Attorney-at-law giving his decorations and degrees, legal or otherwise, his addresses, telephone numbers and the name of his law firm or professional associates so however that such cards are not published in the news media and are only handed out on request and for the purposes of identification or address;
-(ii) a brief professional announcement card to be delivered
-only to Attorneys-at-law, clients, personal friends and relations and government bodies and stating new or changed associations or addresses, changes of firm's name or like professional matters;
+(ii) a brief professional announcement card to be
+delivered only to Attorneys-at-law, clients, personal friends and relations and government bodies and stating new or changed associations or addresses, changes of firm's name or like professional matters;
 (iii) a sign or a size and design compatible with the
 existing practice of the profession, on or near the door of the office and in the building directory identifying the law office;
 (iv) a letterhead identifying the Attorney-at-law by name
@@ -135,12 +136,12 @@ and degrees, legal or otherwise, his addresses, telephone numbers and the name o
 (v) a listing in a telephone directory, a reputable law list,
 legal directory or biographical reference giving brief biographical or other relevant information; and any such professional card, office sign, letterhead or listing may state the Attorney-at-law is also a notary public.
 7. Where an Attorney-at-law commits any criminal offence which in the opinion of the Disciplinary Committee is of a nature likely to bring the profession into disrepute, such commission of the offence shall constitute professional misconduct if-
-(a) he has been convicted by any Court, including a foreign Court
-of competent jurisdiction, for the offence; or
-(b) although he has not been prosecuted the Committee is satisfied
-of the facts constituting the criminal offence; or
-(c) he has been prosecuted and has been acquitted by reason of a
-technical defence or he has been convicted but such conviction is quashed by reason of some technical defence.
+(a) he has been convicted by any Court, including a foreign
+Court of competent jurisdiction, for the offence; or
+(b) although he has not been prosecuted the Committee is
+satisfied of the facts constituting the criminal offence; or
+(c) he has been prosecuted and has been acquitted by reason of
+a technical defence or he has been convicted but such conviction is quashed by reason of some technical defence.
 8. An Attorney-at-law shall not acquire directly or indirectly by purchase, or otherwise a financial or other interest in the subject matter of a case which he is conducting.
 9. (1) An Attorney-at-law shall not enter into partnership or fee-sharing arrangements concerning the practice of law with non-qualified bodies or persons.
 (2) An Attorney-at-law shall not enter into an agreement for or charge or collect a fee in contravention of these Rules or any other law.
@@ -148,8 +149,8 @@ technical defence or he has been convicted but such conviction is quashed by rea
 (In determining the fairness and reasonableness of a fee the following factors may be taken into account:
 (a) the time and labour required, the novelty and difficulty of the
 questions involved and the skill required to perform the legal service properly;
-(b) the likelihood that the acceptance of the particular employment
-will preclude other employment by the Attorney-at-law;
+(b) the likelihood that the acceptance of the particular
+employment will preclude other employment by the Attorney-at-law;
 (c) the fee customarily charged in the locality for similar legal
 services;
 (d) the amount, if any, involved;
@@ -168,17 +169,16 @@ prescribed by law or by the Law Association).
 12. (1) An Attorney-at-law who withdraws from employment under Rule 34 of Part A shall not do so until he has taken reasonable steps to avoid foreseeable prejudice or injury to the position and rights of his client including-
 (a) giving due notice;
 (b) allowing time for employment of another Attorney-at-law;
-(c) delivering to the client all documents and property to
-which he is entitled subject however to any lien which the
-Attorney-at-law may have over the same;
+(c) delivering to the client all documents and property to which
+he is entitled subject however to any lien which the Attorney-at-law may have over the same;
 (d) complying with such laws, rules or practice as may be
 applicable; and
-(e) where appropriate, obtaining the permission of the Court where
-the hearing of the matter has commenced.
+(e) where appropriate, obtaining the permission of the Court
+where the hearing of the matter has commenced.
 (2) An Attorney-at-law who withdraws from employment shall refund promptly such part of the fees, if any, already paid by his client as may be fair and reasonable having regard to all the circumstances.
 13. An Attorney-at-law shall withdraw forthwith from employment or from a matter pending before a tribunal-
-(a) where the client insists upon his representing a claim or defence
-that he cannot conscientiously advance;
+(a) where the client insists upon his representing a claim or
+defence that he cannot conscientiously advance;
 (b) where the client seeks to pursue a course of conduct which is
 illegal or which will result in deliberately deceiving the Court;
 (c) where a client has in the course of the proceedings perpetrated
@@ -217,4 +217,4 @@ Provided that nothing contained in Rules 31 and 32 shall deprive an Attorney-at-
 34. Where no provision is made in these rules in respect of any matter, the rules and practice of the legal profession which formerly governed the particular matter shall apply in so far as is practicable.
 35. (1) Breach by an Attorney-at-law of any of the Rules contained in this Part shall constitute professional misconduct and an Attorney-at-law who commits such a breach shall be liable to any of the penalties which the Disciplinary Committee and/or the Court is empowered to impose.
 (2) Breach by an Attorney-at-law of any of the provisions of Part A of this Code while not automatically amounting to punishable professional misconduct is a derogation from the high standards of conduct expected from an Attorney-at-law and may, depending on the circumstances of the particular case, amount to such misconduct or form a material ingredient thereof.
-- Margin: (Section 35)
+- Margin: Section 35.

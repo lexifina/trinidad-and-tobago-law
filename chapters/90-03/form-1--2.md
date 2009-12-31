@@ -12,4 +12,4 @@ Signature
 Address
 ...
 Profession, business or occupation
-- Margin: (Paragraph 3)
+- Margin: Paragraph 3.
