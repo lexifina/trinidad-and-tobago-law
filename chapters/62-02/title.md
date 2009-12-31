@@ -5,9 +5,11 @@ Act
 14 of 1974 Amended by 34 of 1975
 6/1984
 16 of 1992 195/2003 249/2004 30 of 2007
+82/2009
+1-2 .. 3-12 .. 1/2009 13-16 ..
 Index of Subsidiary Legislation
 Page Petroleum Production Levy and Subsidy (Gross Margin) Order
-(LN 172/2003) ... 15 Petroleum Production Levy and Subsidy (Gross Margin) (L.P.G.) Order
+(LN 81/2009) ... 15 Petroleum Production Levy and Subsidy (Gross Margin) (L.P.G.) Order
 (GN 155/1976) ... 16
 Note on Adaptation
 Under paragraph 6 of the Second Schedule to the Law Revision Act (Ch. 3:03) the Commission amended certain references to public officers in this Chapter. The Minister's approval of the amendments was signified by LN 120/1980, but no marginal reference is made to this Notice where any such amendment is made in the text.
