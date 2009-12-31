@@ -4,9 +4,10 @@ Act
 8 of 1997
 Amended by
 18 of 2000
+5 of 2008
 Index of Subsidiary Legislation
 Page
-Copyright (Customs) Regulations (LN 37/2000) … … … 48
+Copyright (Customs) Regulations (LN 37/2000) … … … 53
 CHAPTER 82:80
 COPYRIGHT ACT
 ARRANGEMENT OF SECTIONS SECTION
@@ -15,8 +16,7 @@ PRELIMINARY
 1. Short title. 2. Act inconsistent with the Constitution. 3. Interpretation. 4. Application.
 PART II
 COPYRIGHT
-5. Copyright and copyright works. 6. Derivative works. 7. Subject matter not protected. 8. Nature of copyright. 9. Private reproduction for personal purposes.
-10. Quotation. 11. Reproduction for teaching. 12. Reprographic reproduction by libraries and archives. 13. Reproduction, broadcasting and other communication to the public
+5. Copyright and copyright works. 6. Derivative works. 7. Subject matter not protected. 8. Nature of copyright. 9. Private reproduction for personal purposes. 10. Quotation. 11. Reproduction for teaching. 12. Reprographic reproduction by libraries and archives. 13. Reproduction, broadcasting and other communication to the public
 for informatory purposes.
 14. Reproduction and adaptation of computer programs. 15. Importation for personal purposes. 16. Display of works. 17. Permitted use of artistic works situated in public places.
 PART III
@@ -24,7 +24,9 @@ MORAL RIGHTS
 18. Moral rights.
 PART IV
 DURATION OF COPYRIGHT AND MORAL RIGHTS 19. Duration of copyright.
-ARRANGEMENT OF SECTIONS-Continued SECTION
+19A. Duration of moral rights of performers.
+ARRANGEMENT OF SECTIONS-Continued
+SECTION
 PART V
 NEIGHBOURING RIGHTS
 (PROTECTION OF PERFORMERS, PRODUCERS OF SOUND
@@ -38,17 +40,23 @@ OWNERSHIP AND ASSIGNMENT
 international organisations.
 28. Assignments and licences. 29. Prospective ownership of author's rights.
 PART VII
-INFRINGEMENT
-30. Action-definition of. 31. Action by owner of rights for infringement. 32. Action by exclusive licensee for infringement. 33. Exercise of concurrent rights. 34. Secondary infringements. 35. Presumption of authorship and of representation of the author. 36. Presumptions relevant to sound recordings, audiovisual works and
-computer programs.
-37. Presumptions relevant to works of the State. SECTION
-PART VIII
-CIVIL REMEDIES AND CRIMINAL LIABILITY
-38. Civil remedies for infringement. 39. Wide injunction available to licensing bodies. 40. Withdrawal of privilege against incrimination of self or spouse in
+CIVIL REMEDIES
+30. Action-definition of. 31. Action by owner of rights for infringement. 32. Action by exclusive licensee for infringement.
+32A. Certain infringement actionable by non-exclusive licensee.
+33. Exercise of concurrent rights. 34. Secondary infringements.
+34A. Measures, remedies and sanctions against acts constituting
+infringements of copyright and neighbouring rights.
+34B. Abuses in respect of rights management information.
+35. Presumption of authorship and of representation of the author. 36. Presumptions relevant to sound recordings, audio-visual works and
+computer programs. SECTION
+37. Presumptions relevant to works of the State. 38. Civil remedies for infringement. 39. Wide injunction available to licensing bodies. 40. Withdrawal of privilege against incrimination of self or spouse in
 infringement and related proceedings.
-41. Criminal liability for infringement. 42. Offences by bodies corporate. 43. Time limited for prosecution. 44. Measures, remedies and sanctions against abuses in respect of
-technical means.
-45. Powers of police officers. 46. Obstruction of police officers. 47. Power to arrest without warrant. 48. Provision for restricting importation of infringing copies.
+PART VIII
+OFFENCES
+41. Penalties in respect of infringing copies of a work, performance,
+sound recording or broadcast.
+41A. Penalties in respect of unauthorised public performance.
+42. Offences by bodies corporate. 43. Time limited for prosecution. 44. Powers of the Magistrate. 45. Powers of police officers. 46. Obstruction of police officers. 47. Power to arrest without warrant. 48. Provision for restricting importation of infringing copies.
 PART IX
 SPECIAL JURISDICTION OF THE COURT
 49. Definitions. 50. Jurisdiction of Court. 51. Procedure in proceedings before the Court. 52. Disputes with licensing bodies. 53. Rights of appeal.
@@ -56,7 +64,7 @@ PART X
 FINAL PROVISIONS
 54. Scope of application of Act. 55. Application of Act in relation to performers, sound recordings
 and broadcasts.
-56. Act No. 13 of 1985 Repealed. 57. Regulations. 58. Savings.
+56. Act No. 13 of 1985 repealed. 57. Regulations. 58. Savings. 59. Limitation of certain actions.
 
 CHAPTER 82:80
 COPYRIGHT ACT
