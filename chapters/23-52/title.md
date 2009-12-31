@@ -3,10 +3,27 @@ CHAPTER 23:52
 Act
 16 of 1934
 Amended by
-21 of 1938 16 of 1962 16 of 1940 9 of 1968 33 of 1943 37 of 1968 8 of 1944 38 of 1973 55 of 1946 32 of 1974 17 of 1950 44 of 1976 28 of 1950 22 of 1977 10 of 1952 *14 of 1980 1 of 1953 98/1981 1 of 1954 *9 of 1987 5 of 1955 *19 of 1989 20 of 1955 *5 of 1994 39 of 1955 *4 of 1995 43 of 1956 20 of 1997 14 of 1958 *21 of 2005 37 of 1961 *17 of 2007
-*See Note on Amendment Acts on page 2
+21 of 1938 37 of 1968 16 of 1940 38 of 1973 33 of 1943 32 of 1974 8 of 1944 44 of 1976 55 of 1946
+22 of 1977
+17 of 1950
+*14 of 1980
+28 of 1950
+98/1981
+10 of 1952
+*9 of 1987
+1 of 1953
+*19 of 1989
+1 of 1954
+*5 of 1994
+5 of 1955
+*4 of 1995
+20 of 1955
+20 of 1997
+39 of 1955
+*21 of 2005 43 of 1956 *17 of 2007 14 of 1958 13 of 2008 37 of 1961 20 of 2008 16 of 1962
+9 of 1968 *1 of 2009 *See Note on Amendment Acts on page 2
 Index of Subsidiary Legislation
-Page Pensions Regulations (16 of 1934 Second Schedule) … … … 34 Pensions (Approved Post) Order (GN 139/1976) … … … 50
+Page Pensions Regulations (16 of 1934 Second Schedule) … … … 36 Pensions (Approved Post) Order (GN 139/1976) … … … 52
 Note on Subsidiary Legislation
 Notifications made under sections 2 and 3 in respect of "pensionable offices" and "pensionable services" have been omitted, as they are numerous and frequent and of limited interest to the general public. For reference to these Notifications-See the Current Edition of the Consolidated Index of Acts and Subsidiary Legislation.
 Note on Amendment Acts
@@ -26,6 +43,8 @@ F. Note on Act No. 21 of 2005
 See section 15 of Act No. 21 of 2005 for the determination of pensionable emoluments of certain officers.
 G. Note on Act No. 17 of 2007
 See section 25 of Act No. 17 of 2007 with respect to the application of this Act.
+H. Note on Act No. 1 of 2009
+Amendments made to sections 18(1) and 19(1) by Act No. 1 of 2009 took effect from 1st October 2008.
 CHAPTER 23:52
 PENSIONS ACT
 ARRANGEMENT OF SECTIONS
@@ -47,8 +66,13 @@ Officer may be retired on abolition of office. Pension to Governors of Dominions
 Gratuity to female officer retiring on account of her marriage.
 16. Officer may be granted pension, etc., on appointment to
 approved post.
+16A. Computation of pension in acting capacity, prior to compulsory
+retirement.
 ARRANGEMENT OF SECTIONS-Continued
 SECTION
+16B. Computation of pension on promotion following acting, prior to
+compulsory retirement.
+16C. Commencement.
 17. Liability of pensioners to be called upon to take further employment. 18. Maximum pension.
 Maximum pension when officer entitled to pension from other
 public service.
@@ -60,7 +84,8 @@ maintenance of his wife or children.
 Limitation of application. Saving existing rights to pensioners.
 30. Added years for judicial and legal officers. 31. Idem. Pensions Regulations, 1938. 32. Ordinance No. 38 of 1933 to continue in force. 33. Regulations in Third Schedule. 34. Service of officers transferred to Trinidad and Tobago from offices
 under the Government of Palestine deemed to be continuous with service under the Government of Trinidad and Tobago.
-FIRST SCHEDULE. SECOND SCHEDULE. THIRD SCHEDULE.
+35. Exceptions.
+FIRST SCHEDULE. SECOND SCHEDULE. THIRD SCHEDULE. FOURTH SCHEDULE.
 
 CHAPTER 23:52
 PENSIONS ACT
