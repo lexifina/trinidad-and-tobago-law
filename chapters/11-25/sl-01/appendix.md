@@ -310,7 +310,7 @@ realisable property in such manner as the Court may direct;
 realisable property to make such payment to the receiver in respect of any beneficial interest held by the defendant or, as the case may be, the recipient of a gift caught by this Act as the Court may direct and, on the payment being made, by order, transfer, grant or extinguish any interest in the property.
 (2) Subsection (1)(c) to (e) do not apply to property for the time being subject to a charge under section 38.
 (3) The Court shall not in respect of any property exercise the powers conferred by paragraph (b)(i), (d) or (e) of subsection (1) unless a reasonable opportunity has been given for persons holding any interest in the property to make representations to the Court.
-40. (1) Subject to subsection (2), the following sums in the hands of a receiver appointed under section 37 or 39 or in pursuance of a charging order, that is-
+40. (1) Subject to subsection (2), the following sums in the hands of a receiver appointed under section 37 or 39 or in pursuance of a charging order, that is:
 (a) the proceeds of the enforcement of any charge
 imposed under section 38;
 (b) the proceeds of the realisation, other than by the
@@ -546,7 +546,7 @@ which the application is made might be seriously prejudiced unless a police offi
 the result of the execution of the warrant including a brief description of anything seized;
 (c) if the warrant was not executed, setting out briefly
 the reasons why the warrant was not executed.
-(7) Areport with respect to a search warrant shall be made within ten days after the execution of the warrant or the expiry of the warrant whichever first occurs and if the Judge who issued the search warrant died, has ceased to be a Judge or is absent, the report shall be furnished to the Chief Justice.
+(7) A report with respect to a search warrant shall be made within ten days after the execution of the warrant or the expiry of the warrant whichever first occurs and if the Judge who issued the search warrant died, has ceased to be a Judge or is absent, the report shall be furnished to the Chief Justice.
 50. (1) Subject to subsection (2), in sections 48 and 49 "items subject to legal privilege" means-
 (a) communications between a professional legal
 adviser and his client made in connection with the giving of legal advice to the client;
@@ -649,6 +649,12 @@ deceased person; or
 any representations made by a personal representative, beneficiary, or other relevant party regarding the estate of the deceased person;
 (b) under subsection (3)(b) the Court shall do so one
 month after notice of the application made by the Director of Public Prosecutions has been advertised in a daily newspaper.
+SUBSIDIARY LEGISLATION
+DANGEROUS DRUGS (DESIGNATED COUNTRY) ORDER
+made under section 35A
+WHEREAS it is provided by section 35A of the Dangerous Drugs Act, that the Minister may by Order declare a country to be a designated country for the purposes of the Act:
+And whereas it is expedient for the Minister to declare the United States of America a designated country:
+Now, therefore, the Minister in exercise of the powers conferred on her by section 35A of the Act, hereby declares as follows:
 - Margin: Confiscation orders.
 - Margin: Assessing the proceeds of drug trafficking.
 - Margin: Statements relating to drug trafficking.
@@ -681,3 +687,5 @@ month after notice of the application made by the Director of Public Prosecution
 - Margin: Disclosure of information held by government departments.
 - Margin: Offence of prejudicing investigation.
 - Margin: Forfeiture orders. [27 of 1994].
+- Margin: 65/1997.
+- Margin: Preamble.

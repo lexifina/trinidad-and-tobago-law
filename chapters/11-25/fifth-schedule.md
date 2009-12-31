@@ -17,13 +17,13 @@ for the purposes of this Schedule by the Minister to whom responsibility for Nat
 (3) Without prejudice to the generality of the powers referred to in subclauses (1) and (2), an enforcement officer may-
 (a) open any containers;
 (b) make tests and take samples of anything on the ship;
-(c) require the production of documents, books or records relating
-to the ship or anything on it;
-(d) make photographs or copies of anything whose production he
-has power to require.
+(c) require the production of documents, books or records
+relating to the ship or anything on it;
+(d) make photographs or copies of anything whose production
+he has power to require.
 4. If an enforcement officer has reasonable grounds to suspect that an offence mentioned in section 53A or 53B of this Act has been committed on a ship to which that section applies he may-
-(a) arrest without warrant anyone whom he has reasonable grounds
-for suspecting to be guilty of the offence; and
+(a) arrest without warrant anyone whom he has reasonable
+grounds for suspecting to be guilty of the offence; and
 (b) seize and detain anything found on the ship which appears to
 him to be evidence of the offence.
 5. (1) An enforcement officer may take with him, to assist him in exercising his powers-
@@ -36,15 +36,15 @@ him to be evidence of the offence.
 9. (1) A person is guilty of an offence if he-
 (a) intentionally obstructs an enforcement officer in the
 performance of any of his functions under this Schedule;
-(b) fails without reasonable excuse to comply with a requirement
-made by an enforcement officer in the performance of those functions; or
+(b) fails without reasonable excuse to comply with a
+requirement made by an enforcement officer in the performance of those functions; or
 (c) in purporting to give information required by an officer for
 the performance of those functions-
 (i) makes a statement which he knows to be false in a
 material particular or recklessly makes a statement which is false in a material particular; or
 (ii) intentionally fails to disclose any material particular.
 (2) A person guilty of an offence under this paragraph is liable on summary conviction to a fine of five thousand dollars and to imprisonment for two years.
-- Margin: (Section 53C).
+- Margin: Section 53C.
 - Margin: [44 of 2000].
 - Margin: Definitions.
 - Margin: Ch. 78:01.
