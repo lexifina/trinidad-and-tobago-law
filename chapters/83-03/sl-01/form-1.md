@@ -16,8 +16,9 @@ Surname
 Other Names
 Full Address of Joint Holder
 Passport Driver's Permit I.D. No.
-Date of Birth Resident Non-Resident [Subsidiary] Unit Trust First Unit Scheme Regulations
-I/We wish to buy Units (Minimum-1 Unit-Maximum-10,000 Units)
+Date of Birth Resident Non-Resident
+Unit Trust First Unit Scheme Regulations [Subsidiary]
+I/We wish to buy Units (Minimum-1 Unit; Maximum-10,000 Units)
 Purchase for children under 18 years of age should be registered in the name of an adult, and such accounts should be designated.
 NAME OF MINOR
 Surname
@@ -25,7 +26,7 @@ Other Names
 Date of Birth AGENT'S STAMP
 Signature of Applicant (1) ...
 Signature of Applicant (2) ...
-[Subsidiary] Unit Trust First Unit Scheme Regulations
+Unit Trust First Unit Scheme Regulations [Subsidiary]
 FORM 2 ...
 Certificate No.
 TRINIDAD AND TOBAGO
@@ -51,16 +52,17 @@ TOBAGO UNIT TRUST CORPORATION
 Insert the total number of
 I/We ... Number of Units units being sold followed by the full names of all
 ... unitholders and the current registered office ... of the first holder.
-... [Subsidiary] Unit Trust First Unit Scheme Regulations
+...
+Unit Trust First Unit Scheme Regulations [Subsidiary]
 acknowledge that I am/we are no longer interested in the units shown above, all of which are represented by the certificate(s) presented for cancellation. Dated ... day of ... 20...
 (Signature of (Signature of 1st Unitholder) 3rd Unitholder)
 ...
-(Signature of (Signature of 2nd Unitholder 4th Unitholder)
-When Units are held in joint names all holders must sign. Note: A corporation must complete this form under its common seal or under the hand of an officer or attorney so authorised.
-This Renunciation Form relates to this certificate and the additional certificate(s)
-listed below, all of which must be forwarded to the Trinidad and Tobago Unit Trust Corporation. The corresponding form on such additional certificate(s) can be left blank. Certificate No. of Certificate No. of Certificate No. of
-Number Units Number Units Number Units ... 1. If this certificate is for a greater number of units than is being sold or transferred a new certificate will be issued in due course.
-2. When transferring units to another person the form above should not be used. A Unit Transfer Form should be completed and sent to this office with this certificate.
-3. All notices, correspondence (including intimations of change of address) and documents requiring to be registered in respect of this holding should be sent direct to the Trinidad and Tobago Unit Trust Corporation.
-4. Copies of the Regulations can be inspected by any certificate holder at the Head Office of the Trinidad and Tobago Unit Trust Corporation during usual business hours and the Trust will supply such holder with copies of such Regulations on request.
-[Subsidiary] Unit Trust First Unit Scheme Regulations
+(Signature of (Signature of 2nd Unitholder) 4th Unitholder)
+When Units are held in joint names all holders must sign except where they have signed a declaration authorising any one or more of them to sign. Note: A corporation must complete this form under its common seal or under the hand of an officer or attorney so authorised.
+This Renunciation Form relates to this certificate and the additional certificate(s) listed below, all of which must be forwarded to the Trinidad and Tobago Unit Trust Corporation. The corresponding form on such additional certificate(s) can be left blank. Certificate No. of Certificate No. of Certificate No. of
+Number Units Number Units Number Units ... 1. If this certificate is for a greater number of units than is being sold or transferred
+a new certificate will be issued in due course. 2. When transferring units to another person the form above should not be used. A
+Unit Transfer Form should be completed and sent to this office with this certificate. 3. All notices, correspondence (including intimations of change of address) and
+documents requiring to be registered in respect of this holding should be sent direct to the Trinidad and Tobago Unit Trust Corporation. 4. Copies of the Regulations can be inspected by any certificate holder at the Head Office
+of the Trinidad and Tobago Unit Trust Corporation during usual business hours and the Trust will supply such holder with copies of such Regulations on request.
+Unit Trust First Unit Scheme Regulations [Subsidiary]
