@@ -3,13 +3,16 @@ VARIETIES ACT
 CHAPTER 82:75
 Act
 7 of 1997 Amended by 18 of 2000
-81 1/2009
+3 -28 .. 1/2006 29-32 .. 1/2009 33-42 .. 1/2006 43-58 .. 1/2009 59-66 .. 1/2006
+69-80 .. 1/2006
+81 ..
 Index of Subsidiary Legislation
 Page Protection of New Plant Varieties Regulations (LN 298/2000) … … 32 Protection of New Plant Varieties Order (LN 124/1998) … … … 81
 CHAPTER 82:75
 PROTECTION OF NEW PLANT
 VARIETIES ACT
-ARRANGEMENT OF SECTIONS SECTION
+ARRANGEMENT OF SECTIONS
+SECTION
 PART I
 PRELIMINARY
 1. Short title. 2. Interpretation and administration.
@@ -18,8 +21,7 @@ PLANT BREEDER'S RIGHTS
 3. The breeder's rights. 4. Novelty. 5. Distinctness. 6. Homogeneity. 7. Stability. 8. List of genera and species to which this Act applies.
 PART III
 ENTITLEMENT TO PROTECTION
-9. Right to apply protection.
-10. Presumption of title. 11. Application by person other than owner. 12. Persons entitled to file applications.
+9. Right to apply protection. 10. Presumption of title. 11. Application by person other than owner. 12. Persons entitled to file applications.
 PART IV
 ASSIGNMENT AND TRANSFER OF THE APPLICATION
 OR OF THE PLANT BREEDER'S RIGHT
@@ -30,8 +32,7 @@ SCOPE AND DURATION OF THE
 BREEDER'S RIGHT
 15. Scope of the Breeder's Right. 16. Maintenance of propagating material. 17. Period of protection. 18. Renewal fees.
 PART VI
-TERMINATION, ANNULMENT AND FORFEITURE
-19. Termination of protection; annulment and forfeiture of rights.
+TERMINATION, ANNULMENT AND FORFEITURE 19. Termination of protection; annulment and forfeiture of rights.
 PART VII
 PROCEDURES BEFORE THE OFFICE
 20. Application. 21. Priority. 22. Documents and material to be furnished for priority. 23. Application to be in English.
