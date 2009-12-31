@@ -1,4 +1,4 @@
 # FOURTH SCHEDULE
 1. N. Acetylantranilic acid 2. Acetic anhydride 3. Acetone 4. Anthranilic acid 5. Benzone 6. Benzyl chloride 7. Benzyl cyanide 8. 2-Butanone (methyl ethyl ketone) 9. Ephedrine 10. Ergonovine 11. Ergotamine 12. Ethyl ether 13. Hydrochloric acid 14. Methylene chloride 15. 3, 4 Methylenedioxphenyl-2-propanone 16. Norpseudo ephedrine 17. Phenylacetone acid 18. Phenylacetone 19. Piperidine 20. Potassium permanganate 21. Pseudo ephedrine 22. Sulphuric acid 23. Toluene 24. 1-Phenyl-2-propanone 25. Phenylacetic acid and its salts 26. Phenylpropanolamine and its salts 27. Bromobenzyl cyanide 28. Lysergic acid 29. Erogometrine and its salts 30. Sodium sulphate 31. Potassium carbonate 32. Sodium carbonate 33. Isosafrol (cis+trans) 34. Piperonal 35. Safrole 36. Methylethyl ketone (MEK)
 The salts of the substances are listed in this Schedule whenever the existence of such salts is possible.
-- Margin: (Section 6A).
+- Margin: Section 6A.

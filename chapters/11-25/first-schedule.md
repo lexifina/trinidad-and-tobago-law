@@ -18,7 +18,7 @@ methylbutyl)-6,14-endoetheno-oripavine]
 (13) Dihydromorphine
 (14) Ethylmorphine (3-ethylmorphine)
 (15) Etorphine [tetrahydro-7 -( 1-hydroxy-1- methylbutyl)-6,
-14- endoetheno-oripavine]
+14-endoetheno-oripavine]
 (16) Heroin
 (17) Hydrocodone (dihydrocodeinone)
 (18) Hydromorphone (dihydromorphinone)
@@ -33,7 +33,7 @@ morphine derivatives, including in particular the morphine-N-oxide derivatives, 
 (26) Nalorphine (N-allylnormorphine)
 (27) Nicocodine (6-nicotinylcodeine)
 (28) Nicodicodine (6-nicotinyldihydrocodeine)
-(29) Nicomorphine (3,6-dinicotinylmorphine)
+(29) Nicomorphine (3, 6-dinicotinylmorphine)
 (30) Norcodeine (N-demethylcodeine)
 (31) Norinophine (demethylmorphine) or (N-demethylated
 morphine)
@@ -114,7 +114,7 @@ piperidyl)-propionanilide)
 (29) Trimeperidine (1, 2, 5-trimethyl-4-phenyl-4-
 propionoxypiperidine).
 5. Phenazepines, their preparations, derivatives and salts, as for example:-
-(1) Proheptazine (hexahydro-l,3-dimethyl-4-phenyl-4-
+(1) Proheptazine (hexahydro-l, 3-dimethyl-4-phenyl-4-
 azepinyl propionate), but not including:
 (2) Ethoheptazine (ethyl hexahydro-l-methyl-4-phenyl-4-
 azepinecarboxylate).
@@ -199,4 +199,4 @@ cyclohexene-1-carboxylate).
 The isomers unless specifically excepted, of the drugs in this Schedule whenever the existence of such isomers is possible within the specific chemical designation.
 The esters and ethers, unless appearing in another Schedule, of the drugs in this Schedule whenever the existence of such esters or ethers is possible.
 The salts of the drugs listed in this Schedule, including the salts of esters, ethers and isomers as provided above whenever the existence of such salts is possible.
-- Margin: (Section 3).
+- Margin: Section 3.
