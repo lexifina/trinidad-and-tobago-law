@@ -1,10 +1,10 @@
-ENVIRONMENTALLY SENSITIVE SPECIES RULES
-ARRANGEMENT OF RULES RULE
-1. Citation. 2. Interpretation. 3. Standards and guidelines for designation of "environmentally
-sensitive species".
-4. Form and contents of Notice. 5. Procedure for designating an environmentally sensitive species. 6. Rescission of designation of environmentally sensitive species.
-SCHEDULE I. SCHEDULE II. SCHEDULE III. SCHEDULE IV. SCHEDULE V.
-[Subsidiary ]
-ENVIRONMENTALLY SENSITIVE SPECIES RULES
-made under sections 26(e) and 41
-- Margin: 63/2001.
+ENVIRONMENTALLY SENSITIVE AREA (MATURA NATIONAL PARK) NOTICE
+ARRANGEMENT OF NOTICES
+NOTICE
+1. Citation. 2. Interpretation. 3. Designation. 4. Application. 5. Reason for designation. 6. Limitations on use and activities. 7. Permitted use and mitigating measures.
+[Subsidiary]
+ENVIRONMENTALLY SENSITIVE AREA
+(MATURA NATIONAL PARK) NOTICE
+made under section 41 and under rules 3, 4 and 5 of the
+Environmentally Sensitive Areas Rules
+- Margin: 323/2004.
