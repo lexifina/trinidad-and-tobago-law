@@ -11,10 +11,11 @@ Amended by
 *15 of 2004
 32/2006
 22 of 2007
+3 of 2009
 * See Note on page 2
 Index of Subsidiary Legislation
-Page Insurance (Pension Fund Plan Investments) Regulations (185/1976) … 146 Insurance (Pension Fund Plans Registration Fees) Regulations (184/1970) … 147 Insurance (Forms) Regulations (25/1967)... 149 Insurance Companies (Registration) Regulations (152/1980) … … 186 Insurance Companies (Accounts and Forms) Regulations (39/1981) … 195 Insurance (Admissible Assets and Valuation of Assets) Regulations (107/1982) 231 Insurance (Agents, Brokers, Salesmen and Adjusters) (Registration)
-Regulations (121/1982) ... 242 Insurance (Approved Securities) Regulations (70/1983) … … … 280
+Page Insurance (Pension Fund Plan Investments) Regulations (185/1976) … 145 Insurance (Pension Fund Plans Registration Fees) Regulations (184/1970) … 146 Insurance (Forms) Regulations (25/1967)... 148 Insurance Companies (Registration) Regulations (152/1980) … … 185 Insurance Companies (Accounts and Forms) Regulations (39/1981) … 194 Insurance (Admissible Assets and Valuation of Assets) Regulations (107/1982) 230 Insurance (Agents, Brokers, Salesmen and Adjusters) (Registration)
+Regulations (121/1982) ... 241 Insurance (Approved Securities) Regulations (70/1983) … … … 279
 Note on Omissions
 The Insurance (Assignments and Mortgages of Policies) Regulations 1968 (GN 103/1968) (which was re-Gazetted as GN 162/1968) made under the Insurance Act, 1980 (Act No. 6 of 1980) (repealed by this Act) and preserved under section 215 of Act No. 6 of 1980 have been omitted.
 Note on Act No. 15 of 2004
@@ -30,7 +31,9 @@ PART I
 ADMINISTRATION
 4. Central Bank to administer Act. 5. Power and duties of Inspector.
 5A. Central Bank may appoint staff.
-6. Central Bank may delegate powers or duties. 7. Reports and other information. 8. Inspector may act as arbitrator. 9. Central Bank to maintain registers.
+6. Central Bank may delegate powers or duties.
+6A. Information sharing.
+7. Reports and other information. 8. Inspector may act as arbitrator. 9. Central Bank to maintain registers.
 PART II
 REGISTRATION
 10. Non-application of Part. 11. Restriction on carrying on insurance business. 12. Restriction on carrying on insurance business with unregistered
@@ -56,7 +59,9 @@ to fund.
 CATASTROPHE RESERVE FUND
 49A. Establishment of catastrophe reserve fund.
 ACCOUNTS, BALANCE SHEETS, RECORDS AND AUDIT
-50. Duty of company to keep books, vouchers, etc. 51. Inspector may request information in order to ascertain ability of
+50. Duty of company to keep books, vouchers, etc.
+50A. Powers of Inspector.
+51. Inspector may request information in order to ascertain ability of
 company to meet its obligations.
 52. Inspector may request appraisement of real property. 53. Apportionment of receipts and payments between insurance business
 and other business.
@@ -65,20 +70,19 @@ insurance business.
 55. Certificate as to apportionment. 56. Accounts and balance sheets. 57. Audit. 58. Appreciation and depreciation of assets. 59. Restriction on appointment of auditor.
 DOCUMENTS TO BE FURNISHED TO THE
 CENTRAL BANK
-60. Annual returns. 61. Accounts, balance sheets, etc., to be signed and submitted. 62. Offence for company not to lodge documents within the time specified. 63. Copies to be furnished. 64. Power of Inspector to request information. 65. Power of Central Bank to intervene. 66. Central Bank to serve notice on company of his intention to intervene. 67. Central Bank may impose requirements on a company.
-JUDICIAL MANAGEMENT AND WINDING UP
-68. Application for judicial management. 69. Judicial management. 70. Report by judicial manager. 71. Decision of Court on report of judicial manager.
+60. Annual returns. 61. Accounts, balance sheets, etc., to be signed and submitted.
+61A. Quarterly returns.
+62. Offence for company not to lodge documents within the time specified. 63. Copies to be furnished. 64. Power of Inspector to request information. 65. Compliance directions. 66. Injunctive relief. 67. (Deleted by Act No. 3 of 2009).
+SUSPENSION AND WINDING UP
+68. Suspension.
 ARRANGEMENT OF SECTIONS-Continued SECTION
-72. Transfer of business to another company. 73. Cancellation of contracts or agreements. 74. Indemnity. 75. Cancellation of judicial management order. 76. Court may order winding up. 77. Margin of solvency for general business. 78. Procedure on winding up. 79. Ascertainment of value of liability under policies. 80. Application of certain assets. 81. Liability of directors and officers. 82. Application of deposits. 83. Winding up of part of business of company.
+}
+69. to (Deleted by Act No. 3 of 2009). 75. 76. Court may order winding up. 77. Margin of solvency for general business. 78. Procedure on winding up. 79. Ascertainment of value of liability under policies. 80. Application of certain assets. 81. Liability of directors and officers. 82. Application of deposits. 83. Winding up of part of business of company.
 TRANSFER AND AMALGAMATION
-84. Condition precedent to transfer, or amalgamation of insurance
-business.
-85. Scheme to set out terms of agreement or Deed. 86. Submission, confirmation and effect of schemes. 87. Return to be made in case of transfer or amalgamation.
+84. Condition precedent to transfer, or amalgamation of insurance business. 85. Scheme to set out terms of agreement or Deed. 86. Submission, confirmation and effect of schemes. 87. Return to be made in case of transfer or amalgamation.
 PART III
-AGENTS, BROKERS, SALESMEN AND ADJUSTERS
-88. Registration of agents, brokers, salesmen and adjusters. 89. Application for registration. 90. Restrictions on registration. 91. Central Bank to register person as salesman, agent, broker or adjuster. 92. Certificate of Registration. 93. Certificate to be produced on request. 94. Intention to cancel registration. 95. Cancellation of registration. 96. Establishment and composition of Tribunal. 97. Appointment of temporary members to Tribunal. 98. Right of appeal to Tribunal in certain cases. SECTION
-99. Notice of termination of agency to be given.
-100. Central Bank may request information. 101. Agent or salesman deemed to be agent of insurer. 102. Liability for unlawful contracts. 103. Misleading advertisements. 104. Restriction on payment of compensation for placing or negotiating
+AGENTS, BROKERS, SALESMEN AND ADJUSTERS 88. Registration of agents, brokers, salesmen and adjusters. 89. Application for registration. 90. Restrictions on registration. 91. Central Bank to register person as salesman, agent, broker or adjuster. 92. Certificate of Registration. 93. Certificate to be produced on request. 94. Intention to cancel registration. 95. Cancellation of registration. 96. Establishment and composition of Tribunal. 97. Appointment of temporary members to Tribunal. 98. Right of appeal to Tribunal in certain cases. 99. Notice of termination of agency to be given. 100. Central Bank may request information. SECTION
+101. Agent or salesman deemed to be agent of insurer. 102. Liability for unlawful contracts. 103. Misleading advertisements. 104. Restriction on payment of compensation for placing or negotiating
 insurance.
 105. Rebating. 106. Exemption for payment of dividend to salaried employee. 107. Insurer to make return to Central Bank. 108. Authority of agents. 109. Minister to specify maximum rate of commission. 110. Offence to procure payment of premium by fraudulent
 representations, etc.
@@ -86,17 +90,17 @@ representations, etc.
 PART IV
 LONG-TERM INSURANCE BUSINESS
 ACTUARIAL INVESTIGATIONS
-112. Company to appoint actuary. 113. Actuarial reports and abstracts and statements of long-term insurance
-business.
+112. Company to appoint actuary. 113. Actuarial reports and abstracts and statements of long-term
+insurance business.
 114. Provisions relating to valuations. 115. Actuary to certify dealings with assets of statutory fund. 116. Distribution of surplus.
 ISSUE OF POLICIES
 117. Rates of premium. 118. Restriction on commission to be paid or reduction of premium to be
 allowed.
 119. Form of proposal to be approved by the Central Bank. 120. Company may give notice requiring proof of age. 121. Procedure where company declines to accept proof of age tendered. 122. Policy not to be avoided by reason only of mis-statement of age of
 the life insured or other incorrect statement.
+123. Minors may effect policies or take assignments of policies. 124. Persons who are deemed to have insurable interests.
 ARRANGEMENT OF SECTIONS-Continued
 SECTION
-123. Minors may effect policies or take assignments of policies. 124. Persons who are deemed to have insurable interests.
 ASSIGNMENTS AND MORTGAGES OF POLICIES
 125. Assignment of policies. 126. Effect of notice. 127. Assignment of policy to company not to extinguish rights and
 liabilities.
@@ -107,10 +111,10 @@ PAID-UP POLICIES, SURRENDER VALUES AND
 NON-FORFEITURE
 132. Application to class of policy. 133. Paid-up policies. 134. Surrender of policies. 135. Central Bank may suspend or vary obligation of company to pay
 surrender value.
-136. Non-forfeiture of ordinary policies in certain cases of non-payment of
-premiums.
-137. Non-forfeiture of industrial policy in certain cases of non-payment of
-premiums.
+136. Non-forfeiture of ordinary policies in certain cases of non-payment
+of premiums.
+137. Non-forfeiture of industrial policy in certain cases of non-payment
+of premiums.
 138. Treatment of debts on issue of paid-up policies.
 PAYMENT OF POLICY MONEYS
 139. Money payable to beneficiary. 140. Payment of policy moneys without production of grant of probate or
