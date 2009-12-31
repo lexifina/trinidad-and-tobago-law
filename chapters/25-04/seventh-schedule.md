@@ -12,4 +12,4 @@ TAKE NOTICE that the said sum of $ ... is due and payable by you to the ... Coun
 AND FURTHER TAKE NOTICE that, until payment of the said sum of $... and interest thereon as aforesaid, the said premises shall stand and remain charged with the said sum of $ ... or so much thereof as shall from time to time remain unpaid, with interest thereon at the rate above-mentioned.
 N.B.-You may pay the whole of the said sum of $... (the
 apportioned share) within one month from the date of the service of this notice, and if so paid, the same will be received without interest in full satisfaction of the above claim.
-- Margin: [Section 147(7)].
+- Margin: Section 147(7).

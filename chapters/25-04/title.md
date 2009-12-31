@@ -1,10 +1,11 @@
 MUNICIPAL CORPORATIONS ACT
 CHAPTER 25:04
 Act
-21 of 1990 Amended by 28 of 1991 7 of 1992* 8 of 1992 36 of 1995* 18 of 1998 13 of 2003 14 of 2006 18 of 2007
+21 of 1990 Amended by 28 of 1991 7 of 1992* 8 of 1992 36 of 1995* 18 of 1998 13 of 2003 14 of 2006 18 of 2007 11 of 2008 5 of 2009 6 of 2009
 *See Note on page 3
+1-2 .. 3-14 .. 1/2009 15-16 .. 17-20 .. 1/2009 21-22 .. 23-68 .. 1/2009 69-70 .. 71-124 .. 1/2009 125-126 .. 127-134 .. 1/2009 135-168 ..
 Index of Subsidiary Legislation
-Page Municipal Corporations Order (LN 133/1993) ... 166 Municipal Corporations Order (LN 194/1996) ... 167
+Page Municipal Corporations Order (LN 133/1993) ... 167 Municipal Corporations Order (LN 194/1996) ... 168
 Note on Omissions
 The following Subsidiary Legislation have been omitted:
 A. Vesting Orders made under section 7A of the Act. B. Standing Orders made under section 66 of the Act with respect to-
@@ -50,9 +51,10 @@ Corporations.
 PART II
 CONSTITUTION AND GOVERNMENT OF
 MUNICIPAL CORPORATIONS
-8. Constitution of Municipal Corporations. 9. Extent of Municipalities.
-10. Constitution of Council. 11. Councillors representation, term of office and qualification. 12. Number, qualification and term of office of Aldermen. 13. Election of Aldermen. Method of election.
-14. Election of Mayor and Deputy Mayor. 15. Term of office and honorarium of Mayor. 16. Removal of Mayor as Chairman. 17. Honoraria and allowances. Convenor.
+8. Constitution of Municipal Corporations. 9. Extent of Municipalities. 10. Constitution of Council. 11. Councillors representation, term of office and qualification. 12. Number, qualification and term of office of Aldermen. 13. Election of Aldermen.
+Method of election.
+14. Election of Mayor and Deputy Mayor. 15. Term of office and honorarium of Mayor. 16. Removal of Mayor as Chairman. 17. Honoraria and allowances.
+Convenor.
 18. Regulations prescribing allowances payable to holders of corporate
 office.
 19. Transitional holders of corporate office to continue to hold office
@@ -81,16 +83,17 @@ liability to be rated.
 completion of House Rate Book.
 89. Rate payable where house is erected on premises which are already
 assessed.
-90. Valuation of premises in Municipality after alteration of boundary. Enactments and Bye-laws applicable to Municipality to extend to
+90. Valuation of premises in Municipality after alteration of boundary.
+Enactments and Bye-laws applicable to Municipality to extend to
 added area.
 91. Assessor to notify owner of annual rateable value of rateable
 hereditament.
 92. Owner to notify Chief Executive Officer of objection to valuation. 93. New assessments after completion of House Rate Book. 94. Decision of Commissioner of Valuations final unless appeal is filed. 95. Appeal from decision of Appeal Board. 96. Appellant to enter into recognisance. 97. Certified copy of notice of appeal to be sent to respondent. 98. Valuations which have been varied or altered to be entered in House
 Rate Book.
-99. Owner to pay annual rate.
-100. Rate to be a charge on premises and may be recovered by distress. 101. Date when rate payable. 102. Treasurer to apply moneys to arrears. 103. Return of warrant by bailiff. 104. Payment by Government of annual sum in lieu of rates. 105. House Rate Book to be evidence of valuations and rates.
+99. Owner to pay annual rate. 100. Rate to be a charge on premises and may be recovered by distress. 101. Date when rate payable. 102. Treasurer to apply moneys to arrears. 103. Return of warrant by bailiff. 104. Payment by Government of annual sum in lieu of rates. 105. House Rate Book to be evidence of valuations and rates.
 ARRANGEMENT OF SECTIONS-Continued SECTION
-106. Errors, etc., not to affect liability to rate. Council may correct errors in notice or House Rate Book.
+106. Errors, etc., not to affect liability to rate.
+Council may correct errors in notice or House Rate Book.
 107. Change of ownership to be noted in House Rate Book.
 PART VI
 FINANCIAL PROVISIONS
@@ -120,10 +123,12 @@ of Engineer.
 PART VIII
 MARKETS AND SLAUGHTERHOUSES
 187. Interpretation. 188. Existing markets. 189. Appointing places as markets. SECTION
-190. Notice of opening of new market. Fixing market hours and goods to be sold.
+190. Notice of opening of new market.
+Fixing market hours and goods to be sold.
 191. Power to close markets. 192. Appointment of Market Administrator and other servants. 193. Inspection for detecting unsound marketable commodities. 194. Market dues. 195. Existing tolls, etc., to continue to be payable. 196. Bye-laws.
 Bye-laws to be exhibited in market and published.
-197. Markets only in specified areas. 198. Licence to salesman of meat or fish. 199. Meat and fish to be sold only in public market or licensed shop, etc. Prohibition of sale of marketable commodities not being fish or meat. Penalty for breach of subsection (1). Penalty for breach of subsection (2).
+197. Markets only in specified areas. 198. Licence to salesman of meat or fish. 199. Meat and fish to be sold only in public market or licensed shop, etc.
+Prohibition of sale of marketable commodities not being fish or meat. Penalty for breach of subsection (1). Penalty for breach of subsection (2).
 200. In Regional Municipalities commodities to be sold in public markets
 or licensed shops, etc.
 201. Licences generally. 202. Cold stores to be licensed. 203. Selling meat or fish. 204. Dues payable on meat or fish sold from licensed cold stores. 205. Bye-laws. 206. Landing of fish for sale. 207. Provision of public slaughterhouses.
@@ -136,18 +141,23 @@ ARRANGEMENT OF SECTIONS-Continued SECTION
 215. Evidence. 216. Form of licence. 217. Change of abode of licensee. 218. Forging or counterfeiting licence. 219. Huckster's name to be on box, etc. 220. Who may lay information.
 PART X
 BYE-LAWS, RULES AND REGULATIONS
-221. Bye-laws for good government of a Corporation. 222. Penalty for breach of Bye-laws. 223. Bye-laws to be confirmed by the President. Publication of Bye-laws in Gazette.
+221. Bye-laws for good government of a Corporation. 222. Penalty for breach of Bye-laws. 223. Bye-laws to be confirmed by the President.
+Publication of Bye-laws in Gazette.
 224. Bye-laws may apply to whole or part of Municipality.
 PART XI
 LEGAL PROCEEDINGS
-225. Recovery of penalties. Complaints or information may be made or laid by officers of the
+225. Recovery of penalties.
+Complaints or information may be made or laid by officers of the
 Council duly authorised.
-226. Penalties for offences not otherwise provided for. Continuing offence.
-227. Procedure in penal actions against corporate officers. 228. Quo warranto and mandamus. 229. Recovery of expenses from owners. Payments by instalments.
+226. Penalties for offences not otherwise provided for.
+Continuing offence.
+227. Procedure in penal actions against corporate officers. 228. Quo warranto and mandamus. 229. Recovery of expenses from owners.
+Payments by instalments.
 Procedure in case of non-payment of instalment.
 Expense caused to Corporation by contravention of Part VII or
 Bye-laws.
-230. Certified copies of documents to be prima facie evidence thereof. Proof of handwriting not required. Fee for copy or extract. Production of original. Fee for production of original.
+230. Certified copies of documents to be prima facie evidence thereof.
+Proof of handwriting not required. Fee for copy or extract. Production of original. Fee for production of original.
 Definition of "document" of a Corporation.
 SECTION
 Certified copy or extract may be granted by Corporation Secretary.
@@ -161,14 +171,14 @@ GOVERNMENT CORPORATIONS
 233. Association of Local Government Corporations. 234. Chairman and Executive Committee of Association. 235. Code of ethics.
 PART XIV
 DISCIPLINARY PROCEEDINGS
-} 236.
-(Repealed by Act No. 8 of 1992). to 252.
+} 236. to (Repealed by Act No. 8 of 1992). 252.
 PART XV
 REGIONAL CO-ORDINATING COMMITTEES
 253. Co-ordinating Committee. 254. Power to establish own procedure.
 PART XVI
 GENERAL PROVISIONS
-255. Form, authentication, and service of notices, etc. 256. Power to attach conditions to consent. 257. Misnomer or misdescription. 258. Statutory increase. 259. Remission of statutory increase. 260. Computation of time. 261. Authentication of licence. Duplicate licence.
+255. Form, authentication, and service of notices, etc. 256. Power to attach conditions to consent. 257. Misnomer or misdescription. 258. Statutory increase. 259. Remission of statutory increase. 260. Computation of time. 261. Authentication of licence.
+Duplicate licence.
 ARRANGEMENT OF SECTIONS-Continued
 SECTION
 262. Power to withhold, suspend, or revoke licence. 263. Execution of works on default of owner. 264. Charges on premises to be preferential to other encumbrances. 265. Apportionment of expenses of works between different owners. 266. Plans, etc., deposited to become property of Corporation. 267. Powers conferred by written law to be cumulative. 268. Schedules-power to alter or amend. 269. Government policy directions. 270. Power to investigate. 271. Power of President to dissolve a Council and appoint a
@@ -177,8 +187,7 @@ Commissioner.
 FIRST SCHEDULE-LIST OF CORPORATIONS CONTINUED UNDER THISACT. SECOND SCHEDULE-LIST OF MUNICIPALCORPORATIONS ESTABLISHED
 UNDER THIS ACT.
 THIRD SCHEDULE-NUMBER OF COUNCILLORS AND ALDERMEN TO BE
-ELECTED TO THE COUNCIL OF EACH CORPORATION. FOURTH SCHEDULE-DECLARATION TO BE BY PERSON
-MADE
+ELECTED TO THE COUNCIL OF EACH CORPORATION. FOURTH SCHEDULE-DECLARATION TO BY PERSON BE MADE
 ELECTED TO A CORPORATE OFFICE. FIFTH SCHEDULE-WARRANT. SIXTH SCHEDULE-FORM A (ASSESSMENT RETURN)
 FORM B (COMPLETION OF HOUSE RATE BOOK). SEVENTH SCHEDULE-PAVING OF FOOTWAYS. EIGHTH SCHEDULE-CONTINUATION OF EXISTING LAWS. NINTH SCHEDULE-FORM A (REMOVAL OF HOUSE-NOTICE BY
 OWNER OF HOUSE).

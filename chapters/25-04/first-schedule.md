@@ -56,4 +56,4 @@ SOUTH -From the last mentioned point proceeding in a generally
 south-westerly direction along the Southern Main Road to the point where it crosses the eastern boundary of Cedros Ward at Erin Road.
 WEST -From the last mentioned point proceeding in a generally
 northerly direction along Erin Road (the eastern boundary of Cedros Ward) to the sea coast at the point of commencement.
-- Margin: (Section 3).
+- Margin: Section 3.

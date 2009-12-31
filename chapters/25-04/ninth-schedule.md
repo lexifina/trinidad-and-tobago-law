@@ -1,2 +1,2 @@
 # NINTH SCHEDULE
-- Margin: [Section 164(2)].
+- Margin: Section 164(2).
