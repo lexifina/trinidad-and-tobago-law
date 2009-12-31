@@ -38,7 +38,7 @@ other sweetening matter;
 (ag) chicken sausage, canned;
 (ah) salami sausages;
 (ai) icing sugar;
-*Schedule 2 has been amended by the following: [215/1989; 63/1990; 6 of 1991; 31/1991; 4 of 1992; 10/1992; 37/1993; 12 of 1994; 5 of 1995; 57/1995; 8 of 1996; 35 of 1998; 241/1998; 263/1998; 278/1998; 91/2000; 196/2000; 42/2001; 202/2001; 135/2002; 76/2003; 197/2003; 298/2004; 89/2005; 260/2005; 20/2006; 126/2006; 17 of 2007; 26/2007; 30 of 2007; and 108/2007].
+*Schedule 2 has been amended by the following: [215/1989; 63/1990; 6 of 1991; 31/1991; 4 of 1992; 10/1992; 37/1993; 12 of 1994; 5 of 1995; 57/1995; 8 of 1996; 35 of 1998; 241/1998; 263/1998; 278/1998; 91/2000; 196/2000; 42/2001; 202/2001; 135/2002; 76/2003; 197/2003; 298/2004; 89/2005; 260/2005; 20/2006; 126/2006; 17 of 2007; 26/2007; 30 of 2007; 108/2007;166/2008 and 192/2009].
 (aj) preparations of malt extract;
 (ak) corn flakes;
 (al) biscuits, unsweetened;
@@ -53,10 +53,90 @@ other sweetening matter;
 (au) orange drink;
 (av) grapefruit drink; and
 (aw) vinegar.
+(ax) Ground-nut oil and its fractions, whether or not refined, but
+not chemically modified.
+Crude oil having tariff heading number 1508.10.00;
+(ay) Ground-nut oil and its fractions, whether or not refined, but
+not chemically modified.
+Other having tariff heading number 1508.90.00;
+(az) Olive oil and its fractions, whether or not refined, but not
+chemically modified.
+Virgin having tariff heading number 1509.10.00;
+(ba) Olive oil and its fractions, whether or not refined, but not
+chemically modified.
+Other having tariff heading number 1509.90.00;
+(bb) Other oils and their fractions, obtained solely from olives,
+whether or not refined, but not chemically modified, including blends of these oils or fractions with oils or fractions of heading 15.09.
+Crude oil having tariff heading number 1510.00.10;
+(bc) Other oils and their fractions, obtained solely from olives,
+whether or not refined, but not chemically modified, including blends of these oils or fractions with oils or fractions of heading 15.09.
+Other having tariff heading number 1510.00.90;
+(bd) Palm oil and its fractions, whether or not refined, but not
+chemically modified.
+Crude oil having tariff heading number 1511.10.00;
+(be) Palm oil and its fractions, whether or not refined, but not
+chemically modified.
+Other: palm stearin having tariff heading number
+1511.90.10;
+(bf) Palm oil and its fractions, whether or not refined, but not
+chemically modified.
+Other: Other having tariff heading number 1511.90.90;
+(bg) Sunflower-seed, safflower or cotton-seed oil and fractions
+thereof, whether or not refined, but not chemically modified.
+Sunflower-seed or safflower oil and fractions thereof: Crude oil having tariff heading number 1512.11.00;
+(bh) Sunflower-seed, safflower or cotton-seed oil and fractions
+thereof, whether or not refined, but not chemically modified.
+Sunflower-seed or safflower oil and fractions thereof:
+Other having tariff heading number 1512.19.00;
+(bi) Sunflower-seed, safflower or cotton-seed oil and fractions
+thereof, whether or not refined, but not chemically modified.
+Cotton-seed oil and its fractions: Crude oil, whether or
+not gossypol has been removed having tariff heading number 1512.21.00;
+(bj) Sunflower-seed, safflower or cotton-seed oil and fractions
+thereof, whether or not refined, but not chemically modified.
+Cotton-seed oil and its fractions: Other having tariff
+heading number 1512.29.00;
+(bk) Coconut (copra), palm kernel or babassu oil and fractions
+thereof, whether or not refined, but not chemically modified.
+Coconut (copra) oil and its fractions: Crude oil having
+tariff heading number 1513.11.00;
+(bl) Coconut (copra), palm kernel or babassu oil and fractions
+thereof, whether or not refined, but not chemically modified.
+Coconut (copra) oil and its fractions: Other having tariff
+heading number 1513.19.00;
+(bm) Coconut (copra), palm kernel or babassu oil and fractions
+thereof, whether or not refined, but not chemically modified.
+Palm kernel or babassu oil and fractions thereof: Crude
+oil having tariff heading number 1513.21.00;
+(bn) Coconut (copra), palm kernel or babassu oil and fractions
+thereof, whether or not refined, but not chemically modified.
+Palm kernel or babassu oil and fractions thereof: Other
+having tariff heading number 1513.29.00;
+(bo) Rape, colza or mustard oil and fractions thereof, whether or
+not refined, but not chemically modified.
+Low erucic acid rape or colza oil and its fractions: Crude
+oil having tariff heading number 1514.11.00;
+(bp) Rape, colza or mustard oil and fractions thereof, whether or
+not refined, but not chemically modified.
+Low erucic acid rape or colza oil and its fractions: Other
+having tariff heading number 1514.19.00;
+(bq) Rape, colza or mustard oil and fractions thereof, whether or
+not refined, but not chemically modified.
+Low erucic acid rape or colza oil and its fractions: Other:
+Crude oil having tariff heading number 1514.91.00;
+(br) Rape, colza or mustard oil and fractions thereof, whether or
+not refined, but not chemically modified.
+Low erucic acid rape or colza oil and its fractions: Other
+having tariff heading number 1514.99.00; and
+(bs) Animal or vegetable fats and oils and their fractions, partly
+or wholly hydrogenated, interesterified, re-esterified or elaidinised, whether or not refined, but not further prepared.
+Animal fats and oils and their fractions: Vegetable fats
+and oils and their fractions having tariff heading number 1516.20.00.
 (2) In this item "unprocessed" in relation to a food means that the food contains no additives and that it is not the result of the application of a process other than freezing, chilling or packaging, a mechanical process, or a process that solely employs the elements of the weather.
 2. (1) Any live bird, fish, crustacean, mollusc or other animal of a kind generally used as, or yielding or producing, food for human consumption.
 (2) Any draught animal.
-3. Animal feeding stuffs suitable for any animal referred to in item 2. 4. Seeds and other means of propagation of plants and plants that are used for providing-
+3. Animal feeding stuffs suitable for any animal referred to in item 2.
+4. Seeds and other means of propagation of plants and plants that are used for providing-
 (a) a food referred to in item 1(1)(a), (b) or (c); or
 (b) a feeding stuff referred to in item 3.
 5. Preparations for agricultural use including peat moss, fertilizers, insecticides, herbicides and fungicides.
@@ -130,19 +210,29 @@ of W.H.O./Pharmacopoeia standards.
 (xx) Polyethylene Glycol having tariff number 2909.49.00;
 (yy) Polysorbate 60 NF having tariff number 2915.90.00;
 (zz) Potassium Chloride Powder having tariff number 3104.20.00;
-(aaa) Potassium Stearate having tariff number 2915.70.00; (bbb) Propyl Parabens having tariff number 2916.31.00; (ccc) Propylene Glycol having tariff number 2905.32.00 (ddd) Pine Oil Alpid having tariff number 3301.29.00; (eee) Quinoline Yellow Dye having tariff number 3204.90.00; (fff) Salicylic Acid having tariff number 2918.21.00;
-(ggg) Sodium Benzoate having tariff number 2916.31.00; (hhh) Sodium Chloride Powder USP having tariff number 2501.00.40;
+(aaa) Potassium Stearate having tariff number 2915.70.00;
+(bbb) Propyl Parabens having tariff number 2916.31.00;
+(ccc) Propylene Glycol having tariff number 2905.32.00
+(ddd) Pine Oil Alpid having tariff number 3301.29.00;
+(eee) Quinoline Yellow Dye having tariff number 3204.90.00;
+(fff) Salicylic Acid having tariff number 2918.21.00;
+(ggg) Sodium Benzoate having tariff number 2916.31.00;
+(hhh) Sodium Chloride Powder USP having tariff number 2501.00.40;
 (iii) Sodium Dioctyl Sulfosuccinate having tariff number 2904.10.90; (jjj) Sodium Hydroxide Solid having tariff number 2815.11.00;
 (kkk) Sodium Saccharin having tariff number 2925.11.00;
-(lll) Sorbitol 70% Solution having tariff number 2905.44.00; (mmm) Sorbitan Tristearate having tariff number 2915.70.00;
-(nnn) Starch 1500 having tariff number 1108.19.00; (ooo) Stearic Acid having tariff number 2915.70.00; (ppp) Sunset Yellow Dye having tariff number 3204.90.00; (qqq) Teinowax having tariff number 2712.90.00; (rrr) Terpineol having tariff number 2906.14.00; (sss) Thymol having tariff number 2907.19.00;
+(lll) Sorbitol 70% Solution having tariff number 2905.44.00;
+(mmm) Sorbitan Tristearate having tariff number 2915.70.00;
+(nnn) Starch 1500 having tariff number 1108.19.00; (ooo) Stearic Acid having tariff number 2915.70.00;
+(ppp) Sunset Yellow Dye having tariff number 3204.90.00;
+(qqq) Teinowax having tariff number 2712.90.00; (rrr) Terpineol having tariff number 2906.14.00; (sss) Thymol having tariff number 2907.19.00;
 (ttt) Triethanolamine 99% having tariff number 2922.13.00;
 (uuu) Trisodium Citrate having tariff number 2918.15.00;
-(vvv) Turpentine Oil having tariff number 3301.29.90; (www) Vitamin E Oil having tariff number 2936.28.00;
-(xxx) White Beeswax having tariff number 1521.00.00; (yyy) White Corn Starch having tariff number 1108.12.00;
+(vvv) Turpentine Oil having tariff number 3301.29.90;
+(www) Vitamin E Oil having tariff number 2936.28.00;
+(xxx) White Beeswax having tariff number 1521.00.00;
+(yyy) White Corn Starch having tariff number 1108.12.00;
 (zzz) Xanthan Gum having tariff number 1301.90.90;
-(aaaa) Zinc Oxide having tariff number 2817.00.00.
-8B. Diabetic-
+(aaaa) Zinc Oxide having tariff number 2817.00.00. 8B. Diabetic-
 (a) diagnostic testing kits and devices for testing glucose in
 blood and urine;
 (b) insulin syringes with needles and devices of a type not
@@ -162,8 +252,7 @@ exceeding 100 units (1.0 mL) capacity, for the administration of U-100 insulin.
 18. Unconditional gifts of goods or services to an organisation approved by the President under section 6(1)(e) and (g) of the Corporation Tax Act.
 19. Domestic travel between Trinidad and Tobago.
 20. Goods and water for consumption or sale on board an aeroplane or ship in the course of providing international commercial services.
-21. Charter of ships or aircraft for use in international commercial services.
-22. Books: namely literary works, reference books, directories, collections of letters or documents permanently bound in covers, loose-leaf books, manuals or instructions whether complete with their binder or not, amendments to loose-leaf books even if issued separately, school work books and other educational texts in question-and-answer format with spaces for insertion of answers, children's picture and painting books, exercise books, other paper and paperboard of a kind used for writing, printing or other graphic purposes (Heading No. 4823.90.30), puzzles (Heading No. 9503.60.00), magazines not otherwise prohibited to be imported, exported or carried coastwise (Heading No. 4902.90.00) but excluding brochures, pamphlets and leaflets, newspapers, journals and periodicals, photograph and stamp albums.
+21. Charter of ships or aircraft for use in international commercial services. 22. Books: namely literary works, reference books, directories, collections of letters or documents permanently bound in covers, loose-leaf books, manuals or instructions whether complete with their binder or not, amendments to loose-leaf books even if issued separately, school work books and other educational texts in question-and-answer format with spaces for insertion of answers, children's picture and painting books, exercise books, other paper and paperboard of a kind used for writing, printing or other graphic purposes (heading no. 4823.90.30), puzzles (heading no. 9503.60.00), magazines not otherwise prohibited to be imported, exported or carried coastwise (heading no. 4902.90.00) but excluding brochures, pamphlets and leaflets, newspapers, journals and periodicals, photograph and stamp albums.
 23. Steelband instruments.
 24. Accommodation at a building or group of buildings occupied together for the purpose of primarily providing sleeping accommodation for reward for its guests, not being persons resident therein under a contract of service.
 25. Repair of yachts and pleasure craft owned by persons who are neither citizens nor residents of Trinidad and Tobago at the time when the repairs are performed.
@@ -174,16 +263,16 @@ exceeding 100 units (1.0 mL) capacity, for the administration of U-100 insulin.
 enterprise classified as a highly capital intensive enterprise under section 9 of the Fiscal Incentives Act (hereinafter referred to as "the Act") and declared, by Order, to be an approved enterprise under section 10 of the Act;
 (b) equipping an enterprise referred to in paragraph (a) for the
 purpose of manufacturing its approved product as defined by the Act, during the period commencing with the date of publication of the Order referred to in paragraph (a) and terminating on the date on which the benefits granted by that Order cease.
-28. The items contained in the First Schedule to the Customs Act under Tarriff Heading No. 90.21, being orthopaedic appliances, including crutches, surgical belts and trusses; splints and other fracture appliances; artificial parts of the body; hearing aids and other appliances which are worn or carried or implanted in the body, to compensate for a defect or disability, other than items in Tariff Subheading Nos. 9021.21 and 9021.29, being artificial teeth and dental fittings.
-29. The items contained in the First Schedule to the Customs Act under Tariff Heading No. 84.71, being automatic data processing machines and units thereof, magnetic or optical readers, machines for transcribing data onto data media in coded form and machines for processing such data, not elsewhere specified or included.
-30. Computer peripherals and mouse pads, not including audio compact discs of Tariff Subheading 8523.40.40 and digital versatile discs (DVDs) of Subheadings 8523.40.60 and 8523.40.70.
+28. The items contained in the First Schedule to the Customs Act under tariff heading no. 90.21, being orthopaedic appliances, including crutches, surgical belts and trusses; splints and other fracture appliances; artificial parts of the body; hearing aids and other appliances which are worn or carried or implanted in the body, to compensate for a defect or disability, other than items in tariff subheading nos. 9021.21 and 9021.29, being artificial teeth and dental fittings.
+29. The items contained in the First Schedule to the Customs Act under tariff heading no. 84.71, being automatic data processing machines and units thereof, magnetic or optical readers, machines for transcribing data onto data media in coded form and machines for processing such data, not elsewhere specified or included.
+30. Computer peripherals and mouse pads, not including audio compact discs of tariff subheading 8523.40.40 and digital versatile discs (DVDs) of subheadings 8523.40.60 and 8523.40.70.
 30A. Terminal equipment or other equipment to be installed or used for a public telecommunications network or telecommunications sevice or radiocommunications service and certified as such by the Telecommunications Authority of Trinidad and Tobago.
 31. The items contained in the First Schedule to the Customs Act-
 (a) glasses for corrective spectacles having tariff subheading
 number 7015.10;
 (b) contact lenses having tariff subheading number 9001.30;
-(c) spectacle lenses of glass having tariff subheading number
-9001.40;
+(c) spectacle lenses of glass having tariff subheading
+number 9001.40;
 (d) spectacle lenses of other materials having tariff subheading
 number 9001.50;
 (e) frames and mountings of plastic having tariff subheading
@@ -212,8 +301,8 @@ heading number 8714.20.
 (k) other outdoor games having tariff heading number 9506.999;
 (l) golf balls having tariff heading number 9506.32.00;
 (m) lawn-tennis balls having tariff heading number 9506.61.00;
-(n) inflatable balls for soccer having tariff heading number
-9506.62.10;
+(n) inflatable balls for soccer having tariff heading
+number 9506.62.10;
 (o) other inflatable balls having tariff heading number 9506.62.90;
 (p) other balls having tariff number 9506.69.00.
 34. The item contained in the First Schedule to the Customs Act being salted fish under tariff heading number Ex. 03.05.
@@ -225,29 +314,31 @@ heading number 3307.20;
 having tariff heading number Ex. 3401.112;
 (d) soap in the form of bars, cakes, moulded pieces or shapes for
 laundry and other household uses having tariff heading number Ex. 3401.191;
-(e) sanitary towels and tampons having tariff heading number
-4818.401;
+(e) sanitary towels and tampons having tariff heading
+number 4818.401;
 (f) napkins and napkin liners for babies having tariff heading
 number 4818.402;
 (g) diapers for adults having tariff heading number Ex. 4818.409;
-(h) sanitary towels and tampons having tariff heading number
-5601.101;
+(h) sanitary towels and tampons having tariff heading
+number 5601.101;
 (i) napkins and napkin liners for babies having tariff heading
 number 5601.102; and
 (j) diapers for adults having tariff heading number Ex. 5601.109.
-36. The items contained in the First Schedule to the Customs Act, Tariff Heading number 34.02 being-
+36. The items contained in the First Schedule to the Customs Act, tariff heading number 34.02 being-
 (a) dishwashing liquids having tariff subheading number 3402.20.10;
-(b) other liquid detergents having tariff subheading number
-3402.20.20; and
+(b) other liquid detergents having tariff subheading
+number 3402.20.20; and
 (c) other detergents having tariff subheading number 3402.20.30.
-37. The item contained in the First Schedule to the Customs Act, being tallow under Tariff Heading Number 1502.00.10.
-- Margin: *(Sections 3 and 8).
+37. The item contained in the First Schedule to the Customs Act, being tallow under tariff heading number 1502.00.10.
+38. The item contained in the First Schedule to the Customs Act, being Compressed Natural Gas (CNG) systems under tariff heading number 8708.99.20.
+- Margin: *Sections 3 and 8.
 - Margin: Ch. 48:02.
 - Margin: Ch. 78:01.
 - Margin: Ch. 81:07.
 - Margin: Ch. 75:04.
 - Margin: Ch. 75:02.
 - Margin: Ch. 85:01.
+- Margin: Ch. 78:01.
 - Margin: Ch. 78:01.
 - Margin: Ch. 78:01.
 - Margin: Ch. 78:01.

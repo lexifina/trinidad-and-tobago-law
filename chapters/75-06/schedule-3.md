@@ -8,8 +8,7 @@ OF GOODS OR SERVICES
 5. Subject to items 7 and 8, where the supply of anything for consideration is not a supply of goods, it shall be regarded as a supply of services.
 6. The lease or rental of-
 (a) an interest in land; or
-(b) a building or other structure attached to land,
-shall be regarded as a supply of services and, for the purposes of this item, payments made under a lease with an option to purchase are deemed to be payments in respect of the lease of the property.
+(b) a building or other structure attached to land, shall be regarded as a supply of services and, for the purposes of this item, payments made under a lease with an option to purchase are deemed to be payments in respect of the lease of the property.
 7. The sale of-
 (a) an interest in land; or
 (b) a building or other structure attached to land, shall be regarded as neither a supply of goods nor a supply of services.
@@ -17,6 +16,6 @@ shall be regarded as a supply of services and, for the purposes of this item, pa
 (a) any gift, the value of which does not exceed twenty dollars,
 generally available to customers of the business;
 (b) a trade sample; or
-(c) any securities, any patent or other right to intellectual property,
-or any other chose-in-action, shall be regarded as neither a supply of goods nor a supply of services.
-- Margin: (Section 15). [63/1990].
+(c) any securities, any patent or other right to intellectual
+property, or any other chose-in-action, shall be regarded as neither a supply of goods nor a supply of services.
+- Margin: Section 15. [63/1990].
