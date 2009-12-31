@@ -1,3 +1,3 @@
 SUMMARY COURTS (COSTS ON APPEAL) RULES
 made under section 157
-- Margin: 175/1958 [51/1980 200/1980 3 of 1994].
+- Margin: 175/1958. [51/1980 200/1980 3 of 1994].

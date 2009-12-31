@@ -14,8 +14,8 @@ document filed in the proceedings-per folio of seventy-two words … … $1.00
 (a) Instructions to support, vary or rescind a
 Magistrate's order … … $15.00
 (b) Attendances from … … … $8.00 to $50.00
-(c) Perusing any document per folio of seventy-
-two words … … … $0.50
+(c) Perusing any document-per folio of
+seventy-two words … … … $0.50
 (d) Copy of notes of evidence for Attorney-at-
 law-per folio of seventy-two words … $1.00
 (e) Conferences from … … … $25.00 to $75.00

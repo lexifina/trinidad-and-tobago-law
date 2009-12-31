@@ -2,7 +2,7 @@
 MAGISTERIAL DISTRICTS
 The magisterial districts into which Trinidad and Tobago is divided are as follows:
 St. George West-consisting of the Wards of St. Ann's and Diego
-Martin, and the City of Port-of-Spain;
+Martin, and the City of Port-of-Spain.
 Arima-consisting of the Wards of Arima, San Rafael,
 Blanchisseuse and the Borough of Arima excluding-
 (i) that portion of the Cumuto Police District as defined on
@@ -13,9 +13,9 @@ St. George East-consisting of the Ward of Tacarigua excluding-
 that portion of the Ward South of the Caroni River between St. Helena Bridge and the Golden Grove Road and the Southern Main Road where it crosses the Caroni River-
 and including-
 that portion of the Blanchisseuse Ward from its western boundary to the Yarra River from the sea to its intersection with the Paria Main Road and a line running South from this intersection to the main ridge of the Northern Range.
-Magisterial Districts Order
+Magisterial Districts Order [Subsidiary]
 North-Eastern-consisting of the Counties of St. David and
-St. Andrew and including that portion of the Police District of Cumuto as defined at page 201 of the Gazette of 23rd March 1950 and lying within the County of St. George East; South-Eastern-consisting of the Counties of Nariva and Mayaro; Couva-consisting of the Wards of Couva and Montserrat. Caroni-consisting of the Wards of Cunupia and Chaguanas and
+St. Andrew and including that portion of the Police District of Cumuto as defined at page 201 of the Gazette of 23rd March 1950 and lying within the County of St. George East. South-Eastern-consisting of the Counties of Nariva and Mayaro. Couva-consisting of the Wards of Couva and Montserrat. Caroni-consisting of the Wards of Cunupia and Chaguanas and
 that portion of the Ward of Tacarigua in the County of St. George East, South of the Caroni River between the St. Helena Bridge and the Golden Grove Road and the
 Southern Main Road where it crosses the Caroni River.
 Victoria East-consisting of the Wards of Savana Grande, Ortoire
@@ -34,9 +34,9 @@ the Schedule, there shall be sittings of the Juvenile Court at the places and ti
 the days appointed if it is a public holiday or a public festival day known as Carnival Monday or Carnival Tuesday.
 5. The term "public festival" has the meaning assigned to it
 by the Public Holidays and Festivals Act.
-*Amended by LN's 8/1996; 84/1997; 129/1997; 503/1997; 243/1998, 29 of 1999; 227/1999; 89/2004; 90/2004; and 236/2004.
-[Subsidiary] Summary Courts (Sittings) Order
-MONDAY TO FRIDAY AT 9:00 A.M TO MONDAY TO FRIDAY AT 9:00 A.M. TO 12:00 NOON AND 1:00 P.M. TO MONDAY TO FRIDAY AT 9:00 A.M. TO 12:00 NOON, 1:00 P.M. TO 3:00 P.M. 4TH MONDAY IN EACH MONTH AT 2ND FRIDAY IN THE MONTHS OF MARCH, JUNE, SEPTEMBER AND
+*Amended by LNs 8/1996; 84/1997; 129/1997; 503/1997; 243/1998; 29 of 1999; 227/1999; 89/2004; 90/2004; 236/2004; 97/2008 and 105/2009.
+Summary Courts (Sittings) Order [Subsidiary]
+MONDAY TO FRIDAY AT 9:00 A.M TO MONDAY TO FRIDAY AT 9:00 A.M. TO MARCH, JUNE, SEPTEMBER AND MONDAY TO FRIDAY AT 9:00 A.M. TO 12:00 NOON AND 1:00 P.M. TO 12:00 NOON, 1:00 P.M. TO 3:00 P.M. 4TH MONDAY IN EACH MONTH AT 2ND FRIDAY IN THE MONTHS OF
 AND 5:00 P.M. TO 9:00 P.M.
 DECEMBER AT 9:30 A.M.
 TIME
@@ -44,7 +44,7 @@ DO.
 9:30 A.M. 3:00 P.M. 4:00 P.M.
 ADMINISTRATIVE CORNER OF EASTERN MAIN BLANCHISSEUSE POLICE STATION, ROAD AND CENTENARY STREET,
 SAN RAFAEL POLICE STATION,
-NO. 2A, CIPRIANI PLACE,
+NO. 2A CIPRIANI PLACE,
 42, ST. VINCENT STREET,
 CIPRIANI BOULEVARD,
 NO. 8 PRINCE STREET, PARIA MAIN ROAD,
@@ -61,13 +61,9 @@ PORT -OF-SPAIN
 SAN RAFAEL
 TUNAPUNA DO.
 ARIMA
-… … …
-… … …
+ST. GEORGE WEST … … ST. GEORGE EAST … … ARIMA ...
 DISTRICT
-ST. GEORGE WEST ST. GEORGE EAST
-…
-…
-ARIMA DO. [Subsidiary] Summary Courts (Sittings) Order
+DO. [Subsidiary] Summary Courts (Sittings) Order
 MONDAY TO FRIDAY AT 9:00 A.M. TO 12:00 NOON, 1:00 P.M. TO 3:00 P.M. 2ND AND 4TH THURSDAYS IN EACH MONDAY TO FRIDAY AT 9:00 A.M. TO 12:00 NOON AND 1:00 P.M. TO MONDAY TO FRIDAY AT 9:00 A.M. TO 12:00 NOON AND 1:00 P.M. TO MONDAY TO FRIDAY AT 9:00 A.M. TO 12:00 NOON AND 1:00 P.M. TO MONDAY TO FRIDAY AT 9:00 A.M. TO 12:00 NOON AND 1:00 P.M. TO
 AND 5:00 P.M. TO 9:00 P.M.
 MONTH AT 9:30 A.M.
@@ -91,37 +87,32 @@ RIO CLARO
 MAYARO
 COUVA
 TOCO
-NORTH-EASTERN DISTRICT… SOUTH-EASTERN DISTRICT… … …
-… …
+NORTH-EASTERN DISTRICT… SOUTH-EASTERN DISTRICT… CARONI ... COUVA ...
 DISTRICT
-… …
-… … CARONI
-COUVA
 Summary Courts (Sittings) Order [Subsidiary]
-MONDAY TO FRIDAY AT 9.00 A.M. TO THURSDAYS AT 9:00 A.M. TO 12:00 12:00 NOON, 1:00 P.M. TO 3:00 P.M. MONDAY TO FRIDAY AT 9:00 A.M. TO 12:00 NOON AND 1:00 P.M. TO 1ST AND 3RD WEDNESDAYS IN EACH MONDAY TO FRIDAY AT 9:00 A.M. TO 12:00 NOON AND 1:00 P.M. TO 2ND AND 4TH TUESDAYS IN EACH MONDAY TO FRIDAY AT 9:00 A.M. TO 12:00 NOON AND 1:00 P.M. TO
-NOON AND 1:00 P.M. TO 3:00 P.M.
+MONDAY TO FRIDAY AT 9.00 A.M. TO 12:00 NOON, 1:00 P.M. TO 3:00 P.M. MONDAY TO FRIDAY AT 9:00 A.M. TO 12:00 NOON AND 1:00 P.M. TO 1ST AND 3RD WEDNESDAYS IN EACH MONDAY TO FRIDAY AT 9:00 A.M. TO 12:00 NOON AND 1:00 P.M. TO MONDAY TO FRIDAY AT 9:00 A.M. TO 12:00 NOON AND 1:00 P.M. TO
 AND 5.00 P.M. TO 9.00 P.M.
-MONTH AT 9:30 A.M. MONTH AT 9:30 A.M. TIME
+MONTH AT 9:30 A.M. TIME
 3:00 P.M. 3:00 P.M. 3:00 P.M.
-CORNER, KNOX AND HARRIS CORNER OF RAILWAY ROAD
-MAGISTRATE'S COURT BUILDING, GUAPO-CAP-DE-VILLE ROAD,
+CORNER KNOX AND HARRIS CORNER OF RAILWAY ROAD
+MAGISTRATE'S COURT BUILDING, GUAPO-CAP-DE-VILLE ROAD, MAGISTRATES' COURT BUILDING
 OPPOSITE COORA ROAD,
-MORUGA MAIN ROAD, LA BREA COURT HOUSE, MORUGA COURT HOUSE,
-OPPOSITE CEDROS AND HIGH STREET, PLACE
-LA BREA ROAD, POLICE STATION,
-SAN FERNANDO PRINCES TOWN SCHEDULE-CONTINUED
-HIGH STREET, POINT FORTIN COURT HOUSE, COURT HOUSE, COURT HOUSE, COURT HOUSE,
-LA BREA MORUGA STREETS,
-SIPARIA CEDROS
+MORUGA MAIN ROAD, MORUGA COURT HOUSE,
+AND HIGH STREET, PLACE
+7, COURT STREET
+SAN FERNANDO SAN FERNANDO PRINCES TOWN
+HIGH STREET, POINT FORTIN COURT HOUSE, COURT HOUSE, COURT HOUSE,
+MORUGA STREETS,
+SIPARIA
 NAME OF COURT
-MAGISTRATE'S COURT MAGISTRATE'S COURT MAGISTRATE'S COURT MAGISTRATE'S COURT MAGISTRATE'S COURT MAGISTRATE'S COURT MAGISTRATE'S COURT SAN FERNANDO
+MAGISTRATE'S COURT MAGISTRATE'S COURT MAGISTRATE'S COURT MAGISTRATE'S COURT MAGISTRATE'S COURT SAN FERNANDO
 PRINCES TOWN
 POINT FORTIN
-LA BREA MORUGA
-CEDROS SIPARIA
+MORUGA
+SIPARIA
 VICTORIA WEST… … … VICTORIA EAST… … … ST. PATRICK EAST … … ST. PATRICK WEST … …
 DISTRICT [Subsidiary] Summary Courts (Sittings) Order
-MONDAY TO FRIDAY AT 9:00 A.M. TO 12:00 NOON AND 1:00 P.M. TO 1ST, 3RD AND 4TH FRIDAYS IN EACH MONTH AT 9:30 A.M. TO 12:00 NOON 2ND FRIDAY IN EACH MONTH AT 9:30 A.M. TO 12:00 NOON AND
+MONDAY TO FRIDAY AT 9:00 A.M. TO 12:00 NOON AND 1:00 P.M. TO 1ST, 3RD AND 4TH FRIDAYS IN EACH MONTH AT 9:30 A.M. TO 12:00 NOON 9:30 A.M. TO 12:00 NOON AND 2ND FRIDAY IN EACH MONTH AT
 AND 1:00 P.M. TO 3:00 P.M.
 1:00 P.M. TO 3:00 P.M.
 TIME
@@ -136,11 +127,8 @@ CHARLOTTEVILLE NAME OF COURT
 MAGISTRATE'S COURT MAGISTRATE'S COURT MAGISTRATE'S COURT
 SCARBOROUGH
 ROXBOROUGH
-…
-…
+TOBAGO ...
 DISTRICT
-…
-TOBAGO …
 [Subsidiary]
 - Margin: *163/1995.
 - Margin: Citation.
