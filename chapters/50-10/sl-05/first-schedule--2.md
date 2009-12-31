@@ -54,7 +54,7 @@ weeks; and
 (b) category D, his application may be reviewed after one month.
 (5) The employer of a seafarer, or the person authorised by the
 employer to act on his behalf, shall ensure that the category recommended by the approved medical practitioner is taken fully into account when the engagement or the continued employment of a seafarer is under consideration.
-[Subsidiary] Shipping (Medical Examination) Regulations
+Shipping (Medical Examination) Regulations [Subsidiary]
 3. (1) Where a seafarer has been classified as category B, the approved medical practitioner shall clearly state on the medical fitness certificate, the type of restriction and the period of time during which it shall be operative.
 (2) Where a seafarer has been assessed as fit but requires medical treatment or surveillance at frequent intervals, the approved medical practitioner may classify the seafarer as category B and recommend that his service be restricted to ferry and coastal work.
 4. (1) An approved medical practitioner shall, where possible, make full use of categories B, C and D before classifying a serving seafarer as category E.
@@ -101,7 +101,7 @@ within five years of completion of treatment, be classified as category A.
 who suffers from-
 (a) thyroid disease, shall be classified as category C for
 investigation and subsequently category A, A(T), B or C on assessment;
-[Subsidiary] Shipping (Medical Examination) Regulations
+Shipping (Medical Examination) Regulations [Subsidiary]
 (b) an endocrine disease other than thyroid disease, shall be
 classified as category C for investigation upon which assessment will depend;
 (c) diabetes mellitus, and-
@@ -147,7 +147,7 @@ seafarer who has a condition causing defect of muscular power, balance, mobility
 years shall be classified as category E;
 (c) is a serving seafarer and suffers a single seizure shall be
 classified as category C for investigation and then, providing that the post medical history is clear and investigation has shown no abnormality, re-entry into sea service may be considered after one year without a seizure without treatment, or after one year without a seizure following the cessation of treatment;
-[Subsidiary] Shipping (Medical Examination) Regulations
+Shipping (Medical Examination) Regulations [Subsidiary]
 (d) who is a serving seafarer and has had cranial surgery or
 significant traumatic brain damage shall be classified as category D for twelve months and subsequently as category A, B or E on assessment;
 (e) suffers from slight infrequent attacks of migraine and who
@@ -194,7 +194,7 @@ thrombophlebitis shall be classified as category E;
 symptoms shall be classified as category A, while other cases shall be classified as category C until satisfactorily treated; and
 (s) has varicocoele without symptoms shall be classified as
 category A, while a seafarer who has symptoms shall be classified as category D for a surgical opinion.
-[Subsidiary] Shipping (Medical Examination) Regulations
+Shipping (Medical Examination) Regulations [Subsidiary]
 16. (1) The respiratory system of a seafarer shall generally be free from acute or chronic disease causing significant disability.
 (2) A seafarer who-
 (a) suffers from acute sinusitis shall be classified as category C
@@ -250,7 +250,7 @@ investigation, but where the condition is serious or progressive or where compli
 classified as category A or category A(T) on assessment; and
 (c) recurrent pancreatitis or a case in which alcohol is an
 aetiological factor, shall be classified as category E.
-[Subsidiary] Shipping (Medical Examination) Regulations
+Shipping (Medical Examination) Regulations [Subsidiary]
 18. (1) A seafarer who has-
 (a) proteinuria, glycosuria or other urinary abnormalities shall
 be referred for investigation;
@@ -309,7 +309,7 @@ category C until satisfactorily treated;
 referred for a dermatological opinion;
 (c) acute eczema shall be classified as category C and shall not
 resume sea service until his skin is healthy;
-[Subsidiary] Shipping (Medical Examination) Regulations
+Shipping (Medical Examination) Regulations [Subsidiary]
 (d) recurrent eczema of more than minimal extent shall be
 classified as category E; and
 (e) psoriasis shall generally be classified as category A but a
@@ -360,7 +360,7 @@ fixation where hemianopic or quadrantopic is present.
 Table 1.
 26. (1) Notwithstanding clause 25-
 (a) a monocular serving seafarer; or
-[Subsidiary] Shipping (Medical Examination) Regulations
+Shipping (Medical Examination) Regulations [Subsidiary]
 (b) a seafarer who becomes monocular during service at sea with no
 evidence of progressive disease in the remaining eye and who satisfies the standards for monocular vision set out in Table 2, may be allowed to continue service at sea.
 (2) A seafarer shall be allowed a period of adaptation after becoming monocular, to enable him to descend and ascend stairs rapidly and safely.
@@ -388,10 +388,11 @@ Near Visual Field Colour Category Basic Visual Higher Visual
 Acuity Acuity of sea- Standard- Standard- farer unaided aided if
 necessary
 Other Better Other N8 Ishihara or Deck or Better No pathological eye eye eye Lantern 2 dual eye field defect 6/60 6/6 6/12 miles career 6/60
-- 6/18 6/18 N8 Ishihara or Sufficient to Engineer/ 6/60
-Farnsworth undertake Radio D15 or duties City efficiently University
+- 6/18 6/18 N8 Sufficient to Engineer/ Ishihara or 6/60
+undertake Radio Farnsworth duties D15 or efficiently City
+University
 Others Sufficient to undertake duties efficiently
-[Subsidiary] Shipping (Medical Examination) Regulations
+Shipping (Medical Examination) Regulations [Subsidiary]
 TABLE 2
 Near Visual Field Colour Category Basic Visual Higher Visual
 Acuity Acuity of sea- Standard- Standard- farer unaided aided if
@@ -401,7 +402,7 @@ Lantern 2 field defect miles
 - 6/9 0 N8 Ishihara or Engineer/ Sufficient to 6/60
 Farnsworth Radio undertake D15 or duties City efficiently University
 Others Sufficient to undertake duties efficiently [Subsidiary] Shipping (Medical Examination) Regulations
-- Margin: [Regulation 5(2)]. [80/2002].
+- Margin: Regulation 5(2). [80/2002].
 - Margin: General principles.
 - Margin: Classification in accordance with medical and visual standards.
 - Margin: Restricted service.

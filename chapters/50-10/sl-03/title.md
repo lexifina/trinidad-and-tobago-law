@@ -18,7 +18,7 @@ in Part IV of the Schedule.
 5. The Shipping (Navigational Aids Dues) Regulations, are
 hereby revoked.
 6. These Regulations have effect from 1st January, 1990.
-[Subsidiary] Shipping (Navigational Aids Dues) (No. 2) Regulations
+Shipping (Navigational Aids Dues) (No. 2) Regulations [Subsidiary]
 SCHEDULE
 PART I
 DEFINITIONS
@@ -57,17 +57,17 @@ of Trinidad and Tobago an annual payment of two dollars per ton;
 annual payment of one thousand dollars per vessel plus a payment of fifteen dollars for each metre of length in excess of ten metres; or
 (f) for foreign fishing vessels, a payment of two hundred dollars
 per visit for up to ten visits in any year.
-[Subsidiary] Shipping (Navigational Aids Dues) (No. 2) Regulations
+Shipping (Navigational Aids Dues) (No. 2) Regulations [Subsidiary]
 PART III
 RULES
 - Margin: 221/1989. [64/1995 57/1996].
 - Margin: Citation.
-- Margin: Interpretation. Ch. 50:10.
+- Margin: Interpretation.
 - Margin: Navigational aids dues.
 - Margin: Schedule.
 - Margin: Exemptions.
 - Margin: Revocation.
 - Margin: Commencement.
-- Margin: [Regulation 3(a)].
+- Margin: Regulation 3(a).
 - Margin: Ch. 50:08.
-- Margin: [Regulation 3(b)].
+- Margin: Regulation 3(b).

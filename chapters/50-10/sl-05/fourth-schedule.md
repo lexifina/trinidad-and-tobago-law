@@ -32,8 +32,8 @@ Chest inspiration...cm
 Khz Right ear 500 1,000 dB
 Expiration...cm
 Khz Left ear 500 1,000 dB Pulse rate... Eye Test
-Blood pressure systolic... R 6
-Distant Un-
+Blood pressure systolic...
+R 6 Distant Un-
 aided vision
 R 6 Aided
 5th Sound...
@@ -42,7 +42,7 @@ Albumin... Near vision
 Unaided N
 Sugar...
 Aided N
-[Subsidiary] Shipping (Medical Examination) Regulations
+Shipping (Medical Examination) Regulations [Subsidiary]
 7. Results Medical Examination The Standards of Medical Examination Regulations have been or have not been met. Please tick correct box
 A. Unrestrictive sea service E. Permanently
 B. Restrictive service only D. Indefinitely
@@ -73,7 +73,7 @@ DISEASE OF VEINS
 SPEECH DEFECTS
 EYESIGHT
 ENT
-[Subsidiary] Shipping (Medical Examination) Regulations
+Shipping (Medical Examination) Regulations [Subsidiary]
 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
 (USE ONE COLUMN FOR EACH EXAMINATION)
 FIFTH SCHEDULE-CONTINUED

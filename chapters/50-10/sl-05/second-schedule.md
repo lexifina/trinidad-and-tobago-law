@@ -15,8 +15,7 @@ condition.
 3. The ship is authorised to operate within the following area:
 ...
 ...
-4. The ship is certified to carry a total of no more than ... persons.
-[Subsidiary] Shipping (Local Passenger Ship) (Safety) Regulations
+4. The ship is certified to carry a total of no more than ... persons. Shipping (Local Passenger Ship) (Safety) Regulations [Subsidiary]
 5. The following life saving appliances are carried on board:
 life boats capable of accommodating ... persons. liferafts capable of accommodating ... persons. buoyant apparatus capable of accommodating ... persons. lifebuoys capable of accommodating ... persons. lifejackets suitable for persons weighing thirty-two kilograms or more. lifejackets suitable for persons weighing less than thirty-two kilograms.
 6. The following fire-fighting appliances are carried on board:
@@ -30,4 +29,4 @@ Master ... Mate ... Engineer ... Seamen
 This certificate remains in force until ...
 Director of Maritime Services,
 Maritime Services Division [Subsidiary] Shipping (Local Passenger Ship) (Safety) Regulations
-- Margin: (Regulation 9).
+- Margin: Regulation 9.

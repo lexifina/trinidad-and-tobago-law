@@ -35,8 +35,7 @@ SHIPPING (LOCAL PASSENGER SHIP) (SAFETY)
 REGULATIONS
 ARRANGEMENT OF REGULATIONS
 REGULATION
-1. Citation. 2. Definitions. 3. Application. 4. Local Passenger Ship Safety Certificate Survey. 5. Local Passenger Ship to be surveyed. 6. Lifejackets for persons weighing less than thirty-two kilograms. 7. Certificates of Crew. 8. Insurance. 9. Issue of Safety Certificates.
-10. Validity of Safety Certificate. 11. Log Book. 12. Count of passengers and crew. 13. Penalties. FIRST SCHEDULE. SECOND SCHEDULE. THIRD SCHEDULE. [Subsidiary]
+1. Citation. 2. Definitions. 3. Application. 4. Local Passenger Ship Safety Certificate Survey. 5. Local Passenger Ship to be surveyed. 6. Lifejackets for persons weighing less than thirty-two kilograms. 7. Certificates of Crew. 8. Insurance. 9. Issue of Safety Certificates. 10. Validity of Safety Certificate. 11. Log Book. 12. Count of passengers and crew. 13. Penalties. FIRST SCHEDULE. SECOND SCHEDULE. THIRD SCHEDULE. [Subsidiary]
 SHIPPING (LOCAL PASSENGER SHIP) (SAFETY)
 REGULATIONS
 made under section 276
@@ -62,7 +61,7 @@ the ship;
 prescribed safety equipment of the ship;
 (d) the limits, if any, beyond which, as regards the
 hull, machinery and safety equipment, the ship is not fit to ply;
-[Subsidiary] Shipping (Local Passenger Ship) (Safety) Regulations
+Shipping (Local Passenger Ship) (Safety) Regulations [Subsidiary]
 (e) the crew required for the safe navigation of the
 ship and the safety of the passengers carried therein; and
 (f) the number of persons the ship is, in his
@@ -107,7 +106,7 @@ listed in the surveyor's declaration referred to in regulation 5 is adequate and
 10. A Safety Certificate is not valid where-
 (a) the equipment specified in the certificate is not
 carried or is not in working condition;
-[Subsidiary] Shipping (Local Passenger Ship) (Safety) Regulations
+Shipping (Local Passenger Ship) (Safety) Regulations [Subsidiary]
 (b) the crew do not hold at least the level of
 certification required on the certificate;
 (c) the number of crew required by the certificate is
@@ -125,7 +124,6 @@ has expired.
 - Margin: 51/1991.
 - Margin: Citation.
 - Margin: Definitions.
-- Margin: Ch. 50:10.
 - Margin: Application.
 - Margin: Local Passenger Ship Safety Certificate Survey.
 - Margin: Local Passenger Ship to be surveyed.

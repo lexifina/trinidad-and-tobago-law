@@ -29,8 +29,7 @@ systems;
 appropriate to his duties;
 (xi) basic knowledge of duties and responsibilities regarding
 the prevention of pollution of the seas and harbours; or
-[Subsidiary]
-Shipping (Certification of Seamen) (Deck Ratings) Regulations
+[Subsidiary] Shipping (Certification of Seamen) (Deck Ratings) Regulations
 (c) have served in the deck department in a navigational
 watchkeeping capacity for at least one year within the five years preceding the coming into operation of these Regulations.
 (2) The experience and knowledge required in paragraph (b)(iii) to
@@ -50,9 +49,8 @@ the limiting endorsement may be issued and the original destroyed. In the meanti
 their duties; and
 (b) the basic requirements for prevention of pollution of the
 marine environment.
-This training is not a requirement for the issue of a Navigational Watch Rating Endorsement. [Subsidiary]
-Shipping (Certification of Seamen) (Deck Ratings) Regulations
-- Margin: (Regulation 13).
+This training is not a requirement for the issue of a Navigational Watch Rating Endorsement. [Subsidiary] Shipping (Certification of Seamen) (Deck Ratings) Regulations
+- Margin: Regulation 13.
 - Margin: General.
 - Margin: Requirements.
 - Margin: Record of navigational watch rating experience.

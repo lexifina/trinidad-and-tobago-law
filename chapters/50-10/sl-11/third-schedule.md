@@ -20,7 +20,7 @@ deck compartments, bulkheads, ballast tanks, bilges, strum boxes, sounding pipes
 13. Knowledge of the layout of the bridge and associated equipment
 and instruments.
 14. Knowledge related to hygienic practices on board vessel.
-[Subsidiary] Shipping (Certification of Seamen) (Engineering Ratings) Regulations
+Shipping (Certification of Seamen) (Engineering Ratings) Regulations [Subsidiary]
 15. Ability to understand orders and make himself understood in matters
 relevant to the engine room ratings duties.
 SECTION D- POLLUTION PREVENTION
@@ -77,9 +77,9 @@ the various alarms with special reference to fire extinguishing gas alarms;
 in the machinery spaces; and
 (e) dangers and precautions to be taken to avoid electric shock on
 a.c. and d.c. supplies.
-[Subsidiary] Shipping (Certification of Seamen) (Engineering Ratings) Regulations
-FOURTH SCHEDULE [Regulation
-9(1)]. REPUBLIC OF TRINIDAD AND TOBAGO
+Shipping (Certification of Seamen) (Engineering Ratings) Regulations [Subsidiary]
+FOURTH SCHEDULE Regulation 9(1).
+REPUBLIC OF TRINIDAD AND TOBAGO
 FORM OF APPLICATION FOR EXAMINATION FOR A CERTIFICATE OF
 COMPETENCY AS AN ENGINEERING RATING
 (Application should be made to the Maritime Services Division at least three weeks before the examination date).
@@ -120,7 +120,7 @@ maritime safety training course (Applicable only where remission of sea service 
 other documentary evidence of sea service
 7. Engine Room Watch Rating Endorsement
 8. Two passport size photographs
-[Subsidiary] Shipping (Certification of Seamen) (Engineering Ratings) Regulations
+Shipping (Certification of Seamen) (Engineering Ratings) Regulations [Subsidiary]
 2. SEA SERVICE IN FOREIGN FLAG SHIPS MUST BE CONFIRMED BY THE CONSUL OR OTHER OFFICIAL AUTHORITY OF THE FOREIGN STATE. REMARKS
 NOTES: 1. TAKE DETAILS FROM YOUR DISCHARGE BOOK, CERTIFICATES OF DISCHARGE OR OTHER DOCUMENTARY EVIDENCE OF SEA SERVICE.
 (FOR OFFICIAL USE ONLY)
@@ -169,7 +169,7 @@ Official Stamp
 Cashier, etc.
 Date ...
 Maritime Services Division
-[Subsidiary] Shipping (Certification of Seamen) (Engineering Ratings) Regulations
+Shipping (Certification of Seamen) (Engineering Ratings) Regulations [Subsidiary]
 SECTION G-SUMMARY AND EVALUATION OF SEA SERVICE
 The sea service, based on the statement of service given in section D, with supporting documents, is as follows:
 Total qualifying sea service in major ships [(Reg. 10(2)] ...
@@ -209,8 +209,8 @@ To obtain your Certificate of Competency as an Engineering Rating, this authorit
 Signed ... (Candidate)
 Date ...
 (Exn. 20) (1995)
-[Subsidiary] Shipping (Certification of Seamen) (Engineering Ratings) Regulations
-FIFTH SCHEDULE (Regulation 14).
+Shipping (Certification of Seamen) (Engineering Ratings) Regulations [Subsidiary]
+FIFTH SCHEDULE Regulation 14.
 FORM OF APPLICATION FOR A CERTIFICATE OF COMPETENCY OR
 CLASSIFICATION AS AN ENGINEERING RATING
 (Application should be made to the Maritime Services Division)
@@ -248,7 +248,7 @@ training course (Applicable only where remission of sea service is being claimed
 documentary evidence of sea service
 7. Engine room watch rating endorsement 8. Two passport size photographs 9. Rating nominated as assistant to the engineer officer in
 charge of the watch
-[Subsidiary] Shipping (Certification of Seamen) (Engineering Ratings) Regulations
+Shipping (Certification of Seamen) (Engineering Ratings) Regulations [Subsidiary]
 REMARKS
 2. SEA SERVICE IN FOREIGN FLAG SHIPS MUST BE CONFIRMED BY THE CONSUL OR OTHER OFFICIAL AUTHORITY OF THE FOREIGN STATE. NOTES:1. TAKE DETAILS FROM YOUR DISCHARGE BOOK, CERTIFICATES OF DISCHARGE OR OTHER DOCUMENTARY EVIDENCE OF SEA SERVICE.
 (FOR OFFICIAL USE ONLY)
@@ -297,7 +297,7 @@ Other service (e.g., Gulf of Paria service) ...
 Remarks:
 Official Stamp
 Maritime Services Division
-[Subsidiary] Shipping (Certification of Seamen) (Engineering Ratings) Regulations
+Shipping (Certification of Seamen) (Engineering Ratings) Regulations [Subsidiary]
 SECTION G-AUTHORITY TO ISSUE CERTIFICATE
 Signed ...
 Name ...
@@ -315,7 +315,7 @@ Name of Examiner ...
 Date...
 Maritime Services Division
 *delete whichever is inapplicable. [Subsidiary] Shipping (Certification of Seamen) (Engineering Ratings) Regulations
-SIXTH SCHEDULE (Regulation 15).
+SIXTH SCHEDULE Regulation 15.
 FEES
 Service Fees
 $
@@ -336,6 +336,5 @@ PART I
 REQUIREMENTS TO BE COMPLIED WITH BY SHIPS
 REGISTERED IN TRINIDAD AND TOBAGO ON OR AFTER THE DATE ON WHICH THESE REGULATIONS
 COME INTO OPERATION
-2. Interpretation. 3. Application. 4. Extension to unregistered Trinidad and Tobago ships. 5. Plans. 6. General. 7. Divisions between the crew accommodation and other parts of the ship. 8. Interior bulkheads. 9. Overhead decks.
-10. Floor decks. 11. Access and escape arrangements. 12. Pipes, etc. 13. Awnings. 14. Heating. 15. Lighting. 16. Ventilation. 17. Sidescuttles and windows. 18. Drainage. 19. Interior finishes. 20. Marking. 21. Sleeping Rooms. 22. Beds. 23. Furniture and fittings in sleeping rooms. 24. Mess rooms. 25. Furniture and fittings in mess room. [Subsidiary] Shipping (Crew Accommodation) Regulations
-- Margin: [Regulation 8(2)].
+2. Interpretation. 3. Application. 4. Extension to unregistered Trinidad and Tobago ships. 5. Plans. 6. General. 7. Divisions between the crew accommodation and other parts of the ship. 8. Interior bulkheads. 9. Overhead decks. 10. Floor decks. 11. Access and escape arrangements. 12. Pipes, etc. 13. Awnings. 14. Heating. 15. Lighting. 16. Ventilation. 17. Sidescuttles and windows. 18. Drainage. 19. Interior finishes. 20. Marking. 21. Sleeping Rooms. 22. Beds. 23. Furniture and fittings in sleeping rooms. 24. Mess rooms. 25. Furniture and fittings in mess room. [Subsidiary] Shipping (Crew Accommodation) Regulations
+- Margin: Regulation 8(2).

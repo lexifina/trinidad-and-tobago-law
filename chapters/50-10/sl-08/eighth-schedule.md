@@ -22,8 +22,7 @@ SHIPPING (PROVISIONS AND WATER)
 REGULATIONS
 ARRANGEMENT OF REGULATIONS
 REGULATION
-1. Citation. 2. Interpretation. 3. Application. 4. Duty to provide adequate provisions and water. 5. Duty to inspect provisions and water. 6. Offences and penalties. 7. Offences caused by act or default. 8. Inspection and detention of a Trinidad and Tobago ship. 9. Inspection, detention and other measures in respect of foreign ships.
-10. Compensation and enforcement of detention. [Subsidiary]
+1. Citation. 2. Interpretation. 3. Application. 4. Duty to provide adequate provisions and water. 5. Duty to inspect provisions and water. 6. Offences and penalties. 7. Offences caused by act or default. 8. Inspection and detention of a Trinidad and Tobago ship. 9. Inspection, detention and other measures in respect of foreign ships. 10. Compensation and enforcement of detention. [Subsidiary]
 SHIPPING (PROVISIONS AND WATER)
 REGULATIONS
 made under section 142
@@ -50,7 +49,7 @@ submersible craft which is designed to maintain some or all of its occupants at 
 to seagoing Trinidad and Tobago ships; and
 (b) regulations 1, 2, 3, 9 and 10 apply to non-Trinidad
 and Tobago seagoing ships, except fishing vessels, when in a port in Trinidad and Tobago.
-[Subsidiary] Shipping (Provisions and Water) Regulations
+Shipping (Provisions and Water) Regulations [Subsidiary]
 (2) These Regulations do not apply to-
 (a) ships under twenty-four metres in length;
 (b) pleasure craft;
@@ -84,7 +83,7 @@ to safety or health-
 rectify those conditions; or
 (ii) detain the ship,
 save that the measures specified in paragraphs (a) and (b) may be taken only when the ship has called at a Trinidad and Tobago port in the normal course of business or for operational reasons.
-[Subsidiary] Shipping (Provisions and Water) Regulations
+Shipping (Provisions and Water) Regulations [Subsidiary]
 (2) Where the person duly authorised takes either of the measures specified in subregulation (1)(b), he shall forthwith notify the nearest maritime, consular or diplomatic representative of the State whose flag the ship is entitled to fly.
 (3) The person duly authorised shall not, in exercise of his powers under this Regulation, detain or delay the ship unreasonably.
 10. Sections 317(2) and 387(2) to (4) of the Act, shall have effect in relation to a ship detained under these Regulations subject to the following modifications:
@@ -97,7 +96,7 @@ the act or default of the owner,";
 the words "a ship"; and
 (b) in section 387(2) to (4) by deleting the words
 "this Act" wherever they occur and substituting the words "the Shipping (Provisions and Water) Regulations, 1993". [Subsidiary]
-- Margin: (Regulation 2).
+- Margin: Regulation 2.
 - Margin: 144/1993.
 - Margin: Citation.
 - Margin: Interpretation.

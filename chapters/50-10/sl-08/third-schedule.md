@@ -21,8 +21,7 @@ compartments, bulkheads, ballast tanks, bilges, strum boxes, sounding pipes, air
 understand helm orders, use of magnetic and gyro compasses.
 13. Ability to keep a proper lookout by sight and hearing and to report the
 approximate bearing of a sound signal, light, or other object, in degrees or points.
-[Subsidiary]
-Shipping (Certification of Seamen) (Deck Ratings) Regulations
+[Subsidiary] Shipping (Certification of Seamen) (Deck Ratings) Regulations
 14. Ability to understand orders and make himself understood in matters relevant to the seaman's duties.
 15. Autopilot and the change-over from automatic to hand steering and vice versa.
 16. Basic awareness of the types of log in common use on board ship.
@@ -39,8 +38,7 @@ To whip a rope's end using plain or palm and needle whipping, to put a seizing o
 Rigging and safe use of pilot hoists.
 Rigging a derrick, driving a winch, general precautions to be taken before and during the operation of a winch whether used for working cargo or for warping.
 23. Using deck cranes.
-24. The use and operation of a windlass in anchor work and in warping, safe handling of moorings with particular reference to synthetic fibre ropes and self tensioning winches, precautions to be taken in the stowage of chain cable and securing the anchors for sea. [Subsidiary]
-Shipping (Certification of Seamen) (Deck Ratings) Regulations
+24. The use and operation of a windlass in anchor work and in warping, safe handling of moorings with particular reference to synthetic fibre ropes and self tensioning winches, precautions to be taken in the stowage of chain cable and securing the anchors for sea. [Subsidiary] Shipping (Certification of Seamen) (Deck Ratings) Regulations
 25. A knowledge of the gear used in cargo work and an understanding of its uses,
 general maintenance with particular reference to wires, blocks and shackles, securing of cargo.
 26. The safe handling of hatch covers including mechanical hatch covers,
@@ -54,6 +52,5 @@ carry out orders relating to lifeboat launching and operation and the handling o
 running of the engines of a power boat;
 (c) he is familiar with the various methods of launching liferafts, the
 precautions to be taken before and during launching, methods of boarding and survival procedure.
-[Subsidiary]
-Shipping (Certification of Seamen) (Deck Ratings) Regulations
-- Margin: [Regulation 9(2)].
+[Subsidiary] Shipping (Certification of Seamen) (Deck Ratings) Regulations
+- Margin: Regulation 9(2).

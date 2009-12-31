@@ -12,4 +12,4 @@ deck on which it is laid;
 a coating supplied for that purpose;
 (e) be fitted by means of an adhesive or otherwise so as to affix
 it securely to the deck.
-- Margin: [Regulation 9(1)(b)].
+- Margin: Regulation 9(1)(b).

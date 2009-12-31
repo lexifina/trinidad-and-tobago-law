@@ -29,8 +29,7 @@ undertake concurrent operations safely;
 with Regulation 13 of Chapter V of the SOLAS Convention, the establishment of a working language on a passenger ship, to ensure that master and crew are capable of undertaking concurrent and continuing operations with respect to their skills and training; and
 (f) ensure that the working arrangements allow for sufficient
 rest periods to avoid fatigue, and draw up work schedules accordingly.
-[Subsidiary]
-Shipping (Training, Certification, Safe Manning, Hours of Work
+[Subsidiary] Shipping (Training, Certification, Safe Manning, Hours of Work
 and Watchkeeping) Regulations
 2. (1) In proposing manning levels, a company which owns-
 (a) an offshore support vessel, shall take into consideration
@@ -54,8 +53,7 @@ relation to the safety of the ship;
 (c) a seafarer may perform his duties in accordance with the
 framework of operational guidance in section A-VIII of the STCW Code; and
 (d) a seafarer is not required to work hours or under conditions
-which may be injurious to his health and safety. [Subsidiary]
-Shipping (Training, Certification, Safe Manning, Hours of Work
+which may be injurious to his health and safety. [Subsidiary] Shipping (Training, Certification, Safe Manning, Hours of Work
 and Watchkeeping) Regulations
 5. (1) In producing a schedule of duties (hereinafter called "the
 schedule") a company shall take into account the following factors:
@@ -85,8 +83,7 @@ inspections; and
 present voyage and the composition of the crew for whom it was originally intended, has not changed.
 (3) A record of agreed work patterns shall exist on board the ship for
 the benefit of crew members and inspecting authorities, and the record may be matched to each crew member involved by means of other documents, such as the crew list.
-[Subsidiary]
-Shipping (Training, Certification, Safe Manning, Hours of Work
+[Subsidiary] Shipping (Training, Certification, Safe Manning, Hours of Work
 and Watchkeeping) Regulations
 TABLE 1
 GUIDANCE ON MINIMUM MANNING LEVELS-CERTIFICATED
@@ -97,34 +94,19 @@ Gross Tonnage of Ship and
 (STCW) Reference Tonnage
 Minimum Deck Officer Manning
 Parameters (STCW)
-≥ ≥500 but ≤500 3000
+≥ 3000 ≥ 500 but ≤ 500
 < 3000
-≥ --- --- 3000 Master II/2 1
-≥500 but < 3000 1 1 Master II/2 ---
-≥3000 --- --- Chief Mate II/2 1
-≥500 but < 3000 --- 1 Chief Mate II/2 ---
-≥500 2(a) (b) 1(a) OOW II/1 2(a)
+--- --- ≥ 3000 Master II/2 1 1 1 ≥ 500 but < 3000 Master II/2 --- --- --- ≥ 3000 Chief Mate II/2 1 --- 1 ≥ 500 but < 3000 Chief Mate II/2 ---
+2(a) (b) 1(a) ≥ 500 OOW II/1 2(a)
 CARIBBEAN TRADE (NEAR-COASTAL)
-≥ --- II/2 --- 3000 1
-Master
-≥500 but < 3000 --- II/2 1 ---
-Master
-1 II/3 --- < 500 --- Master
-≥3000 --- II/2 --- 1
-Chief Mate
-≥500 but < 3000 --- II/2 1 ---
-Chief Mate
-≥500 --- II/1 1(a) 1(a)
-OOW
-1 II/3 --- < 500 --- OOW
+--- II/2 --- ≥ 3000 1 Master --- II/2 1 ≥ 500 but < 3000 --- Master 1 II/3 --- < 500 --- Master --- II/2 --- ≥ 3000 1 Chief Mate --- II/2 1 ≥ 500 but < 3000 --- Chief Mate --- II/1 1(a) ≥ 500 1(a) OOW 1 II/3 --- < 500 --- OOW
 OOW-Officer in charge of a navigational watch
 (1) This requirement may be reduced by one if the master keeps a watch or
 where the length of voyage is short enough and the level of port activity low enough to ensure adequate rest for the watchkeepers.
 (2) The Officer designated as Chief Mate must have at least 6 months experience
 whilst holding STCW II/1 certification.
 NOTES:
-1. A Navigational Watch Rating shall be qualified in accordance with STCW II/4. 2. Actual levels will vary according to the type, size, age and trading pattern of the vessel. [Subsidiary]
-Shipping (Training, Certification, Safe Manning, Hours of Work
+1. A Navigational Watch Rating shall be qualified in accordance with STCW II/4. 2. Actual levels will vary according to the type, size, age and trading pattern of the vessel. [Subsidiary] Shipping (Training, Certification, Safe Manning, Hours of Work
 and Watchkeeping) Regulations
 TABLE 2
 GUIDANCE ON MINIMUM MANNING LEVELS-CERTIFICATED
@@ -135,22 +117,11 @@ Engine Power of Ships in Kilowatts (kW)
 (STCW) Reference Power
 and Minimum Engineer Officer Manning
 Parameters (STCW)
-≥ ≥750 but ≥ 3000 350 but
+≥ 3000 ≥ 750 but ≥ 350 but
 < 3000 < 750
-≥ --- --- 3000 Ch. Engineer III/2 1
-≥750 but < 3000 1 1(b) Ch. Engineer III/3 ---
-≥3000 --- --- 2nd. Engineer III/2 1
-≥750 but < 3000 1 --- 2nd. Engineer III/3 ---
-≥3000 2(a) 1(c) OOW III/1 2 CARIBBEAN TRADE (NEAR-COASTAL) ≥ --- III/2 --- 3000 1
-Ch. Engineer
-≥750 but < 3000 1(b) III/3 1 ---
-Ch. Engineer
-≥3000 --- III/2 --- 1
-2nd. Engineer
-≥750 but < 3000 --- III/3 1 ---
-2nd. Engineer
-≥750 1(c) III/1 1(a) 2(a)
-OOW
+--- --- ≥ 3000 Ch. Engineer III/2 1 1 1(b) ≥ 750 but < 3000 Ch. Engineer III/3 --- --- --- ≥ 3000 2nd. Engineer III/2 1 1 --- ≥ 750 but < 3000 2nd. Engineer III/3 --- 2(a) 1(c) ≥ 3000 OOW III/1 2
+CARIBBEAN TRADE (NEAR-COASTAL)
+--- III/2 --- ≥ 3000 1 Ch. Engineer 1(b) III/3 1 ≥ 750 but < 3000 --- Ch. Engineer --- III/2 --- ≥ 3000 1 2nd. Engineer --- III/3 1 ≥ 750 but < 3000 --- 2nd. Engineer 1(c) III/1 1(a) ≥ 750 2(a) OOW
 OOW-Officer in charge of an Engineering watch
 (1) Number of Engineer Officers holding III/1 certification may be reduced by
 one, if the Chief Engineer and 2nd Engineer keep a watch.
@@ -163,10 +134,9 @@ NOTES:
 except for vessels of <750 kW main engine power, in which case STCW III/4 certification is recommended.
 2. The above levels, which are based on manned engine room arrangements, are for
 guidance only and actual levels will vary according to the type, size, age and trading pattern of the vessel. Manning of vessels having the UMS notation may carry a lower complement of Engineer Officers, but this will be assessed on an individual basis.
-[Subsidiary]
-Shipping (Training, Certification, Safe Manning, Hours of Work
+[Subsidiary] Shipping (Training, Certification, Safe Manning, Hours of Work
 and Watchkeeping) Regulations
-- Margin: [Regulation (3)].
+- Margin: Regulation (3).
 - Margin: General guidelines.
 - Margin: Special ships.
 - Margin: Guidance on appropriate manning levels.
