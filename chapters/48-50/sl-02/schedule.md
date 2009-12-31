@@ -22,13 +22,13 @@ ROAD TRAFFIC (PROHIBITED PARKING) ORDER
 made under section 65
 1. This Order may be cited as the Road Traffic (Prohibited
 Parking) Order.
-2. (1) No person shall cause or permit any vehicle to be or
-to remain parked on any of the roads specified in the First Schedule.
+2. (1) No person shall cause or permit any vehicle to be or to
+remain parked on any of the roads specified in the First Schedule.
 (2) No person shall cause or permit any vehicle to be or
 to remain parked on a road described in the first column of the Second Schedule on the days and, where applicable, during the hours specified in the second column of the said Schedule.
 3. Any person who contravenes the provisions of clause 2 is
 liable on summary conviction to a fine of five hundred dollars or to imprisonment for three months.
-- Margin: 206/1979*.
+- Margin: *206/1979.
 - Margin: Citation.
 - Margin: Parking of vehicle.
 - Margin: Offence. [47 of 1980].

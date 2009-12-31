@@ -1,7 +1,7 @@
 PUBLIC STANDS (TAXIS) PARKING ORDER
 ARRANGEMENT OF CLAUSES CLAUSE
 1. Citation. 2. Parking places for taxis. 3. Parking in prescribed manner. 4. Taxis shall stand in line. 5. Taxis standing for hire. 6. Public stands. 7. Offence.
-SCHEDULE. [Subsidiary ]
+SCHEDULE. [Subsidiary]
 PUBLIC STANDS (TAXIS) PARKING ORDER
 made under section 65
 1. This Order may be cited as the Public Stands (Taxis)
@@ -20,7 +20,7 @@ such stands the taxi next in rear thereto shall move forward and occupy the vaca
 appointed for taxis.
 7. Any person who contravenes any of the provisions of this
 Order is liable on summary conviction to a fine of five hundred dollars or to imprisonment for three months. *This Order has been amended by the following: 220/1980; 149/1983; 164/1984; 75/1985; 97/1985; 183/1986.
-[Subsidiary ] Public Stands (Taxis) Parking Order
+Public Stands (Taxis) Parking Order [Subsidiary]
 SCHEDULE
 PART A
 COUNTY OF CARONI
@@ -36,7 +36,7 @@ Waterloo Road, St. Mary's Junction-Northern side from a point ten metres West of
 PART B
 COUNTY OF MAYARO
 Taxi Stands-Mayaro
-The northern half of the parking lot situated at the corner of Naparima Mayaro Road and Guayaguayare Road (opposite the Mayaro Market)-eleven taxis parked within lines painted or marked on the surface of the said parking lot. [Subsidiary ] Public Stands (Taxis) Parking Order
+The northern half of the parking lot situated at the corner of Naparima Mayaro Road and Guayaguayare Road (opposite the Mayaro Market)-eleven taxis parked within lines painted or marked on the surface of the said parking lot. [Subsidiary] Public Stands (Taxis) Parking Order
 PART C
 COUNTY OF NARIVA
 Taxi Stands-Rio Claro
@@ -61,7 +61,7 @@ between 6.00 a.m. and 6.00 p.m. daily, on eastern side facing South. between 6.0
 PART E
 COUNTY OF ST. DAVID
 Nil
-[Subsidiary ] Public Stands (Taxis) Parking Order
+Public Stands (Taxis) Parking Order [Subsidiary]
 PART F
 COUNTY OF ST. GEORGE EAST
 Taxi Stands-Curepe
@@ -78,7 +78,7 @@ PART G
 COUNTY OF ST. GEORGE WEST
 Taxi Stands-Port-of-Spain
 1. Queen's Park West-On North side, opposite to the front of Queen's Park Hotel-twenty taxis facing East.
-2. Queen's Park West-On South side in front of the Princes Building between the East entrance and West entrance of drive excluding entrance to central path-twenty-two taxis facing West. [Subsidiary ] Public Stands (Taxis) Parking Order
+2. Queen's Park West-On South side in front of the Princes Building between the East entrance and West entrance of drive excluding entrance to central path-twenty-two taxis facing West. [Subsidiary] Public Stands (Taxis) Parking Order
 3. Green Corner-Southern side of Tragarete Road from a point three
 metres West of St. Vincent Street and extending in a westerly direction for a distance of eighty-five metres-fifteen taxis facing East.
 4. Park Street-Northern side from a point ten metres East of Edward
@@ -107,9 +107,9 @@ North to Independence Square South-ten taxis facing West.
 North to Independence Square South-twelve taxis facing East.
 17. Dock Road-On North side and close to kerb from a point twenty-
 five metres West of No. 2 Gate, King's Wharf and extending in a westerly direction-seven taxis facing South.
-18. Queen Street-On the southern side, from a point nine metres East
-of Nelson Street-ten taxis facing West.
-[Subsidiary ] Public Stands (Taxis) Parking Order
+18. Queen Street-On the southern side, from a point nine metres East of
+Nelson Street-ten taxis facing West.
+Public Stands (Taxis) Parking Order [Subsidiary]
 Taxi Stands-Morvant
 Lady Young Road-Western side shoulder from a point thirty metres North of Morvant Junction and extending northerly for a distance of thirty-four metres. The width of the said Taxi Stand is to commence six metres West of the Lady Young Road and to extend for a distance of a further six metres West thereof-ten taxis facing north-east.
 Taxi Stands-San Juan
@@ -123,7 +123,7 @@ COUNTY OF ST. PATRICK
 Taxi Stands-Penal
 1. Siparia-Erin Road-Western side along the frontage of the Police Station-five taxis facing North.
 2. Siparia-Erin Road-Western side from a point twelve metres South of Clarke Street and extending in a southerly direction for a distance of forty metres-six taxis facing North.
-3. Penal Rock Road-Southern side from a point twelve metres East of Siparia-Erin Road and extending in an easterly direction for a distance of twenty metres-eight taxis facing north-east. [Subsidiary ] Public Stands (Taxis) Parking Order
+3. Penal Rock Road-Southern side from a point twelve metres East of Siparia-Erin Road and extending in an easterly direction for a distance of twenty metres-eight taxis facing north-east. [Subsidiary] Public Stands (Taxis) Parking Order
 Taxi Stands-Siparia
 1. Eastern side of the parking ground adjoining the Post Office on the
 Siparia-Erin Road-four taxis facing South.
@@ -136,8 +136,8 @@ Taxi Stands-Point Fortin
 1. Mainfield Road-Northern side-eight taxis facing West.
 2. Frisco Junction-On the eastern side of the triangular piece of land
 known as the Savannah and bounded by the Point Fortin Main Road on the North, Mainfield Road on the South and the connecting road on the East-ten taxis facing East.
-3. Cap-de-Ville Junction-On the piece of prepared ground at North side
-of the junction and bounded by the Guapo-Cap-de-Ville Road on the north-eastern side and the Point Fortin Main Road on the south-western side-twelve taxis parked as indicated on the site.
+3. Cap-de-Ville Junction-On the piece of prepared ground at North
+side of the junction and bounded by the Guapo-Cap-de-Ville Road on the north-eastern side and the Point Fortin Main Road on the south-western side- twelve taxis parked as indicated on the site.
 PART I
 TOBAGO
 Taxi Stands-Tobago
@@ -147,7 +147,7 @@ Street to Burnett Street-six taxis facing West.
 to Burnett Street-six taxis facing East.
 3. Jerningham Street-On the West side close to kerb from a point three
 metres North of Main Street to a point twenty-five metres North of Main Street-four taxis facing North.
-[Subsidiary ] Public Stands (Taxis) Parking Order
+Public Stands (Taxis) Parking Order [Subsidiary]
 4. Carrington Street-Southern side from a point three metres West of Exit Street from Customs Area and extending in a westerly direction for a distance of seventy metres-twenty-five taxis facing north-east.
 PART J
 COUNTY OF VICTORIA
@@ -159,10 +159,10 @@ Taxi Stands-San Fernando
 5. Lord Street-Northern side from a point ten metres West of Mucurapo Street and extending in a westerly direction for a distance of sixty metres-ten taxis facing East.
 6. Keate Street-Northern side from a point twenty metres West of Prince Alfred Street, and extending in a westerly direction for a distance of ninety metres-fifteen taxis facing East.
 7. Queen Street-Southern side from a point five metres East of Lady Hailes Avenue and extending in an easterly direction for a distance of sixty metres-twenty-five taxis facing North in herring-bone fashion.
-8. Mucurapo Street-Western side from a point ten metres South of Lord Street, and extending in a southerly direction for a distance of forty-two metres-seven taxis facing South. [Subsidiary ] Public Stands (Taxis) Parking Order
+8. Mucurapo Street-Western side from a point ten metres South of Lord Street, and extending in a southerly direction for a distance of forty-two metres-seven taxis facing South. [Subsidiary] Public Stands (Taxis) Parking Order
 Taxi Stands-Princes Town
-1. Naparima-Mayaro Road-Southern side from a point ten metres West
-of Bonanza Street and extending in a westerly direction for a distance of forty-five metres-seven taxis facing West.
+1. Naparima-Mayaro Road-Southern side from a point ten metres
+West of Bonanza Street and extending in a westerly direction for a distance of forty-five metres-seven taxis facing West.
 2. Naparima-Mayaro Road-Southern side from a point seventy metres
 West of Bonanza Street and extending in a westerly direction for a distance of forty-five metres-seven taxis facing West.
 3. North side of the Naparima-Mayaro Road from a point fifteen metres
@@ -171,7 +171,7 @@ East of Bonanza Street and extending in an easterly direction for a distance of 
 Intento Road known as the Roundabout-On the southern side, thirteen taxis facing North and on the northern side, nine taxis facing South.
 5. Buen Intento Road-Eastern side from a point twenty metres North
 of Naparima-Mayaro Road and extending in a northerly direction for a distance of forty metres-six taxis facing South.
-[Subsidiary ]
+[Subsidiary]
 PUBLIC STANDS (MOTOR OMNIBUSES)
 PARKING ORDER
 made under section 65
