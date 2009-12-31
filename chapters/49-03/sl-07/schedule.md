@@ -70,7 +70,7 @@ distance available (TODA), accelerate-stop distance available (ASDA), landing di
 numbers and e-mail address of the aerodrome co-ordinator for the removal of a disabled aircraft on or adjacent to the movement area, information on the capability to remove a disabled aircraft, expressed in terms of the largest type of aircraft which the aerodrome is equipped to remove; and
 (q) rescue and firefighting: the level of protection provided, expressed
 in terms of the category of the rescue and firefighting services, which should be in accordance with the longest aeroplane normally using the aerodrome and the type and amounts of extinguishing agents normally available at the aerodrome.
-Note-The accuracy of the information in Part 3 is critical to aircraft safety. Information
+Note: The accuracy of the information in Part 3 is critical to aircraft safety. Information
 requiring engineering survey and assessment should be gathered or verified by qualified technical persons.
 PART 4
 PARTICULARS OF THE AERODROME OPERATING PROCEDURES
@@ -108,7 +108,7 @@ organise training and other preparations for dealing with emergencies; and
 (f) the appointment of an on-scene commander for the overall
 emergency operation.
 4.4 Rescue and Firefighting
-Particulars of the facilities, equipment, personnel and procedures for meeting the rescue and firefighting requirements, including the names and roles of the persons responsible for dealing with the rescue and firefighting services at the aerodrome. Note-This subject should also be covered in appropriate detail in the aerodrome emergency plan. [Subsidiary] Civil Aviation [(No. 12) Aerodrome Licensing] Regulations
+Particulars of the facilities, equipment, personnel and procedures for meeting the rescue and firefighting requirements, including the names and roles of the persons responsible for dealing with the rescue and firefighting services at the aerodrome. Note This subject should also be covered in appropriate detail in the aerodrome emergency plan. [Subsidiary] Civil Aviation [(No. 12) Aerodrome Licensing] Regulations
 4.5 Inspection of the Aerodrome Movement Area and Obstacle Limitation
 Surface by the Aerodrome Operator Particulars of the procedures for the inspection of the aerodrome movement
 area and obstacle limitation surfaces, including the following:
@@ -218,7 +218,7 @@ Particulars of the procedures for the safe handling and storage of hazardous mat
 for the storage of inflammable liquids (including aviation fuels) and any other hazardous materials; and
 (b) the method to be followed for the delivery, storage,
 dispensing and handling of hazardous materials.
-Note-Hazardous materials include inflammable liquids and solids, corrosive liquids, compressed
+Note Hazardous materials include inflammable liquids and solids, corrosive liquids, compressed
 gases and magnetised or radioactive materials. Arrangements for dealing with the accidental spillage of hazardous materials should be included in the aerodrome emergency plan. 4.16 Low-Visibility Operations
 Particulars of procedures to be introduced for low-visibility operations, including the measurement and reporting of runway visual range as and when required, and the names and telephone numbers, during and after working hours, of the persons responsible for measuring the runway visual range. [Subsidiary] Civil Aviation [(No. 12) Aerodrome Licensing] Regulations
 4.17 Protection of Sites for Radar and Navigational Aids
@@ -263,4 +263,4 @@ facilities as well as airport operational and maintenance records, including inf
 evaluation of the adequacy of training provided to staff on safety-related duties and of the certification system for testing their competency; and
 (j) the incorporation and enforcement of safety-related clauses
 in the contracts for construction work at the aerodrome. [Subsidiary]
-- Margin: [Regulation 18(1)(b)(iv)].
+- Margin: Regulation 18(1)(b)(iv).

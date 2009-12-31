@@ -30,8 +30,13 @@ HELICOPTER CHART
 37. The Director-General to make available Aerodrome or Helicopter Chart.
 Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
 REGULATION
+THE DIRECTOR-GENERAL TO MAKE AVAILABLE AERONAUTICAL
+CHART-ICAO 1:500 000
+37A. The Director-General to make available Aeronautical Chart-ICAO 1:500 000. 37B. The Director-General to make available Aerodrome Terrain and Obstacle
+Chart-ICAO (Electronic).
 PART V
-STANDARDS FOR AERONAUTICAL TELECOMMUNICATION 38. Standards for Aeronautical Telecommunication.
+STANDARDS FOR AERONAUTICAL TELECOMMUNICATION
+38. Standards for Aeronautical Telecommunication.
 PART VI
 STANDARDS FOR METEOROLOGICAL SERVICE
 39. Standards for meteorological service.
@@ -57,24 +62,38 @@ aircraft, including parts which have become detached from the aircraft; or
 failure which-
 (i) adversely affects the structural strength,
 performance or flight characteristics of the aircraft; and
-Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
 (ii) would normally require major repair or
-replacement of the affected component, except for engine failure or damage, when the damage is limited to the engine, its cowlings or accessories; or for damage limited to propellers, wing tips, antennas, tyres, brakes, fairings, small dents or puncture holes in the aircraft skin; or
+replacement of the affected component, except for engine failure or damage,
+Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
+when the damage is limited to the engine, its cowlings or accessories; or for damage limited to propellers, wing tips, antennas, tyres, brakes, fairings, small dents or puncture holes in the aircraft skin; or
 (c) the aircraft is missing or is completely
 inaccessible; "accuracy" means a degree of conformance between the
-estimated or measured value and the true value; "advisory airspace" means an airspace of defined dimensions,
-or designated route, within which air traffic advisory service is available; "advisory route" means a designated route along which air traffic
-advisory service is available; "aerodrome" means a defined area on land or water including
-any buildings, installations and equipment intended to be used either wholly or in part for the arrival, departure and surface movement of aircraft; "aerodrome control service" means the provision of air traffic
-control service for those parts of controlled flights associated with arrival or departure; "aerodrome control tower" means a unit established to provide
-air traffic control service to aerodrome traffic; "aerodrome elevation" means the elevation of the highest point
-of the landing area; "aerodrome operating minima" means the limits of usability of
+estimated or measured value and the true value; "ADS" means a surveillance technique in which aircraft
+automatically provide, via a data link, data derived from on-board navigation and position-fixing systems, including aircraft identification, four-dimensional position and additional data, as appropriate; "ADS-C" is a means by which the terms of an ADS-C agreement
+will be exchanged between the ground system and the aircraft, via a data link, specifying under what conditions ADS-C reports would be initiated, and what data would be contained in the reports;
+Note: The abbreviated term "ADS contract" is commonly used to refer to
+ADS event contract, ADS demand contract, ADS periodic contract or an emergency mode. "ADS-C agreement" means a reporting plan which establishes
+the conditions of ADS-C data reporting such that data required by the air traffic services unit and frequency of ADS-C reports which have to be agreed to prior to using ADS-C in the provision of air traffic services;
+Note: The terms of the agreement will be exchanged between the ground
+system and the aircraft by means of a contract, or a series of contracts. "ADS-B" is a means by which aircraft, aerodrome vehicles and
+other objects can automatically transmit and/or receive data such as identification, position and additional data, as appropriate, in a broadcast mode via a data link; "advisory airspace" means an airspace of defined dimensions,
+or designated route, within which air traffic advisory service is available; [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
+"advisory route" means a designated route along which air traffic
+advisory service is available;
+"aerodrome" means a defined area on land or water including
+any buildings, installations and equipment intended to be used either wholly or in part for the arrival, departure and surface movement of aircraft;
+"aerodrome control service" means the provision of air traffic
+control service for those parts of controlled flights associated with arrival or departure;
+"aerodrome control tower" means a unit established to provide
+air traffic control service to aerodrome traffic;
+"aerodrome elevation" means the elevation of the highest point
+of the landing area;
+"aerodrome operating minima" means the limits of usability of
 an aerodrome for-
 (a) take-off, expressed in terms of runway visual range
 or visibility and, if necessary, cloud conditions;
 (b) landing in precision approach and landing
-operations, expressed in terms of visibility or [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
-runway visual range and decision altitude or height as appropriate to the category of the operation;
+operations, expressed in terms of visibility or runway visual range and decision altitude or height as appropriate to the category of the operation;
 (c) landing in approach and landing operations
 with vertical guidance, expressed in terms of visibility or runway visual range and decision altitude or height; and
 (d) landing in non-precision approach and landing
@@ -85,29 +104,29 @@ location of an aerodrome;
 of an aerodrome and all aircraft flying in the vicinity of an aerodrome;
 "aeronautical chart" means a representation of a portion of the
 Earth, its culture and relief, specifically designated to meet the requirements of air navigation;
-"aeronautical data" means a representation of aeronautical facts,
-concepts or instructions in a formalised manner suitable for communication, interpretation or processing;
-"aeronautical fixed service" means a telecommunication service
-between specified fixed points provided primarily for the safety of air navigation and for the regular, efficient and economical operation of air services;
-"aeronautical information" means information resulting from the
-assembly, analysis and formatting of aeronautical data;
-"Aeronautical Information Circular" means a notice containing
-information that does not qualify for the origination of a NOTAM or for inclusion in the AIP, but which relates to flight safety, air navigation, technical, administrative or legislative matters;
-"Aeronautical Information Publication" means a publication
-issued by or with the authority of a State and containing aeronautical information of a lasting character essential to air navigation;
 Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
-"aeronautical information publication amendment" means
+"aeronautical data" means a representation of aeronautical facts,
+concepts or instructions in a formalised manner suitable for communication, interpretation or processing; "aeronautical fixed service" means a telecommunication service
+between specified fixed points provided primarily for the safety of air navigation and for the regular, efficient and economical operation of air services; "aeronautical information" means information resulting from the
+assembly, analysis and formatting of aeronautical data; "Aeronautical Information Circular" means a notice containing
+information that does not qualify for the origination of a NOTAM or for inclusion in the AIP, but which relates to flight safety, air navigation, technical, administrative or legislative matters; "Aeronautical Information Publication" means a publication
+issued by or with the authority of a State and containing aeronautical information of a lasting character essential to air navigation; "aeronautical information publication amendment" means
 permanent changes to the information contained in the AIP; "aeronautical information regulation and control" means a
 system aimed at advance notification based on common effective dates, of circumstances that necessitate significant changes in operating practices; "Aeronautical Information Service" means a service established
 within the defined area of coverage responsible for the provision of aeronautical information or data necessary for the safety, regularity and efficiency of air navigation; "aeronautical information service product" means aeronautical
 information provided in the form of the elements of the Integrated Aeronautical Information Package except NOTAM and pre-flight information bulletin PIB, including aeronautical charts, or in the form of suitable electronic media; "aeronautical mobile service" means a mobile communication
-service between aeronautical stations and aircraft stations, or between aircraft stations, in which survival craft stations may participate; emergency position-indicating radio beacon stations may also participate in this service on designated distress and emergency frequencies; "aeronautical telecommunication station" means a station in the
-aeronautical telecommunication service; "aircraft stand" means a designated area on an apron intended to
-be used for parking an aircraft; "AIP Supplement" means temporary changes to the information
-contained in the AIP which are published by means of special pages; "air defence identification zone" means special designated airspace
-of defined dimensions within which aircraft are required to comply with special identification or reporting procedures additional to those related to the provision of ATS; "airborne collision avoidance system" means an aircraft system
-based on SSR transponder signals which operates independently of ground-based equipment to provide [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
-advice to the pilot on potential conflicting aircraft that are equipped with SSR transponders;
+service between aeronautical stations and aircraft stations, or between aircraft stations, in which survival craft stations [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
+may participate; emergency position-indicating radio beacon stations may also participate in this service on designated distress and emergency frequencies;
+"aeronautical telecommunication station" means a station in the
+aeronautical telecommunication service;
+"aircraft stand" means a designated area on an apron intended to
+be used for parking an aircraft;
+"AIP Supplement" means temporary changes to the information
+contained in the AIP which are published by means of special pages;
+"air defence identification zone" means special designated airspace
+of defined dimensions within which aircraft are required to comply with special identification or reporting procedures additional to those related to the provision of ATS;
+"airborne collision avoidance system" means an aircraft system
+based on SSR transponder signals which operates independently of ground-based equipment to provide advice to the pilot on potential conflicting aircraft that are equipped with SSR transponders;
 "aircraft" means any machine that can derive support in the
 atmosphere from the reactions of the air other than the reactions of the air against the earth's surface;
 "air-ground communication" means two-way communication
@@ -118,31 +137,32 @@ meteorological watch office concerning the occurrence or expected occurrence of 
 surface of an aerodrome, normally in ground effect and at a ground speed normally less than thirty-seven kilometres per hour or twenty knots;
 "air taxiway" means a defined path on the surface established for
 the air taxiing of helicopters;
+Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
 "air traffic" means all aircraft in flight or operating on the
-manoeuvring area of an aerodrome;
-"air traffic advisory service" means a service provided within
-advisory airspace to ensure separation, in so far as practical, between aircraft which are operating on IFR flight plans;
-"air traffic control clearance" means authorisation for an aircraft
-to proceed under conditions specified by an air traffic control unit;
-"air traffic control service" means a service provided for the
+manoeuvring area of an aerodrome; "air traffic advisory service" means a service provided within
+advisory airspace to ensure separation, in so far as practical, between aircraft which are operating on IFR flight plans; "air traffic control clearance" means authorisation for an aircraft
+to proceed under conditions specified by an air traffic control unit; "air traffic control service" means a service provided for the
 purpose of-
 (a) preventing collisions;
 (b) between aircraft;
 (i) on the manoeuvring area between aircraft
 and obstructions; and
-Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
 (ii) expediting and maintaining an orderly
 flow of air traffic; "air traffic control unit" means a generic term meaning variously,
 area control centre, approach control unit or aerodrome control tower; "air traffic flow management" means a service established with
 the objective of contributing to a safe, orderly and expeditious flow of air traffic by ensuring that ATC capacity is utilised to the maximum extent possible and that the traffic volume is compatible with the capacities declared by the appropriate ATS authority; "air traffic service" means a generic term meaning variously,
 flight information service, alerting service, air traffic advisory service, air traffic control service which may include area control service, approach control service or aerodrome control service; "air traffic services airspaces" means airspaces of defined
 dimensions, alphabetically designated, within which specific types of flights may operate and for which ATS and rules of operation are specified; "air traffic services reporting office" means a unit established for
-the purpose of receiving reports concerning ATS and flight plans submitted before departure; "air traffic service route" means a specified route designed for
-channelling the flow of traffic as necessary for the provision of ATS; "air traffic services unit" means a generic term meaning
-variously, air traffic control unit, flight information centre or air traffic services reporting office; "air transit route" means a defined path on the surface
-established for the air transitting of helicopters; "airway" means a control area or portion thereof established in
-the form of a corridor; "ALERFA" means the code word used to designate an alert phase; [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
-"alerting service" means a service provided to notify appropriate
+the purpose of receiving reports concerning ATS and flight plans submitted before departure; [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
+"air traffic service route" means a specified route designed for
+channelling the flow of traffic as necessary for the provision of ATS;
+"air traffic services unit" means a generic term meaning
+variously, air traffic control unit, flight information centre or air traffic services reporting office;
+"air transit route" means a defined path on the surface
+established for the air transitting of helicopters;
+"airway" means a control area or portion thereof established in
+the form of a corridor;
+"ALERFA" means the code word used to designate an alert phase; "alerting service" means a service provided to notify appropriate
 organisations regarding aircraft in need of search and rescue aid, and assist such organisations as required;
 "alert phase" means a situation wherein apprehension exists as to
 the safety of an aircraft and its occupants;
@@ -156,249 +176,291 @@ which an aircraft would be able to land after experiencing an abnormal or emerge
 and appropriate alternate aerodrome at which an aeroplane would be able to land after experiencing an engine shut down or other abnormal or emergency condition while en route in an ETOPS operation; and
 (d) "destination alternate" means an alternate
 aerodrome to which an aircraft may proceed should it become either impossible or inadvisable to land at the aerodrome of intended landing;
-"altitude" means the vertical distance of a level, a point or an
-object considered as a point, measured from mean sea level;
-"application" means manipulation and processing of data in
-support of user requirements;
-"approach control service" means air traffic control service for
-arriving or departing controlled flights;
-"approach control unit" means a unit established to provide air
-traffic control service to controlled flights arriving at, or departing from, one or more aerodromes;
 Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
-"appropriate air traffic services authority" means the relevant
+"altitude" means the vertical distance of a level, a point or an
+object considered as a point, measured from mean sea level; "AMA" means the minimum altitude to be used under
+instrument meteorological conditions IMC, that provides a minimum obstacle clearance within a specified area, normally formed by parallels and meridians; "application" means the manipulation and processing of data in
+support of user requirements; "approach control service" means air traffic control service for
+arriving or departing controlled flights; "approach control unit" means a unit established to provide air
+traffic control service to controlled flights arriving at, or departing from, one or more aerodromes; "appropriate air traffic services authority" means the relevant
 authority designated by the State responsible for providing ATS in the airspace concerned; "apron" means a defined area, on a land aerodrome, intended to
 accommodate aircraft for purposes of loading or unloading passengers, mail or cargo, fuelling, parking or maintenance; "apron management service" means a service provided to
 regulate the activities and the movement of aircraft and vehicles on an apron; "area control centre" means a unit established to provide air
 traffic control service to controlled flights in control areas under its jurisdiction; "area control service" means air traffic control service for
 controlled flights in control areas; "area minimum altitude" means the lowest altitude to be used
 under IMC that will provide a minimum vertical clearance of three thousand metres or one thousand feet or in designated mountainous terrain six hundred metres or two thousand feet above all obstacles located in the area specified, rounded up to the nearest next higher thirty metres or one hundred feet; "area navigation" means a method of navigation which permits
-aircraft operation on any desired flight path within the coverage of station-referenced navigation aids or within the limits of the capability of self-contained aids, or a combination of these; "area navigation route" means an ATS established for the use of
-aircraft capable of employing area navigation; "arrival routes" means routes identified in an instrument
-approach procedure by which aircraft may proceed from the en route phase of flight to an initial approach fix; "ASHTAM" means a special series NOTAM notifying by means
-of a specific format change in activity of a volcano, a volcanic eruption or volcanic ash cloud that is of significance to aircraft operations; [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
+aircraft operation on any desired flight path within the coverage of ground-or space-based navigation aids or [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
+within the limits of the capability of self-contained aids, or a combination of these;
+"area navigation route" means an ATS established for the use of
+aircraft capable of employing area navigation;
+"arrival routes" means routes identified in an instrument
+approach procedure by which aircraft may proceed from the en route phase of flight to an initial approach fix;
+"ASHTAM" means a special series NOTAM notifying by means
+of a specific format change in activity of a volcano, a volcanic eruption or volcanic ash cloud that is of significance to aircraft operations;
 "assemble" means a process of merging data from multiple
 sources into a database and establishing a baseline for subsequent processing;
+"ATS surveillance service" means the service provided directly
+by means of an ATS surveillance system;
+"ATS surveillance system" means a generic term meaning
+variously, ADS-B, PSR, SSR or any comparable ground-based system that enables the identification of aircraft;
+Note: A comparable ground-based system is one that has been
+demonstrated, by comparative assessment or other methodology, to have a level of safety and performance equal to or better than mono-pulse SSR.
 "Authority" means the Trinidad and Tobago Civil Aviation
 Authority established under the Act;
-"automatic dependent surveillance" means a surveillance
-technique in which aircraft automatically provide, via a data link, data derived from on-board navigation and position-fixing systems, including aircraft identification, four-dimensional position and additional data as appropriate;
 "automatic terminal information service" means the automatic
 provision of current, routine information to arriving and departing aircraft throughout 24 hours or a specified portion thereof;
 "data link-automatic terminal information service" means the
 provision of ATIS via data link;
 "bare earth" means a surface of the earth including bodies of
 water and permanent ice and snow, and excluding vegetation and man-made objects;
-"base turn" means a turn executed by the aircraft during the
-initial approach between the end of the outbound track and the beginning of the intermediate or final approach track where the tracks are not reciprocal;
-"calendar" means a discrete temporal reference system that
-provides the basis for defining temporal position to a resolution of one day (ISO 19108*);
-"canopy" means bare earth supplemented by vegetation height; "change-over point" means the point at which an aircraft
-navigating on an ATS route segment defined by reference to VOR is expected to transfer its primary navigational reference from the facility behind the aircraft to the next facility ahead of the aircraft;
-"Chicago Convention" means the Chicago Convention on
-International Civil Aviation concluded at Chicago on 7th December, 1944 and includes any Protocol amending the
 Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
-Convention and any Annex to the Convention relating to international standards and recommended practices, being an Annex adopted in aerodrome with that Convention; "clearance limit" means the point to which an aircraft is granted
+"base turn" means a turn executed by the aircraft during the
+initial approach between the end of the outbound track and the beginning of the intermediate or final approach track where the tracks are not reciprocal; "calendar" means a discrete temporal reference system that
+provides the basis for defining temporal position to a resolution of one day (ISO 19108*); "canopy" means bare earth supplemented by vegetation height; "change-over point" means the point at which an aircraft
+navigating on an ATS route segment defined by reference to VOR is expected to transfer its primary navigational reference from the facility behind the aircraft to the next facility ahead of the aircraft; "Chicago Convention" means the Chicago Convention on
+International Civil Aviation concluded at Chicago on 7th December 1944 and includes any Protocol amending the Convention and any Annex to the Convention relating to international standards and recommended practices, being an Annex adopted in aerodrome with that Convention; "clearance limit" means the point to which an aircraft is granted
 an air traffic control clearance; "clearway" means a defined rectangular area on the ground or
 water under the control of the appropriate authority selected or prepared as a suitable area over which an aeroplane may make a portion of its initial climb to a specified height; "conference communications" means communication facilities
 whereby direct speech conversation may be conducted between three or more locations simultaneously; "contour line" means a line on a map or chart connecting points
 of equal elevation; "control area" means a controlled airspace extending upwards
 from a specified limit above the earth; "controlled aerodrome" means an aerodrome at which air traffic
 control service is provided to aerodrome traffic; "controlled airspace" means an airspace of defined dimensions
-within which air traffic control service is provided in accordance with the airspace classification; "controlled flight" means any flight which is subject to an air
-traffic control clearance; "controller pilot data link communications" means a means of
-communication between controller and pilot, using data link for ATC communications; "control zone" means a controlled airspace extending upwards
-from the surface of the earth to a specified upper limit; "cruising level" means a level maintained during a significant
-portion of a flight; "culture" means all man-made features constructed on the
-surface of the Earth, such as cities, railways and canals; "cyclic redundancy check" means a mathematical algorithm
-applied to the digital expression of data that provides a level of assurance against loss or alteration of data; [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
+within which air traffic control service is provided in accordance with the airspace classification; [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
+"controlled flight" means any flight which is subject to an air
+traffic control clearance;
+"controller pilot data link communications" means a means of
+communication between controller and pilot, using data link for ATC communications;
+"control zone" means a controlled airspace extending upwards
+from the surface of the earth to a specified upper limit;
+"cruising level" means a level maintained during a significant
+portion of a flight;
+"culture" means all man-made features constructed on the
+surface of the Earth, such as cities, railways and canals;
+"cyclic redundancy check" means a mathematical algorithm
+applied to the digital expression of data that provides a level of assurance against loss or alteration of data;
 "danger area" means an airspace of defined dimensions within
 which activities dangerous to the flight of aircraft may exist at specified times;
 "database" means one or more files of data so structured that
 appropriate applications may draw from the files and update them;
 "data link communications" means a form of communication
 intended for the exchange of messages via a data link;
+"data link-VOLMET" means the provision of current aerodrome
+routine meteorological reports METAR and aerodrome special meteorological reports SPECI, aerodrome forecasts TAF, SIGMET, special air-reports not covered by a SIGMET and, where available, AIRMET via data link;
 "data product" means data set or data set series that conforms to
 a data product specification;
-"data product specification" means detailed description of a data
-set or data set series together with additional information that will enable it to be created, supplied to and used by another party;
-"data quality" means a degree or level of confidence that the data
-provided meets the requirements of the data user in terms of accuracy, resolution and integrity;
-"data set" means identifiable collection of data; "data set series" means collection of data sets sharing the same
-product specification;
-"datum" means any quantity or set of quantities that may serve
-as a reference or basis for the calculation of other quantities;
-"declared capacity" means a measure of the ability of the ATC
-system or any of its subsystems or operating positions to provide service to aircraft during normal activities and it is expressed as the number of aircraft entering a specified portion of airspace in a given period of time, taking due account of weather, ATC unit configuration, staff and equipment available, and any other factors that may affect the workload of the controller responsible for the airspace;
-"DETRESFA" means the code word used to designate a
-distress phase;
-"Digital Elevation Model" means the representation of terrain
-surface by continuous elevation values at all intersections of a defined grid, referenced to common datum;
+"data product specification" means a detailed description of a
+data set or data set series together with additional information that will enable it to be created, supplied to and used by another party;
+Note: A data product specification provides a description of the universe
+of discourse and a specification for mapping the universe of discourse to a data set. It may be used for production, sales, end-use or other purpose.
 Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
-"direct transit arrangements" means special arrangements
+"data quality" means a degree or level of confidence that the data
+provided meets the requirements of the data user in terms of accuracy, resolution and integrity; "data set" means an identifiable collection of data; "data set series" means a collection of data sets sharing the same
+product specification; "datum" means any quantity or set of quantities that may serve
+as a reference or basis for the calculation of other quantities; "declared capacity" means a measure of the ability of the ATC
+system or any of its subsystems or operating positions to provide service to aircraft during normal activities and it is expressed as the number of aircraft entering a specified portion of airspace in a given period of time, taking due account of weather, ATC unit configuration, staff and equipment available, and any other factors that may affect the workload of the controller responsible for the airspace; "DEM" means the representation of terrain surface by
+continuous elevation values at all intersections of a defined grid, referenced to common datum;
+Note: DTM is sometimes referred to as DEM. "feature attribute" means the characteristic of a feature;
+Note: A feature attribute has a name, a data type and a value domain
+association with it. "DETRESFA" means the code word used to designate a
+distress phase; "Digital Elevation Model" means the representation of terrain
+surface by continuous elevation values at all intersections of a defined grid, referenced to common datum; "direct transit arrangements" means special arrangements
 approved by the public authorities concerned by which traffic which is pausing briefly in its passage through the Contracting State may remain under their direct control; "displaced threshold" means a threshold not located at the
-extremity of a runway; "distress phase" means a situation wherein there is reasonable
-certainty that an aircraft and its occupants are threatened by grave and imminent danger or require immediate assistance; "downstream clearance" means a clearance issued to an aircraft
-by an air traffic control unit that is not the current controlling authority of that aircraft; "electronic aeronautical chart display" means an electronic
-device by which flight crews are enabled to execute, in a convenient and timely manner, route planning, route monitoring and navigation by displaying required information; "elevation" means the vertical distance of a point or a level, on
-or affixed to the surface of the earth, measured from mean sea level; "ellipsoid height or Geodetic height" means the height related to
-the reference ellipsoid, measured along the ellipsoidal outer normal through the point in question; "emergency phase" means a generic term meaning, as the case
-may be, uncertainty phase, alert phase or distress phase; "feature" means abstraction of real world phenomena; "feature attribute" means characteristic of a feature; "feature operation" means operation that every instance of a
-feature type may perform; "feature relationship" means relationship that links instances of
-one feature type with instances of the same or a different feature type; "feature type" means class of real world phenomena with
-common properties; [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
+extremity of a runway; [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
+"distress phase" means a situation wherein there is reasonable
+certainty that an aircraft and its occupants are threatened by grave and imminent danger or require immediate assistance;
+"downstream clearance" means a clearance issued to an aircraft
+by an air traffic control unit that is not the current controlling authority of that aircraft;
+"electronic aeronautical chart display" means an electronic
+device by which flight crews are enabled to execute, in a convenient and timely manner, route planning, route monitoring and navigation by displaying required information;
+"elevation" means the vertical distance of a point or a level, on
+or affixed to the surface of the earth, measured from mean sea level;
+"ellipsoid height or Geodetic height" means the height related to
+the reference ellipsoid, measured along the ellipsoidal outer normal through the point in question;
+"emergency phase" means a generic term meaning, as the case
+may be, uncertainty phase, alert phase or distress phase;
+"feature" means abstraction of real world phenomena;
+"feature attribute" means characteristic of a feature;
+"feature operation" means operation that every instance of a
+feature type may perform;
+"feature relationship" means relationship that links instances of
+one feature type with instances of the same or a different feature type;
+"feature type" means class of real world phenomena with
+common properties;
 "final approach" means that part of an instrument approach
 procedure which commences at the specified final approach fix or point, or where such a fix or point is not specified-
 (a) at the end of the last procedure turn, base turn
 or inbound turn of a racetrack procedure, if specified; or
+Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
 (b) at the point of interception of the last track
 specified in the approach procedure; and ends at a point in the vicinity of an aerodrome from which-
 (i) a landing can be made; or
-(ii) a missed approach procedure is initiated;
-"final approach and take-off area" means a defined area over
-which the final phase of the approach manoeuvre to hover or landing is completed and from which the take-off manoeuvre is commenced. Where the FATO is to be used by performance Class 1 helicopters, the defined area includes the rejected take-off area available;
-"final approach fix or point" means that fix or point of an
-instrument approach procedure where the final approach segment commences;
-"final approach segment" means that segment of an instrument
-approach procedure in which alignment and descent for landing are accomplished;
-"flight crew member" means a licensed crew member charged
-with duties essential to the operation of an aircraft during a flight duty period;
-"flight information centre" means a unit established to provide
-flight information service and alerting service;
-"flight information region" means an airspace of defined
-dimensions within which flight information service and alerting service are provided;
-"flight information service" means a service provided for the
-purpose of giving advice and information useful for the safe and efficient conduct of flights;
-Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
-"flight level" means a surface of constant atmospheric pressure
+(ii) a missed approach procedure is initiated; "final approach and take-off area" means a defined area over
+which the final phase of the approach manoeuvre to hover or landing is completed and from which the take-off manoeuvre is commenced. Where the FATO is to be used by performance Class 1 helicopters, the defined area includes the rejected take-off area available; "final approach fix or point" means that fix or point of an
+instrument approach procedure where the final approach segment commences; "final approach segment" means that segment of an instrument
+approach procedure in which alignment and descent for landing are accomplished; "flight crew member" means a licensed crew member charged
+with duties essential to the operation of an aircraft during a flight duty period; "flight information centre" means a unit established to provide
+flight information service and alerting service; "flight information region" means an airspace of defined
+dimensions within which flight information service and alerting service are provided; "flight information service" means a service provided for the
+purpose of giving advice and information useful for the safe and efficient conduct of flights; "flight level" means a surface of constant atmospheric pressure
 which is related to a specific pressure datum, 10 13.2 hectopascals, and is separated from other such surfaces by specific pressure intervals; "flight plan" means specified information provided to air traffic
-services units, relative to an intended flight or portion of a flight of an aircraft; "fly-by waypoint" means a waypoint which requires turn
-anticipation to allow tangential interception of the next segment of a route or procedure; "flyover waypoint" means a waypoint at which a turn is initiated
-in order to join the next segment of a route or procedure; "forecast" means a statement of expected meteorological
-conditions for a specified time or period, and for a specified area or portion of airspace; "geodetic datum" means a minimum set of parameters required
-to define location and orientation of the local reference system with respect to the global reference system or frame; "geodesic distance" means the shortest distance between any two
-points on a mathematically defined ellipsoidal surface; "geographical position" means a set of latitude and longitude
-coordinates referenced to the mathematical reference ellipsoid which define the position of a point on the surface of the Earth; "geoid" means the equipotential surface in the gravity field of
-the Earth which coincides with the undisturbed MSL extended continuously through the continents; "geoid undulation" means the distance of the geoid above or
-below the mathematical reference ellipsoid; "glide path" means a descent profile determined for vertical
-guidance during a final approach; "gregorian calendar" means calendar in general use; first
-introduced in 1582 to define a year that more closely approximates the tropical year than the Julian calendar; [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
+services units, relative to an intended flight or portion of a flight of an aircraft; [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
+"fly-by waypoint" means a waypoint which requires turn
+anticipation to allow tangential interception of the next segment of a route or procedure;
+"flyover waypoint" means a waypoint at which a turn is initiated
+in order to join the next segment of a route or procedure;
+"forecast" means a statement of expected meteorological
+conditions for a specified time or period, and for a specified area or portion of airspace;
+"geodetic datum" means a minimum set of parameters required
+to define location and orientation of the local reference system with respect to the global reference system or frame;
+"geodesic distance" means the shortest distance between any two
+points on a mathematically defined ellipsoidal surface;
+"geographical position" means a set of latitude and longitude
+co-ordinates referenced to the mathematical reference ellipsoid which define the position of a point on the surface of the Earth;
+"geoid" means the equipotential surface in the gravity field of
+the Earth which coincides with the undisturbed MSL extended continuously through the continents;
+"geoid undulation" means the distance of the geoid above or
+below the mathematical reference ellipsoid;
+"glide path" means a descent profile determined for vertical
+guidance during a final approach;
+"gregorian calendar" means calendar in general use; first
+introduced in 1582 to define a year that more closely approximates the tropical year than the Julian calendar;
 "height" means the vertical distance of a level, a point or an object
 considered as a point, measured from a specified datum;
 "helicopter stand" means an aircraft stand which provides for
 parking a helicopter and, where air taxiing operations are contemplated, the helicopter touchdown and lift-off;
 "heliport" means an aerodrome or a defined area on a structure
 intended to be used wholly or in part for the arrival, departure and surface movement of helicopters;
-"holding procedure" means a predetermined manoeuvre which
-keeps an aircraft within a specified airspace while awaiting further clearance;
-"human factors principles" means principles which apply to
-aeronautical design, certification, training, operations and maintenance and which seek safe interface between the human and other system components by proper consideration to human performance;
-"human performance" means human capabilities and limitations
-which have an impact on the safety and efficiency of aeronautical operations;
-"hypsometric tints" means a succession of shades or colour
-gradations used to depict ranges of elevation;
-"Instrument Flight Rules flight" means a flight conducted in
-accordance with the instrument flight rules;
-"INCERFA" means the code word used to designate an
-uncertainty phase;
-"incident" means an occurrence, other than an accident,
-associated with the operation of an aircraft which affects or could affect the safety of operation;
-"instrument approach procedure" means a series of
-predetermined manoeuvres by reference to flight instruments with specified protection from obstacles from the initial approach fix, or where applicable, from the beginning of a defined arrival route to a point from which a landing can be completed and thereafter, if a landing is not completed, to a position at which holding or en route obstacle clearance criteria apply;
 Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
-"initial approach segment" means that segment of an instrument
-approach procedure between the initial approach fix and the intermediate approach fix or, where applicable, the final approach fix or point; "instrument meteorological conditions" means meteorological
-conditions expressed in terms of visibility, distance from cloud, and ceiling, less than the minima specified for visual meteorological conditions; "integrated aeronautical information package" means a package
+"holding procedure" means a predetermined manoeuvre which
+keeps an aircraft within a specified airspace while awaiting further clearance; "hot spot" means a location on an aerodrome movement area
+with a history or potential risk of collision or runway incursion, and where heightened attention by pilots or drivers is necessary; "human factors principles" means principles which apply to
+aeronautical design, certification, training, operations and maintenance and which seek safe interface between the human and other system components by proper consideration to human performance; "human performance" means human capabilities and limitations
+which have an impact on the safety and efficiency of aeronautical operations; "hypsometric tints" means a succession of shades or colour
+gradations used to depict ranges of elevation; "Instrument Flight Rules flight" means a flight conducted in
+accordance with the instrument flight rules; "INCERFA" means the code word used to designate an
+uncertainty phase; "incident" means an occurrence, other than an accident,
+associated with the operation of an aircraft which affects or could affect the safety of operation; "instrument approach procedure" means a series of
+predetermined manoeuvres by reference to flight instruments with specified protection from obstacles from the initial approach fix, or where applicable, from the beginning of a defined arrival route to a point from which a landing can be completed and thereafter, if a landing is not completed, to a position at which holding or en route obstacle clearance criteria apply; "initial approach segment" means that segment of an instrument
+approach procedure between the initial approach fix and the intermediate approach fix or, where applicable, the final approach fix or point; [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
+"instrument meteorological conditions" means meteorological
+conditions expressed in terms of visibility, distance from cloud, and ceiling, less than the minima specified for visual meteorological conditions;
+"integrated aeronautical information package" means a package
 which consists of the following elements:
 (a) AIP, including amendment service;
 (b) supplements to the AIP;
 (c) NOTAM and PIB;
 (d) AIC; and
-(e) checklists and lists of valid NOTAM; "integrity of aeronautical data" means a degree of assurance that
-an aeronautical data and its value has not been lost nor altered since the data origination or authorised amendment; "intermediate approach segment" means that segment of an
-instrument approach procedure between either the intermediate approach fix and the final approach fix or point, or between the end of a reversal, racetrack or dead reckoning track procedure and the final approach fix or point, as appropriate; "international airport" means any airport designated by the
-Contracting State in whose territory it is situated as an airport of entry and departure for international air traffic, where the formalities incident to Customs, immigration, public health, animal and plant quarantine and similar procedures are carried out; "international NOTAM office" means an office designated by a
-State for the exchange of NOTAM internationally; "isogonal" means a line on a map or chart on which all points
-have the same magnetic variation for a specified epoch; [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
+(e) checklists and lists of valid NOTAM;
+"integrity of aeronautical data" means a degree of assurance that
+an aeronautical data and its value has not been lost nor altered since the data origination or authorised amendment;
+"intermediate approach segment" means that segment of an
+instrument approach procedure between either the intermediate approach fix and the final approach fix or point, or between the end of a reversal, racetrack or dead reckoning track procedure and the final approach fix or point, as appropriate;
+"intermediate holding position" means a designated position
+intended for traffic control at which taxiing aircraft and vehicles shall stop and hold until further cleared to proceed, when so instructed by the aerodrome control tower;
+"international airport" means any airport designated by the
+Contracting State in whose territory it is situated as an airport of entry and departure for international air traffic, where the formalities incident to Customs, immigration, public health, animal and plant quarantine and similar procedures are carried out;
+"international NOTAM office" means an office designated by a
+State for the exchange of NOTAM internationally;
+"isogonal" means a line on a map or chart on which all points
+have the same magnetic variation for a specified epoch;
 "isogriv" means a line on a map or chart which joins points of
 equal angular difference between the North of the navigation grid and Magnetic North;
+Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
 "landing area" means that part of a movement area intended for
-the landing or take-off of aircraft;
-"landing direction indicator" means a device to indicate visually
-the direction currently designated for landing and for take-off;
-"level" means a generic term relating to the vertical position of
-an aircraft in flight and meaning variously, height, altitude or flight level;
-"magnetic variation" means the angular difference between
-True North and Magnetic North;
-"manoeuvring area" means that part of an aerodrome to be used
-for the take-off, landing and taxiing of aircraft, excluding aprons;
-"marking" means a symbol or group of symbols displayed on the
-surface of the movement area in order to convey aeronautical information;
-"metadata" means data about data; "meteorological office" means an office designated to provide
-meteorological service for international air navigation;
-"minimum sector altitude" means the lowest altitude which may
-be used which will provide a minimum clearance of three hundred metres or one thousand feet above all objects located in an area contained within a sector of a circle of forty-five kilometers or twenty-five nautical miles radius centred on a radio aid to navigation;
-"missed approach point" means that point in an instrument
-approach procedure at or before which the prescribed missed approach procedure must be initiated in order to ensure that the minimum obstacle clearance is not infringed;
-"missed approach procedure" means the procedure to be
-followed where the approach cannot be continued;
-Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
+the landing or take-off of aircraft; "landing direction indicator" means a device to indicate visually
+the direction currently designated for landing and for take-off; "level" means a generic term relating to the vertical position of
+an aircraft in flight and meaning variously, height, altitude or flight level; "logon address" means a specified code used for data link logon
+to an ATS unit; "magnetic variation" means the angular difference between
+True North and Magnetic North; "manoeuvring area" means that part of an aerodrome to be used
+for the take-off, landing and taxiing of aircraft, excluding aprons; "marking" means a symbol or group of symbols displayed on the
+surface of the movement area in order to convey aeronautical information; "MEA" means the altitude for an en route segment that provides
+adequate reception of relevant navigation facilities and ATS communications, complies with the airspace structure and provides the required obstacle clearance; "metadata" means data about data; "meteorological office" means an office designated to provide
+meteorological service for international air navigation; "minimum sector altitude" means the lowest altitude which may
+be used which will provide a minimum clearance of three hundred metres or one thousand feet above all objects located in an area contained within a sector of a circle of forty-five kilometers or twenty-five nautical miles radius centred on a radio aid to navigation; "missed approach point" means that point in an instrument
+approach procedure at or before which the prescribed missed approach procedure must be initiated in order to ensure that the minimum obstacle clearance is not infringed; "missed approach procedure" means the procedure to be
+followed where the approach cannot be continued; [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
+"MOCA" means the minimum altitude for a defined segment of
+flight that provides the required obstacle clearance;
 "movement area" means that part of an aerodrome to be used for
-the take-off, landing and taxiing of aircraft, consisting of the manoeuvring area and the apron; "neat line" means a border line commonly drawn around the
-extent of a map or chart and separates the data from the rest of the surround area; "NOTAM" means a notice distributed by means of
-telecommunication containing information concerning the establishment, condition or change in any aeronautical facility, service, procedure or hazard, the timely knowledge of which is essential to personnel concerned with flight operations; "obstacle" means all temporary or permanent fixed and mobile
-objects, or parts thereof, that are located on an area intended for the surface movement of aircraft or that extend above a defined surface intended to protect aircraft in flight; "obstacle clearance altitude or obstacle clearance height" means
-the lowest altitude or the lowest height above the elevation of the relevant runway threshold or the aerodrome elevation as applicable, used in establishing compliance with appropriate obstacle clearance criteria; "obstacle free zone" means the airspace above the inner
-approach surface, inner transitional surfaces, and balked landing surface and that portion of the strip bounded by these surfaces, which is not penetrated by any fixed obstacle other than a low-mass and frangibly mounted one required for air navigation purposes; "operator" means a person, organisation or enterprise engaged in
-or offering to engage in an aircraft operation; "orthometric height" means height of a point related to the geoid,
-generally presented as a MSL elevation; "pilot in command" means the pilot designated by the operator,
-or in the case of general aviation, the owner, as being in command and charged with the safe conduct of a flight; "point light" means a luminous signal appearing without
-perceptible length; [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
-"portrayal" means presentation of information to humans; "post spacing" means angular or linear distance between two
-adjacent elevation points;
-"procedure turn" means a manoeuvre in which a turn is made
-away from a designated track followed by a turn in the opposite direction to permit the aircraft to intercept and proceed along the reciprocal of the designated track;
-"precision" means the smallest difference that can be reliably
-distinguished by a measurement process;
-"precision approach procedure" means an instrument approach
-procedure utilising azimuth and glide path information provided by ILS or PAR;
-"pre-flight information bulletin" means a presentation of current
-NOTAM information of operational significance, prepared prior to flight;
-"printed communications" means communications which
-automatically provide a permanent printed record at each terminal of a circuit of all messages which pass over such circuit;
-"procedure altitude or height" means a specified altitude or
-height flown operationally at or above the minimum altitude or height and established to accommodate a stabilised descent at a prescribed descent gradient or angle in the intermediate or final approach segment;
-"prohibited area" means an airspace of defined dimensions,
-above the land areas or territorial waters of a State, in which the flight of aircraft is prohibited;
-"quality" means totality of characteristics of an entity that bear
-on its ability to satisfy stated and implied needs;
-"quality assurance" means all the planned and systematic
-activities implemented within the quality system, and demonstrated as needed, to provide adequate confidence that an entity will fulfil requirements for quality;
-"quality control" means the operational techniques and activities
-that are used to fulfil requirements for quality;
+the take-off, landing and taxiing of aircraft, consisting of the manoeuvring area and the apron;
+"navigation specification" means a set of aircraft and flight crew
+requirements needed to support performance-based navigation operations within a defined airspace such as
+RNP specification and RNAV specification;
+"neat line" means a border line commonly drawn around the
+extent of a map or chart and separates the data from the rest of the surround area;
+"NOTAM" means a notice distributed by means of
+telecommunication containing information concerning the establishment, condition or change in any aeronautical facility, service, procedure or hazard, the timely knowledge of which is essential to personnel concerned with flight operations;
+"obstacle" means all temporary or permanent fixed and mobile
+objects, or parts thereof, that are located on an area intended for the surface movement of aircraft or that extend above a defined surface intended to protect aircraft in flight;
+"obstacle clearance altitude or obstacle clearance height" means
+the lowest altitude or the lowest height above the elevation of the relevant runway threshold or the aerodrome elevation as applicable, used in establishing compliance with appropriate obstacle clearance criteria;
+"obstacle free zone" means the airspace above the inner
+approach surface, inner transitional surfaces, and balked landing surface and that portion of the strip bounded by these surfaces, which is not penetrated by any fixed obstacle other than a low-mass and frangibly mounted one required for air navigation purposes;
+"operator" means a person, organisation or enterprise engaged in
+or offering to engage in an aircraft operation;
+"orthometric height" means height of a point related to the geoid,
+generally presented as a MSL elevation;
+"performance-based navigation" means area navigation based on
+performance requirements for aircraft operating along an
 Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
-"quality management" means all activities of the overall
-management function that determine the quality policy, objectives and responsibilities, and implementing them by means such as quality planning, quality control, quality assurance and quality improvement within the quality system; "quality system" means the organisational structure, procedures,
-processes and resources needed to implement quality management; "radar vectoring" means provision of navigational guidance to
-aircraft in the form of specific headings, based on the use of radar; "radiotelephony" means a form of radiocommunication
-primarily intended for the exchange of information in the form of speech; "relief" means the inequalities in elevation of the surface of the
-Earth represented on aeronautical charts by contours, hypsometric tints, shading or spot elevations; "reporting point" means a specified geographical location in
-relation to which the position of an aircraft can be reported; "required navigation performance" means a statement of the
-navigation performance necessary for operation within a defined airspace; "required navigational performance type" means a containment
-value expressed as a distance in nautical miles from the intended position within which flights would be for at least ninety-five per cent of the total flying time; "requirements for quality" means expression of the needs or their
-translation into a set of quantitatively or qualitatively stated requirements for the characteristics of an entity to enable its realisation and examination; "rescue coordination centre" means a unit responsible for
-promoting efficient organisation of search and rescue services and for coordinating the conduct of search and rescue operations within a search and rescue region; [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
-"resolution" means a number of units or digits to which a
-measured or calculated value is expressed and used;
-"restricted area" means an airspace of defined dimensions, above
-the land areas or territorial waters of a State, within which the flight of aircraft is restricted in accordance with certain specified conditions;
-"reversal procedure" means a procedure designed to enable
-aircraft to reverse direction during the initial approach segment of an instrument approach procedure and the sequence may include procedure turns or base turns;
-"route stage" means a route or portion of a route flown without
-an intermediate landing;
-"runway" means a defined rectangular area on a land aerodrome
-prepared for the landing and take-off of aircraft;
-"runway-holding position" means a designated position intended
-to protect a runway, an obstacle limitation surface, or an ILS or MLS critical or sensitive area at which taxiing aircraft and vehicles shall stop and hold, unless otherwise authorised by the aerodrome control tower;
+ATS route on an instrument approach procedure or in a designated airspace; "pilot in command" means the pilot designated by the operator,
+or in the case of general aviation, the owner, as being in command and charged with the safe conduct of a flight; "point light" means a luminous signal appearing without
+perceptible length; "portrayal" means presentation of information to humans; "post spacing" means angular or linear distance between two
+adjacent elevation points; "procedure turn" means a manoeuvre in which a turn is made
+away from a designated track followed by a turn in the opposite direction to permit the aircraft to intercept and proceed along the reciprocal of the designated track; "precision" means the smallest difference that can be reliably
+distinguished by a measurement process; "precision approach procedure" means an instrument approach
+procedure utilising azimuth and glide path information provided by ILS or PAR; "pre-flight information bulletin" means a presentation of current
+NOTAM information of operational significance, prepared prior to flight; "printed communications" means communications which
+automatically provide a permanent printed record at each terminal of a circuit of all messages which pass over such circuit; "procedure altitude or height" means a specified altitude or
+height flown operationally at or above the minimum altitude or height and established to accommodate a stabilised descent at a prescribed descent gradient or angle in the intermediate or final approach segment; "prohibited area" means an airspace of defined dimensions,
+above the land areas or territorial waters of a State, in which the flight of aircraft is prohibited; "quality" means the degree to which a set of inherent
+characteristics fulfils requirements; [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
+Note 1: The term "quality" can be used with adjectives such as poor,
+good or excellent.
+Note 2: "Inherent", as opposed to "assigned", means existing in
+something, especially as a permanent characteristic.
+"quality assurance" means the part of quality management
+focused on providing confidence that quality requirements will be fulfilled;
+"quality control" means the part of quality management focused
+on fulfilling quality requirements;
+"quality management" means the co-ordinated activities to direct
+and control an organisation with regard to quality;
+"radar vectoring" means provision of navigational guidance to
+aircraft in the form of specific headings, based on the use of radar;
+"radio navigation service" means a service providing information
+or position data for the efficient and safe operation of aircraft supported by one or more navigation aids;
+"radiotelephony" means a form of radiocommunication
+primarily intended for the exchange of information in the form of speech;
+"RCP" means a statement of the performance requirements
+for operational communication in support of specific ATM functions;
+"RCP type" is a label such as RCP 240 that represents the values
+assigned to RCP parameters for communication transaction time, continuity, availability and integrity;
+"relief" means the inequalities in elevation of the surface of the
+Earth represented on aeronautical charts by contours, hypsometric tints, shading or spot elevations;
+"reporting point" means a specified geographical location in
+relation to which the position of an aircraft can be reported;
+"requirement" means the need or expectation that is stated,
+generally implied or obligatory;
+Note 1: "Generally implied" means that it is custom or common
+practice for the organisation, its customers and other interested parties, that the need or expectation under consideration is implied.
+Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
+Note 2: A qualifier can be used to denote a specific type of requirement,
+e.g., product requirement, quality management requirement, customer requirement.
+Note 3: A specified requirement is one which is stated, for example, in
+a document.
+Note 4: Requirement can be generated by different interested parties. "rescue co-ordination centre" means a unit responsible for
+promoting efficient organisation of search and rescue services and for co-ordinating the conduct of search and rescue operations within a search and rescue region; "resolution" means a number of units or digits to which a
+measured or calculated value is expressed and used; "restricted area" means an airspace of defined dimensions, above
+the land areas or territorial waters of a State, within which the flight of aircraft is restricted in accordance with certain specified conditions; "reversal procedure" means a procedure designed to enable
+aircraft to reverse direction during the initial approach segment of an instrument approach procedure and the sequence may include procedure turns or base turns; "RNAV specification" means a navigation specification based on
+area navigation that does not include the requirement for performance monitoring and alerting, designated by the prefix RNAV such as RNAV 5 and RNAV 1; "RNP specification" means a navigation specification based on
+area navigation that includes the requirement for performance monitoring and alerting, designated by the prefix RNP such as RNP 4 and RNP APCH; "route stage" means a route or portion of a route flown without
+an intermediate landing; "runway" means a defined rectangular area on a land aerodrome
+prepared for the landing and take-off of aircraft; "runway-holding position" means a designated position intended
+to protect a runway, an obstacle limitation surface, or an ILS [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
+or MLS critical and sensitive area at which taxiing aircraft and vehicles shall stop and hold, unless otherwise authorised by the aerodrome control tower;
+Note: In radiotelephony phraseologies, the expression "holding point"
+is used to designate the runway-holding position.
 "runway strip" means a defined area including the runway and
 stopway, if provided, intended-
 (a) to reduce the risk of damage to aircraft running
@@ -411,11 +473,14 @@ an aircraft on the centre line of a runway can see the runway surface markings o
 prepared as to provide a transition between the pavement and the adjacent surface;
 "SIGMET information" means information issued by a
 meteorological watch office concerning the occurrence or expected occurrence of specified en route weather phenomena which may affect the safety of aircraft operations;
-Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
 "SNOWTAM" means a special series NOTAM notifying the
-presence or removal of hazardous conditions due to snow, ice, slush or standing water associated with snow, slush and ice on the movement area, by means of a specific format; "special Visual Flight Rules flight" means a flight cleared by air
-traffic control to operate within a control zone in meteorological conditions below VMC; "station declination" means an alignment variation between the
-zero degree radial of a VOR and true north, determined at the time the VOR station is calibrated; "stopway" means a defined rectangular area on the ground at the
+presence or removal of hazardous conditions due to snow, ice, slush or standing water associated with snow, slush and ice on the movement area, by means of a specific format;
+"special Visual Flight Rules flight" means a flight cleared by air
+traffic control to operate within a control zone in meteorological conditions below VMC;
+"station declination" means an alignment variation between the
+zero degree radial of a VOR and true north, determined at the time the VOR station is calibrated;
+Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
+"stopway" means a defined rectangular area on the ground at the
 end of take-off run available prepared as a suitable area in which an aircraft can be stopped in the case of an abandoned take-off; "taxiing" means movement of an aircraft on the surface of an
 aerodrome under its own power, excluding take-off and landing; "taxiway" means a defined path on a land aerodrome established
 for the taxiing of aircraft and intended to provide a link between one part of the aerodrome and another, including-
@@ -425,92 +490,103 @@ apron designated as a taxiway and intended to provide access to aircraft stands 
 system located on an apron and intended to provide a through taxi route across the apron;
 (c) rapid exit taxiway which is a taxiway connected
 to a runway at an acute angle and designed to allow landing aeroplanes to turn off at higher speeds than are achieved on other exit taxiways thereby minimising runway occupancy times; "terminal arrival altitude" means the lowest altitude that will
-provide a minimum clearance of three hundred metres or one thousand feet above all objects located in an arc of a circle defined by a forty-six kilometres or twenty-five [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
-nautical metres radius centred on the IAF, or where there is no IAF on the IF, delimited by straight lines joining the extremity of the arc to the IF. The combined TAAs associated with an approach procedure shall account for an area of three hundred and sixty degrees around the IF;
-"terminal control area" means a control area normally
-established at the confluence of ATS routes in the vicinity of one or more major aerodromes;
-"terrain" means the surface of the Earth containing naturally
-occurring features such as mountains, hills, ridges, valleys, bodies of water, permanent ice and snow, and excluding obstacles;
+provide a minimum clearance of three hundred metres or one thousand feet above all objects located in an arc of a circle defined by a forty-six kilometres or twenty-five nautical metres radius centred on the IAF, or where there is no IAF on the IF, delimited by straight lines joining the extremity of the arc to the IF. The combined TAAs associated with an approach procedure shall account for an area of three hundred and sixty degrees around the IF; "terminal control area" means a control area normally
+established at the confluence of ATS routes in the vicinity of one or more major aerodromes; "terrain" means the surface of the Earth containing naturally
+occurring features such as mountains, hills, ridges, valleys, bodies of water, permanent ice and snow, and excluding obstacles; [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
 "threshold" means the beginning of that portion of the runway
 usable for landing;
 "touchdown and lift-off area" means a load bearing area on
 which a helicopter may touch down or lift off;
 "touchdown zone" means the portion of a runway, beyond the
 threshold, where it is intended landing aeroplanes first contact the runway;
-"traceability" means ability to trace the history, application or
-location of an entity by means of recorded identifications;
+"traceability" means the ability to trace the history, application or
+location of that which is under consideration;
+Note: When considering product, traceability can relate to-the origin of
+materials and parts; the processing history; and the distribution and location of the product after delivery.
 "track" means the projection on the earth's surface of the path of
 an aircraft, the direction of which path at any point is usually expressed in degrees from True North, Magnetic North or Grid North;
 "traffic avoidance advice" means advice provided by an air
 traffic services unit specifying manoeuvres to assist a pilot to avoid a collision;
 "traffic information" means information issued by an air traffic
 services unit to alert a pilot to other known or observed air traffic which may be in proximity to the position or intended route of flight and to help the pilot avoid a collision;
-Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
 "transfer of control point" means a defined point located along
-the flight path of an aircraft, at which the responsibility for providing air traffic control service to the aircraft is transferred from one control unit or control position to the next; "transferring unit" means air traffic control unit in the process of
-transferring the responsibility for providing air traffic control service to an aircraft to the next air traffic control unit along the route of flight; "transition altitude" means the altitude at or below which the
-vertical position of an aircraft is controlled by reference to altitudes; "uncertainty phase" means a situation wherein uncertainty exists
-as to the safety of an aircraft and its occupants; "validation" means confirmation by examination and provision
-of objective evidence that the particular requirements for a specific intended use are fulfilled; "verification" means confirmation by examination and provision
-of objective evidence that specified requirements have been fulfilled; "visual flight rules flight" means a flight conducted in
+the flight path of an aircraft, at which the responsibility for providing air traffic control service to the aircraft is transferred from one control unit or control position to the next;
+"transferring unit" means air traffic control unit in the process of
+transferring the responsibility for providing air traffic control service to an aircraft to the next air traffic control unit along the route of flight;
+"transition altitude" means the altitude at or below which the
+vertical position of an aircraft is controlled by reference to altitudes;
+Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
+"uncertainty phase" means a situation wherein uncertainty exists
+as to the safety of an aircraft and its occupants; "validation" means confirmation through the provision of
+objective evidence, that the requirements for a specific intended use or application have been fulfilled; "vectoring" means the provision of navigational guidance to
+aircraft in the form of specific headings, based on the use of an ATS surveillance system; "verification" means confirmation through the provision of
+objective evidence, that specified requirements have been fulfilled;
+Note 1: The term "verified" is used to designate the corresponding status. Note 2: Confirmation can comprise activities such as-p e r f o r m i n g
+alternative calculations; comparing a new design specification with a similar proven design specification; undertaking tests and demonstrations; and reviewing documents prior to issue. "visual flight rules flight" means a flight conducted in
 accordance with the visual flight rules; "visual approach procedure" means a series of predetermined
 manoeuvres by visual reference, from the initial approach fix, or where applicable, from the beginning of a defined arrival route to a point from which a landing can be completed and thereafter, where a landing is not completed, a go-around procedure can be carried out; "visual meteorological conditions" means meteorological
 conditions expressed in terms of visibility, distance from cloud, and ceiling, equal to or better than specified minima; "voice-automatic terminal information service" means the
-provision of ATIS by means of continuous and repetitive voice broadcasts; [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
+provision of ATIS by means of continuous and repetitive voice broadcasts; "VOLMET broadcast" means the provision, as appropriate, of
+current METAR, SPECI, TAF and SIGMET by means of continuous and repetitive voice broadcasts; [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
 "waypoint" means a specified geographic location used to define
 an area navigation route or the flight path of an aircraft employing area navigation and is identified either as-
 (a) fly-by waypoint; or
 (b) flyover waypoint;
-(2) In these Regulations-
+(2) For the purposes of these Regulations-
 "ACAS" means Airborne Collision Avoidance System;
 "ADS" means Automatic Department Surveillance;
-"ADIZ" means Air Defence Identified Zone; "AFS" means Aeronautical Fixed Service; "AFTN" means Aeronautical Fixed Telecommunication
+"ADS-B" means Automatic Dependent Surveillance-Broadcast; "ADS-C" means Automatic Dependent Surveillance-Contract; "ADIZ" means Air Defence Identified Zone; "AFS" means Aeronautical Fixed Service; "AFTN" means Aeronautical Fixed Telecommunication
 Network;
-"AGA" means Aerodrome, Air routes and Ground Aids;
+"AGA" means Aerodrome, Air Routes and Ground Aids;
 "AIC" means Aeronautical Information Circular;
 "AIP" means Aeronautical Information Publication;
-"AIRAC" means Aeronautical Information Regulation and Control;
+"AIRAC" means Aeronautical Information Regulation and Control; "AIRMET" means ...
 "AIS" means Aeronautical Information Services;
-"ATFM" means Air Traffic Flow Management; "ATIS" means Automatic Terminal Information Service; "ATS" means Air Traffic Services; "COM" means Communications; "CPDLC" means Controller-Pilot Data Link Communications; "CRC" means Cyclic Redundancy Check; "DME/P" means Precision Distance Measuring Equipment; "EGM" means Earth Gravitational Model; "EGNOS" means European Geostationary Navigation
-Overlay Service;
-"ELT" means Emergency Location Transmitter;
-"FATO" means Final Approach and Take-Off Area;
-"FIR" means Flight Information Region; "FL" means Flight Level;
+"AME" means Area Minimum Altitude; "ATFM" means Air Traffic Flow Management; "ATIS" means Automatic Terminal Information Service; "ATM" means Air Traffic Management; "ATS" means Air Traffic Services; "COM" means Communications; "CPDLC" means Controller-Pilot Data Link Communications; "CRC" means Cyclic Redundancy Check; "D-ATIS" means Data Link-Automatic Terminal Information
+Service;
+"DEM" means Digital Elevation Model; "DME/P" means Precision Distance Measuring Equipment; "DTM" means Digital Terrain Model;
 Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
-"GBAS" means Ground Based Augmentation System; "GLONASS" means Global Orbiting Navigation Satellite System; "GNSS" means Global Navigation Satellite System; "GPS" means Global Positioning System; "H24" means Continuous day and night service; "ICAO" means International Civil Aviation Organisation; "IFR" means Instrument Flight Rules; "ILS" means Instrument Landing System; "IMC" means Instrument Meteorological Conditions; "INS" means Inertial Navigation System; "ISO" means International Organisation for Standardisation; "MET" means Meteorology; "MLS" means Microwave Landing System; "MSAS" means Multi-functional transport Satellite-based
+"D-VOLMET" means Data Link-VOLMET; "EGM" means Earth Gravitational Model; "EGNOS" means European Geostationary Navigation
+Overlay Service; "ELT" means Emergency Location Transmitter; "FATO" means Final Approach and Take-Off Area; "FIR" means Flight Information Region; "FL" means Flight Level; "GBAS" means Ground Based Augmentation System; "GLONASS" means Global Orbiting Navigation Satellite System; "GNSS" means Global Navigation Satellite System; "GPS" means Global Positioning System; "H24" means Continuous day and night service; "ICAO" means International Civil Aviation Organisation; "IFR" means Instrument Flight Rules; "ILS" means Instrument Landing System; "IMC" means Instrument Meteorological Conditions; "INS" means Inertial Navigation System; "ISO" means International Organisation for Standardisation; "MEA" means Minimum En Route Altitude; "MET" means Meteorology; "METAR" means Aerodrome Routine Meteorological Reports; "MLS" means Microwave Landing System; "MOCA" means Minimum Obstacle Clearance Altitude; "MSAS" means Multi-functional Transport Satellite-based
 Augmentation System; "MSL" means Mean Sea Level; "NM" means Nautical Miles; "NOTAM" means Notices to Airmen; "NDB" means Non-Directional Radio Beacon; "OIS" means Obstacle Identified Surface; "PAN-OPS" means Procedures for Air Navigation Services
-Operations; "PAR" means Precision Approach Radar; "PIB" means Pre-flight Information Bulletin; "PCN" means Pavement Classification Number; "RNAV" means Area Navigation; "RNP" means Required Navigation Performance; "RVR" means Runway Visual Range; "SAR" means Search and Rescue; "SARPS means Standards and Recommended Practices; "SBAS" means Satellite-Based Augmentation System; [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
-"SIGMET" means information concerning en route weather
+Operations; [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
+"PAR" means Precision Approach Radar; "PIB" means Pre-flight Information Bulletin;
+"PCN" means Pavement Classification Number;
+"PSR" means Primary Surveillance Radar;
+"RCP" means Required Communication Performance;
+"RNAV" means Area Navigation;
+"RNP" means Required Navigation Performance;
+"RVR" means Runway Visual Range; "SAR" means Search and Rescue; "SARPS means Standards and Recommended Practices; "SBAS" means Satellite-Based Augmentation System; "SIGMET" means information concerning en route weather
 phenomena which may affect the safety of aircraft operations;
 "SNOWTAM" means Special Series NOTAM notifying the
 presence or removal of hazardous conditions due to snow, ice, slush or standing water associated with snow, slush and ice on the movement area, by means of a specific format;
-"SRE" means Surveillance Radar Element of Precision
+"SPECT" means Aerodrome Special Meteorological Reports; "SRE" means Surveillance Radar Element of Precision
 Approach Radar System;
-"SSR" means Secondary Surveillance Radar; "SUPPS" means Regional Supplementary Procedures; "TAF" means Aerodrome Forecast; "TLOF" means Touchdown and Lift Off Area; "TMA" means Terminal Control Area; "UIR" means Upper flight Information Region; "UTC" means Coordinated Universal Time; "VFR" means Visual Flight Rules; "VHF" means Very High Frequency; "VOLMET" means Meteorological Information for Aircraft
+"SSR" means Secondary Surveillance Radar;
+"SUPPS" means Regional Supplementary Procedures;
+"TAF" means Aerodrome Meteorological Forecasts;
+"TLOF" means Touchdown and Lift Off Area; "TMA" means Terminal Control Area; "UIR" means Upper Flight Information Region; "UTC" means Coordinated Universal Time; "VFR" means Visual Flight Rules; "VHF" means Very High Frequency; "Voice-ATIS" means Voice-automatic Terminal Information
+Service;
+"VOLMET" means Meteorological Information for Aircraft
 In Flight;
-"VOR" means VHF Omni Range;
-"WAC" means World Aeronautical Chart-ICAO;
-"WAAS" means Wide Area Augmentation System;
-"WDI" means Wind Direction Indicator; "WGS" means World Geodetic System.
+Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
+"VOR" means VHF Omni Range; "WAC" means World Aeronautical Chart-ICAO; "WAAS" means Wide Area Augmentation System; "WDI" means Wind Direction Indicator; "WGS" means World Geodetic System.
 PART II
 AIR TRAFFIC SERVICES
 APPLICABILITY
-3. This Part is applicable to the requirements for air traffic
-services including organisation, flight information services and alerting services with respect to ATS operations in Trinidad and Tobago.
-Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
+3. This Part is applicable to the requirements for air traffic services including organisation, flight information services and alerting services with respect to ATS operations in Trinidad and Tobago.
 ESTABLISHMENT OF ATS
 4. (1) The Director-General shall determine, in accordance with standards prescribed in Part A of Schedule 1 and for the territories over which the Authority has jurisdiction, those positions of the airspace and those aerodromes where air traffic service will be provided.
 (2) The Director-General shall make the necessary arrangements for ATS to be established and provided in accordance with Schedule 1, except by mutual agreement, the Authority may delegate to another State the responsibility for establishing and providing ATS in flight information regions, control areas or control zones extending over the territories for which the Authority has control.
 (3) Those portions of airspace over the high seas or in airspace of undetermined sovereignty where ATS will be provided, shall be determined on the basis of regional navigation agreements.
-(4) Where ATS are established, information shall be published as necessary to permit the utilisation of the ATS.
-ORGANISATION, CONTROL RESPONSIBILITY AND SERVICE
-5. The Director-General shall-
+(4) Where ATS are established, information shall be published as necessary to permit the utilisation of the ATS. [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
+ORGANISATION, CONTROL RESPONSIBILITY AND SERVICE 5. The Director-General shall-
 (a) implement a safety management programme to
 achieve an acceptable level of safety in the provision of ATS;
 (b) establish an acceptable level of safety to be
 achieved in the provision of ATS; and
 (c) ensure that the organisation and designation
-of airspace and ATS safety management programmes in Trinidad and Tobago are in accordance with the applicable standards by mutual agreement of the associated signatory States to regional air navigation agreement prescribed in Part A of Schedule 1. [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
+of airspace and ATS safety management programmes in Trinidad and Tobago are in accordance with the applicable standards by mutual agreement of the associated signatory States to regional air navigation agreement prescribed in Part A of Schedule 1.
 CONTINGENCY PLANS FOR DISTRIBUTION OR POTENTIAL
 DISTRIBUTION FOR ATS ROUTES
 6. (1) The Director-General shall develop and disseminate
@@ -527,30 +603,32 @@ as applicable;
 (c) special VFR flights; and
 (d) Aerodrome traffic at controlled aerodromes.
 RESTRICTION ON THE PROVISION OF ATS
-8. (1) A person shall not issue an air traffic control
-clearance or an air traffic control instruction, in the case of international airspace in respect of which Trinidad and Tobago has accepted, by means of a regional air navigation agreement, the responsibility of providing air navigation services, except in accordance with the standards prescribed in Part B of Schedule 1.
-(2) Air traffic control services, control responsibilities
-and control clearances shall be in accordance with the standards prescribed in Part B of Schedule 1.
+8. (1) A person shall not issue an air traffic control clearance
+or an air traffic control instruction, in the case of international
 Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
-PROHIBITION ON THE PERFORMANCE OF DUTY ON AIR TRAFFIC
-CONTROLLERS
+airspace in respect of which Trinidad and Tobago has accepted, by means of a regional air navigation agreement, the responsibility of providing air navigation services, except in accordance with the standards prescribed in Part B of Schedule 1.
+(2) Air traffic control services, control responsibilities and control clearances shall be in accordance with the standards prescribed in Part B of Schedule 1.
+PROHIBITION ON THE PERFORMANCE OF DUTY ON AIR
+TRAFFIC CONTROLLERS
 9. A person shall not perform any duty as an air traffic controller-
 (a) within eight hours after consumption of alcohol;
 (b) while under the influence of alcohol; or
 (c) while under the influence of any drug or other
 substances that would impair his ability to perform his duties and thereby jeopardise aviation safety.
-RNP FOR EN ROUTE OPERATIONS
-10. (1) The Director-General shall prescribe RNP types.
-(2) Where applicable, RNP type for designated areas, tracks or ATS Routes shall be prescribed on the basis of regional air navigation agreements.
-(3) The RNP type prescribed under subregulation (1), shall be appropriate to the level of communications, navigation and ATS provided in the airspace concerned.
+PERFORMANCE-BASED NAVIGATION (PBN) OPERATIONS
+10. (1) The Director-General shall prescribe navigation specification for performance-based navigation (PBN) operations which may be limited by navigational infrastructure constraints or specific navigation functionality requirements.
+(2) Where applicable, navigation specification for designated areas, tracks or ATS Routes shall be prescribed on the basis of regional air navigation agreements.
+(3) The navigation specification prescribed under subregulation (1), shall be appropriate to the level of communications, navigation and ATS provided in the airspace concerned.
 CONTROL OF PERSONS AND VEHICULAR TRAFFIC
 AT AERODROMES
-11. The Director-General shall ensure that the movement of persons and vehicular traffic at aerodromes is controlled in accordance with the standards prescribed in Part B of Schedule 1.
+11. The Director-General shall ensure that the movement of persons and vehicular traffic at aerodromes is controlled in accordance with the standards prescribed in Part B of Schedule 1. [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
 PROVISION OF FLIGHT INFORMATION SERVICE
-12. (1) Flight information service shall be provided to all aircraft which are likely to be affected by the flight information and which are-
+12. (1) Flight information service shall be provided to all
+aircraft which are likely to be affected by the flight information and which are-
 (a) provided with air traffic control service; or
 (b) otherwise known to the relevant ATS units.
-(2) Where ATS units provide both flight information and air traffic control service, the provision of air traffic control service shall have precedence over the provision of flight information service where the provision of air traffic control service so requires. [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
+(2) Where ATS units provide both flight information and
+air traffic control service, the provision of air traffic control service shall have precedence over the provision of flight information service where the provision of air traffic control service so requires.
 FLIGHT INFORMATION SERVICE TO AIRCRAFT
 13. The Director-General shall ensure that the following
 flight information services are provided in accordance with the applicable standards prescribed in Part C of Schedule 1:
@@ -572,6 +650,7 @@ having filed a flight plan or otherwise known to the air traffic services; and
 (iii) to any aircraft known or believed to be the
 subject to an act of unlawful interference;
 (b) the following alerting services are provided in
+Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
 accordance with the standards prescribed in Part D of Schedule 1:
 (i) the notification of rescue coordinating
 centres;
@@ -581,7 +660,6 @@ of emergency;
 (iv) information to an operator; and
 (v) information to aircraft operating in the
 vicinity of an aircraft in a state of emergency.
-Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
 COMMUNICATIONS REQUIREMENTS FOR AIR
 TRAFFIC SERVICE
 15. (1) The Director-General shall ensure communications for the following are provided in accordance with the standards prescribed in Part E of Schedule 1:
@@ -594,11 +672,11 @@ communications);
 (2) Where air-ground voice communication channels are used for area control service and are worked by air-ground communicators, suitable arrangements shall be made by the Director-General to permit direct pilot-controller voice communications, when required.
 (3) Where conditions warrant the provision of aerodrome control service, the Authority shall ensure that separate communication channels are provided for the control of traffic operating on the manoeuvring area.
 INFORMATION REQUIREMENT FOR AIR TRAFFIC SERVICE
-16. The Director-General shall ensure that air traffic service requirements for information are in accordance with the standards prescribed in Part F of Schedule 1.
+16. The Director-General shall ensure that air traffic service requirements for information are in accordance with the standards prescribed in Part F of Schedule 1. [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
 PART III
 AERONAUTICAL INFORMATION SERVICES
-DEFINITIONS OF AERONAUTICAL INFORMATION SERVICE
-17. (1) In this Part "aeronautical information services" means the services necessary to meet the standards prescribed in Schedule 2. [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
+DEFINITIONS OF AERONAUTICAL INFORMATION SERVICE 17. (1) In this Part "aeronautical information services"
+means the services necessary to meet the standards prescribed in Schedule 2.
 PROVISION OF AERONAUTICAL INFORMATION SERVICES 18. (1) The Director-General shall be responsible for
 providing aeronautical information service.
 (2) The Director-General shall take all necessary steps
@@ -611,9 +689,9 @@ data it provides relating to Trinidad and Tobago as well as areas in which the A
 timely receipt of the required information and aeronautical data to the aeronautical information services from other services associated with aircraft operation;
 (d) arrangements are made to obtain aeronautical
 information and aeronautical data from the aeronautical information services of other States or from other sources that may be available to the Authority to provide pre-flight information service and to meet the need for in-flight information;
+Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
 (e) aeronautical information published for and on
 behalf of a Contracting State by the Authority clearly indicates that it is published under the authority of that Contracting State; and
-Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
 (f) aeronautical information and aeronautical data
 obtained from other sources that may be available are verified before distribution and if not verified shall when distributed be clearly identified as not being verified.
 (3) A person shall not provide aeronautical information services except in accordance with the standards prescribed in Schedule 2 and Schedule 3.
@@ -695,21 +773,21 @@ DIRECTOR-GENERAL'S RESPONSIBILITY TO PROVIDE
 INFORMATION TO OTHER CONTRACTING STATES
 28. The Director-General shall on request by another Contracting State, provide all information relating to Trinidad and Tobago that is necessary to enable the standards of Schedule 3 to be met.
 QUALITY SYSTEM FOR AERONAUTICAL DATA
-29. (1) The Director-General shall-
+29. The Director-General shall-
 (a) take all necessary measurements to introduce a
 properly organised quality system that contains procedures, processes and resources necessary to implement quality management at each function stage as outlined in Part A of Schedule 2, for the receipt, origination, collation, assembly, editing, formatting, publication, storage and distribution of aeronautical data for Trinidad and Tobago and other areas of responsibility for air traffic services outside Trinidad and Tobago;
 (b) ensure that the established procedures exist in
 order that aeronautical data at any moment is traceable to its origin so as to allow any data anomalies or errors, detailed through the production and maintenance phases or in the operational use, to be corrected;
 (c) ensure that the order of chart resolution of
-aeronautical data shall be as specified for a particular chart as presented in a tabular form in Appendix to Part A of Schedule 3; and
+aeronautical data shall be as specified for a particular chart as presented in a tabular form in Appendix 3 to Part A of Schedule 3; and
 (d) ensure that integrity of aeronautical data is
 maintained through the data process from survey or origin to the next intended user. [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
 THE DIRECTOR-GENERAL TO MAKE AVAILABLE AERODROME
 OBSTACLE CHART- ICAO TYPE A
 30. (1) The Director-General shall ensure that Aerodrome
-Obstacle Charts-ICAO Type A (Operating Limitations) are made available in the manner prescribed in regulation 27 for all aerodromes regularly used for international aviation except for those aerodromes where there are no obstacles in a take-off flight path.
+Obstacle Charts-ICAO Type A (Operating Limitations) are made available in the manner prescribed in regulation 27 for all aerodromes regularly used for international aviation except for those aerodromes where there are no obstacles in the take-off flight path areas or where the Aerodrome Terrain and Obstacle Chart-ICAO (Electronic) is provided in accordance with regulation 37B.
 (2) Notwithstanding subregulation (1), an aerodrome
-obstacle chart, shall not be required where no obstacles exist in the take-off flight path area and a notification to that effect shall be published.
+obstacle chart, shall not be required where no obstacles exist in the take-off flight path area and a notification to that effect shall be published in the AIP.
 (3) An aeronautical obstacle chart under subregulation (1),
 shall meet the standards prescribed in Part B of Schedule 3.
 THE DIRECTOR-GENERAL TO MAKE AVAILABLE
@@ -746,12 +824,11 @@ DEPARTURE CHART-INSTRUMENT (SID)-ICAO
 (a) required to provide flight crew with information
 to enable compliance with the designated standard departure route instrument from take-off phase to the en route phase, meet the standards prescribed in Part E of Schedule 3; and
 (b) are made available where a standard departure
-route-instrument is established and cannot be shown with sufficient clarity on the Area Chart-ICAO. [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
+route-instrument is established and cannot be shown with sufficient clarity on the Area Chart-ICAO.
 THE DIRECTOR-GENERAL TO MAKE AVAILABLE STANDARD
 ARRIVAL CHART- INSTRUMENT (STAR)-ICAO
-34. The Director-General shall ensure that the Standard
-Arrival Chart Instrument (STAR)-ICAO-
-(a) required to provide flight crew with information to
+34. The Director-General shall ensure that the Standard Arrival Chart Instrument (STAR)-ICAO-
+(a) required to provide flight crew with information to [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
 enable compliance with the designated standard arrival route instrument from the en route phase to the approach phase, meet the standards prescribed in Part F of Schedule 3; and
 (b) are made available where a standard arrival
 route-instrument has been established and cannot be shown with sufficient clarity on the area chart.
@@ -767,11 +844,10 @@ international civil aviation where instrument approach procedures have been esta
 (a) provide a separate Instrument Approach
 Chart-ICAO for each precision and non-precision approach procedure established by the Authority;
 (b) provide more than one Instrument Approach
-Chart-ICAO where the values for track, time or altitude differ between categories of aircraft on other than final approach segment of the
-Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
-instrument approach procedures and the listing of those differences on a single chart could cause clutter or confusion; and
+Chart-ICAO where the values for track, time or altitude differ between categories of aircraft on other than final approach segment of the instrument approach procedures and the listing of those differences on a single chart could cause clutter or confusion; and
 (c) ensure that Instrument Approach Chart-ICAO
 are revised where information essential to safe operation becomes out of date.
+Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
 THE DIRECTOR-GENERAL TO MAKE AVAILABLE VISUAL
 APPROACH CHART-ICAO
 36. The Director-General shall ensure that Visual Approach Charts-ICAO-
@@ -790,33 +866,48 @@ HELICOPTER CHART
 (a) to facilitate ground movement of aircraft-
 (i) from the aircraft stand to the runway; and
 (ii) from the runway to the aircraft stand,
-meet the standards prescribed in Part I of Schedule 3; and [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
+meet the standards prescribed in Part I of Schedule 3; and
 (b) to facilitate helicopter movement-
 (i) from the helicopter stand to the
 touchdown and lift-off area and to the final approach and take-off area;
 (ii) from the final approach and take-off area
-to the touchdown and lift-off area and to the helicopter stand; and
+to the touchdown and lift-off area and to the helicopter stand; and [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
 (iii) along air transit routes, meet the standards prescribed in Part I of Schedule 3;
 (c) are made available in the manner prescribed in
 regulation 27 for all aerodromes or heliports regularly used for international civil aviation.
+THE DIRECTOR-GENERAL TO MAKE AVAILABLE AERONAUTICAL
+CHART-ICAO 1:500 000
+37A. The Director-General shall ensure that Aeronautical
+Chart-ICAO 1:500 000-
+(a) is made available in the manner prescribed in
+regulation 27 for Trinidad and Tobago; and
+(b) provides the necessary information to satisfy
+the requirements of visual air navigation for low speed, short or medium-range operations at low and intermediate altitudes and meet the standards prescribed in Part J of Schedule 3.
+THE DIRECTOR-GENERAL TO MAKE AVAILABLE AERODROME
+TERRAIN AND OBSTACLE CHART-ICAO (ELECTRONIC)
+37B. The Director-General shall ensure that Aerodrome
+Terrain and Obstacle Chart-ICAO (Electronic)-
+(a) is made available in the manner prescribed in
+regulation 27 for all aerodromes regularly used by international civil aviation from 18th November 2010; and
+(b) portrays the terrain and obstacle data in
+combination with aeronautical data and meet the standards prescribed in Part K of Schedule 3.
 PART V
 STANDARDS FOR AERONAUTICAL
 TELECOMMUNICATION
 38. The standards required to be met for aeronautical
 telecommunication in respect of-
 (a) radio navigation aids;
+Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
 (b) communication procedures including those
 with PANS stations;
 (c) digital data communication systems;
 (d) voice communications systems;
 (e) surveillance radar and collision avoidance
 system; and
-(f) aeronautical radio frequency spectrum,
-which are in use or are intended for use by the Authority which are those set out in Annex 10 of the Chicago Convention.
+(f) aeronautical radio frequency spectrum, which are in use or are intended for use by the Authority which are those set out in Annex 10 of the Chicago Convention.
 PART VI
-STANDARDS FOR METEOROLOGICAL SERVICE 39. The standards required to be met for meteorological
-service for international air navigation are those set out in Annex 3 of the Chicago Convention.
-Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
+STANDARDS FOR METEOROLOGICAL SERVICE
+39. The standards required to be met for meteorological service for international air navigation are those set out in Annex 3 of the Chicago Convention.
 SCHEDULE 1
 PART A
 GENERAL
@@ -830,7 +921,7 @@ and obstructions on that area;
 (d) provide advice and information useful for the safe and
 efficient conduct of flights; and
 (e) notify appropriate organisations regarding aircraft in need of
-search and rescue aid, and assist such organisations as required.
+search and rescue aid, and assist such organisations as required. [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
 DIVISIONS OF THE AIR TRAFFIC SERVICES
 2. Air traffic services shall comprise three services identified as follows:
 (a) an air traffic control service: to accomplish the objectives required
@@ -843,7 +934,7 @@ control service for those parts of controlled flights associated with arrival or
 control service for aerodrome traffic, except for those parts of flights described in paragraph 2, in order to accomplish the objectives in paragraphs 1(a), (b), and (c);
 (b) a flight information service: to accomplish the objective in
 paragraph 1(d);
-(c) an alerting service: to accomplish objective in paragraph 1(e). [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
+(c) an alerting service: to accomplish objective in paragraph 1(e).
 DETERMINATION OF THE NEED FOR
 AIR TRAFFIC SERVICES
 3. (1) The need for the provision of ATS shall be determined by
@@ -861,18 +952,18 @@ particular portion of an airspace or at a particular aerodrome, then that portio
 (2) The designation of a particular portion of an airspace or a
 particular aerodrome shall be as follows:
 (a) flight information regions: those portions of the airspace
+Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
 where it is determined that flight information service and alerting service will be provided shall be designated as flight information regions;
 (b) control areas and control zones:
 (i) that portions of an airspace where it is determined that
 air traffic control service will be provided to IFR flights shall be designated as control areas or control zones;
 (ii) that portions of controlled airspace where it is
-determined that air traffic control service will also be provided to VFR flights shall be designated as Classes B, C, or D airspace;
+determined that air traffic control service will also be provided to VFR flights shall be designated as
+Classes B, C, or D airspace;
 (iii) where designated within a flight information region,
-control areas and control zones shall form part of that flight information region.
-Note: The distinction between control areas and control zones is made in clause 8.
+control areas and control zones shall form part of that flight information region. Note: The distinction between control areas and control zones is made in clause 8.
 (c) controlled aerodromes: those aerodromes where it is
 determined that air traffic control services will be provided to aerodrome traffic shall be designated as controlled aerodromes.
-Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
 CLASSIFICATION OF AIRSPACES
 5. (1) ATS airspaces shall be classified and designated as appropriate to the needs of Trinidad and Tobago and the airspace for which the Authority is responsible in accordance with the following as applicable:
 (a) Class A: only IFR flights are permitted, and all flights are
@@ -891,7 +982,7 @@ are provided with air traffic control service;
 (ii) IFR flights are separated from other IFR
 flights and receive traffic information in respect of VFR flights;
 (iii) VFR flights receive traffic information in
-respect of all other flights;
+respect of all other flights; [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
 (e) Class E: (i) Class E shall not be used for control zones;
 (ii) IFR and VFR flights are permitted and IFR
 flights are provided with air traffic control service and are separated from other IFR flights;
@@ -904,8 +995,15 @@ if requested;
 (g) Class G: IFR and VFR flights are permitted and receive
 flight information service if requested;
 (h) the requirements for flights within each class of airspace
-shall be as shown in the Table in Appendix 4. Note: When the ATS airspaces adjoin vertically, one above the other, flights at a common level would
-comply with requirements of, and be given services applicable to, the less restrictive class of airspace. In applying these criteria, Class B airspace is therefore considered less restrictive than Class A airspace and Class C airspace less restrictive than Class B airspace and so on. [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
+shall be as shown in the Table in Appendix 4.
+Note: When the ATS airspaces adjoin vertically, one above the other, flights at a common level would
+comply with requirements of, and be given services applicable to, the less restrictive class of airspace. In applying these criteria, Class B airspace is therefore considered less restrictive than Class A airspace and Class C airspace less restrictive than Class B airspace and so on.
+REQUIRED COMMUNICATION PERFORMANCE
+5A. (1) Required communication performance shall be prescribed by
+the Authority on the basis of regional air navigation agreements.
+(2) The required communication performance type prescribed by
+the Authority shall be appropriate to the ATS provided in the airspace concerned. Note: Applicable RCP types and associated procedures are published in the Manual of
+Required Communication Performance.
 ESTABLISHMENT AND DESIGNATION OF THE UNITS
 PROVIDING AIR TRAFFIC SERVICES
 6. Units shall be established and designated to provide air traffic
@@ -914,6 +1012,7 @@ services as follows:
 service and alerting service within flight information regions, unless the responsibility of providing such services within a flight information region is assigned to an air traffic control unit having adequate facilities for the discharge of such responsibility; and
 (b) air traffic control units to provide air traffic control service,
 flight information service and alerting service within control areas, control zones and at controlled aerodromes.
+Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
 SPECIFICATIONS FOR FLIGHT INFORMATION REGIONS, CONTROL
 AREAS AND CONTROL ZONES
 7. (1) Specification for flight information regions shall be as follows:
@@ -922,13 +1021,13 @@ whole of the air route structure to be served by such regions;
 (b) a flight information region shall include all airspace within
 its lateral limits, except as limited by an upper flight information region;
 (c) where a flight information region is limited by an upper flight
-information region, the lower limit specified for the upper flight information region shall constitute the upper vertical limit of the flight information region and coincide with a VFR cruising level provided in the Tables in Schedule 7 of Civil Aviation [(No. 2) Operations] Regulation.
+information region, the lower limit specified for the upper flight information region shall constitute the upper vertical limit of the flight information region and coincide with a VFR cruising level provided in the Tables in Schedule 7 of Civil
+Aviation [(No. 2) Operations] Regulation.
 (2) Specification for control areas shall be as follows:
 (a) control areas including airways and terminal control areas
 shall be delineated so as to encompass sufficient airspace to contain the flight paths of IFR flights or portions thereof to which it is desired to provide the applicable parts of the air traffic control service, taking into account the capabilities of the navigation aids normally used in that area;
 (b) a lower limit of a control area shall be established at a
 height above the ground or water of not less than 200 metres or 700 feet;
-Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
 (c) an upper limit of a control area shall be established
 where either-
 (i) air traffic control service will not be provided above
@@ -941,60 +1040,63 @@ VFR cruising level provided in the Tables in Schedule 7 of Civil Aviation [(No. 
 (a) lateral limits of control zones shall encompass at least those
 portions of the airspace which are not within control areas containing the paths of IFR flights arriving at and departing from aerodromes to be used under IMC;
 (b) lateral limits of a control zone shall extend to at least 9.3
-kilometres or 5 nautical miles from the centre of the aerodrome concerned in the directions from which approaches may be made;
+kilometres or 5 nautical miles from the centre of the aerodrome concerned in the directions from which approaches may be made; [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
 (c) where a control zone is located within the lateral limits of a
 control area, the control shall extend upwards from the surface of the earth to at least the lower limit of the control zone area.
 ESTABLISHMENT AND IDENTIFICATION OF
 AIR TRAFFIC SERVICES ROUTES
-8. (1) Where ATS routes are established, a protected airspace along each air traffic services route and a safe spacing between adjacent air traffic services routes shall be provided.
+8. (1) Where ATS routes are established, a protected airspace along
+each air traffic services route and a safe spacing between adjacent air traffic services routes shall be provided.
 (2) ATS routes shall be identified by designators.
-(3) Designators for ATS routes other than standard departure and arrival routes shall be selected in accordance with the principles prescribed in Appendix 1.
-(4) Standard departure and arrival routes and associated procedures shall be identified in accordance with the principles prescribed in Appendix 3.
+(3) Designators for ATS routes other than standard departure and
+arrival routes shall be selected in accordance with the principles prescribed in Appendix 1.
+(4) Standard departure and arrival routes and associated procedures
+shall be identified in accordance with the principles prescribed in Appendix 3.
 ESTABLISHMENT AND IDENTIFICATION OF
 SIGNIFICANT POINTS
-9. (1) Significant points shall be established for the purpose of defining an ATS route and in relation to the requirements of ATS for information regarding the progress of aircraft in flight. [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
+9. (1) Significant points shall be established for the purpose of
+defining an ATS route and in relation to the requirements of ATS for information regarding the progress of aircraft in flight.
 (2) Significant points shall be identified by designators.
 (3) Significant points shall be established and identified in
 accordance with the principles prescribed in Appendix 2.
-COORDINATION BETWEEN THE OPERATOR AND
+CO-ORDINATION BETWEEN THE OPERATOR AND
 AIR TRAFFIC SERVICES
 10. (1) ATS units, in carrying out their objectives, shall have due regard
 to the requirements of the operators consequent on their obligations as prescribed in Civil Aviation [(No. 2) Operations] Regulations and the Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations, and where required by the operators, make available to them or their designated representatives such information as may be available to enable the operators or their designated representatives to carry out their responsibilities.
 (2) Where so requested by an operator, messages including position
 reports received by ATS units and relating to the operation of an aircraft for which operational control service is provided by that operator shall, so far as practicable, be made available immediately to the operator or a designated representative in accordance with agreed procedures.
-COORDINATION BETWEEN MILITARY AUTHORITIES
-AND AIR TRAFFIC SERVICES
-11. (1) ATS authorities shall establish and maintain close cooperation
-with military authorities responsible for activities that may affect flights of civil aircraft.
-(2) Coordination of activities potentially hazardous to civil aircraft
-shall be effected in accordance with clause 13.
-(3) Arrangements shall be made to permit information relevant to
-the safe and expeditious conduct of flights of civil aircraft to be promptly exchanged between ATS units and appropriate military units.
-(4) ATS units shall, either routinely or on request, in accordance
-with agreed procedures, provide appropriate military units with pertinent flight plan and other data concerning flights of civil aircraft.
-(5) In order to eliminate or reduce the need for interceptions, ATS
-authorities shall designate any areas or routes where the requirements of Civil Aviation [(No. 2) Operations] Regulations, concerning flight plans, two-way communications and position reporting apply to all flights to ensure that all pertinent data is available in appropriate ATS units specifically for the purpose of facilitating identification of civil aircraft.
 Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
+CO-ORDINATION BETWEEN MILITARY AUTHORITIES
+AND AIR TRAFFIC SERVICES
+11. (1) ATS authorities shall establish and maintain close co-operation with military authorities responsible for activities that may affect flights of civil aircraft.
+(2) Co-ordination of activities potentially hazardous to civil aircraft shall be effected in accordance with clause 13.
+(3) Arrangements shall be made to permit information relevant to the safe and expeditious conduct of flights of civil aircraft to be promptly exchanged between ATS units and appropriate military units.
+(4) ATS units shall, either routinely or on request, in accordance with agreed procedures, provide appropriate military units with pertinent flight plan and other data concerning flights of civil aircraft.
+(5) In order to eliminate or reduce the need for interceptions, ATS authorities shall designate any areas or routes where the requirements of Civil Aviation [(No. 2) Operations] Regulations, concerning flight plans, two-way communications and position reporting apply to all flights to ensure that all pertinent data is available in appropriate ATS units specifically for the purpose of facilitating identification of civil aircraft.
 (6) Special procedures shall be established in order to ensure that-
 (a) ATS units are notified where a military unit observes that an
 aircraft which is or might be a civil aircraft is approaching, or has entered any area in which interception might become necessary; and
 (b) all possible efforts are made to confirm the identity of the
 aircraft and to provide it with the navigational guidance necessary to avoid the need for interception.
-COORDINATION OF ACTIVITIES POTENTIALLY
+CO-ORDINATION OF ACTIVITIES POTENTIALLY
 HAZARDOUS TO CIVIL AIRCRAFT
-12. (1) The arrangements for activities potentially hazardous to civil aircraft, whether over the territory of Trinidad and Tobago or over the high seas, shall be coordinated with the appropriate ATS authorities.
-(2) The coordination of activities under subclause (1), shall be effected early enough to permit timely promulgation of information regarding the activities in accordance with the standards prescribed in Schedule 2.
-(3) The objective of the coordination shall be to achieve the best arrangements which will avoid hazards to civil aircraft and minimize interference with the normal operations of such aircraft.
-(4) The appropriate air traffic services authorities shall be responsible for initiating the promulgation of information regarding coordination of activities.
-(5) Adequate steps shall be taken to prevent emission of laser beams from adversely affecting flight operations.
+12. (1) The arrangements for activities potentially hazardous to civil aircraft, whether over the territory of Trinidad and Tobago or over the high seas, shall be co-ordinated with the appropriate ATS authorities.
+(2) The co-ordination of activities under subclause (1), shall be effected early enough to permit timely promulgation of information regarding the activities in accordance with the standards prescribed in Schedule 2.
+(3) The objective of the co-ordination shall be to achieve the best arrangements which will avoid hazards to civil aircraft and minimise interference with the normal operations of such aircraft. [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
+(4) The appropriate air traffic services authorities shall be responsible
+for initiating the promulgation of information regarding co-ordination of activities.
+(5) Adequate steps shall be taken to prevent emission of laser beams
+from adversely affecting flight operations.
 AERONAUTICAL DATA
-13. (1) Determination and reporting of ATS related aeronautical data shall be in accordance with the accuracy and integrity requirements prescribed in Tables 1 to 5 in Appendix 5 while taking into account the established quality system procedures.
-(2) Accuracy requirements for aeronautical data are based upon a 95 per cent confidence level, and in that respect three types of positional data shall be identified as follows:
+13. (1) Determination and reporting of ATS related aeronautical data
+shall be in accordance with the accuracy and integrity requirements prescribed in Tables 1 to 5 in Appendix 5 while taking into account the established quality system procedures.
+(2) Accuracy requirements for aeronautical data are based upon a
+95 per cent confidence level, and in that respect three types of positional data shall be identified as follows:
 (a) surveyed points such as navigation aids positions;
 (b) calculated points such as mathematical calculations from the
 known surveyed points of points in space or fixes; and
 (c) declared points such as flight information region
-boundary points; [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
+boundary points;
 (3) The Authority shall ensure that integrity of aeronautical data is
 maintained throughout the data process from survey and origin to the next intended user.
 (4) Aeronautical data integrity requirements shall be based upon the
@@ -1011,16 +1113,15 @@ transit shall be totally monitored by the CRC check.
 (6) To achieve protection of the integrity level of critical and
 essential aeronautical data as classified in paragraphs (4)(a) and (b), a 32-bit or 24-bit cyclic redundancy check algorithm shall apply respectively.
 (7) Geographical coordinates indicating latitude and longitude shall
-be determined and reported to the aeronautical information services in terms of the WGS-1984 (WGS-84) geodetic reference datum, identifying those geographical coordinates which have been transformed into WGS-84 coordinates by mathematical means where the whole accuracy of original field work does not meet the requirements in Table 1 of Appendix 5.
-(8) The order of accuracy of the field work and determinations and
-calculations derived shall be such that the resulting operational navigation data for the phases of flight will be within the maximum deviations for an appropriate reference frame, as indicated in the Tables contained in Appendix 5.
-COORDINATION BETWEEN METEOROLOGICAL AND
+be determined and reported to the aeronautical information services in terms
+Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
+of the WGS-1984 (WGS-84) geodetic reference datum, identifying those geographical coordinates which have been transformed into WGS-84 coordinates by mathematical means where the whole accuracy of original field work does not meet the requirements in Table 1 of Appendix 5.
+(8) The order of accuracy of the field work and determinations and calculations derived shall be such that the resulting operational navigation data for the phases of flight will be within the maximum deviations for an appropriate reference frame, as indicated in the Tables contained in Appendix 5.
+CO-ORDINATION BETWEEN METEOROLOGICAL AND
 AIR TRAFFIC SERVICES AUTHORITIES
-14. (1) To ensure that aircraft receive the most up-to-date meteorological
-information for aircraft operations, arrangements shall be made, where necessary, between meteorological and ATS authorities for ATS personnel-
+14. (1) To ensure that aircraft receive the most up-to-date meteorological information for aircraft operations, arrangements shall be made, where necessary, between meteorological and ATS authorities for ATS personnel-
 (a) in addition to using indicating instruments, to report, if
 observed by ATS personnel or communicated by aircraft, such other meteorological elements as may be agreed upon;
-Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
 (b) to report as soon as possible to the associated meteorological
 office, meteorological phenomena of operational significance, if observed by ATS personnel or communicated by aircraft, which have not been included in the aerodrome meteorological report;
 (c) to report as soon as possible to the associated
@@ -1031,20 +1132,22 @@ volcanic activity;
 (iii) information concerning volcanic ash cloud; and
 (d) area control centres and flight information centres shall
 report the information to the associated meteorological watch office and volcanic ash advisory centres.
-(2) Close coordination shall be maintained among-
+(2) Close co-ordination shall be maintained among-
 (a) area control centres;
 (b) flight information centres; and
-(c) associated meteorological watch offices, to ensure that information on volcanic ash included in NOTAM and SIGMET messages is consistent.
-COORDINATION BETWEEN AERONAUTICAL INFORMATION
+(c) associated meteorological watch offices, to ensure that information on volcanic ash included in NOTAM and SIGMET messages is consistent. [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
+CO-ORDINATION BETWEEN AERONAUTICAL INFORMATION
 SERVICES AND AIR TRAFFIC SERVICES
-15. (1) To ensure that the aeronautical information service unit provides up-to-date pre-flight information and to meet the need for in-flight information, the ATS units shall report the following to the aeronautical information service unit with a minimum of delay:
+15. (1) To ensure that the aeronautical information service unit provides
+up-to-date pre-flight information and to meet the need for in-flight information, the ATS units shall report the following to the aeronautical information service unit with a minimum of delay:
 (a) information on aerodrome conditions;
 (b) the operational status of associated facilities, services and
 navigation aids within the units' respective area of responsibility;
 (c) the occurrence of volcanic activity observed by ATS
 personnel or reported by aircraft; and
 (d) any other information considered to be of operational significance.
-(2) Before introducing changes to the air navigation system the ATS units responsible for such changes shall take into account the time needed by the aeronautical information service for the preparation, production and issue of relevant material for promulgation. [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
+(2) Before introducing changes to the air navigation system the
+ATS units responsible for such changes shall take into account the time needed by the aeronautical information service for the preparation, production and issue of relevant material for promulgation.
 (3) When submitting the raw information or data to aeronautical
 information services the ATS shall-
 (a) observe the predetermined, internationally agreed AIRAC
@@ -1052,7 +1155,7 @@ system effective dates in addition to fourteen days postage time;
 (b) take into account accuracy and integrity requirements for
 aeronautical data as prescribed to this Schedule.
 Note: To ensure timely provision of the information to the aeronautical information service,
-close coordination between those services concerned is required.
+close co-ordination between those services concerned is required.
 Note: Of particular importance are changes to aeronautical information that affect charts and
 computer-based navigation systems which qualify to be notified by the AIRAC system, as prescribed in Appendix 4 of Part D of Schedule 2.
 MINIMUM FLIGHT ALTITUDES
@@ -1061,19 +1164,22 @@ for each ATS route and control area and in the airspace over Trinidad and Tobago
 SERVICE TO AIRCRAFT WHERE
 THERE IS AN EMERGENCY
 17. (1) An aircraft known or believed to be in a state of emergency,
-including being subjected to an act of unlawful interference, shall be given maximum consideration, assistance and priority over other aircraft as may be necessitated by the circumstances. Note: To indicate that an aircraft is in a state of emergency, an aircraft equipped with an
+including being subjected to an act of unlawful interference, shall be given maximum consideration, assistance and priority over other aircraft as may be necessitated by the circumstances.
+Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
+Note: To indicate that an aircraft is in a state of emergency, an aircraft equipped with an
 appropriate data link capability or an SSR transponder might operate as follows:
 (a) on Mode A, Code 7700; or
 (b) on Mode A, Code 7500 to indicate specifically that it is
 being subjected to an act of unlawful interference;
 (c) activate the appropriate emergency or urgency capability
-of ADS;
+of ADS-B or ADS-C;
 (d) transmit the appropriate emergency message via CPDLC.
-(2) When an occurrence of an act of unlawful interference with an
-aircraft occurs or is suspected, ATS units shall attend promptly to requests made by the aircraft.
-(3) Information pertinent to the safe conduct of the flight of an
-aircraft subjected to an act of unlawful interference, shall continue to be transmitted and appropriate action taken to expedite the conduct of all phases of the flight, especially the safe landing of the aircraft.
-Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
+(2) When an occurrence of an act of unlawful interference with an aircraft occurs or is suspected, ATS units shall attend promptly to requests made by the aircraft.
+(3) Information pertinent to the safe conduct of the flight of an aircraft subjected to an act of unlawful interference, shall continue to be transmitted and appropriate action taken to expedite the conduct of all phases of the flight, especially the safe landing of the aircraft.
+(4) When an occurrence of unlawful interference with an aircraft takes place or is suspected, ATS units shall, in accordance with locally agreed procedures, immediately inform the appropriate authority designated by the State and exchange necessary information with the operator or its designated representative. Note 1: A strayed or unidentified aircraft may be suspected as being the subject of unlawful
+interference. Note 2: Procedures relating to the handling of strayed or unidentified aircraft are contained in
+clause 18. Note 3: PANS-ATM (Doc. 4444), Chap. 15, 15.1.3 contains more specific procedures related to
+unlawful interference.
 IN-FLIGHT CONTINGENCIES FOR STRAYED,
 UNIDENTIFIED AND INTERCEPTED AIRCRAFT
 18. (1) As soon as an ATS unit becomes aware of a strayed aircraft, the ATS unit shall-
@@ -1083,7 +1189,7 @@ necessary steps to assist the aircraft and to safeguard its flight as follows:
 aircraft, unless such communication already exists;
 (ii) use all available means to determine its position;
 (iii) inform other ATS units into whose area the aircraft
-may have strayed or may stray, taking into account all the factors which may have affected the navigation of the aircraft in the circumstances;
+may have strayed or may stray, taking into account all the factors which may have affected the navigation of the aircraft in the circumstances; [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
 (iv) inform, in accordance with locally agreed procedures,
 appropriate military units and provide them with pertinent flight plan and other data concerning strayed aircraft; and
 (v) request from the units referred to in (iii) and (iv) and
@@ -1094,13 +1200,14 @@ necessary steps as follows:
 to be taken; and
 (ii) provide, as necessary, other ATS units and appropriate
 military units with relevant information concerning the strayed aircraft and any advice given to that aircraft.
-(2) As soon as an ATS unit becomes aware of an unidentified aircraft in its area, the ATS unit shall-
+(2) As soon as an ATS unit becomes aware of an unidentified
+aircraft in its area, the ATS unit shall-
 (a) endeavour to establish the identity of the aircraft where this
 is necessary for the provision of ATS or required by the appropriate military authorities in accordance with locally agreed procedures;
 (b) take such of the following steps as appropriate to establish
 the identity of the aircraft:
 (i) attempt to establish two-way communication with the
-aircraft; [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
+aircraft;
 (ii) inquire of other ATS units within the flight
 information region about the flight and request their assistance in establishing two-way communication with the aircraft;
 (iii) inquire of ATS units serving the adjacent flight
@@ -1109,10 +1216,13 @@ information regions about the flight and request their assistance in establishin
 the area; and
 (c) immediately inform the appropriate military unit when the
 identity of the aircraft has been established.
+(2B) An ATS unit that considers that a strayed or unidentified
+aircraft may be the subject of unlawful interference, shall immediately inform the appropriate authority designated by the Authority, in accordance with locally agreed procedures.
 (3) As soon as an ATS unit becomes aware that an aircraft is
 being intercepted-
 (a) in its area of responsibility, the ATS shall take such of the
 following steps as are appropriate:
+Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
 (i) attempt to establish two-way communication with the
 intercepted aircraft via any means available, including the emergency radio frequency 121.5 MHz, unless such communication already exists;
 (ii) inform the pilot of the intercepted aircraft of the
@@ -1121,7 +1231,7 @@ interception;
 maintaining two-way communication with the intercepting aircraft and provide intercept control unit with available information concerning the aircraft;
 (iv) relay messages between the intercepting aircraft or
 the intercept control unit and the intercepted aircraft, as necessary;
-(v) in close coordination with the intercept control unit
+(v) in close co-ordination with the intercept control unit
 take all necessary steps to ensure the safety of the intercepted aircraft; and
 (vi) inform air traffic services units serving adjacent flight
 information regions if it appears that the aircraft has strayed from an adjacent flight information regions.
@@ -1129,7 +1239,6 @@ information regions if it appears that the aircraft has strayed from an adjacent
 the following steps as are appropriate:
 (i) provide the ATS unit serving the airspace in which
 the interception is taking place, with available information that will assist in identifying the aircraft and request that action be taken in accordance with paragraph (3)(a); and
-Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
 (ii) relay messages between the intercepted aircraft and
 the appropriate ATS unit, the intercept control unit or the intercepting aircraft.
 TIME STANDARDS REQUIREMENTS IN
@@ -1137,18 +1246,21 @@ AIR TRAFFIC SERVICES
 19. (1) ATS units shall use time in UTC and shall express the time in hours and minutes and, when required, seconds of the 24-hour day beginning at midnight.
 (2) ATS units shall be equipped with clocks clearly visible from each operating position in the unit concerned indicating the time in hours, minutes and seconds.
 (3) ATS unit clocks and other time recording devices shall be adjusted as necessary to maintain correct time within plus or minus 30 seconds of UTC.
-(4) Where data link communications are utilised by an ATS unit, clocks and other time-recording devices shall be adjusted as necessary to maintain correct time to within one second of UTC.
-(5) UTC time shall be obtained from a standard time station or, where this is not possible, from another unit which has obtained UTC time from such station.
-(6) Aerodrome control towers shall, prior to an aircraft taxiing for take-off, provide the pilot with the correct time, unless arrangements have been made for the pilot to obtain the correct time from other sources;
+(4) Where data link communications are utilised by an ATS unit, clocks and other time-recording devices shall be adjusted as necessary to maintain correct time to within one second of UTC. [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
+(5) UTC time shall be obtained from a standard time station or,
+where this is not possible, from another unit which has obtained UTC time from such station.
+(6) Aerodrome control towers shall, prior to an aircraft taxiing for
+take-off, provide the pilot with the correct time, unless arrangements have been made for the pilot to obtain the correct time from other sources;
 (7) ATS units shall-
 (a) provide aircraft with the correct time on request; and
 (b) give time checks to the nearest half minute.
 REQUIREMENTS FOR CARRIAGE AND OPERATION OF PRESSURE-
 ALTITUDE REPORTING TRANSPONDERS
-20. Requirements for carriage and operation of pressure-altitude reporting transponders within defined portions of airspace shall be established as prescribed in the Civil Aviation [(No. 7) Instruments and Equipment] Regulations.
+20. Requirements for carriage and operation of pressure-altitude reporting
+transponders within defined portions of airspace shall be established as prescribed in the Civil Aviation [(No. 7) Instruments and Equipment] Regulations.
 AIR TRAFFIC SERVICES SAFETY MANAGEMENT
 21. (1) The ATS safety management programme shall include:
-(a) identification of safety hazards; [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
+(a) identification of safety hazards;
 (b) ensuring that remedial action necessary to maintain an
 acceptable level of safety is implemented;
 (c) providing for continuous monitoring and regular assessment
@@ -1164,52 +1276,51 @@ adequate provision is made for post-implementation monitoring to verify that the
 COMMON REFERENCE SYSTEMS
 22. (1) The standard for horizontal reference system shall be the WGS-84-
 (a) for air navigation; and
-(b) for reporting aeronautical geographical coordinates
+(b) for reporting aeronautical geographical co-ordinates
 indicating latitude and longitude.
-(2) The standard for vertical reference system for air navigation
-shall be the mean sea level datum, which gives the relationship of gravity-related height or elevation to a surface known as the geoid.
+Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
+(2) The standard for vertical reference system for air navigation shall be the mean sea level datum, which gives the relationship of gravity-related height or elevation to a surface known as the geoid.
 Note: The geoid globally must closely approximate MSL. It is defined as the equipotential
 surface in the gravity field of the earth which coincides with the undisturbed MSL extended continuously through the continents.
-(3) The standard for temporal reference system for air navigation
-shall be the Gregorian calendar and UTC.
-(4) Where a different temporal reference system is used, this shall
-be indicated in the AIP as prescribed in Schedule 2.
+(3) The standard for temporal reference system for air navigation shall be the Gregorian calendar and UTC.
+(4) Where a different temporal reference system is used, this shall be indicated in the AIP as prescribed in Schedule 2.
 LANGUAGE PROFICIENCY
-23. Air traffic controllers shall speak and understand the English Language
-as prescribed for radiotelephony communications as prescribed in the Civil Aviation [(No. 1) General Application and Personnel Licensing] Regulations.
-Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
+23. Air traffic controllers shall speak and understand the English Language as prescribed for radiotelephony communications as prescribed in the Civil Aviation [(No. 1) General Application and Personnel Licensing] Regulations.
 APPENDIX 1
 PRINCIPLES GOVERNING THE IDENTIFICATION OF
-RNP TYPES AND THE IDENTIFICATION OF ATS
-ROUTES OTHER THAN STANDARD DEPARTURE
-AND ARRIVAL ROUTES
+NAVIGATION SPECIFICATIONS AND THE
+IDENTIFICATION OF ATS ROUTES OTHER THAN
+STANDARD DEPARTURE AND ARRIVAL ROUTES
 Note: See Appendix 3 concerning the identification of standard departure and arrival routes and
 associated procedures. Guidance material on the establishment of these routes and procedures is contained in the Air Traffic Services Planning Manual (Doc 9426).
-DESIGNATORS FOR ATS ROUTES AND RNP TYPES
-1. (1) The purpose of a system of route designators and RNP type applicable to specified ATS route segment, route or area is to allow both pilots and ATS, taking into account automation requirements-
+DESIGNATORS FOR ATS ROUTES AND NAVIGATION
+SPECIFICATIONS
+1. (1) The purpose of a system of route designators and navigation specification applicable to specified ATS route segment, route or area is to allow both pilots and ATS, taking into account automation requirements-
 (a) to make unambiguous reference to any ATS route without
-the need to resort to the use of geographical coordinates or other means in order to describe it;
+the need to resort to the use of geographical co-ordinates or other means in order to describe it;
 (b) to relate an ATS route to a specific vertical structure of the
 airspace, as applicable;
 (c) to indicate a required level of navigation performance
-accuracy when operating along an ATS route or within a specified area; and
+accuracy when operating along an ATS route or within a specified area; and [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
 (d) to indicate that a route is used primarily or exclusively by
-certain types of aircraft. Note 1: Prior to the global introduction of RNP, all references in this Appendix to RNP also
-apply to area navigation RNAV routes, where navigation performance accuracy requirements have been specified. Note 2: Specifications governing the publication of RNP types are given in Part C of
-Schedule 3, and the Appendix to Part B of Schedule 2. Note 3: In relation to this Appendix and for flight planning purposes, a prescribed RNP type is
-not considered an integral part of the ATS route designator.
-(2) In order to satisfy the requirements under subclause (1), the designation system shall-
+certain types of aircraft.
+Note 1: Specifications governing the publication of navigation specification are given in Part C
+of Schedule 3, and the Appendix to Part B of Schedule 2.
+Note 2: In relation to this Appendix and for flight planning purposes, a prescribed navigation
+specification is not considered an integral part of the ATS route designator.
+(2) In order to satisfy the requirements under subclause (1), the
+designation system shall-
 (a) permit the identification of any ATS route in a simple and
 unique manner;
 (b) avoid redundancy;
 (c) be usable by both ground and airborne automation systems;
 (d) permit utmost brevity in operational use; and
 (e) provide sufficient possibility of extension to cater for any
-future requirements without the need for fundamental changes. [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
+future requirements without the need for fundamental changes.
 COMPOSITION, ASSIGNMENT AND USE
 OF DESIGNATORS
 2. Controlled, advisory and uncontrolled ATS routes, with the
-exception of standard arrival and departure routes, shall be as specified in clauses 3, 4 and 5.
+exception of standard arrival and departure routes, shall be as specified in paragraphs 3, 4 and 5.
 COMPOSITION OF DESIGNATOR
 3. (1) An ATS route designator shall consist of a basic designator
 supplemented, where necessary, by-
@@ -1227,42 +1338,36 @@ from the following list of letters as applicable:
 networks of ATS routes and are not area navigation routes;
 (b) L, M, N and P for area navigation routes that form part of the
 regional networks of ATS routes;
+Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
 (c) H, J, V and W for routes that do not form part of the regional
 networks of ATS routes and are not area navigation routes; and
 (d) Q, T, Y and Z for area navigation routes that do not form part
 of the regional networks of ATS routes.
-(6) Where applicable, one supplementary letter shall be added as a
-prefix to the basic designator in accordance with the following standards:
+(6) Where applicable, one supplementary letter shall be added as a prefix to the basic designator in accordance with the following standards:
 (a) K to indicate a low-level route established for use primarily
 by helicopters;
 (b) U to indicate that the route or portion thereof is established
 in the upper airspace; and
 (c) S to indicate a route established exclusively for use by
 supersonic aircraft during acceleration, deceleration and while in supersonic flight.
-Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
-(7) When prescribed by the appropriate ATS authority or on the basis of regional air navigation agreements, a supplementary letter may be added after the basic designator of the ATS route in question in order to indicate the type of service provided or the turn performance required on the route in question in accordance with the following standards:
-(a) for RNP 1 routes at and above FL 200, the letter Y to indicate
-that all turns on the route between 30 and 90 degrees shall be made within the allowable RNP tolerance of a tangential arc between the straight leg segments defined with a radius of 22.5 NM, for example A123Y[1];
-(b) for RNP 1 routes at and below FL 190, the letter Z to indicate
-that all turns on the route between 30 and 90 degrees shall be made within the allowable RNP tolerance of a tangential arc between the straight leg segments defined with a radius of 15 NM for example G246Z[1];
-(c) the letter F to indicate that on the route or portion of the
+(7) When prescribed by the appropriate ATS authority or on the basis of regional air navigation agreements, a supplementary letter may be added after the basic designator of the ATS route in question in order to indicate the type of service provided in accordance with the following standards:
+(a) the letter F to indicate that on the route or portion of the
 route, advisory service only is provided; and
-(d) the letter G to indicate that on the route or portion of the
+(b) the letter G to indicate that on the route or portion of the
 route, flight information service only is provided. Note 1: Due to limitations in the display equipment on board an aircraft, the supplementary
-letters "F", "G", "Y" or "Z" may not be displayed to the pilot. Note 2: Implementation of a route or a portion thereof as a controlled route, advisory route or
-flight information route is indicated in aeronautical charts and aeronautical information publications in accordance with the requirements in Schedules 2 and 3. Note 3: The conditions under which the Authority may specify the controlled turn performance
-referred to in paragraphs 7(a) and (b), are outlined in the Manual on Required Navigation Performance RNP, Doc 9613.
+letters "F" or "G" may not be displayed to the pilot. Note 2: Implementation of a route or a portion thereof as a controlled route, advisory route or
+flight information route is indicated in aeronautical charts and aeronautical information publications in accordance with the requirements in Schedules 2 and 3.
 ASSIGNMENT OF BASIC DESIGNATORS
 4. Basic ATS route designators shall be assigned in accordance with the following principles:
 (a) the same basic designator shall be assigned to a main trunk
 route throughout the entire length of the route, irrespective of terminal control areas, States or regions traversed; Note: The principle under paragraph (a) is of particular importance where automated ATS data
-processing and computerized airborne navigation equipment is used.
+processing and computerised airborne navigation equipment is used.
 (b) where two or more trunk routes have a common segment, the
 segment in question shall be assigned to each of the designators of the routes concerned, except where this would present difficulties in the provision of ATS, in which case, by common agreement, one designator only shall be assigned; [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
 (c) a basic designator assigned to one route shall not be assigned
 to any other route; and
 (d) the Authority shall notify the Regional Offices of ICAO for
-coordination of its requirements for designators.
+co-ordination of its requirements for designators.
 USE OF DESIGNATORS IN COMMUNICATIONS
 5. (1) In printed communications, the designator shall be expressed at
 all times by not less than two and not more than six characters.
@@ -1274,8 +1379,8 @@ used, the prefixes, shall, in voice communications, be spoken as follows:
 as in the word "helicopter")
 (b) U-UPPER; and
 (c) S-SUPERSONIC.
-(4) Where the letters F, G, Y or Z specified in subclause 3(7) are used,
-the flight crew should not be required to use these letters in voice communications.
+(4) Where the letters F or G specified in subclause 3(7) are used, the
+flight crew should not be required to use these letters in voice communications.
 APPENDIX 2
 PRINCIPLES GOVERNING THE ESTABLISHMENT AND
 IDENTIFICATION OF SIGNIFICANT POINTS
@@ -1303,23 +1408,26 @@ and form two syllables and preferably not more than three;
 point and the radio navigation aid marking the significant point.
 (3) Composition of coded designators for significant points marked by the site of a radio navigation aid shall be the same as the radio identification of the radio navigation aid and shall be so composed, where possible, as to facilitate association with the name of the point in plain language.
 (4) Coded designators for significant points marked by the site of a radio navigation aid, shall not be duplicated within 1 100 km or 600 NM of the location of the radio navigation aid concerned, except where two radio navigation aids operating in different bands of the frequency spectrum are situated at the same location, the radio identification of the two radio navigation aids are normally the same.
-(5) The Authority shall notify the Regional Offices of ICAO for coordination, of its requirements for coded designators.
+(5) The Authority shall notify the Regional Offices of ICAO for co-ordination, of its requirements for coded designators.
 DESIGNATORS FOR SIGNIFICANT POINTS NOT
 MARKED BY THE SITE OF A RADIO NAVIGATION AID
-3. (1) Where a significant point is required at a position not marked by the site of a radio navigation aid, the significant point shall be designated by a unique five-letter pronounceable name-code which will then serve as the name as well as the coded designator of the significant point. [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
-(2) The name-code designator under subclause (1), shall be selected
-so as to avoid any difficulties in pronunciation by pilots or ATS personnel when speaking in the language used in ATS communications, for example, ADOLA and KODAP.
+3. (1) Where a significant point is required at a position not marked by the site of a radio navigation aid, the significant point shall be designated by a unique five-letter pronounceable name-code which will then serve as the name as well as the coded designator of the significant point.
+(2) The name-code designator under subclause (1), shall be selected so as to avoid any difficulties in pronunciation by pilots or ATS personnel when speaking in the language used in ATS communications, for example, ADOLA and KODAP. [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
 (3) The name-code designator shall be easily recognisable in voice
 communications and shall be free of ambiguity with those used for other significant points in the same general area.
 (4) The name-code designator assigned to a significant point shall
 not be assigned to any other significant point.
 (5) The Authority shall notify the Regional Offices of ICAO for
-coordination, of its requirements for name-code designators.
+co-ordination, of its requirements for name-code designators.
 (6) In areas where no system of fixed routes is established or where
-the routes followed by aircraft vary depending on operational considerations, significant points shall be determined and reported in terms of WGS-84 geographical coordinates, except that permanently established significant points serving as exit or entry points into such areas shall be designated in accordance with the applicable provisions in clause 2 or 3.
+the routes followed by aircraft vary depending on operational considerations, significant points shall be determined and reported in terms of WGS-84 geographical co-ordinates, except that permanently established significant points serving as exit or entry points into such areas shall be designated in accordance with the applicable provisions in paragraph 2 or 3.
+(7) Where there is a need to relocate a significant point, a new
+name-code designator shall be chosen.
+(8) Where the Authority wishes to keep the allocation of specific
+name-codes for re-use at a different location, such name-codes shall not be used until after a period of at least six months.
 USE OF DESIGNATORS IN COMMUNICATIONS
-4. (1) The name selected in accordance with clause 2 or 3 shall be used
-to refer to the significant point in voice communications.
+4. (1) The name selected in accordance with paragraph 2 or 3 shall be
+used to refer to the significant point in voice communications.
 (2) Where the coded designator is used in voice communications, it
 shall be spoken in accordance with the ICAO spelling alphabet.
 (3) Only the coded designator or the selected name-code shall be
@@ -1453,9 +1561,9 @@ is designed.
 (a) MLS;
 (b) the coded designator or name-code of the significant point
 described in paragraph 7(1)(b);
-(c) the validity indicator in paragraph 7(1)(c);
-(d) the route indicator in paragraph 7(1)(d); and
-(e) the runway designator in paragraph 7(1)(f).
+(c) the validity indicator in paragraph 8(1)(c);
+(d) the route indicator in paragraph 8(1)(d); and
+(e) the runway designator in paragraph 8(1)(f).
 10. (1) The assignment of designators for MLS with RNAV approach procedures shall be in accordance with clause 5.
 (2) Procedures having identical tracks but different flight profiles shall be assigned separate route indicators.
 (3) The route indicator letter for MLS with RNAV approach procedures shall be assigned uniquely to all approaches at an airport until all the letters have been used and only then shall the route indicator letter be repeated.
@@ -1484,18 +1592,56 @@ departure or arrival route and approach procedure, including the plain language 
 procedures shall also be displayed. Note: Material relating to the establishment of standard departure and arrival routes and
 associated procedures is contained in the Air Traffic Services Planning Manual, Doc 9426.
 Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
-(Part A
+Part A
 APPENDIX 4
-Clause 6).
+Paragraph 6.
 ATS AIRSPACE CLASSES-SERVICES PROVIDED AND
-FLIGHT REQUIREMENTS [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
-(Part A APPENDIX 5 Clause 14).
+FLIGHT REQUIREMENTS
+Separation Speed Type Service provided Radio Subject to provided limitation* of communication an ATC Class flight requirement clearance
+All aircraft Not IFR Air traffic control service Continuous Yes A
+applicable only two way
+All aircraft Not IFR Air traffic control service Continuous Yes
+applicable two way
+All aircraft Not VFR Air traffic control service Continuous Yes B
+applicable two way
+IFR from IFR Not IFR Air traffic control service Continuous Yes
+applicable two way IFR from VFR C VFR VFR from IFR 1) Air traffic service for Continuous Yes 250 kt IAS
+separation from IFR: 2) two way below
+VFR /VFR traffic 3050m
+information (and traffic (10,000 ft) avoidance advice on AMSL request)
+Continuous 250 kt IAS Air traffic control service, Yes IFR IFR from IFR two way below traffic information about
+3050m VFR flights (and traffic (10,000 ft) avoidance advice on AMSL request) 250 kt IAS Continuous Yes D Air traffic control service, VFR nil below 3050m two way and as far as practicable (10,000 ft) traffic information about AMSL VFR flights
+Continuous Yes Traffic information as far 250 kt IAS IFR IFR from IFR two way as practicable below 3050m
+(10,000 ft) AMSL E
+Air traffic advisory 250 kt IAS VFR nil No No service, flight information below 3050m service (10,000 ft)
+AMSL
+Flight information 250 kt IAS IFR IFR from IFR Continuous No service below 3050m as far as two way
+(10,000 ft) practicable AMSL F
+Flight information 250 kt IAS VFR nil No No service below
+3050m (10,000 ft) AMSL
+Flight information 250 kt IAS IFR nil Continuous No service below two way
+3050m (10,000 ft) AMSL
+No No nil Flight information G 250 kt IAS VFR
+service below
+3050m (10,000 ft) AMSL *When the height of the transition altitude is lower than 3 050 m (10, 000 ft) AMSL, FL 100 should be used in lieu of 10, 000 ft. [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
+Part A APPENDIX 5 Paragraph 14.
 AERONAUTICAL DATA QUALITY REQUIREMENTS
 TABLE 1
 LATITUDE AND LONGITUDE
+Latitude and Longitude Accuracy data type Integrity classification
+Treshold crossing height, 2 km 1x10-3
+declared routine
+P, R, D area boundary points 2 km 1x10-3 (outside CTA/CTZ boundaries) declared routine
+P, R, D area boundary points 100 m 1x10-5 (inside CTA/CTZ boundaries) calculated essential
+CTA/CTZ boundary points 100 m 1x10-5
+calculated essential
+En route navaids and fixes, holding, 100 m 1x10-5 STAR/SID points surveyed/calculated essential
+Obstacles in Area 1 (the entire State 50 m 1x10-3 territory) surveyed routine
+Obstacles in Area 2 (the Part outside 50 m 1x10-5 the Aerodrome/heliport boundary) surveyed essential
+Final approach fixes/points and other 3 m 1x10-5 essential fixes/points comprising the surveyed/calculated essential instrument approach procedure
 Note 1: See the Appendix to Part H of Schedule 2 for graphical Illustration of obstacles data collection surfaces
 and criteria used to identify obstacles in the defined area. Note 2: In those portion of area 2 where flight operations are prohibited due to very high terrain or other local
-restrictions or regulations, obstacle data are to be collected in accordance with the Area 1 numerical requirements specified in the Appendix to Part H of Schedule 2. Note 3: Implementation of Schedule 2 provisions concerning the availability, as of 20th November, 2008 and
+restrictions or regulations, obstacle data are to be collected in accordance with the Area 1 numerical requirements specified in the Appendix to Part H of Schedule 2. Note 3: Implementation of Schedule 2 provisions concerning the availability, as of 20th November 2008 and
 18th November, 2010, of obstacle data according to Area 1 and Area 2 specifications, respectively, would be facilitated by appropriate advance planning for the collection and processing of such data.
 Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
 TABLE 2
@@ -1508,7 +1654,7 @@ Obstacle clearance As specified in PANS- essential altitude/height (OCA/H) OPS
 1x10-3
 Obstacles in Area 1 (the 13m routine entire state territory), surveyed elevations
 1x10-5
-Obstacles in Area 2 (the 3m essential part outside thesurveyed aerodrome/heliport boundary)
+Obstacles in Area 2 (the 3m essential part outside the surveyed aerodrome/heliport boundary)
 1x10-5
 Distance measuring 30 m (100 ft) essential equipment (DME) surveyed elevation
 1x10-5
@@ -1519,7 +1665,7 @@ Minimum altitudes 50 m routine
 calculated
 Note 1: See the Appendix to Part H of Schedule 2 for graphical illustrations of obstacles data collection surfaces
 and criteria used to identify obstacles in the defined area. Note 2: In those portion of area 2 where flight operations are prohibited due to very high terrain or other local
-restrictions or regulations, obstacle data are to be collected in accordance with the Area 1 numerical requirements specified in the Appendix to Part H of Schedule 2. Note 3: Implementation of Schedule 2 provisions concerning the availability, as of 20th November, 2008 and
+restrictions or regulations, obstacle data are to be collected in accordance with the Area 1 numerical requirements specified in the Appendix to Part H of Schedule 2. Note 3: Implementation of Schedule 2 provisions concerning the availability, as of 20th November 2008 and
 18th November, 2010, of obstacle data according to Area 1 and Area 2 specifications, respectively, would be facilitated by appropriate advance planning for the collection and processing of such data. [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
 TABLE 3
 DECLINATION AND MAGNETIC VARIATION
@@ -1566,7 +1712,7 @@ of information on the intended movement; and
 known aircraft relative to each other;
 (c) issue clearances and information for the purpose of
 preventing collision between aircraft under its control and of expediting and maintaining an orderly flow of traffic; and
-(d) coordinate clearances as necessary with other ATC units-
+(d) co-ordinate clearances as necessary with other ATC units-
 (i) whenever an aircraft might otherwise conflict with
 traffic operated under the control of such other units; and [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
 (ii) before transferring control of an aircraft to other ATC units.
@@ -1630,7 +1776,7 @@ traffic control unit at any given time.
 (2) Responsibility for the control of all aircraft operating within a
 given block of airspace shall be vested in a single air traffic control unit.
 (3) Notwithstanding subclause (2) control of an aircraft or groups of
-aircraft may be delegated to other ATC units provided that coordination between the ATC units concerned is assured.
+aircraft may be delegated to other ATC units provided that co-ordination between the ATC units concerned is assured.
 PLACE OR TIME OF TRANSFER OF RESPONSIBILITY
 FOR CONTROL OF AIRCRAFT
 5. The place or time of the transfer of responsibility for the control of
@@ -1670,15 +1816,15 @@ prevail at the aerodrome-
 as specified in letters of agreement or ATS unit instructions;
 (d) between control sectors or positions within the same air traffic
 control unit: responsibility for control of an aircraft shall be transferred from one control sector or position to another control sector or position within the same air traffic control unit at a point, level or time, as specified in ATS unit instructions.
-COORDINATION OF TRANSFER OF RESPONSIBILITY
+CO-ORDINATION OF TRANSFER OF RESPONSIBILITY
 FOR CONTROL
 6. Responsibility for control of an aircraft, shall not be transferred from one ATC unit to another without the consent of the ATC unit that is accepting control, in accordance with the following:
 (a) the air traffic control unit that is transferring control shall
 communicate to the ATC unit that is accepting control, the [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
 appropriate parts of the current flight plan and any control information pertinent to the transfer requested;
-(b) where transfer of control is to be effected using radar data,
-the control information pertinent to the transfer shall include information on the position and if required, the track and speed of the aircraft, as observed by radar immediately prior to the transfer;
-(c) where transfer of control is to be effected using ADS data,
+(b) where transfer of control is to be effected using radar or
+ADS-B data, the control information pertinent to the transfer shall include information on the position and if required, the track and speed of the aircraft, as observed by radar or ADS-B immediately prior to the transfer;
+(c) where transfer of control is to be effected using ADS-C data,
 the control information pertinent to the transfer shall include the four-dimensional position and other information as necessary;
 (d) the ATC unit accepting control shall-
 (i) indicate its ability to accept control of the aircraft on the
@@ -1687,7 +1833,7 @@ terms specified by the ATC unit that is transferring control, unless by prior ag
 subsequent portion of the flight, which it requires the aircraft to have at the time of transfer;
 (iii) notify the transferring air traffic control unit when it
 has established two-way voice and data link communications with an assumed control of the aircraft concerned, unless otherwise specified by agreement between the two control units concerned;
-(e) applicable coordination procedures, including transfer of
+(e) applicable co-ordination procedures, including transfer of
 control points, shall be specified in letters of agreement and air traffic control unit instructions as appropriate.
 AIR TRAFFIC CONTROL CLEARANCES
 7. Air traffic control clearances shall be based solely on the
@@ -1720,32 +1866,32 @@ ascertain that the clearance or instruction has been correctly acknowledged by t
 CPDLC messages shall not be required;
 Note: The procedures and provisions relating to the exchange and acknowledgement of CPDLC
 messages are contained in Annex 10, Volume II of the Chicago Convention, and PANS-ATM, Chapter 14.
-(h) an air traffic control clearance shall be coordinated between
+(h) an air traffic control clearance shall be co-ordinated between
 air traffic control units to cover the entire route of an aircraft or a specified portion thereof as follows:
 (i) an aircraft shall be cleared for the entire route to the
 aerodrome of first intended landing when-
-(A) it has been possible, prior to departure, to
-coordinate the clearance between all the units under whose control the aircraft will come; or [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
-(B) there is reasonable assurance that prior
-coordination will be effected between those units under whose control the aircraft will subsequently come;
-(ii) coordination as prescribed in paragraph (i) has not
-been achieved or is not anticipated, the aircraft shall be cleared only to that point when coordination is reasonably assured; prior to reaching such point, or at such point, the aircraft shall receive further clearance with holding instructions being issued as appropriate;
+(A) it has been possible, prior to departure, to co-
+ordinate the clearance between all the units under whose control the aircraft will come; or [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
+(B) there is reasonable assurance that prior co-
+ordination will be effected between those units under whose control the aircraft will subsequently come;
+(ii) co-ordination as prescribed in paragraph (i) has not
+been achieved or is not anticipated, the aircraft shall be cleared only to that point when co-ordination is reasonably assured; prior to reaching such point, or at such point, the aircraft shall receive further clearance with holding instructions being issued as appropriate;
 (iii) where prescribed by the appropriate ATS authority,
 aircraft shall contact a downstream air traffic control unit, for the purpose of receiving a downstream clearance prior to the transfer of control point;
 (iv) aircraft shall maintain the necessary two-way
 communication with the current air traffic control unit while obtaining a downstream clearance;
 (v) a clearance issued as a downstream clearance shall be
 clearly identifiable as such to the pilot;
-(vi) unless coordinated, downstream clearances shall not
+(vi) unless co-ordinated, downstream clearances shall not
 affect the aircraft's original flight profile in any airspace, other than that of the air traffic control unit responsible for the delivery of the downstream clearance;
 Note: Requirements relating to the application of downstream clearance, delivery service are
 specified in Volume 2 of Annex 10 of the Chicago Convention. Guidance material is contained in the manual of air traffic services data link applications (ICAO Doc. 9694).
 (vii) when an aircraft intends to depart from an aerodrome
-within a control area to enter another control area within a period of thirty minutes, or such other specific period of time as has been agreed between the area control centres concerned, coordination with the subsequent area control centre shall be effected prior to issuance of the departure clearance;
+within a control area to enter another control area within a period of thirty minutes, or such other specific period of time as has been agreed between the area control centres concerned, co-ordination with the subsequent area control centre shall be effected prior to issuance of the departure clearance;
 (viii) when an aircraft intends to leave a control area for
 flight outside controlled airspace, and will subsequently re-enter the same or another control area, a clearance from point of departure to the aerodrome of first intended landing may be issued;
-(xi) the clearance or revisions specified in paragraph
-8(h)(viii), shall apply only to those portions of the flight conducted within controlled airspace;
+(xi) the clearance or revisions specified in paragraph (viii),
+shall apply only to those portions of the flight conducted within controlled airspace;
 Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
 (i) ATFM shall be implemented for airspace where air traffic
 demand at times exceeds, or is expected to exceed, the declared capacity of the air traffic control services concerned;
@@ -1779,7 +1925,8 @@ affect safety including pertinent-
 volcanic eruptions and volcanic ash clouds;
 (c) information concerning the release into the atmosphere of
 radioactive materials or toxic chemicals;
-(d) information on changes in the serviceability of navigation aids;
+(d) information on changes in the availability of radio navigation
+services;
 (e) information on changes in condition of aerodromes and
 associated facilities, including information on the state of the aerodrome movement areas where the aerodrome and movement areas are affected by significant depth of water and any other condition likely to affect safety; and
 (f) information on unmanned free balloons.
@@ -1795,7 +1942,7 @@ any available information including radio call sign, position, true track, speed
 in addition to requirements specified in subclause (1), the provision of available information concerning traffic and weather conditions along the route of flight that are likely to make operation under the VFR impracticable.
 OPERATIONAL FLIGHT INFORMATION SERVICE BROADCASTS
 2. (1) Meteorological information and operational information
-concerning navigation aids and aerodromes included in the flight information service shall, where available, be provided in an operationally integrated form.
+concerning radio navigation services and aerodromes included in the flight information service shall, where available, be provided in an operationally integrated form.
 Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
 (2) Where requested by a pilot the applicable operational flight information service messages shall be transmitted by the appropriate ATS unit.
 (3) Voice-ATIS broadcasts shall meet the following requirements:
@@ -1940,16 +2087,15 @@ PART D
 ALERTING SERVICE
 APPLICATION
 The standards required to be met for alerting service are as follows:
-1. (1) Flight information centres or area control centres shall serve as the central point for collecting all information relevant to a state of emergency [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
-of an aircraft operating within the flight information region or control area concerned and for forwarding the information to the appropriate rescue coordination centre.
+1. (1) Flight information centres or area control centres shall serve as the central point for collecting all information relevant to a state of [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
+emergency of an aircraft operating within the flight information region or control area concerned and for forwarding the information to the appropriate rescue co-ordination centre.
 (2) Where there is an emergency affecting an aircraft while the
-aircraft is under the control of an aerodrome control tower unit or approach control unit, that unit shall immediately notify the flight information centre or area control centre responsible and thereafter the flight information centre or area control centre shall notify the rescue coordination centre.
+aircraft is under the control of an aerodrome control tower unit or approach control unit, that unit shall immediately notify the flight information centre or area control centre responsible and thereafter the flight information centre or area control centre shall notify the rescue co-ordination centre.
 (3) Subject to subclause (2), notification of the area control centre, flight
-information centre, or rescue coordination centre shall not be required where the nature of an emergency is such that the notification would be superfluous.
+information centre, or rescue co-ordination centre shall not be required where the nature of an emergency is such that the notification would be superfluous.
 (4) Where in an emergency under subclause (2), it is determined
 that the nature of the emergency requires urgent attention, the aerodrome control tower or approach control unit responsible, shall first alert and take other necessary steps to set in motion all appropriate local rescue and emergency organisations which can give the immediate assistance required.
-NOTIFICATION OF RESCUE COORDINATION CENTRES
-2. (1) ATS units shall immediately notify rescue coordination centres
+NOTIFICATION OF RESCUE CO-ORDINATION CENTRES 2. (1) ATS units shall immediately notify rescue co-ordination centres
 where an aircraft is considered to be in any phase of a state of emergency set out below:
 (a) uncertainty phase when-
 (i) no communication has been received from an aircraft
@@ -1975,7 +2121,7 @@ be insufficient to enable the aircraft to reach safety; or
 operating efficiency of the aircraft has been impaired to the extent that a forced landing is likely; or
 (iv) information in respect of the aircraft is received or it
 is reasonably certain that the aircraft is about to make or has made a forced landing.
-(2) In addition to the requirements under subclause (1), rescue coordination centre shall, without delay, be furnished with-
+(2) In addition to the requirements under subclause (1), rescue co-ordination centre shall, without delay, be furnished with-
 (a) any useful additional information, especially on the
 development of the state of emergency of an aircraft through subsequent phases; or
 (b) information that the emergency situation no longer exists.
@@ -1989,14 +2135,19 @@ phase of the emergency;
 (f) last position report in respect of the aircraft and how
 determined;
 (g) colour and distinctive marks of aircraft;
-(h) dangerous goods carried as cargo on board the aircraft; [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
+(h) dangerous goods carried as cargo on board the aircraft;
 (i) any action taken by reporting office; and
-(j) other pertinent remarks.
+(j) other pertinent remarks. [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
+(4) The rescue co-ordination centre shall be provided without
+delay with-
+(a) any useful additional information especially on the
+development of the state of emergency through subsequent phases; and
+(b) information that the emergency situation no longer exists.
 INFORMATION TO THE OPERATOR
 3. (1) Where an area control centre or a flight information centre
-decides that an aircraft is in the uncertainty or the alert phase, the area control centre or flight control centre shall, where practicable, advise the operator prior to notifying the rescue coordination centre.
-(2) All information which has been notified to the rescue
-coordination centre by an area control centre or flight information centre shall, where practicable, also be communicated, without delay, to the operator.
+decides that an aircraft is in the uncertainty or the alert phase, the area control centre or flight control centre shall, where practicable, advise the operator prior to notifying the rescue co-ordination centre.
+(2) All information which has been notified to the rescue co-ordination
+centre by an area control centre or flight information centre shall, where practicable, also be communicated, without delay, to the operator.
 USE OF COMMUNICATION FACILITIES
 4. ATS units shall, where necessary, use all available communication
 facilities to establish and maintain communication with an aircraft in an emergency, and to request news of the aircraft.
@@ -2021,6 +2172,7 @@ COMMUNICATIONS
 1. (1) Radiotelephony or data link shall be used in air-ground communications for air traffic services.
 (2) When direct pilot-controller two-way radiotelephony or data link communication is used for the provision of air traffic control service, recording facilities shall be provided on all air-ground communication channels.
 (3) Air-ground communication under subclause (2) shall be recorded and retained for a period of at least thirty days.
+1A. Where RCP types have been prescribed by the Authority for ATM functions, ATS units shall, in addition to the requirements specified in paragraph (1), be provided with communication equipment which will enable them to provide ATS in accordance with the prescribed RCP types.
 2. The following standards are required to be met by air ground communication facilities:
 (a) flight information services: this service shall enable two-way
 communication to take place between ATS unit providing flight information service and appropriately equipped aircraft flying anywhere within the flight information region;
@@ -2032,7 +2184,8 @@ rapid, continuous and static-free two-way communications to take place between a
 (i) enable direct, rapid, continuous and static-free two-
 way communications to take place between the unit providing approach control service and appropriately equipped aircraft under its control; and
 (ii) where an air ground communication facility is
-providing approach control service functions under subparagraph (i) as a separate unit, air-ground communications shall be conducted over communication channels provided for its exclusive use. [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
+providing approach control service functions under [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
+subparagraph (i) as a separate unit, air-ground communications shall be conducted over communication channels provided for its exclusive use.
 AERONAUTICAL FIXED SERVICE FOR GROUND-GROUND
 COMMUNICATIONS
 3. (1) Direct-speech or data link communications shall be used in
@@ -2063,8 +2216,8 @@ Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
 (iii) the aeronautical telecommunications station serving
 the centre;
 (iv) appropriate operator's offices;
-(v) the rescue coordination centre or, in the absence of a
-rescue coordination centre, any other appropriate emergency service; and
+(v) the rescue co-ordination centre or, in the absence of a
+rescue co-ordination centre, any other appropriate emergency service; and
 (vi) the international NOTAM office serving the centre;
 (b) an approach control unit and an aerodrome control tower
 shall have facilities for communications with the following units providing a service within the respective area of responsibility of the approach control unit and aerodrome control tower:
@@ -2082,7 +2235,7 @@ separately established;
 (a) the communication facilities required under subclauses 3(2),
 (3)(a)(i) and (3)(b)(i), (ii) and (iii) and shall include provisions for-
 (i) communications by direct speech alone, or in
-combination with data link communications, whereby for the purpose of transfer of radar control the communications can be established instantaneously and for other purposes the communications can normally be established within fifteen seconds; and
+combination with data link communications, whereby for the purpose of transfer of control using radar or ADS-B, the communications can be established instantaneously and for other purposes the communications can normally be established within fifteen seconds; and
 (ii) printed communications, when a written record is
 required; the message transit time for such communications being no longer than five minutes; [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
 (b) in all cases where automatic transfer of data to or from
@@ -2100,7 +2253,7 @@ facilities for communications with all adjacent flight information centres and a
 (b) the communication facilities under subparagraph (5)(a),
 shall in all cases include provisions for messages in a form suitable for retention as a permanent record, and delivery in accordance with transit times specified by regional air navigation agreements;
 (c) unless otherwise prescribed on the basis of regional air
-navigation agreements, facilities for communications between area control centres serving contiguous control areas shall, in addition, include provisions for directspeech and, where applicable, data link communications, with automatic recording, whereby for the purpose of transfer of control using radar or ADS data, the communications can be established instantaneously and for other purposes the communications can normally be established within fifteen seconds;
+navigation agreements, facilities for communications between area control centres serving contiguous control areas shall, in addition, include provisions for direct speech and, where applicable, data link communications, with automatic recording, whereby for the purpose of transfer of control using radar, ADS-B or ADS-C data the communications can be established instantaneously and for other purposes the communications can normally be established within fifteen seconds;
 (d) where so required by agreement between the States concerned
 in order to eliminate or reduce the need for interceptions in the event of deviations from assigned track, facilities for communications between adjacent flight information centres or area control centres other than those mentioned in subparagraphs (5)(c), shall include provisions for direct speech alone, or in combination with data link communications;
 Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
@@ -2110,6 +2263,7 @@ automatic recording;
 computers is required, suitable facilities for automatic recording shall be provided; and
 (g) recordings of data and communications as required in
 paragraph (5)(f), shall be retained for a period of at least thirty days.
+3A. Where RCP types have been prescribed by the Authority for ATM functions, ATS units shall, in addition to the requirements specified in paragraph (1), be provided with communication equipment which will enable them to provide ATS in accordance with the prescribed RCP types.
 SURFACE MOVEMENT CONTROL SERVICE
 4. Communications for the control of vehicles other than aircraft on manoeuvring areas at controlled aerodromes shall be as follows:
 (a) two-way radiotelephony communication facilities shall be
@@ -2121,7 +2275,7 @@ shall be retained for a period of at least thirty days.
 AERONAUTICAL RADIO NAVIGATION SERVICE
 5. Automatic recording of surveillance data shall be as follows:
 (a) surveillance data from primary and secondary radar
-equipment or obtained through ADS or other surveillance systems, used as an aid to ATS, shall be automatically recorded for use in-
+equipment or other systems such as ADS-B and ADS-C used as an aid to ATS, shall be automatically recorded for use in-
 (i) accident and incident investigations;
 (ii) search and rescue;
 (iii) air traffic control; and
@@ -2144,19 +2298,13 @@ such a form as to require a minimum of interpretation on the part of air traffic
 on the location, vertical extent, direction and rate of movement of metrological phenomena in the vicinity of the aerodrome and particularly in the climb-out and approach areas, which could be hazardous to aircraft operations.
 2. Flight information centres and area control centres:
 (a) flight information centres and area control centres shall be
-supplied with the following reports and forecasts covering the flight information region or control area and such other areas as may be determined on the basis of regional air navigation agreements:
-(i) SIGMET AND AIRMET information;
-(ii) Special air reports;
-(iii) Current metrological reports and forecasts,
-with particular emphasis being given to the occurrence or expected occurrence of deterioration in a weather element as soon as this can be determined.
-Note: For the purpose of this provision certain changes in metrological conditions are construed as
-deterioration in a weather element, although they are not ordinarily considered. An increase in temperate may for example adversely affect the operation of certain types of aircraft.
+supplied with meteorological information as described in Annex 3, Appendix 9, 1.3, covering the flight information region or control area and such other areas as may be determined on the basis of regional air navigation agreements, particular emphasis being given to the occurrence or expected occurrence of weather deterioration as soon as this can be determined;
 (b) flight information centres and area control centres shall be
 provided, at suitable intervals, with current pressure data for setting altimeters, for locations specified by the flight information centre or area control centre concerned.
-Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
 3. Units providing approach control service:
 (a) units providing approach control service shall be supplied
-with current meteorological reports and forecasts for the airspace and the aerodromes with which units providing approach control service are concerned;
+with meteorological information as described in Annex 3, Appendix 9, 1.2 for the airspace and the aerodromes with which units providing approach control service are concerned;
+Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
 (b) special reports and amendments to forecasts shall be
 communicated to the units providing approach control service as soon as they are necessary in accordance with established criteria, without waiting for the next routine report or forecast;
 (c) where multiple sensors are used, the displays to which the
@@ -2174,10 +2322,10 @@ location of observation and be fed from the same sensor as the corresponding dis
 (i) units providing approach control service for final approach,
 landing and take-off shall be supplied with information on wind shear which could adversely affect aircraft on the approach or take-off paths or during circling approach.
 4. Aerodrome control towers:
-(a) aerodrome control towers shall be supplied with current
-meteorological reports and forecasts for the aerodrome with which they are concerned; [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
+(a) aerodrome control towers shall be supplied with
+meteorological information as described in Annex 3, Appendix 9, 1.1 for the aerodrome with which they are concerned;
 (b) special reports and amendments to forecasts shall be
-communicated to the aerodrome control towers as soon as the special reports and amendments to forecasts become necessary in accordance with established criteria, without waiting for the next routine report or forecast;
+communicated to the aerodrome control towers as soon as the special reports and amendments to forecasts become necessary in accordance with established criteria, without waiting for the next routine report or forecast; [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
 (c) aerodrome control towers shall be provided with current
 pressure data for setting altimeters for the aerodrome concerned;
 (d) aerodrome control towers shall be equipped with surface
@@ -2200,12 +2348,11 @@ forwarded to the flight information centre or the area control centre.
 INFORMATION ON AERODROME CONDITION AND THE
 OPERATIONAL STATUS OF ASSOCIATED FACILITIES
 6. Aerodrome control towers and units providing approach control
-service shall be kept currently informed of the operationally significant
+service shall be kept currently informed of the operationally significant conditions of the movement area, including the existence of temporary hazards, and the operational status of any associated facilities at the aerodrome with which aerodrome control towers and approach control units are concerned.
 Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
-conditions of the movement area, including the existence of temporary hazards, and the operational status of any associated facilities at the aerodrome with which aerodrome control towers and approach control units are concerned.
 INFORMATION ON THE OPERATIONAL STATUS OF
-NAVIGATION AIDS
-7. ATS units shall be kept currently informed of the operational status of non-visual navigation aids, and those visual aids essential for take-off, departure, approach and landing procedures within the area of responsibility of the ATS units and those visual and non-visual aids essential for surface movement.
+NAVIGATION SERVICES
+7. ATS units shall be kept currently informed of the operational status of radio navigation services, and those visual aids essential for take-off, departure, approach and landing procedures within the area of responsibility of the ATS units and those radio navigation services and visual aids essential for surface movement.
 INFORMATION ON UNMANNED FREE BALLOONS
 8. Operators of unmanned free balloons shall keep the appropriate ATS units informed of details of flights of unmanned free balloons in accordance with the provisions contained in Civil Aviation [(No. 2) Operations], Regulations.
 INFORMATION CONCERNING VOLCANIC ACTIVITY
@@ -2270,7 +2417,7 @@ transit shall be totally monitored by the CRC.
 (11) To achieve protection of the integrity level of critical and
 essential aeronautical data as classified in subclauses (10) and (11), a 32 - or 24 - bit CRC algorithm shall apply respectively.
 (12) The material to be issued as part of the Integrated Aeronautical
-Information Package shall be thoroughly checked and coordinated with the responsible services before it is submitted to the aeronautical information service, in order to make certain that all necessary information has been included and that it is correct in detail prior to distribution.
+Information Package shall be thoroughly checked and co-ordinated with the responsible services before it is submitted to the aeronautical information service, in order to make certain that all necessary information has been included and that it is correct in detail prior to distribution.
 (13) Validation and verification procedures shall be established to
 ensure that quality requirements including accuracy, resolution, integrity and traceability of aeronautical data are met. Note: Guidance material on liaison with other related services is contained in the Aeronautical
 Services Manual ICAO Doc 8126.
@@ -2315,12 +2462,13 @@ one year after cancellation of the area to which they refer.
 determining the organisation of the aeronautical information services as well as the design, contents, processing and distribution of aeronautical information and data to facilitate their optimum utilisation.
 COMMON REFERENCE SYSTEMS FOR AIR NAVIGATION 9. (1) Common reference system used for air navigation shall be
 as follows:
-(a) World Geodetic System-1984 shall be used as the
-horizontal geodetic reference system for international air navigation and published aeronautical geographical coordinates indicating latitude and longitude shall be expressed in terms of the WGS-84 geodetic reference datum;
-(b) geographical coordinates which have been transformed into
-WGS-84 coordinates but whose accuracy of original field work does not meet the requirements in Part A of Schedule 1 and Chapter 2 of Volume 1 of Annex 14 of the Chicago Convention, shall be identified by an asterisk;
-(c) the order of publication resolution of geographical
-coordinates shall be that specified in Table A-1 of the Appendix while the order of chart resolution of geographical coordinates shall be that specified in Table 1 of Part A of Appendix 3 of Schedule 3.
+(a) World Geodetic System-1984 shall be used as the horizontal
+geodetic reference system for international air navigation and published aeronautical geographical co-ordinates indicating latitude and longitude shall be expressed in terms of the WGS-84 geodetic reference datum;
+(b) geographical co-ordinates which have been transformed into
+WGS-84 co-ordinates but whose accuracy of original field work does not meet the requirements in Part A of Schedule 1 and Chapter 2 of Volume 1 of Annex 14 of the Chicago Convention, shall be identified by an asterisk;
+(c) the order of publication resolution of geographical co-
+ordinates shall be that specified in Table A-1 of the Appendix while the order of chart resolution of geographical coordinates shall be that specified in Table 1 of Part A of
+Appendix 3 of Schedule 3.
 (2) Vertical reference system for air navigation shall be as follows:
 (a) MSL datum, which gives the relationship of gravity-related
 height (elevation) to a surface known as the geoid, shall be used as the vertical reference system for international air navigation;
@@ -2337,17 +2485,17 @@ specific surveyed ground positions, geoid undulation (referenced to the WGS-84 e
 undulation shall be that specified in Table A-2 of the Appendix, while the order of chart resolution of elevation and geoid undulation shall be that specified in Table 3 of Part A of Appendix 3 of Schedule 3.
 (3) Temporal references for air navigation shall be as follows:
 (a) for international civil aviation, the Gregorian calendar and
-Coordinated Universal Time (UTC) shall be used as the temporal reference system; and
+Co-ordinated Universal Time (UTC) shall be used as the temporal reference system; and
 (b) where a different temporal reference system is used for some
 applications, the feature catalogue, or the metadata associated with an application schema or a data set, as appropriate, shall include either a description of that system or a citation for a document that describes that temporal reference system. [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
 APPENDIX
 TABLE A-1 LATITUDE AND LONGITUDE
-[Schedule 2 Part A clause 2(13)].
+[Schedule 2 Part A Paragraph 2(13)].
 Latitude and Longitude Publication Integrity
 Resolution Classification
 Flight Information region boundary points 1 min 1 x 10-3
 routine
-P.R.D. area boundary points (outside CTA/CTZ 1 min 1 x 10-3 boundaries) routine P.R.D. area boundary points (intside CTA/CTZ 1 sec 1 x 10-5 boundaries) essential CTA/CTZ boundary points 1 sec 1 x 10-5
+P.R.D. area boundary points (outside CTA/CTZ 1 min 1 x 10-3 boundaries) routine P.R.D. area boundary points (inside CTA/CTZ 1 sec 1 x 10-5 boundaries) essential CTA/CTZ boundary points 1 sec 1 x 10-5
 essential
 En route NAVAIDS and Fixes holding, STAR/SID 1 sec 1 x 10-5 points essential Obstacles in Area 1 (the entire state territory) 1 sec 1 x 10-3
 routine
@@ -2381,7 +2529,7 @@ De-icing/Anti-icing facility (polygon) 1/10 sec 1 x 10-3
 routine See the Appendix to Part H of Schedule 2 for graphical illustration of obstacle data collection surfaces and criteria used to identify obstacles in the defined area.
 Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
 TABLE A-2 ELEVATION/ALTITUDE/HEIGHT
-[Schedule 2, Part A Clauses 2(9) and (13), 6(3) and (9)].
+[Schedule 2, Part A Paragraph 2(9) and (13), 6(3) and (9)].
 Elevation/Altitude/Height Publication Integrity
 Resolution Classification Aerodrome/heliport elevation 1m or 1 ft 1 x 10-5
 essential WGS-84 Geoid undulation at aerodrome/heliport 1m or 1 ft 1 x 10-5 elevation position essential Runway or FATO threshold, non-precision approaches 1m or 1 ft 1 x 10-5
@@ -2395,7 +2543,7 @@ essential Distance measuring equipment (DME) 30m (100 ft) 1 x 10-5
 essential Minimum altitudes 50m or 100 ft 1 x 10-3
 routine See the Appendix to Part H of Schedule 2 for graphical illustration of obstacle data collection surfaces and criteria used to identify obstacles in the defined area.
 TABLE A-3 DECLINATION AND MAGNETIC VARIATION
-[Schedule 2, Part A Clauses 2(9) and (13) and 6(3)].
+[Schedule 2, Part A Paragraph 2(9) and (13) and 6(3)].
 Declination/Variation Publication Integrity
 Resolution Classification VHF NAVAID station declination used for technical line-up 1 degree 1 x 10-5
 essential NDB NAVAID magnetic variation 1 degree 1 x 10-3
@@ -2404,7 +2552,7 @@ essential ILS localizer antenna magnetic variation 1 degree 1 x 10-5
 essential MLS azimuth antenna magnetic variation 1 degree 1 x 10-5
 essential [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
 TABLE A-4 BEARING
-[Schedule 2, Part A Clauses 2(9) and (13) and 6(3)].
+[Schedule 2, Part A Paragraph 2(9) and (13) and 6(3)].
 Bearing Publication Integrity
 Resolution Classification
 Airway segments 1 degree 1 x 10-3
@@ -2422,7 +2570,7 @@ essential
 Runway and FATO bearing (True) 1/100 degree 1 x 10-3
 routine
 TABLE A-5 LENGTH/DISTANCE/DIMENSION
-[Schedule 2, Clauses 2(9) and (13) and 6(3)].
+[Schedule 2, Paragraph 2(9) and (13) and 6(3)].
 Length/Distance/Dimension Publication Integrity
 Resolution Classification
 Airway segment length 1/10 km or 1/10 1 x 10-3
@@ -2484,15 +2632,17 @@ designated international ICAO aerodromes and heliports, form part of the AIP, or
 (a) Aerodrome and Heliport Chart-ICAO;
 (b) Aerodrome Ground Movement Chart-ICAO;
 (c) Aerodrome Obstacle Chart (Type A)-ICAO;
-(d) Aircraft Parking and Docking Chart-ICAO;
-(e) Area Chart-ICAO-ICAO;
-(f) Radar Minimum Altitude Chart-ICAO;
+(d) Aerodrome Terrain and Obstacle Chart-ICAO
+(Electronic);
+(e) Aircraft Parking and Docking Chart-ICAO;
+(f) Area Chart-ICAO;
 Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
-(g) Instrument Approach Chart-ICAO;
-(h) Precision Approach Terrain Chart-ICAO;
-(i) Standard Arrival Chart-Instrument (STAR)-ICAO;
-(j) Standard Departure Chart-Instrument (SID)-ICAO; and
-(k) Visual Approach Chart-ICAO.
+(g) ATC Surveillance Minimum Altitude Chart-ICAO;
+(h) Instrument Approach Chart-ICAO;
+(i) Precision Approach Terrain Chart-ICAO;
+(j) Standard Arrival Chart-Instrument (STAR)-ICAO;
+(k) Standard Departure Chart-Instrument (SID)-ICAO; and
+(l) Visual Approach Chart-ICAO.
 (5) Charts, maps or diagrams shall be used, where appropriate, to complement or as a substitute for the tabulations or text of an AIP.
 GENERAL SPECIFICATIONS
 2. (1) An AIP shall-
@@ -2611,7 +2761,7 @@ Regulations including customs, and requirements for advance notification and app
 investigation, repair or salvage in connection with lost or damaged aircraft are detailed in GEN 3.6, search and rescue.
 GEN 1.5-AIRCRAFT INSTRUMENTS, EQUIPMENT AND
 FLIGHT DOCUMENTS
-A brief description of aircraft instruments, equipment and flight documents, including the aircraft communication and navigation equipment to be carried on aircraft and any special requirement in addition to the requirements specified in the Civil Aviation [(No. 7) Instrument and Equipment] Regulations.
+A brief description of aircraft instruments, equipment and flight documents, including the aircraft communication, navigation and surveillance equipment to be carried on aircraft and any special requirement in addition to the requirements specified in the Civil Aviation [(No. 7) Instrument and Equipment] Regulations.
 GEN 1.6-SUMMARY OF NATIONAL REGULATIONS AND
 INTERNATIONAL AGREEMENTS AND CONVENTIONS
 A list of titles and references and, where applicable, summaries of national regulations affecting air navigation, together with a list of international agreements and conventions ratified by Trinidad and Tobago.
@@ -2641,7 +2791,7 @@ A brief description of the horizontal reference system used, including:
 (d) the identification of the datum used;
 (e) the area of application; and
 (f) an explanation, where applicable, of the asterisk used to
-identify those coordinates that do not meet the accuracy requirements of Schedule 1 and Annex 14.
+identify those co-ordinates that do not meet the accuracy requirements of Schedule 1 and Annex 14.
 GEN 2.1.4-Vertical reference system
 A brief description of the vertical reference system used, including the-
 (a) name and designation of the reference system;
@@ -2680,7 +2830,7 @@ GEN 2.7-SUNRISE AND SUNSET TABLES
 A brief description of criteria used for determination of the times given in the sunrise and sunset tables, together with an alphabetical list of locations for which the times are given with a reference to the related page in the table and the sunrise and sunset tables for the selected stations or locations, including the-
 (a) station name;
 (b) ICAO location indicator; [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
-(c) geographical coordinates in degrees and minutes;
+(c) geographical co-ordinates in degrees and minutes;
 (d) date for which times are given;
 (e) time for the beginning of morning civil twilight;
 (f) time for sunrise;
@@ -2797,8 +2947,8 @@ GEN 3.3.2-Area of Responsibility
 A brief description of area of responsibility for which ATS are provided.
 GEN 3.3.3-Types of services
 A brief description of main types of ATS provided.
-GEN 3.3.4-Coordination between an operator and ATS
-General conditions under which coordination between an operator and ATS is effected. [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
+GEN 3.3.4-Co-ordination between an operator and ATS
+General conditions under which co-ordination between an operator and ATS is effected. [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
 GEN 3.3.5-Minimum flight altitude
 The criteria used to determine minimum flight altitudes.
 GEN 3.3.6-ATS units address list
@@ -2830,7 +2980,7 @@ GEN 3.4.3-Types of service
 A brief description of the main types of service and facilities provided,
 including-
 (a) the radio navigation services;
-(b) the mobile service;
+(b) voice or data link services;
 Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
 (c) the broadcasting service;
 (d) the language used; and
@@ -2873,7 +3023,7 @@ GEN 3.5.6-Aircraft reports
 As necessary, requirements of the unit responsible for meteorological
 services for the making and transmission of aircraft reports.
 GEN 3.5.7-VOLMET service
-Description of VOLMET service, including the-
+Description of VOLMET or VOLMET service, including the-
 (a) name of transmitting station;
 (b) call sign or identification and abbreviation for the radio
 communication emission;
@@ -2888,10 +3038,10 @@ Description of the meteorological watch provided within flight
 information regions or control areas for which ATS are provided, including a list of the meteorological watch offices with the-
 (a) name of the meteorological watch office, ICAO
 location indicator;
-Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
 (b) hours of service;
 (c) flight information region or control area served;
-(d) types of SIGMET information issued and validity periods;
+Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
+(d) SIGMET validity period;
 (e) specific procedures applied to SIGMET information such as
 for volcanic ash and tropical cyclones;
 (f) procedures applied to AIRMET information in accordance
@@ -2917,10 +3067,9 @@ Brief description of service responsible for the provision of SAR, including-
 (g) a statement concerning the ICAO documents on which the
 service is based and a reference to the AIP location where differences, if any, are listed.
 GEN 3.6.2-Area of responsibility
-A brief description of area of responsibility within which SAR services are provided. [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
+A brief description of area of responsibility within which SAR services are provided.
 GEN 3.6.3-Types of service
-A brief description and geographical portrayal, where appropriate, of the
-type of service and facilities provided including indications where SAR aerial coverage is dependent upon significant deployment of aircraft.
+A brief description and geographical portrayal, where appropriate, of the type of service and facilities provided including indications where SAR aerial coverage is dependent upon significant deployment of aircraft. [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
 GEN 3.6.4-SAR agreements
 A brief description of SAR agreements in force, including provisions for
 facilitating entry and departure of other States' aircraft for search, rescue, salvage, repair or salvage in connection with lost or damaged aircraft, either with airborne notification only or after flight plan notification.
@@ -2945,11 +3094,12 @@ aerodromes and heliports available for international use, including-
 (f) other information such as, customs, health and immigration;
 (g) the exemptions and reductions; and
 (h) methods of payment.
-Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
 GEN 4.2-AIR NAVIGATION SERVICES CHARGES
-A brief description of charges which may be applicable to air navigation services provided for international use, including the:
+A brief description of charges which may be applicable to air navigation
+services provided for international use, including the-
 (a) approach control;
 (b) route air navigation services;
+Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
 (c) cost basis for air navigation services and exemptions and
 reductions; and
 (d) methods of payment.
@@ -2967,11 +3117,10 @@ Publication of the VFR as applied within the Piarco Flight Information Region.
 ENR 1.3-INSTRUMENT FLIGHT RULES
 Publication of the instrument flight rules as applied within the Piarco Flight Information Region.
 ENR 1.4-ATS AIRSPACE CLASSIFICATION
-The description of ATS airspace classes, in the form of the ATS airspace classification table set out in Appendix 4 of Schedule 1, and appropriately [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
-annotated to indicate those airspace classes not used by the Piarco Flight Information Region.
+The description of ATS airspace classes, in the form of the ATS airspace classification table set out in Appendix 4 of Schedule 1, and appropriately annotated to indicate those airspace classes not used by the Piarco Flight Information Region.
 ENR 1.5-HOLDING, APPROACH AND DEPARTURE PROCEDURES
 ENR 1.5.1-General
-A statement setting out the criteria on which holding, approach and
+A statement setting out the criteria on which holding, approach and [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
 departure procedures are established. Where the format is different from the ICAO requirements the presentation of criteria should be in a tabular form.
 ENR 1.5.2-Arriving flights
 Presentation of conventional or area navigation procedures for arriving
@@ -2979,23 +3128,37 @@ flights which are common to flights into or within the same type of airspace. Wh
 ENR 1.5.3-Departing flights
 Presentation of conventional or area navigation procedures for departing
 flights which are common to flights departing from any aerodrome or heliport.
-ENR 1.6-RADAR SERVICES AND PROCEDURES
+ENR 1.6-ATS SURVEILLANCE SERVICES AND PROCEDURES
 ENR 1.6.1-Primary radar
 A description of primary radar services and procedures, including the-
 (a) supplementary services;
 (b) the application of radar control service;
-(c) radar and radio failure procedures; and
-(d) graphic portrayal of area of radar coverage.
-ENR 1.6.2-Secondary surveillance radar
+(c) radar and air-ground communication failure procedures;
+(d) voice and CPDLC position reporting requirements; and
+(e) graphic portrayal of area of radar coverage.
+ENR 1.6.2-Secondary Surveillance Radar
 A description of SSR operating procedures, including-
 (a) emergency procedures;
-(b) radio communication failure and unlawful interference
+(b) air-ground communication failure and unlawful interference
 procedures;
-(c) system of SSR code assignment; and
-(d) graphic portrayal of area of SSR coverage.
-Note: The SSR description is of particular importance in areas or routes where the possibility of
-interception exists.
+(c) the system of SSR code assignment;
+(d) voice and CPDLC position reporting requirements; and
+(e) graphic portrayal of area of SSR coverage.
+Note: The SSR description is of particular importance in areas or routes where the possibility
+of interception exists.
+ENR 1.6.3-Automatic Dependent Surveillance
+Broadcast (ADS-B)
+A description of Automatic dependent surveillance-broadcast (ADS-B)
+operating procedures, including-
+(a) emergency procedures;
+(b) air-ground communication failure and unlawful interference
+procedures;
 Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
+(c) aircraft identification requirements;
+(d) voice and CPDLC position reporting requirements; and
+(e) graphic portrayal of area of ADS-B coverage.
+Note: The ADS-B description is of particular importance in areas or routes where the possibility
+of interception exists.
 ENR 1.7-ALTIMETER SETTING PROCEDURES
 A statement of altimeter setting procedures in use, containing-
 (a) brief introduction with a statement concerning the ICAO
@@ -3020,12 +3183,13 @@ ENR 1.10-FLIGHT PLANNING
 An indication of any restriction, limitation or advisory information related to the flight planning stage which may assist the user in the presentation of the intended flight operation, including the-
 (a) procedures for the submission of a flight plan;
 (b) repetitive flight plan system; and
-(c) changes to the submitted flight plan.
+(c) changes to the submitted flight plan. [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
 ENR 1.11-ADDRESSING OF FLIGHT PLAN MESSAGES
-An indication, in tabular form, of the addresses allocated to flight plans, showing the-
+An indication, in tabular form, of the addresses allocated to flight plans,
+showing the-
 (a) category of flight such as IFR, VFR;
 (b) route into or through the FIR or TMA; and
-(c) message address. [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
+(c) message address.
 ENR 1.12-INTERCEPTION OF CIVIL AIRCRAFT
 A complete statement of interception procedures and visual signals to be
 used with a clear indication of whether ICAO provisions are applied and if not, a complete presentation of differences.
@@ -3033,7 +3197,7 @@ ENR 1.13-UNLAWFUL INTERFERENCE
 A presentation of appropriate procedures to be applied in case of
 unlawful interference.
 ENR 1.14-AIR TRAFFIC INCIDENTS
-A description of air traffic incidents reporting system, including the:
+A description of air traffic incidents reporting system, including the-
 (a) definition of air traffic incidents;
 (b) use of the Air Traffic Incident Reporting Form;
 (c) reporting procedures including in-flight reporting procedures; and
@@ -3042,7 +3206,7 @@ ENR 2.-AIR TRAFFIC SERVICES AIRSPACE
 ENR 2.1-FIR, UIR, TMA
 A detailed description of flight information regions, upper flight
 information regions, and terminal control areas, including the-
-(a) name, geographical coordinates in degrees and minutes of the
+(a) name, geographical co-ordinates in degrees and minutes of the
 FIR or UIR lateral limits and in degrees, minutes and seconds of the TMA lateral limits, vertical limits and class of airspace;
 (b) identification of unit providing the service;
 (c) call sign of aeronautical station serving the unit and the
@@ -3052,9 +3216,8 @@ purposes; and
 (e) remarks.
 Control zones around military air bases not otherwise described in the
 AIP must be included under this heading.
-Where the requirements of Civil Aviation [(No. 2) Operations]
-Regulations, concerning flight plans, two-way communications and position reporting apply to all flights in order to eliminate or reduce the need for interceptions or where the possibility of interception exists and the maintenance of guard on the VHF emergency channel 121.5 MHz is required, a statement to this effect must be included for the relevant area or portion.
 Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
+Where the requirements of Civil Aviation [(No. 2) Operations] Regulations, concerning flight plans, two-way communications and position reporting apply to all flights in order to eliminate or reduce the need for interceptions or where the possibility of interception exists and the maintenance of guard on the VHF emergency channel 121.5 MHz is required, a statement to this effect must be included for the relevant area or portion.
 A description of designated areas over which the carriage of an ELT is required and where aircraft shall continuously guard the VHF emergency frequency 121.5 MHz, except for those periods when aircraft are carrying out communications on other VHF channels or when airborne equipment limitations or cockpit duties do not permit simultaneous guarding of two channels. Note: Other types of airspace around civil aerodromes and heliports such as control zones and
 aerodrome traffic zones are described in the relevant aerodrome or heliport section.
 ENR 2.2-OTHER REGULATED AIRSPACE
@@ -3066,27 +3229,28 @@ at the intersection of the two radials in the case of a route which changes dire
 ENR 3.1-LOWER ATS ROUTES
 Detailed description of lower ATS routes, including the-
 (a) route designator, RNP type applicable to a specified
-segment, name, coded designator or name-code and the geographical coordinates in degrees, minutes and seconds of all significant points defining the route including "compulsory" or "on-request" reporting points;
+segment, name, coded designator or name-code and the geographical co-ordinates in degrees, minutes and seconds of all significant points defining the route including "compulsory" or "on-request" reporting points;
 (b) tracks or VOR radials to the nearest degree, geodetic
 distance to the nearest tenth of a kilometre or tenth of a nautical mile between each successive designated significant point and, in the case of VOR radials, changeover points;
-(c) upper and lower limits or minimum flight altitudes to the
+(c) upper and lower limits or minimum en route altitudes, to the
 nearest higher fifty metres or one hundred feet and airspace classification;
-(d) lateral limits;
-(e) direction of cruising levels; and
-(f) remarks, including an indication of the controlling unit and
-its operating frequency. Note: In relation to Appendix 1 of Schedule 1 and for flight planning purposes, the specified
-RNP type is not considered to be an integral part of the route designator. [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
+(d) lateral limits and minimum obstacle clearance altitudes;
+(e) direction of cruising levels; and [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
+(f) remarks, including an indication of the controlling unit, its
+operating channel and, if applicable, its log on address.
+Note: In relation to Appendix 1 of Schedule 1 and for flight planning purposes, the specified
+RNP type is not considered to be an integral part of the route designator.
 ENR 3.2-UPPER ATS ROUTES
 A detailed description of upper ATS routes, including the-
 (a) route designator, RNP type applicable to a specified
-segment, name, coded designator or name-code and the geographical coordinates in degrees, minutes and seconds of all significant points defining the route including "compulsory" or "on-request" reporting points;
+segment, name, coded designator or name-code and the geographical co-ordinates in degrees, minutes and seconds of all significant points defining the route including "compulsory" or "on-request" reporting points;
 (b) track or VOR radial to the nearest degree, geodetic distance
 to the nearest tenth of a kilometre or tenth of a nautical mile between each successive designated significant point and, in the case of VOR radials, changeover points;
 (c) upper and lower limits and airspace classification;
 (d) lateral limits;
 (e) direction of cruising levels; and
-(f) remarks, including an indication of the controlling unit and
-its operating frequency.
+(f) remarks, including an indication of the controlling unit, its
+operating channel and, if applicable, its log on address.
 Note: In relation to Appendix 1 of Schedule 1 and for flight planning purposes, the specified
 RNP type is not considered to be an integral part of the route designator.
 ENR 3.3-AREA NAVIGATION ROUTES
@@ -3094,7 +3258,7 @@ A detailed description of area navigation routes, including the-
 (1) route designator, RNP type applicable to a specified segment,
 name, coded designator or name-code and the geographical co-ordinates in degrees, minutes and seconds of all significant points defining the route including compulsory or on-request reporting points;
 (2) in respect of waypoints defining a VOR or DME area navigation
-route, including the:
+route, including the-
 (a) station identification of the reference VOR or DME;
 (b) bearing to the nearest degree and the distance to the nearest
 tenth of a kilometre or tenth of a nautical mile from the reference VOR or DME, if the waypoint is not collocated with it; and
@@ -3102,26 +3266,26 @@ tenth of a kilometre or tenth of a nautical mile from the reference VOR or DME, 
 thirty metres or one hundred feet;
 (3) geodetic distance to the nearest tenth of a kilometre or tenth of
 a nautical mile between defined end-points and distance between each successive designated significant point;
-(4) upper and lower limits and airspace classification;
 Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
+(4) upper and lower limits and airspace classification;
 (5) direction of cruising levels; and
-(6) remarks, including an indication of the controlling unit and its operating frequency. Note: In relation to Appendix 1 of Schedule 1 and for flight planning purposes, the specified RNP
-type is not considered to be an integral part of the route designator.
+(6) Remarks, including an indication of the controlling unit, its operating channel and, if applicable, its log on address. Note: In relation to Appendix 1 of Schedule 1 and for flight planning purposes, the specified
+RNP type is not considered to be an integral part of the route designator.
 ENR 3.4-HELICOPTER ROUTES
 A detailed description of helicopter routes, including the-
-(1) route designator, RNP type applicable to a specified segment, name, coded designator or name-code and the geographical coordinates in degrees, minutes and seconds of all significant points defining the route including compulsory or on-request reporting points;
+(1) route designator, RNP type applicable to a specified segment, name, coded designator or name-code and the geographical co-ordinates in degrees, minutes and seconds of all significant points defining the route including compulsory or on-request reporting points;
 (2) tracks or VOR radials to the nearest degree, geodetic distance to the nearest tenth of a kilometre or tenth of a nautical mile between each successive designated significant point and, in the case of VOR radials, changeover points;
 (3) upper and lower limits and airspace classification;
 (4) minimum flight altitudes to the nearest higher 50 metres or 100 feet; and
 (5) remarks, including an indication of the controlling unit and its operating frequency. Note: In relation to Appendix 1 of Schedule 1 and for flight planning purposes, the specified
 RNP type is not considered to be an integral part of the route designator.
 ENR 3.5-OTHER ROUTES
-A description of other specifically designated routes which are compulsory within specified area. Note: Arrival, transit and departure routes which are specified in connection with procedures for
-traffic to and from aerodromes and heliports need not be described since they are described in the relevant section of Part 3 of the AIP-Aerodromes.
+A description of other specifically designated routes which are compulsory within specified area. Note: Arrival, transit and departure routes which are specified in connection with procedures
+for traffic to and from aerodromes and heliports need not be described since they are described in the relevant section of Part 3 of the AIP-Aerodromes.
 ENR 3.6-EN ROUTE HOLDING
 A detailed description of en route holding procedures, containing the-
 (1) holding identification where applicable and holding fix
-(navigation aid) or waypoint with geographical coordinates in degrees, minutes and seconds;
+(navigation aid) or waypoint with geographical co-ordinates in degrees, minutes and seconds;
 (2) inbound track;
 (3) direction of the procedure turn;
 (4) maximum indicated airspeed; [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
@@ -3132,15 +3296,15 @@ Note: Obstacle clearance criteria related to holding procedures are contained in
 "Procedures for Air Navigation Services-Aircraft Operations PANS-OPS", Volumes I and II.
 ENR 4.-RADIO NAVIGATION AIDS AND SYSTEMS
 ENR 4.1-RADIO NAVIGATION AIDS-EN ROUTE
-A list of stations providing radio navigation services established for en
-route purposes and arranged alphabetically by name of the station, including-
+A list of stations providing radio navigation services established for en route
+purposes and arranged alphabetically by name of the station, including-
 (1) the name of the station and magnetic variation to the nearest
 degree and for VOR, station declination to the nearest degree used for technical line-up of the aid;
 (2) the identification code;
 (3) the frequency and channel for each element;
 (4) the hours of operation;
-(5) the geographical coordinates in degrees, minutes and seconds of
-the position of the transmitting antenna;
+(5) the geographical co-ordinates in degrees, minutes and seconds
+of the position of the transmitting antenna;
 (6) the elevation of the transmitting antenna of DME to the nearest
 30 metres or 100 feet; and
 (7) remarks.
@@ -3156,20 +3320,20 @@ and colour;
 basic pulse rate, recurrence rate, as applicable;
 (4) the hours of operation;
 Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
-(5) the geographical coordinates in degrees, minutes and seconds of the position of the transmitting station; and
+(5) the geographical co-ordinates in degrees, minutes and seconds of the position of the transmitting station; and
 (6) remarks.
 Where the operating authority of the facility is not the Authority, the name of the operating authority and facility coverage must be indicated in the remarks column.
 ENR 4.3-GLOBAL NAVIGATION SATELLITE SYSTEM
 A list and description of elements of the global navigation satellite system providing the navigation service established for en route purposes and arranged alphabetically by name of the element, including-
 (1) the name of the GNSS element such as GPS, GLONASS, EGNOS, MSAS and WAAS;
 (2) the frequency, as appropriate;
-(3) the geographical coordinates in degrees, minutes and seconds of the nominal service area and coverage area; and
+(3) the geographical co-ordinates in degrees, minutes and seconds of the nominal service area and coverage area; and
 (4) remarks.
 Where the operating authority of the facility is not the Authority, the name of the operating authority must be indicated in the remarks column.
 ENR 4.4-NAME-CODE DESIGNATORS FOR SIGNIFICANT POINTS
 An alphabetically arranged list of five-letter pronounceable name-code designators established for significant points at positions other than the site of radio navigation aids, including the-
 (1) name-code designator;
-(2) geographical coordinates in degrees, minutes and seconds of the position; and
+(2) geographical co-ordinates in degrees, minutes and seconds of the position; and
 (3) reference to ATS or other routes where the point is located.
 ENR 4.5-AERONAUTICAL GROUND LIGHTS-EN ROUTE
 A list of aeronautical ground lights and other light beacons designating geographical positions which are selected by the Authority as being significant, including the-
@@ -3181,7 +3345,7 @@ A list of aeronautical ground lights and other light beacons designating geograp
 ENR 5.-NAVIGATION WARNINGS
 ENR 5.1-PROHIBITED, RESTRICTED AND DANGER AREAS A description, supplemented by graphic portrayal where appropriate, of
 prohibited, restricted and danger areas together with information regarding their establishment and activation, including-
-(1) the identification, name and geographical coordinates of the
+(1) the identification, name and geographical co-ordinates of the
 lateral limits in degrees, minutes and seconds if inside and in degrees and minutes if outside control area or control zone boundaries;
 (2) the upper and lower limits; and
 (3) remarks, including time of activity.
@@ -3191,7 +3355,7 @@ ENR 5.2-MILITARY EXERCISE AND TRAINING AREAS AND AIR
 DEFENCE IDENTIFICATION ZONE
 A description, supplemented by graphic portrayal where appropriate, of
 established military training areas and military exercises taking place at regular intervals, and established air defence identification zone ADIZ, including-
-(1) the geographical coordinates of the lateral limits in degrees,
+(1) the geographical co-ordinates of the lateral limits in degrees,
 minutes and seconds if inside and in degrees and minutes if outside control area or control zone boundaries;
 (2) the upper and lower limits and system and means of activation
 announcements together with information pertinent to civil flights and applicable ADIZ procedures; and
@@ -3203,8 +3367,8 @@ OTHER POTENTIAL HAZARDS
 ENR 5.3.1-Other activities of a dangerous nature
 A description, supplemented by charts where appropriate, of activities
 that could affect flights including the-
-(1) the geographical coordinates in degrees and minutes of centre of
-area and range of influence;
+(1) the geographical co-ordinates in degrees and minutes of centre
+of area and range of influence;
 (2) the vertical limits of activities of a dangerous nature;
 Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
 (3) the advisory measures;
@@ -3212,7 +3376,7 @@ Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
 (5) remarks, including time of activity.
 ENR 5.3.2-Other potential hazards
 A description, supplemented by charts where appropriate, of other potential hazards such as active volcanoes, nuclear power stations that could affect flights, including-
-(a) the geographical coordinates in degrees and minutes of
+(a) the geographical co-ordinates in degrees and minutes of
 location of potential hazard;
 (b) the vertical limits of the potential hazards;
 (c) any advisory measures;
@@ -3222,7 +3386,7 @@ ENR 5.4-AIR NAVIGATION OBSTACLES
 The list of obstacles affecting air navigation in Area 1, including the-
 (a) obstacle identification or designation;
 (b) type of obstacle;
-(c) obstacle position, represented by geographical coordinates
+(c) obstacle position, represented by geographical co-ordinates
 in degrees, minutes and seconds;
 (d) obstacle elevation and height to the nearest metre or foot;
 (e) type and colour of obstacle lighting where applicable; and
@@ -3232,7 +3396,7 @@ considered an obstacle for Area 1. Note 2: Specifications governing the determin
 data integrity) of positions (latitude and longitude) and elevations/heights for obstacles in Area 1 are given in Tables 1 and 2 of Appendix 5 of Schedule 1.
 ENR 5.5-AERIAL SPORTING AND RECREATIONAL ACTIVITIES
 A brief description, supplemented by graphic portrayal where appropriate, of intensive aerial sporting and recreational activities together with conditions under which they are carried out, including-
-(a) the designation and geographical coordinates of the lateral
+(a) the designation and geographical co-ordinates of the lateral
 limits in degrees, minutes and seconds if inside and in degrees and minutes if outside control area or control zone boundaries; [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
 (b) the vertical limits of the aerial, sporting and recreational
 activities;
@@ -3248,7 +3412,7 @@ ENR 6.-EN ROUTE CHARTS
 En Route Chart-ICAO and index charts to be included in this section.
 PART 3-AERODROMES (AD)
 Where an AIP is produced and made available in more than one volume
-with each having a separate amendment and supplement service, a separate preface, record of AIP Amendments, record of AIP Supplements, checklist of AIP pages and list of current hand amendments must be included in each volume. In the case of an AIP being published as one volume, the annotation "not applicable" must be entered against each of the above subsections.
+with each having a separate amendment and supplement service, a separate preface, record of AIP Amendments, record of AIP Supplements, checklist of AIP Pages and list of current hand amendments must be included in each volume. In the case of an AIP being published as one volume, the annotation "not applicable" must be entered against each of the above subsections.
 AD 0.6-TABLE OF CONTENTS TO PART 3
 A list of sections and subsections contained in Part 3-Aerodromes.
 AD 1.- AERODROMES AND HELIPORTS
@@ -3265,7 +3429,7 @@ Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
 (d) the general conditions under which the low visibility
 procedures applicable to Category II and Category III operations at aerodromes, if any, are applied;
 (e) friction measuring device used and the runway friction level
-below which the Director General will declare the runway to be slippery when wet; and
+below which the Director-General will declare the runway to be slippery when wet; and
 (f) other information of a similar nature.
 AD 1.2-RESCUE AND FIREFIGHTING SERVICES AND SNOW PLAN
 AD 1.2.1-Rescue and firefighting services
@@ -3287,7 +3451,7 @@ The ICAO location indicator allocated to the aerodrome and the name of aerodrome
 DATA
 Aerodrome geographical and administrative data including-
 (a) the aerodrome reference point represented by geographical
-coordinates in degrees, minutes and seconds and its site;
+co-ordinates in degrees, minutes and seconds and its site;
 (b) the direction and distance of aerodrome reference point from
 centre of the city or town which the aerodrome serves;
 (c) the aerodrome elevation to the nearest metre or foot, and
@@ -3337,7 +3501,7 @@ A brief description of passenger facilities available at the aerodrome, such as-
 (f) tourist offices; and
 (g) remarks.
 **** AD 2.6-RESCUE AND FIREFIGHTING SERVICES
-A detailed description of the rescue and firefighting services and equipment available at the aerodrome, including:
+A detailed description of the rescue and firefighting services and equipment available at the aerodrome, including-
 (a) aerodrome category for firefighting;
 (b) rescue equipment;
 (c) capability for removal of disabled aircraft; and
@@ -3370,11 +3534,11 @@ lines and visual docking or parking guidance system at aircraft stands;
 (c) stop bars where applicable; and
 (d) remarks.
 **** AD 2.10-AERODROME OBSTACLES
-A detailed description of obstacles, in respect of:
+A detailed description of obstacles, in respect of-
 (1) obstacles in Area 2 as follows:
 (a) obstacle identification or designation;
 (b) type of obstacle;
-(c) obstacle position, represented by geographical coordinates
+(c) obstacle position, represented by geographical co-ordinates
 in degrees, minutes, seconds and tenths of seconds;
 (d) obstacle elevation and height to the nearest metre or foot;
 (e) obstacle marking, and type and colour of obstacle lighting
@@ -3390,7 +3554,7 @@ data integrity of positions latitude and longitude and elevations for obstacles 
 (2) obstacles in Area 3 as follows:
 (a) the obstacle identification or designation;
 (b) the type of obstacle;
-(c) the obstacle position, represented by geographical coordinates
+(c) the obstacle position, represented by geographical co-ordinates
 in degrees, minutes, seconds and tenths of seconds;
 (d) the obstacle elevation and height to the nearest metre or foot;
 (e) the obstacle marking, and type and colour of obstacle
@@ -3426,7 +3590,7 @@ runway, including-
 (c) the dimensions of runways to the nearest metre or foot;
 (d) the strength of pavement to include PCN and associated data
 and surface of each runway and associated stopways;
-(e) the geographical coordinates in degrees, minutes, seconds
+(e) the geographical co-ordinates in degrees, minutes, seconds
 and hundredths of seconds for each threshold and runway end, and geoid undulation to the nearest one-half metre or foot for each threshold;
 (f) elevations of-
 (i) thresholds of a non-precision approach runway to the
@@ -3476,7 +3640,7 @@ landing direction indicator;
 (e) remarks.
 **** AD 2.16-HELICOPTER LANDING AREA
 A detailed description of helicopter landing area provided at the aerodrome, including-
-(a) the geographical coordinates in degrees, minutes, seconds
+(a) the geographical co-ordinates in degrees, minutes, seconds
 and hundredths of seconds and geoid undulation to the nearest one-half metre or foot of the geometric centre of touchdown and lift-off or of each threshold of final approach and take-off area where appropriate; [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
 (b) the TLOF and FATO area elevation-
 (i) for non-precision approaches, to the nearest metre or
@@ -3490,8 +3654,8 @@ foot, surface type, bearing strength and marking;
 (f) the approach and FATO lighting; and
 (g) remarks.
 **** AD 2.17-AIR TRAFFIC SERVICES AIRSPACE
-A detailed description of ATS airspace organized at the aerodrome, including-
-(a) the airspace designation and geographical coordinates in
+A detailed description of ATS airspace organised at the aerodrome, including-
+(a) the airspace designation and geographical co-ordinates in
 degrees, minutes and seconds of the lateral limits;
 (b) the vertical limits;
 (c) the airspace classification;
@@ -3503,9 +3667,10 @@ A detailed description of air traffic services communication facilities
 established at the aerodrome, including-
 (a) the service designation;
 (b) the call sign;
-(c) the frequency;
-(d) the hours of operation; and
-(e) remarks.
+(c) channels;
+(d) log on address, as appropriate;
+(e) hours of operation; and
+(f) remarks.
 **** AD 2.19-RADIO NAVIGATION AND LANDING AIDS
 A detailed description of radio navigation and landing aids associated with the
 instrument approach and the terminal area procedures at the aerodrome, including-
@@ -3515,7 +3680,7 @@ Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
 (b) the identification, if required;
 (c) the frequency, as appropriate;
 (d) the hours of operation, as appropriate;
-(e) the geographical coordinates in degrees, minutes, seconds
+(e) the geographical co-ordinates in degrees, minutes, seconds
 and tenths of seconds of the position of the transmitting antenna, as appropriate;
 (f) the elevation of the transmitting antenna of DME to the
 nearest 30 metres or 100 feet and of DME/P to the nearest 3 metres or 10 feet; and
@@ -3526,27 +3691,34 @@ A detailed description of regulations applicable to the traffic at the aerodrome
 **** AD 2.21-NOISE ABATEMENT PROCEDURES
 A detailed description of noise abatement procedures established at the aerodrome.
 **** AD-2.22 FLIGHT PROCEDURES
-A detailed description of the conditions and flight procedures, including radar procedures, established on the basis of airspace organization at the aerodrome.
+A detailed description of the conditions and flight procedures, including radar or ADS-B procedures, established on the basis of airspace organisation at the aerodrome and where established, detailed description of the low visibility procedures at the aerodrome, including-
+(a) runways and associated equipment authorised for use under
+low visibility procedures;
+(b) defined meteorological conditions under which initiation,
+use and termination of low visibility procedures would be made; and
+(c) description of ground marking/lighting for use under low
+visibility procedures.
 **** AD 2.23-ADDITIONAL INFORMATION
-Additional information at the aerodrome, such as an indication of bird concentrations at the aerodrome, together with an indication of significant daily movement between resting and feeding areas, to the extent practicable.
+Additional information at the aerodrome, such as an indication of bird concentrations at the aerodrome, together with an indication of significant daily movement between resting and feeding areas, to the extent practicable. [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
 **** AD 2.24 CHARTS RELATED TO AN AERODROME
 Charts related to an aerodrome are to included in the following order:
 (a) Aerodrome and Heliport Chart-ICAO;
-(b) Aircraft Parking and Docking Chart-ICAO; [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
+(b) Aircraft Parking and Docking Chart-ICAO;
 (c) Aerodrome Ground Movement Chart-ICAO;
 (d) Aerodrome Obstacle Chart-ICAO Type A;
-(e) Precision Approach Terrain Chart-ICAO precision
-approach Cat II and III runways;
-(f) Area Chart-ICAO for departure and transit routes;
-(g) Standard Departure Chart-Instrument-ICAO;
-(h) Area Chart-ICAO for arrival and transit routes;
-(i) Standard Arrival Chart-Instrument-ICAO;
-(j) Radar Minimum Altitude Chart-ICAO;
-(k) Instrument Approach Chart-ICAO for each runway and
+(e) Aerodrome Terrain and Obstacle Chart-ICAO
+(Electronic);
+(f) Precision Approach Terrain Chart-ICAO for precision
+approach Categories II and III runways;
+(g) Area Chart-ICAO for departure and transit routes;
+(h) Standard Departure Chart-Instrument-ICAO;
+(i) Area Chart-ICAO for arrival and transit routes;
+(j) Standard Arrival Chart-Instrument-ICAO;
+(k) Radar ATC Surveillance Minimum Altitude Chart-ICAO;
+(l) Instrument Approach Chart-ICAO for each runway and
 procedure type;
-(l) Visual Approach Chart-ICAO; and
-(m) a chart showing bird concentrations in the vicinity of
-the aerodrome.
+(m) Visual Approach Chart-ICAO; and
+(n) bird concentrations in the vicinity of the aerodrome.
 Where some of the charts are not produced, a statement to this effect must
 be given in section GEN 3.2, Aeronautical charts.
 AD 3.-HELIPORTS
@@ -3557,16 +3729,16 @@ heliport must be provided. An ICAO location indicator must be an integral part o
 **** AD 3.2-HELIPORT GEOGRAPHICAL AND ADMINISTRATIVE DATA
 Heliport geographical and administrative data shall be provided, including-
 (a) the heliport reference point represented by geographical
-coordinates in degrees, minutes and seconds and its site;
+co-ordinates in degrees, minutes and seconds and its site;
 (b) the direction and distance of heliport reference point from
 centre of the city or town which the heliport serves;
 (c) the heliport elevation to the nearest metre or foot, and
 reference temperature;
 (d) the geoid undulation at the heliport elevation position to the
 nearest metre or foot;
+Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
 (e) the magnetic variation to the nearest degree, date of
 information and annual change;
-Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
 (f) the name of heliport administration, address, telephone,
 telefax and telex numbers and AFS address;
 (g) the types of traffic permitted to use the heliport such as IFR
@@ -3643,10 +3815,10 @@ route markers; and
 (c) remarks.
 **** AD 3.10 HELIPORT OBSTACLES
 A detailed description of obstacles, in respect of-
-(1) Obstacles in Area 2 such as:
+(1) Obstacles in Area 2 such as-
 (a) obstacle identification or designation;
 (b) type of obstacle;
-(c) obstacle position, represented by geographical coordinates
+(c) obstacle position, represented by geographical co-ordinates
 in degrees, minutes, seconds and tenths of seconds;
 (d) obstacle elevation and height to the nearest metre or foot;
 (e) obstacle marking, and type and colour of obstacle lighting
@@ -3656,10 +3828,10 @@ available in electronic form, and a reference to GEN 3.1.6; and
 (g) NIL indication, if appropriate. Note 1: Subclause 2(2), (3) and (4)(a) of Part H, provides a description of Area 2 while
 Figure A-2 of the Appendix to Part H, contains graphical illustrations of obstacle data collection surfaces and criteria used to identify obstacles in Area 2. Note 2: Specifications governing the determination and reporting accuracy of field work and
 data integrity of positions latitude and longitude and elevations for obstacles in Area 2 are given in, Tables 1 and 2, in the Appendix to Part A of Schedule 1 and in Tables 1 and 2 in Appendix 1 Volume 11 of Annex 14, respectively.
-(2) Obstacles in Area 3 such as:
+(2) Obstacles in Area 3 such as-
 (a) obstacle identification or designation;
 (b) type of obstacle;
-(c) obstacle position, represented by geographical coordinates
+(c) obstacle position, represented by geographical co-ordinates
 in degrees, minutes, seconds and tenths of seconds;
 (d) obstacle elevation and height to the nearest metre or foot;
 (e) obstacle marking, and type and colour of obstacle lighting
@@ -3699,7 +3871,7 @@ including-
 surface type;
 (e) the surface and bearing strength in tonnes of TLOF;
 Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
-(f) the geographical coordinates in degrees, minutes, seconds
+(f) the geographical co-ordinates in degrees, minutes, seconds
 and hundredths of seconds and geoid undulation to the nearest one-half metre or foot of the geometric centre of TLOF or of each threshold of FATO where appropriate;
 (g) the TLOF and FATO slope and elevation-
 (i) for non-precision approaches to the nearest metre or
@@ -3734,7 +3906,7 @@ heliport beacon;
 (e) remarks. [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
 **** AD 3.16-AIR TRAFFIC SERVICES AIRSPACE
 A detailed description of ATS airspace organised at the heliport, including-
-(a) the airspace designation and geographical coordinates in
+(a) the airspace designation and geographical co-ordinates in
 degrees, minutes and seconds of the lateral limits;
 (b) the vertical limits of the ATS airspace at the heliport;
 (c) the airspace classification;
@@ -3760,21 +3932,27 @@ GNSS, SBAS, and GBAS;
 if required;
 (c) the frequency, as appropriate;
 (d) the hours of operation, as appropriate;
-(e) the geographical coordinates in degrees, minutes, seconds
+(e) the geographical co-ordinates in degrees, minutes, seconds
 and tenths of seconds of the position of the transmitting antenna, as appropriate;
 (f) the elevation of the transmitting antenna of DME to the
 nearest 100 feet and of DME/P to the nearest 10 feet; and
 (g) remarks.
 Where the same aid is used for both en route and heliport purposes, a
-description must also be given in section ENR 4. Where the ground-based
+description must also be given in section ENR 4. Where the ground-based augmentation system (GBAS) serves more than one heliport, description of the aid must be provided under each heliport. Where the operating authority
 Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
-augmentation system (GBAS) serves more than one heliport, description of the aid must be provided under each heliport. Where the operating authority of the facility is not the Authority, the name of the operating authority and facility coverage must be indicated in the remarks column.
+of the facility is not the Authority, the name of the operating authority and facility coverage must be indicated in the remarks column.
 **** AD 3.19-LOCAL TRAFFIC REGULATIONS
 A detailed description of regulations applicable to traffic at the heliport, including standard routes for taxiing helicopters, parking regulations, school flights, training flights and other similar flights but excluding flight procedures.
 **** AD 3.20-NOISE ABATEMENT PROCEDURES
 A detailed description of noise abatement procedures established at the heliport.
 **** AD 3.21-FLIGHT PROCEDURES
-A detailed description of the conditions and flight procedures, including radar procedures, established on the basis of airspace organisation established at the heliport.
+A detailed description of the conditions and flight procedures, including radar and/or ADS-B procedures, established on the basis of airspace organisation established at the heliport and where established, detailed description of the low visibility procedures at the heliport, including-
+(a) touchdown and lift-off (TLOF) area(s) and associated
+equipment authorised for use under low visibility procedures;
+(b) defined meteorological conditions under which initiation,
+use and termination of low visibility procedures would be made; and
+(c) description of ground marking/lighting for use under low
+visibility procedures.
 **** AD 3.22-ADDITIONAL INFORMATION
 Additional information about the heliport, such as an indication of bird concentrations at the heliport together with an indication of significant daily movement between resting and feeding areas, to the extent practicable.
 **** AD 3.23-CHARTS RELATED TO A HELIPORT
@@ -3784,11 +3962,12 @@ Charts related to a heliport shall be included in the following order:
 (c) Standard Departure Chart-Instrument-ICAO;
 (d) Area Chart-ICAO for arrival and transit routes;
 (e) Standard Arrival Chart-Instrument-ICAO;
-(f) Radar Minimum Altitude Chart-ICAO;
+(f) ATC Surveillance Minimum Altitude Chart-ICAO;
 (g) Instrument Approach Chart-ICAO for each procedure type;
-(h) Visual Approach Chart-ICAO; and
+(h) Visual Approach Chart-ICAO; and [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
 (i) A chart showing bird concentrations in the vicinity of heliport.
-Where some of the charts are not produced, a statement to this effect must be given in section. GEN 3.2-Aeronautical charts. [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
+Where some of the charts are not produced, a statement to this effect must
+be given in section. GEN 3.2-Aeronautical charts.
 PART C
 NOTAM
 The Standards required to be met for NOTAM shall be as follows:
@@ -3798,8 +3977,7 @@ ORIGINATION
 of short duration; or
 (b) operationally significant permanent changes, or temporary
 changes of long duration are made at short notice.
-(2) A NOTAM shall be originated and issued in respect of the
-following:
+(2) A NOTAM shall be originated and issued in respect of the following:
 (a) establishment, closure or significant changes in operation of
 aerodrome and heliport or runways;
 (b) establishment, withdrawal and significant changes in
@@ -3822,9 +4000,9 @@ visual aids;
 (e) interruption of or return to operation of major components of
 aerodrome lighting systems;
 (f) establishment, withdrawal or significant changes made to
-procedures for air navigation services;
+procedures for air navigation services; Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
 (g) occurrence or correction of major defects or impediments in
-the manoeuvring area; Civil Aviation [(No. 15) Air Navigation Services] Regulations [Subsidiary]
+the manoeuvring area;
 (h) changes to and limitations on availability of fuel, oil
 and oxygen;
 (i) major changes to search and rescue facilities and
@@ -3899,10 +4077,10 @@ NOTAM is clear without the need to refer to another document; and
 (9) A NOTAM containing permanent or temporary information of long duration shall carry appropriate AIP or AIP supplement references.
 (10) A complete form of Location indicators shall be included in the text of a NOTAM contained in the Location Indicators specified in the ICAO Doc. 7910.
 (11) In no case shall an abbreviated form of a location indicator under subclause (11) be used.
-(12) Where no ICAO location indicator is assigned to the location, the name of the location spelt in accordance with subclause 5(2), shall be entered in plain language. [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
+(12) Where no ICAO location indicator is assigned to the location, the name of the location spelt in accordance with subclause 5(2), shall be entered in plain language.
 (13) A checklist of valid NOTAM for each series shall-
 (a) be issued as a NOTAM over the AFS at intervals of not more
-than one month using the NOTAM format specified in Appendix 3 of this Part one NOTAM issued for each series.
+than one month using the NOTAM format specified in Appendix 3 of this Part one NOTAM issued for each series; [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
 (b) refer to the latest AIP Amendments, AIP Supplements and at
 least the internationally distributed AIC; and
 (c) have the same distribution as the actual message series to
@@ -3918,12 +4096,12 @@ the ICAO communication procedures.
 distribution.
 (3) Where a NOTAM exchange as specified in subclause (5) is sent
 by means other than the AFS, a six-digit date-time group indicating the date and time of NOTAM origination, and the identification of the originator shall be used, preceding the text.
-(4) The Director General shall select the NOTAM that are to be
+(4) The Director-General shall select the NOTAM that are to be
 given international distribution.
 (5) International exchange of NOTAM shall take place only as mutually
 agreed between the Authority and the international NOTAM offices concerned.
-(6) The international exchange of ASHTAM and NOTAM where
-the Authority use NOTAM for distribution of information on volcanic activity, shall include volcanic ash advisory centres, and take account of the requirements of long-range operations.
+(6) The international exchange of ASHTAM, and NOTAM where
+the Authority use NOTAM for distribution of information on volcanic activity, shall include volcanic ash advisory centres and the centres designated by regional air navigation agreement for the operation of AFS satellite distribution systems, such as satellite distribution system for information relating to air navigation (SADIS) and international satellite communications system (ISCS), and shall take account of the requirements of long-range operations.
 (7) The exchanges of NOTAM between international NOTAM
 offices shall, as far as practicable, be limited to the requirements of the receiving States concerned by means of separate series providing for at least international and domestic flights.
 (8) A predetermined distribution system for NOTAM transmitted
@@ -3937,9 +4115,9 @@ INDICATOR) (DATE AND TIME (ORIGINATOR'S OF FILING) INDICATOR)
 V A *2 *
 2
 (Serial number) (FLIGHT INFORMATION REGION AFFECTED) [DATE/TIME (UTC) OF ERUPTION] (VOLCANO NAME AND NUMBER) (VOLCANO LATITUDE/LONGITUDE OR VOLCANO RADIAL AND DISTANCE FROM NAVAID) (VOLCANO LEVEL OF ALERT COLOUR CODE, INCLUDING ANY PRIOR LEVEL OF ALERT COLOUR CODE)3 (EXISTENCE AND HORIZONTAL/VERTICAL EXTENT OF VOLCANIC ASH CLOUD)4 (DIRECTION OF MOVEMENT OF ASH CLOUD)4 (AIR ROUTES OR PORTIONS OF AIR ROUTES AND FLIGHT LEVELS AFFECTED) (CLOSURE OF AIRSPACE AND/OR AIR ROUTES OR PORTIONS OF AIR ROUTES, AND ALTERNATIVE AIR ROUTES AVAILABLE) (SOURCE OF INFORMATION) (PLAIN-LANGUAGE REMARKS)
-- Margin: 308/2006.
+- Margin: 308/2006. [100/2009 204/2009].
 - Margin: Citation.
-- Margin: Interpretation.
+- Margin: Interpretation. [100/2009 204/2009].
 - Margin: Applicability.
 - Margin: Establishment of ATS. Part A. Schedule 1.
 - Margin: Schedule 1.
@@ -3950,7 +4128,7 @@ V A *2 *
 - Margin: Restriction on the provision of ATS.
 - Margin: Part B. Schedule 1.
 - Margin: Prohibition on the performance of duty on air traffic controllers.
-- Margin: RNP for en route operations.
+- Margin: PBN for en route operations. [204/2009].
 - Margin: Control of persons and vehicular traffic at aerodromes.
 - Margin: Provision of flight information service.
 - Margin: Flight information service to aircraft. Part C. Schedule 1.
@@ -3978,8 +4156,8 @@ V A *2 *
 - Margin: Availability and general specifications of aeronautical charts.
 - Margin: Part A. Schedule 3.
 - Margin: Director- General's responsibility to provide information to other Contracting States.
-- Margin: Quality system for aeronautical data.
-- Margin: The Director- General to make available Aerodrome Obstacle Chart-ICAO Type A.
+- Margin: Quality system for aeronautical data. [100/2009].
+- Margin: The Director- General to make available Aerodrome Obstacle Chart-ICAO Type A. [100/2009].
 - Margin: Part B. Schedule 3.
 - Margin: The Director- General to make available En Route Chart-ICAO.
 - Margin: Part C. Schedule 3.
@@ -3987,36 +4165,45 @@ V A *2 *
 - Margin: Part D. Schedule 3.
 - Margin: The Director- General to make available Standards Departure Chart- Instrument (SID)-ICAO.
 - Margin: Part E. Schedule 3.
-- Margin: The Director- General to make available Standard Arrival Chart- Instrument (STAR)- ICAO.
+- Margin: The Director- General to make available Standard Arrival Chart- Instrument (STAR)-ICAO.
 - Margin: The Director- General to make available Instrument Approach Chart - ICAO.
 - Margin: The Director- General to make available Visual Approach Chart - ICAO.
+- Margin: Part H. Schedule 3.
 - Margin: The Director- General to make available Aerodrome or Helicopter Chart - ICAO.
-- Margin: Standards for Aeronautical Telecommunica- tion.
+- Margin: Part I. Schedule 3.
+- Margin: Part I. Schedule 3.
+- Margin: The Director- General to make available Aeronautical Chart-ICAO 1:500 000. [100/2009].
+- Margin: Part J. Schedule 3.
+- Margin: The Director- General to make available Aerodrome Terrain and Obstacle Chart- ICAO (Electronic). [100/2009].
+- Margin: Part K. Schedule 3.
+- Margin: Standards for Aeronautical Telecommunic- tion.
 - Margin: Standards for meteorological service.
-- Margin: (Regulation 4).
+- Margin: Regulation 4. [100/2009 204/2009].
 - Margin: Sub. Leg.
 - Margin: Sub. Leg.
 - Margin: Sub. Leg.
 - Margin: Sub. Leg.
+- Margin: Schedule 2.
 - Margin: Sub. Leg.
 - Margin: Sub. Leg.
-- Margin: [Part A Clauses 6, 7 and 9].
-- Margin: [Part A Paragraph 1(c)].
-- Margin: [Part A Clause 10(b)].
-- Margin: [Regulation 4(2) and (5)].
+- Margin: Part A Paragraphs 6, 7 and 9. [204/2009].
+- Margin: Part A Paragraph 1(c). [100/2009].
+- Margin: Part A Paragraph 10.
+- Margin: Regulation 4(2) and (5). [100/2009].
 - Margin: Sub. Leg.
-- Margin: (Regulation 6).
-- Margin: (Regulation 9).
-- Margin: (Regulation 10).
-- Margin: (Regulation 9).
+- Margin: Regulation 6. [204/2009].
+- Margin: Regulation 9. [100/2009].
+- Margin: Regulation 10. [100/2009].
+- Margin: Regulation 9. [100/2009 204/2009].
 - Margin: Sub. Leg.
-- Margin: (Regulation 13).
-- Margin: (Regulation 20).
-- Margin: (Part B).
+- Margin: Regulation 13.
+- Margin: Part A. Schedule 1.
+- Margin: Regulation 20. [100/2009].
+- Margin: Part B. [100/2009].
 - Margin: Sub. Leg.
 - Margin: Sub. Leg.
-- Margin: (Regulation 21).
-- Margin: [Clause 2(5) of Part C].
+- Margin: Regulation 21. [100/2009].
+- Margin: Paragraph 2(5) of Part C. [100/2009].
 - Margin: (COM heading)
 - Margin: (OPTIONAL GROUP) heading)
 - Margin: ASHTAM A) B) C) D) E)

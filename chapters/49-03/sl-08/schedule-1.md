@@ -28,5 +28,6 @@ area, as well as an indication of access difficulties or special requirements to
 (A) the investigator-in-charge;
 (B) the accident investigation authority or body of
 the State of Occurrence; and
-(n) presence and description of any dangerous goods on board the aircraft.
-- Margin: (Regulation 9).
+(n) presence and description of any dangerous goods on board
+the aircraft.
+- Margin: Regulation 9.

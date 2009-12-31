@@ -9,4 +9,4 @@ Civil Aviation [(No. 9) Approved Training Organisation] Regulations [Subsidiary]
 CIVIL AVIATION [(NO. 9) APPROVED TRAINING
 ORGANISATION] REGULATIONS
 made under section 33
-- Margin: 108/2004. [36/2005 229/2005 191/2006 290/2006].
+- Margin: 108/2004. [36/2005 229/2005 191/2006 290/2006 34/2008 202/2009]. Citation. [191/2006].

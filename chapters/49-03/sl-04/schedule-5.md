@@ -1,6 +1,5 @@
 # SCHEDULE 5
-TERMS OF REFERENCE
-AERODROME SECURITY COMMITTEE
+TERMS OF REFERENCE AERODROME SECURITY COMMITTEE
 (a) Co-ordinate the implementation of the National Civil
 Aviation Security Programme;
 (b) Oversee and monitor the Aerodrome Security Programme,
@@ -17,9 +16,8 @@ to be carried out;
 measures and procedures are implemented;
 (h) Inform the appropriate authority for security of the current
 state of security measures and procedures in effect at the aerodrome and refer any problems relating to the protection of the aerodrome and its services which cannot be resolved at the local level;
-(i) Arrange for security education and training of aerodrome
-and other staff; and
+(i) Arrange for security education and training of aerodrome and
+other staff; and
 (j) Ensure that the planning of aerodrome expansion
-programmes includes the planning of modifications to be made to the aerodrome control systems and equipment.
-Civil Aviation [(No. 8) Aviation Security] Regulations [Subsidiary]
-- Margin: [Regulation 22(3)].
+programmes includes the planning of modifications to be made to the aerodrome control systems and equipment. [Subsidiary] Civil Aviation [(No. 8) Aviation Security] Regulations
+- Margin: Regulation 22(3).

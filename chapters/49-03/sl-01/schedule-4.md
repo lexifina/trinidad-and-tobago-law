@@ -20,7 +20,7 @@ Rules) (not required if all the national air operator's flights are the same);
 (viii) *pilot in command's name;
 (ix) *Flight Operations Officer's name (as applicable);
 (x) *departure aerodrome;
-(xi) *destination aerodrome; [Subsidiary] Civil Aviation [(No. 2) Operations] Regulations Civil Aviation [(No. 2) Operations] Regulations
+(xi) *destination aerodrome; [Subsidiary] Civil Aviation [(No. 2) Operations] Regulations
 (xii) *alternate aerodrome (as applicable), including en
 route alternates where required;
 (xiii) routing to destination by successive navigational way
@@ -55,11 +55,11 @@ applicable);
 (A) total fuel on board;
 (B) zero fuel weight; and
 (C) planned maximum take-off weight;
-[Subsidiary] Civil Aviation [(No. 2) Operations] Regulations Civil Aviation [(No. 2) Operations] Regulations
+[Subsidiary] Civil Aviation [(No. 2) Operations] Regulations
 (xxix) *signature of pilot in command and the Flight
 Operations Officer (as applicable) or alternate means of certifying acceptance; and
 (xxx) *number of persons on board, crew and passengers, as
 amended by final load figures.
 Note: The items with asterisk (*) denote the minimum items which shall be adhered to by national
 air operators on short range operations of less than thirty minutes, night Visual Flight Rules operations and domestic operations.
-- Margin: (Regulation 103).
+- Margin: Regulation 103.

@@ -12,7 +12,8 @@ shall examine the identification of all operational crew members and verify thei
 (f) Aircraft Search: The following measures shall be applied to
 each aircraft after servicing, and prior to boarding any passengers:
 (i) Conduct a thorough physical search of the empty
-interior of the aircraft. The search shall include: overhead bins; closets; lavatories; galleys; trash receptacles; storage bins; seat backs; seat pockets; under seats; and other accessible compartments in the passenger cabin and flight deck; and galley carts that have not been sealed by the government or monitored from preparation to delivery. Personnel conducting the search shall be familiar with the aircraft and shall be provided with instructions for notifying the appropriate authorities if suspicious items are detected. [Subsidiary] Civil Aviation [(No. 8) Aviation Security] Regulations
+interior of the aircraft. The search shall include: overhead bins; closets; lavatories; galleys; trash receptacles; storage bins; seat backs; seat pockets; under seats; and other accessible compartments in the passenger cabin and flight deck; and galley carts that have not been sealed by the government or monitored from preparation to delivery. Personnel conducting the search shall be familiar with the aircraft and shall be provided with instructions for notifying the appropriate authorities if suspicious items are detected.
+Civil Aviation [(No. 8) Aviation Security] Regulations [Subsidiary]
 (ii) Conduct a visual inspection of accessible exterior
 areas if the aircraft for items that do not belong. Prior to loading freight or baggage, search the empty cargo hold areas of the aircraft for items that do not belong.
 (iii) At intermediate stops, conduct continuous monitoring
@@ -21,4 +22,4 @@ of freight and cargo loading activities.
 carried out by direct aircraft operator employees, or authorised representatives, who have been trained to conduct such inspections in accordance with the approved security programme.
 (h) Certification: Prior to resuming service, the aircraft operator
 shall certify to its Primary Security Inspector that these requirements are being implemented at each location.
-- Margin: [Regulation 48(2)].
+- Margin: Regulation 48(2).

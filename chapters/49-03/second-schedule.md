@@ -13,7 +13,7 @@ four members, convene a meeting of the Board.
 (4) All questions arising at a meeting of the Board shall be decided by a majority of the votes of the members present and voting, including the member presiding.
 (5) In the event of an equality of votes on a resolution proposed at a meeting of the Board, the resolution shall be taken not to be passed but where the same resolution is proposed at the first meeting of the Board held after the date of that first mentioned meeting and there is again an equality of votes, the member presiding has a casting vote on the resolution.
 (6) The Board may, by resolution, determine rules for conduct of proceedings of meetings.
-- Margin: Section 11(4).
+- Margin: Section 11(2).
 - Margin: Meeting of Board.
 - Margin: Convening of meeting.
 - Margin: Quorum.

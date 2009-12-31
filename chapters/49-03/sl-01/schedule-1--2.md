@@ -32,7 +32,7 @@ specification airspace.
 PART C-AERODROME AUTHORISATIONS AND
 LIMITATIONS
 1. General.
-2. Instrument approach procedures and aerodrome operating minima.
+2. Instrument approach procedures and aerodrome operating minima-
 (a) Instrument approach minima;
 (b) Take-off minima;
 Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations [Subsidiary]
@@ -56,6 +56,5 @@ PART F-INTERCHANGE OR EQUIPMENT OPERATIONS
 PART G-AIRCRAFT LEASING OPERATIONS
 (wet lease)
 [Subsidiary] Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations
-- Margin: [Regulation 7(1)].
+- Margin: Regulation 7(1).
 - Margin: Ch. 49:03.
-- Margin: [(Regulation 7(1)].

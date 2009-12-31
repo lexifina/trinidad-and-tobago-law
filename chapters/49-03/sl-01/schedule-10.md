@@ -48,13 +48,13 @@ air operator to remain at a specified location in order to be available to repor
 restraints on a crew member who would otherwise be off duty; "suitable accommodation" means a furnished bedroom which is subject to
 minimum noise, is well ventilated, and has the facility to control the levels of light and temperature; and "travelling" means all time spent by a crew member transiting between the
 place of rest and the place of reporting for duty. Travelling time does not count as duty time.
-Monitoring System
+Monitoring system
 4. (1) A national air operator shall establish a system that monitors the flight time, flight duty time and rest periods of each of its flight crew members and shall include in its company operations manual the details of that system.
 (2) Where a person becomes aware that an assignment by a national air operator to act as a flight crew member on a flight would result in the maximum flight time or the maximum flight duty time specified in these Regulations being exceeded, the person shall so notify the national air operator.
 5. A crew member shall not act as a member of the operating crew if he knows, or suspects, that his physical or mental condition renders him unfit to operate. A crew member shall not fly if he knows that he is or is likely to be, in breach of this section.
 Calculation of a flight duty period
-The maximum flight duty period, in hours and fractions of hours, will be in accordance with paragraph 17. The times extracted may be extended at the discretion of the pilot in command under the terms of paragraphs 18, 19 and 30 as applicable.
-Additional limits on flying early starts
+6. The maximum flight duty period, in hours and fractions of hours, will be in accordance with paragraph 17. The times extracted may be extended at the discretion of the pilot in command under the terms of paragraphs 18, 19 and 30 as applicable.
+Additional limits on flying-early starts
 7. A flight crew member should normally not be rostered to operate more than three consecutive days where duties start or finish in any part of the period 0001 to 0559 local time. There will be no more than four such duties in seven consecutive days. [Subsidiary] Civil Aviation [(No. 2) Operations] Regulations
 8. However, when a crew member is in suitable accommodation
 provided by the company which is less than sixty minutes travelling time of the reporting point, then 0559 may be changed to 0459 local time.
@@ -73,7 +73,7 @@ as duty but does not count as a sector when calculating the maximum allowable fl
 which immediately preceded flight duty, shall be included in the flight duty period and be subject to maximum allowable flight duty period limits specified. Positioning and ground duties immediately following a flight duty shall not be part of the flight duty period, but shall count in computing the length of the subsequent rest period. The time spent between reporting for a flight and the completion of post flight tasks determines the length of the subsequent rest period.
 [Subsidiary] Civil Aviation [(No. 2) Operations] Regulations
 14. If, after the positioning journey, a crew member spends less than the minimum rest period at a suitable accommodation provided by the national air operator, and then carries out the flight duty period, the positioning will be counted as a sector if a split duty is claimed when calculating the allowable flight duty period. If it is not, a split duty flight duty period will not be used.
-Reserve Duty
+Reserve duty
 15. When at home or in suitable accommodation provided by the national air operator, crew members may be on reserve duty for twenty-four hours but the time of start, end and nature of the reserve duty will be defined to crew members so that they can plan their rest.
 16. When a crew member is required to be on standby at the airport or a designated reporting place, the flight duty period commences at the reported time.
 Maximum flight duty period-aeroplanes
@@ -130,8 +130,7 @@ crew member, the total flight time accumulated during the flight shall be logged
 [Subsidiary] Civil Aviation [(No. 2) Operations] Regulations
 Extensions of flight duty period by split duty
 21. When a flight duty period consists of two or more sectors-of which one can be a positioning journey counted as a sector-but separated by less than a minimum rest period, then the flight duty period will extend by the amounts indicated below.
-Consecutive Hours Rest Maximum Extension of the FDP Less than 3 NIL
-3-10 A period equal to half the consecutive
+Consecutive Hours Rest Maximum Extension of the FDP Less than 3 NIL 3-10 A period equal to half the consecutive
 hours rest taken.
 22. The rest period shall not include the time allowed for immediate post and pre-flight duties. When the rest period is less than six hours it will suffice if a quiet and comfortable place, not open to the public, is available. If rest is to be taken in the aircraft on the ground, the crew shall have adequate control of the temperature and ventilation. Passengers shall not be on board. If the rest period is more than six consecutive hours, then suitable accommodation shall be provided.
 Delayed reporting time
@@ -139,10 +138,9 @@ Delayed reporting time
 Rest periods
 24. The national air operator shall endeavour to notify the crew member of a flight duty period assignment in good time so that sufficient pre-flight rest can be obtained. When away from base, opportunities and facilities for adequate pre-flight rest will be provided by the national air operator.
 25. The minimum rest period which shall be provided prior to a flight duty period shall be-
-(a) at least as long as the preceding duty period, or
-(b) eleven hours, whichever is greater.
-Note: The minimum rest period of eleven hours includes travel time to and from the rest
-facility, hotel check-in and check-out time and time for personal hygiene and meals allowing eight consecutive hours of sleep opportunity in suitable accommodation. If any of the variables is longer than expected, or there is any further delay in the crews being afforded the required eight hours sleep opportunity, the minimum rest shall be increased accordingly. [Subsidiary] Civil Aviation [(No. 2) Operations] Regulations
+(a) at least as long as the preceding duty period; or
+(b) eleven hours, whichever is greater. Note: The minimum rest period of eleven hours includes travel time to and from the rest facility,
+hotel check-in and check-out time and time for personal hygiene and meals allowing eight consecutive hours of sleep opportunity in suitable accommodation. If any of the variables is longer than expected, or there is any further delay in the crews being afforded the required eight hours sleep opportunity, the minimum rest shall be increased accordingly. [Subsidiary] Civil Aviation [(No. 2) Operations] Regulations
 26. If the preceding duty period exceeded sixteen hours, the minimum
 rest shall be no less than sixteen hours plus two hours for every hour or part of an hour that the previous duty period exceeded sixteen hours.
 27. Following a sequence of reduced rest and extended flight duty period
@@ -158,9 +156,8 @@ rest shall inform the Head of Flight Operations and will be given the opportunit
 Pilot in command discretion to extend a flight duty period
 in unforeseen circumstances
 32. The pilot in command may, at his discretion, and after taking note of
-the circumstances of other members of the crew, extend a flight duty period in unforseen circumstances, beyond that permitted in paragraph 17, provided he is satisfied that the flight can be made safely. The extension shall be calculated according to what actually happens, not on what was planned to happen. An extension of two hours is the maximum permitted, except in cases of emergency.
-Note: In respect of an extension to a flight duty, an emergency is a situation which in the
-judgment of the pilot in command presents a serious risk to the health or safety of crew and passengers, or endangers the lives of others.
+the circumstances of other members of the crew, extend a flight duty period in unforseen circumstances, beyond that permitted in paragraph 17, provided he is satisfied that the flight can be made safely. The extension shall be calculated according to what actually happens, not on what was planned to happen. An extension of two hours is the maximum permitted, except in cases of emergency. Note: In respect of an extension to a flight duty, an emergency is a situation which in the judgment
+of the pilot in command presents a serious risk to the health or safety of crew and passengers, or endangers the lives of others.
 33. Whenever a pilot in command extends a flight duty period, he shall
 report it to the national air operator on a Discretion Report Form acceptable to the Authority. If the extension is greater than one hour, or when exercised after any reduced rest period, then the operator shall submit the pilot in command's written report together with the operator's comments to the Authority within fourteen days of the return of the aircraft to base.
 [Subsidiary] Civil Aviation [(No. 2) Operations] Regulations
@@ -193,9 +190,9 @@ conducting the business of Air Taxi or Sole Use Charter. In the context of this 
 Records to be maintained
 42. The monitoring system shall include records for the duty and rest
 periods of all flying staff as follows:
-(a) For each crew member: the beginning, end and duration of
+(a) for each crew member: the beginning, end and duration of
 each duty and flight duty period, and the function performed during the period; duration of each rest period prior to a flight duty period; dates of days off; weekly totals of duty;
-(b) For each flight crew member: daily and weekly flying hours.
+(b) for each flight crew member: daily and weekly flying hours.
 43. Records shall be preserved for at least twelve calendar months.
 Additionally, copies of all pilot in commands' discretion reports of extended flight duty periods and reduced rest periods will be retained for a period of at least six months after the event.
 EXAMPLE FLIGHT AND DUTY TIME SCHEME-
@@ -212,14 +209,14 @@ varies by not more than one hour;
 flight duty period is not exercised.
 (3) The main body of the scheme is complemented by additions that allow for commercial pleasure flying and air ambulance work. In the context of this annex the following applies:
 (a) commercial pleasure flying:
-When the helicopter takes-off from and lands at the same aerodrome or approved pleasure flying site, without making an intermediate landing, but does not take into account any positioning flight to or from that aerodrome or pleasure flying site;
+when the helicopter takes-off from and lands at the same aerodrome or approved pleasure flying site, without making an intermediate landing, but does not take into account any positioning flight to or from that aerodrome or pleasure flying site;
 (b) air ambulance:
-When the sole reason for the flight is to carry an ill or injured person to a recognised medical facility, or the carriage of a human organ necessary for the conduct of a transport operation.
+when the sole reason for the flight is to carry an ill or injured person to a recognised medical facility, or the carriage of a human organ necessary for the conduct of a transport operation.
 (4) It is accepted that a few operations have helicopters based on oil rigs and provide emergency cover. The application of limits placed on allowable flight duty periods in such circumstances is detailed and complex, and not of interest to the wider audience. Therefore, although what is understood by these terms is detailed below, the construction of such schemes will be arranged between the operator and the Authority:
-(a) Offshore based and Remote Site Operations-
-Those operations in support of the oil/gas industry, where the helicopter and crew are based on a rig or at a remote operating site;
-(b) Emergency Flights-
-A flight undertaken for the sole purpose of assisting in the resolution of an emergency, which is, or under slightly different circumstances could be, a threat to human life.
+(a) Offshore based and Remote Site Operations:
+those operations in support of the oil/gas industry, where the helicopter and crew are based on a rig or at a remote operating site;
+(b) Emergency Flights:
+a flight undertaken for the sole purpose of assisting in the resolution of an emergency, which is, or under slightly different circumstances could be, a threat to human life.
 Responsibilities
 2. (1) The national air operator shall have a scheme for the regulation of flight times of crews. The scheme shall be approved by the Authority and included in the national air operator's Operations Manual. The Operations Manual shall be readily available to every person employed by the national air operator as a member of an aircraft crew. [Subsidiary] Civil Aviation [(No. 2) Operations] Regulations
 (2) A crew member shall not fly, and an operator shall not require
@@ -286,7 +283,7 @@ Mixed simulator and aircraft flying
 11. When a crew member flies in the simulator, either on a check or training, or as an Instructor, and when within the same duty period flies as a flight crew member on a commercial air transport flight, all the time spent in the simulator is counted in full towards the subsequent flight duty period and the daily flying hour maxima. Simulator flying does not count as a sector, but the flight duty period allowable is calculated from one (1) hour prior to the scheduled simulator start time.
 Mixed single pilot/two pilot operations
 12. In one duty period, a pilot may fly as single flight crew up to the point where the total flying and duty hours reach the single flight crew flight duty period limit. During this time the pilot may fly either in command, or as a co-pilot on a two flight crew helicopter. The pilot may then continue beyond the single flight crew flight duty period limit in a two flight crew operation up to the two flight crew flight duty period and flying hour maxima, but may only fly as co-pilot.
-Positioning and combinations of flying and other DUTY
+Positioning and combinations of flying and other duty
 13. All time spent on positioning as required by the operator shall count as duty but does not count as a sector when calculating the maximum allowable flight duty period. In these circumstances the flight duty period commences at the time at which the crew member reports for the positioning journey.
 14. Positioning, any form of ground duty and standby duty at an airport which immediately preceded flight duty, shall be included in the flight duty period and be subject to maximum allowable flight duty period limits specified. Positioning and ground duties immediately following a flight duty shall not be part of the flight duty period, but shall count in computing the length of the subsequent rest period. The time spent between reporting for a flight and the completion of post flight tasks determines the length of the subsequent rest period.
 15. If, after the positioning journey, the crew member spends less than a minimum rest period at suitable accommodation provided by the national air operator, and then carries out the flight duty period, the positioning will be counted as a sector if a split duty is claimed when calculating the allowable flight duty period. [Subsidiary] Civil Aviation [(No. 2) Operations] Regulations
@@ -307,8 +304,9 @@ conduct a flight duty period after completing more than six hours standby or res
 19. When a crew member is required to be on standby at the airport
 or a helicopter operating site, the flight duty period commences at the reported time.
 [Subsidiary] Civil Aviation [(No. 2) Operations] Regulations
-Maximum flight duty period helicopters
-20. Local Time of Start Single Pilot Two Pilots
+Maximum flight duty period-helicopters
+20.
+Local Time of Start Single Pilot Two Pilots
 Max. Max. length Max. Max. length of Flying of flight duty Flying flight duty Time period (Hours) Time period (Hours) (Hours) (Hours)
 0600-0759 10 7 14 8 0800-1359 11 7 14 8 1400-2159 10 6 14 8 2200-0559 8 5 12 7
 Extension of flight duty period by split duty-helicopters
@@ -316,10 +314,10 @@ Extension of flight duty period by split duty-helicopters
 Consecutive Hours Rest Maximum extension of the FDP
 Less than 2 Nil
 2 - 10 A period equal to half the
-consecutive hours rest taken.
-Note: Consecutive hours of rest between two and three hours will only be used once in any single flight duty period.
+consecutive hours rest taken. Note: Consecutive hours of rest between two and three hours will only be used once in any single
+flight duty period.
 (2) The rest period shall not include the time allowed for immediate post and pre-flight duties. When the rest period is six hours or less it will suffice if a quiet and comfortable place, not open to the public, is available. Rest cannot be taken in the helicopter. If the rest period is more than six consecutive hours, then suitable accommodation will be provided.
-Delayed Reporting Time
+Delayed reporting time
 22. When crew members are informed of a delay before leaving their place of rest the flight duty period shall start at the new reporting time, or three hours after the original reporting time, whichever is the earlier. This paragraph shall not apply if crew members are given ten hours or more notice of a new reporting time. [Subsidiary] Civil Aviation [(No. 2) Operations] Regulations
 Rest periods-helicopters
 23. (1) Crew members will be notified in good time of flight duty period
@@ -356,7 +354,7 @@ Repetitive short sectors-helicopters
 34. (1) Crews flying repetitive short sectors, for example pleasure flying, off-shore sector shuttles, at an average rate of 10 or more landings per hour, shall have a break of at least 30 minutes away from the helicopter within any continuous period of three hours. [Subsidiary] Civil Aviation [(No. 2) Operations] Regulations
 (2) When carrying out the more demanding roles of helicopter
 flying, for example, winching and external load carrying, crews shall have a break of thirty minutes away from the helicopter within any continuous period of three hours.
-Additional Limits on Flying Early Starts-Helicopters
+Additional Limits on Flying Early Starts-helicopters
 34A. A crew member should not normally operate more than three
 consecutive days where duties start or finish in any part of the period 0001 to 0559 local time. There will be no more than four such duties in seven consecutive days.
 Days off-helicopters
@@ -386,4 +384,4 @@ Records to be maintained
 each duty and flight duty period, and the function performed during the period; duration of each rest period prior to a flight duty period; dates of days off; weekly totals of duty; and
 (b) for each flight crew member: daily and weekly flying hours.
 40. Records shall be preserved for at least twelve calendar months. Additionally, copies of all pilot in command's discretion reports of extended flight duty periods and reduced rest periods will be retained for a period of at least six months after the event.
-- Margin: (Regulation 290). [223/2005].
+- Margin: Regulation 290. [223/2005].

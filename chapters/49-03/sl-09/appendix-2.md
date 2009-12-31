@@ -21,5 +21,5 @@ the normal distribution system, denotes an international NOTAM office.
 The eighth position letter shall be the filler letter "X" to
 complete the eight-letter addressee indicator.
 3. The Authority shall inform the States from which it received NOTAM of the sixth and seventh letters to be used under different circumstances to ensure proper routing. [Subsidiary] Civil Aviation [(No. 15) Air Navigation Services] Regulations
-[Schedule 2
-- Margin: [Schedule 2 Part C, Clause 3(8)].
+Schedule 2
+- Margin: Schedule 2 Part C, Paragraph 3(8).

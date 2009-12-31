@@ -32,23 +32,28 @@ approved by the Authority;
 organisation approved by the Authority under regulation 6 to conduct maintenance on Trinidad and Tobago aircraft and their associated aeronautical product;
 "article" means any item, including but not limited to an aircraft,
 airframe, aircraft engine, propeller, appliance, accessory, assembly, subassembly, system, subsystem, component, unit, product or part;
+"authorised aircraft maintenance engineer" means a person
+authorised by an Approved Maintenance Organisation in accordance with the procedures approved by the Authority, to issue a Certificate of Release to Service for a Trinidad and Tobago aircraft;
 "authorised engineer" means the holder of an Aircraft
 Maintenance Engineer Licence issued by the Authority in accordance with the Civil Aviation [(No. 1) General Administration and Personnel Licencing] Regulations authorised by an Approved Maintenance Organisation in accordance with the procedure approved by the Authority, to issue Certificate of Release to Service for Trinidad and
 Tobago aircraft and its aeronautical products;
 "authorised aviation repair specialist" means the holder of an
 Aviation Repair Specialist Licence issued by the Authority in accordance with the Civil Aviation [(No. 1) General Administration and Personnel Licencing] Regulations authorised by the Approved Maintenance Organisation in accordance with the procedure approved by the Authority, to issue Certificate of Release to Service for Trinidad and
 Tobago aircraft and its aeronautical products;
-"calibration" means a set of operations, performed in accordance
-with a definite documented procedure, that compares the measurement performed by a measurement device or working standard for the purpose of detecting and reporting or eliminating by adjustment errors in the measurement device, working standard, or aeronautical product tested;
+"authorised workshop engineer" means a person authorised by an
+Approved Maintenance Organisation in accordance with the procedures approved by the Authority, to issue a Certificate
 Civil Aviation [(No. 6) Approved Maintenance Organisation] Regulations [Subsidiary]
-"capability list" means a current list of aeronautical products for
-which an Approved Maintenance Organisation is capable to effectively perform maintenance functions approved by the Authority; "Certificate of Release to Service" means a certification issued
-by certifying staff of an Approved Maintenance Organisation, certifying that the maintenance, preventive maintenance or modification performed on an aircraft, airframe, aircraft engine, propeller, appliance or component part thereof was accomplished using the methods, techniques and practices, prescribed in the current Maintenance Manual of the manufacturer or instructions for continued airworthiness prepared by its manufacturer or by using other methods, techniques and practices acceptable to the Authority; "certification authorisation" means a document issued to a
-certifying staff by an Approved Maintenance Organisation authorising such certifying staff to issue Certificate of Release to Service in respect or maintenance performed on Trinidad and Tobago aircraft and their associated aeronautical product; "certifying staff" means authorised engineers and authorised
-aviation repair specialist of an Approved Maintenance Organisation; "composite" means structural materials made of substances,
-including, but not limited to, wood, metal, ceramic, plastic, fibre-reinforced materials, graphite, boron or epoxy, with built-in strengthening agents that may be in a form of filaments, foils, powders or flakes of a different material; "computer system" means any electronic or automated system
-capable of receiving, storing and processing external data, and transmitting and presenting such data in a usable form for the accomplishment of a specific function; "Director-General" means the Director-General of Civil Aviation
-appointed under section 13 of the Act; [Subsidiary] Civil Aviation [(No. 6) Approved Maintenance Organisation] Regulations
+of Release to Service in respect of an aeronautical product other than an aircraft; "calibration" means a set of operations, performed in accordance
+with a definite documented procedure, that compares the measurement performed by a measurement device or working standard for the purpose of detecting and reporting or eliminating by adjustment errors in the measurement device, working standard, or aeronautical product tested; "capability list" means a current list of aeronautical products for
+which an Approved Maintenance Organisation is capable to effectively perform maintenance functions approved by the Authority; "Certificate of Release to Service" means a certification issued by
+an appropriately qualified Aircraft Maintenance Engineer or certifying staff of an Approved Maintenance Organisation, certifying that the maintenance, preventive maintenance or modification performed on an aircraft, airframe, aircraft engine, propeller, appliance or component part thereof was accomplished using the methods, techniques and practices, prescribed in the current Maintenance Manual of the manufacturer or instructions for continued airworthiness prepared by its manufacturer or by using other methods, techniques and practices acceptable to the Authority; "certification authorisation" means a document issued to a
+certifying staff by an Approved Maintenance Organisation authorising such certifying staff to issue Certificate of Release to Service in respect or maintenance performed on Trinidad and Tobago aircraft and their associated aeronautical product; "certifying staff" means an authorised aircraft maintenance
+engineer and authorised workshop engineer of an Approved Maintenance Organisation; "composite" means structural materials made of substances,
+including, but not limited to, wood, metal, ceramic, plastic, fibre-reinforced materials, graphite, boron or epoxy, with built-in strengthening agents that may be in a form of filaments, foils, powders or flakes of a different material; [Subsidiary] Civil Aviation [(No. 6) Approved Maintenance Organisation] Regulations
+"computer system" means any electronic or automated system
+capable of receiving, storing and processing external data, and transmitting and presenting such data in a usable form for the accomplishment of a specific function;
+"Director-General" means the Director-General of Civil Aviation
+appointed under section 13 of the Act;
 "facility" means the fixtures, implements, machinery, apparatus,
 land, buildings and equipment, which provide the means for the performance of maintenance, preventive maintenance or modifications of any article;
 "housing" means a building, hangar and other structure used to
@@ -67,9 +72,9 @@ which have an impact on the safety and efficiency of aeronautical operations;
 "inspection" means the examination of an aircraft or
 aeronautical product to establish conformity with an approved standard;
 "maintenance" means the performance of tasks required to
-ensure the continuing airworthiness of an aircraft or aeronautical product including any one or combination of overhaul, inspection, replacement, defect rectification and the embodiment of a modification or repair;
+ensure the continuing airworthiness of an aircraft or
 Civil Aviation [(No. 6) Approved Maintenance Organisation] Regulations [Subsidiary]
-"maintenance data" means any information necessary to ensure
+aeronautical product including any one or combination of overhaul, inspection, replacement, defect rectification and the embodiment of a modification or repair; "maintenance data" means any information necessary to ensure
 that the aeronautical product can be maintained in a condition such that airworthiness of the aeronautical product, or serviceability of operational and emergency equipment as appropriate, is assured; "measurement device" means a calibrated calibrator, standard,
 equipment and test equipment that is intended to be used to test, measure or calibrate other measurement devices and is not permitted to be used to test, measure or calibrate an aeronautical product; "modification" means the alteration of an aeronautical product in
 conformity with an approved standard; "national air operator" means a person, organisation or enterprise
@@ -155,7 +160,7 @@ requires the applicant to submit.
 (5) Nothing in subregulation (4) shall be construed as
 authorising the applicant to exercise the privileges of an Aircraft Maintenance Organisation Certificate before such Certificate is issued by the Authority in accordance with regulation 8.
 SAFETY MANAGEMENT SYSTEM
-6A. (1) From 1st January, 2009, an Approved Maintenance
+6A. (1) From 1st January 2009, an Approved Maintenance
 Organisation shall implement a safety management system acceptable to the Authority that-
 (a) identifies safety hazards;
 (b) ensures that remedial action necessary to
@@ -179,7 +184,7 @@ Civil Aviation [(No. 6) Approved Maintenance Organisation] Regulations [Subsidia
 (5) A request for a Deviation Certificate shall be made in a form and manner prescribed and submitted to the Authority at least sixty days before the date the deviation is necessary for the intended maintenance, preventive maintenance or modification.
 (6) A request for a Deviation Certificate under subregulation (5), shall contain a statement of the circumstances, justifications and alternate method proposed for the deviation requested, and show that a level of safety shall be maintained equal to that provided by the rule from which the deviation is sought.
 (7) An Approved Maintenance Organisation that receives a Deviation Certificate under this regulation shall have a means of notifying personnel authorised by an Approved Maintenance Organisation to certify aircraft or aircraft components for release to service, of the deviation, including the extent of the deviation and when the deviation is terminated or amended.
-(8) Notwithstanding the sixty day requirement for submission under subregulation (5), where the deviation required is one which necessitates immediate implementation, an Approved Maintenance Organisation may submit a request for such deviation within a shorter period, and where it shows that such deviation is necessary in the interest of safety, the Director- General may recommend that the Authority approve the use of such deviation for a prescribed period. [Subsidiary] Civil Aviation [(No. 6) Approved Maintenance Organisation] Regulations [Subsidiary] Civil Aviation [(No. 6) Approved Maintenance Organisation] Regulations
+(8) Notwithstanding the sixty day requirement for submission under subregulation (5), where the deviation required is one which necessitates immediate implementation, an Approved Maintenance Organisation may submit a request for such deviation within a shorter period, and where it shows that such deviation is necessary in the interest of safety, the Director- General may recommend that the Authority approve the use of such deviation for a prescribed period. [Subsidiary] Civil Aviation [(No. 6) Approved Maintenance Organisation] Regulations
 ISSUANCE OF AN APPROVED MAINTENANCE
 ORGANISATION CERTIFICATE
 8. (1) The Director-General may, after an evaluation of the
@@ -418,7 +423,7 @@ APPLICABILITY OF PART III
 of an Approved Maintenance Organisation for the issue of an Approved Maintenance Organisation Certificate.
 PERSONNEL AND TRAINING REQUIREMENTS
 20. (1) An Approved Maintenance Organisation shall employ
-the necessary trained and experienced maintenance personnel, authorised engineers and authorised aviation repair specialists where required, who meet the requirements of these Regulations.
+the necessary trained and experienced maintenance personnel, authorised aircraft maintenance engineer and authorised workshop engineers where required, who meet the requirements of these Regulations.
 (2) An applicant for an Approved Maintenance
 Organisation Certificate shall nominate a person as the Accountable Manager, acceptable to the Authority, responsible for establishing and promoting the safety and quality policy with corporate authority for ensuring that maintenance, preventive maintenance and modification for which the Aircraft Maintenance Organisation is authorised to perform can be financed and carried out to the standard required by the Authority.
 (3) The Accountable Manager shall nominate a
@@ -446,35 +451,35 @@ ensure that the training programme under subregulation (13), includes training i
 maintaining large aircraft shall have-
 (a) in the case of aircraft line maintenance-
 (i) appropriate aircraft type rated authorised
-engineer qualified in accordance with regulation 21; and
-(ii) appropriate task rated authorised engineer
-qualified to perform and certify minor scheduled line maintenance and simple defect rectification.
+aircraft maintenance engineer qualified in accordance with regulation 21; and
+(ii) appropriate task rated authorised aircraft
+maintenance engineer qualified to perform and certify minor scheduled line maintenance and simple defect rectification.
 (b) in the case of aircraft base maintenance,
-appropriate aircraft type rated authorised engineer qualified in accordance with regulation 21 for certifying work performed.
+appropriate aircraft type rated authorised aircraft maintenance engineer qualified in accordance with regulation 21 for certifying work performed.
 (17) Where an Approved Maintenance Organisation
 performs maintenance on small aircraft, the requirements of subregulation (16), shall be applied unless alternative procedures for issuing Certificate of Release to Service by the organisation for such aircraft have been approved by the Authority.
 Civil Aviation [(No. 6) Approved Maintenance Organisation] Regulations [Subsidiary]
 (18) An Approved Maintenance Organisation shall include procedures in the Maintenance Procedures Manual for the performance of maintenance and issue of Certificate of Release to Service in respect of maintenance of Trinidad and Tobago aircraft and their associated aeronautical products approved by the Authority.
 (19) Notwithstanding subregulation (11), an Approved Maintenance Organisation may submit procedures in the Maintenance Procedures Manual for approval by the Authority, for the issue of certification authorisation to qualified persons specified under the following circumstances, subject to compliance with the conditions stated for each circumstance:
 (a) for a repetitive airworthiness directive inspection to
-be conducted during a pre-flight inspection, which specifically states that the flight crew may carry out such airworthiness directive, the Approved Maintenance Organisation may issue a limited certification authorisation to the pilot in command, co-pilot or flight engineer subject to being satisfied that sufficient practical training has been carried out to ensure that such pilot in command, co-pilot or flight engineer can accomplish the airworthiness directive inspection to the required standard;
+be conducted during a pre-flight inspection, which specifically states that the flight crew may carry out such airworthiness directive, the Approved Maintenance Organisation may issue a limited certification authorisation to the pilot in command, co-pilot or flight engineer subject to being satisfied that sufficient practical training has been carried out to ensure that such pilot in command, co-pilot or flight engineer can accomplish the airworthiness directive inspection to the required standard; and
 (b) for the unforeseen circumstances where an
 aircraft is grounded at a location not having an Approved Maintenance Organisation, the Approved Maintenance Organisation contracted to provide maintenance support may issue a one-off authorisation to a person at that location who has at least five years experience and holds a valid Aircraft Maintenance Engineer Licence rated for the aircraft type requiring certification, or an equivalent certificate issued by a Contracting State subject to the Approved Maintenance Organisation obtaining and holding on file, evidence of the experience and licence of such person. [Subsidiary] Civil Aviation [(No. 6) Approved Maintenance Organisation] Regulations
 (20) Where a Certificate of Release to Service was
 issued under subregulation (19)(b), the Approved Maintenance Organisation shall report to the Authority such event within seven days of the issuance of such authorisation.
 (21) Where the maintenance performed and certified
-under paragraph (19)(b) could affect flight safety, such maintenance and associated systems shall be re-checked and re-certified at the first opportunity by an authorised engineer of the Approved Maintenance Organisation.
+under paragraph (19)(b) could affect flight safety, such maintenance and associated systems shall be re-checked and re-certified at the first opportunity by an authorised aircraft maintenance engineer of the Approved Maintenance Organisation.
 REQUIREMENTS FOR CERTIFYING STAFF
 21. (1) The applicant for an Approved Maintenance
-Organisation Certificate shall submit procedures in his Maintenance Procedures Manual for the issue of certification authorisation to qualified personnel of the organisation, for approval by the Authority.
-(2) An Approved Maintenance Organisation may issue
-or re-issue a certification authorisation to a qualified person where that person-
+Organisation Certificate shall submit procedures in his Maintenance Procedures Manual for the issue of certification authorisation privileges only to qualified persons in his employ, for approval by the Authority.
+(2) An Approved Maintenance Organisation may for
+certification of an aircraft issue or re-issue a certification authorisation to a qualified person where that person-
 (a) holds a valid Aircraft Maintenance Engineer
 Licence issued under the Civil Aviation [(No. 1) General Application and Personnel Licensing] Regulations or an equivalent qualification approved by the Authority, which attests to his knowledge and experience;
 (b) has an adequate understanding of the relevant
-aeronautical products to be maintained and for which authorisation privileges are sought and is thoroughly familiar with the relevant Approved MaintenanceOrganisationsystems and procedures;
-(c) has successfully completed initial and continuation
-training in his assigned tasks and responsibilities in accordance with a programme approved by the Authority;
+aeronautical products to be maintained and for which authorisation privileges are sought and is thoroughly familiar with the relevant Approved Maintenance Organisation systems and procedures;
+(c) has successfully completed initial aircraft type
+training and continuation training in his assigned tasks and responsibilities in accordance with a programme approved by the Authority;
 Civil Aviation [(No. 6) Approved Maintenance Organisation] Regulations [Subsidiary]
 (d) has successfully completed training in knowledge
 and skills related to human performance, including co-ordination with other maintenance personnel and flight crew;
@@ -482,22 +487,21 @@ and skills related to human performance, including co-ordination with other main
 in accordance with the training programme approved by the Authority; and
 (f) has satisfied all other requirements of the
 Maintenance Procedures Manual for the issue of the authorisation.
-(3) A person issued certification authorisation by an Approved Maintenance Organisation under subregulation (2), shall be referred to as an "authorised engineer" under these Regulations.
-(4) An Approved Maintenance Organisation may issue or re-issue a certification authorisation to a qualified person where that person-
-(a) holds a valid Aviation Repair Specialist Licence
-with a rating issued under the Civil Aviation [(No. 1) General Application and Personnel Licensing] Regulations in respect of this organisation;
+(3) A person issued certification authorisation by an Approved Maintenance Organisation under subregulation (2), shall be referred to as an "authorised aircraft maintenance engineer" under these Regulations.
+(4) An Approved Maintenance Organisation may for certification of an aeronautical product other than an aircraft, issue or re-issue a certification authorisation to a qualified person where that person-
+(a) (Deleted by LN 200/2009);
 (b) has an adequate understanding of the relevant
 aeronautical products to be maintained and for which authorisation privileges are sought and is thoroughly familiar with the relevant Approved Maintenance Organisation systems and procedures;
-(c) has successfully completed initial and
-continuation training in his assigned tasks and responsibilities in accordance with a programme approved by the Authority;
-(d) has successfully completed training in knowledge
-and skills related to human performance, including co-ordination with other maintenance personnel; [Subsidiary] Civil Aviation [(No. 6) Approved Maintenance Organisation] Regulations
+(c) has successfully completed initial original
+equipment manufacturer training and continuation training in his assigned tasks and responsibilities in accordance with a programme approved by the Authority;
+(d) has successfully completed training in
+knowledge and skills related to human performance, including co-ordination with other maintenance personnel; [Subsidiary] Civil Aviation [(No. 6) Approved Maintenance Organisation] Regulations
 (e) has satisfied the experience and skills
 requirements in accordance with the training programme approved by the Authority; and
 (f) has satisfied all other requirements of the
 Maintenance Procedures Manual for the issue of the authorisation.
 (5) A person issued certification authorisation by an
-Approved Maintenance Organisation under subregulation (4) shall be referred to as an "authorised aviation repair specialist" under these Regulations.
+Approved Maintenance Organisation under subregulation (4) shall be referred to as an "authorised workshop engineer" under these Regulations.
 (6) An Approved Maintenance Organisation shall ensure
 that all certifying staff have actually carried out maintenance on some of the aircraft systems or associated aeronautical products as appropriate, specified in his authorisation and have exercised the privileges of his certification authorisation for at least six cumulative months in any consecutive twenty-four months period.
 (7) An Approved Maintenance Organisation shall
@@ -512,7 +516,7 @@ Civil Aviation [(No. 6) Approved Maintenance Organisation] Regulations [Subsidia
 for the issue of certification authorisation documented in the Maintenance Procedures Manual and be responsible for the issue of certification authorisations to certifying staff on behalf of the Approved Maintenance Organisation.
 (11) The senior manager responsible for the quality system under subregulation (10) may delegate to other persons under his direct control his power to issue certification authorisation in accordance with procedures specified in the Maintenance Procedures Manual approved by the Authority.
 RECORDS OF CERTIFYING STAFF
-22. (1) An Approved Maintenance Organisation shall maintain records of all certifying staff within his organisation, which shall include details of any Aircraft Maintenance Engineer Licence and Aviation Repair Specialist Licence held, all training completed and the scope and limitation of their authorisation.
+22. (1) An Approved Maintenance Organisation shall maintain records of all certifying staff within his organisation, which shall include details of any Aircraft Maintenance Engineer Licence held, all training completed and the scope and limitation of their authorisation.
 (2) The Approved Maintenance Organisation, under subregulation (1), shall provide each certifying staff with a copy of his certification authorisation, which may be on hard copy or electronic format.
 (3) All certifying staff shall produce their certification authorisation to the Director-General or his authorised representative within a reasonable time of a request.
 REST AND DUTY LIMITATIONS FOR MAINTENANCE STAFF
@@ -551,8 +555,8 @@ approved by the Authority which may be kept separate from the Maintenance Proced
 personnel and the matters on which they may deal directly with the Authority on behalf of the Approved Maintenance Organisation; [Subsidiary] Civil Aviation [(No. 6) Approved Maintenance Organisation] Regulations
 (e) an organisation chart showing associated chain
 of responsibility of the management personnel specified in paragraph (d);
-(f) a current list of authorised engineers and
-authorised aviation repair specialists which may be kept separate from the Maintenance Procedures Manual but the list and the procedures to establish and maintain such list shall be available for review by the Authority;
+(f) a current list of authorised aircraft maintenance
+engineer and authorised workshop engineer which may be kept separate from the Maintenance Procedures Manual but the list and the procedures to establish and maintain such list shall be available for review by the Authority;
 (g) a description of the procedures used to establish
 the competence of maintenance personnel;
 (h) instructions and information necessary to allow
@@ -774,7 +778,7 @@ entry; and
 form authorised or furnished by the Authority has been completed in a manner prescribed by the Authority.
 (9) Where a repair or modification to a Trinidad and
 Tobago aircraft and its aeronautical products results in any change in the aircraft operating limitations or flight data contained in the approved Aircraft Flight Manual, those operating limitations or flight data shall be appropriately revised and set forth as prescribed by the Authority.
-(10) An Approved maintenance Organisation issuing a
+(10) An Approved Maintenance Organisation issuing a
 Certificate of Release to Service under the Act or Regulations made thereunder, for an aeronautical product after performing an inspection in accordance with the Act or Regulations made thereunder, shall ensure that the following information is entered in the maintenance record of such aeronautical product-
 (a) the type of inspection and a brief description of
 the extent of the inspection;
@@ -881,7 +885,7 @@ TRANSITIONAL PROVISION
 (3) Notwithstanding the requirements of subregulation (1), a person who on the commencement of these Regulations, holds an Approved Maintenance Organisation Certificate may continue to operate as an Approved Maintenance Organisation under the conditions of his existing Approved Maintenance Organisation Certificate, until 24th September 2005, and thereafter shall meet the requirements of these Regulations.
 (4) Notwithstanding subregulation (3), the holder of an Approved Maintenance Organisation Certificate that carries out maintenance and certifies the release to service of-
 (a) aircraft of maximum certified take-off mass of
-less than 20,000 kilogrammes;
+less than 20 000 kilogrammes;
 (b) aircraft components other than complete
 engines and auxiliary power units; or
 (c) specialised services works, shall meet the requirements of these Regulations on or before 1st October 2007. [Subsidiary] Civil Aviation [(No. 6) Approved Maintenance Organisation] Regulations
@@ -901,7 +905,7 @@ Civil Aviation [(No. 6) Approved Maintenance Organisation] Regulations [Subsidia
 SCHEDULE 2
 OPERATIONS SPECIFICATIONS
 Approved Maintenance Organisation Name: ...
-Approved Maintenance Organisation Certificate Number:...
+Approved Maintenance Organisation Certificate Number: ...
 CLASS RATING LIMITATION
 The classes, ratings and limitations to be inserted
 in this block are specified in Schedule 3
@@ -917,24 +921,30 @@ Maintenance Organisation may be issued on the Operations Specifications.
 TABLE 1
 CLASS RATING LIMITATION
 AIRCRAFT ... A1 Aeroplane and Limited to line maintenance or
-airships 5700 kg base maintenance of aeroplane maximum certified and airship series or type and take-off mass the maintenance tasks
+airships 5 700 kg base maintenance of aeroplane maximum certified and airship series or type and take-off mass the maintenance tasks
 AIRCRAFT ... A2 Aeroplane and Limited to line maintenance or
-airships 5700 kg and base maintenance of aeroplane less maximum certified and airship manufacture, or take-off mass group or series or type and the
+airships 5 700 kg and base maintenance of aeroplane less maximum and airship manufacture, or certified take-off mass group or series or type and the
 maintenance task
-AIRCRAFT ... A3 Rotocraft Limited to line maintenance or
-base maintenance of rotocraft manufacturer or group or series or type and the maintenance tasks
-ENGINES ... B1 Turbine Limited to engine series or
-type and the maintenance task
-ENGINES ... B2 Piston Limited to engine manufacturer
-or group or series or type and the maintenance tasks
-ENGINES ... B3 APU Limited to engine manufacture
-or series or type and the maintenance task Civil Aviation [(No. 6) Approved Maintenance Organisation] Regulations [Subsidiary]
-TABLE 1-Continued
+AIRCRAFT ... Limited to line maintenance or
+A3 Rotocraft base maintenance of
+rotocraft manufacturer or group or series or type and the maintenance tasks
+ENGINES ... Limited to engine series or type
+B1 Turbine and the maintenance task
+ENGINES ... Limited to engine manufacturer or
+B2 Piston group or series or type and the
+maintenance tasks
+ENGINES ... Limited to engine manufacture
+or series or type and the maintenance task
+Civil Aviation [(No. 6) Approved Maintenance Organisation] Regulations [Subsidiary]
 CLASS RATING LIMITATION
-COMPONENTS C1 Air-Condition and Limited to line maintenance or OTHER THAN Pressurisation base maintenance of aircraft COMPLETE C2 Auto Flight type or aircraft manufacturer ENGINE OR C3 Communications or component manufacturer of APU'S and Navigation the particular component or
-C4 Doors-Hatches cross refer to a capability list C5 Electrical Power in the Maintenance Procedures C6 Equipment Manual the maintenance tasks C7 Engine-APU C8 Flight Controls C9 Fuel-Airframe Table 2 lists the ATA chapters C10 Helicopter- associated with component Rotors ratings C11 Helicopter- Transmission C12 Hydraulic C13 Instruments C14 Landing Gear C15 Oxygen C16 Propellers C17 Pneumatic C18 Protection ice, rain, and fire C19 Windows C20 Structural
-SPECIALISED D1-Non-destructive Limited to the particular SERVICES Testing processes, methods and tasks
-D2-Reserved appropriate to the specialised D3-Reserved service specified D4-Reserved [Subsidiary] Civil Aviation [(No. 6) Approved Maintenance Organisation] Regulations
+COMPONENTS C1 Air-Condition and Limited to line maintenance or OTHER THAN Pressurisation base maintenance of aircraft COMPLETE C2 Auto Flight type or aircraft manufacturer ENGINE OR C3 Communications or component manufacturer APU'S and Navigation of the particular component
+C4 Doors-Hatches or cross refer to a capability C5 Electrical Power list in the Maintenance C6 Equipment Procedures Manual the C7 Engine-APU maintenance tasks C8 Flight Controls C9 Fuel-Airframe Table 2 lists the ATA chapters C10 Helicopter- associated with component
+Rotors ratings
+C11 Helicopter- Transmission C12 Hydraulic C13 Instruments C14 Landing Gear C15 Oxygen C16 Propellers C17 Pneumatic C18 Protection ice, rain and fire C19 Windows C20 Structural
+SPECIALISED D1-Non-destructive Limited to the particular SERVICES Testing processes, methods and
+D2-Reserved tasks appropriate to the D3-Reserved specialised service
+D4-Reserved specified
+[Subsidiary] Civil Aviation [(No. 6) Approved Maintenance Organisation] Regulations
 Table 2 identifies the ATA Chapters associated with the component ratings
 specified in Table 1.
 TABLE 2
@@ -946,7 +956,7 @@ C8 Flight Controls 27, 55, 57, 40, 57, 50, 57, 60, 57 and
 C9 Fuel-Airframe 28 C10 Helicopters-Rotors 62, 64, 66 and 67 C11 Helicopter-Transmission 63 and 65 C12 Hydraulic 29 C13 Instruments 31 C14 Landing Gear 32 C15 Oxygen 35 C16 Propellers 61 C17 Pneumatic 36 and 37 C18 Protection ice, rain and fire 26 and 30 C19 Windows 56 C20 Structural 53, 54, 57.10, 57.20 and 57.30
 Explanatory Notes
 1. An Approved Maintenance Organisation may be granted an approval
-by the Authority for class(s) and rating(s) with limitations in accordance with Table 1.
+by the Authority for class(es) and rating(s) with limitations in accordance with Table 1.
 2. The Maintenance Procedures Manual of the Approved Maintenance
 Organisation shall have the scope of work and a capability list consistent with the provisions of the Operations Specifications and define the exact limits of approval.
 Civil Aviation [(No. 6) Approved Maintenance Organisation] Regulations [Subsidiary]
@@ -969,7 +979,7 @@ specifies the types of limitation possible and, whilst maintenance is listed las
 15. The limitation section of the Operations Specifications in "Table 1"
 makes reference to series, type and group in the limitation section of class A and B. "Series" means a specific type series such as Airbus 300 or 310 or 319 or Boeing 737-300 series or RB 211-524 series. "Type" means a specific type or model such as Airbus 310-240 type or RB 211-524 B4 type. Any number of series or types may be quoted. "Group" means a specific grouping such as Cessna single piston engine aircraft or Lycoming non-supercharged piston engines.
 16. An Approved Maintenance Organisation shall have procedures in its
-Maintenance Procedures Manual approved by the Authority for amending its capability list, identifying the office responsible for controlling the amendments, ensuring the capability list is amended and is in compliance with the Civil Aviation [(No. 6) Approved Maintenance Organisation] Regulations
+Maintenance Procedures Manual approved by the Authority for amending its capability list, identifying the office responsible for controlling the amendments, ensuring the capability list is amended and is in compliance with the Civil Aviation [(No. 6) Approved Maintenance Organisation] Regulations.
 17. Table 2 identifies the "ATA Spec 100" chapter for the "C" class
 ratings of the aeronautical products.
 Civil Aviation [(No. 6) Approved Maintenance Organisation] Regulations [Subsidiary]
@@ -1045,8 +1055,9 @@ QUALITY SYSTEM PROCEDURES
 3.1 Quality audit of organisation procedures;
 3.2 Quality audit of aircraft;
 3.3 Quality audit remedial action procedure;
-3.4 Authorised Engineer qualification and training procedures;
-3.5 Authorised Engineer records;
+3.4 Authorised aircraft maintenance engineer qualification and training
+procedures;
+3.5 Authorised aircraft maintenance engineer records;
 3.6 Quality audit personnel; [Subsidiary] Civil Aviation [(No. 6) Approved Maintenance Organisation] Regulations
 3.7 Qualifying inspectors;
 3.8 Qualifying mechanics;
@@ -1074,7 +1085,7 @@ An Approved Maintenance Organisation shall ensure that its housing and facilitie
 (a) for ongoing maintenance of aircraft, aircraft hangars shall be
 available and large enough to accommodate aircraft during maintenance activities;
 (b) where the hangar is not owned by the Approved Maintenance
-Organisation, the Approved Maintenance Oreganisation should-
+Organisation, the Approved Maintenance Organisation should-
 (i) establish proof of authorisation to use hangar;
 (ii) demonstrate sufficiency of hangar space to carry out
 planned base maintenance by preparing a projected aircraft hangar visit plan relative to the maintenance programme;
@@ -1275,9 +1286,9 @@ scope clear to certifying staff and any authorised person that may be required t
 (h) certifying staff are not required to carry the authorisation
 document at all times but shall produce it within a reasonable time of a request from an authorised person.
 Regulation 26
-- Margin: 105/2004. [277/2004 305/2004 34/2005 227/2005 288/2006 49/2007].
+- Margin: 105/2004. [277/2004 305/2004 34/2005 227/2005 288/2006 49/2007 200/2009].
 - Margin: Citation.
-- Margin: Interpretation. [305/2004 49/2007].
+- Margin: Interpretation. [305/2004 49/2007 200/2009].
 - Margin: Sub. Leg.
 - Margin: Sub. Leg.
 - Margin: General applicability of these Regulations.
@@ -1301,15 +1312,14 @@ Regulation 26
 - Margin: Minimun requirements of housing and facilities.
 - Margin: Minimum requirements for equipment, tools and materials.
 - Margin: Applicability of Part III.
-- Margin: Minimum training requirements for personnel. [305/2004].
+- Margin: Minimum training requirements for personnel. [305/2004 200/2009].
 - Margin: Sub. Leg.
-- Margin: Requirements for certifying staff.
+- Margin: Requirements for certifying staff. [200/2009].
 - Margin: Sub. Leg.
-- Margin: Sub. Leg.
-- Margin: Requirements for records for certifying staff.
+- Margin: Requirements for records for certifying staff. [200/2009].
 - Margin: Rest and duty times restrictions.
 - Margin: Applicability of Part IV.
-- Margin: Requirements for Maintenance Procedures Manual.
+- Margin: Requirements for Maintenance Procedures Manual. [200/2009].
 - Margin: Schedule 4.
 - Margin: Requirements for quality assurance system and maintenance procedure.
 - Margin: Requirements for retention of capability list.
@@ -1326,8 +1336,8 @@ Regulation 26
 - Margin: Schedule 5.
 - Margin: Director- General to amend Schedules.
 - Margin: Transitional Provision. [277/2004 34/2005 227/2005 288/2006].
-- Margin: (Regulation 9).
-- Margin: (Regulation 9).
-- Margin: (Regulation 9).
-- Margin: (Regulation 25).
+- Margin: Regulation 9.
+- Margin: Regulation 9.
+- Margin: Regulation 9.
+- Margin: Regulation 25. [200/2009].
 - Margin: (Regulation 37). [305/2004 227/2005].

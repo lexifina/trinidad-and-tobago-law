@@ -14,5 +14,5 @@ Number of passenger seats installed Number of first-aid kits required
 100 to 199 2
 200 to 299 3
 300 and more 4
-- Margin: (Regulation 40).
-- Margin: (Regulation 45).
+- Margin: Regulation 40.
+- Margin: Regulation 45.

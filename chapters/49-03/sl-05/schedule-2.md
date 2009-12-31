@@ -1,6 +1,5 @@
 # SCHEDULE 2
-An applicant for, and holder of, an Approved Training Organisation
-Certificate shall have facilities the Authority determines are appropriate for the maximum number of students expected to be taught at any time, as follows:
+An applicant for, and holder of, an Approved Training Organisation Certificate shall have facilities the Authority determines are appropriate for the maximum number of students expected to be taught at any time, as follows:
 (a) an enclosed classroom;
 (b) suitable facilities arranged to assure proper separation from
 the working space, for parts, tools, materials, and similar articles;
@@ -18,6 +17,5 @@ engines, and their appliances;
 (g) suitable space with adequate equipment, including tables,
 benches, stands, and jacks, for disassembling, inspecting, and rigging aircraft;
 (h) suitable space with adequate equipment for disassembling,
-inspecting, assembling, troubleshooting, and timing engines.
-Civil Aviation [(No. 9) Approved Training Organisation] Regulations [Subsidiary]
-- Margin: [Regulation 16(15)]. [191/2006].
+inspecting, assembling, troubleshooting, and timing engines. [Subsidiary] Civil Aviation [(No. 9) Approved Training Organisation] Regulations
+- Margin: Regulation 16(15). [191/2006].

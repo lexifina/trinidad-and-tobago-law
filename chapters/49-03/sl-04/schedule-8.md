@@ -81,8 +81,6 @@ Aircraft Maintenance Training Specifications.
 of instruction.
 50. Curriculum requirements for Approved Training Organisation. 51. Application for approval of Aircraft Maintenance Engineer Training
 Programme.
-52. Requirements for instructors of an Approved Training Organisation. 53. Power of Approved Training Organisation with Aircraft
-Maintenance Training Organisation Specifications to give credit.
-54. Privileges of the Approved Training Organisation with Aircraft
+52. Requirements for instructors of an Approved Training Organisation. 53. (Revoked by LN 202/2009). 54. Privileges of the Approved Training Organisation with Aircraft
 Maintenance Training Specifications. [Subsidiary] Civil Aviation [(No. 9) Approved Training Organisation] Regulations
-- Margin: [Regulation 60(3)(b)(v)].
+- Margin: Regulation 60(3).

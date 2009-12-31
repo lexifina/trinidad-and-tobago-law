@@ -1,7 +1,6 @@
 # SCHEDULE 2
 PART A
-The following parameters are required to be recorded to satisfy the requirements
-for a Type I Flight Data Recorder and parameters marked with an asterisk (*) are required to be recorded to satisfy the requirements for Types II and IIA Flight Data Recorders:
+The following parameters are required to be recorded to satisfy the requirements for a Type I Flight Data Recorder and parameters marked with an asterisk (*) are required to be recorded to satisfy the requirements for Types II and IIA Flight Data Recorders:
 (a) time*;
 (b) pressure-altitude*;
 (c) indicated airspeed*;
@@ -9,7 +8,7 @@ for a Type I Flight Data Recorder and parameters marked with an asterisk (*) are
 (e) normal acceleration*;
 (f) pitch attitude*;
 (g) roll attitude*;
-(h) radio transmission keying*; Civil Aviation [(No. 7) Instruments and Equipment] Regulations [Subsidiary]
+(h) radio transmission keying*;
 (i) record sufficient inputs to determine power in each engine*;
 (j) trailing edge flap or cockpit control selection*;
 (k) leading edge flap or cockpit control selection*;
@@ -27,7 +26,7 @@ mode and engagement status*;
 (u) glide path deviation;
 (v) localiser deviation;
 (w) marker beacon passage;
-(x) master warning;
+(x) master warning; [Subsidiary] Civil Aviation [(No. 7) Instruments and Equipment] Regulations
 (y) navigation system (1) and (2) frequency selection where
 signal available in digital form;
 (z) Distance Measuring Equipment System 1 and 2 distance
@@ -37,7 +36,7 @@ where signal is available in digital form recording of latitude and longitude fr
 (cc) angle of attack;
 (dd) low pressure warning on each hydraulics system;
 (ee) Navigation data; and
-(ff) landing gear position and landing gear position selector. [Subsidiary] Civil Aviation [(No. 7) Instruments and Equipment] Regulations
+(ff) landing gear position and landing gear position selector.
 PART B
 The following parameters are required to be recorded to satisfy the
 requirements for a Type IA Flight Data Recorder:
@@ -61,6 +60,7 @@ Attitude:
 (b) roll attitude;
 (c) yaw or sideslip angle*; and
 (d) angle of attack*.
+Civil Aviation [(No. 7) Instruments and Equipment] Regulations [Subsidiary]
 Engine power:
 (a) engine thrust or power: propulsive thrust or power on each
 engine, cockpit thrust or power lever position;
@@ -69,9 +69,7 @@ engine, cockpit thrust or power lever position;
 (d) engine thrust target*;
 (e) engine bleed valve position*; and
 (f) additional engine parameters*: EPR, N1, indicated vibration
-level, N2, EGT, TLA, fuel flow, fuel cut-off lever position.
-Civil Aviation [(No. 7) Instruments and Equipment] Regulations [Subsidiary]
-Configuration:
+level, N2, EGT, TLA, fuel flow, fuel cut-off lever position. Configuration:
 (a) pitch trim surface position;
 (b) flaps*: trailing edge flap position, cockpit control selection;
 (c) slats*: leading edge flap position, cockpit control selection;
@@ -97,7 +95,7 @@ input: pitch axis, roll axis, yaw axis;
 (c) marker beacon passage;
 (d) each navigation receiver frequency selection;
 (e) manual radio transmission keying and cockpit voice recorder
-or Flight Data Recorder synchronisation reference;
+or Flight Data Recorder synchronisation reference; [Subsidiary] Civil Aviation [(No. 7) Instruments and Equipment] Regulations
 (f) autopilot or auto-throttle or Automatic Flight Control System
 mode and engagement status*;
 (g) selected barometric setting*: pilot, first officer;
@@ -107,7 +105,7 @@ mode and engagement status*;
 (k) selected vertical speed for all pilot selectable modes of operation*;
 (l) selected heading for all pilot selectable modes of operation*;
 (m) selected flight path for all pilot selectable modes of operation*:
-course or desired track, path angle; [Subsidiary] Civil Aviation [(No. 7) Instruments and Equipment] Regulations
+course or desired track, path angle;
 (n) selected decision height*;
 (o) electronic flight engineer system display format*: pilot,
 first officer;
@@ -134,11 +132,10 @@ System approach path;
 (ee) horizontal deviation*: Instrument Landing System localizer,
 Microwave Landing System azimuth, Global Navigational
 System approach path;
+Civil Aviation [(No. 7) Instruments and Equipment] Regulations [Subsidiary]
 (ff) distance Measuring Equipment 1 and 2 distances*; and
 (gg) primary navigation system reference*: Global Navigational
-System, Inertia Navigational System, Omni-directional
-Civil Aviation [(No. 7) Instruments and Equipment] Regulations [Subsidiary]
-Range or Distance Measuring Equipment, Microwave Landing System, Loran C.
+System, Inertia Navigational System, Omni-directional Range or Distance Measuring Equipment, Microwave Landing System, Loran C.
 Instrument Landing System:
 (a) brakes*: left and right brake pressure, left and right brake
 pedal position;
@@ -164,9 +161,9 @@ collective pitch, longitudinal cyclic pitch. Lateral cyclic pitch, tail rotor pe
 (l) low pressure for each hydraulics system*;
 (m) outside air temperature*;
 (n) autopilot or auto-throttle Automatic Flight Control System
-mode and engagement status*;
+mode and engagement status*; [Subsidiary] Civil Aviation [(No. 7) Instruments and Equipment] Regulations
 (o) stability augmentation system engagement;
-(p) main gearbox oil pressure; [Subsidiary] Civil Aviation [(No. 7) Instruments and Equipment] Regulations
+(p) main gearbox oil pressure;
 (q) main gearbox oil temperature;
 (r) yaw acceleration;
 (s) sling load force;
@@ -197,9 +194,9 @@ Flight path and speed:
 (i) navigation data*: drift angle, wind speed, wind direction,
 latitude/longitude; and
 (j) radio altitude*.
+Civil Aviation [(No. 7) Instruments and Equipment] Regulations [Subsidiary]
 Attitude:
 (a) pitch attitude;
-Civil Aviation [(No. 7) Instruments and Equipment] Regulations [Subsidiary]
 (b) roll attitude; and
 (c) yaw rate. Engine power:
 (a) power on each engine: free power turbine speed (Nf), engine
@@ -240,8 +237,8 @@ FLIGHT DATA RECORDER TYPE DURATION
 Type I 25 hours Type II 25 hours
 Type IIA 30 minutes
 Type IV 10 hours Type IVA 10 hours Type V 10 hours
-- Margin: [Regulation 33(a), (c)].
-- Margin: [Regulation 33(b)].
-- Margin: [Regulation 33(d), (f)].
-- Margin: [Regulation 33(d)].
-- Margin: (Regulation 35).
+- Margin: Regulation 33(a), (c).
+- Margin: Regulation 33(b).
+- Margin: Regulation 33(d), (f).
+- Margin: Regulation 33(d).
+- Margin: Regulation 35.

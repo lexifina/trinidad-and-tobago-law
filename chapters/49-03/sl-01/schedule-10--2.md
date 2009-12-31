@@ -33,7 +33,7 @@ entry qualifications for a Director of Maintenance and Quality Manager are-
 (i) an Aircraft Maintenance Engineer (transport)
 Licence; and [Subsidiary] Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations
 (ii) three years experience in maintaining the same
-aircraft category and aircraft class used by the air operator including 1 year in the capacity of returning aircraft to service;
+aircraft category and aircraft class used by the air operator including one year in the capacity of returning aircraft to service;
 (g) a national air operator may employ a person who does not
 meet the appropriate airman qualification or experience where the Authority issues a deviation finding that that person has comparable experience and can effectively perform the required management functions.
 Regulation 15
@@ -345,9 +345,9 @@ show that the personnel required to perform the function of operational control 
 Regulation 37
 A national air operator shall ensure that the contents and structure of his Accident Prevention and Flight Safety Programme meets the following minimum standards:
 National air operator Flight Safety Programme
-(a) A national air operator shall on a continuing basis maintain a
+(a) a national air operator shall on a continuing basis maintain a
 Flight Safety Programme. This standard specifies the programme elements;
-(b) A person accountable for managing the programme shall be
+(b) a person accountable for managing the programme shall be
 appointed full-time or part-time. As an alternative, the programme may be managed by a consulting company approved by the Authority to provide flight safety services. [Subsidiary] Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations
 The individual in the consulting company who is responsible for managing the flight safety programme shall meet the qualification and training requirements of a Flight Safety Person as set out below in paragraph (e), Qualifications of the Flight Safety Person, and paragraph (g), Training of the Flight Safety Person, below;
 Programme elements
@@ -364,8 +364,8 @@ operator's Flight Safety Programme and described in the appropriate manuals:
 Description of programme elements
 (d) National air operator's management plan:
 The plan shall identify the management position responsible for ensuring that-
-(i) all the necessary elements of the programme have
-been developed, properly integrated, and coordinated;
+(i) all the necessary elements of the programme have been
+developed, properly integrated, and co-ordinated;
 (ii) the programme has been disseminated to all
 appropriate personnel;
 (iii) a detailed description of the programme is incorporated
@@ -418,36 +418,36 @@ management;
 (viii) emergency response plan; and
 (ix) incident investigation;
 (h) Incident Management:
-The national air operator shall be responsible for providing employees with
-a timely means of reporting any unsafe conditions. The person responsible for the flight safety programme shall institute and maintain an incident reporting system. This system will provide for-
+The national air operator shall be responsible for
+providing employees with a timely means of reporting any unsafe conditions. The person responsible for the flight safety programme shall institute and maintain an incident reporting system. This system will provide for-
 (A) a process of reporting incidents;
 (B) investigation of incidents;
 (C) the means of advising management; and
-(D) information feedback to employees.
+(D) information feedback to employees;
 Flight Safety Committee:
-(i) A national air operator shall establish a Flight Safety
-Committee.
+(i) a national air operator shall establish a Flight Safety
+Committee;
 Responsibilities
-(j) The responsibilities of the Committee shall be to monitor all
-areas of the operation, identify safety concerns and deficiencies, and make recommendations for corrective measures to senior management where applicable.
+(j) the responsibilities of the Committee shall be to monitor all
+areas of the operation, identify safety concerns and deficiencies, and make recommendations for corrective measures to senior management where applicable;
 Members
-(k) The Committee shall be chaired by the operations manager
-or designate. Members shall include representatives of all operating departments in the Organisation.
+(k) the Committee shall be chaired by the operations manager or
+designate. Members shall include representatives of all operating departments in the Organisation;
 Meetings
-(l) The Committee shall meet on a regular basis (at least twice a
-year) as established by the committee chairperson. Special meetings on urgent matters may be called by any Committee member.
+(l) the Committee shall meet on a regular basis (at least twice a year)
+as established by the committee chairperson. Special meetings on urgent matters may be called by any Committee member;
 Minutes
-(m) Minutes of the Committee meetings shall provide a record of
-agenda items, decisions and corrective actions taken where applicable.
+(m) minutes of the Committee meetings shall provide a record of
+agenda items, decisions and corrective actions taken where applicable;
 Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations [Subsidiary]
 Emergency Response Planning
-(n) The national air operator shall develop and maintain a
+(n) the national air operator shall develop and maintain a
 national air operator Emergency Response Plan that shall include the following elements:
 (i) national air operator policy;
 (ii) national air operator mobilisation and agencies
 notification;
 (iii) passenger and crew welfare;
-(iv) casualty and next-of-kin coordination;
+(iv) casualty and next of kin co-ordination;
 (v) accident investigation on behalf of the national air
 operator;
 (vi) national air operator team's response to the accident site;
@@ -455,9 +455,9 @@ operator;
 (viii) media relations;
 (ix) claims and insurance procedures;
 (x) aeroplane wreckage removal; and
-(xi) emergency response training.
+(xi) emergency response training;
 Communication and Safety Education
-(o) The national air operator shall be responsible for an efficient
+(o) the national air operator shall be responsible for an efficient
 system of distributing appropriate safety material.
 Regulation 48
 A national air operator shall ensure that the mass and balance data control system meets the following minimum standards:
@@ -518,7 +518,7 @@ and anti-icing operational procedures shall be in effect;
 (iii) the procedures for implementing ground de-icing and
 anti-icing operational procedures; and
 (iv) the specific duties and responsibilities of each
-operational position or group responsible for getting the aircraft safely airborne while ground de-icing and anti-icing operational procedures are in effect.
+operational position or group responsible for getting the aircraft safely airborne while ground de-icing and anti-icing operational procedures are in effect;
 (b) the national air operator's ground de-icing and anti-icing
 programme shall include procedures for flight crew members to increase or decrease the determined holdover time in changing conditions. The holdover time shall be supported by data acceptable to the Authority. If the maximum holdover time is exceeded, take-off is prohibited unless at least one of the following conditions exists:
 (i) a pre-take-off contamination check is conducted outside
@@ -532,7 +532,7 @@ A national air operator shall ensure that his communications facilities
 meet the following minimum standards:
 (a) In-flight communications-
 Timely and direct communication between the responsible flight operations
-officer/flight dispatcher, if applicable, and the pilot in command of a flight shall be maintained during flight time over all or almost all the route structure. Where direct communication is not practical for mid-route communications a private agency under contract to the air operator may be approved to provide the required communications services. The use of Air Traffic Service communications is permitted if the services of a private agency are not available.
+officer/flight dispatcher, if applicable, and the pilot in command of a flight shall be maintained during flight time over all or almost all the route structure. Where direct communication is not practical for mid-route communications a private agency under contract to the air operator may be approved to provide the required communications services. The use of Air Traffic Service communications is permitted if the services of a private agency are not available;
 (b) On-ground Communications-
 (i) a direct communications capability between the pilot
 in command and the flight dispatcher shall be provided at any station regularly served by the air operator. The equipment used shall be accessible to the pilot in command and may include the following:
@@ -543,7 +543,7 @@ Radio voice;
 (D) teletype; and
 (E) any other approved communications medium;
 (ii) this requirement may be waived by the Authority at
-those stations where a lack of facilities prevents communication between the pilot-in-command and operations control;
+those stations where a lack of facilities prevents communication between the pilot in command and operations control;
 (iii) timely communication means the ability to establish
 communications domestically within thirty minutes of first trying and internationally within one hour when the flight is in cruise;
 Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations [Subsidiary]
@@ -586,14 +586,13 @@ TABLE 2-REPORTS
 Reports
 Journey log ... 6 months
 Flight report(s) for recording details of any occurrence, as prescribed by the DGCA, or any event which the commander deems necessary to report/record … … 3 months
-Reports on exceedances of duty and/or reducing
-rest periods ... 3 months
+Reports on exceedances of duty and/or reducing rest periods ... 3 months
 Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations [Subsidiary]
 TABLE 3- FLIGHT CREW RECORDS
 Flight Crew Records
 Flight, Duty and Rest time … … … 15 months
 Licence ... As long as the flight
-crew member is exercising the privileges of the licence for the operator Conversion training and checking … … three years Command course (including checking) … three years Recurrent training and checking … … three years Training and checking to operate in either pilot's seat ... three years Recent experience … … … 15 months Route and aerodrome competence … … three years Training and qualification for specific operations when required by the Authority (e.g., ETOPS CATII/III operations) … three years Dangerous Goods training as appropriate … three years
+crew member is exercising the privileges of the licence for the operator Conversion training and checking … … three years Command course (including checking) … three years Recurrent training and checking … … three years Training and checking to operate in either pilot's seat ... three years Recent experience … … … 15 months Route and aerodrome competence … … three years Training and qualification for specific operations when required by the Authority (e.g., ETOPS CATII/III operations) … … … three years Dangerous Goods training as appropriate … three years
 TABLE 4-CABIN CREW RECORDS
 Cabin Crew Records
 Flight, Duty and Rest time … … … 15 months Initial training, conversion and differences training (including checking) … … As long as the cabin
@@ -886,7 +885,7 @@ REGULATION
 1. Citation. 2. Interpretation. 3. General Applicability of these Regulations.
 PART I
 AERONAUTICAL PRODUCT CERTIFICATION
-4. Applicability of Part I. 5. Application for Type Certificate. 6. Application for Production Certificate. 7. Application for a new Type Certificate. 8. Supplemental Type Certificate.
+4. General applicability of Part I. 5. Application for Type Certificate. 6. Application for Production Certificate. 7. Application for a new Type Certificate. 8. Supplemental Type Certificate.
 PART II
 AIRWORTHINESS CERTIFICATION
 9. Application of Part II. 10. Restriction on operation of aircraft without Airworthiness Certificate. 11. Requirements for the issue of Airworthiness Certificate. 12. Issue of Special Flight Permit. 13. Amendment of Airworthiness Certificate. 14. Transfer or surrender of Airworthiness Certificate. 15. Continued validity of Airworthiness Certificate. 16. Contents of an Airworthiness Certificate. 17. Requirement of air operator to maintain records for identification of
@@ -898,12 +897,14 @@ aeronautical products.
 REGULATION
 PART IIA
 NOISE CERTIFICATION
-23A. Applicability. 23B. Standard for noise. 23C. Restriction on operations without noise validation certificate. 23D. Requirements for the issue of a noise validation certificate. 23E. Continued validity of a noise validation certificate. 23F. Contents of a noise validation certificate.
+23A. Applicability. 23B. Standards for noise. 23C. Restriction on operations without noise validation certificate. 23D. Requirements for the issue of a noise validation certificate. 23E. Continued validity of a noise validation certificate. 23F. Contents of a noise validation certificate.
 PART III
 AIRCRAFT MAINTENANCE AND INSPECTION
 24. Applicability of Part III. 25. Persons authorised to perform maintenance or preventive maintenance. 26. Persons authorised to perform inspections. 27. Restrictions on persons who can issue Certificate of Release to Service. 28. Maintenance Performance Rules. 29. Requirements for inspections performance rules. 30. Requirements for annual and one hundred-hour inspections and use
 of a checklist.
-31. Issue of Certificate of Release to Service. 32. Required Performance Rules, Certificate of Release to Service.
+31. Issue of Certificate of Release to Service.
+31A. Certificate of Maintenance Review.
+32. Required Performance Rules, Certificate of Release to Service.
 PART IV
 MAINTENANCE RECORDS AND ENTRIES
 33. Applicability of Part IV. 34. Content, form, and disposition of maintenance, preventive
@@ -930,8 +931,9 @@ approved by the Authority;
 "Approved Maintenance Organisation," means a maintenance
 organisation approved by the Authority in accordance with the Civil Aviation [(No. 6) Approved Maintenance Organisation] Regulations, to conduct maintenance on Trinidad and Tobago aircraft and their associated aeronautical product;
 [Subsidiary] Civil Aviation [(No. 5) Airworthiness] Regulations
-"Authority" means the Civil Aviation Authority of Trinidad
-and Tobago; "Director-General" means the Director-General of Civil Aviation
+"Authority" means the Civil Aviation Authority of Trinidad and
+Tobago; "Certificate of Maintenance Review" means a document issued
+by an operator, an approved maintenance organisation or an aircraft maintenance engineer, in respect of an aircraft, certifying that a maintenance review of such aircraft and its equipment as is necessary for its airworthiness has been carried out; "Director-General" means the Director-General of Civil Aviation
 appointed under section 13 of the Act; "engine" means a unit consisting of at least those components
 and equipment necessary for functioning and control but excludes the propeller where applicable and used or intended to be used for aircraft propulsion; "familiarisation training" means training of a general nature
 whereby participant gains a general appreciation and familiarity with the subject; "inspection" means the examination of an aircraft or aeronautical
@@ -939,10 +941,10 @@ product to establish conformity with an approved standard; "large aircraft" mean
 hundred kilogrammes maximum certified take-off mass and a helicopter of over three thousand, one hundred and seventy-five kilogrammes maximum certified take-off mass; "maintenance" means the performance of tasks required to
 ensure the continuing airworthiness of an aircraft or aeronautical product including any one or combination of overhaul, inspection, replacement, defect rectification and the embodiment of a modification or repair; "major modification" means an alteration specified under Schedule 3; "major repair" means a repair specified under Schedule 3; "modification" means the alteration of an aircraft or aeronautical
 product in conformity with an approved standard; "noise certificate" means a document issued or validated by a
-State or by a competent authority of a State attesting noise certification in respect of an aeroplane either by way of a separate certificate or a statement contained in another document approved by the State of Registry of the aircraft and required by that State to be carried in the aircraft; "operator" means-
+State or by a competent authority of a State attesting noise certification in respect of an aeroplane either by way of a separate certificate or a statement contained in another document approved by the State of Registry of the aircraft and required by that State to be carried in the aircraft; [Subsidiary] Civil Aviation [(No. 5) Airworthiness] Regulations
+"operator" means-
 (a) a person, organisation or enterprise, engaged in
-or offering to engage in, aircraft operations, and any person who causes or authorises the operation [Subsidiary] Civil Aviation [(No. 5) Airworthiness] Regulations
-of aircraft, in the capacity of owner, lessee or otherwise, whether with or without the control of the aircraft; and
+or offering to engage in, aircraft operations, and any person who causes or authorises the operation of aircraft, in the capacity of owner, lessee or otherwise, whether with or without the control of the aircraft; and
 (b) who or which is deemed to be engaged in the
 operation of aircraft within the Civil Aviation Act;
 "overhaul" means the restoration of an aircraft or aeronautical
@@ -954,9 +956,9 @@ product by the manufacturer using methods, techniques and practices acceptable t
 "repair" means the restoration of an aircraft or aeronautical
 product to an airworthy condition as defined by the appropriate airworthiness requirements;
 "required inspection items" means maintenance items and
-modifications of an aeronautical product that must be inspected by a person other than the person performing the work and includes those that could result in a failure, malfunction or defect endangering the safe operation of the
+modifications of an aeronautical product that must be inspected by a person other than the person performing the
 [Subsidiary] Civil Aviation [(No. 5) Airworthiness] Regulations
-aircraft, if not properly performed or if improper parts or materials are used; "small aircraft" means an aeroplane of maximum certified take-off
+work and includes those that could result in a failure, malfunction or defect endangering the safe operation of the aircraft, if not properly performed or if improper parts or materials are used; "small aircraft" means an aeroplane of maximum certified take-off
 mass of five thousand, seven hundred kilogrammes or less and a helicopter of maximum certified take-off mass of three thousand, one hundred and seventy-five kilogrammes or less; "State of Design" means the Contracting State which approved
 the original Type Certificate and any subsequent Supplemental Type Certificates for an aircraft or which approved the design of an aeronautical product; "State of Manufacture" means the Contracting State under whose
 authority an aircraft was assembled, approved for compliance with the Type Certificate and all existing Supplemental Type
@@ -1002,9 +1004,11 @@ product without the approval of the Authority.
 product in Trinidad and Tobago shall-
 (a) apply to the Authority in the prescribed form;
 (b) pay the prescribed fee; and
-[Subsidiary] Civil Aviation [(No. 5) Airworthiness] Regulations
 (c) meet the requirements of these Regulations.
-(3) Where the Director-General is satisfied that an applicant meets the requirements of these Regulations to manufacture an aeronautical product in Trinidad and Tobago in a controlled manner including the use of a quality system so that construction and assembly are satisfactory, he may recommend the Authority issue a Production Certificate.
+(3) Where the Director-General is satisfied that an
+applicant meets the requirements of these Regulations to manufacture
+[Subsidiary] Civil Aviation [(No. 5) Airworthiness] Regulations
+an aeronautical product in Trinidad and Tobago in a controlled manner including the use of a quality system so that construction and assembly are satisfactory, he may recommend the Authority issue a Production Certificate.
 (4) An applicant under subregulation (2), for a Production Certificate shall comply with the type certificate as required by the State of Design for approval.
 APPLICATION FOR NEW TYPE CERTIFICATE
 7. A person who wishes to alter an aeronautical product by introducing a major change in type design and such alteration requires an application for a new Type Certificate shall-
@@ -1020,11 +1024,10 @@ such alteration;
 (c) provide the Authority with the Supplemental
 Type Certificate obtained from the civil aviation authority of the State of Design that approved the original Type Certificate for that aeronautical product; and
 (d) provide the Authority with the procedure to be
-used for the implementation of such alteration. [Subsidiary] Civil Aviation [(No. 5) Airworthiness] Regulations
+used for the implementation of such alteration.
 PART II
 AIRWORTHINESS CERTIFICATION
-9. This Part prescribes the requirements for the issue of
-Airworthiness Certificate and Special Flight Permit for Trinidad and Tobago aircraft.
+9. This Part prescribes the requirements for the issue of Airworthiness Certificate, Certificate of Maintenance Review and Special Flight Permit for Trinidad and Tobago aircraft. [Subsidiary] Civil Aviation [(No. 5) Airworthiness] Regulations
 RESTRICTION ON OPERATIONS WITHOUT AIRWORTHINESS
 CERTIFICATE
 10. (1) The operator of a Trinidad and Tobago aircraft shall
@@ -1043,12 +1046,12 @@ Authority issue an Airworthiness Certificate in respect of a Trinidad and Tobago
 General that the aircraft conforms to a type design approved under a Type Certificate and applicable Supplemental Type Certificate of a State of Design identified under paragraph (1)(e);
 (b) all applicable Airworthiness Directives and
 maintenance requirements have been completed and the aircraft and its records have been inspected within the last thirty days in accordance with these Regulations and found to be airworthy by persons authorised by the Authority to make such determinations;
-[Subsidiary] Civil Aviation [(No. 5) Airworthiness] Regulations
-(c) he is satisfied, after an inspection of the Trinidad
-and Tobago aircraft, that such aircraft conforms to the type design and is in a condition for safe operation;
+(c) he is satisfied, after an inspection of the Trinidad and
+Tobago aircraft, that such aircraft conforms to the type design and is in a condition for safe operation;
 (d) such aircraft has been flight tested, as required; and
 (e) such aircraft meets the acceptable and equivalent
 type design standards of the established international airworthiness codes set out in the Schedule 1.
+[Subsidiary] Civil Aviation [(No. 5) Airworthiness] Regulations
 (2) Where a Trinidad and Tobago aircraft is known to or is suspected to have dangerous features, such aircraft shall not be issued an Airworthiness Certificate.
 (3) Prior to the issue of an Airworthiness Certificate the owner of an aircraft shall-
 (a) register such aircraft in Trinidad and Tobago
@@ -1064,13 +1067,11 @@ maintenance, or inspections are to be performed, or to a point of storage;
 maintenance;
 (c) delivering or exporting such aircraft from
 Trinidad and Tobago; or
-(d) evacuating aircraft from areas of impending danger. [Subsidiary] Civil Aviation [(No. 5) Airworthiness] Regulations
-(2) The Director-General shall in the interest of safety
-recommend the Authority issue specific operating limitations for each Special Flight Permit issued under subregulation (1).
-(3) The Director-General shall require the operator of a
-Trinidad and Tobago aircraft which has been issued a Special Flight Permit under subregulation (1), to conduct maintenance in accordance with the aircraft maintenance manual.
-(4) An operator under subregulation (3) shall ensure that
-the maintenance required to be conducted is performed by a person or organisation authorised to so conduct such maintenance under the Act or Regulations made thereunder.
+(d) evacuating aircraft from areas of impending danger.
+(2) The Director-General shall in the interest of safety recommend the Authority issue specific operating limitations for each Special Flight Permit issued under subregulation (1).
+(3) The Director-General shall require the operator of a Trinidad and Tobago aircraft which has been issued a Special Flight Permit under subregulation (1), to conduct maintenance in accordance with the aircraft maintenance manual.
+(4) An operator under subregulation (3) shall ensure that the maintenance required to be conducted is performed by a [Subsidiary] Civil Aviation [(No. 5) Airworthiness] Regulations
+person or organisation authorised to so conduct such maintenance under the Act or Regulations made thereunder.
 (5) A person or organisation conducting maintenance
 under subregulations (3) and (4) shall upon completing such maintenance, record a statement in the aircraft permanent record that such aircraft has been inspected and found to be safe for the intended flight and affix his signature against such statement.
 (6) An operator shall obtain all required overflight
@@ -1082,10 +1083,12 @@ Permit has been issued under these Regulations shall not carry passengers or pro
 AMENDMENT OF AIRWORTHINESS CERTIFICATE
 13. The Director-General may on his own initiative or upon
 application from the operator of a Trinidad and Tobago aircraft recommend the Authority amend or modify an Airworthiness Certificate of such aircraft.
-[Subsidiary] Civil Aviation [(No. 5) Airworthiness] Regulations
 TRANSFER OR SURRENDER OF AIRWORTHINESS CERTIFICATE
-14. (1) The Director-General may recommend that the Authority transfer an Airworthiness Certificate to the lessee of a Trinidad and Tobago aircraft, where such aircraft is leased within Trinidad and Tobago.
-(2) An operator shall surrender the Airworthiness Certificate for a Trinidad and Tobago aircraft to the Authority upon sale of such aircraft to an operator outside of Trinidad and Tobago.
+14. (1) The Director-General may recommend that the
+Authority transfer an Airworthiness Certificate to the lessee of a Trinidad and Tobago aircraft, where such aircraft is leased within Trinidad and Tobago.
+(2) An operator shall surrender the Airworthiness
+Certificate for a Trinidad and Tobago aircraft to the Authority upon sale of such aircraft to an operator outside of Trinidad and Tobago.
+[Subsidiary] Civil Aviation [(No. 5) Airworthiness] Regulations
 (3) The Director-General may recommend that the Authority issue an Export Airworthiness Certificate for a Trinidad and Tobago aircraft which is to be exported from Trinidad and Tobago.
 (4) Nothing in subregulation (3), shall be interpreted as not requiring a Trinidad and Tobago aircraft being exported from Trinidad and Tobago from having a valid Airworthiness Certificate.
 CONTINUED VALIDITY OF AIRWORTHINESS CERTIFICATE
@@ -1096,18 +1099,17 @@ CONTINUED VALIDITY OF AIRWORTHINESS CERTIFICATE
 Authority; and
 (b) accompanied by-
 (i) an engineer's report in the form
-prescribed by the Authority giving details of work done on the aircraft since the last renewal of the Airworthiness Certificate;
+prescribed by the Authority, giving details of work done on the aircraft since the last renewal of the Airworthiness Certificate;
 (ii) a copy of the mass and balance report for
-the aircraft; [Subsidiary] Civil Aviation [(No. 5) Airworthiness] Regulations
+the aircraft;
 (iii) the prescribed fee; and
-(iv) such other documents as prescribed by the
-Director-General.
-(4) The continued validity of an Airworthiness
-Certificate shall be dependent upon-
-(a) the Trinidad and Tobago aircraft being maintained
-in an airworthy condition in accordance with the requirements of these Regulations;
+(iv) such other documents as prescribed by
+the Director-General.
+(4) The continued validity of an Airworthiness Certificate shall be dependent upon-
+(a) the Trinidad and Tobago aircraft being
+maintained in an airworthy condition in accordance with the requirements of these Regulations;
 (b) the Authority being granted access to the
-Trinidad and Tobago aircraft to determine continued compliance with these Regulations; and
+Trinidad and Tobago aircraft to determine continued compliance with these Regulations; and [Subsidiary] Civil Aviation [(No. 5) Airworthiness] Regulations
 (c) the Trinidad and Tobago aircraft being operated
 within the performance and operating limitations of its approved Aircraft Flight Manual.
 CONTENTS OF AN AIRWORTHINESS CERTIFICATE
@@ -1126,13 +1128,12 @@ category of the aircraft;
 (h) the following statement with reference to the
 appropriate Airworthiness code inserted in the area marked with an asterisk:
 "This Certificate of Airworthiness is issued
-pursuant to the Convention on International
-[Subsidiary] Civil Aviation [(No. 5) Airworthiness] Regulations
-Civil Aviation dated 7th December, 1944 and (*)... in respect of the above aircraft which is considered to be airworthy when maintained and operated in accordance with the foregoing and the pertinent operating limitations".
+pursuant to the Convention on International Civil Aviation dated 7th December, 1944 and (*)... in respect of the above aircraft which is considered to be airworthy when maintained and operated in accordance with the foregoing and the pertinent operating limitations".
 (i) periodic endorsement, showing expiry date or a
 statement that the aircraft is being maintained under a system of continuous inspection; and
 (j) such other matters as the Authority may
 deem necessary.
+[Subsidiary] Civil Aviation [(No. 5) Airworthiness] Regulations
 MAINTENANCE OF RECORDS FOR AIRCRAFT ISSUED AN
 AIRWORTHINESS CERTIFICATE
 17. Where an Airworthiness Certificate has been issued in respect of a Trinidad and Tobago aircraft under these Regulations, the operator of such Trinidad and Tobago aircraft shall be responsible for maintaining records of such aircraft including records to establish the identification of such aircraft with its approved type design.
@@ -1143,15 +1144,17 @@ AERONAUTICAL PRODUCTS
 (a) all maintenance, overhaul, modifications and
 repairs which affect airworthiness are performed by an approved person or Approved Maintenance Organisation in a manner prescribed by the Authority;
 (b) any removal or replacement of any aeronautical
-product of such aircraft is conducted in a manner and with materials required by the Manufacturer; [Subsidiary] Civil Aviation [(No. 5) Airworthiness] Regulations
+product of such aircraft is conducted in a manner and with materials required by the Manufacturer;
 (c) all inspections classified in the Approved
 Maintenance programme or any Airworthiness Directives of the State of Design of such aircraft or associated aeronautical products are completed as prescribed;
 (d) all approved maintenance personnel make
 appropriate entries in the aircraft maintenance records certifying that such aircraft is airworthy;
 (e) a Certificate of Release to Service is issued in
-accordance with regulation 31, to certify that maintenance work performed has been completed satisfactorily and in accordance with the prescribed methods; and
+accordance with regulation 31, to certify that maintenance work performed has been completed satisfactorily and in accordance with the prescribed methods; [Subsidiary] Civil Aviation [(No. 5) Airworthiness] Regulations
 (f) in the event that there are discrepancies which
-have not been corrected, the Certificate of Release to Service includes a list of the uncorrected maintenance items and these items are made a part of the aircraft permanent record.
+have not been corrected, the Certificate of Release to Service includes a list of the uncorrected maintenance items and these items are made a part of the aircraft permanent record; and
+(g) a Certificate of Maintenance Review is issued in
+accordance with regulation 31A, to certify that all inspections classified in the Approved Maintenance Programme and Airworthiness Directives of the State of Design and State of Manufacture, in respect of such aircraft and its associated aeronautical product have been accomplished as prescribed.
 (3) Any failure to maintain an aircraft in an airworthy
 condition as prescribed by these Regulations shall render the Trinidad and Tobago aircraft ineligible for flight until such time it is restored to an airworthy condition by re-compliance with these Regulations.
 AIRCRAFT MAINTENANCE PROGRAMME
@@ -1160,10 +1163,11 @@ practices established by the manufacturer of the aeronautical product and approv
 (2) An operator shall prepare and submit to the Authority
 for approval a maintenance programme, which shall include the applicable specifications, methods, procedures, tasks and intervals approved by the State of Design for the aircraft type.
 (3) A maintenance programme under subregulation (2),
-shall include a maintenance manual, airworthiness limitations,
+shall include a maintenance manual, airworthiness limitations, mandatory replacement times, fatigue life limits, inspection intervals, corrosion prevention and control, supplemental structural inspection programmes or structural integrity programmes, ageing aircraft programmes, reliability programmes and maintenance review board report as applicable.
+(4) The maintenance programme under subregulation (2),
+shall, where the Authority deems appropriate, be reviewed and updated in accordance with the reliability programme of the operator which shall take into consideration continuing airworthiness
 [Subsidiary] Civil Aviation [(No. 5) Airworthiness] Regulations
-mandatory replacement times, fatigue life limits, inspection intervals, corrosion prevention and control, supplemental structural inspection programmes or structural integrity programmes, ageing aircraft programmes, reliability programmes and maintenance review board report as applicable.
-(4) The maintenance programme under subregulation (2), shall, where the Authority deems appropriate, be reviewed and updated in accordance with the reliability programme of the operator which shall take into consideration continuing airworthiness information promulgated by the manufacturer, the utilisation of the aircraft and the operator's particular maintenance and operating environment and experience of the operator.
+information promulgated by the manufacturer, the utilisation of the aircraft and the operator's particular maintenance and operating environment and experience of the operator.
 (5) An operator shall not operate a Trinidad and Tobago aircraft for which a maintenance manual of the manufacturer, or instructions for continued airworthiness that contains an airworthiness limitation section has been issued unless the operator has complied with the following:
 (a) the mandatory replacement times, inspection
 intervals and related procedures specified in the airworthiness limitation section of the maintenance manual or instructions for airworthiness;
@@ -1175,16 +1179,15 @@ approved under the Civil Aviation [(No. 3) Air Operator Certification and Admini
 programme approved under the Civil Aviation [(No. 2) Operations]
 Regulations; or
 (c) maintenance programme approved under
-these Regulations. [Subsidiary] Civil Aviation [(No. 5) Airworthiness] Regulations
+these Regulations.
 AIRWORTHINESS DIRECTIVES
-20. (1) Where an aircraft is registered in Trinidad and
-Tobago, the Director-General shall-
+20. (1) Where an aircraft is registered in Trinidad and Tobago, the Director-General shall-
 (a) notify the State of Design of the registration of
 such aircraft in Trinidad and Tobago; and
 (b) request all airworthiness directives in respect
 of such aircraft or its associated aeronautical product and any information which the State of Design deems necessary for the continuing airworthiness and safe operation of the Trinidad and Tobago aircraft.
-(2) Whenever a State of Design considers an aircraft
-or its associated aeronautical product is unsafe based on an airworthiness directive by that State, such directives shall be mandatory to Trinidad and Tobago registered aircraft of the type identified in that airworthiness directive.
+(2) Whenever a State of Design considers an aircraft or its associated aeronautical product is unsafe based on an [Subsidiary] Civil Aviation [(No. 5) Airworthiness] Regulations
+airworthiness directive by that State, such directives shall be mandatory to Trinidad and Tobago registered aircraft of the type identified in that airworthiness directive.
 (3) An operator of a Trinidad and Tobago aircraft shall,
 whenever an airworthiness directive has been issued in respect of the applicable aircraft or aeronautical product comply with such airworthiness directives.
 (4) Where the Director-General determines that an
@@ -1194,34 +1197,34 @@ shall be forwarded immediately by the operator to the Authority and the State of
 (6) A person shall not operate an aeronautical product to
 which an airworthiness directive applies, issued by-
 (a) the State of Design;
-[Subsidiary] Civil Aviation [(No. 5) Airworthiness] Regulations
 (b) (Deleted by LN 304/2004);
 (c) the Authority; or
 (d) the State of Registry for other aircraft operated
-within Trinidad and Tobago, except in accordance with the requirements of that airworthiness directive.
+within Trinidad and Tobago,
+except in accordance with the requirements of that airworthiness directive.
 DAMAGE TO AIRCRAFT
-21. (1) An operator shall not operate an aircraft that has sustained damage unless all details of the damage are provided to allow the State of Registry to determine the airworthiness of the aircraft as defined by the appropriate airworthiness requirements.
-(2) Where a Trinidad and Tobago aircraft has sustained damage, the operator shall have the aircraft inspected by an appropriately qualified maintenance person in accordance with the appropriate airworthiness requirements to assess the damage to determine the airworthy state of the aircraft.
+21. (1) An operator shall not operate an aircraft that has
+sustained damage unless all details of the damage are provided to allow the State of Registry to determine the airworthiness of the aircraft as defined by the appropriate airworthiness requirements.
+(2) Where a Trinidad and Tobago aircraft has sustained
+damage, the operator shall have the aircraft inspected by an appropriately qualified maintenance person in accordance with
+[Subsidiary] Civil Aviation [(No. 5) Airworthiness] Regulations
+the appropriate airworthiness requirements to assess the damage to determine the airworthy state of the aircraft.
 (3) Where it is determined upon inspection of a Trinidad and Tobago aircraft under subregulation (2), that the damage sustained is of a nature such that the Trinidad and Tobago aircraft is no longer airworthy, the Trinidad and Tobago aircraft shall not be allowed to resume flight until it is certified as airworthy.
 (4) Where the damage sustained is of a nature that a Trinidad and Tobago aircraft is no longer airworthy when the aircraft is in the territory of another Contracting State, the civil aviation authority of that Contracting State is entitled to prevent the aircraft from resuming its flight.
-(5) Notwithstanding subregulations (3) and (4), in exceptional circumstances the Director-General may, where the necessary application is made by the operator, recommend that the Authority issue a Special Flight Permit prescribing particular limiting conditions under which the aircraft may operate a [Subsidiary] Civil Aviation [(No. 5) Airworthiness] Regulations
-non-commercial air transport operation to an aerodrome at which it can be restored to an airworthy condition.
-(6) In prescribing particular limiting conditions under
-subregulation (5), the Director-General shall consider all limitations proposed by the Contracting State that had originally prevented the aircraft from resuming its flight operations.
-(7) Where a foreign registered aircraft operating in
-Trinidad and Tobago has sustained damage, the operator of such foreign aircraft shall report such occurrence and the details of the damage to the Authority and to the State of Registry to allow the State of Registry to make an assessment of the airworthiness status of the aircraft.
-(8) The Director-General may prevent the foreign registered
-aircraft referred to in subregulation (7) from resuming flight until he has received notification from the State of Registry that the aircraft is-
+(5) Notwithstanding subregulations (3) and (4), in exceptional circumstances the Director-General may, where the necessary application is made by the operator, recommend that the Authority issue a Special Flight Permit prescribing particular limiting conditions under which the aircraft may operate a non-commercial air transport operation to an aerodrome at which it can be restored to an airworthy condition.
+(6) In prescribing particular limiting conditions under subregulation (5), the Director-General shall consider all limitations proposed by the Contracting State that had originally prevented the aircraft from resuming its flight operations.
+(7) Where a foreign registered aircraft operating in Trinidad and Tobago has sustained damage, the operator of such foreign aircraft shall report such occurrence and the details of the damage to the Authority and to the State of Registry to allow the State of Registry to make an assessment of the airworthiness status of the aircraft.
+(8) The Director-General may prevent the foreign registered aircraft referred to in subregulation (7) from resuming flight until he has received notification from the State of Registry that the aircraft is-
 (a) airworthy; or
 (b) safe for flight and issued with a Special Flight
 Permit or equivalent approval.
+[Subsidiary] Civil Aviation [(No. 5) Airworthiness] Regulations
 (9) Subject to satisfying the requirements of the
 Contracting State referred to in subregulation (6), and upon the restoration of the Trinidad and Tobago aircraft to an airworthy condition or the issue of a Special Flight Permit by the Authority, the civil aviation authority of that Contracting State may permit the Trinidad and Tobago aircraft to resume flight.
 REPORTING OF FAILURES, MALFUNCTIONS AND DEFECTS 22. (1) Operators, Approved Maintenance Organisations,
 Air Traffic Controllers, Pilots, and holders of Aircraft Maintenance Licence shall report to the Director-General any faults, failures, malfunctions, or defects, and other occurrences on any Trinidad and Tobago aircraft under his control which cause or might cause adverse effects on the continued airworthiness of the aircraft such as-
 (a) fires during flight and whether the related
 fire-warning system operated properly;
-[Subsidiary] Civil Aviation [(No. 5) Airworthiness] Regulations
 (b) fires during flight not protected by a related
 fire-warning system;
 (c) false fire-warning during flight;
@@ -1239,6 +1242,7 @@ object ingestion or icing;
 system to control overspeed during flight;
 (k) a fuel or fuel-dumping system that affects fuel
 flow or causes hazardous leakage during flight;
+[Subsidiary] Civil Aviation [(No. 5) Airworthiness] Regulations
 (l) an unintended landing gear extension or
 retraction, or opening or closing of landing gear doors during flight;
 (m) brake system components that result in loss of
@@ -1249,7 +1253,7 @@ aircraft structure, if more than the maximum acceptable to the manufacturer or t
 (p) aircraft components or systems malfunctions that
 result in taking emergency actions during flight;
 (q) each interruption to a flight, unscheduled
-change of aircraft route, or unscheduled stop or diversion from a route caused by known or suspected technical difficulties or malfunctions; [Subsidiary] Civil Aviation [(No. 5) Airworthiness] Regulations
+change of aircraft route, or unscheduled stop or diversion from a route caused by known or suspected technical difficulties or malfunctions;
 (r) any abnormal vibration or buffeting caused by a
 structural or system malfunction, defect, or failure;
 (s) a failure or malfunction of more than one attitude,
@@ -1263,7 +1267,7 @@ listed by type of propeller and engine and aircraft on which it was installed.
 two hours after determining that the failure, malfunction, or defect required to be reported has occurred; and
 (b) include as much of the following information as
 is available and applicable:
-(i) aircraft serial number;
+(i) aircraft serial number; [Subsidiary] Civil Aviation [(No. 5) Airworthiness] Regulations
 (ii) when the failure, malfunction, or defect is
 associated with an article approved under a Technical Standard Order authorisation, the article serial number and model designation, as appropriate;
 (iii) when the failure, malfunction or defect is
@@ -1272,39 +1276,39 @@ associated with an engine or propeller, the engine or propeller serial number, a
 (v) identification of the part, component, or
 system involved, including the part number; and
 (vi) nature of the failure, malfunctions or defects.
-[Subsidiary] Civil Aviation [(No. 5) Airworthiness] Regulations
-(3) The operator shall ensure that a report under subregulation (1), is also submitted in a timely basis to-
+(3) The operator shall ensure that a report under
+subregulation (1), is also submitted in a timely basis to-
 (a) the State of Registry, for an aircraft registered in
 a foreign State;
 (b) the State of Design; and
 (c) the holder of the Type Certificate.
-(4) A report under this regulation shall be made in a form and manner acceptable to the Authority.
-(5) Notwithstanding subregulation (1), a report shall be immediately forwarded to the Authority in the following circumstances:
+(4) A report under this regulation shall be made in a form
+and manner acceptable to the Authority.
+(5) Notwithstanding subregulation (1), a report shall be
+immediately forwarded to the Authority in the following circumstances:
 (a) primary structural failure;
 (b) control system failure;
 (c) fire in the aircraft;
 (d) engine structure failure; and
 (e) any other condition considered an imminent
 hazard to safety.
-(6) A report under subregulation (5), may be made by telephone, telex or facsimile or other appropriate means of communication, with a written follow-on report as soon as possible, but no later than seventy-two hours after discovery.
+(6) A report under subregulation (5), may be made by
+telephone, telex or facsimile or other appropriate means of communication, with a written follow-on report as soon as possible, but no later than seventy-two hours after discovery.
+[Subsidiary] Civil Aviation [(No. 5) Airworthiness] Regulations
 MODIFICATION AND REPAIRS
 23. (1) All modifications and repairs to an aeronautical product shall comply with airworthiness requirements acceptable to the Authority.
 (2) A national operator shall establish procedures to ensure that the substantiating data which supports compliance with the airworthiness requirements are retained.
-(3) In the case of a major repair or major modification to an aeronautical product, the major repair or major modification to such aeronautical product, shall be completed in accordance with technical data approved or accepted by the Authority. [Subsidiary] Civil Aviation [(No. 5) Airworthiness] Regulations
-(4) A major repair or major modification to an aeronautical
-product shall be performed by-
+(3) In the case of a major repair or major modification to an aeronautical product, the major repair or major modification to such aeronautical product, shall be completed in accordance with technical data approved or accepted by the Authority.
+(4) A major repair or major modification to an aeronautical product shall be performed by-
 (a) an Approved Maintenance Organisation in
 accordance with the limitations of his Operations Specifications issued by the Authority;
 (b) an air operator in accordance with his
 Operations Specifications issued by the Authority; or
 (c) the holder of a valid Inspection Authorisation in
 accordance with the limitation of such Inspection Authorisation.
-(5) An operator shall, promptly upon its completion,
-prepare a report of each major modification or major repair of an aeronautical product operated by him.
-(6) An operator shall submit a copy of each report of a
-major modification to the Authority, and shall keep a copy of each report of a major repair available for inspection.
-(7) Where a major repair or major modification results in
-a change in the aircraft operating limitations or flight data contained in the Aircraft Flight Manual, those operating limitations or flight data in the Aircraft Flight Manual shall be appropriately revised and set forth as prescribed.
+(5) An operator shall, promptly upon its completion, prepare a report of each major modification or major repair of an aeronautical product operated by him.
+(6) An operator shall submit a copy of each report of a major modification to the Authority, and shall keep a copy of each report of a major repair available for inspection.
+(7) Where a major repair or major modification results in a change in the aircraft operating limitations or flight data contained in the Aircraft Flight Manual, those operating limitations or flight data in the Aircraft Flight Manual shall be appropriately revised and set forth as prescribed. [Subsidiary] Civil Aviation [(No. 5) Airworthiness] Regulations
 PART IIA
 NOISE CERTIFICATION
 APPLICABILITY
@@ -1313,48 +1317,50 @@ validation certificate for a noise certificate (hereinafter referred to as a "no
 (a) all subsonic jet aeroplanes;
 (b) supersonic aeroplanes;
 (c) propeller driven aeroplanes with a maximum
-certified take-off mass exceeding 5,700 kg;
-[Subsidiary] Civil Aviation [(No. 5) Airworthiness] Regulations
+certified take-off mass exceeding 5 700 kg;
 (d) propeller driven aeroplanes with a maximum
-certified take-off mass of 5,700 kg or less; and
+certified take-off mass of 5 700 kg or less; and
 (e) helicopters.
 STANDARDS FOR NOISE
-23B. The noise certification standards applicable to an aircraft shall be those set out in ICAO Annex 16.
+23B. The noise certification standards applicable to an aircraft
+shall be those set out in ICAO Annex 16.
 RESTRICTION ON OPERATIONS WITHOUT NOISE
 VALIDATION CERTIFICATE
-23C. An operator shall not operate an aircraft to which these Regulations apply in Trinidad and Tobago unless there is in force in respect of the aircraft, a noise validation certificate-
+23C. An operator shall not operate an aircraft to which these
+Regulations apply in Trinidad and Tobago unless there is in force in respect of the aircraft, a noise validation certificate-
 (a) validated by the Authority under regulation 23D; or
-(b) issued or validated by the competent authority
-of the State of Registry of the aircraft on the basis of satisfactory evidence that the aircraft complies with requirements that are at least equal to the applicable Standards specified in ICAO Annex 16.
+(b) issued or validated by the competent authority of
+the State of Registry of the aircraft on the basis of satisfactory evidence that the aircraft complies with requirements that are at least equal to the applicable Standards specified in
+ICAO Annex 16.
 REQUIREMENTS FOR THE ISSUE OF A NOISE
 VALIDATION CERTIFICATE
-23D. (1) An operator of a Trinidad and Tobago aircraft to which these Regulations apply, who wishes to have a noise validation certificate issued for that aircraft, shall-
+23D. (1) An operator of a Trinidad and Tobago aircraft to
+which these Regulations apply, who wishes to have a noise validation certificate issued for that aircraft, shall-
 (a) apply to the Authority;
+[Subsidiary] Civil Aviation [(No. 5) Airworthiness] Regulations
 (b) pay the prescribed fee;
 (c) present evidence to the Director-General that
 the aircraft complies with the applicable requirements of ICAO Annex 16;
 (d) submit the aircraft to such flying tests as the
 Director may require.
-(2) Where the Director-General is satisfied that the evidence presented by the applicant in support of an application for a noise validation certificate and the results of any flying tests [Subsidiary] Civil Aviation [(No. 5) Airworthiness] Regulations
-required by the Director-General, show that the aircraft complies with the requirements that are at least equal to the applicable standards specified in ICAO Annex 16 in relation to the noise made by that aircraft, he may recommend that the Authority issue a noise validation certificate.
-CONTINUED VALIDITY OF A NOISE VALIDATION CERTIFICATE 23E. (1) A noise validation certificate in respect of a Trinidad
-and Tobago aircraft shall be suspended or revoked-
+(2) Where the Director-General is satisfied that the evidence presented by the applicant in support of an application for a noise validation certificate and the results of any flying tests required by the Director-General, show that the aircraft complies with the requirements that are at least equal to the applicable standards specified in ICAO Annex 16 in relation to the noise made by that aircraft, he may recommend that the Authority issue a noise validation certificate.
+CONTINUED VALIDITY OF A NOISE VALIDATION CERTIFICATE 23E. (1) A noise validation certificate in respect of a Trinidad and Tobago aircraft shall be suspended or revoked-
 (a) where the aircraft ceases to comply with the
 applicable noise standards;
 (b) at such time as the aircraft or any part of it is
 modified, in any way which affects the ability of the aircraft to comply with the noise standards required by these Regulations, other than in a manner and with material of a type approved by the State of Design and accepted by the Authority, either generally or in relation to a class of aircraft or to a particular aircraft; or
 (c) until the completion of any inspection or test of
 the aircraft required by the Director-General to be performed which shows that the aircraft complies with the noise standards required by these Regulations.
-(2) The holder of a noise validation certificate which is
-suspended, shall forthwith produce the noise validation certificate to the Authority for endorsement.
-(3) The holder of a noise validation certificate which has
+(2) The holder of a noise validation certificate which is suspended, shall forthwith produce the noise validation certificate to the Authority for endorsement.
+(3) The holder of a noise validation certificate which has [Subsidiary] Civil Aviation [(No. 5) Airworthiness] Regulations
 been revoked by the Authority, shall within thirty days from the date on which it was revoked, surrender such certificate to the Authority.
 (4) Where a noise validation certificate is suspended or
 revoked, such suspension or revocation shall remain in force, and a new noise validation certificate shall not be granted unless the aircraft is found, on reassessment, to comply with the applicable noise standards of ICAO Annex 16.
-[Subsidiary] Civil Aviation [(No. 5) Airworthiness] Regulations
-(5) In determining the continued validity of a noise validation certificate, the Director-General may accept reports furnished to him by a person whom he approves as qualified and competent to make such reports either absolutely or subject to such conditions as he thinks fit.
+(5) In determining the continued validity of a noise
+validation certificate, the Director-General may accept reports furnished to him by a person whom he approves as qualified and competent to make such reports either absolutely or subject to such conditions as he thinks fit.
 CONTENTS OF A NOISE VALIDATION CERTIFICATE
-23F. (1) A noise validation certificate for an aircraft shall be in the form prescribed by the Director-General and contain at least the following item numbers and headings:
+23F. (1) A noise validation certificate for an aircraft shall be
+in the form prescribed by the Director-General and contain at least the following item numbers and headings:
 (a) Item 1. Trinidad and Tobago;
 (b) Item 2. Noise Validation Certificate;
 (c) Item 3. Number of the document;
@@ -1366,15 +1372,16 @@ designation of aircraft;
 (g) Item 7. Engine manufacturer, type and model;
 (h) Item 8. Propeller type and model for propeller
 driven aeroplanes;
-(i) Item 9. Maximum take-off mass in kilograms;
-(j) Item 10. Maximum landing mass, in kilograms,
-for certificates issued under Chapters 2, 3, 4, 5, and 12 of ICAO Annex 16;
-(k) Item 11. The chapter and section of ICAO
-Annex 16 according to which the aircraft was certified;
+(i) Item 9. Maximum take-off mass in kilogrammes;
+(j) Item 10. Maximum landing mass, in
+kilogrammes, for certificates issued under Chapters 2, 3, 4, 5, and 12 of ICAO Annex 16;
+(k) Item 11. The chapter and section of ICAO Annex
+16 according to which the aircraft was certified;
+[Subsidiary] Civil Aviation [(No. 5) Airworthiness] Regulations
 (l) Item 12. Additional modifications incorporated
 for the purpose of compliance with the applicable noise certification standards;
-(m) Item 13. The lateral or full-power noise level in
-the corresponding unit for documents issued under Chapters 2, 3, 4, 5 and 12 of ICAO Annex 16; [Subsidiary] Civil Aviation [(No. 5) Airworthiness] Regulations
+(m) Item 13. The lateral or full-power noise level in the
+corresponding unit for documents issued under Chapters 2, 3, 4, 5 and 12 of ICAO Annex 16;
 (n) Item 14. The approach noise level in the
 corresponding unit for documents issued under Chapters 2, 3, 4, 5, 8 and 12 of ICAO Annex 16;
 (o) Item 15. The flyover noise level in the
@@ -1382,27 +1389,23 @@ corresponding unit for documents issued under Chapters 2, 3, 4, 5 and 12 of ICAO
 (p) Item 16. The overflight noise level in the
 corresponding unit for documents issued under Chapters 6, 8 and 11 of ICAO Annex 16;
 (q) Item 17. The take-off noise level in the
-corresponding unit for documents issued under Chapters 8, and 10 of ICAO Annex 16;
+corresponding unit for documents issued under Chapters 8 and 10 of ICAO Annex 16;
 (r) Item 18. Statement of compliance, including a
 reference to Annex 16, Volume I;
 (s) Item 19. Date of issuance of the noise
 certification document; and
 (t) Item 20. Signature of the officer issuing it.
-(2) Item headings on the noise validation certificate
-shall be uniformly numbered in Arabic numerals so that on any noise validation certificate the item number will, under any arrangement, refer to the same item heading.
+(2) Item headings on the noise validation certificate shall be uniformly numbered in Arabic numerals so that on any noise validation certificate the item number will, under any arrangement, refer to the same item heading.
 PART III
 AIRCRAFT MAINTENANCE AND INSPECTION
 APPLICABILITY OF PART III
-24. This Part prescribes the requirements for maintenance
-and inspection of a Trinidad and Tobago aircraft and its associated aeronautical products.
+24. This Part prescribes the requirements for maintenance and inspection of a Trinidad and Tobago aircraft and its associated aeronautical products. [Subsidiary] Civil Aviation [(No. 5) Airworthiness] Regulations
 PERSONS AUTHORISED TO PERFORM MAINTENANCE OR
 PREVENTIVE MAINTENANCE
 25. (1) A person shall not perform any task defined as
 maintenance, preventive maintenance or modification of a Trinidad and Tobago aircraft or its aeronautical products, unless such person is-
 (a) a pilot authorised by the Authority, limited to
-perform preventive maintenance on specified
-[Subsidiary] Civil Aviation [(No. 5) Airworthiness] Regulations
-non-commercial Trinidad and Tobago small aircraft owned or operated by such pilot;
+perform preventive maintenance on specified non-commercial Trinidad and Tobago small aircraft owned or operated by such pilot;
 (b) an Aircraft Maintenance Engineer, limited to
 perform maintenance, preventive maintenance, or modification of an aircraft or aeronautical product for which he holds a licence and;
 (c) performing maintenance, preventive
@@ -1420,11 +1423,10 @@ Maintenance Organisation Certificate issued or accepted by the Authority may-
 manufactured by that manufacturer under a Type Certificate or Production Certificate;
 (ii) rebuild or modify any aeronautical product
 manufactured by that manufacturer under a Technical Standard Order Authorisation, a Parts Manufacturing Approved Standard in respect of material, parts, process or appliance issued by the State of Design; and
+[Subsidiary] Civil Aviation [(No. 5) Airworthiness] Regulations
 (iii) where applicable, perform any inspection
-required by the Act or Regulations made thereunder on aircraft it manufactures, [Subsidiary] Civil Aviation [(No. 5) Airworthiness] Regulations
-while currently operating under a Production Certificate or under a currently approved production inspection system for such aircraft.
-(2) A person shall not perform maintenance, preventive
-maintenance or modification under subregulation (1), unless he has received, where applicable-
+required by the Act or Regulations made thereunder on aircraft it manufactures, while currently operating under a Production Certificate or under a currently approved production inspection system for such aircraft.
+(2) A person shall not perform maintenance, preventive maintenance or modification under subregulation (1), unless he has received, where applicable-
 (a) basic aeronautical knowledge and skill training
 in the area of maintenance to be undertaken;
 (b) familiarisation training on the aeronautical
@@ -1433,27 +1435,27 @@ product on which maintenance is to be undertaken;
 and documentation;
 (d) training on aircraft maintenance practices
 and procedures;
-(e) training on procedures for introduction into service
-of new equipment with which the maintenance personnel are not familiar;
+(e) training on procedures for introduction into
+service of new equipment with which the maintenance personnel are not familiar;
 (f) continuing training on topics relevant to the
 operations; and
-(g) human factors training in the relevant aviation areas.
+(g) human factors training in the relevant aviation
+areas.
 PERSONS AUTHORISED TO PERFORM INSPECTIONS
-26. A person, shall not perform the inspections required by
-the Act or Regulations made thereunder, for a Trinidad and Tobago aircraft and its aeronautical products prior to or after it has undergone maintenance, preventive maintenance, rebuilding, or modification, unless such person is-
+26. A person, shall not perform the inspections required by the Act or Regulations made thereunder, for a Trinidad and Tobago aircraft and its aeronautical products prior to or after it has undergone maintenance, preventive maintenance, rebuilding, or modification, unless such person is-
 (a) an Aircraft Maintenance Engineer, who may
 conduct the required inspection subject to the limitations of his licence;
 (b) an Approved Maintenance Organisation, who
-may conduct the required inspection subject to its Operations Specification;
+may conduct the required inspection subject to its Operations Specification; [Subsidiary] Civil Aviation [(No. 5) Airworthiness] Regulations
 (c) a national air operator, who may conduct the
 required inspection subject to his Operations
 Specifications; or
-[Subsidiary] Civil Aviation [(No. 5) Airworthiness] Regulations
 (d) a qualified person approved by the Authority to
 perform such inspection.
 PERSONS AUTHORISED TO ISSUE CERTIFICATE OF
 RELEASE TO SERVICE
-27. A person issuing a Certificate of Release to Service specified in regulation 26 shall be-
+27. A person issuing a Certificate of Release to Service
+specified in regulation 26 shall be-
 (a) a pilot authorised by the Authority to perform
 limited preventive maintenance in accordance with regulation 25(1)(a) on specified non-commercial Trinidad and Tobago small aircraft owned or operated by such pilot;
 (b) an Aircraft Maintenance Engineer performing,
@@ -1463,45 +1465,95 @@ the limitations of its Operations Specifications; or
 (d) a national air operator subject to the limitations
 of his Operations Specifications.
 MAINTENANCE PERFORMANCE RULES
-28. (1) A person authorised by these Regulations to perform maintenance or preventive maintenance under regulation 25, on an aeronautical product shall use the methods, techniques and practices prescribed in the current maintenance manual or instructions for continued airworthiness of the manufacturer.
-(2) Notwithstanding the methods, techniques and practices specified in the current maintenance manual or instructions for continued airworthiness under subregulation (1), a person conducting maintenance or preventive maintenance shall-
+28. (1) A person authorised by these Regulations to perform
+maintenance or preventive maintenance under regulation 25, on an aeronautical product shall use the methods, techniques and practices prescribed in the current maintenance manual or instructions for continued airworthiness of the manufacturer.
+(2) Notwithstanding the methods, techniques and practices
+specified in the current maintenance manual or instructions for continued airworthiness under subregulation (1), a person conducting maintenance or preventive maintenance shall-
 (a) where an air operator has an approved maintenance
-control manual which contains the methods, techniques and practices; and [Subsidiary] Civil Aviation [(No. 5) Airworthiness] Regulations
+control manual which contains the methods, techniques and practices; and
+[Subsidiary] Civil Aviation [(No. 5) Airworthiness] Regulations
 (b) where the Director-General prescribes additional
-methods, techniques and practices in accordance with approved equivalent engineering and safety standards,
-comply with such methods, techniques and practices.
-(3) A person authorised by these Regulations to perform
-maintenance or preventive maintenance shall use the tools, equipment, and test apparatus necessary to assure completion of the work in accordance with accepted industry practices.
-(4) Where the manufacturer recommends special equipment
-or test apparatus, the person approved to perform maintenance on such aeronautical product shall use such equipment or apparatus or equivalent equipment or apparatus that is acceptable to the Authority on such aeronautical product.
-(5) A person authorised by these Regulations to perform
-maintenance or preventive maintenance on an aeronautical product which may or may not have been modified shall perform such work in such a manner and use materials of such a quality, that the condition of such aeronautical product upon which such work was performed shall be at least equal to its original or where modified to its modified standard, with regard to aerodynamic function, structural strength, resistance to vibration and deterioration and other qualities affecting airworthiness.
-(6) The methods, techniques and practices contained in
-the Maintenance Control Manual of an air operator and maintenance programme as approved by the Authority will constitute an acceptable means of compliance with this Part.
-(7) A person authorised to perform inspection or other
-maintenance specified in the limitations section of the current maintenance manual of the manufacturer or current instructions for continued airworthiness shall perform such inspection or other maintenance in accordance with that limitations section or in accordance with specifications acceptable to the Authority. Civil Aviation [(No. 5) Airworthiness] Regulations [Subsidiary]
+methods, techniques and practices in accordance with approved equivalent engineering and safety standards, comply with such methods, techniques and practices.
+(3) A person authorised by these Regulations to perform maintenance or preventive maintenance shall use the tools, equipment, and test apparatus necessary to assure completion of the work in accordance with accepted industry practices.
+(4) Where the manufacturer recommends special equipment or test apparatus, the person approved to perform maintenance on such aeronautical product shall use such equipment or apparatus or equivalent equipment or apparatus that is acceptable to the Authority on such aeronautical product.
+(5) A person authorised by these Regulations to perform maintenance or preventive maintenance on an aeronautical product which may or may not have been modified shall perform such work in such a manner and use materials of such a quality, that the condition of such aeronautical product upon which such work was performed shall be at least equal to its original or where modified to its modified standard, with regard to aerodynamic function, structural strength, resistance to vibration and deterioration and other qualities affecting airworthiness.
+(6) The methods, techniques and practices contained in the Maintenance Control Manual of an air operator and maintenance programme as approved by the Authority will constitute an acceptable means of compliance with this Part.
+(7) A person authorised to perform inspection or other maintenance specified in the limitations section of the current maintenance manual of the manufacturer or current instructions for continued airworthiness shall perform such inspection or other maintenance in accordance with that limitations section or in accordance with specifications acceptable to the Authority.
 INSPECTIONS PERFORMANCE RULES
-29. (1) Where a person authorised to perform inspections under these Regulations is required by the Act or Regulations made thereunder to perform an inspection on an aeronautical product he shall perform the inspection so as to determine whether the aeronautical product or portion thereof under inspection, meets all applicable airworthiness requirements.
-(2) Where an inspection programme is required by the maintenance manual of a manufacturer for a specific aeronautical product being inspected under subregulation (1), the person conducting such inspection shall do so in accordance with the instructions and procedures set forth in the inspection programme.
-(3) A person authorised to perform inspections under these Regulations, shall in performing such inspection on a rotorcraft shall conduct such inspections in accordance with the Maintenance Manual or Instructions for Continued Airworthiness of the manufacturer.
+29. (1) Where a person authorised to perform inspections under these Regulations is required by the Act or Regulations [Subsidiary] Civil Aviation [(No. 5) Airworthiness] Regulations
+made thereunder to perform an inspection on an aeronautical product he shall perform the inspection so as to determine whether the aeronautical product or portion thereof under inspection, meets all applicable airworthiness requirements.
+(2) Where an inspection programme is required by the
+maintenance manual of a manufacturer for a specific aeronautical product being inspected under subregulation (1), the person conducting such inspection shall do so in accordance with the instructions and procedures set forth in the inspection programme.
+(3) A person authorised to perform inspections under
+these Regulations, shall in performing such inspection on a rotorcraft shall conduct such inspections in accordance with the Maintenance Manual or Instructions for Continued Airworthiness of the manufacturer.
 ANNUAL AND ONE HUNDRED-HOUR INSPECTIONS AND
 USE OF CHECKLIST
-30. (1) A person authorised to perform an annual or one hundred-hour inspection under these Regulations shall use a checklist while performing such inspection.
-(2) The checklist under subregulation (1), shall include the scope and detail of the required items acceptable to the Authority.
-(3) A person authorised to perform inspections under these Regulations, shall before issuing a Certificate of Release to Service in respect of-
+30. (1) A person authorised to perform an annual or one
+hundred-hour inspection under these Regulations shall use a checklist while performing such inspection.
+(2) The checklist under subregulation (1), shall
+include the scope and detail of the required items acceptable to the Authority.
+(3) A person authorised to perform inspections under
+these Regulations, shall before issuing a Certificate of Release to Service in respect of-
 (a) a reciprocating-engine-powered aircraft; or
-(b) a turbine-engine-powered aircraft, operate the aircraft engine or engines to determine satisfactory performance in accordance with the current recommendations of the aircraft manufacturer after an annual or one hundred-hour inspection. [Subsidiary] Civil Aviation [(No. 5) Airworthiness] Regulations
+(b) a turbine-engine-powered aircraft,
+operate the aircraft engine or engines to determine satisfactory performance in accordance with the current recommendations of the aircraft manufacturer after an annual or one hundred-hour inspection.
 ISSUE OF CERTIFICATE OF RELEASE TO SERVICE
 31. (1) Where a person authorised to perform inspections
-under these Regulations is satisfied that an aeronautical product which has undergone maintenance or preventive maintenance or rebuilding is airworthy or serviceable as required under these Regulations, he shall issue a Certificate of Release to Service in respect of such aeronautical product.
-(2) The person authorised to perform inspections under
-the Act, or Regulations made thereunder, who finds that the aircraft is not airworthy, shall not issue a Certificate of Release to Service and shall provide the operator of the aeronautical product with a signed and dated list of such discrepancies.
-(3) An aeronautical product under subregulation (2),
-shall not be issued a Certificate of Release to Service until all discrepancies identified in the listing have been addressed satisfactorily.
+under these Regulations is satisfied that an aeronautical product which has undergone maintenance or preventive maintenance or Civil Aviation [(No. 5) Airworthiness] Regulations [Subsidiary]
+rebuilding is airworthy or serviceable as required under these Regulations, he shall issue a Certificate of Release to Service in respect of such aeronautical product.
+(2) The person authorised to perform inspections under the Act, or Regulations made thereunder, who finds that the aircraft is not airworthy, shall not issue a Certificate of Release to Service and shall provide the operator of the aeronautical product with a signed and dated list of such discrepancies.
+(3) An aeronautical product under subregulation (2), shall not be issued a Certificate of Release to Service until all discrepancies identified in the listing have been addressed satisfactorily.
+CERTIFICATE OF MAINTENANCE REVIEW
+31A. (1) A person shall not operate a Trinidad and Tobago aircraft in civil aircraft operations unless there is in force a Certificate of Maintenance Review in the form set out in Schedule 3 in respect of such aircraft.
+(2) A Certificate of Maintenance Review shall be issued in respect of an aircraft where the-
+(a) inspections classified in the Approved
+Maintenance Programme;
+(b) Airworthiness Directives of the State of Design
+and State of Manufacture;
+(c) Special Airworthiness Directives issued by the
+Authority; and
+(d) mandatory and alert service bulletins issued by
+the manufacturer, have been accomplished as prescribed for such aircraft.
+(3) Where the requirements for the issue of a Certificate of Maintenance Review in subregulation (2) have been satisfied for-
+(a) an aeroplane or helicopter engaged in
+commercial air transport operations;
+(b) an aeroplane 5 700 kilogrammes and more
+maximum certified take-off mass; or [Subsidiary] Civil Aviation [(No. 5) Airworthiness] Regulations
+(c) a helicopter 2 730 kilogrammes and more
+maximum certified take-off mass,
+a Certificate of Maintenance Review shall be issued by-
+(i) an operator under an equivalent system
+of maintenance, approved by the Authority; or
+(ii) an approved maintenance organisation
+designated by the operator.
+(4) Where the requirements for the issue of a Certificate of
+Maintenance Review in subregulation (2) have been satisfied for-
+(a) an aeroplane of less than 5 700 kilogrammes
+maximum certified take-off mass not engaged in commercial air transport operations; or
+(b) a helicopter of less than 2 730 kilogrammes
+maximum certified take-off mass, not engaged in commercial air transport operations,
+a Certificate of Maintenance Review shall be issued by-
+(i) an operator under an equivalent system of
+maintenance, approved by the Authority;
+(ii) an approved maintenance organisation
+designated by the operator; or
+(iii) the holder of an Aircraft Maintenance
+Engineer Licence with an appropriate type rating, designated by the operator of such aeroplane or helicopter.
+(5) A Certificate of Maintenance Review shall be valid
+for a period of six months from the date of issue.
+(6) An operator of a Trinidad and Tobago aircraft shall
+ensure that a valid Certificate of Maintenance Review is carried on board such aircraft during all civil aviation operations.
+(7) The requirements of this regulation shall come into
+effect on-
+(a) 1st July 2009 for aircraft having more than
+nineteen passenger seats; and
+(b) 1st January 2010 for aircraft having nineteen
+passenger seats or less.
+(8) An operator may meet the requirements of this
+regulation at any time before the date specified in subregulation (7). Civil Aviation [(No. 5) Airworthiness] Regulations [Subsidiary]
 PERFORMANCE RULES, CERTIFICATE OF RELEASE TO
 SERVICE
-32. A person authorised to perform inspections under these
-Regulations shall not issue a Certificate of Release to Service for any aeronautical product under regulation 31 unless-
+32. A person authorised to perform inspections under these Regulations shall not issue a Certificate of Release to Service for any aeronautical product under regulation 31 unless-
 (a) the appropriate maintenance record entry has
 been made;
 (b) the repair or modification form has been completed
@@ -1510,7 +1562,6 @@ in the manner prescribed by the Authority;
 limitations or flight data contained in the approved Aircraft Flight Manual required to be revised as a result of a repair or modification are appropriately revised;
 (d) he used up to date approved data company
 procedures as applicable, recommended an calibrated tools and test equipment and an appropriate environment to perform the inspections; and
-Civil Aviation [(No. 5) Airworthiness] Regulations [Subsidiary]
 (e) the appropriate Release to Service check has
 been satisfactorily performed.
 PART IV
@@ -1522,12 +1573,14 @@ PREVENTIVE MAINTENANCE, REBUILDING, AND MODIFICATION
 OF RECORDS
 34. (1) A person who is authorised under these Regulations to perform maintenance, preventive maintenance, rebuild an aircraft or aeronautical product shall, when the work is performed satisfactorily, make the following entry in the maintenance record of such aircraft or aeronautical product:
 (a) a description and reference to data acceptable
-to the Authority of the work performed;
+to the Authority of the work performed; [Subsidiary] Civil Aviation [(No. 5) Airworthiness] Regulations
 (b) the completion date of the work performed; and
 (c) the name, signature and licence or authorisation
 number and kind of licence or authorisation as applicable, held by such person.
-(2) A person performing a major repair or major modification shall record the details of such major repair or major modifications in the form and manner prescribed by the Authority.
-(3) A person working under the supervision of an Aircraft Maintenance Engineer shall not perform any inspection required by the Civil Aviation [(No. 2) Operations] Regulations or any inspection performed after a major repair or modification. [Subsidiary] Civil Aviation [(No. 5) Airworthiness] Regulations
+(2) A person performing a major repair or major
+modification shall record the details of such major repair or major modifications in the form and manner prescribed by the Authority.
+(3) A person working under the supervision of an
+Aircraft Maintenance Engineer shall not perform any inspection required by the Civil Aviation [(No. 2) Operations] Regulations or any inspection performed after a major repair or modification.
 RECORDS OF OVERHAUL AND REBUILDING
 35. (1) A person shall not describe an aeronautical product
 as being overhauled in any Maintenance Record, unless such aeronautical product has been-
@@ -1536,18 +1589,16 @@ repaired as necessary and reassembled using methods, techniques and practices ac
 (b) tested in accordance with approved standards
 and technical data, or in accordance with current standards and technical data acceptable to the Authority, which have been developed and documented by the holder of the Type Certificate, Supplemental Type Certificate, or a material, part, process or appliance manufacturing approval.
 (2) A person shall not describe an aeronautical product
-as being rebuilt in any maintenance record, unless it has been disassembled, cleaned, inspected as permitted, repaired as necessary, reassembled, and tested to the same tolerances and limits as a new item, using either new parts or used parts that conform to new part tolerances and limits.
+as being rebuilt in any maintenance record, unless it has been disassembled, cleaned, inspected as permitted, repaired as necessary, reassembled, and tested to the same tolerances and limits as a new item, using either new parts or used parts that conform to new part tolerances and limits. Civil Aviation [(No. 5) Airworthiness] Regulations [Subsidiary]
 CONTENT, FORM, AND DISPOSITION OF RECORDS
 FOR INSPECTIONS
-36. (1) A person authorised to issue a Certificate of Release
-to Service under the Act or Regulations made thereunder, for an aeronautical product after performing an inspection in accordance with the Act or Regulations made thereunder, shall enter in the maintenance record of such aeronautical product-
+36. (1) A person authorised to issue a Certificate of Release to Service under the Act or Regulations made thereunder, for an aeronautical product after performing an inspection in accordance with the Act or Regulations made thereunder, shall enter in the maintenance record of such aeronautical product-
 (a) the type of inspection and a brief description of
 the extent of the inspection;
 (b) the date of the inspection and aircraft total time
 in service;
 (c) his name, signature, licence number and kind of
 licence where the Certificate of Release to Service is issued under the privileges of his licence;
-Civil Aviation [(No. 5) Airworthiness] Regulations [Subsidiary]
 (d) his name, signature or stamp, authorisation
 number and approved Maintenance Organisation approval number where the Certificate of Release to Service is issued under the privileges of the approved Maintenance Organisation certificate; and
 (e) the inspection programme accomplished and a
@@ -1555,9 +1606,11 @@ statement that the inspection was performed in accordance with the inspections a
 Regulations made thereunder.
 (2) Where the aeronautical product is found to be airworthy the person authorised to issue a Certificate of Release to Service under subregulation (1) shall append his signature in a statement set out in Part A of Schedule 2.
 (3) Where the aircraft is not approved for return to service because of needed maintenance, non-compliance with applicable specifications, airworthiness directives or other approved data, the person performing the inspection shall append his signature on a statement set out in Part B of Schedule 2.
-(4) A person authorised to perform an inspection required by the Civil Aviation [(No. 2) Operations] Regulations who finds that the aircraft is not airworthy or does not meet the applicable type certificate data sheet, airworthiness directives or approved data requirements, upon which its airworthiness depends, shall give the aircraft operator a signed and dated list of those discrepancies and unairworthy items.
+(4) A person authorised to perform an inspection required by the Civil Aviation [(No. 2) Operations] Regulations [Subsidiary] Civil Aviation [(No. 5) Airworthiness] Regulations
+who finds that the aircraft is not airworthy or does not meet the applicable type certificate data sheet, airworthiness directives or approved data requirements, upon which its airworthiness depends, shall give the aircraft operator a signed and dated list of those discrepancies and unairworthy items.
 IMPLEMENTING STANDARDS
-37. A national air operator in meeting the requirements of regulations 16, 18, 19, 23, 25, 30, 34, 35 and 36, shall ensure that he complies with the minimum standards set out in Schedule 3. [Subsidiary] Civil Aviation [(No. 5) Airworthiness] Regulations
+37. A national air operator in meeting the requirements of
+regulations 16, 18, 19, 23, 25, 30, 31A, 34, 35 and 36, shall ensure that he complies with the minimum standards set out in Schedule 3.
 DIRECTOR-GENERAL MAY AMEND SCHEDULES
 38. The Director-General may by Order amend any of
 the Schedules.
@@ -1565,10 +1618,10 @@ TRANSITIONAL PROVISIONS
 39. (1) The airworthiness requirements of all Trinidad and
 Tobago aircraft and aeronautical products under these Regulations shall come into effect ten months from the date of publication of these Regulations.
 (2) Notwithstanding the requirements of subregulation (1),
-a person who on the commencement of these Regulations holds a valid Airworthiness Certificate for an aircraft may continue to operate such aircraft under the conditions of his existing Airworthiness Certificate until 24th September, 2005, and thereafter shall meet the requirements of these Regulations.
+a person who on the commencement of these Regulations holds a valid Airworthiness Certificate for an aircraft may continue to operate such aircraft under the conditions of his existing Airworthiness Certificate until 24th September 2005, and thereafter shall meet the requirements of these Regulations.
 (3) Notwithstanding subregulation (2), an operator of
-an aircraft of maximum certified take-off mass of less than 20,000 kilogrammes shall meet the requirements of these Regulations on or before 1st October, 2007.
-- Margin: [Regulation 95(1)]. [224/2005 187/2006].
+an aircraft of maximum certified take-off mass of less than 20 000 kilogrammes shall meet the requirements of these Regulations on or before 1st October 2009. Civil Aviation [(No. 5) Airworthiness] Regulations [Subsidiary]
+- Margin: Regulation 95(1). [224/2005 187/2006].
 - Margin: 103/2004. [225/2005].
 - Margin: Citation.
 - Margin: Interpretation.
@@ -1596,18 +1649,17 @@ an aircraft of maximum certified take-off mass of less than 20,000 kilogrammes s
 - Margin: Identification plates required.
 - Margin: Removal, replacement and attachment of and alteration of information on aircraft identification plates.
 - Margin: Director- General to amend Schedules.
-- Margin: 104/2004. [276/2004. 304/2004 33/2005 226/2005 188/2006 287/2006 48/2007].
-- Margin: Citation.
-- Margin: Interpretation. [304/2004 188/2006 48/2007].
+- Margin: 104/2004. [276/2004. 304/2004 33/2005 226/2005 188/2006 287/2006 48/2007 32/2008 199/2009]. Citation.
+- Margin: Interpretation. [304/2004 188/2006 48/2007 199/2009].
 - Margin: Sub. Leg.
 - Margin: General Applicability of these Regulations.
 - Margin: Sub Leg.
-- Margin: General Applicability of Part I.
+- Margin: General applicability of Part I.
 - Margin: Application for Type Certificate.
 - Margin: Application for Production Certificate.
 - Margin: Application for a new Type Certificate.
 - Margin: Supplemental Type Certificate.
-- Margin: Application of Part II.
+- Margin: Application of Part II. [199/2009].
 - Margin: Restriction on operation of aircraft without Airworthiness Certificate.
 - Margin: Requirements for the issue of Airworthiness Certificate. [226/2005].
 - Margin: Schedule 1.
@@ -1619,7 +1671,7 @@ an aircraft of maximum certified take-off mass of less than 20,000 kilogrammes s
 - Margin: Continued validity of Airworthiness Certificate. [226/2005].
 - Margin: Contents of an Airworthiness Certificate. [188/2006].
 - Margin: Requirement of air operator to maintain records for identification of type design.
-- Margin: Requirements for continued airworthiness of aircraft and aeronautical products. [226/2005].
+- Margin: Requirements for continued airworthiness of aircraft and aeronautical products. [226/2005 199/2009].
 - Margin: Requirements for Aircraft Maintenance Programme. [226/2005].
 - Margin: Sub. Leg.
 - Margin: Sub. Leg
@@ -1628,7 +1680,7 @@ an aircraft of maximum certified take-off mass of less than 20,000 kilogrammes s
 - Margin: Requirements for reporting of failures, malfunctions and defects. [226/2005].
 - Margin: Procedures for major modification and major repairs. [226/2005].
 - Margin: Applicability. [48/2007].
-- Margin: Standard for noise. [48/2007].
+- Margin: Standards for noise. [48/2007].
 - Margin: Restriction on operations without noise validation certificate. [48/2007].
 - Margin: Requirements for the issue of a noise validation certificate. [48/2007].
 - Margin: Continued validity of a noise validation certificate. [48/2007].
@@ -1641,15 +1693,16 @@ an aircraft of maximum certified take-off mass of less than 20,000 kilogrammes s
 - Margin: Requirements for inspections performance rules.
 - Margin: Requirements for annual and one hundred- hour inspections and use of a checklist.
 - Margin: Issue of Certificate of Release to Service.
+- Margin: Certificate of Maintenance Review. [199/2009].
 - Margin: Required Performance Rules, Certificate of Release to Service.
 - Margin: Applicability for Part IV.
 - Margin: Content, form, and disposition of maintenance, preventive maintenance, rebuilding, and modification of records.
 - Margin: Sub. Leg.
 - Margin: Requirement for records of overhaul and rebuilding.
 - Margin: Required content, form, and disposition of records for inspections.
-- Margin: Part A. Schedule 2.
-- Margin: Part B. Schedule 2.
+- Margin: Schedule 2. Part A.
+- Margin: Schedule 2. Part B.
 - Margin: Sub. Leg.
-- Margin: Air operator to comply with implementing standards. Schedule 3.
+- Margin: Air operator to comply with implementing standards. [199/2009]. Schedule 3.
 - Margin: Director- General to amend Schedules.
-- Margin: Transitional provisions. [276/2004 33/2005 226/2005 287/2006].
+- Margin: Transitional provisions. [276/2004 33/2005 226/2005 287/2006 32/2008].

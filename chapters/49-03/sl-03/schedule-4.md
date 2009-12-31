@@ -117,8 +117,8 @@ the main passenger aisle.
 3. There shall be an emergency exit locating sign-
 (a) above the aisle near each over-the-wing passenger
 emergency exit, or at another ceiling location if it is more practical because of low headroom;
-(b) next to each floor level passenger emergency exit, except
-that one sign may serve two such exits if they both can be seen readily from that sign; and
+(b) next to each floor level passenger emergency exit, except that
+one sign may serve two such exits if they both can be seen readily from that sign; and
 (c) on each bulkhead or divider that prevents fore and aft vision
 along the passenger cabin, to indicate emergency exits beyond and obscured by it, except that if this is not possible, the sign may be placed at another appropriate location.
 4. Each passenger emergency exit marking and each locating sign shall
@@ -161,7 +161,7 @@ from the outside shall be marked on the outside of the aeroplane with a 2-inch c
 readily distinguishable from the surrounding fuselage area by contrast in colour and shall comply with the following:
 (a) if the reflectance of the darker colour is 15 per cent or less, the
 reflectance of the lighter colour shall be at least 45 per cent;
-(b) if the reflectance of the darker colour is greater than 15 percent,
+(b) if the reflectance of the darker colour is greater than 15 per cent,
 at least a 30 per cent difference between its reflectance and the reflectance of the lighter colour shall be provided; and
 Note: "Reflectance" is the ratio of the luminous flux reflected by a body to the luminous
 flux it receives.
@@ -222,15 +222,15 @@ pressure altitude exceeds 13,000 deck duty flight feet and entire time when the 
 (a) thirty minutes for
 aeroplanes certified to fly at altitudes not exceeding 25,000 feet (Note 2); and
 (b) two hours for aeroplanes
-certified to fly at altitudes more than 25,000 feet (Note 3).
+certified to fly at altitudes more than 25,000 feet (Note 3)
 2. All required cabin crew members Entire flight time when cabin
-pressure altitude exceeds 13,000 feet but not less than 30 minutes and entire flight time when cabin pressure altitude is greater than 10,000 feet but does not exceed 13,000 feet after the first thirty minutes at these altitudes (Note 2).
+pressure altitude exceeds 13,000 feet but not less than 30 minutes and entire flight time when cabin pressure altitude is greater than 10,000 feet but does not exceed 13,000 feet after the first thirty minutes at these altitudes (Note 2)
 3. 100% of passengers 10 minutes or the entire flight time
-when the cabin pressure altitude exceeds 15,000 feet whichever is the greater (Note 4).
+when the cabin pressure altitude exceeds 15,000 feet whichever is the greater (Note 4)
 4. 30% of passengers Entire flight time when the cabin
-pressure altitude exceeds 14,000 feet but does not exceed 15,000 feet.
+pressure altitude exceeds 14,000 feet but does not exceed 15,000 feet
 5. 10% of passengers Entire flight time when the cabin
-pressure altitude exceeds 10,000 feet but does not exceed 14,000 feet after the first 30 minutes at these altitudes.
+pressure altitude exceeds 10,000 feet but does not exceed 14,000 feet after the first 30 minutes at these altitudes
 Civil Aviation [(No. 7) Instruments and Equipment] Regulations [Subsidiary]
 Note 1: The supply provided shall take account of the cabin pressure altitude and
 descent profile for the routes concerned.
@@ -249,16 +249,19 @@ REGULATION
 PART I
 PROHIBITION ORDERS
 4. Power of the Director-General to issue prohibition orders.
+PART IA
+NATIONAL SECURITY PROGRAMMES
+4A. National Security Programmes. 4B. Management and response to acts of unlawful interference. 4C. International co-operation.
 PART II
 SECURITY PROGRAMME
 5. Restrictions on aerodrome operators and aircraft operators in respect
 of security programmes.
-6. Additional requirements for applications under regulation 5. 7. Acceptance of a proposed security programme. 8. Contents of an Aerodrome Operator Security Programme. 9. Aerodrome operator to develop security measures. 10. Approval of Aerodrome Operator Security Programme. 11. Aircraft Operator security programme to develop security measures. 12. Contents of Aircraft Operator Security Programme. 13. Aircraft operator to ensure accepted Aircraft Operator Security
-Programme is implemented.
-14. Contents of a Regulated Agent Security Programme. 15. Approval of Regulated Agent Security Programme. 16. Contents of a Catering Operator Security Programme. 17. Approval of Catering Operator Security Programme. 18. Procedures where changed conditions affect aerodrome security.
+6. Additional requirements for applications under regulation 5. 7. Acceptance of a proposed security programme. 8. Contents of an Aerodrome Operator Security Programme. 9. Aerodrome operator to develop security measures. 10. Approval of Aerodrome Operator Security Programme. 11. Aircraft Operator security programme to develop security measures. 12. Contents of Aircraft Operator Security Programme.
 Civil Aviation [(No. 8) Aviation Security] Regulations [Subsidiary]
 REGULATION
-19. Amendments to approved Security Programme. 20. Amendments to approved Security Programme upon request
+13. Aircraft operator to ensure accepted Aircraft Operator Security
+Programme is implemented.
+14. Contents of a Regulated Agent Security Programme. 15. Approval of Regulated Agent Security Programme. 16. Contents of a Catering Operator Security Programme. 17. Approval of Catering Operator Security Programme. 18. Procedures where changed conditions affect aerodrome security. 19. Amendments to approved Security Programme. 20. Amendments to approved Security Programme upon request
 by Authority.
 PART III
 AERODROME SECURITY
@@ -272,17 +275,19 @@ notified.
 reproductions.
 33. Aerodrome operator to control access to and within aerodrome. 34. Aerodrome operator to establish and use aerodrome identification
 media system.
+34A. Director-General and Inspector to have unrestricted access to
+aerodromes. [Subsidiary] Civil Aviation [(No. 8) Aviation Security] Regulations
+ARRANGEMENT OF REGULATIONS-Continued
+REGULATION
 35. Requirements of aerodrome operator when conducting passenger
 screening on behalf of aircraft operator.
 36. Requirement of aerodrome operator to keep records. 37. Aerodrome operator to provide evidence of compliance. 38. Designation of aerodrome security co-ordinator. 39. Aerodrome operator to take necessary measures in event of specific
-threat at aerodrome. [Subsidiary] Civil Aviation [(No. 8) Aviation Security] Regulations
-ARRANGEMENT OF REGULATIONS-Continued
-REGULATION
+threat at aerodrome.
 40. Obligation of aerodrome operator where threat is against facility
 or aerodrome.
 41. Person authorised to screen to inform aerodrome operator of threat
 against aerodrome.
-42. Aerodrome operator to take measures in event of specific threat. 43. Aerodrome operator to notify Authority in discovery of weapons,
+42. (Revoked by LN 95/2009). 43. Aerodrome operator to notify Authority in discovery of weapons,
 incendiary devices or explosives at aerodrome.
 44. Aerodrome operator to keep map of aerodrome. 45. Aerodrome operator to provide information and map of aerodrome
 to Authority.
@@ -296,19 +301,18 @@ by passengers on board an aircraft.
 aircraft or flight.
 52. An aircraft operator to notify where Authority in specific
 circumstances.
-53. Obligation of person authorised to conduct screening activities. 54. An aircraft operator to provide Authority with information on the
+53. Obligation of person authorised to conduct screening activities.
+Civil Aviation [(No. 8) Aviation Security] Regulations [Subsidiary]
+REGULATION
+54. An aircraft operator to provide Authority with information on the
 security of his operations.
 55. Persons who provide services to an aircraft operator and who
 transport goods to provide Authority with information on the security of their operations.
-Civil Aviation [(No. 8) Aviation Security] Regulations [Subsidiary]
-REGULATION
 56. Person authorised to screen on behalf of aircraft operator to provide
 Authority with information on the security of his operations.
 57. National aircraft operator to use explosive detection system to
 screen checked baggage.
-58. Procedures for the carriage of passengers in the custody of escort
-officer.
-59. Restrictions on use of persons as Security Co-ordinator by a national
+58. Procedures for the carriage of passengers in the custody of escort officer. 59. Restrictions on use of persons as Security Co-ordinator by a national
 aircraft operator.
 60. Security obligations of an aircraft operator.
 PART V
@@ -323,5 +327,9 @@ catering operator.
 66. Inspection of goods offered for transport by regulated agent.
 PART VII
 MISCELLANEOUS
-67. Procedure for the protection of sensitive security information. 68. Director-General to prescribe aviation security standards. 69. Issue of Security Directive or information circular. 70. Requirements to submit to search of goods and person. 71. Restrictions of passengers. [Subsidiary] Civil Aviation [(No. 8) Aviation Security] Regulations
-- Margin: (Regulation 73).
+67. Protection of sensitive security information.
+67A. Quality control.
+68. Director-General to prescribe aviation security standards. [Subsidiary] Civil Aviation [(No. 8) Aviation Security] Regulations
+- Margin: Regulation 73.
+- Margin: Sub. Leg.
+- Margin: Sub. Leg.

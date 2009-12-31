@@ -6,11 +6,11 @@ Training Syllabi for all operations personnel assigned to operational duties in 
 1.2 Flight Crew
 The training syllabi for flight crew members shall include-
 (a) a written training acceptable to the authority that provides for
-initial, transition, difference, and recurrent training, as appropriate, for flight deck crew members for each type of aircraft flown by that crew member. This written training shall include both normal and emergency procedures training applicable for each type of aircraft flown by the crew member;
+initial, transition, difference, and recurrent training, as appropriate, for flight deck crew members for each type of aircraft flown by that crew member. This written training shall include both normal and emergency procedures training applicable for each type of aircraft flown by the crew member; [Subsidiary] Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations
 (b) adequate ground and flight training facilities and properly
 qualified instructors required to meet training objectives and needs;
 (c) a current list of approved training materials, equipment,
-training devices, simulators, and other required training items needed to meet the training needs for each type and variation of aircraft flown by the national air operator; [Subsidiary] Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations
+training devices, simulators, and other required training items needed to meet the training needs for each type and variation of aircraft flown by the national air operator;
 (d) adequate numbers of ground, flight, and check pilots to ensure
 adequate training and flight testing of flight crew members;
 (e) a record system acceptable to the authority to show compliance
@@ -39,10 +39,11 @@ air operator;
 and the operating manual of a national air operator;
 (e) appropriate flight training;
 (f) appropriate recurrent, upgrade, or difference training, as
-required, to maintain currency in both type and any variance the crew member may be required to work in; and
+required, to maintain currency in both type and any variance
+Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations [Subsidiary]
+the crew member may be required to work in; and
 (g) maintain a training record system acceptable to the authority
 to show compliance with all required training.
-Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations [Subsidiary]
 1.4 All Aircraft Crew
 The written training shall be developed for all aircraft crew members in the emergency procedures appropriate to each make and model of aircraft flown in by the crew member. Areas shall include-
 (a) instruction in emergency procedures, assignments and crew
@@ -72,4 +73,4 @@ application of part or all abnormal or emergency procedures, and simulation of I
 3.1 Documentation to be stored and storage periods
 A national air operator shall retain all documentation required by appropriate Authority
 or the Authority of a foreign country in which the national air operator is operating for the time specified by the respective Authority or for the time period needed to show compliance with appropriate regulations or this operations manual, which is longer.
-- Margin: [Regulation 38(1)]. [224/2005 47/2007].
+- Margin: Regulation 38(1). [224/2005 47/2007].

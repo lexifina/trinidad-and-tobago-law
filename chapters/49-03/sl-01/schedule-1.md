@@ -19,5 +19,5 @@ be due within one hundred hours of that complete inspection;
 determining when the annual and one hundred-hour inspections are due, requires a detailed inspection of the aircraft and all its components in accordance with the progressive inspection programme;
 (i) a routine inspection of an aircraft and a detailed inspection of
 several components are not considered to be a complete inspection, required under paragraph (h).
-[Subsidiary] Civil Aviation [(No. 2) Operations] Regulations Civil Aviation [(No. 2) Operations] Regulations
-- Margin: (Regulation 29).
+[Subsidiary] Civil Aviation [(No. 2) Operations] Regulations
+- Margin: Regulation 29.

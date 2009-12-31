@@ -14,7 +14,8 @@ PART I: GENERAL ORGANISATION
 (d) duties and responsibilities;
 (e) organisation chart(s); and
 (f) manpower resources and training policy.
-1.4 Notification procedure to the Authority regarding changes to the maintenance arrangements.
+1.4 Notification procedure to the Authority regarding changes to the
+maintenance arrangements.
 1.5 Manual amendment procedures.
 PART 2: MAINTENANCE PROCEDURES
 2.1 Aircraft logbook utilisation and Minimum Equipment List application.
@@ -45,4 +46,4 @@ information (Airworthiness Directives).
 2.13 Sample of documents, tags and forms used.
 2.14 Flight test procedures.
 2.15 Appropriate portions of the operating manual of the air operator.
-- Margin: [Regulation 76(5)].
+- Margin: Regulation 76(5).

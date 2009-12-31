@@ -14,14 +14,13 @@ The fixed pecuniary penalty is ...
 (Penalty in words and figures)
 If the aforementioned amount is paid to the Authority within twenty-
 one (21) days from the date of this notice, no proceedings will be taken and any liability to conviction for the offence will be discharged.
-In paying the fixed pecuniary penalty the following conditions shall be
-observed:
-(a) The fixed pecuniary penalty shall be accompanied by this
+In paying the fixed pecuniary penalty the following conditions shall be observed:
+(a) the fixed pecuniary penalty shall be accompanied by this
 Notice;
-(b) Where payment of the fixed pecuniary penalty is not made
-in conformity with these Regulations, the payment shall be refunded to the alleged offender and, thereafter, proceedings shall be instituted against the offender;
-(c) Where an alleged offender is convicted he shall be liable to
-a fine or term of imprisonment or both in accordance with the applicable provision of the Civil Aviation Act.
+(b) where payment of the fixed pecuniary penalty is not made in
+conformity with these Regulations, the payment shall be refunded to the alleged offender and, thereafter, proceedings shall be instituted against the offender;
+(c) where an alleged offender is convicted he shall be liable to a
+fine or term of imprisonment or both in accordance with the applicable provision of the Civil Aviation Act.
 Civil Aviation [(No. 16) Compounding of Offences] [Subsidiary]
 (Pecuniary Penalties) Regulations
 SCHEDULE 2-Continued
@@ -339,7 +338,7 @@ adopt such other method of disposal as the Committee may consider proper or desi
 (c) partnerships, unless the prior written approval of the Minister is obtained.
 30. With respect to any matter not expressly provided for in these Rules, the Committee may be guided by the provisions of the Central Tenders Board Act, as amended, from time to time, in so far as those provisions are not inconsistent with the directives and policies expressed or implied in these Rules.
 31. The Board of the Authority may vary, rescind or amend these Rules by resolution of the Authority and with the written approval of the Minister.
-- Margin: (Regulation 4).
+- Margin: Regulation 4.
 - Margin: 307/2004.
 - Margin: Citation.
 - Margin: Interpretation.

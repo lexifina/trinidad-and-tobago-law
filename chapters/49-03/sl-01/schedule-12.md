@@ -4,7 +4,7 @@ The following standards are numbered to correspond numerically with the relevant
 Regulation 8
 Inoperative Instruments and equipment under regulation 8 shall meet the following minimum standards:
 (a) this implementing standard authorises flight operations with
-inoperative instruments and equipment installed in situations where no master minimum equipment list is available and no Minimum Equipment List is required for the specific aircraft operation under these Regulations.
+inoperative instruments and equipment installed in situations where no master minimum equipment list is available and no Minimum Equipment List is required for the specific aircraft operation under these Regulations;
 (b) the inoperative instruments and equipment shall not be-
 (i) part of the Visual Flight Rules-day instruments and
 equipment prescribed in the Act or Regulations made thereunder;
@@ -12,7 +12,7 @@ equipment prescribed in the Act or Regulations made thereunder;
 operations equipment list for the kind of flight operation being conducted;
 (iii) required by the Act or Regulations made thereunder for
 the specific kind of flight operation being conducted; or
-(iv) required to be operational by an airworthiness directive.
+(iv) required to be operational by an airworthiness directive;
 (c) to be eligible for these provisions, the inoperative
 instruments and equipment shall be-
 (i) determined by the pilot in command not to be a hazard
@@ -31,7 +31,7 @@ Regulation 13
 The safe transport of dangerous goods under regulation 13 shall meet the
 following minimum standards:
 (a) the Authority shall stipulate the scope of approval after being
-satisfied that the applicant has complied with the provisions of the International Civil Aviation Organisation Technical Instructions.
+satisfied that the applicant has complied with the provisions of the International Civil Aviation Organisation Technical Instructions;
 (b) notwithstanding, where dangerous goods are to be
 transported outside the territory of Trinidad and Tobago, the operator shall comply with the appropriate variations noted by contracting States the International Civil Aviation Organisation Technical Instructions as amended.
 Regulation 15
@@ -73,7 +73,7 @@ Emergencey Procedures x Note: x indicates an area to be covered.
 goods shall ensure that-
 (i) personnel engaged in the acceptance of dangerous
 goods have received training and are qualified to carry out their duties. As a minimum, such training shall cover the areas identified in Column 1 of Table 2 and be to a depth sufficient to ensure that staff can make decisions on the acceptance or refusal of dangerous goods offered for carriage by air;
-[Subsidiary]
+[Subsidiary] Civil Aviation [(No. 2) Operations] Regulations
 (ii) personnel engaged in ground handling, storage and
 loading of dangerous goods have received training to enable them to carry out their duties in respect of dangerous goods. At a minimum, this training shall cover the areas identified in Column 2 of Table 2 and be to a depth sufficient to ensure that an awareness is gained of the hazards associated with dangerous goods, how to identify such goods and how to handle and load them;
 (iii) personnel engaged in general cargo handling have
@@ -85,7 +85,7 @@ the operator who deal with the screening of passengers and their baggage; and cr
 (e) a national air operator shall ensure that all personnel who
 require dangerous goods training receive recurrent training at intervals of not longer than two years;
 (f) a national air operator shall ensure that records of dangerous
-goods training are maintained for all personnel who required such training and that these records are maintained at the location where the personnel perform such duties; [Subsidiary] Civil Aviation [(No. 2) Operations] Regulations Civil Aviation [(No. 2) Operations] Regulations
+goods training are maintained for all personnel who required such training and that these records are maintained at the location where the personnel perform such duties; [Subsidiary] Civil Aviation [(No. 2) Operations] Regulations
 (g) a national air operator shall ensure that its handling agent's
 staff is trained in accordance with the applicable column of Table 1 or Table 2;
 Table 2
@@ -100,7 +100,7 @@ Segregation
 Inspections for damage or leakage and x x
 Decontamination Procedures
 Provision of information to pilot in command x x x Dangerous Goods in Passengers' Baggage x x x Emergency Procedures x x x x
-Note: x indicates an area to be covered.
+x indicates an area to be covered.
 (h) a national air operator shall provide dangerous goods
 training manuals which contain adequate procedures and information to assist personnel in identifying packages marked or labelled as containing hazardous materials including-
 (i) instructions on the acceptance, handling, and carriage
@@ -108,7 +108,7 @@ of hazardous materials;
 (ii) instructions governing the determination of proper
 shipping names and hazard classes; and
 (iii) packaging, labelling, and marking requirements.
-[Subsidiary] Civil Aviation [(No. 2) Operations] Regulations Civil Aviation [(No. 2) Operations] Regulations
+[Subsidiary] Civil Aviation [(No. 2) Operations] Regulations
 Regulation 25
 Dangerous Goods incidents and accidents under regulation 25 shall be reported in accordance with the following minimum standards:
 (a) reports of dangerous goods incidents and accidents are to be
@@ -125,7 +125,7 @@ The transfer of maintenance records under regulation 33 shall meet the requireme
 Regulation 35
 Training to competency in the use of ACAS II equipment and the avoidance of collisions may be evidenced by, the following:
 (a) possession of a type rating for an aeroplane equipped with
-ACASII, where the operation and use of ACAS II are included in the training syllabus for the type rating; [Subsidiary] Civil Aviation [(No. 2) Operations] Regulations Civil Aviation [(No. 2) Operations] Regulations
+ACASII, where the operation and use of ACAS II are included in the training syllabus for the type rating; [Subsidiary] Civil Aviation [(No. 2) Operations] Regulations
 (b) possession of a document issued by a training organisation or
 person approved by the Authority to conduct training for pilots in the use of ACAS II, indicating that the holder has been trained in accordance with guidelines referred to in paragraph (a); or
 (c) a comprehensive pre-flight briefing by a pilot who has been
@@ -138,13 +138,12 @@ be in compliance with regulation 46(4), 46(5) or 50 and upon the request of the 
 Regulation 52
 Flight crew members at duty stations under regulation 52 shall meet the
 following minimum standards:
-(a) a required flight crew member shall leave the assigned duty
-station if he is taking a rest period, and relief is provided-
+a required flight crew member shall leave the assigned duty station if he is taking a rest period, and relief is provided-
 (i) for the assigned pilot in command during the en route
 cruise portion of the flight by a pilot who holds an Airline Transport Pilot Licence and an appropriate type rating, and who is currently qualified as pilot in command or co-pilot, and is qualified as pilot in command of that aircraft during the en route cruise portion of the flight; and
 (ii) in the case of the assigned co-pilot, by a pilot qualified
 to act as pilot in command or co-pilot of that aircraft during en route operations.
-[Subsidiary] Civil Aviation [(No. 2) Operations] Regulations Civil Aviation [(No. 2) Operations] Regulations
+[Subsidiary] Civil Aviation [(No. 2) Operations] Regulations
 Regulation 61
 The management of fuel in flight under regulation 61 shall meet the following minimum standards:
 (a) in-flight fuel checks:
@@ -157,11 +156,11 @@ complete the flight;
 (C) determine the expected fuel remaining on arrival
 at the destination; and
 (ii) the relevant fuel data shall be recorded;
-(b) in-flight fuel management-
+(b) in-flight fuel management:
 (i) if, as a result of an in-flight fuel check, the expected
 fuel remaining on arrival at the destination is less than the required alternate fuel plus final reserve fuel, the pilot in command shall take into account the traffic and the operational conditions prevailing at the destination aerodrome, along the diversion route to an alternate aerodrome and at the destination alternate aerodrome, when deciding whether to proceed to the destination aerodrome or to divert, so as to land with not less than final reserve fuel; and
 (ii) on a flight to an isolated aerodrome the last possible
-point of diversion to any available en route alternate aerodrome shall be determined. Before reaching this point, the pilot in command shall assess the fuel expected to remain overhead the isolated aerodrome, the weather conditions, and the traffic and operational conditions prevailing at the isolated aerodrome and at any of the en route aerodromes before deciding whether to proceed to the isolated aerodrome or to divert to an en route aerodrome. [Subsidiary] Civil Aviation [(No. 2) Operations] Regulations Civil Aviation [(No. 2) Operations] Regulations
+point of diversion to any available en route alternate aerodrome shall be determined. Before reaching this point, the pilot in command shall assess the fuel expected to remain overhead the isolated aerodrome, the weather conditions, and the traffic and operational conditions prevailing at the isolated aerodrome and at any of the en route aerodromes before deciding whether to proceed to the isolated aerodrome or to divert to an en route aerodrome. [Subsidiary] Civil Aviation [(No. 2) Operations] Regulations
 Regulation 62
 A flight crew member under regulation 62 during critical phases of flight
 shall meet the following minimum standards:
@@ -180,7 +179,7 @@ aircraft technical log each mechanical irregularity that comes to his attention 
 concerning a reported or observed failure or malfunction of an airframe, power plant, propeller, rotor, or personnel and shall include that procedure in the maintenance control manual appliance, shall record the action taken in the aircraft technical log under the applicable maintenance requirements of the Act or Regulations made thereunder;
 (d) a national air operator shall establish a procedure for
 keeping copies of the aircraft technical log required by this section in the aircraft for access by appropriate representatives of the Authority.
-[Subsidiary] Civil Aviation [(No. 2) Operations] Regulations Civil Aviation [(No. 2) Operations] Regulations
+[Subsidiary] Civil Aviation [(No. 2) Operations] Regulations
 Regulation 67 through 74
 Trinidad and Tobago Civil Aviation Authority Advisory Circular No. 031 (TAC-031) as amended from time to time meets the minimum requirement for occurrence reports. Operators may be guided by TAC-031 in meeting the requirements for Trinidad and Tobago Occurrence Reports.
 Regulation 77
@@ -202,7 +201,7 @@ mode of operation, device location (seat location), and regulatory approval numb
 (e) name and telephone number of passenger operating the
 device; and
 (f) additional information, as determined pertinent by the
-flight crew. [Subsidiary] Civil Aviation [(No. 2) Operations] Regulations Civil Aviation [(No. 2) Operations] Regulations
+flight crew. [Subsidiary] Civil Aviation [(No. 2) Operations] Regulations
 Regulation 94
 The United States of America, Federal Aviation Administration, Advisory
 Circular AC120-42, as amended from time to time, meets the minimum International Civil Aviation Organisation requirements for giving effect to the Chicago Convention in respect of the minimum standards relating to regulation 94 which are for Extended Range Operations with two engine-aeroplanes. National air operators may be guided by the current AC120-42 in meeting the Trinidad and Tobago ETOPS requirements.
@@ -213,7 +212,7 @@ Regulation 100
 The loading mass and balance of an aircraft under regulation 100 shall
 meet the following minimum standards:
 (a) An operator shall ensure that during any phase of operation,
-the loading, mass and centre gravity of the aircraft complies with the limitations specified in the approved Aeroplane Flight Manual or the Helicopter Flight Manual, or the Operations Manual where more restrictive.
+the loading, mass and centre gravity of the aircraft complies with the limitations specified in the approved Aeroplane Flight Manual or the Helicopter Flight Manual, or the Operations Manual where more restrictive;
 (b) Trinidad and Tobago Civil Aviation Authority Advisory
 Circular No. 006 (TAC-006) as amended from time to time meets the minimum requirements for this regulation. Operators may be guided by the current TAC-006 in meeting the requirements for mass and balance.
 Regulation 104
@@ -222,7 +221,7 @@ aircraft under regulation 104 shall meet the following minimum standards:
 Where a life raft is required to be carried in accordance with
 regulation 104, it shall be equipped with an attached survival kit containing at least the following:
 (a) a pyrotechnic signalling device;
-[Subsidiary] Civil Aviation [(No. 2) Operations] Regulations Civil Aviation [(No. 2) Operations] Regulations
+[Subsidiary] Civil Aviation [(No. 2) Operations] Regulations
 (b) a life raft repair kit;
 (c) a bailing bucket and sponge;
 (d) a signalling mirror;
@@ -248,14 +247,14 @@ The landing performance limitations for aircraft under regulation 118 shall meet
 The in-flight determination of the landing distance should be
 based on the latest available report, preferably not more than thirty minutes before the expected landing time.
 Regulation 130
-The United States of America, Federal Aviation Administration, Advisory Circular AC120-28 and AC120-29, as amended from time to time, meet the [Subsidiary] Civil Aviation [(No. 2) Operations] Regulations Civil Aviation [(No. 2) Operations] Regulations
+The United States of America, Federal Aviation Administration, Advisory Circular AC120-28 and AC120-29, as amended from time to time, meet the [Subsidiary] Civil Aviation [(No. 2) Operations] Regulations
 minimum International Civil Aviation Organisation requirements for giving effect to the Chicago Convention in respect of the minimum standards relating to regulation 130 which are for the approval of Category II and III operations. National air operators may be guided by the current AC120-28 and AC120-29 in meeting the Category II or Category III requirements.
 Regulation 136
 Lights other than those specified shall not be displayed if they are likely
 to be mistaken for the specified lights.
 Regulation 143
-The United States of America, Federal Aviation Administration, 91-
-RVSM, Guidance Material on the Approval of Operators or Aircraft for RVSM Operations, as amended from time to time, meets the minimum International Civil Aviation Organisation requirements for giving effect to the Chicago Convention in respect of the minimum standards relating to regulation 143 for operations in RVSM airspace. Operators may be guided by the current 91- RVSM in meeting the RVSM requirements.
+The United States of America, Federal Aviation Administration,
+91-RVSM, Guidance Material on the Approval of Operators or Aircraft for RVSM Operations, as amended from time to time, meets the minimum International Civil Aviation Organisation requirements for giving effect to the Chicago Convention in respect of the minimum standards relating to regulation 143 for operations in RVSM airspace. Operators may be guided by the current 91-RVSM in meeting the RVSM requirements.
 Regulation 143A
 ALTIMETRY SYSTEM PERFORMANCE REQUIREMENTS
 FOR OPERATIONS IN RVSM AIRSPACE
@@ -265,20 +264,20 @@ design and build with respect to all details that could influence the accuracy o
 exceed 25 metres (80 feet) in magnitude;
 (b) the sum of the absolute value of the mean ASE and of three
 standard deviations of ASE shall not exceed 75 metres (245 feet); and
-[Subsidiary] Civil Aviation [(No. 2) Operations] Regulations Civil Aviation [(No. 2) Operations] Regulations
+[Subsidiary] Civil Aviation [(No. 2) Operations] Regulations
 (c) the difference between cleared flight level and the indicated
 pressure altitude actually flown shall be symmetric about a mean of 0 metre, with a standard deviation no greater than 13.3 metres (43.7 feet), and in addition, the decrease in the frequency of differences with increasing difference magnitude shall be at least exponential.
 2. In respect of aeroplanes for which the characteristics of the airframe and altimetry system fit are unique and so cannot be classified as belonging to a group of aeroplanes encompassed by paragraph 1, the height-keeping performance capability shall be such that the components of the TVE of the aeroplane have the following characteristics:
-(a) the ASE of the aeroplane shall not exceed 60 metres (200
-feet) in magnitude under all flight conditions; and
+(a) the ASE of the aeroplane shall not exceed 60 metres (200 feet)
+in magnitude under all flight conditions; and
 (b) the differences between the cleared flight level and the
 indicated pressure altitude actually flown shall be symmetric about a mean of 0 metre, with a standard deviation no greater than 13.3 metres (43.7 feet), and in addition, the decrease in the frequency of differences with increasing difference magnitude shall be at least exponential.
 Regulation 152
 COMMUNICATION FAILURE
-1. Air -Ground.
+1. Air-Ground.
 When an aircraft station fails to establish contact with the aeronautical station on the designated frequency, it shall attempt to establish contact on another frequency appropriate to the route. If this attempt fails, the aircraft station shall attempt to establish communication with other aircraft or other aeronautical stations on frequencies appropriate to the route. In addition, an aircraft operating within a network shall monitor the appropriate VHF frequency for calls from nearby aircraft.
 If the attempts detailed in the preceding paragraph fail, the aircraft station shall transmit its message twice on the designated frequency, preceded by the phrase "TRANSMITTING BLIND" and, if necessary, include the addressee for which the message is intended.
-In network operation, a message that is transmitted blind should be transmitted on the primary and secondary frequencies. Before changing frequency, the aircraft station should announce the frequency to which it is changing. [Subsidiary] Civil Aviation [(No. 2) Operations] Regulations Civil Aviation [(No. 2) Operations] Regulations
+In network operation, a message that is transmitted blind should be transmitted on the primary and secondary frequencies. Before changing frequency, the aircraft station should announce the frequency to which it is changing. [Subsidiary] Civil Aviation [(No. 2) Operations] Regulations
 2. Receiver failure.
 When an aircraft station is unable to establish communication due to
 receiver failure, it shall transmit reports at the scheduled times, or position, on the frequency in use, preceded by the phrase "TRANSMITTING BLIND DUE TO RECEIVER FAILURE". The aircraft station shall transmit the intended message, following this by a complete repetition. During this procedure, the aircraft shall also advise the time of its next intended transmission.
@@ -302,7 +301,7 @@ aircraft where such person appears to be intoxicated;
 the Authority the refusal of any person to comply with paragraph (a), or of any disturbance caused by a person who appears to be intoxicated aboard any of his aircraft;
 (e) except in an emergency, no pilot of a civil aircraft may allow
 a person who appears to be intoxicated or who demonstrates by manner or physical indications that the individual is under the influence of drugs (except a medical patient under proper care) to be carried in that aircraft;
-[Subsidiary] Civil Aviation [(No. 2) Operations] Regulations Civil Aviation [(No. 2) Operations] Regulations
+[Subsidiary] Civil Aviation [(No. 2) Operations] Regulations
 (f) a crew member shall do the following:
 (i) on request of the Authority, submit to a test to indicate
 the percentage by weight of alcohol in the blood, when-
@@ -324,7 +323,7 @@ defuelling will take place;
 (d) "No Smoking" sign shall be on, together with interior
 lighting to enable emergency exits to be identified;
 (e) passengers shall be instructed to unfasten their seat belts and
-refrain from smoking; [Subsidiary] Civil Aviation [(No. 2) Operations] Regulations Civil Aviation [(No. 2) Operations] Regulations
+refrain from smoking; [Subsidiary] Civil Aviation [(No. 2) Operations] Regulations
 (f) sufficient qualified personnel shall be on board and be
 prepared for an immediate emergency evacuation;
 (g) if the presence of fuel vapour is detected inside the
@@ -353,7 +352,7 @@ under regulation 194 meets the following minimum standards:
 at flight altitudes above 10,000 feet, the following supply of oxygen shall be provided for the use of passenger cabin occupants:
 (i) when an aeroplane certificated to operate at flight
 altitudes up to and including flight level 250, can at
-[Subsidiary] Civil Aviation [(No. 2) Operations] Regulations Civil Aviation [(No. 2) Operations] Regulations
+[Subsidiary] Civil Aviation [(No. 2) Operations] Regulations
 any point along the route to be flown, descend safely to a flight altitude of 14,000 feet or less within four minutes, oxygen shall be available at the rate prescribed by this part for a 30-minute period for at least 10 per cent of the passenger cabin occupants;
 (ii) when an aeroplane is operated at flight altitudes up to
 and including flight level 250 and cannot descend safely to a flight altitude of 14,000 feet within four minutes, or when an aeroplane is operated at flight altitudes above flight level 250, oxygen shall be available at the rate prescribed by this part for not less than 10 percent of the passenger cabin occupants for the entire flight after cabin depressurisation, at cabin pressure altitudes above 10,000 feet up to and including 14,000 feet and, as applicable, except that there shall be not less than a 10-minute supply for the passenger cabin occupants; and
@@ -364,7 +363,7 @@ level 250, a crew member shall instruct the passengers on the necessity of using
 Regulation 199
 A national air operator shall ensure that where transportation is denied under regulation 199, the procedures for such denial meet the following minimum standards:
 (a) a national air operator shall provide the Authority with a
-copy of each procedure it establishes in accordance with regulation 199; and [Subsidiary] Civil Aviation [(No. 2) Operations] Regulations Civil Aviation [(No. 2) Operations] Regulations
+copy of each procedure it establishes in accordance with regulation 199; and [Subsidiary] Civil Aviation [(No. 2) Operations] Regulations
 (b) whenever the Authority finds that the procedures established
 by the national air operator under regulation 198 does not meet the requirements prescribed by the Authority for safety, it may advise the national air operator to ensure that all procedures meet the Authority's requirements for safety;
 (c) a national air operator shall make available to the public at
@@ -374,11 +373,11 @@ EXEMPTIONS ON CERTAIN PASSENGERS
 CARRYING REQUIREMENTS
 1. An operator shall ensure that where passengers are carried under
 regulation 200 that they are carried in accordance with the following minimum standards:
-(a) The provisions of regulation 200 apply to the following persons:
-(i) a crew member.
-(ii) a company employee.
+The provisions of regulation 200 apply to the following persons:
+(i) a crew member;
+(ii) a company employee;
 (iii) a Civil Aviation Authority air carrier inspector who is
-performing official duties.
+performing official duties;
 (iv) a person necessary for the-
 (A) safety of the flight;
 (B) safe handling of animals;
@@ -394,7 +393,7 @@ unloading cargo; and
 when travelling to or from his assignment;
 (vi) a person performing duty as an honour guard
 accompanying a shipment made by or under the authority of the States;
-[Subsidiary] Civil Aviation [(No. 2) Operations] Regulations Civil Aviation [(No. 2) Operations] Regulations
+[Subsidiary] Civil Aviation [(No. 2) Operations] Regulations
 (vii) a dependant of an employee of the certificate holder
 when travelling with the employee on company business to or from outlying stations not served by adequate regular passenger flights.
 2. A national air operator shall not operate an aeroplane carrying a person covered by paragraph (1) unless-
@@ -418,7 +417,7 @@ A national air operator shall ensure that where cabin crew are at duty stations 
 air operator shall ensure that they are-
 (i) close to a floor level exit;
 (ii) provided with a good view of the area of the
-passenger cabin for which the cabin crew member is responsible; and [Subsidiary] Civil Aviation [(No. 2) Operations] Regulations Civil Aviation [(No. 2) Operations] Regulations
+passenger cabin for which the cabin crew member is responsible; and [Subsidiary] Civil Aviation [(No. 2) Operations] Regulations
 (iii) evenly distributed throughout the cabin, in the above
 order of priority;
 (b) nothing in these standards shall be interpreted, where there
@@ -448,7 +447,7 @@ obstructions;
 (J) to assist others in getting off an escape slide;
 (ii) such person is less than fifteen years of age or lacks
 the capacity to perform one or more of the applicable functions listed above without the assistance of an adult companion, parent, or other relative;
-[Subsidiary] Civil Aviation [(No. 2) Operations] Regulations Civil Aviation [(No. 2) Operations] Regulations
+[Subsidiary] Civil Aviation [(No. 2) Operations] Regulations
 (iii) the person lacks the ability to read and understand
 instructions required by this section and related to emergency evacuation provided by the national air operator in printed or graphic form or the ability to understand oral crew commands;
 (iv) the person lacks sufficient visual capacity to perform
@@ -458,7 +457,7 @@ understand instructions shouted by cabin crews, without assistance beyond a hear
 (vi) the person lacks the ability adequately to impart
 information orally to other passengers; or
 (vii) the person has a condition or responsibilities, such as
-caring for small children that might prevent the person from performing one or more of the functions listed above; or a condition that might cause the person harm if he or she performs one or more of the functions listed above.
+caring for small children that might prevent the person from performing one or more of the functions listed above; or a condition that might cause the person harm if he or she performs one or more of the functions listed above;
 (b) determination as to the suitability of each person permitted to
 occupy an exit seat shall be made by the cabin crew or other persons designated in the operations manual of the national air operator;
 (c) in the event a cabin crew determines that a passenger assigned to
@@ -468,7 +467,7 @@ necessary to accommodate a passenger being relocated from an exit seat, the cabi
 (e) each air operator agent shall, prior to boarding, assign seats
 consistent with the passenger selection criteria and the emergency exit functions, to the maximum extent feasible;
 (f) each air operator ticket agent shall make available for
-inspection by the public at all passenger loading gates and ticket counters at each aerodrome where it conducts passenger operations, written procedures established for making determinations in regard to exit row seating; [Subsidiary] Civil Aviation [(No. 2) Operations] Regulations Civil Aviation [(No. 2) Operations] Regulations
+inspection by the public at all passenger loading gates and ticket counters at each aerodrome where it conducts passenger operations, written procedures established for making determinations in regard to exit row seating; [Subsidiary] Civil Aviation [(No. 2) Operations] Regulations
 (g) a cabin crew shall include in their passenger briefings a
 request that a passenger identify himself or herself to allow reseating if he or she-
 (i) cannot meet the selection criteria;
@@ -476,13 +475,13 @@ request that a passenger identify himself or herself to allow reseating if he or
 or her from performing the evacuation functions;
 (iii) may suffer bodily harm as the result of performing
 one or more of those functions; or
-(iv) does not wish to perform emergency exit functions.
+(iv) does not wish to perform emergency exit functions;
 (h) each cabin crew shall include in their passenger briefings a
 reference to the passenger information cards and the functions to be performed in an emergency exit;
 (i) each passenger shall comply with instructions given by a
 crew member or other authorised employee of the national air operator-implementing exit seating restrictions; and
 (j) a pilot in command shall not allow taxi or pushback unless at
-least one required crew member has verified that all exit rows and escape paths are unobstructed and that no exit seat is occupied by a person the crew member determines is likely to be unable to perform the applicable evacuation functions;
+least one required crew member has verified that all exit rows and escape paths are unobstructed and that no exit seat is occupied by a person the crew member determines is likely to be unable to perform the applicable evacuation functions.
 Regulation 210
 A national air operator shall ensure where oxygen is available for the
 medical use of passengers such oxygen and its use meets the following minimum standards:
@@ -500,7 +499,7 @@ oxygen to the user of four litres per minute;
 (F) structured so that all valves, fittings, and gauges
 are protected from damage; and
 (G) appropriately secured;
-[Subsidiary] Civil Aviation [(No. 2) Operations] Regulations Civil Aviation [(No. 2) Operations] Regulations
+[Subsidiary] Civil Aviation [(No. 2) Operations] Regulations
 (ii) when the oxygen is stored in the form of a liquid, the
 equipment has been under the certificate holder's approved maintenance programme of the national air operator since its purchase new or since the storage container was last purged;
 (iii) when the oxygen is stored in the form of a
@@ -516,7 +515,7 @@ paragraph (a)(iv), the total quantity of oxygen carried is equal to the maximum 
 (vi) the pilot in command is advised when the equipment
 is on board, and when it is intended to be used; and
 (vii) the equipment is stowed, and each person using the
-equipment is seated, so as not to restrict access to or use of any required emergency, or regular exit or of the aisle in the passenger compartment; [Subsidiary] Civil Aviation [(No. 2) Operations] Regulations Civil Aviation [(No. 2) Operations] Regulations
+equipment is seated, so as not to restrict access to or use of any required emergency, or regular exit or of the aisle in the passenger compartment; [Subsidiary] Civil Aviation [(No. 2) Operations] Regulations
 (b) a person shall not, nor shall a national air operator or its
 representative allow any person to smoke within 10 feet of oxygen storage and dispensing equipment carried in accordance with paragraph (a);
 (c) a national air operator shall not allow any person to connect
@@ -537,7 +536,7 @@ compartment placarded for its maximum weight and providing proper restraint for 
 (ii) under a passenger seat;
 (d) carry-on baggage, other than articles of loose clothing, shall
 not be placed in an overhead rack unless that rack is equipped with approved restraining devices or doors;
-[Subsidiary] Civil Aviation [(No. 2) Operations] Regulations Civil Aviation [(No. 2) Operations] Regulations
+[Subsidiary] Civil Aviation [(No. 2) Operations] Regulations
 (e) a national air operator shall ensure that a passenger seat under
 which carry-on baggage is allowed to be stowed shall be fitted with a means to prevent articles of carry-on baggage stowed under it from sliding forward. In addition, each aisle seat shall be fitted with a means to prevent articles of carry-on baggage stowed under it from sliding sideward into the aisle under crash impacts severe enough to induce the ultimate inertia forces specified in the emergency landing condition regulations under which the aeroplane was type certificated;
 (f) in addition to the methods of stowage in paragraph (c), flexible
@@ -559,7 +558,7 @@ landing conditions applicable to the passenger seats of the aeroplane in which t
 (c) the maximum weight of cargo that the bin is approved to
 carry and any instructions necessary to ensure proper weight distribution within the bin shall be conspicuously marked on the bin;
 (d) the bin shall not impose any load on the floor or other
-structure of the aeroplane that exceeds the load limitations of that structure; [Subsidiary] Civil Aviation [(No. 2) Operations] Regulations Civil Aviation [(No. 2) Operations] Regulations
+structure of the aeroplane that exceeds the load limitations of that structure; [Subsidiary] Civil Aviation [(No. 2) Operations] Regulations
 (e) the bin shall be attached to the seat tracks or to the floor
 structure of the aeroplane, and its attachment shall withstand the load factors and emergency landing conditions applicable to the passenger seats of the aeroplane in which the bin is installed, multiplied by either the factor 1.15 or the seat attachment factor specified for the aeroplane, whichever is greater, using the combined weight of the bin and the maximum weight of cargo that may be carried in the bin;
 (f) the bin shall not be installed in a position that restricts access
@@ -579,10 +578,10 @@ tie-down having enough strength to eliminate the possibility of shifting under a
 that exceeds the load limitation for those components;
 (d) it is not located in a position that obstructs the access to, or
 use of, any required emergency or regular exit, or the use of the aisle between the crew and the passenger compartment, or is located in a position that obscures any passenger's view of the "seat belt" sign, "no smoking" sign or placard, or any required exit sign, unless an auxiliary sign or other approved means for proper notification of the passengers is provided;
-(e) it is not carried directly above seated occupants.
-[Subsidiary] Civil Aviation [(No. 2) Operations] Regulations Civil Aviation [(No. 2) Operations] Regulations
+(e) it is not carried directly above seated occupants;
+[Subsidiary] Civil Aviation [(No. 2) Operations] Regulations
 (f) it is stowed in compliance with these restrictions during
-take-off and landing.
+take-off and landing;
 (g) for cargo-only operations, if the cargo is loaded so that at
 least one emergency or regular exit is available to provide all occupants of the aeroplane a means of unobstructed exit from the aeroplane if an emergency occurs.
 3. A national air operator shall not carry cargo, including carry-on baggage, in or on any aircraft unless-
@@ -600,9 +599,9 @@ structure that exceeds the load limitation for those components;
 to, or use of, any required emergency or regular exit, or the use of the aisle between the crew and the passenger compartment, or located in a position that obscures any passenger's view of the "seat belt" sign, "no smoking" sign, or any required exit sign, unless an auxiliary sign or other approved means for proper notification of the passengers is provided;
 (v) it is not carried directly above seated occupants;
 (vi) it is stowed in compliance with this standard for take-
-off and landing.
+off and landing;
 (vii) for cargo only operations, paragraph (3)(iv) does not
-apply where the cargo is loaded so that at least one emergency or regular exit is available to provide all occupants of the aircraft a means of unobstructed exit from the aircraft where an emergency occurs. [Subsidiary] Civil Aviation [(No. 2) Operations] Regulations Civil Aviation [(No. 2) Operations] Regulations
+apply where the cargo is loaded so that at least one emergency or regular exit is available to provide all occupants of the aircraft a means of unobstructed exit from the aircraft where an emergency occurs. [Subsidiary] Civil Aviation [(No. 2) Operations] Regulations
 4. Each passenger seat under which baggage is stowed shall be fitted
 with a means to prevent articles of baggage stowed under it from sliding under crash impacts severe enough to induce the ultimate inertia forces specified in the emergency landing condition regulations under which the aircraft was type certificated.
 5. When cargo is carried in cargo compartments that are designed to
@@ -618,7 +617,7 @@ and under what conditions smoking is prohibited including, but not limited to, a
 (B) the location of emergency exits;
 (C) the use of safety belts, including instructions on
 how to fasten and unfasten the safety belts. Each passenger shall be briefed on when, where, and under what conditions the safety belt shall be fastened about that passenger. This briefing shall include a statement that the Civil Aviation
-[Subsidiary] Civil Aviation [(No. 2) Operations] Regulations Civil Aviation [(No. 2) Operations] Regulations
+[Subsidiary] Civil Aviation [(No. 2) Operations] Regulations
 Regulations require passenger compliance with lighted passenger information signs and crew member instructions concerning the use of safety belts;
 (D) the location and use of any required emergency
 flotation means;
@@ -637,7 +636,7 @@ the routes to each appropriate exit and on the most appropriate time to begin mo
 (B) inquire of the person and his attendant, where
 any, as to the most appropriate manner of assisting the person so as to prevent pain and further injury;
 (iv) the requirements of paragraph (a)(iii) of this standard
-shall not apply to a person who has been given a briefing before a previous leg of a flight in the same aircraft when the crew members on duty have been advised as to the most appropriate manner of assisting the person so as to prevent pain and further injury; and [Subsidiary] Civil Aviation [(No. 2) Operations] Regulations Civil Aviation [(No. 2) Operations] Regulations
+shall not apply to a person who has been given a briefing before a previous leg of a flight in the same aircraft when the crew members on duty have been advised as to the most appropriate manner of assisting the person so as to prevent pain and further injury; and [Subsidiary] Civil Aviation [(No. 2) Operations] Regulations
 (b) a national air operator shall carry on each passenger-carrying
 aircraft, in convenient locations for use of each passenger, printed cards supplementing the oral briefing and containing-
 (i) diagrams of, and methods of operating, the
@@ -674,21 +673,21 @@ Regulation 219
 A national air operator shall ensure that the security of items of mass in the passenger compartment under regulation 219, meets the following minimum standards:
 A national air operator shall provide and use means to prevent
 each item of galley equipment and each serving cart, when not in use, and each item of crew baggage, which is carried in a passenger or crew compartment from becoming a hazard by shifting under the appropriate load factors corresponding to the emergency landing conditions under which the aeroplane was type certificated.
-Regulation 224
+Regulation 224 A
 An aeroplane shall not be operated under the Instrument Flight Rules or at night by a single pilot in commercial air transport operations unless the following standards are met:
 (a) the aeroplane flight manual does not require a flight crew of
 more than one;
 (b) the aeroplane is propeller driven;
 (c) the maximum approved passenger seating configuration is
 not more than nine;
-(d) the maximum certified take-off mass does not exceed 5700 kg;
+(d) the maximum certified take-off mass does not exceed 5 700 kg;
 (e) the aeroplane is equipped with-
 (i) a serviceable autopilot that has at least altitude hold
 and heading select modes;
 (ii) a headset with boom microphone or equivalent; and
 (iii) means of displaying charts that enables them to be
 readable in all ambient light conditions; [Subsidiary] Civil Aviation [(No. 2) Operations] Regulations Civil Aviation [(No. 2) Operations] Regulations
-(f) the pilot-in-command has satisfied requirements of
+(f) the pilot in command has satisfied requirements of
 experience, training, checking and recency as follows:
 (i) for operations under the Instrument Flight Rules or at
 night, has accumulated at least 50 hours flight time on the class of aeroplane, of which at least 10 hours shall be as pilot in command;
@@ -700,8 +699,8 @@ engaged in single pilot operations under the Instrument Flight Rules of at least
 (iii) for operations at night-
 (A) have accumulated at least 15 hours flight time at
 night, which may form part of the 50 hours flight time in paragraph (i);
-(B) have made at least take-offs and landings at
-night in the class of aeroplane in the single pilot role in the preceding 90 days;
+(B) have made at least three take-offs and landings
+at night in the class of aeroplane in the single pilot role in the preceding 90 days;
 (iv) have successfully completed training programmes
 that include, in addition to the requirements of regulation 260-
 (A) passenger briefing with respect to
@@ -714,7 +713,7 @@ emergency evacuation;
 Regulation 260(5)
 A national air operator shall ensure that the line check under regulation 260(5), meets the following minimum standards:
 (a) line checks shall establish the ability to perform
-satisfactorily, a complete line operation including pre-flight and postflight procedures and use of the equipment provided, as specified in the Operations Manual;
+satisfactorily, a complete line operation including preflight and post flight procedures and use of the equipment provided, as specified in the Operations Manual;
 (b) the flight crew shall be assessed on their crew resource
 management skills in accordance with a methodology acceptable to the Authority and published in the Operations Manual. The purpose of such assessment is to-
 (i) provide feedback to the crew collectively and
@@ -746,7 +745,7 @@ aeroplane being simulated that results in changes to performance, functional, or
 (iv) be given a daily functional preflight check before
 being used;
 (v) have a daily discrepancy log kept with each
-discrepancy entered in that log by the appropriate instructor or check airman at the end of each training or check flight.
+discrepancy entered in that log by the appropriate instructor or check airman at the end of each training or check flight;
 (b) a particular aeroplane simulator or other training device may
 be approved for use by more than one certificate holder;
 (c) an aeroplane simulator may be used instead of the
@@ -773,9 +772,8 @@ set forth in the Act or Regulations made thereunder; or
 (iii) is representative of the flight segment appropriate to
 the operations being conducted by the certificate holder; and
 (d) is given by an instructor who meets the applicable
-requirements.
-Note: The satisfactory completion of the course of training shall be certified by
-either the Authority or a qualified check airman.
+requirements. Note: The satisfactory completion of the course of training shall be certified by either the
+Authority or a qualified check airman.
 3. The programmed hours of flight training set forth in this sub-part do not apply if the training programme for the aeroplane type includes-
 (a) a course of pilot training in an aeroplane simulator; or
 (b) a course of flight engineer training in an aeroplane simulator
@@ -897,10 +895,12 @@ operators in which the aircraft of the first air operator is crewed by the crew 
 programme approved by the Authority; "airworthy" means that an aircraft or aeronautical product is in a
 fit and safe state for flight and is in conformity with its type design; "Authority" means the Civil Aviation Authority established under
 the Civil Aviation Act; "Aircraft Maintenance Engineer" means a person approved by
-the Authority to perform defined maintenance upon aeronautical products and includes persons similarly qualified by other Contracting States and referred to as "licensed mechanic", "certified mechanic", "aircraft maintenance licence holder", "aviation maintenance engineer", "aviation repair specialist", or by any other term which means an Aircraft Maintenance Engineer; "CARICOM national" means a person who is a citizen of any
+the Authority to perform defined maintenance upon aeronautical products and includes persons similarly qualified by other Contracting States and referred to as "licensed mechanic", "certified mechanic", "aircraft maintenance licence holder", "aviation maintenance engineer", "aviation repair specialist", or by any other term which means an Aircraft Maintenance Engineer; "area navigation" means a method of navigation which permits
+aircraft operation on any desired flight path within the coverage of ground or space-based navigation aids or within the limits of the capability of self-contained aids, or a combination of these; "CARICOM national" means a person who is a citizen of any
 Member State of the Caribbean Community; "Certificate of Release to Service", means a document certifying
-an aircraft as being released to service; "commercial air transport" means the transport by air of
-passengers, cargo and mail for remuneration or hire; [Subsidiary] Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations
+an aircraft as being released to service; [Subsidiary] Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations
+"commercial air transport" means the transport by air of
+passengers, cargo and mail for remuneration or hire;
 "co-pilot" means a licensed pilot serving in a piloting capacity
 other than the pilot in command who is designated as the second in command and who meets the requirements of a co-pilot;
 "directly in charge", means a person assigned to a position in
@@ -920,16 +920,26 @@ necessary for the arrival of an aircraft at, and the departure of an aircraft fr
 Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations [Subsidiary]
 "handling agent" means an agency which performs on behalf of
 the operator some or all of the latter's functions including receiving, loading, unloading, transferring or other processing of passengers or cargo; "holdover time" means the estimated time that de-icing or
-anti-icing fluid will prevent the formation of frost or ice and the accumulation of snow on protected surfaces of an aircraft which benibs when the final application of de-icing or anti-icing fliud commences and expires when the de-icing fluid applied to the aircraft loses its effectiveness; "Interchange agreement" means an arrangement which permits a
+anti-icing fluid will prevent the formation of frost or ice and the accumulation of snow on protected surfaces of an aircraft which benibs when the final application of de-icing or anti-icing fluid commences and expires when the de-icing fluid applied to the aircraft loses its effectiveness; "Interchange agreement" means an arrangement which permits a
 national air operator to enter into a short-term dry lease and temporarily take or relinquish operational control of an aircraft at an airport during the life of the agreement; "large aircraft" means an aeroplane having a maximum certified
 take-off mass of five thousand and seven hundred kilogrammes or more or a helicopter having a maximum certified take-off mass of three thousand one hundred and seventy-five kilogrammes or more; "life limited part" means that a part as a condition of the type
 certificate, shall not exceed a specified time or number of cycles in service; "Maintenance Control Manual", means a manual containing
 policies, procedures, instructions and guidance for use by maintenance and operational personnel in the execution of their duties; "modification" means the alteration of an aircraft or aeronautical
 product in conformity with an approved standard; "national air operator" means a person who has been issued a
-Trinidad and Tobago Air Operator Certificate in accordance with regulation 6; "Operations Manual" means a manual containing procedures,
-instructions and guidance for use by operational personnel in the execution of their duties; [Subsidiary] Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations
+Trinidad and Tobago Air Operator Certificate in accordance with regulation 6; "navigation specification" means a set of aircraft and flight crew
+requirements needed to support performance-based navigation operations within a defined airspace as follows:
+(a) required navigation performance specification
+which is a navigation specification based on area navigation that includes the requirement for performance monitoring and alerting, designated by the prefix RNP, such as RNP4, RNP, APCH; and [Subsidiary] Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations
+(b) area navigation specification which is navigation
+specification based on area navigation that does not include the requirement for performance monitoring and alerting, designated by the prefix RNAV, for example, RNAV 5, RNAV 1;
+"Operations Manual" means a manual containing procedures,
+instructions and guidance for use by operational personnel in the execution of their duties;
+"operations specifications" means the authorisations, conditions
+and limitations associated with the air operator certificate and subject to the conditions in the operations manual;
 "Overhaul life part" means that a part as a condition of the type
 certificate shall not exceed a specified time or number of cycles in service unless a complete overhaul is performed on it;
+"performance-based navigation" means area navigation based on
+performance requirements for aircraft operating along an air traffic service route, on an instrument approach procedure in a designated airspace.
 "pilot in command" means a pilot responsible for the operation
 and safety of the aircraft during flight time;
 "release to service" means an aircraft or aircraft component is
@@ -942,17 +952,13 @@ activities aimed at improving safety;
 managing safety, including the necessary organisational structures, accountabilities, policies and procedures;
 "small aircraft" means an aeroplane having a maximum certified
 take-off mass of less than five thousand and seven hundred kilogrammes and a helicopter of a maximum certified take-off mass of less than three thousand, one hundred and seventy-five kilogrammes;
-"State of Registry" means the Contracting State on whose register
-an aircraft is registered;
-"Technical Instructions" means the International Civil Aviation
-Organisation, Technical instructions for the Safe Transport of Dangerous Goods by Air;
-"training to proficiency", means the process of the Flight
-Instructor administering each prescribed manoeuvre and procedure to a pilot as necessary until it is performed successfully during the training period; and
-"wet lease" means a contractual arrangement where a leased
-aircraft is operated by the flight crew members of the lessor.
-(2) These Regulations apply to the carriage of passengers,
-cargo or mail for remuneration or hire by persons whose principal place of business or permanent residence is located in the CARICOM community.
 Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations [Subsidiary]
+"State of Registry" means the Contracting State on whose register
+an aircraft is registered; "Technical Instructions" means the International Civil Aviation
+Organisation, Technical instructions for the Safe Transport of Dangerous Goods by Air; "training to proficiency", means the process of the Flight
+Instructor administering each prescribed manoeuvre and procedure to a pilot as necessary until it is performed successfully during the training period; and "wet lease" means a contractual arrangement where a leased
+aircraft is operated by the flight crew members of the lessor.
+(2) These Regulations apply to the carriage of passengers, cargo or mail for remuneration or hire by persons whose principal place of business or permanent residence is located in the CARICOM community.
 (3) These Regulations prescribe requirements for the original certification and continued validity of air operator certificates issued by the Authority.
 (4) Except where specifically noted, these Regulations apply to all commercial air transport operations by air operators for which Trinidad and Tobago is the State of the Operator under the definitions provided in Annex 6 to the Chicago Convention.
 (5) The provisions of Part I of the Civil Aviation [(No. 1) General Application and Personnel Licensing] Regulations with respect to the surrender, suspension or revocation of aviation documents apply to certificates, authorisations and ratings issued under these Regulations.
@@ -960,16 +966,18 @@ PART I
 GENERAL REQUIREMENTS
 3. (1) A person shall not operate an aircraft in commercial air transport operations in Trinidad and Tobago, unless he-
 (a) holds a Trinidad and Tobago Air Operator
-Certificate issued by the Authority, (hereinafter referred to as a "national air operator"); or
+Certificate issued by the Authority, (hereinafter referred to as a "national air operator"); or [Subsidiary] Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations
 (b) holds an Air Operator Certificate issued by
-another contracting state which is accepted by the Authority under Civil Aviation [(No. 10) Foreign Operator] Regulations, (hereinafter referred to as a "foreign air operator"), for the operations being conducted.
+another contracting state which is accepted by the Authority under Civil Aviation [(No. 10) Foreign Operator] Regulations, (hereinafter referred to as a "foreign air operator"),
+for the operations being conducted.
 (2) A national air operator shall, at all times comply with-
 (a) the specifications of his Trinidad and Tobago
 Air Operator Certificate;
 (b) the terms and conditions of the issuance of the
 Trinidad and Tobago Air Operator Certificate specified in regulation 7; and
 (c) maintenance requirements specified in Part VI,
-in order to hold such Trinidad and Tobago Air Operator Certificate. [Subsidiary] Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations
+in order to hold such Trinidad and Tobago Air
+Operator Certificate.
 (3) Where a national air operator fails to comply with
 any provision in these Regulations, the Authority may revoke or suspend his certificate.
 (4) A national air operator shall conduct commercial air
@@ -982,17 +990,16 @@ OPERATOR CERTIFICATE
 applicant"), wishes to apply for a Trinidad and Tobago Air Operator Certificate, he shall-
 (a) make such application to the Authority in the form
 and manner prescribed by the Authority; and
+Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations [Subsidiary]
 (b) pay the prescribed fee.
 (2) An application under subregulation (1), shall contain-
 (a) a detailed statement showing how the procedures
 and manuals required by these Regulations are complied with; and
 (b) any information the Director-General requires
 the applicant to submit.
-(3) An application under subregulation (1), shall be
-accompanied by-
+(3) An application under subregulation (1), shall be accompanied by-
 (a) documentation showing that the applicant has or
 can obtain use of at least one aircraft and has or can obtain appropriate facilities in respect of such operation;
-Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations [Subsidiary]
 (b) any partial or completed manuals required by
 these Regulations;
 (c) an aviation security programme in accordance
@@ -1007,7 +1014,7 @@ with Civil Aviation [(No. 8) Aviation Security] Regulations;
 (e) Training Manual.
 (5) An applicant under these Regulations shall make the application for an initial issue of a Trinidad and Tobago Air Operator Certificate at least ninety days before the date of intended operation.
 (6) Notwithstanding subregulations (3)(b) and (4), the Operations Manual specified in regulation 34 and Maintenance Control Manual specified in regulation 76 shall be submitted no less than sixty days before the date of intended operation.
-(7) An applicant shall standardise company procedures for all aircraft operations, except where aircraft specific procedures may necessitate a deviation from standard procedure.
+(7) An applicant shall standardise company procedures for all aircraft operations, except where aircraft specific procedures may necessitate a deviation from standard procedure. [Subsidiary] Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations
 AVIATION MANUALS
 5. (1) The Manuals referred to in regulation 4(4) shall-
 (a) include instructions and information necessary
@@ -1015,7 +1022,7 @@ to allow the personnel concerned to perform their duties and responsibilities wi
 (b) be in a form that is easy to revise and contain a
 system which allows personnel to determine the current revision status of each manual;
 (c) have a date of the last revision on each page
-concerned; [Subsidiary] Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations
+concerned;
 (d) not be contrary to any applicable law and the
 specific operating provisions of the Trinidad and Tobago Air Operator; and
 (e) include a reference, where applicable, to the
@@ -1025,8 +1032,7 @@ the manuals referred to in regulation 4(4), may be produced either-
 (a) in a series of parts;
 (b) as a series of volumes; or
 (c) as a single document.
-(3) An applicant shall establish a flight safety document
-system for the use and guidance of his operational personnel.
+(3) (Deleted by LN 35/2009).
 CONDITIONS FOR ISSUE OF A TRINIDAD AND TOBAGO AIR
 OPERATOR CERTIFICATE
 6. (1) The Director-General may recommend that the
@@ -1039,16 +1045,15 @@ for the holder of a Trinidad and Tobago Air
 Operator Certificate;
 (d) is properly and adequately equipped for safe
 operations in commercial air transport;
+Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations [Subsidiary]
 (e) is properly and adequately equipped for
 maintenance of the aircraft; and
 (f) has sufficient financial resources to conduct
 safe operations.
-(2) The Director-General shall not recommend the issue
-of an Air Operator Certificate-
+(2) The Director-General shall not recommend the issue of an Air Operator Certificate-
 (a) where the applicant-
 (i) does not meet the requirements of these
 Regulations;
-Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations [Subsidiary]
 (ii) has provided incomplete, inaccurate,
 fraudulent or false information in applying for the Air Operator Certificate;
 (iii) held a certificate or licence issued by the
@@ -1064,12 +1069,13 @@ the organisation-
 (i) held a certificate or licence issued by the
 Authority which was revoked or suspended within the previous five years by reason of criminal, fraudulent, improper action or insanity on the part of such person; or
 (ii) contributed materially to the revocation
-or suspension of an aviation document issued by the Authority.
+or suspension of an aviation document issued by the Authority. [Subsidiary] Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations
 CONTENTS OF TRINIDAD AND TOBAGO AIR
 OPERATOR CERTIFICATE
-7. (1) A Trinidad and Tobago Air Operator Certificate shall be in the form set out as Form I in Schedule 1 and shall comprise-
+7. (1) A Trinidad and Tobago Air Operator Certificate shall
+be in the form set out as Form I in Schedule 1 and shall comprise-
 (a) a document for public display signed by the
-Authority; and [Subsidiary] Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations
+Authority; and
 (b) a document containing the Operations Specifications
 with the terms and conditions and the authorisations applicable to the Air Operator Certificate.
 (2) The documents under subregulation (1) shall contain-
@@ -1096,10 +1102,10 @@ OPERATOR CERTIFICATE
 portion thereof, issued by the Authority, shall be valid for twelve calendar months or until the-
 (a) Authority amends, suspends, revokes or otherwise
 terminates the certificate;
+Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations [Subsidiary]
 (b) national air operator surrenders it to the Authority; or
 (c) national air operator suspends operations for
 more than sixty days.
-Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations [Subsidiary]
 AMENDMENT OF A TRINIDAD AND TOBAGO AIR
 OPERATOR CERTIFICATE
 9. (1) The Director-General may recommend that the Authority amend any Trinidad and Tobago Air Operator Certificate where-
@@ -1111,8 +1117,9 @@ the Director-General determines that safety in commercial air transport and the 
 (3) A national air operator may appeal the amendment, under subregulation (2), but shall operate in accordance with it, unless it is subsequently withdrawn.
 (4) Amendments under subregulation (1)(a), which are recommended by the Director-General, other than emergency amendments, become effective thirty days after notification to the national air operator unless he appeals the proposal in writing prior to the effective date.
 (5) The filing of an appeal under subregulation (4), stays the effective date until the appeal process is completed.
-(6) Amendments proposed by the national air operator under subregulation (1)(b), shall be made at least thirty days prior to the intended date of any operation under that amendment.
-(7) A national air operator shall not perform a commercial air transport operation for which a Trinidad and Tobago Air Operator Certificate amendment is required, unless he has received notice of approval from the Authority. [Subsidiary] Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations
+(6) Amendments proposed by the national air operator under subregulation (1)(b), shall be made at least thirty days prior to the intended date of any operation under that amendment. [Subsidiary] Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations
+(7) A national air operator shall not perform a commercial
+air transport operation for which a Trinidad and Tobago Air Operator Certificate amendment is required, unless he has received notice of approval from the Authority.
 ACCESS FOR INSPECTION
 10. (1) A national air operator shall-
 (a) grant the Director-General access to and co-
@@ -1130,9 +1137,8 @@ maintenance manuals, lease agreements, exclusive of their financial components, 
 CONDUCTING TESTS AND INSPECTIONS
 11. (1) The Director-General shall conduct ongoing
 validation of the continued eligibility of a national air operator to hold his Trinidad and Tobago Air Operator Certificate and associated approvals.
-(2) A national air operator shall allow the Director-
-General to conduct tests and inspections, at any time or place, to determine whether he is complying with the applicable laws, regulations and standards.
 Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations [Subsidiary]
+(2) A national air operator shall allow the Director- General to conduct tests and inspections, at any time or place, to determine whether he is complying with the applicable laws, regulations and standards.
 (3) A national air operator shall make available at his main base-
 (a) his current Trinidad and Tobago Air Operator
 Certificate;
@@ -1153,8 +1159,8 @@ so by the Director-General within a reasonable period of time.
 request, any portion of the-
 (i) Trinidad and Tobago Air Operator
 Certificate;
-(ii) the manuals referred to in regulation 4(4); or
-(iii) any required record or report; or [Subsidiary] Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations
+(ii) the manuals referred to in regulation 4(4); or [Subsidiary] Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations
+(iii) any required record or report; or
 (b) grant access for inspection of the documents
 referred to in paragraph (a),
 the Director-General may recommend that the Authority suspend all or part of the Trinidad and Tobago Air Operator Certificate.
@@ -1185,8 +1191,9 @@ Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulatio
 (a) Director of Operations;
 (b) Chief Pilot;
 (c) Director of Safety;
-(d) Director of Maintenance; and
-(e) Quality Manager.
+(d) Director of Maintenance;
+(e) Quality Manager; and
+(f) Security Manager.
 (4) In this regulation "competency in civil aviation" means that an individual shall have a technical qualification and management experience acceptable to the Authority for the position served.
 (5) The Director-General may recommend the Authority approve positions, other than those listed in subregulation (3), where the national air operator is able to show that he can perform the operation with the highest degree of safety under the direction of a combination of, fewer or different categories of management personnel due to the-
 (a) kind of operations involved;
@@ -1230,7 +1237,7 @@ and ratings for which a pilot in command is required to hold for one of the airc
 (ii) has acquired not less than three years related
 managerial experience with a commercial air operator whose flight operations are similar in size and scope; and
 (iii) demonstrates knowledge to the Authority
-with respect to the content of the Operations Manual, the Air Operator Certificate, operations specifications, regulations and standards necessary to carry out the duties and responsibilities to ensure safety and the maintenance of the Air Operator Certificate.
+with respect to the content of the Operations Manual, the Air Operator Certificate, operations specifications, regulations and standards necessary to carry out the duties and responsibilities to ensure safety and the maintenance of the Air Operator Certificate;
 (b) a Chief Pilot under regulations 14(3)(b) shall be-
 (i) an Airline Transport Pilot Licence with
 the appropriate ratings for at least one of the aircraft used in the operations of the air operator; and [Subsidiary] Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations
@@ -1240,22 +1247,28 @@ in commercial air transport operations;
 (i) extensive operational experience normally
 achieved as a flight crew member or equivalent experience in technical aviation management; and
 (ii) successfully completed a recognised Air
-Safety training course acceptable to the Director-General; and
+Safety training course acceptable to the Director-General;
 (d) Director of Maintenance and Quality Manager
 shall be-
 (i) possession of an Aircraft Maintenance
 Engineer licence; and
 (ii) three years experience in maintaining the
-same aircraft category and aircraft class used by the national air operator including one year in the capacity of returning aircraft to service.
+same aircraft category and aircraft class used by the national air operator including one year in the capacity of returning aircraft to service; and
+(e) the Security Manager shall have-
+(i) extensive operational experience normally
+achieved as a security officer;
+(ii) five years experience in aviation security
+management; and
+(iii) successfully completed a recognised
+aviation security management training course acceptable to the Director-General.
 (2) A national air operator may employ a person who
 does not meet the appropriate qualifications or experience required under subregulation (1), where the Authority issues a deviation that that person has comparable experience and can effectively perform the required management functions.
 SUBMISSION AND REVISION OF POLICY
 AND PROCEDURES
 18. (1) An applicant shall submit any proposed policy or
 procedures or any revision thereof, to the Director-General at least thirty days prior to the date of intended implementation.
-(2) An applicant shall not cause the use of any policy
-and procedure for flight operations or airworthiness function without the approval of the Director-General.
 Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations [Subsidiary]
+(2) An applicant shall not cause the use of any policy and procedure for flight operations or airworthiness function without the approval of the Director-General.
 PART III
 AIRCRAFT OPERATIONS
 APPLICABILITY
@@ -1269,10 +1282,21 @@ Airworthiness;
 (c) meets the applicable airworthiness requirements
 for these operations, including those related to identification instruments and equipment.
 (2) A national air operator shall not operate any specific type of aircraft in commercial air transport until it has completed satisfactory initial certification, which includes the issuance of a Trinidad and Tobago Air Operator Certificate listing that type of aircraft.
-(3) A national air operator shall not operate additional or replacement aircraft of a type for which it is currently authorised or unauthorised unless it can show that for each aircraft, an evaluation process was completed for inclusion in the fleet of the air operator.
+(2A) A national air operator shall not operate a helicopter on flights-
+(a) in off-shore operations;
+(b) over water in a hostile environment at a distance
+from land corresponding to more than ten minutes at normal cruise speed when operating in Performance Class 1 and Performance Class 2; or [Subsidiary] Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations
+(c) over water beyond auto-rotational or safe forced
+landing distance from land when operating in
+Performance Class 3,
+unless the helicopter is certified for ditching and the sea state is part of ditching information.
+(3) A national air operator shall not operate additional or
+replacement aircraft of a type for which it is currently authorised or unauthorised unless it can show that for each aircraft, an evaluation process was completed for inclusion in the fleet of the air operator.
 LEASING OPERATIONS
-21. (1) A person wishing to operate a leased aircraft in Trinidad and Tobago, shall apply to the Authority in the form prescribed by the Director-General for approval to so operate.
-(2) A lease under subregulation (1) may be either a dry lease or wet lease operation. [Subsidiary] Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations
+21. (1) A person wishing to operate a leased aircraft in
+Trinidad and Tobago, shall apply to the Authority in the form prescribed by the Director-General for approval to so operate.
+(2) A lease under subregulation (1) may be either a dry
+lease or wet lease operation.
 DRY LEASING OPERATIONS
 22. The dry lease operation under regulation 21 shall apply
 to the following persons in respect of the operation of a leased aircraft by the lessee where the aircraft is registered in the name of the lessor:
@@ -1287,6 +1311,7 @@ regulation 22(a), shall provide the Authority with evidence establishing that-
 (a) throughout the term of the lease, the aircraft shall-
 (i) be in the legal custody and control of the
 lessee; and
+Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations [Subsidiary]
 (ii) not be made the subject of another lease
 during the term of the lease except with the approval of the Authority;
 (b) the lessee of the aircraft holds a Trinidad and
@@ -1298,7 +1323,6 @@ accordance with the applicable standards of airworthiness;
 maintenance schedules approved by the Authority; and
 (iii) any requirements set out in the
 authorisation issued.
-Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations [Subsidiary]
 DRY LEASE CONDITIONS
 24. (1) An applicant for a dry lease operation under regulation 22(b) shall provide the Authority with evidence establishing that-
 (a) throughout the term of the lease the aircraft shall-
@@ -1311,7 +1335,7 @@ during the term of the lease authorised for that aircraft except with the approv
 (i) is a citizen of a foreign state or an entity
 incorporated or formed by or under the laws of a foreign Contracting State;
 (ii) holds an Air Operator Certificate or
-equivalent document, issued by the foreign Contracting State in respect of the aircraft type being leased;
+equivalent document, issued by the foreign Contracting State in respect of the aircraft type being leased; [Subsidiary] Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations
 (iii) shall operate the aircraft on such basis as
 approved by the Authority; and
 (iv) has demonstrated the ability and
@@ -1321,9 +1345,9 @@ during the term of the lease, will be located in the state of the lessee;
 (d) the aircraft-
 (i) has a valid certificate of airworthiness;
 (ii) shall not undergo modification unless it is
-authorised by the Authority; and
+authorised by the Authority;
 (iii) shall continue to meet the maintenance
-control system and the maintenance schedule approved by the Authority; [Subsidiary] Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations
+control system and the maintenance schedule approved by the Authority;
 (iv) shall be maintained in accordance with an
 inspection programme approved by the Authority and any additional requirements set out in the authorisation issued;
 (e) every crew member assigned to the aircraft by
@@ -1336,15 +1360,14 @@ the State of the lessee and that foreign State is not a contracting State, holds
 training equivalent to that described in Annex 6 to the Chicago Convention.
 (2) Where an aircraft is dry leased under this Part and is
 to be re-registered in the State of the lessee it shall be first de-registered by the Authority before such re-registration.
+Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations [Subsidiary]
 AIRCRAFT FOR DRY LEASE OPERATIONS
-25. (1) An applicant for a dry lease operation under
-regulation 22(c) shall provide the Authority with evidence establishing that-
+25. (1) An applicant for a dry lease operation under regulation 22(c) shall provide the Authority with evidence establishing that-
 (a) the aircraft-
 (i) is of a type and model designation to be
 eligible for a Trinidad and Tobago Certificate of Airworthiness and complies with all environmental and operational requirements;
 (ii) has a valid Certificate of Airworthiness
 issued in respect of the aircraft by the State of Registry where the State of Registry is a contracting State; and
-Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations [Subsidiary]
 (iii) will not be made the subject of another
 lease during the term of the lease except as approved by the Authority;
 (b) the lessee holds a Trinidad and Tobago Air
@@ -1360,12 +1383,13 @@ the aircraft or the certificate of airworthiness issued in respect of the aircra
 the lessee; and
 (e) during the term of the lease authorised by the
 Authority, the aircraft shall be-
-(i) in the legal custody and control of the lessee;
+(i) in the legal custody and control of the lessee; [Subsidiary] Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations
 (ii) maintained in accordance with the
 applicable standards of airworthiness and maintenance control system and the maintenance schedules approved by the Authority; and
 (iii) maintained in accordance with an
 inspection programme approved by the Authority and any requirements set out in the authorisation issued.
-(2) Notwithstanding subregulation (1)(c)(ii) a lessee may apply for registration of an aircraft in Trinidad and Tobago which is the subject of a dry lease operation under regulation 22(c). [Subsidiary] Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations
+(2) Notwithstanding subregulation (1)(c)(ii) a lessee may
+apply for registration of an aircraft in Trinidad and Tobago which is the subject of a dry lease operation under regulation 22(c).
 RESTRICTIONS ON DRY LEASE OPERATIONS
 26. (1) A person shall not operate an aircraft as part of a
 dry lease operation unless-
@@ -1380,13 +1404,13 @@ model designation and serial number of the aircraft;
 (ii) the names, addresses and telephone
 numbers, and any other contact means as applicable, of the registered owner;
 (iii) the Trinidad and Tobago Air Operator
-Certificate number of a Trinidad and Tobago lessee and details of the maintenance arrangements pertinent to the aircraft as agreed between the lessor and lessee, including the name of the person who is responsible for the maintenance of the aircraft during the term of the lease, and the address of the main maintenance base for the aircraft;
+Certificate number of a Trinidad and Tobago lessee and details of the maintenance arrangements pertinent to the aircraft as agreed between the lessor and lessee, including the name of the person who is responsible for the maintenance of the aircraft during the
+Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations [Subsidiary]
+term of the lease, and the address of the main maintenance base for the aircraft;
 (iv) the certificate of airworthiness and
 statement from the registered owner that the aircraft fully complies with the continuing airworthiness requirements of the State of Registry;
 (v) the name, address and signature of the
-lessee or person responsible for operational control of the aircraft under
-Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations [Subsidiary]
-the lease agreement, including a statement that such individual and the parties to the lease agreement fully understand their respective responsibilities under the applicable regulations; and
+lessee or person responsible for operational control of the aircraft under the lease agreement, including a statement that such individual and the parties to the lease agreement fully understand their respective responsibilities under the applicable regulations; and
 (vi) the commencement and termination dates
 of the lease.
 (2) A national air operator may dry lease an aircraft for commercial air transport to any air operator of a Contracting State.
@@ -1397,9 +1421,11 @@ operator, the operations regulations of Trinidad and Tobago are applicable;
 (b) while the aircraft is operated by the national air
 operator, the airworthiness regulations of the State of Registry are applicable; or
 (c) where the State of Registry agrees to transfer
-some or all of the responsibility for airworthiness to the Authority under Article 83 bis of the Chicago Convention, the airworthiness regulations of Trinidad and Tobago shall apply to the extent agreed upon by the Authority and State of Registry.
-(5) The agreement under subregulation (4), shall provide that the Director-General has free and uninterrupted access to the aircraft at any place and any time.
-(6) Where an authorisation has been issued in respect of a Trinidad and Tobago aircraft, the registered owner of the aircraft shall, immediately on receipt of the authorisation, forward to the lessee all airworthiness directives that apply to the aircraft. [Subsidiary] Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations
+some or all of the responsibility for airworthiness to the Authority under Article 83 bis of the Chicago Convention, the airworthiness regulations of Trinidad and Tobago shall apply to the extent agreed upon by the Authority and State of Registry. [Subsidiary] Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations
+(5) The agreement under subregulation (4), shall provide
+that the Director-General has free and uninterrupted access to the aircraft at any place and any time.
+(6) Where an authorisation has been issued in respect of
+a Trinidad and Tobago aircraft, the registered owner of the aircraft shall, immediately on receipt of the authorisation, forward to the lessee all airworthiness directives that apply to the aircraft.
 (7) Where an authorisation has been issued in respect of
 an aircraft registered in a foreign State, the Trinidad and Tobago lessee shall ensure that the aircraft conforms with all applicable airworthiness directives.
 (8) A copy of the lease authorisation pursuant to this
@@ -1419,9 +1445,9 @@ for the aircraft and equipment and are familiar with the maintenance procedures 
 meet appropriate route and airport qualifications;
 (e) the aircraft to be operated is essentially similar
 to the aircraft of the national air operator with whom the interchange is effected; and
+Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations [Subsidiary]
 (f) the arrangement of flight instruments and controls
 that are critical to safety are essentially similar unless the authority determines that the national air operator has adequate training to ensure that any potentially hazardous disssimilarities are safely overcome by flight crew familiarisation.
-Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations [Subsidiary]
 (3) Where a national air operator conducts an interchange agreement he shall-
 (a) ensure that the pertinent provisions and
 procedures of the agreement are included in his Operations Manual; and
@@ -1436,9 +1462,10 @@ WET LEASING OPERATIONS
 maintenance and operations are equivalent to
 Regulations made under the Act;
 (b) the air operator holds a Trinidad and Tobago Air
-Operator Certificate or its equivalent from a Contracting State that authorises those operations; and
+Operator Certificate or its equivalent from a Contracting State that authorises those operations; and [Subsidiary] Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations
 (c) the aircraft has a Certificate of Airworthiness
-issued in accordance with Annex 8 of the Chicago Convention. [Subsidiary] Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations
+issued in accordance with Annex 8 of the
+Chicago Convention.
 (4) A national air operator engaged in a wet leasing
 operation shall apply to the Authority for an amendment to his operations specifications to contain the following information:
 (a) the names of the parties to the agreement and the
@@ -1536,10 +1563,13 @@ a complete Operations Manual or pertinent portions of an Operations Manual toget
 personnel in commercial air transport any Operations Manual or portion thereof which has not been reviewed and found acceptable or approved for use of the national air operator by the Authority.
 (5) The Operations Manual under subregulation (4),
 shall be numbered and assigned to specific personnel by number.
-(6) Notwithstanding the generality of subregulation (2)
-a national air operator shall provide for the use and guidance of operational personnel an Operations Manual as set out in Part A of Schedule 3.
-(7) From 1st January 2006, the structure and content of
-an Operations Manual shall be organised in accordance with Part B of Schedule 3.
+(6) Notwithstanding subregulation (2), a national air
+operator of-
+(a) an aeroplane shall provide for the use and
+guidance of operational personnel an Operations Manual as set out in Part A of Schedule 3; and
+(b) a helicopter shall provide for the use and
+guidance of operational personnel an Operations Manual as set out in Part B of Schedule 3.
+(7) (Deleted by LN 35/2009).
 FLIGHT SUPERVISION AND JOURNEY LOG
 35. (1) A national air operator shall, for operations on a
 published schedule have an adequate system approved by the Authority for proper dispatch and monitoring of the progress of the scheduled flights.
@@ -1592,7 +1622,7 @@ information relating to incidents and accidents and the promulgation of related 
 (d) the appointment of a person accountable for
 managing the system; and
 (e) from 1st January 2005, a flight data
-monitoring programme for aeroplanes in excess of 27,000 kilogrammes maximum certified take-off mass.
+monitoring programme for aeroplanes in excess of 27 000 kilogrammes maximum certified take-off mass.
 (1A) For the purposes of this regulation "flight data monitoring" is the pro-active use of digital flight data from routine operations to improve aviation safety.
 (1B) The flight data monitoring programme under subregulation (1), shall be non-punitive and contain adequate safeguards to protect the source of the data.
 (1C) Proposals for corrective action identified by the accident prevention and flight safety system shall be the responsibility of the person to whom accountability for managing the system is assigned.
@@ -1619,12 +1649,17 @@ overall level of safety.
 level of safety to be achieved in the operations of aircraft.
 (3) As part of the safety management programme
 required by subregulation (1), an air operator shall clearly define lines of safety accountability throughout its organisation, including a direct accountability for safety on the part of senior management.
+(4) An operator of an aeroplane of a maximum
+certificated take-off mass in excess of 27 000 kilogrammes shall establish and maintain a flight data analysis programme as part of his safety management system.
+(5) A flight data analysis programme under
+subregulation (4) shall be non-punitive and contain adequate safeguards to protect the source of the data.
 TRAINING
 38. (1) A national air operator shall have a Training
 Programme Manual approved by the Authority containing the general training, checking and record keeping policies and the items listed in Schedule 4.
 (2) A national air operator shall ensure that all
-operations personnel are properly instructed in their duties and responsibilities and the relationship of such duties to the operation as a whole.
+operations personnel are properly instructed in their duties
 Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations [Subsidiary]
+and responsibilities and the relationship of such duties to the operation as a whole.
 (3) A national air operator shall provide adequate ground and flight training facilities and properly qualified instructors as determined by Authority.
 (4) A national air operator shall have a training curriculum, which is approved by the Authority and any revisions thereto, for the purpose of qualifying and maintaining proficiency as a crew member, or person performing operational control functions, for duties in commercial air transport.
 (5) A national air operator shall submit to the Authority the schedule of training, proficiency checks and other qualification checks and revisions prior to the conduct of these activities.
@@ -1663,8 +1698,8 @@ of inadmissible passengers, deportees or persons in custody except-
 in command.
 CREW MEMBER CHECKING AND STANDARDISATION
 PROGRAMME
-44. A national air operator shall have a programme
-approved by the Authority with respect to the checking and standardisation of crew members.
+44. A national air operator shall have a programme approved
+by the Authority with respect to the checking and standardisation of crew members.
 Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations [Subsidiary]
 COCKPIT CHECKLIST
 45. (1) A national air operator shall issue to the flight crew and make available on each aircraft, a condensed checklist of flight deck procedures approved by the Authority appropriate to the type and variant of aircraft.
@@ -1752,6 +1787,8 @@ AIRCRAFT OPERATING MANUAL
 (3) The design of the manual under this regulation shall take account of human factors principles.
 (4) An Aircraft Operating Manual shall be issued to the flight crew members and persons assigned operational control functions to each aircraft operated by the national air operator.
 (5) Notwithstanding the foregoing an Aircraft Operating Manual under this regulation shall contain the items listed in Schedule 6. [Subsidiary] Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations
+(6) An air operator shall ensure that the aircraft
+operating manual referred to in this regulation is easily accessible to the flight crew during flight operations.
 AIRCRAFT PERFORMANCE PLANNING MANUAL
 55. (1) A national air operator shall provide for the use of
 members of the flight crew and persons assigned operational control functions during the performance of their duties, a Performance Planning Manual acceptable to the Authority.
@@ -1771,9 +1808,10 @@ by the Authority, for obtaining, maintaining and distributing to appropriate per
 for each airport used by him in respect of the areas listed in Schedule 7.
 ROUTE GUIDE
 58. (1) A national air operator shall provide for the use of
-members of the flight crew and persons assigned operational control functions during the performance of their duties:
-(a) a route guide acceptable to the Authority; and
+members of the flight crew and persons assigned operational
 Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations [Subsidiary]
+control functions during the performance of their duties:
+(a) a route guide acceptable to the Authority; and
 (b) aeronautical charts approved by the Authority.
 (2) The route guide and aeronautical charts under subregulation (1), shall be current and appropriate for the proposed types and areas of operations to be conducted by the national air operator.
 ROUTES AND AREAS OF OPERATION
@@ -1854,7 +1892,7 @@ compartment door, the air operator shall ensure that such flight crew compartmen
 (3) The flight crew compartment door on an aeroplane
 operated for the purpose of carrying passengers shall be capable of being locked only from within the compartment in order to prevent unauthorised access.
 Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations [Subsidiary]
-(4) From November 1, 2003, all passenger carrying aeroplanes of a maximum certified take-off mass in excess of forty-five thousand and five hundred kilogrammes or with a passenger seating capacity greater than sixty, shall be equipped with an approved flight crew compartment door that is designed to resist penetration by small arms fire and grenade shrapnel and to resist forcible intrusions by unauthorised persons.
+(4) From 1st November 2003, all passenger carrying aeroplanes of a maximum certified take-off mass in excess of forty-five thousand and five hundred kilogrammes or with a passenger seating capacity greater than sixty, shall be equipped with an approved flight crew compartment door that is designed to resist penetration by small arms fire and grenade shrapnel and to resist forcible intrusions by unauthorised persons.
 (5) A flight crew compartment door under subregulation (4), shall be capable of being locked and unlocked from either pilot station.
 (6) In all aeroplanes which are equipped with a flight crew compartment door under subregulation (5)-
 (a) such door shall be closed and locked from the
@@ -1928,8 +1966,9 @@ aircraft maintenance programme of national air operator;
 directive, airworthiness directive and any other continued airworthiness requirement made mandatory by the Authority; and
 (g) assuring the accomplishment of modifications
 in accordance with an approved standard and, for non-mandatory modifications, the establishment of an embodiment policy.
+(2) A national air operator shall ensure that the certificate
 Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations [Subsidiary]
-(2) A national air operator shall ensure that the certificate of airworthiness issued by the Authority for each aircraft operated remains valid in respect of-
+of airworthiness issued by the Authority for each aircraft operated remains valid in respect of-
 (a) the requirements under subregulation (1);
 (b) the expiration date of the Certificate of
 Airworthiness; and
@@ -1937,11 +1976,13 @@ Airworthiness; and
 Certificate of Airworthiness.
 (3) A national air operator shall ensure that the requirements specified in subregulation (1), are performed in accordance with procedures approved by or acceptable to the Authority.
 (4) A failure to perform any of the requirements under subregulation (1), in accordance with subregulation (3), shall render the aircraft ineligible for operation until the aircraft is restored to an airworthy condition.
+(4A) An air operator shall ensure that there is in effect a valid Certificate of Maintenance Review, issued in accordance with regulation 31A of the Civil Aviation [(No. 5) Airworthiness] Regulations, on board each aircraft he operates, in accordance with the requirements of regulation 11 of the Civil Aviation [(No. 2) Operations] Regulations.
 (5) A national air operator shall ensure that the maintenance, preventive maintenance, and modification of its aircraft and aeronautical products are performed in accordance with its Maintenance Control Manual of the national air operator and current instructions for continued airworthiness, and applicable aviation regulations.
 (6) Notwithstanding any arrangements made by the national air operator with another person or entity for the performance of any maintenance, preventive maintenance, or modifications, the responsibility for all work performed under such arrangement shall remain that of the national air operator.
-(7) A national air operator of an aeroplane over fifty-seven hundred kilogrammes, and a helicopter above three thousand one hundred and seventy-five kilogrammes maximum certified take-off mass, shall monitor and assess maintenance and operational activities with respect to continuing airworthiness and provide the information as prescribed by the Director-General.
-(8) The national air operator of an aeroplane over fifty-seven hundred kilogrammes, and a helicopter above three [Subsidiary] Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations
-thousand one hundred and seventy-five kilogrammes maximum certified take-off mass shall obtain and assess continuing airworthiness information and recommendations available from the Organisation responsible for the type design and shall implement resulting actions considered necessary in accordance with a procedure acceptable to the Authority.
+(7) A national air operator of an aeroplane over fifty-seven hundred kilogrammes, and a helicopter above three thousand one hundred and seventy-five kilogrammes maximum certified [Subsidiary] Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations
+take-off mass, shall monitor and assess maintenance and operational activities with respect to continuing airworthiness and provide the information as prescribed by the Director-General.
+(8) The national air operator of an aeroplane over fifty-
+seven hundred kilogrammes, and a helicopter above three thousand one hundred and seventy-five kilogrammes maximum certified take-off mass shall obtain and assess continuing airworthiness information and recommendations available from the Organisation responsible for the type design and shall implement resulting actions considered necessary in accordance with a procedure acceptable to the Authority.
 EQUIVALENT SYSTEM OF MAINTENANCE
 74. (1) A national air operator may conduct-
 (a) maintenance activities of aircraft and aircraft
@@ -1956,9 +1997,8 @@ APPROVAL AND ACCEPTANCE OF MAINTENANCE
 ORGANISATION SYSTEMS
 75. (1) A national air operator shall not operate an aircraft,
 except for pre-flight inspections, unless it is maintained and released to service by an Approved Maintenance Organisation or equivalent system of maintenance that is approved by the Authority.
-(1A) The pre-flight inspection referred to in subregulation (1)
-may be performed by an operating flight crew member.
 Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations [Subsidiary]
+(1A) The pre-flight inspection referred to in subregulation (1) may be performed by an operating flight crew member.
 (1B) Where a repetitive airworthiness directive inspection is part of the pre-flight inspection specified in subregulation (1), the flight crew member performing such pre-flight inspection shall have a limited certification authorisation for the repetitive airworthiness directive inspection issued under the Civil Aviation [(No. 6) Approved Maintenance Organisation] Regulations, and a Certificate of Release to Service shall be issued by him in respect of that pre-flight inspection.
 (2) The Director-General may recommend that the Authority approve a Maintenance Organisation or an equivalent system of maintenance in respect of aircraft registered in Trinidad and Tobago.
 (3) The State of Registry of an aircraft shall, in respect of such an aircraft which is not registered in Trinidad and Tobago approve an Aircraft Maintenance Organisation or an equivalent system of maintenance, and the Director-General may recommend that the Authority accept such approval.
@@ -1988,9 +2028,9 @@ operational emergency equipment for each flight is serviceable;
 (d) the names and duties of the person or persons
 required to ensure that all maintenance is carried out in accordance with the Maintenance
 Control Manual;
-Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations [Subsidiary]
 (e) a reference to the maintenance programme
 required in regulation 85;
+Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations [Subsidiary]
 (f) a description of the methods for completion and
 retention of the maintenance records of the national air operator required by regulation 80;
 (g) a description of the procedures for monitoring,
@@ -2006,9 +2046,8 @@ which the manual applies;
 (l) a description of procedures for ensuring that
 unserviceabilities affecting airworthiness are recorded and rectified; and
 (m) a description of the procedures for advising the
-Authority of significant in-service occurrences. [Subsidiary] Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations
-(6) A national air operator shall not provide for the use
-of his personnel in commercial air transport any Maintenance Control Manual or portion thereof which has not met the requirements of subregulation (1).
+Authority of significant in-service occurrences.
+(6) A national air operator shall not provide for the use of his personnel in commercial air transport any Maintenance Control Manual or portion thereof which has not met the requirements of subregulation (1). [Subsidiary] Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations
 (7) A national air operator shall ensure that the
 Maintenance Control Manual under this regulation is amended as necessary to keep the information therein up to date and shall incorporate in it such mandatory material as the Authority may require.
 (8) Copies of all amendments under this regulation shall
@@ -2025,10 +2064,10 @@ or accepted by the Authority; or
 (b) through an arrangement with an Aircraft
 Maintenance Organisation with a written maintenance contract agreed between the national air operator and the contracting approved Maintenance Organisation detailing the required maintenance functions and defining the support of the quality functions approved or accepted by the Authority.
 (3) A national air operator shall employ such person or
-persons, acceptable to the Authority, to ensure that all maintenance is carried out to an approved standard such that the maintenance
+persons, acceptable to the Authority, to ensure that all maintenance is carried out to an approved standard such that the maintenance requirements of this Part and requirements of the Maintenance Control Manual of the national air operator are satisfied, and to ensure the functioning of the quality system.
+(4) In employing persons under subregulation (3), the
+national air operator shall designate one person to be accountable for any corrective action resulting from the quality monitoring.
 Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations [Subsidiary]
-requirements of this Part and requirements of the Maintenance Control Manual of the national air operator are satisfied, and to ensure the functioning of the quality system.
-(4) In employing persons under subregulation (3), the national air operator shall designate one person to be accountable for any corrective action resulting from the quality monitoring.
 (5) The person designated under subregulation (4), for maintenance shall not be employed by an Approved Maintenance Organisation under contract, unless specifically agreed by the Authority.
 (6) Where a national air operator is not appropriately approved by the Authority written arrangements shall be made with such an Organisation to carry out the requirements specified in regulation 73.
 (7) The arrangement under subregulation (6), shall be in the form of a written Maintenance Contract between the national air operator and the approved maintenance Organisation detailing the functions specified in regulation 73 and defining the support of the quality functions.
@@ -2038,11 +2077,10 @@ requirements of this Part and requirements of the Maintenance Control Manual of 
 all amendments, which shall be acceptable to the Authority.
 (9) Notwithstanding subregulations (6), (7) and (8), in the case of an aircraft needing occasional line maintenance, the contract may be in the form of individual work orders to the Approved Maintenance Organisation.
 (10) Notwithstanding subregulations (6), (7) and (8), in the case of aircraft component maintenance, including engine maintenance the contract may be in the form of individual work orders to the Approved Maintenance Organisation.
-(11) A national air operator shall provide suitable office accommodation at appropriate locations for the personnel specified in subregulation (3). [Subsidiary] Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations
+(11) A national air operator shall provide suitable office accommodation at appropriate locations for the personnel specified in subregulation (3).
 QUALITY MANAGEMENT SYSTEM
-78. (1) A quality system of a national air operator required
-by regulation 16 shall, for maintenance purposes, additionally include at least the following functions:
-(a) monitoring that the activities of regulation 73
+78. (1) A quality system of a national air operator required by regulation 16 shall, for maintenance purposes, additionally include at least the following functions:
+(a) monitoring that the activities of regulation 73 [Subsidiary] Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations
 are being performed in accordance with the accepted procedures;
 (b) ensure that all contracted maintenance is carried
 out in accordance with the contract;
@@ -2061,8 +2099,9 @@ Maintenance Organisation, the quality management system of the air operator may 
 AIRCRAFT TECHNICAL LOG ENTRIES
 79. (1) A person who takes action in the case of a reported
 or observed failure or malfunction of an aircraft and an aeronautical product, that is critical to the safety of flight shall make, or have made, a record of that action in the maintenance section of the aircraft technical log.
+(2) A national air operator shall have a procedure for
+keeping adequate copies of required records to be carried on board an aircraft, in a place readily accessible to each member of the flight crew and shall ensure that such procedures are recorded in the Operations Manual of a national air operator.
 Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations [Subsidiary]
-(2) A national air operator shall have a procedure for keeping adequate copies of required records to be carried on board an aircraft, in a place readily accessible to each member of the flight crew and shall ensure that such procedures are recorded in the Operations Manual of a national air operator.
 PRESERVATION OF TECHNICAL RECORDS
 80. (1) A national air operator shall ensure that the Aircraft Technical Log is retained for twenty-four months after the date of the last entry.
 (2) A national air operator shall establish a system and keep in a form acceptable to the Authority-
@@ -2075,9 +2114,9 @@ last overhaul of the aircraft or aircraft component subject to mandatory overhau
 (d) the current aircraft inspection status such that
 compliance with the approved operator's aircraft maintenance can be established for ninety days after the aircraft or aircraft component has been permanently withdrawn from service;
 (e) the current status of airworthiness directives and
-all mandatory continuing airworthiness information applicable to the aircraft and aircraft component for ninety days after the aircraft had been permanently withdrawn from service; and [Subsidiary] Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations
+all mandatory continuing airworthiness information applicable to the aircraft and aircraft component for ninety days after the aircraft had been permanently withdrawn from service; and
 (f) details of current modifications and repairs to
-the aircraft, engines, propellers and any other aircraft component vital to the flight safety for ninety days after the aircraft has been permanently withdrawn from service.
+the aircraft, engines, propellers and any other aircraft component vital to the flight safety for ninety days after the aircraft has been permanently withdrawn from service. [Subsidiary] Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations
 (3) Where an aircraft is temporarily transferred from one
 air operator to another, the records specified in subregulations (1) and (2), shall be made available to the new air operator.
 (4) An air operator shall ensure that when an aircraft
@@ -2096,9 +2135,10 @@ include maintenance due to be performed on an established schedule and maintenan
 the aircraft.
 (2) An Aircraft Technical Log and any subsequent
 amendment shall be approved by the Authority.
-Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations [Subsidiary]
 RELEASE TO SERVICE
-82. (1) A national air operator shall not operate an aircraft unless it is maintained and released to service by an approved Maintenance Organisation or under an equivalent system, either of which shall be acceptable to the Authority.
+82. (1) A national air operator shall not operate an aircraft
+unless it is maintained and released to service by an approved Maintenance Organisation or under an equivalent system, either of which shall be acceptable to the Authority.
+Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations [Subsidiary]
 (2) A national air operator using an equivalent system shall not operate an aircraft after release under subregulation (1), unless a certificate of release to service is prepared or caused to be prepared by an appropriately licensed and rated individual.
 (3) The certificate of release to service shall be made in accordance with the national air operator maintenance control manual procedures.
 (4) A national air operator using an Aircraft Maintenance Organisation shall not operate an aircraft after it is released to service, under subregulation (1) unless an appropriate entry is made in accordance with the national air operator Maintenance Control Manual procedures acceptable to the Authority.
@@ -2107,8 +2147,7 @@ MODIFICATIONS AND REPAIRS
 83. (1) All modifications and repairs to an aircraft shall comply with airworthiness requirements acceptable to the Authority.
 (2) Procedures shall be established to ensure that the substantiating data supporting compliance with the airworthiness requirements are retained.
 (3) In the case of a major repair or major modification, such repairs and modifications shall be done in accordance with approved technical data approved or accepted by the Authority.
-(4) An air operator who is authorised to perform maintenance, preventive maintenance, and modifications of any [Subsidiary] Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations
-aircraft, airframe, aircraft engine, propeller, appliance, component, or part thereof, in accordance with the approved operations specifications of the air operator, and wishes to issue Certificates of Release to Service for major repairs or major modifications to an aircraft registered in Trinidad and Tobago, shall use personnel who hold current and valid aircraft maintenance licence.
+(4) An air operator who is authorised to perform maintenance, preventive maintenance, and modifications of any aircraft, airframe, aircraft engine, propeller, appliance, component, or part thereof, in accordance with the approved operations specifications of the air operator, and wishes to issue Certificates of Release to Service for major repairs or major modifications to an aircraft registered in Trinidad and Tobago, shall use personnel who hold current and valid aircraft maintenance licence. [Subsidiary] Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations
 (5) An air operator shall, promptly upon its completion
 of repairs and modifications, prepare a report of each major modification or major repair of an airframe, aircraft engine, propeller, or appliance of an aircraft it operated.
 (6) An air operator shall submit a copy of each report of
@@ -2122,10 +2161,10 @@ seven hundred kilogrammes maximum certified take-off mass or helicopter over thr
 seven hundred kilogrammes maximum certified take-off mass or helicopter over three thousand, one hundred and seventy-five kilogrammes maximum certified take-off mass shall obtain and assess continuing airworthiness information and recommendations available from the Organisation responsible for the type design and shall implement resulting actions considered necessary in accordance with the procedures acceptable to the Authority.
 AIRCRAFT MAINTENANCE PROGRAMME
 85. (1) A national air operator shall provide for the use and
-guidance of maintenance and operational personnel an aircraft
+guidance of maintenance and operational personnel an aircraft maintenance programme, the design and application of which shall observe human factors principles.
+(2) An aircraft maintenance programme of a national air
+operator and any subsequent amendments shall be submitted to the Authority for approval.
 Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations [Subsidiary]
-maintenance programme, the design and application of which shall observe human factors principles.
-(2) An aircraft maintenance programme of a national air operator and any subsequent amendments shall be submitted to the Authority for approval.
 (3) An aircraft maintenance programme under subregulation (2), shall only be accepted by the Authority where it has first been approved by the State of Registry or where appropriate, upon the air operator complying with recommendations provided by the State of Registry.
 (4) The Authority shall require a national air operator to include a reliability programme when the Authority determines that such a reliability programme is necessary.
 (5) Where a determination that a reliability programme is necessary, is made by the Authority under subregulation (4), the national air operator shall provide such procedures and information in the maintenance control manual of the national air operator.
@@ -2138,12 +2177,9 @@ integrity programme;
 paragraphs (a) or (b); and
 (d) where applicable, condition monitoring and
 reliability programme, descriptions for aircraft systems, components, and power plants.
-(7) A national air operator shall not provide for the use of its personnel in commercial air transport maintenance programme or portion thereof which has not been reviewed and approved for the national air operator by the Authority. [Subsidiary] Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations
-(8) Copies of all amendments to the maintenance
-programme shall be furnished promptly to all Organisations or persons to whom the maintenance programme has been issued.
-(9) Approval by the Authority of a maintenance
-programme of a national air operator and any subsequent amendments shall be noted in the Trinidad and Tobago Air
-Operator Certificate pursuant to regulation 7(4)(d).
+(7) A national air operator shall not provide for the use of its personnel in commercial air transport maintenance programme or portion thereof which has not been reviewed and approved for the national air operator by the Authority.
+(8) Copies of all amendments to the maintenance programme shall be furnished promptly to all Organisations or persons to whom the maintenance programme has been issued.
+(9) Approval by the Authority of a maintenance programme of a national air operator and any subsequent amendments shall be noted in the Trinidad and Tobago Air Operator Certificate pursuant to regulation 7(4)(d). [Subsidiary] Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations
 (10) A national air operator shall have an inspection
 programme and a programme covering other maintenance, preventive maintenance and modifications to ensure that-
 (a) maintenance, preventive maintenance and
@@ -2157,19 +2193,19 @@ deviate under subregulation (11), shall provide for surveillance of facilities a
 MAINTENANCE, PREVENTIVE MAINTENANCE
 AND MODIFICATION
 86. (1) A national air operator who is not an Approved
-Maintenance Organisation may perform and approve maintenance, preventive maintenance, or modifications of any aircraft, airframe,
+Maintenance Organisation may perform and approve maintenance, preventive maintenance, or modifications of any aircraft, airframe, aircraft engine, propeller, appliance, or component, or a part thereof for return to service, where approved in the specific operating provisions, as provided in its maintenance programme and maintenance control manual.
+(2) A national air operator may make arrangements
+with an appropriately rated Aircraft Maintenance Organisation for the performance of maintenance, preventive maintenance, or
 Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations [Subsidiary]
-aircraft engine, propeller, appliance, or component, or a part thereof for return to service, where approved in the specific operating provisions, as provided in its maintenance programme and maintenance control manual.
-(2) A national air operator may make arrangements with an appropriately rated Aircraft Maintenance Organisation for the performance of maintenance, preventive maintenance, or modifications of any aircraft, airframe, aircraft engine, propeller, appliance, or component, or part thereof as provided in its maintenance programme and maintenance control manual.
+modifications of any aircraft, airframe, aircraft engine, propeller, appliance, or component, or part thereof as provided in its maintenance programme and maintenance control manual.
 (3) A national air operator which is not approved as an Aircraft Maintenance Organisation may use an appropriately licensed and authorised individual to approve maintenance, preventive maintenance, or modifications of any aircraft, airframe, aircraft engine, propeller, or appliance for return to service after performing or supervising in accordance with technical data approved by the Authority.
 AIRCRAFT MAINTENANCE LICENCE
 87. (1) A person who is directly in charge of maintenance, preventive maintenance, or modification, of any aircraft, airframe, aircraft engine, propeller, appliance, or component, or part thereof and each person performing required inspections and approving release to service shall be appropriately licensed and acceptable to the Authority.
 (2) A person who is directly in charge shall be on site but need not physically observe and direct each worker constantly, but shall be available for consultation and decision on matters requiring instruction or decision from higher authority than that of the persons performing the work.
-(3) In this regulation "a person directly in charge" means a person who is assigned to a position in which he is responsible for the work of a shop or station that performs maintenance modification or other functions affecting the airworthiness of an aircraft. [Subsidiary] Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations
+(3) In this regulation "a person directly in charge" means a person who is assigned to a position in which he is responsible for the work of a shop or station that performs maintenance modification or other functions affecting the airworthiness of an aircraft.
 REST AND DUTY LIMITATIONS AND
 MAINTENANCE PERSONNEL
-88. (1) A national air operator shall not assign, nor shall any
-person perform maintenance functions for aircraft certified for commercial air transport, unless that person has had a minimum rest period of eight hours prior to the beginning of duty.
+88. (1) A national air operator shall not assign, nor shall any person perform maintenance functions for aircraft certified for commercial air transport, unless that person has had a minimum rest period of eight hours prior to the beginning of duty. [Subsidiary] Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations
 (2) A national air operator shall not schedule a person
 performing maintenance functions for aircraft certified for commercial air transport for more than twelve consecutive hours of duty.
 (3) In situations involving unscheduled aircraft
@@ -2187,10 +2223,10 @@ RETENTION AND MAINTENANCE OF RECORDS
 89. (1) A national air operator shall maintain current records
 which detail the qualifications and training of all its employees and contract employees, involved in the operational control, flight operations, ground operations and maintenance of the national air operator.
 (2) A national air operator shall maintain records for
-those employees performing crew member or Flight Operations
+those employees performing crew member or Flight Operations Officer duties in sufficient detail to determine whether the employee meets the experience and qualification for duties in commercial air transport operations.
+(3) Where a crew member in respect of whom a national
+air operator has kept a record becomes a crew member for another operator, that record shall be made available to the new operator.
 Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations [Subsidiary]
-Officer duties in sufficient detail to determine whether the employee meets the experience and qualification for duties in commercial air transport operations.
-(3) Where a crew member in respect of whom a national air operator has kept a record becomes a crew member for another operator, that record shall be made available to the new operator.
 (4) A national air operator shall retain records of the flight time, flight duty periods and rest periods of all its crew members and fuel and oil records for each flight.
 (5) A national air operator shall maintain records for each flight of an aeroplane above forty-nine thousand feet so that the total cosmic radiation dosage received by each crew member over a period of twelve consecutive months can be determined.
 FLIGHT DECK VOICE AND FLIGHT
@@ -2207,10 +2243,8 @@ installation are the same; and
 with respect to the original installation of instruments associated with the recorder.
 PRESERVATION, PRODUCTION AND USE OF FLIGHT
 RECORDER RECORDING
-91. (1) Where an accident involving an aircraft occurs, the national air operator of an aeroplane on which a flight recorder is carried shall, as far as possible, preserve the original recorded [Subsidiary] Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations
-data pertaining to that accident, for a period of sixty days unless otherwise directed by the Authority.
-(2) A national air operator of an aeroplane on which a
-flight recorder is carried shall as far as possible, following an incident that is subject to mandatory reporting, preserve the original recorded data pertaining to that incident, for a period of sixty days unless otherwise directed by the Authority.
+91. (1) Where an accident involving an aircraft occurs, the national air operator of an aeroplane on which a flight recorder is carried shall, as far as possible, preserve the original recorded data pertaining to that accident, for a period of sixty days unless otherwise directed by the Authority.
+(2) A national air operator of an aeroplane on which a flight recorder is carried shall as far as possible, following an incident that is subject to mandatory reporting, preserve the original recorded data pertaining to that incident, for a period of sixty days unless otherwise directed by the Authority. [Subsidiary] Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations
 (3) Where the Authority so directs, a national air
 operator of an aircraft on which a flight recorder is carried shall preserve the original recorded data for a period of sixty days unless otherwise directed by the investigating authority.
 (4) When a flight data recorder is required to be carried
@@ -2227,11 +2261,12 @@ used for purposes other than for the investigation of an accident or incident wh
 for purposes other than for the investigation of an accident or incident which is subject to mandatory reporting except when such recordings are-
 (a) used by the national air operator for airworthiness
 or maintenance purposes only;
-Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations [Subsidiary]
 (b) de-identified; or
 (c) disclosed under secure procedures.
 AIRCRAFT LISTING
-92. (1) A national air operator conducting international or domestic operations shall maintain a current list of each aircraft that it operates in scheduled air transportation and shall send a copy of such record and each change to the Director-General.
+92. (1) A national air operator conducting international or
+domestic operations shall maintain a current list of each aircraft that it operates in scheduled air transportation and shall send a copy of such record and each change to the Director-General.
+Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations [Subsidiary]
 (2) An aircraft of another national air operator operated under an interchange agreement shall also be included in the list referred to in subregulation (1).
 NATIONAL AIR OPERATOR AIRCRAFT TECHNICAL LOG
 93. (1) A national air operator shall have an aircraft technical log as prescribed under regulation 79 which shall be carried on the aircraft.
@@ -2246,12 +2281,9 @@ GENERAL CERTIFICATE AND LICENCES REQUIREMENTS
 (e) non-falsification reproducer or alteration of
 licences;
 (f) surrender of licences;
-(g) re-application of licences; [Subsidiary] Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations
-(h) drug and alcohol testing and reporting,
-required by Part II of the Civil Aviation [(No. 1) General
-Application and Personnel Licensing] Regulations.
-(2) A request for a deviation from any requirements of
-these Regulations shall be made in the same manner as required by the Civil Aviation [(No. 1) General Application and Personnel Licensing] Regulations.
+(g) re-application of licences;
+(h) drug and alcohol testing and reporting, required by Part II of the Civil Aviation [(No. 1) General Application and Personnel Licensing] Regulations.
+(2) A request for a deviation from any requirements of these Regulations shall be made in the same manner as required by the Civil Aviation [(No. 1) General Application and Personnel Licensing] Regulations. [Subsidiary] Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations
 IMPLEMENTING STANDARDS
 95. A national air operator in meeting the requirements of
 Regulations 14, 15, 22, 27, 28, 29, 30, 34, 35, 36, 37, 48, 50, 51, 52, 57, 61, 78, 80, 81 and 89, shall ensure that he complies with the minimum implementing standards set out in Schedule 10.
@@ -2260,30 +2292,31 @@ DIRECTOR-GENERAL MAY AMEND SCHEDULES
 the Schedules.
 TRANSITIONAL PROVISIONS
 97. (1) Notwithstanding the air operator certification
-requirements of these Regulations, a person exercising the privileges of an Air Operator Certificate on the commencement of these Regulations may continue to do so under the conditions of his existing Air Operator Certificate until 30th September 2007 and thereafter shall meet the requirements of these Regulations.
+requirements of these Regulations, a person exercising the privileges of an Air Operator Certificate on the commencement of these Regulations may continue to do so under the conditions of his existing Air Operator Certificate until 30th September 2009 and thereafter shall meet the requirements of these Regulations.
 (2) Notwithstanding subregulation (1), on the
 commencement of these Regulations a person who wishes to apply for an Air Operator Certificate shall meet the requirements of these Regulations.
 (3) An Air Operator Certificate holder who, upon the
-commencement of these Regulations, continues to operate under his existing Air Operator Certificate, shall apply to the Authority for re-certification and successfully complete his re-certification on or before 1st October 2007.
+commencement of these Regulations, continues to operate under his existing Air Operator Certificate, shall apply to the Authority for re-certification and successfully complete his re-certification on or before 1st October 2009.
 Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations [Subsidiary]
-- Margin: (Regulation 305). [223/2005 186/2006 285/2006].
+- Margin: Regulation 305. [223/2005 186/2006 285/2006].
 - Margin: Transport
 - Margin: Transport
+- Margin: Note:
 - Margin: Sub. Leg.
 - Margin: Sub. Leg.
 - Margin: Sub. Leg.
-- Margin: 102/2004. [275/2004 303/2004 32/2005 224/2005 187/2006 286/2006 47/2007].
-- Margin: Citation.
-- Margin: Interpretation. [303/2004 224/2005 187/2006 47/2007].
+- Margin: 102/2004. [275/2004 303/2004 32/2005 224/2005 187/2006 286/2006 47/2007 31/2008 35/2009 198/2009]. Citation.
+- Margin: Interpretation. [303/2004 224/2005 187/2006 47/2007 198/2009].
 - Margin: Ch. 49:03.
+- Margin: Sub. Leg.
 - Margin: Sub. Leg.
 - Margin: Sub. Leg.
 - Margin: Prohibition on operation of aircraft in Trinidad and Tobago. [303/2004 224/2005].
 - Margin: Sub. Leg.
 - Margin: Application for a national Air Operator Certificate.
 - Margin: Sub. Leg.
-- Margin: Contents of aviation manuals. [303/2004].
-- Margin: Issuance or denial of Air Operator Certificate.
+- Margin: Contents of aviation manuals. [303/2004 35/2009].
+- Margin: Issuance or denial of Air Operator Certificate. [224/205].
 - Margin: Contents of Trinidad and Tobago Air Operator Certificate. Schedule 1. Form 1.
 - Margin: Duration of a Trinidad and Tobago Air Operator Certificate.
 - Margin: Amendment of a Trinidad and Tobago Air Operator Certificate.
@@ -2291,14 +2324,14 @@ Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulatio
 - Margin: Director- General to conduct tests and inspections.
 - Margin: Applicability.
 - Margin: Applicant for a Trinidad and Tobago Air Operator Certificate to maintain base of operations.
-- Margin: Management personnel required for commercial air transport operations of a national air operator.
+- Margin: Management personnel required for commercial air transport operations of a national air operator. [35/2009].
 - Margin: Training requirements for company indoctrination training.
 - Margin: National air operator to establish a quality system.
 - Margin: Schedule 2.
-- Margin: Minimum qualifications of Management Personnel.
+- Margin: Minimum qualifications of Management Personnel. [35/2009].
 - Margin: Requirements for submission and revision of policy and procedures.
 - Margin: Applicability of Part III.
-- Margin: Restrictions on operation of aircraft in commercial air transport. [224/2005].
+- Margin: Restrictions on operation of aircraft in commercial air transport. [224/2005 35/2009].
 - Margin: Leasing operations.
 - Margin: Dry leasing operations.
 - Margin: Evidence to be provided by a dry lease operator under regulation 22(a).
@@ -2312,13 +2345,13 @@ Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulatio
 - Margin: National air operator to allow time for proper servicing of aircraft.
 - Margin: Applicability of Part IV.
 - Margin: National air operator to ensure safe and efficient flight operations management. [303/2004].
-- Margin: National air operator to prepare and keep Operations Manual. [303/2004 224/2005].
+- Margin: National air operator to prepare and keep Operations Manual. [303/2004 224/2005 35/2009].
 - Margin: Schedule 3. Part A.
 - Margin: Schedule 3. Part B.
 - Margin: National air operator to have adequate system for flight supervision and journey log.
 - Margin: National air operator to have flight following system. [187/2006].
 - Margin: National air operator to establish and maintain accident prevention and flight safety programme. [224/2005].
-- Margin: Safety Management System. [47/2007].
+- Margin: Safety Management System. [47/2007 35/2009].
 - Margin: National air operator to ensure operations personnel know their duties and responsibilities. Schedule 4.
 - Margin: National air operator to train pilots to proficiency.
 - Margin: National air operator to submit flight and duty time scheme. Sub. Leg.
@@ -2336,7 +2369,7 @@ Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulatio
 - Margin: Approved weather reporting sources. Schedule 5.
 - Margin: National air operator to adhere to certain requirements in frost, ice or snow.
 - Margin: Employees shall comply with State legislation.
-- Margin: National air operator to submit Aircraft Operating Manual.
+- Margin: National air operator to submit Aircraft Operating Manual. [35/2009].
 - Margin: Schedule 6.
 - Margin: National air operator to provide Performance Planning Manual.
 - Margin: National air operator to have aircraft Performance Data System.
@@ -2345,7 +2378,7 @@ Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulatio
 - Margin: National air operator to provide certain information guide.
 - Margin: Restriction on the conduct of routes.
 - Margin: Requirements in respect of navigational systems and facilities.
-- Margin: National air operator to have two-way radio communications .
+- Margin: National air operator to have two-way radio communications.
 - Margin: Definition of certain clauses.
 - Margin: Applicability of Part V.
 - Margin: Security requirements.
@@ -2359,7 +2392,9 @@ Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulatio
 - Margin: Carriage of sporting weapons and ammunition.
 - Margin: Definition of certain clauses.
 - Margin: Applicability of Part VI.
-- Margin: Maintenance Responsibility [187/2006].
+- Margin: Maintenance Responsibility [187/2006 198/2009].
+- Margin: Sub. Leg.
+- Margin: Sub. Leg.
 - Margin: National air operator maintenance activities.
 - Margin: Approval and acceptance of maintenance organisation systems. [303/2004].
 - Margin: Sub. Leg.
@@ -2387,4 +2422,4 @@ Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulatio
 - Margin: Sub. Leg.
 - Margin: National air operator to comply with minimum implementing standards. Schedule 10.
 - Margin: Director- General may amend the Schedules.
-- Margin: Transitional provisions. [275/2004 32/2005 224/2005 286/2006].
+- Margin: Transitional provisions. [275/2004 32/2005 224/2005 286/2006 31/2008].

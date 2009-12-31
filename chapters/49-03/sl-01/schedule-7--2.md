@@ -27,4 +27,4 @@ computations;
 (e) special information the following:
 (i) runway visual range measurement equipment; and
 (ii) prevailing winds under low visibility conditions.
-- Margin: [Regulation 57(2)].
+- Margin: Regulation 57(2).

@@ -19,7 +19,8 @@ flight rules/visual flight rules, cat ii, cat iii, flights in known icing condit
 (j) runway slope;
 (k) limitations on wet or contaminated runways;
 (l) airframe contamination; and
-(m) post landing. 3.1 Normal Procedures
+(m) post landing.
+3.1 Normal Procedures
 The normal procedures and duties assigned to the crew, the appropriate checklists, the system for use of the checklists and a statement covering the necessary co-ordination procedures between flight and cabin crew. The following normal procedures and duties shall be included:
 (a) pre-flight;
 (b) pre-departure and loading;
@@ -196,4 +197,4 @@ services;
 (j) en route communication and navigation procedures,
 including holding; and
 (k) airport categorisation for flight crew competence qualification.
-- Margin: [Regulation 54(5)].
+- Margin: Regulation 54(5).

@@ -20,4 +20,4 @@ errors on aircraft and components.
 Note: The primary purpose of the Quality System for maintenance is to monitor compliance with
 the approved procedures specified in an operators maintenance control manual to ensure compliance and thereby ensure the maintenance aspects of the operational safety of the aircraft. In particular, this part of the Quality System provides a monitor of the effectiveness of maintenance, and should include a feedback system to ensure that corrective actions are identified and carried out in a timely manner.
 Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations [Subsidiary]
-- Margin: [Regulation 16(10)].
+- Margin: Regulation 16(10).

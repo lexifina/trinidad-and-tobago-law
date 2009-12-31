@@ -7,8 +7,8 @@ expressed in tonnes and the distance flown.
 R = N x U
 Where: R = the charge for the flight
 N = the number of service units relating to that flight U = the unit rate
-The number of service units ("N") shall be calculated
-according to the following formula: N = d x p
+The number of service units ("N") shall be calculated according to the
+following formula: N = d x p
 Where: "d" is the distance factor for the flight, and
 "p" is the weight factor for the aircraft
 The distance factor shall be the number of kilometres flown by the
@@ -717,7 +717,7 @@ SHARING NETWORK
 36. The Director-General may establish a system to promote the establishment of safety information sharing networks among all users of the aviation system and may facilitate the free exchange of information on actual and potential safety deficiencies.
 PROCEDURES MANUAL
 37. The Director-General shall ensure that a Procedures Manual for the implementation of these Regulations is developed and maintained, and distributed to all personnel who are required to know and participate in aircraft accident and incident investigations.
-- Margin: [Regulation 4(2)].
+- Margin: Regulation 4(2).
 - Margin: 306/2006.
 - Margin: Citation.
 - Margin: Interpretation.
