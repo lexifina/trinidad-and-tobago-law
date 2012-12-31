@@ -1,12 +1,9 @@
 SUBSIDIARY LEGISLATION
 INCOME TAX (MISCELLANEOUS CLEARANCE)
 REGULATIONS
-ARRANGEMENT OF REGULATIONS REGULATION
-1. Citation. 2. Interpretation. 3. Clearance Certificate fee. 4. Issue of Clearance Certificate.
-}
-5. to (Revoked by Act No. 5 of 1995). 7. 8. Revocation of certificates. 9. (Revoked by Act No. 5 of 1995). 10. Appeal. 11. Offence and penalty.
-SCHEDULE.
-[Subsidiary]
+ARRANGEMENT OF REGULATIONS
+} REGULATION
+1. Citation. 2. Interpretation. 3. Clearance Certificate fee. 4. Issue of Clearance Certificate. 5. to (Revoked by Act No. 5 of 1995). 7. 8. Revocation of certificates. 9. (Revoked by Act No. 5 of 1995). 10. Appeal. 11. Offence and penalty. SCHEDULE.
 INCOME TAX (MISCELLANEOUS CLEARANCE)
 REGULATIONS
 made under section 125

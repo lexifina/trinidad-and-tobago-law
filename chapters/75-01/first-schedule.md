@@ -10,26 +10,26 @@ or not, including-
 (c) any form of property created by the person disposing of it, or
 otherwise coming to be owned without being acquired; "branch or agency" means any factorship, agency, receivership, branch
 or management; "chargeable gains" means every gain accruing on the disposal of an asset after
-1st January, 1966 (that is the commencement of the Finance Act 1966) except so far as otherwise expressly provided by these Rules; "control" shall be construed in accordance with rule 3 of the Third Schedule
+1st January 1966 (that is the commencement of the Finance Act 1966) except so far as otherwise expressly provided by these Rules; "control" shall be construed in accordance with rule 3 of the Third Schedule
 of the Corporation Tax Act; "disposal" except as otherwise expressly provided by these Rules has the
-meaning assigned to that expression in rule 4; "legatee" includes any person taking under a testamentary disposition or on
-an intestacy or partial intestacy, whether he takes beneficially or as trustee, and a donatio mortis causa shall be treated as a testamentary disposition and shall not be treated as a gift; "market value" in relation to any asset, means subject to rule 7, the price
+meaning assigned to that expression in rule 4; "legatee" includes any person taking under a testamentary disposition or on an
+intestacy or partial intestacy, whether he takes beneficially or as trustee, and a donatio mortis causa shall be treated as a testamentary disposition and shall not be treated as a gift; "market value" in relation to any asset, means subject to rule 7, the price
 which that asset might reasonably be expected to fetch on a sale in the open market; "non-resident company" has the meaning assigned to that expression for the
 purposes of the Corporation Tax Act in section 2 thereof; "person" includes a company; "part disposal" has the meaning given by subrule (2); "personal representative" means an executor, original or by representation, or
 administrator for the time being of a deceased person, and as regards any liability for the payment of death duties, includes any person who takes possession of, or intermeddles with, the property of the deceased person without the authority of the personal representative or the Court; "principal" means, in relation to a branch or agency, the person, by whatever
 name called, managing or in charge of the branch or agency; "resident company" has the meaning assigned to that expression for the
-purposes of the Corporation Tax Act in section 2 thereof; "short-term capital gains" means chargeable gains accruing on a disposal of
-an asset within twelve months of its acquisition; "trading stock", in relation to any trade, means any property of any description
+purposes of the Corporation Tax Act in section 2 thereof; "short-term capital gains" means chargeable gains accruing on a disposal of an
+asset within twelve months of its acquisition; "trading stock", in relation to any trade, means any property of any description
 whether real or personal being either-
 (a) property such as is sold in the ordinary course of the trade or
 would be so sold if it were mature, or if its manufacture, preparation or construction were complete; or
 (b) materials such as are used in the manufacture, preparation
 or construction of any such property as is referred to in paragraph (a).
 (2) For the purposes of these Rules-
-(a) references to a disposal of an asset include references to a part
-disposal of the asset;
-(b) there is a part disposal of an asset where an interest or right in
-or over the asset is created by the disposal, as well as where it subsists before the disposal, and generally, there is a part disposal of an asset where, on a person making a disposal, any description of property derived from the asset remains undisposed of.
+(a) references to a disposal of an asset include references to a
+part disposal of the asset;
+(b) there is a part disposal of an asset where an interest or right
+in or over the asset is created by the disposal, as well as where it subsists before the disposal, and generally, there is a part disposal of an asset where, on a person making a disposal, any description of property derived from the asset remains undisposed of.
 (3) In the case of a disposal within the meaning of rule 4(1)(a), (b) and (c), the time of the disposal shall be the time when the right to the capital sum is derived as described in that subrule.
 (4) A hire purchase or other transaction under which the use and enjoyment of an asset is obtained by a person for a period at the end of which the property in the asset will or may pass to that person shall be treated for the purposes of these Rules, both in relation to that person and in relation to the person from whom he obtains the use and enjoyment of the asset, as if it amounted to an entire disposal of the asset to that person at the beginning of the period for which he obtains the use and enjoyment of the asset, but, subject to such adjustments of tax, whether by way of repayment or discharge of tax or otherwise, as may be required, where the period for which that person has the use and enjoyment of the asset terminates without the property in the asset passing to him.
 PART I
@@ -47,12 +47,12 @@ kind of damage or injury to, or the loss or depreciation of, assets;
 (c) capital sums in return for forfeiture or surrender of rights, or
 for refraining from exercising rights.
 (2) Subject to the provisions of these Rules, a person's acquisition of an asset and the disposal of it to him shall for the purposes of these Rules be deemed to be for a consideration equal to the market value of the asset-
-(a) where he acquires the asset otherwise than by way of a bargain
-made at arm's length and in particular where he acquires it by way of gift or by way of distribution from a company in respect of shares in the company; or
-(b) where he acquires the asset wholly or partly for a consideration
-that cannot be valued, or in connection with his own or another's loss of office or employment or diminution of emoluments, or otherwise in consideration for or in recognition of his or another's services or past services in any office or employment or of any other service rendered by him or another; or
-(c) where he acquires the asset as trustee for creditors of the person
-making the disposal.
+(a) where he acquires the asset otherwise than by way of a
+bargain made at arm's length and in particular where he acquires it by way of gift or by way of distribution from a company in respect of shares in the company; or
+(b) where he acquires the asset wholly or partly for a
+consideration that cannot be valued, or in connection with his own or another's loss of office or employment or diminution of emoluments, or otherwise in consideration for or in recognition of his or another's services or past services in any office or employment or of any other service rendered by him or another; or
+(c) where he acquires the asset as trustee for creditors of the
+person making the disposal.
 (3) In relation to assets held by a person as nominee for another person, or as trustee for another person absolutely entitled as against the trustee, or for any person who would be so entitled but for being an infant or other person under disability (or for two or more persons who are or would be jointly so entitled), these Rules shall apply as if the property were vested in, and the acts of the nominee or trustee in relation to the assets were the acts of, the person or persons for whom he is the nominee or trustee (acquisitions from or disposals to him by that person or persons being disregarded accordingly).
 (4) In this rule, "capital sum" means any money or money's worth which is not excluded from the consideration taken into account in the computation under these Rules.
 5. (1) Except as otherwise expressly provided, the amount of a loss accruing on a disposal of an asset shall be computed in the same way as the amount of a gain accruing on a disposal.
@@ -69,8 +69,8 @@ description acquired by him for personal expenditure outside Trinidad and Tobago
 any wrong or injury suffered by an individual in his person or in his profession or vocation;
 (c) from winnings from betting lawfully carried on under or by
 virtue of the Gambling and Betting Act, including pool betting and lotteries or games with prizes;
-(d) on the disposal of an asset by an individual or a company which
-is under the provisions of this Act or of the Corporation Tax Act, exempt from tax;
+(d) on the disposal of an asset by an individual or a company
+which is under the provisions of this Act or of the Corporation Tax Act, exempt from tax;
 (e) on the disposal of any security in Trinidad and Tobago;
 (f) private motor-cars, household goods and owner-occupied
 houses disposed of for five thousand dollars or under.
@@ -86,10 +86,10 @@ GENERAL
 8. The following provisions of these Rules shall have effect for computing for the purposes of this Act the amount of a gain accruing on the disposal of an asset.
 EXPENDITURE-GENERAL PROVISIONS
 9. (1) Subject to the following provisions of these Rules, the sums allowable as a deduction from the consideration in the computation under these Rules of the gain accruing to a person on the disposal of an asset shall be restricted to-
-(a) the amount or value of the consideration, in money or money's
-worth, given by him or on his behalf wholly and exclusively for the acquisition of the asset, together with the incidental costs to him of the acquisition or, if the asset was not acquired by him, any expenditure wholly and exclusively incurred by him in providing the asset;
-(b) the amount of any expenditure wholly and exclusively incurred
-on the asset by him or on his behalf for the purpose of enhancing the value of the asset, being expenditure reflected in the state or nature of the asset at the time of the disposal, and any expenditure wholly and exclusively incurred by him in establishing, preserving or defending his title to, or to a right over, the asset;
+(a) the amount or value of the consideration, in money or
+money's worth, given by him or on his behalf wholly and exclusively for the acquisition of the asset, together with the incidental costs to him of the acquisition or, if the asset was not acquired by him, any expenditure wholly and exclusively incurred by him in providing the asset;
+(b) the amount of any expenditure wholly and exclusively
+incurred on the asset by him or on his behalf for the purpose of enhancing the value of the asset, being expenditure reflected in the state or nature of the asset at the time of the disposal, and any expenditure wholly and exclusively incurred by him in establishing, preserving or defending his title to, or to a right over, the asset;
 (c) the incidental costs to him of making the disposal.
 (2) For the purposes of this rule and for the purposes of all other provisions of this Part, the incidental costs to the person making the disposal, of the acquisition of the asset or of its disposal shall consist of expenditure wholly and exclusively incurred by him for the purposes of the acquisition or, as the case may be, the disposal, being fees, commission or remuneration paid for the professional services of any surveyor or valuer, or auctioneer, or accountant, or agent or legal adviser and costs of transfer or conveyance (including stamp duty) together-
 (a) in the case of the acquisition of an asset, with costs of
@@ -97,8 +97,7 @@ advertising to find a seller; and
 (b) in the case of a disposal, with costs of advertising to find a
 buyer and costs reasonably incurred in making any valuation or apportionment required for the purposes of the computation under these Rules, including in particular expenses reasonably incurred in ascertaining market value where required by this Part.
 PART DISPOSAL
-10. (1) Where a person disposes of an interest or right in or over an asset and, generally wherever on the disposal of an asset any description of property derived from that asset remains undisposed of, the sums which under rule 9
-(1)(a) and (b) are attributable to the asset shall, both for the purposes of the computation under these Rules of the chargeable gain accruing on the disposal and for the purpose of applying these Rules in relation to the property which remains undisposed of, be apportioned.
+10. (1) Where a person disposes of an interest or right in or over an asset and, generally wherever on the disposal of an asset any description of property derived from that asset remains undisposed of, the sums which under rule 9 (1)(a) and (b) are attributable to the asset shall, both for the purposes of the computation under these Rules of the chargeable gain accruing on the disposal and for the purpose of applying these Rules in relation to the property which remains undisposed of, be apportioned.
 (2) This rule shall not be taken as requiring the apportionment of any expenditure which, on the facts, is wholly attributable to what is disposed of, or wholly attributable to what remains undisposed of.
 PREMIUMS UNDER POLICIES OF INSURANCE
 11. There shall be excluded from the sums allowable as a deduction in the computation under these Rules of the gain accruing to a person on the disposal of an asset any premiums or other payments made under a policy of insurance of the risk of any kind of damage or injury to, or loss or depreciation of, the asset.
@@ -107,8 +106,8 @@ CONSIDERATION DUE AFTER TIME OF DISPOSAL
 (2) In the computation under these Rules consideration for the disposal shall be brought into account without any discount for postponement of the right to receive any part of it and, in the first instance, without regard to a risk of any part of the consideration being irrecoverable or the right to receive any part of the consideration being contingent; and if any part of the consideration so brought into account is subsequently shown to the satisfaction of the Board of Inland Revenue to be irrecoverable, such adjustment, whether by way of discharge or repayment of tax or otherwise, shall be made as is required in consequence.
 CONTINGENT LIABILITIES
 13. (1) In the first instance no allowance shall be made in the computation under these Rules-
-(a) in the case of a disposal by way of assigning a lease of land or
-other property, for any liability remaining with, or assumed by, the person making the disposal by way of assigning the lease which is contingent on a default in respect of liabilities thereby or subsequently assumed by the assignee under the terms and conditions of the lease;
+(a) in the case of a disposal by way of assigning a lease of land
+or other property, for any liability remaining with, or assumed by, the person making the disposal by way of assigning the lease which is contingent on a default in respect of liabilities thereby or subsequently assumed by the assignee under the terms and conditions of the lease;
 (b) for any contingent liability of the person making the disposal
 in respect of any covenant for quiet enjoyment or other obligation assumed as vendor of land, or of any estate or interest in land, or as a lessor;
 (c) for any contingent liability in respect of a warranty or
@@ -137,8 +136,6 @@ CONNECTED PERSONS
 - Margin: 29 of 1966.
 - Margin: Ch. 75:02.
 - Margin: Ch. 75:02.
-- Margin: Ch. 75:02.
 - Margin: Losses.
-- Margin: Ch. 11:19.
 - Margin: Ch. 11:19.
 - Margin: Ch. 75:02.
