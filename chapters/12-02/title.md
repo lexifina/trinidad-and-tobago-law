@@ -14,7 +14,6 @@ Act
 18 of 1994
 11 of 1961 28 of 1996 172/1961 1 of 2000
 8/1962 16 of 2005
-1-4 .. 1/2009 5-6 .. 1/2006 7-8 .. 1/2009 9-18 .. 1/2006 19-32 .. 1/2009 33-36 .. 1/2006 37-40 .. 1/2009 41-52 .. 1/2006 53-54 .. 1/2009 55-56 .. 1/2006
 Index of Subsidiary Legislation
 Page Criminal Procedure (Change of Venue) Rules (LN 203/1980) … … 56
 Note
