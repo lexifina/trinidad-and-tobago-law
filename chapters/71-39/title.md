@@ -2,7 +2,7 @@ TREASURY NOTES ACT
 CHAPTER 71:39
 Act
 14 of 1995
-7 1/2009
+1-2 3-6 7
 Index of Subsidiary Legislation
 Page Resolutions (made under section 3) ... 7
 CHAPTER 71:39
