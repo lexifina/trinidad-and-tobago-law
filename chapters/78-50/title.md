@@ -4,8 +4,6 @@ Act
 43 of 1934 Amended by
 15 of 1937 29 of 1966 19 of 1948 45 of 1979 21 of 1949 26 of 1989 21 of 1959 37 of 1989 34 of 1960 239/1990
 8/1962 6 of 1991 38/1962 6 of 1993 97/1963 9 of 1997
-3-6 .. 1/2006 7-8 .. 1/2009 9-24 .. 1/2006 25-26 .. 1/2009 27-34 .. 1/2006 35-36 .. 1/2009 37-44 .. 1/2006
-55-60 .. 1/2009
 Index of Subsidiary Legislation
 Page Resolution (GN 71/1956) ... 42 Resolution (GN 142/1967) ... 43 Excise (General Provisions) Order (GN 58/1957) … … … 44 Excise Duty (Spirits) Order (GN 196/1957) ... 45 Excise Duty Order (GN 66/1961) ... 45 Excise Duty (Alcoholic Beverages) Order (LN 178/2009) … … 46 Excise Duty (Other Malt Beverage) Order (GN 119/1973) … … 48 Excise Duty (Lubricating Oils) Order (GN 3/1968) … … … 49 Excise Duty (Petroleum Products) Order (LN 86/1997) … … … 50 Excise Duty (Edible Oil) Order (LN 9/1989) ... 51 Excise Duty (Tobacco Products) Order (LN 177/2009) … … … 51 Excise Duty (Beer) Order (GN 124/1978) ... 52 Excise Officers (Overtime) Regulations (GN 42/1957) … … … 52 Excise Regulations (G 27.12.1934) ... 54 Excise (Fees) Regulations (GN 43/1957)... 63
 Note on Validation
