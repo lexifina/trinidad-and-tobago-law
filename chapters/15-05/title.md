@@ -1,10 +1,11 @@
 POLICE COMPLAINTS AUTHORITY ACT
 CHAPTER 15:05
 Act
-8 of 2006
+8 of 2006 Amended by 12 of 2011
 Note on Subsidiary Legislation
 This Chapter contains no subsidiary legislation.
-Note on Section 53 Section 53 amends section 23(6) of the Domestic Violence Act, Chap. 45:56. See Act No. 8 of 2006.
+Note on Section 53 Section 53 amends section 23(6) of the Domestic Violence Act, Chap. 45:56-
+See Act No. 8 of 2006.
 CHAPTER 15:05
 POLICE COMPLAINTS AUTHORITY ACT
 ARRANGEMENT OF SECTIONS
@@ -14,10 +15,10 @@ PRELIMINARY
 1. Short title. 2. Commencement. 3. Act inconsistent with Constitution. 4. Interpretation.
 PART II
 THE POLICE COMPLAINTS AUTHORITY
-5. Establishment of the Authority. 6. Membership of the Authority. 7. Qualification of Director and Deputy Director. 8. Disqualification of Director and Deputy Director. 9. Tenure of office.
-10. Gazetting of membership. 11. Acting appointment. 12. Revocation of appointment. 13. Resignation. 14. Remuneration. 15. Location. 16. Staff. 17. Funding. 18. Auditing of accounts. 19. Independence of the Authority. 20. Annual report.
+5. Establishment of the Authority. 6. Membership of the Authority. 7. Qualification of Director and Deputy Director. 8. Disqualification of Director and Deputy Director. 9. Tenure of office. 10. Gazetting of membership. 11. Acting appointment. 12. Revocation of appointment. 13. Resignation. 14. Remuneration. 15. Location. 16. Staff. 17. Funding. 18. Auditing of accounts. 19. Independence of the Authority. 20. Annual report.
 PART III
-POWERS AND FUNCTIONS OF THE AUTHORITY 21. Functions of the Authority. 22. Powers of the Authority.
+POWERS AND FUNCTIONS OF THE AUTHORITY
+21. Functions of the Authority. 22. Powers of the Authority.
 ARRANGEMENT OF SECTIONS-Continued
 SECTION
 23. Co-operation with any person or body. 24. Exercise of the functions of the Authority. 25. Power to appoint specialists.
