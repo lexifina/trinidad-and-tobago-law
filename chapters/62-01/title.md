@@ -16,10 +16,11 @@ Amended by
 34 of 1995
 8 of 1996
 79 of 2000
-1-2 .. 3-70 .. 1/2009 71-80 .. 81-152 .. 1/2009 153-154 .. 155-160 .. 1/2009
+13 of 2010
 Index of Subsidiary Legislation
 Page
-Petroleum Regulations (GN 5/1970) ... 30 Price of Petroleum Products Order (GN 110/1974) … … … 72 Petroleum (Protection Against Fire) Regulations (GN 83/1960)… … 80 Oil Tanks Regulations (GN 19/1949) ... 82 Petroleum (Testing, Storage, etc.) Regulations (GN 99/1946) … … 102 Petroleum (Compressed Natural Gas) Regulations (LN 196/1994) … 125 Petroleum (Prescribed Form) Regulations (LN 100/1989) … … 150 Price of Compressed Natural Gas Order (LN 169/2008) … … 154 Petroleum (Pollution Compensation) Regulations (LN 134/1997) … 155 Petroleum (Royalties) (Onshore Crude Oil) Regulations (LN 173/1999) … 158 Petroleum (Form for Objection to Issue of Licences for Petroleum Operations) Order (LN 160/1992) ... 159
+Petroleum Regulations (GN 5/1970) ... 30 Price of Petroleum Products Order (GN 110/1974) … … … 72 Petroleum (Protection Against Fire) Regulations (GN 83/1960)… … 80 Oil Tanks Regulations (GN 19/1949) ... 82 Petroleum (Testing, Storage, etc.) Regulations (GN 99/1946) … … 102 Petroleum (Compressed Natural Gas) Regulations (LN 196/1994) … 125 Petroleum (Prescribed Form) Regulations (LN 100/1989) … … 150 Price of Compressed Natural Gas Order (LN 169/2008) … … 154 Petroleum (Pollution Compensation) Regulations (LN 134/1997) … 155 Petroleum (Royalties) (Onshore Crude Oil) Regulations (LN 173/1999) … 158 Petroleum (Form for Objection to Issue of Licences for Petroleum Operations)
+Order (LN 160/1992) ... 159
 Note on Subsidiary Legislation
 The following Subsidiary Legislation have been omitted:
 (a) Notices of Application for Licences made under section 7 of the Act;
@@ -33,9 +34,10 @@ Regulations;
 (h) Renewal of Licence Notice made under regulation 21 of the Petroleum Regulations;
 (i) Petroleum Impost Rating Orders made under regulation 72 of the Petroleum
 Regulations.
-N.B. For references with respect to omissions of Subsidiary Legislation, in addition to those mentioned above, see (a) the Consolidated Index of Subsidiary Legislation to 1st January 1994 and (b) the Consolidated Index of Subsidiary Legislation to 1st January 2005.
+N.B. For references with respect to omissions of Subsidiary Legislation, in addition to those mentioned above, see (a) the Consolidated Index of Subsidiary Legislation to 1st January 1994 and
+(b) the Consolidated Index of Subsidiary Legislation to 1st January 2005.
 Note on section 39
-The former section 38(2) of this Act (replaced by the present section 39) provided for the Ordinances mentioned in that section to continue to operate in relation to petroleum "until regulations are made under section 29 with respect to any matter contained" in these Ordinances. Regulations (GN 5/1970) were made under section 29. Therefore "for the avoidance of doubt" section 9 of the Law Revision (Miscellaneous Provisions) Act No. 47 of 1980, declared that "the Petroleum Regulations 1970 (5/1970) shall not be deemed to have had the effect" of repealing any of these Ordinances.
+The former section 38(2) of this Act (replaced by the present section 39) provided for the Ordinances mentioned in that section to continue to operate in relation to petroleum "until Regulations are made under section 29 with respect to any matter contained" in these Ordinances. Regulations (GN 5/1970) were made under section 29. Therefore "for the avoidance of doubt" section 9 of the Law Revision (Miscellaneous Provisions) Act No. 47 of 1980, declared that "the Petroleum Regulations 1970 (5/1970) shall not be deemed to have had the effect" of repealing any of these Ordinances.
 N.B. With respect to the above see LN 185/1998.
 CHAPTER 62:01
 PETROLEUM ACT
