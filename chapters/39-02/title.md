@@ -2,7 +2,7 @@ TEACHERS' PENSIONS ACT
 CHAPTER 39:02
 Act
 22 of 1952 Amended by
-3 of 1954 40 of 1955 11 of 1957 8 of 1959 31 of 1964 38 of 1966 5 of 1985 *9 of 1987 *19 of 1989 20 of 1997 17 of 2007 *30 of 2007 *21 of 2008 *1 of 2009
+3 of 1954 40 of 1955 11 of 1957 8 of 1959 31 of 1964 38 of 1966 5 of 1985 *9 of 1987 *19 of 1989 20 of 1997 17 of 2007 *30 of 2007 *21 of 2008 *1 of 2009 *13 of 2010
 *See Note on page 2
 Index of Subsidiary Legislation
 Page Teachers' Pensions Regulations (Act No. 22 of 1952) … … … 18
@@ -14,6 +14,8 @@ Note on Act No. 21 of 2008
 By Act No. 21 of 2008 the provisions of sections 12A and 12B took effect from 1st January 2005.
 Note on Act No. 1 of 2009
 Amendments made to section 12(1) by Act No. 1 of 2009 took effect from 1st October 2008.
+Note on Act No. 13 of 2010
+Amendments made to section 12(1) by Act No. 13 of 2010 took effect from 1st September 2010.
 CHAPTER 39:02
 TEACHERS' PENSIONS ACT
 ARRANGEMENT OF SECTIONS
