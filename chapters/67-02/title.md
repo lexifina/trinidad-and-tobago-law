@@ -3,7 +3,6 @@ CHAPTER 67:02
 Act
 19 of 1954 Amended by
 6 of 1963 15/1955 102/1977 45 of 1979 17 of 1997
-1-2 .. 3-88 .. 1/2006 89-90 .. 91-102 .. 1/2006 103-109 ..
 Index of Subsidiary Legislation
 Page Equine Influenza (Infected Places) Orders: [LN 30/1986-(Santa Rosa Paddock)] ... 18 [LN 31/1986-(Queen's Park Paddock)] ... 18 [LN 32/1986-(Union Park Paddock)] ... 19 [LN 57/1994-(Paradise Farm, Carapo)]... 19 [LN 58/1994-(Trinidad Race Club Santa Rosa Park, O'Meara)] … 20 [LN 59/1994-(Highclaire Stud Farm, Ragoonanan Road, Enterprise)] … 20 Diseases of Animals (Veterinary Export Certificates) Regulations (GN 128/1949) ... 21 Fowl Pest Order (GN 164/1952) ... 22 Anthrax Regulations (GN 28/1955) ... 31 Swine Fever Regulations (GN 29/1955) ... 38 Epizootic Abortion Regulations (GN 30/1955) ... 44 Foot and Mouth Disease Regulations (GN 60/1955) … … … 45 Paralytic Rabies Regulations (GN 50/1956) ... 62 Equine Encephalomyelitis Regulations (GN 21/1960) … … … 66 Tuberculosis in Cattle and Goats Regulations (GN 15/1967) … … 69 Bovine Brucellosis or Contagious Abortion (Eradication) Regulations
 (LN 108/2003) ... 70 Amblyomma Variegatum (Prevention and Control) Regulations (LN 31/1998) ... 79 Importation of Frozen Carcases and Boiling of Animal Foodstuffs Regulations (G 24.12.31; GN 27/1955) ... 86 Animals (Importation) Control Regulations (GN 27/1955) … … 88 Importation of Poultry and Non-Poultry Products Permit Notice (LN 233/1986) ... 107 Poultry (Application of Act) Order (GN 16/1955) … … … 109
