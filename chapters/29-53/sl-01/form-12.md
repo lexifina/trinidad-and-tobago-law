@@ -3,13 +3,14 @@ THE NURSING COUNCIL OF TRINIDAD AND TOBAGO
 (Nurses and Midwives Registration Act)
 Application Rec. No... No... Date received:
 ...
-APPLICATION FOR ENROLMENT AS A NURSING
+AppLICATION FOR ENROLMENT AS A NURSING
 ASSISTANT IN TRINIDAD AND TOBAGO
 I. (To be completed in handwriting of Applicant)
 I hereby make application to be Enrolled by the Nursing Council of Trinidad and Tobago under the provisions of section 33 of the Nurses and Midwives Registration Act, and the grant to me of a Certificate of Enrolment stating that my name has been placed on the Roll of Nursing Assistants maintained by the Council.
 I promise in the event of my being so enrolled and in consideration thereof, to be bound by, and to conform in all respects to the Rules and Regulations thereto applying.
 In support of this application I now submit the following particulars:
-(1) Surname ... PERSONAL (in Block Letters)
+(1) Surname ...
+(in Block Letters) PERSONAL
 (2) Other name(s) ... INFORMATION
 1st 2nd 3rd
 (3) If married, state maiden name ...
