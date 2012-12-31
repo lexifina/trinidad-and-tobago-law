@@ -3,7 +3,6 @@ COMMISSION ACT
 CHAPTER 54:70
 Act
 42 of 1945 Amended by 32 of 1952 49 of 1952 26 of 1954 15 of 1958 25 of 1960 8 of 1961 16 of 1962 9 of 1969 31 of 1972 45 of 1979 11 of 1988 37 of 1989 28 of 1994 32 of 1994 6 of 2009
-1-10 .. 11-22 .. 1/2006 23-26 .. 27-46 .. 1/2006 47-62 .. 63-69 .. 1/2006
 Note on Subsidiary Legislation
 Subsidiary Legislation made under sections 10, 31, 33, 34A and 34B have been omitted. See the Current Edition of the Consolidated Index of Acts and Subsidiary Legislation for references to these Subsidiary Legislation.
 Note on Repealed Ordinances
