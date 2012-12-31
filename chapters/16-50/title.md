@@ -2,7 +2,7 @@ DISASTERS MEASURES ACT
 CHAPTER 16:50
 Act
 47 of 1978
-1-6 - 1/2006
+1-6 -
 Note on Subsidiary Legislation
 This Chapter contains no subsidiary legislation.
 Note
