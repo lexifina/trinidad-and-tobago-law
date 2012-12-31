@@ -4,7 +4,6 @@ Act
 17 of 1981
 Amended by
 6 of 1993
-3-30 .. 1/2006
 Index of Subsidiary Legislation
 Page Blood Tests (Evidence of Paternity) Regulations (LN 92/1983) … … 17 Prescribed Fees Regulations (LN 91/1983) ... 30
 CHAPTER 46:07
