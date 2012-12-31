@@ -11,7 +11,8 @@ Amended by
 14 of 1999
 *See Note on Amendment at page 2
 Index of Subsidiary Legislation
-Page Mental Health (Appointment of Psychiatric Ward) Order (LN 12/1997) … 38
+Page Mental Health (Appointment of Psychiatric Ward) Order (LN 12/1997) … 38 Mental Health (Appointment of Psychiatric Hospital, Scarborough General
+Hospital) Order (LN 412/2012) ... 39
 Note on Subsidiary Legislation
 For subsidiary legislation made under section 64 of the Act of this Chapter, see LN 121/1980 which amends Order 77 of the Rules of the Supreme Court 1975 and inserts Order 77A in those Rules.
 Note on Amendment
@@ -29,22 +30,25 @@ HOSPITAL OR WARD
 psychiatric hospital.
 7. Admission of urgent admission patient. 8. Urgent admission patient to be examined by Psychiatric
 Hospital Director.
-9. Admission of voluntary patients.
-10. Admission of medically recommended patients. 11. Conditional discharge of medically recommended patient. 12. Discharge of medically recommended patient. 13. Admission by order of Court. 14. Admission by Order of the Minister of National Security. 15. Admission on application of Mental Health Officer. Indemnity.
+9. Admission of voluntary patients. 10. Admission of medically recommended patients. 11. Conditional discharge of medically recommended patient. 12. Discharge of medically recommended patient. 13. Admission by order of Court. 14. Admission by Order of the Minister of National Security. 15. Admission on application of Mental Health Officer.
+Indemnity.
 PART II
 PSYCHIATRIC HOSPITAL TRIBUNAL
-16. Establishment, composition and function of psychiatric
+16. Establishment,
+composition and function of psychiatric
 hospital tribunal.
 17. Chairman and quorum. 18. Function of Tribunal. 19. Staff.
 ARRANGEMENT OF SECTIONS-Continued
 SECTION
 PART III
 MENTAL HEALTH REVIEW TRIBUNAL
-20. Establishment and Composition of Mental Health Review Tribunal. 21. Remuneration. 22. Patient may apply to Review Tribunal for discharge. 23. Duty of Secretary.
+20. Establishment and Composition of Mental Health Review Tribunal.
+21. Remuneration. 22. Patient may apply to Review Tribunal for discharge. 23. Duty of Secretary.
 PART IV
 POWERS AND DUTIES OF PSYCHIATRIC
 HOSPITAL DIRECTOR
-24. Duty and power of Psychiatric Hospital Director. 25. Leave of absence. 26. Transfer of patient. 27. Patients at large may be apprehended.
+24. Duty and power of Psychiatric Hospital Director.
+25. Leave of absence. 26. Transfer of patient. 27. Patients at large may be apprehended.
 PART V
 APPROVED HOMES
 28. Minister may issue certificate approving use of home as
@@ -52,7 +56,8 @@ approved home.
 29. Certificate to be displayed. 30. Offence and penalty. 31. Power to make Regulations.
 PART VI
 ADMISSION TO PSYCHIATRIC WARD
-32. Admission to psychiatric ward. 33. Patient to be examined. 34. Persons who may not be admitted to psychiatric ward. 35. Provisions of Part I to apply to persons admitted under Parts V
+32. Admission to psychiatric ward.
+33. Patient to be examined. 34. Persons who may not be admitted to psychiatric ward. 35. Provisions of Part I to apply to persons admitted under Parts V
 and VI. SECTION
 PART VII
 PROTECTION OF PROPERTY OF PATIENTS
@@ -70,7 +75,7 @@ from a mental disorder.
 56. Penalty. 57. Offence to assist patient to escape.
 ARRANGEMENT OF SECTIONS-Continued
 SECTION
-58. Offence in respect of undertaking given under section 9. 59. Offence to obstruct persons in the execution of their duties. 60. Offence to make any false or misleading statement in an application. 61. Mental health officers may be designated. 62. Power to make Regulations. 63. Offence to contravene regulations. 64. Rules Committee may make Rules.
+58. Offence in respect of undertaking given under section 11. 59. Offence to obstruct persons in the execution of their duties. 60. Offence to make any false or misleading statement in an application. 61. Mental health officers may be designated. 62. Power to make Regulations. 63. Offence to contravene regulations. 64. Rules Committee may make Rules.
 CHAPTER 28:02
 MENTAL HEALTH ACT
 An Act to provide for the admission, care and treatment of
@@ -88,25 +93,25 @@ development of mind and "mentally disordered" shall be construed accordingly;
 section 61(1); "mental illness" means the condition of mind of a mentally
 ill person; "mentally ill" or "mentally ill person" means a person who is
 suffering from such a disorder of mind that he requires care, supervision, treatment and control, or any of them, for his own protection or welfare or for the protection or welfare of others; "mentally subnormal" or "mentally subnormal person" means a
-person in whom there is a condition of arrested or incomplete development of mind whether such condition arises from inherent causes or is induced by disease or injury before such person attains the age of eighteen years and includes a person who requires care, supervision, treatment and control, or any of them, for his own protection or welfare or for the protection or welfare of others; "mental subnormality" means the condition of mind of a mentally
-subnormal person; "next of kin" means in the order of priority, a-
+person in whom there is a condition of arrested or incomplete development of mind whether such condition arises from inherent causes or is induced by disease or injury before such person attains the age of eighteen years and includes a person who requires care, supervision, treatment and control, or any of them, for his own protection or welfare or for the protection or welfare of others; "mental subnormality" means the condition of mind of a
+mentally subnormal person; "next of kin" means in the order of priority, a-
 (a) spouse;
 (b) child;
 (c) parent;
 (d) grandparent; or
 (e) brother or sister; "patient" means a person who is suffering from or is
-suspected to be suffering from mental illness or who is mentally subnormal; "police officer" has the meaning assigned to it by section 2 of
-the Police Service Act, or any constable within the meaning of the Municipal Corporations Act; "private hospital" has the meaning assigned to it by section 2 of
-the Private Hospitals Act; "psychiatric hospital" or "hospital" means any place appointed
-as such by Order under section 4; "Psychiatric Hospital Director" means the medical director of a
-general hospital, a psychiatric hospital or any other medical practitioner designated by the Minister to be a psychiatric hospital director for the purposes of this Act; "psychiatric ward" means that part of a general hospital appointed
-as such by Order under section 5; "public place" means any place to which the public has access
+suspected to be suffering from mental illness or who is mentally subnormal; "police officer" has the meaning assigned to it by section 2 of the
+Police Service Act, or any constable within the meaning of the Municipal Corporations Act; "private hospital" has the meaning assigned to it by section 2 of
+the Private Hospitals Act; "psychiatric hospital" or "hospital" means any place appointed as
+such by Order under section 4; "Psychiatric Hospital Director" means the medical director of a
+general hospital, a psychiatric hospital or any other medical practitioner designated by the Minister to be a psychiatric hospital director for the purposes of this Act; "psychiatric ward" means that part of a general hospital
+appointed as such by Order under section 5; "public place" means any place to which the public has access
 with or without payment.
 (2) For the purposes of this Act-
 (a) "spouse" includes a cohabitant as defined in the
 Cohabitational Relationships Act;
-(b) "child" includes a stepchild, adopted child and in
-relation to the parties in a cohabitational relationship as defined by the Cohabitational Relationships Act, a child of either party or both parties.
+(b) "child" includes a stepchild, adopted child and
+in relation to the parties in a cohabitational relationship as defined by the Cohabitational Relationships Act, a child of either party or both parties.
 (3) The Psychiatric Hospital Director, every duly authorised medical officer and every mental health officer shall be ex officio a Justice of the Peace in and for the whole of Trinidad and Tobago and shall take the oath as such Justice.
 PART I
 ADMISSION AND DETENTION IN PSYCHIATRIC
@@ -159,14 +164,12 @@ treatment in a hospital.
 a hospital.
 10. (1) Subject to this section, the Psychiatric Hospital Director or the duly authorised medical officer may, on an application made by a relative or friend and accompanied by two certificates of two medical practitioners, one of whom shall be a Government Medical Officer, admit to a hospital or a psychiatric ward as a medically recommended patient, any person named in the certificates, if he is of the opinion that the person named therein is unable or unwilling to express himself as being in need of care and treatment.
 (2) A medical certificate issued under subsection (1) shall not be valid if-
-(a) more than seven days have elapsed since the date
-of the last examination referred to therein;
-(b) it is not completed within twelve hours following
-such last examination;
+(a) more than seven days have elapsed since the
+date of the last examination referred to therein;
+(b) it is not completed within twelve hours
+following such last examination;
 (c) both certificates are not completed within seven
-days of each other; or
-(d) it is made, issued, given, completed or signed by
-a medical practitioner who is-
+days of each other; or a medical practitioner who is-
 (i) by blood or marriage related to the patient
 named therein; or
 (ii) by blood or marriage closely related to
@@ -187,9 +190,7 @@ treatment in a hospital or psychiatric ward.
 (3) The Psychiatric Hospital Director shall, as soon as practicable after admitting a person under subsection (1), make or cause to be made such examination as he considers necessary for determining whether or not the person is mentally ill and in need of care and treatment, and within fourteen days of the date of admission submit a report in writing to the Court relative to the mental condition of the person.
 (4) On receipt of the report, the Court shall forthwith-
 (a) rescind the order made under subsection (1), if
-the Psychiatric Hospital Director is satisfied that the person named in the Order is not in need of care and treatment; or
-(b) make another order authorising the Psychiatric
-Hospital Director to admit the person named therein to a hospital for such further care and treatment as the Psychiatric Hospital Director may consider necessary.
+the Psychiatric Hospital Director is satisfied that the person named in the Order is not in need of care and treatment; or Hospital Director to admit the person named therein to a hospital for such further care and treatment as the Psychiatric Hospital Director may consider necessary.
 (5) Where an order is made under subsection (4)(b), the Psychiatric Hospital Director shall, when he is satisfied that the patient is no longer in need of care and treatment report this fact to the Court which shall forthwith rescind the order.
 (6) The Court shall, where it rescinds an order under subsection (4)(a) or makes an order under subsection (5), deal with the person in such manner as it deems necessary.
 14. (1) The Minister of National Security, on receipt of the medical certificates of two medical practitioners, one of whom shall be a psychiatrist, to the effect that the prisoner, named in the certificate is suffering from mental illness, may by Order direct that the prisoner be transferred to a hospital and that he be kept therein until the Psychiatric Hospital Director is satisfied that he is no longer in need of care and treatment in a hospital.
@@ -198,7 +199,6 @@ Hospital Director to admit the person named therein to a hospital for such furth
 (4) The Minister may delegate his power under subsection (3) either generally or in relation to specific cases to the Psychiatric Hospital Director or any duly authorised medical officer. Any delegation under that subsection shall-
 (a) be subject to any general or specific directions
 of the Minister;
-(b) be revocable at will; and
 (c) shall not preclude the Minister from exercising
 the power.
 (5) A person who is discharged from a hospital or general hospital before the expiration of the time during which he was in lawful custody, shall on discharge be sent back to the place from which he was originally transferred.
@@ -218,9 +218,7 @@ PSYCHIATRIC HOSPITAL TRIBUNAL
 (3) The Chief Medical Officer and the Chief Magistrate shall each have two alternates who shall be appointed by the Minister on the recommendation of the Chief Medical Officer and the Chief Magistrate respectively and either of whom may act in the stead of the person whose alternate he is at any meeting of the Tribunal.
 (4) A person who has been appointed by the Minister-
 (a) shall, subject to paragraphs (b) and (c) hold
-office for a term of three years but is eligible for reappointment;
-(b) may at any time be removed from office by the
-Minister; or
+office for a term of three years but is eligible for reappointment; Minister; or
 (c) may at any time resign his office by instrument
 in writing addressed to the Chairman of the Tribunal who shall cause it to be transmitted to the Minister; resignation shall take effect from the date on which the Minister receives the instrument;
 (d) may be paid such remuneration and allowances
@@ -232,8 +230,8 @@ as the President may from time to time determine.
 18. (1) The Tribunal shall-
 (a) review not less than once a year the case of each
 medically recommended patient who has been hospitalised for more than one year;
-(b) review every six months the case of a patient who
-has been hospitalised for more than six months pursuant to an order of the Court or an order of the Minister of National Security; and
+(b) review every six months the case of a patient
+who has been hospitalised for more than six months pursuant to an order of the Court or an order of the Minister of National Security; and
 (c) inspect at least once annually each psychiatric
 hospital, psychiatric ward or approved home.
 (2) The Tribunal may, if it considers it necessary to the efficient performance of its functions, require the attendance before it of any member of the staff of a psychiatric hospital or ward.
@@ -301,8 +299,8 @@ APPROVED HOMES
 prescribed by this Part;
 (b) governing the issue, withdrawal or renewal of
 a certificate;
-(c) prescribing the fees payable in respect of the issue
-or renewal of a certificate.
+(c) prescribing the fees payable in respect of the
+issue or renewal of a certificate.
 PART VI
 ADMISSION TO PSYCHIATRIC WARD
 32. Subject to section 34 a duly authorised medical officer may admit to a psychiatric ward-
@@ -335,11 +333,10 @@ exercise control over the property and affairs of such patient who has been admi
 (3) The High Court may, subject to this Part on application by the next of kin of any patient, by originating summons exercise control over the property and affairs of such patient.
 (4) An application made under subsection (1) or (3) shall be supported by an affidavit to the effect that the patient is incapable, by reason of mental disorder, of managing and administering his property and affairs.
 37. (1) On an application made under section 36 the Court may make an order appointing the applicant or any other person the committee of a patient's property on production of-
-(a) a certificate by the Psychiatric Hospital Director,
-a duly authorised medical officer or qualified psychiatrist to the effect that the patient is suffering from mental disorder as a result of which he is incapable of managing and administering his property and affairs, and stating the probable duration of the disorder;
+(a) a certificate by the Psychiatric Hospital
+Director, a duly authorised medical officer or qualified psychiatrist to the effect that the patient is suffering from mental disorder as a result of which he is incapable of managing and administering his property and affairs, and stating the probable duration of the disorder;
 (b) a statement by the applicant giving a detailed
 description of the patient's property and the value thereof;
-(c) a statement by the applicant stating-
 (i) the name and address of the next of kin of
 the patient, if any, and
 (ii) what he proposes to do with the patient's
@@ -348,36 +345,34 @@ property during the latter's illness.
 37A. (1) Notwithstanding the certificate produced under section 37(1)(a), the High Court may require the person appointed as the committee of the patients's property to file-
 (a) periodic statements of the status of the patient's
 estate; and
-(b) periodic medical certificates issued by the relevant
-persons referred to in section 37(1)(a), stating the mental condition of the patient and if necessary the probable duration of the disorder.
+(b) periodic medical certificates issued by the
+relevant persons referred to in section 37(1)(a), stating the mental condition of the patient and if necessary the probable duration of the disorder.
 (2) The High Court shall on production of such statements and medical certificate referred to in subsection (1), decide whether to continue with or discharge the committee of the patient's property appointed under section 37.
 38. (1) In addition to the powers conferred on a Judge by sections 36, 37, and 37A a Judge may, with respect to the property and affairs of a patient, do or cause to be done all or any such things which he may consider necessary or expedient-
-(a) for the maintenance or other benefit of the patient
-or members of his family or both;
+(a) for the maintenance or other benefit of the
+patient or members of his family or both;
 (b) for making provision for other persons or
 purposes for whom or which the patient might be expected to provide if he were not suffering from mental disorder; or
-(c) generally for administering the patient's property
-and affairs.
+(c) generally for administering the patient's
+property and affairs.
 (2) In the exercise of his powers under subsection (1), the Judge shall have regard to-
 (a) the requirements of the patient;
 (b) the interests of creditors as well as to the
 desirability of making provisions for obligations of the patient notwithstanding that they may not be legally enforceable.
 (3) The provisions of any rules of law governing the enforcement by a creditor of rights against the property of a person who is suffering from a mental disorder shall apply to property under the control of the High Court or a Judge thereof.
 39. (1) In the exercise of his powers under section 38 the Judge may make such orders and give such directions and authorities as he thinks fit for the purpose of that section, and in particular may for those purposes make orders or give directions or authorities for-
-(a) the control (with or without the transfer or vesting
-of property) and management of any property of the patient;
+(a) the control (with or without the transfer or
+vesting of property) and management of any property of the patient;
 (b) the sale, exchange, charging or other disposition
 of or dealing with any property of the patient;
 (c) the acquisition of any property in the name or on
 behalf of the patient;
 (d) the settlement of any property of the patient or
 the gift of any property of the patient to any such persons or for the maintenance of members of the patient's family or for the purpose specified in section 38(1)(b);
-(e) the execution for the patient of a Will making any
-provisions (whether by way of disposing of property, exercising a power or otherwise) which could be made by a Will executed by the patient if he were not suffering from a mental disorder;
+(e) the execution for the patient of a Will making
+any provisions (whether by way of disposing of property, exercising a power or otherwise) which could be made by a Will executed by the patient if he were not suffering from a mental disorder;
 (f) the carrying on by a suitable person of any
-profession, trade or business of the patient;
-(g) the dissolution of a partnership of which the
-patient is a member;
+profession, trade or business of the patient; patient is a member;
 (h) the carrying out of any contract entered into by
 the patient;
 (i) the conduct of legal proceedings in the name of
@@ -398,12 +393,12 @@ the patient is an infant; and
 has reason to believe that the patient is incapable of making a valid Will for himself.
 (4) Where a settlement has been made pursuant to this section and the Judge is satisfied, at any time before the death of the patient, that any material fact was not disclosed when the settlement was made, or that there has been any substantial change in the circumstances which existed when the settlement was made, he may by order vary the settlement in such manner as he thinks fit and give any consequential directions.
 40. (1) Where pursuant to section 39(1)(e) the Judge makes or gives an order, direction or authority requiring or authorising a person (in this section referred to as "the authorised person") to execute a Will for a patient, a Will executed in pursuance of that order, direction or authority shall be expressed to be signed by the patient acting by the authorised person and shall be-
-(a) signed by the authorised person with the name of
-the patient and with his own name in the presence of two or more witnesses present at the same time; and
+(a) signed by the authorised person with the name
+of the patient and with his own name in the presence of two or more witnesses present at the same time; and
 (b) attested and subscribed by those witnesses in the
 presence of the authorised person.
 (2) The provisions of the Wills and Probate Act (other than the provisions dealing with execution and attestation of Wills) apply to a Will executed under subsection (1) as if the Will had been signed by the patient himself.
-(3) Subject to subsections (4) and (5), a Will executed under subsection (1) shall have the like effect for all purposes as if the patient were capable of making a valid Will and the Will had been executed by him in the manner prescribed by the Wills and Probate Act .
+(3) Subject to subsections (4) and (5), a Will executed under subsection (1) shall have the like effect for all purposes as if the patient were capable of making a valid Will and the Will had been executed by him in the manner prescribed by the Wills and Probate Act.
 (4) Subsection (3) does not apply-
 (a) to such a Will in so far as it disposes of any
 immovable property situated outside Trinidad and Tobago; and
@@ -455,8 +450,8 @@ dollars and to imprisonment for six months;
 (b) on conviction on indictment to a fine of four
 thousand dollars and to imprisonment for two years.
 54. (1) It is an offence for any person who is in charge of, or an officer on the staff of or otherwise employed in an approved home, hospital, private hospital or psychiatric ward to have sexual intercourse with a person who is-
-(a) a patient in such approved home, hospital, private
-hospital or psychiatric ward; or
+(a) a patient in such approved home, hospital,
+private hospital or psychiatric ward; or
 (b) on the premises of such approved home, hospital,
 private hospital or psychiatric ward for the purposes of receiving treatment as an outpatient.
 (2) A person who is found guilty of an offence under subsection (1) is liable on conviction on indictment to imprisonment for seven years.
@@ -467,8 +462,8 @@ private hospital or psychiatric ward for the purposes of receiving treatment as 
 58. A person is liable on summary conviction to a fine of one thousand dollars and to imprisonment for three months if, having given an undertaking under section 11(1) he-
 (a) neglects or fails to provide the patient with
 adequate lodging, clothing, food or medical attention, if required;
-(b) fails or refuses to allow the patient to be visited
-by any officer or employee attached to the hospital or ward from which the patient was conditionally discharged from a Government Medical Officer or any other duly authorised medical officer;
+(b) fails or refuses to allow the patient to be visited by
+any officer or employee attached to the hospital or ward from which the patient was conditionally discharged from a Government Medical Officer or any other duly authorised medical officer;
 (c) neglects or fails to comply with any terms or
 conditions subject to which the person was conditionally discharged.
 59. A person who without lawful authority interferes with or obstructs any person in the execution of his duties under this Act or the Regulations is liable on summary conviction to a fine of five hundred dollars and to three months imprisonment.
@@ -478,9 +473,7 @@ conditions subject to which the person was conditionally discharged.
 (b) registered mental nurses with at least six months
 supervised experience in social work;
 (c) District Health Visitors with at least six months
-supervised experience in social work and in psychiatric nursing; and
-(d) other nurses with equivalent training and
-experience as District Health Visitors and with at least six months supervised experience in social work and in psychiatric nursing.
+supervised experience in social work and in psychiatric nursing; and experience as District Health Visitors and with at least six months supervised experience in social work and in psychiatric nursing.
 (2) A mental health officer shall exercise such functions and duties as may be prescribed.
 (3) In subsection (1) "supervised experience" means experience acquired in the course of duties in a hospital, general hospital, private hospital, approved home or psychiatric ward or any other institution providing for the care and treatment of persons who are mentally ill.
 (4) For the purposes of this section the expression "social work" and any grammatical variation thereof shall be taken to refer to a method of assisting persons to solve their social problems entailing a knowledge of psychology, social psychology, human growth and development, psychopathology and the laws of Trinidad and Tobago relating to mental health, social assistance and admission to certified schools.
@@ -496,7 +489,7 @@ of Judicature Act, may make Rules of Court for the purpose of prescribing any ma
 SUBSIDIARY LEGISLATION
 MENTAL HEALTH (APPOINTMENT OF PSYCHIATRIC
 WARD) ORDER
-(made by the Minister under section 5)
+made under section 5
 WHEREAS it is provided by section 5 of the Mental Health Act that the Minister may, by Order, appoint any part of a general hospital to be a psychiatric ward for the care and treatment of mentally ill persons:
 And Whereas it is necessary to appoint part of the Tobago Regional Hospital to be such a psychiatric ward:
 Now, Therefore, the Minister in exercise of the power conferred on him by the Act, orders as follows:
@@ -547,9 +540,8 @@ Now, Therefore, the Minister in exercise of the power conferred on him by the Ac
 - Margin: Statements and Medical Certificate to be produced. [14 of 1999].
 - Margin: Powers of Judge. [14 of 1999].
 - Margin: Judge may make orders and give directions and authorities.
-- Margin: Ch. 8 No. 3. (1950 Ed.).
+- Margin: Ch. 8. No. 3. (1950 Ed.).
 - Margin: Supplementary provisions as to Wills.
-- Margin: Ch. 9:03.
 - Margin: Ch. 9:03.
 - Margin: Judge may appoint receiver.
 - Margin: Stock to be transferred to person appointed outside Trinidad and Tobago to exercise powers with respect to the property or affairs of a person suffering from mental disorder.
@@ -567,7 +559,7 @@ Now, Therefore, the Minister in exercise of the power conferred on him by the Ac
 - Margin: Offence to have sexual intercourse with person who is suffering from a mental disorder.
 - Margin: Penalty. [27 of 1986].
 - Margin: Offence to assist patient to escape.
-- Margin: Offence in respect of undertaking given under section 9.
+- Margin: Offence in respect of undertaking given under section 11.
 - Margin: Offence to obstruct persons in the execution of their duties.
 - Margin: Offence to make any false or misleading statement in an application.
 - Margin: Mental health officers may be designated.
