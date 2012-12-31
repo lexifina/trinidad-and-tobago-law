@@ -2,8 +2,8 @@ TRINIDAD AND TOBAGO FREE ZONES ACT
 CHAPTER 81:07
 Act
 19 of 1988 Amended by
-6 of 1989 6 of 1991 33 of 1995 200/1996 201/1996 4 of 1997 15 of 2004
-1-2 .. 3-6 .. 1/2006 7-10 .. 1/2009 11-16 .. 1/2006 17-22 .. 1/2009 23-26 .. 27-31 .. 1/2009
+6 of 1989 6 of 1991 33 of 1995 200/1996 201/1996 4 of 1997 15 of 2004 13 of 2010
+61/2011
 Note on Subsidiary Legislation
 The following Orders, viz:
 (a) Trinidad and Tobago Free Zones (Designation) Orders made under
@@ -40,11 +40,10 @@ concessions.
 27A. Goods brought from free zone into Customs territory.
 PART IV
 LICENCES
-28. Import and export licensing.
+28. Import and export licensing. }
 PART V
-BANKING AND FOREIGN CURRENCY ACTIVITIES 29. Banking activities.
-}
-30. to (Repealed by Act No. 33 of 1995). 32.
+BANKING AND FOREIGN CURRENCY ACTIVITIES
+29. Banking activities. 30. to (Repealed by Act No. 33 of 1995). 32.
 PART VA
 TAX RELIEF
 32A. Exemption from lands and buildings taxes.
