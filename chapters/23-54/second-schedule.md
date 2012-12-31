@@ -24,9 +24,7 @@ the date of commencement of the contribution.
 decrements from, the current annual contribution while the contributor is married to his first wife.
 IV. SECOND, AND SUBSEQUENT WIFE'S PROSPECTIVE PENSION
 (a) Variations of pension consequent on increments to, and
-decrements from, the current annual contribution while the contributor is a widower.
-(b) Variations of pension consequent on the re-marriage of
-the contributor.
+decrements from, the current annual contribution while the contributor is a widower. the contributor.
 (c) Variations of pension consequent on increments to, and
 decrements from, the current annual contribution while the contributor is married to his second, or subsequent, wife.
 C. Public Officer who commenced to contribute while a Widower.
@@ -35,8 +33,7 @@ D. Pensions to Orphan Children.
 VI. ORPHANS' PENSIONS AT DEATH OF WIDOWER CONTRIBUTOR
 (a) Case where the orphans are the issue of the same wife.
 (b) Case where the orphans are the issue of different wives.
-VII. ORPHANS' PENSIONS AT DEATH OR RE-MARRIAGE OF WIDOW VIII. ORPHANS' PENSIONS AT DEATH OF MARRIED CONTRIBUTOR
-E. Public Officer transferred to other public service.
+VII. ORPHANS' PENSIONS AT DEATH OR RE-MARRIAGE OF WIDOW VIII. ORPHANS' PENSIONS AT DEATH OF MARRIED CONTRIBUTOR E. Public Officer transferred to other public service.
 F. Calculation of Quantities (or Tabular Results) for Ages not given in
 the Tables.
 A. TO C. CALCULATION OF REGISTERED PENSIONS.
@@ -65,21 +62,23 @@ Officer's age next birthday at completion
 of contribution period … … … 61
 Wife's age next birthday at date of marriage… 20
 Application of Rule I. (a)-
-Accumulation of contributions paid during bachelorhood-
+Accumulation of contributions paid during bachelorhood- }
 Total accumulation-$81.60.
 Quantity found from Table II-
-} Husband* 30
+Husband* 30
 ...554
 Wife* 20
 $81.60 x .554 = $45.21 = registered pension in consideration of contributions paid during bachelorhood. Application of Rule I. (b)-
-Annual contribution current at the date of marriage, $19.20. Quantity found from Table I, section for Officers aged 61 next
+Annual contribution current at the date of marriage, $19.20.
+}
+Quantity found from Table I, section for Officers aged 61 next
 birthday at completion of period of contribution-
-} Husband* 30
+Husband* 30
 … … … 5.77
 Wife* 20
 * Note-Where the ages are not given in the Tables, proceed as illustrated in the general
 examples given in F. $19.20 x 5.77 = $110.78 = registered pension in consideration of annual contribution current at marriage.
-Total Registered Pension to be recorded on the bachelor contributor marrying-
+to be recorded on the bachelor Total Registered Pension contributor marrying-
 By Rule I. (a) … … … $ 45.21 By Rule I. (b) … … … $110.78
 Total … … … $155.99
 (c) Variations of pension consequent on increments to, and
@@ -90,7 +89,7 @@ Rule I.
 the age of the husband at the date of completion of his period of contribution, and multiply the amount of the increment to, or the decrement from, the current annual contribution by the quantity found from that section corresponding to the respective ages next birthday of the husband and wife at the date of the variation of the contribution.
 The product gives the amount to be added to the
 registered pension consequent on the increment to the current annual contribution, or, as the case may be, the amount to be deducted from the registered pension consequent on the decrement from the current annual contribution. Example of the application of Rule I. (c)-
-Assume particulars as in the Example subjoined to
+Assume particulars as in the subjoined to Example
 Rules I. (a) and I. (b)-
 Annual contribution increased on 31st May
 $28.80 1893, from $19.20 to … …
@@ -99,20 +98,21 @@ $24.00 1898, from $28.80 to … … …
 Annual contribution ceased on 31st March 1903,
 31st May 1893-Increment to current annual
 contribution … … … $ 9.60
+}
 Quantity found from Table I, section for Officers aged 61 next
 birthday at completion of period of contribution-
-}
 Husband 35
 … … … 4.74
 Wife 25 $9.60 x 4.74 = $45.50 = amount to be added to the registered pension.
 Registered pension at marriage, see Example
 subjoined to Rules I. (a) and I. (b) … … … $ 155.99
-Add ... $ 45.50 Registered pension at 31st May 1893 … … $ 201.49
+Add ... $ 45.50 Registered pension at 31st May 1893 … …
+$ 201.49
 30th April 1898-Decrement from current
 annual contribution ... $ 4.80
-Quantity found from Table I, section for Officers aged 61 next
+} Quantity found from Table I, section for Officers aged 61 next
 birthday at completion of period of contribution-
-Husband 40 }
+Husband 40
 … … … 3.83
 Wife 30
 $4.80 x 3.83 = $18.38 = amount to be deducted from the registered pension.
@@ -120,10 +120,10 @@ Registered pension at 31st May 1893, as above … $ 201.49 Deduct ... $ 18.38
 Registered pension at 30th of April 1898 … $ 183.11
 31st March 1903-Cessation of contribution
 regarded as a decrement from current annual contribution ... $ 24.00
+} … … … 2.99
 Quantity found from Table I, section for Officers aged 61 next
 birthday at completion of period of contribution-
-} … … … 2.99 Husband 45
-Wife 35
+Husband 45 Wife 35
 $24.00 x 2.99 = $71.76 = amount to be deducted from registered pension.
 Registered pension at 30th April 1898, as
 above ... $ 183.11
@@ -143,7 +143,7 @@ Note-No variation of the registered pension is to be recorded if the second, or 
 Rule II.
 (b) If the second, or subsequent, wife was at the date of the re-
 marriage of a greater or less age next birthday than the last preceding wife would have been had she survived to that date, multiply the amount of the registered pension by the quantity found from Table III, corresponding to the age next birthday of the husband at the date of re-marriage, and the age next birthday which the last preceding wife would have attained had she survived to that date; multiply the product so obtained by the quantity found from Table II, corresponding to the respective ages of the husband and of the second, or subsequent, wife at the date of the re-marriage.
-The result gives the registered pension to be recorded on the re-marriage of the contributor. Example of the application of Rule II. (b)-
+The result gives the registered pension to be recorded on the re-marriage of the contributor.
 Assume particulars as in the Example subjoined to Rules I. (a)
 and I. (b)-
 First wife died on … … … Nov. 30, 1888 Contributor re-married on… … Jan. 31, 1893 Contributor's age next birthday at
@@ -153,14 +153,12 @@ date of the re-marriage … 20
 Age next birthday which the first
 wife would have attained had she survived to date of the re-marriage … … … 25
 31st January 1893-The second wife being of a less age next
-birthday at the date of the re-marriage than the first wife would have been had she survived, the registered pension $155.99-see Example subjoined to Rules I. (a) and I. (b)-is to be re-calculated.
+birthday at the date of the re-marriage than the first wife would have been had she survived, the registered pension $155.99-see Example subjoined } to Rules I. (a) and I. (b)-is to be re-calculated.
 Quantity found from Table III.-
-}
 Husband 35
-… 2.074
+} … .462 … 2.074
 Wife 25
 Quantity found from Table II.-
-} … .462
 Husband 35 Wife 20
 $155.99 x 2.074 = $323.52. $323.52 x .462 = $149.47 = registered pension at 31st January 1893.
 (c) Variations of pension consequent on increments to, and
@@ -189,9 +187,9 @@ Wife's age next birthday on 31st
 July 1890 ... 30
 31st July 1890-Current annual
 contribution ... $19.20
+} … … 3.99
 Quantity found from Table I, section for Officers aged 65 next birthday at completion of period of contribution-
-} … … 3.99 Husband 40
-Wife 30
+Husband 40 Wife 30
 $19.20 x 3.99 = $76.61 = registered pension in consideration of annual contribution current at commencement of contribution.
 (b) Variations of pension consequent on increments to, and
 decrements from, the current annual contribution while the contributor is married to his first wife.
@@ -234,8 +232,7 @@ Amount of widow's pension at her death or re-marriage $288.00
 a year. Children entitled at her death-
 Assuming the particulars as in the example subjoined to
 Rule VI. (a) proceed as therein indicated.
-VIII. ORPHANS' PENSIONS AT DEATH OF MARRIED CONTRIBUTOR Rule VIII. In the case where a contributor dies leaving a widow, and also children, the issue of a previous marriage, divide equally among such of the children of the first wife as may be entitled for the time being one moiety of the pension which the first wife would have received had she survived the contributor. On the widow's pension ceasing, divide equally among such of the children of the first wife as may be entitled for the time being the whole of the pension which the first wife would have received had she survived the contributor.
-Note-In this case, as long as the children of the first wife are entitled to pension, the widow's pension is one moiety of that which she would have received had there been no such children.
+VIII. ORPHANS' PENSIONS AT DEATH OF MARRIED CONTRIBUTOR Rule VIII. In the case where a contributor dies leaving a widow, and also children, the issue of a previous marriage, divide equally among such of the children of the first wife as may be entitled for the time being one moiety of the pension which the first wife would have received had she survived the contributor. On the widow's pension ceasing, divide equally among such of the children of the first wife as may be entitled for the time being the whole of the pension which the first wife would have received had she survived the contributor. pension, the widow's pension is one moiety of that which she would have received had there been no such children.
 E. Public Officer transferred to other public service.
 Throughout these rules and examples the calculations depend, not on the official income of the contributor, but on the amount of his contribution to the Scheme, so that the transfer of a public officer to other public service does not affect his registered pension unless the amount of his current annual contribution is varied, in which case the proper adjustment is to be made in accordance with the preceding rules.
 F. Calculation of Quantities (or Tabular Results) for ages not given in the
