@@ -15,8 +15,10 @@ Cheques sent on collection Delivery Orders and Airway Bill Endorsement of docume
 Partial Payments/Payment by Instalment Postage/Airmail/Cable Charges Parcel Post Notice Payments to Agents Reshipment of goods Return bills commission Storage of goods Tracers Bills Negotiated
 Handling charge Bonds and Guarantees
 Guarantees: Missing Bills of Lading, Other Establishing fee Expired bonds
-Performance bonds Customs bonds Letters of Credit-Inward Airmail
-Acceptance for correspondent bank on term drawings Amendment commission Advising commission Amendments: Increase in amounts, Other Branch or correspondent bank charges Confirmation commission Carrying Cost/Acceptance Cancellation Establishing L/C Notification commission Negotiation commission Transferable or Divisible Letters of Credit Outward
+Performance bonds Customs bonds Letters of Credit-
+Inward Airmail
+Acceptance for correspondent bank on term drawings Amendment commission Advising commission Amendments: Increase in amounts, Other Branch or correspondent bank charges Confirmation commission Carrying Cost/Acceptance Cancellation Establishing L/C Notification commission Negotiation commission Transferable or Divisible Letters of Credit
+Outward
 Acceptance commission Advising commission
 Amendment commission Cancellation fee Confirmation commission
 Dispatch of documents
@@ -39,12 +41,11 @@ Where available balance exceeded due to paying guaranteed cheque/ATM
 Withdrawal/Direct Debit (i.e. where Bank cards used as a debit card) Credit Cards
 Principal cardholder annual fee
 Secondary cardholder annual fee Cash advance fee Lost card replacement fee Late payment fee Minimum monthly repayment Over the limit fee Dishonored item stop payment Certified Cheque Annual fee Nominated cardholder Commission on cash advance Over limit charge Late payment fee Returned cheque fee Lost/Stolen/Damaged card charge Cheques Cheque books:
-Regular Other Passbooks / Certificates of Deposit
+Regular Other Passbooks/Certificates of Deposit
 Replacement of lost passbook Replacement of lost certificate of deposit Other Fees and Charges-Service Charges on Deposit Accounts Service Charge-Personal Accounts:
 Activity charge Unpaid item charge Service Charge-Business Accounts:
 Account maintenance Activity charge
-Overdraft facilities Unpaid item charge Inactive account charge Charges with Respect to Payments
-Drafts
+Overdraft facilities Unpaid item charge Inactive account charge Drafts
 Payroll Envelopes:
 Collected in bulk by employer Collected by employee Pension cheques-Collection and payment Processing salary Salary payments Telephone payment Transfer to another bank from employer list
 Charges with Respect to Foreign Exchange Transactions and

@@ -1,22 +1,23 @@
 # TENTH SCHEDULE
-FIRST COLUMN THIRD COLUMN SECOND COLUMN Tariff Heading No. Rate of Surcharge Description of Goods
+FIRST COLUMN THIRD COLUMN SECOND COLUMN
+Rate of Surcharge Tariff Heading No. Description of Goods
 Ex. 15.07 25% Soya-bean oil and its fractions, refined,
 but not chemically modified
 Ex. 15.08 do. Ground-nut oil and its fractions, refined,
 but not chemically modified
 Ex. 15.11 do. Palm oil and its fractions, refined, but not
 chemically modified
-Ex. 15.12 do. Sunflower-seed, safflower or cotton seed
+do. Ex. 15.12 Sunflower-seed, safflower or cotton seed
 oil and fractions thereof, refined, but not chemically modified
-Ex. 15.13 do. Coconut (copra), palm kernel or babassu
+do. Ex. 15.13 Coconut (copra), palm kernel or babassu
 oil and fractions thereof, refined, but not chemically modified
-Ex. 15.14 do. Rape, colza oil and fractions thereof,
+do. Ex. 15.14 Rape, colza oil and fractions thereof,
 refined but not chemically modified
-Ex. 15.15 do. Maize (Corn) oil, sesame oil and
+do. Ex. 15.15 Maize (Corn) oil, sesame oil and
 fractions thereof, refined but not chemically modified
 do. Ex. 15.16 Vegetable oils and their fractions, partly
 or wholly hydrogenated, inter-esterified, re-esterified or elaidinised, refined but not further prepared
-1006.201 20% White rice, in packages for retail sale
+20% 1006.201 White rice, in packages for retail sale
 do. 1006.202 Other white rice
 do. 1006.203 Parboiled rice, in packages for retail sale
 do. 1006.204 Other parboiled rice
@@ -30,7 +31,7 @@ of not more than 10 kg FIRST COLUMN SECOND COLUMN THIRD COLUMN Tariff Heading No
 not more than 10 kg
 1006.306 Other wholly milled white rice do.
 1006.307 Wholly milled parboiled rice, in packages do.
-of not more than 10kg
+of not more than 10 kg
 1006.308 Other wholly milled parboiled rice do.
 1006.401 Broken rice in packages for retail sale do.
 1006.409 Other broken rice do.
