@@ -5,6 +5,7 @@ Act
 Amended by
 3 of 1994
 6 of 1994
+5 of 2010
 Index of Subsidiary Legislation
 Page Maxi-Taxi Regulations (LN 109/1992) ... 11 Maxi-Taxi Radio Order (LN 124/1994)... 28
 CHAPTER 48:53
@@ -13,8 +14,7 @@ ARRANGEMENT OF SECTIONS
 SECTION
 1. Short title. 2. Interpretation. 3. Administering Authority to implement and regulate system. 4. Minister to appoint Committee. 5. Authority to determine suitability for use as maxi-taxi. 6. Registration of maxi-taxi owners.
 6A. Permit to operate a maxi-taxi.
-7. Authority to issue permit. 8. Review Tribunal. 9. Repossessor not in breach of Act by not being holder of a permit.
-10. Offence to use maxi-taxi for other commercial purposes. 11. Offence to operate maxi-taxi without valid permit. 12. Vehicle not to be painted in such manner as is likely to be mistaken
+7. Authority to issue permit. 8. Review Tribunal. 9. Repossessor not in breach of Act by not being holder of a permit. 10. Offence to use maxi-taxi for other commercial purposes. 11. Offence to operate maxi-taxi without valid permit. 12. Vehicle not to be painted in such manner as is likely to be mistaken
 for maxi-taxi.
 12A. Use of electrical equipment restricted.
 13. Regulations. 14. Validation. 15. (Repealed by Act No. 6 of 1994).
