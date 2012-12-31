@@ -10,7 +10,6 @@ beacon in approximately Latitude 10º 15' 10" North and Longitude 61º 37' 12" W
 Latitude 10º 14' 54" North and Longitude 61º 38' 06" West situated on a jetty known as Brighton Jetty.
 (e) An area within half a nautical mile of the jetty known as Point
 Fortin Jetty, the base of which is on the North Shore of Point Fortin and the seaward end is marked by a light beacon in Latitude 10º 12' 27" North and Longitude 61º 42' 07" West.
-(f) The area enclosed within a line drawn in a southerly
 direction from the mainland at Pointe Gourde to the easternmost point of Carrera Island, thence eastwards to the southernmost point of Nelson Island, thence in a north-easterly direction to Martin Point.
 (g) That part of Lisas Bay known as Goodridge Bay in the Gulf
 of Paria bounded as follows:
