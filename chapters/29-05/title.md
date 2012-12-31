@@ -4,9 +4,10 @@ Act
 5 of 1994 Amended by 31 of 1994
 3/1995
 17 of 1999 23 of 2000 29 of 2000
-73/2005
+73/2005 305/2010 8 of 2012
 Index of Subsidiary Legislation
-Page Regional Health Authorities (Contracting for Goods and Services) Regulations 84
+Page Regional Health Authorities (Contracting for Goods and Services) Regulations
+(LN 4/1995) ... 84 Regional Health Authorities (Conduct) Regulations (LN 8/2009) … … 99
 CHAPTER 29:05
 REGIONAL HEALTH AUTHORITIES ACT
 ARRANGEMENT OF SECTIONS
@@ -17,8 +18,7 @@ PRELIMINARY SECTION
 PART II
 ESTABLISHMENT OF THE
 REGIONAL HEALTH AUTHORITIES
-4. Incorporation. 5. Responsibility to the Minister. 6. Powers and functions. 7. Constitution and procedure of Board. 8. Legal proceedings. 9. Personal liability of members.
-10. Chief Executive Officer. 11. Seal. 12. Execution and use of documents.
+4. Incorporation. 5. Responsibility to the Minister. 6. Powers and functions. 7. Constitution and procedure of Board. 8. Legal proceedings. 9. Personal liability of members. 10. Chief Executive Officer. 11. Seal. 12. Execution and use of documents.
 PART III
 COMMITTEES
 13. Committees.
@@ -51,4 +51,4 @@ Authorities and for connected matters.
 PART I
 PRELIMINARY
 - Margin: 5 of 1994.
-- Margin: Commencement. [227/1994].
+- Margin: Commencement. 227/1994.
