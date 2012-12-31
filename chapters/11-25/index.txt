@@ -68,4 +68,9 @@ sl-03/r-2.md
 sl-04/title.md
 sl-04/r-1.md
 sl-04/r-2.md
+sl-04/r-3.md
+sl-04/r-4.md
+sl-04/r-5.md
+sl-04/r-6.md
+sl-04/r-7.md
 sl-04/schedule.md

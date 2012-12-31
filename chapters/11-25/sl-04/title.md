@@ -6,7 +6,6 @@ CLAUSE
 1. Title, Commencement and Extent. 2. Interpretation. 3. Designation of and application of the Act to countries. 4. Proof of order and judgments of Court in a designated country. 5. Evidence in relation to proceedings and orders in a designated
 country.
 6. Representation of a designated country. 7. Currency conversion.
-[Subsidiary]
 DANGEROUS DRUGS (REGISTRATION OF
 EXTERNAL CONFISCATION AND EXTERNAL
 FORFEITURE ORDERS) ORDER
