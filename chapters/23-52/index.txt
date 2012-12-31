@@ -63,4 +63,7 @@ sl-01/r-20.md
 sl-01/r-21.md
 sl-01/r-22.md
 sl-01/r-23.md
-sl-01/schedule.md
+sl-02/title.md
+sl-02/r-1.md
+sl-02/r-2.md
+sl-02/schedule.md
