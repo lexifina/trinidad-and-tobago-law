@@ -8,8 +8,7 @@ ADJUDICATION OF STAMP DUTY
 15. Application for adjudication under section 21 of the Act. 16. Procedure for adjudication.
 DESCRIPTION OF STAMPS TO BE USED
 ON INSTRUMENTS
-17. Use of embossed adhesive or impressed stamps. 18. (Repealed by Act No. 37 of 1989). 19. Use of embossed adhesive, impressed or postage stamps. 21.} (Repealed by Act No. 37 of 1989). 20.
-[Subsidiary]
+17. Use of embossed adhesive or impressed stamps. 21.} (Repealed by Act No. 37 of 1989). 18. (Repealed by Act No. 37 of 1989). 19. Use of embossed adhesive, impressed or postage stamps. 20.
 STAMP DUTY REGULATIONS
 made under section 5
 - Margin: 123/1955. [37 of 1989 165/2002].

@@ -3,32 +3,15 @@ CHAPTER 76:01
 Act
 28 of 1908
 Amended by
-47 of 1980 19 of 1964 4 of 1992 34 of 1922 *24 of 1981 28 of 1924 29 of 1966 1 of 1993
-98/1981 31 of 1928 45 of 1969 6 of 1993 11/1984 4 of 1929 16 of 1971 22 of 1993 4/1985 13 of 1931
-3 of 1994 5 of 1972
-17 of 1985 8 of 1932
-5 of 1995 6/1972
-23/1985 8 of 1937
-35 of 1998 30 of 1972
-198/1985 8 of 1941
-35 of 2000 31/1972
-1 of 1986 6 of 1942
-50 of 2000 30 of 1974
-3/1986 22 of 1945
-91 of 2000 6/1975
-14 of 1987 47 of 1951
-2 of 2002 41 of 1975
-11 of 1988 14 of 1952
-*5 of 2003 68 of 1975 4 of 1989 13 of 1958
-*11 of 2003 46 of 1979 37 of 1989 34 of 1960
-5 of 2004 203/1979 9 of 1990 2 of 1962
-3 of 1991 *17 of 2007 9 of 1962 21 of 1980
-67/1962 22 of 1980 6 of 1991 *1 of 2009
+*24 of 1981 19 of 1964 1 of 1993 34 of 1922
+98/1981 29 of 1966 6 of 1993 28 of 1924 11/1984 22 of 1993 31 of 1928 45 of 1969 4/1985 3 of 1994 4 of 1929 16 of 1971
+17 of 1985 13 of 1931 5 of 1995 5 of 1972
+23/1985 8 of 1932 35 of 1998 6/1972 198/1985 8 of 1937 35 of 2000 30 of 1972 1 of 1986 8 of 1941 50 of 2000 31/1972
+3/1986 6 of 1942 30 of 1974 91 of 2000
+14 of 1987 22 of 1945 6/1975 2 of 2002 11 of 1988 47 of 1951 41 of 1975 *5 of 2003 4 of 1989 68 of 1975 14 of 1952 *11 of 2003 37 of 1989 46 of 1979 13 of 1958 5 of 2004 9 of 1990 203/1979 34 of 1960 *17 of 2007 3 of 1991 2 of 1962 21 of 1980 *1 of 2009 9 of 1962 6 of 1991 22 of 1980 13 of 2010 67/1962 4 of 1992 47 of 1980 2 of 2012
 *See Note on Amendments on page 3
-5-50 .. 1/2009
-61-70 .. 1/2009
 Index of Subsidiary Legislation
-Page Stamp Duty Regulations (GN 123/1955) ... 60 Stamp Duty (Fees) Regulations (GN 125/1958) ... 66 Stamp Duty (Payment of Fees) Order (GN 126/1958) ... 70
+Page Stamp Duty Regulations (GN 123/1955) ... 60 Stamp Duty (Fees) Regulations (GN 125/1958) ... 66 Stamp Duty (Payment of Fees) Order (GN 126/1958) … … … 70
 Note on Omissions
 Stamp Duty (Exemption) Orders:
 Legal Notices 85, 139, 148, 202, 214, 236 and 237/1987; 57, 102, 104, 105, 106, 107, 110, 134, 137, 138, 139, 140, 141, 158, 230 and 244/1988; 55, 61, 69, 82, 98, 116, 121, 126, 144, 161, 183, 207 and 208/1989; 16, 72, 82, 105, 153, 191, 209 and 221/1990; 34/1991 (Amended by 148/1991; 66/1992 and 84/1993); 49/1991.
@@ -49,16 +32,19 @@ See Act No. 5 of 2003 for validation of the cancellation of postage stamps affix
 Act No. 11 of 2003
 See Act No. 11 of 2003 for validation of certain leases and the waiver of penalties with respect to such leases.
 Note on First Schedule
-with respect to Section 18(2) of Act No. 17 of 2007 Stamp duty charged by the Board of Inland Revenue mentioned in the First Schedule-
+(1) with respect to Section 18(2) of Act No. 17 of 2007 Stamp duty charged by the Board of Inland Revenue mentioned in the First Schedule-
 (a) with respect to item (2) under the heading "Conveyance or transfer on Sale
 of any property "; or
 (b) under the heading "Mortgage, Bond, Debenture, Covenant, Bill of Sale or
 Warrant of Attorney to confess and enter up judgment" with respect to exemption on Mortgage Deeds; between 1st January 2007 and 10th July 2007 is validated.
-with respect to Section 25 of Act No. 17 of 2007 Section 25 of Act No. 17 of 2007 provides that the amendments to the First Schedule shall come into effect from 1st January 2007.
-with respect to Section 15 of Act No. 1 of 2009 Section 15 of Act No. 1 of 2009 provides that the amendments to the First Schedule came into effect from 1st October 2008.
+(2) with respect to Section 25 of Act No. 17 of 2007
+Section 25 of Act No. 17 of 2007 provides that the amendments to the First Schedule shall come into effect from 1st January 2007.
+(3) with respect to Section 15 of Act No. 1 of 2009
+Section 15 of Act No. 1 of 2009 provides that the amendments to the First Schedule came into effect from 1st October 2008.
 CHAPTER 76:01
 STAMP DUTY ACT
-ARRANGEMENT OF SECTIONS SECTION
+ARRANGEMENT OF SECTIONS
+SECTION
 1. Short title. 2. Interpretation.
 PART I
 DUTIES GENERALLY
@@ -68,7 +54,9 @@ Regulations.
 ALLOWANCE FOR SPOILED STAMPS
 10. Allowance for spoiled stamps. 11. Allowance for misused stamps. 12. Allowance, how to be made. 13. Stamps not wanted may be re-purchased by the Board.
 CHARGE OF DUTY UPON INSTRUMENTS
-14. How instruments are to be written and stamped. 15. Instruments to be separately charged with duty in certain cases. 16. Facts and circumstances affecting duty to be set forth in instruments. 17. Calculation of ad valorem duty in certain cases.
+14. How instruments are to be written and stamped.
+14A. Validation of certain instruments.
+15. Instruments to be separately charged with duty in certain cases. 16. Facts and circumstances affecting duty to be set forth in instruments. 17. Calculation of ad valorem duty in certain cases.
 USE OF ADHESIVE STAMPS
 18. Cancellation of adhesive stamps. SECTION
 DENOTING STAMPS
@@ -87,16 +75,13 @@ STAMPING OF INSTRUMENTS AFTER EXECUTION
 Execution out of Trinidad and Tobago.
 25. (Repealed by Act No. 37 of 1989). 26. Penalty for enrolling, etc., any instrument not duly stamped.
 PART II
-REGULATIONS APPLICABLE
+} REGULATIONS APPLICABLE
 TO PARTICULAR INSTRUMENTS
 ADMISSIONS
-27. Admissions.
+27. Admissions. 28. to (Repealed by Act No. 5 of 2004). 29.
 }
-28. to. (Repealed by Act No. 5 of 2004). 29.
 BILLS OF EXCHANGE AND PROMISSORY NOTES
-30. Meaning of "bill of exchange". 31. Meaning of "promissory note".
-}
-32. to (Repealed by Act No. 37 of 1989). 37.
+30. Meaning of "bill of exchange". 31. Meaning of "promissory note". 32. to (Repealed by Act No. 37 of 1989). 37.
 ARRANGEMENT OF SECTIONS-Continued
 SECTION
 BILL OF HEALTH
@@ -132,11 +117,9 @@ POLICIES OF INSURANCE
 POLICIES OF SEA INSURANCE
 61. Meaning of "policy of sea insurance". 62. Contract to be in writing. 63. Policy for voyage and time chargeable with two duties. 64. No policy valid unless duly stamped. 65. Alterations in policies may be made under certain restrictions.
 POWER OF ATTORNEY
-66. Indemnity of Comptroller of Accounts. 67. (Repealed by Act No. 5 of 2004).
+66. Indemnity of Comptroller of Accounts. } 67. (Repealed by Act No. 5 of 2004).
 REMITTANCE OR REFUND OF STAMP DUTY
-68. Remittance by the President.
-}
-69. to (Repealed by Act No. 37 of 1989). 70.
+68. Remittance by the President. 69. to (Repealed by Act No. 37 of 1989). 70.
 SETTLEMENTS
 71. Settlement of money due on policy or security.
 ARRANGEMENT OF SECTIONS-Continued SECTION
@@ -151,10 +134,9 @@ MISCELLANEOUS
 sum assured.
 PART III
 OFFENCES RELATING TO STAMPS
-78. Criminal offences relating to stamps. 79. Proceedings for the detection of offences. 80. Frauds in relation to adhesive stamps. 81. Defacing adhesive stamps. 82. Fraud not specially provided for. 83. Proceedings for the detection of stamps stolen or obtained
+78. Criminal offences relating to stamps. 79. Proceedings for the detection of offences. 80. Frauds in relation to adhesive stamps. 81. Defacing adhesive stamps. 82. Fraud not specially provided for. 83. Proceedings for the detection of stamps stolen or obtained FIFTH SCHEDULE. }
 fraudulently.
-84. Possession of forged stamps. 85. Search warrant for forged stamps. 86. Execution of warrant. 87. Recovery of penalties.
-FIRST SCHEDULE. FIFTH SCHEDULE. } SECOND SCHEDULE. THIRD SCHEDULE.
+84. Possession of forged stamps. 85. Search warrant for forged stamps. 86. Execution of warrant. 87. Recovery of penalties. FIRST SCHEDULE. SECOND SCHEDULE. THIRD SCHEDULE.
 (Repealed by Act No. 5 of 1995). FOURTH SCHEDULE.
 
 CHAPTER 76:01
