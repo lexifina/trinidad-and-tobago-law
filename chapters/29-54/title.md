@@ -1,22 +1,19 @@
 DENTAL PROFESSION ACT
 CHAPTER 29:54
 Act
-16 of 1980
-Amended by
-31 of 1998
-3 of 1999
+16 of 1980 Amended by 31 of 1998 3 of 1999
+41 ..
 Index of Subsidiary Legislation
-Page Dental Regulations (LN 36/1982) ... 26 Dental Profession (Dental Assistants) Order (LN 138/1997)… … … 41 Appointment of an Election Supervisor (Dental Council Elections)
+Page Dental Regulations (LN 36/1982) ... 26 Dental Profession (Dental Assistants) Order (LN 138/1997) … … 41 Appointment of an Election Supervisor (Dental Council Elections)
 Order (LN 153/1999) ... 41
 CHAPTER 29:54
 DENTAL PROFESSION ACT
 ARRANGEMENT OF SECTIONS SECTION
 1. Short title. 2. Interpretation. 3. Establishment of Board. 4. Persons eligible to be Board members. 5. Persons entitled to be registered.
 5A. Minister may amend Schedule.
-6. Applicant may be temporarily registered. 7. Persons entitled to be enrolled. 8. Applicant may be temporarily enrolled. 9. Composition of Council.
-10. Election of Council.
-10A. New Council to be elected. 10B. Registration of Second Interim Council.
-11. Term of office of Council. 12. Functions of Council. 13. Council may appoint committees. 14. Register of Dentists. 15. Temporary registration and examination. 16. Conditions of temporary registration. 17. Rolls of Dental Auxiliaries. 18. Grace period for enrolment of persons performing as dental
+6. Applicant may be temporarily registered. 7. Persons entitled to be enrolled. 8. Applicant may be temporarily enrolled. 9. Composition of Council. 10. Election of Council.
+10A. New Council to be elected. 10B. Registration by Second Interim Council.
+11. Term of office of Council. 12. Functions of Council. 13. Council may appoint committees. 14. Register of Dentists. 15. Temporary registration and examination. 16. Conditions of temporary registration. 17. Rolls of Dental Auxiliary. 18. Grace period for enrolment of persons performing as dental
 assistants, etc.
 19. Opening of the Rolls. 20. Temporary enrolment and examination. 21. Conditions of temporary enrolment. 22. Honour Roll. 23. Secretary to keep Register and Rolls. 24. Publication of lists. 25. Certificate of Secretary to be sufficient evidence. 26. Registration of higher or additional qualification.
 ARRANGEMENT OF SECTIONS-Continued SECTION
