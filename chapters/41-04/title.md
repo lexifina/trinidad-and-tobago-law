@@ -2,10 +2,15 @@ QUEEN'S PARK ACT
 CHAPTER 41:04
 Act
 16 of 1882
-Note on Subsidiary Legislation
-The Queen's Park Regulations (G. 22/3/23-1950 Ed. Vol. IX at page 740) have been omitted since they are about to be replaced.
+Amended by
+5 of 2010
+Index of Subsidiary Legislation
+Page Queen's Park Regulations (1950 Rev. Ed. Ch. 42. No. 6) … … 4
 Note on Adaptation
-Under paragraph 6 of the Second Schedule to the Law Revision Act (Ch. 3:03) the Commission amended certain references to public officers in this Chapter. The Minister's approval of the amendments was signified by LN 120/1980, but no marginal reference is made to this Notice where any such amendments is made in the text.
+(1) Under paragraph 6 of the Second Schedule to the Law Revision Act (Ch. 3:03),
+the Commission amended certain references to public officers in this Chapter. The Minister's approval of the amendments was signified by LN 120/1980, but no marginal reference is made to this Notice where any such amendments is made in the text.
+(2) Under paragraph (1) of the Second Schedule to the Law Revision Act (Ch. 3:03),
+the Commission increased fines made under the Regulations to the Act.
 
 CHAPTER 41:04
 QUEEN'S PARK ACT
