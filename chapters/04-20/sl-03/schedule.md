@@ -24,5 +24,4 @@ law-per folio of seventy-two words … $1.00
 seventy-two words … … $1.00
 (h) Copies of documents (other than notes of
 evidence)-per folio of seventy-two words $0.50
-[Subsidiary]
 - Margin: Rule 5. [200/1980 3 of 1994].

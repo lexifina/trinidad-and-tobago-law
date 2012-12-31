@@ -1,2 +1,2 @@
-# 3A. Qualification of Magistrate. [37 of 1997].
+# 3A. Qualification of Magistrate. [3 of 1980 37 of 1997].
 No person shall be appointed a Magistrate unless he has been admitted to practise as an Attorney-at-law in Trinidad and Tobago and has practised as such for a period of not less than five years save that for the purpose of satisfying the latter requirement practice as an Attorney-at-law or as a barrister or solicitor and service as a judicial or legal officer in a Commonwealth country, shall be deemed to be practice as an Attorney-at-law in Trinidad and Tobago.
