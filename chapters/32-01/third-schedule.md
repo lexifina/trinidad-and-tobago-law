@@ -1,10 +1,10 @@
 # THIRD SCHEDULE
 RATES OF BENEFITS
-TABLE A1
-Rates of Sickness and Maternity Benefit (weekly) for Persons
+TABLE A1 Rates of Sickness and Maternity Benefit (weekly) for Persons
 Qualifying on or after 3rd May 1999
 EARNINGS CLASS BENEFIT
 CLASS I $ 63.00 CLASS II $ 93.00 CLASS III $ 123.00 CLASS IV $ 156.00 CLASS V $ 195.00 CLASS VI $ 237.00 CLASS VII $ 279.00 CLASS VIII $ 321.00 CLASS IX $ 366.00 CLASS X $ 414.00 CLASS XI $ 462.00 CLASS XII $ 486.00
+THIRD SCHEDULE-Continued
 TABLE A2
 Rates of Sickness and Maternity Benefit
 for Persons who Qualified before 3rd May 1999
@@ -23,6 +23,7 @@ CLASS XII CLASS VII CLASS VI
 CLASS IV CLASS IX CLASS XI CLASS III
 CLASS X CLASS V CLASS II
 CLASS I
+THIRD SCHEDULE-Continued
 TABLE A4
 Sickness and Maternity Benefit Rates
 DAILY BENEFIT WEEKLY BENEFIT EARNINGS CLASS
@@ -44,11 +45,11 @@ XIV 140.14 981.00
 XV 155.79 1090.50
 XVI 164.14 1149.00
 RATES OF BENEFITS-Continued
-TABLE B1
-Rates of Invalidity or Retirement Pension (weekly) for Persons
+TABLE B1 Rates of Invalidity or Retirement Pension (weekly) for Persons
 Qualifying on or after 3rd May 1999
 EARNINGS CLASS NEW BASIC PENSION
 CLASS I $ 50.00 CLASS II $ 65.00 CLASS III $ 77.00 CLASS IV $ 89.00 CLASS V $ 100.00 CLASS VI $ 118.50 CLASS VII $ 139.50 CLASS VIII $ 160.50 CLASS IX $ 183.00 CLASS X $ 207.00 CLASS XI $ 231.00 CLASS XII $ 243.00
+THIRD SCHEDULE-Continued
 TABLE B2(A)
 Rates of Retirement or Invalidity Pension for Persons who
 Qualified before 11th August 1980
@@ -92,9 +93,10 @@ NEW INCREMENT
 (MONTHLY)
 $ 3.99 $ 5.55 $ 7.02 $ 8.41 $ 9.88 $ 12.01 $ 14.13 $ 16.34 $ 18.55 $ 21.06 $ 23.45 $ 24.66
 RATES FOR INCREMENT RETIREMENT AND INVALIDITY PENSION
+THIRD SCHEDULE-CONTINUED
 NEW INCREMENT
-TABLE B3 (WEEKLY)
-PART II
+TABLE B3
+(WEEKLY) PART II
 $ 0.92 $ 1.28 $ 1.62 $ 1.94 $ 2.28 $ 2.77 $ 3.26 $ 3.77 $ 4.28 $ 4.86 $ 5.41 $ 5.69
 EARNINGS CLASS
 CLASS VIII
@@ -124,6 +126,7 @@ XIII 440.05 1906.87
 XIV 487.78 2113.72
 XV 542.23 2349.65
 XVI 571.31 2475.70
+THIRD SCHEDULE-Continued
 TABLE B4
 PART II
 Rates for Increment Retirement and Invalidity Pension
@@ -154,6 +157,7 @@ CHILD ORPHAN
 PARENTS CLASS WIDOWER
 CLASS I $ 30.00 $ 15.00 $ 30.00 $ 15.00 CLASS II $ 39.00 $ 19.50 $ 39.00 $ 19.50 CLASS III $ 46.20 $ 23.10 $ 46.20 $ 23.10 CLASS IV $ 53.40 $ 26.70 $ 53.40 $ 26.70 CLASS V $ 60.00 $ 30.00 $ 60.00 $ 30.00 CLASS VI $ 71.10 $ 35.55 $ 71.10 $ 35.55 CLASS VII $ 83.70 $ 41.85 $ 83.70 $ 41.85 CLASS VIII $ 96.30 $ 48.15 $ 96.30 $ 48.15 CLASS IX $ 109.80 $ 54.90 $ 109.80 $ 54.90 CLASS X $ 124.20 $ 62.10 $ 124.20 $ 62.10 CLASS XI $ 138.60 $ 69.30 $ 138.60 $ 69.30 CLASS XII $ 145.80 $ 72.90 $ 145.80 $ 72.90
 Rates of Survivor Benefit shall be related to the rates of retirement and invalidity pension, that is to say, the maximum amount of survivor benefit payable in respect of a deceased insured person shall not exceed the total amount of retirement or invalidity pension for which the deceased would have been eligible had he qualified for the receipt of retirement or invalidity pension.
+THIRD SCHEDULE-Continued
 TABLE C2(A)
 Rates of Survivor Benefit for Persons who
 Qualified before 11th August 1980
@@ -175,35 +179,51 @@ WIDOW ORPHAN CHILD
 11TH AUGUST 1980 PARENTS
 CLASS I $ 30.00 $ 15.00 $ 30.00 $ 15.00 CLASS II $ 30.00 $ 15.00 $ 30.00 $ 15.00 CLASS III $ 30.00 $ 15.00 $ 30.00 $ 15.00 CLASS IV $ 30.00 $ 15.00 $ 30.00 $ 15.00 CLASS V $ 39.00 $ 19.50 $ 39.00 $ 19.50 CLASS VI $ 46.20 $ 23.10 $ 46.20 $ 23.10 CLASS VII $ 53.40 $ 26.70 $ 53.40 $ 26.70 CLASS VIII $ 60.00 $ 30.00 $ 60.00 $ 30.00
 $ 161.20 $ 209.56 $ 248.26 $ 286.96 $ 322.40 $ 382.07 $ 449.76 $ 517.49 $ 590.03 $ 667.38 $ 744.77 $ 783.47
+ORPHAN
 $ 104.78 $ 124.15 $ 143.48 $ 161.20 $ 191.06 $ 224.90 $ 258.75 $ 295.02 $ 333.71 $ 372.41 $ 391.74 $ 80.60
+PARENTS
 $ 104.78 $ 124.15 $ 143.48 $ 161.20 $ 191.06 $ 224.90 $ 258.75 $ 295.02 $ 333.71 $ 372.41 $ 391.74 $ 80.60
+CHILD
 $ 161.20 $ 209.56 $ 248.26 $ 286.96 $ 322.40 $ 382.07 $ 449.76 $ 517.49 $ 590.03 $ 667.38 $ 744.77 $ 783.47
+WIDOWER
 SURVIVORS PENSION RATES
 TABLE C3
 $ 103.79 $ 136.16 $ 154.01 $ 171.87 $ 180.80 $ 119.42 $ 37.20 $ 48.36 $ 57.29 $ 66.22 $ 74.40 $ 88.17 PART I
+ORPHAN
 $ 18.60 $ 24.18 $ 28.65 $ 37.20 $ 44.09 $ 51.90 $ 59.71 $ 68.08 $ 77.01 $ 85.94 $ 90.40 $ 33.11
+PARENTS
 $ 18.60 $ 24.18 $ 28.65 $ 37.20 $ 44.09 $ 51.90 $ 59.71 $ 68.08 $ 77.01 $ 85.94 $ 90.40 $ 33.11
+CHILD
 $ 37.20 $ 48.36 $ 57.29 $ 66.22 $ 74.40 $ 88.17 $ 103.79 $ 119.42 $ 136.16 $ 154.01 $ 171.87 $ 180.80
+WIDOWER
 CLASS VIII
 CLASS XII CLASS VII CLASS VI
 CLASS IV CLASS IX CLASS XI CLASS III
 CLASS X CLASS V CLASS II
-CLASS I $ 2.43 $ 3.34 $ 4.25 $ 5.07 $ 5.94 $ 7.24 $ 8.50 $ 9.84 $ 12.66 $ 14.09 $ 14.82 $ 11.14
-$ 1.22 $ 1.67 $ 2.13 $ 2.54 $ 2.97 $ 3.62 $ 4.25 $ 4.92 $ 5.57 $ 6.33 $ 7.05 $ 7.41
-$ 1.22 $ 1.67 $ 2.13 $ 2.54 $ 2.97 $ 3.62 $ 4.25 $ 4.92 $ 5.57 $ 6.33 $ 7.05 $ 7.41
-RATES FOR INCREMENTS SURVIVORS PENSION
+CLASS I CLASS
 $ 2.43 $ 3.34 $ 4.25 $ 5.07 $ 5.94 $ 7.24 $ 8.50 $ 9.84 $ 12.66 $ 14.09 $ 14.82 $ 11.14
+ORPHAN
+$ 1.22 $ 1.67 $ 2.13 $ 2.54 $ 2.97 $ 3.62 $ 4.25 $ 4.92 $ 5.57 $ 6.33 $ 7.05 $ 7.41
+PARENTS
+$ 1.22 $ 1.67 $ 2.13 $ 2.54 $ 2.97 $ 3.62 $ 4.25 $ 4.92 $ 5.57 $ 6.33 $ 7.05 $ 7.41
+CHILD
+RATES FOR INCREMENTS SURVIVORS PENSION THIRD SCHEDULE-CONTINUED
+$ 2.43 $ 3.34 $ 4.25 $ 5.07 $ 5.94 $ 7.24 $ 8.50 $ 9.84 $ 12.66 $ 14.09 $ 14.82 $ 11.14
+WIDOWER
 TABLE C3
 PART II $ 0.56 $ 0.77 $ 0.98 $ 1.17 $ 1.37 $ 1.67 $ 1.96 $ 2.27 $ 2.57 $ 2.92 $ 3.25 $ 3.42
+ORPHAN
 $ 0.28 $ 0.39 $ 0.49 $ 0.59 $ 0.69 $ 0.84 $ 0.98 $ 1.14 $ 1.29 $ 1.46 $ 1.63 $ 1.71
+PARENTS
 $ 0.28 $ 0.39 $ 0.49 $ 0.59 $ 0.69 $ 0.84 $ 0.98 $ 1.14 $ 1.29 $ 1.46 $ 1.63 $ 1.71
+CHILD
 $ 0.56 $ 0.77 $ 0.98 $ 1.17 $ 1.37 $ 1.67 $ 1.96 $ 2.27 $ 2.57 $ 2.92 $ 3.25 $ 3.42
+WIDOWER
 CLASS VIII
 CLASS XII CLASS VII CLASS VI
 CLASS IV CLASS IX CLASS XI CLASS III
-CLASS X CLASS V CLASS II
-CLASS I
-198.38 259.18 306.67 357.59 403.00 476.62 559.26 641.98 733.63 830.35 927.07 1031.68 1144.13 1268.24 1409.81 1485.42
+CLASS CLASS X CLASS V CLASS II
+CLASS I 198.38 259.18 306.67 357.59 403.00 476.62 559.26 641.98 733.63 830.35 927.07 1031.68 1144.13 1268.24 1409.81 1485.42
 $
 99.19 129.61 153.36 178.79 201.50 238.33 279.67 321.01 366.82 415.18 463.58 515.84 572.04 634.10 704.90 742.69
 $
@@ -228,7 +248,7 @@ $ 2.99 4.12 5.24 6.33 7.41 9.01 10.57 12.22 13.87 15.73 17.55 19.50 21.62 23.96 
 1.47 $ 2.08 2.64 3.21 3.73 4.55 5.29 6.11 6.93 7.89 8.80 9.75 10.79 11.96 13.30 14.04
 1.47 2.08 2.64 3.21 3.73 4.55 5.29 6.11 6.93 7.89 8.80 9.75 10.79 11.96 13.30 14.04
 $
-RATES FOR INCREMENTS SURVIVORS PENSION
+RATES FOR INCREMENTS SURVIVORS PENSION THIRD SCHEDULE-CONTINUED
 10.57 12.22 13.87 15.73 17.55 19.50 21.62 23.96 26.61 28.04 $ 2.99 4.12 5.24 6.33 7.41 9.01
 TABLE C4
 PART II
@@ -265,6 +285,7 @@ CLASS IX $ 406.67 $ 244.00 $ 122.00 $ 244.00 $ 122.00
 CLASS X $ 460.00 $ 276.00 $ 138.00 $ 276.00 $ 138.00
 CLASS XI $ 513.33 $ 308.00 $ 154.00 $ 308.00 $ 154.00
 CLASS XII $ 540.00 $ 324.00 $ 162.00 $ 324.00 $ 162.00
+THIRD SCHEDULE-Continued
 TABLE D2
 Rates of Employment Injury Benefit for Persons Qualifying
 before 3rd May 1999
@@ -296,10 +317,12 @@ $
 438.75
 1659.67 138.67 203.67 273.00 345.58 529.75 619.67 715.00 813.63 921.96 1030.29 1146.95 1278.33 1417.00 1575.17
 $
+THIRD SCHEDULE-CONTINUED
 EMPLOYMENT INJURY/DEATH BENEFIT
 32.00 47.00 63.00 79.75 101.25 122.25 143.00 165.00 187.76 212.76 237.76 264.68 295.00 327.00 363.50 383.00
 $
-1059.46 1244.71 TABLE D4
+1059.46 1244.71
+TABLE D4
 3319.33 277.33 412.71 546.00 696.58 872.08 1424.63 1632.63 1843.88 2060.54 2293.94 2556.67 2834.00 3150.33
 $
 766.00 64.00 95.24 126.00 160.75 201.25 244.49 287.24 328.76 376.76 425.51 475.51 529.37 590.00 654.00 727.00 $
@@ -314,24 +337,20 @@ I
 - Margin: [18/2008].
 - Margin: [18/2008].
 - Margin: [18/2008].
-- Margin: DEPENDENT ORPHAN
-- Margin: DEPENDENT PARENTS MONTHLY BENEFIT
-- Margin: CHILD
-- Margin: WIDOWER WIDOW/
-- Margin: DEPENDENT ORPHAN
-- Margin: DEPENDENT PARENTS WEEKLY BENEFIT
-- Margin: CHILD
-- Margin: WIDOWER WIDOW/
-- Margin: EARNINGS CLASS
-- Margin: DEPENDENT ORPHAN
-- Margin: DEPENDENT MONTHLY BENEFIT PARENTS
-- Margin: CHILD
-- Margin: WIDOWER WIDOW/
-- Margin: DEPENDENT ORPHAN
-- Margin: DEPENDENT PARENTS WEEKLY BENEFIT
-- Margin: CHILD
-- Margin: WIDOWER WIDOW/
-- Margin: EARNINGS CLASS
+- Margin: DEPENDENT
+- Margin: DEPENDENT MONTHLY BENEFIT
+- Margin: WIDOW/
+- Margin: DEPENDENT
+- Margin: DEPENDENT WEEKLY BENEFIT
+- Margin: WIDOW/
+- Margin: EARNINGS
+- Margin: DEPENDENT
+- Margin: DEPENDENT MONTHLY BENEFIT
+- Margin: WIDOW/
+- Margin: DEPENDENT
+- Margin: DEPENDENT WEEKLY BENEFIT
+- Margin: WIDOW/
+- Margin: EARNINGS
 - Margin: DEPENDENT ORPHAN
 - Margin: DEPENDENT MONTHLY BENEFIT PARENTS
 - Margin: CHILD
@@ -368,45 +387,3 @@ I
 - Margin: PAYMENTS MONTHLY BENEFIT INJURY
 - Margin: PAYMENTS WEEKLY BENEFIT INJURY
 - Margin: EARNINGS CLASS [18/2008].
-- Margin: 27/2004. [24/2008].
-- Margin: Citation.
-- Margin: Interpretation.
-- Margin: Application.
-- Margin: Application for registration of employer.
-- Margin: Certificate of registration.
-- Margin: Certificate to be kept in employer's custody. [24/2008].
-- Margin: Procedure on ceasing to be an employer. [24/2008].
-- Margin: Ch. 81:01.
-- Margin: Registration of certain employed persons and unpaid apprentices. [24/2008].
-- Margin: Registration of self-employed persons.
-- Margin: Termination of self- employment.
-- Margin: Board to supply forms.
-- Margin: National Insurance Registration Card.
-- Margin: Ch. 2:01.
-- Margin: Loss, etc., of insurance certificate or National Insurance Registration Card.
-- Margin: Board to be informed of changes.
-- Margin: Offences. [24/2008].
-- Margin: 63/1972. [101/1976 141/1980 105/1991 72/1999 68/2004 38/2008]. Citation.
-- Margin: Interpretation.
-- Margin: Payment of contributions. [105/1991 72/1999 38/2008].
-- Margin: Postponement of payment of contribution. [105/1991].
-- Margin: Employer to keep record of contributions. [105/1991 72/1999 38/2008].
-- Margin: Particulars to be furnished by the employer. [72/1999 68/2004 38/2008].
-- Margin: Application for certificate of voluntary insurance. [101/1976 72/1999].
-- Margin: Issue of certificate of voluntary insurance and contribution card. [38/2008].
-- Margin: Manner of payment of voluntary contribution. [101/1976 38/2008].
-- Margin: Rate of voluntary contribution. [72/1999 68/2004 38/2008].
-- Margin: Time of payment of voluntary contribution.
-- Margin: Age credits on the appointed day.
-- Margin: Second Schedule.
-- Margin: Purpose of age credits.
-- Margin: Other credits. [72/1999 38/2008].
-- Margin: Failure to pay contribution or late payment thereof.
-- Margin: Acting in bad faith. [38/2008].
-- Margin: Contributions paid in error. [68/2004].
-- Margin: Offences. [38/2008].
-- Margin: Regulation 7.
-- Margin: Regulation 8(2).
-- Margin: Regulation 12. [183/1980].
-- Margin: 2
-- Margin: CASH
