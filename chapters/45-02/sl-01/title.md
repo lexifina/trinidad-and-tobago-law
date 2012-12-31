@@ -90,7 +90,6 @@ On application for a dissolution or annulment of marriage ... 50.00 On setting d
 (i) an uncontested suit ... 10.00
 (ii) a contested suit ... 25.00
 On application for a decree absolute ... 20.00
-Muslim Marriage and Divorce Regulations [Subsidiary]
 PART B-FORMS
 FORM A
 No. No.
@@ -98,27 +97,27 @@ REPUBLIC OF TRINIDAD AND TOBAGO
 MUSLIM MARRIAGE AND DIVORCE ACT
 MUSLIM MARRIAGE CERTIFICATE
 DOWRY AND HOW NAME OF FATHER NAME OF FATHER DATE AND PLACE
-OCCUPATION OF NAME AND AGE WIFE'S NAME
+Counterfoil OCCUPATION OF NAME AND AGE WIFE'S NAME
 HUSBAND AND AND ADDRESS AND ADDRESS OF MARRIAGE OF HUSBAND
 HUSBAND'S
 AND AGE PAYABLE ADDRESS OF WIFE
-Counterfoil
 Marriage District Date of Marriage Place of Marriage Husband's Name and Age Wife's Name and Age Witnesses' Names-
 (1)
 (2)
 Signature of parties to the Marriage (1)
 (2)
 Certificate forwarded to Signature of Witnesses (1)
-(2) Registrar ... at ...on ... day of ..., 20...
-I ... of ... a Muslim Marriage Officer, certify that a Marriage between the above-mentioned
+(2) Registrar ... at ...on ... day of ..., 20... I ... of ... a Muslim Marriage
+Officer, certify that a Marriage between the above-mentioned parties in accordance with the Islamic Law
 Signature of
-parties in accordance with the Islamic Law of Marriage
+of Marriage and the provisions of the Muslim
 Marriage Officer.
-and the provisions of the Muslim Marriage and Divorce Act was entered into before me this ... day of ..., 20... *Registered this ... day of ..., 20... Signature of Marriage Officer.
-Signature of District Registrar for the Marriage *Date of Registration of
-District of Marriage by Registrar General to be filled in
-Registrar of Muslim Marriages. subsequently by Marriage Officer and signed by him.
-Date
+Marriage and Divorce Act was entered into before me this ... day of ..., 20... *Registered this ...
+Signature of Marriage Officer. day of ..., 20...
+Signature of District Registrar for the Marriage
+District of *Date of Registration of Marriage by Registrar
+Registrar of Muslim Marriages. General to be filled in subsequently by Marriage
+Date Officer and signed by him.
 Muslim Marriage and Divorce Regulations [Subsidiary]
 FORM B
 REPUBLIC OF TRINIDAD AND TOBAGO
