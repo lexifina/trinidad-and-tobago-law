@@ -12,5 +12,5 @@ Address of Next Kin: ...
 Details of any previous protection (if any, including the name of the Investigating Officer):
 Signature:
 Date:
-- Margin: (Regulation 3).
+- Margin: Rgulation 3.
 - Margin: [Subsidiary]
