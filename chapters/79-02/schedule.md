@@ -13,9 +13,3 @@ A RECOGNISED ASSOCIATION
 10. Disputes between members of the association and the Executive Committee.
 11. A prohibition against admission to membership of an employee who is a member of another recognised association.
 - Margin: Section 20H. [23/1994].
-- Margin: 156/1979.
-- Margin: 153/1986.
-- Margin: 211/1986.
-- Margin: Citation.
-- Margin: Basis of initial contribution.
-- Margin: Basis of annual premium.

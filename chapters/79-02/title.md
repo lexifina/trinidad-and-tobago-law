@@ -14,9 +14,11 @@ Amended by
 237/2007
 *26 of 2008
 4 of 2009
+18 of 2011
+2 of 2012 10/2012
 *See Note on page 2.
 Index of Subsidiary Legislation
-Page Credit (Non-Business Purposes) Notice (GN 156/1979) … … … 55 Cash Reserve Notice (LN 153/1986) ... 55 Central Bank (Deposit Insurance) Order (LN 211/1986) … … … 56 Central Bank (Deposit Insurance) Order (LN 207/1987) … … … 57 Par Value of the Trinidad and Tobago Dollar Order (LN 57/1993) … … 57 Central Bank (Deposit Insurance) Bye-laws (LN 210/1986) … … 59
+Page Central Bank (Deposit Insurance) Order (LN 211/1986) … … … 57 Central Bank (Deposit Insurance) Order (LN 207/1987) … … … 58 Par Value of the Trinidad and Tobago Dollar Order (LN 57/1993) … … 58 Central Bank (Deposit Insurance) Bye-laws (LN 210/1986) … … 60 Central Bank (Payment of Supervisory Fees and Charges) Regulations (LN 170/2011) ... 68
 Note on
 A. Section 44C of the Act; and
 B. Bye-laws 2, 6 and 7 of the Central Bank (Deposit Insurance) Bye-laws
@@ -57,15 +59,15 @@ CAPITAL AND RESERVE
 PART IV
 THE BUSINESS OF THE BANK
 36. Authorised business of Bank. 37. Restrictions on business of the Bank.
-PART V
+PART V }
 RELATIONS WITH FINANCIAL INSTITUTIONS
-38. Bank as banker. 39. Minimum discount and rediscount rates.
-}
-40. to (Repealed by Act No. 23 of 1994). 44.
+38. Bank as banker. 39. Minimum discount and rediscount rates. 40. to (Repealed by Act No. 23 of 1994). 44.
 44A. Fixing of interest rates. 44B. Penalties for contravention of section 44A.
 PART VA
 SPECIAL EMERGENCY POWERS OF BANK
-44C. Definitions. 44D. Circumstances where Bank may take over control, etc. 44E. Notification of takeover of property and control. 44F. Duty to assist where Bank assumes control. 44G. Termination of control. 44H. Protection of persons acting under this Part. 44I. Offences.
+44C. Definitions. 44D. Circumstances where Bank may take over control, etc. 44E. Notification of takeover of property and control, and stay of
+proceedings.
+44F. Duty to assist where Bank assumes control. 44G. Termination of control. 44H. Protection of persons acting under this Part. 44I. Offences.
 PART VB
 DEPOSIT INSURANCE
 44J. Definitions. 44K. Establishment of Deposit Insurance Fund. 44L. Membership Fund. 44M. Financing of the Fund. 44N. Insurance cover. 44O. Contributions, etc., allowable tax deductions.
