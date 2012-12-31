@@ -1,2 +1,2 @@
 # SCHEDULE
-- Margin: (Regulation 3).
+- Margin: Regulation 3.

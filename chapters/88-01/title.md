@@ -15,21 +15,23 @@ Section 32 of Act No. 5 of 1994 provides as follows:
 authority who have transferred to the service of an Authority shall be valid and binding on the relevant representative association and the Authority shall be deemed to be registered under the Industrial Relations Act.".
 CHAPTER 88:01
 INDUSTRIAL RELATIONS ACT
-ARRANGEMENT OF SECTIONS SECTION
-1. Short title. Act at variance with the Constitution.
+ARRANGEMENT OF SECTIONS
+SECTION
+1. Short title.
+Act at variance with the Constitution.
 PRELIMINARY
 2. Interpretation. 3. Delegation by Minister.
 PART I
 THE INDUSTRIAL COURT
 ESTABLISHMENT, JURISDICTION AND PROCEDURE
-4. Establishment of Industrial Court. 5. Period of appointment, remuneration, etc. 6. Appointment of Registrar. 7. Jurisdiction of Court. 8. Procedure. 9. Court not bound to follow the rules of evidence.
-10. Powers of Court. 11. Additional powers of Court. 12. Conciliation. 13. Court may regulate its own procedure. 14. Recovery of compensation, damages or fines. 15. Order may be made retroactive. 16. Interpretation of orders and of collective agreements. 17. Scope of hearing by Court. 18. Appeal on point of law. 19. On whom award to be binding. 20. Intervention by the Attorney General.
+4. Establishment of Industrial Court. 5. Period of appointment, remuneration, etc. 6. Appointment of Registrar. 7. Jurisdiction of Court. 8. Procedure. 9. Court not bound to follow the rules of evidence. 10. Powers of Court. 11. Additional powers of Court. 12. Conciliation. 13. Court may regulate its own procedure. 14. Recovery of compensation, damages or fines. 15. Order may be made retroactive. 16. Interpretation of orders and of collective agreements. 17. Scope of hearing by Court. 18. Appeal on point of law. 19. On whom award to be binding. 20. Intervention by the Attorney General.
 ARRANGEMENT OF SECTIONS-Continued SECTION
 PART II
 REGISTRATION RECOGNITION AND
 CERTIFICATION BOARD
 BOARD ESTABLISHED
-21. Establishment of Board. 22. Salary, etc., and terms of office. Secretary of the Board.
+21. Establishment of Board. 22. Salary, etc., and terms of office.
+Secretary of the Board.
 23. Duties of the Board. 24. Powers of the Board. 25. Custody and use of seal. 26. Meetings of the Board. 27. Prohibition as to interest. 28. Power to enter premises. 29. Appointment of committees. 30. Power of Board to delegate. 31. Board may state case to Court.
 PART III
 CERTIFICATION OF RECOGNITION
@@ -41,7 +43,8 @@ Agreement to be submitted to Minister.
 45. Procedure by Minister on receipt of agreement. 46. Registration of collective agreement. 47. Enforceability of registered agreements. 48. Parties to a registered agreement. 49. Supplemental agreements. 50. Amendments to registered agreements.
 PART V
 DISPUTES PROCEDURE
-51. Reporting of trade disputes. 52. Contents of report. Notice of report of dispute.
+51. Reporting of trade disputes. 52. Contents of report.
+Notice of report of dispute.
 53. Powers of the Minister on a report. 54. Referral of questions as to nature of disputes to the Court. 55. Action on report by Minister. 56. Intervention by Minister. 57. Date of report in certain cases. 58. Resolved dispute. 59. Unresolved disputes. 60. Strike or lockout action procedures. 61. Referral to Court. 62. Strike and lockout action in conformity with this Part. 63. Industrial action not in conformity with this Part. 64. Application to the Court to avoid rescission of contract. 65. Stop order in the national interest. 66. Industrial action prohibited during hearing, etc. 67. Industrial action in essential services prohibited.
 ARRANGEMENT OF SECTIONS-Continued SECTION
 68. Offence for persons to contribute financial assistance to promote
@@ -69,5 +72,5 @@ WHEREAS it is enacted inter alia by section 13(1) of the Constitution that an Ac
 And whereas it is provided by section 13(2) of the Constitution that an Act of Parliament to which that section applies is one the Bill for which has been passed by both Houses of Parliament and at the final vote thereon in each House has been supported by the votes of not less than three-fifths of all the members of that House:
 And whereas it is necessary and expedient that the provisions of this Act shall have effect notwithstanding sections 4 and 5 of the Constitution:
 - Margin: 23 of 1972.
-- Margin: Commencement 119/1972.
+- Margin: Commencement. 119/1972.
 - Margin: Preamble.

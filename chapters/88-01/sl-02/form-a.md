@@ -12,6 +12,5 @@ Dated this ... day of ... , 20...
 ...
 Secretary,
 Registration Recognition and Certification Board
-Registration Recognition and Certification Board Rules
 - Margin: Rule 19.
 - Margin: [Subsidiary]

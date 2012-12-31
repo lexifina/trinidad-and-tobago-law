@@ -14,6 +14,5 @@ The Certificate is effective from the ... day of ..., 20...
 Chairman (Seal of Board)
 ...
 Secretary
-Industrial Relations (Certification of Recognition) Regulations
 - Margin: Regulation 8.
 - Margin: [Subsidiary]
