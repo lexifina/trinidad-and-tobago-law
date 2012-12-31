@@ -2,22 +2,18 @@ INCOME TAX (IN AID OF INDUSTRY) ACT
 CHAPTER 85:04
 Act
 12 of 1950 Amended by
-5 of 1951 6 of 1981
-73 of 1951
-11 of 1984
+5 of 1951 6 of 1981 73 of 1951 11 of 1984
 48 of 1955
 26 of 1985
 2/1963
 17 of 1992
 5 of 1964
-*5 of 1995 29 of 1966
-46 of 1969 39 of 2000
-5 of 1970
-2 of 2002
-42 of 1970
-21 of 2005
-36 of 1973
-2 of 2006 106/1974 30 of 2007 46 of 1976
+*5 of 1995
+29 of 1966
+39 of 2000
+46 of 1969
+2 of 2002 5 of 1970 21 of 2005 42 of 1970
+36 of 1973 2 of 2006 106/1974 30 of 2007 46 of 1976 13 of 2010
 *See Note on page 2
 Index of Subsidiary Legislation
 Page Income Tax (Mineral Deposits) Regulations (GN 115/1950) … … … 83
@@ -30,21 +26,21 @@ Note on Adaptation
 Under paragraph 6 of the Second Schedule to the Law Revision Act (Ch. 3:03) the Commission amended certain references to public officers in this Chapter. The Minister's approval of the amendments was signified by LN 120/1980, but no marginal reference is made to this Notice where any such amendment is made in the text.
 CHAPTER 85:04
 INCOME TAX (IN AID OF INDUSTRY) ACT
-ARRANGEMENT OF SECTIONS SECTION
+ARRANGEMENT OF SECTIONS
+SECTION
 1. Short title.
 1A. Application of Act.
 2. Interpretation.
 PART I
 INDUSTRIAL BUILDINGS AND STRUCTURES, ETC.
-3. Initial allowances. 4. Annual allowances. 5. Balancing allowances and balancing charges. 6. Writing off of expenditure and meaning of "residue of expenditure". 7. Buildings and structures bought unused. 8. Cessation of depreciation allowances. 9. Definition of industrial building or structure.
-10. Sports pavilions. 11. Meaning of "the relevant interest". 12. Temporary disuse of industrial buildings or structures. 13. Requisitioned land, holding over of leased land, and other special
+3. Initial allowances. 4. Annual allowances. 5. Balancing allowances and balancing charges. 6. Writing off of expenditure and meaning of "residue of expenditure". 7. Buildings and structures bought unused. 8. Cessation of depreciation allowances. 9. Definition of industrial building or structure. 10. Sports pavilions. 11. Meaning of "the relevant interest". 12. Temporary disuse of industrial buildings or structures. 13. Requisitioned land, holding over of leased land, and other special
 cases.
 14. Exclusion of double allowances, etc. 15. Interpretation of Part I.
 15A. Interpretation.
 PART II
 MACHINERY AND PLANT
 16. Initial allowances.
-16A. Initial and first year allowances. (Deleted by Act No. 21 of 2005). 16B.
+16A. Initial and first year allowances. 16B. (Deleted by Act No. 21 of 2005).
 17. Allowance for wear and tear. Amendment of section 11 of Income
 Tax Act.
 17A. Annual allowance. 17B. Previous allowance to be taken into account.
@@ -56,7 +52,8 @@ OIL REFINERIES-MACHINERY AND PLANT
 21A. Allowances on oil refinery, machinery and plant. 21B. Meaning of expenditure.
 PART III
 MINES, OIL WELLS, ETC.
-22. Expenditure to which Part III applies. 23. Initial allowance. (Deleted by Act No. 21 of 2005). 23A.
+22. Expenditure to which Part III applies. 23. Initial allowance.
+23A. (Deleted by Act No. 21 of 2005).
 24. Annual allowances. 25. Sale of source or part of source as going concern. 26. Application to expenditure incurred by person not engaged in the
 trade of mining, etc.
 27. Land production allowance in certain cases. 28. Regulations.
@@ -66,10 +63,9 @@ SUBMARINE OIL WELLS
 PART V
 PRODUCTION BUSINESS ON LAND
 34. Definitions. SECTION
-(Repealed by Act No. 6 of 1981). 35.
-36. Investment allowances.
+35. (Repealed by Act No. 6 of 1981). 36. Investment allowances.
 36A. Eligibility for investment allowance under section 36 of the Act.
-37. Balancing charge or allowance. (Repealed by Act No. 6 of 1981). 38.
+37. Balancing charge or allowance. 38. (Repealed by Act No. 6 of 1981).
 PART VI
 PATENTS
 39. Annual allowances for capital expenditure on purchase of patent
@@ -80,11 +76,11 @@ SCIENTIFIC RESEARCH
 47. Allowances for expenditure not of capital nature incurred after "the
 appointed day".
 48. Allowances of expenditure not of capital nature incurred between
-6th April, 1944 and "the appointed day".
+6th April 1944 and "the appointed day".
 49. Allowances of expenditure of a capital nature incurred after "the
 appointed day".
 50. Allowances for expenditure of a capital nature incurred between
-1st January, 1937 and "the appointed day".
+1st January 1937 and "the appointed day".
 51. Special provisions with regard to assets representing capital
 expenditure.
 52. Periods covered by section. 53. Carry forward of trade losses arising out of allowances. 54. Scientific research allowances exclude initial and annual allowances
@@ -104,7 +100,7 @@ MISCELLANEOUS AND GENERAL
 leasehold interests.
 66. Special provisions as to certain sales. 67. Trade marks and designs. 68. Interpretation of certain references to expenditure, etc. 69. Subsidies, etc. 70. Computation of expenditure for purposes of sections 10 and 11 of the
 Income Tax Act.
-71. Other provisions as to interpretation. 72. Deductions and allowances for year of discharge of tax. 73. Written-down value of assets of refinery as at 31st December, 1979.
+71. Other provisions as to interpretation. 72. Deductions and allowances for year of discharge of tax. 73. Written-down value of assets of refinery as at 31st December 1979.
 FIRST SCHEDULE-(Repealed by Act No. 2 of 2002). SECOND SCHEDULE. THIRD SCHEDULE. FOURTH SCHEDULE.
 
 CHAPTER 85:04
