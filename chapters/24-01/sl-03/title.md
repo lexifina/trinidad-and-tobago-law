@@ -1,0 +1,3 @@
+STATUTORY AUTHORITIES (DECLARATION) ORDER
+made under section 3(2)
+- Margin: *29/1967.

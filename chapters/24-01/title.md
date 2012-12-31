@@ -2,15 +2,17 @@ STATUTORY AUTHORITIES ACT
 CHAPTER 24:01
 Act
 16 of 1966 Amended by 45 of 1979 8 of 1983 19 of 1987 *21 of 1990
+5 of 2011
 *See Note on page 2
 Index of Subsidiary Legislation
-Page *Statutory Authorities Service Commission Regulations (GN 61/1968) … 20 Statutory Authorities (Delegation of Powers) Order (GN 131/1969) … 74 Statutory Authorities (Declaration) Order (GN 29/1967) … … 83 Statutory Authorities Appeal Board Regulations (LN 161/1984) … … 84 Public Health Inspectors (Statutory Authorities) (Overtime Allowance)
-Regulations (LN 147/1992) ... 100
+Page *Statutory Authorities Service Commission Regulations (GN 61/1968) … 21 Statutory Authorities (Delegation of Powers) Order (GN 131/1969; 132/1969;
+133/1969; 134/1969; 176/1970; 258/1971; LN 23/1980; 24/1980) … 75 Statutory Authorities (Declaration) Order (GN 29/1967) … … … 84 Statutory Authorities Appeal Board Regulations (LN 161/1984) … … 85 Public Health Inspectors (Statutory Authorities) (Overtime Allowance)
+Regulations (LN 147/1992) ... 101
 Note on Act No. 21 of 1990
 Section 35 of the Municipal Corporations Act, 1990 (Act No. 21 of 1990) provides as follows:
-35. The Statutory Authorities Service Commission established under the "Appointment
-of Officers.
-Statutory Authorities Act shall appoint, remove, transfer and exercise
+35. The Statutory Authorities Service Commission established under the
+"Appointment
+Statutory Authorities Act shall appoint, remove, transfer and exercise of Officers.
 Ch. 24:01.
 disciplinary control over the officers of each Corporation.".
 *The amendment made to regulation 93 of these Regulations by Act No. 47 of 1980 (Schedule C) was retrospective and has already been incorporated in the Regulations. A marginal amendment reference to "47 of 1980" should be inserted accordingly.
@@ -42,7 +44,7 @@ approval.
 ASSOCIATIONS OF OFFICERS OR EMPLOYEES
 24. Definitions. 25. Representation of officers. 26. Rules governing recognition. 27. Association to make Rules.
 MISCELLANEOUS AND GENERAL
-28. Regulations generally.
+28. Regulations generally. 29. Grant of one month's salary on the death of an officer.
 FIRST SCHEDULE. SECOND SCHEDULE.
 
 CHAPTER 24:01
