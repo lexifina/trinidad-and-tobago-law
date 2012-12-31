@@ -4,18 +4,18 @@ Act
 7 of 2006
 Amended by
 13 of 2007
-5-46 .. 1/2009
-49-100 .. 1/2009
-103-128 .. 1/2009
-131-162 .. 1/2009
+*2 of 2012
+*See Note on page 2
 Index of Subsidiary Legislation
 Page
 Police Service Regulations (LN 145/2007) … … … 43 Police Service (Recruitment of Special Reserve Police) Regulations
-(LN 175/2008) ... 163
+(LN 175/2008) ... 165
 Note on Subsidiary Legislation
 For Resolution affirming the Police Service Regulations (LN 145/2007) See LN 111/2007.
 Note on Omission
 The Commissioner of Police (Extension of Service) Order (LN 251/2007) made under section 75(a) of the Act has been omitted.
+Note on Act No. 2 of 2012
+Act No. 2 of 2012 introduced section 8A. The Provisions of this section took effect from 1st October 2010.
 CHAPTER 15:01
 POLICE SERVICE ACT
 ARRANGEMENT OF SECTIONS SECTION
@@ -25,7 +25,9 @@ PRELIMINARY
 PART II
 ESTABLISHMENT AND STRUCTURE OF
 THE POLICE SERVICE
-4. Establishment of the Police Service. 5. President authorised to issue arms to the Police Service. 6. Classification of offices. 7. Divisions of the Police Service. 8. Remuneration Order. 9. Increment.
+4. Establishment of the Police Service. 5. President authorised to issue arms to the Police Service. 6. Classification of offices. 7. Divisions of the Police Service. 8. Remuneration Order.
+8A. Duty allowance.
+9. Increment.
 PART III
 APPOINTMENT OF TRAINEES
 10. Application to be trainee. 11. Qualification for trainee. 12. Appointment and control of trainee. 13. Dismissal of trainee. 14. Regulations for trainee. 15. Successful trainee.
@@ -34,9 +36,9 @@ APPOINTMENT AND PROMOTION OF
 POLICE OFFICERS
 16. Appointment on promotion to First and Second Divisions. 17. Promotions to and within the First Division.
 17A. Promotional assessment process.
-18. Promotion Advisory Board.
-ARRANGEMENT OF SECTIONS-Continued SECTION
-19. Functions of the Board. 20. Promotion in Second Division. 21. Appointment or promotion on probation. 22. Contract officers.
+ARRANGEMENT OF SECTIONS-Continued
+SECTION
+18. Promotion Advisory Board. 19. Functions of the Board. 20. Promotion in Second Division. 21. Appointment or promotion on probation. 22. Contract officers.
 PART V
 DISCIPLINE
 23. Disciplinary powers.

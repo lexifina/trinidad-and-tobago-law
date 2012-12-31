@@ -1,6 +1,7 @@
 SUBSIDIARY LEGISLATION
 POLICE SERVICE REGULATIONS
-ARRANGEMENT OF REGULATIONS REGULATION
+ARRANGEMENT OF REGULATIONS
+REGULATION
 1. Citation and Commencement. 2. Interpretation.
 PART I
 RECRUITMENT AND APPOINTMENT
@@ -13,7 +14,8 @@ Division.
 Division.
 21. Probation on promotion.
 Police Service Regulations
-ARRANGEMENT OF REGULATIONS-Continued REGULATION
+ARRANGEMENT OF REGULATIONS-Continued
+REGULATION
 22. Performance appraisal report. 23. Confirmation of appointment. 24. Extension of probation. 25. Incremental date where period of probation extended. 26. Commissioner to keep record.
 PART III
 SECONDMENT
@@ -38,9 +40,12 @@ INCREMENTS
 ADVANCES
 50. Application for advance. 51. Payment of advance.
 ALLOWANCES
-52. Acting allowance. 53. Grant for funeral expenses. 54. Hardship allowance. 55. Housing allowance. 56. Plain clothes allowance. 57. Proficiency allowance. 58. Temporary separation allowance. 59. Conditions attached to payment of temporary separation allowance. 60. Application for temporary separation allowance. 61. Charges for extra duty prescribed. 62. Subsistence and meal allowances. 63. Allowance for travelling abroad on official business. 64. Attorney allowance. 65. Qualifying allowance.
+52. Acting allowance. 53. Grant for funeral expenses. 54. Hardship allowance. 55. Housing allowance. 56. Plain clothes allowance. 57. Proficiency allowance. 58. Temporary separation allowance. 59. Conditions attached to payment of temporary separation allowance. 60. Application for temporary separation allowance. 61. Charges for extra duty prescribed. 62. Subsistence and meal allowances.
+62A. Special duty allowance.
+63. Allowance for travelling abroad on official business. 64. Attorney allowance. 65. Qualifying allowance.
 Police Service Regulations
-ARRANGEMENT OF REGULATIONS-Continued REGULATION
+ARRANGEMENT OF REGULATIONS-Continued
+REGULATION
 PART VII
 HOURS OF WORK, RECORDS OF PERSONNEL AND
 PERFORMANCE APPRAISAL REPORTS
@@ -66,7 +71,8 @@ PART IX
 CUSTODY AND CARE OF PRISONERS
 99. Key for female cell. 100. Opening of cell. 101. Searching of prisoner. 102. Record to be kept of prisoner's property. 103. Prisoner's property handed over. 104. Prisoner in cell to be visited. 105. Children of prisoner in custody. 106. Feeding of prisoner. 107. Legal adviser to prisoner. 108. Sick prisoner. 109. Numerical strength of escort. 110. Prison van. 111. Dangerous prisoner. 112. Handcuffs. 113. Armed escort.
 Police Service Regulations
-ARRANGEMENT OF REGULATIONS-Continued REGULATION
+ARRANGEMENT OF REGULATIONS-Continued
+REGULATION
 PART X
 GOVERNMENT BUILDING, FURNITURE,
 HOSPITAL, ETC.
@@ -92,7 +98,10 @@ RECOGNITION OF POLICE SERVICE ASSOCIATION
 175. Interpretation of Part XIV. 176. Application for recognition. 177. Publication of application. 178. Objection to application. 179. Examination of records. 180. Decision of Minister. 181. Public recognition. 182. Special duty leave and time off.
 PART XV
 GRATUITIES AND PENSIONS
-183. Computation of gratuity, etc., a matter of high priority. 184. Contribution to superannuation allowances. 185. Pension to officer in special cases. 186. Payment out of pensions. 187. Service for less than ten years. 188. Broken service. 189. Permanent injury. 190. Pension to dependant of officer killed on duty and gratuity to
+183. Computation of gratuity, etc., a matter of high priority.
+183A. Computation of pension in acting capacity prior to compulsory
+retirement.
+184. Contribution to superannuation allowances. 185. Pension to officer in special cases. 186. Payment out of pensions. 187. Service for less than ten years. 188. Broken service. 189. Permanent injury. 190. Pension to dependant of officer killed on duty and gratuity to
 spouse, etc., of officer who dies in the Service.
 Police Service Regulations
 REGULATION
@@ -105,4 +114,4 @@ made under section 78
 - Margin: [Subsidiary]
 - Margin: [Subsidiary]
 - Margin: [Subsidiary]
-- Margin: 145/2007.
+- Margin: 145/2007. 23/2012.
