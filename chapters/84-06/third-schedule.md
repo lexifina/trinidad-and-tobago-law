@@ -1,10 +1,8 @@
 # THIRD SCHEDULE
 DELIVERY BOOK
-OCCUPATION
-WEIGHT Name and Signature of
-HOUR PRICE DATE
+Name and Signature of
 Name of Description
-Address address of Licensee or
+Address OCCUPATION address of Licensee or
 Purchaser of Articles
-Principal Agent
+WEIGHT HOUR Principal Agent DATE PRICE
 - Margin: Section 6(1).
