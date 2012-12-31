@@ -1,6 +1,6 @@
 # SECOND SCHEDULE
 LICENCE FEES FOR PRIVATE HOSPITALS
-Home for Number Medical or Medical, Maternity Hospital Hospital the elderly Surgical Surgical for the for any of beds Hospital
+Home for Maternity Hospital Hospital Number Medical or Medical, the elderly for the for any Surgical Surgical of beds Hospital
 Hospital and Convalescent designated
 Maternity or or Hospital Chronically specified
 ill disease,
