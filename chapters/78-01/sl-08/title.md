@@ -1,0 +1,3 @@
+SAMPLES FOR EFFECTING SALE REGULATIONS
+made under section 132
+- Margin: G. 21.12.39.
