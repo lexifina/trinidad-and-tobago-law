@@ -7,7 +7,7 @@ Amended by
 17 of 2007
 21 of 2007
 4 of 2008
-13-20 .. 1/2009
+2 of 2012
 Index of Subsidiary Legislation
 Page Retiring Allowances (Legislative Service) Regulations (GN 234/1971) … 18
 Note on Adaptation
