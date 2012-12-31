@@ -1,11 +1,11 @@
 WATERWORKS AND WATER CONSERVATION ACT
 CHAPTER 54:41
 Act
-5 of 1944 Amended by 41 of 1951 16 of 1962 16 of 1965 45 of 1979 *24 of 1981 28 of 1994 10 of 1998
-*See Note on Amendment at page 2
+5 of 1944 Amended by
+41 of 1951 16 of 1962 16 of 1965 45 of 1979 *24 of 1981 28 of 1994 10 of 1998
+*See Note on Amendment at page 2.
 Index of Subsidiary Legislation
-Page Water Improvement Area (Caroni Irrigation) Regulations (G 7.12.44) … 34 Waterworks and Water Conservation (Controlled Channels) Order
-(GN 107/1959) ... 43 Water Improvement (El Socorro) Area Order (GN 91/1955 ) … … 45 Water Improvement (El Socorro) Area Regulations (GN 45/1956) … 46 Water Improvement Rate (Point Lisas Industrial Estate) Order (LN 195/1998) … 52 Water Improvement (Point Lisas Industrial Estate) Area Order (LN 196/1998) 53
+Page Water Improvement Area (Caroni Irrigation) Regulations (G 7.12.44) … 34 Waterworks and Water Conservation (Controlled Channels) Order (GN 107/1959) ... 43 Water Improvement (El Socorro) Area Order (GN 91/1955) … … 45 Water Improvement (El Socorro) Area Regulations (GN 45/1956)… … 46 Water Improvement Rate (Point Lisas Industrial Estate) Order (LN 195/1998) … 52 Water Improvement (Point Lisas Industrial Estate) Area Order (LN 196/1998) 53
 Note on Amendment
 Section 23 of this Act has been amended by Act No. 24 of 1981. However, Act No. 24 of 1981 had not up to the date of the revision of this Act been brought into operation.
 Note on Adaptation
@@ -18,8 +18,7 @@ PART I
 INTRODUCTORY
 1. Short title. 2. Interpretation.
 PART II
-GENERAL PROVISIONS AS TO WATERWORKS
-3. General powers of competent authority. 4. Purposes referred to in section 3. 5. Abstracting or impeding the flow of water, etc. 6. Removing or tampering with gauges, etc. 7. Punishment of offenders against sections 5 and 6. 8. Injury to the waterworks, etc. 9. Civil proceedings by the State.
+GENERAL PROVISIONS AS TO WATERWORKS 3. General powers of competent authority. 4. Purposes referred to in section 3. 5. Abstracting or impeding the flow of water, etc. 6. Removing or tampering with gauges, etc. 7. Punishment of offenders against sections 5 and 6. 8. Injury to the waterworks, etc. 9. Civil proceedings by the State.
 PART III
 WATER IMPROVEMENT AREAS
 10. Declarations of Water Improvement Areas. 11. Water Improvement Rates. 12. Remissions and repayment of Rates. 13. Payment and recovery of Rates. 14. Registers of Water Improvement Rates. 15. Power to make Regulations.
@@ -30,7 +29,8 @@ DRAINS, OUTFALLS FOR WATER, ETC.
 ARRANGEMENT OF SECTIONS-Continued
 SECTION
 PART V
-FURTHER POWERS OF THE COMPETENT AUTHORITY
+FURTHER POWERS OF THE
+COMPETENT AUTHORITY
 20. Powers of competent authority to enter on land for purposes of
 survey, etc.
 21. Temporary user of lands. 22. Power to place waterworks on, over or under streets. 23. Compulsory acquisition of way-leaves over private land. 24. General power to set up gauges, etc. 25. Emergency powers.
