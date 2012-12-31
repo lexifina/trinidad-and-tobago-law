@@ -10,8 +10,7 @@ Fire Sub-Officer Fire Sub-Officer 1.10.03
 GRADE 3
 Fire Sub-Station Officer Fire Sub-Station Officer 1.10.03
 GRADE 4
-Fire Station Officer Fire Station Officer 1.10.03 Fire Equipment Supervisor Fire Equipment Officer 1.10.03
-Old Title New Title Effective Date
+Fire Station Officer Fire Station Officer 1.10.03 Fire Equipment Supervisor Fire Equipment Supervisor 1.10.03
 GRADE 5 Assistant Divisional Assistant Divisional 1.10.03
 Fire Officer Fire Officer
 GRADE 6 Divisional Fire Officer Divisional Fire Officer 1.10.03
