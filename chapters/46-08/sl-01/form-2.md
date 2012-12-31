@@ -23,40 +23,27 @@ Dated the ... day of ... , 20 ...
 Signed ...
 Collecting Officer
 ... Magisterial District
-*Delete as appropriate.
-Maintenance Rules [Subsidiary]
-PAYMENT
-TOTAL
-CR.
-C.
-TOTAL
-AMOUNT PAID
-$
-FAMILY LAW (GUARDIANSHIP OF MINORS, DOMICILE AND MAINTENANCE) ACT
-DETAILS C.
-$
-PARTICULARS
-PAYMENTS
-WHOM
-PAID
-TO
+*Delete as appropriate. FAMILY LAW (GUARDIANSHIP OF MINORS, DOMICILE AND MAINTENANCE) ACT
 MAINTENANCE CASH BOOK
-20 ... DATE
 COUNTY OF ...
-LODGED
-PAID/ DATE FORM 3
-RECEIPTS C.
-TOTAL
-$ C.
-TOTAL
-$
-REPUBLIC OF TRINIDAD AND TOBAGO
-C. DETAILS $
-RECEIPTS
-PARTICULARS
-RECEIVED
-WHOM FROM
-RECEIPT
-NO.
-D A T E 20 ...
-DR. [Subsidiary] Maintenance Rules
+FORM 3
+REPUBLIC OF TRINIDAD AND TOBAGO [Subsidiary] Maintenance Rules
+- Margin: PAYMENT TOTAL
+- Margin: PAYMENTS CR.
+- Margin: C. TOTAL AMOUNT PAID $
+- Margin: DETAILS C.
+- Margin: $
+- Margin: PARTICULARS
+- Margin: WHOM PAID TO
+- Margin: 20 ... DATE
+- Margin: PAID/LO DGED DATE
+- Margin: RECEIPTS C. TOTAL
+- Margin: $
+- Margin: C. TOTAL
+- Margin: $
+- Margin: C. DETAILS
+- Margin: $
+- Margin: DR. RECEIPTS PARTICULARS
+- Margin: RECEIVE WHOM FROM D
+- Margin: RECEIP NO. T
+- Margin: D A T E 20 ...

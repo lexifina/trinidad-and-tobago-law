@@ -17,7 +17,6 @@ DEPOSIT WITH MAGISTRATE
 Amount Date to which Date of payment Date Receipt No.
 Settlement is out of Court $ c.
 made
-Maintenance Rules [Subsidiary]
 C.
 AMOUNT
 PAID
@@ -37,6 +36,6 @@ COMPLAINANT
 NAME OF
 REPUBLIC OF TRINIDAD AND TOBAGO
 CARD NUMBER MAINTENANCE
-COUNTERFOIL
-NUMBER RECEIPT
+COUNTERFO IL RECEIPT
+NUMBER
 RECEIPT DATE OF [Subsidiary] Maintenance Rules
