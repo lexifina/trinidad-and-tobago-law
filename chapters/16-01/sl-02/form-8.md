@@ -18,5 +18,5 @@ Notes:
 other distinguishing marks.
 (b) State type, quantity and calibre. The following conditions shall be observed by the holder of this Certificate:
 (1) The firearm and ammunition to which this certificate relates shall be kept, carried and used by the holder thereof only on such occasion as he is actually in the course of the performance of his duties in connection with the business of his employer and shall immediately thereafter be returned to the employer.
-(2) (Insert any other condition) [Subsidiary] Firearms Regulations
+(2) (Insert any other condition)
 - Margin: Regulation 12.
