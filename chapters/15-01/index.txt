@@ -149,6 +149,7 @@ sl-01/r-59.md
 sl-01/r-60.md
 sl-01/r-61.md
 sl-01/r-62.md
+sl-01/r-62A.md
 sl-01/r-63.md
 sl-01/r-64.md
 sl-01/r-65.md
