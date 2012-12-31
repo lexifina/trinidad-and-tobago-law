@@ -3,7 +3,6 @@ TOBAGO ACT
 CHAPTER 39:06
 Act
 16 of 2004 Amended by 16 of 2007 10 of 2008
-1-8 .. 9-16 .. 1/2009 17-19 ..
 Note on Subsidiary Legislation
 This Chapter contains no subsidiary legislation.
 CHAPTER 39:06
