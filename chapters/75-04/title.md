@@ -2,18 +2,17 @@ PETROLEUM TAXES ACT
 CHAPTER 75:04
 Act
 22 of 1974 Amended by
-27 of 1988 30 of 1974
-16 of 1975 6 of 1989 46 of 1976 15 of 1992 47 of 1980
+6 of 1989 30 of 1974
+16 of 1975 15 of 1992 46 of 1976
 8 of 1996
-5 of 1981
-9 of 1997
-28 of 1984
-5 of 2004
-26 of 1985
-21 of 2005 14 of 1987 2 of 2006 16/1987
-11 of 1988 30 of 2007
+47 of 1980
+9 of 1997 5 of 1981 5 of 2004 28 of 1984
+26 of 1985 21 of 2005 14 of 1987
+2 of 2006
+16/1987
+30 of 2007 11 of 1988 13 of 2010 27 of 1988
 Index of Subsidiary Legislation
-Page Supplemental Refining Tax (Variation of Rates) Order (LN 143/1982) … 42 Supplemental Petroleum Tax (Variation of Rate) Order (LN 119/1983) … 42 Supplemental Petroleum Tax (Variation of Rate) Order (LN 152/1984) … 43
+Page Supplemental Refining Tax (Variation of Rates) Order (LN 143/1982) … 44 Supplemental Petroleum Tax (Variation of Rate) Order (LN 119/1983) … 44 Supplemental Petroleum Tax (Variation of Rate) Order (LN 152/1984) … 45
 Note on Omissions
 Petroleum Profits Tax (Posted Prices) Orders made under paragraph 5 of the Second Schedule have been omitted (see the Current Edition of the Consolidated Index of Acts and Subsidiary Legislation for references to these Orders).
 Note on Section 18A
@@ -35,14 +34,17 @@ OF TAXATION
 7A. Payment of supplemental petroleum tax.
 PART I
 TAXATION OF PETROLEUM OPERATIONS
-8. Application of Part I to individuals and companies. 9. Charge of petroleum profits tax.
-9A. Charge and computation of national recovery impost. 10. General scheme of petroleum profits tax. 11. Basis of assessment. } 11A.
-(Repealed by Act No. 8 of 1996). to
+} 8. Application of Part I to individuals and companies.
+9. Charge of petroleum profits tax.
+9A. Charge and computation of national recovery impost. 10. General scheme of petroleum profits tax. 11. Basis of assessment.
+11A.
+to (Repealed by Act No. 8 of 1996).
 11C.
 COMPUTATION OF PROFITS
 12. General rules for computation of profits.
 12A. Anti-avoidance.
-ARRANGEMENT OF SECTIONS-Continued SECTION
+ARRANGEMENT OF SECTIONS-Continued
+SECTION
 12B. Workover deductions. 12C. Heavy oil allowance.
 13. Application and adaptation of Income Tax Act as to capital
 allowance and other matters.
@@ -60,18 +62,18 @@ TRANSITIONAL PROVISIONS
 19A. Payment of tax for 1980. 19B. Gross income of production business for 1980. 19C. Refining stocks as at 31st December 1979.
 PART II
 SUPPLEMENTAL PETROLEUM TAX
-20. Interpretation. 21. Charge to supplemental petroleum tax. 22. Computation of supplemental petroleum tax. (Repealed by Act No. 2 of 2006). 22A. } (Repealed by Act No. 15 of 1992). 23.
-24.
-(Repealed by Act No. 21 of 2005). 25.
-25A. Royalty allowance.
-} 25B.
-(Repealed by Act No. 21 of 2005). to
-26D. SECTION
+20. Interpretation. 21. Charge to supplemental petroleum tax.
+} (Repealed by Act No. 15 of 1992).
+22. Computation of supplemental petroleum tax.
+22A. (Repealed by Act No. 2 of 2006).
+23. 24. 25. (Repealed by Act No. 21 of 2005).
+25A. Royalty allowance. 25B. (Repealed by Act No. 21 of 2005).
+26. Investment tax credits.
+26A. Time for claiming tax credits. SECTION
+26B. Shortfalls and excesses in tax credits. 26C. Disposal of machinery and plant. 26D. (Repealed by Act No. 21 of 2005).
 PART III
 MISCELLANEOUS AND GENERAL
-26E. Claim for decommissioning.
-(Not included in the original Act). 26F.
-26G. Application of certain provisions of the Act.
+26E. Claim for decommissioning. 26F. (Not included in the original Act). 26G. Application of certain provisions of the Act.
 27. Allocation of expenses to separate business. 28. Provisions as to accounting. 29. Powers of inspection of records. 30. Consultation. 31. Offences and penalties. 32. Regulations.
 FIRST SCHEDULE. SECOND SCHEDULE. THIRD SCHEDULE. FOURTH SCHEDULE.
 
