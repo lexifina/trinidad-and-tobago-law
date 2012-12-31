@@ -1,19 +1,22 @@
 MATERNITY PROTECTION ACT
 CHAPTER 45:57
 Act
-4 of 1998
+4 of 1998 Amended by *7 of 2012
+*See Note on page 2
 Note on Subsidiary Legislation
 This Chapter contains no subsidiary legislation.
+Note on Act No. 7 of 2012
+Section 4 of Act No. 7 of 2012 repealed the Masters and Servants Ordinance (Ch. 22. No. 5).
 CHAPTER 45:57
 MATERNITY PROTECTION ACT
 ARRANGEMENT OF SECTIONS
 PART I
-PRELIMINARY SECTION
+PRELIMINARY
+SECTION
 1. Short title. 2. Commencement. 3. Act inconsistent with the Constitution. 4. Interpretation. 5. Application of Act. 6. Act to bind State.
 PART II
 PROTECTION FOR PREGNANT EMPLOYEES
-7. Entitlement of pregnant employee. 8. Eligibility for maternity leave. 9. Date of maternity leave.
-10. Right to return to work. 11. Tax deduction. 12. Redress of aggrieved employee or employer. 13. Employer to keep records. 14. Authorised officer's powers of inspection. 15. Powers of entry. 16. False information-penalty. 17. Applications. 18. Limits on maternity leave with pay. 19. Maternity leave in addition to vacation leave. 20. Eligibility for promotion. 21. Computation of pensions and gratuity. 22. Power to make Regulations.
+7. Entitlement of pregnant employee. 8. Eligibility for maternity leave. 9. Date of maternity leave. 10. Right to return to work. 11. Tax deduction. 12. Redress of aggrieved employee or employer. 13. Employer to keep records. 14. Authorised officer's powers of inspection. 15. Powers of entry. 16. False information-penalty. 17. Applications. 18. Limits on maternity leave with pay. 19. Maternity leave in addition to vacation leave. 20. Eligibility for promotion. 21. Computation of pensions and gratuity. 22. Power to make Regulations.
 
 CHAPTER 45:57
 MATERNITY PROTECTION ACT
