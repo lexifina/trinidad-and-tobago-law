@@ -2,7 +2,7 @@ MEDIATION ACT
 CHAPTER 5:32
 Act
 8 of 2004
-1-16 .. 17-32 .. 1/2006 33-50 .. Index of Subsidiary Legislation
+1-16 .. 17-32 .. 33-50 .. Index of Subsidiary Legislation
 Page
 … … … 34 Community Mediation Regulations (LN 62/2008) CHAPTER 5:32
 MEDIATION ACT
