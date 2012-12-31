@@ -14,7 +14,6 @@ s-9.md
 s-10.md
 s-10A.md
 s-10B.md
-s-10C.md
 s-10D.md
 s-10E.md
 s-10F.md
@@ -27,6 +26,7 @@ s-10L.md
 s-10M.md
 s-10N.md
 s-10O.md
+s-10P.md
 s-11.md
 s-12.md
 s-13.md

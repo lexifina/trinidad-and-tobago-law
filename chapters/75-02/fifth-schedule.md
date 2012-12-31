@@ -5,10 +5,10 @@ COMPANIES AND OTHER COMPANIES
 (2) For the purposes of subparagraph (1), the Minister may by instrument in writing declare a company to be an approved mortgage company where that company has entered into an agreement with the Government whereby the company agrees, in accordance with this Schedule and the Housing Act and under the terms of the agreement-
 (a) to finance by way of mortgage the purchase of newly
 constructed houses;
-(b) to finance by way of mortgage the repayment of loans granted
-for the construction of houses; and
-(c) to finance the construction of houses by providing loans under
-loan agreements and by taking mortgages of the houses so constructed upon completion of construction.
+(b) to finance by way of mortgage the repayment of loans
+granted for the construction of houses; and
+(c) to finance the construction of houses by providing loans
+under loan agreements and by taking mortgages of the houses so constructed upon completion of construction.
 (2A) Notwithstanding the termination of the agreement between a company and the Government referred to in subparagraph (2), the exemptions granted under this Schedule shall apply in respect of any mortgages or loans which the Minister certifies were granted prior to the date of termination.
 (3) Notwithstanding the provisions of paragraphs 1(1), 2, and 4(1) that relate to the taxes with respect to which the profits of an approved mortgage company or the shareholders or the debenture holders of an approved mortgage company are exempt, the terms of the agreement mentioned in subparagraph (2) may limit the taxes from which an approved mortgage company or the shareholders or the debenture holders in the approved mortgage company are exempt.
 1A. (1) Where the Home Mortgage Bank has entered into an agreement with the Government to buy mortgage loans from approved mortgage companies, the Home Mortgage Bank is, subject to the terms of the agreement, deemed for the purposes of section 42(2)(d) of the Income Tax Act and paragraphs 1(1), 3(3) and 5 to be an approved mortgage company in relation to any mortgage loan that it buys from an approved mortgage company.
@@ -17,10 +17,8 @@ loan agreements and by taking mortgages of the houses so constructed upon comple
 2. An approved mortgage company that is exempt from corporation tax under paragraph 1(1) may, within a period commencing on the date of the mortgage or loan agreement and ending two years after the date on which the repayment of the principal sum borrowed is completed, where the income is in respect of interest and service charge exempt from tax under section 42(2)(d) of the Income Tax Act, distribute sums not exceeding the exempt interest and service charge to the members of the company and these sums when so distributed are exempt from income or corporation tax in the hands of the members of the company.
 3. (1) In this paragraph, "company" means a company limited by shares within the meaning of the Companies Act.
 (2) A company that is in receipt of income or profits that are exempt from corporation tax under section 42(2)(b), (c) or (e) of the Income Tax Act may-
-(a) within twelve years after the date of completion of construction
-of the newly constructed house, if the premiums and rents would be exempt from corporation tax under the said section 42(2)(b);
-(b) within two years after the date of sale of the newly constructed
-house, if the gains or profits would be exempt from corporation tax under the said section 42(2)(c); or
+(a) within twelve years after the date of completion of
+construction of the newly constructed house, if the premiums and rents would be exempt from corporation tax under the said section 42(2)(b); constructed house, if the gains or profits would be exempt from corporation tax under the said section 42(2)(c); or
 (c) within a period commencing on the date of the mortgage and
 ending two years after the date on which the repayment of the principal sum borrowed is completed, if the interest and service charge would be exempt from corporation tax under the said section 42(2)(e), distribute sums not exceeding in the aggregate the exempt income or profits to the members of the company and those sums when so distributed are exempt from income or corporation tax in the hands of the members of the company.
 (3) This paragraph and paragraphs 2, 4 and 4A apply only where the company or approved mortgage company keeps and submits annually separate accounts to the satisfaction of the Board showing-
@@ -28,8 +26,8 @@ ending two years after the date on which the repayment of the principal sum borr
 in section 42(2)(b), (c), (d) or (e) of the Income Tax Act;
 (b) all expenses and outgoings wholly and exclusively
 incurred in the production of the income or profits from each such source;
-(c) the debenture holders account mentioned in paragraph 4(3) or
-4A(3) as the case may require; and
+(c) the debenture holders account mentioned in paragraph 4(3)
+or 4A(3) as the case may require; and
 (d) such other information as the Board may require.
 4. (1) Where the income of an approved mortgage company is exempt from corporation tax under paragraph 1(1), any interest payable by the approved mortgage company on debenture borrowings by the approved mortgage company for the purpose of financing the construction of houses, the purchase of newly constructed houses, or the repayment of loans granted for the construction of houses, is, subject to subparagraphs (2) and (3), exempt from income or corporation tax in the hands of the debenture holders of the approved mortgage company, if the interest so paid is derived from income of the approved mortgage company exempt under paragraph 1(1).
 (1A) Notwithstanding that an approved mortgage company sells to the Home Mortgage Bank a mortgage loan the interest or service charge payable under which is exempt from corporation tax under paragraph 1(1), if the approved mortgage company uses the proceeds of the sale to finance by way of mortgage the activities mentioned in paragraph 1(2)(a), (b) and (c) in accordance with the agreement referred to in that paragraph any interest payable on debenture borrowings which would have been exempt from income or corporation tax in the hands of the debenture holders of the approved mortgage company under subparagraph (1) but for the sale, shall continue to be so exempt.
