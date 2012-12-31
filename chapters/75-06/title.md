@@ -1,27 +1,16 @@
 VALUE ADDED TAX ACT
 CHAPTER 75:06
 Act
-37 of 1989
-Amended by
-215/1989 *3 of 1994
-14 of 1994 5/1990 32 of 1994 17/1990 5 of 1995
-63/1990
-8 of 1996
-9 of 1990
-35 of 1998
-31/1991
-91 of 2000
-*6 of 1991
-2 of 2002
-4 of 1992 5 of 2004 6 of 1993 17 of 2007
-*22 of 1993 30 of 2007
+37 of 1989 Amended by
+215/1989 32 of 1994
+5/1990 5 of 1995 17/1990 8 of 1996 63/1990 35 of 1998 9 of 1990 91 of 2000 31/1991 2 of 2002
+*6 of 1991 5 of 2004 4 of 1992 17 of 2007 6 of 1993 30 of 2007
+*22 of 1993 13 of 2010 *3 of 1994 202/2011 14 of 1994 2 of 2012
 *See Note on Exemption on page 2
-13-26 .. 1/2009
-29-46 .. 1/2009
 Index of Subsidiary Legislation
 Page
-Value Added Tax (Books and Records) Regulations (LN 170/1992) … 67 Value Added Tax (Prescribed Offences-Modified Penalties) Regulations
-(LN 169/1992) ... 69
+Value Added Tax (Books and Records) Regulations (LN 170/1992) … 68 Value Added Tax (Prescribed Offences-Modified Penalties) Regulations
+(LN 169/1992) ... 70
 Note on sections 61 and 62
 Schedule 4 to the Value Added Tax Act 1989 (Act No. 37 of 1989) has been omitted since this Schedule dealt with amendments and repeals to other Acts mentioned therein. For a reference to Schedule 4 of the Value Added Tax Act, 1989-See the 1989 Annual Volumes of Acts and Subsidiary Legislation.
 Note on non-application of Act
@@ -45,7 +34,8 @@ TAX ON IMPORTS
 9. Calculation of tax. 10. Comptroller to collect tax. 11. When tax due and payable. 12. Value of imported goods. 13. (Repealed by Act No. 6 of 1991).
 13A. Refund on overpayments of tax on imports.
 PART 4
-TAX ON SUPPLY DIVISION 1-THE TAX
+TAX ON SUPPLY
+DIVISION 1-THE TAX
 14. Commercial supply. 15. What constitutes a supply of goods or services. 16. Place of supply.
 ARRANGEMENT OF SECTIONS-Continued
 SECTION
@@ -73,7 +63,7 @@ MISCELLANEOUS
 54A. Waiver of certain liabilities.
 55. Certain provisions of Income Tax Act to apply.
 55A. Clearance certificate.
-56. General offences. 57. Additional liability for offence by body corporate. 58. Limitation period for prosecutions. 59. Regulations.
+56. General offences. 57. Additional liability for offence by body corporate. 58. Proceedings for prosecution of offences. 59. Regulations.
 PART 6A
 MODIFIED PENALTIES
 59A. Infringement notices.

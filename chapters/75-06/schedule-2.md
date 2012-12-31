@@ -7,7 +7,7 @@ ZERO-RATING
 (d) milk in any form, including processed and tinned milk;
 (e) margarine;
 (f) bread;
-(g) baby formulas and baby milk substitutes.
+(g) baby formulas and baby milk substitutes;
 (h) cheese and curd;
 (i) corned beef;
 (j) curry;
@@ -38,8 +38,7 @@ other sweetening matter;
 (ag) chicken sausage, canned;
 (ah) salami sausages;
 (ai) icing sugar;
-*Schedule 2 has been amended by the following: [215/1989; 63/1990; 6 of 1991; 31/1991; 4 of 1992; 10/1992; 37/1993; 12 of 1994; 5 of 1995; 57/1995; 8 of 1996; 35 of 1998; 241/1998; 263/1998; 278/1998; 91/2000; 196/2000; 42/2001; 202/2001; 135/2002; 76/2003; 197/2003; 298/2004; 89/2005; 260/2005; 20/2006; 126/2006; 17 of 2007; 26/2007; 30 of 2007; 108/2007;166/2008 and 192/2009].
-(aj) preparations of malt extract;
+*Schedule 2 has been amended by the following: [215/1989; 63/1990; 6 of 1991; 31/1991; 4 of 1992; 10/1992; 37/1993; 12 of 1994; 5 of 1995; 57/1995; 8 of 1996; 35 of 1998; 241/1998; 263/1998; 278/1998; 91/2000; 196/2000; 42/2001; 202/2001; 135/2002; 76/2003; 197/2003; 298/2004; 89/2005; 260/2005; 20/2006; 126/2006; 17 of 2007; 26/2007; 30 of 2007; 108/2007; 166/2008; 192/2009, 13 of 2010 and 202/2011].
 (ak) corn flakes;
 (al) biscuits, unsweetened;
 (am) grapefruit juice;
@@ -51,92 +50,89 @@ other sweetening matter;
 (as) ordinary natural water;
 (at) aerated beverages;
 (au) orange drink;
-(av) grapefruit drink; and
-(aw) vinegar.
+(av) grapefruit drink;
+(aw) vinegar;
 (ax) Ground-nut oil and its fractions, whether or not refined, but
-not chemically modified.
+not chemically modified-
 Crude oil having tariff heading number 1508.10.00;
 (ay) Ground-nut oil and its fractions, whether or not refined, but
-not chemically modified.
+not chemically modified-
 Other having tariff heading number 1508.90.00;
 (az) Olive oil and its fractions, whether or not refined, but not
-chemically modified.
+chemically modified-
 Virgin having tariff heading number 1509.10.00;
 (ba) Olive oil and its fractions, whether or not refined, but not
-chemically modified.
+chemically modified-
 Other having tariff heading number 1509.90.00;
 (bb) Other oils and their fractions, obtained solely from olives,
-whether or not refined, but not chemically modified, including blends of these oils or fractions with oils or fractions of heading 15.09.
+whether or not refined, but not chemically modified, including blends of these oils or fractions with oils or fractions of heading 15.09-
 Crude oil having tariff heading number 1510.00.10;
 (bc) Other oils and their fractions, obtained solely from olives,
-whether or not refined, but not chemically modified, including blends of these oils or fractions with oils or fractions of heading 15.09.
+whether or not refined, but not chemically modified, including blends of these oils or fractions with oils or fractions of heading 15.09-
 Other having tariff heading number 1510.00.90;
 (bd) Palm oil and its fractions, whether or not refined, but not
-chemically modified.
+chemically modified-
 Crude oil having tariff heading number 1511.10.00;
 (be) Palm oil and its fractions, whether or not refined, but not
-chemically modified.
+chemically modified-
 Other: palm stearin having tariff heading number
 1511.90.10;
 (bf) Palm oil and its fractions, whether or not refined, but not
-chemically modified.
+chemically modified-
 Other: Other having tariff heading number 1511.90.90;
-(bg) Sunflower-seed, safflower or cotton-seed oil and fractions
-thereof, whether or not refined, but not chemically modified.
-Sunflower-seed or safflower oil and fractions thereof: Crude oil having tariff heading number 1512.11.00;
+thereof, whether or not refined, but not chemically modified-
+Sunflower-seed or safflower oil and fractions thereof:
+Crude oil having tariff heading number 1512.11.00;
 (bh) Sunflower-seed, safflower or cotton-seed oil and fractions
-thereof, whether or not refined, but not chemically modified.
+thereof, whether or not refined, but not chemically modified-
 Sunflower-seed or safflower oil and fractions thereof:
 Other having tariff heading number 1512.19.00;
 (bi) Sunflower-seed, safflower or cotton-seed oil and fractions
-thereof, whether or not refined, but not chemically modified.
+thereof, whether or not refined, but not chemically modified-
 Cotton-seed oil and its fractions: Crude oil, whether or
 not gossypol has been removed having tariff heading number 1512.21.00;
 (bj) Sunflower-seed, safflower or cotton-seed oil and fractions
-thereof, whether or not refined, but not chemically modified.
+thereof, whether or not refined, but not chemically modified-
 Cotton-seed oil and its fractions: Other having tariff
 heading number 1512.29.00;
 (bk) Coconut (copra), palm kernel or babassu oil and fractions
-thereof, whether or not refined, but not chemically modified.
+thereof, whether or not refined, but not chemically modified-
 Coconut (copra) oil and its fractions: Crude oil having
 tariff heading number 1513.11.00;
 (bl) Coconut (copra), palm kernel or babassu oil and fractions
-thereof, whether or not refined, but not chemically modified.
+thereof, whether or not refined, but not chemically modified-
 Coconut (copra) oil and its fractions: Other having tariff
 heading number 1513.19.00;
 (bm) Coconut (copra), palm kernel or babassu oil and fractions
-thereof, whether or not refined, but not chemically modified.
+thereof, whether or not refined, but not chemically modified-
 Palm kernel or babassu oil and fractions thereof: Crude
 oil having tariff heading number 1513.21.00;
 (bn) Coconut (copra), palm kernel or babassu oil and fractions
-thereof, whether or not refined, but not chemically modified.
+thereof, whether or not refined, but not chemically modified-
 Palm kernel or babassu oil and fractions thereof: Other
 having tariff heading number 1513.29.00;
 (bo) Rape, colza or mustard oil and fractions thereof, whether or
-not refined, but not chemically modified.
+not refined, but not chemically modified-
 Low erucic acid rape or colza oil and its fractions: Crude
 oil having tariff heading number 1514.11.00;
 (bp) Rape, colza or mustard oil and fractions thereof, whether or
-not refined, but not chemically modified.
+not refined, but not chemically modified-
 Low erucic acid rape or colza oil and its fractions: Other
 having tariff heading number 1514.19.00;
 (bq) Rape, colza or mustard oil and fractions thereof, whether or
-not refined, but not chemically modified.
-Low erucic acid rape or colza oil and its fractions: Other:
+not refined, but not chemically modified- Low erucic acid rape or colza oil and its fractions: Other:
 Crude oil having tariff heading number 1514.91.00;
-(br) Rape, colza or mustard oil and fractions thereof, whether or
-not refined, but not chemically modified.
+not refined, but not chemically modified-
 Low erucic acid rape or colza oil and its fractions: Other
 having tariff heading number 1514.99.00; and
-(bs) Animal or vegetable fats and oils and their fractions, partly
-or wholly hydrogenated, interesterified, re-esterified or elaidinised, whether or not refined, but not further prepared.
+(bs) Animal or vegetable fats and oils and their fractions, partly or
+wholly hydrogenated, interesterified, re-esterified or elaidinised, whether or not refined, but not further prepared-
 Animal fats and oils and their fractions: Vegetable fats
 and oils and their fractions having tariff heading number 1516.20.00.
 (2) In this item "unprocessed" in relation to a food means that the food contains no additives and that it is not the result of the application of a process other than freezing, chilling or packaging, a mechanical process, or a process that solely employs the elements of the weather.
 2. (1) Any live bird, fish, crustacean, mollusc or other animal of a kind generally used as, or yielding or producing, food for human consumption.
 (2) Any draught animal.
-3. Animal feeding stuffs suitable for any animal referred to in item 2.
-4. Seeds and other means of propagation of plants and plants that are used for providing-
+3. Animal feeding stuffs suitable for any animal referred to in item 2. 4. Seeds and other means of propagation of plants and plants that are used for providing-
 (a) a food referred to in item 1(1)(a), (b) or (c); or
 (b) a feeding stuff referred to in item 3.
 5. Preparations for agricultural use including peat moss, fertilizers, insecticides, herbicides and fungicides.
@@ -152,9 +148,7 @@ capsules or other solid dosage forms for oral and nasal use;
 (c) antacids and antiflatulants in the form of liquids, tablets,
 capsules and other solid dosage forms for oral use;
 (d) laxatives in the form of liquids, tablets, capsules or other
-solid dosage forms for oral or rectal use;
-(e) anthelmintics in the form of liquids, tablets or capsules for
-oral use;
+solid dosage forms for oral or rectal use; oral use;
 (f) oral rehydration preparations in the form of salts or solutions
 of W.H.O./Pharmacopoeia standards.
 8AA. Any of the following imported inputs used in the manufacture of pharmaceutical products:
@@ -196,7 +190,6 @@ of W.H.O./Pharmacopoeia standards.
 (jj) Lanolin Anhydrous having tariff number 1505.00.00;
 (kk) Lanolin Clear Oil having tariff number 1505.00.00;
 (ll) Liquid Deodoriser Fragrance having tariff number 3302.90.00;
-(mm) Magnesium Stearate having tariff number 2915.70.00;
 (nn) Menthol Crystals having tariff number 2906.11.00;
 (oo) Methyl Parabens having tariff number 2916.31.00;
 (pp) Methyl Salicylate having tariff number 2918.22.00;
@@ -212,7 +205,7 @@ of W.H.O./Pharmacopoeia standards.
 (zz) Potassium Chloride Powder having tariff number 3104.20.00;
 (aaa) Potassium Stearate having tariff number 2915.70.00;
 (bbb) Propyl Parabens having tariff number 2916.31.00;
-(ccc) Propylene Glycol having tariff number 2905.32.00
+(ccc) Propylene Glycol having tariff number 2905.32.00;
 (ddd) Pine Oil Alpid having tariff number 3301.29.00;
 (eee) Quinoline Yellow Dye having tariff number 3204.90.00;
 (fff) Salicylic Acid having tariff number 2918.21.00;
@@ -235,7 +228,6 @@ of W.H.O./Pharmacopoeia standards.
 (aaaa) Zinc Oxide having tariff number 2817.00.00. 8B. Diabetic-
 (a) diagnostic testing kits and devices for testing glucose in
 blood and urine;
-(b) insulin syringes with needles and devices of a type not
 exceeding 100 units (1.0 mL) capacity, for the administration of U-100 insulin.
 8C. Medicaments (excluding goods of heading No. 30.02, 30.05 or 30.06) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses or in forms or packings for retail sale, as contained in Customs Heading No. 30.04 of the First Schedule to the Customs Act.
 9. Aeroplanes and ships imported by or supplied to the State or State corporations.
@@ -331,6 +323,26 @@ number 3402.20.20; and
 (c) other detergents having tariff subheading number 3402.20.30.
 37. The item contained in the First Schedule to the Customs Act, being tallow under tariff heading number 1502.00.10.
 38. The item contained in the First Schedule to the Customs Act, being Compressed Natural Gas (CNG) systems under tariff heading number 8708.99.20.
+39. (1) New private or commercial motor vehicles manufactured to use Compressed Natural Gas (CNG).
+(2) Used private or commercial motor vehicles, manufactured to use Compressed Natural Gas (CNG) and not older than two years from the year of manufacture.
+(3) This item expires on the 31st December 2015.
+40. The items contained in the First Schedule to the Customs Act, being solar water heaters for domestic use and other solar water heaters of tariff heading numbers 8419.19.10 and 8419.19.20, respectively.
+41. The items contained in the First Schedule to the Customs Act, being photovoltaic cells whether or not assembled in modules or made up into panels; light emitting diodes under tariff heading number 8541.40.00.
+42. The items contained in the First Schedule to the Customs Act, being wind turbines of tariff heading number 8502.31.00 and parts suitable for use solely or principally with the machines of heading number 8502.31.00.
+43. The equipment to be used in the energy sector are as follows:
+(a) drilling rigs;
+(b) drill ships;
+(c) pipelay vessels and barges;
+(d) anchor handling tugs in excess of 35 metres in length;
+(e) geophysical survey vessels;
+(f) heavy lift installation crane barges;
+(g) oil skimming vessels;
+(h) rig and platform supply vessels in excess of 60 metres in
+length;
+(i) vessels used in bunkering in excess of 65,000 barrels
+[7,500 G.T.W. (Gross Ton Weight)];
+(j) floating dry dock in excess of 1000 DWT for repair of
+anchor handling tugs and platform supply vessels.
 - Margin: *Sections 3 and 8.
 - Margin: Ch. 48:02.
 - Margin: Ch. 78:01.
@@ -338,6 +350,9 @@ number 3402.20.20; and
 - Margin: Ch. 75:04.
 - Margin: Ch. 75:02.
 - Margin: Ch. 85:01.
+- Margin: Ch. 78:01.
+- Margin: Ch. 78:01.
+- Margin: Ch. 78:01.
 - Margin: Ch. 78:01.
 - Margin: Ch. 78:01.
 - Margin: Ch. 78:01.
