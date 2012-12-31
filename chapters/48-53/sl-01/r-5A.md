@@ -1,0 +1,2 @@
+# 5A. Certificate to acquire a maxi-taxi. [172/1994].
+Subject to section 6(5) of the Act and regulation 6, where a person applies to be registered as the owner of a maxi-taxi, the Authority shall, on being satisfied that the applicant has complied with section 6 of the Act and regulation 5(1), issue to the applicant a certificate authorising the applicant to acquire a maxi-taxi pending the grant of registration.

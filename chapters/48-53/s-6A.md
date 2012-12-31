@@ -1,4 +1,4 @@
-# 6A. Permit to operate a maxi-taxi. [6 of 1994]. 6 of 1994.
+# 6A. Permit to operate a maxi-taxi. [6 of 1994].
 (1) Subject to subsection (2), no person shall operate a maxi-taxi unless he is the holder of a valid permit to do so.
 *(2) A person who on the commencement of the Maxi- Taxi (Amendment) Act, 1994 is the holder of a valid permit to own and operate a maxi-taxi is deemed to be the holder of a valid permit to operate a maxi-taxi.
 (3) A person who is desirous of operating a maxi-taxi may apply to the Authority for a permit to do so.
