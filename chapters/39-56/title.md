@@ -4,7 +4,7 @@ Act
 77 of 2000
 Amended by
 179/2006
-1-4 1/2009 5-24 1/2006 25 1/2009
+1-4 5-24 25
 Note on Subsidiary Legislation
 This Chapter contains no subsidiary legislation.
 CHAPTER 39:56
