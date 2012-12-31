@@ -3,28 +3,16 @@ CHAPTER 13:02
 Act
 32 of 1965
 Amended by
-125/1966
-267/1971
-219/1973
-136/1976
-177/1976
-206/1976
-206/1977
-45 of 1979
-65/1980 20/1983 86/1987 87/1987
-17 of 2000
-120/2005
-17 of 2007
-*30 of 2007
-*23 of 2008
-*1 of 2009
+125/1966 86/1987
+267/1971 87/1987
+219/1973 17 of 2000 136/1976 120/2005
+17 of 2007 177/1976 *30 of 2007 206/1976 *23 of 2008 206/1977 *1 of 2009 45 of 1979 *13 of 2010 65/1980 *2 of 2012 20/1983
 *See Note on page 2
 Index of Subsidiary Legislation
-Page Prison Service (Code of Conduct) Regulations (LN 79/1990) … … 35
-N.B. For other Regulations relating to the Prison Service, see the Public Service Commission
+Page Prison Service (Code of Conduct) Regulations (LN 79/1990) … … 35 N.B. For other Regulations relating to the Prison Service, see the Public Service Commission
 Regulations (Ch. 1:01).
 Note on Subsidiary Legislation
-Note on Colonial Prison Service Medal Regulations 1957 (GN 73/1957) Section 10 of the Law Revision (Miscellaneous Amendment) (No.1) Act 1979 (No. 45 of 1979) provides that notwithstanding the repeal of the Colonial Prison Service Medal Regulations 1957 (GN 73/1957) any medal or clasp granted under those Regulations shall continue to be as valid and effective, and may be worn and used by the persons entitled to do so under those Regulations in all respects as if those Regulations were still in force.
+Note on Colonial Prison Service Medal Regulations 1957 (GN 73/1957) Section 10 of the Law Revision (Miscellaneous Amendment) (No. 1) Act 1979 (No. 45 of 1979) provides that notwithstanding the repeal of the Colonial Prison Service Medal Regulations 1957 (GN 73/1957) any medal or clasp granted under those Regulations shall continue to be as valid and effective, and may be worn and used by the persons entitled to do so under those Regulations in all respects as if those Regulations were still in force.
 Omission
 The Remuneration (Prison Service) Orders have been omitted- See the Current Edition of the Consolidated Index of Acts and Subsidiary Legislation for references to these Orders.
 Note on Act No. 30 of 2007
@@ -33,6 +21,10 @@ Note on Act No. 23 of 2008
 Subsequent amendments made to subrules 4(1)(d), (1A) and (1B) of the Fifth Schedule by Act No. 23 of 2008 took effect from 1st January 2007.
 Note on Act No. 1 of 2009
 Amendments made to rules 5(1) and 6(c) of the Fifth Schedule by Act No. 1 of 2009 took effect from 1st October 2008.
+Note on Act No. 13 of 2010
+Amendments made to rules 5(1) and 6 of the Fifth Schedule by Act No. 13 of 2010 took effect from 1st September 2010.
+Note on Act No. 2 of 2012
+By Act No. 2 of 2012, section 15A took effect from 1st October 2011.
 CHAPTER 13:02
 PRISON SERVICE ACT
 ARRANGEMENT OF SECTIONS
@@ -57,6 +49,7 @@ TO THE PRISON SERVICE
 15. Powers and duties of the Department in relation to the Prison
 Service.
 Consideration of recommendation on pay rates. Consultation with organisations.
+15A. Duty allowance.
 16. Department in negotiations subject to direction of Minister of
 Finance.
 17. Consultation with association of prison officers. 18. Where no agreement reached on proposals of association. 19. Department to submit proposals to association for approval. 20. Agreement reached with Department. 21. Disputes to be referred to Special Tribunal.
