@@ -3,8 +3,6 @@ Husband's/Wife's Claim reference numbers
 Date of receipt of Claim
 ...
 For Office use only File No... Name ... Local Board No... Address ... Disability Assistance Grant No. … I.D. No... Rejected Claim No... N.I.S. No...
-Public Assistance (Disability Assistance)
-(Prescribed Forms) Regulations
 FORM OF CLAIM FOR DISABILITY
 ASSISTANCE GRANT
 INSTRUCTIONS
@@ -23,11 +21,9 @@ in section 11A(1) of the Public Assistance Act; and
 (d) must be certified by a Government Medical Officer as being
 permanently disabled from earning a livelihood as a result of visual, mental, hearing, or physical impairment.
 Male 1. Full name of Applicant (Block Letters) ...
-Female (Surname) (Given Name) 2. I.D. Card, passport or driving permit number ... 3. Address (give full details) ...
-...
-Public Assistance (Disability Assistance)
-(Prescribed Forms) Regulations
-4. Telephone number ... 5. Father's name ... 6. Mother's name ... 7. Age last birthday ... 8. Date of birth ... 9. Place of birth (street/road, town/city, ward and country) ... 10. Birth Certificate number (certificate attached) ... 11. Are you a citizen or resident of Trinidad and Tobago? ... If
+Female
+(Surname) (Given Name) 2. I.D. Card, passport or driving permit number ... 3. Address (give full details) ...
+... 4. Telephone number ... 5. Father's name ... 6. Mother's name ... 7. Age last birthday ... 8. Date of birth ... 9. Place of birth (street/road, town/city, ward and country) ... 10. Birth Certificate number (certificate attached) ... 11. Are you a citizen or resident of Trinidad and Tobago? ... If
 you have acquired citizenship by means other than birth, please specify ...(attach relevant certificates where applicable) 12. Dates of last departure from, and return to, Trinidad and Tobago within the last
 three years:
 Date of Departure Date of Return
@@ -40,10 +36,7 @@ Name Age Occupation Address
 ... 19. Is any sum payable by you (If separated from your spouse) to your spouse by
 way of maintenance? ... If so, how much? ... 20. (a) Have you ever been employed in Trinidad and Tobago or abroad?
 ...
-(b) By whom were you employed? ...
-Public Assistance (Disability Assistance)
-(Prescribed Forms) Regulations
-21. (a) If now unemployed, give the name and address of your last employer
+(b) By whom were you employed? ... 21. (a) If now unemployed, give the name and address of your last employer
 ...
 (b) Type of work performed ...
 (c) When did you stop working? ... 22. (a) Do you own any property? ... If so, of what does your property
@@ -63,8 +56,6 @@ the property consist? (house, land, etc.) ...
 address of the Friendly Society ... 27. Do you receive a pension from Government or from any other source?
 If so, what is the source and amount of your pension? ... 28. Do you receive any other benefits? ... 29. Are you a recipient of Public Assistance? ... If so, what is the
 amount? ... 30. What is your monthly income? ... 31. Have you applied for a Disability Assistance Grant before? ... 32. Do you now receive a Disability Assistance Grant in any other district? ...
-Public Assistance (Disability Assistance)
-(Prescribed Forms) Regulations
 WARNING
 Any person who, for the purpose of obtaining or continuing a Disability Assistance Grant either for himself or for any other person or for the purpose of obtaining or continuing a grant for himself or any other person at a higher rate than that appropriate to the case, knowingly makes any false statement or false representation, or who knowingly obtains payment of or continues to receive a grant in respect of which he is disqualified from receiving or which for any reason is not payable to him, is liable on summary conviction to a fine of one thousand dollars.
 DECLARATION
@@ -76,7 +67,7 @@ Date ... Witness to declaration ...
 (c) Date ...
 Checklist of attachments
 [ ] Original Birth Certificate [ ] Evidence of Disability [ ] Evidence of Citizenship or Residency
-- Margin: (Regulation 3).
+- Margin: Regulation 3.
 - Margin: [Subsidiary]
 - Margin: [Subsidiary]
 - Margin: [Subsidiary]
