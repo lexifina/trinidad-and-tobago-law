@@ -16,6 +16,5 @@ Commissioner of Police Respondent TAKE NOTICE that the Commissioner of Police th
 Dated this ... day of ..., 20 ...
 ...
 Applicant/Respondent
-Police Service Commission (Appeal) Regulations
 - Margin: Regulation 13(2).
 - Margin: [Subsidiary]

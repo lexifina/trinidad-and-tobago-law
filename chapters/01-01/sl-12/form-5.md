@@ -7,6 +7,5 @@ Between
 And
 Commissioner of Police Respondent TAKE NOTICE that the Appellant hereby withdraws his appeal against the Respondent in the above-named appeal. Dated this ... day of ..., 20 ...
 Appellant
-Police Service Commission (Appeal) Regulations
 - Margin: Regulation 9(a).
 - Margin: [Subsidiary]

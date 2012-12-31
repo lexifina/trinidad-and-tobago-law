@@ -17,6 +17,5 @@ TAKE NOTICE that the Appellant being dissatisfied with the decision or part ther
 Dated this ... day of ..., 20 ...
 ...
 Appellant or his Legal Representative
-Public Service Appeal Board Regulations
 - Margin: Regulation 5(1).
 - Margin: [Subsidiary]
