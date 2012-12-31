@@ -44,8 +44,7 @@ the performance of those functions-
 material particular or recklessly makes a statement which is false in a material particular; or
 (ii) intentionally fails to disclose any material particular.
 (2) A person guilty of an offence under this paragraph is liable on summary conviction to a fine of five thousand dollars and to imprisonment for two years.
-- Margin: Section 53C.
-- Margin: [44 of 2000].
+- Margin: Section 53C. 27 of 1994. [44 of 2000].
 - Margin: Definitions.
 - Margin: Ch. 78:01.
 - Margin: Power to stop, board, divert and detain.

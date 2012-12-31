@@ -241,9 +241,7 @@ Judge in Chambers; and
 persons affected by the order.
 (5) A restraint order-
 (a) may be discharged or varied in relation to any
-property; and
-(b) shall be discharged when proceedings for the
-offences are concluded.
+property; and offences are concluded.
 (6) An application for the discharge or variation of a restraint order may be made by any person affected by it.
 (7) Where the Court has made a restraint order, the Court may, at any time, appoint a receiver-
 (a) to take possession of any realisable property; and
@@ -314,9 +312,7 @@ realisable property to make such payment to the receiver in respect of any benef
 (a) the proceeds of the enforcement of any charge
 imposed under section 38;
 (b) the proceeds of the realisation, other than by the
-enforcement of such a charge, of any property under section 37 or 38; and
-(c) any other sums, being property held by the
-defendant, shall, after such payments, if any, as the Court may direct, have been made out of those sums, be applied on the defendant's behalf towards the satisfaction of the confiscation order.
+enforcement of such a charge, of any property under section 37 or 38; and defendant, shall, after such payments, if any, as the Court may direct, have been made out of those sums, be applied on the defendant's behalf towards the satisfaction of the confiscation order.
 (2) If, after the amount payable under the confiscation order has been fully paid, any sums remain in the hands of the receiver, the receiver shall distribute those sums among such of those who held property which has been realised under this Act, and in such proportions as the Court may direct after giving reasonable opportunity for such persons to make representations to the Court.
 (3) The receipt of any sum by the Court on account of an amount payable under a confiscation order shall reduce the amount so payable, but the sum shall be applied as follows:
 (a) if paid by a receiver under subsection (1), it
@@ -337,9 +333,7 @@ realisable property which appears to the Court to be attributable wholly or part
 (3) Where a certificate has been issued under subsection (1), the defendant may apply to the Court for the amount to be recovered under the order to be reduced.
 (4) The Court shall, on an application under subsection (3)-
 (a) substitute for the amount to be recovered under
-the order such lesser amount as the Court thinks just in all the circumstances of the case; and
-(b) substitute for the term of imprisonment or of
-detention in respect of the amount to be recovered under the order such shorter term in respect of the lesser amount as the Court thinks just in all the circumstances of the case.
+the order such lesser amount as the Court thinks just in all the circumstances of the case; and detention in respect of the amount to be recovered under the order such shorter term in respect of the lesser amount as the Court thinks just in all the circumstances of the case.
 43. (1) Where a person who holds realisable property is adjudged bankrupt-
 (a) property for the time being subject to a restraint
 order made before the order adjudging him bankrupt; and
@@ -564,9 +558,7 @@ when they are in the possession of a person who is entitled to possession of the
 (a) personal records which a person has acquired
 or created in the course of any trade, business, profession or other occupation or for the purposes of any paid or unpaid office and which he holds in confidence;
 (b) human tissue or tissue fluid which has been taken
-for the purpose of diagnosis or medical treatment and which a person holds in confidence;
-(c) journalistic material which a person holds in
-confidence and which consists-
+for the purpose of diagnosis or medical treatment and which a person holds in confidence; confidence and which consists-
 (i) of documents; or
 (ii) of records other than documents.
 (4) A person holds material other than journalistic material in confidence for the purposes of this section if he holds it subject-
