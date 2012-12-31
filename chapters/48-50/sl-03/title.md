@@ -1,4 +1,3 @@
-MISCELLANEOUS ROADS
-(UNILATERAL PARKING) ORDER
-made under section 65
-- Margin: 207/1979. [220/1980 75/1985].
+SPEED LIMITS (BUILT-UP AREAS) ORDER
+made under section 62(2)
+- Margin: 209/1979.

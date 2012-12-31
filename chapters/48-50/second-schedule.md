@@ -5,12 +5,12 @@ Class or Description of Vehicle
 Outside a Within a
 Built-up Area Built-up Area
 (a) Tractor (except a goods vehicle or private motor car
-20 with or without trailer) ... 35 50 (b) Motor omnibus ... 65
+35 20 with or without trailer) ... 65 50 (b) Motor omnibus ...
 (c) Motor vehicle constructed to carry more than ten
-50 ... 65
+65 50 ...
 (d) Goods vehicle the licenced M.G.W. of which exceeds
-50 2 540 kilogrammes with or without trailer … … 65
+65 50 2 540 kilogrammes with or without trailer … …
 (e) Goods vehicle the licenced M.G.W. of which does not
-50 exceed 2 540 kilogrammes with trailer … … 65 50 (f) Private motor car with trailer … … … 65 50 (g) Any other motor vehicle ... 80
+65 50 exceed 2 540 kilogrammes with trailer … … 65 50 (f) Private motor car with trailer … … … 80 50 (g) Any other motor vehicle ...
 - Margin: Section 62. [47 of 1956 [46/1969].
 - Margin: passengers

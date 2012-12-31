@@ -8,9 +8,7 @@ fees paid, not including salaries and other earnings of salaried staff and manag
 (c) any interest paid, not being interest paid to non-nationals
 and to non-resident principals of resident companies:
 (d) normal depreciation on physical assets, other than imported
-assets, as shown in the books of account;
-(e) payments for patents, royalties, licences and similar charges,
-not including payments for patents, royalties, licences and similar charges made to non-nationals and to non-resident principals of resident companies;
+assets, as shown in the books of account; not including payments for patents, royalties, licences and similar charges made to non-nationals and to non-resident principals of resident companies;
 (f) rent paid, not including rent paid to non-nationals and to
 non-resident principals of resident companies;
 (g) the cost of raw materials (including components and fuel
