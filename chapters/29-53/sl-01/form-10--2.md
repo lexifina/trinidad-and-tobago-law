@@ -1,11 +1,11 @@
 # FORM 10
 THE NURSING COUNCIL OF TRINIDAD AND TOBAGO
 (Nurses and Midwives Registration Act-Part IV)
-APPLICATION FOR ENTRY INTO COUNCIL'S NURSING
-ASSISTANT TRAINING COURSES (To be completed in Applicant's handwriting)
+AppLICATION FOR ENTRy INTO COUNCIL'S NURSING
+ASSISTANT TRAINING COURSES
+(To be completed in Applicant's handwriting)
 I hereby make application for approval of Council for entry into the Nursing Assistant Training Course at ...
-(Name of Training Centre)
-I now state the following particulars:
+(Name of Training Centre) I now state the following particulars:
 (1) Name in full ...
 Affix
 (Surname first, Block Letters)

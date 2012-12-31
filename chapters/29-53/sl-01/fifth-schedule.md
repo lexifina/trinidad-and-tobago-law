@@ -110,7 +110,6 @@ Types of groups; Dynamics Institutions
 -family -religion -education -military -economic -political
 Community Society Culture Communication skills
 Relationships-human, interpersonal-nurse/patient.
-Nurses and Midwives Registration Regulations [Subsidiary]
 C. Mental Health:
 Concepts of mental health; Role of the nurse in promoting mental health; Positive mental health
 -individual.
@@ -132,8 +131,7 @@ General Principles A. Principles of Care in
 (b) Shock
 (c) Asphyxia
 (d) Cardiac Arrest
-}
-(e) Injuries-skin-wounds, use
+} (e) Injuries-skin-wounds, use
 scalds, of burns bandages
 bone-fractures and joints-sprains splints
 (f) Unconsciousness
@@ -518,7 +516,6 @@ Circulatory System
 Pressure Points Haemorrhage Shock, collapse, syncope.
 Respiratory System
 Cyanosis and dyspnoea Choking, rope hanging Haemoptysis, artificial respiration.
-Nurses and Midwives Registration Regulations [Subsidiary]
 Muscular System
 Sprains and strains Bites and stings Burns and scalds.
 Endocrine System
@@ -539,16 +536,16 @@ Mental
 Reassurance of patient Nursing Assistant/patient relationship on Wards.
 Ward Hygiene-Bacteriology Applied
 Ward refuse and disposal (dangers associated with dust) Correct methods of dusting and cleaning furniture, sinks, baths, sluices, toilets Excreta-prevention of infection Collection of specimens-urine, faeces, sputum Bacteria-types, sources Handling and care and cleansing of equipment and appliances used in hospitals,
-e.g., glass instruments, sharp and blunt instruments, rubber goods, enamel ware, stainless steel and polythene. [Subsidiary] Nurses and Midwives Registration Regulations
-Hospital Procedures
-Assisting in making special beds and ordinary beds Care of the convalescent Use of bed cradles, sand bags, back rests, drainage bottles
+e.g., glass instruments, sharp and blunt instruments, rubber goods, enamel ware, stainless steel and polythene. Hospital Procedures
+Assisting in making special beds and ordinary beds Care of the convalescent
+Use of bed cradles, sand bags, back rests, drainage bottles
 Filling and placing hot water bottles
-Danger and precautions in the usage of electric appliances Verbal report on patients to supervising nurse
-Taking temperatures, pulse and respiration
-Care of thermometer Assisting with Oxygen therapy. Recognition of international coding re colour of cylinders Soap and water (simple) Enema Names, strengths, uses-
+Danger and precautions in the usage of electric appliances
+Verbal report on patients to supervising nurse Taking temperatures, pulse and respiration Care of thermometer Assisting with Oxygen therapy.
+Recognition of international coding re colour of cylinders
+Soap and water (simple) Enema Names, strengths, uses-
 Disinfectants and Antiseptics-precautions to be observed.
-Poisons and their care-Recognition of poisons
-Use, preparation and administration of-
+Poisons and their care-Recognition of poisons Use, preparation and administration of-
 (1) Ice Bags
 (2) Fomentations-Kaolin, medical
 (3) Enema tray-preparation
@@ -566,9 +563,8 @@ Assist with-
 Rules and Methods of Administering simple medications-
 Types and upkeep of instruments in common use, including cleansing and
 sterilisation of basic equipment.
-Invalid cookery
-Infant and Invalid Feeding
-Routine urine testing-Lectures and demonstration on albumin, sugar, acetone Simple dressings-assisting treatment nurse.
+Invalid cookery Infant and Invalid Feeding Routine urine testing-Lectures and demonstration on albumin, sugar, acetone
+Simple dressings-assisting treatment nurse.
 - Margin: Regulation 14(a).
 - Margin: Regulation 14(b).
 - Margin: Regulation 50.

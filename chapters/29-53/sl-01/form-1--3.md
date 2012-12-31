@@ -1,23 +1,23 @@
 # FORM 1
 THE NURSING COUNCIL OF TRINIDAD AND TOBAGO
-APPLICATION FOR REGISTRATION AS
+AppLICATION FOR REGISTRATION AS
 A STUDENT NURSE
 (To be completed in Handwriting of Applicant)
 A: I, ...
 Surname (in Block Letters: if married, write Married Name
-Affix first: then write Maiden name after word "nee".) Passport ... Sized (Other Name(s) 1st 2nd 3rd)
-Photograph
-now in training at the ... Here Hospital School of Nursing do hereby apply for Registration with the Council as a Student Nurse, and I declare that all the particulars I insert below are true and correct:
-State whether Married, Single or Widow ... Date of Birth ... Nationality ... Tick off the qualification whereby you secured entry to training, viz:
-Received Council's Received Council's Received Council's Education Test Letter of permission to
+first: then write Maiden name after word "nee".) Affix
+Passport ... Sized (Other Name(s) 1st 2nd 3rd)
+Photograph now in training at the ... Here Hospital School of Nursing do hereby apply for Registration with the Council as a Student Nurse, and I declare that all the particulars I insert below are true and correct:
+State whether Married, Single or Widow ... Date of Birth ... Nationality ...
+Tick off the qualification whereby you secured entry to training, viz:
+Received Council's Received Council's Received Council's
+Education Test Letter of permission to
 Certificate Exemption continue training
 commenced overseas/
-elsewhere
-If you had on a previous occasion commenced training, state-
+elsewhere If you had on a previous occasion commenced training, state-
 (a) Name of the Hospital School of Nursing ...
 (b) Date of entry to the School referred to in (a) above ...
-(c) Date of termination of such training ...
-Name the Programme of Training for which you are now making application for registration: ... Signature of Applicant ... Full Permanent Postal Address ...
+(c) Date of termination of such training ... Name the Programme of Training for which you are now making application for registration: ... Signature of Applicant ... Full Permanent Postal Address ...
 B: (To be completed by the Authority of the Hospital
 School of Nursing)
 I hereby certify that the Applicant named above was admitted to this Hospital School of
