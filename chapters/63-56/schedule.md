@@ -8,4 +8,4 @@ In pursuance of the powers vested in me by section 8A of the Plant Protection Ac
 Viz-
 ...
 (Plant Quarantine Officer)
-- Margin: (Section 8A).
+- Margin: Section 8A. [2 of 2001].
