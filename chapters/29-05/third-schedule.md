@@ -84,8 +84,8 @@ Singh
 East: by Espinet Street West: by lands now or
 formerly of Scott's Land and Investment Ltd.
 All and singular that piece or El Socorro 3a. 2r. 3p.
-Health parcel of land situate at El Centre Socorro Road in the Ward
-of St. Ann's in the County of St. George in the Island of Trinidad and bounded on the- North:by Road Reserve South:by lands owned by
+Health parcel of land situate at Centre El Socorro Road in the
+Ward of St. Ann's in the County of St. George in the Island of Trinidad and bounded on the- North:by Road Reserve South:by lands owned by
 Mr. Ali
 East: by El Socorro Road West: by a Post Office.
 PROPERTIES VESTED REGIONAL
@@ -112,7 +112,7 @@ HEALTH
 AUTHORITIES
 Name Acreage Description
 North-West La Fillette All and singular that piece or
-Regional Health Health parcel of land situate at La Authority-Cont'd Centre Fillette in the Ward of
+Regional Health Health parcel of land situate at Authority-Cont'd Centre La Fillette in the Ward of
 Blanchisseuse in the Island of Trinidad and bounded on the- North: by Paria Main
 Road
 South: by a Ravine East: by lands of Linda
@@ -166,7 +166,7 @@ the County of St. George in the Island of Trinidad and bounded on the- North: by
 Road and land belonging to N.H.A.
 South: by Western Main
 Road
-East:: partly by land
+East: partly by land
 belonging to the Roman Catholic Church and partly by land belonging to the Port-of- Spain Corporation
 West: by land belonging
 now or formerly to Mrs. C. Tom.
@@ -194,7 +194,7 @@ South: by Belmont
 Circular Road
 East: by St. Ann's River West: partly by Holy
 Name Convent and School and by Charlotte Street.
-All and singular that piece North-Central St. Helena 11.319 s.f.
+All and singular that piece North-Central St. Helena 11, 319 s.f.
 Regional Health Health Lot 52 or parcel of land situate Authority Centre at St. Helena Village,
 St. Helena, in the Ward of Cunupia, in the County of Caroni in the Island of Trinidad, and bounded on the- North: by a Drain Reserve South: by Caroni South
 Bank Road
@@ -204,7 +204,7 @@ HEALTH
 AUTHORITIES
 Name Acreage Description
 South-West Flanagin All and singular that piece or
-Regional Health Town parcel of land situate at Authority Health Main Road Flanagin Town
+Regional Health Town parcel of land situate at Authority Health Main Road, Flanagin Town
 Centre in the Ward of Montserrat
 in the County of Caroni in the Island of Trinidad, and bounded on the- North: by Caparo Valley
 Road
@@ -214,7 +214,7 @@ Health parcel of land situate at Centre Tabaquite Main Road,
 Tabaquite in the Ward of Montserrat in the County of Caroni in the Island of Trinidad and numbered lots 3, 4,10 and 11 on Plan E. B. 116 and bounded and abutted as shown thereon.
 North-Central All and singular that piece Las Lomas
 Regional Health or parcel of land situate at Health Authority Centre Main Road, Las Lomas
-No.1 in the Ward of Cunupia in the County of Caroni, in the Island of Trinidad and bounded on the- North: by lands leased to
+No. 1 in the Ward of Cunupia in the County of Caroni, in the Island of Trinidad and bounded on the- North: by lands leased to
 Las Lomas Consumer Co-op.,
 THIRD SCHEDULE-Continued
 PROPERTIES VESTED REGIONAL
@@ -223,7 +223,8 @@ AUTHORITIES
 Name Acreage Description
 North-Central Las Lomas South: by a Road Reserve
 Regional Health Health East: by Las Lomas Authority-Cont'd Centre Road
-West: by a Recreation -Cont'd
+West: by a Recreation
+-Cont'd
 Ground.
 10,000 s.f. South-West Todds Road All and singular that piece
 or parcel of land situate at Regional Health Fletcher Road, off Todds
@@ -240,7 +241,7 @@ All and singular that piece or Freeport Approx.
 parcel of land situate at Health 1a. 3r. 0p. St. Mary's Junction,
 Centre
 Freeport, in the Borough of Chaguanas, in the County of Caroni, in the Island of Trinidad, and bounded on the- North: by Southern Main
-Road,
+Road
 PROPERTIES VESTED REGIONAL
 HEALTH
 AUTHORITIES
@@ -248,7 +249,8 @@ Name Acreage Description
 South-West Freeport South: by Freeport Approx.
 Mission Road Regional Health Health 1a. 3r. 0p.
 East: by Calcutta Road Authority-Cont'd Centre
-No. 2 -Cont'd
+No. 2
+-Cont'd
 West: by lands now or
 formerly of Mahabir.
 All the buildings and North-Central Eric
@@ -273,7 +275,7 @@ South: by a Road Reserve
 East: partly by lands of
 UWI now WASA
 West: by lands of UWI
-and which said pieces or parcel of land are delineated and shown coloured pink,
+and which said pieces or parcel of land are delineated and shown coloured pink
 PROPERTIES VESTED REGIONAL
 HEALTH
 AUTHORITIES
@@ -306,8 +308,8 @@ North-Central Arima All and singular that piece
 or parcel of land situate in Regional District the Borough of Arima in Health Hospital the County of St. George Authority-Cont'd and Health in the Island of Trinidad Centre and bounded on the- North: by Eastern Main
 Road
 South: partly by a Road
-Reserve, partly by Seventh Day Adventist Cemetery, Anglican Cemetery and private land
-East: by Railway Street West: by private land.
+Reserve, partly by Seventh Day Adventist Cemetery, Anglican Cemetery and Private land
+East: by Railway Street West: by Private land.
 Caura All and singular that piece 20,216 s.f. Chest or parcel of land situate in
 the Ward of Tacarigua in Hospital the County of St. George in the Island of Trinidad and bounded on the- North: by land forming
 part of the El Dorado Estate
@@ -356,7 +358,7 @@ PROPERTIES VESTED REGIONAL
 HEALTH
 AUTHORITIES
 Name Acreage Description
-North-Central Blanchisseuse 279.8 m2 All and singular that piece
+North-Central Blanchisseuse All and singular that piece 279.8 m2
 or parcel of land situate at Regional Health Paria Main Road, in the Health Centre Ward of Blanchisseuse in
 Authority-Cont'd
 the County of St. George in the Island of Trinidad and bounded on the- North: by Paria Main
@@ -382,12 +384,11 @@ HEALTH
 AUTHORITIES
 Name Acreage Description
 South-West Claxton 33,362 s.f. South: by Southern Main
-Bay Road. Regional Health East: by Access Road Health Centre West: by land now or
+Bay Road Regional Health East: by Access Road Health Centre West: by land now or
 Authority-Cont'd
--Cont'd formerly of
-Miriam Nathaniel.
+formerly of -Cont'd Miriam Nathaniel.
 Acquired by private treaty Gran Couva
-R.D. 8264/74 L&S Health Bk. 978/109. Centre
+R.D. 8264/74 L & S Health Bk. 978/109. Centre
 All and singular that piece Couva
 or parcel of land in the Hospital Ward of Couva in the and Health County of Caroni in the Centre Island of Trinidad and bounded on the- North: by Extension
 Street
@@ -409,42 +410,35 @@ HEALTH
 AUTHORITIES
 Name Acreage Description
 North-Central Tunapuna All and singular that piece or
-parcel of land situate in the Regional Health Ward of Tacarigua in the Health Centre County of St. George in the
-Authority-Cont'd
-Island of Trinidad (shown in L & S Bk. 1103 Folio 11) and bounded on the- North: by a drain South: by Settlement
+Regional Health parcel of land situate in the Health Centre Ward of Tacarigua in the Authority-Cont'd County of St. George in the
+Island of Trinidad (shown in L & S B k. 1103 Folio 11) and bounded on the- North: by a drain South: by Settlement
 Road
 East: by Settlement
 Road
 West: by Settlement
 Road.
-Hugh All and singular that piece
-or parcel of land situate in Hill the Ward of Cunupia in the County of Caroni in the Island of Trinidad and bounded on the- North: by Buccannan
+Hugh All and singular that piece Hill or parcel of land situate in
+the Ward of Cunupia in the County of Caroni in the Island of Trinidad and bounded on the- North: by Buccannan
 Street
-South: by State lands East: by private land West: by private land.
-All and singular that piece or Chaguanas
-parcel of land in the Ward Health of Cunupia in the County
-Centre
-of Caroni in the Island of Trinidad and bounded on the- North: by Centre City
-Mall,
-THIRD SCHEDULE-Continued
-PROPERTIES VESTED REGIONAL
-HEALTH
-AUTHORITIES
-Name Acreage Description
-North-Central Chaguanas South: by State lands
-East: by private land Regional Health West: by Medford Gas Health Centre
-Station.
-Authority-Cont'd -Cont'd
-All and singular that piece La
-or parcel of land situate in Horquetta the Ward of Arima in the Health County of St. George in
-Centre
+South: by State lands East: by Private land West: by Private land.
+La All and singular that piece Horquetta or parcel of land situate in Health the Ward of Arima in the Centre County of St. George in
 the Island of Trinidad and bounded on the- North: by La Horquetta
 Police Station
-South: by Jacaranda Road East: by De Freitas
+THIRD SCHEDULE-Continued
+PROPERTIES VESTED REGIONAL
+HEALTH AUTHORITIES
+Name Acreage Description
+La North-Central
+South: by Jacaranda Road
+Horquetta Regional
+East: by De Freitas
+Health Health
 Boulevard
+Centre- Authority-Cont'd
 West: by the Post Office.
-Maloney All and singular that piece
-or parcel of land situate in Health the Ward of Tacarigua in Centre the County of St. George in the Island of Trinidad and bounded on the- North: by Maloney
+Cont'd
+Maloney All and singular that piece Health or parcel of land situate in Centre the Ward of Tacarigua in
+the County of St. George in the Island of Trinidad and bounded on the- North: by Maloney
 Vocational Centre
 South: by Flamingo
 Boulevard
@@ -452,12 +446,8 @@ East: by Euphoria
 Avenue
 West: by Maloney
 Post Office.
-PROPERTIES VESTED REGIONAL
-HEALTH AUTHORITIES
-Name Acreage Description
-9,414 s.f. Eastern Sans Souci All and singular that piece or
-parcel of land in the Ward Regional Health of Toco in the County of Health Centre
-St. David in the Island of Authority
+9,414 s.f. All and singular that piece or Eastern Sans Souci
+parcel of land in the Ward Regional Health of Toco in the County of Health Centre St. David in the Island of Authority
 Trinidad and bounded on the- North: by lands now or
 formerly of Gordon Plantation Ltd.
 South: partly by Paria
@@ -465,28 +455,33 @@ Road and Sans Souci River
 East: by the Sans Souci
 River
 West: by Paria Road.
-All and singular that piece or Toco
-parcel of land on Toco Health Main Road in the Ward of
-Centre
+PROPERTIES VESTED REGIONAL
+HEALTH
+AUTHORITIES
+Name Acreage Description Eastern Toco
+All and singular that piece or
+Regional Health
+parcel of land on Toco
+Health Centre
+Main Road in the Ward of
+Authority-Cont'd
 Toco in the County of St. David in the Island of Trinidad and bounded on the- North: by Heirs of
 Moniquette
 South: by Tron Road East: by Tron Road West: by Carvien
 Moniquette.
 All and singular that piece or Cumana
-parcel of land on Toco Health Main Road in the Ward of
-Centre
-Toco in the County of St. David in the Island of Trinidad and bounded on the- North: by Anglais Road South: by Road Reserve East: by Toco Road West: by Anglais Road.
+parcel of land on Toco Health Main Road in the Ward of Centre Toco in the County of St. David in the Island of Trinidad and bounded on the- North: by Anglais Road South: by Road Reserve East: by Toco Road West: by Anglais Road.
+All and singular that piece or 17,990 s.f. Matelot
+parcel of land in the Ward Health of Toco in the County of Centre St. David in the Island of Trinidad and bounded on the- North: by State lands South: by Paria Main
+Road
 THIRD SCHEDULE-Continued
 PROPERTIES VESTED REGIONAL
 HEALTH
 AUTHORITIES
 Name Acreage Description
-Eastern 17,990 s.f. Matelot All and singular that piece or
-Regional Health parcel of land in the Ward Health Centre of Toco in the County of Authority-Cont'd St. David in the Island of
-Trinidad and bounded on the- North: by State lands South: by Paria Main
-Road
-East: by Lot 2 West: partly by Paria
-Main Road and by lands of Isault S. Leongchin.
+Eastern Matelot East: by Lot 2
+Regional Health West: partly by Paria Health Centre- Main Road and by Authority-Cont'd lands of Isault Cont'd
+S. Leongchin.
 Grande 10,066 s.f. All and singular that piece or Riviere parcel of land in the Ward Health of Toco in the County of Centre St. David in the Island of
 Trinidad and bounded on the- North: by Gordon
 Plantations Limited now Mohammed
@@ -494,25 +489,24 @@ South: by Gordon
 Plantations Limited now Mohammed
 East: by Hosang Street West: by Gordon
 Plantations Limited now Mohammed.
+Cumuto All and singular that piece or Health parcel of land in the Ward Centre of Tamana in the County
+of St. David in the Island of Trinidad and bounded on the- North: by a cemetery and
+partly by land now or formerly leased to Salim Shah
 PROPERTIES VESTED REGIONAL
 HEALTH
 AUTHORITIES
-Name Acreage Description
-Eastern Cumuto All and singular that piece or
-parcel of land in the Ward Regional Health of Tamana in the County
-Health Centre
-of St. David in the Island
+Name Acreage Description Eastern Cumuto South: by land now or
+Regional Health
+formerly leased to
+Health Centre-
+J. A. Lee
 Authority-Cont'd
-of Trinidad and bounded on the- North: by a cemetery and
-partly by land now or formerly leased to Salim Shah
-South: by land now or
-formerly leased to J. A. Lee
+Cont'd
 East: by Cumuto Road West: by Long Stretch
 Reserve.
-Coryal 13,110 s.f. All and singular that piece or
-parcel of land in the Ward Health of Tamana in the County
-Centre
-of St. David in the Island of Trinidad and bounded on the- North: by lands now or
+All and singular that piece or Coryal 13,110 s.f.
+Health parcel of land in the Ward Centre
+of Tamana in the County of St. David in the Island of Trinidad and bounded on the- North: by lands now or
 formerly of George F. Huggins & Co. Ltd.
 South: by Cumuto
 Main Road
@@ -538,7 +532,7 @@ Milne Gordon.
 All and singular that piece or Sangre 8,940 s.f.
 parcel of land in the Ward Grande
 Health of Manzanilla in the Centre County of St. Andrew in
-the Island of Trinidad and bounded on the- North: by Lot 254 South: by Lot 236 West: by Lot 253, 245
+the Island of Trinidad and bounded on the- North: by Lot 254 South: by Lot 236 West: by Lots 253, 245
 and 234
 East: by Henderson
 Street.
@@ -549,11 +543,11 @@ Name Acreage Description
 Eastern Manzanilla 0a. 1r. 17p. All and singular that piece or
 Regional Health parcel of land in the Ward Health Centre of Manzanilla in the Authority-Cont'd County of St. Andrew in
 the Island of Trinidad and bounded on the- North: partly by a
-recreation ground and a Road Reserve
+Recreation ground and a Road Reserve
 South: by Eastern Main
 Road
-East: by a recreation
-ground
+East: by a Recreation
+Ground
 West: by lands leased to
 Andrew Emmands.
 10,118 s.f. All and singular that piece or Valencia
@@ -582,7 +576,7 @@ now or formerly to Vierra.
 Rio Claro 1a. 0r. 10p. All and singular that piece or
 parcel of land situate at Health De Verteuil Street in the
 Centre
-Ward of Cocal in the County of Nariva in the Island of Trinidad and bounded on the- North: by a road reserve
+Ward of Cocal in the County of Nariva in the Island of Trinidad and bounded on the- North: by a Road Reserve
 50 lks wide
 South: by a Road Reserve East: by De Verteuil
 Street
@@ -598,7 +592,7 @@ Southern Road
 South: by Ogear
 Street
 East: by lands occupied
-by T.S.T.T
+by T.S.T.T.
 West: by a Road
 Reserve.
 All and singular that piece or Brothers 0a. 3r. 39p.
@@ -606,12 +600,12 @@ parcel of land situate at Road Railway Road and Torrib- Health Tabaquite Road in
 Centre
 Ward of Charuma in the County of Nariva in the Island of Trinidad and bounded on the- North: by Torrib-
 Tabaquite Road
-South: partly by lot 124A
-and partly by a recreation ground
+South: partly by Lot 124A
+and partly by a Recreation Ground
 East: partly by Torrib-
-Tabaquite Road and partly by a recreation ground
+Tabaquite Road and partly by a Recreation Ground
 West: partly by W & H
-Reserve and lot 124.
+Reserve and Lot 124.
 THIRD SCHEDULE-Continued
 PROPERTIES VESTED REGIONAL
 HEALTH
@@ -658,7 +652,7 @@ Regional Health parcel of land situate at Health Centre Church Street, in the Wa
 County of Victoria in the Island of Trinidad and howsoever abutted and bounded.
 Penal Health 11,919 s.f. All and singular that piece or Centre parcel of land situate at
 Market Street, Siparia- Erin Road, Penal in the Ward of Siparia in the County of St. Patrick in the Island of Trinidad and howsoever abutted and bounded.
-L & S Bk. 1066/142 refers
+L & S Bk. 1066/142 refers.
 All and singular that piece or Cedros
 parcel of land situate at Health Bonasse Village, Cedros Centre in the Ward of La Brea in the County of St. Patrick in the Island of Trinidad and howsoever abutted and bounded.
 PROPERTIES VESTED REGIONAL
@@ -684,7 +678,7 @@ AUTHORITIES
 Name Acreage Description
 South-West Fyzabad 0.525 acres All and singular that piece
 Regional Health or parcel of land situate at Health Centre Fyzabad Main Road, Authority-Cont'd Fyzabad in the Ward of
-Siparia in the County of St. Patrick in the Island of Trinidad and bounded on the- North: by Fyzabad Road South: By Delhi
+Siparia in the County of St. Patrick in the Island of Trinidad and bounded on the- North: by Fyzabad Road South: by Delhi
 Settlement Road
 East: by lands now or
 formerly of Canadian Mission
@@ -804,7 +798,9 @@ Naparima Club,
 Health General
 land leased to
 Authority-Cont'd Hospital-
-Naparima Bowl, Cont'd land leased to Promenade Tennis Club
+Naparima Bowl,
+Cont'd
+land leased to Promenade Tennis Club
 East: by Chancery Lane West: by lands now or
 formerly of T.G.R.
 All and singular that piece or Erin
@@ -836,7 +832,7 @@ the County of Victoria in
 Centre
 the Island of Trinidad and bounded on the- North: by private lands South: partly by lands of
 Mohammed Ali and Circular Street
-East: by Circular Road
+East: by Circular Road,
 THIRD SCHEDULE-Continued
 PROPERTIES VESTED REGIONAL
 HEALTH
@@ -857,18 +853,18 @@ East: by Grell Street West: by State lands.
 All and singular that piece or Palo Seco
 Health parcel of land situate in Centre
 the Ward of Erin in the County of St. Patrick in the Island of Trinidad and bounded on the- North: by lands formerly
-of Trinidad Petroleum Development Company,
+of Trinidad Petroleum Development Company
 PROPERTIES VESTED REGIONAL
 HEALTH
 AUTHORITIES
 Name Acreage Description
 South-West Palo Seco South: by San Fernando-
-Regional Health Siparia-Erin Road Health Centre- East: by lands formerly Authority-Cont'd Cont'd of Trinidad
+Regional Health Siparia-Erin Road Health Centre- East: by lands formerly Authority-Cont'd of Trinidad Cont'd
 Petroleum Development Company
 West: by State lands.
 All and singular that piece or Indian Walk 0a. 2r. 6p.
 Health parcel of land situate in Centre the Ward of Ortoire in the
-County of Victoria in the Island of Trinidad and bounded on the- North: by private lands South: by State lands East: by State lands West: by Moruga Road.
+County of Victoria in the Island of Trinidad and bounded on the- North: by Private Lands South: by State lands East: by State lands West: by Moruga Road.
 Lengua 7,130 s.f. All and singular that piece or Health parcel of land situate in Centre the Wards of Naparima
 and Savana Grande in the County of Victoria in the Island of Trinidad and bounded on the- North: partly by Siparia
 Road and Inverness Estate
@@ -891,7 +887,7 @@ Marabella and partly by a Road Reserve
 West: by lands of
 Marabella.
 Moruga All and singular that piece or
-parcel of land situate in Health the Ward of Moruga in the Centre County of Victoria in the Island of Trinidad and bounded on the- North: by Harris Street South: by private lands East: by State lands West: by Road to the
+parcel of land situate in Health the Ward of Moruga in the Centre County of Victoria in the Island of Trinidad and bounded on the- North: by Harris Street South: by Private Lands East: by State lands West: by Road to the
 Mission.
 Rochard All and singular that piece or 5,195 s.f.
 parcel of land situate in Douglas the Ward of Savana Health Grande in the County of
@@ -914,16 +910,16 @@ parcel of land situate in Health the City of San Fernando
 Centre
 in the County of Victoria in the Island of Trinidad and bounded on the- North: by lands of the
 National Housing Authority
-South: by State lands East: by private lands West: by Roy Joseph
+South: by State lands East: by Private Lands West: by Roy Joseph
 Street.
 Ste. 2a. 1r. 18p. All and singular that piece or
 parcel of land situate in the Madeleine Ward of Naparima in the Health County of Victoria in the Centre Island of Trinidad and bounded on the- North: partly by a
-road and partly by private lands
+road and partly by Private Lands
 South: partly by a Road
 Reserve and Petite Morne Estate
 East: partly by a road
 and partly by Petite Morne Estate
-West: by private lands.
+West: by Private Lands.
 THIRD SCHEDULE-Continued
 PROPERTIES VESTED REGIONAL
 HEALTH
@@ -950,7 +946,7 @@ South-West Penal Rock All and singular that piece or
 Regional Road parcel of land situate in Health Health the Ward of Siparia in the Authority-Cont'd Centre
 County of St. Patrick in the Island of Trinidad and bounded on the- North: by Penal Rock
 Road
-South: by private lands East: by lands of
+South: by Private Lands East: by lands of
 K. Singh
 West: by lands of
 Soolal Madeo and Singh Rampersad.
@@ -979,15 +975,17 @@ West: by Bacolet Street
 and lands reserved for a Fire Station.
 Castara 0a. 1r. 38p. All and singular that piece or Health parcel of land situate at Centre Windward Road, Speyside,
 in the Island/Ward of Tobago in the Parish of St. David, and bounded on the- North: partly by private
-lands now or formerly of L. C. Wharton and partly by private lands now or formerly of Joseph Frazer
+lands now or formerly of L. C. Wharton and partly by Private Lands now or formerly of Joseph Frazer
 PROPERTIES VESTED REGIONAL
 HEALTH
 AUTHORITIES
 Name Acreage Description
-Tobago Castara 0a. 1r. 38p. South: partly by private
-lands now or Regional Health formerly of Simon Health Centre- Williams and Authority-Cont'd Cont'd partly by the Old River Bed and intersected by the Castara River
-East: partly by private
-lands now or formerly of Joseph Frazer, Aaron Manswell and Henrietta Sterling now Fedelia Davis
+Tobago Castara 0a. 1r. 38p. South: partly by Private
+Lands now or Regional Health formerly of Simon Health Centre- Williams and Authority-Cont'd
+Cont'd
+partly by the Old River Bed and intersected by the Castara River
+East: partly by Private
+Lands now or formerly of Joseph Frazer, Aaron Manswell and Henrietta Sterling now Fedelia Davis
 West: by the sea.
 All and singular that piece or Speyside 0a. 2r. 11p.
 parcel of land situate at Health Windward Road, Speyside Centre in the Island/Ward of Tobago in the Parish of St. John and bounded on the- North: partly by
@@ -1019,18 +1017,18 @@ PROPERTIES VESTED REGIONAL
 HEALTH
 AUTHORITIES
 Name Acreage Description
-Tobago Parlatuvier 7,515 s.f. South: by private lands
+Tobago Parlatuvier 7,515 s.f. South: by Private Lands
 Regional Health formerly owned Health Centre- by Andrew Chance Authority-Cont'd Cont'd
-East: partly by private
-lands formerly owned by Basil Phillip and Andrew Chance
-West: by private lands
+East: partly by Private
+Lands formerly owned by Basil Phillip and Andrew Chance
+West: by Private Lands
 formerly owned by Basil Phillip.
 All and singular that piece or Roxborough 0a. 1r. 04p.
 parcel of land situate in Health
 Centre the Island/Ward of Tobago
 in the Parish of St. Paul and bounded on the- North: partly by
 Roxborough Estate and partly by Windward Road
-South: by private lands
+South: by Private Lands
 formerly owned by Andrew Chance
 East: partly by
 Windward Road and partly by State lands
@@ -1048,9 +1046,7 @@ Government School
 East: partly by Adelphy
 Estate and intersected by a River Reserve
 West: by State lands.
-Charlotteville Approx. All and singular that piece or
-1/4 acre Health parcel of land situate in
-Centre the Island/Ward of Tobago
+Charlotteville Approx. All and singular that piece or Health 1/4 acre parcel of land situate in Centre the Island/Ward of Tobago
 in the Parish of St. John, and bounded on the- North: by a Road Reserve South: by Nurses
 Quarters
 East: by State lands West: by an access Road
@@ -1075,10 +1071,10 @@ South: by Congo Hill
 Road
 East: by State lands West: by State lands.
 All and singular that piece or Mount
-parcel of land situate at 1, St. George
-Health Village Street, Mount St. Centre George in the Island/Ward
-of Tobago in the Parish of St. George and bounded on the- North: by Mount
-St. George Village Street
+parcel of land situate at St. George
+Health 1, Village Street, Mount Centre St. George in the
+Island/Ward of Tobago in the Parish of St. George and bounded on the- North: by Mount
+St. George Village Street,
 THIRD SCHEDULE-Continued
 PROPERTIES VESTED REGIONAL
 HEALTH
@@ -1088,12 +1084,13 @@ Tobago Mount South: by lands of
 Harrison Phillip Regional St. George
 East: by lands of Health Health
 T. Lawrence Authority-Cont'd Centre-
-West: by lands now or Cont'd
+West: by lands now or
+Cont'd
 formerly of Robert Jack.
 All and singular that piece or Buccoo 8a. 3r. 10p.
-parcel of land situate at Health Buccoo Main Road and Centre Buccoo Village in the Island/Ward of Tobago in the Parish of St. Patrick and bounded on the- North: by private lands South: by Buccoo
+parcel of land situate at Health Buccoo Main Road and Centre Buccoo Village in the Island/Ward of Tobago in the Parish of St. Patrick and bounded on the- North: by Private Lands South: by Buccoo
 Primary School
-East: by School Street West: by private lands.
+East: by School Street West: by Private Lands.
 All and singular that piece or Delaford
 parcel of land situate at Health Windward Road, Louis Centre d'Or, Delaford in the Island/Ward of Tobago in the Parish of St. Paul and bounded on the- North: by Louis d'Or
 Estate
@@ -1122,7 +1119,7 @@ Estate
 West: by Windward
 Road.
 Bethel All and singular that piece or Health parcel of land situate in the Centre Island/Ward of Tobago in
-the Parish of St. Andrew and bounded on the- North: by lands of Romeo
+the Parish of St. Andrew and bounded on the- North: by lands of Romeo,
 THIRD SCHEDULE-Continued
 PROPERTIES VESTED REGIONAL
 HEALTH
@@ -1143,5 +1140,5 @@ All and singular that piece or Canaan/Bon 3,300 s.f.
 Accord parcel of land situate in Health the Island/Ward of Tobago Centre in the Parish of St. Patrick
 and bounded on the- North: by Mora Avenue
 East
-South: by Milford Road East: by lot 3 West: by lot 1.
-- Margin: (Section 14). [185/2000 246/2004].
+South: by Milford Road East: by Lot 3 West: by Lot 1.
+- Margin: Section 14. [185/2000 246/2004 305/2010].

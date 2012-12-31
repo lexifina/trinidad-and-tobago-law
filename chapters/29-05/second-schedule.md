@@ -14,7 +14,7 @@ Authority, be an individual with local government experience and nominated by th
 (iii) be a registered medical practitioner;
 (iv) be a registered nurse;
 (b) an employee of the Ministry of Health shall be a member of
-the Board of the South-West Regional Health Authority, the Eastern Regional Health Authority, the North-West Regional Health Authority, and the North Central Regional Health Authority and an employee of the Tobago House of Assembly shall be a member of the Board of the Tobago Regional Health Authority;
+the Board of the South-West Regional Health Authority, the Eastern Regional Health Authority, the North-West Regional Health Authority and the North Central Regional Health Authority and an employee of the Tobago House of Assembly shall be a member of the Board of the Tobago Regional Health Authority;
 (c) the Board members other than those listed in
 subclause (2)(a) and (b) shall be appointed from amongst persons who have special qualifications in, and practical experience of, matters relating to one or more of the following disciplines:
 (i) finance, accountancy or economics;
@@ -58,7 +58,7 @@ Office within the period of three years preceding his proposed appointment to a 
 (a) a review of the Authority's performance in the preceding
 year; and
 (b) its plans, goals and targets for the current year.
-- Margin: (Section 7). [3/1995 169/2003 73/2005].
+- Margin: Section 7. [3/1995 169/2003 73/2005].
 - Margin: Board of Directors. [3/1995].
 - Margin: Tenure of office.
 - Margin: Remuneration.
