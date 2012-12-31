@@ -2,7 +2,7 @@ PUBLIC TRANSPORT SERVICE ACT
 CHAPTER 48:02
 Act
 11 of 1965 Amended by 9 of 1969 36 of 1974 45 of 1979 47 of 1980
-45 1/2009
+45
 Index of Subsidiary Legislation
 Page Public Transport Service (Compensation for Loss of Office) Regulations
 (GN 57/1966) ... 36
