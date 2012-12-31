@@ -2,11 +2,11 @@ MUNICIPAL CORPORATIONS (PENSIONS) ACT
 CHAPTER 25:05
 Act
 29 of 1936 Amended by
-3 of 1944 12 of 1954 27 of 1956 12 of 1957 *18 of 1960 13 of 1965 15 of 1984 5 of 1985 *9 of 1987 *19 of 1989 20 of 1997 †17 of 2007 †30 of 2007 † 1 of 2009
+3 of 1944 12 of 1954 27 of 1956 12 of 1957 *18 of 1960 13 of 1965 15 of 1984 5 of 1985 *9 of 1987 *19 of 1989 20 of 1997 †17 of 2007 †30 of 2007 †1 of 2009 †13 of 2010 †2 of 2012
 *By implication
 †See Note on page 2
 Index of Subsidiary Legislation
-Page Pensionable Offices Resolution (84/1954) ... 21
+Page Pensionable Offices Resolution (84/1954) ... 22
 Note on Date of Commencement
 The amendments made to sections 5(1)(b), and (4) and 19(2) by Act No. 5 of 1985 are deemed to have come into operation on 1st January 1977.
 Note on Section 2
@@ -26,18 +26,27 @@ Note on Act No. 30 of 2007
 Section 2 of Act No. 30 of 2007 provides that the amendments to sections 10 and 17 shall come into effect from 1st October 2007.
 Note on Act No. 1 of 2009
 Section 16 of Act No. 1 of 2009 provides that the amendments to sections 10 and 17 shall come into effect from 1st October 2008.
+Note on Act No. 13 of 2010
+Section 26 of Act No. 13 of 2010 provides that amendments to sections 10 and 17 shall come into effect from 1st September 2010.
+Note on Act No. 2 of 2012
+By Act No. 2 of 2012 Sections 14A and 14B took effect from 1st January 2004.
 CHAPTER 25:05
 MUNICIPAL CORPORATIONS (PENSIONS) ACT
 ARRANGEMENT OF SECTIONS
 SECTION
 1. Short title. 2. Application. 3. Interpretation. 4. Pension, etc., not of right. 5. Service for pension. 6. Retirement. 7. Circumstances in which pensions, etc., may be granted. 8. Liability of pensioners to be called upon to take further employment. 9. Maximum pension. 10. Pensions to whom and at what rate to be granted. 11. Period of service qualifying for pension or gratuity defined. 12. Computation of pensions and gratuities. Periods of service and absence.
 Absence on half-pay leave. War service. Periods not taken into account.
-13. Service in a temporary capacity. 14. Computation of pensions, etc., on what emoluments to be based. 15. Rates of pension or gratuity when office abolished. 16. Officers retiring on account of injuries. 17. Gratuity and reduced pension. 18. (Deleted by Act No. 5 of 1985). 19. Gratuities. 20. (Deleted by Act No. 5 of 1985). 21. Gratuity where officer dies in service of Corporation. 22. Gratuity to temporary employee. 23. Pensions not assignable or attachable. 24. Council may apply part of a person's pension towards the
-maintenance of his wife or children.
-25. Pensions to cease on bankruptcy.
+13. Service in a temporary capacity. 14. Computation of pensions, etc., on what emoluments to be based.
+14A. Computation of pension in acting capacity prior to compulsory
+retirement.
+14B. Computation of pension on promotion following acting, prior to
+compulsory retirement.
+15. Rates of pension or gratuity when office abolished. 16. Officers retiring on account of injuries. 17. Gratuity and reduced pension. 18. (Deleted by Act No. 5 of 1985). 19. Gratuities. 20. (Deleted by Act No. 5 of 1985). 21. Gratuity where officer dies in service of Corporation. 22. Gratuity to temporary employee. 23. Pensions not assignable or attachable.
 ARRANGEMENT OF SECTIONS-Continued
 SECTION
-26. Pensions, etc., to cease on conviction. 27. Pensions and gratuities to be charged to fund from which officer or
+24. Council may apply part of a person's pension towards the
+maintenance of his wife or children.
+25. Pensions to cease on bankruptcy. 26. Pensions, etc., to cease on conviction. 27. Pensions and gratuities to be charged to fund from which officer or
 employee was paid.
 28. Application of the Act to officers. 29. Repeals.
 Saving.
@@ -48,6 +57,6 @@ MUNICIPAL CORPORATIONS (PENSIONS) ACT
 An Act to regulate Pensions, Gratuities and other allowances to
 be granted in respect of the service of persons employed by Municipal Corporations in Trinidad and Tobago.
 *[31ST DECEMBER 1936]
-- Margin: 1950 Ed. Ch. 39 No. 11.
+- Margin: 1950 Ed. Ch. 39. No. 11.
 - Margin: 29 of 1936.
 - Margin: Commencement.
