@@ -19,18 +19,17 @@ Matter Examination
 (4) Adjudications
 Description Debtor's Court Number Date of Date of Address
 Name Order Petition
-Bankruptcy Rules [Subsidiary]
 (5) Order on Application to sanction Composition or Scheme
 Debtor's Address Description Court Number Date of Nature of Name Order Scheme or
 Composition sanctioned or Order made
 (6) Notice of Intended Dividend
-Debtor's Address Descrip- Court Last day for Name of Address
-NUMBER
-Name tion receiving Trustee
+Debtor's Address Descrip- Court Last day for Name of Address Name tion receiving Trustee
 proofs
+NUMBER
 (7) Notice of Dividend
-Debtor's Descrip- Court Amount First or When Where ADDRESS NUMBER Name tion per $ final or payable payable
-otherwise [Subsidiary] Bankruptcy Rules
+Debtor's Descrip- Court Amount First or When Where Name tion per $ final or payable payable
+otherwise
+ADDRESS NUMBER [Subsidiary] Bankruptcy Rules
 (8) Application for Discharge
 Description Debtor's Court Number Day fixed for Address
 Name Hearing
@@ -40,34 +39,30 @@ refusing an ADDRESS NUMBER
 absolute Order of discharge
 (10) Adjudications Annulled
 Grounds of Court Debtor's Address Descrip- No. Date of Date of Annulment Name tion Adjudication Annulment
-Bankruptcy Rules [Subsidiary]
 (11) Appointment of Trustees
 Trustee's Address Date of Debtor's Court Number Address Name Certificate of Name
 appointment
 (12) Notice of Release of Trustee
-Date of Trustee's Debtor's Debtor's Debtor's Court Trustee's Trustee's
-MATTER NO. OF
-Release Descrip- Address Name Descrip- Name Address
+Date of Trustee's Debtor's Debtor's Debtor's Court Trustee's Trustee's Release Descrip- Address Name Descrip- Name Address
 tion tion
+MATTER NO. OF
 (13) Administration Orders in the Case of Deceased Debtors under
 section 115
-BANKRUPTCY (IF ANY) NAME OF DECEASED DATE OF HIS DECEASE DECEASED WITHIN 3 DATE OF PETITION OR OTHER TESTAMENTARY DATE WHEN PROVED
-MONTHS BEFORE THE
-DISPOSITION (WITH
-WHETHER WILL OR APPLICATION FOR DATE THEREOF), OR
-ADMINISTRATION DATE OF DEATH DATE OF ORDER COMMITTED BY
-NO. OF MATTER ACT OR ACTS OF
-DESCRIPTION
-OR GRANTED
-LETTERS OF
-TRANSFER ADDRESS
+BANKRUPTCY (IF ANY)
+DECEASED WITHIN 3 DATE OF PETITION OR NAME OF DECEASED DATE OF HIS DECEASE MONTHS BEFORE THE OR GRANTED
+DATE WHEN PROVED OTHER TESTAMENTARY
+DISPOSITION (WITH APPLICATION FOR
+WHETHER WILL OR DATE THEREOF), OR
+COMMITTED BY ACT OR ACTS OF DATE OF DEATH DATE OF ORDER NO. OF MATTER
+ADMINISTRATION DESCRIPTION
+TRANSFER LETTERS OF ADDRESS
 COURT [Subsidiary] Bankruptcy Rules
 (14) Order annulling Composition or Scheme
 Debtor's Grounds of Address Descrip- Court No. Date of Date of Name Annulment tion Approval Annulment
 (15) Notices to Debtors in lieu of Personal Service of Bankruptcy Notices and
 Petitions, and of Applications to commit for Contempt of Court
 Name and descrip- DEBTOR'S DESCRIPTION
-Nature of If a petition
+If a petition Nature of
 tion of person giving DEBTOR'S ADDRESS
 Notice of or application
 DEBTOR'S NAME Bankruptcy notice,
