@@ -1,5 +1,5 @@
 SUBSIDIARY LEGISLATION
 BREWERY (MANUFACTURE OF
 BEVERAGES) ORDER
-made under section 34A.
+made under section 34A
 - Margin: 112/1990.
