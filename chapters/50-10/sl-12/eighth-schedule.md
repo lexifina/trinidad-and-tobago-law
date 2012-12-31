@@ -1,20 +1,18 @@
 # EIGHTH SCHEDULE
-REPUBLIC OF TRINIDAD AND TOBAGO
-FORM OF DISPENSATION
-DISPENSATION ISSUED UNDER THE PROVISIONS OF THE SHIPPING ACT,
-CH. 50:10, GIVING EFFECT TO THE INTERNATIONAL CONVENTION ON STANDARDS OF TRAINING, CERTIFICATION AND WATCHKEEPING FOR SEAFARERS, 1978, AS AMENDED IN 1995 The Government of the Republic of Trinidad and Tobago certifies that ... who is the holder of Certificate No... issued by or on behalf of the Government of ... is duly dispensed in accordance with the provisions of Article ... of the above Convention, as amended in 1995, and the holder is authorised to perform the following functions, at the levels specified, subject to any limitations indicated until ... on board the SHIP ... IMO No...
-Function Level Limitations (If any)
-The holder of this endorsement may serve in the following capacity or capacities specified in the applicable safe manning requirements of the Maritime Services Division:
-Capacity Limitations (If any) [Subsidiary] Shipping (Training, Certification, Safe Manning, Hours of Work
-and Watchkeeping) Regulations
-FORM OF DISPENSATION-Continued
-Endorsement No... issued on .../... /...
-(dd / mm / yy)
-(Official Seal)
-... Signature of duly authorised official ...
-Name of duly authorised official
-The original of this dispensation must be kept available in
-accordance with Regulation I/2, paragraph 9 of the above Convention while serving on a ship.
-Photograph Date of birth of the holder of the certificate .../...,/... of holder ( dd / mm / yy )
-Signature of the holder of the certificate ...
-- Margin: Regulation 33.
+THE REPUBLIC OF TRINIDAD AND TOBAGO
+FORM OF STEERING CERTIFICATE
+THE SHIPPING (CERTIFICATION OF SEAMEN)
+(DECK RATINGS) REGULATIONS, 1993
+Surname ... Other Names ... Discharge Book No... Rating ... Signature of Seaman ... This is to certify that the above-named seaman served as ... from ... to ...
+*being a ship
+in the ... , not being a fishing boat, having
+being a sailing ship
+*of 100 a gross tonnage tons or more and during that time took turns at the wheel in
+of 40 steering the ship apart from periods of instruction, for periods amounting in the aggregate to ... hours
+(in words)
+Date ... Master ...
+N.B.-Regulations 7(1)(d) and 8(1)(f) of these Regulations provide that an applicant
+for a Certificate of Competency as Deck Rating Class 1 or Class 2 must, apart from periods of instruction, have taken turns at the wheel in steering a ship, not being a fishing boat, having a gross tonnage of one hundred gross tons or more, in the case of a sailing ship a gross tonnage of forty tons or more, for periods totalling not less than ten hours.
+Regulation 10(2)(e) provides that the above requirement must be complied with before a seaman can take the qualifying examination prescribed by regulations 7(1)(c) or 8(1)(d) and the First Schedule. This is the examination for which successful candidates receive a Class 2 or Class 1 Certificate.
+*Delete line which is inapplicable.
+- Margin: Regulation 2.

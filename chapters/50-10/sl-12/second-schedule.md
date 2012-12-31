@@ -1,15 +1,19 @@
 # SECOND SCHEDULE
-INSULATING MATERIAL FOR THE UNDERSIDE
-OF DECKS
-1. The insulating material referred to in regulation 9(1)(b) shall-
-(a) provide thermal insulation not less than that provided by a
-wooden deck 57 millimetres thick;
-(b) be such that it is non-combustible, that is to say, insulating
-material which when heated to a temperature of 750ºC (1,382ºF) neither flames for longer than 10 seconds duration, nor raises either its internal temperature or the temperature of the test furnace more than 50ºC (90ºF) above 750ºC (1,382ºF) when tested in accordance with ISO-1190;
-(c) not contain any substance which may cause corrosion of the
-deck on which it is laid;
-(d) be fitted only to a deck which is protected from corrosion by
-a coating supplied for that purpose;
-(e) be fitted by means of an adhesive or otherwise so as to affix
-it securely to the deck.
-- Margin: Regulation 9(1)(b).
+REPUBLIC OF TRINIDAD AND TOBAGO
+FORM OF CERTIFICATE OF CLASSIFICATION AS
+A DECK RATING
+The Shipping Act, Chap. 50:10
+No.
+PHOTOGRAPH
+Granted under the provisions of the Shipping (Certification of Seamen) (Deck Ratings) Regulations, 1993 made under section 87 of the Shipping Act, 1987.
+Name in Full Place of Birth Date of Discharge
+Birth Book No.
+This is to certify that the above-named has been found duly qualified in accordance with the above-mentioned regulations to hold this Certificate of Classification as a Deck Rating.
+*Seaman Class 3 *Seaman Class 4
+ENDORSEMENT (if any)
+Dated this ... day of ... 20...
+...
+Director of Maritime Services Official Stamp
+Signature of Seaman ...
+*Delete whichever is inapplicable.
+- Margin: Regulation 3(5).

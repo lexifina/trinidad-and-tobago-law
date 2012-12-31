@@ -1,58 +1,48 @@
 # THIRD SCHEDULE
-ELECTRIC LIGHTING
-1. "General measurement points" means, in relation to any space, those
-points which measures at a height of 850 millimetres above the floor, fall on an imaginary line drawn vertically through the following points:
-(a) every point mid-way between every 2 adjacent lamps in that
-space;
-(b) every point mid-way between any lamp and any position on
-the boundary of that space to which that lamp is nearer than any other lamp; and
-(c) where any part of the space available for free movement is
-shielded from the direct rays of the lamp by a re-entrant angle formed in the boundary of that space, the central point of the space so shielded.
-(1) Sleeping Rooms and Day Rooms shall be lit to the following
-specifications:
-(a) at general measurement points ... 50 lux;
-(b) at every mirror ... 200 lux;
-(c) at every seat at a writing desk or table ... 150 lux; and
-(d) at not less than half the seats [other than those
-mentioned in (3) above], in a sleeping room provided for use of more than one person ... 150 lux.
-Shipping (Crew Accommodation) Regulations [Subsidiary]
-(2) mess rooms shall be lit to the following specifications:
-(a) at general measurement points ... 100 lux; and
-(b) at every table and sink ... 150 lux.
-(3) Recreation Rooms, including rooms for watching films and television, hobbies and games rooms shall be lit to the following specifications:
-(a) at general measurement points ... 50 lux;
-(b) at every recreational table ... 100 lux;
-(c) at every seat at a writing desk or table ... 150 lux; and
-(d) at not less than half the seats other than those mentioned
-in (3) above ... 150 lux.
-(4) Hospital Wards shall be lit to the following specifications:
-(a) at general measurement point ... 50 lux;
-(b) at any washbasin ... 100 lux; and
-(c) at least one fixed lamp shall be installed in addition to the
-electric reading lamp required by regulation 15(5) to be provided at the head of each bed.
-(5) Offices and Studies shall be lit to the following specifications:
-(a) at general measurement points ... 100 lux; and
-(b) at every seat at a writing desk or table ... 200 lux.
-(6) Sanitary Accommodation, including sanitary accommodation in hospitals shall be lit to the following specifications:
-(a) at general measurement points ... 100 lux; and
-(b) at any mirror ... 200 lux
-(7) Laundries shall be lit to the following specifications:
-(a) at general measurement points ... 100 lux, and
-(b) Drying Rooms ... 50 lux, at the centre of the space.
-(8) Galleys including bakeries and pantries to the following specifications:
-(a) at working positions ... 300 lux; and
-(b) the lights shall be so disposed as to ensure that food
-preparation tables, range tops, serving tables and washing up sinks receive the maximum amount of light.
-(9) Dry provision storerooms and cold storerooms shall be lit to the following specifications:
-(a) at general measurement points ... 100 lux; and
-(b) the lights shall be so disposed as to ensure that shelves and
-cupboards receive the maximum amount of light. [Subsidiary] Shipping (Crew Accommodation) Regulations
-(10) Passageways, companionways and covered deck recreation
-spaces shall be lit to the following specifications:
-(a) at general measurement points ... 50 lux; and
-(b) a light shall be placed-
-(i) at the head of each stairway, ladder and hatchway; and
-(ii) at or near the doors of lockers provided for oilskins or
-working clothes.
-- Margin: Regulation 15.
-- Margin: Definition.
+SYLLABUS FOR THE EXAMINATION FOR
+A CERTIFICATE OF COMPETENCY
+AS SEAMAN DECK RATING
+Section A-Shipboard Safety (General)
+1. Use of life-saving appliances.
+2. Pyrotechnic distress signals.
+3. Shipboard emergency signals and duties.
+4. Use of internal communications and alarm systems.
+5. Basic first aid.
+6. Use of fire fighting appliances.
+Section B-Personal Safety and Survival
+7. Safe working practices.
+8. Cleanliness and hygiene.
+9. Basic sea survival.
+Section C-Nautical Knowledge
+10. The meaning of common ship-board and nautical terms.
+11. The names and functions of various parts of the ship, for example, deck, compartments, bulkheads, ballast tanks, bilges, strum boxes, sounding pipes, air pipes, etc.
+12. Knowledge of the compass card in points and degrees, ability to steer and to understand helm orders, use of magnetic and gyro compasses.
+13. Ability to keep a proper lookout by sight and hearing and to report the approximate bearing of a sound signal, light, or other object, in degrees or points.
+14. Ability to understand orders and make himself understood in matters relevant to the seaman's duties.
+15. Autopilot and the change-over from automatic to hand steering and vice versa.
+16. Basic awareness of the types of log in common use on board ship.
+17. Sounding machines and other bridge equipment.
+18. Marking of the anchor cable.
+Section D-Pollution Prevention
+19. Basic knowledge of duties and responsibilities regarding the prevention of the pollution of the seas and harbours.
+Section E-Practical Work
+Tested as far as possible by practical demonstration.
+20. Knots, hitches and bends in common use example, reef knot, timber hitch, clove hitch, rolling hitch, figure of eight, wall and crown, bowline and bowline on the blight, sheet bend-double and single, sheepshank, round turn and two half hitches, marlinespike hitch.
+To whip a rope's end using plain or palm and needle whipping, to put a seizing on rope and wire, to put a stopper on a rope or wire hawser and derrick lift.
+21. Splicing plaited and multi-strand manila and synthetic fibre rope, eye splice, short splice and back splice, splicing wire rope, eye splicing using a locking tuck, care in use of rope and wire.
+22. Slinging a stage, rigging a bosun's chair and pilot ladder.
+Rigging and safe use of pilot hoists.
+Rigging a derrick, driving a winch, general precautions to be taken before and during the operation of a winch whether used for working cargo or for warping.
+23. Using deck cranes.
+24. The use and operation of a windlass in anchor work and in warping, safe handling of moorings with particular reference to synthetic fibre ropes and self tensioning winches, precautions to be taken in the stowage of chain cable and securing the anchors for sea.
+25. A knowledge of the gear used in cargo work and an understanding of its uses, general maintenance with particular reference to wires, blocks and shackles, securing of cargo.
+26. The safe handling of hatch covers including mechanical hatch covers, battening down and securing hatches and tank lids.
+Section F-Lifeboats and Liferafts
+27. Where no Certificate of Proficiency in survival craft is held, a candidate will be required to satisfy the examiner that-
+(a) he understands the general principles of boat management and can
+carry out orders relating to lifeboat launching and operation and the handling of a boat under sail;
+(b) he is familiar with a lifeboat and its equipment and the starting and
+running of the engines of a power boat;
+(c) he is familiar with the various methods of launching liferafts, the
+precautions to be taken before and during launching, methods of boarding and survival procedure.
+- Margin: Regulation 9(2).

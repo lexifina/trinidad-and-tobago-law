@@ -1,14 +1,10 @@
-ARRANGEMENT OF REGULATIONS-Continued
+SHIPPING (CERTIFICATION OF SEAMEN)
+(DECK RATINGS) REGULATIONS
+ARRANGEMENT OF REGULATIONS
 REGULATION
-26. Recreation spaces. 27. Offices. 28. Sanitary accommodation. 29. Supply of drinking water. 30. Supply of fresh water. 31. Facilities for washing and drying clothes and for hanging oilskins and working clothes.
-32. Galleys. 33. Dry provision storerooms. 34. Cold storerooms and refrigerating equipment. 35. Hospitals. 36. Medical cabinet. 37. Protection from mosquitoes. 38. Maintenance and inspection of crew accommodation.
-PART II
-REQUIREMENTS TO BE COMPLIED WITH BY SHIPS REGISTERED IN TRINIDAD AND TOBAGO BEFORE THE DATE ON WHICH THESE REGULATIONS COME
-INTO OPERATION
-39. Interpretation. 40. Application. 41. Exemptions. 42. Duration of exemption.
-FIRST SCHEDULE. SECOND SCHEDULE. THIRD SCHEDULE. FOURTH SCHEDULE. FIFTH SCHEDULE. SIXTH SCHEDULE.
-[Subsidiary]
-SHIPPING (CREW ACCOMMODATION)
-REGULATIONS
-made under section 147
-- Margin: 94/1996.
+1. Citation and Repeal. 2. Definitions. 3. Classification of deck ratings and classes of certificates. 4. Certificates equivalent. 5. Seaman Class 4. 6. Seaman Class 3. 7. Seaman Class 2. 8. Seaman Class 1 (AB). 9. Examinations and appointments of examiners. 10. Application for examination and issue of Certificate of Competency. 11. Qualifying sea service. 12. Reduction of qualifying sea service. 13. Navigational Watch Rating endorsement. 14. Application for Certificates of Competency or Classification. 15. Record of certificates. 16. Loss of certificates. 17. Fees.
+FIRST SCHEDULE. SECOND SCHEDULE. THIRD SCHEDULE. FOURTH SCHEDULE. FIFTH SCHEDULE. SIXTH SCHEDULE. SEVENTH SCHEDULE. EIGHTH SCHEDULE.
+SHIPPING (CERTIFICATION OF SEAMEN)
+(DECK RATINGS) REGULATIONS
+made under section 87
+- Margin: 142/1993.

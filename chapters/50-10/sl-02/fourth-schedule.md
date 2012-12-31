@@ -4,14 +4,10 @@ CERTAIN SHIPS REFERRED TO IN PARTS III, IV, V
 AND VI OF THE REGULATIONS
 PART A
 DEFINITIONS
-1. In addition to the definitions prescribed in regulation 2, in this Schedule
-and in Appendices A to E hereto, unless the context otherwise requires- "crew accommodation" has the same meaning as in section 147(6) of the
-Shipping Act;
-"dry cargo space" means space appropriated for the carriage of cargo other
-than liquid or gaseous matter in bulk;
-"overall length" in relation to a pleasure craft to which Part F of this Schedule
-applies means the distance between the foreside of the foremost fixed permanent structure and the aftside of the aftermost fixed permanent structure of the craft;
-"propelling machinery space" means the space below the upper deck
+1. In addition to the definitions prescribed in regulation 2, in this Schedule and in Appendices A to E hereto, unless the context otherwise requires- "crew accommodation" has the same meaning as in section 147(6) of the
+Shipping Act; "dry cargo space" means space appropriated for the carriage of cargo other
+than liquid or gaseous matter in bulk; "overall length" in relation to a pleasure craft to which Part F of this Schedule
+applies means the distance between the foreside of the foremost fixed permanent structure and the aftside of the aftermost fixed permanent structure of the craft; "propelling machinery space" means the space below the upper deck
 appropriated for the main or auxiliary propelling machinery of a ship, and includes-
 (a) ventilation, light or escape trunks serving any such space;
 (b) space appropriated for boilers serving such machinery;
@@ -20,12 +16,10 @@ appropriated for the main or auxiliary propelling machinery of a ship, and inclu
 tonnage three-quarters of one per cent of the gross tonnage of the ship;
 (e) oil fuel settling tanks serving the main or auxiliary
 propelling machinery, having a total capacity sufficient to provide not less than twenty-four or more than ninety-six hours steaming for the ship at maximum speed,
-and shall also include framed-in spaces on or above the upper deck described in paragraph 5(1)(e) and included in the gross tonnage of the ship in accordance with that provision;
-"second deck" means the deck next below the upper deck, being a deck-
+and shall also include framed-in spaces on or above the upper deck described in paragraph 5(1)(e) and included in the gross tonnage of the ship in accordance with that provision; "second deck" means the deck next below the upper deck, being a deck-
 (a) which is fitted as an integral part of the ship's structure;
 (b) which is continuous at least between peak bulkheads both
 fore and aft and transversely; and
-[Subsidiary] Shipping (Tonnage) Regulations
 (c) in which all hatchways are fitted with substantial and
 durable covers, a deck being taken to be continuous for this purpose notwithstanding the presence in it of-
 (i) openings serving propelling machinery space or
@@ -41,17 +35,12 @@ PART B
 TONNAGES GENERAL
 2. The tonnage of any ship to which Parts III and IV of these Regulations and this Schedule applies and which is to be registered in Trinidad and Tobago under Part III of the Act shall be ascertained in accordance with this Schedule save that in the case of novel types of craft with constructional features which render the application of the provisions of this Schedule unreasonable or impracticable the tonnage shall be determined as required by the Minister.
 3. (1) The owner and the master of a ship to be measured shall upon payment of the appropriate fee make it available for measurement by a surveyor and afford all necessary facilities for its inspection and measurement and shall produce for the surveyor's use and retention if required such plans, drawings, specification and other documents relating to the ship as he may require.
-(2) Subject to subparagraph (3), the tonnage of a ship shall be measured in the manner specified in Rule I of Appendix A and in Appendix B to this Schedule. [Subsidiary] Shipping (Tonnage) Regulations
-(3) In any case in which the surveyor is satisfied that by reason of
-a ship being laden or otherwise, measurement of the tonnage of the ship below the upper deck in accordance with subparagraph (2) is not reasonably practicable such tonnage shall be measured in the manner specified in Rule II of Appendix A and in the case of a ship so measured the provisions of paragraphs 13 and 14 shall not apply.
-(4) The Certifying Authority may on the application of the owner of
-any ship the tonnage of which below the upper deck has been measured in accordance with subparagraph (3) direct such tonnage to be measured in accordance with subparagraph (2) and furnish the particulars of such measurement to the Registrar of Ships and the Registrar shall alter the particulars relating to the registered tonnage of the ship accordingly.
-(5) All measurements required by this Schedule shall be taken and
-expressed in feet and decimals of a foot.
-(6) Tonnage in relation to any ship or space in a ship shall be
-measured in terms of cubic capacity with one hundred cubic feet representing one ton and expressed in tons and hundredths of a ton.
-4. (1) The Certifying Authority shall issue to the owner of every ship
-registered in Trinidad and Tobago under the Act, the tonnage of which has been ascertained in accordance with this Schedule, a certificate of Trinidad and Tobago tonnage certifying the registered tonnage of the ship and containing the following particulars:
+(2) Subject to subparagraph (3), the tonnage of a ship shall be measured in the manner specified in Rule I of Appendix A and in Appendix B to this Schedule.
+(3) In any case in which the surveyor is satisfied that by reason of a ship being laden or otherwise, measurement of the tonnage of the ship below the upper deck in accordance with subparagraph (2) is not reasonably practicable such tonnage shall be measured in the manner specified in Rule II of Appendix A and in the case of a ship so measured the provisions of paragraphs 13 and 14 shall not apply.
+(4) The Certifying Authority may on the application of the owner of any ship the tonnage of which below the upper deck has been measured in accordance with subparagraph (3) direct such tonnage to be measured in accordance with subparagraph (2) and furnish the particulars of such measurement to the Registrar of Ships and the Registrar shall alter the particulars relating to the registered tonnage of the ship accordingly.
+(5) All measurements required by this Schedule shall be taken and expressed in feet and decimals of a foot.
+(6) Tonnage in relation to any ship or space in a ship shall be measured in terms of cubic capacity with one hundred cubic feet representing one ton and expressed in tons and hundredths of a ton.
+4. (1) The Certifying Authority shall issue to the owner of every ship registered in Trinidad and Tobago under the Act, the tonnage of which has been ascertained in accordance with this Schedule, a certificate of Trinidad and Tobago tonnage certifying the registered tonnage of the ship and containing the following particulars:
 (a) the name, port of registry and official number of the ship;
 (b) its main dimensions;
 (c) its gross tonnage and the tonnage of each of the components
@@ -60,7 +49,6 @@ thereof specified in paragraph 5(1);
 pursuant to paragraphs 11 and 12 respectively in ascertaining that tonnage;
 (e) in the case of a ship to which gross and register tonnages have
 been assigned in accordance with paragraph 13 or to which alternative tonnages have been assigned in accordance with paragraph 14 particulars of the spaces the tonnage of which has been excluded by virtue of the provisions of paragraph 13 or 14, as the case may be, in ascertaining such tonnages;
-[Subsidiary] Shipping (Tonnage) Regulations
 (f) the position in which any tonnage mark assigned to the ship
 is to be placed.
 (2) The gross and register tonnages as stated in that certificate shall, unless any alteration is made in the form or capacity of the ship or it is discovered that the tonnage of the ship has been erroneously computed, be taken for that purpose to be the gross and register tonnages of the ship.
@@ -83,18 +71,15 @@ Appendix A to this Schedule;
 (d) the tonnage of hatchways described in paragraph 7, ascertained
 in accordance with the provisions of that paragraph and paragraph 5 of Rule I of Appendix A to this Schedule;
 (e) the tonnage of framed-in spaces on or above the upper deck
-which contain any part of the propelling machinery or which light or ventilate space appropriated for such machinery, [Subsidiary] Shipping (Tonnage) Regulations
-ascertained in accordance with the provisions of paragraph 5 of Rule I of Appendix A to this Schedule subject to the conditions that-
+which contain any part of the propelling machinery or which light or ventilate space appropriated for such machinery, ascertained in accordance with the provisions of paragraph 5 of Rule I of Appendix A to this Schedule subject to the conditions that-
 (i) the owner of a ship has made written application to the
 certifying authority for the inclusion of such spaces in the propelling machinery space of the ship;
 (ii) they are permanently marked by notice stating their
 purpose; and
 (iii) they are certified by a surveyor as safe and seaworthy
 and properly constructed for their purpose, as reasonable in extent for that purpose, and as being such that they cannot be used for any other purpose.
-(2) In the case of a ship the tonnage of which below the upper deck
-has been measured in accordance with Rule II of Appendix A, that tonnage shall be included instead of the tonnages specified in subparagraph (1)(a) and (b) of paragraph 5 of this Schedule.
-(3) For the purpose of this Schedule and Appendices A to E hereto the
-expression permanently closed-in spaces on or above the upper deck includes-
+(2) In the case of a ship the tonnage of which below the upper deck has been measured in accordance with Rule II of Appendix A, that tonnage shall be included instead of the tonnages specified in subparagraph (1)(a) and (b) of paragraph 5 of this Schedule.
+(3) For the purpose of this Schedule and Appendices A to E hereto the expression permanently closed-in spaces on or above the upper deck includes-
 (a) a poop, bridge or forecastle notwithstanding the presence of
 an opening in the end transverse bulkhead thereof, unless the opening extends from deck to deck or one-half or more of the breadth of the deck in way of the bulkhead;
 (b) a deck house notwithstanding the presence of an opening in
@@ -107,7 +92,6 @@ more and is completely open to the weather at one end, or both ends, of its leng
 more of its width and is exposed to the weather; and
 (f) any space having an opening in the deck over it being a deck
 exposed to the weather, unless the area of the opening is one-quarter or more of the deck area over the space.
-[Subsidiary] Shipping (Tonnage) Regulations
 6. The underdeck tonnage of a ship shall be the sum of-
 (a) the tonnage of the space below the tonnage deck bounded by-
 (i) the tonnage deck;
@@ -130,7 +114,7 @@ space they serve;
 (e) chain lockers, and space appropriated for working the anchor
 gear and capstan;
 (f) space appropriated for the storage of safety equipment
-or batteries; [Subsidiary] Shipping (Tonnage) Regulations
+or batteries;
 (g) companions and access hatches serving as protection for
 stairways or ladderways leading to space below, and openings over such stairways and ladderways;
 (h) the galley, and any separate bakery fitted with ovens,
@@ -145,16 +129,13 @@ other purpose;
 of charge, by deck passengers in ships intended for use only on voyages not exceeding ten hours duration;
 (m) sheltered promenade space, glassed in and unfurnished
 except for deckchairs or similar light portable seating, in ships intended for use on international voyages.
-However, this paragraph shall not apply in any case save that specified
-in subparagraph (a) unless the space is certified by a surveyor as being reasonable in extent, and properly constructed, for its purpose and is permanently marked by a notice stating that purpose.
+However, this paragraph shall not apply in any case save that specified in subparagraph (a) unless the space is certified by a surveyor as being reasonable in extent, and properly constructed, for its purpose and is permanently marked by a notice stating that purpose.
 9. (1) Subparagraph (2) applies-
 (a) to ships previously registered elsewhere which are to be
 registered in Trinidad and Tobago; and
 (b) to ships registered in a foreign State in respect of which
 application is made for a Certificate of Trinidad and Tobago tonnage pursuant to regulation 15(4).
-(2) Without prejudice to the provisions of paragraph 8, space situated
-on or above the upper deck of a ship to which, this paragraph applies, being space which, in the case of a ship described in subparagraph (1)(a) or (b), was, by virtue of there being or having been openings in it not included in the gross tonnages of the ship specified in the national certificate of registry in force in respect of the ship immediately prior to her registry in Trinidad and Tobago, or the said application, as the case may be, shall not be included in the gross tonnage of the ship irrespective of whether such openings have been closed or not unless there has been no change, since the date on which the tonnage of the ship was last measured, in the purpose for which the space is used.
-[Subsidiary] Shipping (Tonnage) Regulations
+(2) Without prejudice to the provisions of paragraph 8, space situated on or above the upper deck of a ship to which, this paragraph applies, being space which, in the case of a ship described in subparagraph (1)(a) or (b), was, by virtue of there being or having been openings in it not included in the gross tonnages of the ship specified in the national certificate of registry in force in respect of the ship immediately prior to her registry in Trinidad and Tobago, or the said application, as the case may be, shall not be included in the gross tonnage of the ship irrespective of whether such openings have been closed or not unless there has been no change, since the date on which the tonnage of the ship was last measured, in the purpose for which the space is used.
 PART D
 REGISTER TONNAGE
 10. Subject to the provisions of Part E of this Schedule, the register tonnage of a ship shall be the tonnage obtained by deducting from its gross tonnage-
@@ -184,7 +165,7 @@ pumpmen, electricians, carpenters and boatswains, and the lamp-room;
 (g) space occupied by the donkey engine and boiler if they are
 outside the propelling machinery space and connected to the main pumps of the ship;
 (h) space occupied by the main pumps of the ship if they are
-outside the propelling machinery space; [Subsidiary] Shipping (Tonnage) Regulations
+outside the propelling machinery space;
 (i) in the case of ships wholly propelled by sails, space
 appropriated for the storage of sails, so however that the total tonnage of such space does not exceed two and one-half per cent of the ship's gross tonnage; and
 (j) water ballast tanks not appropriated for use for any other
@@ -193,8 +174,7 @@ purpose, so however that the total tonnage to be so deducted, when added to the 
 certified by a surveyor as complying with all applicable provisions as to crew accommodation contained in the Shipping Act, Ch. 50:10 and Regulations made thereunder; and
 (ii) any space specified in subparagraphs (a), or (c) to (j),
 unless it is certified by a surveyor to be reasonable in extent, properly constructed for its purpose and is permanently marked by a notice stating that purpose.
-12. The tonnage allowance for propelling machinery space to be
-deducted pursuant to paragraph 10(b) shall be determined as follows:
+12. The tonnage allowance for propelling machinery space to be deducted pursuant to paragraph 10(b) shall be determined as follows:
 (a) in the case of ships propelled by screws-
 (i) where the tonnage of the propelling machinery space
 is thirteen per cent or over but less than twenty per cent of the gross tonnage, the allowance shall be thirty-two per cent of the gross tonnage;
@@ -203,9 +183,7 @@ is less than thirteen per cent of the gross tonnage, the allowance shall be that
 (b) in the case of ships to which subparagraph (a) does not apply,
 the allowance shall be one and three-quarter times the tonnage of the propelling machinery space, save that-
 (i) except in the case of tugs intended to be used exclusively
-as such, the allowance shall not exceed fifty-five per cent of that portion of the tonnage of the ship which
-[Subsidiary] Shipping (Tonnage) Regulations
-remains after deducting from its gross tonnage the deductions authorised by paragraph 10(a); and
+as such, the allowance shall not exceed fifty-five per cent of that portion of the tonnage of the ship which remains after deducting from its gross tonnage the deductions authorised by paragraph 10(a); and
 (ii) such deductions shall be subject to the propelling
 machinery space and space appropriated for its lighting and ventilation being certified as adequate by a surveyor and being permanently marked by notices stating their purpose.
 PART E
@@ -221,27 +199,18 @@ position of the tonnage mark determined in accordance with Appendix D to this Sc
 (a) in subparagraph 5(1)(c), 5(1)(e) and 5(3), paragraph 8 and
 subparagraphs 9(2) and 11(j) and in the definition of propelling machinery space in this Schedule, and in paragraphs 3, 5 and 6 of Rule I of Appendix A hereto, references to the upper deck shall be substituted by references to the second deck; and
 (b) paragraph 5(1)(b) of this Schedule and paragraph 2 of Rule I
-of Appendix A shall be omitted. [Subsidiary] Shipping (Tonnage) Regulations
-(4) Where such tonnages have been assigned to a ship there shall be
-placed on each side of the ship a tonnage mark in the form described in Appendix C to this Schedule, in a position in line with the uppermost load line to which the ship may be loaded but, subject to the foregoing, in a position determined in accordance with Appendix D.
-14. (1) The Certifying Authority, may, on the application of the owner
-of a ship, assign to the ship, as an alternative to its gross tonnage and register tonnage ascertained in accordance with Parts C and D of this Schedule, the modified gross tonnage and modified register tonnage ascertained in accordance with the provisions of paragraph 13(3).
-(2) Where alternative tonnages have been assigned to a ship there
-shall be placed on each side of that ship a tonnage mark in the form described in Appendix C to this Schedule in a position determined in accordance with the provisions of Appendix D hereto.
-(3) The gross tonnage and register tonnage of the ship shall be taken
-to be respectively the modified gross tonnage and modified register tonnage when the ship is so loaded that the tonnage mark is not submerged and at all other times the gross and register tonnages of the ship shall be those ascertained in accordance with Parts C and D of this Schedule.
+of Appendix A shall be omitted.
+(4) Where such tonnages have been assigned to a ship there shall be placed on each side of the ship a tonnage mark in the form described in Appendix C to this Schedule, in a position in line with the uppermost load line to which the ship may be loaded but, subject to the foregoing, in a position determined in accordance with Appendix D.
+14. (1) The Certifying Authority, may, on the application of the owner of a ship, assign to the ship, as an alternative to its gross tonnage and register tonnage ascertained in accordance with Parts C and D of this Schedule, the modified gross tonnage and modified register tonnage ascertained in accordance with the provisions of paragraph 13(3).
+(2) Where alternative tonnages have been assigned to a ship there shall be placed on each side of that ship a tonnage mark in the form described in Appendix C to this Schedule in a position determined in accordance with the provisions of Appendix D hereto.
+(3) The gross tonnage and register tonnage of the ship shall be taken to be respectively the modified gross tonnage and modified register tonnage when the ship is so loaded that the tonnage mark is not submerged and at all other times the gross and register tonnages of the ship shall be those ascertained in accordance with Parts C and D of this Schedule.
 PART F
 PLEASURE CRAFT UNDER FORTY-FIVE FEET
 IN LENGTH
-15. (1) This Part of this Schedule applies only in relation to pleasure
-craft under forty-five feet (13.7 metres) in overall length which are to be registered in Trinidad and Tobago under Part III of the Act.
-(2) Parts B, C, D and E of this Schedule shall not apply in relation
-to pleasure craft to which this Part of this Schedule applies.
-16. The tonnage of a pleasure craft to which this Part of this Schedule
-applies shall be ascertained in accordance with paragraph 17 and the tonnage so ascertained shall be taken to be its gross and register tonnage.
-17. (1) The owner of such a pleasure craft to be measured shall make it
-available for measurement, pursuant to section 22 of the Shipping Act, by a surveyor appointed by the Certifying Authority and shall afford all necessary facilities for its inspection and measurement and shall produce for the surveyor's use and retention, if required, such plans, drawings, specifications and other documents relating to the pleasure craft as may be required.
-[Subsidiary] Shipping (Tonnage) Regulations
+15. (1) This Part of this Schedule applies only in relation to pleasure craft under forty-five feet (13.7 metres) in overall length which are to be registered in Trinidad and Tobago under Part III of the Act.
+(2) Parts B, C, D and E of this Schedule shall not apply in relation to pleasure craft to which this Part of this Schedule applies.
+16. The tonnage of a pleasure craft to which this Part of this Schedule applies shall be ascertained in accordance with paragraph 17 and the tonnage so ascertained shall be taken to be its gross and register tonnage.
+17. (1) The owner of such a pleasure craft to be measured shall make it available for measurement, pursuant to section 22 of the Shipping Act, by a surveyor appointed by the Certifying Authority and shall afford all necessary facilities for its inspection and measurement and shall produce for the surveyor's use and retention, if required, such plans, drawings, specifications and other documents relating to the pleasure craft as may be required.
 (2) The tonnage of a pleasure craft to which this part of this Schedule applies shall be measured in the manner specified in Appendix E to this Schedule.
 PART G
 SPACES NOT INCLUDED IN THE REGISTER TONNAGE
@@ -257,7 +226,7 @@ ascertained in accordance with paragraph 13(3), no account shall be taken for th
 (b) workshops or storerooms appropriated for the use of
 pumpmen, engineers, electricians, carpenters and boatswains;
 (c) the lamp room; or
-(d) double bottom tanks. [Subsidiary] Shipping (Tonnage) Regulations
+(d) double bottom tanks.
 - Margin: Definitions.
 - Margin: Ascertainment of tonnage.
 - Margin: Method of measurement.

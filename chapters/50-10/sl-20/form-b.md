@@ -1,0 +1,16 @@
+# FORM B
+Republic of Trinidad and Tobago
+BOATMASTER LICENCE GRADE 1/2
+Issued by the
+MARITIME SERVICES DIVISION
+under the provisions of the
+Code of Safety for Small Commercial Vessels
+This is to certify that ... is entitled to service in a capacity requiring a Boatmaster Engineer Grade 1/2 in commercial vessels with an installed power of less than 750 kW operating in Coastal/Exposed waters.
+The holder is further entitled to serve in such other vessels and in such areas as may be endorsed on this certificate.
+Date of Issue: Date of Expiry:
+... OFFICIAL
+Signature of Holder Director of Maritime Services STAMP
+This Licence is valid only if the holder is in possession of a valid Medical Fitness Certificate.
+- Margin: Photograph
+- Margin: No...
+- Margin: ENDORSEMENT:
