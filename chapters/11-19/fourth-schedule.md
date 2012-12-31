@@ -8,16 +8,14 @@ business notify the Board that he intends to carry on that business; and
 (b) not later than the date of the first user thereof for the purposes
 of the business, make entry with the Board in such manner as the Board may require, of all premises and totalisators (if any) used by him for the purposes of the business; and
 (c) keep such books, records and accounts in relation to the
-business as the Board may direct and, for at least two years or such longer period as the Board may in any particular case direct, preserve, on premises of which entry has been made as mentioned above, any books, records and accounts directed to be kept by him under this paragraph and any other books, records, accounts or documents relating to the business; and
-(d) permit any officer authorised in that behalf by the Board to
-enter on any premises used for the purposes of the business, to inspect any totalisator used for the purposes thereof and to inspect and take copies of any books, records, accounts or other documents in his possession or custody or on any premises used for the purposes of the business, being books, records, accounts or documents which relate or appear to relate to the business, and any such person, and any other person employed, or having functions in connection with, any such business, shall if required so to do by the Board or any officer authorised in that behalf by the Board, produce, at a time and place to be specified by the Board or the officer, any such books, records, accounts or documents relating to the business and make, at times and to persons to be so specified, such returns relating to the business, as the Board or the officer may require.
+business as the Board may direct and, for at least two years or such longer period as the Board may in any particular case direct, preserve, on premises of which entry has been made as mentioned above, any books, records and accounts directed to be kept by him under this paragraph and any other books, records, accounts or documents relating to the business; and enter on any premises used for the purposes of the business, to inspect any totalisator used for the purposes thereof and to inspect and take copies of any books, records, accounts or other documents in his possession or custody or on any premises used for the purposes of the business, being books, records, accounts or documents which relate or appear to relate to the business, and any such person, and any other person employed, or having functions in connection with, any such business, shall if required so to do by the Board or any officer authorised in that behalf by the Board, produce, at a time and place to be specified by the Board or the officer, any such books, records, accounts or documents relating to the business and make, at times and to persons to be so specified, such returns relating to the business, as the Board or the officer may require.
 3. A person is guilty of an offence under this Schedule and liable on summary conviction to a fine of three thousand dollars or treble the amount of the duty which is unpaid or payment of which is sought to be evaded, as the case may be, at the election of the Board who-
 (a) fails to pay any pool betting duty payable by him; or
 (b) contravenes any of the provisions of paragraph 2; or
-(c) obstructs any officer in the exercise of his functions in relation
-to the pool betting duty; or
-(d) in connection with the pool betting duty, makes any statement
-which he knows to be false in a material particular or recklessly makes any statement which is false in a material particular or with intent to deceive, produces or makes use of any book, account, record, return or other document which is false in a material particular; or
+(c) obstructs any officer in the exercise of his functions in
+relation to the pool betting duty; or
+(d) in connection with the pool betting duty, makes any
+statement which he knows to be false in a material particular or recklessly makes any statement which is false in a material particular or with intent to deceive, produces or makes use of any book, account, record, return or other document which is false in a material particular; or
 (e) is knowingly concerned in, or in the taking of steps with a
 view to the fraudulent evasion by him or any other person, of the pool betting duty.
 4. Where a person is convicted of an offence under paragraph 3(d) or (e), the Court may, in lieu of or in addition to ordering him to pay the said penalty, order him to be imprisoned for a term not exceeding two years.
@@ -27,5 +25,5 @@ view to the fraudulent evasion by him or any other person, of the pool betting d
 (2) For the purposes of this paragraph, a certificate from the Board as to the date on which such evidence as mentioned above came to its knowledge shall be conclusive evidence thereof.
 8. In this Schedule, "officer" means any person who is expressly authorised by the Board to perform the duties of an officer for the purposes of this Schedule.
 9. Any reference in this Schedule to the Board shall, in the case of pool betting business in respect of horse or dog races, be construed as a reference to the Betting Levy Board.
-- Margin: [Section 34(4)]. [36 of 1989 5 of 1995].
+- Margin: Section 34(4). [36 of 1989 5 of 1995].
 - Margin: Ch. 4:20.

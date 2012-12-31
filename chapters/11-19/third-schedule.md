@@ -10,8 +10,8 @@ prizes for making forecasts as to sporting or other events, the bets being entri
 all the bets and accordingly the question which bets qualify for, or for shares in, the prize or prizes and, save so far as it depends on the amounts staked, the amounts of the respective shares in the prizes, shall be determined solely by the relative success of the forecasts embodied in the respective bets;
 (e) the total amount payable by way of winnings shall, in the case
 of each competition, be the total amount of the stakes less the pool betting duty payable in respect thereof in respect of entries in that competition less such percentage of that total amount as may be determined by the promoter, being the same percentage in respect of all his competitions which depend on the same event or events taking place on the same day (and being a percentage which is determined and notified to the accountant appointed under paragraph 4 before that day);
-(f) the Rules or any alteration thereof applying to the competition
-shall be posted up on some conspicuous part of the licensed premises and notified to the said accountant at least one day before the first of the relevant sporting or other events take place.
+(f) the Rules or any alteration thereof applying to the
+competition shall be posted up on some conspicuous part of the licensed premises and notified to the said accountant at least one day before the first of the relevant sporting or other events take place.
 (2) Notwithstanding anything in subparagraph (1)(d) or (e) if it is found that a bet which ought to have been treated as a winning bet has been inadvertently overlooked, the promoter shall pay to the person making that bet the sum paid by him to other persons making comparable bets or, if there are no comparable bets, such sum as would have been payable had such winning bet not been overlooked.
 2. References in this Schedule to stakes in, or in respect of entries in, any competition do not include references to stakes in respect of rejected entries.
 3. (1) As soon as may be after the events to which any of his competitions relate have taken place, and in any case not later than seven days after the announcement of the results of that competition, every promoter shall send to the said accountant a statement showing-
@@ -19,8 +19,8 @@ shall be posted up on some conspicuous part of the licensed premises and notifie
 competition;
 (b) the total amount payable by way of winnings in that
 competition;
-(c) the total amount of the stakes in respect of winning bets in the
-competition, and if there are more prizes than one in the competition, the total amount of the stakes in respect of winning bets qualifying for, or for shares in, each of the prizes; and
+(c) the total amount of the stakes in respect of winning bets in
+the competition, and if there are more prizes than one in the competition, the total amount of the stakes in respect of winning bets qualifying for, or for shares in, each of the prizes; and
 (d) the amount payable in respect of each winning bet.
 (2) In September in each year every promoter shall send to the said accountant and to the Board a statement showing, as respects his pool betting business for the twelve-month period ending 30th June in the same year-
 (a) the aggregate total stakes in all his competitions;
@@ -34,15 +34,14 @@ purposes of this Schedule) and the percentage (calculated to the nearest one-ten
 5. (1) The accountant shall-
 (a) examine all statements submitted to him under paragraph 3
 with a view to determining whether there is cause to believe that any of the provisions of this Schedule are being contravened in relation to the competition in question; and
-(b) retain all such statements for two years; and
 (c) at any time during that period give facilities for their examination
 by any officer authorised in that behalf by the Board.
 (2) The accountant and any servant of his authorised in that behalf by him in writing may at all reasonable times enter any premises on which a promoter is carrying on his business and enquire into the manner in which that business is being carried on, and may require the promoter or any servant of his to give to the accountant or servant so authorised all such information and produce all such accounts, books and other documents and carry out such checks or additional checks of coupons or other entry forms as the accountant or servant so authorised may think necessary for the purpose of determining whether there is cause to believe that any of the provisions of this Schedule are being contravened; and it shall be the duty of the promoter to preserve in good condition all accounts, books or other documents (including coupons or other entry forms) that relate wholly or partly to any of his competitions for, in the case of coupons and other entry forms, at least two months, and in the case of accounts, books or other documents, at least two years, from the day on which the events take place on which that competition depends.
 (3) If at any time the accountant has cause to believe that any of the provisions of this Schedule are being contravened in relation to any of the competitions of a promoter, he shall report the matter to the Board.
 (4) Not later than the end of November in each year the accountant shall furnish to the Board a report stating, if such be the fact, that he has examined all statements submitted to him by a promoter under paragraph 3 for the period mentioned in subparagraph (2) of that paragraph which ended in that year, has conducted such enquiries into the manner in which the business of that promoter is carried on and made such examination of that promoter's records as he considers necessary and whether or not he has cause to believe that any of the provisions of this Schedule have been contravened in relation to any of the competitions of that promoter taking place during the said period.
 6. (1) Any person who-
-(a) obstructs the accountant or any servant of his in the execution
-of any powers or duties under this Schedule; or
+(a) obstructs the accountant or any servant of his in the
+execution of any powers or duties under this Schedule; or
 (b) fails to comply with any requirement duly made on him by
 the accountant or any servant of his, or, in response to such a requirement, knowingly gives any information which is false or misleading, is guilty of an offence under this Schedule.
 (2) If any promoter fails to comply with any duty imposed upon him by this Schedule or if any of the provisions of this Schedule, except so far as they impose duties on the accountant or the Board, are contravened in the case of the business of any promoter, the promoter is guilty of an offence under this Schedule.
@@ -50,7 +49,7 @@ the accountant or any servant of his, or, in response to such a requirement, kno
 (4) A person guilty of an offence under this Schedule is liable on summary conviction to a fine of three thousand dollars.
 7. Any reference in this Schedule to the day on which the events on which a competition depends takes place shall, where the events do not take place wholly on the same day, be construed as a reference to the last day on which any of the events take place.
 8. Any reference in this Schedule to the Board shall, in the case of pool betting business in respect of horse or dog races, be construed as a reference to the Betting Levy Board.
-- Margin: (Section 32). [36 of 1989].
+- Margin: Section 32. [36 of 1989].
 - Margin: Ch. 4:21.
 - Margin: Enforcement.
 - Margin: Interpretation of Third Schedule.
