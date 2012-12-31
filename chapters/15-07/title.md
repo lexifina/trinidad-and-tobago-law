@@ -2,7 +2,6 @@ VISITING POLICE FORCES ACT
 CHAPTER 15:07
 Act
 9 of 2007
-1-8 .. 1/2009
 Note on Subsidiary Legislation
 This Chapter contains no subsidiary legislation.
 CHAPTER 15:07
