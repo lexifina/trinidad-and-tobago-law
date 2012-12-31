@@ -10,5 +10,4 @@ him of this notice. If the landlord does not admit the tenant's right to purchas
 payment of money should on his receipt of this notice inform the mortgagee or person entitled to the benefit of the charge.
 3. "Land" to be included in the notice includes any garage, outhouse, garden, yard and
 appurtenances which at the time of the notice are let to the tenant with the chattel house and are occupied with and used for the purposes of the house or any part of it by the tenant.
-*Delete where inapplicable. [Subsidiary ]
-Land Tenants (Security of Tenure) (Forms and Notices) Regulations
+*Delete where inapplicable.

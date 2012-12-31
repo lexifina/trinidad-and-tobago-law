@@ -13,19 +13,17 @@ This is to notify you that I, the undersigned, being tenant of land described in
 ...
 (Name of Landlord)
 that is to say at ...
-(address of place of abode of landlord where notice was served)
+(Address of place of abode of landlord where notice was served)
 (c) leaving it at the usual/last known place* of business of the said
 ...
 (Name of Landlord)
 that is to say at ...
-(address of place of business of landlord where notice was served)
+(Address of place of business of landlord where notice was served)
 (d) posting it by registered letter addressed to him at his usual/last
-known/place of abode/business.
-Acopy of the written notice hereinabove referred to is enclosed herewith.
+known/place* of abode/business.
+A copy of the written notice hereinabove referred to is enclosed herewith.
 Dated this ... day of ..., 20...
 Signed ...
 (Tenant)
 ...
 (Address) *Delete whichever is inapplicable.
-[Subsidiary ]
-Land Tenants (Security of Tenure) (Forms and Notices) Regulations

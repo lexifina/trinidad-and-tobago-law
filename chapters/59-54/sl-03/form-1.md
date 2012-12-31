@@ -14,20 +14,17 @@ TENURE) (FORMS AND NOTICES) REGULATIONS.
 6. Occupation of tenant ...
 7. Date of commencement of statutory lease: 1st June, 1981.
 8. Term of lease: thirty years commencing from the 1st June, 1981.
-9 .Value of land without taking into account the chattel house thereon
+9. Value of land without taking into account the chattel house thereon
 ...
-10. Rent [calculated in accordance with section 5(3) of the Land Tenants (Security of
-Tenure) Act,]: $ ... per annum/month* payable in advance/arrears and subject to right of distress for non-payment of rent due and unpaid.
+10. Rent [calculated in accordance with section 5(3) of the Land Tenants (Security of Tenure)
+Act,]: $ ... per annum/month* payable in advance/arrears and subject to right of distress for non-payment of rent due and unpaid.
 11. Date rent due ...
 12. Where land is situated ...
 13. Area (and measurement) of land ...
-14. Boundaries of land ...
-[Subsidiary ]
-Land Tenants (Security of Tenure) (Forms and Notices) Regulations
-15. Right of renewal The tenant has a right of renewal of the lease subject in
+14. Boundaries of land ... 15. Right of renewal The tenant has a right of renewal of the lease subject in
 accordance with section 4 of the Act to service by tenant upon the landlord of a notice of such renewal at least six months before expiration of the existing term, such renewal to be for a term of thirty years subject to the same terms and conditions and to the same covenants (if any) of the lease save a right of renewal.
-16. Option to purchase Option to purchase at a price not exceeding fifty per
-cent of the open market value of the land without the chattel house but subject to service by the tenant on the landlord and mortgagee (if any) of notice to purchase in accordance with sections 5 and 9 of the Act, such market value to be ascertainable as at date of service of notice.
+16. Option to purchase Option to purchase at a price not exceeding fifty per cent
+of the open market value of the land without the chattel house but subject to service by the tenant on the landlord and mortgagee (if any) of notice to purchase in accordance with sections 5 and 9 of the Act, such market value to be ascertainable as at date of service of notice.
 17. Landlord's redress for Landlord may apply to the High Court/Land Commission*
 non-payment of rent in for redress under sections 5 and 7 of the Act. arrears for six months
 18. Right to assign or The tenant to have a right to assign or sublet with the
@@ -35,5 +32,4 @@ sublet consent of the landlord on application in writing
 under sections 5(8) and 10 of the Act.
 19. Service of notices, etc. Either by delivery personally to the addressee or by
 leaving it at his usual or last known place of abode or business, or by posting it by registered letter addressed to him at his usual or last known place of abode or business. Signature of landlord ... Signature of tenant ... Signature of attesting witness ...
-*Delete where inapplicable. [Subsidiary ]
-Land Tenants (Security of Tenure) (Forms and Notices) Regulations
+*Delete where inapplicable.
