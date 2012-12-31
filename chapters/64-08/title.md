@@ -6,6 +6,8 @@ Act
 25 of 2005
 Note on Subsidiary Legislation
 This Chapter contains no subsidiary legislation.
+Note on Omissions
+Vesting Orders made under section 5(1) have been omitted. For references to these Orders see the current edition of the Consolidated Index of Acts and Subsidiary Legislation.
 CHAPTER 64:08
 CARONI (1975) LIMITED AND ORANGE GROVE
 NATIONAL COMPANY LIMITED
@@ -28,5 +30,5 @@ And whereas it is expedient to divest and transfer the entire real estate holdin
 And whereas Estate Management and Business Development Company Limited, a wholly-owned State Enterprise, has been established for purposes which include the development and management of certain real estate undertakings:
 And whereas Sugar Manufacturing Company Limited, a wholly-owned State Enterprise, has been established to undertake the sugar cane processing and sugar refining business conducted by Caroni (1975) Limited:
 - Margin: 25 of 2005.
-- Margin: Commencement. [99/2006].
+- Margin: Commencement. 99/2006.
 - Margin: Preamble.
