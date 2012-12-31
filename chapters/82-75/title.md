@@ -3,8 +3,6 @@ VARIETIES ACT
 CHAPTER 82:75
 Act
 7 of 1997 Amended by 18 of 2000
-3 -28 .. 1/2006 29-32 .. 1/2009 33-42 .. 1/2006 43-58 .. 1/2009 59-66 .. 1/2006
-69-80 .. 1/2006
 81 ..
 Index of Subsidiary Legislation
 Page Protection of New Plant Varieties Regulations (LN 298/2000) … … 32 Protection of New Plant Varieties Order (LN 124/1998) … … … 81
