@@ -16,7 +16,6 @@ section 3 of the Act.
 †(a) in the case of an officer who is in the Service on the date of
 assent of the Prison Service (Amendment) Act, 2000 and who has ten years service or more before reaching the age of compulsory retirement, arrears of contribution shall be cleared by a lump sum payment or deducted by equal monthly instalments over the ten-year period immediately following the date of assent of the Act;
 *See Note on page 2. †Date of assent -25th July 2000.
-(b) in the case of an officer who is in the Service on the date of
 assent of the Prison Service (Amendment) Act, 2000 and who has ten years service or more before reaching the age of compulsory retirement, but who retires before the expiration of the ten-year period, outstanding arrears of contribution shall be deducted by a lump sum payment from the gratuity payable to the officer;
 (c) in the case of an officer who resigns after the date of assent
 of the Prison Service (Amendment) Act, 2000 but before the expiration of ten years thereafter and who is eligible to have his service preserved in accordance with the provisions of the Law Reform (Pensions) Act outstanding arrears of contribution shall be deducted by a lump sum payment from the deferred superannuation benefits payable to the officer at the age of fifty-five years or from the death benefit payable under these Rules, in the event that the officer dies before attaining the age of fifty-five years;
@@ -42,7 +41,6 @@ the Service that is immediately followed by service in a pensionable office in t
 (c) subject to subrule (3), any periods during which the officer
 was absent from duty on leave, either on partial pay or without pay, granted on the grounds of public policy and during which he has not qualified for a pension, gratuity or other allowance in respect of other public service; and
 *See Note on page 2.
-(d) where an officer-
 (i) prior to the date of his compulsory retirement; or
 (ii) prior to the date on which he proceeds on annual leave
 before the date of his compulsory retirement,
@@ -80,13 +78,13 @@ of the earlier period of service or such part as the President may determine, sh
 been promoted, that officer shall also qualify for the payment of a Qualifying Examination Allowance with effect from 1st October 2006; or
 (b) for any period less than three years prior to 1st October 2006,
 that period shall be counted as part of the three-year period required to qualify for the payment of a Qualifying Examination Allowance.
-5. (1) Subject to subrule (2), an officer who is disabled by infirmity of mind or body, may be retired for medical reasons, and if such officer has completed ten years of satisfactory service, he may thereupon be granted a monthly pension not exceeding 1/480ths of a month's pay for each completed month of service or one thousand, nine hundred and fifty dollars, whichever is the greater.
+5. (1) Subject to subrule (2), an officer who is disabled by infirmity of mind or body, may be retired for medical reasons, and if such officer has completed ten years of satisfactory service, he may thereupon be granted a monthly pension not exceeding 1/480ths of a month's pay for each completed month of service or three thousand dollars, whichever is the greater.
 (2) A pension shall not be granted under subrule (1), unless the officer submits a medical report issued by a Medical Board in which it is stated that the officer to whom the report refers, is incapable, because of infirmity of mind or body, of performing the duties of his office and that such infirmity is likely to be permanent.
 (3) Where an officer has been retired in accordance with subrule (1), and subrule (2) has been satisfied, but he has not worked in the Service for ten years, he may be granted, by way of gratuity, a sum not exceeding one-twelfth of a month's pay for each completed month of service.
 6. An officer who is not disabled within the meaning of rule 5, and who has-
 (a) attained the age of fifty years;
 (b) served in the Service for not less than ten years; and
-(c) retired from the Service, may be granted a monthly pension not exceeding 1/480ths of a month's pay for each completed month of service or one thousand, nine hundred and fifty dollars, whichever is the greater.
+(c) retired from the Service, may be granted a monthly pension not exceeding 1/480ths of a month's pay for each completed month of service or three thousand dollars, whichever is the greater.
 6A. An officer who is not disabled within the meaning of rule 5 and who has-
 (a) attained the age of fifty years;
 (b) served in the Service for more than five years and less than
@@ -96,10 +94,7 @@ ten years; and
 (2) An officer may exercise an option in writing addressed to the Commissioner of Prisons to receive, in lieu of any pension for which he is eligible, a pension at the rate of three-fourths of his eligibility together with a gratuity equal to twelve and one-half times the amount of the annual reduction so made in the pension.
 (3) The option referred to in subrule (2), may be revoked-
 (a) not later than one month after the retirement of the officer, in
-the case of a pension awarded under rule 5 (1) or (2); or
-*See Note on page 2.
-(b) not later than the day immediately preceding the date of the
-retirement of the officer, in the case of a pension awarded under rule 6 or, of his retirement from other public service, in the case of a pension awarded under rule 8, but the President may, if it appears to him equitable in all the circumstances to do so, allow any such officer to exercise the option or to revoke an option previously exercised, at any time between the dates specified in paragraphs (a) and (b) of this subrule and the actual date of award of the pension.
+the case of a pension awarded under rule 5(1) or (2); or retirement of the officer, in the case of a pension awarded under rule 6 or, of his retirement from other public service, in the case of a pension awarded under rule 8, but the President may, if it appears to him equitable in all the circumstances to do so, allow any such officer to exercise the option or to revoke an option previously exercised, at any time between the dates specified in paragraphs (a) and (b) of this subrule and the actual date of award of the pension.
 (4) The date of the exercise of the option by an officer shall be deemed to be the date of the receipt of the written notice addressed to the Commissioner of Prisons in accordance with subrule (2).
 (5) Where an officer who has not exercised the option, dies after he has finally retired but before a pension has been awarded in accordance with these Rules, the President may grant a gratuity and a reduced pension as provided for in rule 7(2), as if the officer had exercised the option before his death.
 8. (1) Where an officer has worked in the Service for a period that is immediately followed by service in a pensionable office in other public service, such officer shall, notwithstanding rule 6, be entitled to a monthly pension not exceeding 1/480ths of a month's pay for each completed month of service, if he-
@@ -118,7 +113,7 @@ that is less than fifty years, but at which he is permitted by the Act, Regulati
 (b) impaired-80/480ths of a month's pay;
 (c) materially impaired-120/480ths of a month's pay;
 (d) totally impaired-160/480ths of a month's pay.
-(3) An officer who is permanently injured while travelling by air, in pursuance of official instructions, shall be deemed to have been injured in the circumstances specified in subrule (l)(a) and (c) and in any such case, if the provisions of subrule (l)(b) are also satisfied, the rates of allowances specified in subrule (2), shall be substituted respectively by the following rates namely, 60/480ths, 120/480ths, 180/480ths and 240/480ths of a month's pay.
+(3) An officer who is permanently injured while travelling by air, in pursuance of official instructions, shall be deemed to have been injured in the circumstances specified in subrule (1)(a) and (c) and in any such case, if the provisions of subrule (1)(b) are also satisfied, the rates of allowances specified in subrule (2), shall be substituted respectively by the following rates namely, 60/480ths, 120/480ths, 180/480ths and 240/480ths of a month's pay.
 (4) The allowance referred to in subrule (1)-
 (a) shall not, together with any pension granted hereunder, exceed
 400/480ths of a month's pay as at the date of injury and, for the purposes of this subrule, any exercise of the option conferred by rule 7(2), shall be ignored in calculating the pension;
@@ -147,7 +142,7 @@ a widow to whom a pension is granted under subparagraph (i), and the widow subse
 (v) where the deceased officer does not leave a widow, or
 where no pension is granted to the widow and his mother was wholly or mainly dependent on him for her support, a pension shall be paid to the mother, while without adequate means of support, of an amount not exceeding the pension which might have been granted to his widow.
 (2) A pension shall not be payable under subrule (1) in respect of more than six children and where there are more than six children in respect of whom, but for this subrule, a pension would be payable, then the amount payable in respect of six children shall be divided equally among all such children during the period in which there are more than six children of an age that qualifies them for receipt of the pension.
-(3) In the case of a pension granted under subrule (l)(v), where the mother is a widow at the time of the grant of such pension and subsequently remarries, such pension shall cease as from the date of the remarriage, and if it appears to the President at any time that the mother is adequately provided with other means of support, such pension shall cease as from such date as the President may determine.
+(3) In the case of a pension granted under subrule (1)(v), where the mother is a widow at the time of the grant of such pension and subsequently remarries, such pension shall cease as from the date of the remarriage, and if it appears to the President at any time that the mother is adequately provided with other means of support, such pension shall cease as from such date as the President may determine.
 (4) A pension granted to a female child under subrule (1), shall cease upon the marriage of such child under the age of eighteen years.
 (5) Where an officer dies while in the Service, the President may grant to his widow or to his children or to any of his dependants a gratuity of an amount not exceeding one year's salary of such officer, or his commuted pension, gratuity, if any, whichever is the greater.
 (6) Where an officer to whom either an unreduced pension or gratuity and reduced pension has been granted, dies after retirement from the Service, and the sums paid or payable to him at his death on account of such unreduced pension or gratuity and reduced pension, as the case may be, are less than the amount of the annual salary enjoyed by him at the date of his retirement, the President may grant to his widow or to his children or to any of his dependants a gratuity equal to the deficiency.
@@ -160,13 +155,11 @@ Act before the date of the injury, and wholly or mainly dependent upon the decea
 manner prescribed in rule 7(2), which might have been granted to the officer if he had retired immediately before his death, in the circumstances rendering him eligible to receive a gratuity and reduced pension instead of an unreduced pension; "dependants" has the same meaning as in the Workmen's Compensation Act.
 12. (1) Subject to subrules (2) and (3), where a person to whom a pension has been granted in accordance with these Rules-
 (a) is sentenced to a term of imprisonment by any competent
-Court in Trinidad and Tobago or elsewhere for any offence; or
-(b) leaves Trinidad and Tobago after having reason to know that a
-charge for an indictable or summary offence has been laid against him, and before such charge has been heard and determined, the President, subject to section 134 of the Constitution, may direct that such pension shall cease to be paid to him forthwith.
+Court in Trinidad and Tobago or elsewhere for any offence; or charge for an indictable or summary offence has been laid against him, and before such charge has been heard and determined, the President, subject to section 134 of the Constitution, may direct that such pension shall cease to be paid to him forthwith.
 (2) A person whose pension was stopped in pursuance of subrule
 (1)(a), and who at any time receives a pardon in respect of the offence for which he had been convicted, shall be entitled to have such pension restored to him with effect from the date on which such pension was stopped.
 (3) The President may, where a pension ceases for the reasons set out in subrule (1), cause all or any part of the moneys to which the pensioner would have been entitled by way of pension, to be paid to, or applied for the benefit of the wife or children of the pensioner, or, after the expiration of his sentence, for the benefit of the pensioner himself, in such proportions and manner as the President thinks proper.
-- Margin: (Section 14C). [17 of 2000 17 of 2007 *30 of 2007 *23 of 2008 *1 of 2009].
+- Margin: Section 14C. [17 of 2000 17 of 2007 *30 of 2007 *23 of 2008 *1 of 2009 *13 of 2010].
 - Margin: Interpretation. [17 of 2000].
 - Margin: Ch. 23:52.
 - Margin: Ch. 35:50.
@@ -179,15 +172,15 @@ charge for an indictable or summary offence has been laid against him, and befor
 - Margin: Sub. Leg.
 - Margin: Ch. 23:59.
 - Margin: 7 of 1995.
-- Margin: 17 of 2000.
+- Margin: Sub. Leg.
 - Margin: Ch. 23:59.
 - Margin: Computation of period of service. [17 of 2000 30 of 2007 23 of 2008].
 - Margin: Ch. 23:59.
 - Margin: Ch. 23:59.
 - Margin: Ch. 45:57.
 - Margin: Payment of a Qualifying Examination Allowance. [23 of 2008].
-- Margin: Pension in case of disability. [17 of 2000 17 of 2007 30 of 2007 *1 of 2009].
-- Margin: Pension on attaining the age of fifty. [17 of 2000 17 of 2007 30 of 2007 *1 of 2009].
+- Margin: Pension in case of disability. [17 of 2000 17 of 2007 30 of 2007 1 of 2009 13 of 2010].
+- Margin: Pension on attaining the age of fifty. [17 of 2000 17 of 2007 30 of 2007 1 of 2009 13 of 2010].
 - Margin: Service for less than ten years. [17 of 2000].
 - Margin: Pension payable to an officer and exercise of option. [17 of 2000].
 - Margin: Officer transferred to other public service. [17 of 2000].
