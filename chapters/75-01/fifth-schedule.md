@@ -31,9 +31,7 @@ Limit on Total Credit
 Effect on Computation of Income of Allowance of Credit
 6. (1) In computing the amount of the income-
 (a) no deduction shall be allowed in respect of foreign tax
-(whether in respect of the same or any other income);
-(b) where the income tax chargeable depends on the amount
-received in Trinidad and Tobago, the said amount shall be increased by the appropriate amount of the foreign tax in respect of the income;
+(whether in respect of the same or any other income); received in Trinidad and Tobago, the said amount shall be increased by the appropriate amount of the foreign tax in respect of the income;
 (c) where the income includes a dividend and under the
 arrangements, foreign tax not chargeable directly or by deduction in respect of the dividend is to be taken into account in considering whether any, and if so, what credit is to be given against income tax in respect of the dividend the amount of the income shall be increased by the amount of the foreign tax not so chargeable which falls to be taken into account in computing the amount of the credit, but notwithstanding anything in the preceding provisions of this subregulation a deduction shall be allowed of any amount by which the foreign tax in respect of the income exceeds the credit therefor.
 (2) Paragraphs (a) and (b) of subregulation (1) (but not the remainder thereof) shall apply to the computation of total income for the purposes of determining the rate mentioned in regulation 4 and shall apply thereto in relation to all income in the case of which credit falls to be given for foreign tax under arrangements for the time being in force under section 93 of this Act.
@@ -83,9 +81,7 @@ the rate of tax appropriate to his case under this Act in Trinidad and Tobago, t
 be half the rate of tax appropriate to his case under this Act.
 3. If any person not resident in Trinidad and Tobago, who has paid by deduction or otherwise, or is liable to pay, tax under this Act for any year of income on any part of his income, proves to the satisfaction of the Board that he has paid, by deduction or otherwise or is liable to pay, Commonwealth income tax for that year of income in respect of the same part of his income, he shall be entitled to relief from tax paid or payable by him under this Act on that part of his income at a rate thereon to be determined as follows:
 (a) if the Commonwealth rate of tax appropriate to his case does
-not exceed the rate of tax appropriate to his case under this Act, the rate at which relief is to be given shall be one-half of the Commonwealth rate of tax;
-(b) if the Commonwealth rate of tax appropriate to his case
-exceeds the rate of tax appropriate to his case under this Act, the rate at which relief is to be given shall be equal to the amount by which the rate of tax appropriate to his case under this Act exceeds one-half of the Commonwealth rate of tax.
+not exceed the rate of tax appropriate to his case under this Act, the rate at which relief is to be given shall be one-half of the Commonwealth rate of tax; exceeds the rate of tax appropriate to his case under this Act, the rate at which relief is to be given shall be equal to the amount by which the rate of tax appropriate to his case under this Act exceeds one-half of the Commonwealth rate of tax.
 4. For the purposes of this Part, the expression "Commonwealth income tax" means any income tax charged under any law in force in any Commonwealth country (other than the United Kingdom or Trinidad and Tobago), provided that the legislature of that country has provided for relief in respect of tax charged on income both in that part of place and Trinidad and Tobago in a manner similar to that provided in the section.
 5. For the purposes of the section, the rate of tax under this Act shall be computed in the manner provided by paragraph 1 and the Commonwealth rate of tax shall be computed in a similar manner.
 6. Where a person is, for any year of income, resident both in Trinidad and Tobago and in a country in which Commonwealth income tax is charged, he shall, for the purposes of the section, be deemed to be resident where, during that year, he resides for the longer period.
@@ -93,7 +89,7 @@ exceeds the rate of tax appropriate to his case under this Act, the rate at whic
 (b) This paragraph has effect for the former years of assessment 1961 and 1962 and subsequent years of income, but does not render invalid any claim made under the Income Tax Ordinance, before the commencement of the Income Tax (Amendment) Act, 1963.
 - Margin: Sections 93, 95 and 96. [29 of 1966 42 of 1966].
 - Margin: Third Schedule.
-- Margin: (Section 96).
+- Margin: Section 96.
 - Margin: Computation of rate of tax.
 - Margin: Relief in respect of Commonwealth income tax.
 - Margin: Residents.

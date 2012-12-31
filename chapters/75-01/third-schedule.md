@@ -9,7 +9,6 @@ OF A PERSON OTHER THAN A COMPANY
 shall be limited to 49.5 per cent of the amount by which the chargeable income exceeds $5,000;
 * This Schedule has been amended by the following: 16 of 1963; 29 of 1966; 42 of 1966; 13 of
 1968; 1 of 1979; 19 of 1980; 25 of 1981; 11 of 1988; 6 of 1989; 9 of 1990; 4 of 1992; 5 of 1995; 8 of 1996; 9 of 1997; 2 of 2002; 2 of 2006; 30 of 2007.
-(c) exceeds $5,000, but does not exceed $6,000, the tax payable
 shall be reduced by 50 per cent;
 (d) exceeds $6,000, but does not exceed $7,000, the tax payable
 shall be limited to $280 plus 31.2 per cent of the amount by which the chargeable income exceeds $6,000;
