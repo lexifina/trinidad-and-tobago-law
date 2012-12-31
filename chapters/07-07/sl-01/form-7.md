@@ -11,7 +11,5 @@ TAKE NOTICE that a (Civil Aid or an Emergency) Certificate dated the ... day of 
 TAKE FURTHER NOTICE that, in consequence thereof, the (Plaintiff or as the case may be) in these proceedings is from the date first hereinabove mentioned no longer an assisted person.
 Dated this ... day of ... 20...
 (SIGNED) ...
-Secretary, Legal Aid and Advice Authority
-TO THE REGISTRAR OF THE SUPREME COURT.
-Legal Aid and Advice Regulations [Subsidiary]
+Secretary, Legal Aid and Advice Authority TO THE REGISTRAR OF THE SUPREME COURT.
 - Margin: Regulation 8(7).

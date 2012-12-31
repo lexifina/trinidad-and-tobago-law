@@ -14,6 +14,5 @@ Dated this ... day of ... 20 ...
 (Signed)...
 Director of Legal Aid and Advice
 To the Registrar of the Supreme Court.
-and To (other parties to the proceedings)
-(or their Attorneys-at-law). [Subsidiary] Legal Aid and Advice Regulations
+and To (other parties to the proceedings) (or their Attorneys-at-law).
 - Margin: Regulation 13(2).

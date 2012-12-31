@@ -10,4 +10,4 @@ THIS IS TO CERTIFY that:
 (address)
 2. This certificate, being an Emergency Certificate, remains in force for a period of three months from the date hereof, or such other period not exceeding three months as the Authority may allow, unless it is previously revoked or is replaced by an ordinary certificate.
 3. Add any special conditions, including one limiting the certificate to part of the proceedings.
-- Margin: [Section 16A(3)].
+- Margin: Section 16A(3).
