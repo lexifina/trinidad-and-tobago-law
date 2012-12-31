@@ -24,3 +24,5 @@ s-22.md
 s-23.md
 s-24.md
 sl-01/title.md
+sl-01/r-1.md
+sl-01/r-2.md
