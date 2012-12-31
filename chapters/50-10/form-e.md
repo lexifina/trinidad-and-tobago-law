@@ -14,5 +14,5 @@ was affixed in the presence of*
 ...
 ...
 *Signatures and description of witnesses, i.e., Directors, Secretary, etc.
-- Margin: [Section 64(1)].
+- Margin: Section 64(1).
 - Margin: (c) "him" "them" or "it"

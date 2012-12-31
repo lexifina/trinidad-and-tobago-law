@@ -1,0 +1,55 @@
+# TENTH SCHEDULE
+Regulation 13.
+STABILITY DECLARATION
+(COMPLIANCE WITH THE SHIPPING (LOAD LINE) REGULATIONS, 1992)
+Ship's Name Date Keel Type File No.
+Laid
+Type of Freeboard Assigned*
+A B B-100 B-60 B.Timber Less than Official No.
+Min. F'bd.
+Assigning Authority Builder Mld. Dimensions Owner Summer Draught, Freeboard
+Method of Calculation Examined by Date
+Direct Computer Prog.†
+Hydrostatic Data Capacities and centres of Gravity for all Spaces Cross Curves
+Condition of Ship for Test Place Surveyor in Inclining
+Date Attendance Test
+TEST REPORT AND RESULT Examined by Date If test was dispensed with, state why
+Is Schedule 7 complied with
+STABILITY Is Schedule 4, Part 1 para. 2(2) complied with
+Are Schedules 4, 1(d) and 5 Part 1, para 5(b) complied with INFORMATION
+Examined by Date
+*Delete that which is not applicable.
+†State name and code number of Programme.
+General Comments:
+(continued overleaf)
+To be Completed at Headquarters
+The Stability, and Stability Information was approved and stamped on ... the Assigning Authority was informed on ...
+Signed ... Date ...
+INFORMATION FOR STABILITY RECORDS
+Name Owner File No. Builder Type Class Passengers Crew
+Gross Dimensions Tonnage Deadweight
+Net
+Condition Displacement Draugtht Trim KG KB F.S. L.C.B. L.C.F. CB T.P.C. M.T.I.C.
+GM corr Lightship Load
+Ballast
+Angle of Heel due to flooding Alterations Affecting Stability
+Type Date Angle of Heel due to Passenger/Cargo Movement
+Angle of Heel due to Turning Angle of Heel due to Wind Pressure Projected Area Projected Area V.C.G.
+Length of Superstructures, etc. Permanent Ballast
+Sheer
+*Indicates Erection Allowed in Stability Curves
+Aft Forward Poop Bridge Forecastle Trunk
+Deck Cargo
+Tons
+Density L x B x H
+(Incl. % Absorbtion)
+Completed by ...
+(6) TIMBER SUMMER FREEBOARD* ... MILLIMETRES CORRESPONDING TO A MEAN DRAUGHT† OF ... MILLIMETRES (EQUAL TO ... FEET ... INCHES). (7) TIMBER WINTER FREEBOARD* ...MILLIMETRES CORRESPONDING TO A MEAN DRAUGHT† OF ... MILLIMETRES (EQUAL TO ...FEET ... INCHES). (8) TIMBER TROPICAL FREEBOARD* ... MILLIMETRES CORRESPONDING TO A MEAN DRAUGHT† OF ... MILLIMETRES (EQUAL TO ... FEET ... INCHES). (9) TIMBER WINTER NORTH ATLANTIC FREEBOARD* ... MILLIMETRES CORRESPONDING TO A MEAN DRAUGHT† OF ... MILLIMETRES (EQUAL TO ...FEET ... INCHES) (1) SUMMER FREEBOARD* ... MILLIMETRES CORRESPONDING TO A MEAN DRAUGHT† OF... MILLIMETRES (EQUAL TO ... FEET ...INCHES). (2) WINTER FREEBOARD* ... MILLIMETRES CORRESPONDING TO A MEAN DRAUGHT† OF ... MILLIMETRES (EQUAL TO ... FEET ... INCHES). (3) TROPICAL FREEBOARD* ... MILLIMETRES CORRESPONDING TO A MEAN DRAUGHT† OF ... MILLIMETRES (EQUAL TO ... FEET ...INCHES). (4) WINTER NORTH ATLANTIC FREEBOARD*... MILLIMETRES CORRESPONDING TO A MEAN DRAUGHT† OF ...MILLIMETRES (EQUAL TO ... FEET ... INCHES). FORM FRE 15 SHIP ... PORT OF REGISTRY ... OFFICIAL NUMBER ... GROSS TONNAGE ...
+(WHERE A SHIP HAS ALTERNATIVE GROSS TONNAGES, BOTH MUST BE GIVEN)
+(5) ALLOWANCE FOR FRESH WATER FOR ALL FREEBOARDS OTHER THAN TIMBER FREEBOARDS* ... MILLIMETRES.
+DRAUGHT OF WATER AND FREEBOARD REPUBLIC OF TRINIDAD AND TOBAGO
+(PURSUANT TO SECTION 303(2) OF THE SHIPPING ACT)
+(10) ALLOWANCE FOR FRESH WATER FOR TIMBER FREEBOARD* ... MILLIMETRES.
+- Margin: *PARTICULARS TO BE GIVEN ABOVE OF FREEBOARDS AND ALLOWANCE FOR FRESH WATER ARE TO BE TAKEN FROM THE LOAD LINE CERTIFICATE CURRENTLY IN FORCE IN RESPECT OF THE SHIP. †THE MEAN DRAUGHT TO BE GIVEN ABOVE IS THE MEAN OF THE DRAUGHTS WHICH WOULD BE SHOWN ON THE SCALES OF MEASUREMENT ON THE STEM AND ON THE STERN POST OF THE WHERE THE DRAUGHT IS SHOWN ON THE SCALES OF MEASUREMENT ON THE STEM AND ON THE STERN POST OF THE SHIP IN FEET THE MEAN DRAUGHT MUST BE GIVEN BOTH IN MILLIMETRES
+- Margin: SHIP IF IT WERE SO LOADED THAT THE UPPER EDGE OF THE LOAD LINE ON EACH SIDE OF THE SHIP APPROPRIATE THE PARTICULAR FREEBOARD WERE ON THE SURFACE OF THE WATER.
+- Margin: PARAGRAPHS REFERRING TO FREEBOARDS WHICH THE CERTIFICATE SHOWS HAVE NOT BEEN ASSIGNED TO THE SHIP MUST BE DELETED.

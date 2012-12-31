@@ -23,7 +23,6 @@ where no keel member is fitted and the keel is of open trough construction, the 
 5. A break for the purpose of paragraph 2(b) shall be a side to side break existing in the line of the deck, and its tonnage shall be the figure obtained by multiplying together the mean length, mean breadth and mean height of the break and dividing the product by one hundred.
 6. All measurements shall be taken and expressed in feet and decimals of one foot to the nearest one-tenth of one foot.
 7. Tonnage shall be expressed to two decimal places, the second decimal place being increased by one if the third decimal place is five or more.
-[Subsidiary]
 - Margin: Tonnage to be in terms of cubic capacity.
 - Margin: Elements of tonnage.
 - Margin: Breadth of craft.

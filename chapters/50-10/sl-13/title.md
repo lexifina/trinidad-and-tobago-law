@@ -1,23 +1,9 @@
-ARRANGEMENT OF REGULATIONS-Continued
-REGULATION
-DIVISION 3
-Port Facilities
-23. Responsibilities of the designated authority for port facilities. 24. Duties of port facility operator for port facilities. 25. Port facility security officers. 26. Drills and exercises.
-DIVISION 4
-Supplementary
-27. Alternative security arrangements. 28. Equivalent security arrangements. 29. Communication of information.
-DIVISION 5 Enforcement
-30. Requirement to provide information. 31. Powers of inspection. 32. False statements relating to baggage, cargo, etc. 33. False statements in connection with identity documents. 34. Unauthorised presence in restricted zones. 35. Offences relating to authorised persons. 36. Penalties, defences, etc.
-PART II
-CONTINUOUS SYNOPSIS RECORD
-37. Continuous Synopsis Record. 38. Transfer of flag by ship. 39. Offences and penalties. 40. Offences and penalty re master.
-PART III
-MISCELLANEOUS
-41. Fees. 42. Offences by bodies corporate.
-SCHEDULE.
-[Subsidiary]
-SHIPPING (SHIP AND PORT FACILITY SECURITY)
+SHIPPING (PROVISIONS AND WATER)
 REGULATIONS
-made under section 406(a)
-PRELIMINARY
-- Margin: 131/2004.
+ARRANGEMENT OF REGULATIONS
+REGULATION
+1. Citation. 2. Interpretation. 3. Application. 4. Duty to provide adequate provisions and water. 5. Duty to inspect provisions and water. 6. Offences and penalties. 7. Offences caused by act or default. 8. Inspection and detention of a Trinidad and Tobago ship. 9. Inspection, detention and other measures in respect of foreign ships. 10. Compensation and enforcement of detention.
+SHIPPING (PROVISIONS AND WATER)
+REGULATIONS
+made under section 142
+- Margin: 144/1993.

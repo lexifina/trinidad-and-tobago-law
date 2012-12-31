@@ -12,8 +12,6 @@ Number or Letters
 MAIN DIMENSIONS
 Moulded Depth amidships Breadth Length
 to Upper Deck [Regulation 2(3)] [Article 2(8)] [Regulation 2(2)]
-[Subsidiary]
-Shipping (Tonnage) Regulations
 THE TONNAGES OF THE SHIP ARE:
 GROSS TONNAGE ...
 NET TONNAGE ...
@@ -26,20 +24,13 @@ and/or
 Seal of Issuing Authority
 If signed, the following paragraph is to be added: The undersigned declares that he is duly authorised by the said Government to issue this certificate.
 ...
-Signature [Subsidiary]
-Shipping (Tonnage) Regulations
+Signature
 (Reverse side of the International Tonnage Certificate)
 SPACES INCLUDED IN TONNAGE
-NET TONNAGE GROSS TONNAGE
-Name of Space Name of Space Location Length Location Length
+NET TONNAGE GROSS TONNAGE Name of Space Name of Space Location Length Location Length
 Underdeck - -
 NUMBER OF PASSENGERS
 [Regulation 4(1)]
-Number of passengers in cabins with not more than 8 berths ... Number of other passengers...
-EXCLUDED SPACES [Regulation 2(5)]
-MOULDED DRAUGHT
-An asterisk (*) should be added to those spaces
-[Regulation 4(2)]
-listed above which comprise both enclosed and excluded spaces. Date and place of original measurement ... Date and place of last previous remeasurement ... REMARKS:
-[Subsidiary]
-Shipping (Tonnage) Regulations
+Number of passengers in cabins with not more than 8 berths ... Number of other passengers... EXCLUDED SPACES [Regulation 2(5)]
+MOULDED DRAUGHT An asterisk (*) should be added to those spaces
+[Regulation 4(2)] listed above which comprise both enclosed and excluded spaces. Date and place of original measurement ... Date and place of last previous remeasurement ... REMARKS:

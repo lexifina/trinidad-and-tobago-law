@@ -1,56 +1,186 @@
 # THIRD SCHEDULE
-SYLLABUS FOR THE EXAMINATION FOR
-A CERTIFICATE OF COMPETENCY
-AS SEAMAN DECK RATING
-Section A-Shipboard Safety (General)
-1. Use of life-saving appliances.
-2. Pyrotechnic distress signals.
-3. Shipboard emergency signals and duties.
-4. Use of internal communications and alarm systems.
-5. Basic first aid.
-6. Use of fire fighting appliances.
-Section B-Personal Safety and Survival
-7. Safe working practices.
-8. Cleanliness and hygiene.
-9. Basic sea survival.
-Section C-Nautical Knowledge
-10. The meaning of common ship-board and nautical terms.
-11. The names and functions of various parts of the ship, for example, deck,
-compartments, bulkheads, ballast tanks, bilges, strum boxes, sounding pipes, air pipes, etc.
-12. Knowledge of the compass card in points and degrees, ability to steer and to
-understand helm orders, use of magnetic and gyro compasses.
-13. Ability to keep a proper lookout by sight and hearing and to report the
-approximate bearing of a sound signal, light, or other object, in degrees or points.
-[Subsidiary] Shipping (Certification of Seamen) (Deck Ratings) Regulations
-14. Ability to understand orders and make himself understood in matters relevant to the seaman's duties.
-15. Autopilot and the change-over from automatic to hand steering and vice versa.
-16. Basic awareness of the types of log in common use on board ship.
-17. Sounding machines and other bridge equipment.
-18. Marking of the anchor cable.
-Section D-Pollution Prevention
-19. Basic knowledge of duties and responsibilities regarding the prevention of the pollution of the seas and harbours.
-Section E-Practical Work
-Tested as far as possible by practical demonstration.
-20. Knots, hitches and bends in common use example, reef knot, timber hitch, clove hitch, rolling hitch, figure of eight, wall and crown, bowline and bowline on the blight, sheet bend-double and single, sheepshank, round turn and two half hitches, marlinespike hitch.
-To whip a rope's end using plain or palm and needle whipping, to put a seizing on rope and wire, to put a stopper on a rope or wire hawser and derrick lift.
-21. Splicing plaited and multi-strand manila and synthetic fibre rope, eye splice, short splice and back splice, splicing wire rope, eye splicing using a locking tuck, care in use of rope and wire.
-22. Slinging a stage, rigging a bosun's chair and pilot ladder.
-Rigging and safe use of pilot hoists.
-Rigging a derrick, driving a winch, general precautions to be taken before and during the operation of a winch whether used for working cargo or for warping.
-23. Using deck cranes.
-24. The use and operation of a windlass in anchor work and in warping, safe handling of moorings with particular reference to synthetic fibre ropes and self tensioning winches, precautions to be taken in the stowage of chain cable and securing the anchors for sea. [Subsidiary] Shipping (Certification of Seamen) (Deck Ratings) Regulations
-25. A knowledge of the gear used in cargo work and an understanding of its uses,
-general maintenance with particular reference to wires, blocks and shackles, securing of cargo.
-26. The safe handling of hatch covers including mechanical hatch covers,
-battening down and securing hatches and tank lids.
-Section F-Lifeboats and Liferafts
-27. Where no Certificate of Proficiency in survival craft is held, a candidate will
-be required to satisfy the examiner that-
-(a) he understands the general principles of boat management and can
-carry out orders relating to lifeboat launching and operation and the handling of a boat under sail;
-(b) he is familiar with a lifeboat and its equipment and the starting and
-running of the engines of a power boat;
-(c) he is familiar with the various methods of launching liferafts, the
-precautions to be taken before and during launching, methods of boarding and survival procedure.
-[Subsidiary] Shipping (Certification of Seamen) (Deck Ratings) Regulations
-- Margin: Regulation 9(2).
+RECORD OF PARTICULARS
+The following is the form of record of particulars referred to in regulation 34:
+RECORD 1
+SHIPPING (LOAD LINE) REGULATIONS, 1992
+RECORD OF PARTICULARS RELATING TO
+CONDITIONS OF ASSIGNMENT
+In this record references to regulations are references to the regulations set out in Annex I to the International Convention on Load Lines, 1966, and references to paragraphs are references to paragraphs of the Fourth Schedule (Conditions of Assignment) to the Shipping (Load Line) Regulations, 1992. Name of Ship ... Port of registry... Nationality ... Distinctive number or letters ... Shipbuilders ... Yard number ... Date of build/conversion ... Freeboards assigned as a ship of Type ... Classification ... Date and place of initial survey ...
+RECORD 2
+INTERNATIONAL CONVENTION ON LOAD LINES, 1966
+RECORD OF PARTICULARS RELATING TO
+CONDITIONS OF ASSIGNMENT
+In this record references to regulations are references to the regulations set out in Annex I to the International Convention on Load Lines, 1966. Name of Ship ... Port of registry ... Nationality ... Distinctive number or letters ... Shipbuilders ... Yard number ... Date of build/conversion ... Freeboards assigned as a ship of Type ... Classification ... Date and place of initial survey ...
+AND OTHER MEANS FOR THE PROTECTION OF THE CREW, CARGO PORTS, BOW AND STERN DOORS, SIDE SCUTTLES, SCUPPERS, VENTILATORS, AIR PIPES, DISPOSITION AND DIMENSIONS OF SUPERSTRUCTURES, TRUNKS, DECKHOUSES, MACHINERY CASINGS; EXTENT OF BULWARKS, GUARD RAILS AND WOOD SHEATHING ON EXPOSED DECK TO BE INSERTED IN THE DIAGRAMS AND TABLES FOLLOWING; TOGETHER WITH POSITIONS OF HATCHWAYS, GANGWAYS,
+A PLAN OF SUITABLE SIZE MAY BE ATTACHED TO THIS REPORT IN PREFERENCE TO THE
+COMPANIONWAYS, AND OTHER ITEMS THAT WOULD AFFECT THE SEAWORTHINESS OF THE SHIP.
+SKETCHES ON THIS PAGE
+PROTECTING OPENINGS IN FREEBOARD AND SUPERSTRUCTURE DECKS (REG. 12, 17 AND 18)
+NUMBER DOORWAYS IN SUPERSTRUCTURES, EXPOSED MACHINERY CASINGS AND DECKHOUSES OF CLIPS
+CLOSING APPLIANCES
+TYPE AND MATERIAL
+(FOURTH SCHEDULE PARAGRAPHS 7 AND 8)
+HEIGHT OF
+SILLS
+NUMBER AND SIZE OF OPENINGS
+ON SKETCH
+REF. NO.
+OF PLAN
+IN EXPOSED MACHINERY CASINGS ON IN FORECASTLE BULKHEAD IN BRIDGE FORWARD BULKHEAD IN BRIDGE AFTER BULKHEAD IN RAISED QUARTER DECK BULKHEAD IN POOP BULKHEAD FREEBOARD OR RAISED QUARTER DECKS
+LOCATION DOORWAYS IN SUPERSTRUCTURES, EXPOSED MACHINERY CASINGS AND DECKHOUSES
+NUMBER OF CLIPS
+PROTECTING OPENINGS IN FREEBOARD AND SUPERSTRUCTURE DECKS-CONTINUED
+CLOSING APPLIANCES
+TYPE AND MATERIAL
+HEIGHT OF
+SILLS
+NUMBER AND SIZE OF OPENINGS
+ON SKETCH
+REF. NO.
+OF PLAN
+IN MACHINERY CASINGS WITHIN SUPERSTRUCTURES OR DECKHOUSES ENCLOSING OPENINGS LEADING WITHIN ENCLOSED SUPERSTRUCTURES ON IN DECKHOUSES IN POSITION 1 ENCLOSING OPENINGS LEADING IN DECKHOUSES IN POSITION 2
+IN EXPOSED PUMP ROOM CASINGS
+OR BELOW FREEBOARD DECK
+CASINGS
+BELOW FREEBOARD DECK
+SUPERSTRUCTURE DECKS
+ON FREEBOARD DECK
+LOCATION
+EXPOSED
+IN
+HATCHWAYS AT POSITIONS 1 AND 2 CLOSED BY PORTABLE COVERS AND SECURED
+WEATHERTIGHT BY TARPAULINS AND BATTENING DEVICES (REG. 15)
+ARE WOOD COVERS FITTED WITH
+GALVANISED END BANDS? (FOURTH SCHEDULE PARAGRAPH 5)
+PORTABLE COVERS MATERIAL THICKNESS DIRECTION FITTED BEARING SURFACE TARPAULINS NUMBER OF LAYERS MATERIALS
+SPACING OF CLEATS SPACING B1 X TF D X TW B2 X TF BEARING SURFACE MEANS OF SECURING EACH BEAM PORTABLE BEAMS NUMBER
+HEIGHT OF COAMING ABOVE DECK DIMENSIONS OF CLEAR OPENING
+MEANS OF SECURING EACH SECTION
+POSITION AND REFERENCE NO.
+AT TOP OF COAMING ON SKETCH OR PLAN
+OF COVER.
+HATCHWAYS AT POSITIONS 1 AND 2 CLOSED BY WEATHERTIGHT COVERS
+OF STEEL (OR OTHER EQUIVALENT MATERIAL) FITTED WITH GASKETS
+(FOURTH SCHEDULE PARAGRAPHS 6 AND 19)
+AND CLAMPING DEVICES (REG. 16)
+POSITION AND REFERENCE NO. ON HEIGHT OF COAMING ABOVE DECK TYPE OF COVER OR PATENT NAME MATERIAL HEIGHT OF COAMING ABOVE DECK TYPE OF COVER OR PATENT NAME MATERIAL
+DIMENSIONS OF CLEAR OPENING DIMENSION OF CLEAR OPENING
+POSITION AND REFERENCE NO.
+AT TOP OF COAMING ON SKETCH OR PLAN
+AT TOP OF COAMING
+SKETCH OR PLAN MACHINERY SPACE OPENINGS AND MISCELLANEOUS OPENINGS IN FREEBOARD AND
+SUPERSTRUCTURE DECKS (REGS. 17 AND 18) (FOURTH SCHEDULE PARAGRAPHS 7 AND 8)
+PARTICULARS OF SPURTING PIPE CLOSING
+NUMBER AND SPACINGS OF TOGGIES POSITION AND REFERENCE NO. ON DIMENSIONS HEIGHT OF COAMING MATERIAL HOW ATTACHED POSITION AND REFERENCE NO. ON DIMENSIONS HEIGHT OF COAMING MATERIAL HOW ATTACHED NUMBER AND SPACINGS OF TOGGIES
+COVER COVER
+SKETCH OR PLAN SKETCH OR PLAN
+{ {
+ARRANGEMENTS:
+CLOSING APPLIANCES
+VENTILATORS ON FREEBOARD AND SUPERSTRUCTURE DECKS
+(STATE PATENT NAME IF ANY)
+(FOURTH SCHEDULE PARAGRAPH 9)
+(POSITIONS 1 AND 2) (REG. 19)
+TYPE
+HEIGHT
+COAMING
+DIMENSIONS
+NUMBER
+FITTED
+DECK ON WHICH FITTED
+CLOSING APPLIANCE
+AIR PIPES ON FREEBOARD AND SUPERSTRUCTURE DECK (REG. 20)
+(STATE PATENT NAME IF ANY) (FOURTH SCHEDULE PARAGRAPH 10)
+TYPE
+HEIGHT
+COAMING
+DIMENSIONS
+NUMBER
+FITTED
+DECK ON WHICH FITTED
+REMARKS
+CARGO PORTS AND OTHER SIMILAR OPENINGS (REG. 21)
+SECURING DEVICES (FOURTH SCHEDULE PARAGRAPH 11)
+DISTANCE OF LOWER EDGE
+FROM FREEBOARD DECK
+DIMENSIONS OF
+OPENING
+POSITION OF PORT POSITION OF
+CON
+GM-GUN METAL SDANB-SCREW DOWN AUTOMATIC NON-RETURN
+AND MATERIAL † OF DISCHARGE VALVES NUMBER, TYPE ‡
+D-DISCHARGE CS-CAST STEEL ANR-AUTOMATIC NON-RETURN
+SCUPPERS' INLET AND DISCHARGES (REG. 22) VERTICAL DISTANCE ABOVE TOP OF KEEL UPPERMOST
+VALVE
+S-SCUPPER † MS-MILD STEEL ‡ SD-SCREW DOWN (FOURTH SCHEDULE PARAGRAPH 12)
+INBOARD
+END
+DISCHARGE
+OUTLET IN
+HULL
+ANY OTHER APPROVED MATERIAL TO BE DESIGNATED
+FROM
+TO SCUPPER VALVES IS ENSURED WHEN VEHICLE SPACE IS FILLED:
+IN RO-RO SHIPS, INDICATE HOW READY ACCESSIBILITY
+MATERIAL
+†
+THICK-
+PIPE NESS
+DIAMETER
+NUMBER
+SCUPPER OR DISCHARGE
+STATE IF STANDARDS USED AND TYPE NO.
+INDICATE THE VERTICAL DISTANCE BETWEEN THE FREEBOARD DECK AND THE LOWER SILL OF THE SIDE SCUTTLE POSITIONED AT THE GREATEST
+TYPE OF GLASS AND
+THICKNESS (FOURTH SCHEDULE PARAGRAPH 13)
+SIDE SCUTTLES (REG. 23)
+DEADLIGHT
+MATERIAL
+FRAME
+FIXED OR OPENING
+VERTICAL DISTANCE BELOW THE FREEBOARD DECK.
+CLEAR GLASS
+SIZE
+NUMBER
+FITTED
+POSITION REQUIRED AREA
+EACH SIDE
+TOTAL AREA EACH SIDE
+(FOURTH SCHEDULE PARAGRAPHS 14 AND 20)
+NUMBER AND SIZE OF FREEING PORTS EACH SIDE
+FREEING PORTS (REG. 24)
+{ FORWARD WELL
+AFTER WELL PARTICULARS OF SHUTTERS, BARS OR RAILS FITTED TO FREEING PORTS: HEIGHTS OF LOWER EDGE OF FREEING PORT ABOVE DECK
+HEIGHT OF
+BULWARK
+LENGTH OF
+BULWARK
+STATE FORE AND AFT POSITION OF EACH FREEING PORT IN RELATION TO SUPERSTRUCTURE END BULKHEADS
+AFTER WELL FORWARD WELL
+SUPERSTRUCTURE DECK
+FREEBOARD DECK (FOURTH SCHEDULE PARAGRAPHS 15, 18, 22, 23 AND 24)
+PROTECTION OF THE CREW (REGS. 25 AND 26)
+FOURTH SCHEDULE PARAGRAPH (REG. 29) TIMBER DECK CARGO FITTINGS (REG. 44)
+STATE PARTICULARS OF UPRIGHTS, SOCKETS, LASHINGS, GUARDRAILS AND LIFELINES:
+OTHER SPECIAL FEATURES
+GANGWAYS OR UNDERDECK PASSAGEWAYS
+STATE DETAILS OF LIFELINES, WALKWAYS,
+STATE PARTICULARS OF BULWARKS OR
+WHERE REQUIRED TO BE FITTED:
+AND SUPERSTRUCTURE DECKS:
+GUARDRAILS ON FREEBOARD
+INITIAL SURVEY
+The conditions of assignment shown on this form are a record of the arrangements and fittings provided on the ship and are in accordance with the requirements of the relevant regulations set out in Annex 1 to the International Convention on Load Lines, 1996 and of these Regulations.
+...
+Surveyor's Signature
+...
+Date
+SUBSEQUENT PERIODICAL SURVEYS
+I have completed the periodical survey and am satisfied that the fittings and appliances are in accordance with the particulars shown in this record and are in good condition and that approved stability information and, where applicable, information relating to loading and ballasting of the ship is on board.
+Signature Port of Survey Date of Survey
+...
+...
+...
+...
+...
+- Margin: Regulation 34.

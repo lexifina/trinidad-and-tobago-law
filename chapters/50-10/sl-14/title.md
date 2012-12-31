@@ -1,20 +1,20 @@
-ARRANGEMENT OF REGULATIONS-Continued
-REGULATION
-22. Loss of licence. 23. Suspension or cancellation of licence.
-PART IV
-HOURS OF WORK
-24. Duty of owner, master, seamen. 25. Hours of rest on voyages which exceed 24 hours. 26. Working hours of a master on voyages of less than 24 hours. 27. Contravention of regulation 26.
-PART V
-MANNING AND TRAINING
-28. Manning. 29. Training in emergency procedures.
-PART VI
-MISCELLANEOUS
-30. Penalties. 31. Power to detain. 32. Prescribed fees.
-FIRST SCHEDULE. SECOND SCHEDULE. THIRD SCHEDULE. FOURTH SCHEDULE. FIFTH SCHEDULE.
-[Subsidiary]
-SHIPPING (SMALL COMMERCIAL VESSELS)
+SHIPPING (PASSENGER FERRY)
 REGULATIONS
-made under section 276
-PART I
+ARRANGEMENT OF REGULATIONS
+REGULATION
+1. Citation.
+PART 1
 GENERAL
-- Margin: 13/2008.
+2. Application. 3. Interpretation.
+PART 2
+CERTIFICATION
+4. Safety Certificate and insurance to be in force.
+PART 3
+DUTIES OF OPERATOR AND CAPTAIN
+5. Operating permits. 6. Duties of operator. 7. Duties of master. 8. Operational records. 9. Medical equipment. 10. Documents to be carried.
+PART 4
+SUPPLEMENTARY PROVISIONS
+11. Right of access to terminals. 12. Safety of passengers and property. 13. Duty to obey master. 14. Power to prevent operating. 15. Revocation, etc., of certificates, etc. 16. Obstruction of persons. 17. Enforcement of directions. 18. Exemption. 19. Penalties.
+SHIPPING (PASSENGER FERRY) REGULATIONS
+made under sections 356 and 406
+- Margin: 238/1994.
