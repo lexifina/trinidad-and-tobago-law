@@ -165,6 +165,8 @@ handicraft.
 generation of electricity.
 84A. Terminal equipment or other equipment to be installed or used for a
 public telecommunications network or telecommunications service or radio-communications service and certified as such by the Telecommunications Authority of Trinidad and Tobago.
+85. Machinery, equipment, materials and parts for the manufacture or
+assembly of solar water heaters.
 II - FOR APPROVED AGRICULTURE, LIVESTOCK,
 FORESTRY AND FISHERIES
 1. Agricultural machinery, equipment, implements and tools (including
@@ -173,8 +175,8 @@ poultry farming equipment).
 3. Machinery and equipment for irrigation and drainage purposes.
 4. Incubators and other poultry farming equipment and such other goods as
 are intended solely for use in the breeding and rearing of poultry.
-5. Bee hives and bee-keeping apparatus.
-6. Vats, tanks and parts for water storage. 7. Fish, crustacea, molluscs caught by boats operating out of national
+5. Bee hives and bee-keeping apparatus. 6. Vats, tanks and parts for water storage.
+7. Fish, crustacea, molluscs caught by boats operating out of national
 countries.
 8. Textiles for protecting agricultural products.
 9. Eggs for hatching, semen for artificial semination imported in
@@ -392,64 +394,4 @@ coral, mother-of-pearl and other animal carving material, and articles of these 
 articles of these materials; moulded or carved articles of wax, of stearin, of natural gums or natural resins or of modelling pastes and other moulded or carved articles, not elsewhere specified or included, worked, unhardened gelatin, (except gelatin of heading No. 3503.00) and articles of unhardened gelatin 9603.001 Brooms and brushes, consisting of twigs or other
 vegetable materials merely bound together and not mounted in a head (for example, besoms and whisks), with or without handles Heading No. Description of Goods 9603.002 Other brooms and mops for sweeping roads and
 floors 9603.003 Toothbrushes 9603.004 Scrubbing brushes 9603.005 Feather dusters 9608.10 Ballpoint pens 9611.001 Rubber stamps 9613.001 Pocket lighters, gas fuelled, non-refillable 9615.10 Combs, hairslides and the like 9615.901 Hairpins
-FOURTH SCHEDULE 239/1990. [64 of 1996]. LISTS OF IMPORTATIONS WHICH ARE ALLOWED CONDITIONAL
-REDUCED RATES OF DUTY, UNDER SECTION 56A OF THE
-CUSTOMS ACT
-Rate
-Item
-Class or Description of Goods of
-No.
-Duty
-(1) Parts for stoves, grates and ranges made of metal (non-
-electric) when imported for use in the manufacture and/or assembly of stoves, grates and ranges made of metal (non-electric) in plants approved for the purpose by the Minister of Industry and Enterprise ... 0%
-(2) Parts for accounting, book-keeping, calculating,
-computers and other similar machines (including cash registers, comptometers, statistical machines and tabulators) electrically operated when imported for use in the manufacture and/or assembly of accounting, book-keeping, calculating and other similar machines (inluding cash registers, comptometers, statistical machines and tabulators) electrically operated in plants approved for the purpose by the Minister of Industry and Enterprise .. 0%
-(3) Parts for accounting, book-keeping, calculating, computers
-and other similar machines (including cash registers, comptometers, statistical machines and tabulators) not electrically operated when imported for use in the manufacture and/or assembly of accounting, book-keeping, calculating and other similar machines (including cash registers, comptometers, statistical machines and tabulators) not electrically operated in plants approved for the purpose by the Minister of Industry and Enterprise ... 0%
-(4) Parts (electrical and non-electrical) for air-conditioning
-equipment and air-conditioning units when imported for use in the manufacture and/or assembly of air-conditioning equipment and air-conditioning units in plants approved for the purpose by the Minister of Industry and Enterprise 0%
-Rate Item
-Class or Description of Goods of No.
-Duty
-(5) Parts (electrical and non-electrical) for radio receivers,
-radio gramophones (radiograms) for use in the manufacture and/or assembly of radio receivers, radio gramophones (radiograms) in plants approved for the purpose by the Minister of Industry and Enterprise ... 0%
-(6) Parts (electrical and non-electrical) for television
-receivers when imparted for use in the manufacture and/or assembly of television receivers in plants approved for the purpose by the Minister of Industry and Enterprise... 0%
-(7) Parts (electrical and non-eleatrical) for stoves and ranges
-(electric) household cooking and heating appliances (e.g.
-hot plates, toasters, irons, sun lamps, etc.) for use in the manufacture and/or assembly of stoves and ranges (electric) household cooking and heating appliances (e.g. hot plates, toasters, irons and sun lamps, etc.) in plants approved for the purpose by the Minister of Industry and Enterprise... 0%
-(8) Motor cars (not exceeding 1360 kg in weight) completely
-knocked down for assembly in plants approved for the purpose by the Minister of Industry and Enterprise ... 0%
-(9) Motor cars (exceeding 1360 kg in weight) completely
-knocked down for assembly in plants approved for the purpose by the Minister of Industry and Enterprise ... 0%
-(10) Buses, trucks, lorries, station wagons or estate cars and road
-motor vehicles packed completely knocked down for assembly in plants approved for the purpose by the Minister of Industry and Enterprise (excluding motor cycles)... 0%
-(11) Parts (electrical and non-electrical) for domestic refrigerators
-when imported for use in the manufacture and/or assembly of domestic refrigerators in plants approved for the purpose
-0% by the Minister of Industry and Enterprise... LISTS OF IMPORTATIONS WHICH ARE ALLOWED CONDITIONAL
-REDUCED RATES OF DUTY, UNDER SECTION 56A OF THE
-CUSTOMS ACT -Continued
-Rate
-Item
-Class or Description of Goods of
-No.
-Duty
-(12) Buses, trucks, lorries, and road motor vehicles packed
-semi-knocked down for assembly in plants approved for the purpose by the Minister of Industry and Enterprise
-0% (excluding motor cycles) ...
-(13) Parts (electrical and non-electrical) for vending machines
-and juke boxes when imported for use in the manufacture and/or assembly of vending machines and juke boxes in plants approved for the purpose by the Minister of
-0% Industry and Enterprise ...
-239/1990. FIFTH SCHEDULE [199/1995].
-MEMBER STATES OF THE COMMON MARKET
-ANTIGUA AND BARBUDA MONTSERRAT
-BARBADOS ST. KITTS-NEVIS
-BELIZE ST. LUCIA
-DOMINICA ST. VINCENT AND THE
-GRENADINES
-GRENADA
-SURINAME
-GUYANA
-TRINIDAD AND TOBAGO
-JAMAICA
-- Margin: 239/1990. [4 of 1992. 6 of 1993. 9 of 1997. 35 of 1998 17 of 2007].
+- Margin: 239/1990. [4 of 1992. 6 of 1993. 9 of 1997. 35 of 1998 17 of 2007 13 of 2010].
