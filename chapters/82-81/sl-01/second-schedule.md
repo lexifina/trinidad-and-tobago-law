@@ -946,14 +946,14 @@ of (c) ... firm, or body corporate making the application.
 who is (are) the proprietor(s) of the same Trade Mark registered in Class (e) ... in full. If the applicant is a body
 respect of ... under No... corporate, the kind and country of incorporation
 According to my (our) information and belief, the word(s) is (are) invented. should be stated.
-The particulars of the facts on which I (we) rely in support of this application are set (c) Here insert the full trade or forth in the accompanying Statement of Case (f). business address of the applicant.
+The particulars of the facts on which I (we) rely in support of this application are set (c) Here insert the full trade or
+forth in the accompanying Statement of Case (f). business address of the applicant.
 (d) Here insert the
 Dated this ... day of ..., 20...
 trading style (if
 (e) Here insert
 (g) ... particulars of the Applicant's registration of the Trade Mark. To the Controller,
-(f) To be furnished
-Intellectual Property Office, in duplicate.
+(f) To be furnished in duplicate. Intellectual Property Office,
 (g) Signature.
 Port-of-Spain.
 Trade Marks Rules [Subsidiary]
