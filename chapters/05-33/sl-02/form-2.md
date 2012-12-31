@@ -14,31 +14,33 @@ Protection:
 determined that the testimony of that person is credible and essential. Further, I have formed the opinion that the person can be relied upon to testify.
 6. (1) The Prospective Participant is-
 a witness
-K
+❑
 an associate
-K
+❑
 a juror
-K
+❑
 a judicial officer
-K
+❑
 a legal officer
-K
+❑
 a law enforcement officer
-K
+❑
 (2) I have determined that the person is in need of protection.
 7. This case is significant for the following reasons:
 ...
 ...
-...
-8. Relevant details of the Prospective Participant:
+... 8. Relevant details of the Prospective Participant:
 ...
 ...
 ...
 9. Testimony of Prospective Participant attached in the following form:
-Statement K yes K no Deposition K yes K no Trial Transcript K yes K no
+Statement ❑yes ❑no Deposition ❑yes ❑no Trial Transcript ❑yes ❑no
 10. Anticipated benefits (if any):
 ...
 ...
 ...
-- Margin: (Regulation 3).
+I ... Director of Public Prosecutions having satisfied myself that circumstances so warrant, hereby apply for protection for the above-mentioned Prospective Participant under the Justice Protection Programme.
+Dated this ...day of ..., 20...
+Director of Public Prosecutions
+- Margin: Regulation 3.
 - Margin: [Subsidiary]

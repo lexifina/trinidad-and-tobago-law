@@ -1,7 +1,7 @@
 JUSTICE PROTECTION ACT
 CHAPTER 5:33
 Act
-78 of 2000
+78 of 2000 Amended by 12 of 2011
 Index of Subsidiary Legislation
 Page Justice Protection Regulations (LN 96/2007) ... 28 Justice Protection (Prescribed Forms) Regulations (LN 97/2007) … … 30
 CHAPTER 5:33
@@ -26,6 +26,7 @@ PROTECTION UNDER
 THE JUSTICE PROTECTION PROGRAMME
 15. Rights and obligations.
 ARRANGEMENT OF SECTIONS-Continued
+SECTION
 16. Non-disclosure of former identity. 17. Cessation of protection and assistance. 18. Restoration of former identity. 19. Provision of information to an approved authority.
 PART VI
 MISCELLANEOUS
