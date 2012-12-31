@@ -1,4 +1,4 @@
-# 8A. Recovery of overpayment. [24 of 1996 17 of 2007].
-(1) Where a pensioner knowingly causes himself to be paid a grant to which he is not entitled in accordance with the provisions of this Act, the Director (Social Welfare) or any person appointed by the President for the purpose may, whenever the President so directs, sue and recover from that pensioner or his personal representative after his death, the amount paid to such person.
+# 8A. Recovery of overpayment. [24 of 1996 17 of 2007 6 of 2010].
+(1) Where a pensioner knowingly causes himself to be paid a pension to which he is not entitled in accordance with the provisions of this Act, the Director (Social Welfare) or any person appointed by the President for the purpose may, whenever the President so directs, sue and recover from that pensioner or his personal representative after his death, the amount paid to such person.
 (2) In any suit under this section, a certificate under the hand of the Comptroller of Accounts showing the amount paid shall be evidence that the amount stated in the certificate was expended as described in the certificate.
 (3) The amount adjudged to be repaid by the defendant in any such suit shall rank as prior to all other claims and charges on the defendant, or on the estate of the deceased, as the case may be, accruing subsequent to the payment of the relief.
