@@ -1,5 +1,5 @@
 # APPENDIX VI
-TRANSPORT DIVISION For Official Use MOTOR VEHICLE INSPECTION CHECKLIST
+For Official Use TRANSPORT DIVISION MOTOR VEHICLE INSPECTION CHECKLIST
 No.
 Name/Address of Inspector/Testing Site ... Testing Centre No... Date ... Inspection No... Vehicle Registration No... Registered Owner ... 1. Required Documentation: Good Defective 4. Electrical: Good Defective
 (a) Head lamps including focus (a) Inspection Receipt
@@ -51,11 +51,12 @@ included)
 (i) Length, Width and (g) Tuned properly
 overhangs
 (h) Visible Vapour/Sparks, etc.
-(j) Bumpers secured [Subsidiary] Motor Vehicles and Road Traffic Regulations
+(j) Bumpers secured
 APPENDIX VI-Continued
 6. Markings: 10. Under Carriage
 Good Defective Check for: Good Defective
-(a) Washed under carriage (a) Letter (S) painted on all
+(a) Washed under carriage
+(a) Letter (S) painted on all
 special Vehicles (b) Exhaust System:
 (b) M.G.W., Tare and Licence (i) Noise
 Weight clearly marked (ii) Corrosion and are to Regulation's
@@ -83,7 +84,7 @@ Condition of: Good Defective
 damage including corrosion (c) Fluid and Air Leaks
 (b) Cut and Joined bodies and (d) Brake hoses, Pipes, Joints,
 chassis Cables and Linkages
-(e) Foot Brake Warning Device 8. Tyres/wheels
+Foot Brake Warning Device (e) 8. Tyres/wheels
 (Heavy Vehicles)
 Condition of: Good Defective
 (f) Spring Brake
@@ -105,5 +106,4 @@ Box/Rack Power Hoses, etc.
 (d) Shackle Pin and Bushings
 (e) Suspension Rubber and
 Bushings
-(f) Stablizer/Torsion Bars
-Motor Vehicles and Road Traffic Regulations [Subsidiary]
+(f) Stabilizer/Torsion Bars

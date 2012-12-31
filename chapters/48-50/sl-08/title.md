@@ -1,8 +1,8 @@
-EASTERN MAIN ROAD TRAFFIC ORDER
+PUBLIC STANDS (TAXIS) PARKING ORDER
 ARRANGEMENT OF CLAUSES
 CLAUSE
-1. Citation. 2. Application. 3. Division of Eastern Main Road 4. Effect of Order. 5. Hours and direction. 6. Hours and direction. 7. Use of middle lane. 8. Parking on lanes. 9. Offence.
-[Subsidiary]
-EASTERN MAIN ROAD TRAFFIC ORDER
+1. Citation. 2. Parking places for taxis. 3. Parking in prescribed manner. 4. Taxis shall stand in line. 5. Taxis standing for hire. 6. Public stands. 7. Offence.
+SCHEDULE.
+PUBLIC STANDS (TAXIS) PARKING ORDER
 made under section 65
-- Margin: 58/1976.
+- Margin: *212/1979.

@@ -1,3 +1,3 @@
-SPECIAL SPEED LIMITS (BRIDGES) ORDER
-made under section 62(3)
-- Margin: 46/1957.
+SPECIAL SPEED LIMITS ORDER
+made under section 62(2)
+- Margin: 210/1979.

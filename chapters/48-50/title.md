@@ -3,16 +3,29 @@ CHAPTER 48:50
 Act
 42 of 1934
 Amended by
-2 of 1936 28 of 1978 37 of 1989 20 of 1953 3 of 1969 10 of 1937 47 of 1956 14 of 1979 9 of 1990 146/1969 37 of 1938 47 of 1980 4 of 1992 35 of 1957 2/1973 28 of 1944 185/1980 6 of 1992 197/1957 11/1974 34 of 1944 2 of 1982 6 of 1993 115/1958 13/1974 24 of 1945 8 of 1982 3 of 1994 11 of 1959 27/1974 13 of 1946 146/1982 5 of 1995 12 of 1961 6 of 1974 40 of 1946 3/1983 8 of 1996 11 of 1963 5 of 1975 2 of 1948 20 of 1983 9 of 1997 2/1963 6/1975 33 of 1948 157/1983 *25 of 1997 21/1963 31 of 1976 10 of 1949 4/1985 35 of 1998 32 of 1964 6 of 1977 37 of 1949 23/1985 21 of 2000 11 of 1965 44 of 1977 30 of 1951 198/1985 22 of 2000 27/1966 †8 of 1978 32 of 1951 1 of 1986 2 of 2002 36 of 1967 17 of 1978 2 of 1952 3/1986 *19 of 2007 2/1968 19 of 1978 30 of 1952 17 of 1986 30 of 2007 20 of 1978 6/1968
-1 of 2009 †21 of 1978 *11 of 1988 47 of 1952 15 of 1968
+2 of 1936 20 of 1953 3 of 1969 14 of 1979 4 of 1992
+47 of 1980 146/1969 10 of 1937 47 of 1956 6 of 1992 185/1980 2/1973 37 of 1938 35 of 1957 6 of 1993 2 of 1982 11/1974 28 of 1944 197/1957 3 of 1994 8 of 1982 13/1974 34 of 1944
+5 of 1995 115/1958
+146/1982 27/1974 24 of 1945 8 of 1996 11 of 1959
+3/1983 6 of 1974 13 of 1946 9 of 1997 12 of 1961
+20 of 1983 5 of 1975 40 of 1946 *25 of 1997 11 of 1963
+157/1983 6/1975 2 of 1948 35 of 1998 2/1963
+4/1985 31 of 1976 33 of 1948 21 of 2000 21/1963
+23/1985 6 of 1977 10 of 1949 22 of 2000 32 of 1964
+198/1985 44 of 1977 37 of 1949 2 of 2002 11 of 1965
+1 of 1986 †8 of 1978 30 of 1951 *19 of 2007 27/1966 3/1986
+17 of 1978
+32 of 1951 30 of 2007 36 of 1967 17 of 1986
+19 of 1978
+2 of 1952 1 of 2009 2/1968 *11 of 1988 20 of 1978 30 of 1952 5 of 2010 6/1968 37 of 1989 †21 of 1978 47 of 1952 15 of 1968 28 of 1978 9 of 1990 13 of 2010
 *See Note on page 4
 †This Act was validated by Act No. 21 of 1978
 Index of Subsidiary Legislation
-Page Motor Vehicles and Road Traffic Regulations (G 1.6.44) … … … 109 Safety Helmets Notification (GN 137/1978) ... 241 Special Speed Limits Order (GN 210/1979) ... 242 Speed Limits (Built-Up Areas) Order (GN 209/1979) … … … 244 Special Speed Limits (Bridges) Order (GN 46/1957) … … … 251 Road Traffic (Prohibited Parking) Order (GN 206/1979) … … … 252 Miscellaneous Roads (Unilateral Parking) Order (GN 207/1979) … … 261 Miscellaneous Roads (Unilateral Alternate Parking) Order (GN 208/1979) … 268 Private Motor Cars (Parking Places) Order (GN 214/1979) … … 283 Public Stands (Taxis) Parking Order (GN 212/1979) … … … 287 Public Stands (Motor Omnibuses) Parking Order (GN 213/ 1979) … 297 Goods Vehicles Stands Parking Order (GN 215/1979) … … … 300 Parking on Dual Carriage-ways Order (GN 216/1979) … … … 301 Queen's Park Savannah Parking Order (GN 73/1966) … … … 302 Independence Square (Parking of Vehicles) Order (GN 220/1979) … 303 South Quay (Parking of Vehicles) Order (GN 219/1979) … … … 304 Broadway (Parking of Vehicles) Order (GN 218/1979) … … … 306 One-Way Traffic Order (GN 211/1979) ... 307 Eastern Main Road Traffic Order (GN 58/1976) ... 318 Beetham Highway Order (GN 60/1976)... 321 Restriction of Parking (Public Buildings) Order (GN 56/1963) … … 322 Public Stand (Maxi-Taxi) Parking Order (LN 141/1981) … … … 323 Traffic Restriction (Queen's Park Savannah Reticulation) Order (LN 147/1981) 324 Traffic Restriction (San Fernando) Order (LN 152/1981) … … … 329 Notice of Exemption from Requirement to hold a Driver's Permit issued in a
-Foreign Country (LN 242/1986) ... 333 Traffic Control Regulations (LN 90/1993) ... 335 Motor Vehicles (Seat Belt Assemblies) Regulations (LN 210/1994) … 347 Traffic Signs and Pedestrian Crossings Order (LN 1/1993) … … 352 Traffic Control Taxi Stand Location Order (LN 113/1988) … … 372 Port-of-Spain Transit Centre (Taxi Stand) Order (LN 226/1997) … … 378 Port-of-Spain Transit Centre (Public Service Vehicle Station) Regulations
-(LN 227/1997) ... 384 Priority Bus Route (Traffic Control) Order (LN 99/1988) … … … 396 Priority Bus Route (Special Roads Toll) Regulations (LN 75/1988) … 399 Motor Vehicles and Road Traffic (Approval of Device for Quantitative Measuring
-of the Proportion of Alcohol in a Person's Breath) Order (LN 266/2009) 402 Motor Vehicles and Road Traffic (Approval of Device for Obtaining an
-Indication of Alcohol in a Person's Breath) Order (LN 267/2009) … 403
+Page Motor Vehicles and Road Traffic Regulations (G 1.6.44) … … … 111 Safety Helmets Notification (GN 137/1978) ... 243 Special Speed Limits Order (GN 210/1979) ... 244 Speed Limits (Built-Up Areas) Order (GN 209/1979) … … … 246 Special Speed Limits (Bridges) Order (GN 46/1957) … … … 253 Road Traffic (Prohibited Parking) Order (GN 206/1979) … … … 254 Miscellaneous Roads (Unilateral Parking) Order (GN 207/1979) … … 263 Miscellaneous Roads (Unilateral Alternate Parking) Order (GN 208/1979) … 270 Private Motor Cars (Parking Places) Order (GN 214/1979) … … 285 Public Stands (Taxis) Parking Order (GN 212/1979) … … … 289 Public Stands (Motor Omnibuses) Parking Order (GN 213/1979) … 299 Goods Vehicles Stands Parking Order (GN 215/1979) … … … 302 Parking on Dual Carriage-ways Order (GN 216/1979) … … … 303 Queen's Park Savannah Parking Order (GN 73/1966) … … … 304 Independence Square (Parking of Vehicles) Order (GN 220/1979) … 305 South Quay (Parking of Vehicles) Order (GN 219/1979) … … … 306 Broadway (Parking of Vehicles) Order (GN 218/1979) … … … 308 One-Way Traffic Order (GN 211/1979) ... 309 Eastern Main Road Traffic Order (GN 58/1976) ... 320 Beetham Highway Order (GN 60/1976)... 323 Restriction of Parking (Public Buildings) Order (GN 56/1963) … … 324 Public Stand (Maxi-Taxi) Parking Order (LN 141/1981) … … … 325 Traffic Restriction (Queen's Park Savannah Reticulation) Order (LN 147/1981) 326 Traffic Restriction (San Fernando) Order (LN 152/1981) … … … 331 Notice of Exemption from Requirement to hold a Driver's Permit issued in a
+Foreign Country (LN 242/1986) ... 335 Traffic Control Regulations (LN 90/1993) ... 337 Motor Vehicles (Seat Belt Assemblies) Regulations (LN 210/1994) … 349 Traffic Signs and Pedestrian Crossings Order (LN 1/1993) … … 354 Traffic Control Taxi Stand Location Order (LN 113/1988) … … 374 Port-of-Spain Transit Centre (Taxi Stand) Order (LN 226/1997) … … 380 Port-of-Spain Transit Centre (Public Service Vehicle Station) Regulations
+(LN 227/1997) ... 386 Priority Bus Route (Traffic Control) Order (LN 99/1988) … … … 398 Priority Bus Route (Special Roads Toll) Regulations (LN 75/1988) … 401 Motor Vehicles and Road Traffic (Approval of Device for Quantitative Measuring
+of the Proportion of Alcohol in a Person's Breath) Order (LN 266/2009) 404 Motor Vehicles and Road Traffic (Approval of Device for Obtaining an
+Indication of Alcohol in a Person's Breath) Order (LN 267/2009) … 405 Motor Vehicles and Road Traffic (Mobile Devices) Regulations (LN 281/2010) 406
 Note on Legal Notice No. 197/1999
 A. (1) Regulation 3(k) of the Motor Vehicles and Road Traffic (Amendment) Regulations, 1999 (LN 197/1999) inserted the following Part, viz., "PART II-Authorised Examiners and Premises" .
 (2) The Motor Vehicles and Road Traffic Regulations already contained a Part II and the new Part II viz., "PART II-Authorised Examiners and Premises", inserted by LN 197/1999 was renumbered as "Part VA".
@@ -41,14 +54,15 @@ Note on Act No. 19 of 2007
 By Act No. 19 of 2007 sections 70A, 70B, 70C, 70D, 70E, 70F, 70G and 70H took effect from 16th November 2009 (See LN 237/2009).
 CHAPTER 48:50
 MOTOR VEHICLES AND ROAD TRAFFIC ACT
-ARRANGEMENT OF SECTIONS SECTION
+ARRANGEMENT OF SECTIONS
+SECTION
 1. Short title.
 PART I
 GENERAL
 2. Interpretation. 3. Trinidad Transport Board. 4. Appointment of Transport Commissioner, Assistant Transport
 Commissioner, etc.
-4A. Minister to appove forms, certificates and procedures for registration
-of vehicles.
+4A. Minister to approve forms, certificates and procedures for
+registration of vehicles.
 5. Transport Officers to have powers, etc., of members of the Police
 Service.
 6. Precept of appointment. 7. Equipment. 8. (Repealed by Act No. 25 of 1997). 9. Penalty for assaulting or obstructing Transport Officer. 10. Power to stop and inspect vehicles.
@@ -70,24 +84,25 @@ LICENSING OF MOTOR VEHICLES
 21. Using vehicle without prescribed registration, an offence. 22. Licensing Authority may permit goods vehicles to be used for the
 conveyance of persons.
 22A. Police and Prison Service vehicles exempted from payment of fees.
-23. Restrictions on licensing of certain motor vehicles and trailers. 24. (Repealed by Act No. 9 of 1997). 25. Conditions to be satisfied before licence issued. 26. Licensing Authority may designate premises. 27. Cancellation or refusal of registration. 28. Amendment of Register and Certificate of Registration.
-} 29.
-to (Repealed by Act No. 9 of 1997). 33. 34. Dealers' general licence. 35. Uses of dealers' general licence. 36. Register of dealers' general licences. 37. Cancellation of dealers' general licence. 38. Dealers' general licence not transferable. 39. Dealer to accompany vehicle when used. 40. Record of vehicles used under authority of dealers' general licence.
+23. Restrictions on licensing of certain motor vehicles and trailers. 24. (Repealed by Act No. 9 of 1997). } 25. Conditions to be satisfied before licence issued. 26. Licensing Authority may designate premises. 27. Cancellation or refusal of registration. 28. Amendment of Register and Certificate of Registration. 29.
+(Repealed by Act No. 9 of 1997). to
+33. 34. Dealers' general licence. 35. Uses of dealers' general licence. 36. Register of dealers' general licences. 37. Cancellation of dealers' general licence. 38. Dealers' general licence not transferable. 39. Dealer to accompany vehicle when used. 40. Record of vehicles used under authority of dealers' general licence.
 Record of hire of rented cars.
 40A. (Repealed by Act No. 37 of 1989).
 41. International certificates and temporary licences for motor vehicles.
+41A. Special permit for private school bus.
 PART IV
 DRIVING PERMITS
 42. Driving without a permit, an offence. 43. Motorcycles and safety helmets.
 43A. Private motor cars and certain other vehicles to be fitted with seat belts. 43B. Certain motor vehicles to be equipped with seat belts. 43C. Wearing of seat belts compulsory. SECTION
-43D. Liability of driver when a child is in front seat.
+43D. Driving while a child is in the vehicle.
 44. Issue of driving permits.
 Fees.
 45. Driving instructors. 46. Offences of driving instructor. 47. Driving tests. 48. Physical fitness. 49. Applications for driving permits. 50. Classes of vehicles. 51. Restrictions on driving permits for certain vehicles. 52. Age. 53. Driving test fees. 54. Colour classification of driving permits and provisional permits. 55. International driving permits. 56. Production of driving permit or provisional permit.
 56A. Exemption in case of valid driving permit held elsewhere.
 57. Register of driving permits. 58. Period of driving permit. 59. Expiration of provisional permit. 60. Re-issue of lost or defaced driving permit. 61. Restrictions on the issue of new driving permit after expiration of
 former one.
-61A. Charge for expired driving permit.
+61A. Expired driving permit.
 PART V
 DRIVING AND OTHER OFFENCES
 AND GENERAL CONDITIONS RELATING
@@ -129,8 +144,7 @@ in custody.
 110. In the event of a conflict of laws, the provisions of this Act to prevail.
 Where similar powers are granted under this and any other law the
 Board shall decide as to the exercise of those powers.
-111. Highway Code.
-FIRST SCHEDULE. SECOND SCHEDULE. THIRD SCHEDULE. FOURTH SCHEDULE. FIFTH SCHEDULE.
+111. Highway Code. FIRST SCHEDULE. SECOND SCHEDULE. THIRD SCHEDULE. FOURTH SCHEDULE. FIFTH SCHEDULE. SIXTH SCHEDULE.
 
 CHAPTER 48:50
 MOTOR VEHICLES AND ROAD TRAFFIC ACT

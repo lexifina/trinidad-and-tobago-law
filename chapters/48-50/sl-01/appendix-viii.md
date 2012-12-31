@@ -10,4 +10,4 @@ Apr Oct
 Nov May
 Jun Dec
 TRINIDAD & TOBAGO
-Registration No. Inspected [Subsidiary ] Motor Vehicles and Road Traffic Regulations
+Registration No. Inspected

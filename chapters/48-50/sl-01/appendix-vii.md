@@ -13,7 +13,7 @@ Motor Vehicle Reg. No... categorised as ...vehicle Owner's Name ... Owner's Addr
 Chassis ... Engine ... Body ... Tyres ... Brakes ... Mechanism ... Fittings ... and have allowed a:
 Longitudinal overhang of ... Lateral overhang of ... Rear Axle: Dual Dual Single
 (2) The said vehicle/trailer ... conforms to the
-Regulations for the time being in force under the Motor Vehicle and Road Traffic Act, Ch. 48:50 and is in good and proper condition to carry ...passengers. [Subsidiary] Motor Vehicles and Road Traffic Regulations
+Regulations for the time being in force under the Motor Vehicle and Road Traffic Act, Ch. 48:50 and is in good and proper condition to carry ...passengers.
 APPENDIX VII-Continued
 (3) No more than ... persons may sit on the left/right of the driver
 and the vehicle may carry a maximum of ... passengers.
@@ -22,5 +22,5 @@ the Inspection Fee paid at ... has been produced and seen by me.
 (5) And that the said vehicle Registration No... may be
 operated on the public roadways of Trinidad and Tobago for the period ... to ...
 Date of Certificate ..., 20 ...
-... Signature of Officer/Examiner
-Motor Vehicles and Road Traffic Regulations [Subsidiary]
+...
+Signature of Officer/Examiner
