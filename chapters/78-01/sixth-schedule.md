@@ -11,7 +11,7 @@ means goods which fall within a group or range of goods produced by a particular
 produced in the same country which are the same in all respects, including physical characteristics, quality and reputation. Minor differences in appearance shall not preclude goods otherwise conforming to the definition from being regarded as identical;
 (e) "identical goods" and "similar goods",
 as the case may be, do not include goods which incorporate or reflect engineering, development, artwork, design work, and plans and sketches for which no adjustment has been made under paragraph 8(1)(d)(iv) because such elements were undertaken in Trinidad and Tobago; VALUE OF IMPORTED GOODS-Continued
-(f) "produced" includes grown,
+(f) "produced" includes grown, Interpretation-Cont'd
 manufactured and mined;
 (g) "seller" means a person who has the
 legal or beneficial interest in the goods at the time that the contract of sale is concluded and to whom the proceeds of sale will ultimately be paid, exclusive of any commission;
@@ -47,7 +47,7 @@ about the same time as another event if the first event, occurs on the same day 
 Customs Value 2. (1) The Customs value of imported goods
 shall be determined under paragraph 3 whenever the conditions prescribed therein are fulfilled.
 (2) Where such value cannot be determined under paragraph 3, it shall be determined by VALUE OF IMPORTED GOODS-Continued
-proceeding sequentially through paragraphs 4 to 7, inclusive to the first such paragraph under which it can be determined, subject to the proviso that, where the importer requests it and the Comptroller agrees, the order of application of paragraphs 6 and 7 shall be reversed.
+proceeding sequentially through paragraphs 4 Customs Value-Cont'd to 7, inclusive to the first such paragraph under which it can be determined, subject to the proviso that, where the importer requests it and the Comptroller agrees, the order of application of paragraphs 6 and 7 shall be reversed.
 (3) Except as provided for in subparagraph (2), it is only when the Customs value of imported goods cannot be determined under a particular paragraph that the provisions of the next paragraph in the sequence established by subparagraph (2) can be applied.
 (4) Where the Customs value of imported goods cannot be determined under paragraphs 3 to 7 inclusive, the value shall-
 (a) be determined using reasonable means
@@ -63,7 +63,6 @@ Tobago of goods produced in Trinidad and Tobago;
 acceptance for Customs purposes of the higher of two alternative values;
 (c) the price of goods on the domestic
 market of the country of exportation;
-(d) the cost of production, other than
 computed values which have been determined for identical or similar goods in accordance with paragraph 7;
 (e) the price of goods for export to a
 country other than Trinidad and Tobago;
@@ -82,8 +81,10 @@ the value of the goods;
 (b) the sale or price is not subject to some
 condition or consideration for which a value cannot be determined with respect to the goods being valued;
 (c) no part of the proceeds of any
-subsequent resale, disposal or use of the goods by the buyer will accrue directly VALUE OF IMPORTED GOODS-Continued
-or indirectly to the seller, unless an appropriate adjustment can be made in accordance with paragraph 8; and
+subsequent resale, disposal or use of the goods by the buyer will accrue directly
+VALUE OF IMPORTED GOODS-Continued
+Conditions for or indirectly to the seller, unless an Customs value-Cont'd appropriate adjustment can be made
+in accordance with paragraph 8; and
 (d) the buyer and seller are not related,
 or, where the buyer and seller are related, that the transaction value is acceptable for Customs purposes under subparagraph (2).
 (2) (a) For the purposes of subparagraph (1),
@@ -104,7 +105,8 @@ or similar goods, as determined under paragraph 7.
 (i) all payments made or to be
 made as a condition of sale of the imported goods by the buyer to the seller or by
 VALUE OF IMPORTED GOODS-Continued
-the buyer to a third party to satisfy an obligation of the seller; and
+Conditions for the buyer to a third party to
+satisfy an obligation of the Customs value-Cont'd seller; and
 (ii) any settlement by the buyer,
 whether in whole or in part, of a debt owed by the seller.
 (6) Activities, including marketing activities, undertaken by the buyer on his own account, other than those for which an adjustment is provided in paragraph 8, are not considered to be indirect payment to the seller, even though they might be regarded as of benefit to the seller or have been undertaken by agreement with the seller, and their cost shall not be added to the price actually paid or payable in determining the Customs value of imported goods.
@@ -128,8 +130,8 @@ identical goods is found, the lower or lowest such value shall be used to determ
 (b) a transaction value for goods
 produced by a different person shall be taken into account only when no transaction value can be found for identical goods produced by the same person as the goods being valued;
 VALUE OF IMPORTED GOODS-Continued
-(c) a condition for adjustment because of
-different commercial levels or different quantities shall be that such adjustment shall be made only on the basis of demonstrated evidence that clearly establishes the reasonableness and accuracy of the adjustment.
+Transaction value (c) a condition for adjustment because of of identical goods-Cont'd different commercial levels or
+different quantities shall be that such adjustment shall be made only on the basis of demonstrated evidence that clearly establishes the reasonableness and accuracy of the adjustment.
 (4) For the purposes of this paragraph the transaction value of identical imported goods means a Customs value previously determined under paragraph 3, adjusted as provided for, in subparagraphs (1)(b) and (2) of this paragraph. Transaction value 5. (1) The Customs value of imported goods similar goods determined under this paragraph shall be the
 transaction value of similar goods sold for export to Trinidad and Tobago and exported at or about the same time as the goods being valued but-
 (a) in applying this subparagraph, the
@@ -148,8 +150,11 @@ different commercial levels or different quantities shall be that such adjustmen
 Value based on 6. (1) Where the imported goods or identical or unit price of
 similar imported goods are sold in Trinidad greatest
 and Tobago in the condition as imported, the aggregate
-Customs value of imported goods, determined under this paragraph, shall be based on the unit quantity price at which the imported goods or identical or similar imported goods are sold in VALUE OF IMPORTED GOODS-Continued
-the greatest aggregate quantity, at or about the time of the importation of the goods being valued, to persons who are not related to the persons from whom they buy such goods, subject to deductions for the following:
+Customs value of imported goods, determined under this paragraph, shall be based on the unit quantity price at which the imported goods or identical or similar imported goods are sold in
+VALUE OF IMPORTED GOODS-Continued
+Value based on the greatest aggregate quantity, at or about unit price of the time of the importation of the goods being greatest
+valued, to persons who are not related to the aggregate-Cont'd
+persons from whom they buy such goods, subject to deductions for the following:
 (a) either the commissions usually paid
 or agreed to be paid or the additions usually made for profit, and general expenses including the direct and indirect costs of marketing the goods in question in connection with sales in Trinidad and Tobago of imported goods of the same class or kind;
 (b) the usual costs of transport and
@@ -164,7 +169,8 @@ payable in Trinidad and Tobago by reason of the importation or sale of the goods
 (a) "profit and general expenses" shall be
 taken as a whole, the figure for the purposes of this deduction being determined on the basis of information supplied by or on behalf of the importer unless his figures are inconsistent with those obtaining in sales of imported goods of the same
 VALUE OF IMPORTED GOODS-Continued
-class or kind. Where the importer's figures are inconsistent with such figures, the amount for profit and general expenses may be based upon relevant information other than that supplied by or on behalf of the importer; and
+Value based on class or kind. Where the importer's unit price of figures are inconsistent with such greatest figures, the amount for profit and aggregate-Cont'd general expenses may be based upon
+relevant information other than that supplied by or on behalf of the importer; and
 (b) in determining either the commissions
 or the additions usually made for profit and general expenses, the question whether certain goods are of the same class or kind as other goods shall be determined on a case-by-case basis by reference to the circumstances involved and in doing this, sales for which the necessary information can be provided of the narrowest group or range of imported goods of the same class or kind as the goods being valued should be examined;
 (c) "goods of the same class or kind"
@@ -186,7 +192,8 @@ to in paragraph 8(l)(g).
 (a) the "amount for profit and general
 expenses" shall be taken as a whole and shall be determined on the basis of information supplied by or on behalf of the producer unless his figures are inconsistent with those usually
 VALUE OF IMPORTED GOODS-Continued
-reflected in sales of goods of the same class or kind as the goods being valued which are made by producers in the country of exportation for export to Trinidad and Tobago:
+Computed value-Cont'd reflected in sales of goods of the
+same class or kind as the goods being valued which are made by producers in the country of exportation for export to Trinidad and Tobago:
 (b) if the producer's own figures for profit
 and general expenses are not consistent with those usually reflected in sales of the goods of the same class or kind referred to in subparagraph (a) the amount for profit and general expenses may be based upon relevant information other than that supplied by or on behalf of the producer of the goods;
 (c) "goods of the same class or kind"
@@ -198,7 +205,6 @@ and indirect costs of producing and selling the goods for export which are not i
 the following, to the extent that they are incurred by the buyer but are not included in the price actually paid or payable for the goods-
 (a) commission and brokerage, except
 buying commission;
-(b) the cost of containers which are
 treated as being one for Customs purposes with the goods in question;
 (c) the cost of packing, whether for
 labour or materials;
@@ -213,9 +219,10 @@ production of the imported goods;
 (iv) engineering, development,
 artwork, design work, and plans and sketches undertaken elsewhere than in Trinidad and Tobago and necessary for the production of the imported goods;
 (e) royalties and licence fees, which
-among other things, may include payments in respect of patents, trademarks and copyrights, related to the goods being valued that the buyer must pay, either directly or indirectly, as a condition of sale of the goods being valued, to the extent that such royalties and fees are not included in the price actually paid or payable; VALUE OF IMPORTED GOODS-Continued
-(f) the value of any part of the proceeds
-of any subsequent resale, disposal or use of the imported goods that accrues directly or indirectly to the seller;
+among other things, may include payments in respect of patents, trademarks and copyrights, related to the goods being valued that the buyer must pay, either directly or indirectly, as a condition of sale of the goods being valued, to the extent that such royalties and fees are not included in the price actually paid or payable;
+VALUE OF IMPORTED GOODS-Continued
+Customs value (f) the value of any part of the proceeds includes certain of any subsequent resale, disposal or charges-Cont'd use of the imported goods that accrues
+directly or indirectly to the seller;
 (g) the cost of transport of the imported
 goods to the port or place of importation, the loading and handling charges associated with the transport of the imported goods to the port or place of exportation, and the cost of insurance.
 (2) No additions shall be made to the price actually paid or payable in determining the Customs value except as provided in this paragraph.
