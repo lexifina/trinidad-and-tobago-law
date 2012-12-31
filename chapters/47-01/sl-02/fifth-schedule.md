@@ -2,7 +2,13 @@
 LIST OF TRINIDAD AND TOBAGO POSTS IN TRINIDAD
 AND TOBAGO AT WHICH INLAND AND BRITISH
 POSTAL ORDERS ARE ISSUED AND PAID
-Arima Chaguanas Fyzabad Arouca Claxton Bay Gasparillo Belmont Couva George Street Blanchisseuse Cumuto Gonzales Place California Cunupia Gran Couva Carapichaima Curepe Guaico Carenage Diego Martin Guapo Caroni El Socorro Guayaguayare Cedros Erin La Brea Central Market Forest Reserve Laventille
+Arima Chaguanas Fyzabad
+Gasparillo Arouca Claxton Bay
+Belmont Couva George Street Blanchisseuse Cumuto Gonzales Place
+Gran Couva California Cunupia
+Carapichaima Curepe Guaico Carenage Diego Martin Guapo
+Guayaguayare Caroni El Socorro
+Cedros Erin La Brea Central Market Forest Reserve Laventille
 Trinidad and Tobago Post Regulations [Subsidiary]
 LIST OF TRINIDAD AND TOBAGO POSTS IN TRINIDAD
 AND TOBAGO AT WHICH INLAND AND BRITISH
@@ -65,9 +71,7 @@ ZONE A ST. EUSTATIUS, ST. KITTS ST. LUCIA, ST. MAARTEN
 GUADELOUPE, GUYANA
 DOMINICA, GRENADA
 FROM:
-TO:
-Trinidad and Tobago Post Regulations [Subsidiary]
-2000 G- $ 135.00
+TO: 2000 G- $ 135.00
 *N.A. UP TO N.A.
 2 KG
 1000 G-
@@ -86,12 +90,14 @@ $ 2.00 $ 1.00 $ 2.50 UP TO
 AEROGRAMMES
 OR AIR LETTER
 CATEGORY
-PICTURE FORMS LETTER
-CARDS POST- MAIL MAIL ALL1
-DESTINATION COUNTRIES IN
-TRINIDAD AND TOBAGO
+PICTURE FORMS MAIL
+CARDS LETTER POST- MAIL
+ALL1
+TO: DESTINATION COUNTRIES IN
+FROM: TRINIDAD AND TOBAGO
 TURKS AND CAICOS ISLANDS
-THE AMERICAS DOMINICAN REPUBLIC
+THE AMERICAS
+DOMINICAN REPUBLIC
 U.S. VIRGIN ISLANDS ZONE B
 CENTRAL AMERICA
 SOUTH AMERICA NORTH AMERICA
@@ -99,8 +105,6 @@ BERMUDA
 CANADA INCLUDING: U.S.A.
 BELIZE
 CUBA HAITI
-FROM:
-TO:
 Trinidad and Tobago Post Regulations [Subsidiary]
 2000 G- $ 140.00
 UP TO 2 KG
