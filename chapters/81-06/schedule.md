@@ -20,13 +20,13 @@ Establishment of the Free Trade Area
 well as its maritime areas, including the seabed and subsoil adjacent to the outer limit of the territorial sea, over which that State exercises, in accordance with international law, jurisdiction or sovereign rights for the purpose of exploration and exploitation of the natural resources of such areas;
 (ii) for the Dominican Republic mean the land areas, maritime
 area, air space, subsoil as well as the air space above them in accordance with its national legislation and international law.
-3. For the purpose of thisAgreement, itsAnnexes andAppendices, the More Developed Countries of CARICOM (hereinafer referred to as "the MDCs") are:
+3. For the purpose of this Agreement, its Annexes and Appendices, the More Developed Countries of CARICOM (hereinafer referred to as "the MDCs") are:
 (i) Barbados
 (ii) Guyana
 (iii) Jamaica
 (iv) Suriname
-(v) Trinidad and Tobago
-4. For the purpose of thisAgreement, itsAnnexes andAppendices, the Less Developed Countries of CARICOM (hereinafter referred to as "the LDCs") are:
+(v) Trinidad and Tobago.
+4. For the purpose of this Agreement, its Annexes and Appendices, the Less Developed Countries of CARICOM (hereinafter referred to as "the LDCs") are:
 (i) Antigua and Barbuda
 (ii) Belize
 (iii) Dominica
@@ -34,7 +34,7 @@ area, air space, subsoil as well as the air space above them in accordance with 
 (v) Montserrat
 (vi) St. Kitts and Nevis
 (vii) Saint Lucia
-(viii) St. Vincent and the Grenadines
+(viii) St. Vincent and the Grenadines.
 ARTICLE II
 Objectives
 The fundamental objective of the Agreement shall be to strengthen the commercial and economic relations between the Parties through-
@@ -58,7 +58,7 @@ The Parties hereby establish a Joint Council comprising representatives of both 
 (i) supervise the implementation and administration of the
 Agreement, its Annexes and Appendices;
 (ii) resolve any dispute which may arise out of the interpretation,
-execution of, or non-compliance with, or application of this Agreement, itsAnnexes andAppendices in accordance with its powers under Article XV dealing with Settlement of Disputes;
+execution of, or non-compliance with, or application of this Agreement, its Annexes and Appendices in accordance with its powers under Article XV dealing with Settlement of Disputes;
 (iii) establish and delegate responsibilities to ad hoc or standing
 committees, working groups or expert groups;
 (iv) supervise the work of all ad hoc or standing committees,
@@ -173,9 +173,8 @@ Depositary
 This Agreement shall be deposited with the Secretary General of the Caribbean Community who shall transmit certified copies to the Parties.
 ARTICLE XXII
 Entry into Force
-ThisAgreement, itsAnnexes andAppendices shall enter into force on the 1st day of January, 1999, or as soon thereafter as the Parties have notified each other through diplomatic channels that all internal legal procedures have been completed. IN WITNESS WHEREOF, the undersigned Plenipotentiaries, being duly authorised, have affixed their signatures to this Agreement.
+This Agreement, its Annexes and Appendices shall enter into force on the 1st day of January, 1999, or as soon thereafter as the Parties have notified each other through diplomatic channels that all internal legal procedures have been completed. IN WITNESS WHEREOF, the undersigned Plenipotentiaries, being duly authorised, have affixed their signatures to this Agreement.
 DONE AT Santo Domingo in the Dominican Republic in the English and Spanish languages, both being equally, authentic, this 22nd day of August, 1998.
 For the Caribbean Community For the Government of the
 Dominican Republic
-SIGNED ... SIGNED ... DR. THE HON. KENNY ANTHONY DR. THE HON. LEONEL
-FERNANDEZ REYNA Chairman of the Conference of Heads of Government of President of the Dominican the Caribbean Community Republic
+SIGNED ... SIGNED ... DR. THE HON. KENNY ANTHONY DR. THE HON. LEONEL Chairman of the Conference of FERNANDEZ REYNA Heads of Government of President of the Dominican the Caribbean Community Republic
