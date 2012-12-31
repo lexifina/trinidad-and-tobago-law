@@ -1,7 +1,7 @@
 # SECOND SCHEDULE
 PART A
-OFFICES IN THE FIRST DIVISION OF
-THE PRISON SERVICE
+OFFICES IN THE FIRST DIVISION OF THE
+PRISON SERVICE
 Commissioner of Prisons.
 Deputy Commissioner of Prisons.
 Assistant Commissioner of Prisons.
@@ -19,4 +19,4 @@ Prisons Welfare Officer I.
 Prisons Officer II.
 Prisons Officer I.
 Prisons Service Driver.
-- Margin: (Section 3).
+- Margin: Section 3.
