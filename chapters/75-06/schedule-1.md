@@ -22,8 +22,7 @@ Financial services are services which are closely related to financial intermedi
 (a) the exchange of currency (whether effected by the exchange
 of bank notes or coins, by crediting or debiting accounts or otherwise);
 (b) the lending, borrowing or depositing of money;
-*See section 60 of Act No. 6 of 1991 for exemption of Value Added Tax for goods imported by, or supplied to, the University of the West Indies. †See section 4 of Act No. 22 of 1993 for exemption of Value Added Tax for goods imported by, or supplied to, The Council of Legal Education.
-(c) the issue, sale, underwriting, acceptance, purchase, renewal,
+*See section 60 of Act No. 6 of 1991 for exemption of Value Added Tax for goods imported by, or supplied to, the University of the West Indies. †See section 4 of Act No. 22 of 1993 for exemption of Value Added Tax for goods imported by, or supplied to, the Council of Legal Education.
 variation, receipt, payment or transfer of ownership of a financial instrument;
 (d) the payment or collection of any amount of interest,
 principal, dividend or other amount whatever in respect of a financial instrument;
