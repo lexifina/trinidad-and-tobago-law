@@ -15,3 +15,15 @@ s-13.md
 first-schedule.md
 second-schedule.md
 sl-01/title.md
+sl-01/r-1.md
+sl-01/r-2.md
+sl-01/r-3.md
+sl-01/r-4.md
+sl-01/r-5.md
+sl-01/r-6.md
+sl-01/r-7.md
+sl-01/r-8.md
+sl-01/r-9.md
+sl-01/r-10.md
+sl-01/r-11.md
+sl-01/schedule.md
