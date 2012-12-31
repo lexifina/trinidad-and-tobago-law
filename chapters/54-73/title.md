@@ -3,7 +3,6 @@ CHAPTER 54:73
 Act
 26 of 1998 Amended by
 4 of 2001
-1-2 .. 1/2009 3-4 .. 1/2006 5-6 .. 1/2009 7-28 .. 1/2006 29-30 .. 1/2009 31-34 .. 1/2006
 Note on Subsidiary Legislation
 The following Subsidiary Legislation have been omitted:
 (a) Regulated Industries Commission Electricity (Transmission and Distribution)
