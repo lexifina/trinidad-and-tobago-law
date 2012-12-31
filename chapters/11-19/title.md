@@ -3,9 +3,16 @@ CHAPTER 11:19
 Act
 22 of 1963
 Amended by
-3 of 1967 198/1985 22 of 1973 1 of 1986 39 of 1978 3/1986 146/1982 36 of 1989
-3/1983 4 of 1992
-13 of 1983 5 of 1995 7 of 1985 8 of 1996 23/1985 1 of 1997
+3 of 1967 1 of 1986 22 of 1973 3/1986 39 of 1978
+36 of 1989
+146/1982
+4 of 1992
+3/1983
+5 of 1995
+13 of 1983
+8 of 1996
+7 of 1985
+1 of 1997 23/1985 2 of 2012 198/1985
 Index of Subsidiary Legislation
 Page Gambling and Betting (Licences) Regulations (GN 87/1963) … … 50
 Note on Subsidiary Legislation
@@ -20,14 +27,15 @@ SECTION
 PART I
 GAMBLING
 3. Interpretation of Part I. 4. Offences relating to gaming houses. 5. Persons gambling or being found in common gaming house. 6. Gambling in public place. 7. Using premises for gambling without permission of owner. 8. Presumptions. 9. Penalty for obstructing constable.
-10. Exempted premises. 11. Conditions as to gambling in houses and clubs. 12. Persons present at gambling on premises deemed a common
-gaming house.
-13. Gambling machines.
 }
-14. to (Repealed by Act No. 8 of 1996). 15. 16. Additional saving for lotteries.
+10. Exempted premises. 11. Conditions as to gambling in houses and clubs. 12. Persons present at gambling on premises deemed a common gaming
+house.
+13. Gambling machines. 14.
+(Repealed by Act No. 8 of 1996).
+to 15. 16. Additional saving for lotteries.
 LOTTERIES
-17. Interpretation of section 16 and sections 18 to 25. 18. Illegality of lotteries. 19. Offences in connection with lotteries. 20. Exemption of lotteries incidental to certain entertainments. 21. Exemption of certain small lotteries conducted for charitable, sporting
-or other purposes. ARRANGEMENT OF SECTIONS-Continued SECTION
+17. Interpretation of section 16 and sections 18 to 25. 18. Illegality of lotteries. 19. Offences in connection with lotteries. 20. Exemption of lotteries incidental to certain entertainments. 21. Exemption of certain small lotteries conducted for charitable,
+sporting or other purposes. ARRANGEMAENT OF SECTIONS-Continued SECTION
 22. Permission to hold small lotteries. 23. Sweepstake conducted by Turf Clubs. 24. Recovery of money and contract for sale of lottery ticket. 25. Action maintainable in respect of exempted lotteries.
 PART II
 BETTING
@@ -41,7 +49,8 @@ purchased.
 40F. Board to stipulate conditions for promoting contest. 40G. Conditions to be stipulated by Board. 40H. Persons refused permission may apply to Minister. SECTION
 PART III
 MISCELLANEOUS AND GENERAL
-41. Enforcement and penalties. Power to search without warrant.
+41. Enforcement and penalties.
+Power to search without warrant.
 42. Unclaimed moneys. 43. Offences of sending money abroad. 44. Trinidad and Tobago Post may open suspect postal article on warrant
 of President.
 45. Regulations. 46. Application of Part II to Turf Club.

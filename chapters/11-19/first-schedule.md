@@ -35,15 +35,15 @@ UNDER SECTION 28 OF THE ACT
 14. The authority shall refuse any application for the grant of a certificate authorising the issue of a permit to carry on such business as is mentioned in section 28(1)(a) or (b) of the Act if it appears that the applicant-
 (a) is under twenty-one years of age; or
 (b) is for the time being disqualified;
-(c) is a company registered under the Companies Act, a partnership
-or other association or body of persons corporate or unincorporate;
+(c) is a company registered under the Companies Act, a
+partnership or other association or body of persons corporate or unincorporate;
 (d) is in arrears of payment of any tax payable under any law
 including the levy payable under section 36 of the Act;
 (e) was not immediately prior to the 1st January 1967 the holder,
 respectively, of such a valid and subsisting permit.
 15. In the case of an application for the grant or renewal of a permit to carry on such business as is mentioned in section 28(1)(a) or (b) of the Act the authority may refuse the application if-
-(a) he is not satisfied that the applicant is, or satisfactory evidence
-is produced that the applicant is not, a fit and proper person to be the holder of such a permit; or
+(a) he is not satisfied that the applicant is, or satisfactory
+evidence is produced that the applicant is not, a fit and proper person to be the holder of such a permit; or
 (b) the authority is satisfied that, if the permit were to be granted,
 the business to which it relates would be managed by or carried on for the benefit of a person other than the applicant, being a person who would himself be refused a grant of a certificate authorising the issue of such permit either under paragraph 14 or under subparagraph (a) of this paragraph.
 GROUNDS FOR REFUSAL TO GRANT A
@@ -68,16 +68,17 @@ payable under section 36 of the Act.
 ISSUE OF PERMIT OR LICENCE
 17. (1) The Board of Inland Revenue or in the case of any betting business in respect of horse or dog races, the Betting Levy Board, on the payment of the appropriate fee specified in subparagraph (2) and upon production of the requisite certificate granted by the authority may issue the following:
 (a) a betting office licence;
-(b) a permit to carry on such business as is mentioned in
-section 28(1)(a) or (b).
+(b) a permit to carry on such business as is mentioned in section
+28(1)(a) or (b).
 (2) There shall be payable to the Board of Inland Revenue or in the case of any betting business in respect of horse or dog races, the Betting Levy Board-
 (a) in the case of a betting office licence for betting pool operators
 conducting bets at fixed odds, an annual fee of $100,000 payable on or before the 15th December in the year prior to the year for which the licence is required, save that a new applicant shall pay the licence fee at the time his licence is granted;
 (b) in the case of the Turf Clubs, a licence fee of one hundred
-dollars per day on each race day on which betting is conducted, in respect of each pool betting outlet or each betting pool licensed for the purposes of the system; and
+dollars per day on each race day on which betting is
+}
+conducted, in respect of each pool betting outlet or each betting pool licensed for the purposes of the system; and
 (c) in the case of a permit to carry on such business as is mentioned
 in section 28(1)(a) or (b), a fee of five hundred dollars.
-}
 (3) to (Omitted-Spent).
 (6)
 18. A permit to carry on such business as is mentioned in section 28(1)(a) or (b), or a betting office licence shall be in the prescribed form and shall show the date with effect from which it is to be in force and, subject to paragraphs 20 and 21, shall cease to be in force at the end of the six-month period commencing on the date it first comes into force.
@@ -87,7 +88,7 @@ SERVICE OF DOCUMENTS
 21. Any provision of this Schedule requiring any notice or other document to be given or sent to any person by the authority shall be deemed to be satisfied if the document is either served personally on that person or sent to him by post at his usual or last known residence or place of business in Trinidad or Tobago.
 22. (1) Any person referred to in paragraph 8 who is aggrieved by the grant or refusal of any application by the authority under the provisions of this Schedule may appeal to the Court of Appeal.
 (2) Such appeal shall be subject to the provisions of the Summary Courts Act, relating to appeals thereunder.
-- Margin: [Sections 14 and 29(3)]. [3 of 1967 22 of 1973 146/1982 13 of 1983 7 of 1985 36 of 1989 4 of 1992 5 of 1995 8 of 1996].
+- Margin: Sections 14 and 29(3). [3 of 1967 22 of 1973 146/1982 13 of 1983 7 of 1985 36 of 1989 4 of 1992 5 of 1995 8 of 1996].
 - Margin: Ch. 4:20.
 - Margin: Ch. 81:01.
 - Margin: Ch. 4.20.
