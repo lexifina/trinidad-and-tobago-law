@@ -1,0 +1,4 @@
+PLANT PROTECTION (DECLARATION OF NOTIFIABLE
+DISEASE) ORDER
+made under section 4A(a) and (d)
+- Margin: 268/2004.
