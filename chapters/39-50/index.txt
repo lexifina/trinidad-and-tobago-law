@@ -8,4 +8,5 @@ s-6.md
 s-7.md
 s-8.md
 s-9.md
+s-10.md
 schedule.md
