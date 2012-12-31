@@ -4,7 +4,8 @@ Act
 22 of 1961 Amended by
 93/1965 22 of 1987
 18 of 1965 11 of 1988
-70/1973 39 of 1991 173/1974
+70/1973 39 of 1991
+173/1974
 4 of 1992
 36 of 1979
 45/1992
@@ -12,16 +13,18 @@ Act
 108/1992
 *31 of 1980
 *3 of 1993
-98/1982
-5 of 2004 22 of 1983 17 of 2007 *2 of 1984
+51/1980
+5 of 2004 98/1982 17 of 2007 22 of 1983
+*2 of 1984 *13 of 2010
 *See Note on page 2
 Index of Subsidiary Legislation
-Page Central Tenders Board Regulations (GN 137/1965)… … … 25 Central Tenders Board (Defence Force and Protective Services) (No. 2) Order
+Page Central Tenders Board Regulations (GN 137/1965) … … … 25 Central Tenders Board (Defence Force and Protective Services) (No. 2) Order
 (LN 89/1992) ... 34 Central Tenders Board (SECT International) (Exclusion) Order (LN 45/1982) 45 Central Tenders Board (Functions and Duties) Order (LN 179/1997) … 46 Central Tenders Board (Contracts for the Lease of Computers and Computer
-Equipment) Order (LN 52/2002)... 47
+Equipment) Order (LN 52/2002) ... 47
 Note on the Ordinance before it was Revised
-A. INCREASE IN FINES - See Act No. 47 of 1979 which increased the fines in the Ordinance in accordance with paragraph 1(b), (c) and (d) of the Second Schedule to Act No. 44 of 1979.
-B. INCREASE IN MONETARY SUMS - See LN 51/1980 (Pages 551 to 552) for increases in monetary sums.
+A.
+INCREASE IN FINES - See Act No. 47 of 1979 which increased the fines in the Ordinance in accordance with paragraph 1(b), (c) and (d) of the Second Schedule to Act No. 44 of 1979.
+INCREASE IN MONETARY SUMS - See LN 51/1980 (Pages 551 to 552) for B. increases in monetary sums.
 Note on Act No. 45 of 1979
 See sections 6 and 7 of Act No. 45 of 1979.
 Note on Act No. 31 of 1980
@@ -29,7 +32,9 @@ The Central Tenders Board Ordinance (No. 22 of 1961) (hereinafter referred to as
 Note on Act No. 2 of 1984
 NON-APPLICATION OF ACT - The Act does not apply to the Trinidad and Tobago Export Development Corporation. (See section 24 of Act No. 2 of 1984).
 Note on Act No. 3 of 1993
-See section 5 of Act No. 3 of 1993 for the validation of all contracts made between the National Insurance Property Development Company Limited acting on its own behalf.
+See section 5 of Act No. 3 of 1993 for the validation of all contracts made by the National Insurance Property Development Company Limited acting on its own behalf.
+Note on Act No. 13 of 2010
+Amendments made to sections 19(1) and 27B by Act No. 13 of 2010 took effect from 30th July 2009.
 CHAPTER 71:91
 CENTRAL TENDERS BOARD ACT
 ARRANGEMENT OF SECTIONS SECTION
