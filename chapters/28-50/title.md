@@ -2,7 +2,6 @@ MALARIA ABATEMENT ACT
 CHAPTER 28:50
 Act
 6 of 1932
-1-6 .. 1/2009
 Note on Subsidiary Legislation
 This Chapter contains no subsidiary legislation.
 Note on Adaptation
