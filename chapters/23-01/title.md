@@ -1,15 +1,10 @@
 CIVIL SERVICE ACT
 CHAPTER 23:01
 Act
-29 of 1965
-Amended by
-*21 of 1894
-6 of 1968 6 of 1970 22 of 1977
-**43 of 1978
-45 of 1979 120/1980
-**24 of 1981
-*See Note on Transferred Provisions on page 3
-** See Note on Amendments on page 3
+29 of 1965 Amended by *21 of 1894
+6 of 1968 6 of 1970 22 of 1977 †43 of 1978 45 of 1979 120/1980
+†24 of 1981 *See Note on Transferred Provisions on page 3
+†See Note on Amendments on page 3
 Index of Subsidiary Legislation
 Page *Civil Service Regulations (GN 122/1967) ... 21 Civil Service (External Affairs) Regulations (GN 149/1977) … … 87 United Kingdom-Trinidad and Tobago Public Officers Agreement
 (GN 135/1960) ... 109
@@ -32,7 +27,7 @@ The First Schedule to the Act, containing the Classification of Offices has been
 Note on Adaptation
 Under paragraph 6 of the Second Schedule to the Law Revision Act (Ch. 3:03) the Commission amended certain references to Public Officers in this Chapter. The Minister's approval of the amendments was signified by LN 120/1980 but no marginal reference is made to this Notice where any such amendment is made in the text.
 Note on Transferred Provisions
-Section 2 and section 7 of the Deceased Officers' Salary Ordinance (Ch. 9 No. 10-1950 Edition) have been incorporated in this Act as sections 32 and 33 respectively.
+Section 2 and section 7 of the Deceased Officers' Salary Ordinance (Ch. 9. No. 10-1950 Edition) have been incorporated in this Act as sections 32 and 33 respectively.
 Note on Application
 This Act does not apply to the Judicial and Legal Service or officers of that Service (see section 17 of the Judicial and Legal Service Act, Chapter 6:01).
 Note on Amendments
@@ -44,7 +39,8 @@ B. Second Schedule (at page 19)
 The Second Schedule to this Act has been amended by Act No. 24 of 1981. However, Act No. 24 of 1981 had not up to the date of the last revision of this Act been brought into operation.
 CHAPTER 23:01
 CIVIL SERVICE ACT
-ARRANGEMENT OF SECTIONS SECTION
+ARRANGEMENT OF SECTIONS
+SECTION
 1. Short title.
 PART I
 PRELIMINARY
