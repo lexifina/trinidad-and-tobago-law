@@ -130,3 +130,8 @@ third-schedule.md
 fourth-schedule.md
 fifth-schedule.md
 sixth-schedule.md
+sl-01/title.md
+sl-01/r-1.md
+sl-01/r-2.md
+sl-01/r-3.md
+sl-01/schedule.md

@@ -1,5 +1,5 @@
 # SECOND SCHEDULE
-Sections 20(b), 23(1)(a), 25(3), 29(4), 33(2)(c), 50(10)(a), 70(1)(d), 70(2)(a), 71(7) and (9), 72(5), 72(7), 73(4)(b), 74(3)(a), 78(4) and 112(5)(a). A. Fit and Proper
+Sections 20(b), 23(1)(a), 25(3), 29(4), 33(2)(c), 50(10)(a), 70(1)(d), 70(2)(a), 71(7) and (9), 72(5) and (7), 73(4)(b), 74(3)(a), 78(4) and 112(5)(a). A. Fit and Proper
 Directors controlling shareholders, significant shareholders, acquirers and officers to be fit and proper persons.
 (1) Every person who is, or is to be, a director, controlling shareholder, significant shareholder, acquirer or officer of the licensee must be a fit and proper person to hold the particular position which he holds or is to hold.
 (2) In determining whether an individual is a fit and proper person to hold any particular position, regard shall be had to his probity, to his competence and soundness of judgment for fulfilling the responsibilities of that position, to the diligence with which he is fulfilling or likely to fulfil those responsibilities and to whether the interests of depositors or potential depositors of the licensee are, or are likely to be, in any way threatened by his holding that position.
@@ -71,13 +71,15 @@ operation of any affiliate so far as is capable of affecting the licensee.
 (9) A licensee shall not be regarded as conducting its business in a prudent manner unless it maintains or, as the case may be, will maintain adequate systems of control of its business and records.
 (10) Records and systems shall not be regarded as adequate unless they are such as to enable the business of the licensee to be prudently managed and the licensee to comply with the duties imposed on it by or under this Act; and in determining whether those systems are adequate, the Central Bank shall have regard to the functions and responsibilities in respect of them of any such directors of the licensee as are mentioned in paragraph C.
 (11) Subparagraphs (2) to (10) are without prejudice to the generality of subparagraph (1).
-(12) For the purposes of this paragraph "net assets", in relation to a company, means stated capital and reserves. E. Integrity and skills
-The business of the licensee or financial holding company is, or in the case of an institution which has applied for a licence or a permit, will be carried on with integrity and the professional skills appropriate to the nature and scale of its activities.
-F. Minimum net assets
+(12) For the purposes of this paragraph "net assets", in relation to a company, means stated capital and reserves. E.
+Integrity and skills The business of the licensee or financial holding company is, or in the case of an institution which has applied for a licence or a permit, will be carried on with integrity and the professional skills appropriate to the nature and scale of its activities.
+F.
+Minimum net assets
 (1) The institution will at any time when a licence is granted to it have net assets amounting to not less than fifteen million dollars (or an amount of equivalent value denominated wholly or partly in a currency acceptable to the Central Bank other than Trinidad and Tobago currency).
 (2) In this paragraph "net assets", means stated capital.
 (3) The Central Bank may vary the sum specified in paragraph (1).
-G. Other matters for consideration:
+G.
+Other matters for consideration:
 (1) The nature and sufficiency of the financial resources of the proposed controlling shareholder or proposed acquirer as a source of continuing financial support for the licensee.
 (2) The soundness and feasibility of the proposed controlling shareholder or proposed acquirer for the future conduct and development of the licensee's business.
 (3) The business record and experience of the proposed controlling shareholder or the proposed acquirer.

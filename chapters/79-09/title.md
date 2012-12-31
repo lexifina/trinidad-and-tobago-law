@@ -2,7 +2,10 @@ FINANCIAL INSTITUTIONS ACT
 CHAPTER 79:09
 Act
 26 of 2008
-(inclusive by L.R.O.
+Amended by
+17 of 2012
+Index of Subsidiary Legislation
+Page Financial Institutions Order (LN 161/2011) ... 172
 Note on Subsidiary Legislation
 The following Subsidiary Legislation have been omitted:
 A. Vesting Orders made under section 89; and B. Notifications issued by the Central Bank under section 79(3). For references to the above Subsidiary Legislation see the latest edition of the Consolidated Index of Acts and Subsidiary Legislation.
@@ -42,7 +45,8 @@ PART VI
 RESERVES AND OTHER REQUIREMENTS
 56. Statutory Reserve Fund. 57. Reserve Account. 58. Selective credit control. 59. Central Bank may fix maximum working balances. 60. Maximum liability. 61. Preference to Trinidad and Tobago securities and fixing of ratio.
 PART VII
-INSPECTION, INVESTIGATION AND WINDING-UP 62. Duties of Inspector. 63. Inspector to report on insolvency. 64. Winding-up. 65. Rules as to proceedings in Court. 66. Voluntary winding-up.
+INSPECTION, INVESTIGATION AND WINDING-UP
+62. Duties of Inspector. 63. Inspector to report on insolvency. 64. Winding-up. 65. Rules as to proceedings in Court. 66. Voluntary winding-up.
 PART VIII
 OWNERSHIP OF LICENSEES
 67. Restructuring of ownership may be required. 68. Restructuring not required in certain cases.

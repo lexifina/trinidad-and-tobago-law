@@ -9,6 +9,7 @@ factoring
 Block discounting
 3. Leasing Corporation Lease financing
 * See Note on section 130 on page 2. † See Note on section 52(2)(b) at page 2.
+FIRST SCHEDULE-Continued
 Class Activities
 4. Merchant Bank Floating and underwriting stocks,
 shares and bonds
