@@ -6,10 +6,13 @@ IS NOT AVAILABLE AS A PENALTY
 (iii) Treason
 (iv) Sedition
 (v) Piracy or hijacking
-(vi) Possession or use of firearms and ammunition with intent to injure
+(vi) Possession or use of firearms and ammunition
+with intent to injure
 (vii) Aggravated assault
-(viii) Possession of imitation firearms in pursuance of any criminal offence
-(ix) Shooting or wounding with intent to do grievous bodily harm
+(viii) Possession of imitation firearms in pursuance of
+any criminal offence
+(ix) Shooting or wounding with intent to do grievous
+bodily harm
 (x) Robbery
 (xi) Robbery with aggravation
 (xii) Armed robbery
@@ -17,4 +20,4 @@ IS NOT AVAILABLE AS A PENALTY
 (xiv) Any sexual offence
 (xv) Any drug trafficking offence
 (xvi) Kidnapping
-- Margin: (Section 3).
+- Margin: Section 3.
