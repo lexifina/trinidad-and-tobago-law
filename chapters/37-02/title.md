@@ -5,7 +5,7 @@ Act
 1 of 1970
 Amended by
 37/1996
-[Subsidiary]
+1-8 [Subsidiary]
 Index of Subsidiary Legislation
 Page Marine Areas (Restricted Area) Order (GN 140/1973) … … … 7 Marine Areas (Preservation and Enhancement) Regulations (GN 63/1974) … 8
 [Subsidiary]
