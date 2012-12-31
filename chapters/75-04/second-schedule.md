@@ -9,7 +9,8 @@ COMPUTATION OF PROFITS
 cannot be wholly set-off against his profits or gains from other sources for the same year in ascertaining his chargeable income or profits for income tax or corporation tax shall be available for set-off against the profits or gains in the business of any petroleum operations carried on by such person either directly or through a subsidiary company;
 (b) nothing in paragraph (a) shall permit a set-off to be allowed
 in any case that would reduce the tax payable for any financial year to less than one-half of the amount which would have been payable in respect of any of the several separate businesses therein referred to, had the set-off not been so allowed.
-4. In ascertaining the taxable profits of any person for a financial year from any marketing business carried on by him under Part I, any subsidy received by him under the Petroleum Production Levy and Subsidy Act shall be brought into account as trade receipts. PRICES OF CRUDE OIL, NATURAL GAS, PETROLEUM
+4. In ascertaining the taxable profits of any person for a financial year from any marketing business carried on by him under Part I, any subsidy received by him under the Petroleum Production Levy and Subsidy Act shall be brought into account as trade receipts.
+PRICES OF CRUDE OIL, NATURAL GAS, PETROLEUM
 PRODUCTS AND PETROCHEMICALS
 5. (1) Subject to subparagraph (3) and paragraphs 5A, 5B and 5C for the purposes of this Act the prices of crude oil, natural gas, petroleum products and petrochemical is the actual realised price in a sale transaction at arms-length.
 (2) Where a sale takes place between affiliated or related parties, it will be presumed not to be an arms-length sale.
@@ -23,9 +24,7 @@ PRODUCTS AND PETROCHEMICALS
 (a) widely traded reference crudes similar in quality to the crude
 to be valued shall be selected and the international market prices of the crudes selected shall be used as the base value for the crude to be valued;
 (b) an appropriate price-setting market where substantial
-quantities of the reference crudes are traded at arms-length and on an ongoing basis shall be chosen;
-(c) transportation differential shall be taken into account that is to
-say, the difference between the cost of transporting to the price-setting market the reference crudes and the crude to be valued;
+quantities of the reference crudes are traded at arms-length and on an ongoing basis shall be chosen; say, the difference between the cost of transporting to the price-setting market the reference crudes and the crude to be valued;
 (d) interest charges on the value of the inventory in transit may
 be considered in determining transportation costs;
 (e) other relevant considerations.
@@ -60,7 +59,7 @@ Levy and Subsidy Act;
 (b) supplemental petroleum tax paid under this Act;
 (c) petroleum impost and royalty paid in accordance with the
 Petroleum Act.
-(3) Notwithstanding subitems (1) and (2), in ascertaining the taxable profits for a year of income of a person carrying on production business under a production sharing contract entered into on or after the coming into operation of the Finance (No. 2) Act, 2007 no deduction shall be allowed in respect of-
+(3) Notwithstanding subitems (1) and (2), in ascertaining the taxable profits for a year of income of a person carrying on production business under a production sharing contract entered into during the period on or after the coming into operation of the Finance (No. 2) Act, 2007 and 30th November 2010 no deduction shall be allowed in respect of-
 (a) petroleum production levy payable under the Petroleum
 Production Levy and Subsidy Act;
 (b) petroleum impost and royalty payable under the Petroleum
@@ -70,15 +69,15 @@ MISCELLANEOUS
 6D. For the purpose of determining the volume of sales of crude oil, natural gas, petroleum products or petrochemicals the point of disposal is deemed to be-
 (a) in the case of crude oil and natural gas the place at which in
 the opinion of the Minister the seller or transferor can reasonably be expected to have delivered the crude oil or natural gas;
-(b) in the case of petroleum products or petrochemicals ex-
-refinery even where petroleum products or petrochemicals are disposed of by the refining business of one person to the marketing business of that same person.
+(b) in the case of petroleum products or petrochemicals
+ex-refinery even where petroleum products or petrochemicals are disposed of by the refining business of one person to the marketing business of that same person.
 7. (1) For the purposes of the allowances to be granted in accordance with sections 13, 14 and 15 of this Act, the Income Tax (In Aid of Industry) Act is hereby modified by the substitution of the words "or up to the fraction of one-fifth" for the words "or the fraction one-twentieth" occurring at the end of section 24(2) thereof.
-(2) In computing the allowances to be granted in accordance with sections 13, 14 and 15 of this Act, the total proved reserves (both developed and undeveloped) must be taken into account, but in the case of natural gas all proved reserves must be included only if the gas production is commercially utilised. For the purposes of this sub-paragraph the total proved reserves must be taken to be such as are approved by the Minister.
+(2) In computing the allowances to be granted in accordance with sections 13, 14 and 15 of this Act, the total proved reserves (both developed and undeveloped) must be taken into account, but in the case of natural gas all proved reserves must be included only if the gas production is commercially utilised. For the purposes of this subparagraph the total proved reserves must be taken to be such as are approved by the Minister.
 (3) In including the gas reserves in the computation of the depletion to be allowed such reserves must be expressed as a standard volume of oil based on a comparison of the calorific values of natural gas and crude oil by a method approved by the Minister.
 (4) In this paragraph- "total proved reserves" means, for any financial year, the estimated
 quantities of petroleum that geological and engineering data demonstrate, with reasonable certainty, to be recoverable under existing economic and operating conditions in future years from known reservoirs on land or in a submarine area or in each licensed area of a licence issued after the commencement of this Act of the production business carried on by any person; "commercially utilised" means with a view to profit but does not include
 natural gas that is proved to the satisfaction of the Minister to have been used by the licensee within the licensed area for the carrying out of petroleum operations including gas injection and other field operations approved for such purpose by the Minister.
-- Margin: Sections 18, 28. [16 of 1975 5 of 1981 15 of 1992 2 of 2006 30 of 2007].
+- Margin: Sections 18, 28. [16 of 1975 5 of 1981 15 of 1992 2 of 2006 30 of 2007 13 of 2010].
 - Margin: Ch. 75:01.
 - Margin: Ch. 62:02.
 - Margin: Ch. 62:02.
