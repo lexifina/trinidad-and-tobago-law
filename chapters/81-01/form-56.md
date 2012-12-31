@@ -16,4 +16,3 @@ Schedule referred to on the other side
 Period over No. Full Name of Address Description Amount which wages Workman
 due
 Deponent's Signature...
-The Companies Winding Up Rules

@@ -10,5 +10,4 @@ Abstract Abstract Receipts $ Payments $ Brought forward Brought forward
 The receipts and payments must severally be added up at the foot of each sheet and the totals carried forward from the abstract to another without any intermediate balance so that the gross totals shall represent the total amounts received and paid by the Receiver or Manager since the date of the appointment.
 Carried forward Carried forward
 Signature ...
-Dated the ...day of ...20... Rules in regard to Verified or Certified Copies and Certified Translations under the
-Act and as to General Forms
+Dated the ...day of ...20...

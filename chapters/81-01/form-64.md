@@ -9,4 +9,3 @@ of transfer held as settled called paid up at date butory as capital Return paya
 of Calls
 (* Where the articles provide that the amount divisible among members or any class of the members
 shall be divisible in proportion to the amount paid up or which ought to have been paid up at the date of winding up, or contain any other provision which will necessitate further information before a return can be made, columns should be added showing the amount called up and the amount paid up at such date in respect of shares then held by such members or class of members or such other facts as may be requisite.)
-The Companies Winding Up Rules

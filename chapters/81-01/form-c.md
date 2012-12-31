@@ -9,4 +9,3 @@ Dated the ... day of ... 20...
 [A.B.,
 Attorney-at-law for the said Company].
 N.B.-It is apprehended that the words in brackets will not be used where an order has been made that (INSERT RELEVANT SECTION) is not to apply.
-Rules of Procedure on Applications under the Act

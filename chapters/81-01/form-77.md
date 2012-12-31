@@ -8,4 +8,3 @@ All cheques to be countersigned by... a member of the Committee of Inspection, a
 Dated this ... day of ... 20...
 Registrar of the Supreme Court
 To: ... (Liquidator)
-The Companies Winding Up Rules

@@ -7,4 +7,3 @@ TAKE NOTICE THAT I, the undersigned liquidator of the above-named Company, inten
 A summary of all receipts and payments in the winding up is hereto annexed.
 Dated this ... day of ... 20... Signed ...
 (Liquidator) To: ... (*NOTE- Subsection (3) of section 382 of the Companies Act, enacts that: "An order of the Official Receiver releasing the liquidator shall discharge him from all liability in respect of any act done or default made by him in the administration of the affairs of the Company, or otherwise in relation to his conduct as liquidator, but any such order may be revoked on proof that it was obtained by fraud or by suppression or concealment of any material fact").
-The Companies Winding Up Rules

@@ -12,4 +12,3 @@ Address Name Description
 In what Number of Amount Amount paid No.
 Shares [or in Character called up at date up at date of extent of List included of commencement Interest] commencement of winding up
 of winding up
-The Companies Winding Up Rules

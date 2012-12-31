@@ -9,4 +9,3 @@ the Liquidator of the above-named Company, with a copy of the above-mentioned pe
 (Address)
 before the hour of ... in the ... noon.
 The said petition is now produced and shown to me, marked "A". Sworn at, etc.
-The Companies Winding Up Rules

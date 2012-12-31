@@ -11,4 +11,3 @@ the Official Receiver or ...
 as Provisional Liquidator prior to any Winding up Order being made.
 Date of Presentation Name of Registered Office of Petitioner's
 of Petition Company Company Attorney-at-law
-The Companies Winding Up Rules

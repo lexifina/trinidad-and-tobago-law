@@ -10,4 +10,3 @@ In the list of persons admitted by the Company to have been on the ... day of ..
 IF YOU CLAIM in respect of such debt, claim or liability to have been on the last-mentioned day a creditor to a larger amount than is stated above, you must, on or before the ... day of ... 20..., send your name and address, the particulars of your claim and the name and address of your Attorney-at-law (if any) to the undersigned at ... In default of your so doing, the above entry in the list of creditors will, in all the proceedings under the above application to reduce the capital of the Company, be treated as correct.
 Dated this ... day of ... 20...
 A.B. Attorney-at-law for the said Company
-Rules of Procedure on Applications under the Act

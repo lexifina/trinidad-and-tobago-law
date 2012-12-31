@@ -8,4 +8,3 @@ Officer (or as the case may be), of the above-named Company Before ... at the Su
 The above-named ... being sworn and examined at the time and place above-mentioned, upon his oath saith as follows:
 A.
 These are the notes of the public examination referred to in the memorandum of public examination of... taken before me this ... day of ... 20...
-The Companies Winding Up Rules

@@ -11,9 +11,7 @@ A.
 In the Matter of the ... Company Limited;
 and
 In the Matter of the Companies Act
-Rules of Procedure on Applications under the Act
 FORM 2-Continued
 This list of creditors marked A was produced and shown to A.B., and is the same list of creditors as is referred to in his affidavit shown before me this ... day of ... 20...
 X.Y., etc.
 Names, Addresses, and Amount of estimated value Nature of Debt Descriptions of the Creditors of Debt or Claim or Claim
-Rules of Procedure on Applications under the Act

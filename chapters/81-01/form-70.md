@@ -10,4 +10,3 @@ a ..., make oath and say as follows:
 3. That the notices for contributories were addressed to the contributories respectively according to their respective names and registered or last known addresses appearing in the register of the Company.
 4. That I sent the said notices by putting the same prepaid into the post office at ... before the hour of ... o'clock in the ... noon on the said day.
 Sworn, etc.
-The Companies Winding Up Rules

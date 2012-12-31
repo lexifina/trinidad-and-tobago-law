@@ -17,5 +17,4 @@ Instrument, as the case may be.
 (b) Country of origin.
 (c) Address in Trinidad and Tobago.
 (d) The copy and translation (if any) must be certified in the manner prescribed in
-the Third Schedule. Rules in regard to Verified or Certified Copies and Certified Translations under the
-Act and as to General Forms
+the Third Schedule.

@@ -4,8 +4,7 @@ PARTICULARS OF A CONTRACT RELATING
 TO SHARES
 Name of Company...
 Presented by...
-[N.B., The particulars must be stamped with the same stamp duty as would have been payable if the Contract had been reduced to writing].
-Particulars of Contract relating to Shares allotted as fully or partly paid up otherwise than in cash by the above-named Company.
+[N.B., The particulars must be stamped with the same stamp duty as would have been payable if the Contract had been reduced to writing]. Particulars of Contract relating to Shares allotted as fully or partly paid up otherwise than in cash by the above-named Company.
 (1) The number of shares allotted as
 fully or partly paid up otherwise than in cash.
 (2) The nominal amount of each $
@@ -35,8 +34,7 @@ the manner in which the
 debt released or
 purchase price is to be satisfied.
 liabilities assumed by the purchaser (including mortgages on property acquired)...$
-Total purchase price...$ Rules in regard to Verified or Certified Copies and Certified Translations under the
-Act and as to General Forms
+Total purchase price...$
 (6) Give full particulars, in the form of the following table, of the property which is
 the subject of the sale, showing in detail how the total purchase price is apportioned between the respective heads:
 TABLE
@@ -58,8 +56,7 @@ Shares, Debentures and other investments...
 Other property, viz...
 TOTAL...$
 Signature...
-[State whether Director or Manager or Secretary]
-Dated the ...day of...20...
+[State whether Director or Manager or Secretary] Dated the ...day of...20...
 (a) Where such properties are sold subject to mortgage, the gross value should be shown.
 (b) No Plant and Machinery which was not in an actual state of severance on the date of
 the Sale should be included under this head.

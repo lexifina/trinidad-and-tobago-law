@@ -8,4 +8,3 @@ Address Name and Name Creditors, Opposing Supporting Contributories,
 (Number Address of (Amount of Shares) Attorney-at- of debt)
 law of party who has given
 notice
-The Companies Winding Up Rules
