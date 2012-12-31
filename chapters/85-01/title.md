@@ -1,9 +1,11 @@
 FISCAL INCENTIVES ACT
 CHAPTER 85:01
 Act
-22 of 1979 Amended by *11 of 1984 14 of 1994 21 of 2005 2 of 2006 17 of 2007
+22 of 1979 Amended by *11 of 1984 14 of 1994 21 of 2005 2 of 2006 17 of 2007 2 of 2012
 *See Note on page 2
 Note on Subsidiary Legislation
+This Chapter contains no subsidiary legislation.
+Note on Omissions
 The following Subsidiary Legislation made under the Act are omitted:
 (a) Orders made under section 4 (Declaring Approved Products).
 (b) Orders made under section 6 (Declaring Relief from Income Tax on
@@ -26,8 +28,7 @@ APPROVED PRODUCTS AND BENEFITS
 4. Approved product. 5. Benefits to be granted. 6. Dividends out of profits from approved products. 7. Interest not exempt from tax.
 PART II
 APPROVED ENTERPRISES
-8. Application for benefits. 9. Classification of enterprise.
-10. Order may declare enterprise to be an approved enterprise. 11. Contents of Order. 12. Enterprise to maintain records and submit returns. 13. Minister to appraise. 14. Revocation of Order. 15. Termination of Order. 16. Effect of revocation and termination of Order. 17. Power of Minister where there is delay in the commencement of
+8. Application for benefits. 9. Classification of enterprise. 10. Order may declare enterprise to be an approved enterprise. 11. Contents of Order. 12. Enterprise to maintain records and submit returns. 13. Minister to appraise. 14. Revocation of Order. 15. Termination of Order. 16. Effect of revocation and termination of Order. 17. Power of Minister where there is delay in the commencement of
 construction or manufacture.
 PART III
 IMPORTATION OF GOODS BY APPROVED ENTERPRISE
@@ -44,7 +45,7 @@ PART IV
 CORPORATION TAX PROVISIONS
 23. Deduction for capital expenditure. 24. Losses may be carried forward for the purpose of set-off. 25. Allowances to be taken into account in computing profits for
 purpose of relief from corporation tax.
-(Repealed by Act No. 2 of 2006). 25A.
+25A. (Repealed by Act No. 2 of 2006).
 26. Profits for accounting period to be apportioned. 27. Allocation of outgoings and expenses.
 PART V
 MISCELLANEOUS
