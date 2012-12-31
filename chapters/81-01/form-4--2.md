@@ -11,4 +11,3 @@ for ...
 7. The Company is [insolvent and] unable to pay its debts.
 8. In the circumstances it is just and equitable that the Company should be wound up.
 Your petitioner therefore, etc., (the same as in FORM 3)
-The Companies Winding Up Rules

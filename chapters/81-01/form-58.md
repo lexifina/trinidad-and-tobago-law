@@ -6,4 +6,3 @@ I HEREBY CERTIFY that the following is a correct list of all proofs tendered to 
 (Liquidator)
 PROOF TENDERED Name of Creditor Amount of Proof Whether admitted, rejected or standing If admitted
 Amount over for further consideration
-The Companies Winding Up Rules

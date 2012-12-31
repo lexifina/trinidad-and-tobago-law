@@ -9,5 +9,4 @@ TO THE REGISTRAR,
 Signature ...
 [State whether Director or Manager or Secretary]
 Dated the ...day of ...20...
-*Delete whichever is inapplicable. Rules in regard to Verified or Certified Copies and Certified Translations under the
-Act and as to General Forms
+*Delete whichever is inapplicable.

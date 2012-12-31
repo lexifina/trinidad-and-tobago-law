@@ -12,5 +12,4 @@ TO THE REGISTRAR,
 ...
 Signature† Address Description
 Dated the ... day of...20 ...
-* Delete whichever is inapplicable † To be signed by each Liquidator if more than one Rules in regard to Verified or Certified Copies and Certified Translations under the
-Act and as to General Forms
+* Delete whichever is inapplicable † To be signed by each Liquidator if more than one

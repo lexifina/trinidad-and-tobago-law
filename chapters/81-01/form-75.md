@@ -18,4 +18,3 @@ I, ... of ..., being a Clerk or Manager in the regular employment of the Credito
 ... and in his presence, before he attached his signature [or mark] thereto.
 Dated this ... day of ... 20...
 Signature... (N.B. In a voluntary winding up the Liquidator or, if there is no Liquidator, the Chairman of a meeting may, but the Official Receiver may not, be appointed proxy. The proxy form will be altered accordingly.
-The Companies Winding Up Rules

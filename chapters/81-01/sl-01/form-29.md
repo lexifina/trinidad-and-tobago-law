@@ -5,18 +5,20 @@ ANNUAL RETURN OF A NON-PROFIT COMPANY
 INCORPORATED OR CONTINUED UNDER THE ACT
 1. Name of Company ... 2. Company No...
 3. Registered Office of Company ...
-4. Anniversary Date of Incorporation / Continuance 5. Total amount of the indebtedness of the Company in respect of all mortgages and charges of the kind which are required to be registered with the Registrar under the Companies Act. $... 6. Particulars of directors of the company at the date of this return.
+4. Anniversary Date of Incorporation / Continuance 5. Total amount of the indebtedness of the Company in respect of all mortgages and
+charges of the kind which are required to be registered with the Registrar under the Companies Act. $...
+FORM 29-Continued
+6. Particulars of directors of the company at the date of this return.
 Name Address Other Occupation
 If none, state so
-... [Subsidiary] Companies Regulations
-FORM 29-Continued
-7. The secretary/assistant secretary(ies) of the company as of the date of the Annual Return is/are:
+...
+7. The secretary/assistant secretary(ies) of the company as of the date of the Annual
+Return is/are:
 Name Address/Registered Office/ Other Occupation/
 Principal Place of Business Status*
 ...
 8. Date Name and Title Signature
 ...
-[Subsidiary] Companies Regulations
 INSTRUCTIONS
 Format
 Documents required to be sent to the Registrar pursuant to the Act must conform to regulation 3 of the Regulations under the Act.
@@ -38,14 +40,11 @@ e.g., electrical engineer. In the case of an individual who has no business occu
 family name;
 (ii) In the case of a firm or corporation, set out the registered name.
 (b) In the case of (a)(i), state full address and in the case of (a)(ii), state principal
-place of business or registered office, as the case may be. [Subsidiary] Companies Regulations
+place of business or registered office, as the case may be.
 FORM 29-Continued
 (c) (i) In the case of an individual, specify other business occupation clearly.
 Where possible, specify area of specialty, e.g., electrical engineer. In the case of an individual who has no business occupation, but who holds any other secretaryship or secretaryships, particulars of that other secretaryship or at least one of those other secretaryships should be stated. In the case of an individual who has no other business occupation or secretaryship of any kind, state "Not applicable" or "N/A".
 (ii) In the case of a firm or corporation, set out status, e.g., "firm of
-accountants" or "company incorporated under the laws of Trinidad and Tobago" (or elsewhere).
-Signature
-A director or authorised officer of the company shall sign a return. Completed documents, in duplicate, and the prescribed fees are to be filed at
-the office of the Registrar and one set of the duplicate originals would be returned to the company or its representative with the endorsement "Registered" and the date of registration.
-[Subsidiary] Companies Regulations
-- Margin: [Section 194(1)].
+accountants" or "company incorporated under the laws of Trinidad and Tobago" (or elsewhere). Signature
+A director or authorised officer of the company shall sign a return. Completed documents, in duplicate, and the prescribed fees are to be filed at the office of the Registrar and one set of the duplicate originals would be returned to the company or its representative with the endorsement "Registered" and the date of registration.
+- Margin: Section 194(1).

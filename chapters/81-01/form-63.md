@@ -10,7 +10,6 @@ Signed ...
 (Liquidator) (NOTE-The receipt should be signed by the contributory personally, or in the case of joint contributories by each, and in the case of a limited company by an officer of the company, so described).
 RECEIPT
 No... 20... RECEIVED of the ... in this matter the sum of ... dollars ... cents being the amount payable to ... in respect of the ... return of ... per share held by ... in this Company. Contributory's Signature... $...
-The Companies Winding Up Rules
 FORM 63 -Continued
 AUTHORITY FOR DELIVERY*
 SIR, PLEASE DELIVER to me/us by post at my/our risk† or to the Bearer, Mr... the voucher for the return payable to me/us in this matter. Contributory's Signature... To: The [Official Receiver and] Liquidator. Dated the ... day of ... 20... (* This is an authority only to deliver the Payable Voucher, not to make it payable to another person. † Strike out words inapplicable. If not to be sent by post insert the name of the person who is to

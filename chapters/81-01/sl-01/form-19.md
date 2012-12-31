@@ -3,13 +3,13 @@ REPUBLIC OF TRINIDAD AND TOBAGO
 THE COMPANIES ACT, CH. 81:01
 ARTICLES OF RE-ORGANISATION/ARRANGEMENT
 1. Name of Company ... Company No...
-2. In accordance with the order of re-organisation/arrangement, the Articles of Incorporation are amended as follows: ...
+2. In accordance with the order of re-organisation/arrangement, the Articles of
+Incorporation are amended as follows: ...
 Date Name and Title Signature
 ...
 ...
 ...
 ...
-[Subsidiary] Companies Regulations
 INSTRUCTIONS
 Format
 Documents required to be sent to the Registrar pursuant to the Act must conform to regulation 3 of the Regulations under the Act. General
@@ -22,5 +22,5 @@ The Articles must be accompanied by:
 (a) A copy of the Court order; and
 (b) Notice of Registered Office (Form 4) or Notice of Directors
 (Form 8) if there is a change in registered office or a change of directors.
-Completed documents, in duplicate, and the prescribed fees are to be filed at the office of the Registrar and one set of the duplicate originals would be returned to the company or its representative with the endorsement "Registered" and the date of registration. [Subsidiary] Companies Regulations
-- Margin: (Sections 237 and 238).
+Completed documents, in duplicate, and the prescribed fees are to be filed at the office of the Registrar and one set of the duplicate originals would be returned to the company or its representative with the endorsement "Registered" and the date of registration.
+- Margin: Sections 237 and 238.

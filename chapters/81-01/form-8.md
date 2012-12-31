@@ -8,7 +8,6 @@ AND IT IS ORDERED that all proceedings now pending by or against the transferor 
 AND IT IS ORDERED that the transferee Company do without further application allot to such members of the transferor Company as have not given such notice of dissent as is required by clause ... of the scheme of compromise or arrangement herein the shares in the transferee Company to which they are entitled under the said scheme.
 AND IT IS ORDERED that the transferor Company do within seven (7) days after the date of this ORDER cause a copy of this order to be delivered to the Registrar for registration and on such copy being so delivered the transferor Company shall be dissolved and the Registrar shall place all documents relating to the transferor Company and registered with him on the file kept by him in relation to the transferee Company and the files relating to the said two Companies shall be consolidated accordingly.
 Liberty to apply.
-Rules of Procedure on Applications under the Act
 FORM 8-Continued
 The Schedule
 FIRST PART

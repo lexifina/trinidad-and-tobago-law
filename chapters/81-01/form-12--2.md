@@ -11,5 +11,4 @@ And we make this solemn declaration, conscientiously believing the same to be tr
 Declared at ...
 the ... day of ...20...
 before me.
-... Commissioner for Oaths/ Notary Public/Justice of the Peace Rules in regard to Verified or Certified Copies and Certified Translations under the
-Act and as to General Forms
+... Commissioner for Oaths/ Notary Public/Justice of the Peace

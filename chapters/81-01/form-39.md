@@ -11,4 +11,3 @@ State"number of shares" or "extent of interest"
 and the amount paid up and the amount called up in respect of the shares [or interest] of the person on whom such copy of the said notice was served, in the same words and figures as the same particulars are set forth in the said Schedule.
 2. I served the said respective copies of the said notice, by putting such copies, respectively, duly addressed to such persons, respectively, according to their respective names and addresses appearing in the said Schedule, and by placing the same prepaid in the Post Office at ... before the hour of ... o'clock in the ...noon of the said ... day of ... 20...
 Sworn, etc.
-The Companies Winding Up Rules

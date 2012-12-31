@@ -10,4 +10,3 @@ AND YOU ARE TO ATTEND by your Attorney-at-law the Judge in Chambers at the Supre
 In default of your complying with the above directions, you will be precluded from objecting to the proposed reduction of the capital of the Company [or, in all proceedings relating to the proposed reduction of the capital of the Company be treated as a creditor for such amount only as is set against your name in the list of creditors].
 Dated this ...day of ...20...
 A.B. Attorney-at-law for the said Company
-Rules of Procedure on Applications under the Act

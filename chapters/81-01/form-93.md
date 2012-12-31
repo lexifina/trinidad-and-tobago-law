@@ -6,4 +6,3 @@ Number of Number of Date of Date of Winding Dates of Liquidator
 Petition up Order Public Winding up Petition
 Examinations Order
 (if any)
-The Companies Winding Up Rules

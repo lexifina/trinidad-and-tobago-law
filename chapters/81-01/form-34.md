@@ -7,8 +7,8 @@ The following is a list of members of the company liable to be placed on the lis
 In the First Part of the List, the persons who are contributories in their own right are distinguished.
 In the Second Part of the List, the persons who are contributories as being representatives of, or being liable to the debts of others, are distinguished.
 FIRST PART-CONTRIBUTORIES IN THEIR OWN RIGHT
-Address Name Description
-Serial Amount paid up at date Number of Shares Amount called up at
+Address Name Description Serial Amount paid up at date
+Number of Shares Amount called up at
 date of commencement No. [or extent of of commencement of
 of winding up Interest]
 winding up
@@ -17,4 +17,3 @@ OR LIABLE TO THE DEBTS OF, OTHERS
 Description In what character Serial Amount called Name Address Amount called Amount paid up
 No. included up at date of up at date of at date of
 commencement commencement commencement of winding up of winding up of winding up
-The Companies Winding Up Rules

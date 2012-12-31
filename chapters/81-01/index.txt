@@ -340,7 +340,6 @@ s-336.md
 s-337.md
 s-338.md
 s-339.md
-s-341.md
 s-342.md
 s-343.md
 s-344.md
@@ -522,6 +521,7 @@ s-513.md
 s-514.md
 s-515.md
 s-516.md
+s-516A.md
 s-517.md
 s-517A.md
 s-518.md
@@ -701,9 +701,17 @@ sl-01/title.md
 sl-01/r-1.md
 sl-01/r-2.md
 sl-01/r-3.md
+sl-01/r-4.md
+sl-01/r-5.md
+sl-01/r-6.md
 sl-01/r-7.md
 sl-01/r-8.md
 sl-01/r-9.md
+sl-01/r-10.md
+sl-01/r-11.md
+sl-01/r-12.md
+sl-01/r-13.md
+sl-01/r-14.md
 sl-01/r-15.md
 sl-01/r-16.md
 sl-01/r-17.md

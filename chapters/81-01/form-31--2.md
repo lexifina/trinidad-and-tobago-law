@@ -6,101 +6,54 @@ SHARES AND OF THE NUMBER OF SHARES WHICH
 PERSONS HAVE AGREED FOR A COMMISSION
 TO SUBSCRIBE ABSOLUTELY
 Name of Company ...
-Presented by ...
+Presented by ... }
 Name of Company ... Article of Association authorising Commission ... No.
-Particulars of amount payable as Commission for subscribing, } or agreeing to subscribe, or for procuring or agreeing to
+Particulars of amount payable as Commission for subscribing, or agreeing to subscribe, or for procuring or agreeing to
 $ procure, subscriptions for any shares in the Company; or
-Rate of such Commission ... Rate per cent. \
-Date of Circular or Notice (if any), not being a prospectus, } inviting subscriptions for the shares and disclosing the amount Date or rate of the Commission ...
+} Rate of such Commission ... Rate per cent.
+Date of Circular or Notice (if any), not being a prospectus, inviting subscriptions for the shares and disclosing the amount Date
+} or rate of the Commission ...
 Number of shares which persons have agreed for a commission to subscribe absolutely ... No.
-} Signatures of all ... the Directors or
-... of their agents
-... authorised
-... in writing.
+... Signatures of all
+... the Directors or
+... of their agents authorised ... in writing.
 Dated the ... day of ... 20...
-Rules in regard to Verified or Certified Copies and Certified Translations under the
-Act and as to General Forms
-REMARKS
-PAID CHRONOLOGICAL INDEX OF CHARGES ENTERED IN THE REGISTER FEE
-REGISTERED BY WHOM
-MORTGAGES,
-OTHER
-ETC.
+CHRONOLOGICAL INDEX OF CHARGES ENTERED IN THE REGISTER
 PRESENTED BY ...
 NAME OF COMPANY...
-FURTHER ISSUES
-DEBENTURES
 THE COMPANIES ACT, (CH. 81:01)
-FIRST ISSUE
 FORM 32
-TRUST DEED
-DATE OF
-MORTGAGE OR
-AMOUNT OF
-CHARGE
-$
-COMPANY
-NAME
-OF
-CHARGE IN THIS INDEX
-SERIAL NUMBER OF
-REGISTRATION
-DATE
-OF Rules in regard to Verified or Certified Copies and Certified Translations under the
-Act and as to General Forms
-CEASING DATE OF TO ACT
-REGISTER OF MORTGAGES AND CHARGES, AND MEMORANDUM OF SATISFACTION RECEIVER OR
-MANAGER.
-(16)
-NAME AND APPOINT-
-DATE OF
-MENT
-RATE PER CENT. COMMISSION, OR DISCOUNT
-ALLOWANCE, AMOUNT OR
-(15)
-OF THE
-OF SATISFACTION. MEMORANDUMS
-(14) AMOUNT
-($)
-DEBENTURE NAMES OF TRUSTEES
-HOLDERS (13) FOR THE
-THE
+REGISTER OF MORTGAGES AND CHARGES, AND MEMORANDUM OF SATISFACTION
 PRESENTED BY ...
 NAME OF COMPANY...
-PARTICULARS RELATING TO THE ISSUES OF DEBENTURES OF A SERIES DESCRIPTION
-PROPERTY CHARGED GENERAL (12)
-OF THE
-DATE OF THE COVERING
-THE COMPANIES ACT, (CH. 81:01) (11) DEED
-DATES OF THE RESOLUTIONS THE ISSUE OF AUTHORISING
-THE SERIES
-(10) FORM 33
-AMT. EACH ISSUE OF
-AMOUNTS OF ($)
-THE SERIES DATE AND
-(9)
-($) DATE
-SECURED BY A DEBENTURES
-SERIES OF AMOUNT
-TOTAL (8)
-MORTGAGEES THE CHARGE OR PERSONS ENTITLED TO
-NAMES OF
-(7) THE
-OR CHARGED MORTGAGED PARTICULARS
-PROPERTY
-OF THE SHORT (6)
-OR CHARGE MORTGAGE AMOUNT
-SECURED ($) BY THE
-(5)
-ACQUISITION PROPERTY.
-DATE OF OF THE
-(4) THE
-DESCRIPTION CREATION OF OR CHARGE
-MORTGAGE
-DATE OF THEREOF
-(3) EACH AND
-OF DOCU- MENT ON NUMBER
-SERIAL (2) FILE
-GISTRA- OF RE- (1) DATE
-TION Rules in regard to Verified or Certified Copies and Certified Translations under the
-Act and as to General Forms
+THE COMPANIES ACT, (CH. 81:01)
+FORM 33
+- Margin: REMARKS
+- Margin: PAID FEE
+- Margin: REGISTERED BY WHOM
+- Margin: MORTGAGES, OTHER ETC.
+- Margin: ISSUES FURTHER
+- Margin: DEBENTURES
+- Margin: FIRST ISSUE
+- Margin: TRUST DEED DATE OF
+- Margin: MORTGAGE OR AMOUNT OF CHARGE $
+- Margin: COMPANY NAME OF
+- Margin: CHARGE IN THIS INDEX SERIAL NUMBER OF
+- Margin: REGISTRATION
+- Margin: DATE OF
+- Margin: DATE OF CEASING TO ACT RECEIVER OR MANAGER. (16) NAME AND APPOINT- DATE OF MENT
+- Margin: RATE PER CENT. COMMISSION, OR DISCOUNT ALLOWANCE, AMOUNT OR (15) OF THE
+- Margin: OF SATISFACTION. MEMORANDUMS (14) AMOUNT ($)
+- Margin: DEBENTURE NAMES OF TRUSTEES HOLDERS (13) FOR THE THE
+- Margin: PARTICULARS RELATING TO THE ISSUES OF DEBENTURES OF A SERIES DESCRIPTION PROPERTY CHARGED GENERAL (12) OF THE
+- Margin: DATE OF THE COVERING (11) DEED
+- Margin: DATES OF THE RESOLUTIONS THE ISSUE OF AUTHORISING THE SERIES (10)
+- Margin: AMT. EACH ISSUE OF AMOUNTS OF ($) THE SERIES DATE AND (9) ($) DATE
+- Margin: SECURED BY A DEBENTURES SERIES OF AMOUNT TOTAL (8)
+- Margin: MORTGAGEES THE CHARGE OR PERSONS ENTITLED TO NAMES OF (7) THE
+- Margin: OR CHARGED MORTGAGED PARTICULARS PROPERTY OF THE SHORT (6)
+- Margin: OR CHARGE MORTGAGE AMOUNT SECURED ($) BY THE (5)
+- Margin: ACQUISITION PROPERTY. DATE OF OF THE (4) THE
+- Margin: DESCRIPTION CREATION OF OR CHARGE MORTGAGE DATE OF THEREOF (3) EACH AND
+- Margin: OF DOCU- MENT ON NUMBER SERIAL (2) FILE
+- Margin: GISTRA- OF RE- (1) DATE TION
