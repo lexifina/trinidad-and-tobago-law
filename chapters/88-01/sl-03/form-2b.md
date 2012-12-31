@@ -13,6 +13,5 @@ The Union and the Employer herein mentioned are parties to Registered Collective
 Chairman (Seal of Board)
 ...
 Secretary
-Industrial Relations (Certification of Recognition) Regulations
 - Margin: Regulation 9(1).
 - Margin: [Subsidiary]

@@ -20,7 +20,6 @@ appropriate bargaining unit that should be established in pursuance of this appl
 Employer at (5) above ...
 7. The Name and Address of any other Trade Union known to the
 Employer as Claiming to be the bargaining agent on behalf of, or to represent any workers who may be covered by this application ...
-Registration Recognition and Certification Board Rules
 8. The Employer is, or was, a party to, or bound by a Collective
 Agreement, a copy of which is enclosed, and which-
 (a) was signed on the ...day of ... , 20... ;
