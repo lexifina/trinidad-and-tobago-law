@@ -1,0 +1,44 @@
+SUBSIDIARY LEGISLATION
+FINANCIAL INTELLIGENCE UNIT OF TRINIDAD AND
+TOBAGO REGULATIONS
+ARRANGEMENT OF REGULATIONS
+REGULATION
+PART I
+PRELIMINARY
+1. Citation. 2. Interpretation.
+PART II
+COLLECTION OF FINANCIAL INTELLIGENCE AND
+INFORMATION
+3. Request for information. 4. Oral requests. 5. Requirement to respond to a request.
+PART III
+RECEIVING SUSPICIOUS TRANSACTION/ACTIVITY
+REPORT (STRs/SARs)
+6. Submission of STRs/SARs. 7. Use of forms under Proceeds of Crime Act.
+PART IV
+STORAGE OF FINANCIAL INTELLIGENCE AND
+INFORMATION
+8. Protection of financial intelligence and information. 9. Power of the Director in respect of protection of data. 10. Internal secured database. 11. Power of Director to limit access to database. 12. Securing of financial intelligence and information. 13. Physical storage.
+ARRANGEMENT OF REGULATIONS-Continued REGULATION
+PART V
+INFORMATION ANALYSIS AND FEEDBACK
+14. Requirement to analyse STR/SAR. 15. Feedback. 16. Establishment of system for analysis. 17. Prioritising reports.
+PART VI
+DISSEMINATION
+18. Interpretation of "local authorities". 19. Dissemination of information. 20. Sharing or providing information. 21. Exchange of information with local and foreign authorities. 22. Request for financial information. 23. Requirements in respect of sharing of information. 24. Responding to requests for information. 25. Contents of reports to be sent to law enforcement agencies.
+PART VII
+PERIODIC REPORTS
+26. Periodic Reports.
+PART VIII
+SUPERVISORY AUTHORITY
+27. Interpretation of certain words in this Part and references to the FIU. 28. Requirement for supervised entity to register. 29. Change of address of supervised entity. 30. Requirements to provide guidelines and standards.
+PART IX
+COMPLIANCE PROGRAMME
+31. Submission of compliance programme. 32. Rectification of defects. 33. Consultation with Supervisory Authorities. 34. Requirement to review compliance programmes.
+PART X
+MISCELLANEOUS
+35. Examination by the FIU. 36. Penalties. 37. Defence.
+SCHEDULE.
+FINANCIAL INTELLIGENCE UNIT OF TRINIDAD AND
+TOBAGO REGULATIONS
+made under section 27
+- Margin: 12/2011.
