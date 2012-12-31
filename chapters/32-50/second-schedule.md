@@ -386,22 +386,26 @@ FRIENDLY SOCIETIES ACT
 STATEMENT OF FUNDS AND BALANCE SHEET
 For the "..." Lodge, No... of the Trinidad District, Friendly Society for the year ended 31st December 20...
 SICK AND FUNERAL FUND
-Income $ Expenditure $ Contributions … … Sickness Pay-
-Full pay ... days … Entrance Fees … … Interest on Moneys Invested Reduced pay ... days…
+$ Expenditure $ Income Contributions … … Sickness Pay- Entrance Fees … … Full pay ... days …
+Reduced pay ... days… Interest on Moneys Invested
 T'dad District, refund of Funeral Benefits … …
 Funeral Benefits… … Trinidad District Funeral Fund
-Other Receipts (to be Levies … …
+Levies … … Other Receipts (to be
 specified)- Other Expenditure (to be
-specified)- Total Income for the Year … Total Expenditure for the Year Amount of Fund, 1st January Amount of Fund, 31st
+specified)- Total Income for the Year … Total Expenditure for the Year
+Amount of Fund, 31st Amount of Fund, 1st January
 20... December 20...
 Total … … Total … …
 MANAGEMENT FUND
-Income $ Expenditure $ Contributions … … Salaries and Remunerations Entrance Fees … … Rent of Lodge Room … Registration of Dependents… Deputies to District Meetings Fines … … … Printing, Books and Levies … … … Stationery … … Other Receipts (to be Postages… … …
+$ Expenditure $ Income Contributions … … Salaries and Remunerations Entrance Fees … … Rent of Lodge Room …
+Deputies to District Meetings Registration of Dependents… Fines … … … Printing, Books and Levies … … … Stationery … …
+Postages… … … Other Receipts (to be
 specified)- Necessaries Purchased …
 Trinidad District, Membership
 Levy… … …
 Other Expenditure (to be
-specified)- Total Income for the Year … Total Expenditure for the Year Amount of Fund, 1st January Amount of Fund, 31st
+specified)- Total Income for the Year … Total Expenditure for the Year
+Amount of Fund, 1st January Amount of Fund, 31st
 20 ... December 20 ...
 Total … … Total … …
 No. 9-Continued MEDICAL FUND
@@ -409,7 +413,8 @@ Income $ Expenditure $ Contributions … … Medical Attendance
 Druggist for medicines supplied Other Receipts (to be
 specified)- Allowance to Members …
 Dental Attendance… … Optical Attendance… … Other Expenditure (to be
-specified)- Total Income for the Year … Total Expenditure for the Year Amount of Fund, 1st January Amount of Fund, 31st
+specified)-
+Total Expenditure for the Year Total Income for the Year … Amount of Fund, 1st January Amount of Fund, 31st
 20 ... December 20 ...
 $ $
 Total … … Total … …
@@ -515,15 +520,14 @@ MONTHLY TENANTS
 $ per month $ per month $ per month $ per month
 AGENT'S RETURN AGENT'S RETURN AGENT'S RETURN OR RECEIPT NO. OR RECEIPT NO. OR RECEIPT NO.
 Amount Amount Amount Amount
-$ $ $ $ 13 SOCIETIES ACT ROLL ... Friendly Society Situated at ... Belonging to Society for the year ending ... 20 ...
+$ $ $ $ SOCIETIES ACT ROLL ... Friendly Society Situated at ... Belonging to Society for the year ending ... 20 ...
 OCCASIONAL TENANTS
 Names
-AGENT'S RETURN OR RECEIPT NO.
-RECEIPT CASH Total
-BOOK FOLIO
+Total
 Amount
-Rent
-Collected
+Rent AGENT'S RETURN OR RECEIPT NO.
+RECEIPT CASH
+BOOK FOLIO Collected
 $
 $
 No.
@@ -535,10 +539,10 @@ $ $ $ $
 Note-This Rent Roll is to be produced to the Auditor upon every audit of the Society's books and
 accounts together with the Agent's Returns if any.
 OCCASIONAL TENANTS
+Amount
 AGENT'S RETURN OR RECEIPT NO.
 RECEIPT CASH
 BOOK FOLIO
-Amount
 $
 I hereby certify that the above is a true and correct record in respect of rents collected and Agent's Commission paid to the 31st December 20 ...
 Dated ... (Signed) ...
@@ -621,9 +625,10 @@ BUILDING DUES
 ANNIVERSARY
 ACCOUNT
 GOODS FINES LEVY CARD
-Note-Please check your Card. Entrance Fees: $...
-BUILDING DUES
-BANNER DUES ANNIVERSARY
+Note-Please check your Card.
+Entrance Fees: $...
+BUILDING DUES DEATH LEVIES BANNER DUES
+ANNIVERSARY REGISTRATION
 ACCOUNT
 GOODS
 FINES LEVY CARD
@@ -658,9 +663,12 @@ December 31st found the same to be-
 Amount at ... Bank $ Amount in Treasurer's hands $ As Witness our hands this ... day of ... 20 ... President or Chief Executive Officer Member of Committee of Management Vice-President Member of Committee of Management Treasurer Member of Committee of Management Trustee Member of Committee of Management Trustee Member of Committee of Management Secretary Member of Committee of Management Asst. Secretary (if any) Member of Committee of Management SECTION 120.
 OF THE ... FRIENDLY SOCIETY, FOR THE MONTH OF ... 20 ...
 RECORD OF BENEFITS PAID TO MEMBERS
+DEPENDANT
 FRIENDLY SOCIETIES ACT
 NO. 22
-REG. NO...
+NO.
+...
+REG.
 PART V
 No. 23
 FRIENDLY SOCIETIES ACT
@@ -853,7 +861,7 @@ Registrar of Friendly Societies
 - Margin: May
 - Margin: June
 - Margin: Carried Forward
-- Margin: Agent's PAYMENT CASH BOOK FOLIO Com- Months Remarks mission Paid $
+- Margin: Agent's Com- Months Remarks PAYMENT CASH BOOK FOLIO mission Paid $
 - Margin: January …
 - Margin: February…
 - Margin: March …
@@ -876,7 +884,7 @@ Registrar of Friendly Societies
 - Margin: Total Rent due to 31st Dcember, 20... (including previous year's arrears)
 - Margin: Arrears to 31st December, 20 ... Carried forward
 - Margin: Names
-- Margin: Agent's PAYMENT CASH Total BOOK FOLIO Com- Rent Months Remarks mission Collected Paid $ $
+- Margin: Agent's Total Com- Rent Months Remarks PAYMENT CASH BOOK FOLIO mission Collected Paid $ $
 - Margin: July …
 - Margin: August …
 - Margin: September
@@ -952,8 +960,7 @@ Registrar of Friendly Societies
 - Margin: 26
 - Margin: 27
 - Margin: Total $ Arrears to
-- Margin: OTHER CHARGES DEATH LEVIES MANAGEMENT CONTRIBUTION REGISTRATION SECRETARY'S 20 ... INITIALS WEEKS DUES DATE
-- Margin: 1
+- Margin: OTHER CHARGES MANAGEMENT CONTRIBUTION SECRETARY'S 20 ... INITIALS WEEKS DATE DUES 1
 - Margin: 2
 - Margin: 3
 - Margin: 4
@@ -985,7 +992,7 @@ Registrar of Friendly Societies
 - Margin: REMARKS
 - Margin: TOTAL $
 - Margin: BENEFITS OTHER $
-- Margin: DEPENDANT BENEFITS DEATH $
+- Margin: BENEFITS DEATH $
 - Margin: OPTICAL $
 - Margin: DENTAL $
 - Margin: MATERNITY
