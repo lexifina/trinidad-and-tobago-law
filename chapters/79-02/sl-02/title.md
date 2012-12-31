@@ -1,4 +1,3 @@
-PAR VALUE OF THE TRINIDAD AND TOBAGO
-DOLLAR ORDER
-made under section 23(1)
-- Margin: 57/1993.
+CENTRAL BANK (DEPOSIT INSURANCE) ORDER
+made under section 44M
+- Margin: 207/1987.
