@@ -1,70 +1,53 @@
-DEOXYRIBONUCLEIC ACID (DNA) ACT
+ADMINISTRATION OF JUSTICE (DEOXYRIBONUCLEIC ACID) ACT
 CHAPTER 5:34
 Act
-24 of 2007
+5 of 2012
 Note on Subsidiary Legislation
 This Chapter contains no subsidiary legislation.
+Note on Amendment
+Amendment to Evidence Act Ch. 7:02
+Section 39 of Act No. 5 of 2012 amended the Evidence Act in section 19(4). This amendment has been duly incorporated into that Act.
 CHAPTER 5:34
-DEOXYRIBONUCLEIC ACID (DNA) ACT
+ADMINISTRATION OF JUSTICE
+(DEOXYRIBONUCLEIC ACID) ACT
 ARRANGEMENT OF SECTIONS
 SECTION
 PART I
 PRELIMINARY
 1. Short title. 2. Act inconsistent with the Constitution. 3. Application. 4. Interpretation.
-PART II GROUNDS FOR OBTAINING A NON-INTIMATE SAMPLE
-WITHOUT CONSENT
-5. Taking a non-intimate sample without consent.
-PART III
-OBTAINING A NON-INTIMATE SAMPLE
-FROM A SUSPECT
-6. Who may take a sample. 7. Notification. 8. Taking a second sample.
-PART IV OBTAINING A SAMPLE FROM A VOLUNTEER OR AN
-OFFICER OF THE PROTECTIVE SERVICES
-9. Victims and other persons may volunteer.
-10. Persons who attend the crime scene. 11. Volunteering in writing. 12. Officers of the Protective Services shall give samples. 13. Procedure for taking a sample.
-PART V
-OBTAINING AN INTIMATE SAMPLE FROM
-A SUSPECT WITH CONSENT
-14. Request for an intimate sample.
-ARRANGEMENT OF SECTIONS-Continued SECTION
-15. Consent to intimate sample. 16. Withdrawal of consent. 17. Time for taking an intimate sample. 18. Private communication.
-PART VI
-OBTAINING AN INTIMATE SAMPLE BY ORDER OF
-THE COURT
-19. Order of the Court to take sample in certain cases. 20. Consideration for granting an order. 21. Order of the Court. 22. Copy of order. 23. Extension of the order of the Court.
-PART VII
-SPECIAL CIRCUMSTANCES
-24. Where sample may be taken and by whom.
-PART VIII
-PROCEDURE FOR TAKING AN INTIMATE AND NON-
-INTIMATE SAMPLE
-25. Who may take an intimate sample. 26. Duties of a qualified person. 27. Dealing with a DNA sample. 28. Conditions for taking an intimate sample. 29. Adult to be informed.
-PART IX
-POST COLLECTION PROCEDURES
-30. Storage and delivery of a package. 31. Forensic report. 32. Destruction of non-intimate and intimate samples.
-PART X
+PART II
 FORENSIC DNA LABORATORIES
-33. Forensic DNA Laboratories. SECTION
-PART XI
-THE DNA BOARD
-34. Establishment and composition of the DNA Board. 35. Functions of the DNA Board. 36. Meetings. 37. Reports. 38. Tenure and termination. 39. Remuneration. 40. Support staff.
-PART XII
-THE FORENSIC DNA DATABANK
-41. Forensic DNA Databank. 42. Appointment of Custodian. 43. Functions and duties of Custodian. 44. Disclosure by Custodian. 45. Report.
-PART XIII
+5. Official forensic DNA laboratory. 6. Co-operation with accredited laboratories.
+PART III
+THE NATIONAL FORENSIC DNA DATABANK OF
+TRINIDAD AND TOBAGO
+7. DNA profiles may be kept indefinitely in Forensic DNA Databank. 8. Appointment of Custodian and Deputy Custodian. 9. Transitional.
+10. Functions and duties of Custodian. 11. Report.
+PART IV OBTAINING NON-INTIMATE AND INTIMATE SAMPLES
+12. Persons may volunteer to give a sample. 13. Obtaining a non-intimate sample without consent. 14. Taking a repeat non-intimate sample. 15. Requirement for certain persons to give non-intimate sample. 16. Non-intimate sample to be taken from deported citizens and
+detained persons. ARRANGEMENT OF SECTIONS-Continued
+SECTION
+17. Missing persons, deceased persons and crime scenes. 18. Complainants. 19. Conditions for taking an intimate sample. 20. Right of child or incapable person to have representative present. 21. Use of force.
+PART V
+PROCEDURE FOR TAKING NON-INTIMATE AND INTIMATE SAMPLES AND POST COLLECTION
+PROCEDURES
+22. Dealing with a DNA sample. 23. Storage and delivery of package. 24. Duties of forensic DNA analyst. 25. Retention of sample. 26. Expungement of profile in certain circumstances.
+PART VI
 MISCELLANEOUS
-46. Immunity. 47. Standard of proof. 48. Non-attendance of persons not to affect admissibility of evidence. 49. Persons not compelled. 50. Offences. 51. Post-conviction forensic analysis. 52. Documentary evidence. 53. Regulations. 54. Power to amend the Schedules. 55. Act No. 27 of 2000 repealed. FIRST SCHEDULE. SECOND SCHEDULE.
+27. Arrangement with foreign governments to share DNA data. 28. Immunity. 29. Disclosure and confidentiality. 30. Offences. 31. Refusal or obstruction when sample is being taken. 32. Post-conviction forensic analysis. 33. Documentary evidence. 34. Regulations. 35. Power to amend Schedules. 36. Validation. 37. Repeal of Act No. 24 of 2007. 38. Savings.
+FIRST SCHEDULE. SECOND SCHEDULE. THIRD SCHEDULE.
 
 CHAPTER 5:34
-DEOXYRIBONUCLEIC ACID (DNA) ACT
+ADMINISTRATION OF JUSTICE
+(DEOXYRIBONUCLEIC ACID) ACT
 An Act to repeal and replace the Deoxyribonucleic Acid
-(DNA) Identification Act, 2000.
-[28TH SEPTEMBER 2007]
+(DNA) Act, No. 24 of 2007.
+[10TH MAY 2012]
 WHEREAS it is enacted inter alia by section 13(1) of the Constitution that an Act of Parliament to which this section applies may expressly declare that it shall have effect even though inconsistent with sections 4 and 5 of the Constitution and, if any such Act does so declare, it shall have effect accordingly:
 And whereas it is provided by section 13(2) of the Constitution that an Act of Parliament to which this section applies is one the Bill for which has been passed by both Houses of Parliament and at the final vote thereon in each House has been supported by the votes of not less than three-fifths of all members of that House:
 And whereas it is necessary and expedient that the provisions of this Act shall have effect even though inconsistent with sections 4 and 5 of the Constitution:
 PART I
 PRELIMINARY
-- Margin: 24 of 2007.
+- Margin: 5 of 2012.
 - Margin: Commencement.
 - Margin: Preamble.
