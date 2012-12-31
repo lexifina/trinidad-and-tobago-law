@@ -2,9 +2,10 @@ VISITING FORCES ACT
 CHAPTER 14:04
 Act
 8 of 2007
-1-17 .. 1/2009
 Note on Subsidiary Legislation
 This Chapter contains no subsidiary legislation.
+Note on Omissions
+Visiting Forces (Designated States) Orders-LNs 68/2009, 239/2009, 314/2009 and 57/2011.
 CHAPTER 14:04
 VISITING FORCES ACT
 ARRANGEMENT OF SECTIONS
@@ -45,4 +46,4 @@ immunities of members of visiting forces and for matters connected therewith.
 PART I
 PRELIMINARY
 - Margin: 8 of 2007.
-- Margin: C o m m e n c e m e n t .
+- Margin: Commencement.
