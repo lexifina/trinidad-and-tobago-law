@@ -1,73 +1,60 @@
 # FORM 3
 REPUBLIC OF TRINIDAD AND TOBAGO
-VOLUNTEERING AN INTIMATE OR NON-INTIMATE
-SAMPLE
+CONSENT FOR TAKING A SAMPLE FROM A
+COMPLAINANT
 Please Note that-
-1. Under section 4 of the Deoxyribonucleic Acid (DNA) Act-
-"intimate sample" means-
-(a) a sample of venous blood;
-(b) a urine sample;
-(c) a sample of semen or other tissue fluid obtained by breaking
-the skin;
-(d) pubic hair;
-(e) a dental impression; or
-(f) a swab taken from-
-(i) any part of a person's genitals; or
-(ii) a person's bodily orifice other than the mouth;
-"non-intimate sample" means-
-(a) a sample of hair other than pubic hair;
-(b) a sample taken from a finger nail or toe nail or from under a
-finger nail or toe nail;
-(c) a swab taken from any part of a person's body other than a
-part from which a swab taken would be an intimate sample;
-(d) saliva; or
-(e) skin impression.
-2. You are not obliged to volunteer your DNA sample.
-3. While the consent of the parent or guardian of a child or an incapable person is required before a non-intimate sample or an intimate sample is taken from that child or incapable person, you (the parent or guardian) are not obligated to give your consent.
-4. A person, other than an officer of the Protective Services who volunteers his DNA sample is entitled to have an adult of his choice present while an intimate sample is being taken from him by a registered medical practitioner, a nurse, a dentist or a dental auxiliary.
-5. The parent or guardian of a child or incapable person shall be present when an intimate sample is being taken.
-6. The sample shall be taken in the presence or view of a person who is of the same sex as the person from whom the sample is being taken.
-Volunteer/Consent
-I, ...
-(Name of Volunteer/Parent/Guardian)
-of ...
+1. Under section 4 of the Administration of Justice (Deoxyribonucleic Acid) Act-
+"intimate sample" means a specimen of biological or other material
+taken from-
+(a) any part of a person's genitals; or
+(b) a person's bodily orifice other than the mouth;
+"non-intimate sample" means a specimen of-
+(a) blood obtained by a prick of the finger;
+(b) epithelial cells obtained by means of buccal swab;
+(c) plucked hair; or
+(d) saliva;
+"sample" means a non-intimate or intimate sample.
+2. You are under no obligation to consent to a sample being taken.
+3. If you give consent for a sample to be taken, you may at any time before the sample is taken, withdraw that consent.
+4. Any sample taken will be analysed and may be used as evidence in a criminal investigation or prosecution.
+5. A DNA profile obtained from your sample may be checked against other DNA profiles in the Forensic DNA Databank. You may apply, pursuant to section 26, to have your DNA profile expunged from the records of the Forensic DNA Databank.
+6. Only a qualified person is entitled to take a sample from you.
+A "qualified person" means-
+a registered medical practitioner under the Medical Board Act, or a person registered under Part II or III of the Nurses and Midwives Registration Act, acting under the supervision of a registered medical practitioner.
+FORM 3-Continued
+A. Consent
+I, ... of
+(Name of person/representative giving consent)
+...
 (Address)
-understand the above notice and I hereby-
-[Tick appropriate box]
-[ ] Volunteer to give a non-intimate/an intimate sample to be
-(Strike out inapplicable part)
-used in the investigation or prosecution of ...
+further to a request being made by...
+(Name of qualified person making request) hereby consent to the taking of a sample from ...
+... (Signature of person giving consent) (Place where consent is given) In the presence of:
 ...
-(Give details of alleged offences)
+(Name in block letters and signature of qualified person requesting consent)
+at ...
+(Place where consent is given) Witnessed by ...
+Signature of Witness ...
+Date ...
+B. Withdrawal of Consent
+I, ... of
+(Name of person/representative withdrawing consent)
 ...
+(Address)
+further to giving my consent to section 18(4) of the Act for a sample to be taken from ... hereby withdraw my consent.
+The reasons for withdrawing my consent are as follows:
 ...
+... Signed:
 ...
-[ ] Consent to the taking of a non-intimate sample/an intimate sample from
+(Signature of person/representative withdrawing consent)
 ...
+(Place where consent was withdrawn)
+In the presence of:
 ...
-(Name of child or incapable persons)
-...
-who is my child/dependent to be used in the investigation or prosecution
-of ...
-(Give details of alleged offence)
-...
-... [ ] Volunteer to give a non-intimate sample. I am required to attend
-...
-(Give address/location of the crime scene)
-in my capacity as a ...
-(Profession/vocation/public office)
-in order ...
-(Give details of purpose)
-...
-...
-Signed ... Date ...
-Volunteer
-Adult of Choice
-[This section is not applicable to children, incapable persons, police officers or other persons who volunteer].
-I have been informed of my right to have an adult of my choice present while an intimate sample is being taken and I hereby-
-[Tick appropriate box]
-[ ] request the presence of ...
-(Name of adult of choice)
-[ ] waive my right to have an adult of my choice present during the taking of the intimate sample.
-- Margin: (Section 11).
-- Margin: Ch. 5:34.
+(Name in block letters and signature of qualified person requesting consent)
+at ...
+(Place where consent was withdrawn)
+Witnessed by ...
+Signature of Witness ...
+Date ...
+- Margin: Section 18.
