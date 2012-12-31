@@ -1,0 +1,4 @@
+STATUTORY AUTHORITIES
+(DELEGATION OF POWERS) ORDER
+*made under section 5(2)
+- Margin: 131/1969.
