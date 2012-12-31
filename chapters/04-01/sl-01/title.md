@@ -2,8 +2,10 @@ SUBSIDIARY LEGISLATION
 COURT OF APPEAL RULES
 ARRANGEMENT OF RULES
 ORDER I
-PRELIMINARY 1. Citation. 2. Interpretation.
-APPEALS GENERALLY 3. Forms in Appendices A and C to be used. 4. Times of sittings and vacation.
+PRELIMINARY
+1. Citation. 2. Interpretation.
+APPEALS GENERALLY
+3. Forms in Appendices A and C to be used. 4. Times of sittings and vacation.
 Days on which offices are to be closed. 5. Notice of sittings. 6. Right of audience. 7. Register of appeals brought. 8. Enlargement of time and departure from Rules. 9. Service of documents.
 ORDER II
 CIVIL APPEALS FROM HIGH COURT
@@ -13,9 +15,7 @@ CRIMINAL APPEALS FROM HIGH COURT
 NOTICES OF APPEAL 1. Notices of appeal to be signed by appellant and addressed to Registrar.
 How notices, etc., may be sent or given. Where appellant unable to write. Appellant's representative may act for him where question of
 insanity involved.
-Notice, etc., on behalf of corporations.
-[Subsidiary] Court of Appeal Rules
-SHORTHAND WRITERS AND TRANSCRIPT OF NOTES 2. Shorthand notes to be certified by the writer.
+Notice, etc., on behalf of corporations. SHORTHAND WRITERS AND TRANSCRIPT OF NOTES 2. Shorthand notes to be certified by the writer.
 Transcript to be furnished on application of Registrar.
 Party interested may obtain transcript from shorthand writer.
 Party interested may obtain transcript from Registrar. Definition of "party interested". Transcript to be made by writer thereof or some other person on
@@ -37,13 +37,16 @@ ORDER MADE AT TRIAL. CONSEQUENTIAL ORDERS
 AND SUSPENSION OF SAME PENDING APPEAL 6. Varying order of restitution of property. Persons affected may appear
 on appeal. 7. Non-suspension of orders of restitution, etc., to be subject to
 property or a sample, etc., being necessary for purposes of appeal. 8. Temporary suspension of orders made on conviction, as to money
-rewards, costs, etc. [Subsidiary] Court of Appeal Rules
+rewards, costs, etc.
 ARRANGEMENT OF RULES-Continued
 RULE
-Judge's direction as to property of convicted person pending appeal. Suspension of disqualifications consequent on conviction. Judge's direction as to securing payment of money by convicted
+Judge's direction as to property of convicted person pending appeal.
+Suspension of disqualifications consequent on conviction.
+Judge's direction as to securing payment of money by convicted
 person pending appeal.
-Suspension of order of destruction or forfeiture of property. Suspension of proceedings or claims consequent on conviction.
-9. Period of suspension of orders under section 56 of Act. 10. Certificate of conviction not to issue for fourteen days after conviction.
+Suspension of order of destruction or forfeiture of property.
+Suspension of proceedings or claims consequent on conviction.
+9. Period of suspension of orders under section 46 of Act. 10. Certificate of conviction not to issue for fourteen days after conviction.
 After fourteen days from conviction, clerk to be satisfied no appeal
 pending before issuing certificate of conviction.
 11. Judge's notes to be furnished to the Registrar on request. 12. Report of Judge of Court of trial. 13. Registrar to furnish Judge of Court of trial with materials for report.
@@ -63,7 +66,6 @@ SECTION 59 OF THE ACT
 22. How application for leave to appeal and other preliminary
 applications are to be dealt with.
 Procedure where Judge of Court of Appeal refuses applications. Sittings of a Judge under section 59.
-Court of Appeal Rules [Subsidiary]
 PROCEDURE UNDER SECTION 60 OF THE ACT
 23. Procedure under section 60.
 Materials to be supplied to Judge for statement of special case. Judge to forward special case to Registrar and copies to be supplied
@@ -79,9 +81,7 @@ PROCEDURE ON APPLICATIONS FOR BAIL; RIGHTS OF SURETIES;
 ESTREAT OF RECOGNISANCES
 26. Bail. Court of Appeal to specify amount and before whom
 recognisances to be taken.
-Appellant's recognisances.
-Appellant and prison officer to receive notice of terms of bail.
-Police of district to assist Magistrate in inquiring as to surety's
+Appellant's recognisances. Appellant and prison officer to receive notice of terms of bail. Police of district to assist Magistrate in inquiring as to surety's
 sufficiency.
 Appellant's and surety's recognisances to be forwarded to Registrar.
 Clerk to give surety certificate of recognisances.
@@ -92,7 +92,7 @@ Presence of appellant on bail, at hearing of his appeal.
 Varying order for bail, by Court of Appeal. Provisions for sureties discharging their obligations. How appellant on bail to be dealt with on arrest at instance of sureties. Arrest and commitment of appellant to be notified to Registrar by Clerk. Power of Court of Appeal to revoke order for bail. Officer in charge of prison on commitment of appellant to notify Registrar. Sureties' rights at Common Law preserved. Estreat of recognisances.
 27. Duty of Police to enquire and report as to appellant's means, on
 request of Registrar.
-28. Warders, etc., to attend sittings of Court of Appeal. [Subsidiary] Court of Appeal Rules
+28. Warders, etc., to attend sittings of Court of Appeal.
 ARRANGEMENT OF RULES-Continued
 RULE
 Appellant to surrender on appeal, be searched, and remain in custody
@@ -108,7 +108,8 @@ NOTIFYING RESULT OF APPEALS
 Minister, and Commissioner of Prisons.
 In cases of death sentence, notice of appeal and of final
 determination to be sent to Minister.
-Registrar to notify officer of Court of trial results of appeal. Officer of Court of trial to enter decision of Court on records.
+Registrar to notify officer of Court of trial results of appeal.
+Officer of Court of trial to enter decision of Court on records.
 32. Registrar after appeal to return original depositions, exhibits,
 indictment, etc., to officer of Court of trial when received from him.
 LEGAL AID TO APPELLANTS
@@ -122,8 +123,7 @@ documents and exhibits free on his request.
 Transcript of shorthand notes not to be supplied free except on order
 of Judge.
 Poor appellant not legally represented may obtain copy of
-documents or exhibits free. Court of Appeal Rules [Subsidiary]
-RULE PROCEDURE AS TO WITNESSES BEFORE COURT OF APPEAL AND
+documents or exhibits free. RULE PROCEDURE AS TO WITNESSES BEFORE COURT OF APPEAL AND
 THEIR EXAMINATION BEFORE EXAMINER
 36. Attendance of witnesses before Court.
 Application to Court to hear witnesses. Order appointing examiner. Registrar to furnish examiner with exhibits, etc., necessary for
