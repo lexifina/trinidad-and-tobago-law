@@ -10,18 +10,14 @@ $
 $
 $
 $ FORM 7B
-Outgoings for the year. $
+Outgoings for the year. $ $ $ $ $ $
 Gross income for the year.
-$
-assets.
-$ Present amount included in
-taken.
-$ Debt when possession was
-Property.
-$ Original Valuation of
-$ Amount of Advance.
+assets. Present amount included in
+taken. Debt when possession was
+Property. Original
+Amount of Advance.
 Leasehold. Whether
-what amount. mortgage or charge. If so, Whether subject to any prior
+so, what amount. prior mortgage or charge. If Whether subject to any
 taken. Date when possession was
 Date of Advance
 Roll Numbers. FORM 7C
@@ -57,8 +53,9 @@ Date of Advance.
 - Margin: Section 45.
 - Margin: OBSERVATIONS.
 - Margin: PARTICULARS TO BE SET FORTH IN THE CASE OF PROPERTY OF WHICH THE SOCIETY HAS BEEN UPWARDS OF TWELVE MONTHS IN POSSESSION.
-- Margin: …
-- Margin: TOTAL Freehold or
+- Margin: Valuation of
+- Margin: TOTAL …
+- Margin: Freehold or
 - Margin: Section 45.
 - Margin: PARTICULARS TO BE SET FORTH IN THE CASE OF A MORTGAGE WHERE THE REPAYMENTS ARE UPWARDS OF TWELVE MONTHS IN ARREAR, AND THE PROPERTY HAS NOT BEEN UPWARDS OF TWELVE
 - Margin: OBSERVATIONS.
