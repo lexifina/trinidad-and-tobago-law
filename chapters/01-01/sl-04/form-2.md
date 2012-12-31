@@ -15,7 +15,6 @@ OF TRINIDAD AND TOBAGO
 BALLOT PAPER
 PRESIDENTIAL ELECTION REPUBLIC OF TRINIDAD AND TOBAGO
 Election Day:
-Electoral College Regulations
 - Margin: Regulation 10(2).
 - Margin: Space for initials of Clerk
 - Margin: [Subsidiary]

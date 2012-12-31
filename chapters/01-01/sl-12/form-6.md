@@ -17,6 +17,5 @@ TAKE NOTICE that I ... the Appellant in the above-named appeal which was dismiss
 Dated this ... day of ..., 20...
 ...
 Applicant/Appellant
-Police Service Commission (Appeal) Regulations
 - Margin: Regulation 12(2).
 - Margin: [Subsidiary]

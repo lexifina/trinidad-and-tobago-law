@@ -17,6 +17,5 @@ Commissioner of Police given on the ... day of ..., 20 ... I was unable to file 
 Dated this ...day of ..., 20 ...
 ...
 Applicant
-Police Service Commission (Appeal) Regulations
 - Margin: Regulation 6(4).
 - Margin: [Subsidiary]
