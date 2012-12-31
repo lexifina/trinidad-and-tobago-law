@@ -15,7 +15,7 @@ The freehold interest in-
 9. ALL AND SINGULAR the lands described in Deed of Conveyance dated the 30th day of January, 1947 and registered as Number 974 of 1947 and made between Abiraj Soochit also known as Abiradge Soochit also known as Abiraj, Bridgemohun Soochit and Ramlakhan Soochit of the First Part, Abiraj Soochit and Ramlakhan Soochit of the Second Part and Caroni Limited of the Third Part Save and Except any mines and minerals reserved.
 10. ALL AND SINGULAR the lands described in Deed of Exchange dated the 10th day of December, 1946 and registered as Number 1627 of 1947 and made between Caroni Limited of the One Part and The Honourable Clarence Carmichael Abidh of the Other Part.
 11. ALL AND SINGULAR the lands described in Deed dated the 11th day of September, 1947 and registered as Number 7263 of 1947 and made between Seepersad of the One Part and Caroni Limited of the Other Part.
-12. ALLAND SINGULAR the lands described in Deed of Exchange dated the 24th day of March, 1949 and registered as Number 4296 of 1949 and made between Caroni Limited of the One Part and Juggernauth of the Other Part.
+12. ALL AND SINGULAR the lands described in Deed of Exchange dated the 24th day of March, 1949 and registered as Number 4296 of 1949 and made between Caroni Limited of the One Part and Juggernauth of the Other Part.
 13. ALL AND SINGULAR the lands described in Deed of Conveyance dated the 5th day of March, 1949 and registered as Number 4383 of 1949 and made between Solita Herrera of the One Part and Caroni Limited of the Other Part Save and Except any mines and minerals reserved.
 14. ALL AND SINGULAR the lands described in Deed dated the 17th day of August, 1950 and registered as Number 6657 of 1950 and made between Lutchman Ramlochan also known as Lutchman of the One Part and Caroni Limited of the Other Part.
 15. ALL AND SINGULAR the lands described in Deed of Conveyance dated the 8th day of July, 1952 and registered as Number 6219 of 1952 and made between Alice Eda Aleong of the One Part and Caroni Limited of the Other Part.
@@ -29,7 +29,7 @@ The freehold interest in-
 23. ALL AND SINGULAR the lands described in Deed dated the 24th day of February, 1959 and registered as Number 4824 of 1959 and made between Jessie Henderson Company Limited of the One Part and Caroni Limited of the Other Part.
 24. ALL AND SINGULAR the lands described in Deed dated the 27th day of April, 1960 and registered as Number 5291 of 1960 and made between Mahaisar Lackhee and Charles Lackhee of the One Part and Caroni Limited of the Other Part.
 25. ALL AND SINGULAR the lands described in Deed dated the 20th day of September, 1961 and registered as Number 14076 of 1961 and made between Joseph Nathan Montique of the One Part and Caroni Limited of the Other Part, Save and Except any mines and minerals reserved.
-26. ALLAND SINGULAR the lands described in Deed dated the 18th day of December, 1961 and registered as Number 1614 of 1962 and made between Verdant Vale Limited of the One Part and Caroni Limited of the Other Part.
+26. ALL AND SINGULAR the lands described in Deed dated the 18th day of December, 1961 and registered as Number 1614 of 1962 and made between Verdant Vale Limited of the One Part and Caroni Limited of the Other Part.
 27. ALL AND SINGULAR the lands described in Deed dated the 6th day of January, 1962 and registered as Number 1898 of 1962 and made between Alston Rudder of the One Part and Caroni Limited of the Other Part.
 28. ALL AND SINGULAR the lands described in the First and Second Schedules to the Deed of Conveyance dated the 20th day of June, 1962 and registered as Number 7762 of 1962 and made between The Woodford Lodge Estates Limited acting by and Edwin Henry Chilcott and Harold Edward Green of the One Part and Caroni Limited of the Other Part.
 29. ALL AND SINGULAR the lands described in Deed of Exchange dated the 22nd day of November, 1962 and registered as Number 163 of 1963 and made between The Roman Catholic Archbishop of Port-of-Spain of the One Part and Caroni Limited of the Other Part.
@@ -41,7 +41,7 @@ The freehold interest in-
 35. ALL AND SINGULAR the lands described in Deed registered as Number 12018 of 1974 and made between Lennox Newton and Evelyn Abrams of the One Part and Caroni Limited of the Other Part.
 36. ALL AND SINGULAR the lands described in the First Part to the Twelfth Part of the Schedule to Deed of Conveyance dated the 14th day of June, 1993 registered as Number 11619 of 1993 and made between Forres Park Limited of the First Part and Michael Lee Kim of the Second Part and Caroni (1975) Limited of the Third Part Save and Except the parcels described in the Eleventh Part thereof.
 37. ALL AND SINGULAR the lands described in the First Part of the First Schedule, the Second Part of the First Schedule, the First Part of the Second Schedule, the Second Part of the Second Schedule and the Fifth Schedule to the Deed of Conveyance dated the 13th day of September, 1938 registered as Number 5008 of 1938 and made between Caroni Sugar Estates Limited of the One Part and Caroni Limited of the Other Part.
-38. ALLAND SINGULAR the lands described in the First, Second, Fourth and Seventh Schedules to the Deed of Conveyance dated the 11th day of June, 1957 and registered as Number 7891 of 1957 and made between Ste. Madeleine Sugar Estates Limited of the One Part and Caroni Limited of the Other Part.
+38. ALL AND SINGULAR the lands described in the First, Second, Fourth and Seventh Schedules to the Deed of Conveyance dated the 11th day of June, 1957 and registered as Number 7891 of 1957 and made between Ste. Madeleine Sugar Estates Limited of the One Part and Caroni Limited of the Other Part.
 Division 2
 The freehold interest in-
 1. ALL AND SINGULAR the lands described in Memorandum of Transfer dated the 13th day of September, 1938 registered on the 16th day of September, 1938 in Volume 905 Folio 397 and made by Waterloo Sugar Estates (Trinidad) Limited in favour of Caroni Limited.
@@ -66,4 +66,4 @@ PART B
 THE REAL ESTATE UNDERTAKINGS OF ORANGE GROVE
 NATIONAL COMPANY LIMITED
 ALL AND SINGULAR the lands described in Volume 1995 Folio 253 granted on the 2nd day of March, 1971 by Royal Grant of Crown Lands to Orange Grove National Company Limited.
-- Margin: (Section 2).
+- Margin: Section 2.
