@@ -1,7 +1,8 @@
 SUBSIDIARY LEGISLATION
 JUDGES (CONDITIONS OF SERVICE AND
 ALLOWANCES) REGULATIONS (NO. 1)
-ARRANGEMENT OF REGULATIONS REGULATION
+ARRANGEMENT OF REGULATIONS
+REGULATION
 1. Citation.
 PRELIMINARY
 2. Interpretation.
@@ -16,9 +17,7 @@ purchase means of transport.
 CHAUFFEUR'S ALLOWANCE
 13. Chauffeur's allowance.
 SUBSISTENCE
-14. Subsistence.
-Judges (Conditions of Service and Allowances) Regulations (No. 1)
-REGULATION
+14. Subsistence. REGULATION
 ENTERTAINMENT ALLOWANCE
 l5. Entertainment allowance.
 MEDICAL TREATMENT

@@ -3,9 +3,8 @@ CHAPTER 6:02
 Act
 4 of 1965
 Amended by
-37 of 1971 38 of 1975 43 of 1976 39 of 1981 *3 of 1985 *17 of 2007 *30 of 2007 *1 of 2009
+37 of 1971 38 of 1975 43 of 1976 39 of 1981 *3 of 1985 *17 of 2007 *30 of 2007 *1 of 2009 *13 of 2010
 *See Note on page 2
-1-2 .. 3-6 .. 1/2006 7-8 .. 9-10 .. 1/2006 11-12 .. 1/2009 13-16 .. 1/2006 17-18 .. 1/2009 19-26 .. 1/2006
 Index of Subsidiary Legislation
 Page Judges (Conditions of Service and Allowances) Regulations (No. 1)
 (GN 25/1965) ... 10 Judges (Conditions of Service and Allowances) Regulations (No. 2)
@@ -13,14 +12,13 @@ Page Judges (Conditions of Service and Allowances) Regulations (No. 1)
 Note on Act No. 3 of 1985
 This Act is deemed to have come into operation on 1st January 1981.
 Note on Act No. 17 of 2007
-Section 25 of Act No. 17 of 2007 provides that the amendments to sections 12(1), 12(2)(b),
-13(1) and 13(2)(b) shall come into effect from 1st October 2006.
+Section 25 of Act No. 17 of 2007 provides that the amendments to sections 12(1), 12(2)(b), 13(1) and 13(2)(b) shall come into effect from 1st October 2006.
 Note on Act No. 30 of 2007
-Section 2 of Act No. 30 of 2007 provides that the amendments to sections 12(1), 12(2)(b),
-13(1) and 13(2)(b) shall come into effect from 1st October 2007.
+Section 2 of Act No. 30 of 2007 provides that the amendments to sections 12(1), 12(2)(b), 13(1) and 13(2)(b) shall come into effect from 1st October 2007.
 Note on Act No. 1 of 2009
-Amendments effected to sections 12 and 13 by Act No. 1 of 2009 took effect from
-1st October 2008.
+Amendments effected to sections 12 and 13 by Act No. 1 of 2009 took effect from 1st October 2008.
+Note on Act No. 13 of 2010
+Amendments effected to sections 12 and 13 by Act No. 13 of 2010 took effect from 1st September 2010.
 CHAPTER 6:02
 JUDGES SALARIES AND PENSIONS ACT
 ARRANGEMENT OF SECTIONS SECTION
