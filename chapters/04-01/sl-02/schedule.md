@@ -8,7 +8,7 @@ The Registrar, Court of Appeal, Hall of Justice, Knox Street, Port-of-Spain.
 ...
 Registrar
 Served on the respondent ... by ... at ...
-on the ... day of ..., 20... [Subsidiary] Criminal Appeal (Reference of Points of Law) Rules
+on the ... day of ..., 20...
 CRIMINAL FORM B
 NOTICE TO RESPONDENT of withdrawal or amendment by Attorney General of Reference under rule 5 of the Criminal Appeal (Reference of Points of Law) Rules.
 Attorney General's Reference No... of 20...
@@ -23,8 +23,7 @@ Attorney General's Reference No... of ... 20... APPLICATION by Attorney General 
 TAKE NOTICE that the Attorney General hereby applies to the Court of Appeal to *withdraw/amend his reference.
 *The amendment is as follows:
 ...
-Attorney General
-*Delete as appropriate. Criminal Appeal (Reference of Points of Law) Rules [Subsidiary]
+Attorney General *Delete as appropriate.
 CRIMINAL FORM D
 Attorney General's Reference No... of ... 20... APPLICATION by respondent to amend his argument under rule 6 of the Criminal Appeal (Reference of Points of Law) Rules.
 TAKE NOTICE that the respondent hereby applies to the Court of Appeal to amend his argument.
@@ -38,8 +37,8 @@ TAKE NOTICE that the Attorney General/Respondent, being dissatisfied with the op
 *Attorney General/Respondent
 *Delete as appropriate.
 - Margin: Section 2(1).
-- Margin: [Rule 4(1)].
-- Margin: [Rule 5(2)].
-- Margin: [Rule 5(3)].
-- Margin: [Rule 6(3)].
-- Margin: [Rule 7(2)].
+- Margin: Rule 4(1).
+- Margin: Rule 5(2).
+- Margin: Rule 5(3).
+- Margin: Rule 6(3).
+- Margin: Rule 7(2).
