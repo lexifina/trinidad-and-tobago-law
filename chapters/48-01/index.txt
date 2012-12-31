@@ -166,6 +166,11 @@ sl-01/r-2.md
 sl-02/title.md
 sl-02/r-1.md
 sl-02/r-2.md
-sl-02/r-5.md
-sl-02/r-6.md
-sl-02/r-7.md
+sl-03/title.md
+sl-03/r-1.md
+sl-03/r-2.md
+sl-03/r-3.md
+sl-03/r-4.md
+sl-03/r-5.md
+sl-03/r-6.md
+sl-03/r-7.md
