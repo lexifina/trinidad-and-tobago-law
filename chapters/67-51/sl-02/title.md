@@ -1,0 +1,3 @@
+OYSTERS FROM ORTOIRE RIVER REGULATIONS
+made under section 4
+- Margin: G. 5.12.1929.
