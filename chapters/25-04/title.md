@@ -3,7 +3,6 @@ CHAPTER 25:04
 Act
 21 of 1990 Amended by 28 of 1991 7 of 1992* 8 of 1992 36 of 1995* 18 of 1998 13 of 2003 14 of 2006 18 of 2007 11 of 2008 5 of 2009 6 of 2009
 *See Note on page 3
-1-2 .. 3-14 .. 1/2009 15-16 .. 17-20 .. 1/2009 21-22 .. 23-68 .. 1/2009 69-70 .. 71-124 .. 1/2009 125-126 .. 127-134 .. 1/2009 135-168 ..
 Index of Subsidiary Legislation
 Page Municipal Corporations Order (LN 133/1993) ... 167 Municipal Corporations Order (LN 194/1996) ... 168
 Note on Omissions
