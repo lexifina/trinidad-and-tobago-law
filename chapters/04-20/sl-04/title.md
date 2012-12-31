@@ -1,0 +1,4 @@
+SUMMARY COURTS (SERVICE OF SUMMONS)
+(FAMILY COURT) ORDER
+made under section 47(3)
+- Margin: 221/2005.

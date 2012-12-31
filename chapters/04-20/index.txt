@@ -255,7 +255,13 @@ sl-02/r-2.md
 sl-02/r-3.md
 sl-02/r-4.md
 sl-02/r-5.md
-sl-02/schedule.md
 sl-03/title.md
 sl-03/r-1.md
 sl-03/r-2.md
+sl-03/r-3.md
+sl-03/r-4.md
+sl-03/r-5.md
+sl-03/schedule.md
+sl-04/title.md
+sl-04/r-1.md
+sl-04/r-2.md

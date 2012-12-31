@@ -3,26 +3,21 @@ CHAPTER 4:20
 Act
 9 of 1918
 Amended by
-16 of 1962 16 of 1989 2 of 1919 28 of 1921 97/1963 21 of 1990 62 of 1921 16 of 1965 38 of 1991 6 of 1923 31 of 1971 8 of 1992 32 of 1925
-53 of 1976 18 of 1994 22 of 1936
-136/1976 27 of 1994 14 of 1939
-22 of 1977 28 of 1996 21 of 1943
-45 of 1979 22 of 1997 36 of 1947
-3 of 1980 37 of 1997 24 of 1948
-47 of 1980 44 of 2000 24 of 1951
-98/1981 59 of 2000 20 of 1953
-29/1982 85 of 2000 18 of 1957
-37 of 1985 6 of 2004 175/1958 *13 of 1986 15 of 2005 11 of 1961
-(by implication) †23 of 2005 27 of 1986 172/1961
-11 of 1987 8/1962
+2 of 1919 16 of 1962 21 of 1990 28 of 1921 97/1963 38 of 1991 62 of 1921 19 of 1965 8 of 1992 6 of 1923 31 of 1971 18 of 1994 32 of 1925 53 of 1976
+27 of 1994 22 of 1936 136/1976
+28 of 1996 14 of 1939 22 of 1977
+22 of 1997 21 of 1943 45 of 1979
+37 of 1997 36 of 1947 3 of 1980
+44 of 2000 24 of 1948 47 of 1980
+59 of 2000 24 of 1951 98/1981
+85 of 2000 20 of 1953 29 of 1982
+6 of 2004 18 of 1957
+37 of 1985
+15 of 2005 175/1958 *13 of 1986 19 of 2005 11 of 1961 27 of 1986
+(by implication) 172/1961 †23 of 2005 11 of 1987
+8/1962 4 of 2011 16 of 1989
 *See Note on Validation on page 3
 †See Note on page 3
-5-14 .. 1/2009
-17-20 .. 1/2009
-23-38 .. 1/2009
-43-84 .. 1/2009
-87-94 .. 1/2009
-97-152 .. 1/2009
 Index of Subsidiary Legislation
 Page Magisterial Districts Order (Proc. 17 of 1926) ... 168 Summary Courts (Sittings) Order (LN 163/1995) … … … 170 Summary Courts (Costs on Appeal) Rules (GN 175/1958) … … 175 Summary Courts (Service of Summons) (Family Court) Order (LN 221/2005) 177
 Note on section 133A or 134
@@ -35,12 +30,16 @@ Section 44A of the Interpretation Act 1962 (Act No. 2 of 1962) has been transfer
 Note on Adaptation
 Under paragraph 6 of the Second Schedule to the Law Revision Act, Ch. 3:03 the Commission amended certain references to public officers in this Chapter. The Minister's approval of the amendments was signified by LN 52/1980, but no marginal reference is made to this Notice where any such amendment is made in the text.
 Note on Validation
-A. Part VIII of the Act All acts and things done or purported to be done or omitted to be done by any person or authority under or in pursuance of the powers conferred by Part VIII of the Act are deemed to have been lawfully and validly done or omitted to be done and no action or other legal proceedings whether pending or not shall lie against the State or any person in respect of or in consequence of such acts or things. (N.B. See Section 7 of Act No. 13 of 1986).
-B. Section 130 of the Act Every notice of appeal given by an appellant in custody under section 130 prior to 13th February 2004 and which was given outside of the time prescribed in the said section 130 and is pending is declared to be as valid as if it had been given in accordance with the said section 130. (N.B. See Section 10 of Act No. 6 of 2004).
-Note on Act No. 23 of 2005 See section 23F of the Indictable Offences (Preliminary Enquiry) Act, Ch. 12:01 with respect to the non-application of section 55 and Part VI of this Act.
+A. Part VIII of the Act
+All acts and things done or purported to be done or omitted to be done by any person or authority under or in pursuance of the powers conferred by Part VIII of the Act are deemed to have been lawfully and validly done or omitted to be done and no action or other legal proceedings whether pending or not shall lie against the State or any person in respect of or in consequence of such acts or things. (N.B. See Section 7 of Act No. 13 of 1986).
+B. Section 130 of the Act
+Every notice of appeal given by an appellant in custody under section 130 prior to 13th February 2004 and which was given outside of the time prescribed in the said section 130 and is pending is declared to be as valid as if it had been given in accordance with the said section 130. (N.B. See Section 10 of Act No. 6 of 2004).
+Note on Act No. 23 of 2005
+See section 23F of the Indictable Offences (Preliminary Enquiry) Act, Ch. 12:01 with respect to the non-application of section 55 and Part VI of this Act.
 CHAPTER 4:20
 SUMMARY COURTS ACT
-ARRANGEMENT OF SECTIONS SECTION
+ARRANGEMENT OF SECTIONS
+SECTION
 1. Short title. 2. Interpretation.
 PART I
 GENERAL PROVISIONS
@@ -109,7 +108,8 @@ ADJOURNMENT OF HEARING
 MAKING OF ORDER
 67. Giving of decision upon conclusion of hearing. 68. Power of awarding imprisonment in default of payment of penalty. 69. Power to inflict fine in lieu of imprisonment.
 Term of imprisonment that may be imposed. Where no penalty prescribed for summary offence.
-ARRANGEMENT OF SECTIONS-Continued SECTION
+ARRANGEMENT OF SECTIONS-Continued
+SECTION
 70. Payment and allocation of fines and fees. 71. Power of Court to permit conditional release of offenders. 72. Consecutive sentences. 73. Mode of dealing with forfeiture not pecuniary. 74. Offence charged-attempt proved.
 Attempt charged-full offence proved.
 75. Conviction for offence involved in offence charged. 76. Embezzlement, etc., charged-Larceny proved.
@@ -145,7 +145,8 @@ dealt with specially.
 96. Magistrate to adjourn case on request of prosecutor. 97. General provisions as to dealing summarily with indictable
 offences.
 98. Issue of order of dismissal on summary trial of indictable offence. 99. Procedure for summary trial of child or young person charged with
-an offence. ARRANGEMENT OF SECTIONS-Continued SECTION
+an offence. ARRANGEMENT OF SECTIONS-Continued
+SECTION
 100. Summary trial of complaint against adult for certain indictable
 offences.
 PART VII
@@ -186,7 +187,8 @@ PART VIII
 APPEALS AND SPECIAL CASES
 128. Right of appeal. 128A. Appellant in custody.
 129. Right of appeal under former Act. 130. Notice of appeal to be given. 130A. Extension of time to appeal.
-ARRANGEMENT OF SECTIONS-Continued SECTION
+ARRANGEMENT OF SECTIONS-Continued
+SECTION
 130B. Reasons for decision to be stated.
 131. Reasons for appeal. 132. Enumeration of admissible reasons for appeal. 133. Manner of setting forth reasons for appeal. 133A. Bail to be granted to appellant sentenced to less than three months.
 134. Bail may be granted to appellant sentenced to three or more than
