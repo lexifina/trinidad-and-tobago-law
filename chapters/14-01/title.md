@@ -1,31 +1,23 @@
 DEFENCE ACT
 CHAPTER 14:01
 Act
-7 of 1962
-Amended by
-9 of 1963
-19 of 1967
-35 of 1970
-38 of 1970
-136/1976
-110/1977
-218/1977
-32 of 1979
-16 of 1988
-16 of 1994
+7 of 1962 Amended by
+9 of 1963 19 of 1967 35 of 1970 38 of 1970 136/1976 110/1977 218/1977 32 of 1979 16 of 1988 16 of 1994
 *18 of 1994
 14 of 1996
 †25 of 2000
 66 of 2000
-*See Note on page 3
-†See Note on Validation at page 3
-3-26 .. 1/2006
-29-44 .. 1/2006
-47-170 .. 1/2006 171-202 ..
+*See Note on page 3 †See Note on Validation at page 3
 Index of Subsidiary Legislation
 Page
-Defence (Enlistment and Service) Regulations (7 of 1962) … … 154 Defence (Officers) Regulations (7 of 1962) ... 167 Defence (Pay and Superannuation) (Transferred Officers) Regulations (19 of 1967) 170 Defence (Pay and Superannuation) (Transferred Officers) (Prescribed Bodies and
-Authorities) Regulations (134/1974) ... 175 Defence Force (Administrative Inspections) Regulations (82/1975) … … 177 Defence (Special Service Commissions) Regulations (LN 104/1987) … … 180 Defence (Pensions, Terminal and Other Grants) Regulations (GN No. 38 of 1968) 190
+Defence (Enlistment and Service) Regulations (7 of 1962) … … … 154
+Defence (Officers) Regulations (7 of 1962) ... 167
+Defence (Pay and Superannuation) (Transferred Officers) Regulations (19 of 1967) 170
+Defence (Pay and Superannuation) (Transferred Officers) (Prescribed Bodies and
+Authorities) Regulations (134/1974) ... 175
+Defence Force (Administrative Inspections) Regulations (82/1975) … … 177
+Defence (Special Service Commissions) Regulations (LN 104/1987) … … 180
+Defence (Pensions, Terminal and Other Grants) Regulations (GN No. 38 of 1968) 190
 Note on Omissions
 The following Subsidiary Legislation have been omitted:
 PART A
@@ -38,13 +30,10 @@ PART B
 (a) Notifications made under section 5;
 (b) Orders made under section 189;
 (c) Proclamations made under 238.
-NB-(For references to the omitted Subsidiary Legislation see the latest Edition of the Consolidated Index of Acts and Subsidiary Legislation).
-Note on Act No. 18 of 1994
-For the discretion of the Court to deny bail to a defendant who is in custody in pursuance of the sentence of a Court or any authority acting under the Defence Act, see section 6(2)(c) of Act No. 18 of 1994.
+NB-(For references to the omitted Subsidiary Legislation see the latest Edition of the Consolidated Index of Acts and Subsidiary Legislation). For the discretion of the Court to deny bail to a defendant who is in custody in pursuance of the sentence of a Court or any authority acting under the Defence Act, see section 6(2)(c) of Act No. 18 of 1994.
 Note on Validation
 For the validation of all acts and things done under the Act, see section 4 of Act No. 25 of 2000.
-CHAPTER 14:01
-DEFENCE ACT
+CHAPTER 14:01 DEFENCE ACT
 ARRANGEMENT OF SECTIONS SECTION
 PART I
 PRELIMINARY
@@ -80,7 +69,8 @@ OUT OF MILITARY SERVICE
 33. Aiding the enemy. 34. Communication with the enemy. 35. Cowardly behaviour. 36. Offences against morale. 37. Becoming a prisoner of war through disobedience or wilful neglect;
 and failure to rejoin forces.
 38. Offences by or in relation to sentries, etc.
-ARRANGEMENT OF SECTIONS-Continued SECTION
+ARRANGEMENT OF SECTIONS-Continued
+SECTION
 39. Sleeping on watch or abandoning post. 40. Looting.
 MUTINY AND INSUBORDINATION
 41. Mutiny. 42. Failure to suppress mutiny. 43. Insubordinate behaviour. 44. Disobedience to particular orders. 45. Obstruction of provost officers. 46. Disobedience to standing orders.
@@ -141,7 +131,8 @@ AND FINALITY OF TRIALS
 disposed of.
 INQUIRIES
 131. Boards of inquiry. 132. Inquiries into absence.
-ARRANGEMENT OF SECTIONS-Continued SECTION
+ARRANGEMENT OF SECTIONS-Continued
+SECTION
 MISCELLANEOUS PROVISIONS
 133. Restitution or compensation for theft, etc. 134. Appointment of judge advocate. 135. Promulgation. 136. Custody of proceedings of Court-martial and right of accused to a
 copy thereof.
@@ -195,7 +186,8 @@ USE OF UNIFORMS AND DRILLING
 PART X
 RESERVE
 221. Reservists. 222. Annual training. 223. Calling out of the reserve on temporary service. 224. Calling out of the reserve on permanent service. 225. Punishment for non-attendance. 226. Record of illegal absence.
-ARRANGEMENT OF SECTIONS-Continued SECTION
+ARRANGEMENT OF SECTIONS-Continued
+SECTION
 227. Discharge during service. 228. Regulations as to the reserve.
 PART XI
 VOLUNTEER DEFENCE FORCE
