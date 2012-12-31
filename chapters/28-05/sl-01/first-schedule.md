@@ -135,4 +135,3 @@ Ships which have had, or have a case of smallpox on board either during the voya
 (4) Bedding which has been used, soiled linen, wearing apparel and other articles which the sanitary authority consider to have been recently infected shall be disinfected;
 (5) Only the parts of the ship which have been occupied by persons ill with smallpox and which the sanitary authority regard as infected shall be disinfected.
 The ship shall immediately be given free pratique. It rests with each Government to take, after disembarkation, the measures which they consider appropriate to ensure the surveillance of persons who are not protected by vaccination, and who arrive on a ship which has had no case of smallpox on board, but who have left a local area, where smallpox is epidemic within the previous fourteen days.
-Quarantine (Maritime) Regulations [Subsidiary]

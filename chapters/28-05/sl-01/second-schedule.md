@@ -2,18 +2,16 @@
 DECLARATION OF HEALTH
 (To be rendered by the masters of ships arriving from ports outside Trinidad and Tobago).
 Before answering questions please read instructions overleaf.
-Port of... Date ... Name of Vessel... From... To... Nationality... Master's name ... Net Registered Tonnage...
-} Deratisation or Certificate Dated ... Deratisation Exemption Issued at ...
+} Port of... Date ... Name of Vessel... From... To... Nationality... Master's name ... Net Registered Tonnage... Deratisation or Certificate Dated ... Deratisation Exemption Issued at ...
 } No. of Cabin... No. of Passengers Deck... Crew... List of ports of call from commencement of voyage with dates of departure.
-Answer Yes or No
-HEALTH QUESTIONS
+Answer Yes or No HEALTH QUESTIONS
 1. Has there been on board during the voyage* any case or suspected case of plague, cholera, yellow fever, typhus fever or smallpox? Insert particulars in the Schedule.
 2. Has plague occurred or been suspected amongst the rats or mice on board during the voyage,* or has there been an unusual mortality amongst them?
 3. Has any person died on board during the voyage* otherwise than as a result of accident? Insert particulars in Schedule.
 4. Is there on board or has there been during the voyage* any case of illness which you suspect to be of an infectious nature? Insert particulars in Schedule.
 5. Is there any sick person on board now? Insert particulars in Schedule.
-Note.-In the absence of a surgeon, the master should regard the following symptoms as ground for suspecting the existence of infectious disease; fever accompanied by prostration or persisting for several days, or attended with glandular swellings, or any acute * If more than six weeks have elapsed since the voyage began, it will suffice to give particulars for
-the last six weeks.
+Note.-In the absence of a surgeon, the master should regard the following symptoms as ground for suspecting the existence of infectious disease; fever accompanied by prostration or persisting for several days, or attended with glandular swellings, or any acute * If more than six weeks have elapsed since the voyage began, it will suffice to give particulars
+for the last six weeks.
 Quarantine (Maritime) Regulations [Subsidiary]
 HEALTH QUESTIONS-(Continued)
 Answer Yes or No skin rash or eruption with or without fever; severe diarrhoea or diarrhoea with symptoms of collapse; jaundice accompanied by fever.
