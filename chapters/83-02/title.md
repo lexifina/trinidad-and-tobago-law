@@ -2,9 +2,11 @@ SECURITIES ACT
 CHAPTER 83:02
 Act
 *17 of 2012
+Amended by
+9 of 2014
 *See Note on page 2
 Note on Subsidiary Legislation
-This Chapter contains subsidiary legislation enacted under Act No. 32 of 1995.
+This Chapter contains subsidiary legislation enacted under Act No. 32 of 1995, which has been saved by Act No. 17 of 2012 and is attached as an Appendix to this Act.
 Note on Consequential Amendments
 Section 172 of this Act (No. 17 of 2012) amended both the Proceeds of Crime Act (Ch. 11:27) and the Financial Institutions Act (Ch. 79:09). These amendments have been duly incorporated into the respective Acts and section 172 deleted accordingly.
 CHAPTER 83:02
@@ -35,10 +37,12 @@ DEPOSITORY
 34. Registration of Stock Exchange and Central Depository. 35. Rules of the Stock Exchange and Central Depository.
 DIVISION 2-SELF-REGULATORY ORGANISATIONS
 36. Registration of a self-regulatory organisation. 37. Registration requirements. 38. Application for registration. 39. Obligatory rules of governance. SECTION
-40. Procedure on proposed amendment to rules of governance. 41. Power of Commission to require change in rules of governance. 42. Restriction on imposition of fees schedule. 43. Membership. 44. Filing of copy of decision with Commission. 45. Delisting of securities. 46. Appointment of auditor. 47. Contingency fund of securities exchange. 48. Sanctions re: self-regulatory organisations. 49. Complaints re: self-regulatory organisations and market actors. 50. Dispute between members.
+40. Procedure on proposed amendment to rules of governance. 41. Power of Commission to require change in rules of governance. 42. Restriction on imposition of fees schedule. 43. Membership. 44. Application for review. 45. Delisting of securities. 46. Appointment of auditor. 47. Contingency fund of securities exchange. 48. Sanctions re: self-regulatory organisations. 49. Complaints re: self-regulatory organisations and person required to
+be registered.
+50. Dispute between members.
 PART IV
 REGISTRATION OF REGISTRANTS
-51. Registration requirement. 52. Registration by the Commission. 53. Transitional provisions. 54. Requirements for substantial shareholders of registrants. 55. Termination and suspension of registered representative status. 56. Application for registration and continuing disclosure. 57. Suspension of registration, warning, censure. 58. Revocation of registration. 59. Surrender of registration. 60. Offence. 61. Registration of reporting issuers. 62. Registration of securities.
+51. Registration requirement. 52. Registration by the Commission. 53. Transitional provisions. 54. Requirements for substantial shareholders of registrants. 55. Termination and suspension of registered representative status. 56. Application for registration and continuing disclosure. 57. Issue of warning. 58. Revocation of registration. 59. Surrender of registration. 60. Offence. 61. Registration of reporting issuers. 62. Registration of securities.
 PART V DISCLOSURE OBLIGATIONS OF REPORTING ISSUERS
 63. Annual reports. 64. Timely disclosure of material changes. 65. Annual financial statements. 66. Interim financial statements. 67. Filing and delivery of financial statements.
 ARRANGEMENT OF SECTIONS-Continued SECTION
@@ -56,11 +60,11 @@ THROUGH A SECURITIES EXCHANGE
 DIVISION 3-RECORD-KEEPING AND COMPLIANCE REVIEWS 87. Record-keeping. 88. Provision of information to the Commission. SECTION
 89. Compliance reviews. 90. Compliance directions.
 DIVISION 4-MARKET MANIPULATION OFFENCES
-91. False trading and artificial prices in a securities market. 92. Price rigging. 93. Dissemination of information containing a misrepresentation. 94. Securities market manipulation. 95. Use of fradulent or deceptive devices. 96. Excessive trading. 97. Standard of conduct for registrants. 98. Restrictions on recommendation. 99. Offence.
+91. False trading and artificial prices in a securities market. 92. Price rigging. 93. Dissemination of information containing a misrepresentation. 94. Securities market manipulation. 95. Use of fraudulent or deceptive devices. 96. Excessive trading. 97. Standard of conduct for registrants. 98. Restrictions on recommendation. 99. Offence.
 DIVISION 5-INSIDER TRADING
 100. Prohibition on use of material non-public information. 101. Prohibition on the disclosure of material non-public information. 102. Offence. 103. Transaction not void or voidable. 104. Exceptions to sections 100 and 101. 105. Defence not available. 106. Presumptions.
 DIVISION 6-MARKET PRACTICES
-107. Client accounts. 108. Market actor to send documents to beneficial owner. 109. Confirmation to be sent to client. 110. Notification to Commission. 111. Restriction on trading at residence. 112. Control of advertisement. 113. Seller of security to declare non-ownership. 114. Declaration as to short position. 115. Prohibition on use of name of another registrant. 116. Representation as to registration. 117. Approval of Commission not to be advertised.
+107. Client accounts. 108. Registrant to send documents to beneficial owner. 109. Confirmation to be sent to client. 110. Notification to Commission. 111. Restriction on trading at residence. 112. Control of advertisement. 113. Seller of security to declare non-ownership. 114. Declaration as to short position. 115. Prohibition on use of name of another registrant. 116. Representation as to registration. 117. Approval of Commission not to be advertised.
 ARRANGEMENT OF SECTIONS-Continued SECTION
 PART VIII
 SIMPLIFIED CLEARING FACILITIES
@@ -79,7 +83,8 @@ DIVISION 1-GUIDELINES AND BYE-LAWS
 DIVISION 2-INVESTIGATIONS
 150. Investigations by the Commission. 151. Power to obtain information and documents. 152. Restrictions on withholding or concealing. 153. Protection of persons providing information.
 DIVISION 3-ORDERS OF THE COMMISSION
-154. Power to order cessation of trading or distributions. 155. Orders in the public interest. 156. Order for administrative fine. 157. Procedures for orders of the Commission.
+154. Power to order cessation of trading or distributions. 155. Orders in the public interest. 156. Order for administrative fine. 156A. Administrative fines may be imposed for certain offences. 156B. Jurisdiction and limitation.
+157. Procedures for orders of the Commission.
 DIVISION 4-MARKET MISCONDUCT PROCEEDINGS
 158. Market misconduct proceedings.
 DIVISION 5-HEARINGS
@@ -90,10 +95,11 @@ ARRANGEMENT OF SECTIONS-Continued SECTION
 DIVISION 7-ORDERS OF THE HIGH COURT
 162. Court order for enforcing compliance. 163. Appointment of receiver or receiver-manager. 164. Appointment of liquidator.
 DIVISION 8-OFFENCES
-165. General offences. 166. Liability of senior officer. 167. Costs. 168. Referral of matters to Director of Public Prosecutions. 169. Notice of adverse report.
+165. General offences. 166. Liability of senior officer. 167. Costs. 168. Referral of matters to Director of Public Prosecutions. 169. Notice of adverse report. 169A. Freedom of Information Act, Ch. 22:02 to apply.
 PART XII
 REPEAL AND TRANSITIONAL PROVISIONS
 170. Transitional provisions. 171. Act No. 32 of 1995 repealed.
+SCHEDULE. APPENDIX.
 
 CHAPTER 83:02
 SECURITIES ACT
