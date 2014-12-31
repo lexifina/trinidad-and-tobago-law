@@ -3,16 +3,9 @@ CHAPTER 11:19
 Act
 22 of 1963
 Amended by
-3 of 1967 1 of 1986 22 of 1973 3/1986 39 of 1978
-36 of 1989
-146/1982
-4 of 1992
-3/1983
-5 of 1995
-13 of 1983
-8 of 1996
-7 of 1985
-1 of 1997 23/1985 2 of 2012 198/1985
+3 of 1967 1 of 1986 22 of 1973 3/1986 39 of 1978 36 of 1989 146/1982 4 of 1992
+3/1983 5 of 1995
+13 of 1983 8 of 1996 7 of 1985 1 of 1997 23/1985 2 of 2012 198/1985 4 of 2014
 Index of Subsidiary Legislation
 Page Gambling and Betting (Licences) Regulations (GN 87/1963) … … 50
 Note on Subsidiary Legislation
@@ -30,9 +23,9 @@ GAMBLING
 }
 10. Exempted premises. 11. Conditions as to gambling in houses and clubs. 12. Persons present at gambling on premises deemed a common gaming
 house.
-13. Gambling machines. 14.
-(Repealed by Act No. 8 of 1996).
-to 15. 16. Additional saving for lotteries.
+13. (Repealed by Act No. 4 of 2014). 14.
+(Repealed by Act No. 8 of 1996). to
+15. 16. Additional saving for lotteries.
 LOTTERIES
 17. Interpretation of section 16 and sections 18 to 25. 18. Illegality of lotteries. 19. Offences in connection with lotteries. 20. Exemption of lotteries incidental to certain entertainments. 21. Exemption of certain small lotteries conducted for charitable,
 sporting or other purposes. ARRANGEMAENT OF SECTIONS-Continued SECTION
