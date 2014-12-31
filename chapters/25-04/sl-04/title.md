@@ -1,0 +1,4 @@
+MUNICIPAL POLICE OFFICER (DUTY ALLOWANCE)
+ORDER
+made under section 60
+- Margin: 391/2014.
