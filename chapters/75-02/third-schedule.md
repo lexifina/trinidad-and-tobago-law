@@ -47,7 +47,7 @@ the time when the debt was incurred) substantially less than the amount of the d
 (a) a person in any of the following relationships to the
 participator, that is to say, husband or wife, parent or remoter forebear, child or remoter issue, brother or sister, and partner;
 (b) the trustee or trustees of any settlement in relation to which
-the participator is, or any such relative of his (living or dead) as is mentioned in subparagraph (a) is or was, a settlor ("settlement" and "settlor" here having the same meaning as in section 72 of the Income Tax Act and "relative" including a husband or wife;
+the participator is, or any such relative of his (living or dead) as is mentioned in subparagraph (a) is or was, a settlor "settlement" and "settlor" here having the same meaning as in section 72 of the Income Tax Act and "relative" including a husband or wife;
 (c) where the participator is interested in any shares or
 obligations of the company which are subject to any trust or are part of the estate of a deceased person, any other person interested therein, and has a corresponding meaning in relation to a person other than a participator.
 "DIRECTOR" AND "WHOLE-TIME SERVICE DIRECTOR"
