@@ -20,3 +20,5 @@ s-18.md
 s-19.md
 s-21.md
 second-schedule.md
+first-schedule.md
+first-schedule--2.md

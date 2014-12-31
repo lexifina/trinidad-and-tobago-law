@@ -4,7 +4,7 @@ Act
 18 of 1994
 Amended by
 19 of 2005
-*†32 of 2005
+*‡32 of 2005
 *30 of 2006
 *10 of 2007
 *15 of 2007
@@ -12,8 +12,9 @@ Amended by
 *17 of 2008
 *9 of 2011
 *11 of 2011
-*See Note on page 2
-†See Appendix on page 23
+†1 of 2014
+*See Note on page 2 †See Note on page 3
+‡See Appendix on page 23
 Note on Subsidiary Legislation
 This Chapter contains no subsidiary legislation.
 Note on Section 20
@@ -30,6 +31,8 @@ Note on Act No. 17 of 2008
 Act No. 17 of 2008 amended the Bail Act by substantially re-enacting the provisions of Act No. 32 of 2005 but with minor changes to subsection 5(4) and the Schedule. By section 7, Act No. 17 of 2008 would continue in force for a period of 5 years from the date of its commencement (i.e., from 19th September 2008 to 20th September 2013). Act No. 17 of 2008 is contained in an Appendix to this Act.
 Note on Acts Nos. 9 and 11 of 2011
 Act No. 9 of 2011 amended section 5A of the Bail Act while Act No. 11 of 2011 amended inter alia section 5 and the First Schedule of the Act. These amendments together with those contained in Act No. 17 of 2008 would continue in force for a period of five years from the date of the commencement of Act No. 11 of 2011 (i.e. from 15th August 2011 to 14th August 2016) by virtue of sections 8 and 9 of Act No. 11 of 2011, and are contained in an Appendix to the Act. See Appendix for those sections of the Act amended by Act No. 17 of 2008, Act No. 9 of 2011 and Act No. 11 of 2011 which came into force on 15th August 2011 (LN 158/2011).
+Note on Act No. 1 of 2014
+Act No. 1 of 2014 further amended section 5 and the First Schedule. These amendments are also contained in the Appendix to the Act and would expire on 15th August 2016.
 CHAPTER 4:60
 BAIL ACT
 ARRANGEMENT OF SECTIONS
