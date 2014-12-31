@@ -1,6 +1,6 @@
 # SECOND SCHEDULE
 APPLICATION OF PART III TO EXPENDITURE BEFORE
-THE APPOINTED DAY
+THE *APPOINTED DAY
 PART I
 PRELIMINARY
 1. The amount of expenditure which a person who, on the appointed day, is carrying on a trade which consists of or includes the working of a mine, oil well or other source of mineral deposits of a wasting nature is to be treated for certain purposes of Part III of this Act as having incurred on that day shall, except in the cases dealt with in Part III of this Schedule, be the amount specified in Part II thereof.
@@ -11,6 +11,7 @@ SCHEDULE DOES NOT APPLY
 3. Except in cases to which Part III of this Schedule applies, the amount of the appointed day expenditure shall be ascertained by-
 (a) ascertaining the total expenditure to which Part III of this Act
 applies which was incurred by the trader before the appointed day for the purposes of the trade and in connection with the source; and
+*By Act No. 4 of 2014 "appointed day" was replaced by "1st January 2014".
 (c) applying the fraction specified in paragraph 5 to the result.
 4. The said amounts are-
 (a) where any asset representing any part of the expenditure

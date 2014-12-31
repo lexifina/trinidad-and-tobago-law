@@ -2,21 +2,13 @@ INCOME TAX (IN AID OF INDUSTRY) ACT
 CHAPTER 85:04
 Act
 12 of 1950 Amended by
-5 of 1951 6 of 1981 73 of 1951 11 of 1984
-48 of 1955
-26 of 1985
-2/1963
-17 of 1992
-5 of 1964
-*5 of 1995
-29 of 1966
-39 of 2000
-46 of 1969
-2 of 2002 5 of 1970 21 of 2005 42 of 1970
-36 of 1973 2 of 2006 106/1974 30 of 2007 46 of 1976 13 of 2010
+5 of 1951 6 of 1981 73 of 1951 11 of 1984 48 of 1955 26 of 1985
+2/1963 17 of 1992
+5 of 1964 *5 of 1995 29 of 1966 39 of 2000 46 of 1969 2 of 2002 5 of 1970 21 of 2005 42 of 1970 2 of 2006 36 of 1973 30 of 2007 106/1974 13 of 2010
+4 of 2014 46 of 1976
 *See Note on page 2
 Index of Subsidiary Legislation
-Page Income Tax (Mineral Deposits) Regulations (GN 115/1950) … … … 83
+Page Income Tax (Mineral Deposits) Regulations (GN 115/1950) … … … 81
 Note on Submarine Production Allowance
 Section 10 of Act No. 26 of 1985 states that the submarine production allowance as referred to in Parts III and IV of this Act, is discontinued.
 Note on Act No. 5 of 1995
@@ -32,7 +24,8 @@ SECTION
 1A. Application of Act.
 2. Interpretation.
 PART I
-INDUSTRIAL BUILDINGS AND STRUCTURES, ETC.
+INDUSTRIAL BUILDINGS AND
+STRUCTURES, ETC.
 3. Initial allowances. 4. Annual allowances. 5. Balancing allowances and balancing charges. 6. Writing off of expenditure and meaning of "residue of expenditure". 7. Buildings and structures bought unused. 8. Cessation of depreciation allowances. 9. Definition of industrial building or structure. 10. Sports pavilions. 11. Meaning of "the relevant interest". 12. Temporary disuse of industrial buildings or structures. 13. Requisitioned land, holding over of leased land, and other special
 cases.
 14. Exclusion of double allowances, etc. 15. Interpretation of Part I.
@@ -40,11 +33,12 @@ cases.
 PART II
 MACHINERY AND PLANT
 16. Initial allowances.
-16A. Initial and first year allowances. 16B. (Deleted by Act No. 21 of 2005).
+16A. (Repealed by Act No. 4 of 2014). 16B. (Deleted by Act No. 21 of 2005).
 17. Allowance for wear and tear. Amendment of section 11 of Income
 Tax Act.
-17A. Annual allowance. 17B. Previous allowance to be taken into account.
+17A. Allowance on machinery or plant.
 ARRANGEMENT OF SECTIONS-Continued SECTION
+17B. Previous allowance to be taken into account.
 18. Balancing allowances and balancing charges. 19. Replacement of machinery or plant. 20. Meaning of "expenditure unallowed". 21. Expenditure on alterations to buildings in connection with
 installation of machinery or plant.
 PART IIA
@@ -89,8 +83,9 @@ under Part I and Part II.
 ARRANGEMENT OF SECTIONS-Continued
 SECTION
 PART VIII
-HOUSING OF WORKERS EMPLOYED IN ANY OF THE TRADES MENTIONED IN THE FIRST SCHEDULE OR
-IN HUSBANDRY
+HOUSING OF WORKERS EMPLOYED IN
+ANY OF THE TRADES MENTIONED IN
+THE FIRST SCHEDULE OR IN HUSBANDRY
 56. Annual allowances for capital expenditure or workers' dwellings. 57. Limitation of annual allowances. 58. Mode of dealing with annual allowances after transfer of land, etc. 59. Cesser of annual allowances during temporary non-use of building. 60. Claims for deductions under Part VIII. 61. Interpretation. 62. Application of Part VIII.
 PART IX
 MISCELLANEOUS AND GENERAL
