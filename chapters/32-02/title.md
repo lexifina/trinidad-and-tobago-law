@@ -4,7 +4,23 @@ Act
 15 of 1939 Amended by
 19 of 1951 6 of 1991
 51/1992 37 of 1951
-22 of 1993 4 of 1952 24 of 1996 5 of 1954 9 of 1997 10 of 1958 35 of 1998 32 of 1960 8 of 1999 40 of 1961 91 of 2000 11 of 1964 2 of 2003 55 of 1970 21 of 2005 18 of 1974 *17 of 2007 4 of 1975 *30 of 2007 12 of 1976 *1 of 2009 18 of 1981 *6 of 2010 2 of 1982 13 of 2010 15/1987 *2 of 2012 9 of 1990
+22 of 1993 4 of 1952 24 of 1996 5 of 1954 9 of 1997
+10 of 1958
+35 of 1998
+32 of 1960
+8 of 1999
+40 of 1961
+91 of 2000
+11 of 1964
+2 of 2003
+55 of 1970
+21 of 2005
+18 of 1974
+*17 of 2007
+4 of 1975
+*30 of 2007
+12 of 1976 *1 of 2009 18 of 1981 *6 of 2010 2 of 1982 13 of 2010 15/1987 *2 of 2012
+*289/2014 9 of 1990
 *See Note on page 3
 Index of Subsidiary Legislation
 Page Senior Citizens' Pension Regulations (GN 94/1954) … … … 11
@@ -39,6 +55,8 @@ received the Senior Citizens' Grant from 1st May 2010 to 31st August 2010 is of 
 Under paragraph (p) of section 16 of the Law Revision Act (Ch. 3:03), the Commission amended all references to the word "grant" appearing in the Regulations so as to bring these provisions in conformity with the Act.
 Note on Act No. 2 of 2012
 Amendments made to section 3 by Act No. 2 of 2012 took effect from 1st February 2012.
+Note on Legal Notice No. 289/2014
+The amendments made to the Schedule of this Act by LN 289/2014 took effect from 1st October 2014.
 CHAPTER 32:02
 SENIOR CITIZENS' PENSION ACT
 ARRANGEMENT OF SECTIONS SECTION
