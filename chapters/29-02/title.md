@@ -2,11 +2,9 @@ EMERGENCY AMBULANCE SERVICES AND EMERGENCY MEDICAL PERSONNEL ACT
 CHAPTER 29:02
 Act
 8 of 2009
-1-53 …
-Note on Subsidiary Legislation
-This Chapter contains no subsidiary legislation.
-Note on Commencement
-At the date of the Revision of this Act, sections 42 to 60, 63, 66 and Schedules 2 to 5 were awaiting Proclamation.
+Index of Subsidiary Legislation
+Page Emergency Ambulance Services and Emergency Medical Personnel
+Regulations (58/2013) ... 54
 Note on Chapter 48:50
 Section 66 of this Act amended Chapter 48:50 and these amendments have been duly incorporated into that Act.
 CHAPTER 29:02
@@ -38,7 +36,8 @@ AMBULANCE SERVICES LICENCE
 21. Requirement to be licensed. 22. Application to conduct ambulance services. 23. Minister to forward application to Committee. 24. Grant of Ambulance Services Licence and validity. 25. Conditions of Ambulance Services Licence. 26. Grounds for refusal of Ambulance Services Licence. 27. Renewal of Ambulance Services Licence. 28. Revocation or suspension of Ambulance Services Licence. 29. Voluntary surrender of Ambulance Services Licence. 30. Display of Ambulance Services Licence. 31. Appeal Committee. 32. Appeals. 33. Prohibition on advertising or holding out. 34. Emergency Ambulance Services Register. 35. Publication of lists.
 PART VI
 EMERGENCY MEDICAL PERSONNEL
-36. Scope of practice for emergency medical personnel. 37. Establishment of Emergency Medical Personnel Board. 38. Membership of the Board. 39. Powers of the Board. 40. Establishment and constitution of the Council. 41. Interim Council. 42. Vacancies in the Council and filling thereof. 43. Officers of the Council. 44. Powers and objects of the Council. 45. Application of common seal. 46. Execution of contracts or instrument by the Board. 47. General meeting. 48. Financial year. 49. Rules of the Board. 50. Functions of the Registrar. 51. Prohibition on providing emergency medical services and
+36. Scope of practice for emergency medical personnel. 37. Establishment of Emergency Medical Personnel Board. 38. Membership of the Board. 39. Powers of the Board. 40. Establishment and constitution of the Council. 41. Interim Council. 42. Vacancies in the Council and filling thereof. 43. Officers of the Council. 44. Powers and objects of the Council. 45. Application of common seal. SECTION
+46. Execution of contracts or instrument by the Board. 47. General meeting. 48. Financial year. 49. Rules of the Board. 50. Functions of the Registrar. 51. Prohibition on providing emergency medical services and
 application for registration.
 52. Register of Emergency Medical Personnel. 53. Inspection and publication of register. 54. Suspension from practice because of disability. 55. Exercise of disciplinary powers over members by the Council. 56. Appeals from decisions of the Council. 57. Reinstatement. 58. Prohibition on advertising or holding out. 59. Service of documents on the Board. 60. Council to make Regulations.
 PART VII
