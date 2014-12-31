@@ -1,0 +1,50 @@
+ARRANGEMENT OF REGULATIONS-Continued
+REGULATION
+QUALITY SYSTEM FOR AERONAUTICAL DATA
+29. Quality system for aeronautical data.
+THE DIRECTOR-GENERAL TO MAKE AVAILABLE AERODROME
+OBSTACLE CHART-ICAO TYPE A
+30. The Director-General to make available Aerodrome Obstacle Chart-ICAO
+Type A.
+THE DIRECTOR-GENERAL TO MAKE AVAILABLE EN ROUTE
+CHART-ICAO
+31. The Director-General to make available En Route Chart-ICAO.
+THE DIRECTOR-GENERAL TO MAKE AVAILABLE AREA
+CHART-ICAO
+32. The Director-General to make available Area Chart-ICAO.
+THE DIRECTOR-GENERAL TO MAKE AVAILABLE STANDARDS
+DEPARTURE CHART-INSTRUMENT (SID)-ICAO
+33. The Director-General to make available Standards Departure Chart-
+Instrument (SID)-ICAO.
+THE DIRECTOR-GENERAL TO MAKE AVAILABLE STANDARD
+ARRIVAL CHART-INSTRUMENT (STAR)-ICAO
+34. The Director-General to make available Standard Arrival Chart-
+Instrument (STAR)-ICAO.
+THE DIRECTOR-GENERAL TO MAKE AVAILABLE INSTRUMENT
+APPROACH CHART-ICAO
+35. The Director-General to make available Instrument Approach Chart-
+ICAO.
+THE DIRECTOR-GENERAL TO MAKE AVAILABLE VISUAL
+APPROACH CHART-ICAO
+36. The Director-General to make available Visual Approach Chart-ICAO. REGULATION
+THE DIRECTOR-GENERAL TO MAKE AVAILABLE AERODROME OR
+HELICOPTER CHART
+37. The Director-General to make available Aerodrome or Helicopter Chart.
+THE DIRECTOR-GENERAL TO MAKE AVAILABLE AERONAUTICAL
+CHART-ICAO 1:500 000
+37A. The Director-General to make available Aeronautical Chart-ICAO 1:500 000.
+THE DIRECTOR-GENERAL TO MAKE AVAILABLE AERODROME
+TERRAIN AND OBSTACLE CHART-ICAO (ELECTRONIC)
+37B. The Director-General to make available Aerodrome Terrain and Obstacle Chart-ICAO (Electronic).
+PART V
+STANDARDS FOR AERONAUTICAL TELECOMMUNICATION
+38. Standards for Aeronautical Telecommunication.
+PART VI
+STANDARDS FOR METEOROLOGICAL SERVICE
+39. Standards for meteorological service.
+SCHEDULE 1. SCHEDULE 2. SCHEDULE 3.
+CIVIL AVIATION [(NO. 15) AIR NAVIGATION
+SERVICES] REGULATIONS
+made under section 33
+PART I
+- Margin: 308/2006. [100/2009 204/2009 261/2011 244/2012].
