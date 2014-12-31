@@ -1,0 +1,3 @@
+REGISTRATION OF BIRTHS (FORM) REGULATIONS
+made under section 54(1)
+- Margin: 78/2003.
