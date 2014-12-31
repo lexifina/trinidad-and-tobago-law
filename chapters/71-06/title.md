@@ -4,7 +4,7 @@ DEVELOPMENT) LOANS ACT
 CHAPTER 71:06
 Act
 2 of 1967
-by L.R.O. (inclusive)
+1/2006
 Note on Subsidiary Legislation
 This Chapter contains no subsidiary legislation.
 CHAPTER 71:06
