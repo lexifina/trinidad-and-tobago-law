@@ -1,10 +1,8 @@
 OLD METAL AND MARINE STORES ACT
 CHAPTER 84:07
 Act
-12 of 1904
-Amended by
-41 of 1942
-3 of 1994
+12 of 1904 Amended by 41 of 1942
+51/1980 3 of 1994 6 of 2014
 Note on Subsidiary Legislation
 This Chapter contains no subsidiary legislation.
 Note on Adaptation
@@ -12,11 +10,14 @@ Certain fees in this Chapter were increased by the Commission under paragraph 4 
 CHAPTER 84:07
 OLD METAL AND MARINE STORES ACT
 ARRANGEMENT OF SECTIONS SECTION
-1. Short title. 2. Interpretation. 3. Dealers to be licensed. 4. Licences. 5. Signboard. 6. Dealer to keep book. Times for dealing. Persons under 16 years. Idem. Minimum quantity.
-7. Power of entry and inspection. 8. Goods purchased to be kept for 15 days. Exemption.
-9. Failing to give information to Police.
-10. Penalties. 11. Licence may be cancelled on conviction. 12. Appropriation of moneys.
-FIRST SCHEDULE. SECOND SCHEDULE.
+1. Short title. 2. Interpretation. 3. Dealers to be licensed. 4. Licences.
+4A. Dispute resolution. 4B. Review of decisions of licensing committee and appeals from
+Magistrates' decisions.
+5. Signboard. 6. Dealer to keep book.
+Times for dealing. Persons under 16 years. Idem. Minimum quantity.
+7. Power of entry and inspection. 8. Goods purchased to be kept for 15 days.
+Exemption.
+9. Failing to give information to Police. 10. Penalties. 11. Licence may be cancelled on conviction. 12. Appropriation of moneys. FIRST SCHEDULE. SECOND SCHEDULE.
 
 CHAPTER 84:07
 OLD METAL AND MARINE STORES ACT
