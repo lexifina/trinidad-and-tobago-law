@@ -3,15 +3,24 @@ CHAPTER 69:01
 Act
 20 of 1959
 Amended by
-176/1961 18/1984 *52/1962 90/1989 †8/1962 18 of 1998 97/1963 23 of 1998
-25 of 1964 195/2000 18 of 1966 217/2000
-7/1978 198/2001
-179/1978 95/2003
-3/1979 280/2004 4/1979 329/2004 5/1979 13/2005
-185/1979 235/2005 152/1982 302/2006
+176/1961 22/1998 161/1977
+23 of 1998 *52/1962 7/1978 195/2000 †8/1962 179/1978 217/2000 97/1963
+3/1979
+198/2001
+108/1965 4/1979
+95/2003
+25 of 1964 5/1979
+280/2004
+18 of 1966 185/1979
+329/2004
+14/1974 152/1982
+13/2005
+163/1975 18/1984 235/2005
+2/1976 90/1989 302/2006 22/1976 170/1997 255/2013
+281/2014 188/1976 347/1997 4 of 2014 3/1977 18 of 1998
 *Before Independence †After Independence
 Index of Subsidiary Legislation
-Page Contingencies Fund Increase Resolution (GN 136/1979) … … … 27 Financial Regulations (GN 118/1965) … … … 28 Delegation of Powers (Exchequer and Audit) Order (LN 80/1988) … … 68
+Page Contingencies Fund Increase Resolution (GN 136/1979) … … … 30 Financial Regulations (GN 118/1965) ... 31 Delegation of Powers (Exchequer and Audit) Order (LN 80/1988) … … 71
 Note on Adaptation
 Under paragraph 6 of the Second Schedule to the Law Revision Act (Ch. 3:03) the Commission amended certain references to public officers in this Chapter. The Minister's approval of the amendments was signified by LN 120/1980, but no marginal reference is made to this Notice where any such amendment is made in the text.
 Note on section 37 of the Act
@@ -29,19 +38,25 @@ PART II CONTROL AND MANAGEMENT OF PUBLIC FINANCES
 3. Management of the Public Finances. 4. Powers of the Treasury. 5. Control of Expenditure and Revenue. 6. Bank Account.
 PART III
 DUTIES AND POWERS OF THE AUDITOR GENERAL
-7. Restriction on Auditor General. 8. Tenure of Office of Auditor General. 9. Examination by Auditor General.
-10. Powers of the Auditor General. 11. Staff and delegation of functions of the Auditor General.
+7. Restriction on Auditor General. 8. Tenure of Office of Auditor General. 9. Examination by Auditor General. 10. Powers of the Auditor General. 11. Staff and delegation of functions of the Auditor General.
 PART IV
 COLLECTION, ISSUE AND PAYMENT OF
 PUBLIC MONEYS
 12. Exchequer Account. 13. Consolidated Fund. 14. Bank Return. 15. Advances to Government. 16. Establishment of Contingencies Fund. 17. Treasury Deposits.
-ARRANGEMENT OF SECTIONS-Continued SECTION
+ARRANGEMENT OF SECTIONS-Continued
+SECTION
 18. Granting credits on the Exchequer Account. 19. Issues from the Exchequer Account to be paid into bank account. 20. Overdraft on the Exchequer Account. 21. Issue from the Consolidated Fund. 22. Investment of moneys in the Consolidated Fund. 23. Erroneous payments.
+PART IVA
+ELECTRONIC FUNDS TRANSFER
+23A. Electronic funds transfer. 23B. Regulations for this Part.
 PART V
-AUDIT OF PUBLIC ACCOUNTS AND THE PROTECTION AND RECOVERY OF PUBLIC PROPERTY
+AUDIT OF PUBLIC ACCOUNTS AND THE
+PROTECTION AND RECOVERY OF PUBLIC PROPERTY
 24. Annual Accounts. 25. Annual Report of the Auditor General. 26. Notification of irregularities to the Treasury. 27. Surcharge by Minister. 28. Notification of surcharge. 29. Withdrawal of surcharge. 30. Recovery of surcharge.
-PART VI CONTROLS OF THE FINANCE OF STATUTORY BODIES
-31. Audit of accounts of statutory bodies. 32. Application of certain sections to statutory bodies. 33. Capital budget. 34. Income and expenditure budget. 35. Advances. 36. Borrowings. 37. Payment of surplus funds to Consolidated Fund. 38. Deposits to special account. 39. Appointment of auditor by Minister. 40. Annual reports and accounts. 41. Examination of accounts of Auditor General's Department. SECTION
+PART VI
+CONTROLS OF THE FINANCE OF STATUTORY BODIES
+31. Audit of accounts of statutory bodies. 32. Application of certain sections to statutory bodies. 33. Capital budget. 34. Income and expenditure budget. 35. Advances. 36. Borrowings. SECTION
+37. Payment of surplus funds to Consolidated Fund. 38. Deposits to special account. 39. Appointment of auditor by Minister. 40. Annual reports and accounts. 41. Examination of accounts of Auditor General's Department.
 PART VII
 GENERAL
 42. Duration of Appropriation Act. 43. Establishment of Funds. 44. Transfer of certain accounts to the Consolidated Fund. 45. Regulations. 46. Saving.
