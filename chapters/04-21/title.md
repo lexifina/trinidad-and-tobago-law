@@ -12,7 +12,8 @@ Note on Adaptation
 Under paragraph 6 of the Second Schedule to the Law Revision Act (Ch. 3:03) the Commission amended certain references to public officers in this Chapter. The Minister's approval of the amendments was signified by LN 52/1980, but no marginal reference is made to this Notice where any such amendment is made in the text.
 CHAPTER 4:21
 PETTY CIVIL COURTS ACT
-ARRANGEMENT OF SECTIONS SECTION
+ARRANGEMENT OF SECTIONS
+SECTION
 1. Short title. 2. Interpretation. 3. Districts.
 Assignment of Magistrates to districts; and jurisdiction.
 4. Sittings. 5. Office hours. 6. Clerks to be assigned to districts. 7. Deputies. 8. General jurisdiction. 9. Abandonment of part of claim to give Court jurisdiction.
@@ -41,6 +42,6 @@ CHAPTER 4:21
 PETTY CIVIL COURTS ACT
 An Act relating to Petty Civil Courts.
 [1ST MAY 1911]
-- Margin: 1950 Ed. Ch. 3 No. 3
+- Margin: 1950 Ed. Ch. 3. No. 3
 - Margin: 9 of 1911.
 - Margin: Commencement.

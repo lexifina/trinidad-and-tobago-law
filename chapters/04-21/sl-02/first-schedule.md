@@ -33,24 +33,23 @@ exceed $300.00 ... 45.00
 2. Where the claim is for an unliquidated demand or for a liquidated demand in respect of which judgment is obtained after trial, and-
 (a) the subject matter involved or sum recovered or amount
 claimed (as the Judge shall direct) does not exceed $150.00 such sum as the Judge may award not exceeding … 45.00
-Petty Civil Courts Rules
 $ ¢.
 (b) the subject matter involved or sum recovered or amount
 claimed (as the Judge shall direct) exceeds $150.00 but does not exceed $300.00 such sum as the Judge may award not exceeding ... 75.00
-In Actions for Amounts Exceeding $300.00 but not Exceeding $1,200.00
+In Actions for Amounts Exceeding $300.00 but not
+Exceeding $1,200.00
 3. Where the claim is for a liquidated demand and judgment is obtained by default or confession and the sum recovered exceeds $300.00 but does not exceed $1,200.00 … … … 50.00
 4. Where the claim is for an unliquidated demand, or for a liquidated demand in respect of which judgment is obtained after trial, and the subject matter involved or sum recovered or amount claimed (as the Judge shall direct) exceeds $300.00 but does not exceed $1,200.00 ... 200.00
 In Actions for Amounts Exceeding $1,200.00
 5. Where the claim is for a liquidated demand and judgment is obtained by default or confession and the sum recovered exceeds $1,200.00 ... 75.00
 6. Where the claim is for an unliquidated demand or for a liquidated demand in respect of which judgment is obtained after trial, and the subject matter involved or sum recovered or amount claimed (as the Judge shall direct) exceeds $1,200.00 such sum as the Judge may award not being less than $250.00 and not exceeding ... 500.00
-Applications on Notice other than for Leave to Issue Proceedings
-Out of the Jurisdiction
+Applications on Notice other than for Leave to Issue
+Proceedings Out of the Jurisdiction
 7. For leave to defend, for stay of execution or for any other necessary or proper application-
 (a) where the subject matter involved or sum recovered
 or amount claimed in the action (as the Judge shall direct) does not exceed $300.00, such sum as the Judge may award not exceeding ... 25.00
 (b) where the subject matter involved or sum recovered or
 amount claimed in the action (as the Judge shall direct) not exceeding ... 500.00
-FIRST SCHEDULE-Continued
 INSTRUCTING ATTORNEYS'-AT-LAW FEES-Continued
 $ ¢.
 Particulars
@@ -81,7 +80,6 @@ exceeding ... 500.00
 specific goods fees to Advocate Attorney-at-law and
 Instructing Attorney-at-law shall be according to the
 scale hereinabove provided for claims for unliquidated amount, the Judge fixing the value of the land or the rent payable in respect thereof whichever is higher, or the value of the goods for the purpose of determining the costs payable thereon.
-Petty Civil Courts Rules
 - Margin: Rule 49. [51/1980 201/1980 3 of 1994 5 of 1995].
 - Margin: [Subsidiary]
 - Margin: [Subsidiary]
