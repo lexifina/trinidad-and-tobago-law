@@ -11,9 +11,7 @@ The Bank of Nova Scotia Trust Company of The West Indies Limited.
 International Trust of Washington (Caribbean) Limited.
 International Trust Limited.
 Bank of Commerce Trust Company Trinidad and Tobago Limited.
-*This Order is a consolidation of the diverse Notices made under section 2(3)(d).
-[Subsidiary] Moneylenders (Exemption) Order
-International Finance Corporation
+*This Order is a consolidation of the diverse Notices made under section 2(3)(d). International Finance Corporation
 Overseas Private Investment Corporation
 Trade Confirmers Limited
 Total Finance Limited
@@ -26,17 +24,7 @@ The Inter-American Investment Corporation
 Kreditanstalf fur Wiederaufbau
 Trinidad and Tobago Water Finance Limited
 Trinidad and Tobago Development Foundation Limited (Fund Aid)
-Mayaro Initiative for Private Enterprise Development [Subsidiary]
-MONEYLENDERS RULES
-made under section 6(2)
-1. These Rules may be cited as the Moneylenders Rules.
-2. The forms set out in the Schedule shall be used in the
-cases to which they refer, with such variations as circumstances may require.
-3. In the case of an applicant being a company registered
-under the Companies Act, the application shall be signed by the Secretary or a Director of the Company, and the application shall be accompanied by copies of the memorandum and articles of association and of the last balance sheet, certified by some responsible officer of the Company as being true copies, together with a statement showing the names and addresses of all the Directors of the Company.
-4. In the case of an application by a firm, the application
-shall be signed by all the partners of the firm and shall state the name of the firm under which it is proposed to carry on business.
-[Subsidiary]
+Mayaro Initiative for Private Enterprise Development
 - Margin: 128/1965.
 - Margin: 6/1966.
 - Margin: 79/1967.
@@ -62,8 +50,3 @@ shall be signed by all the partners of the firm and shall state the name of the 
 - Margin: 43/1996.
 - Margin: 67/2000.
 - Margin: 6/2003.
-- Margin: G. 2.2.1933.
-- Margin: Citation.
-- Margin: Forms. Schedule.
-- Margin: Application. Ch. 81:01.
-- Margin: Application by firm.
