@@ -8,11 +8,11 @@ QUALIFICATIONS FOR A JUROR
 (Insert below the provisions of sections 4, 5 and 8 of the Act)
 (ENDORSEMENT)
 Return by Employer
-Whether Christian
+Whether First name
 Business
 Nature of qualification qualified and Place of
 Sex or
-as Special Surname under section 4(1)(e) Abode
+as Special Surname under section 8(1) Abode
 Occupation
 Juror in full
-- Margin: [Section 10(2)(d)].
+- Margin: Section 10(2)(d). [11 of 2014].
