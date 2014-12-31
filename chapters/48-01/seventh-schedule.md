@@ -1,7 +1,7 @@
 # SEVENTH SCHEDULE
 PROVISIONS OF THIS ACT TO WHICH
 SECTIONS 128, 132, 141, THEREOF APPLY
-1. Provisions contained in Part III- Section 16(3).
+1. Provisions contained in Part III- Section 16.
 2. Provisions contained in Part IV- Section 18(1).
 3. Provisions contained in Part V- Section 24(1) and section 31(3).
 4. Provisions contained in Part VII- Sections 48, 54, 55, 56, 57 to 63, 65 and 67.
