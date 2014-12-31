@@ -43,18 +43,18 @@ morphine)
 (35) Thebacon (acetyldihydrocodeinone) but not including
 (36) Apomorphine, and
 (37) Poppy seed.
-2. A. Coca (Erythroxylon), its preparations, derivatives, alkaloids and salts, as for example-
+2. A. Coca (Erythroxylon), its preparations, derivatives, alkaloids and salts, as for example:
 (1) Coca leaf
 (2) Cocaine (methyl ester of benzoyleogonine)
 (3) Ecgonine, its esters and derivatives which are convertible to
 ecgonine and cocaine.
 B. Synthetic cocaine.
-3. Cannabis, Cannabis sativa, Cannabis sativa L, their preparations, derivatives and similar synthetic preparations, as for example-
+3. Cannabis, Cannabis sativa, Cannabis sativa L, their preparations, derivatives and similar synthetic preparations, as for example:
 (1) Cannabis resin
 (2) Cannabis (marihuana)
 (3) Cannabinol (3-n-amyl-6, 6, 9-trimethyl-6-dibenzopyran-
 l-ol).
-4. Phenylpiperidines, their preparations, derivatives and salts, as for example-
+4. Phenylpiperidines, their preparations, derivatives and salts, as for example:
 (1) Alfentanil (N- (1-(2-(4-ethyl-4, 5-dihydro-5-oxo-1 H-
 tetrazol-l-ylethyl)-4-(methoxymethyl)-4-piperidinyl)-
 N-phenylpropanamide monohydrochloride
@@ -113,12 +113,12 @@ pyridylpropionamide)
 piperidyl)-propionanilide)
 (29) Trimeperidine (1, 2, 5-trimethyl-4-phenyl-4-
 propionoxypiperidine).
-5. Phenazepines, their preparations, derivatives and salts, as for example:-
+5. Phenazepines, their preparations, derivatives and salts, as for example:
 (1) Proheptazine (hexahydro-l, 3-dimethyl-4-phenyl-4-
 azepinyl propionate), but not including:
 (2) Ethoheptazine (ethyl hexahydro-l-methyl-4-phenyl-4-
 azepinecarboxylate).
-6. Amidones, their preparations, derivatives and salts, as for example:-
+6. Amidones, their preparations, derivatives and salts, as for example:
 (1) Dipipanone (4-4-diphenyl-6-piperidine-3-heptanone)
 (2) Isomethadone (6-dimethylamino-5-methyl-4-diphenyl-3-
 hexanone)
@@ -127,7 +127,7 @@ hexanone)
 diphenylbutane)
 (5) Normethadone (6-dimethylamino-4, 4-diphenyl-3-hexanone)
 (6) Phenadoxone (6-morpholino-4, 4-diphenyl-3-heptanone).
-7. Methadols, their preparations, derivatives and salts, as for example:-
+7. Methadols, their preparations, derivatives and salts, as for example:
 (1) Acetylmethadol (3-acetoxy-6-dimethylamino-4, 4-
 dephenylheptane)
 (2) Alphacetylmethadol (alpha-3 acetoxy-6-dimethylamino-4,
@@ -142,29 +142,28 @@ heptanol)
 4-diphenyl-3-heptanol)
 (7) Noracymethadol ((±)-alpha-3-acetoxy-6-methylamino-4,
 4-diphenylheptane).
-8. Phenalkoxams, their preparations, derivatives and salts, as for example:-
+8. Phenalkoxams, their preparations, derivatives and salts, as for example:
 (1) Dextropropoxyphene (x-(+)-4-dimethylamino-l,
 2-diphenyl-3-methyl-2-butanol propionate)
 (2) Dimenoxadol (2-dimethylaminoethyl-1-ethoxy-1,
 l-diphenylacetate)
 (3) Dioxaphetyl butyrate (ethyl-4-morpholino-2,
 2-diphenylbutyrate).
-9. Thiambutenes, their preparations, derivatives and salts, as for example:-
+9. Thiambutenes, their preparations, derivatives and salts, as for example:
 (1) Diethylthiambutene (3-diethylamino-1,
 l-di-(2'-thienyl)-1-butene)
 (2) Dimethylthiambutene (3-dimethylamino-1, l-di-
 (2'-thienyl)-l-butene)
 (3) Ethylmethylthiambutene (3-ethylmethylamino-1,
 l-di-(2'-thienyl)-l-butene).
-10. Moramides, their preparations, derivatives and salts, as for example:-
+10. Moramides, their preparations, derivatives and salts, as for example:
 (1) Dextromoramide ((+)-4-[2-methyl-4-oxo-3,
 3-diphenyl-4-(l-pyrrolidinyl)-butyl]-morpholine)
 (2) Levomoramide ((-)-4-[2-methyl-4-oxo-3,
-3-diphenyl-4-
-(l-pyrrolidinyl)-butyl]-morpholine)
+3-diphenyl-4-(l-pyrrolidinyl)-butyl]-morpholine)
 (3) Racemoramide ((±)-4-[2-methyl-4-oxo-3, 3-diphenyl-4-
 (1-pyrrolidinyl)-butyl]-morpholine).
-11. Morphinans, their preparations, derivatives and salts, as for example:-
+11. Morphinans, their preparations, derivatives and salts, as for example:
 (1) Drotebanol (3, 4-dimethoxy-17-methylmorphinan-6B,
 14-diol)
 (2) Levomethorphan [(-)-3-methoxy-N-methylmorphinan]
@@ -180,12 +179,12 @@ methoxy-11-methyl-4h-10, 4a-iminoethanophenanthrene)
 methyl-4H-10, 4A-iminoethanophenanthren-6-ol), and
 (10) Levallorphan (1-11-ally1-1, 2, 3, 9,10,10A-hexahydro-
 4H-10, 4A-iminoethanophenantren-6-ol).
-12. Benzazocines, their preparations, derivatives and salts as for example:-
+12. Benzazocines, their preparations, derivatives and salts as for example:
 (1) Phenazocine (2'-hydroxy-5, 9-dimethyl-2-phenethyl-6,
 7-benzomorphan)
 (2) Metazocine (2'-hydroxy-2, 5, 9-trimethyl-6, 7-
 benzomorphan).
-13. Other chemical compounds:-
+13. Other chemical compounds:
 (1) Clonitazene (2-para-chlorbenzyl-1-diethylaminoethyl
 -5-nitrobenzimidazole)
 (2) Diampromide (N-[2-methylphenethylamino)-propyl]-

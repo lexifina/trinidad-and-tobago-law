@@ -2,7 +2,7 @@ DANGEROUS DRUGS ACT
 
 CHAPTER 11:25
 Act
-38 of 1991 Amended by 27 of 1994 173/1995 44 of 2000 *55 of 2000
+38 of 1991 Amended by 27 of 1994 173/1995 44 of 2000 *55 of 2000 11 of 2014
 *See Note on page 2
 Index of Subsidiary Legislation
 Page Dangerous Drugs (Appointment of Inspectors) Order (LN 143/2001) … 47

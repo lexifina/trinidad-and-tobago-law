@@ -57,7 +57,7 @@ received or assumed to have been received by him at any time as such a reward, h
 (4) For the purposes of assessing the value of the defendant's proceeds of drug trafficking in a case where a confiscation order has previously been made against him, the Court shall leave out of account any of his proceeds of drug trafficking that are shown to the Court to have been taken into account in determining the amount to be recovered under that order.
 32. (1) Where-
 (a) there is tendered to the Court by the Director of
-Public Prosecutions a statement as to any matters relevant to the determination whether the defendant has benefited from drug trafficking or to the assessment of the value of his proceeds of drug trafficking; and
+Public Prosecutions a statement as to any matters relevant to the determination whether the defendant has benefitted from drug trafficking or to the assessment of the value of his proceeds of drug trafficking; and
 (b) the defendant accepts to any extent any
 allegation in the statement, the Court may, for the purposes of that determination and assessment, treat his acceptance as conclusive of the matters to which it relates.
 (2) Where-
@@ -68,7 +68,7 @@ statement has been served on the defendant, the Court may require the defendant 
 (3) If the defendant fails in any respect to comply with a requirement under subsection (2) he may be treated for the purposes of this section as accepting every allegation in the statement apart from-
 (a) any allegation in respect of which he has
 complied with the requirement; and
-(b) any allegation that he has benefited from drug
+(b) any allegation that he has benefitted from drug
 trafficking or that any payment or other reward was received by him in connection with drug trafficking carried on by him or another.
 (4) Where-
 (a) there is tendered to the Court by the defendant
