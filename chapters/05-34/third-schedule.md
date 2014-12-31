@@ -7,13 +7,9 @@ A non-intimate sample shall be taken, without consent, from the following person
 (d) a constable within the meaning of the Supplemental
 Police Act.
 (e) a member of the Defence Force;
-(f) a Customs Officer of the Customs and Excise Division; or
-(g) a private security officer.
-2. A person who is employed or assigned duties at the Trinidad and Tobago Forensic Science Centre.
-- Margin: Section 15(1).
-- Margin: Ch. 23:60.
-- Margin: Ch. 25:04.
-- Margin: Ch. 15:03.
+(f) a Customs Officer of the Customs and Excise Division;
+(g) an Immigration Officer of the Immigration Division; or
+(h) a private security officer.
+2. A person who is employed or assigned duties at the Trinidad and Tobago Forensic Science Centre and who is engaged in the collection or the receipt of samples or the conduct of forensic DNA analysis.
+- Margin: Section 15(1). [11 of 2014].
 - Margin: Ch. 15:02.
-- Margin: Ch. 14:01.
-- Margin: Ch. 78:01.
