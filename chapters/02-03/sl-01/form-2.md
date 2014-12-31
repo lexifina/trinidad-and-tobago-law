@@ -16,8 +16,7 @@ Signature of former Legislator
 ... Signature of Child of former Legislator
 CERTIFICATE
 I HEREBY CERTIFY that M ..., whose signature is affixed above, is living, and to the best of my knowledge and belief is the person entitled to the payment.
-To be signed by a Justice of the Peace, Notary Public, Commissioner for Oaths, Minister of Religion, Medical Practitioner or by a Superintendent of Police, Non- Commissioned Officer, Head or Deputy Head of Department, or Clerk of the Peace before being presented for payment or by a Manager of a Bank or Branch Bank
-... when presenting for payment.
+To be signed by a Justice of the Peace, Notary Public, Commissioner for Oaths, Minister of Religion, Medical Practitioner or by a Superintendent of Police, Non- Commissioned Officer, Head or Deputy Head of Department, or Clerk of the Peace before being presented for payment or by a Manager of a Bank or Branch Bank when presenting for payment...
 Address ... Qualification ... Date... *Delete which is not applicable.
 - Margin: Regulation 8.
 - Margin: This form must be left one day for examination if presented through a Bank.

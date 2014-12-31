@@ -1,7 +1,7 @@
-# 9A. Computation of surviving spouse's allowance. [21 of 2007].
-Section 9 is effective, in relation to a person serving as a legislator, from 21st November 1996 or thereafter.
-*10. (1) Subject to this Act, where a person who comes within section 9(1)(a), (b) or (1A) (hereinafter in this section referred
-* The amendment effected to section 10 by Act No. 4 of 2008 took effect on 21st November 1996. to as the "deceased legislator") dies leaving one or more children, a children's allowance shall be payable in respect of such child or children while under the age of twenty-one years.
+# 9A. Children's allowance. [17 of 2007 4 of 2008].
+(Deleted by Act No. 2 of 2013).
+*10. (1) Subject to this Act, where a person who comes within section 9(1)(a) or (b) (hereinafter in this section referred to as the "deceased legislator") dies leaving one or more children, a children's allowance shall be payable in respect of such child or children while under the age of twenty-one years.
+* The amendment effected to section 10 by Act No. 4 of 2008 took effect on 21st November 1996.
 (2) Only one children's allowance is payable in respect of the service of any one person as a legislator, but-
 (a) the rate thereof may vary according to the
 number of children entitled thereto, and the aggregate rate of pension payable shall not exceed the rate specified in subsection (3)(a) or subsection (4)(a), as the case may be;
@@ -26,4 +26,3 @@ where there is only one child entitled to the children's allowance.
 (a) a posthumous child;
 (b) an adopted child, adopted in a manner
 recognised by law, and in the case of a person referred to in section 9(1)(a) before such person last ceased to be a legislator.
-- Margin: Children's allowance. [17 of 2007 4 of 2008].
