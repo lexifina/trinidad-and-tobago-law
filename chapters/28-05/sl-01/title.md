@@ -1,21 +1,20 @@
 SUBSIDIARY LEGISLATION
 QUARANTINE (MARITIME) REGULATIONS
-ARRANGEMENT OF REGULATIONS REGULATION
+ARRANGEMENT OF REGULATIONS
+REGULATION
 1. Citation.
 PART I
 INTRODUCTORY
 2. Interpretation. 3. Officers.
 PART II
 SHIPS ARRIVING FROM FOREIGN PORTS
-4. Declarations of health. 5. Radio pratique. 6. Flags and signals. 7. Ships not granted radio pratique to be visited. 8. Restrictions on boarding or leaving ships coming from foreign ports. 9. Granting of pratique by Visiting Officer.
-10. Offences.
+4. Declarations of health. 5. Radio pratique. 6. Flags and signals. 7. Ships not granted radio pratique to be visited. 8. Restrictions on boarding or leaving ships coming from foreign ports. 9. Granting of pratique by Visiting Officer. 10. Offences.
 PART III
 PROVISIONS AS TO SHIPS IN QUARANTINE
 11. Detention of ships. 12. Quarantine guards. 13. Specified infectious diseases. 14. Other infectious diseases.
 PART IV
 PROVISIONS AS TO SHIPS DEPARTING
 15. General power to examine persons embarking. 16. Infected areas in Trinidad and Tobago.
-Quarantine (Maritime) Regulations [Subsidiary]
 ARRANGEMENT OF REGULATIONS-Continued REGULATION
 17. Offences. 18. Bills of Health.
 PART V
@@ -31,9 +30,7 @@ MERCHANDISE AND BAGGAGE
 without permission.
 33. Entry of merchandise and baggage to be permitted subject to
 certain measures.
-34. Destruction of clothes, etc., likely to carry infections.
-Quarantine (Maritime) Regulations [Subsidiary]
-REGULATION
+34. Destruction of clothes, etc., likely to carry infections. REGULATION
 35. Saving of mails. 36. Certificates.
 PART VIII
 OBSERVATION AND SURVEILLANCE
@@ -49,12 +46,12 @@ Visiting Officers with copies.
 PART X
 CHARGES FOR SERVICES
 50. Charges for sanitary measures applied. 51. Charges. 52. Further provisions as to expenses and charges.
-Quarantine (Maritime) Regulations [Subsidiary]
+ARRANGEMENT OF REGULATIONS-Continued
+REGULATION
 PART XI
 MISCELLANEOUS
 53. General duty to comply with orders, instructions and conditions. 54. Certificates as to sanitary measures taken. 55. Prohibition.
 FIRST SCHEDULE. SECOND SCHEDULE. THIRD SCHEDULE. FOURTH SCHEDULE. FIFTH SCHEDULE. SIXTH SCHEDULE.
-[Subsidiary]
 QUARANTINE (MARITIME) REGULATIONS
 deemed to be made under section 4.
 - Margin: 19 of 1944. [29 of 1945].

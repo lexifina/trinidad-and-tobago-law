@@ -12,7 +12,6 @@ Answer Yes or No HEALTH QUESTIONS
 5. Is there any sick person on board now? Insert particulars in Schedule.
 Note.-In the absence of a surgeon, the master should regard the following symptoms as ground for suspecting the existence of infectious disease; fever accompanied by prostration or persisting for several days, or attended with glandular swellings, or any acute * If more than six weeks have elapsed since the voyage began, it will suffice to give particulars
 for the last six weeks.
-Quarantine (Maritime) Regulations [Subsidiary]
 HEALTH QUESTIONS-(Continued)
 Answer Yes or No skin rash or eruption with or without fever; severe diarrhoea or diarrhoea with symptoms of collapse; jaundice accompanied by fever.
 6. Are you aware of any other condition on board which may lead to infection or the spread of infectious disease?
@@ -23,15 +22,17 @@ Ship's Surgeon
 SCHEDULE TO THE DECLARATION
 Particulars of every case of illness or death occurring on board.
 Results Disposal Port Date
-Class of Nature of of
-of Em- of Em- Date of
-Age Illness Case Name Rating Sex Race barka- barka- of its
-* † tion tion Illness onset
+Class of Nature
+of of of Em- of Em- Date of
+of Age Name Rating Sex Race Illness Case
+barka- barka- its
+* †
+Illness
+tion tion onset
 *State whether recovered; still ill; died. †state whether still on board; landed at (give name of port); buried at sea.
 INSTRUCTIONS
 The master of a ship coming from a port outside Trinidad and Tobago must ascertain the state of health of all persons on board, and fill in and sign the Declaration of Health in the foregoing pages.
 The master should send an International Quarantine Message either direct to the Visiting Officer or through the agent. The message may be in "clear" or in "code" and must be sent within the time specified in the Code.
-Quarantine (Maritime) Regulations [Subsidiary]
 The message must contain such of the items as are appropriate of the Standard Quarantine Messages [included in the Medical Section of the 1931 International Code of Signals (pages 229 to 232. British edition].
 If the ship is not fitted with wireless, the appropriate signal must be hoisted on arrival.
 The master should take all steps necessary to ensure that no persons other than a pilot and his leadsman shall board or leave the vessel without the permission of the Health Officer until pratique has been granted.

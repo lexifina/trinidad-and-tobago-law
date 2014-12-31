@@ -14,7 +14,6 @@ No deaths from sickness infectious or otherwise have occurred on board during th
 Number indicated deaths from sickness infectious or otherwise have occurred on board during the voyage.
 * For notes on the sending of a Standard Quarantine Message see page 229 of the British edition
 of the 1931 International Code of Signals.
-Quarantine (Maritime) Regulations [Subsidiary]
 ITEM VI
 I have a ship's surgeon on board. I have no ship's surgeon on board.
 ITEM VII

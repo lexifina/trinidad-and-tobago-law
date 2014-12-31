@@ -11,5 +11,4 @@ infected, that is to say, I have had a case or cases of infectious disease less 
 The day signal shall be shown at the masthead or where it can best be seen. By night: Red light over white light, signifying "I have not received free pratique".
 The lights should be not more than six feet apart and in a vertical line
 one over the other. The night signal shall be shown at the peak or other conspicuous place where it can best be seen.
-Quarantine (Maritime) Regulations [Subsidiary]
 - Margin: Regulation 6.
