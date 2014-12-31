@@ -14,4 +14,4 @@ Notice is also given that the Commission may in pursuance of the power given to 
 be verified by Affidavit; and
 (c) commission and examine any witnesses on oath.
 The Commission shall communicate with you further as to the date, time and documents and/or other material required for the investigation.
-- Margin: [Section 7(2)].
+- Margin: Section 7(2).
