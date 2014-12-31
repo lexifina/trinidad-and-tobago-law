@@ -1,16 +1,16 @@
-# 3A. Business levy. [6 of 1993 22 of 1993 3 of 1994 5 of 1995 8 of 1996 9 of 1997 35 of 1998 91 of 2000 21 of 2005 2 of 2006 30 of 2007].
+# 3A. Business levy. [6 of 1993 22 of 1993 3 of 1994 5 of 1995 8 of 1996 9 of 1997 35 of 1998 91 of 2000 21 of 2005 2 of 2006 30 of 2007 2 of 2013].
 (1) There shall be levied and paid to the Board a tax to be known as business levy on the gross sales or receipts of a company for each year of income at the rate of 0.2 per cent.
 (2) Subsection (1) does not apply to-
 (a) companies during the first twelve months
-following their registration;
-(b) companies or statutory corporations exempt
-from corporation tax under any Act; give rise to profits exempt from corporation tax under any Act;
+following their registration; from corporation tax under any Act;
+(c) the gross sales or receipts of a company which
+give rise to profits exempt from corporation tax under any Act;
 (d) the Deposit Insurance Corporation, the Agricultural
 Development Bank, the Public Transport Service Corporation and public utilities under the jurisdiction of the Public Utilities Commission or exempted by Order of the President;
 (e) companies that are subject to tax under the
 Petroleum Taxes Act;
 (f) the gross sales or receipts of a company whose
-gross sales or receipts in the preceding year of income do not exceed the sum of two hundred thousand dollars, unless there are reasonable grounds to believe that the gross sales or receipts of the company in the particular year will exceed that sum;
+gross sales or receipts in the preceding year of income do not exceed the sum of three hundred and sixty thousand dollars, unless there are reasonable grounds to believe that the gross sales or receipts of the company in the particular year will exceed that sum;
 (g) (Repealed by Act No. 2 of 2006).
 (2A) The President may, by Order subject to negative resolution of Parliament, amend subsection (2)(d) by exempting other public utilities from the business levy.
 (3) A company is entitled to a tax credit against its business levy liability for a year of income of any payment made in respect of its corporation tax liability for that year of income up to a maximum of its business levy liability.
