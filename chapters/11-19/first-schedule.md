@@ -19,8 +19,8 @@ writing which has not been withdrawn and the address of that person is known to 
 PROCEEDINGS BEFORE AUTHORITY
 8. On any application for a grant of a certificate authorising the issue of a permit to carry on such business as is mentioned in section 28(1)(a) or (b) of the Act or betting office licence, the authority may in his discretion, grant a certificate authorising the issue of the permit or licence after hearing the applicant and such other evidence as he considers necessary if no objection to the grant of a certificate authorising the issue of the permit has been made by any person or if every such objection has been withdrawn before the date and time of the consideration of the application; but, save as mentioned above, any of the following persons, that is to say:
 (a) the applicant;
-(b) any person from whom an objection in writing which has not
-been withdrawn was received by the authority before the day on which he sent out the documents referred to in paragraph 7; and
+(b) any person from whom an objection in writing which has
+not been withdrawn was received by the authority before the day on which he sent out the documents referred to in paragraph 7; and
 (c) the person making any other objection which the appropriate
 authority has decided under paragraph 9 that he will hear, shall be entitled to be heard either in person or by an Attorney-at-law; and the authority shall also hear any representations made otherwise than by way of objection by, or by any person authorised in that behalf by, the appropriate officer of police.
 9. Where in the case of an application for the grant of a certificate authorising the issue of any such permit or licence as aforesaid an objection to the grant of a certificate authorising the issue of such permit or licence is received or made on or after the day referred to in paragraph 8(b), the authority may refuse to entertain the objection, and, unless the applicant requests otherwise, shall not hear the objection until the objector has given to the authority and to the applicant, and the applicant has had time to consider, a brief statement in writing of the grounds of his objection.
@@ -72,7 +72,7 @@ ISSUE OF PERMIT OR LICENCE
 28(1)(a) or (b).
 (2) There shall be payable to the Board of Inland Revenue or in the case of any betting business in respect of horse or dog races, the Betting Levy Board-
 (a) in the case of a betting office licence for betting pool operators
-conducting bets at fixed odds, an annual fee of $100,000 payable on or before the 15th December in the year prior to the year for which the licence is required, save that a new applicant shall pay the licence fee at the time his licence is granted;
+conducting bets at fixed odds, an annual fee of $200,000 payable on or before the 15th December in the year prior to the year for which the licence is required, save that a new applicant shall pay the licence fee at the time his licence is granted;
 (b) in the case of the Turf Clubs, a licence fee of one hundred
 dollars per day on each race day on which betting is
 }
@@ -88,7 +88,7 @@ SERVICE OF DOCUMENTS
 21. Any provision of this Schedule requiring any notice or other document to be given or sent to any person by the authority shall be deemed to be satisfied if the document is either served personally on that person or sent to him by post at his usual or last known residence or place of business in Trinidad or Tobago.
 22. (1) Any person referred to in paragraph 8 who is aggrieved by the grant or refusal of any application by the authority under the provisions of this Schedule may appeal to the Court of Appeal.
 (2) Such appeal shall be subject to the provisions of the Summary Courts Act, relating to appeals thereunder.
-- Margin: Sections 14 and 29(3). [3 of 1967 22 of 1973 146/1982 13 of 1983 7 of 1985 36 of 1989 4 of 1992 5 of 1995 8 of 1996].
+- Margin: Sections 14 and 29(3). [3 of 1967 22 of 1973 146/1982 13 of 1983 7 of 1985 36 of 1989 4 of 1992 5 of 1995 8 of 1996 4 of 2014].
 - Margin: Ch. 4:20.
 - Margin: Ch. 81:01.
 - Margin: Ch. 4.20.
