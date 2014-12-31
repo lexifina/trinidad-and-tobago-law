@@ -66,18 +66,18 @@ Minor Up to $496.00 Intermediate Up to $992.00 Major Up to $1,984.00
 RATES OF CONSTANT ATTENDANCE AND CARE ALLOWANCE FOR PERSONS QUALIFYING ON OR
 AFTER 1ST MARCH 2004
 WEEKLY BENEFIT MONTHLY BENEFIT EARNINGS CLASS
-$ 12.86 Class I $ 55.73
-$ 21.08 Class II $ 91.35
-$ 27.96 Class III $ 121.16
-$ 36.36 Class IV $ 157.56
-$ 46.13 Class V $ 199.90
-$ 56.45 Class VI $ 244.62
-$ 66.63 Class VII $ 288.73
-$ 78.65 Class VIII $ 340.82
-$ 90.73 Class IX $ 393.17
-$ 103.74 Class X $ 449.54
-$ 117.65 Class XI $ 509.82
-$ 131.63 Class XII $ 570.40
+$ 12.86 I $ 55.73
+$ 21.08 II $ 91.35
+$ 27.96 III $ 121.16
+$ 36.36 IV $ 157.56
+$ 46.13 V $ 199.90
+$ 56.45 VI $ 244.62
+$ 66.63 VII $ 288.73
+$ 78.65 VIII $ 340.82
+$ 90.73 IX $ 393.17
+$ 103.74 X $ 449.54
+$ 117.65 XI $ 509.82
+$ 131.63 XII $ 570.40
 * Part IV and Part V came into operation on 1st March 2004.
 PART VI
 RATES OF PAYMENT FOR MEDICAL EXPENSES ON
@@ -105,10 +105,66 @@ RATES OF CONSTANT ATTENDANCE AND CARE
 ALLOWANCE FOR PERSONS QUALIFYING ON
 OR AFTER 7TH JANUARY 2008
 Earnings Class Weekly Benefit Monthly Benefit
-- Margin: [25/2008].
+$ $
+15.83 I 68.60 26.07 II 112.97 34.54 III 149.67 45.31 IV 196.34 57.66 V 249.86 70.42 VI 305.15 82.85 VII 359.02 97.57 VIII 422.80 112.82 IX 488.89 129.07 X 559.30 146.45 XI 634.62 173.33 XII 751.10 192.23 XIII 833.00 213.08 XIV 923.35 236.87 XV 1,026.44 249.58 XVI 1,081.51
+PART VIII RATES OF PAYMENT FOR MEDICAL EXPENSES FOR PERSONS WHO QUALIFY FROM 4TH MARCH 2013 TO
+2ND MARCH 2014
+RATES PAYABLE EFFECTIVE
+EXPENSES DETAILS
+4TH MARCH 2013
+a) Doctor Visits
+(i) General Practitioner
+Office Visit $58.60 per visit
+Visit by doctor to site $116.41 per visit
+Emergency Visit N/A
+(ii) Specialist Visit
+Office Visit $145.31 per visit
+Visit by doctor to site $193.75 per visit
+(iii) Psychiatrist
+Initial Consultation $175.00 per hour
+Follow up $145.31 per visit
+(b) Drugs and Dressing up to $968.75 per injury
+(c) Hospital Expenses $290.63 per day
+(d) Operations
+Minor up to $775.00 Intermediate up to $1,550.00 Major up to $3,100.00 Maximum total medical expenses per injury TT $28,125.00
+PART IX
+RATES OF CONSTANT CARE AND ATTENDANCE ALLOWANCE FOR PERSONS QUALIFYING ON OR
+AFTER 4TH MARCH 2013
+Monthly Benefit Weekly Benefit Earnings Class
+$ $
+I 85.76 19.79 II 139.40 32.17 III 185.29 42.76 IV 244.83 56.50 V 309.83 71.50 VI 378.30 87.30 VII 446.90 103.13 VIII 527.84 121.81 IX 610.48 140.88 X 697.84 161.04 XI 791.27 182.60 XII 937.47 216.34 XIII 1,039.13 239.80 XIV 1,152.06 265.86 XV 1,258.83 290.50 XVI 300.80 1,303.47
+PART X
+RATES OF PAYMENT FOR MEDICAL EXPENSES FOR PERSONS WHO QUALIFY FROM 3RD MARCH 2014
+RATES PAYABLE EFFECTIVE
+EXPENSES DETAILS
+3RD MARCH 2014
+(a) Doctor Visits
+(i) General Practitioner
+Office Visit $70.32 per visit
+Visit by doctor to site $139.70 per visit
+Emergency Visit N/A
+(ii) Specialist Visit
+Office Visit $174.38 per visit
+Visit by doctor to site $232.50 per visit
+(iii) Psychiatrist
+Initial Consultation $210.00 per hour
+Follow up $174.38 per visit
+(b) Drugs and Dressing $1,162.50 per injury
+(c) Hospital Expenses $348.75 per day
+(d) Operations
+Minor up to $930.00 Intermediate up to $1,860.00 Major up to $3,720.00 Maximum total medical expenses per injury TT $33,750.00
+PART XI
+RATES OF CONSTANT ATTENDANCE AND CARE ALLOWANCE FOR PERSONS QUALIFYING ON OR
+AFTER 3RD MARCH 2014
+Monthly Benefit Weekly Benefit Earnings Class
+- Margin: [25/2008 38/2013].
 - Margin: Minor
 - Margin: Major
 - Margin: [30/2004].
 - Margin: [30/2004].
 - Margin: [25/ 2008].
 - Margin: [25/2008].
+- Margin: [38/2013].
+- Margin: [38/2013].
+- Margin: [38/2013].
+- Margin: [38/2013].
