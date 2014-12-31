@@ -742,7 +742,7 @@ formerly of John A. Matthew
 West: partly by lands now
 or formerly of John A. Matthew and Chatham Road.
 All and singular that piece or Icacos
-parcel of land situate at Health Icacos Village, Icacos in Centre the Ward of Cedros in the County of St. Patrick in the Island of Trinidad and bounded on the- North: by State lands South: by Inland Road,
+parcel of land situate at Health Icacos Village, Icacos in Centre the Ward of Cedros in the County of St. Patrick in the Island of Trinidad and bounded on the- North: by State lands South: by Inland Road
 THIRD SCHEDULE-Continued
 PROPERTIES VESTED REGIONAL
 HEALTH
@@ -786,7 +786,7 @@ Fernando parcel of land situate in General the City of San Fernando Hospital
 in the County of Victoria in the Island of Trinidad and bounded on the- North: by lands now or
 formerly of T.G.R.
 South: by the Children's
-Convalescent Home,
+Convalescent Home
 THIRD SCHEDULE-Continued
 PROPERTIES VESTED REGIONAL
 HEALTH
@@ -832,7 +832,7 @@ the County of Victoria in
 Centre
 the Island of Trinidad and bounded on the- North: by private lands South: partly by lands of
 Mohammed Ali and Circular Street
-East: by Circular Road,
+East: by Circular Road
 THIRD SCHEDULE-Continued
 PROPERTIES VESTED REGIONAL
 HEALTH
@@ -1074,7 +1074,7 @@ All and singular that piece or Mount
 parcel of land situate at St. George
 Health 1, Village Street, Mount Centre St. George in the
 Island/Ward of Tobago in the Parish of St. George and bounded on the- North: by Mount
-St. George Village Street,
+St. George Village Street
 THIRD SCHEDULE-Continued
 PROPERTIES VESTED REGIONAL
 HEALTH

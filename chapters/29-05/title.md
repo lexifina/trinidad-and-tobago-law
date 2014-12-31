@@ -3,11 +3,10 @@ CHAPTER 29:05
 Act
 5 of 1994 Amended by 31 of 1994
 3/1995
-17 of 1999 23 of 2000 29 of 2000
-73/2005 305/2010 8 of 2012
+17 of 1999 23 of 2000 29 of 2000 245/2004 73/2005 305/2010 8 of 2012
 Index of Subsidiary Legislation
 Page Regional Health Authorities (Contracting for Goods and Services) Regulations
-(LN 4/1995) ... 84 Regional Health Authorities (Conduct) Regulations (LN 8/2009) … … 99
+(LN 4/1995) ... 84 Regional Health Authorities (Conduct) Regulations (LN 8/2009) … … 102
 CHAPTER 29:05
 REGIONAL HEALTH AUTHORITIES ACT
 ARRANGEMENT OF SECTIONS

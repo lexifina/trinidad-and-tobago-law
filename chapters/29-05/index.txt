@@ -70,6 +70,14 @@ sl-01/r-23.md
 sl-01/r-24.md
 sl-01/r-25.md
 sl-01/r-26.md
+sl-01/r-27.md
+sl-01/r-28.md
+sl-01/r-29.md
+sl-01/r-30.md
+sl-01/r-31.md
+sl-01/r-32.md
+sl-01/r-33.md
+sl-01/r-34.md
 sl-02/title.md
 sl-02/r-1.md
 sl-02/r-2.md
