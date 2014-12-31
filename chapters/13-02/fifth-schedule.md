@@ -14,25 +14,26 @@ section 3 of the Act.
 3. (1) As a contribution towards the superannuation allowances payable to an officer in accordance with these Rules, there shall be deducted from the pay of every officer, a sum at a rate of one and a quarter per cent per annum of such pay, and all sums so deducted shall be paid to the Comptroller of Accounts on or before the eighth day of the month immediately following the month in which the deduction is made.
 (2) In addition to the contribution payable under subrule (1), any outstanding arrears of contribution shall be deducted from the pay of an officer in respect of all of his full-time service in a permanent and pensionable office in the Service, in the public service or in respect of any service which may be pensionable under the Law Reform (Pensions) Act including any period of full-time service in a non-pensionable office in the Service that is immediately followed by service in a pensionable office in the Service, as follows:
 †(a) in the case of an officer who is in the Service on the date of
-assent of the Prison Service (Amendment) Act, 2000 and who has ten years service or more before reaching the age of compulsory retirement, arrears of contribution shall be cleared by a lump sum payment or deducted by equal monthly instalments over the ten-year period immediately following the date of assent of the Act;
+assent of the Prison Service (Amendment) Act and who has ten years service or more before reaching the age of compulsory retirement, arrears of contribution shall be cleared by a lump sum payment or deducted by equal monthly instalments over the ten-year period immediately following the date of assent of the Act;
 *See Note on page 2. †Date of assent -25th July 2000.
-assent of the Prison Service (Amendment) Act, 2000 and who has ten years service or more before reaching the age of compulsory retirement, but who retires before the expiration of the ten-year period, outstanding arrears of contribution shall be deducted by a lump sum payment from the gratuity payable to the officer;
+assent of the Prison Service (Amendment) Act and who has ten years service or more before reaching the age of compulsory retirement, but who retires before the expiration of the ten-year period, outstanding arrears of contribution shall be deducted by a lump sum payment from the gratuity payable to the officer;
 (c) in the case of an officer who resigns after the date of assent
-of the Prison Service (Amendment) Act, 2000 but before the expiration of ten years thereafter and who is eligible to have his service preserved in accordance with the provisions of the Law Reform (Pensions) Act outstanding arrears of contribution shall be deducted by a lump sum payment from the deferred superannuation benefits payable to the officer at the age of fifty-five years or from the death benefit payable under these Rules, in the event that the officer dies before attaining the age of fifty-five years;
+of the Prison Service (Amendment) Act but before the expiration of ten years thereafter and who is eligible to have his service preserved in accordance with the provisions of the Law Reform (Pensions) Act outstanding arrears of contribution shall be deducted by a lump sum payment from the deferred superannuation benefits payable to the officer at the age of fifty-five years or from the death benefit payable under these Rules, in the event that the officer dies before attaining the age of fifty-five years;
 (d) in the case of an officer who dies after the date of assent of
-the Prison Service (Amendment) Act, 2000 but before the expiration of ten years thereafter, outstanding arrears of contribution shall be deducted by a lump sum payment from the death benefit payable to the officer under these Rules;
+the Prison Service (Amendment) Act but before the expiration of ten years thereafter, outstanding arrears of contribution shall be deducted by a lump sum payment from the death benefit payable to the officer under these Rules;
 (e) in the case of an officer who retired within the period between
-the effective date and the date of assent of the Prison Service (Amendment) Act, 2000, and who has exercised the option at section 14C(2) of the Act to receive a pension, gratuity or other allowance in accordance with these Rules, arrears of contribution shall be deducted by a lump sum payment from the gratuity payable to the officer, where practicable, or from his pension in equal monthly instalments, over a period to be determined by the Comptroller of Accounts;
+the effective date and the date of assent of the Prison Service (Amendment) Act and who has exercised the option at section 14C(2) of the Act to receive a pension, gratuity or other allowance in accordance with these Rules, arrears of contribution shall be deducted by a lump sum payment from the gratuity payable to the officer, where practicable, or from his pension in equal monthly instalments, over a period to be determined by the Comptroller of Accounts;
 (f) in the case of an officer who-
 (i) resigned from the Service on or after 1st December
-1991 and prior to the date of assent of the Prison Service (Amendment) Act, 2000;
+1991 and prior to the date of assent of the Prison Service (Amendment) Act;
 (ii) resigned before attaining the age of fifty years; and
 (iii) is eligible to have his service preserved in accordance
-with the provisions of the Law Reform (Pensions) Act, and who has exercised the option under section 14C(2) of the Prison Service (Amendment) Act, 2000 to receive superannuation benefits in accordance with these Rules, arrears of contribution shall be deducted from the deferred superannuation benefits payable to the officer at the age of fifty-five years or from the death benefit payable under these Rules, in the event that the officer dies before attaining the age of fifty-five years.
-(3) Notwithstanding the provisions of subrules (1) and (2), arrears of contribution may also be deducted, in whole or in part, from any arrears of emoluments owed to the officer by the State as defined in the Public Sector (Arrears of Emoluments) Act, 1995.
-(4) In the event that an officer leaves the Service after the date of assent of the Prison Service (Amendment) Act, 2000 without being eligible for a pension, gratuity or other allowance under these Rules and without being eligible to have his service preserved in accordance with the provisions of the Law Reform (Pensions) Act, he shall be entitled to the return, in full, of all deductions made from his pay under subrule (1) or (2), where applicable, but the President may direct that any amount due to the State in respect of any liability or defalcation be deducted from the amount due to be returned to the officer.
+with the provisions of the Law Reform (Pensions) Act, and who has exercised the option under section 14C(2) of the Prison Service (Amendment) Act to
+receive superannuation benefits in accordance with these Rules, arrears of contribution shall be deducted from the deferred superannuation benefits payable to the officer at the age of fifty-five years or from the death benefit payable under these Rules, in the event that the officer dies before attaining the age of fifty-five years.
+(3) Notwithstanding the provisions of subrules (1) and (2), arrears of contribution may also be deducted, in whole or in part, from any arrears of emoluments owed to the officer by the State as defined in the Public Sector (Arrears of Emoluments) Act.
+(4) In the event that an officer leaves the Service after the date of assent of the Prison Service (Amendment) Act without being eligible for a pension, gratuity or other allowance under these Rules and without being eligible to have his service preserved in accordance with the provisions of the Law Reform (Pensions) Act, he shall be entitled to the return, in full, of all deductions made from his pay under subrule (1) or (2), where applicable, but the President may direct that any amount due to the State in respect of any liability or defalcation be deducted from the amount due to be returned to the officer.
 (5) The arrears of contribution payable under subrule (2) shall be determined on the basis of the actual pay received by the officer for each year in respect of which the arrears are payable.
-(6) Where an officer who retired within the period between the effective date and the date of assent of the Prison Service (Amendment) Act, 2000 exercises the option at section 14C(2) of the Act to receive or to continue to receive a pension, gratuity or other allowance under the Pensions Act, no arrears of contribution shall be payable.
+(6) Where an officer who retired within the period between the effective date and the date of assent of the Prison Service (Amendment) Act, exercises the option at section 14C(2) of the Act to receive or to continue to receive a pension, gratuity or other allowance under the Pensions Act, no arrears of contribution shall be payable.
 *4. (1) For the purpose of computing the amount of pension, gratuity or other allowance payable to an officer, the following periods shall be taken into account as pensionable service:
 (a) any period of full-time service in a permanent and
 pensionable office, in the Service, in the public service or in any service which may be pensionable under the Law Reform (Pensions) Act;
@@ -78,13 +79,13 @@ of the earlier period of service or such part as the President may determine, sh
 been promoted, that officer shall also qualify for the payment of a Qualifying Examination Allowance with effect from 1st October 2006; or
 (b) for any period less than three years prior to 1st October 2006,
 that period shall be counted as part of the three-year period required to qualify for the payment of a Qualifying Examination Allowance.
-5. (1) Subject to subrule (2), an officer who is disabled by infirmity of mind or body, may be retired for medical reasons, and if such officer has completed ten years of satisfactory service, he may thereupon be granted a monthly pension not exceeding 1/480ths of a month's pay for each completed month of service or three thousand dollars, whichever is the greater.
+5. (1) Subject to subrule (2), an officer who is disabled by infirmity of mind or body, may be retired for medical reasons, and if such officer has completed ten years of satisfactory service, he may thereupon be granted a monthly pension not exceeding 1/480ths of a month's pay for each completed month of service or three thousand, five hundred dollars, whichever is the greater.
 (2) A pension shall not be granted under subrule (1), unless the officer submits a medical report issued by a Medical Board in which it is stated that the officer to whom the report refers, is incapable, because of infirmity of mind or body, of performing the duties of his office and that such infirmity is likely to be permanent.
 (3) Where an officer has been retired in accordance with subrule (1), and subrule (2) has been satisfied, but he has not worked in the Service for ten years, he may be granted, by way of gratuity, a sum not exceeding one-twelfth of a month's pay for each completed month of service.
 6. An officer who is not disabled within the meaning of rule 5, and who has-
 (a) attained the age of fifty years;
 (b) served in the Service for not less than ten years; and
-(c) retired from the Service, may be granted a monthly pension not exceeding 1/480ths of a month's pay for each completed month of service or three thousand dollars, whichever is the greater.
+(c) retired from the Service, may be granted a monthly pension not exceeding 1/480ths of a month's pay for each completed month of service or three thousand, five hundred dollars, whichever is the greater.
 6A. An officer who is not disabled within the meaning of rule 5 and who has-
 (a) attained the age of fifty years;
 (b) served in the Service for more than five years and less than
@@ -159,7 +160,7 @@ Court in Trinidad and Tobago or elsewhere for any offence; or charge for an indi
 (2) A person whose pension was stopped in pursuance of subrule
 (1)(a), and who at any time receives a pardon in respect of the offence for which he had been convicted, shall be entitled to have such pension restored to him with effect from the date on which such pension was stopped.
 (3) The President may, where a pension ceases for the reasons set out in subrule (1), cause all or any part of the moneys to which the pensioner would have been entitled by way of pension, to be paid to, or applied for the benefit of the wife or children of the pensioner, or, after the expiration of his sentence, for the benefit of the pensioner himself, in such proportions and manner as the President thinks proper.
-- Margin: Section 14C. [17 of 2000 17 of 2007 *30 of 2007 *23 of 2008 *1 of 2009 *13 of 2010].
+- Margin: Section 14C. [17 of 2000 17 of 2007 *30 of 2007 *23 of 2008 *1 of 2009 *13 of 2010 288/2014].
 - Margin: Interpretation. [17 of 2000].
 - Margin: Ch. 23:52.
 - Margin: Ch. 35:50.
@@ -168,19 +169,19 @@ Court in Trinidad and Tobago or elsewhere for any offence; or charge for an indi
 - Margin: Rules not to be construed as granting entitlement. [17 of 2000].
 - Margin: Contribution to superannuation allowances. [17 of 2000].
 - Margin: Ch. 23:59.
-- Margin: Sub. Leg.
-- Margin: Sub. Leg.
+- Margin: 17 of 2000.
+- Margin: 17 of 2000.
 - Margin: Ch. 23:59.
 - Margin: 7 of 1995.
-- Margin: Sub. Leg.
+- Margin: 17 of 2000.
 - Margin: Ch. 23:59.
 - Margin: Computation of period of service. [17 of 2000 30 of 2007 23 of 2008].
 - Margin: Ch. 23:59.
 - Margin: Ch. 23:59.
 - Margin: Ch. 45:57.
 - Margin: Payment of a Qualifying Examination Allowance. [23 of 2008].
-- Margin: Pension in case of disability. [17 of 2000 17 of 2007 30 of 2007 1 of 2009 13 of 2010].
-- Margin: Pension on attaining the age of fifty. [17 of 2000 17 of 2007 30 of 2007 1 of 2009 13 of 2010].
+- Margin: Pension in case of disability. [17 of 2000 17 of 2007 30 of 2007 1 of 2009 13 of 2010 288/2014].
+- Margin: Pension on attaining the age of fifty. [17 of 2000 17 of 2007 30 of 2007 1 of 2009 13 of 2010 288/2014].
 - Margin: Service for less than ten years. [17 of 2000].
 - Margin: Pension payable to an officer and exercise of option. [17 of 2000].
 - Margin: Officer transferred to other public service. [17 of 2000].
