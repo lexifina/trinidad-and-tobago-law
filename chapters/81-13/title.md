@@ -4,20 +4,22 @@ Act
 13 of 2006
 Note on Subsidiary Legislation
 This Chapter contains no subsidiary legislation.
+Note on Commencement
+At the time of the Revision of this Act, Parts I, III, VII, VIII and IX were awaiting proclamation.
 CHAPTER 81:13
 FAIR TRADING ACT
-ARRANGEMENT OF SECTIONS SECTION
+ARRANGEMENT OF SECTIONS
+SECTION
 PART I
 PRELIMINARY
-1. Short title. 2. Interpretation and application. 3. Non-application of Act.
+1. Short title and commencement. 2. Interpretation and application. 3. Non-application of Act.
 PART II
 THE FAIR TRADING COMMISSION
 ESTABLISHMENT, POWERS AND FUNCTIONS OF THE COMMISSION
-4. Commission established and incorporated. 5. Functions of the Commission. 6. General powers. 7. Investigation of complaints. 8. Powers of the Commission with regard to investigation. 9. Power of search.
-10. Offences against the Commission. 11. Destruction of records. 12. Obstruction of investigation.
+4. Commission established and incorporated. 5. Functions of the Commission. 6. General powers. 7. Investigation of complaints. 8. Powers of the Commission with regard to investigation. 9. Power of search. 10. Offences against the Commission. 11. Destruction of records. 12. Obstruction of investigation.
 PART III
-MERGERS, ANTI-COMPETITIVE AGREEMENTS AND
-MONOPOLIES
+MERGERS, ANTI-COMPETITIVE AGREEMENTS OR
+PRACTICES AND MONOPOLIES
 MERGERS
 13. Definitions of merger and anti-competitive merger. 14. Mergers and qualifying mergers. 15. Interlocking directorship. 16. Order for divestment.
 ARRANGEMENT OF SECTIONS-Continued SECTION
@@ -44,15 +46,15 @@ PART VIII
 COMMUNITY COMPETITION COMMISSION
 48. Referrals to the Community Competition Commission. 49. Powers of the Community Competition Commission. 50. Effect of decisions of Community Competition Commission.
 PART IX
-MISCELLANEOUS AND GENERAL
-51. Confidentiality. 52. Hearing normally to be open to the public. 53. Rules and Regulations. SCHEDULE.
+MISCELLANEOUS
+51. Confidentiality. 52. Hearing normally to be open to the public. 53. Rules and Regulations.
+SCHEDULE.
 
 CHAPTER 81:13
 FAIR TRADING ACT
 An Act to provide for the establishment of a Fair Trading
 Commission, to promote and maintain fair competition in the economy, and for related matters.
-[26TH APRIL 2007]
+*[ASSENTED TO 20TH JULY 2006]
 PART I
 PRELIMINARY
 - Margin: 13 of 2006.
-- Margin: Commencement. [98/2007].
