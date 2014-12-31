@@ -6,6 +6,7 @@ s-4.md
 s-5.md
 s-6.md
 s-7.md
+s-7A.md
 s-8.md
 s-9.md
 s-10.md
@@ -46,6 +47,7 @@ s-41.md
 s-42.md
 schedule.md
 form-a.md
+form-c.md
 form-d.md
 sl-01/title.md
 sl-01/r-1.md
