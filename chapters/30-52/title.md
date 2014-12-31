@@ -9,6 +9,7 @@ Amended by
 8 of 1992
 13 of 2010
 2 of 2013
+4 of 2014
 Index of Subsidiary Legislation
 Page Litter (Fixed Penalty Procedure) Regulations (106/1981) … … 29
 CHAPTER 30:52 LITTER ACT
@@ -25,7 +26,8 @@ CONVICTING OFFENDERS
 LITTER PREVENTION WARDENS
 16. Appointment of litter prevention wardens by public authorities.
 16A. Appointment of other litter prevention wardens. 16B. Power and duties of litter prevention wardens. 16C. Unsightly premises and clean-up order. 16D. Offences in respect of litter prevention wardens.
-ARRANGEMENT OF SECTIONS-Continued SECTION
+ARRANGEMENT OF SECTIONS-Continued
+SECTION
 17. Interference with receptacles for litter. 18. Punishment of offences. 19. Public Authorities to provide receptacles in public places. 20. Power of arrest. 21. Offences and penalties by a public authority. 22. Offence by a body corporate. 23. Minister may designate officers of Ministry to carry out provisions
 of this Act.
 24. Punishment without prosecution of certain offences. 25. Police Officers to assist.
