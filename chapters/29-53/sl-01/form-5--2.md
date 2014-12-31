@@ -1,6 +1,6 @@
 # FORM 5
 THE NURSING COUNCIL OF TRINIDAD AND TOBAGO
-(Nurses and Midwives Registration Act-Part IV)
+(Nursing Personnel Act-Part IV)
 CERTIFICATE AS TO CHARACTER OF APPLICANT
 (For persons selected to undergo Nursing Assistant Training
 in Approved Training Centres)
@@ -14,7 +14,7 @@ Name of person testifying* ...
 Date ...
 Signature of person testifying
 *NOTE: This Form when completed is to be returned directly by the person completing to
-The Secretary, The Nursing Council of Trinidad and Tobago ..., Port-of-Spain.
+The Registrar, The Nursing Council of Trinidad and Tobago ..., Port-of-Spain.
 This Form is to be completed by any one of the following:
 A Registered Medical Practitioner; A Registered Nurse; A Principal of Applicant's School; or Applicant's Priest or Religious Leader.
 - Margin: Regulation 69(3).

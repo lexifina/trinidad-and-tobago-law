@@ -2,8 +2,8 @@
 Result Examination No. Fees Receipt No.
 ...
 THE NURSING COUNCIL OF TRINIDAD AND TOBAGO
-AppLICATION FOR ENTRy TO THE ASSESSMENT
-ExAMINATION FOR STUDENT NURSES
+APPLICATION FOR ENTRY TO THE ASSESSMENT
+EXAMINATION FOR STUDENT NURSES
 From a person entered on the Council's Register of Student Nurses at the
 ... Hospital School of Nursing
 I, ...

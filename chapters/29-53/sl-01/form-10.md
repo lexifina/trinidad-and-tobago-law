@@ -1,6 +1,6 @@
 # FORM 10
 THE NURSING COUNCIL OF TRINIDAD AND TOBAGO
-(Nurses and Midwives Registration Act, Part IV)
+(Nursing Personnel Act, Part IV)
 FORM OF APPLICATION FOR ENTRY TO THE
 COUNCIL'S WRITTEN ASSESSMENT TEST
 (of persons listed as a Trainee in an Approved Training Centre)

@@ -1,9 +1,9 @@
 # FORM 2
 THE NURSING COUNCIL OF TRINIDAD AND TOBAGO
-(Nurses and Midwives Registration Act)
-CERTIFICATE AS TO CHARACTER Reference No:
-AR/...
-(Confidential) To: The Secretary,
+(Nursing Personnel Act)
+CERTIFICATE AS TO CHARACTER
+Reference No: AR/...
+(Confidential) To: The Registrar,
 The Nursing Council of Trinidad and Tobago.
 I certify that I have known ... of ... who is applying for Registration as a Nurse, personally, for ...
 (period of acquaintance) and that he/she is of good character. Further remarks ...
@@ -15,5 +15,5 @@ I certify that ... of ... who is applying for Registration as a Nurse was attach
 (3) Occupation/official title of person testifying ...
 (4) Signature of person testifying ...
 Note: This Certificate must on completion be returned directly to-
-The Secretary, The Nursing Council of Trinidad and Tobago, ..., Port-of-Spain, Trinidad, Trinidad and Tobago, West Indies.
+The Registrar, The Nursing Council of Trinidad and Tobago, ..., Port-of-Spain, Trinidad, Trinidad and Tobago, West Indies.
 - Margin: Regulation 40(2)(b).

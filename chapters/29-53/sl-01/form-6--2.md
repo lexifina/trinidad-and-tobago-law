@@ -1,6 +1,6 @@
 # FORM 6
 THE NURSING COUNCIL OF TRINIDAD AND TOBAGO
-(Nurses and Midwives Registration Act-Part IV)
+(Nursing Personnel Act-Part IV)
 CERTIFICATE OF COMMENCEMENT OF NURSING
 ASSISTANT COURSE
 I, Authority of

@@ -2,7 +2,7 @@
 Registration Registered Fee Receipt Student
 No... No...
 THE NURSING COUNCIL OF TRINIDAD AND TOBAGO
-(Nurses and Midwives Registration Act)
+(Nursing Personnel Act)
 APPLICATION FOR REGISTRATION AS A STUDENT OF
 A POST-BASIC PROGRAMME
 at the ...Hospital School of Nursing
@@ -11,8 +11,7 @@ A. [To be completed in Handwriting of Applicant]
 (In Block Letters: if married, insert Married Name first: then write Maiden name after the word "nee".) 2. Other Name(s) ...
 Affix 3. State whether Married, Single, Widow(ed) ...
 Passport Sized 4. Date of Birth ... Nationality ...
-Photograph
-Here 5. Tick off the qualification whereby you secured entry to
+Photograph 5. Tick off the qualification whereby you secured entry to Here
 the Programme-
 Registered General Nurse Registered Psychiatric Nurse 6. Date of registration as a Nurse in Trinidad and Tobago ... 7. Number of Trinidad and Tobago Certificate of Registration ... 8. State the Programme for which you are making application-
 ...

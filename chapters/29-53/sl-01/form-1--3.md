@@ -1,13 +1,15 @@
 # FORM 1
 THE NURSING COUNCIL OF TRINIDAD AND TOBAGO
-AppLICATION FOR REGISTRATION AS
+APPLICATION FOR REGISTRATION AS
 A STUDENT NURSE
 (To be completed in Handwriting of Applicant)
 A: I, ...
 Surname (in Block Letters: if married, write Married Name
-first: then write Maiden name after word "nee".) Affix
-Passport ... Sized (Other Name(s) 1st 2nd 3rd)
-Photograph now in training at the ... Here Hospital School of Nursing do hereby apply for Registration with the Council as a Student Nurse, and I declare that all the particulars I insert below are true and correct:
+Affix
+first: then write Maiden name after word "nee".)
+Passport ... (Other Name(s) 1st 2nd 3rd) Sized
+Photograph now in training at the ...
+Here Hospital School of Nursing do hereby apply for Registration with the Council as a Student Nurse, and I declare that all the particulars I insert below are true and correct:
 State whether Married, Single or Widow ... Date of Birth ... Nationality ...
 Tick off the qualification whereby you secured entry to training, viz:
 Received Council's Received Council's Received Council's
@@ -29,5 +31,5 @@ Receipt for Fees paid ... Registered Student Number
 Date of submission of application ...
 Any Change of Name subsequent to becoming qualified for selection as a Student Nurse- ...
 ...
-Secretary of Council Date ...
+Registrar of Council Date ...
 - Margin: Regulation 10(1).

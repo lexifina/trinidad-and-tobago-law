@@ -33,7 +33,8 @@ Documents Returned Educational Certificates Returned
 to Applicant G.C.E. or CXC Certificates
 Year Subject Shown (State 'O' or 'A') Certificate of Birth CAM, LON or CXC
 of Baptism of Marriage
-... Affidavit Any other supporting ...
+... Affidavit
+... Any other supporting
 document (specify):
 ...
 ...

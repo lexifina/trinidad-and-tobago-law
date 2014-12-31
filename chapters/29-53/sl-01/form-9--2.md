@@ -1,20 +1,15 @@
 # FORM 9
 THE NURSING COUNCIL OF TRINIDAD AND TOBAGO
-(Nurses and Midwives Registration Act)
+(Nursing Personnel Act)
 Fees
 AR/ ...
-Rec. No... Date ...
-APPLICATION FOR REGISTRATION AND LICENCE TO PRACTISE (AS A MIDWIFE UNDER THE PROVISIONS
+Rec. No... Date ... APPLICATION FOR REGISTRATION AND LICENCE TO PRACTISE (AS A MIDWIFE UNDER THE PROVISIONS
 OF SECTION 21(3) OF THE ACT)
-To: The Secretary,
+Registrar,
 The Nursing Council of Trinidad and Tobago. I hereby request The Nursing Council of Trinidad and
-Affix Tobago to grant me the necessary Certificate of
-Passport Registration and Licence to Practise as a Midwife.
-Sized
-I now submit documents attesting to my identity and Photograph
-Here qualifications and the Fee as prescribed by the Council.
-And I declare that the particulars hereunder to which I affix my signature are true and correct.
-A. Particulars of Identity Full Name (Surname first) ... Block Letters
+Affix Tobago to grant me the necessary Certificate of Passport Registration and Licence to Practise as a Midwife. Sized
+I now submit documents attesting to my identity and Photograph qualifications and the Fee as prescribed by the Council. Here
+And I declare that the particulars hereunder to which I affix my signature are true and correct. A. Particulars of Identity Full Name (Surname first) ... Block Letters
 1st Name ... 2nd Name ... 3rd Name ... 4th Name ... If married, Maiden Name ... Date of Birth ... Date of Marriage ... Place of Birth ... Nationality ... Full Postal Permanent Address ...
 B. Professional qualifications Name and Address of Institution of Training- ... Period of Training-
 From ... To ... Name and Address of Licensing body in State/Province where above training was undergone- ... Date of Licensing by the above body: ... Number of Licence as a Midwife: ... Is the above Licence in force? (tick off)
@@ -24,13 +19,13 @@ Qualification Date obtained ...
 C. Basic Education
 From ... To ... Primary: Certificate gained: ...
 Secondary: From ... To ...
-*Certificate/Diploma gained: ... From ... To ... University: Degree/Diploma gained: ... Have you taken the Aptitude Test for Prospective Student Nurses and Midwives of this Council? (tick off)-
+*Certificate/Diploma gained: ... University: From ... To ...
+Degree/Diploma gained: ... Have you taken the Aptitude Test for Prospective Student Nurses and Midwives of this Council? (tick off)-
 Yes No (*If a G.C.E. or CXC Certificate, state number of Subject Passes gained) D. Employment to the present time State places of employment to date, giving dates-
 Names and Addresses From To ...
 Signature of Applicant: ... Date: ...
 (For Office Use Only)
 Original documents returned to Applicant on ... Personally By Registered By Registered
-Airmail Inland Mail (tick off as applicable) Certificate of Licence to Practise as a Midwife, No... of ... Certificate of Birth with affidavit Certificate of
-Marriage Certificate of Baptism Any other document or documents: ... Signature of owner of documents ...
+Airmail Inland Mail (tick off as applicable) Certificate of Licence to Practise as a Midwife, No... of ... Certificate of Birth with affidavit Certificate of Certificate of Baptism Marriage Any other document or documents: ... Signature of owner of documents ...
 or Signature of Mailing Clerk ...
 - Margin: Regulation 64(2)(b).

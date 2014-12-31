@@ -19,16 +19,17 @@ Student Nurse of the Hospital School of Nursing named above, hereby apply to be 
 (5) Date of successful completion of Fundamental Programme ...
 ...
 Signature of Applicant Date ... *Note: The names appearing at the top of this Application will be entered on the Council's Certificate of Registration when it is prepared for issue, spelled in the manner and in the form or order given by the Applicant. Certificates incorrectly prepared through the fault of the Applicant may not be amended. Names given, if different from those under which Applicant was registered as a Student with the Council must be supported by documentary evidence.
-PRACTICAL EXPERIENCE OF STUDENT NURSE MISS ... CALCULATED IN HOURS FROM ... TO ... TOTALS
+PRACTICAL EXPERIENCE OF STUDENT NURSE MISS ... CALCULATED IN HOURS FROM ... TO ...
+TOTALS APPLICATION FOR ENTRY TO THE FINAL NURSING EXAMINATION IN PSYCHIATRIC
 ...
-NIGHT APPLICATION FOR ENTRY TO THE FINAL NURSING EXAMINATION IN
+NIGHT
 TOTAL HOURS OF PRACTICAL WARD EXPERIENCE … 4TH YEAR
 EVENING
 DAY
 NIGHT
 3RD YEAR
 EVENING
-PSYCHIATRIC NURSING-CONTINUED
+NURSING-CONTINUED
 DAY
 NIGHT
 SECTION B
@@ -40,19 +41,13 @@ NIGHT
 MRS.
 MR.
 DAY
-… TUBERCULOSIS, FEMALE WARD ...
-BOYS WARD, MALE SECTION TUBERCULOSIS, MALE WARD
-DISTURBED PATIENTS WARD SPECIAL TREATMENT WARD PSYCHIATRIC OUTPATIENTS
-... CONVALESCENT WARD ... CRIMINAL LUNATIC WARD
-RECREATIONAL THERAPY
-FEMALE VILLA WARD OCCUPATIONAL AND
-WARD EXPERIENCE ACUTE SICK WARD … … ADMISSION WARD
-EPILEPTIC WARD GERIATRIC WARD ISOLATION WARD
-ANY OTHER
-CLINIC TITLE ...
+TUBERCULOSIS, MALE WARD … TUBERCULOSIS, FEMALE WARD … ADMISSION WARD … … GERIATRIC WARD … … ACUTE SICK WARD … … DISTURBED PATIENTS WARD … EPILEPTIC WARD … … CONVALESCENT WARD … … SPECIAL TREATMENT WARD … BOYS WARD, MALE SECTION … CRIMINAL LUNATIC WARD … ISOLATION WARD … … FEMALE VILLA WARD … … RECREATIONAL THERAPY … CLINIC … … … ANY OTHER … … …
+OCCUPATIONAL AND PSYCHIATRIC OUTPATIENTS
+WARD EXPERIENCE
+TITLE ...
 ...
 SIGNATURE OF PERSON COMPILING LEAVE
-MISS ... SIGNATURE OF JUNIOR MATRON COMPILING ABOVE DATA
+SIGNATURE OF JUNIOR MATRON COMPILING ABOVE DATA NAME OF STUDENT NURSE, MISS ...
 LEAVE TAKEN BY STUDENT OVER THE TRAINING PERIOD CALCULATED IN HOURS FROM ... TO ...
 TOTALS
 FROM ...TO ...
@@ -70,12 +65,8 @@ FROM ...TO ...
 MRS.
 MR.
 DATE ...
-… … … NAME OF STUDENT NURSE,
-… … …
+SICK … … … VACATION … … … OTHER LEAVE* … …
 LEAVE
-OTHER LEAVE*
-… VACATION …
-SICK
 APPLICATION-FINAL EXAMINATION IN
 PSYCHIATRIC NURSING-Continued
 Section C
@@ -92,6 +83,5 @@ Section D
 I hereby declare that the Applicant named above has pursued the stipulated Programme of Training at this Hospital School of Nursing for persons seeking admission to the Register of Nurses for the mentally ill for a period of ... calculated from date of entry into the School to the date of my signing this Form of Application for entry to the Qualifying Examinations and that the theoretical and practical experiences of this Applicant have been as indicated herein.
 And I further declare that the conduct and application to duty of the Applicant over the training period are as follows:
 Nursing Skills and Performance ... Professional Adjustment and Deportment ... Theoretical Knowledge ...
-...
-Signature Date ...
+... Date ... Signature
 - Margin: Regulation 31(2)(b).

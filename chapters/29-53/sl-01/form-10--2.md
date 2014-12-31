@@ -1,7 +1,7 @@
 # FORM 10
 THE NURSING COUNCIL OF TRINIDAD AND TOBAGO
-(Nurses and Midwives Registration Act-Part IV)
-AppLICATION FOR ENTRy INTO COUNCIL'S NURSING
+(Nursing Personnel Act-Part IV)
+APPLICATION FOR ENTRY INTO COUNCIL'S NURSING
 ASSISTANT TRAINING COURSES
 (To be completed in Applicant's handwriting)
 I hereby make application for approval of Council for entry into the Nursing Assistant Training Course at ...
@@ -14,7 +14,8 @@ Passport
 Sized
 (2) State whether married, single or widowed
 Photograph
-... Here
+...
+Here
 (3) If married, state maiden name
 ...
 (4) Date of Birth ...
@@ -33,5 +34,5 @@ Trainee registration number ...
 Application approved on ...
 Signature of Owner ...
 ...
+Registrar of Council
 - Margin: Regulation 69(1).
-- Margin: Secretary of Council

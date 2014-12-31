@@ -1,13 +1,13 @@
 # FORM 8
 Fee Receipt No.:
 THE NURSING COUNCIL OF TRINIDAD AND TOBAGO
-(Nurses and Midwives Registration Act)
+(Nursing Personnel Act)
 APPLICATION FOR THE GRANT OF REGISTRATION
 AND LICENCE TO PRACTISE AS A MIDWIFE TO
 A PERSON PASSING THE COUNCIL'S
 QUALIFYING EXAMINATION AS PROVIDED
 BY SEC. 21(2) OF THE ACT
-The Secretary, The Nursing Council of Trinidad and Tobago.
+The Registrar, The Nursing Council of Trinidad and Tobago.
 (1) Surname (Block Letters) ...
 (2) Other Name(s) ...
 1st 2nd 3rd
@@ -17,13 +17,18 @@ The Secretary, The Nursing Council of Trinidad and Tobago.
 ... I hereby request The Nursing Council of Trinidad and Tobago to grant me the necessary Licence to Practise as a Midwife in Trinidad and Tobago as I have been successful at the Council's Midwifery Examinations of ...
 Month Year and to enter my name on the Council's Register of Midwives. I promise in the event of my being so registered and in consideration thereof, to be bound by, and to conform in all respects to the Rules and Regulations for the time being in force. I hereby declare that I am over the age of 21, that I-
 (tick off as applicable)
-have presented my Certificate of Birth with application for entry (a) to the qualifying Examination referred above … … … have presented my Certificate of Marriage with application for entry (b) to the said qualifying Examination ...
+(a) have presented my Certificate of Birth with application for entry
+to the qualifying Examination referred above … … …
+(b) have presented my Certificate of Marriage with application for entry
+to the said qualifying Examination ...
 or
-having changed my name due to marriage subsequent to passing (c) the said qualifying Examination, I now present my Certificate of Marriage in support of same ...
+(c) having changed my name due to marriage subsequent to passing
+the said qualifying Examination, I now present my Certificate of Marriage in support of same ...
 or
-having omitted to enter all my names on the application for entry to (d) the said qualifying Examination, I now present document(s) in support of additional names ... and now enclose the Fee prescribed by the Council for admission to its Register and the grant of a licence to Practise as a Midwife.
+(d) having omitted to enter all my names on the application for entry to
+the said qualifying Examination, I now present document(s) in support of additional names ... and now enclose the Fee prescribed by the Council for admission to its Register and the grant of a licence to Practise as a Midwife.
 Signature of Applicant ... Date of Application ... (To be completed by the Authority of the Approved Hospital School of Midwifery)
-I hereby certify that the Applicant named above has successfully completed the prescribed course of training at the ... Hospital School of Midwifery and is thus entitled to be admitted to the Register maintained by the Council and to receive the Council's Licence to Practise as a Midwife and I further declare that she is a fit and proper person to assume the responsibilities of a Licensed Midwife.
+I hereby certify that the Applicant named above has successfully completed the prescribed course of training at the ... Hospital School of Midwifery and is thus entitled to be admitted to the Register maintained by the Council and to receive the Council's Licence to Practise as a Midwife and I further declare that he/she is a fit and proper person to assume the responsibilities of a Licensed Midwife.
 Signature ...
 Official Title ...
 - Margin: Regulation 64(2)(a).
