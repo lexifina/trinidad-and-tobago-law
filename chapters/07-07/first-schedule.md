@@ -28,9 +28,10 @@ In any other indictable proceedings, fee to an Attorney-at-law shall not exceed 
 PART III
 The fees and expenses to an Attorney-at-law assigned to an applicant under section 19(4) shall be as follows:
 The Authority shall pay to an Attorney-at-law in respect of non-capital offences a fee not exceeding five thousand dollars but the presiding Judge after the conclusion of the trial, may, if he thinks fit, certify that the case was of unusual length or difficulty and increase the fee of the Attorney-at-law to a sum not exceeding ten thousand dollars.
+Where three or more accused persons are appearing in a capital case being tried before the High Court and the Authority reasonably believes that the trial may be lengthy in time, the Authority shall pay to an Attorney-at-law representing one or more of the accused, a sum not exceeding thirty thousand dollars per month, during the period of the trial and such payment may be prorated by the Authority as it thinks fit.
 In respect of capital offences, the Authority shall pay a fee not exceeding fifteen thousand dollars; but the presiding Judge after the conclusion of the trial, may, if he thinks fit, certify that the case was of unusual length or difficulty and increase the fee of the Attorney-at-law to a sum not exceeding twenty thousand dollars and, in exceptional circumstances, allow the Attorney-at-law an additional fee not exceeding ten thousand dollars.
 These sums become due and payable by the Director on the written authority of the presiding Judge.
-- Margin: Section 16(1). [46 of 1979 18 of 1994 11 of 1999 18 of 1999 3 of 2012].
+- Margin: Section 16(1). [46 of 1979 18 of 1994 11 of 1999 18 of 1999 3 of 2012 180/2013].
 - Margin: Ch. 13:07.
 - Margin: Ch. 46:07. Ch. 46:08. Ch. 45:56. Ch. 45:52.
 - Margin: Ch. 45:55.
