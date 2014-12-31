@@ -150,9 +150,9 @@ BENEFITS UNDER THE LEGISLATION OF
 TRINIDAD AND TOBAGO
 ARTICLE XIII
 Calculating the Amount of Benefit Payable
-1. If a person is not entitled to a retirement pension or a survivors' benefit solely on the basis of the periods creditable under the legislation of Trinidad and Tobago, but is entitled to that pension or benefit through the application of the totalising provisions of Chapter 1, the competent institution of Trinidad and Tobago shall calculate the value of benefit payable in the following manner:
+1. If a person is not entitled to a retirement pension or a survivor's benefit solely on the basis of the periods creditable under the legislation of Trinidad and Tobago, but is entitled to that pension or benefit through the application of the totalising provisions of Chapter 1, the competent institution of Trinidad and Tobago shall calculate the value of benefit payable in the following manner:
 (a) it shall first establish the rate of a retirement pension or a
-survivors' benefit which would be payable if the person qualified for the benefit on the basis of creditable periods completed under the legislation of Trinidad and Tobago alone;
+survivor's benefit which would be payable if the person qualified for the benefit on the basis of creditable periods completed under the legislation of Trinidad and Tobago alone;
 (b) it shall then multiply that rate by the fraction which represents the
 ratio of the actual creditable periods under the legislation of Trinidad and Tobago in relation to the minimum creditable period required to establish entitlement to that benefit under that legislation; that is to say,
 Actual creditable periods under the legislation of Trinidad and Tobago

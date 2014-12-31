@@ -1,21 +1,22 @@
 NATIONAL INSURANCE ACT
 CHAPTER 32:01
 Act
-35 of 1971 Amended by 27 of 1974 27 of 1977 23 of 1980
-11/1984
-*13 of 1984 *14 of 1987 †18 of 1993
-9 of 1999 9 of 2004
-†30 of 2007
-17/2008 18/2008
-†2 of 2012
+35 of 1971
+Amended by
+27 of 1974 9 of 2004 27 of 1977 †30 of 2007 23 of 1980 17/2008
+11/1984 18/2008
+*13 of 1984 †2 of 2012
+*14 of 1987 2 of 2013
+†18 of 1993 73/2013
+9 of 1999 254/2013
 *See Note on Health Surcharge on page 3
 †See Note on page 3
 Index of Subsidiary Legislation
-Page National Insurance (Registration) Regulations (LN 27/2004) … … 99 National Insurance (Contribution) Regulations (GN 63/1972) … … 106 National Insurance (Medical Expenses) Regulations (GN 95/1977) … 124 National Insurance (Employment Injury) (Payment of Medical Expenses)
-Order (GN 226/1979) ... 128 National Insurance (Prescribed Diseases) Regulations (GN 94/1977) … 136 National Insurance (Benefits) Regulations (GN 77/1972)… … … 151 National Insurance (Harmonisation of Pension Fund Plans) Regulations
-(GN 49/1972) ... 184 National Insurance (Appeals) Regulations (LN 131/1980) … … 187 National Insurance (CARICOM Reciprocal Agreement on Social Security)
-Order (LN 140/1998) ... 197 National Insurance (Agreement and Administrative Arrangement on Social
-Security between Canada and Trinidad and Tobago) Order (LN 21/1999) … 224
+Page National Insurance (Registration) Regulations (LN 27/2004) … … 128 National Insurance (Contribution) Regulations (GN 63/1972) … … 135 National Insurance (Medical Expenses) Regulations (GN 95/1977) … 156 National Insurance (Employment Injury) (Payment of Medical Expenses)
+Order (GN 226/1979) ... 160 National Insurance (Prescribed Diseases) Regulations (GN 94/1977) … 172 National Insurance (Benefits) Regulations (GN 77/1972)… … … 187 National Insurance (Harmonisation of Pension Fund Plans) Regulations
+(GN 49/1972) ... 220 National Insurance (Appeals) Regulations (LN 131/1980) … … 223 National Insurance (CARICOM Reciprocal Agreement on Social Security)
+Order (LN 140/1998) ... 233 National Insurance (Agreement and Administrative Arrangement on Social
+Security between Canada and Trinidad and Tobago) Order (LN 21/1999) … 260
 Note on Commencement Date
 The following are the relevant commencement dates:
 (a) 15th November 1971-GN 223/1971
@@ -87,12 +88,12 @@ BENEFITS
 46. Benefits. 47. Industrial disease. 48. Prescribed disease benefit. 49. Benefits to be inalienable.
 49A. Recovery of excess payment.
 50. Benefit lost by employer's default. 51. Accidents happening while acting in breach of regulations, etc. 52. Accidents happening while travelling in employer's transport. 53. Accident happening while meeting emergency. 54. Rates of benefit.
-54A. Benefit in accordance with earnings class. 54B. Benefits in accordance with earnings class from 7th January 2008.
+54A. Benefit in accordance with earnings class. 54B. Benefits in accordance with earnings class from 7th January 2008. 54C. Benefits in accordance with earnings class from 4th March 2013. 54D. Sickness or maternity benefit from 3rd March 2014.
 55. Regulations in respect of benefits. 56. Amendment of rates.
 PART IV
 MISCELLANEOUS
-57. President to make Regulations for harmonisation. 58. Initial expenditure and advances. 59. Determination of claims and questions. 60. Appeals tribunals. 61. President to determine remuneration of appeals tribunals. 62. Appeals from decisions of the Board. 63. Offences. SECTION
-64. General provisions as to prosecutions under this Act. 65. Recovery of contributions on prosecution.
+57. President to make Regulations for harmonisation. 58. Initial expenditure and advances. 59. Determination of claims and questions. 60. Appeals tribunals. 61. President to determine remuneration of appeals tribunals. SECTION
+62. Appeals from decisions of the Board. 63. Offences. 64. General provisions as to prosecutions under this Act. 65. Recovery of contributions on prosecution.
 65A. Liability of body corporate.
 66. Civil proceedings to recover sums due to Board. 67. Insured persons outside Trinidad and Tobago. 68. Accidents in course of illegal conditions of employment. 69. Reciprocal agreements with other parts of Commonwealth. 70. Actuarial review. 71. Regulations subject to negative resolution. 72. Indemnity. 73. Pending proceedings. 74. Act to bind State.
 FIRST SCHEDULE. SECOND SCHEDULE. THIRD SCHEDULE.
