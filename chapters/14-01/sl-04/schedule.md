@@ -6,7 +6,7 @@ Ordinance, Ch. 39 No. 11(1950 Ed.). *The Borough Police appointed for the purpos
 Corporation Ordinance, Ch. 39 No. 7 (1950 Ed.), and the Arima Corporation Ordinance, Ch. 39 No. 11(1950 Ed.), respectively. The British West Indian Airways Limited, a company incorporated under the
 Companies Act (Ch. 81:01). The Central Marketing Agency established under the Central Marketing
 Agency Act, Ch. 68:01. *The City Police appointed for the purposes of the Port-of-Spain Corporation
-Ordinance, Ch. 39 No. 1 (1950 Ed.). The Cocoa and Coffee Industry Board established under the Cocoa and Coffee
+Ordinance, Ch. 39. No. 1 (1950 Ed.). The Cocoa and Coffee Industry Board established under the Cocoa and Coffee
 Industry Act, Ch. 64:20. The Control Board established by virtue of the Emergency Powers (Defence)
 Acts 1939 and 1940 of the United Kingdom as applied by the Emergency Powers (Colonial Defence) Order-in-Council in so far as it relates to the Control Board before the year 1951.
 * This Ordinance was repealed by the Municipal Corporations Act, 1990 (Act No. 21 of 1990). The Industrial Development Corporation established under the Industrial
