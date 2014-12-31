@@ -167,8 +167,7 @@ SECTION NOTES Chapters
 precision, medical or surgical instruments and apparatus; parts and accessories thereof.
 91. Clocks and watches and parts thereof. 92. Musical instruments; parts and accessories of such articles.
 SECTION XIX
-ARMS AND AMMUNITION; PARTS AND ACCESSORIES THEREOF
-SECTION NOTE Chapter
+ARMS AND AMMUNITION; PARTS AND ACCESSORIES THEREOF SECTION NOTE Chapter
 93. Arms and ammunition; parts and accessories thereof.
 SECTION XX
 MISCELLANEOUS MANUFACTURED ARTICLES
@@ -307,7 +306,7 @@ MISCELLANEOUS CHEMICAL PRODUCTS-Continued
 Subheading Notes.
 1.
 2.
-SECTION II
+SECTION VII
 PLASTICS AND ARTICLES THEREOF; RUBBER AND ARTICLES THEREOF PLASTICS AND ARTICLES THEREOF
 CHAPTER 39-Continued
 PLASTICS AND ARTICLES THEREOF-Continued
@@ -476,6 +475,7 @@ CHAPTER 76-Continued
 ALUMINIUM AND ARTICLES THEREOF-Continued Plates, sheets, strip and foil (d)
 (i)
 (ii)
+equilateral triangles or regular convex polygons, and which have a uniform wall
 CHAPTER 78-Continued
 LEAD AND ARTICLES THEREOF-Continued
 (i)
@@ -485,7 +485,9 @@ ZINC AND ARTICLES THEREOF-Continued Plates, sheets, strip and foil (d)
 (i)
 (ii)
 CHAPTER 80-Continued
-TIN AND ARTICLES THEREOF-Continued articles. SECTION XVI
+TIN AND ARTICLES THEREOF-Continued articles.
+SECTION XVI
+Transmission or conveyor belts or belting, of textile material (heading 5910.00.00) or
 SECTION XVI-Continued
 MACHINERY AND MECHANICAL APPLIANCES; ELECTRICAL EQUIPMENT; PARTS THEREOF; SOUND RECORDERS AND REPRODUCERS, TELEVISION IMAGE AND SOUND RECORDERS AND REPRODUCERS, AND PARTS AND ACCESSORIES OF
 SUCH ARTICLES-Continued
@@ -509,7 +511,7 @@ PARTS THEREOFF; SOUND RECORDERS AND
 REPRODUCERS, TELEVISION IMAGE AND SOUND RECORDERS AND REPRODUCERS, AND PARTS AND
 ACCESSORIES OF SUCH ARTICLES
 *
-*See Note on page 654.
+*See Note on page 666.
 CHAPTER 85-Continued
 ELECTRICAL MACHINERY AND EQUIPMENT AND PARTS THEREOF; SOUND
 RECORDERS AND REPRODUCERS, TELEVISION IMAGE AND SOUND RECORDERS AND REPRODUCERS, AND PARTS AND ACCESSORIES OF SUCH ARTICLES-Continued
@@ -543,7 +545,7 @@ OPTICAL, PHOTOGRAPHIC, CINEMATOGRAPHIC, MEASURING, CHECKING,
 PRECISION, MEDICAL OR SURGICAL INSTRUMENTS AND APPARATUS; PARTS AND
 ACCESSORIES THEREOF-Continued
 (a)
-(b)
+(b) X-ray, cosmic or other ionizing radiations.
 CLOCKS AND WATCHES AND PARTS THEREOF
 This Chapter does not cover:
 2. Heading 91.01 covers only watches with case wholly of precious metal or of metal clad with precious metal, or of the same materials combinded with natural or cultured pearls, or precious or semi-precious stones (natural, synthetic or reconstructed) of headings 71.01 to 71.04. Watches with case of base metal inlaid with precious metal fall in heading 91.02.
@@ -572,6 +574,7 @@ MISCELLANEOUS MANUFACTURED ARTICLES
 Notes
 CHAPTER 96-Continued
 MISCELLANEOUS MANUFACTURED ARTICLES-Continued twigs or Notes.
+Pearls, natural or cultured, or precious or semi-precious stones (headings 71.01 to 71.03).
 created by artists. CHAPTER 98
 - Margin: Section 8. 22/2007. [13 of 2010].
 - Margin: obtained

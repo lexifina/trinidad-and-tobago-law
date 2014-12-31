@@ -6,7 +6,7 @@ Gasolene and Kerosene
 The importation of gasolene and kerosene except in accordance with a written permit from the Comptroller of Customs and Excise first had and obtained.
 SECOND SCHEDULE-Continued
 Mechanical games of chance for gambling
-The importation of any mechanical game, device, or appliance, which, in the opinion of the Comptroller of Customs and Excise, is such as can be used to play at any game of chance for money or money's worth and is not intended for purposes of amusement only.
+(Repealed by Act No. 4 of 2014).
 Icing Sugar
 The importation of icing sugar is prohibited unless such sugar is packed in cardboard cartons containing not more than one pound net weight of icing sugar in each carton, and havng printed thereon the words "Icing Sugar", the net weight of the contents and the name and address of the manufacturer of the icing sugar. However, the Comptroller of Customs and Excise may in his discretion grant a licence for the importation of icing sugar in other packages and in such quantities and upon such terms as he considers necessary.
 Brewing Materials
@@ -35,6 +35,7 @@ The importation of instruments to be attached to and used on motor vehicles for 
 (b) electric horns sounding one note only.
 Herbs or Plants for medicinal use
 The importation of any herb or plant or of any part of any herb or plant for use as medicine or drug by man or animals, or which may be used as medicine or drug by man or animals, unless such importation is certified as essential by the Chief Medical Officer or Technical Officer (Animal Health).
+SECOND SCHEDULE-Continued
 Importation in transit of arms, etc.
 The importation in transit of all arms, ammunition, military and naval stores, civilian aircraft of any type (including helicopters), military communications equipment, patrol vessel whether armed or unarmed, landing craft and other vessels of military utility and any other combat or non-combat military equipment except in accordance with the terms of the written permission of the Commissioner of Police given in that behalf.
 Small arms and toy guns

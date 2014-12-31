@@ -42,7 +42,7 @@ EXPORTATION OF GOODS
 111. Forms for exportation. 112. Drawback export entry and debenture. 113. Export entry ex warehouse and locker's order. 114. Bonds. 115. Customs declarations for goods free of export duty. 116. Customs declarations for goods liable to export duty. 117. Conditions constituting export. 118. Permit to re-land goods shipped for export. 119. Goods short shipped to be re-entered for exportation.
 PART IX
 WAREHOUSING
-120. Alterations or additions to private warehouse. 121. Private warehouse-locks and apparatus. 122. Charges for whole-time officer in private warehouses. 123. Charges for part-time officer in private warehouses. 124. Removal of goods for warehousing.
+120. Alterations or additions to private warehouse. 121. Private warehouse-locks and apparatus. 122. (Revoked by LN 269/2014). 123. Charges for part-time officer in private warehouses. 124. Removal of goods for warehousing.
 Examination of goods on receipt into warehouse.
 125. Hours of receipt of goods in warehouse. 126. How goods for warehouse may be conveyed. 127. Warehousing of imported liquids used for blending with local spirits.
 ARRANGEMENT OF REGULATIONS-Continued REGULATION
@@ -89,8 +89,7 @@ MISCELLANEOUS
 211. Signal to be used to stop ships.
 REGULATIONS AS TO FORMS NOT ELSEWHERE
 PROVIDED FOR
-212. Other forms. 213. Bond to be recorded on Customs documents. 214. Fire hazards. 215. Hours for receiving money at Custom House. 216. Applications to be addressed to the Comptroller. 217. Discretionary powers of Comptroller. 218. Comptroller may suspend operation of Regulations.
-SCHEDULE.
+212. Other forms. 213. Bond to be recorded on Customs documents. 214. Fire hazards. 215. Hours for receiving money at Custom House. 216. Applications to be addressed to the Comptroller. 217. Discretionary powers of Comptroller. 218. Comptroller may suspend operation of Regulations. SCHEDULE.
 *CUSTOMS REGULATIONS
 made under section 263
 PRELIMINARY
