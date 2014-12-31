@@ -1,0 +1,37 @@
+# FIRST SCHEDULE
+Rule 5(1).
+PRESCRIBED STANDARDS
+MAXIMUM PERMISSIBLE SOUND PRESSURE LEVELS TYPE OF ZONES WHERE THE
+Note: All sound pressure levels shall be measured in accordance with SOUND
+the Second Schedule. ORIGINATES
+Anytime-The sound pressure level shall not exceed the following: ZONE I-
+(a) equivalent continuous sound pressure level of 75 dBA; Industrial areas
+(b) instantaneous unweighted peak sound pressure level
+of 130 dB (peak).
+Daytime Limits-On Mondays to Sundays of every week from ZONE II-
+8.00 a.m. to 8.00 p.m. on each day- Environmentally
+Sensitive areas.
+(a) the sound pressure level when measured as the equivalent
+continuous sound pressure level shall not be more than 3 dBA above the background sound pressure level; and
+(b) the sound pressure level when measured as instantaneous
+unweighted peak sound pressure level shall not exceed 120 dB (peak).
+Notwithstanding the above, no person shall emit or cause to be emitted any sound that causes the sound pressure level when measured as the equivalent continuous sound pressure level to exceed 60 dBA.
+Night-time Limits-On Mondays to Sundays of every week from
+8.00 p.m. to 8.00 a.m. on each day-
+(a) the sound pressure level when measured as the equivalent
+continuous sound pressure level shall not be more than 3 dBA above the background sound pressure level; and
+(b) the sound pressure level when measured as instantaneous
+unweighted peak sound pressure level shall not exceed 115 dB (peak).
+Notwithstanding the above, no person shall emit or cause to be emitted any sound that causes the sound pressure level when measured as the equivalent continuous sound pressure level to exceed 60 dBA. Daytime Limits-On Mondays to Sundays of every week from ZONE III- General area 8.00 a.m. to 8.00 p.m. on each day-
+(a) the sound pressure level when measured as equivalent
+continuous sound pressure level shall not be more than 5 dBA above the background sound pressure level; and
+(b) the sound pressure level when measured as instantaneous
+unweighted peak sound pressure level shall not exceed 120 dB (peak).
+Notwithstanding the above, no person shall emit or cause to be emitted any sound that causes the sound pressure level when measured as the equivalent continuous sound pressure level to exceed 80 dBA.
+Night-time Limits-On Mondays to Sundays of every week from
+8.00 p.m. to 8.00 a.m. on each day-
+(a) the sound pressure level when measured as equivalent
+continuous sound pressure level shall not be more than 5 dBA above the background sound pressure level; and
+(b) the sound pressure level when measured as instantaneous
+unweighted peak sound pressure level shall not exceed 115 dB (peak).
+Notwithstanding the above, no person shall emit or cause to be emitted any sound that causes the sound pressure level when measured as the equivalent continuous sound pressure level to exceed 65 dBA.
