@@ -1,0 +1,3 @@
+QUARANTINE (EBOLA VIRUS DISEASE) ORDER
+made under section 6(1)
+- Margin: 298/2014.
