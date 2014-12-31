@@ -1,13 +1,11 @@
 DEFENCE ACT
 CHAPTER 14:01
 Act
-7 of 1962 Amended by
-9 of 1963 19 of 1967 35 of 1970 38 of 1970 136/1976 110/1977 218/1977 32 of 1979 16 of 1988 16 of 1994
-*18 of 1994
-14 of 1996
-†25 of 2000
-66 of 2000
-*See Note on page 3 †See Note on Validation at page 3
+7 of 1962
+Amended by
+32 of 1979 9 of 1963 16 of 1988 19 of 1967 16 of 1994 35 of 1970 *18 of 1994 38 of 1970 14 of 1996 136/1976 †25 of 2000 110/1977 66 of 2000 218/1977
+*See Note on page 3
+†See Note on Validation at page 3
 Index of Subsidiary Legislation
 Page
 Defence (Enlistment and Service) Regulations (7 of 1962) … … … 154
@@ -29,7 +27,7 @@ Defence (Rates of Pay and Allowances) Regulations;
 PART B
 (a) Notifications made under section 5;
 (b) Orders made under section 189;
-(c) Proclamations made under 238.
+(c) Proclamations made under section 238.
 NB-(For references to the omitted Subsidiary Legislation see the latest Edition of the Consolidated Index of Acts and Subsidiary Legislation). For the discretion of the Court to deny bail to a defendant who is in custody in pursuance of the sentence of a Court or any authority acting under the Defence Act, see section 6(2)(c) of Act No. 18 of 1994.
 Note on Validation
 For the validation of all acts and things done under the Act, see section 4 of Act No. 25 of 2000.
@@ -162,7 +160,8 @@ SECTION
 requisitioning.
 188. Bringing into operation of sections 171 and 179. 189. Requisition of land for training, etc.
 PART IX
-GOVERNMENT AND GENERAL PROVISIONS COMMAND
+GOVERNMENT AND GENERAL
+PROVISIONS COMMAND
 190. Command and precedence. 191. Chief of Defence Staff. 192. Regulations as to command. 193. Powers of command of members of co-operating forces.
 REDRESS OF COMPLAINTS
 194. Complaints by officers. 195. Complaints by other ranks.

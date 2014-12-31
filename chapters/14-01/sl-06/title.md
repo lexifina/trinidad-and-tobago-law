@@ -15,8 +15,9 @@ AND PROMOTION OF OFFICERS
 PART III
 SUPERANNUATION
 AGE OF RETIREMENT, CONTRIBUTIONS AND BENEFITS
-12. Age of compulsory retirement. 13. Contribution of superannuation benefits. 14. Gratuity on completion of Commission. 15. Officers retiring before completing ten years service. 16. Gratuity and pension payable after ten years but before fifteen years service. 17. Gratuity and pension payable after fifteen years but before twenty
-years service. REGULATION
+12. Age of compulsory retirement. 13. Contribution of superannuation benefits. 14. Gratuity on completion of Commission. 15. Officers retiring before completing ten years service. 16. Gratuity and pension payable after ten years but before fifteen years service. REGULATION
+17. Gratuity and pension payable after fifteen years but before twenty
+years service.
 18. Gratuity and pension payable after twenty years service.
 PART IV
 BENEFITS TO DEPENDANTS ON DEATH OF OFFICERS
