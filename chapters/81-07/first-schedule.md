@@ -18,10 +18,12 @@ professional services.
 repairing infrastructure or premises situated within a free zone and including the equipping of such premises.
 (13) Sale, lease, rental or management of free zone land,
 infrastructure, premises, plant, equipment facilities and services.
+(14) Shared support services which include the processing of
+payments through wire transfers, loan adjudication and fulfilment, operational advice, database management, human resource management support, reconciliations, collections from delinquent customers, the rolling out of operational projects, internal legal advice, and credit card processing.
 PART II
 ACTIVITIES WHICH MAY BE CARRIED ON IN A
 FREE ZONE BUT DO NOT QUALIFY AS
 APPROVED ACTIVITIES
 1. Exploration for and production, extraction, refining, processing, purifying, liquefying, mixing, blending, storing, loading and unloading or trans-shipment of petroleum or natural gas.
 2. Any production activity in which petroleum, natural gas or petrochemicals are a major input, even if used as a fuel.
-- Margin: Section 4. [33 of 1995 200/1996 13 of 2010].
+- Margin: Section 4. [33 of 1995 200/1996 13 of 2010 55/2013].

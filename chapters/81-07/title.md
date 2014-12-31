@@ -3,7 +3,7 @@ CHAPTER 81:07
 Act
 19 of 1988 Amended by
 6 of 1989 6 of 1991 33 of 1995 200/1996 201/1996 4 of 1997 15 of 2004 13 of 2010
-61/2011
+61/2011 2 of 2013 55/2013
 Note on Subsidiary Legislation
 The following Orders, viz:
 (a) Trinidad and Tobago Free Zones (Designation) Orders made under
@@ -57,7 +57,7 @@ withholding tax.
 36. Approved enterprises to submit returns. 37. Board of Inland Revenue may issue certificates regarding benefits. 38. Work permits.
 38A. Saving and exemptions.
 39. Penalty for offences not otherwise provided for. 40. Penalty for false information. 41. Revocation of an Order by the Company.
-FIRST SCHEDULE. SECOND SCHEDULE (Repealed by Act No. 33 of 1995). THIRD SCHEDULE. FOURTH SCHEDULE (Repealed by Act No. 33 of 1995).
+FIRST SCHEDULE. SECOND SCHEDULE-(Repealed by Act No. 33 of 1995). THIRD SCHEDULE. FOURTH SCHEDULE-(Repealed by Act No. 33 of 1995).
 
 CHAPTER 81:07
 TRINIDAD AND TOBAGO FREE ZONES ACT
