@@ -6,8 +6,11 @@ Amended by
 2 of 2010
 16 of 2011
 14 of 2012
+15 of 2014
 Index of Subsidiary Legislation
 Page Financial Obligations (Financing of Terrorism) Regulations (LN 7/2011) 58
+Note on Revision
+The pages of this Act bearing the notation L.R.O. 1/2015 are hereby authorised to be included in the Laws as from 5th January 2015 pursuant to an Order made under section 9 of the Law Revision Act (Chap. 3:03).
 CHAPTER 12:07
 ANTI-TERRORISM ACT
 ARRANGEMENT OF SECTIONS
