@@ -4,12 +4,12 @@ CONSENT FOR TAKING A SAMPLE FROM A
 COMPLAINANT
 Please Note that-
 1. Under section 4 of the Administration of Justice (Deoxyribonucleic Acid) Act-
-"intimate sample" means a specimen of biological or other material
-taken from-
+"intimate sample" means a specimen of venous blood or biological
+or other material taken from-
 (a) any part of a person's genitals; or
 (b) a person's bodily orifice other than the mouth;
 "non-intimate sample" means a specimen of-
-(a) blood obtained by a prick of the finger;
+(a) blood obtained by a pin prick;
 (b) epithelial cells obtained by means of buccal swab;
 (c) plucked hair; or
 (d) saliva;
@@ -21,7 +21,6 @@ taken from-
 6. Only a qualified person is entitled to take a sample from you.
 A "qualified person" means-
 a registered medical practitioner under the Medical Board Act, or a person registered under Part II or III of the Nurses and Midwives Registration Act, acting under the supervision of a registered medical practitioner.
-FORM 3-Continued
 A. Consent
 I, ... of
 (Name of person/representative giving consent)
@@ -44,7 +43,9 @@ I, ... of
 further to giving my consent to section 18(4) of the Act for a sample to be taken from ... hereby withdraw my consent.
 The reasons for withdrawing my consent are as follows:
 ...
-... Signed:
+...
+FORM 3-Continued
+Signed:
 ...
 (Signature of person/representative withdrawing consent)
 ...
