@@ -3,19 +3,30 @@ CHAPTER 4:20
 Act
 9 of 1918
 Amended by
-2 of 1919 16 of 1962 21 of 1990 28 of 1921 97/1963 38 of 1991 62 of 1921 19 of 1965 8 of 1992 6 of 1923 31 of 1971 18 of 1994 32 of 1925 53 of 1976
-27 of 1994 22 of 1936 136/1976
-28 of 1996 14 of 1939 22 of 1977
-22 of 1997 21 of 1943 45 of 1979
-37 of 1997 36 of 1947 3 of 1980
-44 of 2000 24 of 1948 47 of 1980
-59 of 2000 24 of 1951 98/1981
-85 of 2000 20 of 1953 29 of 1982
-6 of 2004 18 of 1957
+2 of 1919 16 of 1962 38 of 1991
+97/1963 28 of 1921 8 of 1992
+19 of 1965 62 of 1921
+3 of 1994
+31 of 1971 6 of 1923
+18 of 1994
+53 of 1976
+32 of 1925
+27 of 1994
+136/1976
+22 of 1936
+28 of 1996 22 of 1977 14 of 1939
+22 of 1997 45 of 1979 21 of 1943
+3 of 1980 37 of 1997 36 of 1947
+47 of 1980 44 of 2000 24 of 1948
+98/1981
+59 of 2000 24 of 1951
+29 of 1982
+85 of 2000 20 of 1953
 37 of 1985
-15 of 2005 175/1958 *13 of 1986 19 of 2005 11 of 1961 27 of 1986
-(by implication) 172/1961 †23 of 2005 11 of 1987
-8/1962 4 of 2011 16 of 1989
+6 of 2004 18 of 1957
+*13 of 1986
+175/1958 15 of 2005 27 of 1986 11 of 1961 19 of 2005 11 of 1987 172/1961 16 of 1989 †23 of 2005 (by implication)
+8/1962 21 of 1990 4 of 2011
 *See Note on Validation on page 3
 †See Note on page 3
 Index of Subsidiary Legislation
@@ -188,8 +199,7 @@ APPEALS AND SPECIAL CASES
 128. Right of appeal. 128A. Appellant in custody.
 129. Right of appeal under former Act. 130. Notice of appeal to be given. 130A. Extension of time to appeal.
 ARRANGEMENT OF SECTIONS-Continued
-SECTION
-130B. Reasons for decision to be stated.
+SECTION 130B. Reasons for decision to be stated.
 131. Reasons for appeal. 132. Enumeration of admissible reasons for appeal. 133. Manner of setting forth reasons for appeal. 133A. Bail to be granted to appellant sentenced to less than three months.
 134. Bail may be granted to appellant sentenced to three or more than
 three months.
