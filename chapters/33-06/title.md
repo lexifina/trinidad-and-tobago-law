@@ -1,7 +1,7 @@
 TRINIDAD AND TOBAGO HOUSING DEVELOPMENT CORPORATION (VESTING) ACT
 CHAPTER 33:06
 Act
-10 of 2004 Amended by 24 of 2005 167/2008 122/2012
+10 of 2004 Amended by 24 of 2005 167/2008 122/2012 224/2013 58/2014
 Note on Subsidiary Legislation
 This Chapter contains no subsidiary legislation.
 CHAPTER 33:06
