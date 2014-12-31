@@ -1,0 +1,2 @@
+# 9A. Tax qualification for issue of certificate. [4 of 2014].
+Every members' club seeking the renewal of a certificate in a year subsequent to the year 2014 shall, before the certificate is issued, satisfy the Licensing Committee that there are no outstanding gaming taxes, interest or penalty payable to the Board of Inland Revenue in respect of the last six years prior to the year in which the application for renewal is made.
