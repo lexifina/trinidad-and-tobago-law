@@ -3,9 +3,10 @@ FINANCIAL INTELLIGENCE UNIT OF TRINIDAD AND
 TOBAGO REGULATIONS
 ARRANGEMENT OF REGULATIONS
 REGULATION
+1. Citation.
 PART I
 PRELIMINARY
-1. Citation. 2. Interpretation.
+2. Interpretation.
 PART II
 COLLECTION OF FINANCIAL INTELLIGENCE AND
 INFORMATION
@@ -13,7 +14,7 @@ INFORMATION
 PART III
 RECEIVING SUSPICIOUS TRANSACTION/ACTIVITY
 REPORT (STRs/SARs)
-6. Submission of STRs/SARs. 7. Use of forms under Proceeds of Crime Act.
+6. Submission of STRs/SARs. 7. Approved form.
 PART IV
 STORAGE OF FINANCIAL INTELLIGENCE AND
 INFORMATION
@@ -30,15 +31,17 @@ PERIODIC REPORTS
 26. Periodic Reports.
 PART VIII
 SUPERVISORY AUTHORITY
-27. Interpretation of certain words in this Part and references to the FIU. 28. Requirement for supervised entity to register. 29. Change of address of supervised entity. 30. Requirements to provide guidelines and standards.
+27. Interpretation of certain words in this Part and references to the FIU. 28. Requirement for supervised entity to register. 29. Change of address of supervised entity.
+29A. Change of Directors, Owners, Partners and Compliance Officer.
+30. Requirements to provide guidelines and standards. REGULATION
 PART IX
-COMPLIANCE PROGRAMME
-31. Submission of compliance programme. 32. Rectification of defects. 33. Consultation with Supervisory Authorities. 34. Requirement to review compliance programmes.
+31. 32.
+(Revoked by LN 403/2014).
+33. 34.
 PART X
 MISCELLANEOUS
-35. Examination by the FIU. 36. Penalties. 37. Defence.
-SCHEDULE.
-FINANCIAL INTELLIGENCE UNIT OF TRINIDAD AND
+35. FIU to determine supervision. 36. Penalties. 37. Defence.
+SCHEDULE. FINANCIAL INTELLIGENCE UNIT OF TRINIDAD AND
 TOBAGO REGULATIONS
 made under section 27
-- Margin: 12/2011.
+- Margin: 12/2011. [403/2014].

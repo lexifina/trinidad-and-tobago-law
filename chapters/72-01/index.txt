@@ -25,6 +25,7 @@ s-18D.md
 s-18E.md
 s-18F.md
 s-18G.md
+s-18H.md
 s-19.md
 s-20.md
 s-21.md
@@ -70,6 +71,7 @@ sl-01/r-26.md
 sl-01/r-27.md
 sl-01/r-28.md
 sl-01/r-29.md
+sl-01/r-29A.md
 sl-01/r-30.md
 sl-01/r-31.md
 sl-01/r-32.md
