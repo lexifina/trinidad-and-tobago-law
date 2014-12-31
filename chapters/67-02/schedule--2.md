@@ -1,6 +1,5 @@
 # SCHEDULE
 Queen's Park Paddock situate in the Ward of St. Ann's and the County of St. George.
-[Subsidiary]
 EQUINE INFLUENZA (INFECTED PLACES) ORDER
 made under section 5(4)
 1. This Order may be cited as the Equine Influenza (Infected Places) Order.
