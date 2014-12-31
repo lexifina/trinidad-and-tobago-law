@@ -4,6 +4,7 @@ To the Owner: Premises No...
 TAKE NOTICE that you are hereby required pursuant to the provisions of section 81(1) of the Municipal Corporations Act, Ch. 25:04 to send in to the Assessor or to the Council of the Municipal Corporation of ... which office is situate at ... within fourteen days after the service of this notice, a return on this form for the purpose of enabling the Assessor to fix the assessment of your premises for the year.
 ...
 Assessor/Authorised Officer
+SIXTH SCHEDULE-Continued
 RETURN REQUIRED UNDER SECTION 81(1) OF
 THE MUNICIPAL CORPORATIONS ACT, CH. 25:04
 I HEREBY DECLARE that I am the owner or agent of the premises mentioned hereunder, and that the several particulars stated in this return are to the best of my knowledge and belief true and correct.
