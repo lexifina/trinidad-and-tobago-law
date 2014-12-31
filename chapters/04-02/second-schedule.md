@@ -65,7 +65,8 @@ Judges and officers of the Court and members of the Commission engaged in the bu
 (a) immunity from legal process in respect of words spoken or
 written and all acts done by them in their official capacity; such immunity shall continue notwithstanding that the persons concerned have ceased to exercise their functions with the Court or the Commission;
 (b) immunity from personal arrest or detention in relation to acts
-performed by them in their official capacity; inviolability of all papers, documents and materials related (c) to the work of the Court or the Commission as the case may be;
+performed by them in their official capacity;
+(c) inviolability of all papers, documents and materials related to the work of the Court or the Commission as the case may be;
 (d) exemption from immigration restrictions, alien registration
 requirements and national service obligations;
 (e) the same protection and repatriation facilities in times of
