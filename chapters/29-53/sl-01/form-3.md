@@ -4,7 +4,7 @@ THE NURSING COUNCIL OF TRINIDAD AND TOBAGO
 FORM OF APPLICATION FOR ENTRY TO THE
 PRELIMINARY NURSING EXAMINATION
 as prescribed in the First Schedule to Regulations drafted under
-section 41 of the Nurses and Midwives Registration Act
+section 41 of the Nursing Personnel Act
 For completion by a Registered Student Nurse of the ...
 School of Nursing
 I, ... *(Surname first, Block Letters. Place a comma after Surname, followed by First Name; then
@@ -26,7 +26,7 @@ Lectures given attended
 Elementary Anatomy and Total experience received
 over the period- Physiology … … Personal and Communal
 Health … … From ... Principles and Practice of
-Nursing … … To ... Introduction to Microbiology … Total clinical experience
+To ... Nursing … … Introduction to Microbiology … Total clinical experience
 (in hours) ... Emergency care … … Introduction-Study of Human
 Behaviour … … Any Other(s)
 Leave Taken by Applicant

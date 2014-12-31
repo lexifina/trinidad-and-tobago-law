@@ -2,11 +2,15 @@ title.md
 s-1.md
 s-2.md
 s-3.md
+s-3A.md
+s-3B.md
 s-4.md
+s-4A.md
 s-5.md
 s-6.md
 s-7.md
 s-8.md
+s-8A.md
 s-9.md
 s-10.md
 s-11.md
@@ -15,11 +19,14 @@ s-13.md
 s-14.md
 s-15.md
 s-16.md
+s-16A.md
+s-16B.md
 s-17.md
 s-18.md
 s-19.md
 s-20.md
 s-21.md
+s-21A.md
 s-22.md
 s-23.md
 s-24.md
@@ -50,6 +57,8 @@ s-48.md
 s-49.md
 s-50.md
 s-51.md
+s-51A.md
+s-51B.md
 s-52.md
 sl-01/title.md
 sl-01/r-1.md
@@ -89,6 +98,7 @@ sl-01/r-34.md
 sl-01/r-35.md
 sl-01/r-36.md
 sl-01/r-37.md
+sl-01/r-38.md
 sl-01/r-39.md
 sl-01/r-40.md
 sl-01/r-41.md

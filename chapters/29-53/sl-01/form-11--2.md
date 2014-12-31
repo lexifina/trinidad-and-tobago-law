@@ -1,11 +1,12 @@
 # FORM 11
 THE NURSING COUNCIL OF TRINIDAD AND TOBAGO
-(Nurses and Midwives Registration Act)
+(Nursing Personnel Act)
 (PART IV-ENROLLED NURSING ASSISTANTS)
 FORM OF APPLICATION FOR ENROLMENT AS A
 NURSING ASSISTANT
-(of persons completing the prescribed course of training at Approved Training Centres) Receipt No.
-/... The Secretary, The Nursing Council of Trinidad and Tobago.
+(of persons completing the prescribed course of training at Approved Training Centres)
+Receipt No.
+/... The Registrar, The Nursing Council of Trinidad and Tobago.
 (1) Surname (Block Letters) ...
 (2) Other Name(s) ...
 1st 2nd 3rd

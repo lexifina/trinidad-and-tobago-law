@@ -3,14 +3,15 @@ Fees
 AR/ ...
 Rec. No... Date ...
 THE NURSING COUNCIL OF TRINIDAD AND TOBAGO
-(Nurses and Midwives Registration Act)
+(Nursing Personnel Act)
 FORM OF APPLICATION FOR ADMISSION TO THE
 REGISTER OF PSYCHIATRIC NURSES
 (for Applicants trained Overseas) I hereby request The Nursing Council of Trinidad and Tobago to grant me the necessary Certificate of Registration in evidence of my name having been placed on the Register of Psychiatric Nurses maintained by the Council.
 Affix
 I promise in the event of my being so registered and in
 Passport consideration thereof, to be bound by, and to conform in all
-Sized respects to the Rules and Regulations for the time being Photograph in force. Here
+Sized respects to the Rules and Regulations for the time being
+Photograph in force. Here
 I now submit documents attesting to my identity and qualifications and the Fee as prescribed by the Council.
 And I declare that the particulars hereunder to which I affix my signature are true and correct:
 A. Particulars of Identity (Full Names) Surname (Block Letters): ...
@@ -18,8 +19,10 @@ A. Particulars of Identity (Full Names) Surname (Block Letters): ...
 From ... to ... Name and Address of Registering body in State/Province where above training was undergone- ... Date of Registration by the above body ... Number of Certificate of Registration ... Is the above Certificate of Registration in force? (tick off)
 Yes *No *State reason fully below- ... Professional qualifications (other than Psychiatric Nurse):
 Qualification Date obtained
-... C. Basic Education
-From ... To ... Primary Certificate gained ... From ...To ... Secondary *Certificate/Diploma gained ... From ...To ... University Degree/Diploma gained ... Have you taken the Aptitude Test for Prospective Student Nurses of this Council? (tick off)-
+... C. Basic Education Primary From ... To ...
+Certificate gained ... Secondary From ...To ...
+*Certificate/Diploma gained ... University From ...To ...
+Degree/Diploma gained ... Have you taken the Aptitude Test for Prospective Student Nurses of this Council? (tick off)-
 Yes No (*If a G.C.E. or CXC Certificate, state number of Subject passes gained.) D. General Experiences Outline, giving dates, experiences received as a Psychiatric Nurse within the last two
 (2) years- ... From ... To ... From ... To ... From ... To ... From ... To ... From ... To ... Any Other Experiences ... From ... To ... From ... To ... From ... To ...
 Signature of Applicant ... Date ...

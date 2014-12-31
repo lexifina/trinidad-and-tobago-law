@@ -1,6 +1,6 @@
 # FORM 7
 THE NURSING COUNCIL OF TRINIDAD AND TOBAGO
-[Nurses and Midwives Registration Act-Part V, Sec. 41(2)(a)]
+[Nursing Personnel Act-Part V, Sec. 41(2)(a)]
 APPLICATION FOR REGISTRATION AS A PUPIL-MIDWIFE of the ... Hospital School of Midwifery
 A: (To be completed in Applicant's handwriting)
 1. Surname ...
