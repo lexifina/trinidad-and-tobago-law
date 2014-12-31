@@ -7,11 +7,10 @@ Amended by
 38/1978 24 of 2005 *See Note on Amendment at page 2
 Index of Subsidiary Legislation
 Page Trinidad and Tobago Housing Development Corporation (Direct Loans)
-Regulations (GN 42/1969) ... 31 Interest Rate (Direct Loans) Notice (GN 35/1978) … … … 51 Soft Loans (Approved Agents) Order (GN 103/1977) … … … 52 Trinidad and Tobago Housing Development Corporation (Soft Loans)
-Regulations (GN 98/1977) ... 53 Interest Rate (Soft Loans) Notice (GN 34/1978)... 74 Housing (Income Tax Exemption) Regulations (LN 185/1986) … … 75 Housing Regulations (LN 187/1986) ... 86 Trinidad and Tobago Housing Development Corporation (Conveyancing Fees)
-Regulations (LN 145/2003) ... 99
+Regulations (GN 42/1969) ... 31 Interest Rate (Direct Loans) Notice (GN 35/1978) … … … 50 Soft Loans (Approved Agents) Order (GN 103/1977) … … … 51 Trinidad and Tobago Housing Development Corporation (Soft Loans)
+Regulations (GN 98/1977) ... 52 Interest Rate (Soft Loans) Notice (GN 34/1978)... 73
 Note on Staff Provisions
-(page 40)
+(See Chap. 24:01)
 Under section 3(2) of the Statutory Authorities Act (Chapter 24:01), the Trinidad and Tobago Housing Development Corporation has been declared a statutory authority subject to the provisions of that Act (See Chapter 24:01-Subsidiary Legislation). So long as this declaration remains in force, the provisions of this Act relating to staff must be read and construed accordingly.
 Note on Amendment
 This Act has been amended by Act No. 20 of 1981 and Act No. 24 of 1981 but Act No. 20 of 1981 and Act No. 24 of 1981 had not, up to the date of the last revision of this Act, been brought into operation.
@@ -24,7 +23,8 @@ PART I
 (PART I Repealed by Act No. 24 of 2005)
 PART II
 MORTGAGES
-11. Interpretation. 12. Application of this Part. 13. Condition attaching to mortgage. 14. Transfer of moneys in Mortgage Insurance Fund. } 15.
+}
+11. Interpretation. 12. Application of this Part. 13. Condition attaching to mortgage. 14. Transfer of moneys in Mortgage Insurance Fund. 15.
 (Repealed by Act No. 18 of 1980 and Act No. 43 of 1981). to
 18.
 PART III
@@ -33,7 +33,8 @@ DIRECT LOANS
 19. Direct loans. 20. Disqualification for direct loans. 21. Conditions of direct loans. 22. Applications for direct loans. 23. Regulations re direct loans.
 CHARGES AND REGISTRATION
 24. Security for direct loans. 25. Registration of security.
-ARRANGEMENT OF SECTIONS-Continued SECTION
+ARRANGEMENT OF SECTIONS-Continued
+SECTION
 26. Discharge of security. 27. Registration fee.
 EXEMPTION FROM STAMP DUTIES
 28. Stamp duty exemption.
