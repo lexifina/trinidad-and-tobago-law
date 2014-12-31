@@ -54,25 +54,35 @@ ammunition, except service weapons being carried by a member of an armed force e
 6(b) Household effects, admitted as such by the
 Comptroller, which accompany a passenger and are for his personal use and not for sale or exchange and are declared to have been in the use and possession of the passenger for at least one year.
 6(c) Household effects, admitted as such by the
-Comptroller, not exceeding a c.i.f. value of one hundred thousand dollars which accompany a returning national of Trinidad and Tobago and which are for his personal use and not for, sale or exchange on condition that he is returning to reside in Trinidad and Tobago and has resided abroad continuously for at least five years immediately prior to his return.
+Comptroller, not exceeding a c.i.f. value of two hundred and fifty thousand dollars which accompany a returning national of Trinidad and Tobago and provided-
+(i) the household effects are for his
+personal use and not for sale or exchange;
+(ii) he is returning to reside permanently
+in Trinidad and Tobago;
+(iii) he has resided abroad continuously
+for at least five years immediately prior to his return; and
+(iv) exemptions apply to one
+householder per family.
+6(ca) Where the c.i.f. value exceeds two hundred
+and fifty thousand dollars, the goods allocated to the excess would attract the respective rates of Customs duty and value.
+6(cb) The normal rates of Customs duty and value
+added tax shall be payable on that portion of the c.i.f. value of the household effects which exceeds two hundred and fifty thousand dollars. General Item Goods exempt from payment Heading No. of Customs Duty
+6(cc) For the purposes of this item, continuous
+residence abroad by a returning national shall not be affected by temporary visits to Trinidad and Tobago for periods not exceeding three months in each of the five years immediately prior to his return to Trinidad and Tobago to reside permanently.
 6(d) Baggage and household effects, imported
 within two months before or after the arrival of a passenger, or within such further period as the Comptroller shall in the circumstances deem reasonable, provided that the articles would have been exempted from import duty had they been imported under subparagraph (a) or (b) hereof.
 6(e) Used implements, instruments and tools of
 profession, trade, occupation or employment admitted as such by the Comptroller, of persons arriving in the country, which are not intended for sale or exchange, and which are declared to have been in the possession and use of the passenger for a reasonable period.
-General Item Goods exempt from payment
-Heading No. of Customs Duty
 6(f) Personal effects, not being merchandise, of
 Trinidadians and Tobagonians or of persons domiciled in Trinidad and Tobago, who have died abroad.
-Citrus fruit 7 Field crates, picking bags and juice
-industry preservatives for use in the citrus fruit
-industry.
+7 Field crates, picking bags and juice Citrus fruit
+preservatives for use in the citrus fruit industry industry.
 8 Clothing donated for the use of indigent Clothing for
-indigent school children to schools and institutions children as approved by the Minister to whom
-responsibility for education is assigned and admitted as such by the Comptroller.
-9(a) Goods imported or taken out of bond- Commissioners
-(1) by any accredited Commissioner or and Trade Trade Commissioner of any Commissioners, country or territory within the and Diplomatic
-Staff British Commonwealth of Nations,
-for his official use; or
+school children to schools and institutions indigent as approved by the Minister to whom children responsibility for education is assigned and admitted as such by the Comptroller. GOODS EXEMPT FROM PAYMENT OF CUSTOMS DUTY-Continued
+General Item Goods exempt from payment
+Heading No. of Customs Duty
+9(a) Goods imported or taken out of bond- Commissioners and Trade (1) by any accredited Commissioner or Commissioners, Trade Commissioner of any and Diplomatic country or territory within the Staff
+British Commonwealth of Nations, for his official use; or
 (2) by any person who is-
 (a) an accredited Commissioner
 or Trade Commissioner of a Commonwealth country;
@@ -80,54 +90,50 @@ or Trade Commissioner of a Commonwealth country;
 or Assistant Trade Commissioner of a Commonwealth country; or
 (c) a member of the official
 staff of any accredited Commissioner or Trade Commissioner of a Commonwealth country,
-for his personal use and the use of his family forming part of his household; GOODS EXEMPT FROM PAYMENT OF CUSTOMS DUTY-Continued
-General Item Goods exempt from payment
-Heading No. of Customs Duty Commissioners 9(a)-Cont'd Provided that such person:
-and Trade (i) is a citizen of such Commonwealth Commissioners, country and was not born in Trinidad
-and Tobago; and Diplomatic
-Staff-Cont'd (ii) is not engaged in private
-occupation for gain in Trinidad and Tobago;
+for his personal use and the use of his family forming part of his household;
+Provided that such person:
+(i) is a citizen of such Commonwealth country and was not born in Trinidad and Tobago;
+(ii) is not engaged in private occupation for gain in Trinidad and Tobago;
 (iii) is a permanent employee of the Government of such Commonwealth country or, if not a permanent employee thereof, was not resident in Trinidad and Tobago at the commencement of his employment with such Government;
 Provided further that reciprocal exemptions
 are accorded to accredited Commissioners and Trade Commissioners of Trinidad and Tobago, their Assistants and Official Staff by such Commonwealth country.
+General Item Goods exempt from payment
+Heading No. of Customs Duty
 9(b) Goods, including motor vehicles for the use
 of any Mission or Consulate or the members thereof, to the extent provided by the Vienna Convention on Diplomatic Relations, 1961, or the Vienna Convention on Consular Relations, 1963 as approved by the Minister to whom responsibility for foreign affairs is assigned.
 9(c) Goods, including motor vehicles for the use
 of any international organisation or personnel of that organisation pursuant to an agreement in force between the organisation and the Government of Trinidad and Tobago as approved by the Minister to whom responsibility for foreign affairs is assigned.
-9(A.) All computer peripherals, including Computer peripherals. speakers, mouse pads and anti-glare [17 of 2007]. devices for use exclusively with
-automatic data processing machines.
-General Item Goods exempt from payment
-Heading No. of Customs Duty
-10(a) Containers of all kinds (except those Containers
+Computer 9(A.) All computer peripherals, including peripherals. speakers, mouse pads and anti-glare [17 of 2007].
+devices for use exclusively with automatic data processing machines.
+Containers 10(a) Containers of all kinds (except those
 containers which the Comptroller is satisfied are being manufactured in the country) which are imported for use exclusively as containers for the packing or packaging of any produce or manufacture of the country.
 10(b) Goods of all kinds including labels (except
-those goods which the Comptroller is satisfied are being manufactured in the country) which are imported for use exclusively in the manufacture or repair of containers or parts thereof, and will form part of, containers for packing or packaging any produce or manufacture of the country subject to such conditions as to the keeping or rendering of accounts in respect of the use or disposal of such goods as the Comptroller may require.
-10(c) Containers (including component and
+those goods which the Comptroller is satisfied are being manufactured in the country) which are imported for use exclusively in the manufacture or repair of containers or parts thereof, and will form part of, containers for packing or packaging any produce or manufacture of the country subject to such conditions as to the keeping or rendering of accounts in respect of the use or disposal of such goods as the Comptroller may require. GOODS EXEMPT FROM PAYMENT OF CUSTOMS DUTY-Continued
+General Item Goods exempt from payment
+Heading No. of Customs Duty Containers-Cont'd 10(c) Containers (including component and
 fashioned parts thereof) of such description or for use in such undertakings as the Cabinet may from time to time approve subject to such conditions in respect of disposal of such containers (including component and fashioned parts thereof) as the Comptroller may require.
 Contracts 11 Materials, vehicles and equipment imported between by any person for the purpose of carrying persons and the out any works pursuance of any contract Government between such person and the Government
-of Trinidad and Tobago and approved by Cabinet and where the Comptroller is satisfied that such materials vehicles and equipment are necessary for the performance of such contract and that such contract provides that such material and equipment shall be exempt from import duties of Customs. GOODS EXEMPT FROM PAYMENT OF CUSTOMS DUTY-Continued
-General Item Goods exempt from payment
-Heading No. of Customs Duty
-Provided that on the completion of such works Contracts 11-Cont'd
-the importer shall be liable to pay existing between rates of duty on all materials not used up persons and the and on all equipment and vehicles unless
-Government-Cont'd
-such materials, vehicles or equipment are re-exported under Customs supervision.
+of Trinidad and Tobago and approved by Cabinet and where the Comptroller is satisfied that such materials vehicles and equipment are necessary for the performance of such contract and that such contract provides that such material and equipment shall be exempt from import duties of Customs.
+Provided that on the completion of such works
+the importer shall be liable to pay existing rates of duty on all materials not used up and on all equipment and vehicles unless such materials, vehicles or equipment are re-exported under Customs supervision.
 12 Goods made from sea island cotton and Cotton Goods,
 bearing the trade mark of the West Indian Sea Island Sea Island Cotton Association.
 13(a) Coverings or packages in which any goods Coverings or
 not liable to duty ad valorem are packages imported, and which are in the opinion of the Comptroller the usual or proper coverings or packages for such goods.
 13(b) Packages and bags, exported filled with
 manufactured goods or produce and returned empty, passed as such by the Comptroller.
-Economic 14 All goods which are made available free of
-charge by the Government of a country or development, international institution, or by an individual Goods for or group of individuals with a view to assisting the economic development of Trinidad and Tobago as approved by Cabinet.
-15 Artificial flowers, miniature flags, buttons, Emblems
-brooches and similar small emblems of no commercial value imported for sale as tokens for the purpose of providing funds for the use of any institution approved by the Cabinet.
-16 Films, filmstrips, micro-films and sound Films, film-
-recordings of an educational, scientific or strips and sound cultural character produced by the United recordings (educational, Nations or any of its specialised Agencies. scientific and cultural)
-17 Fire-fighting equipment, fire detecting Fire-fighting
-equipment, vehicles and apparatus Apparatus certified as such by the Chief Fire Officer and admitted as such by the Comptroller.
 General Item Goods exempt from payment
 Heading No. of Customs Duty
+14 All goods which are made available free of Economic
+charge by the Government of a country or development, international institution, or by an individual
+Goods for
+or group of individuals with a view to assisting the economic development of Trinidad and Tobago as approved by Cabinet.
+15 Artificial flowers, miniature flags, buttons, Emblems
+brooches and similar small emblems of no commercial value imported for sale as tokens for the purpose of providing funds for the use of any institution approved by the Cabinet. Films, film- 16 Films, filmstrips, micro-films and sound
+strips and sound recordings of an educational, scientific or
+cultural character produced by the United recordings (educational, Nations or any of its specialised Agencies. scientific and cultural)
+17 Fire-fighting equipment, fire detecting Fire-fighting
+equipment, vehicles and apparatus Apparatus certified as such by the Chief Fire Officer and admitted as such by the Comptroller.
 18(a) The following goods and equipment which Fishing Gear
 the Comptroller is satisfied are imported solely for use in the fishing industry:
 (1) Fishing nets and gear therefor;
@@ -141,73 +147,67 @@ twine;
 is satisfied are imported or taken out of bond for use solely by commercial fishermen certified as such by the Chief Fisheries Officer:
 (1) Outboard and inside motor engines for fishing boats;
 (2) Special equipment (including spare parts) for fishing vessels, for example, echo sounders, radio telephones, compasses;
-(3) Spare parts for fishing vessels.
+(3) Spare parts for fishing vessels. GOODS EXEMPT FROM PAYMENT OF CUSTOMS DUTY-Continued
+General Item Goods exempt from payment
+Heading No. of Customs Duty
 19(a) Articles sent to the country as charitable gifts Gifts,
-for free distribution, admitted as such by charitable the Comptroller but not including article and public
-sent for distribution by the manufacturers thereof or by any person on his behalf except Cabinet shall otherwise direct.
+for free distribution, admitted as such by charitable the Comptroller but not including article and public sent for distribution by the manufacturers thereof or by any person on his behalf except Cabinet shall otherwise direct.
 19(b) Articles imported at the cost of public
 subscribers as gifts to the public and admitted as such by the Comptroller.
 20 Goods imported or taken out of bond by or Government
-on behalf of the Central Government for its own use. Handicapped- 21(a) Other goods catering to the needs of the
-mentally or physically handicapped as Mentally or recommended by the Chief Medical Physically, Officer and admitted as such by the
-Goods for
-Comptroller. GOODS EXEMPT FROM PAYMENT OF CUSTOMS DUTY-Continued
-General Item Goods exempt from payment
-Heading No. of Customs Duty Handicapped- 21(b) Tools of trade for the disabled as
-Mentally or recommended by the Chief Medical Physically, Officer and admitted as such by the Goods for-Cont'd Comptroller.
-22(a) Goods imported by or for the use of the Head Head of State,
-Prime of State. Minister
+on behalf of the Central Government for its own use.
+21(a) Other goods catering to the needs of the Handicapped-
+mentally or physically handicapped as Mentally or
+recommended by the Chief Medical Physically,
+Officer and admitted as such by the Goods for
+Comptroller.
+21(b) Tools of trade for the disabled as
+recommended by the Chief Medical Officer and admitted as such by the Comptroller.
+22(a) Goods imported by or for the use of the Head Head of State, Prime of State. Minister
 22(b) Goods imported for the use of the Prime
 Minister.
 23(a) Equipment and ambulances, medical, surgical Health institutions
-and laboratory supplies for hospitals and equipment,
-etc. and veterinary institutions including
-institutions providing out-patients' health care as approved by Cabinet and admitted as such by the Comptroller.
+and laboratory supplies for hospitals and equipment, and veterinary institutions including etc. institutions providing out-patients' health care as approved by Cabinet and admitted as such by the Comptroller.
 23(b) Materials for the construction, furnishing,
 replacement or extension of hospital and veterinary institutions including institutions offering out-patients' health care and furnishings for such health care facilities as approved by the Cabinet and admitted as such by the Comptroller.
-Industrial 24 Industrial machinery for initial investment or Machinery subsequent expansion for approved
+General Item Goods exempt from payment
+Heading No. of Customs Duty Industrial 24 Industrial machinery for initial investment or Machinery subsequent expansion for approved
 industry (other than spare parts and accessories for use as replacements) admitted as such by the Comptroller for use in such industrial factories as may be approved by the Minister to whom responsibility for industry is assigned.
 In this item, "approved industry" means any
 industry contained in the "Third Schedule".
-25(a) Medicinal preparations, biological products Medicinal and
-and drugs approved by the Chief Technical vitamin
-preparations for Officer (Agriculture) for the treatment and livestock control of livestock (including poultry)
-diseases specified by Cabinet.
-General Item Goods exempt from payment
-Heading No. of Customs Duty
+Medicinal and 25(a) Medicinal preparations, biological products
+vitamin and drugs approved by the Chief Technical preparations for Officer (Agriculture) for the treatment and livestock
+control of livestock (including poultry) diseases specified by Cabinet.
 25(b) Vitamin preparations approved by the Chief
 Technical Officer (Agriculture) for livestock.
-26 Goods imported by or for the use of any office Meteorological
-Offices; or bureau for meteorological observation for Scientific and any institution engaged in scientific, medical Research or technical research, including instruments, Institutes apparatus and equipment for geological, or
-topographical purposes as approved by Cabinet and admitted by the Comptroller.
-Military 27(a) Goods imported by or for use of the military Service and forces certified by the Minister to whom Voluntary responsibility for national security is Forces assigned and admitted as such by the
+Meteorological 26 Goods imported by or for the use of any office
+Offices; or bureau for meteorological observation for Scientific and any institution engaged in scientific, medical Research or technical research, including instruments, Institutes
+apparatus and equipment for geological, or topographical purposes as approved by Cabinet and admitted by the Comptroller.
+27(a) Goods imported by or for use of the military Military Service and forces certified by the Minister to whom Voluntary responsibility for national security is Forces assigned and admitted as such by the
 Comptroller.
 27(b) Arms, ammunition, uniforms, accoutrements
-and equipment including musical instruments imported by and for the use of any Volunteer Force, Cadet Force or Rifle Association certified by the Minister to whom responsibility for national security is assigned and admitted as such by the Comptroller.
-28 Specimens illustrative of natural history and Natural History other sciences for educational and
+and equipment including musical instruments imported by and for the use of any Volunteer Force, Cadet Force or Rifle Association certified by the Minister to whom responsibility for national security is assigned and admitted as such by the Comptroller. GOODS EXEMPT FROM PAYMENT OF CUSTOMS DUTY-Continued
+General Item Goods exempt from payment
+Heading No. of Customs Duty Natural 28 Specimens illustrative of natural history and History other sciences for educational and
 cultural institutions including museums, zoos and historical societies as approved by the Minister to whom responsibility for education is assigned and admitted as such by the Comptroller.
-29 Patterns and samples cut, mutilated or otherwise Patterns, Samples spoiled to the satisfaction of the Comptroller
+Patterns, 29 Patterns and samples cut, mutilated or otherwise Samples spoiled to the satisfaction of the Comptroller
 so as to render them unmerchantable.
 Pipes and 30 Pipes and pipe fittings as accessories in the Tanks for use oil and gas industries, tanks (except of in the Oil
 aluminium) for the storage of petroleum and Gas Industry
-and petroleum products and tanks of any GOODS EXEMPT FROM PAYMENT OF CUSTOMS DUTY-Continued
-General Item Goods exempt from payment
-Heading No. of Customs Duty Pipes and 30-Cont'd material for the storage of locally Tanks for use manufactured gases, provided the in the Oil
-Comptroller is satisfied that the above-and Gas Industry-Cont'd
-mentioned pipes, pipe fittings, fittings and tanks are imported solely for use as mentioned above.
-31(a) Goods of a non-consumable nature which Places of Worship;
-Altar Bread and the Comptroller is satisfied are imported Altar Wine solely for the use, furnishing, decoration,
-building or repair of places of worship, or as vestments for use during public worship, on the signed declaration of the Head of the denomination that the goods and vestments will be used only for such purpose for which they are intended.
+and petroleum products and tanks of any material for the storage of locally manufactured gases, provided the Comptroller is satisfied that the above-mentioned pipes, pipe fittings, fittings and tanks are imported solely for use as mentioned above.
+Places of Worship; 31(a) Goods of a non-consumable nature which
+Altar Bread and
+the Comptroller is satisfied are imported
+Altar Wine
+solely for the use, furnishing, decoration, building or repair of places of worship, or as vestments for use during public worship, on the signed declaration of the Head of the denomination that the goods and vestments will be used only for such purpose for which they are intended.
 31(b) Altar bread, paschal bread and altar wine,
-imported for the purpose of administering the Sacrament, on the signed declaration of the Head of the denomination for which they are intended.
+imported for the purpose of administering the Sacrament, on the signed declaration of the Head of the denomination for which they are intended. General Item Goods exempt from payment Heading No. of Customs Duty
 31(c) Unleavened bread and biscuits imported for
 use in Jewish religious ceremonies on the signed declaration of the Secretary of the Jewish Religious Society.
 31(d) Candles and frankincense which the
 Comptroller is satisfied are imported solely for use in places of divine worship.
 31(e) Offertory envelopes which the Comptroller
 is satisfied are imported by or on behalf of any religious denomination solely for the purpose of distribution in order that subscriptions or offerings should be enclosed therein.
-General Item Goods exempt from payment
-Heading No. of Customs Duty
 31(f) Other goods of a consumable nature
 imported by or for the use of religious bodies in their place of worship approved by Cabinet on the signed declaration of the Head of the religious body and admitted as such by the Comptroller.
 32 The following equipment, articles and goods Printers
@@ -216,8 +216,9 @@ which the Comptroller is satisfied are imported or taken out of bond by a printe
 (b) Printing blocks;
 (c) Matrices;
 (d) Printing types;
-(e) Printing type metal;
-(f) Printers' machine shears;
+(e) Printing type metal; GOODS EXEMPT FROM PAYMENT OF CUSTOMS DUTY-Continued
+General Item Goods exempt from payment
+Heading No. of Customs Duty Printers-Cont'd 32-Cont'd (f) Printers' machine shears;
 (g) Typographic dies;
 (h) Litho and graphic art film;
 (i) Sensitised offset plates;
@@ -226,40 +227,33 @@ which the Comptroller is satisfied are imported or taken out of bond by a printe
 (l) Paper including newsprint paper;
 (m) Such other articles as recommended by the Government Printer and admitted as such by the Comptroller.
 Protective 33 Protective clothing and protective equipment Clothing and imported by or on behalf of industrial Equipment concerns approved by Cabinet which the
-Comptroller is satisfied will be used solely by industrial workers for personal protection from occupational hazards. GOODS EXEMPT FROM PAYMENT OF CUSTOMS DUTY-Continued
-General Item Goods exempt from payment
-Heading No. of Customs Duty Public and 34 Goods, including motor vehicles imported by Contract or for the use of persons, including public Officers and contract officers as approved by
+Comptroller is satisfied will be used solely by industrial workers for personal protection from occupational hazards.
+Public and 34 Goods, including motor vehicles imported by Contract or for the use of persons, including public Officers
+and contract officers as approved by
 Cabinet.
-35 Articles imported or taken out of bond by or Public Bodies or Institutions on behalf of any municipality, county
+Public Bodies 35 Articles imported or taken out of bond by or or Institutions on behalf of any municipality, county
 council, or any other public body or institution approved for the purposes thereof by the Cabinet and admitted by the Comptroller as necessary for use in the construction, furnishing, upkeep and repair of the buildings belonging to such body or institution, or for carrying out the usual and customary purposes for which such body or institution exists.
-36 Goods (including foodstuff) imported for use Relief Supplies
+Relief Supplies 36 Goods (including foodstuff) imported for use
 in rehabilitation or relief following natural disaster by organisations approved by Cabinet and admitted as such by the Comptroller.
-37(a) School and educational equipment including Schools,
-Colleges and apparatus and equipment for games and Other Approved physical training imported exclusively for Institutions
-use in any school, college or other
-Offering Training,
-approved institution offering training and
-Aprenticeship
-not for sale or exchange, certified as such
-Schemes
-by the Chief Education Officer and admitted as such by the Comptroller.
+General Item Goods exempt from payment
+Heading No. of Customs Duty Schools, 37(a) School and educational equipment including
+Colleges and apparatus and equipment for games and Other Approved physical training imported exclusively for Institutions use in any school, college or other Offering Training, approved institution offering training and Aprenticeship not for sale or exchange, certified as such Schemes by the Chief Education Officer and
+admitted as such by the Comptroller.
 37(b) Scientific instruments or apparatus, intended
 exclusively for educational purposes or pure scientific research and admitted as such by the Comptroller, consigned to public or private educational institutions, certified as such by the Chief Education Officer and used under the control and subject to the responsibility of these institutions.
-General Item Goods exempt from payment
-Heading No. of Customs Duty
 37(c) Tools, technical instruments and other
 equipment certified as such by the Chief Education Officer which the Comptroller is satisfied are for use in apprenticeship schemes approved by the Minister to whom responsibility for education is assigned or the Minister to whom responsibility for culture is assigned.
 37(d) Workbooks, Activity Books, Exercise Books
 and other similar books, designed to be completed in manuscript or in typescript by the user, imported exclusively for educational purposes for use in schools, colleges, or other approved institutions certified as such by the Chief Education Officer and admitted as such by the Comptroller of Customs and Excise.
-Sporting Goods
-38 The following goods and equipment, where and Equipment
-the Comptroller is satisfied that they are imported solely for use in sports and games and that similar goods and equipment are not manufactured in Trinidad and Tobago:
-(a) golf and cricket bags;
-(b) balls, (including bladders and covers for such balls, and shuttle cocks) made exclusively for use in specific sports or games, e.g., cricket, football, table tennis, etc.;
-(c) bats, sticks, rackets, cues, mallets, clubs and similar articles used in specific sports or games, e.g., hockey, tennis, billiards, etc., presses, covers, grips and parts for the aforementioned bats, sticks, etc.; GOODS EXEMPT FROM PAYMENT OF CUSTOMS DUTY-Continued
+Sporting Goods 38 The following goods and equipment, where and Equipment the Comptroller is satisfied that they are
+imported solely for use in sports and games and that similar goods and equipment are not manufactured in Trinidad and Tobago:
+(a) golf and cricket bags; GOODS EXEMPT FROM PAYMENT OF CUSTOMS DUTY-Continued
 General Item Goods exempt from payment
-Heading No. of Customs Duty
-(d) sports footwear equipped with Sporting 38-Cont'd spikes, studs, bars, for use in Good and athletics, football, cricket, etc., and Equipment- other cricket boots not before Cont'd specified and parts for the aforementioned sports footwear, excluding laces;
+Heading No. of Customs Duty Sporting 38-Cont'd (b) balls, (including bladders and Good and covers for such balls, and shuttle
+cocks) made exclusively for use in Equipment- specific sports or games, e.g., Cont'd
+cricket, football, table tennis, etc.;
+(c) bats, sticks, rackets, cues, mallets, clubs and similar articles used in specific sports or games, e.g., hockey, tennis, billiards, etc., presses, covers, grips and parts for the aforementioned bats, sticks, etc.;
+(d) sports footwear equipped with spikes, studs, bars, for use in athletics, football, cricket, etc., and other cricket boots not before specified and parts for the aforementioned sports footwear, excluding laces;
 (e) gloves, inner and outer, specifically designed for use in sports or games;
 (f) nets for various games, e.g., netball, football, tennis, etc.;
 (g) protective gears, e.g., leg and shin guards, cricket protectors, head gear for boxers and racing cyclists and mouth-guards for boxers, suspender jockstraps, wrist, knee and ankle bands;
@@ -268,43 +262,39 @@ Heading No. of Customs Duty
 (j) slip catching machines, tennis trainers and similar training devices for use in sports;
 (k) pumps for balls;
 (l) shorts specially designed for racing cyclists;
-(m) gymnasium equipment, e.g., trapeze bars and rings, horizontal and parallel bars, wallbars, mats, climbing ropes and ladders, vaulting horses, spring boards, Indian clubs, dumb-bells, bar-bells, medicine balls, chest expanders, punch balls and punch bags, equipment for boxing and wrestling rings and trampoline;
 General Item Goods exempt from payment
 Heading No. of Customs Duty
+(m) gymnasium equipment, e.g., Sporting 38-Cont'd trapeze bars and rings, horizontal Good and and parallel bars, wallbars, mats, Equipment- climbing ropes and ladders, Cont'd
+vaulting horses, spring boards, Indian clubs, dumb-bells, bar-bells, medicine balls, chest expanders, punch balls and punch bags, equipment for boxing and wrestling rings and trampoline;
 (n) track and field equipment, e.g., jumping stands, vaulting poles, javelin, discus, throwing hammers, putting shots, hurdles, batons and starting blocks;
 (o) equipment for indoor games such as billiards (including billiard table covering cut to size), table tennis board, fencing, darts, chess and draughts;
 (p) other outdoor sports equipment, e.g., racing cycles (exceeding a landed value of three hundred dollars), ground markers (mechanical), back boards, posts, net rings, and winding mechanisms, golf tees, and trolleys (excluding motorised) and bows, arrows and targets for archery, tubular tyres for racing cycles and pigeon racing time clocks;
-(q) equipment for water polo and swimming, (excluding swimming pool equipment, inflatable mattresses, surfboard for swimming pools and the like); Excluded from the aforementioned are starting pistols, stop watches equipment for motor car racing, motor cycle racing, horse racing, sailing and motor boat racing, water skiing, scuba diving, hunting, fishing and card games.
-Television 39(a) Instruments, apparatus, equipment and
-Broadcasting
-materials, including records and tapes for and Amateur Radio
-radio and television broadcasting, imported Operators-
-by or on behalf of any radio or television Goods for
-broadcasting company as approved by Cabinet and admitted as such by the Comptroller. GOODS EXEMPT FROM PAYMENT OF CUSTOMS DUTY-Continued
+(q) equipment for water polo and swimming, (excluding swimming pool equipment, inflatable mattresses, surfboard for swimming pools and the like); Excluded from the aforementioned are starting pistols, stop watches equipment for motor car racing, motor cycle racing, horse racing, sailing and motor boat racing, water skiing, scuba diving, hunting, fishing and card games. GOODS EXEMPT FROM PAYMENT OF CUSTOMS DUTY-Continued
 General Item Goods exempt from payment
-Heading No. of Customs Duty Television 39(b) Amateur radio equiment for use by holders
-Broadcasting
-of valid licences granted by the Director and Amateur Radio
-of Telecommunications to keep, install, Operators-
-erect or use an amateur wireless transmitter Goods for-Cont'd
-and admitted by the Comptroller.
-Tobacco 40 Equipment and material, including curing
+Heading No. of Customs Duty
+39(a) Instruments, apparatus, equipment and Television
+Broadcasting materials, including records and tapes for and Amateur Radio radio and television broadcasting, Operators- imported by or on behalf of any radio or Goods for television broadcasting company as
+approved by Cabinet and admitted as such by the Comptroller.
+39(b) Amateur radio equiment for use by holders
+of valid licences granted by the Director of Telecommunications to keep, install, erect or use an amateur wireless transmitter and admitted by the Comptroller.
+40 Equipment and material, including curing Tobacco
 Industry units, and shade cloth derived from
 polythene, imported for use in the production of tobacco, certified as such by the Chief Technical Officer (Agriculture) and admitted as such by the Comptroller.
 Trophies 41 Cups, medals, shields and similar trophies,
 not being articles of general utility, proved to the satisfaction of the Comptroller to be specially imported for bestowal as honorary distinctions or prizes in the spheres of art, literature, science or sport and awards for acts of gallantry, for public service or for other similar outstanding actions or conducts, or when won abroad or sent by donors resident abroad provided that the articles do not bear any advertisement and that this exemption shall not apply or extend to the importation or stocking of the articles for purposes of trade.
-42 Uniforms and equipment imported by and for Youth and Other
+Youth and Other 42 Uniforms and equipment imported by and for
 Organisations the use of Boy Scouts, Boys Brigade and
-Girl Guides Associations and such other youth associations as may be approved by Cabinet.
-43 Other articles not exempt from duty which in Ad Hoc
-Exemptions any particular case may be exempted by (Section 9,
+Girl Guides Associations and such other youth associations as may be approved by
+Cabinet.
+General Item Goods exempt from payment
+Heading No. of Customs Duty Ad Hoc 43 Other articles not exempt from duty which in
+Exemptions
+any particular case may be exempted by
+(Section 9,
 order of Cabinet.
 Chapter 78:01)
-General Item Goods exempt from payment
-Heading No. of Customs Duty
 44 Goods which are permitted to be imported in Continuing
-Exemptions special circumstances and which are
-admitted without payment of duty under the provisions of specific enactments.
+special circumstances and which are Exemptions admitted without payment of duty under the provisions of specific enactments.
 Conditions attaching to this Schedule:
 1. The benefit provided for certain items in the Second Schedule (as
 specified above) shall be granted only if the Comptroller is satisfied that such goods or similar goods are not being manufactured in Trinidad and Tobago. This proviso applies only to the following items of the Second Schedule: 2, 7, 10(a), 10(b), 24, 25(a), 25(b), 30, 31(d), 31(e), 31(f), 32, 33, 38, 40 and 42.
@@ -326,7 +316,7 @@ Pimenta 0710.204 String beans, other, frozen 0710.30 Spinach, New Zealand spinac
 polished or glazed 1006.40 Broken rice 11.01 Wheat flour 1106.202 Arrowroot flour 1108.101 Arrowroot starch 1203.00 Copra 1208.10 Flours and meals of soya beans 1208.902 Flours and meals of copra 1212.92 Sugar cane 1302.101 Aloe vera extract 15.08 Ground-nut oil and its fractions, whether or not
 refined, but not chemically modified 15.09 Olive oil and its fractions, whether or not refined,
 but not chemically modified 15.10 Other oils and their fractions, obtained solely from
-olives, whether or not refined, but not chemically modified, including blends of these oils or fractions with oils or fractions of heading No.15.09
+olives, whether or not refined, but not chemically modified, including blends of these oils or fractions with oils or fractions of heading No. 15.09
 LIST OF COMMODITIES INELIGIBLE FOR
 CONDITIONAL DUTY EXEMPTIONS-Continued
 Heading No. Description of Goods Ex 15.11 Palm oil and its fractions, refined, but not chemically
@@ -494,5 +484,5 @@ coral, mother-of-pearl and other animal carving material, and articles of these 
 articles of these materials; moulded or carved articles of wax, of stearin, of natural gums or natural resins or of modelling pastes and other moulded or carved articles, not elsewhere specified or included, worked, unhardened gelatin, (except gelatin of heading No. 3503.00) and articles of unhardened gelatin 9603.001 Brooms and brushes, consisting of twigs or other
 vegetable materials merely bound together and not mounted in a head (for example, besoms and whisks), with or without handles 9603.002 Other brooms and mops for sweeping roads and
 floors 9603.003 Tooth brushes 9603.004 Scrubbing brushes 9603.005 Feather dusters 9608.10 Ball point pens 9611.001 Rubber stamps 9613.001 Pocket lighters, gas fuelled, non-refillable 9615.10 Combs, hair-slides and the like 9615.901 Hairpins
-- Margin: 6 of 1993. [5 of 1995 9 of 1997 291/2004 311/2004 21 of 2005 17 of 2007].
+- Margin: 6 of 1993. [5 of 1995 9 of 1997 291/2004 311/2004 21 of 2005 17 of 2007 2 of 2013].
 - Margin: Third Schedule.
