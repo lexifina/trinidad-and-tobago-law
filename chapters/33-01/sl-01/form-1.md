@@ -1,29 +1,13 @@
 # FORM 1
-HOUSING REGULATIONS, 1986
-Trinidad and Tobago Housing Development Corporation
-APPLICATION FOR REGISTRATION AS A TRADER IN
-NEWLY CONSTRUCTED DWELLING HOUSES
-[Regulation 3(1)]
-1. Name of Applicant/s: ...
-Address: ... Occupation: ... B. I. R. File No.: ...
-2. If Self-Employed:
-Name of business: ... Type of business: ... Address: ... Number of years in business: ...
-[Subsidiary ] Housing Regulations
-3. Are you a National of Trinidad and Tobago? ...
-Passport/Citizenship Registration Number: ... (Original must be produced) How long resident in Trinidad and Tobago? ...
-4. Companies (if applicant is a Company):
-Name of Company: ... Address: ... Type of business: ... Number of years in business: ... List names and nationalities of all Directors: ...
-N.B. Copies of Registration Certificate must be provided.
-5. Technical Experience:
-How long have you been constructing dwelling houses for sale? ... Particulars of dwelling houses so constructed within the past twelve
-(12) months ... Are you carrying on the trade or profession of a builder? ... Do you keep accounts in respect of such trade? ... Name of Accountant/s: ... Address: ... [Subsidiary ] Housing Regulations
-6. Financial Affairs:
-Name and address of Bankers: ... Are credit facilities being extended to you? By whom? ... Amount: ...
-7. Where do you propose building? ...
-Type of House/s: ... Amount: ... Estimated cost of construction: ...
-I certify that the statements made by me/us on this form are in all respects
-true and correct.
+TRINIDAD AND TOBAGO HOUSING DEVELOPMENT CORPORATION
+(DIRECT LOANS) REGULATIONS
+DECLARATION UNDER SECTION 20(2) OF THE ACT
+I... of ... do hereby declare that I am not disqualified from obtaining a loan by section 20(1) of the Housing Act, by reason of being a person-
+(a) who has received under any enactment of Trinidad and
+Tobago other than Part III of the Housing Act a loan for any purposes similar to those specified in section 19 of the said
+Act and who has not fully repaid the same; or
+(b) who is the owner of a house.
+Dated this ... day of ... 20...
 ...
-Signature of Applicant
-Date ...
-[Subsidiary ] Housing Regulations
+Declarant
+- Margin: Regulation 7(2). [24 of 2005].
