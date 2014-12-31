@@ -31,3 +31,20 @@ letter "X" must be inserted; Common Market or of
 undetermined origin in such a manner that the article falls to be classified in a tariff heading different from that in which any of those materials is classified, in accordance with the provisions of Article 4 of the Annex to the Treaty establishing the Caribbean Community;
 The tariff heading number of the (c) produced in accordance with finished product preceded by the the conditions specified for letter"L" must be inserted and that article in the List referred where the condition to be satisfied to in Article 14 of the Annex to is a percentage value-added the Treaty establishing the condition the value of materials Caribbean Community and set imported from outside the Common out in Schedule II thereto; Market or of undetermined origin which have been used in the production of that article expressed as a percentage of the export price of the article must be inserted in brackets immediately following the tariff heading number.
 B. The completion of this Form implies that the producer and the exporter will furnish to the appropriate authorities such information and supporting evidence as they may as necessary require for the purpose of verifying these declarations.
+C. PERSONS WHO FURNISH OR CAUSE TO BE FURNISHED UNTRUE DECLARATIONS RENDER THEMSELVES LIABLE TO PENALTIES.
+CUSTOMS (IMPORT DUTY) (CARIBBEAN COMMON *†50/1980.
+MARKET) ORDER
+made under sections 7(1) and 10
+1. This Order may be cited as the Customs (Import Duty) Citation.
+(Caribbean Common Market) Order.
+2. In this Order- Definitions.
+"the Common Market", means the Caribbean Common Market
+established under the Annex to the Treaty;
+"Common Market Origin" means in relation to any goods, that
+such goods were grown, produced or manufactured within the Common Market and consigned from a port of a Member State to Trinidad and Tobago;
+"Common Market rate of duty" means the rate of Customs Duty
+which is applicable to goods on the basis of their eligibility in that behalf as having been the produce of, or manufactured in, and consigned from, any Member State, and includes an exemption so applicable from Customs Duty;
+"First Schedule" means the First Schedule of the Schedules of
+Import Duties and Exemptions from Duties imposed under the Customs Act;
+"the Treaty" means the treaty establishing the Caribbean
+Community done at Chaguaramas, on the 4th day of July, 1973, and includes any amendment or protocol thereto.

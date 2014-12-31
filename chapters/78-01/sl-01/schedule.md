@@ -1,21 +1,25 @@
 # SCHEDULE
 LIST OF FORMS
 prescribed under sections 263 and 264 of the Customs Act and
-under regulation 3 of the Customs Regulations FORM C1. Report of Ship's Stores. FORM C2. Crew's Stores List. FORM C3. List of Unmanifested Cargo. FORM C4. Report. FORM C5. General Declaration (Outward/Inward). FORM C6. Ship's Bad Order List. FORM C7. Application to Amend by Addition. FORM C8. Application to Amend by Deletion. FORM C9. Entry Outwards. FORM C10. Certificate of Rummage. FORM C11. Account of Goods Loaded by Drogher. FORM C12. Permit to Discharge Coastwise. FORM C13. Permit to Discharge into Drogher for Landing Coastwise. FORM C14. Loading Licence. FORM C15. Customs Declaration. FORM C16. Content-Ship. FORM C17. Clearance of Ship other than Steamship. FORM C18. Clearance for Steamship. FORM C19. (Deleted by LN 72/1993). FORM C20. (Deleted by LN 72/1993). FORM C21. Bill of Sight. FORM C22. (Deleted by LN 72/1993). FORM C23. Deposit Entry. FORM C24. (Deleted by LN 72/1993). FORM C25. Permit to Remove Goods prior to Entry. FORM C26. Damage Certificate Application. FORM C27. Application for Refund of Duty. FORM C28. Permit to Ship Stores. FORM C29. Drawback and Debenture Application. FORM C30. Notice of Breach of Merchandise Marks Laws. FORM C31. (Deleted by LN 72/1993). FORM C32. Shipping Bill for Local Produce-Aircraft Bunkers. FORM C33. (Deleted by LN 72/1993). FORM C34. (Deleted by LN 72/1993). FORM C35. (Deleted by LN 72/1993). FORM C36. (Deleted by LN 72/1993). FORM C37. Permit to Re-Land Goods Shipped for Export. FORM C38. Request to Repack Warehoused Goods. FORM C39. Transfer of Warehoused Goods. FORM C40. (Deleted by LN 72/1993). FORM C41. Request for and Advice of Removal of Warehoused Goods. FORM C42. Refund of Part Proceeds of Sale of Goods Warehoused. FORM C43. Application for Overtime Services. FORM C44. Landing Certificate. FORM C45. General Permit for Licensed Small Craft to Visit Ships in
+under regulation 3 of the Customs Regulations FORM C1. Report of Ship's Stores. FORM C2. Crew's Stores List. FORM C3. List of Unmanifested Cargo. FORM C4. Report. FORM C5. General Declaration (Outward/Inward). FORM C6. Ship's Bad Order List. FORM C7. Application to Amend by Addition. FORM C8. Application to Amend by Deletion. FORM C9. Entry Outwards. FORM C10. Certificate of Rummage. FORM C11. Account of Goods Loaded by Drogher. FORM C12. Permit to Discharge Coastwise. FORM C13. Permit to Discharge into Drogher for Landing Coastwise. FORM C14. Loading Licence. FORM C15. Customs Declaration. FORM C16. Content-Ship. FORM C17. Clearance of Ship other than Steamship. FORM C18. Clearance for Steamship. FORM C19. (Deleted by LN 72/1993). FORM C20. (Deleted by LN 72/1993). FORM C21. Bill of Sight. FORM C22. (Deleted by LN 72/1993). FORM C23. Deposit Entry. FORM C24. (Deleted by LN 72/1993). FORM C25. Permit to Remove Goods prior to Entry. FORM C26. Damage Certificate Application. FORM C27. Application for Refund of Duty. FORM C28. Permit to Ship Stores.
+SCHEDULE-Continued
+LIST OF FORMS-Continued
+FORM C29. Drawback and Debenture Application. FORM C30. Notice of Breach of Merchandise Marks Laws. FORM C31. (Deleted by LN 72/1993). FORM C32. Shipping Bill for Local Produce-Aircraft Bunkers. FORM C33. (Deleted by LN 72/1993). FORM C34. (Deleted by LN 72/1993). FORM C35. (Deleted by LN 72/1993). FORM C36. (Deleted by LN 72/1993). FORM C37. Permit to Re-Land Goods Shipped for Export. FORM C38. Request to Repack Warehoused Goods. FORM C39. Transfer of Warehoused Goods. FORM C40. (Deleted by LN 72/1993). FORM C41. Request for and Advice of Removal of Warehoused Goods. FORM C42. Refund of Part Proceeds of Sale of Goods Warehoused. FORM C43. Application for Overtime Services. FORM C44. Landing Certificate. FORM C45. General Permit for Licensed Small Craft to Visit Ships in
 Harbour of Port-of-Spain. FORM C46. Special Permit for Licensed Small Craft to Visit Ships in
 Harbour at Port-of-Spain. FORM C47. General Permit for Licensed Small Craft to Visit Ships in
 Harbour at San Fernando and Scarborough. FORM C48. Special Permit for Licensed Small Craft to Visit Ships in
 Harbour at San Fernando and Scarborough. FORM C49. General Permit for Licensed Small Craft to Visit Ships in
 Harbour at Brighton, Pointe-a-Pierre, Point d'Or and Point Fortin. FORM C50. Special Permit for Licensed Small Craft to Visit Ships in
-Harbour at Brighton, Pointe-a-Pierre, Point d'Or and Point Fortin. FORM C51. Drogher's Licence (Licence to Navigate Coastwise). FORM C52. Coasting Cargo Book of the Vessel. FORM C53. Permit to Transport Tobacco.
-LIST OF FORMS-Continued
-FORM C54. Bond for the Re-Exportation of Imported Goods Delivered
+Harbour at Brighton, Pointe-a-Pierre, Point d'Or and Point Fortin. FORM C51. Drogher's Licence (Licence to Navigate Coastwise). FORM C52. Coasting Cargo Book of the Vessel. FORM C53. Permit to Transport Tobacco. FORM C54. Bond for the Re-Exportation of Imported Goods Delivered
 Without Payment of Import Duty. FORM C55. General Bond for Delivery of Goods Prior to Payment of Duty. FORM C56. Bond for the Removal of Goods Landed at one Port or Place
 for Entry at another Port or Place. FORM C57. Bond for Goods and Machinery Used in Manufacture. FORM C57A. Bond of Indemnity for Detention of Goods. FORM C58. Bond for Exportation. FORM C59. General Bond for Exportation. FORM C60. Bond for Shipment of Stores. FORM C61. General Bond for Shipment of Stores. FORM C62. Transhipment Bond. FORM C63. General Transhipment Bond. FORM C64. Bond for Removal of Warehoused Goods. FORM C65. General Bond for Removal of Warehoused Goods. FORM C66. General Bond to Guarantee Payment of Rent. FORM C67. General Bond for Securing Duty on Goods Warehoused in a
 Private Warehouse or Customs Area.
 FORM C68. Bond to Secure Duty on Packages Reported and Not
-Accounted for. FORM C69. Auctioneer's Bond. FORM C70. Passenger Manifest. FORM C71. Cargo Manifest. FORM C72. Want of Entry Slip. FORM C73. (Deleted by LN 72/1993). FORM C74. (Deleted by LN 72/1993). FORM C75. Declaration for Goods of a Value Exceeding $20,000.00. FORM e-C75. Declaration for Goods of a Value Exceeding TT $20,000.00 FORM C76. Declaration for Goods of a Value Exceeding $20,000.00. FORM e-C76. Declaration for Goods of a Value Exceeding TT $20,000.00 FORM C77. (Deleted by LN 72/1993). FORM C78. (Deleted by LN 72/1993). FORM C79. Entry of Premises. FORM C80. Notice to Pack for Home Consumption/Export. FORM C81. Delivery Order. FORM C82. Customs Declaration (Import/Export). FORM e-C82. Customs Declaration (Import/Export). FORM C83. Notification of Query and Referral. FORM C84. Declaration in respect of Claims for Treatment under Specific
-Customs Procedures. FORM C85. Statement of Warehouse Rent. FORM C86. Bill of Sight Covered by Bond. FORM C87. Cargo Delivery Note. FORM C88. Unaccompanied Baggage Declaration.
+Accounted for. FORM C69. Auctioneer's Bond. FORM C70. Passenger Manifest. FORM C71. Cargo Manifest. FORM C72. Want of Entry Slip. FORM C73. (Deleted by LN 72/1993). FORM C74. (Deleted by LN 72/1993). FORM C75. Declaration for Goods of a Value Exceeding $20,000.00. FORM e-C75. Declaration for Goods of a Value Exceeding TT $20,000.00 FORM C76. Declaration for Goods of a Value Exceeding $20,000.00. FORM e-C76. Declaration for Goods of a Value Exceeding TT $20,000.00
+SCHEDULE-Continued
+LIST OF FORMS-Continued
+FORM C77. (Deleted by LN 72/1993). FORM C78. (Deleted by LN 72/1993). FORM C79. Entry of Premises. FORM C80. Notice to Pack for Home Consumption/Export. FORM C81. Delivery Order. FORM C82. Customs Declaration (Import/Export). FORM e-C82. Customs Declaration (Import/Export). FORM C83. Notification of Query and Referral. FORM C84. Declaration in respect of Claims for Treatment under Specific
+Customs Procedures. FORM C85. Statement of Warehouse Rent. FORM C86. Bill of Sight Covered by Bond. FORM C87. Cargo Delivery Note. FORM C88. Unaccompanied Baggage Declaration. FORM C89. Customs Border Control System-User Application.
 PORT OF ... ORIGINAL/DUPLICATE DATE OF ARRIVAL ..., 20...
 PLACED UNDER SEAL ( ) IN COUNTRY FROM WHICH
 OTHER ARTICLES NOTE. THIS FORM MUST BE COMPLETED (IN DUPLICATE) IN READINESS TO BE HANDED TO THE CUSTOMS BOARDING OFFICER WHO FIRST VISITS THE VESSEL. DESCRIPTION (SEX, COLOUR, ETC.,) OF ANIMALS
@@ -34,8 +38,7 @@ TOTAL
 OWNER'S NAME, IF PROPERTY REPORT OF SHIP'S STORES
 NUMBER OF CREW
 SEAL ( )
-PLACED UNDER OF CREW
-REPUBLIC OF TRINIDAD AND TOBAGO CUSTOMS FORM C1
+PLACED UNDER OF CREW REPUBLIC OF TRINIDAD AND TOBAGO CUSTOMS FORM C 1
 (A)
 4
 SHIPS SURPLUS STORES
@@ -66,7 +69,7 @@ BOTTLES … … JARS … … DEMIJOHNS … … CASKS … … OTHER* … … TOTA
 DATE ..., 20... MASTER
 (A) COLUMNS 3, 4, 6 AND 7 NOT TO BE FILLED IN BY MASTER, BUT FOR USE OF CUSTOMS BOARDING OFFICER.
 RECORD OF VISITS, STORES ISSUED OR RECEIVED, ETC.
-RECORD OF COASTWISE VOYAGE* FORM C1-CONTINUED
+RECORD OF COASTWISE VOYAGE* FORM C 1-CONTINUED
 OTHER DUTIABLE ARTICLES CARRIED IN SHOPS, KIOSKS, ETC., UNDER SEAL ( ).
 I DECLARE THE ABOVE PARTICULARS TO BE TRUE.
 WHERE IT IS REQUIRED TO BE SURRENDERED TO A CUSTOMS OFFICER.
@@ -83,9 +86,9 @@ TO MASTERS AND OFFICERS AND CREWS OF VESSELS ARRIVING FROM ABROAD REGARDING GOOD
 1. This form must be completed in readiness to be handed to the Customs Boarding Officer who first visits the vessel. It must be signed by each member of the crew (including the Master and Officers), who must state opposite his signature the quantity of dutiable articles in his possession. If he has nothing he must state "nil".
 2. All articles acquired abroad or during the voyage must be declared.
 3. With few exceptions, and usually only under certain circumstances, ALL ARTICLES ARE DUTIABLE when imported into Trinidad and Tobago or the waters thereof. All articles which have not been taken into consumption or use should, therefore, be declared, and penalties avoided.
+FORM C 2-Continued
 4. Any dutiable, prohibited, or restricted articles which are the property of any member of the crew, found in the vessel and not declared will be liable to forfeiture and the owner thereof will be liable to prosecution.
 5. Members of a crew who remain on a vessel during her stay in port may after declaration be allowed under certain conditions to retain in their possession for their own use on board reasonable quantities of Tobacco, Spirits and other dutiable goods. Such goods MUST NOT BE LANDED, nor may any other article whatever be brought ashore without the written authority of the proper Officer of Customs and Excise, provided that on going ashore for short periods members of crews may have in their possession bona fide for their own immediate use no more than 25 grams of tobacco, but no spirits.
-FORM C 2-Continued
 6. Members of a crew of whatever rank FINALLY leaving the vessel with their effects are allowed to take ashore, free of duty, FOR THEIR OWN PERSONAL CONSUMPTION, the following quantities of the undermentioned goods, when they form the whole of their unconsumed stores:
 Tobacco in any form-200 grams in all; Spirits-500 millilitres in all. Any quantity in excess of the above amounts renders the whole quantity of tobacco or spirits, as the case may be, liable to duty.
 7. Surplus stores of the ships, cats, dogs and other feline and canine animals and live stock must be produced to the Customs Boarding Officer first visiting the vessel and must be included in the Report of Ships' Stores (Form C1) and borne on the Ships Report [Form C4 (Ship) and C5 (Aircraft)].
@@ -101,10 +104,9 @@ Cigars
 Cigarettes
 Tobacco
 QUANTITY OR NUMBER
-(CARRIED FORWARD) AND DESCRIPTION OF
-CREW'S STORES LIST
-OTHER GOODS FORM C 2-CONTINUED OF THE GOODS SHALL BE LANDED WITHOUT AUTHORITY OF THE PROPER OFFICER OF CUSTOMS AND EXCISE.
-TOTAL
+(CARRIED FORWARD) AND DESCRIPTION OF CREW'S STORES LIST
+OTHER GOODS
+OF THE GOODS SHALL BE LANDED WITHOUT AUTHORITY OF THE PROPER OFFICER OF CUSTOMS AND EXCISE. TOTAL
 PARTICULARS OF GOODS DECLARED, AND TO BE INCLUDED IN
 REPORT OF SHIP'S STORES (FORM C1)
 Spirits
@@ -194,9 +196,11 @@ SUCH) MAY BE IN THE FORM "GENERAL CARGO REMAINING ON BOARD FOR EXPORTATION."
 HER DEPARTURE FROM
 IN THE PRESENCE OF
 PILOT'S NAME:
-FORM C 5 Section 163, Regulations 15, 106. CUSTOMS
+FORM C 5 Section 163,
+Regulations 15, 106. CUSTOMS
 GENERAL DECLARATION (CONTENT-AIRCRAFT)
-(OUTWARD/INWARD) * Owner or Operator Aircraft Flight No. Date
+(OUTWARD/INWARD) *
+Owner or Operator Aircraft Flight No. Date
 [Registration marks and nationality.] Point of Clearance For entry at
 [Place and Country.] [Place and Country.]
 ITINERARY OF AIRCRAFT AND DECLARATION OF HEALTH
@@ -563,7 +567,6 @@ Customs Boarding Officer
 CERTIFICATE OF CONTENT
 I certify that the goods are duly/not* entered on the content.
 Searcher Date ... 20...
-FORM C 29-Continued
 CERTIFICATE OF CHECKING OFFICER
 Examined and found correct.
 Accountant
@@ -752,7 +755,7 @@ for Comptroller of Customs and Excise
 FORM C 45
 CUSTOMS
 REPUBLIC OF TRINIDAD AND TOBAGO GENERAL PERMIT FOR LICENSED SMALL CRAFT TO VISIT
-SHIPS IN HARBOUR OF PORT-OF-SPAIN.
+SHIPS IN HARBOUR OF PORT-OF-SPAIN
 *This Permit is not Valid between the Hours of 6.00 p.m. and 6.00 a.m. during
 which Period a Special Permit is required.
 General Permit for the licensed drogher/boat/launch* ..., to take fruit,* vegetables,* curios,* and ... to and from vessels lying in harbour at Port-of-Spain.
@@ -867,7 +870,8 @@ COASTING CARGO BOOK OF THE VESSEL , NO.
 DATE TIME AND
 PLACE
 ARRIVAL
-DATE AND HOUR OF CUSTOMS FORM C 52
+DATE AND HOUR OF
+CUSTOMS FORM C 52
 DEPART-
 URE
 CONSIGNEE NAME OF
@@ -919,8 +923,8 @@ FORM C 56
 CUSTOMS
 REPUBLIC OF TRINIDAD AND TOBAGO
 BOND FOR THE REMOVAL OF GOODS LANDED AT ONE
-PORT OR PLACE FOR ENTRY AT ANOTHER PORT OR
-PLACE
+PORT OR PLACE FOR ENTRY AT ANOTHER
+PORT OR PLACE
 Know all men by these presents that we ..., of ..., and ..., of ..., are held and firmly bound unto the State in the sum of ... dollars to be paid to the State for which payment we hereby bind ourselves, our heirs, executors, administrators, and successors, each of us and each of them jointly and severally.
 Dated this ... day of ..., in the year of Our Lord Two Thousand and ...
 Whereas the above bounden has given notice to the Comptroller of Customs and Excise (hereinafter called "the Comptroller") of his intention to remove to ..., by ..., the following goods, that is to say:
@@ -965,9 +969,9 @@ BOND FOR EXPORTATION
 Know all men by these presents that we ..., of ..., and ..., of ...are held and firmly bound unto the State in the sum of ... dollars to be paid to the State for which payment we hereby bind ourselves, our heirs, executors, administrators, and successors, each of us and each of them jointly and severally.
 Dated this ... day of ..., in the year of Our Lord Two Thousand and ...
 Whereas the above bounden ..., has given notice of his intention to export to ..., in the ..., the following goods:
-Now the condition of this obligation is such that if the said goods and every part thereof are duly exported to, and landed at ... within ... from the date hereof and if no alteration or diminution in quantity or quality [except such as may be accounted for to the satisfaction of the Comptroller of Customs and Excise (hereinafter called "the Comptroller")] takes place in the said goods, or in the casks, cases or package in which the goods are delivered, from the time of the delivery thereof to the said ... under this obligation, until the landing thereof at the said
-} place; and if the said ... shall in every case in which the Comptroller requires it and within such time as in each case he may allow, produce proof, to the satisfaction of the Comptroller of the due landing of the said goods at the said place, then this obligation shall be void, but otherwise shall remain in full force.
-Signed and delivered by the above bounden } in the presence of
+Now the condition of this obligation is such that if the said goods and every part thereof are duly exported to, and landed at ... within ... from the date hereof and if no alteration or diminution in quantity or quality [except such as may be accounted for to the satisfaction of the Comptroller of Customs and Excise (hereinafter called "the Comptroller")] takes place in the said goods, or in the casks, cases or package in which the goods are delivered, from the time of the delivery thereof } to the said ... under this obligation, until the landing thereof at the said place; and if the said ... shall in every case in which the Comptroller requires it and within such time as in each case he may allow, produce proof, to the
+} satisfaction of the Comptroller of the due landing of the said goods at the said place, then this obligation shall be void, but otherwise shall remain in full force.
+Signed and delivered by the above bounden in the presence of
 Witness
 Signed and delivered by the above bounden in the presence of
 Witness
@@ -1139,7 +1143,9 @@ PASSENGER MANIFEST
 Owner or Operator ... Aircraft ... Service No... Date ...
 [Registration marks and nationality] Point of Embarkation ... Point of Disembarkation ...
 [Place and Country] [Place and Country]
-For use by owner For official use only Surname and initials or operator only
+For use by owner
+For official use only Surname and initials
+or operator only
 Prepared by ... Page ... of ... Pages.
 FORM C 71
 CUSTOMS
@@ -1201,11 +1207,9 @@ AND (4)]
 (2) CARGO NOT PRODUCED BY AGENTS TO BE DELETED IN RED INK BY THE OFFICER-IN-CHARGE TRANSIT SHED AND DELETION INITIALLED. * TO BE INSERTED BY THE OFFICER-IN-CHARGE TRANSIT SHED AND VERIFIED BY OFFICER-IN-CHARGE STATE'S WAREHOUSE ON RECEIVING THE CARGO.
 *PARTICULARS OF MEASUREMENT,
 ETC., REQUIRED ASSESSMENT
-FOR RENT
-WANT OF ENTRY SLIP NO... -CONTINUED
+FOR RENT WANT OF ENTRY SLIP NO... -CONTINUED
 NOTE:-(1) CARGO LANDED IN EXCESS TO BE ADDED TO THE SLIP IN RED INK BY THE OFFICER-IN-CHARGE TRANSIT SHED.
 NAME OF CONSIGNEE
-FORM C 72-CONTINUED
 NUMBER AND DESCRIPTION OF PACKAGES AND NATURE
 [SEE NOTES (1) AND (2)]
 OF GOODS (IF KNOWN)
@@ -1300,7 +1304,8 @@ provided by or on behalf of the importer or his customer. 5. When making settlem
 will be at current rate of exchange. (If settlement is on any other basis or is subject to adjustment on account of fluctuation in the rate of exchange, give particulars and amend this clause as necessary) 6. In addition to the amount stated above, only the charges declared below are payable
 in connection with the production, purchase, importation or use of the goods, viz.:
 ...
-[see note (4) overleaf; if no such charges are payable, insert "none"] 7. The amount shown on the said invoice(s) or other document(s) includes the
+[see note (4) overleaf; if no such charges are payable, insert "none"]
+7. The amount shown on the said invoice(s) or other document(s) includes the
 following items for which I claim that an allowance should be made when arriving at the value for duty, viz.:
 (if no items are claimed for, this may be left blank)
 ...
@@ -1322,7 +1327,7 @@ commission or other remuneration;
 cost of materials, equipment or services in connection with producing the goods, provided
 Expenses of delivery of the goods, e.g.:
 carriage to and charges at port of shipment;
-charges for discharging from ship's hold. FORM e-C 76 FORM e-C 76-Continued
+charges for discharging from ship's hold. FORM e-C 76
 FORMS C 77 AND C 78
 (Deleted By LN 72/1993)
 FORM C 79
@@ -1378,7 +1383,7 @@ $ ¢. weight to
 ...
 Customs and Excise Officer
 ...
-Date FORM C 82-Continued FORM C 82-Continued FORM e-C 82 FORM e-C 82-Continued FORM e-C 82-Continued FORM C 83
+Date FORM C 82-Continued FORM e-C 82 FORM e-C 82-Continued FORM C 83
 FORM C 84
 CUSTOMS
 REPUBLIC OF TRINIDAD AND TOBAGO
@@ -1392,14 +1397,12 @@ CPC DECLARATION FOR OFFICIAL USE
 Item
 Item
 Item
-Item
-FORM C 84-Continued
-CPC DECLARATION FOR OFFICIAL USE Item
+Item Item
 Item
 Item
 Item
 ...
-Date Signature of Declarant/Representative
+Signature of Declarant/Representative
 FORM C 85 (Schedule 1). [72/1993].
 CUSTOMS
 REPUBLIC OF TRINIDAD AND TOBAGO Customs and Excise Division
@@ -1464,7 +1467,6 @@ QUANTITY
 ... Particulars to be ... Verified by Officer in Cargo Bond ...
 I hereby declare that the above is a true and correct account of the baggage and household effects which I have arranged to have sent to me and I make this declaration with the knowledge that failure to declare any dutiable goods or the making of any false statement in regard thereto will subject me to penalties and render the articles together with everything packed therewith, liable to forfeiture.
 Dated ... 20 ... Signature ...
-FORM C 88-Continued
 Accepted
 The following personal exemptions have already
 been given:
@@ -1480,9 +1482,43 @@ Proper Officer Supervisor
 Date ...
 Tariff Exemption in respect of Unaccompanied Baggage and Household Effects
 Baggage and household effects, imported within two months after the arrival of a passenger, or within such further period as the Comptroller shall in the circumstances deem reasonable, provided that the articles would have been exempted from import duty under item 6(a)-6(b) of the Second Schedule.
-- Margin: Regulation 3. [72/1993 60/2007 133/2011].
-- Margin: REGULATION 9. * SINCE THE 1950 EDITION, THESE FORMS HAVE BEEN AMENDED BY THE FOLLOWING:-GN 152/1951, 11/1952, 111/1952, 197/1955, 15/1956, 180/1956, 199/1968,
-- Margin: 181/1970, 96/1972, 132/1973, 168/1977, 60/2007 AND 265/2007.
+FORM C 89
+CUSTOMS
+REPUBLIC OF TRINIDAD AND TOBAGO
+CUSTOMS BORDER CONTROL SYSTEM-
+USER APPLICATION
+Pursuant to regulation 2 of the Customs (Border Control System) Regulations, 2013, I hereby apply for the permission to use the Customs Border Control System (C.B.C.S.).
+SECTION ONE
+APPLICANT TYPE
+Customs Broker/Clerk Regulatory Agency Carrier/Agent Importer/Exporter Terminal Operator Cargo Reporter
+SECTION TWO
+APPLICANT DETAILS
+Name: VAT/Other Registration Number:
+BIR Number: Company Registration Number:
+Registered Business Postal Address:
+Address:
+Telephone Number: Fax Number:
+E-mail Address:
+SECTION THREE
+AUTHORISED USERS
+Total Number of Users: First Name: Last Name: Position: Business Address: E-mail Address:
+Customs Broker/Clerk National I.D. Number:
+Licence Number: SECTION FOUR
+TERMS AND CONDITIONS OF USE
+(a) General Conditions under which Registration will be Granted All Sections of this application form must be completed and all questions answered. If the applicant is a company, this form must be signed by the General Manager or another authorised senior executive, and include the official company stamp/seal. Regardless of individual responsibilities, the person signing this form on behalf of a company shall also be responsible for the requirements/conditions set out in Section Four (b) and (c). The applicant agrees to notify the Comptroller of Customs and Excise in writing within twenty-four (24) hours of any change in the Applicant Type, Applicant Details or Authorised Users.
+(b) Minimum Technical Requirements for Registration on the C.B.C.S. Process speed of at least 1.8 Ghz/RAM of 2GB/Microsoft Windows 2000 or newer operation system/Internal or External CD ROM drive (for installation and updates)/Up-to-date antivirus software installed in clients PCs/Internet Connection of at least IMbps. I/we also confirm that we have in our staff or we can call upon a qualified IT person to deal with any C.B.C.S. requirements.
+(c) Specific Conditions with respect to the Security of the C.B.C.S. If approved as a registered user of C.B.C.S., the applicant and any other individual applicant listed in this application, agrees-
+(i) Not to provide copies of any C.B.C.S. software given for your use by Customs and Excise Division to any third parties, whether registered or not;
+(ii) To keep secure, and not disclose to another person the authentication code allocated to you;
+(iii) To use only the authentication code to access data in the system that is available to all registered users or is data input or pertains only to your transmission;
+(iv) To notify the Customs and Excise Division immediately if you suspect that the security of your unique identifier has in any way been compromised;
+(v) To notify the Customs and Excise Division if you gain access or otherwise receive data that does not pertain to your lawful access to the system;
+(vi) To comply with any reasonable conditions imposed by the Comptroller of Customs and Excise in relation to the security of a unique identifier allocated to you or persons listed in this application or to any other matters related to the access to and use of the C.B.C.S.
+(vii) To request a password reset using either the registered e-mail account or in person using proper ID. I have read and agreed to all Terms and Conditions of Use. I certify that all statements I have made in this application are true, correct and complete.
+Company Seal/Stamp Signature ... National I.D. Number ... Name (In Block Letters) ... Date... Position...
+- Margin: Regulation 3. [72/1993 60/2007 133/2011 5/2014].
+- Margin: REGULATION 9. NOTE: SINCE THE 1950 EDITION, THESE FORMS HAVE BEEN AMENDED BY THE FOLLOWING:-GN 152/1951, 11/1952, 111/1952, 197/1955, 15/1956, 180/1956,
+- Margin: 199/1968, 181/1970, 96/1972, 132/1973, 168/1977, 60/2007 AND 265/2007.
 - Margin: Regulation 9.
 - Margin: †WHEN MORE FORMS THAN ONE ARE REQUIRED THEY SHOULD BE FASTENED TOGETHER AND NUMBERED CONSECUTIVELY, AND THE MASTER'S CERTIFICATE NEED ONLY BE GIVEN ON SIGNED ...
 - Margin: MASTER.
@@ -1520,10 +1556,9 @@ Baggage and household effects, imported within two months after the arrival of a
 - Margin: Regulation 136.
 - Margin: Regulation 139. [72/1993].
 - Margin: Regulation 149.
-- Margin: (Regulations, Schedule).
+- Margin: Regulations, Schedule.
 - Margin: Regulation 61.
 - Margin: Regulation 186.
-- Margin: Regulation 187.
 - Margin: Regulation 187.
 - Margin: Regulation 187.
 - Margin: Regulation 187.
@@ -1571,11 +1606,12 @@ Baggage and household effects, imported within two months after the arrival of a
 - Margin: Regulations 36, (Regulation 36, 111. 111) [72/1993]. [72/1993].
 - Margin: Schedule 1. [72/1993].
 - Margin: Schedule 1. [72/1993].
-- Margin: ...
-- Margin: Comptroller of Customs and Excise
+- Margin: CPC DECLARATION FOR OFFICIAL USE
+- Margin: ... Date Comptroller of Customs and Excise
 - Margin: Amount
 - Margin: $ ¢.
 - Margin: Date
 - Margin: Regulation 36. [72/1993].
 - Margin: Regulation 55. [72/1993 6/1994].
 - Margin: [60/2007 265/2007].
+- Margin: Regulation 3. [5/2014].
