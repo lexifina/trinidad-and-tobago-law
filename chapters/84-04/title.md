@@ -10,7 +10,7 @@ Amended by
 *12 of 1985
 6 of 1993
 *18 of 1993
-8 of 1996
+8 of 1996 6 of 2014
 *See Note on page 2
 Index of Subsidiary Legislation
 Page Moneylenders (Exemption) Order (GN 128/1965) … … … 24 Moneylenders Rules (G. 2.2.1933) ... 26
