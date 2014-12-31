@@ -4,6 +4,7 @@ I, A.B. of ...
 (address) understand that the Legal Aid and Advice Authority is prepared to issue to me a certificate upon the terms and conditions set out hereafter. I accept this offer and agree to comply with its terms and conditions. I enclose $... as required by paragraph 4 below.
 ...
 Usual Signature Dated this ... day of ... 20 ...
+FORM 3-Continued
 TERMS AND CONDITIONS
 1. The scope of my Certificate will be defined as follows: ...
 (Describe the proceedings or the nature of the claim)
@@ -22,9 +23,7 @@ with the Regulations then in force, I shall be liable to pay up to the maximum c
 (c) that if my certificate does not extend to taking, defending or
 being a party to Court proceedings but is later amended at my request to do so, my means may be reassessed and conditions set out in subparagraph (b) shall apply;
 (d) that this acceptance form deals only with my liability for my
-own costs. If proceedings take place, the Court may make an Order against me in favour of another party to the proceedings. This additional liability (which is quite distinct from any
-FORM 3-Continued
-contribution payable by me to the Authority) will not exceed the amount (if any) determined by the Court as reasonable, having regard to all the circumstances including the means of all the parties to the proceedings and their conduct in connection with the dispute. This applies if my certificate covers proceedings now or is later amended to do so.
+own costs. If proceedings take place, the Court may make an Order against me in favour of another party to the proceedings. This additional liability (which is quite distinct from any contribution payable by me to the Authority) will not exceed the amount (if any) determined by the Court as reasonable, having regard to all the circumstances including the means of all the parties to the proceedings and their conduct in connection with the dispute. This applies if my certificate covers proceedings now or is later amended to do so.
 6. I undertake to inform the Authority of any change in my means which may occur while my Certificate is in force, if-
 (a) my income increases or decreases by more than fifteen
 dollars a week or eight hundred dollars a year; or
