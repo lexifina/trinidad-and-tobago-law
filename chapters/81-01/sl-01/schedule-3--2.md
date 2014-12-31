@@ -21,7 +21,9 @@ Regulations shall have the meanings given to such terms in the Act or the Regula
 (e) the singular includes the plural and the plural includes the singular;
 the masculine gender includes the feminine and neuter genders; the word "person" includes bodies corporate, companies, partnerships, syndicates, trusts and any association of persons; and the word "individual" means a natural person.
 2. REGISTERED OFFICE
-2.1 The registered office of the Company shall be in Trinidad and Tobago at such address as the directors may fix from to time by resolution. 3. MEMBERS
+2.1 The registered office of the Company shall be in Trinidad and Tobago at such address as the directors may fix from to time by resolution.
+SCHEDULE 3-Continued
+3. MEMBERS
 3.1 There shall be two classes of membership namely:
 (a) Ordinary members, being individuals over the age of eighteen years
 of age (and any other persons);
@@ -51,7 +53,9 @@ Honorary members upon the invitation of the directors in recognition of their wo
 7.4 The President: The President shall, if present, preside at all meetings of the directors and members, he shall sign all instruments which require his signature and shall perform all duties incident to his office and shall have such other powers and duties as may from time to time be assigned to him by the directors.
 7.5 The Vice-President: The Vice-President shall be vested with all the powers and shall perform all the duties of the President in the event of the President's absence or disability or refusal to act. The Vice-President shall have such powers and duties as may from time to time be assigned to him by the directors.
 7.6 The Secretary: The Secretary shall, when present, act as Secretary of all meetings, shall have charge of the minute books of the Company and the documents and registers referred to in section 177 of the Companies Act, Ch. 81:01 and shall perform such other duties as the directors require of him.
-7.7 The Treasurer: The Treasurer shall have the care and custody of all the funds and securities of the Company and shall deposit the same in the name of the Company in such bank or banks or with such depository or depositories as the directors may direct and shall perform such other duties as the directors require of him. He may be required to give such bond for the faithful performance of his duties as the directors in their uncontrolled discretion may require and no director shall be liable for failure to require any bond or for the insufficiency of any bond or for any loss by reason of the failure of the Company to receive any indemnity thereby provided.
+7.7 The Treasurer: The Treasurer shall have the care and custody of all the funds and securities of the Company and shall deposit the same in the name of the Company in such bank or banks or with such depository or depositories as the directors may direct
+SCHEDULE 3-Continued
+and shall perform such other duties as the directors require of him. He may be required to give such bond for the faithful performance of his duties as the directors in their uncontrolled discretion may require and no director shall be liable for failure to require any bond or for the insufficiency of any bond or for any loss by reason of the failure of the Company to receive any indemnity thereby provided.
 8. DIRECTORS
 (See Division 4 of Part III of the Act).
 8.1 The directors of the Company shall be-
@@ -89,6 +93,7 @@ or dishonesty.
 9.3.1 It shall not be necessary to give notice of a meeting of the directors to a newly elected or appointed director for a meeting held immediately following the election of directors by the members or the appointment to fill a vacancy among the directors.
 9.3.2 Meetings of the directors may be held at any time without formal notice if all the directors are present or those absent waive notice or signify their consent in writing to the meeting being held in their absence. Notice of any meetings or any irregularity in any meeting or the notice thereof may be waived by any director.
 9.4 Quorum: [INSERT NUMBER OF DIRECTORS] directors shall form a quorum for the transaction of business and, notwithstanding any vacancy among the directors, a quorum may exercise all the powers of the directors. No business shall be transacted at a meeting of directors unless a quorum is present.
+SCHEDULE 3-Continued
 9.4.1 A director may, if all the directors consent, participate in a meeting of directors or of any committee of the directors by means of such telephone or other communications facilities as permit all persons participating in the meeting to hear each other and a director participating in such a meeting by such means is deemed to be present at that meeting.
 9.5 Voting: Questions arising at any meeting of the directors shall be decided by a majority of votes. In case of an equality of votes, the Chairman of the meeting in addition to his original vote shall have a second or casting vote.
 9.6 Resolution in lieu of meeting: Notwithstanding any of the foregoing provisions of this Bye-law, a resolution in writing signed by all the directors entitled to vote on that resolution at a meeting of the directors or any committee of the directors is as valid as if it had been passed at a meeting of the directors or any committee of the directors.
@@ -119,6 +124,7 @@ in the execution of the duties of his respective office or trust or in relation 
 12.2.1 The directors shall, on the requisition of five per cent of the members of the Company that have a right to vote at the meeting requisitioned, forthwith convene a meeting of members, and in the case of such requisition the following provisions shall have effect:
 (a) the requisition must state the purposes of the meeting and must be
 signed by the requisitionists and deposited at the Registered Office, and may consist of several documents in like form each signed by one or more of the requisitionists;
+SCHEDULE 3-Continued
 (b) if the directors do not, within twenty-one days from the date of the
 requisition being so deposited, proceed to convene a meeting, the requisitionists or any of them may themselves convene the meeting, but any meeting so convened shall not be held after three months from the date of such deposit;
 (c) unless subsection (3) of section 133 of the Act applies, the directors
@@ -141,7 +147,9 @@ hereby appoints ... of ..., or failing him, ... of ... as the nominee of the und
 DATED this ... day of ... 20...
 ...
 . Signature of member
-12.8 Adjournment: The chairman of any meeting may, with the consent of the meeting, adjourn the same from time to time to a fixed time and place and no notice of such adjournment need be given to the members unless the meeting is adjourned by one or more adjournments for an aggregate of thirty days or more in which case notice of the adjourned meeting shall be given as for an original meeting. Any business that might have been brought before, or dealt with at, the original meeting in accordance with the notice calling the same may be brought before, or dealt with at, any adjourned meeting for which no notice is required.
+12.8 Adjournment: The chairman of any meeting may, with the consent of the meeting, adjourn the same from time to time to a fixed time and place and no notice of such adjournment need be given to the members unless the meeting is adjourned by one
+SCHEDULE 3-Continued
+or more adjournments for an aggregate of thirty days or more in which case notice of the adjourned meeting shall be given as for an original meeting. Any business that might have been brought before, or dealt with at, the original meeting in accordance with the notice calling the same may be brought before, or dealt with at, any adjourned meeting for which no notice is required.
 12.9 Quorum: Subject to the Act, a quorum for the transaction of business at any meeting of the members shall be [INSERT NUMBER] persons present in person, each being either a member entitled to vote thereat, or a duly appointed proxy holder or representative of a member so entitled. If a quorum is present at the opening of any meeting of the members, the members present or represented may proceed with the business of the meeting notwithstanding a quorum is not present throughout the meeting. If a quorum is not present within 30 minutes of the time fixed for a meeting of members, the persons present and entitled to vote may adjourn the meeting to a fixed time and place but may not transact any other business.
 12.10 Resolution in lieu of meeting: Notwithstanding any of the foregoing provisions of this Bye-law, a resolution in writing signed by all the members entitled to vote on that resolution at a meeting of the members is, subject to section 132 of the Act, as valid as if it had been passed at a meeting of the members.
 13. COMMITTEES
@@ -162,7 +170,9 @@ the right to vote, in such names as they may determine without the necessity of 
 15.6.2 Where the notice is sent by cable or telex or telefax, service is deemed to be effected on the date on which the notice is so sent.
 15.6.3 A certificate of an officer of the Company in office at the time of the making of the certificate as to facts in relation to the delivery or sending of any notice shall be conclusive evidence of those facts.
 16. CHEQUES, DRAFTS AND NOTES
-16.1 All cheques, drafts or orders for the payment of money and all notes and acceptances and bills of exchange shall be signed by such officers or persons and in such manner as the directors may from time to time designate by resolution. 17. EXECUTION OF INSTRUMENTS
+16.1 All cheques, drafts or orders for the payment of money and all notes and acceptances and bills of exchange shall be signed by such officers or persons and in such manner as the directors may from time to time designate by resolution.
+SCHEDULE 3-Continued
+17. EXECUTION OF INSTRUMENTS
 17.1 Contracts, documents or instruments in writing requiring the signature of the Company may be signed by-
 (a) the President or the Vice-President together with the Secretary or
 the Treasurer; or

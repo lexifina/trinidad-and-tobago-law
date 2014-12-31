@@ -7,11 +7,18 @@ INCORPORATED OUTSIDE TRINIDAD AND TOBAGO
 Name of Company ... Presented by ... Particulars of a Mortgage or Charge subject to which property in Trinidad and Tobago has been acquired by ...a Company incorporated in (a)... and which has established a place of business in Trinidad and Tobago at
 (b) ...
 (1) (2) (3) (4) ( 5)
-Date Dates of Amount Short particulars Names, Addresses and and the secured by of the Property Descriptions of the
-description acquisition the Mortgaged or Mortgagees or Persons
-of the of the Mortgage charged entitled to the Charge
-Instrument Property or creating Charge
-or evidencing the Mortgage
+Date and
+description Amount
+Dates of
+of the secured by Short particulars Names, Addresses and
+the
+Instrument the of the Property Descriptions of the
+acquisition
+creating Mortgage Mortgaged or Mortgagees or Persons
+of the
+or evidencing or charged entitled to the Charge
+Property
+the Mortgage Charge
 or
 Charge (c)
 }

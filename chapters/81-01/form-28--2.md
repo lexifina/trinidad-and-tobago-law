@@ -9,9 +9,10 @@ Particulars supplied by above-named Company
 (A) of Mortgages or Charges created by the Company before the date of the commencement of the Act, and remaining unsatisfied at that date, which would have been required to be registered under the Companies Act if the Mortgages or Charges had been created on or after that date; and
 (B) of Mortgages or Charges to which any property acquired by the Company before the date of the commencement of the Act, is subject and, which would have been required to be registered under the Act if the property had been acquired on or after that date.
 (1) (2) (3) (4) (5)
-Short Date and Date of Amount owing Names, Addresses
-Particulars of description of acquisition of on the security and Descriptions the Property the instrument the Property (b) of the Mortgage of the Mortgagees Mortgaged creating or or Charge at the or Persons entitled or Charged evidencing the date of the to the Charge
-Mortgage or commencement Charge (a) of the Act
+Date and Amount owing
+Short description of on the security Names, Addresses
+Particulars of the instrument Date of of the Mortgage and Descriptions the Property creating or acquisition of or Charge at the of the Mortgagees Mortgaged evidencing the the Property (b) date of the or Persons entitled or Charged Mortgage or commencement to the Charge
+Charge (a) of the Act
 [(a) A description of the Instrument, e.g., "Trust Deed", "Mortgage", "Debenture", etc., as the
 case may be, should be given.
 (b) This column should be completed only when the Mortgage or Charge is a Mortgage or

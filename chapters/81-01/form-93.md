@@ -2,7 +2,10 @@
 (Rule 186)
 REGISTER OF WINDING UP ORDERS TO BE KEPT
 IN THE COURT
-Number of Number of Date of Date of Winding Dates of Liquidator
-Petition up Order Public Winding up Petition
-Examinations Order
-(if any)
+Dates of
+Number of
+Public Number of Date of Date of Winding
+Liquidator Winding up
+Examinations Petition up Order
+Petition
+Order (if any)

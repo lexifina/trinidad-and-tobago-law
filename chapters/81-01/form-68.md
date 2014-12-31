@@ -4,8 +4,10 @@ LIST OF CREDITORS (OR CONTRIBUTORIES)
 TO BE USED AT EVERY MEETING
 (Title same as Form 2)
 Meeting held at ... this ... day of ... 20...
-AMOUNT OF PROOF * Consecutive Names of creditors
-(or contributories) Number
+AMOUNT OF PROOF *
+Names of creditors Consecutive
+(or contributories)
+Number
 present or represented In person Proxies
 $ $
 1 2 3 4 5 6 7 7 Total number of creditors

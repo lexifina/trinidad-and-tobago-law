@@ -18,9 +18,7 @@ No... 20... RECEIVED of ...in this matter the sum of ...dollars ... cents being 
 ... $...
 Payee's Signature
 AUTHORITY FOR DELIVERY*
-SIR,
-my/our risk† or to the Bearer, PLEASE DELIVER
-to me/us by post at Mr... the voucher for the dividend payable to me/us in this matter.
+SIR, PLEASE DELIVER to me/us by post at my/our risk† or to the Bearer, Mr... the voucher for the dividend payable to me/us in this matter.
 Payee's Signature ... To: the [Official Receiver and] Liquidator.
 Dated the ... day of ... 20... (* This is an authority only to deliver the Payable Voucher NOT to make it payable to
 another person. † Strike out words inapplicable. If not to be sent by post insert the name of the person who is to

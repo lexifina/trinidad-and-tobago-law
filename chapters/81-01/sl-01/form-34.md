@@ -4,12 +4,19 @@ THE COMPANIES ACT, CH. 81:01
 STATEMENT RELATING TO A SERIES OF
 DEBENTURES
 Presented by... Name of Company... Company No...
-Total Nature of any Dates of Nature of Nature Short
-Amount Restriction on the Resolutions Trustee for of particulars Secured by power of the authorising issue debenture Charge of property
-Whole company to grant of series and the holders charged
-Series further charges date of the
-(floating covering
-charges only) instrument, if
+Dates of
+Nature of any
+Resolutions
+Total Restriction on the
+Nature of authorising issue Short
+Amount Nature power of the
+Trustee for of series and the particulars Secured by of company to grant
+debenture date of the of property
+Whole Charge further charges
+holders covering charged
+Series (floating
+instrument, if
+charges only)
 any
 ...
 Dated this ... day of ..., 20...

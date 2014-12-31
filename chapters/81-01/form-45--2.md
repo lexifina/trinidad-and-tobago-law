@@ -8,12 +8,20 @@ Presented by ...
 Particulars, pursuant to the Companies Act, supplied by ...a Company incorporated in (a) ...and which has established a place of business in Trinidad and Tobago at (b) ...
 (A) Any Mortgage or Charge on property in Trinidad and Tobago created by the Company before the date of the commencement of the Act, and remaining unsatisfied at that date; and
 (B) Any Mortgage or Charge to which any property in Trinidad and Tobago acquired by the Company before that date, is subject which would have been required to be registered under the provisions of the Act if (i) the Mortgage or Charge had been created by or (ii) the property had been acquired by the Company on or after that date.
-Date Amount owing on Date of Short Names, Addresses and the security of the acquisition particulars of and Descriptions
-description Mortgage or of the the Property of the persons
-of the Charge at the date Property Mortgaged or entitled to the
-(d) Instrument of the Charged Mortgage or creating commencement of Charge
-or evidencing the Act the Mortgage
-or
+Date and
+Amount owing on description
+Names, Addresses
+the security of the Date of Short of the
+and Descriptions
+Mortgage or acquisition particulars of Instrument
+of the persons
+Charge at the date of the the Property creating
+entitled to the
+of the Property Mortgaged or or evidencing
+Mortgage or
+(d) commencement of Charged
+the Mortgage Charge
+the Act or
 Charge (c) Signature of the persons authorised under the Companies Act, or of some other person in Trinidad and Tobago duly authorised by the Company.
 Dated the ...day of ...20...
 (a) Country of origin.

@@ -12,7 +12,7 @@ Amount
 Christian/Given Surname No. of Shares returned on
 Shares
 Name
-Paid Unclaimed
+Unclaimed Paid
 $ $
 Total ...$
 N.B. This List is required in duplicate.
