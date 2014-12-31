@@ -8,38 +8,45 @@ Marine Operations
 (a) where the weighted average crude oil price is U.S. $50.00
 per barrel or less, no tax is chargeable;
 (b) where a licence, sub-licence or contract was issued to a
-person prior to 1st January 1988, in respect of a marine area, the tax is chargeable on gross income from crude oil production from any field in the licensed area or area subject to the contract, at the rates set out in Column "A" of Part B;
-(c) where a licence, sub-licence or contract was issued to a person
-in respect of a marine area on or after 1st January 1988 and production of crude oil commenced after 1st January 1992, from any field in the licensed area or area subject to the contract the tax is chargeable on gross income from crude oil production in such field, at the rates set out in Column "B" of Part B;
-(ca) where the weighted average crude oil price is between
-U.S. $90.01 and U.S. $200.00 per barrel, the tax is chargeable under Columns "A" and "B" of Part B at rates based on the following sliding scale:
-SPT rate = base SPT rate + 0.2% (P-U.S. $90.00) base SPT rate = Marine "A" -42%
-Marine "B"-33%
-SPT = supplemental petroleum tax P = weighted average crude oil price in USD;
-(d) where a person carries out petroleum operations in a marine
-area under a licence issued prior to 1st January 1988, and also carries out petroleum operations in a marine area under a licence issued on or after 1st January 1992, the person may elect-
-(i) to compute gross income and the allowances
-separately in respect of a field in each such licensed area, and apply the allowances at the rates in Columns "A" and "B" of Part B respectively; or
-(ii) to consolidate his gross income and gross expenditure
-in respect of both such licensed areas, and where such election is made, the tax is chargeable on the gross income from the consolidated operations, at the rates set out in Column "A" of Part B;
-(e) for the purposes of paragraph (d), a person who elects to
-have his operations consolidated, shall do so in writing, to the Board of Inland Revenue in the financial year in which expenditure in the production of crude oil in the area licensed on or after 1st January 1992, was first incurred, and such election is irrevocable.
+person, in respect of a marine area, the tax is chargeable on gross income from crude oil production from any field in the licensed area or area subject to the contract, at the rates set out in Column "A" of Part B;
+(c) where the weighted average crude oil price is between
+U.S. $90.01 and U.S. $200.00 per barrel, the tax is chargeable under Column "A" of Part "B" at rates based on the following sliding scale: }
+SPT rate = Base SPT rate + 0.2% (P-U.S. $90.00) Base SPT rate = Marine "A"- 33% SPT = Supplemental Petroleum Tax P = Weighted average crude oil price in USD;
+(ca)
+(Deleted by Act No. 2 of 2013). (d)
+(e)
 3. The tax chargeable in respect of petroleum land operations is hereby computed and fixed as follows: Land Operations
 (a) where the weighted average crude oil price is U.S. $50.00
 per barrel or less, no tax is chargeable;
 (b) where a person carries out petroleum operations in a land
-area under a licence, sublicence or contract, the tax is chargeable at the rates set out in Column "C" of Part B;
-(c) where the weighted average crude oil price is between
-U.S. $90.01 and U.S. $200.00 per barrel, the tax is chargeable under Column "C" of Part B at rates based on
-} the following sliding scale:
-SPT rate = base SPT rate + 0.2% (P-U.S. $90.00) base SPT rate = Column "C" Land and Deepwater-18% SPT = supplemental petroleum tax
-} P = weighted average crude oil price in USD;
+area under a licence, sublicence or contract, the tax is chargeable at the rates set out in Column "C" of Part B; U.S. $90.01 and U.S. $200.00 per barrel, the tax is chargeable under Column "C" of Part B at rates based on
+}
+the following sliding scale:
+SPT rate = Base SPT rate + 0.2% (P-U.S. $90.00) Base SPT rate = Column "C" Land and Deepwater-18% SPT = Supplemental Petroleum Tax
+}
+P = Weighted average crude oil price in USD;
 (d)
 (Deleted by Act No. 13 of 2010). (e)
 (f)
 4.
 (Deleted by Act No. 21 of 2005).
 5. 6. The Minister to whom responsibility for petroleum is assigned may in writing under his hand determine a field.
+6A. (1) The tax chargeable in respect of petroleum operations in a new field in shallow marine areas is hereby computed and fixed as follows:
+(a) where the weighted average crude oil price is U.S. $50.00
+per barrel or less, no tax is chargeable;
+(b) where a person carries out petroleum operations in a new
+field under a licence, sub-licence or contract, the tax is chargeable at the rates set out in Column "B" of Part B;
+(c) where the weighted average crude oil price is between
+U.S. $90.01 and U.S. $200.00 per barrel, the tax is chargeable under Column "B" of Part B at rates based on the following sliding scale:
+SPT rate = Base SPT rate + 0.2% (P-U.S. $90.00) Base SPT rate = Column "B" New Field
+Development-25%
+SPT = Supplemental Petroleum Tax P = Weighted average crude oil price in USD.
+(2) Subclause (1) shall apply in respect of new fields in shallow marine areas that have been approved and certified for development by the Minister to whom responsibility for petroleum has been assigned.
+(3) For the purposes of this Part, "new field" means an area within the licence, sub-licence or contract area, consisting of a petroleum reservoir or multiple petroleum reservoirs, all grouped on or related to the same individual geological structural feature or stratigraphic conditions-
+(a) from which petroleum may be produced and where the total
+recoverable reserves are not more than 50 million barrels of oil equivalent;
+(c) where recoverable reserves are certified by the Minister with
+responsibility for petroleum before the commencement of production and the beginning of each financial year.
 7. (1) The income derived by a person carrying on production business, whether on land or in a marine area, under a production sharing contract shall be subject to supplemental petroleum tax.
 (2) Notwithstanding the provisions of item 7(1), where in relation to the supplemental petroleum tax, a production sharing contract-
 (a) excludes the provisions of this Act in respect of that tax, this
@@ -62,17 +69,19 @@ or less of oil equivalent per day.
 PART B
 SCALE OF SUPPLEMENTAL PETROLEUM TAX RATES
 PRICE U.S. $ RATE %
-Between Marine Land and
-Deepwater
+Marine New Field Land and Between
+Development Deepwater
 Block
 $ $ "A" "B" "C"
-50.00 0 0 0 50.01 and 90.00 42 33 18 90.01 " 200.00 SPT rate = base
-SPT rate + 0.2% (P - $90.00) 200.01 and over 64 55 40
-- Margin: Section 22. [15 of 1992 21 of 2005 2 of 2006 30 of 2007 13 of 2010].
-- Margin: Interpretation.
+50.00 0 0 0
+50.01 and 90.00 33 25 18 90.01 and 200.00 SPT rate = Base
+SPT rate +
+0.2% (P-$90.00) 200.01 and over 55 47 40
+- Margin: Section 22. [15 of 1992 21 of 2005 2 of 2006 30 of 2007 13 of 2010 2 of 2013]. Interpretation.
 - Margin: Rates for Marine Operations.
 - Margin: Rates for land operations.
 - Margin: Determination of a field.
+- Margin: Rates in respect of new field development.
 - Margin: Production Sharing Contract.
 - Margin: Application of rates of supplemental petroleum tax.
 - Margin: Sustainability incentives.
