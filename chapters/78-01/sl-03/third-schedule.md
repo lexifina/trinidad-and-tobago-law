@@ -10,6 +10,9 @@ Animals sold by Government
 3. For the purposes of this Order, "livestock" means cattle, horses, asses, sheep, swine and goats only.
 Coat of Arms and Flag of Trinidad and Tobago
 The exportation of any goods whatsoever which bear the Coat of Arms or the Flag of Trinidad and Tobago or any facsimile, imitation or representation thereof, without approval of the President.
+Teak and Pine Logs
+The exportation of teak and pine logs harvested from forest located in State lands or Forest reserves.
 - Margin: Proc. 57/1939.
 - Margin: Proc. 78/1939.
 - Margin: GN 32/1963.
+- Margin: LN 195/2014.
