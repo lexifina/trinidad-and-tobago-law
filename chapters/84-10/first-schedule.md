@@ -1,51 +1,26 @@
 # FIRST SCHEDULE
 TOWNS
 ST. JOSEPH … … St. Joseph bounded as follows:
-North and East-By the St. Joseph River. South-By the Eastern Main Road. West-By a straight line running from the
-culvert on the Eastern Main Road near the entrance to the old Railway Station in a northerly direction to the ford of the St. Joseph River on the road to Maracas nearest to the Town of St. Joseph.
-ARIMA … … The boundaries of the Borough of Arima shall be as
-defined from time to time under the Public Health Ordinance.
+North and East-By the St. Joseph River. South-By the Eastern Main Road. West-By a straight line running from the culvert on the Eastern Main Road near the entrance to the old Railway Station in a northerly direction to the ford of the St. Joseph River on the road to Maracas nearest to the Town of St. Joseph.
+ARIMA … … The boundaries of the Borough of Arima shall be
+as defined from time to time under the Public Health Ordinance.
 TUNAPUNA … … Tunapuna bounded as follows:
-North-Northern boundary of Chinab's
-land and a line running due East and West from that line.
-South-Old Railway line. East-Back Street (East) and a line running
-due North and South from that street.
-West-The boundary of the area formerly
-known as St. Joseph's Ward. PRINCES TOWN … Princes Town bounded as follows:
-North-By the southern boundary of the
-Malgretoute Estate from the point where it leaves the eastern boundary of the Cedar Hill Estate to the old Cipero Tram line, thence along the old Cipero Tram line to the Glenroy Estate boundary on the Naparima-Mayaro Road, thence along the southern boundary of the Glenroy Estate to the north-western corner of the Birken Hill Estate which now forms part of Buen Intento Estate.
-East-By the western boundary of the said Birken
-Hill Estate to the north-western corner of the Knolly's Recreation Ground, thence along the northern and eastern boundaries of Knolly's Recreation Ground and the southern boundary of the said Birken Hill Estate to the western boundary of the Craignish Estate and along the western boundary of the said Craignish Estate to the Naparima-Mayaro Road and along that road in a south-westerly direction to the western boundary of the Broomage Estate and along that boundary to where it meets the eastern boundary of the Lothians Estate, thence in a straight line running in a more or less south-westerly direction to the south-eastern corner of the Navette public burial ground.
-South-By the northern boundary of the Lothians
-Estate from the south-eastern corner of the Navette public burial ground to the south-eastern corner of the Cedar Hill Estate.
-West-By the eastern boundary of the Cedar Hill
-Estate from its south-eastern corner to the point where it meets the southern boundary of the Malgretoute Estate.
+North-Northern boundary of Chinab's land and a line running due East and West from that line.
+South-Old Railway line.
+East-Back Street (East) and a line running due North and South from that street. West-The boundary of the area formerly known as St. Joseph's Ward.
+PRINCES TOWN … Princes Town bounded as follows:
+North-By the southern boundary of the Malgretoute Estate from the point where it leaves the eastern boundary of the Cedar Hill Estate to the old Cipero Tram line, thence along the old Cipero Tram line to the Glenroy Estate boundary on the Naparima-Mayaro Road, thence along the southern boundary of the Glenroy Estate to the north-western corner of the Birken Hill Estate which now forms part of Buen Intento Estate. East-By the western boundary of the said Birken Hill Estate to the north-western corner of the Knolly's Recreation Ground, thence along the northern and eastern boundaries of Knolly's Recreation Ground and the southern boundary of the said Birken Hill Estate to the western boundary of the Craignish Estate and along the western boundary of the said Craignish Estate to the Naparima-Mayaro Road and along that road in a south-westerly direction to the western boundary of the Broomage Estate and along that boundary to where it meets the eastern boundary of the Lothians Estate, thence in a straight line running in a more or less south-westerly direction to the south-eastern corner of the Navette public burial ground. South-By the northern boundary of the Lothians Estate from the south-eastern corner of the Navette public burial ground to the south-eastern corner of the Cedar Hill Estate. West-By the eastern boundary of the Cedar Hill Estate from its south-eastern corner to the point where it meets the southern boundary of the Malgretoute Estate.
 COUVA … … Couva bounded as follows:
-North-By a line parallel to the Couva Main Road
-running from the Waterloo Road to the north-western corner of the Anglican Church Lands, then running along the northern boundary of the Anglican Church Lands to the north-eastern corner of the said lands, thence in a straight line to the north-western corner of the Glebe Lands, 2.5 hectares, thence in an easterly direction along the northern boundary of the Glebe Lands crossing Carlos Street to a point on the eastern boundary of an estate trace; thence in a northerly direction along the eastern boundary of the said trace to a point at its intersection with the southern boundary of the so called Perseverance-Exchange Road, thence easterly along the southern boundary of the said road to the junction of Exchange Road, thence in a general southerly direction along the western boundary of the said road to the north-eastern corner of the parcel of land now or formerly owned by H. L. Jobity, thence in a due East direction crossing the Exchange Road and the former Trinidad Government Railway line to a point on the western boundary of the Southern Main Road.
-East-By the Southern Main Road, Isaac Street
-and a due South line from the southern end of Isaac
+North-By a line parallel to the Couva Main Road running from the Waterloo Road to the north-western corner of the Anglican Church Lands, then running along the northern boundary of the Anglican Church Lands to the north-eastern corner of the said lands, thence in a straight line to the north-western corner of the Glebe Lands, 2.5 hectares, thence in an easterly direction along the northern boundary of the Glebe Lands crossing Carlos Street to a point on the eastern boundary of an estate trace; thence in a northerly direction along the eastern boundary of the said trace to a point at its intersection with the southern boundary of the so called Perseverance-Exchange Road, thence easterly along the southern boundary of the said road to the junction of Exchange Road, thence in a general southerly direction along the western boundary of the said road to the north-eastern corner of the parcel of land now or formerly owned by H. L. Jobity, thence in a due East direction crossing the Exchange Road and the former Trinidad Government Railway line to a point on the western boundary of the Southern Main Road. East-By the Southern Main Road, Isaac Street and a due South line from the southern end of Isaac
 Street to the Couva River.
-South-By a due West line running from the
-southern extremity of the eastern boundary on the Couva River to a point lying due South of the junction of the Couva River and Waterloo Roads.
-West-By the Waterloo Road and by a line running
-due South from the junction of this road with the Couva River Road to the western end of the southern boundary.
-SCARBOROUGH … Scarborough as defined from time to time under the
-Public Health Ordinance.
+South-By a due West line running from the southern extremity of the eastern boundary on the Couva River to a point lying due South of the junction of the Couva River and Waterloo Roads. West-By the Waterloo Road and by a line running due South from the junction of this road with the Couva River Road to the western end of the southern boundary.
+SCARBOROUGH … Scarborough as defined from time to time under
+the Public Health Ordinance.
 SANGRE GRANDE Sangre Grande bounded as follows:
-North-A line drawn from the north-eastern
-boundary of block of 6.2 hectares of land, the property of the heirs of C. F. Sellier, crossing the Warner or Cuare Road and running in a westerly direction along the northern boundary of the said block and the northern boundary of lands of Rampersad, Jeebodh and Sookaie to the Picton Trace.
-South-The Cunapo River. East-A line drawn from the Cunapo River along
-the eastern boundary of a four-hectare block of land formerly the property of A. Brooks, now of the heirs of C. F. Sellier crossing the Sangre Grande-Oropouche Road and along the eastern boundary of a 2.4-hectare block of land formerly the property of P. Ojoe, now of the heirs of C. F. Sellier and thence in a northerly direction to the northern boundary of the lands of J. Ojoe now F. Cumberbatch, thence in a westerly direction to the south-eastern corner of a 1.3-hectare block of land the property of the heirs of C. F. Sellier, thence running North along the eastern boundary of the said 1.3-hectare block of land and lands of M. Warner now of Philip Acham and lands of heirs of C. F. Sellier (6.2 hectares) to the north-eastern boundary of the said block of land.
-West-A line drawn along the Picton Trace to the
-Eastern Main Road, and thence in a straight line running South to the Cunapo River.
-MORVANT … … All that area of Morvant in the St. Ann's Ward in the
-County of St. George bounded by the perimeter of a circle the radius of which is 800 metres and of which the centre is located at a point 807 metres North and 71 metres East of the trigonometrical station numbered 653 and named "Success" in the records of the Lands and Surveys Department.
-AREA … … That portion of the Ward of St. Ann's in the County
-of St. George bounded as follows:
-By a line commencing at a point on Saddle Road,
-Port-of-Spain, at the junction of the northern boundary of the City of Port-of-Spain and the boundary between the Wards of St. Ann's and Diego Martin proceeding thence in a northerly direction along the last named boundary to the point of its intersection with the 92.5 kilometres east-west grid line of the Trinidad system of map co-ordinates; thence due West along the said 92.5 kilometres grid line to a point due North of the centre of the bridge known as Knightsbridge which crosses the Cascade River; thence due South to a point in the centre of the said bridge known as Knightsbridge; thence in a straight line to the most easterly point on the northern boundary of the City of Port-of-Spain situate about 107 metres North of Belmont Valley Road; thence in a westerly direction along the northern boundary of the City of Port-of-Spain to the point of commencement. The boundaries hereinbefore described are delineated and shown coloured blue on a plan numbered F.E. 23 and lodged for record in the office of the Director of Surveys at Government
-Buildings, Port-of-Spain.
+North-A line drawn from the north-eastern boundary of block of 6.2 hectares of land, the property of the heirs of C. F. Sellier, crossing the Warner or Cuare Road and running in a westerly direction along the northern boundary of the said block and the northern boundary of lands of Rampersad, Jeebodh and Sookaie to the Picton Trace. South-The Cunapo River. East-A line drawn from the Cunapo River along the eastern boundary of a four-hectare block of land formerly the property of A. Brooks, now of the heirs of C. F. Sellier crossing the Sangre Grande-Oropouche Road and along the eastern boundary of a 2.4-hectare block of land formerly the property of P. Ojoe, now of the heirs of C. F. Sellier and thence in a northerly direction to the northern boundary of the lands of J. Ojoe now F. Cumberbatch, thence in a westerly direction to the south-eastern corner of a 1.3-hectare block of land the property of the heirs of C. F. Sellier, thence running North along the eastern boundary of the said 1.3-hectare block of land and lands of M. Warner now of Philip Acham and lands of heirs of C. F. Sellier (6.2 hectares) to the north-eastern boundary of the said block of land. West-A line drawn along the Picton Trace to the Eastern Main Road, and thence in a straight line running South to the Cunapo River.
+MORVANT … … All that area of Morvant in the St. Ann's Ward in
+the County of St. George bounded by the perimeter of a circle the radius of which is 800 metres and of which the centre is located at a point 807 metres North and 71 metres East of the trigonometrical station numbered 653 and named "Success" in the records of the Lands and Surveys Department. AREA … … That portion of the Ward of St. Ann's in the County
+of St. George bounded as follows: By a line commencing at a point on Saddle Road, Port-of-Spain, at the junction of the northern boundary of the City of Port-of-Spain and the boundary between the Wards of St. Ann's and Diego Martin proceeding thence in a northerly direction along the last named boundary to the point of its intersection with the 92.5 kilometres east-west grid line of the Trinidad system of map co-ordinates; thence due West along the said 92.5 kilometres grid line to a point due North of the centre of the bridge known as Knightsbridge which crosses the Cascade River; thence due South to a point in the centre of the said bridge known as Knightsbridge; thence in a straight line to the most easterly point on the northern boundary of the City of Port-of-Spain situate about 107 metres North of Belmont Valley Road; thence in a westerly direction along the northern boundary of the City of Port-of-Spain to the point of commencement. The boundaries hereinbefore described are delineated and shown coloured blue on a plan numbered F.E. 23 and lodged for record in the office of the Director of Surveys at Government Buildings, Port-of-Spain.
 - Margin: Section 2. [6 of 1991].
-- Margin: Ch. 12 No. 4. (1950 Ed.).
-- Margin: Ch. 12 No. 4. (1950 Ed.).
+- Margin: Ch. 12. No. 4. (1950 Ed.).
+- Margin: Ch. 12. No. 4. (1950 Ed.).
