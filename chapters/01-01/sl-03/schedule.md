@@ -19,6 +19,7 @@ Chairman of the Committee;
 (f) two persons representative of the General Public appointed
 by the Prime Minister. Such appointment shall be for a period not exceeding three years but a person whose appointment so expires shall be eligible for reappointment.
 (2) The Committee shall have a Secretary who shall be appointed by the Prime Minister.
+Letters Patent establishing the Distinguished Society of Trinidad and Tobago
 7. A person is not a member or honorary member of the Society by reason only of his being a member of the Committee or an official for the Society.
 8. The Committee shall-
 (a) consider nominations of persons of merit who are citizens of
@@ -36,6 +37,7 @@ the Society referred to it by the President for consideration.
 (4) Only persons other than citizens of Trinidad and Tobago are eligible for the award of the Order of the Republic of Trinidad and Tobago, the Chaconia Medal or the Humming Bird Medal on an honorary basis.
 (5) Any distinguished citizen of a country other than Trinidad and Tobago whom Trinidad and Tobago desires to honour may be awarded the Order of the Republic of Trinidad and Tobago, the Chaconia Medal or the Humming Bird Medal on an honorary basis.
 (6) Awards of the Order of the Republic of Trinidad and Tobago, the Chaconia Medal and the Humming Bird Medal to persons other than citizens of Trinidad and Tobago shall be made on the advice of the Prime Minister.
+Letters Patent establishing the Distinguished Society of Trinidad and Tobago
 THE ORDER OF THE REPUBLIC OF TRINIDAD AND TOBAGO
 11. (1) The Order of the Republic of Trinidad and Tobago of the Society of the Trinity herein called the "Order of the Republic of Trinidad and Tobago" may be awarded in connection with the Society to any person who has rendered distinguished and outstanding service to Trinidad and Tobago.
 (2) The Order of the Republic of Trinidad and Tobago may be awarded posthumously but a deceased recipient does not become a member of the Society.
@@ -57,6 +59,7 @@ THE HUMMING BIRD MEDAL
 (4) The President may award the Humming Bird Medal for loyal and devoted service to a maximum of-
 (a) twenty persons in 1969;
 (b) fifteen persons in any year thereafter.
+Letters Patent establishing the Distinguished Society of Trinidad and Tobago
 MEDAL OF MERIT
 14. (1) The Public Service Medal of Merit of the Distinguished Society of Trinidad and Tobago herein referred to as the "Medal of Merit" may be awarded for outstanding and meritorious service in the Public Services, the Defence and Protective Services or service with Statutory Bodies performing national functions.
 (2) Only citizens of Trinidad and Tobago are eligible for the award of the Medal of Merit.
@@ -80,6 +83,7 @@ DESIGNATIONS
 occasions when the use of such letters is customary; and
 (b) wear as a decoration the insignia prescribed by the
 President for recipients of the Order of the Republic of Trinidad and Tobago.
+Letters Patent establishing the Distinguished Society of Trinidad and Tobago
 (2) A person to whom the Chaconia Medal is awarded is entitled to-
 (a) have the letters "C.M.T.T." placed after his name on all
 occasions when the use of such letters is customary; and

@@ -7,5 +7,5 @@ So help me God. Sworn/Declared before me this ... day of ..., 20...
 Judge of the High Court
 NOTE ON SECOND SCHEDULE
 Regulation 65 which dealt with the incurring of debts by a Police Officer has been revoked by LN 214/1990.
-[Subsidiary]
+Police Service Commission Regulations [Subsidiary]
 - Margin: Regulation 3(2).

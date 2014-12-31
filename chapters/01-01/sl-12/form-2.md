@@ -11,5 +11,6 @@ And
 Police Service Commission
 To: ...
 ...
+Police Service Commission (Appeal) Regulations
 - Margin: Regulation 5(9).
 - Margin: [Subsidiary]
