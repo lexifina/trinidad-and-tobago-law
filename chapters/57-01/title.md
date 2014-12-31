@@ -3,27 +3,10 @@ CHAPTER 57:01
 Act
 32 of 1918
 Amended by
-4 of 1921
-22 of 1926
-13 of 1938
-8 of 1950
-45 of 1979
-46 of 1979
-47 of 1980
-*24 of 1981
-†20 of 1986
-18 of 1994
-†15 of 2000
-74 of 2000
-10 of 2003
-†11 of 2003
-†9 of 2005
-†25 of 2005
-25 of 2006
-*See Note on Amendment at page 2
+18 of 1994 4 of 1921 †15 of 2000 22 of 1926 74 of 2000 13 of 1938 10 of 2003 8 of 1950 †11 of 2003 45 of 1979 †9 of 2005 46 of 1979 †25 of 2005 47 of 1980 25 of 2006 *24 of 1981 4 of 2014 †20 of 1986 *See Note on Amendment at page 2
 †See Notes at pages 2 and 3
 Index of Subsidiary Legislation
-Page State Lands (Fees) Regulations [Act No. 6 of 1993(s. 20)]… … … 24
+Page State Lands (Fees) Regulations [Act No. 6 of 1993 (s. 20)]… … … 24
 Note on Subsidiary Legislation
 A. 1. The State Lands (Search and Fees) Regulations (R.G. 17.5.34-1950 Ed. Vol. IX
 p. 236) have been omitted.
@@ -42,11 +25,11 @@ Note on Act No. 15 of 2000
 See Schedule to Act No. 15 of 2000 which has impliedly amended this Act.
 Note on Act No. 11 of 2003
 Section 4 of Act No. 11 of 2003 provides as follows:
-4. (1) A lease of State Lands that was registered under the Act after the 27th " Validation of certain leases day of October, 2000 but before the commencement of the State Lands registered under
-(Amendment) Act, 2003- the Act.
+4. (1) A lease of State Lands that was registered under the Act after the " Validation of
+27th day of October, 2000 but before the commencement of the State Lands certain leases registered under (Amendment) Act, 2003- the Act.
 (a) is valid and lawful to the extent that it would have been valid
-and lawful had the State Lands (Amendment) Act, 2000, not 74 of 2000. been enacted; and
-(b) shall continue to be treated with, in accordance with the Act,
+and lawful had the State Lands (Amendment) Act, 2000, not 74 of 2000.
+been enacted; and
 and such treatment shall be valid and lawful to the extent that it would have been had the State Lands (Amendment) Act, 2000, not been enacted.
 (2) Any act, omission, right, privilege, title, interest, duty, liability or
 proceeding arising out of a lease of State Lands that was registered under the Act after the 27th day of October, 2000 but before the commencement of the State Lands (Amendment) Act, 2003, is valid and lawful to the extent that it would have been valid and lawful had the State Lands (Amendment) Act, 2000, not been enacted. ".
@@ -62,7 +45,8 @@ Note on Act No. 25 of 2005
 See section 10 of Act No. 25 of 2005 which amends this Act by implication.
 CHAPTER 57:01
 STATE LANDS ACT
-ARRANGEMENT OF SECTIONS SECTION
+ARRANGEMENT OF SECTIONS
+SECTION
 1. Short title. 2. Interpretation. 3. Foreshore. 4. Powers of President over State Lands. 5. State Lands Commissioner. 6. Duties and powers of Commissioner.
 Care, letting and rents of lands.
 7. Deeds and instruments which may be executed by the
@@ -80,13 +64,14 @@ SQUATTING ON STATE LANDS
 REMOVAL OF MATERIAL FROM STATE LANDS
 25. Digging or removing material without licence. 26. Arrest without warrant. 27. Punishment for unlawful removal. 28. Form of licence. 29. No digging of material pending appeal. 30. Penalty. 31. Recognisance. 32. Forfeiture of recognisance.
 GENERAL
-33. Question of title. 34. Recovery of penalties. Informations. Summonses. Forms.
+33. Question of title. 34. Recovery of penalties.
+Informations. Summonses. Forms.
 SCHEDULE.
 
 CHAPTER 57:01
 STATE LANDS ACT
 An Act relating to State Lands.
 [18TH DECEMBER 1918]
-- Margin: 1950 Ed. Ch. 27 No. 5.
+- Margin: 1950 Ed. Ch. 27. No. 5.
 - Margin: 32 of 1918.
 - Margin: Commencement.
