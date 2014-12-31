@@ -190,7 +190,7 @@ audited by a duly appointed auditor, and shall be signed by the Chairman and not
 (f) the Exchange shall send copies of the signed
 accounts to every member of the Board, every member of the Stock Exchange, and the auditor.
 (3) (a) The Stock Exchange shall appoint an auditor who shall be a member in good standing of the Institute of Chartered Accountants of Trinidad and Tobago.
-(b) The auditor appointed under 104(3)(a) above shall have the right if requested by the Exchange to examine all books, accounts, stock registers and other records required to be kept by members pursuant to the Exchange's rules.
+(b) The auditor appointed under 104(3)(a) above shall have the right if requested by the Exchange to examine all books, accounts, stock registers and other records required to be kept by members pursuant to the Exchange's Rules.
 MINIMUM CAPITAL REQUIREMENTS,
 BOOKS AND RECORDS
 (1) A Broker shall maintain at all times a minimum net worth as defined in Exchange Rule 300 12(a) of one million dollars or such other amount as the Exchange may from time to time prescribe.
@@ -1064,7 +1064,7 @@ LIQUIDITY RETURNS
 - Margin: Definitions.
 - Margin: Ch. 81:01.
 - Margin: Ch. 81:03.
-- Margin: Rule 100, 100 (1).
+- Margin: Rule 100.
 - Margin: Rule 101.
 - Margin: Ch. 81:01.
 - Margin: Rule 102.
