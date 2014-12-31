@@ -17,7 +17,6 @@ ENDORSEMENT AFTER SERVICE
 This summons was served by ... personally on ...at ... on the ... day of ... , 20... , at ... o'clock of the ...noon.
 ...
 Bailiff/Plaintiff/Plaintiff's Agent.
-Petty Civil Courts Rules
 - Margin: (Default Summons).
 - Margin: Plaintiff,
 - Margin: Defendant.

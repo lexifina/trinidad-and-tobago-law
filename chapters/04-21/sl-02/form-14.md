@@ -14,6 +14,6 @@ Plaintiff's Instructing Attorney-at-law. To the Defendant, ... of ...
 ENDORSEMENT AFTER SERVICE
 This summons was served by ... personally on ... at ... on the... day of ... , 20... at ... o'clock of the ... noon.
 ...
-Bailiff.
+Bailiff
 - Margin: Rule 53.
 - Margin: [Subsidiary]

@@ -10,6 +10,5 @@ And it is further ordered that the defendant do pay the said sum of ($ ... for d
 ...
 Clerk of the Court.
 Dated this ... day of ... , 20...
-Petty Civil Courts Rules
 - Margin: Rule 66.
 - Margin: [Subsidiary]

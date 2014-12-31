@@ -13,6 +13,5 @@ No sum except the instalments aforesaid shall be payable to the Plaintiff in res
 And it is further ordered that the Defendant do pay the said sum of $ ...for costs to the Clerk of this Court by instalments of $ ... the first instalment to be paid ... days after the last instalment of the price is paid. If default is made in payment of any instalment on account of the unpaid balance of the hire-purchase price, execution may forthwith issue for the whole of the costs.
 Dated this ... day of ... , 20...
 ... Clerk of the Court
-Petty Civil Courts Rules
 - Margin: Rule 66.
 - Margin: [Subsidiary]

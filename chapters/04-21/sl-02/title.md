@@ -12,9 +12,7 @@ Vacant possession.
 may, by leave, appear.
 57. Time within which application may be made for transfer of action to
 High Court.
-58. Procedure on transfer. 59. Judgment when plaintiff's title has expired. 60. Warrant of possession. 61. Issue of warrant. 62. Warrant for possession of land, rent, etc. 63. Delivery of specific goods. 64. Statement of particulars in hire-purchase action. 65. Power of Court where guarantor not served. 66. Judgments for delivery of goods.
-Petty Civil Courts Rules
-RULE
+58. Procedure on transfer. 59. Judgment when plaintiff's title has expired. 60. Warrant of possession. 61. Issue of warrant. 62. Warrant for possession of land, rent, etc. 63. Delivery of specific goods. 64. Statement of particulars in hire-purchase action. 65. Power of Court where guarantor not served. 66. Judgments for delivery of goods. RULE
 67. Warrant for delivery of goods. 68. Forms of warrant of delivery.
 GENERAL
 69. Rules of High Court.

@@ -15,6 +15,5 @@ And it is further ordered that the plaintiff's title to the following goods be t
 Dated this ... day of ... , 20...
 ...
 Clerk of the Court.
-Petty Civil Courts Rules
 - Margin: Rule 66.
 - Margin: [Subsidiary]
