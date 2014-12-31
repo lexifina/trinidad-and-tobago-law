@@ -1,30 +1,26 @@
 # SECOND SCHEDULE
-The Income Tax Act
-Section
-No. Nature of Offence Penalty 119 Fraud $8,000.00 and imprisonment
-for three years
-The Corporation Tax Act Section 19 of this Act incorporates the following provision of the Income Tax Act to Corporation Tax Act.
-Section
-No. Nature of Offence Penalty 119 Fraud $8,000.00 and imprisonment
-for three years
-The Value Added Tax Act
-Section
-No. Nature of Offence Penalty 23 Unregistered person $30,000.00 and imprisonment
-recovering tax from person for two years supplied
-27(5) Unregistered person $15,000.00 and imprisonment
-displaying certificate of for one year registration
-29(6) Failure to return the $15,000.00 and imprisonment
-Certificate of Registration for one year after cancellation
-38 Failure to keep books and $15,000.00 and imprisonment
-records for one year
-56 Failure to comply with $15,000.00 and imprisonment
-requirement under Act or for one year provides false and misleading information
-The Copyright Act
-Section
-No. Penalty Nature of Offence 41 Infringement of copyright $100,000.00 and imprisonment
-for ten years
-- Margin: Section 2.
-- Margin: Ch. 75:01.
-- Margin: Ch. 75:02.
-- Margin: Ch. 75:06.
-- Margin: Ch. 82:80.
+CATEGORIES OF OFFENCES
+(1) Participation in an organised criminal group and racketeering;
+(2) Terrorism, including terrorist financing;
+(3) Trafficking in human beings, body parts and migrant smuggling;
+(4) Sexual exploitation including sexual exploitation of children;
+(5) Illicit trafficking in narcotic drugs and psychotropic substances;
+(6) Illicit arms trafficking;
+(7) Illicit trafficking in stolen and other goods;
+(8) Corruption and bribery;
+(9) Fraud;
+(10) Counterfeiting currency;
+(11) Intellectual property offences including counterfeiting and piracy
+of products;
+(12) Environmental crimes;
+(13) Murder, grievous bodily injury;
+(14) Kidnapping, illegal restraint and hostage-taking;
+(15) Robbery or theft;
+(16) Smuggling (including in relation to customs and excise duties
+and taxes);
+(17) Tax crimes (relating to direct taxes and indirect taxes);
+(18) Extortion;
+(19) Forgery;
+(20) Piracy; and
+(21) Insider trading and market manipulation.
+- Margin: Section 2. [15 of 2014].
