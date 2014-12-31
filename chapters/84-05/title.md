@@ -10,11 +10,13 @@ Amended by
 46 of 1979
 6 of 1993
 8 of 1996
+6 of 2014
 Note on Subsidiary Legislation
 This Chapter contains no subsidiary legislation.
 CHAPTER 84:05
 PAWNBROKERS ACT
-ARRANGEMENT OF SECTIONS SECTION
+ARRANGEMENT OF SECTIONS
+SECTION
 1. Short title. 2. Interpretation. 3. Definition of pawnbroker and pawning transactions. 4. Executors, etc., of pawnbrokers. 5. Agents, servants, and apprentices of pawnbrokers. 6. Assigns, executors, etc., or pawners. 7. Application of Act in respect of loans.
 GENERAL OBLIGATIONS OF PAWNBROKERS
 8. Pawnbrokers to keep books, etc., as in First Schedule. 9. Pawnbrokers to keep names over doors, and tables of rates, etc.,
@@ -35,13 +37,15 @@ themselves, etc.
 in certain cases.
 31. Search warrant for linen, etc., unlawfully pawned.
 LICENCES
-32. Yearly licence and Excise duty. 33. Cesser of licence on conviction. 34. Licences not to be granted without certificate. 35. Certificates to be granted by Magistrates. 36. Form and duration of certificate. 37. Notice of application. 38. Grounds of refusal of certificate. 39. Forgery of certificate. 40. Transfer of business to other premises.
+32. Yearly licence and Excise duty. 33. Cesser of licence on conviction. 34. Licences not to be granted without certificate. 35. Certificates to be granted by licensing committee. 36. Form and duration of certificate. 37. Notice of application.
+37A. Dispute resolution.
+38. Grounds of refusal of certificate. 39. Forgery of certificate. 40. Transfer of business to other premises.
 PENALTIES AND LEGAL PROCEEDINGS
 41. General penalty for offences. 42. Frivolous informations. 43. Common informers compounding informations. 44. Detention of persons offering forged pawn tickets, etc. 45. Pawnbrokers books subject to examination by Police. 46. Information to be given by Police to pawnbrokers of lost and
 stolen property. SECTION
 47. Right to enter and search pawnshops, etc. 48. Constable may arrest persons loitering about pawnshops under
 suspicious circumstances.
-49. Production of books, etc., before Magistrate. 50. Contracts not void on account of offences. 51. Appeal.
+49. Production of books, etc., before Magistrate. 50. Contracts not void on account of offences. 51. Appeals.
 FIRST SCHEDULE. SECOND SCHEDULE. THIRD SCHEDULE. FOURTH SCHEDULE.
 
 CHAPTER 84:05
