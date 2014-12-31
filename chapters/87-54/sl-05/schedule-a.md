@@ -2,18 +2,18 @@
 FORM OF STOCK ACCOUNT TO BE KEPT BY
 AUTHORISED METHYLATOR
 Methylated Spirits Made Delivery Account
-Marks Quantity sent out
+Quantity sent out Marks and
 No. and No. and
-and Nos. Litres of
-date of date of Date
-Litres of Litres Remarks of each Alcohol
+Nos. of Litres of
+Date date of date of
+Litres Remarks each Alcohol Litres of
 requisition permit
-Alcohol package
-Methylated Spirits Regulations [Subsidiary]
+package Alcohol
 FORM OF STOCK ACCOUNT TO BE KEPT BY PERSON
 AUTHORISED BY THE COMPTROLLER TO RECEIVE
 METHYLATED SPIRITS
-Marks and No. and No. and Quantity Quantity
+Marks and
+No. and No. and Quantity Quantity
 Nos. of Date
 date of date of received used Remarks
 packages used requisition permit (Litres) (Litres)

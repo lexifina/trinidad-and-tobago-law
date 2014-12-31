@@ -1,9 +1,0 @@
-# SCHEDULE B
-BOND TO BE GIVEN BY AUTHORISED METHYLATOR
-OR PERSON AUTHORISED BY THE COMPTROLLER TO
-RECEIVE METHYLATED SPIRITS
-Know All Men by these Presents that We ..., of ..., and ..., of ..., are held and firmly bound unto the State in the sum of ... dollars to be paid to the State, for which payment well and truly to be made we bind ourselves and each of us, our heirs, executors, administrators, and assigns, for and in the whole, and each of them, jointly and severally, by these presents.
-Dated this ... day of ...in the year of Our Lord two thousand and ... Whereas the above bounden ... is authorised to ... methylated spirits in accordance with the provisions of the Spirits and Spirit Compounds Act.
-Now the condition of this obligation is such that if the said ... shall pay all penalties incurred and all duties due to be paid by him in accordance with the provisions of the Act, and of any Regulations made thereunder, and shall duly observe each and every provision of the Act or of the Regulations made thereunder which is required to be observed by him, then this obligation shall be void, but otherwise shall be and remain in full force and virtue.
-Signed and delivered in the presence of ... [Subsidiary]
-- Margin: Regulation 15.
