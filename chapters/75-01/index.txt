@@ -62,6 +62,8 @@ s-44.md
 s-45.md
 s-45A.md
 s-45B.md
+s-45C.md
+s-45D.md
 s-46.md
 s-47.md
 s-48.md
