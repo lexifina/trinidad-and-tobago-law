@@ -13,16 +13,15 @@ ANOTHER FIELD Cu.ft. Name of vendor and/or Field
 (a)
 (b)
 (c)
-Total (Extend Total)
+Total Extend Total)
 Grand Total …
 ESTIMATED DISPOSAL OF NATURAL GAS Cu.ft. Gas converted to liquid at 30 Cu.ft.per imp. gallon Gas used as fuel Gas replaced in formation (Extend Total)
 GAS SOLD AND/OR TRANSFERRED TO
 ANOTHER FIELD Cu.ft. Name of purchaser and/or Field
 (a)
 (b)
-(c) (Extend Total) Estimated quantity of Natural Gas vented as surplus
-Grand Total … Total quantity of Natural Gas treated for liquid recovery Note: Gas quantities to be expressed to nearest 500,000 cu.ft.
-Date ... Signed ...
-Owner, Agent or Manager. * To include self-operated plunger lift. †To include Gas lift displacement pumping, and Plunger lift (except self-operated) but
-to exclude input gas used for lifting purposes. [Subsidiary]
-- Margin: (Regulation 30).
+(Extend Total) (c) Estimated quantity of Natural Gas vented as surplus
+Grand Total … Total quantity of Natural Gas treated for liquid recovery Note: Gas quantities to be expressed to nearest 500,000 cu.ft. Date ... Signed ...
+Owner, Agent or Manager * To include self-operated plunger lift. †To include Gas lift displacement pumping, and Plunger lift (except self-operated) but
+to exclude input gas used for lifting purposes.
+- Margin: Regulation 30.
