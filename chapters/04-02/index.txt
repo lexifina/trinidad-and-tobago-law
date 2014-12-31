@@ -18,6 +18,5 @@ s-16.md
 s-17.md
 s-18.md
 s-19.md
-first-schedule.md
 appendix-i.md
 second-schedule.md
