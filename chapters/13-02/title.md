@@ -3,10 +3,17 @@ CHAPTER 13:02
 Act
 32 of 1965
 Amended by
-125/1966 86/1987
-267/1971 87/1987
-219/1973 17 of 2000 136/1976 120/2005
-17 of 2007 177/1976 *30 of 2007 206/1976 *23 of 2008 206/1977 *1 of 2009 45 of 1979 *13 of 2010 65/1980 *2 of 2012 20/1983
+125/1966 87/1987 267/1971 17 of 2000 219/1973 120/2005 136/1976
+17 of 2007
+177/1976
+*30 of 2007
+206/1976
+*23 of 2008
+206/1977
+*1 of 2009
+45 of 1979
+*13 of 2010 65/1980 *2 of 2012 20/1983
+86/1987 288/2014
 *See Note on page 2
 Index of Subsidiary Legislation
 Page Prison Service (Code of Conduct) Regulations (LN 79/1990) … … 35 N.B. For other Regulations relating to the Prison Service, see the Public Service Commission
