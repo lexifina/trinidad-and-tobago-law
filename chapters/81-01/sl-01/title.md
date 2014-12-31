@@ -20,6 +20,8 @@ PROXIES AND CIRCULARS
 PART VI
 FINANCIAL DISCLOSURE
 11. Standard of financial statements. 12. Content of financial statement.
+ARRANGEMENT OF REGULATIONS-Continued
+REGULATION
 PART VII
 APPLICATIONS FOR EXEMPTIONS
 13. Application form. 14. Application deadline. 15. Grant or refusal of exemption. 16. Power to request further information.
@@ -31,4 +33,4 @@ COMPANIES REGULATIONS
 made under section 507
 PART I
 PRELIMINARY
-- Margin: 69/1997. [13/2007].
+- Margin: 69/1997. [13/2007 *37/2013].

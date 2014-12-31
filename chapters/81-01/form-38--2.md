@@ -5,15 +5,16 @@ PARTICULARS OF DIRECTORS OF A COMPANY
 INCORPORATED OUTSIDE TRINIDAD AND TOBAGO
 Name of Company... Presented by ... Return of Alteration in the List or Particulars of Directors (a) of ... a Company incorporated in
 (b)...and which has established a place of business in Trinidad and Tobago at (c)...
-Other Nationality The Nationality of Usual Any former Changes
-Residential given/ business present origin (if (if any) Address. Christian
-occupation or given/ another than (f)
-Name or Directorships
-Christian the present
+Other The
+Any former business present Nationality of
+given/ occupation or
+given/ origin (if Changes Usual
+Christian
+Directorships Nationality Christian another than Residential (if any)
+Name or
+Address. (if any) If Name or the present (f)
 Names or
-(if any) If Name or Nationality).
-Surname.
-none state so Names and
+none state so Names and Nationality). Surname.
 (e). Surname (d).
 }
 Signature of the persons authorised under the Companies Act, or of some other person in Trinidad and Tobago duly authorised by the Company. Dated the ... day of ...20...

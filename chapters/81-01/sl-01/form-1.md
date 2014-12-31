@@ -11,13 +11,16 @@ Company is authorised to issue ... 5. Restrictions, if any, on share transfers o
 ... 6. Variation of Pre-emptive Rights
 ... 7. Restrictions, if any, on powers of directors to amend Bye-laws
 ... 8. Number (or minimum and maximum number) of Directors
-...
-9. Restrictions, if any, on business the Company may carry on
-... 10. Other provisions, if any
-... 11. Incorporators
+... 9. Number of intended employees
+... 10. Main area of business activity
+... 11. Restrictions, if any, on business the Company may carry on
+... 12. Other provisions, if any
+... 13. Incorporators
 Names and Occupations Addresses Signatures
 ...
-12. Date ...
+STATEMENT
+I/We ... of ... do state as true and correct that none of the signatories to the Articles of Incorporation herein is an individual who is so described in section 8(2) of the Companies Act, Chap. 81:01 and that all the requirements precedent to the formation and incorporation of a company under the Act have been complied with. Dated this ... day of ... 20...
+Signature ...
 FORM 1-Continued
 INSTRUCTIONS
 Format
@@ -40,8 +43,12 @@ If the power of the directors to make, amend or repeal the Bye-laws under sectio
 Item 8
 State the number of directors. If cumulative voting is permitted, the number of directors must be invariable, otherwise it is permissible to specify a minimum and maximum number of directors.
 Item 9
-If restrictions are to be placed on the business the company may carry on, set out the restrictions.
+State the number of persons that the company intends to employ.
 Item 10
+Identify the main area of business activity the company will engage in upon incorporation.
+Item 11
+If restrictions are to be placed on the business the company may carry on, set out the restrictions.
+Item 12
 Insert any provision which may be included in the articles. If the company is limited by guarantee, state-
 (a) that each member undertakes to contribute to the assets of the
 company in the event of its being wound up while he is a member, or within one year after he ceases to be a member, for payment of the debts and liabilities of the company contracted before he ceases to be a member, and of the costs, charges and expenses of winding up, and for adjustment of the rights of the contributories among themselves, such amount as may be required, not exceeding a specified amount; and
@@ -62,13 +69,13 @@ FORM 1-Continued
 (j) section 128-re voting on a show of hands or on a ballot;
 (k) section 130-re voting of shares held by joint shareholders;
 (l) section 131-re method of voting at meetings of shareholders;
-(m) section 216-re right of shareholders of a class to vote separately
-on certain proposed amendments to the articles;
+(m) section 216-re right of shareholders of a class to vote separately on
+certain proposed amendments to the articles;
 (n) section 314-re transferability of member's interest in a non-profit
 company; and
 (o) section 426-re distribution of property of company on voluntary
 winding up.
-Item 11
+Item 13
 Each incorporator must state his full name (no abbreviations), occupation (if a director of another company, state name of that company) and address and affix his signature. If an incorporator is a company, the address shall be that of the company, and the Articles shall be signed by a person authorised by the company.
 Other Documents
 The Articles must be accompanied by:
@@ -77,4 +84,6 @@ The Articles must be accompanied by:
 (c) Request for Name Search and Name Reservation (Form 25) as
 approved by the Registrar.
 Completed documents, in duplicate, and the prescribed fees are to be filed at the office of the Registrar and one set of the duplicated originals would be returned to the company or its representative with the endorsement "Registered" and the date of registration.
+Signature
+An incorporator may solely sign the form. Alternatively, an incorporator and any other person as identified in section 9(2B) of the Act shall sign the form.
 - Margin: Section 9.

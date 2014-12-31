@@ -14,8 +14,7 @@ FORM 55-Continued
 ...
 for which sum or any part thereof I say that I have not nor hath (e) ... or any person by (f) ... order to my knowledge or belief for (f) ...
 use, had or received any manner of satisfaction or security whatsoever, save and except the following (g).
-Date Drawer Amount Due date Acceptor
-Admitted to vote for $ ... the ... day of ... 20... Official Receiver or Liquidator. Admitted to rank for dividend for $... this ...day of ... 20... Official Receiver or Liquidator.
+Drawer Amount Due date Acceptor Date Admitted to vote for $ ... the ... day of ... 20... Official Receiver or Liquidator. Admitted to rank for dividend for $... this ...day of ... 20... Official Receiver or Liquidator.
 Sworn at ... this ... day of ... 20...
 Deponent's Signature ...
 Before me ...
@@ -30,7 +29,7 @@ PROOF OF DEBT/GENERAL FORM-Continued
 N.B.- Bills of Exchange or other negotiable securities must be produced before the proof can be admitted. NOTE: The proof cannot be admitted for voting at the first meeting unless it is properly completed and lodged with the Official Receiver before the time named in the notice convening the meeting.
 Particulars of Account referred to on the other side
 (Credit should be given for Contra Accounts)
-Remarks Consideration Amount Date
-The vouchers (if any) by which the account can be substantiated should be set out here.
+Remarks
+The vouchers (if any) by which the account Consideration Amount Date can be substantiated should be set out here.
 }
 Deponent's Signature... Signature of Commissioner or Officer administering oath ...

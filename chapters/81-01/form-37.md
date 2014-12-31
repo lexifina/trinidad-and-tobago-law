@@ -9,21 +9,28 @@ State here "number of shares" or "extent of interest".
 stated therein, and of the amount called up and the amount paid up in respect of such shares [or interest] and of the day appointed for finally settling the said list. Dated this ... day of ... 20... In the Matter of ... Limited
 THE FIRST SCHEDULE ABOVE REFERRED TO
 FIRST PART-CONTRIBUTORIES IN THEIR OWN RIGHT
-Name Address Description Number of Shares Serial Date when Amount called Amount paid up
-[or extent of
-No. included in the up at date of at date of
-Interest]
-commencement commencement List of winding up of winding up
+Amount called Amount paid up Number of Shares Date when Serial up at date of at date of [or extent of
+Name Address Description included in the
+commencement commencement No.
+Interest] List
+of winding up of winding up
 In the Matter of ...Limited
 SECOND PART - CONTRIBUTORIES AS BEING REPRESENTATIVE OF,
 OR LIABLE TO THE DEBTS OF, OTHERS
-Name Description In what Address
-Number of Serial Date when Amount paid Amount
-character up at date of Shares [or No. called up at included in
-commencement date of extent of included the List of winding up commencement Interest]
+Number of
+In what Date when Amount Amount paid
+Shares [or Serial called up at
+included in up at date of character Name Description Address
+extent of No. date of
+commencement the List
+included Interest] commencement
+of winding up
 of winding up
 In the Matter of ... Limited.
 THE SECOND SCHEDULE ABOVE REFERRED TO
-Name Address Description
-In what Number of Date when Serial
-Shares [or No. character excluded from extent of in List proposed to be the List Interest] included
+In what Number of
+Date when Serial
+character Shares [or
+No. excluded from Name Address Description
+proposed to be extent of in List the List
+Interest] included

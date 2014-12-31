@@ -4,10 +4,12 @@ GENERAL PROXY
 (Title same as Form 2)
 I/WE, ... of ... a creditor [or contributory], hereby appoint *... to be my/our general proxy to vote at the Meeting of Creditors [or Contributories] to be held in the above matter on the ... day of ... 20..., or at any adjournment thereof.
 Dated this ... day of ... 20...
-FORM 74 -Continued
-Signed† ... (* The person appointed general proxy may be the Official Receiver, the Liquidator, or such
+Signed† ... * The person appointed general proxy may be the Official Receiver, the Liquidator, or such
 other person as the creditor [or contributory] may approve, and the proxy form when signed must be lodged by the time and at the address named for that purpose in the notice convening the meeting at which it is to be used. † If a firm, sign the firm's trading title, and add "by A.B., a partner in the said firm". If the
-appointor is a corporation, then the Form of Proxy must be under its Common Seal or under the hand of some officer duly authorised in that behalf, and the fact that the officer is so authorised must be stated thus: For the ... Company.
+appointor is a corporation, then the Form of Proxy must be under its Common Seal or under
+FORM 74-Continued
+the hand of some officer duly authorised in that behalf, and the fact that the officer is so authorised must be stated thus:
+For the ... Company.
 ... (duly authorised under the seal of the Company).
 Signature
 Certificate to be signed by person other than

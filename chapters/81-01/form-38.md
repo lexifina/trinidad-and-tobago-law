@@ -8,7 +8,11 @@ Any application by you to vary the said list of contributories, or that your nam
 The said list may be inspected by you at the office of the Registrar of the Supreme Court on any day between the hours of ... and ... Dated this ... day of ... 20... Signed ...
 (Liquidator) To: Mr...
 [or to Mr... (his Attorney-at-law)]
-Address Name Description
-In what Number of Amount Amount paid No.
-Shares [or in Character called up at date up at date of extent of List included of commencement Interest] commencement of winding up
+Amount
+Number of Amount paid
+No. called up at date In what
+Shares [or up at date of
+in of Address Character Name Description
+extent of commencement List commencement included
+Interest] of winding up
 of winding up

@@ -1,11 +1,10 @@
 COMPANIES ACT
 CHAPTER 81:01
 Act
-35 of 1995
-Amended by
-5 of 1997
-6 of 1999
+35 of 1995 Amended by
+5 of 1997 6 of 1999
 *12 of 2003
+2 of 2012 2 of 2013
 *See Note on page 2
 Index of Subsidiary Legislation
 Page Companies Regulations (LN 69/1997) … … … 507
@@ -307,12 +306,13 @@ DIVISION 3-REGULATIONS
 ARRANGEMENT OF SECTIONS-Continued
 SECTION
 DIVISION 4-OFFENCES AND PENALTIES
-508. Name offence. 509. Abuse of corporate status. 510. Reports. 511. Specific offences. 512. Company offences. 513. General offence. 514. Order to comply. 515. Limitation. 516. Penalty for late filing.
+508. Name offence. 509. Abuse of corporate status. 510. Reports. 511. Specific offences. 512. Company offences. 513. General offence. 514. Order to comply. 515. Limitation. 516. Penalty for late filing. 516A. Waiver of penalties.
 517. Civil remedies unaffected. 517A. Criminal proceedings against firms.
 DIVISION 5-INCIDENTAL AND CONSEQUENTIAL MATTERS
 518. Repeal. 519. References to Companies Act. 520. Transitional. 521. (Repealed by Act No. 5 of 1997). 522. Security for costs. 523. Power of Court to grant relief in certain cases. 524. Saving for privileged communications.
-FIRST SCHEDULE. (Rules of Procedure on Applications under the Act). SECOND SCHEDULE. (Rules with respect to the Winding Up of
-Companies). THIRD SCHEDULE. (Rules in regard to Certified Copies, etc. required
+FIRST SCHEDULE.-(Rules of Procedure on Applications under the
+Act). SECOND SCHEDULE.-(Rules with respect to the Winding Up of
+Companies). THIRD SCHEDULE.-(Rules in regard to Certified Copies, etc. required
 under the Act and as to General Forms).
 
 CHAPTER 81:01

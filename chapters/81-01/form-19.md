@@ -80,50 +80,62 @@ UNSECURED CREDITORS
 The names to be arranged in alphabetical order and numbered consecutively, Creditors for $48 and upwards being placed first. NOTES-1. When there is a contra account against the creditor, less than the amount of his claim against the Company, the amount of the creditor's claim and the amount of the contra account should be shown in the third column, and the balance only be inserted under the heading 'Amount of Debt', thus: Total amount of claim ...$ Less: Contra account...$ No such set-off should be included in List 'I'.
 2. The particulars of any bills of exchange and promissory notes held by a creditor should be inserted immediately below the name and address of such creditor.
 3. The names of any creditors who are also contributories, or alleged to be contributories, of the Company must be shown separately, and described as such at the end of the List.
-Date when contracted
-Consideration No. Address and Amount of Name
+Address and Amount of Date when contracted
+No. Name Consideration
 Occupation Debt
 Month Year
 Signature ... Dated ... 20...
 LIST 'B'
 CREDITORS FULLY SECURED (NOT INCLUDING
 DEBENTURE HOLDERS)
-No. Address and Amount of Date when Estimated Name of Particulars Date when Consider-
-value of of Security given ation Occupation Debt contracted Creditor Security
+Date when Estimated
+Particulars Date when Address and Amount of Consider- Name of
+contracted No. value of
+of Security given ation Occupation Debt Creditor
+Security
 Month Year
 Signature ... Dated ... 20...
 LIST 'C'
 CREDITORS PARTLY SECURED
 (State whether also Contributories of the Company)
-No. Address and Amount of Date when Estimated Name of Particulars Month and Consider-
-value of of Security Year when ation Occupation Debt contracted Creditor Security given
+Date when Estimated
+Month and Address and Amount of
+Name of Particulars Consider-
+contracted No. value of Year when
+of Security ation Occupation Debt Creditor
+Security given
 Month Year
 Signature ... Dated ... 20...
 LIST 'D'
 LIABILITIES OF COMPANY ON BILLS DISCOUNTED OTHER
 THAN THEIR OWN ACCEPTANCE FOR VALUE
-No. Acceptor's name, Address Whether liable as Holder's Name,
-Address and Amount and Occupation Drawer or Indorser Date when due Occupation (if Known)
+Holder's Name,
+Acceptor's name, Address Whether liable as Address and No.
+Amount Date when due
+Occupation and Occupation Drawer or Indorser (if Known)
 Signature ... Dated ... 20...
 LIST 'E'
 OTHER LIABILITIES
 FULL PARTICULARS OF ALL LIABILITIES NOT OTHERWISE
 SCHEDULED TO BE GIVEN HERE
-Name of Address and No. Amount of Date when Nature of Consider- Amount expected to rank
-Liability or Liability Liability ation against Assets for dividend Creditor or Occupation
-Claim incurred Claimant
+Name of Amount of Date when Address and
+Nature of Consider- Amount expected to rank No. Creditor or Liability or Liability
+Occupation Liability ation against Assets for dividend
+Claimant Claim incurred
 Signature ... Dated ... 20...
 LIST 'F'
 PREFERENTIAL CREDITORS FOR RATES, TAXES, SALARIES,
 WAGES AND OTHERWISE
-No. Nature of Period during Difference Address and Name of Amount of Amount Date when
-ranking for Claim payable in due Claim which claim Occupation Creditor Dividend full
-accrued due
+Period during Difference Amount
+Nature of Address and Name of Amount of Date when No. ranking for which claim payable in
+Claim due Claim Occupation Creditor
+Dividend full accrued due
 Signature ... Dated ... 20...
 LIST 'G'
 LIST OF DEBENTURE HOLDERS
 The names to be arranged in alphabetical order and numbered consecutively. Separate Lists must be furnished of holders of each issue of Debentures, should more than one issue have been made.
-Address No. Name of Amounts Description of Assets over which
+Name of Description of Assets over which
+Address No. Amounts
 Holder security extends
 Signature ... Dated ... 20...
 LIST 'H'
@@ -144,49 +156,55 @@ LIST 'I'
 DEBTS DUE TO THE COMPANY
 The names to be arranged in alphabetical order, and numbered consecutively
 NOTE: If any debtor to the Company is also a Creditor, but for a less amount than his indebtedness, the gross amount due to the Company and the amount of the Contra Account should be shown on the 3rd column, and the balance only be inserted under the heading "Amount of Debt", thus: Due to Company ...$ Less: Contra account ...$ No such claim should be included in sheet 'A'
-No. Name Residence and Amount When Estimated Particulars Folio of
-of Ledger or
-Occupation Contracted to of any
-Debt
-other book produce Securities
-where
-held for
+Folio of Particulars Ledger or Estimated
+of any When Amount
+Residence and other book
+to of No. Name Securities Contracted
+where Occupation Debt
+produce held for
 Particulars to
-Debt
-be found
+Debt be found
 Month Year Good Doubtful Bad
 Signature ... Dated ... 20...
 LIST 'J'
 BILLS OF EXCHANGE, PROMISSORY NOTES, ETC., ON
 HAND AVAILABLE AS ASSETS
-Name of Address, etc. Amount Date when Estimated to No. Particulars of any
-of due
-Acceptor produce Property held as
+Name of Particulars of any
+Amount Date when Estimated to
+Acceptor Property held as
+of No. Address, etc.
+due produce of Bill or security for Payment
 Bill or Note
-of Bill or security for Payment
 Note of Bill or Note
 Signature ... Dated ... 20...
 LIST 'K'
 UNPAID CALLS
-Consecu- No. in Name of Shareholder Address and Amount of Total amount Estimated to No. of Shares
-Calls per due tive No. Share Occupation held Share Register unpaid
+Amount of
+No. in
+Address and Calls per Consecu- Total amount Estimated to No. of Shares
+Name of Shareholder Share
+Share due Occupation held tive No.
+Register unpaid
 Signature ... Dated ... 20...
 LIST 'L'
 LIST OF FOUNDERS' SHARES
-Address Consecu- Register No. of Nominal Name of Shareholder
-Shares held amount of tive No. No.
+Nominal Consecu- Register No. of
+Address Name of Shareholder amount of
+Shares held tive No. No.
 Share
 Signature ... Dated ... 20...
 LIST 'M'
 LIST OF ORDINARY SHARES
-Address Consecu- Register No. of Nominal Name of Shareholder
-Shares held amount of tive No. No.
+Nominal Consecu- Register No. of
+amount of Name of Shareholder Address
+Shares held tive No. No.
 Share
 Signature ... Dated ... 20...
 LIST 'N'
 LIST OF PREFERENCE SHARES
-Address Consecu- Register No. of Nominal Name of Shareholder
-Shares held amount of tive No. No.
+Nominal Consecu- Register No. of
+Address amount of Name of Shareholder
+Shares held tive No. No.
 Share
 Signature ... Dated ... 20...
 LIST 'O'. (i)
