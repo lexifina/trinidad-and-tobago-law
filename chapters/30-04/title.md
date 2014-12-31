@@ -2,10 +2,11 @@ TOBACCO CONTROL ACT
 CHAPTER 30:04
 Act
 15 of 2009
-Note on Subsidiary Legislation
-This Chapter contains no subsidiary legislation.
+Index of Subsidiary Legislation
+Page Tobacco Control Regulations (LN 6/2014). These Regulations shall come into
+effect on 10th January 2015 ... 26
 Note on Commencement-Section 2
-This Act was only partially proclaimed at the date of the revision of the laws i.e. January 2012 (See LN 24/2010).
+The various sections of this Act came into operation on 17th February 2010 (See LN 24/2010) and 5th August 2013 (See LN 154/2013).
 CHAPTER 30:04
 TOBACCO CONTROL ACT
 ARRANGEMENT OF SECTIONS
