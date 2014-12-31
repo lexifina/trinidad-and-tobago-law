@@ -1,4 +1,0 @@
-PETROLEUM (ROYALTIES)
-(ONSHORE CRUDE OIL) REGULATIONS
-made under section 29(1)(n)
-- Margin: 173/1999.

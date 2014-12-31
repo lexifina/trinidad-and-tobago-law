@@ -249,7 +249,6 @@ sl-07/schedule.md
 sl-08/title.md
 sl-08/r-1.md
 sl-08/r-2.md
-sl-08/r-3.md
 sl-09/title.md
 sl-09/r-1.md
 sl-09/r-2.md
@@ -259,9 +258,6 @@ sl-09/r-5.md
 sl-09/r-6.md
 sl-09/r-7.md
 sl-09/r-8.md
-sl-10/title.md
 sl-10/r-1.md
 sl-10/r-2.md
-sl-11/r-1.md
-sl-11/r-2.md
-sl-11/schedule.md
+sl-10/schedule.md
