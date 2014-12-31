@@ -1,3 +1,3 @@
-EXCISE DUTY (EDIBLE OIL) ORDER
+EXCISE DUTY (ALCOHOLIC BEVERAGES) ORDER
 made under section 13(2)
-- Margin: *9/1989.
+- Margin: *178/2009.
