@@ -50,7 +50,7 @@ L.P.G... 6.304 7.250
 Petroleum Product Trinidad and Tobago cents per pound
 Exclusive Inclusive of VAT of VAT
 L.P.G... 91.304 105.000
-*This Schedule was further amended by 200/1979; 117/1980; 5/1982; 144/1982; 1/1983; 3/1984;
+*This Schedule was further amended by 200/1979; 117/1980; 5/1982, 144/1982; 1/1983; 3/1984;
 - Margin: 109/1976. [173/1979 200/1979 201/1979 52/1981 22/1982 8/1984 178/1992]. Interpretation.
 - Margin: Ch. 81:01.
 - Margin: Ch. 62:02.

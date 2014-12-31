@@ -3,24 +3,16 @@ CHAPTER 62:01
 Act
 46 of 1969
 Amended by
-4 of 1970
-16 of 1974
-38 of 1974
-34 of 1975
-27 of 1976
-9 of 1979
-45 of 1979
-47 of 1980
-29 of 1988
-14 of 1990
-34 of 1995
-8 of 1996
+4 of 1970 29 of 1988 16 of 1974 14 of 1990 38 of 1974
+34 of 1995 34 of 1975
+8 of 1996 27 of 1976
 79 of 2000
-13 of 2010
+9 of 1979
+13 of 2010 45 of 1979 47 of 1980 4 of 2014
 Index of Subsidiary Legislation
 Page
-Petroleum Regulations (GN 5/1970) ... 30 Price of Petroleum Products Order (GN 110/1974) … … … 72 Petroleum (Protection Against Fire) Regulations (GN 83/1960)… … 80 Oil Tanks Regulations (GN 19/1949) ... 82 Petroleum (Testing, Storage, etc.) Regulations (GN 99/1946) … … 102 Petroleum (Compressed Natural Gas) Regulations (LN 196/1994) … 125 Petroleum (Prescribed Form) Regulations (LN 100/1989) … … 150 Price of Compressed Natural Gas Order (LN 169/2008) … … 154 Petroleum (Pollution Compensation) Regulations (LN 134/1997) … 155 Petroleum (Royalties) (Onshore Crude Oil) Regulations (LN 173/1999) … 158 Petroleum (Form for Objection to Issue of Licences for Petroleum Operations)
-Order (LN 160/1992) ... 159
+Petroleum Regulations (GN 5/1970) ... 30 Price of Petroleum Products Order (GN 110/1974) … … … 72 Petroleum (Protection Against Fire) Regulations (GN 83/1960)… … 80 Oil Tanks Regulations (GN 19/1949) ... 82 Petroleum (Testing, Storage, etc.) Regulations (GN 99/1946) … … 102 Petroleum (Compressed Natural Gas) Regulations (LN 196/1994) … 125 Petroleum (Prescribed Form) Regulations (LN 100/1989) … … 150 Price of Compressed Natural Gas Order (LN 294/2014 ) … … 154 Petroleum (Pollution Compensation) Regulations (LN 134/1997) … 155 Petroleum (Form for Objection to the Issue of Licences for Petroleum Operations)
+Order (LN 160/1992) ... 158
 Note on Subsidiary Legislation
 The following Subsidiary Legislation have been omitted:
 (a) Notices of Application for Licences made under section 7 of the Act;
@@ -51,7 +43,7 @@ LICENCES
 6. Licences. 7. Applications for licences. 8. Objections to licences. 9. Grant of licences. 10. Competitive bidding. 11. Certain conditions to be included in licences. 12. Conditions as to furnishing returns. 13. Special restrictions on grant of licences. 14. Exploration Licence confers non-exclusive rights. 15. Rights under an exploration and production licence. 16. Duty of licensee to deliver up facilities upon determination of
 licence.
 DEFAULT AND DISPUTES
-17. Failure to fulfil obligations, etc., consequences of. 18. Arbitration in certain cases of revocation of licences. 19. Force majeure-Effect of. 20. General provision as to arbitration of differences. 21. Conduct of arbitration. SECTION
+17. Consequences of failure to fulfil obligations, etc. 18. Arbitration in certain cases of revocation of licences. 19. Effect of force majeure. 20. General provision as to arbitration of differences. 21. Conduct of arbitration. SECTION
 22. Cesser of operations during arbitration.
 NON-RESIDENT COMPANIES
 23. Licensing of non-resident companies. 24. Service of documents.
