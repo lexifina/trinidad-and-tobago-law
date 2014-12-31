@@ -112,7 +112,7 @@ Station compound (Appendix X); Any false statement may put the application or an
 (k) Application for inspection documents (Appendix XI);
 (l) Monthly returns (Appendix XII);
 An authorised Proprietor is required to record in this Return particulars of all tests carried out at the Testing Station. The record must indicate whether the vehicle satisfies the requirement of an inspector, or otherwise. The register must be kept at the Testing Station for at least twenty-four (24) months and a copy of the register must be forwarded to the Licensing Authority within seven (7) days after the end of the month to which it refers. It must be accompanied with the duplicate copies of certificates of inspection for the period.
-(m) Complaint/Grievance Notice (Appendix XIII).
+(m) Complaint/Grievance Notice (Appendix XIII);
 This form is to be used by anyone who wishes to record a complaint or grievance, and must be sent to the Licensing Authority within seven (7) days of the incident. The forms must be held at the Testing Station and a poster (Appendix XIV) detailing the appeal procedure must be displayed where it can be read by members of the public. Certificates of Inspection
 9. (a) Certificates of Inspection Book(s) shall be issued only on receipt of a requisition together with the appropriate fee.
 (b) A certificate of inspection must be completed in triplicate on the same day of the test. The certificate must always be signed by the person who carried out the test and embossed with the Testing Station Seal. The duplicate copy must accompany the Monthly Return.

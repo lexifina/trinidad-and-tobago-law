@@ -14,7 +14,7 @@ Reminder Notice
 This permit is valid for three years only from the date of First Issue or Anniversary Date of Renewal. Restriction
 Nil
 Class Transaction Code
-A.-First Issue (1) Motorcycles
+(1) Motorcycles A.-First Issue
 (2) Wheel tractors
 B.-Renewal (3) Light motor vehicles
 (4) Heavy motor vehicles

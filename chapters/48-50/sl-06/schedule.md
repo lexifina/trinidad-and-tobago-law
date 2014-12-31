@@ -13,7 +13,7 @@ Tabaquite Road and extending for a distance of 75 metres
 COUNTY OF NARIVA-Continued
 Road Side of Road 2. Naparima-Mayaro Road from its junction with Rio Claro- Northern
 Tabaquite Road and extending for a distance of 20 metres 3. Rio Claro-Tabaquite Road from a point 100 metres from its Eastern
-junction with Naparima-Mayaro Road and extending in a northerly direction for a distance of 150 metres
+junction with Naparima-Mayaro Road and extending in a northerly direction for a distance of 150 metres.
 PART D
 COUNTY OF ST. ANDREW
 Road Side of Road 1. Ojoe Road from its junction with the Main Road at the Eastern
@@ -28,7 +28,7 @@ COUNTY OF ST. GEORGE EAST
 Road Side of Road 1. Riverside Road between the Eastern Main Road and Gordon Eastern
 Street 2. Eastern Main Road between Orange Grove Road and Southern
 Dinsley Junction 3. Hollis Avenue between John Shaw Avenue and King Street, Northern
-Arima
+Arima 4. Freeling Street, between Wells Street and Sheriff Street Western
 PART G
 COUNTY OF ST. GEORGE WEST
 Road Side of Road

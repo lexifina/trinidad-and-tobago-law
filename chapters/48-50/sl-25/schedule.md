@@ -57,9 +57,12 @@ the southern side of Independence Square North, between Chacon Street and Abercr
 (o) the Tunapuna/Curepe route may park on the
 southern side of Independence Square North from five metres East of Broadway to five metres West of Henry Street;
 (p) the Arima/Sangre Grande route may park facing
-a south-westerly direction on the northern side of Independence Square South from a point five metres West of Henry Street to a point five metres West of Broadway; and
+a south-westerly direction on the northern side of Independence Square South from a point five metres West of Henry Street to a point five metres West of Broadway;
 (q) from the Marine Square taxi stand may park
-facing East on the south-western section of Cipriani Circle and on the northern side of Independence Square South, between Cipriani Circle and Chacon Street.
+facing East on the south-western section of
+Cipriani Circle and on the northern side of Independence Square South, between Cipriani Circle and Chacon Street; and
+(r) the Laventille Road/Port-of-Spain route shall
+park on the eastern side of Nelson Street from Prince Street, extending northwards with ten taxis facing South as marked.
 3. Motorists shall proceed-
 (a) in a northerly direction only on Charlotte Street,
 between Independence Square South and South Quay;
@@ -130,7 +133,7 @@ GENERAL
 - Margin: Clause 13. Diagram 6. [241/2001].
 - Margin: Clause 16. Diagram 7.
 - Margin: Clause 16A. Diagram 8. [241/2001].
-- Margin: 113/1988.
+- Margin: 113/1988. [266/2013].
 - Margin: Citation.
 - Margin: Conventional taxi stand location.
 - Margin: One-way traffic.

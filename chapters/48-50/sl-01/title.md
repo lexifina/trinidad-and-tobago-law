@@ -7,7 +7,9 @@ GENERAL
 1. Citation. 2. Interpretation. 3. Forms, as in First Schedule.
 PART II
 REGISTRATION
-4. Application by owner for registration. 5. Number to be assigned. 6. When Licensing Authority may cancel registration. 7. Identification mark. 8. Use for registered purpose only. 9. Position of identification mark. 10. Illumination of identification mark at night. 11. General identification marks for dealer. 12. Record Book.
+4. Application by owner for registration. 5. Number to be assigned. 6. When Licensing Authority may cancel registration. 7. Identification mark.
+7A. Identification marks for diplomatic vehicles or trailers.
+8. Use for registered purpose only. 9. Position of identification mark. 10. Illumination of identification mark at night. 11. General identification marks for dealer. 12. Record Book.
 PART III
 LICENSING
 }

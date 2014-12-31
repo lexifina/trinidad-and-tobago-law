@@ -19,7 +19,7 @@ Road to Barbados Road and eastwards along the southern side of Barbados Road to 
 4. Long Circular Road.
 5. Saddle Road.
 6. Diego Martin Main Road.
-7. Beetham Highway from the one and a half-kilometre mark to the two-kilometre mark.
+7. Beetham Highway from its intersection with Wrightson Road to the flyover in the vicinity of the Central Market (also commonly known as the "NP Flyover").
 8. St. Ann's Road-from its intersection with the Lady Young Road to the Simon Valley Road.
 9. Coblentz Avenue-from its intersection with St. Ann's Road to its intersection with Cascade Road.
 10. Cascade Road-from its intersection with St. Ann's Road to Knightsbridge.
