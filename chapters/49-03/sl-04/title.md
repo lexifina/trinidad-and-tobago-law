@@ -1,9 +1,16 @@
-ARRANGEMENT OF REGULATIONS-Continued
-REGULATION
-69. Issue of Security Directive or information circular. 70. Requirements to submit to search of goods and person. 71. Restrictions of passengers. 72. Restricted areas at an aerodrome. 73. Restriction on entry into sterile area. 74. Requirement to submit to screening. 75. Director-General to amend Schedules.
-SCHEDULE 1. SCHEDULE 2. SCHEDULE 3. SCHEDULE 4. SCHEDULE 5. SCHEDULE 6. SCHEDULE 7A. SCHEDULE 7B. SCHEDULE 8. Civil Aviation [(No. 8) Aviation Security] Regulations [Subsidiary]
-CIVIL AVIATION [(NO. 8) AVIATION SECURITY]
-REGULATIONS
+CIVIL AVIATION [(NO. 4) REGISTRATION AND
+MARKINGS] REGULATIONS
+ARRANGEMENT OF REGULATIONS REGULATION
+1. Citation. 2. Interpretation. 3. Applicability of these Regulations.
+PART I
+REGISTRATION
+4. Applicability of Part I. 5. Restriction on operation of aircraft in Trinidad and Tobago. 6. Requirements for application. 7. Requirement for registration of aircraft. 8. De-registration for purpose of registration. 9. Issue of Certificate of Aircraft Registration. 10. Requirements after Certificate of Aircraft Registration. 11. Requirements for de-registration of an aircraft. 12. Register of civil aircraft. 13. Conditions of registration.
+PART II
+NATIONALITY AND REGISTRATION MARKS
+14. Applicability of Part II. 15. Requirements for display of nationality and registration marks. 16. Display of marks. 17. Size of marks. 18. Location of marks on fixed-wing aircraft. 19. Location of marks on rotorcraft. 20. Location of marks on lighter-than-air aircraft. 21. Deviation of size and location of marks. 22. Removal of marks after sale of aircraft. 23. Identification plates required. 24. Removal, replacement and attachment of and alteration of information
+on aircraft identification plates.
+25. Director-General to amend Schedules.
+CIVIL AVIATION [(NO. 4) REGISTRATION AND
+MARKINGS] REGULATIONS
 made under section 33
-PRELIMINARY
-- Margin: 107/2004. [190/2006 95/2009].
+- Margin: 103/2004. [225/2005].

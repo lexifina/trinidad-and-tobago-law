@@ -1,21 +1,10 @@
 # SCHEDULE 2
-An applicant for, and holder of, an Approved Training Organisation Certificate shall have facilities the Authority determines are appropriate for the maximum number of students expected to be taught at any time, as follows:
-(a) an enclosed classroom;
-(b) suitable facilities arranged to assure proper separation from
-the working space, for parts, tools, materials, and similar articles;
-(c) suitable area for application of finishing materials, including
-paint spraying;
-(d) suitable areas equipped with washtank and degreasing
-equipment with air pressure or other adequate cleaning equipment;
-(e) suitable facilities for running engines;
-(f) suitable area with adequate equipment, including benches,
-tables, and test equipment, to disassemble, service, and inspect;
-(i) ignition systems, electrical equipment, and appliances;
-(ii) carburettors and fuel systems; and
-(iii) hydraulic and vacuum systems for aircraft, aircraft
-engines, and their appliances;
-(g) suitable space with adequate equipment, including tables,
-benches, stands, and jacks, for disassembling, inspecting, and rigging aircraft;
-(h) suitable space with adequate equipment for disassembling,
-inspecting, assembling, troubleshooting, and timing engines. [Subsidiary] Civil Aviation [(No. 9) Approved Training Organisation] Regulations
-- Margin: Regulation 16(15). [191/2006].
+PART A
+"I ... (insert name) certify that this aeronautical product has been inspected in accordance with ... (insert type) inspection and such aeronautical product was determined to be in an airworthy condition.
+..."
+Signature Date
+PART B
+"I ... (insert name) certify that this aeronautical product was inspected in accordance with ... (insert type) inspection and a list of ... (insert quantity) discrepancies and unairworthy items have been provided to the aircraft operator. Such aircraft shall not be released to service unless all discrepancies and unairworthy items identified on that list have been addressed in accordance with the approved airworthiness requirements.
+..."
+Signature Date
+- Margin: Regulation 36.

@@ -1,1372 +1,864 @@
 # SCHEDULE 3
 IMPLEMENTING STANDARDS
-Regulation 16(18): Airport Requirements
-An applicant for, and holder of, an Approved Training Organisation
-Certificate with Level 1 Flight Training Specifications shall show that the airport at which training flights originate has the following:
-(a) at least one runway or take-off area that allows training aircraft
-to make a normal take-off and landing at the aircraft's maximum certified take-off gross weight under the following conditions:
-(i) wind not more than 5 knots;
-(ii) temperatures equal to the mean high temperature for
-the hottest month of the year in the operating area;
-(iii) if applicable, with the power plant operation, and
-landing gear and flap operation recommended by the manufacturer; and
-(iv) in the case of a take-off-
-(A) with smooth transition from lift-off to the best
-rate of climb speed without exceptional piloting skills or techniques; and
-(B) clearing all obstacles in the take-off flight path by
-at least 50 feet;
-(b) a wind direction indicator that is visible from the end of each
-runway at ground level;
-(c) a traffic direction indicator when-
-(i) the airport does not have an operating control tower; and
-(ii) traffic and wind advisories are not available;
-(d) except as provided in subparagraph (e), permanent runway
-lights if that airport is to be used for night training flights; and
-(e) adequate non-permanent lighting or shoreline lighting for an
-airport or seaplane base for night training flights in seaplanes, if approved by the Authority.
-Regulation 28(1)(a)(i): Private Pilot Licensing Course
-The following curriculum meets the minimum curriculum standard for
-a private pilot licensing course:
-(1) Ratings:
-(a) aeroplane single-engine;
-(b) aeroplane multi-engine;
-Civil Aviation [(No. 9) Approved Training Organisation] Regulations [Subsidiary]
-(c) rotorcraft helicopter;
-(d) rotorcraft gyroplane;
-(e) powered-lift;
-(f) glider;
-(g) lighter-than-air airship; and
-(h) lighter-than-air balloon.
-(2) Eligibility for enrolment: A person shall hold a student pilot licence prior to enrolling in the flight portion of the private pilot licensing course.
-(3) Aeronautical knowledge training:
-(a) each applicant for, and holder of, an Approved Training
-Organisation Certificate with Level 1 Flight Training specifications shall ensure that each approved course includes at least the following hours of ground training on the following aeronautical knowledge areas, appropriate to the aircraft category and class rating:
-(i) 35 hours for an aeroplane, rotorcraft, or powered-lift
-category rating;
-(ii) 15 hours for a glider category rating;
-(iii) 10 hours for a lighter-than-air category with a balloon
-class rating; and
-(iv) 35 hours for a lighter-than-air category with an airship
-class rating; and
-(b) ground training shall include the following aeronautical
-knowledge areas:
-(i) applicable Trinidad and Tobago regulations for private
-pilot privileges, limitations, and flight operations;
-(ii) accident reporting requirements of Trinidad and Tobago;
-(iii) applicable subjects of the Authority provided
-aeronautical information publications;
-(iv) aeronautical charts for visual flight rules navigation
-using pilotage, dead reckoning, and navigation systems;
-(v) radio communication procedures;
-(vi) recognition of critical weather situations from the
-ground and in flight, windshear avoidance, and the procurement and use of aeronautical weather reports and forecasts;
-(vii) safe and efficient operation of aircraft, including
-collision avoidance, and recognition and avoidance of wake turbulence; [Subsidiary] Civil Aviation [(No. 9) Approved Training Organisation] Regulations
-(viii) effects of density altitude on take-off and climb
-performance;
-(ix) weight and balance computations;
-(x) principles of aerodynamics, power plants, and
-aircraft systems;
-(xi) if the training course is for an aeroplane category or
-glider category rating, stall awareness, spin entry, spins, and spin recovery techniques;
-(xii) aeronautical decision making and judgment; and
-(xiii) pre-flight action that includes-
-(A) obtaining information on runway lengths, data
-on take-off and landing distances, weather reports and forecasts, and fuel requirements; and
-(B) planning for alternatives if a planned flight
-cannot be completed or delays are encountered.
-(4) Flight training:
-(a) each applicant for, and holder of, an Approved Training
-Organisation Certificate with this training specification shall include at least the following hours of flight training on the areas of operation listed in subparagraph (d), appropriate to the aircraft category and class rating:
-(i) 35 hours for an aeroplane, rotorcraft, powered-lift,
-or airship rating;
-(ii) 6 hours for a glider rating; and
-(iii) 8 hours for a balloon rating;
-(b) each applicant for, and holder of, an Approved Training
-Organisation Certificate with this training specification shall include at least the following hours of flight training in each course:
-(i) for each category and class, unless otherwise noted,
-20 hours from a flight instructor on the applicable areas of operation that includes at least-
-(A) 3 hours of cross-country flight training in the
-category and class involved;
-(B) 3 hours of night flight training in the category
-and class involved that includes-
-(I) one cross-country flight of more than
-100 nautical miles total distance; and
-(II) 10 take-offs and 10 landings to a full
-stop (with each landing involving a flight in the traffic pattern); Civil Aviation [(No. 9) Approved Training Organisation] Regulations [Subsidiary]
-(C) 3 hours of instrument training in the category
-and class involved; and
-(D) 3 hours in the category and class involved in
-preparation for the practical test within 60 days preceding the date of the test;
-(c) specific training for other categories and classes as shown:
-(i) for a rotorcraft helicopter and gyroplane course
-3 hours of night flight training in a helicopter that includes one cross-country flight of more than 50 nautical miles total distance;
-(ii) for a glider course: 4 hours from a flight instructor on
-the applicable areas of operation in subparagraphs (d) and (e) that includes at least-
-(A) five training flights in a glider on launch/tow
-procedures approved for the course and in the applicable areas of operation listed in subparagraphs (d) and (e); and
-(B) three training flights in a glider in preparation for
-the practical test within 60 days preceding the date of the test;
-(iii) for a lighter-than-air airship course: 20 hours from a
-commercial pilot with an airship rating on the applicable areas of operation in subparagraphs (d) and
-(e) that include at least-
-(A) 3 hours cross-country training in an airship;
-(B) 3 hours of night flight training in an airship
-that includes-
-(I) one cross-country flight over 25 nautical
-miles total distance; and
-(II) five take-offs and five landings to a full
-stop (with each landing involving a flight in the traffic pattern);
-(iv) for a lighter-than-air balloon course: 8 hours, including
-at least five flights, from a commercial pilot with a balloon rating on the applicable areas of operation in subparagraphs (d) and (e), that includes-
-(A) if the training is being performed in a gas balloon-
-(I) two flights of 1 hour each;
-(II) one flight involving a controlled ascent
-to 3,000 feet above the launch site; and [Subsidiary] Civil Aviation [(No. 9) Approved Training Organisation] Regulations
-(III) two flights in preparation for the
-practical test within sixty days preceding the date of the test;
-(B) if the training is being performed in a balloon
-with an airborne heater-
-(I) two flights of 30 minutes each;
-(II) one flight involving a controlled ascent
-to 2,000 feet above the launch site; and
-(III) two flights in preparation for the
-practical test within 60 days preceding the date of the test;
-(d) each approved course shall include flight training in the
-following areas of operation that are applicable to the aircraft category and class rating:
-(i) preflight preparation;
-(ii) preflight procedures;
-(iii) airport and seaplane base operations;
-(iv) take-offs, landings, and go-arounds;
-(v) performance manoeuvres;
-(vi) ground reference manoeuvres;
-(vii) navigation;
-(viii) slow flight and stalls;
-(ix) basic instrument manoeuvres;
-(x) emergency operations;
-(xi) night operations; and
-(xii) postflight procedures;
-(e) in addition, for the specific category and class of aircraft
-shown, each approved course shall include the applicable flight training in the following areas of operation:
-(i) for a multi-engine aeroplane course, multi-engine
-operations;
-(ii) for a rotorcraft helicopter course: hovering manoeuvres;
-(iii) for a rotorcraft gyroplane course: flight at slow airspeeds;
-(iv) for a powered-lift course: hovering manoeuvres;
-(v) for a glider course-
-(A) launches/tows, as appropriate, and landings;
-(B) performance speeds; and
-(C) soaring techniques;
-(vi) for a lighter-than-air balloon course launches
-and landings.
-Civil Aviation [(No. 9) Approved Training Organisation] Regulations [Subsidiary]
-(5) Solo flight training: Each approved course shall include at least the following solo flight training:
-(a) for an aeroplane single-engine course: 5 hours of solo flight
-training in a single-engine aeroplane on the applicable areas of operation in paragraph (4)(d) that includes at least-
-(i) one solo cross-country flight of at least 100 nautical
-miles with landings at a minimum of three points, and one segment of the flight consisting of a straight-line distance of at least 50 nautical miles between the take-off and landing locations; and
-(ii) three take-offs and three landings to a full stop (with
-each landing involving a flight in the traffic pattern) at an airport with an operating control tower;
-(b) for an aeroplane multi-engine course: 5 hours of flight training
-in a multi-engine aeroplane performing the functions of a pilot in command while under the supervision of a flight instructor, the training shall consist of the applicable areas of operation in paragraph (4)(d) and include at least-
-(i) one cross-country flight of at least 100 nautical miles
-with landings at a minimum of three points, and one segment of the flight consisting of a straight-line distance of at least 50 nautical miles between the take-off and landing locations; and
-(ii) three take-offs and three landings to a full stop (with
-each landing involving a flight in the traffic pattern) at an airport with an operating control tower;
-(c) for a rotorcraft helicopter course: 5 hours of solo flight
-training in a helicopter on the applicable areas of operation in paragraph (4)(d) that includes at least-
-(i) one solo cross-country flight of more than 50 nautical
-miles with landings at a minimum of three points, and one segment of the flight consisting of a straight-line distance of at least 25 nautical miles between the take-off and landing locations; and
-(ii) three take-offs and three landings to a full stop (with
-each landing involving a flight in the traffic pattern) at an airport with an operating control tower;
-(d) for a rotorcraft gyroplane course: 5 hours of solo flight
-training in gyroplanes on the applicable areas of operation in paragraph (4)(d) that includes at least-
-(i) one solo cross-country flight of more than 50 nautical
-miles with landings at a minimum of three points, and [Subsidiary] Civil Aviation [(No. 9) Approved Training Organisation] Regulations
-one segment of the flight consisting of a straight-line distance of at least 25 nautical miles between the take-off and landing locations; and
-(ii) three take-offs and three landings to a full stop (with
-each landing involving a flight in the traffic pattern) at an airport with an operating control tower;
-(e) for a powered-lift course: 5 hours of solo flight training in
-a powered-lift on the applicable areas of operation in paragraph (4)(d) that includes at least-
-(i) one solo cross-country flight of at least 100 nautical
-miles with landings at a minimum of three points, and one segment of the flight consisting of a straight-line distance of at least 50 nautical miles between the take-off and landing locations;
-(ii) three take-offs and three landings to a full stop (with
-each landing involving a flight in the traffic pattern) at an airport with an operating control tower; and
-(iii) transition from hover to forward flight using wing lift;
-(f) for a glider course: two solo flights in a glider on the applicable
-areas of operation in paragraph (4)(d) and the launch and tow procedures appropriate for the approved course;
-(g) for a lighter-than-air airship course: 5 hours of flight training
-in the applicable areas of operation shown in paragraph
-(4)(d) in an airship performing the functions of pilot in command while under the supervision of a commercial pilot with an airship rating;
-(h) for a lighter-than-air balloon course: training on the
-applicable areas of operation in paragraph (4)(d), as applicable;
-(i) two solo flights in a balloon with an airborne heater; or
-(ii) at least two flights in a gas balloon performing the
-functions of pilot in command while under the supervision of a commercial pilot with a balloon rating.
-(6) Stage checks and end-of-course tests:
-(a) each student to graduate from a private pilot course shall
-satisfactorily accomplish the stage checks and end-of-course tests, consisting of the applicable areas of operation listed in paragraph (4)(d) for the aircraft category and class rating; and
-Civil Aviation [(No. 9) Approved Training Organisation] Regulations [Subsidiary]
-(b) each student shall demonstrate satisfactory proficiency prior
-to being endorsed to operate an aircraft in solo flight.
-Regulation 28(1)(a)(ii): Instrument Rating Course
-The following curriculum meets the minimum curriculum standard for an instrument rating course and additional instrument rating course:
-(1) Ratings:
-(a) instrument: aeroplane;
-(b) instrument: helicopter; and
-(c) instrument: powered-lift.
-(2) Eligibility for enrolment. A person shall hold at least a private pilot licence with an aircraft category and class rating appropriate to the instrument rating for which the course applies prior to enrolling in that portion of the instrument rating course.
-(3) Aeronautical knowledge training:
-(a) each applicant for, and holder of, an Approved Training
-Organisation Certificate with Level 1 Flight Training Specifications shall ensure that each approved course includes at least the following hours of ground training on the aeronautical knowledge areas appropriate to the instrument rating sought:
-(i) 30 hours for an initial instrument rating; and
-(ii) 20 hours for an additional instrument rating; and
-(b) ground training shall include the following aeronautical
-knowledge areas:
-(i) applicable Trinidad and Tobago regulations for IFR
-flight operations;
-(ii) appropriate information in aeronautical information
-publications provided by the Authority;
-(iii) air traffic control system and procedures for
-instrument flight operations;
-(iv) IFR navigation and instrument approaches to an
-airport by use of navigation systems;
-(v) use of IFR en route and instrument approach
-procedure charts;
-(vi) procurement and use of aviation weather reports and
-forecasts, and the elements of forecasting weather trends on the basis of that information and personal observation of weather conditions; [Subsidiary] Civil Aviation [(No. 9) Approved Training Organisation] Regulations
-(vii) safe and efficient operation of aircraft under
-IFR conditions;
-(viii) recognition of critical weather situations and
-windshear avoidance;
-(ix) aeronautical decision making and judgment; and
-(x) crew resource management, to include crew
-communication and co-ordination.
-(4) Flight training:
-(a) each applicant for, and holder of, an Approved Training
-Organisation Certificate with Level 1 Flight Training Specifications shall ensure that each course includes at least the following hours of flight training on the applicable areas of operation listed in subparagraph (c):
-(i) 35 hours for an initial instrument rating; and
-(ii) 15 hours for an additional instrument rating;
-(b) each applicant for, and holder of, an Approved Training
-Organisation Certificate with Level 1 Flight Training Specifications shall ensure that each course includes the following flight training:
-(i) for an instrument aeroplane course: instrument training
-from a flight instructor with an instrument rating on the applicable areas of operation in subparagraph (c) including at least one cross-country flight that-
-(A) is in the category and class of aeroplane that the
-course is approved for, and is performed under IFR;
-(B) is a distance of at least 250 nautical miles with
-one segment of the flight consisting of at least a straight-line distance of 100 nautical miles between airports;
-(C) involves an instrument approach at each
-airport; and
-(D) involves three approaches with the use of
-different kinds of navigation systems;
-(ii) for an instrument helicopter course: instrument
-training from a licensed flight instructor with an instrument rating on the applicable areas of operation in subparagraph (c) including at least one cross-country flight that-
-(A) is performed in a helicopter under IFR;
-(B) is a distance of at least 100 nautical miles with
-one segment of the flight consisting of at least
-Civil Aviation [(No. 9) Approved Training Organisation] Regulations [Subsidiary]
-a straight-line distance of 50 nautical miles between airports;
-(C) involves an instrument approach at each
-airport; and
-(D) involves three approaches with the use of
-different kinds of navigation systems;
-(iii) for an instrument powered-lift course: instrument training
-from a flight instructor with an instrument rating on the areas of operation in subparagraph (c) including at least one cross-country flight that-
-(A) is in a powered-lift and is performed under IFR;
-(B) involves transition from wing-borne to rotor-borne
-flight under IFR;
-(C) is a distance of at least 250 nautical miles with one
-segment of the flight consisting of at least a straight-line distance of 100 nautical miles between airports;
-(D) involves an instrument approach at each
-airport; and
-(E) involves three different kinds of approaches with
-the use of navigation systems;
-(c) each applicant for, and holder of, an Approved Training
-Organisation Certificate with Level 1 Flight Training Specifications shall ensure that each course includes the flight training on the applicable areas of operation listed in this paragraph appropriate to the instrument aircraft category and class rating-
-(i) preflight preparation;
-(ii) preflight procedures;
-(iii) air traffic control clearances and procedures;
-(iv) flight by reference to instruments;
-(v) navigation systems;
-(vi) instrument approach procedures;
-(vii) emergency operations; and
-(viii) postflight procedures.
-(5) Stage checks and end-of-course tests: Each student to graduate from an instrument rating course shall satisfactorily accomplish the stage checks and end-of-course tests, consisting of the areas of operation listed in paragraph (4)(c) that are appropriate to the aircraft category and class rating. [Subsidiary] Civil Aviation [(No. 9) Approved Training Organisation] Regulations
-Regulation 28(1)(a)(iii): Commercial Pilot Licensing Course
-The following curriculum meets the minimum curriculum standard for
-a commercial pilot licensing course:
-(1) Ratings:
-(a) aeroplane single-engine;
-(b) aeroplane multi-engine;
-(c) rotorcraft helicopter;
-(d) rotorcraft gyroplane;
-(e) powered-lift;
-(f) glider;
-(g) lighter-than-air airship; and
-(h) lighter-than-air balloon.
-(2) Eligibility for enrolment: A person shall hold the following prior
-to enrolling in the flight portion of the commercial pilot licensing course:
-(a) at least a private pilot licence; and
-(b) if the course is for a rating in an aeroplane or a powered-lift
-category-
-(i) hold an instrument rating in the aircraft that is
-appropriate to the aircraft category rating for which the course applies; or
-(ii) be enrolled concurrently in an instrument rating
-course that is appropriate to the aircraft category rating for which the course applies, and pass the required instrument rating practical test prior to completing the commercial pilot licensing course.
-(3) Aeronautical knowledge training:
-(a) each applicant for, and holder of, an Approved Training
-Organisation Certificate with Level 1 Flight Training Specifications shall ensure that each course includes at least the following ground training on the applicable aeronautical knowledge areas listed in subparagraph (b):
-(i) 65 hours for an aeroplane category rating, powered-
-lift category rating, or a lighter-than-air category with an airship class rating;
-(ii) 30 hours for a rotorcraft category rating;
-(iii) 20 hours for a glider category rating; and
-(iv) 20 hours for a lighter-than-air category with a balloon
-class rating; Civil Aviation [(No. 9) Approved Training Organisation] Regulations [Subsidiary]
-(b) ground training shall include the following aeronautical
-knowledge areas:
-(i) Trinidad and Tobago regulations that apply to commercial
-pilot privileges, limitations, and flight operations;
-(ii) accident reporting requirements of Trinidad and Tobago;
-(iii) basic aerodynamics and the principles of flight;
-(iv) meteorology, to include recognition of critical weather
-situations, windshear recognition and avoidance, and the use of aeronautical weather reports and forecasts;
-(v) safe and efficient operation of aircraft;
-(vi) weight and balance computations;
-(vii) use of performance charts;
-(viii) significance and effects of exceeding aircraft
-performance limitations;
-(ix) use of aeronautical charts and a magnetic compass for
-pilotage and dead reckoning;
-(x) use of air navigation facilities;
-(xi) aeronautical decision making and judgment;
-(xii) principles and functions of aircraft systems;
-(xiii) manoeuvres, procedures, and emergency operations
-appropriate to the aircraft;
-(xiv) night and high-altitude operations;
-(xv) descriptions of and procedures for operating within
-the Trinidad and Tobago airspace system; and
-(xvi) procedures for flight and ground training for
-lighter-than-air ratings.
-(4) Flight training:
-(a) each applicant for, and holder of, an Approved Training
-Organisation Certificate with Level 1 Flight Training Specifications shall ensure that each course includes at least the following flight training on the applicable areas of operation listed in subparagraph (c)-
-(i) 155 hours for an aeroplane, powered-lift, or an
-airship rating;
-(ii) 115 hours for a rotorcraft rating;
-(iii) 6 hours for a glider rating;
-(iv) 10 hours and 8 training flights for a balloon rating.
-(b) each applicant for, and holder of, an Approved Training
-Organisation Certificate with Level 1 Flight Training [Subsidiary] Civil Aviation [(No. 9) Approved Training Organisation] Regulations
-Specifications shall ensure that each course includes at least the following flight training:
-(i) for an aeroplane single-engine course: 55 hours of
-flight training from a licensed flight instructor on the areas of operation listed in subparagraph (c) that includes at least-
-(A) 5 hours of instrument training in a single-engine
-aeroplane;
-(B) 10 hours of training in a single-engine aeroplane
-that has retractable landing gear, flaps, and a controllable pitch propeller, or is turbine-powered;
-(C) one cross-country flight in a single-engine
-aeroplane of at least a 2-hour duration, a total straight-line distance of more than 100 nautical miles from the original point of departure, and occurring in day visual flight rules conditions;
-(D) one cross-country flight in a single-engine
-aeroplane of at least a 2-hour duration, a total straight-line distance of more than 100 nautical miles from the original point of departure, and occurring in night visual flight rules conditions; and
-(E) 3 hours in a single-engine aeroplane in
-preparation for the practical test within 60 days preceding the date of the test;
-(ii) for an aeroplane multi-engine course: the flight
-training shown in subparagraph (c), accomplished in a multi-engine aeroplane;
-(iii) for a rotorcraft helicopter and gyroplane course:
-the flight training shown in subparagraph (c), accomplished in a helicopter; except 30 hours of flight training from a flight instructor on the areas of operation listed in subparagraphs (c) and (d) that includes at least-
-(A) 5 hours of instrument training;
-(B) one cross-country flight in a helicopter of at least
-a 2-hour duration, a total straight-line distance of more than 50 nautical miles from the original point of departure, and occurring in day visual flight rules conditions; and
-(C) one cross-country flight in a helicopter of at least
-a 2-hour duration, a total straight-line distance of more than 50 nautical miles from the original point of departure, and occurring in night visual flight rules conditions; Civil Aviation [(No. 9) Approved Training Organisation] Regulations [Subsidiary]
-(iv) for a powered-lift course: the applicable flight training
-shown in subparagraph (c), flown in a powered-lift aircraft;
-(v) for a glider course: 4 hours of flight training from a
-flight instructor on the areas of operation in subparagraphs (c) and (d), that includes at least-
-(A) five training flights in a glider on launch/tow
-procedures approved for the course and on the appropriate areas of operation listed in subparagraphs (c) and (d); and
-(B) three training flights in a glider in preparation
-for the practical test within the 60 days preceding the date of the test;
-(vi) for a lighter-than-air airship course: 55 hours of training
-in airships from a commercial pilot with an airship rating on the areas of operation in subparagraphs (c) and (d) that includes at least-
-(A) 3 hours of instrument training in an airship;
-(B) one cross-country flight in an airship of at least a
-1-hour duration, a total straight-line distance of more than 25 nautical miles from the original point of departure, and occurring in day visual flight rules conditions;
-(C) one cross-country flight in an airship of at least a
-1-hour duration, a total straight-line distance of more than 25 nautical miles from the original point of departure, and occurring in night visual flight rules conditions; and
-(D) 3 hours in an airship, in preparation for the
-practical test within 60 days preceding the date of the test;
-(vii) for a lighter-than-air balloon course: flight training from
-a commercial pilot with a balloon rating on the areas of operation in paragraph (5)(h) that includes at least-
-(A) for a gas balloon-
-(I) two flights of 1 hour each;
-(II) one flight involving a controlled ascent
-to at least 5,000 feet above the launch site; and
-(III) two flights in preparation for the
-practical test within 60 days preceding the date of the test; [Subsidiary] Civil Aviation [(No. 9) Approved Training Organisation] Regulations
-(B) for a balloon with an airborne heater-
-(I) two flights of 30 minutes each;
-(II) one flight involving a controlled ascent
-to at least 3,000 feet above the launch site; and
-(III) two flights in preparation for the
-practical test within 60 days preceding the date of the test;
-(c) each applicant for, and holder of, an Approved Training
-Organisation Certificate with Level 1 Flight Training Specifications shall ensure that each course includes the flight training on the following areas of operation, as applicable:
-(i) for an aeroplane single-engine course-
-(A) preflight preparation;
-(B) preflight procedures;
-(C) airport and seaplane base operations;
-(D) take-offs, landings, and go-arounds;
-(E) performance manoeuvres;
-(F) navigation;
-(G) slow flight and stalls;
-(H) emergency operations;
-(I) high-altitude operations; and
-(J) postflight procedures;
-(d) each applicant for, and holder of, an Approved Training
-Organisation Certificate with Level 1 Flight Training Specifications shall ensure that each course for the following category and class ratings includes flight training on the applicable areas of operation:
-(i) for an aeroplane multi-engine course: multi-engine
-operations;
-(ii) for a rotorcraft helicopter course-
-(A) hovering manoeuvres;
-(B) transition to wing-borne flight;
-(C) transition to hover; and
-(D) special operations;
-(iii) for a rotorcraft gyroplane course: flight at slow airspeeds;
-(iv) for a powered-lift course-
-(A) hovering manoeuvres; and
-(B) special operations;
-Civil Aviation [(No. 9) Approved Training Organisation] Regulations [Subsidiary]
-(v) for a glider course-
-(A) launches or tows, as appropriate, and landings; and
-(B) soaring techniques;
-(vi) for a lighter-than-air airship course-
-(A) fundamentals of instructing;
-(B) technical subjects; and
-(C) preflight lessons on a manoeuvre to be
-performed in flight;
-(vii) for a lighter-than-air balloon course-
-(A) fundamentals of instructing;
-(B) technical subjects;
-(C) preflight lesson on a manoeuvre to be performed
-in flight; and
-(D) launches and landings.
-(5) Solo flight training: Each applicant for, and holder of, an Approved Training Organisation Certificate with Level 1 Flight Training Specifications, shall ensure that each approved course includes at least the following solo flight training:
-(a) for an aeroplane single-engine course-10 hours of solo
-flight training in a single-engine aeroplane on the areas of operation in paragraph (4)(c)(i) that include at least-
-(i) one cross-country flight, if the training is being
-performed on a small island, with landings at a minimum of three points, and one of the segments consisting of a straight-line distance of at least 150 nautical miles;
-(ii) one cross-country flight, if the training is being
-performed on other than a small island, with landings at a minimum of three points, and one segment of the flight consisting of a straight-line distance of at least 250 nautical miles; and
-(iii) 5 hours in night visual flight rules conditions with
-10 take-offs and 10 landings with each landing involving a flight with a traffic pattern at an airport with an operating control tower;
-(b) for an aeroplane multi-engine course: 10 hours of flight training in
-a multi-engine aeroplane performing the functions of pilot in command while under the supervision of a flight instructor, consisting of the areas of operation in paragraph (4)(d)(i) that include at least-
-(i) one cross-country flight, if the training is being
-performed on a small island, with landings at a minimum [Subsidiary] Civil Aviation [(No. 9) Approved Training Organisation] Regulations
-of three points, and one of the segments consisting of a straight-line distance of at least 150 nautical miles;
-(ii) one cross-country flight, if the training is being performed
-on a small island, with landings at a minimum of three points and one segment of the flight consisting of a straight-line distance of at least 250 nautical miles; and
-(iii) 5 hours in night visual flight rules conditions with
-10 take-offs and 10 landings with each landing involving a flight with a traffic pattern at an airport with an operating control tower;
-(c) for a rotorcraft helicopter course-10 hours of solo flight
-training in a helicopter on the areas of operation in paragraph
-(4)(d)(ii) that include at least-
-(i) one cross-country flight with landings at a minimum of
-three points and one segment of the flight consisting of a straight-line distance of at least 50 nautical miles from the original point of departure; and
-(ii) 5 hours in night visual flight rules conditions with
-10 take-offs and 10 landings with each landing involving a flight with a traffic pattern at an airport with an operating control tower;
-(d) for a rotorcraft or gyroplane course-10 hours of solo flight
-training in a gyroplane on the areas of operation in paragraph (4)(d)(iii) that include at least-
-(i) one cross-country flight with landings at a minimum of
-three points, and one segment of the flight consisting of a straight-line distance of at least 50 nautical miles from the original point of departure; and
-(ii) 5 hours in night visual flight rules conditions with
-10 take-offs and 10 landings with each landing involving a flight with a traffic pattern at an airport with an operating control tower;
-(e) for a powered-lift course-10 hours of solo flight training in
-a powered-lift on the areas of operation in paragraph
-(4)(d)(iv) that include at least-
-(i) one cross-country flight, if the training is being
-performed on a small island, with landings at a minimum of three points, and one segment of the flight consisting a straight-line distance of at least 150 nautical miles; Civil Aviation [(No. 9) Approved Training Organisation] Regulations [Subsidiary]
-(ii) one cross-country flight, if the training is being
-performed on a small island, with landings at a minimum of three points, and one segment of the flight consisting of a straight-line distance of at least 250 nautical miles; and
-(iii) 5 hours in night visual flight rules conditions with
-10 take-offs and 10 landings with each landing involving a flight with a traffic pattern at an airport with an operating control tower;
-(f) for a glider course-5 solo flights in a glider on the areas of
-operation in paragraph (4)(d)(v);
-(g) for a lighter-than-air airship course: 10 hours of flight
-training in an airship, while performing the functions of pilot in command under the supervision of a commercial pilot with an airship rating consisting of the areas of operation in paragraph (4)(d)(vi) that include at least-
-(i) one cross-country flight with landings at a minimum of
-three points, and one segment of the flight consisting of a straight-line distance of at least 25 nautical miles from the original point of departure; and
-(ii) 5 hours in night visual flight rules conditions with
-10 take-offs and 10 landings with each landing involving a flight with a traffic pattern;
-(h) for a lighter-than-air balloon course-
-(i) training on the applicable areas of operation in
-paragraph (4)(d)(vii), while performing the duties of pilot in command under the supervision of a commercial pilot with a balloon rating;
-(ii) two solo flights for a hot air balloon rating; and
-(iii) at least two flights in a gas balloon for a gas
-balloon rating;
-(6) Stage checks and end-of-course tests:
-(a) each student to graduate from a commercial pilot course,
-shall satisfactorily accomplish the stage checks and end-of-course tests consisting of the applicable areas of operation listed in paragraph (4)(d); and
-(b) each student shall demonstrate satisfactory proficiency prior
-to being endorsed to operate an aircraft in solo flight. [Subsidiary] Civil Aviation [(No. 9) Approved Training Organisation] Regulations
-Regulation 28(1)(a)(iv): Airline Transport Pilot Licensing Course
-The following curriculum meets the minimum curriculum standard for
-an Airline Transport Pilot Licensing Course:
-(1) Rating:
-(a) aeroplane single-engine;
-(b) aeroplane multi-engine;
-(c) rotorcraft helicopter;
-(d) powered-lift.
-(2) Eligibility for enrolment: Prior to enrolling in the flight portion
-of the airline transport pilot licensing course, a person shall-
-(a) meet the aeronautical experience requirements prescribed in
-Civil Aviation [(No. 1) General Application and Personnel Licensing] Regulations, Part III for an Airline Transport Pilot Licence that is appropriate to the aircraft category and class rating for which the course applies;
-(b) hold at least a commercial pilot licence and an
-instrument rating;
-(c) meet the military experience requirements under Civil Aviation
-[(No. 1) General Application and Personnel Licensing] Regulations to qualify for a Commercial Pilot Licence and an instrument rating, if the person is a rated military pilot or former rated military pilot of an armed force of Trinidad and Tobago; or
-(d) hold a foreign Airline Transport Pilot Licence or foreign
-Commercial Pilot Licence and an instrument rating, issued by a contracting State to the convention on international civil aviation.
-(3) Aeronautical knowledge areas:
-(a) each applicant for, and holder of, an Approved Training
-Organisation Certificate with Level 1 Flight Training Specifications shall ensure that each course includes at least 40 hours of ground training on the applicable aeronautical knowledge areas listed in subparagraph (b);
-(b) each applicant for, and holder of, an Approved Training
-Organisation Certificate with Level 1 Flight Training Specifications shall ensure that ground training includes the following aeronautical knowledge areas:
-(i) applicable Trinidad and Tobago regulations that relate
-to airline transport pilot privileges, limitations, and flight operations;
-(ii) meteorology, including knowledge of and effects of
-fronts, frontal characteristics, cloud formations, icing, and upper-air data; Civil Aviation [(No. 9) Approved Training Organisation] Regulations [Subsidiary]
-(iii) general system of weather and notam collection,
-dissemination, interpretation, and use;
-(iv) interpretation and use of weather charts, maps,
-forecasts, sequence reports, abbreviations, symbols;
-(v) Trinidad and Tobago weather service functions as they
-pertain to operations in the Trinidad and Tobago airspace system;
-(vi) windshear and microburst awareness, identification
-and avoidance;
-(vii) principles of air navigation under instrument
-meteorological conditions in the Trinidad and Tobago airspace system;
-(viii) air traffic control procedures and pilot responsibilities
-as they relate to en route operations, terminal area and radar operations, and instrument departure and approach procedures;
-(ix) aircraft loading, weight and balance, use of charts,
-graphs, tables, formulas, and computations and the effects on aircraft performance;
-(x) aerodynamics relating to an aircraft's flight
-characteristics and performance in normal and abnormal flight regimes;
-(xi) human factors;
-(xii) aeronautical decision making and judgment; and
-(xiii) crew resource management to include crew
-communication and co-ordination.
-(4) Flight training:
-(a) each applicant for, and holder of, an Approved Training
-Organisation Certificate with Level 1 Flight Training Specifications shall ensure that each course includes at least 25 hours of flight training on the applicable areas of operation listed in subparagraph (b), including at least 15 hours of instrument flight training; and
-(b) each applicant for, and holder of, an Approved Training
-Organisation Certificate with Level 1 Flight Training Specifications shall ensure that each course includes flight training on the following areas of operation, as applicable:
-(i) preflight preparation;
-(ii) preflight procedures;
-(iii) take-off and departure phase; [Subsidiary] Civil Aviation [(No. 9) Approved Training Organisation] Regulations
-(iv) in-flight manoeuvres;
-(v) instrument procedures;
-(vi) landings and approaches to landings;
-(vii) normal and abnormal procedures;
-(viii) emergency procedures; and
-(ix) postflight procedures.
-(5) Stage checks and end-of-course tests: Each student, to graduate
-from an airline transport pilot course shall satisfactorily accomplish the stage checks and end-of-course tests, consisting of the areas of operation listed in paragraph (4)(b) that are appropriate to the aircraft category and class rating for which the course applies.
-Regulation 28(2)(a)(v): Flight Instructor Course
-The following curriculum meets the minimum curriculum standard for a
-flight instructor licensing course and an additional flight instructor rating course:
-(1) Rating:
-(a) aeroplane single-engine;
-(b) aeroplane multi-engine;
-(c) rotorcraft helicopter;
-(d) rotorcraft gyroplane;
-(e) powered-lift;
-(f) glider category.
-(2) Eligibility for enrolment: A person shall hold the following prior
-to enrolling in the flight portion of the flight instructor or additional flight instructor rating course:
-(a) a commercial pilot licence or an airline transport pilot licence
-with an aircraft category and class rating appropriate to the flight instructor rating for which the course applies; and
-(b) an instrument rating or privilege in an aircraft that is
-appropriate to the aircraft category and class rating for which the course applies, if the course is for a flight instructor aeroplane or powered-lift instrument rating.
-(3) Aeronautical knowledge training:
-(a) each applicant for, and holder of, an Approved Training
-Organisation Certificate with Level 1 Flight Training Specifications shall ensure that each course includes at least Civil Aviation [(No. 9) Approved Training Organisation] Regulations [Subsidiary]
-the following ground training in the aeronautical knowledge areas listed in subparagraph (b):
-(i) 40 hours of training if the course is for an initial
-issuance of a flight instructor certificate; or
-(ii) 20 hours of training if the course is for an additional
-flight instructor rating;
-(b) each applicant for, and holder of, an Approved Training
-Organisation Certificate with Level 1 Flight Training Specifications shall ensure that ground training includes the following aeronautical knowledge areas:
-(i) the fundamentals of instructing, including-
-(A) the learning process;
-(B) elements of effective teaching;
-(C) student evaluation and testing;
-(D) course development;
-(E) lesson planning; and
-(F) classroom training techniques;
-(ii) the aeronautical knowledge areas required for-
-(A) a private and commercial pilot licence that is
-appropriate to the category and class rating sought; and
-(B) an instrument rating that is appropriate to the
-aircraft category and class rating for which the course applies, if the course is for an aeroplane or powered-lift aircraft rating; and
-(c) an Approved Training Organisation Certificate with Level 1
-Flight Training Specifications may credit a student who satisfactorily completes 2 years of study on the principles of education at a college or university with no more than 20 hours of the training required in subparagraph (a)(i).
-(4) Flight training:
-(a) each applicant for, and holder of, an Approved Training
-Organisation Certificate with Level 1 Flight Training Specifications shall ensure that each course includes at least the following flight training on the applicable areas of operation of subparagraphs (b) and (c):
-(i) 25 hours for an aeroplane, rotorcraft, or powered-lift
-rating; and
-(ii) 10 hours and 10 flights for a glider category rating; [Subsidiary] Civil Aviation [(No. 9) Approved Training Organisation] Regulations
-(b) each applicant for, and holder of, an Approved Training
-Organisation Certificate with Level 1 Flight Training Specifications shall ensure that each course includes flight training on the following areas of operation, as applicable for each category and class:
-(i) fundamentals of instructing;
-(ii) technical subject areas;
-(iii) preflight preparation;
-(iv) preflight lesson on a manoeuvre to be performed
-in flight;
-(v) preflight procedures;
-(vi) airport and seaplane base operations;
-(vii) take-offs, landings, and go-arounds;
-(viii) fundamentals of flight;
-(ix) performance manoeuvres;
-(x) ground reference manoeuvres;
-(xi) slow flight, stalls, and spins;
-(xii) basic instrument manoeuvres;
-(xiii) emergency operations; and
-(xiv) postflight procedures;
-(c) for the category and class of aircraft shown below, each
-applicant for, and holder of, an Approved Training Organisation Certificate with Level 1 Flight Training Specifications shall ensure that each course includes flight training in the following areas of operation, as applicable:
-(i) for an aeroplane: multi-engine course, multi-engine
-operations;
-(ii) for a rotorcraft: helicopter course-
-(A) hovering manoeuvres; and
-(B) special operations;
-(iii) for a rotorcraft: gyroplane course flight at slow airspeeds;
-(iv) for a powered-lift course-
-(A) hovering manoeuvres;
-(B) transition to wing-borne flight;
-(C) transition to hover; and
-(D) special operations; and
-(v) for a glider course-
-(A) launches, landings, and go-around;
-(B) performance speeds; and
-(C) soaring techniques.
-Civil Aviation [(No. 9) Approved Training Organisation] Regulations [Subsidiary]
-(5) Stage checks and end-of-course tests:
-(a) each student to graduate from a flight instructor course shall
-satisfactorily accomplish the stage checks and end-of-course tests, consisting of the applicable areas of operation listed in paragraph (4);
-(b) a student enrolled in a flight instructor-aeroplane rating or
-flight instructor-glider rating course shall have-
-(i) received a logbook endorsement from a flight instructor
-certifying the student received ground and flight training on stall awareness, spin entry, spins, and spin recovery procedures in an aircraft that is certified for spins and that is appropriate to the rating sought; and
-(ii) demonstrated instructional proficiency in stall awareness,
-spin entry, spins, and spin recovery procedures. Regulation 28(1)(a)(vi): Flight Instructor Instrument Rating Course
-This following curriculum meets the minimum curriculum standard for a flight instructor instrument licensing course:
-(1) Ratings:
-(a) flight instructor instrument: aeroplane;
-(b) flight instructor instrument: helicopter; and
-(c) flight instructor instrument: powered-lift aircraft.
-(2) Eligibility for enrolment: A pilot shall hold, prior to enrolling in the flight portion of the course-
-(a) a commercial pilot licence or airline transport pilot licence with
-a category and class rating appropriate to the rating sought; and
-(b) for commercial pilot licence holders, an instrument rating
-that is appropriate to the rating sought.
-(3) Aeronautical knowledge training:
-(a) each applicant for, and holder of, an Approved Training
-Organisation Certificate with Level 1 Flight Training Specifications shall ensure that each course includes at least 15 hours of ground training on the applicable aeronautical knowledge areas listed in subparagraph (b); and
-(b) each applicant for, and holder of, an Approved Training
-Organisation Certificate with Level 1 Flight Training Specifications shall ensure that each course includes ground training on the following aeronautical knowledge areas:
-(i) the fundamentals of instructing including-
-(A) learning process;
-(B) elements of effective teaching;
-(C) student evaluation and testing; [Subsidiary] Civil Aviation [(No. 9) Approved Training Organisation] Regulations
-(D) course development;
-(E) lesson planning; and
-(F) classroom training techniques; and
-(ii) the aeronautical knowledge areas required for the
-instrument rating that is appropriate to the category and class of aircraft.
-(4) Flight training:
-(a) each applicant for, and holder of, an Approved Training
-Organisation Certificate with Level 1 Flight Training Specifications shall ensure that each course includes at least 15 hours of flight training in the applicable areas of operation of subparagraph (b);
-(b) each applicant for, and holder of, an Approved Training
-Organisation Certificate with Level 1 Flight Training Specifications shall ensure that each course for the flight instructor-instrument rating includes flight training on the following areas of operation:
-(i) fundamentals of instructing;
-(ii) technical subject areas;
-(iii) preflight preparation;
-(iv) preflight lesson on a manoeuvre to be performed in flight;
-(v) air traffic control clearances and procedures;
-(vi) flight by reference to instruments;
-(vii) navigation systems;
-(viii) instrument approach procedures;
-(ix) emergency operations; and
-(x) post-flight procedures.
-(5) Stage checks and end-of-course tests: Each student to graduate
-from a flight instructor instrument course shall satisfactorily accomplish the stage checks and end-of-course tests, consisting of the applicable areas of operation listed in paragraph (4)(b). Regulation 28(1)(a)(vii): Ground Instructor Authorisation Course
-The following curriculum meets the minimum curriculum standard for
-a ground instructor licensing course and an additional ground instructor rating course, issued under the Civil Aviation [(No. 1) General Application and Personnel Licensing] Regulations:
-(1) Ratings:
-(a) ground instructor: basic;
-(b) ground instructor: advanced; and
-(c) ground instructor: instrument.
-Civil Aviation [(No. 9) Approved Training Organisation] Regulations [Subsidiary]
-(2) Aeronautical knowledge training:
-(a) each applicant for, and holder of, an Approved Training
-Organisation Certificate with Level 1 Flight Training Specifications shall ensure that each course includes at least the following ground training on the applicable knowledge areas listed in subparagraphs (b), (c), (d) and (e):
-(i) 20 hours of training for an initial issuance of a ground
-instructor certificate; or
-(ii) 10 hours of training for an additional ground
-instructor rating;
-(b) each applicant for, and holder of, an Approved Training
-Organisation Certificate with Level 1 Flight Training Specifications shall ensure that ground training includes the following aeronautical knowledge areas:
-(i) learning process;
-(ii) elements of effective teaching;
-(iii) student evaluation and testing;
-(iv) course development;
-(v) lesson planning; and
-(vi) classroom training techniques;
-(c) each applicant for, and holder of, an Approved Training
-Organisation Certificate with Level 1 Flight Training Specifications shall ensure that ground training for a basic ground instructor licence includes the aeronautical knowledge areas applicable to a private pilot;
-(d) each applicant for, and holder of, an Approved Training
-Organisation Certificate with Level 1 Flight Training Specifications shall ensure that ground training for an advanced ground instructor rating includes the aeronautical knowledge areas applicable to a private, commercial, and airline transport pilot;
-(e) each applicant for, and holder of, an Approved Training
-Organisation Certificate with Level 1 Flight Training Specifications shall ensure that ground training for an instrument ground instructor rating includes the aeronautical knowledge areas applicable to an instrument rating; and
-(f) an Approved Training Organisation Certificate with Level 1
-Flight Training Specifications may credit a student who satisfactorily completed 2 years of study on the principles of education at a college or university with 10 hours of the training required in subparagraph (a)(i).
-(3) Stage checks and end-of-course tests: Each student to graduate from a ground instructor course shall satisfactorily accomplish the stage checks and end-of-course tests, consisting of the applicable knowledge areas of paragraph (2). [Subsidiary] Civil Aviation [(No. 9) Approved Training Organisation] Regulations
-Regulation 28(1)(a)(viii): Additional Aircraft Category or Class Rating Course
-The following curriculum meets the minimum curriculum standard for
-an additional aircraft category rating course or an additional aircraft class rating course:
-(1) Ratings:
-(a) aeroplane single-engine;
-(b) aeroplane multi-engine;
-(c) rotorcraft helicopter;
-(d) rotorcraft gyroplane;
-(e) powered-lift;
-(f) glider;
-(g) lighter-than-air airship; and
-(h) lighter-than-air balloon.
-(2) Eligibility for enrolment: A person shall hold the level of pilot
-licence for the additional aircraft category and class rating for which the course applies prior to enrolling in the flight portion of an additional aircraft category or additional aircraft class rating course.
-(3) Aeronautical knowledge training: Each applicant for, and holder
-of, an Approved Training Organisation Certificate with Level 1 Flight Training Specifications shall ensure that each course for an additional category rating and additional class rating includes the total number of hours of training in all the aeronautical knowledge areas appropriate to the aircraft rating and pilot licence level sought.
-(4) Flight training: Each applicant for, and holder of, an Approved
-Training Organisation Certificate with Level 1 Flight Training Specifications shall ensure that each course for an additional aircraft category rating or additional aircraft class includes the total number of hours of flight training on all of the areas of operation of this paragraph appropriate to the aircraft rating and pilot licence level for which the course applies.
-(5) Stage checks and end-of-course tests:
-(a) each student, to graduate from an additional aircraft category
-rating course or an additional aircraft class rating course shall satisfactorily accomplish the stage checks and end-of-course tests, consisting of the applicable areas of operation in paragraph (4);
-(b) each student shall demonstrate satisfactory proficiency prior
-to being endorsed to operate an aircraft in solo flight.
-Regulation 28(1)(a)(ix): Aircraft Type Rating Course
-The following curriculum meets the minimum Level 1 Approved
-Training Organisation curriculum standard for an aircraft type rating course for:
-(1) Ratings:
-(a) a type rating in an aeroplane category: single-engine class; Civil Aviation [(No. 9) Approved Training Organisation] Regulations [Subsidiary]
-(b) a type rating in an aeroplane category: multi-engine class;
-(c) a type rating in a rotorcraft category: helicopter class;
-(d) a type rating in a powered-lift category; and
-(e) other aircraft type ratings specified by the Authority through
-the aircraft type certificate procedures.
-(2) Eligibility for enrolment:
-(a) prior to enrolling in the flight portion of an aircraft type rating
-course, a person shall hold at least a private pilot licence;
-(b) an instrument rating in the category and class of aircraft that
-is appropriate to the aircraft type rating for which the course applies, provided the aircraft's type certificate does not have a visual flight rules limitation; or
-(c) be concurrently enrolled in an instrument rating course in an
-aircraft of the type rating sought, and pass the required instrument rating practical test concurrently with the type rating practical test.
-(3) Aeronautical knowledge training:
-(a) each applicant for, and holder of, an Approved Training
-Organisation Certificate with Level 1 Flight Training Specifications shall ensure that each course includes at least 10 hours of ground training on the applicable aeronautical knowledge areas listed in subparagraph (b);
-(b) each applicant for, and holder of, an Approved Training
-Organisation Certificate with Level 1 Flight Training Specifications shall ensure that ground training includes the following aeronautical areas:
-(i) subjects requiring a practical knowledge of the aircraft
-type and its power plant, systems, components, operational, and performance factors;
-(ii) the aircraft's normal, abnormal, and emergency procedures,
-and the operations and limitations relating thereto;
-(iii) appropriate provisions of the approved aircraft's
-flight manual;
-(iv) location of and purpose of inspecting each item on the
-aircraft's checklist that relate to the exterior and interior preflight; and
-(v) use of the aircraft's prestart checklist, appropriate control
-system checks, starting procedures, radio and electronic equipment checks, and the selection of proper navigation and communication radio facilities and frequencies.
-(4) Flight training:
-(a) each applicant for, and holder of, an Approved Training
-Organisation Certificate with Level 1 Flight Training Specifications shall ensure that each course includes at least-
-(i) flight training on the applicable areas of operation of
-subparagraph (b) in the aircraft type for which the course applies; and [Subsidiary] Civil Aviation [(No. 9) Approved Training Organisation] Regulations
-(ii) at least 5 hours shall be instrument training in the
-aircraft for which the course applies;
-(b) each applicant for, and holder of, an Approved Training
-Organisation Certificate with Level 1 Flight Training Specifications shall ensure that each type rating course includes the flight training on the following areas of ßoperation:
-(i) preflight preparation;
-(ii) preflight procedures;
-(iii) take-off and departure phase;
-(iv) in-flight manoeuvres;
-(v) instrument procedures;
-(vi) landings and approaches to landings;
-(vii) normal and abnormal procedures;
-(viii) emergency procedures; and
-(ix) postflight procedures.
-(5) Stage checks and end-of-course tests: Each student to graduate
-from an aircraft type rating course shall satisfactorily accomplish the stage checks and end-of-course tests, consisting of the applicable areas of operation for the Airline Transport Pilot Licence. Regulation 28(1)(a)(x): Flight Engineer Course
-(1) Each flight engineer training course holder shall comply with
-the following:
-(a) training course outline:
-(i) format: An applicant shall prepare separate course
-outlines for each type of aeroplane;
-(ii) ground course outline;
-(iii) the Authority will accept any arrangement of subjects
-if all the subject material listed in Table A is included and at least the minimum programmed hours are assigned to each subject;
-(iv) if any flight engineer training course holder desires to
-include additional subjects in the ground course curriculum, the hours allotted to these additional subjects may not be included in the minimum programmed classroom hours;
-(v) all subjects, except theory of flight and aerodynamics
-and regulations, shall apply to the same type of aeroplane in which the flight engineer training course holder presents training;
-Civil Aviation [(No. 9) Approved Training Organisation] Regulations [Subsidiary]
-Table A
-Subject Area Classroom
-Hours Civil Aviation Regulations 10
-10 Theory of Flight and Aerodynamics Aeroplane Familiarisation, 90 Specifications to include, as applicable
-Construction features Engine Familiarisation, to 45 Flight controls include, as applicable Hydraulic systems Pneumatic systems Electrical systems
-Anti-icing and de-icing systems
-Pressurisation and air-conditioning systems Vacuum systems Pilot static systems Instrument systems Fuel and oil systems Emergency equipment
-Normal Operations Servicing methods and procedures 50 (Ground and Flight), to Operation of all the aeroplane systems include, as appropriate Operation of all the engine systems
-Loading and centre of gravity computations Cruise control (normal, long range, maximum
-endurance)
-Power and fuel computation
-Meteorology as applicable to engine operation
-Emergency Operations, Landing gear, brakes, flaps, speed brakes 80 to include and leading edge devices
-Pressurisation and air-conditioning
-Portable fire extinguishers
-Fuselage fire and smoke control
-Loss of electrical power
-Engine fire control
-Engine shut-down and restart
-Oxygen
-Total (exclusive of final 285 [Subsidiary] Civil Aviation [(No. 9) Approved Training Organisation] Regulations
-(b) flight course outline;
-(i) the flight training curriculum shall include at least
-10 hours of flight instruction in an aeroplane. A student may not credit the flight time required for the practical test as part of the required flight instruction;
-(ii) the flight engineer training course holder shall present
-all of the flight training in the same type aircraft;
-(iii) as appropriate to the aircraft type, the flight
-engineer training course holder shall teach the following subjects in the flight training course provided in Table B hereunder:
-Table B
-Subject Area
-Normal Duties, Procedures To include as appropriate- and Operations Aeroplane preflight
-Engine starting, power checks, pre-take-off, post-landing
-and shut-down procedures
-Power control Temperature control Engine operation analysis Operation of all systems Fuel management Logbook entries Pressurisation and air conditioning
-Subject Area
-Recognition and Correction Analysis of abnormal engine operation
-of In-Flight Malfunctions Analysis of abnormal operation of all systems
-Corrective action
-Emergency Operations Engine fire control
-Fuselage fire control
-Smoke control
-Loss of power or pressure in each system Engine overspeed
-Fuel dumping
-Landing gear, spoilers, speed brakes, and flap extension
-and retraction
-Engine shut-down and restart
-Use of oxygen
-Civil Aviation [(No. 9) Approved Training Organisation] Regulations [Subsidiary]
-(iv) the Authority may allow the school to teach the flight
-training time in a flight simulator;
-(v) to obtain credit for flight training time in a flight
-simulator, the student shall occupy the flight engineer station and operate the controls.
-(2) Revisions: Each flight engineer training course holder shall request revisions of the course outlines, facilities or equipment by following the procedures for original approval of the course.
-(3) Ground school credits:
-(a) a flight engineertraining courseholder may grant creditto a student
-in the ground school course for comparable previous training or experience that the student can show by written evidence;
-(b) a flight engineer training course holder shall meet the quality
-of instruction described in this standard;
-(c) before granting credit for previous training or experience, the
-flight engineer training course holder shall ensure that the student passes a test given by the flight engineer training course holder on the subject for which the credit is to be given;
-(d) the flight engineer training course holder shall incorporate
-results of the test, the basis for credit allowance, and the hours credited as part of the student's records.
-(4) Records and reports:
-(a) the flight engineer training course holder shall maintain, for at least
-two years after a student graduates, fails, or drops from a course, a record of the student's training, including a chronological log of the subject course, attendance, examinations, and grades;
-(b) except as provided in subparagraph (c), the flight engineer
-training course holder shall submit to the Authority, not later than January 31 of each year, a report for the previous calendar year's training, to include-
-(i) name, enrolment and graduation date of each student;
-(ii) ground school hours and grades of each student;
-(iii) flight and flight simulator hours, and grades of each
-student; and
-(iv) names of students failed or dropped, together with
-their school grades and reasons for dropping;
-(c) upon request, the Authority may waive the reporting
-requirements of subparagraph (b) of this paragraph for an approved flight engineer course that is part of an approved training course under Civil Aviation [(No. 3) Air Operator
-Certification and Administration] Regulations.
-[Subsidiary] Civil Aviation [(No. 9) Approved Training Organisation] Regulations
-(5) Quality of instruction:
-(a) the Authority shall revoke approval of a flight engineer
-training course holder's ground course whenever less than 80 per cent of the students pass the Authority's knowledge test on the first attempt;
-(b) the Authority shall revoke approval of a flight engineer
-training course holder's flight course whenever less than 80 per cent of the students pass the Authority's practical test on the first attempt;
-(c) notwithstanding subparagraphs (a) and (b), the Authority
-may allow continued approval of a ground or flight course when the Authority finds-
-(i) that the failure rate was based on less than a
-representative number of students; or
-(ii) that the flight engineer training course holder has
-taken satisfactory means to improve the effectiveness of the training.
-(6) Time limitation: Each student shall apply for the written test and
-the flight test within 90 days after completing the ground school course.
-(7) Statement of course completion:
-(a) each flight engineer training course holder shall give to each
-student who successfully completes an approved flight engineer ground school training course, and passes the Authority's knowledge test, a statement of successful completion of the course that indicates the date of training, the type of aeroplane on which the ground course training was based, and the number of hours received in the ground school course;
-(b) each flight engineer training course holder shall give each
-student who successfully completes an approved flight engineer flight course, and passed the Authority's practical test, a statement of successful completion of the flight course that indicates the dates of the training, the type of aeroplane used in the flight course, and the number of hours received in the flight course;
-(c) a flight engineer training course holder who is approved to
-conduct both the ground course and the flight course may include both courses in a single statement of course completion if the provisions of subparagraphs (a) and (b) of this paragraph are included; and
-Civil Aviation [(No. 9) Approved Training Organisation] Regulations [Subsidiary]
-(d) the requirements of this paragraph do not apply to a holder of
-an Air Operator Certificate with an approved training course under the Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations, providing the student receives a flight engineer licence upon completion of that course.
-(8) Duration: Except for a course operated as part of an approved training course under the Civil Aviation [(No.3) Air Operator Certification and Administration] Regulations, the approval to operate a flight engineer ground course or flight course terminates 24 months after the last day of the month of issue.
-Regulation 28(1)(b): Special Preparation Courses
-The following curriculum meets the minimum curriculum standard for the special preparation courses that are listed in regulation 28(1)(b):
-(1) Eligibility for enrolment: Prior to enrolling in the flight portion of a special preparation course, a person shall hold a pilot licence, flight instructor certificate, or ground instructor licence that is appropriate for the exercise of the operating privileges or authorisations sought.
-(2) General requirements-
-(a) to be approved, an applicant for a special preparation course
-shall present to the Authority a proposal that-
-(i) meets the appropriate requirements of this standard;
-(ii) prepares the graduate with the necessary skills,
-competency, and proficiency to exercise safely the privileges of the certificate, rating, or authorisation for which the course is established;
-(iii) includes ground and flight training on the operating
-privileges or authorisation sought.
-(3) Stage check and end-of-course tests: Each person to graduate from a special preparation course shall satisfactorily accomplish the stage checks and end-of-course tests, consisting of the areas of operation that are appropriate to the operating privileges or authorisation sought, and for which the course applies.
-(4) Agricultural aircraft operations course: A special preparation course for pilots in agricultural aircraft operations shall include at least the following:
-(a) 25 hours of training on-
-(i) agricultural aircraft operations;
-(ii) safe piloting operating practices and procedures for
-handling, dispensing, and disposing of agricultural and industrial chemicals, including operating in and around congested areas; and [Subsidiary] Civil Aviation [(No. 9) Approved Training Organisation] Regulations
-(iii) applicable provisions of the Act or Regulations
-made thereunder; and
-(b) 15 hours of flight training on agricultural aircraft operations.
-(5) Rotorcraft external-load operations course: A special preparation
-course for pilots of external-load operations shall include at least the following:
-(a) 10 hours of training on-
-(i) rotorcraft external-load operations;
-(ii) safe piloting operating practices and procedures for
-external-load operations, including operating in and around congested areas; and
-(iii) applicable provisions of the Act or Regulations
-made thereunder; and
-(b) 15 hours of flight training on external-load operations.
-(6) Test pilot course: Each applicant for, and holder of, a special
-preparation course for test pilot duties shall include at least the following:
-(a) aeronautical knowledge training on-
-(i) performing aircraft maintenance, quality assurance,
-and certification test flight operations; and
-(ii) applicable parts of these Regulations that pertain
-to aircraft maintenance, quality assurance, and certification tests; and
-(b) 15 hours of flight training.
-(7) Special operations course:
-(a) a special preparation course for pilots in special operations
-that are mission-specific for certain aircraft shall include at least the following:
-(i) aeronautical knowledge training on-
-(A) performing that special flight operation;
-(B) safe piloting operating practices and procedures
-for performing that special flight operation;
-(C) applicable parts of these Regulations that pertain
-to that special flight operation; and
-(D) pilot in command duties and responsibilities for
-performing that special flight operation; and
-(ii) flight training on that special flight operation.
-Civil Aviation [(No. 9) Approved Training Organisation] Regulations [Subsidiary]
-(8) Pilot refresher course: Each applicant for, and holder of, a special preparation pilot refresher course for a pilot licence, aircraft category and class rating, or an instrument rating shall include at least the following:
-(a) 4 hours of aeronautical knowledge training on-
-(i) the aeronautical knowledge areas that are applicable
-to the level of pilot licence, category rating, class rating, or instrument rating sought;
-(ii) safe piloting operating practices and procedures; and
-(iii) applicable provisions of Civil Aviation [(No. 1)
-General Application and Personnel Licensing] Regulations and the Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations;
-(b) 6 hours of flight training on the areas of operation that are
-applicable to the level of pilot licence, aircraft category and class rating, or instrument rating, as appropriate, for performing pilot-in-command duties and responsibilities.
-(9) Flight instructor refresher course: Each applicant for, and holder of, a special preparation flight instructor refresher course shall include at least a combined total of 16 hours of aeronautical knowledge training, flight training, or any combination of ground and flight training on the following:
-(a) aeronautical knowledge training on-
-(i) the aeronautical knowledge areas that apply to
-student, private, and commercial pilot licences and instrument ratings;
-(ii) the aeronautical knowledge areas that apply to flight
-instructor certificates;
-(iii) safe piloting operating practices and procedures,
-including airport operations and operating in the Trinidad and Tobago airspace system; and
-(iv) applicable provisions of Civil Aviation [(No. 1) General
-Application and Personnel Licensing] Regulations and the Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations and;
-(b) flight training, to review-
-(i) the areas of operations applicable to student, private,
-and commercial pilot licences and instrument ratings; and
-(ii) the skills, competency, and proficiency for performing
-flight instructor duties and responsibilities. [Subsidiary] Civil Aviation [(No. 9) Approved Training Organisation] Regulations
-(10) Ground instructor refresher course: A special preparation
-ground instructor refresher course shall include at least 16 hours of aeronautical knowledge training on-
-(a) the aeronautical knowledge areas that apply to student,
-private, and commercial pilots and instrument rated pilots and ground instructors;
-(b) safe piloting operating practices and procedures, including
-airport operations and operating in the Trinidad and Tobago airspace system; and
-(c) applicable provisions of Civil Aviation [(No. 1) General
-Application and Personnel Licensing] Regulations and the Civil Aviation [(No. 3) Air Operator Certification and
-Administration] Regulations.
-Regulation 28(1)(c): Pilot Ground School Course
-The following curriculum meets the minimum curriculum standard for
-a pilot ground school course:
-(1) General requirements: Each applicant for, and holder of, an
-approved training course for a pilot ground school shall include training on the aeronautical knowledge areas that are-
-(a) needed to safely exercise the privileges of the certificate,
-rating, or Authority for which the course is established; and
-(b) conducted to develop competency, proficiency,
-resourcefulness, self-confidence, and self-reliance in each student.
-(2) Aeronautical knowledge training requirements: Each applicant
-for, and holder of, an approved pilot ground school course shall include-
-(a) the aeronautical knowledge training that is appropriate to the
-aircraft rating and pilot licence level for which the course applies; and
-(b) an adequate number of total aeronautical knowledge training
-hours appropriate to the aircraft rating and pilot licence level for which the course applies.
-(3) Stage checks and end-of-course tests: Each person, to graduate
-from a pilot ground school course shall satisfactorily accomplish the stage checks and end-of-course tests, consisting of the areas of operation that are appropriate to the operating privileges or authorisation that graduation from the course will permit.
-Civil Aviation [(No. 9) Approved Training Organisation] Regulations [Subsidiary]
-Regulation 33(2): Level 2 Approved Training Organisation Instructor Training and Testing Requirements
-(1) Prior to initial designation, each flight and simulator flight instructor shall complete the following requirements:
-(a) complete at least 8 hours of ground training on the following
-subject matter:
-(i) instruction methods and techniques;
-(ii) training policies and procedures;
-(iii) the fundamental principles of the learning process;
-(iv) instructor duties, privileges, responsibilities, and
-limitations;
-(v) proper operation of simulation controls and systems;
-(vi) proper operation of environmental control and
-warning or caution panels;
-(vii) limitations of simulation;
-(viii) minimum equipment requirements for each curriculum;
-(ix) revisions to the training courses; and
-(x) cockpit resource management and crew co-ordination;
-(b) satisfactorily complete a knowledge test-
-(i) on the subjects specified in subparagraph (a); and
-(ii) that is accepted by the Authority as being of equivalent
-difficulty, complexity, and scope as the tests provided by the Authority for the flight instructor aeroplane and instrument flight instructor knowledge tests.
-(2) Each certificate holder shall ensure that each instructor who instructs in a flight simulator that the Authority has approved for all training and all testing for the airline transport pilot licensing test, aircraft type rating test, or both, has met at least one of the following requirements:
-(a) each instructor shall have performed 2 hours in flight, including
-three take-offs and three landings as the sole manipulator of the controls of an aircraft of the same category and class, and, if a type rating is required, of the same type replicated by the approved flight simulator in which that instructor is designated to instruct;
-(b) each instructor shall have participated in an approved line-
-observation programme as specified in Civil Aviation
-[(No. 2) Operations] Regulations, and that-
-(i) was accomplished in the same aeroplane type as the
-aeroplane represented by the flight simulator in which that instructor is designated to instruct; and [Subsidiary] Civil Aviation [(No. 9) Approved Training Organisation] Regulations
-(ii) included line-oriented flight training of at least 1 hour
-of flight during which the instructor was the sole manipulator of the controls in a flight simulator that replicated the same type aircraft for which that instructor is designated to instruct.
-Regulation 36(2): Approved Training Organisation with Level 1 Flight
-Training Specification Chief Flight Instructor Qualification
-(1) Each Approved Training Organisation shall designate a
-supervisory instructor for a flight training course who shall meet one or more of the following requirements, as applicable:
-(a) hold a commercial pilot licence or an airline transport pilot
-licence, and, except for a chief instructor for a training course solely for a lighter-than-air rating, a current flight instructor with appropriate aircraft category, class, and instrument ratings for the category and class of aircraft used in the course;
-(b) meet the pilot in command recent flight experience
-requirements of the Civil Aviation [(No. 2) Operations]
-Regulations, as applicable;
-(c) pass a knowledge test on-
-(i) teaching methods;
-(ii) applicable provisions of the Authority provided
-aeronautical information publications;
-(iii) applicable provisions of the Civil Aviation [(No. 1)
-General Application and Personnel Licensing] Regulations, the Civil Aviation [(No. 2) Operations] Regulations and the Civil Aviation [(No. 9) Approved Training Organisation] Regulations; and
-(iv) the objectives and approved course completion
-standards of the course for which the person seeks to obtain designation; and
-(d) pass a proficiency test on instructional skills and ability to
-train students on the flight procedures and manoeuvres appropriate to the course.
-(2) Except for a training course for gliders, balloons, or airships,
-the chief instructor shall meet the applicable requirements in paragraphs (3), (4) and (5).
-(3) For a training course for a private pilot licence or rating, a chief
-instructor shall have-
-(a) at least 1,000 hours as pilot in command; and
-Civil Aviation [(No. 9) Approved Training Organisation] Regulations [Subsidiary]
-(b) primary flight training experience as a flight instructor or an
-instructor in a military pilot flight training programme, or a combination thereof, consisting of at least 2 years and a total of 500 flight hours.
-(4) For a training course for an instrument rating or a rating with instrument privileges, a chief instructor shall have-
-(a) at least 100 hours of flight time under actual or simulated
-instrument conditions;
-(b) at least 1,000 hours as pilot in command; and
-(c) instrument flight instructor experience or an instructor in a
-military pilot flight training programme, or a combination thereof, consisting of at least-
-(i) 2 years and a total of 250 flight hours; or
-(ii) 400 flight hours of instrument flight instruction.
-(5) For a training course for other than a private pilot licence or rating, or an instrument rating or a rating with instrument privileges, a chief instructor shall have-
-(a) at least 2,000 hours as pilot in command; and
-(b) flight training experience as a flight instructor or an
-instructor in a military pilot flight training programme, or a combination thereof, consisting of at least 3 years and a total of 1,000 flight hours.
-(6) A chief instructor for a training course for gliders or balloons is required to have only 40 per cent of the hours required in paragraphs (3) and (5).
-(7) A chief instructor for a training course for airships is required to have only 40 per cent of the hours required in paragraphs (3), (4), and (5).
-(8) To be eligible as chief instructor for a ground school course, a person shall have one year of experience as a ground school instructor at a certified level 1 approved training organisation.
-Regulation 37(2): Approved Training Organisation with Level 1 Flight Training Specification-Assistant Chief Flight Instructor Qualification
-(1) To be eligible for designation as an assistant chief instructor, a person shall meet the following requirements:
-(a) hold a Commercial Pilot Licence or an Airline Transport Pilot
-Licence and, except for the assistant chief instructor for a training course for a lighter-than-air rating, a current flight instructor licence with appropriate aircraft category, class, and instrument ratings for the category and class of aircraft used in the course; [Subsidiary] Civil Aviation [(No. 9) Approved Training Organisation] Regulations
-(b) meet the pilot in command recent flight experience
-requirements of the Civil Aviation [(No. 2) Operations]
-Regulations as applicable;
-(c) pass a knowledge test on-
-(i) teaching methods;
-(ii) applicable provisions of the Trinidad and Tobago-
-provided aeronautical information publications;
-(iii) applicable provisions of the Civil Aviation [(No. 1)
-General Application and Personnel Licensing] Regulations, the Civil Aviation [(No. 2) Operations] Regulations and the Civil Aviation [(No. 9) Approved Training Organisation] Regulations; and
-(iv) the objectives and approved course completion
-standards of the course for which the person seeks to obtain designation;
-(d) pass a proficiency test on the flight procedures and
-manoeuvres appropriate to that course;
-(e) meet the applicable requirements in paragraphs (2), (3), and
-(4), except that an assistant chief instructor for a training course for gliders, balloons, or airships is required to have only 40 per cent of the hours required in paragraphs (2) and (3).
-(2) For a training course for a private pilot licence or rating, an
-assistant chief instructor shall have-
-(a) at least 500 hours as pilot in command; and
-(b) flight training experience as a flight instructor or an
-instructor in a military pilot flight training programme, or a combination thereof, consisting of at least 1 year and a total of 250 flight hours.
-(3) For a training course for an instrument rating or a rating with
-instrument privileges, an assistant chief flight instructor shall have-
-(a) at least 50 hours of flight time under actual or simulated
-instrument conditions;
-(b) at least 500 hours as pilot in command; and
-(c) instrument flight instructor experience as a flight instructor
-or an instructor in a military pilot flight training programme, or a combination thereof, consisting of at least 1 year and a total of 125 flight hours.
-(4) For a training course other than for a private pilot licence or
-rating, or an instrument rating or a rating with instrument privileges, an assistant chief instructor shall have-
-(a) at least 1,000 hours as pilot in command; and
-Civil Aviation [(No. 9) Approved Training Organisation] Regulations [Subsidiary]
-(b) flight training experience as a flight instructor or an
-instructor in a military pilot flight training programme, or a combination thereof, consisting of at least 11⁄2 years and a total of 500 flight hours.
-(5) To be eligible for designation as an assistant chief instructor for a ground school course, a person shall have 6 months of experience as a ground school instructor at a certified level 1 approved training organisation.
-Regulation 38(2): Approved Training Organisation with Level 1 Flight Training Specification-Check Instructor Qualifications
-(1) To be designated as a check instructor for conducting student stage checks, end-of-course tests, and instructor proficiency checks under this Part, a person shall meet the following requirements, as applicable:
-(a) pass a test, given by the chief instructor, on;
-(i) teaching methods;
-(ii) applicable provisions of the Trinidad and Tobago-
-provided aeronautical information publications;
-(iii) applicable provisions of Civil Aviation [(No. 1) General
-Application and Personnel Licensing] Regulations, the Civil Aviation [(No. 2) Operations] Regulations and the Civil Aviation [(No. 9) Approved Training Organisation] Regulations; and
-(iv) the objectives and course completion standards of the
-approved training course for the designation sought;
-(b) for flight checks and tests-
-(i) meet the requirements in paragraph (1)(a);
-(ii) hold a commercial pilot licence or an airline transport
-pilot licence and, except for a check instructor for a training course for a lighter-than-air rating, a current flight instructor licence, with appropriate aircraft category, class, and instrument ratings for the category and class of aircraft used in the course;
-(iii) meet the pilot in command recent flight experience
-requirements of the Civil Aviation [(No. 2) Operations] Regulations, as applicable; and
-(iv) pass a proficiency test, given by the chief instructor or
-assistant chief instructor, on the flight procedures and manoeuvres of the approved training course;
-(c) for checks and tests that relate to ground training-
-(i) meet the requirements in paragraph (1)(a); [Subsidiary] Civil Aviation [(No. 9) Approved Training Organisation] Regulations
-(ii) except for a training course for a lighter-than-air rating,
-hold a current flight instructor licence or ground instructor licence with ratings appropriate to the category and class of aircraft used in the course; and
-(iii) for a training course for a lighter-than-air rating, hold
-a commercial pilot licence with a lighter-than-air category rating and the appropriate class rating.
-(2) Before functioning as a check instructor, a person who meets the
-eligibility requirements in paragraph (1)(a) shall-
-(a) be designated in writing by the chief instructor to conduct
-student stage checks, end-of-course tests, and instructor proficiency checks; and
-(b) be approved by the Authority.
-(3) A check instructor may not conduct a stage check or an end-of-
-course test of any student for whom the check instructor has-
-(a) served as the principal instructor; or
-(b) recommended for a stage check or end-of-course test.
-Regulation 42(2): Transfer Privileges
-(1) An Approved Training Organisation with Level 1 Flight Training
-Specifications receiving a student from another level 1 approved training organisation may credit that pilot's previous experience towards the curriculum requirements of a course subject to the following conditions:
-*(a) if the credit is based upon regulation 42 or regulation 53, the
-gaining Approved Training Organisation may credit that student not more than 50 per cent of the curriculum requirements;
-*(b) if the credit is not based upon regulation 42 or regulation 53, the
-gaining Approved Training Organisation may credit that student not more than 25 per cent of the curriculum requirements.
-(2) The receiving Approved Training Organisation may grant credit
-for training specified in paragraph (1)(a) or paragraph (1)(b) only if the previous provider of the training has certified the kind and amount of training provided, and the result of each stage check and end-of-course test, if applicable, given to the student. *Note: The receiving Approved Training Organisation shall determine the amount of course
-credit to be credited under subparagraph (a) or subparagraph (b), based on a proficiency test or knowledge test, or both, of the student.
-Civil Aviation [(No. 9) Approved Training Organisation] Regulations [Subsidiary]
-(3) An AMT training course holder may evaluate and grant credit for an entrant's previous training provided-
-(a) the AMT training course holder determines that the training
-is verifiable and comparable to portions of the training programme; and
-(b) the individual requesting credit passes an examination given
-by the AMT training course holder, which is equivalent to those examinations given by the AMT training course holder for the same subject in the training programme.
-Regulation 45: Training Course: Contents
-(1) Each applicant for, and holder of, an Approved Training Organisation Certificate with Level 1 Flight Training Specifications shall ensure that each training course contains-
-(a) a description of each flight simulator or flight training device
-used for training;
-(b) a listing of the airports at which training flights originate and
-a description of the facilities, including pilot briefing areas that are available for use by the school's students and personnel at each of those airports;
-(c) a description of the type of aircraft including any special
-equipment used for each phase of training;
-(d) the minimum qualifications and ratings for each instructor
-assigned to ground or flight training; and
-(e) a training syllabus that includes-
-(i) the prerequisites for enrolling in the ground and flight
-portion of the course that include the pilot licence and rating (if required by this part), training, pilot experience, and pilot knowledge;
-(ii) a detailed description of each lesson, including the lesson's
-objectives, standards, and planned time for completion;
-(iii) course learning objectives;
-(iv) stage learning objectives and standards; and
-(v) a description of the checks and tests to be used to
-measure learning after each stage of training.
-(2) An Approved Training Organisation with Level 2 Flight Training Specifications may-
-(a) include training in a flight simulator or flight training device,
-provided it is representative of the aircraft for which the course is approved, meets the requirements of this paragraph, and the training is given by an authorised instructor; and [Subsidiary] Civil Aviation [(No. 9) Approved Training Organisation] Regulations
-(b) permit a student to credit training in a flight simulator that
-meets the requirements of regulation 30 for a maximum of 25 per cent of the total flight training hour requirements of the approved course.
-Regulation 50(2)(b), (4) and (5)
-1. The following Implementing Standards identify the subject matter,
-the time in which each topic and the level to which the topics are to be covered:
-Level 1-denotes a basic understanding of a subject. Trainees should
-have a basic understanding of the subject but are not expected to be able to apply it in practice;
-Level 2-denotes understanding of the subject and the ability, where
-applicable, to apply it in practice with the help of reference materials and instructions; and
-Level 3-denotes a thorough understanding of the subject and the
-ability to apply it with speed, accuracy and judgement appropriate to the circumstances;
-(a) Knowledge training areas for the Aircraft Maintenance
-Engineer Licence categories:
-(i) A-Airframe, Fixed wing:
-Civil aviation requirements, laws and regulations
-Hours Level
-1 International and State aviation law 10 3 2 Airworthiness requirements 10 3 3 Civil aviation operating regulations 10 3 4 Air transport operations 10 3 5 Organisation and management of the operator 10 3 6 Operator economics related to maintenance 10 3 7 Approved maintenance organisations (AMOs) 30 3 8 Aircraft maintenance licence requirements 10 3 9 The role of the State aviation regulatory body 10 3 10 Aircraft certification, documents and maintenance 10 3
-Natural science and general principles of aircraft
-1 Mathematics 75 1 2 Physics 70 1
-Civil Aviation [(No. 9) Approved Training Organisation] Regulations [Subsidiary]
-Hours Level 3 Technical Drawing 70 1 4 Chemistry 30 1 5 Fixed wing aerodynamics and flight control 100 2
-Aircraft engineering and maintenance: Airframe 1 Maintenance practices and materials: Airframe/ 200 3
-Power Plant 2 Aircraft systems and structures: Fixed wing 250 3 3 Airship systems and structures 100 3
-Human performance and limitations-Required
-knowledge, skills and attitudes 1 General programme overview 3 3 2 Human Factors knowledge 3 3 3 Communication skills 3 3 4 Teamwork skills 3 3 5 Performance management 3 3 6 Situation awareness 3 3 7 Human error 3 3 8 Reporting and investigating errors 3 3 9 Monitoring and auditing 3 3 10 Document design 3 3
-(ii) A-Airframe, Rotary wing:
-Civil aviation requirements, laws and regulations 1 International and State aviation law 10 3 2 Airworthiness requirements 10 3 3 Civil aviation operating regulations 10 3 4 Air transport operations 10 3 5 Organisation and management of the operator 10 3 6 Operator economics related to maintenance 10 3 7 Approved maintenance organisations (AMOs) 30 3 8 Aircraft maintenance licence requirements 10 3 9 The role of the State aviation regulatory body 10 3 10 Aircraft certification, documents and maintenance 10 3 [Subsidiary] Civil Aviation [(No. 9) Approved Training Organisation] Regulations
-Hours Level
-Natural science and general principles of aircraft
-1 Mathematics 75 1 2 Physics 70 1 3 Technical drawing 70 1 4 Chemistry 30 2 5 Rotary wing aerodynamics and flight control 100 2
-Human performance and limitations-Required
-knowledge, skills and attitudes
-1 General programme overview 3 3 2 Human Factors knowledge 3 3 3 Communication skills 3 3 4 Teamwork skills 3 3 5 Performance management 3 3 6 Situation awareness 3 3 7 Human error 3 3 8 Reporting and investigating errors 3 3 9 Monitoring and auditing 3 3 10 Document design 3 3
-(iii) C-Engine, Piston:
-Civil aviation requirements, laws and regulations
-1 International and State aviation law 10 3 2 Airworthiness requirements 10 3 3 Civil aviation operating regulations 10 3 4 Air transport operations 10 3 5 Organisation and management of the operator 10 3 6 Operator economics related to maintenance 10 3 7 Approved maintenance organisations (AMOs) 30 3 8 Aircraft maintenance licence requirements 10 3 9 The role of the State aviation regulatory body 10 3 10 Aircraft certification, documents and maintenance 10 3
-Civil Aviation [(No. 9) Approved Training Organisation] Regulations [Subsidiary]
-Hours Level
-Natural science and general principles of aircraft 1 Mathematics 75 1 2 Physics 70 1 3 Technical drawing 70 1 4 Chemistry 30 1
-Aircraft engineering and maintenance: Engines/
-Power Plants 1 Piston engines 250 3 2 Propellers 100 3 3 Fuel systems 100 3
-Human performance and limitations-Required
-knowledge, skills and attitudes 1 General programme overview 3 3 2 Human Factors knowledge 3 3 3 Communication skills 3 3 4 Teamwork skills 3 3 5 Performance management 3 3 6 Situation awareness 3 3 7 Human error 3 3 8 Reporting and investigating errors 3 3 9 Monitoring and auditing 3 3 10 Document design 3 3
-(iv) C-Engine, Turbo-jet, Turbo-shaft and Turbo-propeller:
-Civil aviation requirements, laws and regulations 1 International and State aviation law 10 3 2 Airworthiness requirements 10 3 3 Civil aviation operating regulations 10 3 4 Air transport operations 10 3 5 Organisation and management of the operator 10 3 6 Operator Economics related to maintenance 10 3 7 Approved maintenance organisations (AMOs) 30 3 [Subsidiary] Civil Aviation [(No. 9) Approved Training Organisation] Regulations
-(iv) C-Engine, Turbo-jet, Turbo-shaft and Turbo-
-propeller:-Continued
-Civil aviation requirements, laws and regulations-Continued
-Hours Level
-8 Aircraft maintenance licence requirements 10 3 9 The role of the State aviation regulatory body 10 3 10 Aircraft certification, documents and maintenance 10 3
-Natural science and general principles of aircraft
-1 Mathematics 75 1 2 Physics 70 1 3 Technical Drawing 70 1 4 Chemistry 30 1
-Aircraft engineering and maintenance: Engines/
-Power Plants
-1 Propellers 100 3 2 Gas turbine engines 300 3 3 Fuel systems 100 3
-Human performance and limitations-Required
-knowledge, skills and attitudes
-1 General programme overview 3 3 2 Human Factors knowledge 3 3 3 Communication skills 3 3 4 Teamwork skills 3 3 5 Performance management 3 3 6 Situation awareness 3 3 7 Human error 3 3 8 Reporting and investigating errors 3 3 9 Monitoring and auditing 3 3 10 Document design 3 3
-(v) E-Avionics Systems, Electrical, Instruments and
-Radio Systems:
-Civil aviation requirements, laws and regulations
-1 International and State aviation law 10 3 2 Airworthiness requirements 10 3 3 Civil aviation operating regulations 10 3
-Civil Aviation [(No. 9) Approved Training Organisation] Regulations [Subsidiary]
-Hours Level 4 Air transport operations 10 3 5 Organisation and management of the operator 10 3 6 Operator economics related to maintenance 10 3 7 Approved maintenance organisations (AMOs) 30 3 8 Aircraft maintenance licence requirements 10 3 9 The role of the State aviation regulatory body 10 3 10 Aircraft certification, documents and maintenance 10 3
-Natural science and general principles of aircraft 1 Mathematics 75 1 2 Physics 70 1 3 Technical drawing 70 1 4 Chemistry 30 1
-Aircraft engineering and maintenance: Avionics/
-Electrical and Instrument 1 Maintenance practices and materials 200 3 2 Electrical and electronic fundamentals 450 2 3 Digital techniques, computers and associated devices 200 2 4 Aircraft electrical systems 250 3 5 Aircraft instrument systems 250 3
-Aircraft engineering and maintenance: Avionics-
-Navigation/Radio 1 Aircraft inertial navigation systems (INS) 60 3 2 Aircraft radio and radio navigation systems 450 3
-Human performance and limitations-Required
-knowledge, skills and attitudes 1 General programme overview 3 3 2 Human Factors knowledge 3 3 3 Communication skills 3 3 4 Teamwork skills 3 3 5 Performance management 3 3 6 Situation awareness 3 3 7 Human error 3 3 [Subsidiary] Civil Aviation [(No. 9) Approved Training Organisation] Regulations
-Human performance and limitations-Required
-knowledge, skills and attitudes-Continued
-Hours Level
-8 Reporting and investigating errors 3 3 9 Monitoring and auditing 3 3 10 Document design 3 3
-(vi) E2-Avionics Systems, Electrical, Instruments, Auto-
-Flight, Flight Management and Radio Systems:
-Civil aviation requirements, laws and regulations
-1 International and State aviation law 10 3 2 Airworthiness requirements 10 3 3 Civil aviation operating regulations 10 3 4 Air transport operations 10 3 5 Organisation and management of the operator 10 3 6 Operator economics related to maintenance 10 3 7 Approved maintenance organisations (AMOs) 30 3 8 Aircraft maintenance licence requirements 10 3 9 The role of the State aviation regulatory body 10 3 10 Aircraft certification, documents and maintenance 10 3
-Natural science and general principles of aircraft
-1 Mathematics 75 1 2 Physics 70 1 3 Technical drawing 70 1 4 Chemistry 30 1
-Aircraft engineering and maintenance: Avionics/
-Electrical and Instrument
-1 Maintenance practices and materials 200 3 2 Electrical and electronic fundamentals 450 2 3 Digital techniques, computers and associated devices 200 2 4 Aircraft electrical systems 250 3 5 Aircraft instrument systems 250 3
-Aircraft engineering and maintenance: Avionics-
-AFCS/Navigation/Radio
-1 Automatic flight control systems (AFCS): Fixed wing 200 3 2 Automatic flight control systems (AFCS): Rotary wing 75 3
-Civil Aviation [(No. 9) Approved Training Organisation] Regulations [Subsidiary]
-Hours Level 3 Aircraft inertial navigation systems (INS) 60 3 4 Aircraft radio and radio navigation systems 450 3
-Human performance and limitations-Required
-knowledge, skills and attitudes 1 General programme overview 3 3 2 Human Factors knowledge 3 3 3 Communication skills 3 3 4 Teamwork skills 3 3 5 Performance management 3 3 6 Situation awareness 3 3 7 Human error 3 3 8 Reporting and investigating errors 3 3 9 Monitoring and auditing 3 3 10 Document design 3 3
-(b) Skills training areas for the Aircraft Maintenance Engineer
-Licence categories:
-(i) A-Airframe, Fixed Wing and Rotary Wing:
-Practical maintenance skills-Airframe
-1 Basic workshop and maintenance practices-Airframe 725 3 2 Basic workshop and maintenance practices-Repair, 1000 3
-maintenance and function testing of aircraft systems and components 3 Job and task documentation and control practices 100 3
-(ii) C-Engine, Piston and Turbo-jet, Turbo-prop and
-Turbo-Shaft:
-Practical maintenance skills-Engine and Propeller 1 Basic workshop and maintenance practices-Engine 450 3
-and propeller 2 Basic workshop and maintenance practices-Engine, 450 3
-propeller systems, component and function testing 3 Job and task documentation and control practices 100 3 [Subsidiary] Civil Aviation [(No. 9) Approved Training Organisation] Regulations
-Hours Level
-(iii) E1-Avionics Systems:
-Practical maintenance skills-Electrical,
-Instruments and Radio
-1 Basic workshop and maintenance practices-Avionics 775 3
-Electrical
-2 Basic workshop and maintenance practices-Avionics 1000 3
-Instruments
-3 Basic workshop and maintenance practices-Avionics 875 3
-Radio
-4 Repair, maintenance and function testing of aircraft 100 3
-avionics systems and components
-5 Job and task documentation and control practices 100 3
-(iv) E2-Avionics Systems:
-Practical maintenance skills-Electrical, Instruments,
-Auto-flight and Radio
-1 Basic workshop and maintenance practices-Avionics 775 3
-Electrical
-2 Basic workshop and maintenance practices-Avionics 1000 3
-Instruments
-3 Basic workshop and maintenance practices-Avionics 225 3
-Auto Flight
-4 Basic workshop and maintenance practices-Avionics 875 3
-Radio
-5 Repair, maintenance and function testing of aircraft 100 3
-avionics systems and components
-6 Job and task documentation and control practices 100 3
-(c) Training for a type rating shall be in accordance with the
-manufacturer's type rating course.
-Civil Aviation [(No. 10) Foreign Operator] Regulations [Subsidiary]
-CIVIL AVIATION [(NO. 10) FOREIGN OPERATOR]
-REGULATIONS
+The following standards are numbered to correspond numerically with the relevant provisions in the Regulations: Regulation 16
+The categories of operation under Regulation 16 and the related purposes for which the aircraft may fly are as outlined in the following Table:
+TABLE
+Category of Operation Purpose
+Transport Category (Passengers) Any Purpose
+Transport Category (Cargo) Any purpose other than public transport
+of passengers
+Aerial Work Category Any purpose other than public transport
+Private Category Any purpose other than public
+transport or aerial work
+Special Category Any purpose other than public transport,
+specified in the certificate of Airworthiness but not including the carriage of passengers unless expressly permitted
+Regulation 18
+The following provisions set out the minimum standards for the continued airworthiness of aircraft and components:
+(a) inspections classified as mandatory include but are not limited
+to duplicate inspections. A duplicate inspection is an inspection first made and certified by one person authorised under the Regulations and subsequently made and certified by a second person authorised under the Regulations. It shall be conducted following initial assembly or any disturbance of a Control System. A control system is a system by which the flight path, attitude, or propulsive force of an aircraft is changed, including the flight controls, engine and propeller controls, the related system controls and the associated operating mechanisms;
+(b) duplicate inspections are also applicable to any defined point
+of the aircraft at any point where a single mal-assembly could lead to an accident or serious incident;
+(c) a duplicate inspection of all Vital Points and Control
+Systems in an aircraft shall be made after initial assembly and before a Certificate of Release to Service has been issued after overhaul, repair, replacement, modification or adjustment and, in any case, before the first flight;
+(d) the first and second inspections of a duplicate inspection
+must take account of the full extent of the work undertaken and not simply the immediate area of disturbance. This is to ensure that distant or remote parts of the system that may have been affected by the disturbance are also subject to duplicate inspections. Where work has been carried out on other systems for safety precautions, or to enhance accessibility, the need to carry out a duplicate inspection on these systems shall be considered. Persons who carry out and certify duplicate inspections are therefore required to undertake an independent review of the complete task, as detailed in the maintenance manual and by reference to worksheets used, including shift hand-over records, to assess the scope of the duplicate inspection(s) required;
+(e) it may not be possible to inspect the complete Vital Point or
+Control System when assembled in the aircraft, due to routing the controls through conduits or boxed-in sections and the pre-sealing of various units. In these cases the persons certifying the duplicate inspection shall be satisfied that a duplicate inspection has been made previously on the units and covered sections and that the sealed units are acceptable for the particular use. Such tests as are necessary shall be completed to determine that these particular units and sections have full, free and correct directional movement;
+(f) vital Point or Control Systems subject to duplicate inspection
+must not be disturbed or re-adjusted after the first certified inspection and the second part of the duplicate inspection must, as nearly as possible, follow immediately after the first part;
+(g) if a Vital Point or Control System is disturbed after completion
+of the duplicate inspection, that part which has been disturbed shall again be inspected in duplicate and a Certificate of Release to Service issued before the aircraft flies;
+(h) the duplicate inspection shall be the final operation to
+establish the integrity of the Vital Point or Control System when all the work has been completed and shall take into account all the relevant instructions and information contained in the associated technical data;
+(i) the inspections prescribed here shall include an inspection to
+ensure that full, free and correct movement of the controls is obtained throughout the systems relative to the movements of the crew controls. An additional inspection shall be made, when all covers and fairings are finally secured, to ensure that full, free and correct movement of the controls is obtained;
+(j) persons qualified to make the first and second part of a
+duplicate inspection are as follows:
+(i) appropriately licensed aircraft engineers;
+(ii) persons employed by approved Organisations, who are
+appropriately authorised to make such inspections and to certify the task itself in accordance with company procedures;
+(k) should a minor adjustment of the Vital Point or Control
+System be necessary when the aircraft is away from base, the second part of the duplicate inspection may be completed by a pilot or flight engineer licensed for the type of aircraft concerned, providing that Authorisation is granted by the responsible Approved Maintenance Organisation, if the aircraft is being used for the purpose of Commercial Air Transport;
+(l) where appropriate to the type of unit or component forming
+part of a Control System, a schedule of inspections and functioning tests shall be compiled at manufacture, overhaul and repair, and the following shall be certified:
+(i) duplicate inspection of the section/parts of the units or
+components which will be concealed during bench assembly and which cannot be proved during inspections and functioning tests when installed in the aircraft Control System;
+(ii) duplicate inspection of the completed assembly of the
+unit or component, functioning and checking for correct relative movement; and
+(m) persons qualified to make the first and second part of the
+duplicate inspection required units or components are as follows:
+(i) for Approved Manufacturing Organisations, persons
+employed who are appropriately authorised and qualified to make such inspections in accordance with company procedures. Persons employed by a sub-contracting firm, not directly approved by Authority, who are appropriately authorised by the primary Approved Organisation with a Quality Control Surveillance System controlling the sub-contractor, qualified to make such inspections; and
+(ii) for Approved Maintenance Organisations who release
+Control System units and components, both inspections
+and the subsequent Certificates of Release to Service must be issued by persons authorised by the Maintenance Organisation approved under the Act or
+Regulations made thereunder.
+Regulation 19
+An Aircraft Maintenance Progamme under regulation 19 shall meet the following minimum standards:
+(a) a reliability programme shall be part of an Aircraft
+Maintenance Programme and shall be required when specified by the Manufacturer's Maintenance Planning Document or a Maintenance Review Board Report or as specified below. Operators may, however, develop their own reliability monitoring programme which shall be approved by the Authority when it may be deemed beneficial from a maintenance planning point of view;
+(b) reliability programmes general-
+(i) an operator shall ensure the airworthiness of the
+aeroplane and the serviceability of both operational and emergency equipment by performing all maintenance to an approved maintenance programme;
+(ii) an operator should have a system to analyse the
+effectiveness of the maintenance programme with regard to spares, established defects, malfunctions and damage, and to amend the maintenance programme (this amendment will involve the approval of the authority);
+(iii) the maintenance programme will be required to
+include reliability programme when the authority determines that such a reliability programme is necessary;
+(iv) where an operator wishes to use an aeroplane with the
+initial operator's aeroplane maintenance programme based upon the maintenance review board report process, any associated programme for the continuous surveillance of the reliability, or health monitoring of the aeroplane should be considered as part of the aeroplane maintenance programme; and
+(v) some approved operator's aeroplane maintenance
+programmes, not developed from the maintenance review board process, utilise reliability programmes. Such reliability programmes should be considered as a part of the approved maintenance programme;
+(c) reliability programmes-
+(i) should be developed for aeroplane maintenance
+programmes based upon Maintenance Steering Group logic or those that include condition monitored components or that do not contain overhaul time periods for all significant system components;
+(ii) need not be developed for aeroplane maintenance
+programmes of aeroplanes of five thousand seven hundred kilogrammes and below or that do contain overhaul time periods for all significant system components; and
+(iii) form one important method of updating approved
+maintenance programmes;
+(d) a reliability programme is required in the following cases:
+(i) the aeroplane maintenance programme is based upon
+Maintenance Steering Group-3 logic;
+(ii) the aeroplane maintenance programme includes
+condition monitored components; and
+(iii) the aeroplane maintenance programme does not
+contain overhaul time periods for all significant system components when specified by the Manufacturer's maintenance planning document or Maintenance Review Board;
+(e) a reliability programme is not required in the following cases:
+(i) the maintenance programme is based upon the
+Maintenance Steering Group-1 or 2 logic but only contains hard time or on condition items;
+(ii) the aeroplane maximum take-off mass is five thousand
+seven hundred kilogrammes or below; and
+(iii) the aircraft maintenance programme provides overhaul
+time periods for all significant system components;
+(f) application to operators of small fleets of less than six
+aircraft of the same type-
+(i) the requirement for a reliability programme is
+irrespective of the operator's fleet size;
+(ii) complex reliability programmes could be inappropriate
+for a small fleet and is recommended that such operators tailor their Reliability Programmes to suit the size and complexity of operation;
+(iii) one difficulty with a small fleet of aircraft is the
+amount of available data which can be processed,
+when this amount is too low, the calculation of alert level is very coarse. Therefore "alert levels" should be used carefully;
+(iv) an operator of a small fleet of aircraft, when establishing
+a reliability programme, should consider the following:
+(A) the programme should focus on areas where a
+sufficient amount of data is likely to be processed;
+(B) when the amount of available data is very
+limited, the engineering judgment of the operator is then a vital element;
+(C) careful engineering analysis should be
+exercised before taking decisions in the following circumstances:
+(I) A "0" rate in the statistical calculation
+may possibly simply reveal that enough statistical data is missing, rather that there is no potential problem;
+(II) when alert levels are used, a single
+event may have the figures reach the alert level. Engineering judgment is necessary so as to discriminate an artifact from an actual need for a corrective action;
+(III) in making his engineering judgment,
+an operator is encouraged to establish contact and make comparisons with other operators of the same aircraft, where possible and relevant. Making comparison with data provided by the Manufacturer may also be possible;
+(IV) in order to obtain accurate reliability
+data, it should be recommended to pool data and analysis with one or more other operators;
+(D) notwithstanding the above there are cases
+where the operator will be unable to pool data with other operators, e.g., at the introduction to service of a new type. In that case the Authority should impose additional restrictions on the Maintenance Review Board or Maintenance Planning Document tasks intervals (e.g., no variations or only minor evolution are possible, and with the Authority approval);
+(v) pooling arrangements-
+(A) in some cases, in order that sufficient data
+may be analysed it may be desirable to "pool" data: i.e., collate data from a number of operators of the same type of aircraft. For the analysis to be valid, the aircraft concerned, mode of operation, and maintenance procedures applied must be substantially the same; variations in utilisation between two operators may more than anything, fundamentally corrupt the analysis. Although not exhaustive, the following list gives guidance on the primary factors which need to be taken into account:
+(I) certification factors, such as-aircraft
+Type Certificate Data Sheet, compliance modification status, including Service Bulletin compliance;
+(II) operational factors, such as-
+operational environment, utilisation, for example, low, high, and seasonal, respective fleet size operating rules applicable, for example, extended range operations, reduced vertical separation minimum and weather operations, operating procedures, Minimum Equipment List and Minimum Equipment List utilisation;
+(III) maintenance factors, such as-aircraft
+age maintenance procedures; maintenance standards applicable; lubrication procedures and programme; Maintenance Planning Document revision or escalation applied or maintenance programme applicable;
+(B) although it may not be necessary for all of the
+foregoing to be completely common, it is necessary for a substantial amount of commonality to prevail. Decision should be taken by the Authority on a case by case basis;
+(C) in case of a short-term lease agreement (less
+than six months) more flexibility against the above criteria may be granted by the Authority, so as to allow the operator to operate the aircraft under the same programme during the lease agreement effectively;
+(D) changes by any one of the operators to the
+above requires assessment in order that the pooling benefits can be maintained. Where an operator wishes to pool data in this way, the approval of the Authority should be sought prior to any formal agreement being signed between operators;
+(E) whereas it is intended to address the pooling
+of data directly between operators, it is acceptable that the operator participates in a reliability programme managed by the aircraft manufacturer, when the Authority is satisfied that the manufacturer manages a reliability programme which complies with the intend of this leaflet;
+(vi) engineering judgment-
+(A) engineering judgment is itself inherent to
+Reliability Programmes as no interpretation of data is possible without judgment. In approving the Operator's Maintenance and reliability programmes, the Authority is expected to ensure that the organisation which runs the programme (it may be the operator, or an Approved Maintenance Organisation under contract) hires sufficiently qualified personnel with appropriate engineering experience and understanding of reliability concept;
+(B) it follows that failure to provide
+appropriately qualified personnel for the reliability programme may lead the Authority to reject the approval of the reliability programme and therefore the aircraft maintenance programme;
+(g) reliability programme elements-
+(i) objectives-
+a statement should be included summarising as
+precisely as possible the prime objectives of the Programme. The extent of the objectives should be directly related to the scope of the Programme, which could vary from a component defect monitoring system to an integrated maintenance management programme. The manufacturer's maintenance planning documents may give guidance on the objectives and should be consulted in every case;
+(ii) identification of items-
+the Items controlled by the Programme should be
+stated. Where some items (e.g., aircraft structure, engines, Auxiliary Power Unit) are controlled by separate inspection and development procedures, the associated procedures will be subject to individual approval by the Authority, e.g., individual Sampling or Life Development Programmes, Constructor's Structure Sampling Programmes. In the case of the Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations approved programme, these supplemental documents shall form part of the approved maintenance control manual or maintenance organisation procedures manual as appropriate and should be cross-referenced in the programme;
+(iii) terms and definitions-
+the significant terms and definitions applicable to
+the Programme should be clearly identified. Terms already defined in the World Airlines Technical Glossary of Terms and other industry standards should be used. The number of other defined terms should be kept to a minimum;
+(iv) information sources and collection-
+(A) sources of information should be listed, and
+the procedures for the transmission of information from the sources, together with the procedure for collecting and receiving it, should be set out in detail. In the case of the Civil Aviation [(No. 3) Air Operator Certification and Administration]
+Regulations approval, these procedures should be listed in the maintenance control manual or maintenance organisation procedures manual as appropriate;
+(B) the type of information to be collected should
+be related to the objectives of the Programme and should be such that it enables both an overall broad-based assessment of the information to be made and also allows for assessments to be made as to whether any reaction, both to trends and to individual events, is necessary. The following are examples of the normal prime sources:
+(I) pilots reports;
+(II) technical logs; (III) aircraft maintenance access
+terminal/on-board;
+(IV) maintenance system readouts;
+(V) maintenance worksheets;
+(VI) workshop reports; (VII) reports on functional checks; (VIII) reports on special inspections;
+(IX) stores issues/reports;
+(X) air safety reports; and
+(XI) reports on technical delays;
+(C) in addition to the normal prime sources of
+information, due account should be taken of continuing airworthiness and safety information promulgated by Airworthiness Authorities,
+Constructors and Manufacturers;
+*(vi) displays-
+(A) collected information may be displayed in
+either graphical or tabular presentations or a combination of both. The rules governing any separation or discarding of information prior to incorporation into these displays should be stated. The format of any display should be such that the identification of trends, specific highlights and related arising would be readily apparent;
+(B) displays should include provisions for "nil
+returns" to aid the examination of the total information;
+(C) where "standards" or "alert levels" are
+included in the Programme, the display information should be oriented accordingly;
+(vii) examination, analysis and interpretation of information-
+(A) examination-
+(I) methods of examination of information
+may be varied according to the content and quantity of information of individual Programmes. These can range from examination of the initial indication of performance variations to formalised detailed procedures at specified periods and the methods should be fully described in the Programme documentation;
+(II) the procedures for analysis and
+interpretation of information should be such as to enable the performance of the items controlled by the Programme to be measured. They should also facilitate recognition, diagnosis and recording of significant problems. The whole process should be such as to enable a critical assessment to be made of the effectiveness of the Programme as a total activity. Such a process may involve-
+(aa) comparisons of operational
+reliability with established or allocated standards (in the initial period these could be obtained from in-service experience of similar equipment or aircraft types);
+(bb) analysis and interpretation of
+trends;
+(cc) the evaluation of repetitive
+defects;
+(dd) confidence testing of expected
+and achieved results;
+(ee) studies of life-bands and
+survival characteristics;
+(ff) reliability predictions;
+(gg) other methods of assessment;
+(III) the range and depth of engineering
+analysis and interpretation should be related to the particular Programme and to the facilities available. The following, at least, should be taken into account:
+(aa) flight defects and reductions in
+operational reliability;
+(bb) defects occurring on-line and at
+main base;
+(cc) deterioration observed during
+routine maintenance;
+(dd) workshop and overhaul facility
+findings;
+(ee) modification evaluations;
+(ff) sampling programmes;
+(gg) the adequacy of maintenance
+equipment and publications;
+(hh) the effectiveness of maintenance
+procedures;
+(ii) staff training;
+(jj) service bulletins, technical
+instructions, etc;
+(B) where the Operator relies upon contracted
+maintenance and overhaul facilities as input to the Programme, the arrangements for availability and continuity of such information should be established and details should be included;
+(viii) corrective actions-
+(A) the procedures and time scales both for
+implementing corrective actions and for monitoring the effects of corrective actions should be fully described. Corrective actions should correct any reduction in reliability revealed by the programme and could take the form of-
+(I) changes to operational procedures or
+techniques;
+(II) maintenance changes involving
+inspection frequency and content, function checks, overhaul requirements and time limits, which will require amendment of the scheduled maintenance periods or tasks in the approved Programme;
+(III) amendments to Approved manuals (e.g.,
+Maintenance Manual, Crew Manual);
+(IV) initiation of modifications;
+(V) special inspections or fleet campaigns;
+(VI) spares provisioning; (VII) staff training; and (VIII) manpower and equipment planning;
+(B) the procedures for effecting changes to the
+Programme should be described, and the associated documentation should include a planned completion date for each corrective action, where applicable;
+(ix) organisational responsibilities-
+the organisational structure and the departments
+responsible for the administration of the Programme should be stated. The chains of responsibility for individuals and departments (Engineering Production, Quality Control, Operations, etc.) in respect of the Programme, together with the formation and functions of any Programme control committees, should be defined. This information should be contained in the Maintenance Control Manual as appropriate;
+(x) presentation of information to the Authority-
+(A) the production of reports and the notification
+of Programme events to the Authority will have to be agreed with the Authority. As the information to be supplied to the Authority will vary for individual Programmes, the Programme and its associated documentation should define at least the following:
+(B) the format and content of routine and event
+reports;
+(C) the time scales for the production of reports
+together with their distribution;
+(D) details of any special reports (Annual
+Reports, special investigations, etc.);
+(E) reports supporting requests for increases in
+periods between maintenance (escalation) and for amendments to the Programme. These reports should contain sufficient detailed information to enable the Authority to make its own evaluation where necessary;
+(F) the production and distribution of agenda
+and minutes of various meetings related to the Programme and its functions;
+(G) the identification of the availability of any
+non-reportable information which may be used to support the Programme (e.g., "in-house" information);
+(H) any relationship between the reporting
+procedures of the Programme and the requirements for Mandatory Occurrence Reporting;
+(xi) evaluation and review:
+(A) each programme should describe the
+procedures and individual responsibilities in respect of continuous monitoring of the effectiveness of the Programme as a whole. The time periods and the procedures for both routine and non-routine reviews of maintenance control should be detailed (progressive, monthly, quarterly, or annual reviews, procedures following reliability "standards" or "alert levels" being exceeded, etc.);
+(B) each programme should contain procedures
+for monitoring and, as necessary, revising the reliability "standards" or "alert levels". The organisational responsibilities for monitoring and revising the "standards" should be specified together with associated time scales;
+(C) although not exhaustive, the following list
+gives guidance on the criteria to be taken into account during the review:
+(I) utilisation;
+(II) fleet commonality; (III) alert level adjustment criteria;
+(IV) adequacy of data;
+(V) reliability procedure audit;
+(VI) staff training; and (VII) operating and maintenance procedures;
+(xii) condition monitored maintenance is not acceptable as
+the primary maintenance process for any items, the failure of which can produce-
+(A) a hazardous increase in crew workload;
+(B) degradation of flight qualities, performance
+or strength of the aircraft;
+(C) fire; or
+(D) the necessity for an unscheduled landing,
+marginal conditions for occupants or injury to occupants;
+(xiii) operator derived reliability programmes-
+(A) operators who select to submit for approval a
+reliability centred maintenance programme, even though the Type Certificate holder may not require it, must include in the programme a classification listing which will indicate the importance of each item to continued airworthiness of the aircraft in the event of failure of the item so classified. Normally, this classification is applied after consultation between the Operator, Constructor and the Authority, but, alternatively, due account may be taken of MRB findings and Maintenance Steering Group logic analysis in arriving at the appropriate classification;
+(B) classifications should be as follows:
+(I) items, the failure of which, would
+reduce the airworthiness of the aircraft to an unacceptable level. The reliability of such items will be controlled by the allocation of an overhaul period and/or Failure Rate
+Monitoring;
+(II) items, the failure of which, would
+reduce the airworthiness of the aircraft but not to an unacceptable level. Such items will be controlled by Failure Rate Monitoring. Where it is known that an item is subject to wear or deterioration, the allocation of an overhaul period may be necessary;
+(III) items, the single failure of which does not
+affect the airworthiness of the aircraft;
+(h) an operator shall, where the Authority requests, make
+available the Maintenance Programmes and all associated airworthiness data, including that data used for the substantiation of escalation programmes shall be made available to the Authority upon request;
+(i) a maintenance programme submitted for approval shall
+contain the following information:
+(i) reference number, issue number and date;
+(ii) registered name and address of the owner or operator;
+(iii) type and model of aircraft, engines, auxiliary
+power-units, and, where applicable, propellers;
+(iv) areas of operation of the aircraft;
+(v) class of work in relation to the areas of operation;
+(vi) registration marks of aircraft maintained in accordance
+with the programme;
+(vii) details of any arrangements involving the co-operation
+of more than one operator, or which involve the combination of information from other aircraft fleets for the purpose of providing additional statistical and sampling material;
+(j) primary maintenance processes:
+In respect of each part of the aircraft, its engines and auxiliary power-units, propellers, components, accessories,
+equipment, instruments, electrical and radio apparatus, and all associates systems and installations (hereinafter referred to as "an Item"), a list of the primary maintenance processes in terms of-
+(i) cross-reference, where applicable, to the source of the
+task, e.g., Maintenance Review Board Report and Maintenance Planning Document;
+(ii) periods at which the item shall be inspected, together
+with the type and degree of inspection;
+(iii) periods at which the item shall, as appropriate, be
+checked, cleaned, lubricated, adjusted and tested;
+(iv) periods at which the item shall be overhauled or
+replaced by a new or overhauled item, expressed in terms of-
+(A) a criterion related to usage, e.g., a period of
+time, number of cycles, number of landings;
+(B) criterion related to conditions, e.g., limits of
+wear, limiting dimensions;
+(v) the mandatory life limitations to which certain parts of
+aircraft, engines, propellers, auxiliary power units and systems, the failure of which could have a hazardous effect on the aircraft, are subject. The limitations may be itemised in the programme, or included by reference to the appropriate airworthiness data;
+(vi) processes other than the primary Maintenance
+Programme as are agreed by the Authority which may include-
+(A) condition monitoring;
+(B) optional maintenance processes;
+(C) operator required supplemental inspections;
+(D) recommended from service bulletins or other
+service information;
+(E) passenger entertainment or aircraft
+appearance tasks;
+(vii) a record of the amendments incorporated in the
+programme;
+(viii) reference to the source of the content of the programme,
+e.g., Maintenance Review Board, Maintenance Planning Document and Maintenance Manual;
+(ix) criteria for "packaging" checks (e.g., A Check-
+400FH, B Check-800 FH, etc.);
+(k) maintenance programmes-engines and auxiliary power units-
+A reliability centred maintenance and condition
+monitored maintenance programme for an engine or auxiliary power unit is required when the restoration task for the engine or auxiliary power unit is not defined as either a hot section inspection (hsi) and/or overhaul in accordance with the constructor's approved engine overhaul manual;
+(i) approval-
+Engine or Auxiliary Power Unit Programmes
+should form part of the associated aircraft Programme. These procedures provide guidance on elements to be followed to obtain Authority approval of Programmes, and amendments to them;
+(ii) programme elements-
+(A) Introduction
+An Engine or Auxiliary Power Unit
+Reliability Centred Maintenance and Condition Monitored Maintenance Programme provides for the integration of Reliability Analysis, Hard Time Control, On Condition and Condition Monitoring into one Programme. It may vary in size and scope depending on the complexity and number of different engine and Auxiliary Power Unit types being controlled by the Programme. The Programme sets out the means to identify both on-wing and off-wing maintenance tasks. On-wing engine or Auxiliary Power Unit maintenance tasks and their intervals are initially established by means of threshold and opportunity samples, Constructor's Engine Maintenance Planning Guides and the inspection requirements of the Engine Manuals. The on-wing and off-wing maintenance tasks and intervals may be changed as a result of reviewing the experience gained by operating the Programme and information provided in Service Bulletins, Manual Revisions, Service Letters, Airworthiness Directives and other relevant sources.
+(B) Objectives
+A statement should be included
+summarising the objectives of the Programme, together with a definition of the engines or Auxiliary Power Unit types controlled by the Programme and the associated aircraft in which those engine or
+Auxiliary Power Unit types are installed.
+(C) Identification
+The engine or Auxiliary Power Unit
+Programme document can be unique and separate from the associated aircraft Programme or it can form part of the aircraft Programme. If it is a separate document, it should be identified by a reference number, issue number and date and be cross-referred from the appropriate part of the aircraft Programme.
+(D) Data Pooling Arrangements
+The primary factors which, where appropriate,
+should be taken into account for engines and Auxiliary Power Units are dealt with under Reliability Programmes General.
+(E) Sub-Contracting
+It is permissible for the operator to enter
+into a sub-contract arrangement with an organisation which has the necessary resources and experience on the engine or Auxiliary Power Unit type, to manage the Programme, and is acceptable to the Authority. However, this sub-contract arrangement does not absolve the Operator from the overall responsibility for ensuring the safe operation and continuing airworthiness of the aircraft to which the engine or Auxiliary Power Unit is installed.
+(F) Data Collection, Analysis and Interpretation
+The data required for analysis and control
+of the engine or Auxiliary Power Unit Programme together with associated procedures for the collection analysis and interpretation of the data should be defined in the Programme. In the case of an approval under Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations, these procedures should be listed in the Maintenance Control Manual or Maintenance Organisation Procedures Manuals appropriate. The following is typical of the data which should be collected for an engine or Auxiliary Power Unit Programme:
+(I) oil consumption trend monitoring;
+(II) pilots reports; (III) aircraft maintenance access terminal/
+on-board maintenance system readouts;
+(IV) boroscope inspection findings;
+(V) magnetic chip detector findings;
+(VI) in flight shut down, abandoned take-off,
+unscheduled removal rates and causes;
+(VII) delay and cancellation rates and causes; (VIII) performance trend analysis;
+(IX) engine and auxiliary power unit
+removal reports;
+(X) airworthiness directives, manufacturer's
+information and publications, e.g., service bulletins, service letters, all operator wires, etc;.
+(XI) engine or auxiliary power unit and
+component workshop strip and condition reports;
+(XII) vibration monitoring; (XIII) sampling programme findings; (XIV) reliability programme (statistical displays);
+(G) the final list of data to be collected, analysed
+and interpreted should be related to the objectives of the Programme and experience of operating the particular engine or Auxiliary Power unit type.
+(H) Sampling programme
+The Programme should define a threshold
+life at which a sample engine/module or Auxiliary Power Unit should be scheduled for removal if sufficient data regarding engine or module or Auxiliary Power Unit internal conditions has not been generated by previous scheduled or unscheduled removals. Subsequent requirements should be based upon a review of all applicable evidence, e.g., defect investigations, workshop investigations, health monitoring data and evidence from other operators.
+(I) Technical recording of life limited components
+The programme should give details of the
+method used and organisational responsibilities for recording flying hours, engine or auxiliary power unit cycles, training "touch and go" landings, etc., which are needed to show compliance with the mandatory life limitations of the engine or Auxiliary Power Unit and for controlling "hard" and "soft" time intervals;
+(J) Refurbish and rework specifications
+Every engine, module and Auxiliary
+Power Unit whose restoration task is not defined as either a HSI or Overhaul in accordance with an appropriate Overhaul Manual (Engine Manual) should have a rework or refurbish specification established in accordance with the procedures defined in the Programme. The Specification should define the minimum modification standard and the degree of strip inspection and rework necessary to release an engine, module or Auxiliary Power Unit for specified periods of service usage. The content of the Specification should be based upon the appropriate Constructor's Maintenance Planning Guides, threshold and opportunity samples, the inspection requirements of the engine manuals and the review and analysis of the data collected by the programme.
+(K) Repair and overhaul organisations
+The Programme should define the nominated
+Approved Maintenance Organisation or
+engine and Auxiliary Power Unit repair and overhaul Organisations which are to be used, together with any contractual instructions to which the Organisations will be required to work. In the case of a Programme under Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations, this information should be contained in the Maintenance Control manual or Maintenance Organisation Procedures Manual as appropriate.
+(L) Corrective actions
+The Programme should define the means
+by which the collected data is routinely analysed and interpreted in order to monitor the effectiveness of the current on-wing and off-wing maintenance tasks and airworthiness of the fleet and so identify the need for any remedial action and appropriate timescales. The procedure for changing or escalating any of the on and off-wing tasks, inspections and time intervals should also be defined in the programme.
+(iii) Organisational responsibilities
+The organisational structure of the Operator and
+where appropriate the sub-contracted maintenance, repair and overhaul Organisations responsible for the administration and control of the Programme should be defined. The responsibilities for decision making with respect to both the on-wing and off-wing elements of the Programme shall be clearly defined in the Programme. In the case of the Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations Programme, this information should be contained in the Maintenance Control Manual or Maintenance
+Organisation Procedures Manual as appropriate.
+(iv) Management evaluation and review
+The Programme should be managed effectively
+and ensure that good communications prevail between the various technical and quality departments of the Operator and if appropriate, the sub-contracted maintenance, engine and Auxiliary Power Unit repair and overhaul Organisations. The Programme should define how the review, agreement, co-ordination and communication are ensured in the following areas:
+(A) Contractual arrangements
+Where the Operator sub-contracts any of
+the on-wing or off-wing engine or Auxiliary Power Unit maintenance, repair and overhaul, both the Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations and non Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations Programmes require the details of the arrangements for maintenance, repair and overhaul to be clearly defined in a written maintenance contract. This is necessary to ensure that the technical and quality personnel of all the sub-contract Organisations which are involved in the application of the contract have a common understanding of the technical requirements of the Programme and of their respective duties and responsibilities.
+(B) Engine auxiliary power unit workscopes
+Each engine, module and Auxiliary Power Unit upon removal from an aircraft, should have an individual workscope prepared. The workscope should detail the reason for removal, engine or Auxiliary Power Unit hours and cycles accrued in service, list any outstanding defects and define the required work to be carried out during the shop visit, cross-referring, where appropriate, to the refurbish specification. The content of the workscope should also reflect any corrective actions which the Programme has previously identified as needing to be carried out at this visit. Where sub-contract arrangements exist,
+the content of the workscope should be agreed by the Operator and the sub-contract maintenance, engine repair and overhaul
+Organisation as appropriate.
+(C) Rework and refurbish specification
+Regular liaison between the technical and
+quality personnel of the Operator and where appropriate, the sub-contract maintenance, engine or Auxiliary Power Unit repair and overhaul Organisation should take place to review, and update the content of the engine, module and Auxiliary Power Unit rework and refurbish specifications. The review should be based upon the results of the analysis conducted upon the data collected in accordance with these procedures.
+(v) Technical and quality review
+It is necessary for the Operator and where
+appropriate the sub-contracted maintenance, engine repair and overhaul Organisations to periodically review all of the data inputs and reliability analysis defined in the Programme together with any adverse quality audit findings and action taken. The review should seek to adjust "alert levels", identify trends, address any reduction in reliability or increase of in-flight shut down rate, delays, and cancellations and so implement any necessary remedial action.
+(vi) Management overview
+Every Programme should have a controlling body
+which is responsible for the implementation, decision making and overall running of the Programme. Management at a senior level (Quality Manager, Engineering Manager, etc.) should periodically review the effectiveness of the Programme, and where necessary, implement changes.
+(vii) Changes to the programme
+Any significant changes to the Programme will
+require approval of the Authority. Regulation 23
+1. Modifications and repairs under regulation 23 may be classified as major modification or major repair where a "yes" response is given to any of the questions in the Table. Other modification or repair would be considered minor modification or minor repair.
+TABLE
+CRITERIA FOR ASSESSING A MODIFICATION OR
+REPAIR AS MAJOR OR MINOR
+Item Question
+General
+1 Is the change being accomplished as an alternative
+means of compliance with an airworthiness directive or equivalent?
+Mass and Balance
+2 Does the change involve a revision in the approved
+mass limitations or centre or gravity range limits?
+3 Does the change require the installation of ballast or
+use of other methods to maintain the centre of gravity within the approved limits?
+Performance and Flight Characteristics
+4 Does the change involve alterations to the
+configuration of the aircraft which may-
+(a) increase drag;
+(b) after the thrust or power;
+(c) affect stability or controllability;
+(d) induce flutter or vibration; or
+(e) alter the stalling characteristics to an extent
+which necessitates analysis or test?
+Structural Strength
+5 Does the change involve a principal component of the
+aircraft structure such as a frame, stringer, rib, spar or stressed skin?
+TABLE-Continued
+CRITERIA FOR ASSESSING A MODIFICATION OR
+REPAIR AS MAJOR OR MINOR
+Item Question 6 Does the change involve a structural element which is
+addressed as part of a damage tolerance or fatigue/fail-safe evaluation?
+7 Is a pressure vessel penetration or change involved?
+8 Does the change involve the installation of an item of
+mass necessitating structural re-evaluation?
+9 Does the change involve the installation or alteration of
+a containment or restraint system intended for the stowage of items of significant mass?
+10 Does the change involve repairs or modifications to
+the load-bearing structure of seats, harnesses of their means of attachment or any other occupant restraint equipment?
+11 Does the change involve the substitution of materials?
+Power plant Operation
+12 Does the change significantly affect the power plant or
+propeller or their accessories?
+13 Does the change involve equipment for which there is
+no performance standard which has been approved or accepted by the airworthiness authority?
+14 Does the change affect the probability of failure
+conditions that could impair or preclude continued safe flight or landing?
+15 Does the change affect the pilot's visibility or impair
+the pilot's capability to control the aircraft?
+16 Does the change involve alterations to the interior
+arrangement or cabin materials?
+TABLE-Continued
+CRITERIA FOR ASSESSING A MODIFICATION OR
+REPAIR AS MAJOR OR MINOR
+Structural Strength
+17 Does the change involve systems for cabin pressurisation
+or the provision of breathing oxygen?
+18 Does the change involve flight controls or an autopilot?
+19 Does the change involve critical or essential components
+of the electrical system such as generators, alternators, inverters, batteries, distribution buses, or bus protection and control devices?
+20 Does the change affect instrument or indicators or their
+subsystems that provide navigation information?
+21 Does the change affect instruments, indicators or
+their subsystems that provide essential or critical information concerning the aircraft status?
+22 Does the change affect a regulated placard?
+23 Does the change affect any approved information
+contained in the flight manual or equivalent document?
+Other Qualities Affecting Environmental Characteristics
+24 Does the change alter the aircraft noise or emission
+characteristics?
+Non-Standard Practices
+25 Does the change involve practices or techniques which
+are novel or unproven in the proposed application?
+2. The following are typically classified as major modifications or major repairs where they meet the criteria in clause 1:
+(a) Major modifications:
+(i) major modifications include modifications to the listed
+aircraft parts, or the listed types of modifications (when not included in the applicable aircraft specifications)-
+(A) wings;
+(B) tail surfaces;
+(C) fuselage;
+(D) engine mounts;
+(E) control system;
+(F) landing gear;
+(G) hull or floats;
+(H) elements of an airframe including spars,
+ribs, fittings, shock absorbers, bracing, cowlings, fairings, and balance weights;
+(I) hydraulic and electrical actuating system of
+components;
+(J) rotor blades;
+(K) changes to the empty weight or empty balance
+which result in an increase in the maximum certified weight or centre of gravity limits of the aircraft;
+(L) changes to the basic design of the fuel, oil,
+cooling, heating, cabin pressurisation, electrical, hydraulic, de-icing, or exhaust systems;
+(M) changes to the wing or to fixed or movable
+control surfaces which affect flutter and vibration characteristics;
+(ii) major power plant modifications, even when not listed
+in the applicable engine specifications, include-
+(A) conversion of an aircraft engine from one
+approved model to another, involving any changes in compression ratio, propeller reduction gear, impeller gear ratios or the substitution of major engine parts which requires extensive re-work and testing of the engine;
+(B) changes to the engine by replacing aircraft
+engine structural parts with parts not supplied by the original manufacturer or parts not specifically approved by the
+Authority;
+(C) installation of an accessory which is not
+approved for the engine;
+(D) removal of accessories that are listed as
+required equipment on the aircraft or engine specification;
+(E) installation of structural parts other than the
+type of parts approved for the installation;
+(F) conversions of any sort for the purpose of
+using fuel of a rating or grade other than that listed in the engine specifications;
+(iii) major propeller modifications, when not authorised in
+the applicable propeller specifications, include-
+(A) changes in blade design;
+(B) changes in hub design;
+(C) changes in the governor or control design;
+(D) installation of a propeller governor or
+feathering system;
+(E) installation of propeller de-icing system;
+(F) installation of parts not approved for the
+propeller;
+(iv) modifications of the basic design not made in
+accordance with recommendations of the appliance manufacturer or in accordance with applicable Airworthiness Directive are appliance major modifications. In addition, changes in the basic design of radio communication and navigation equipment approved under type certification or other Authorisation that have an effect on frequency stability, noise level, sensitivity, selectivity, distortion, spurious radiation, Automatic Voltage Control characteristics, or ability to meet environmental test conditions and other changes that have an effect on the performance of the equipment are also major modifications;
+(b) Major repairs:
+(i) Airframe major repairs. Repairs to the following parts
+of an airframe and repairs of the following types, involving the strengthening, reinforcing, splicing, and manufacturing of primary structural members of their replacement, when replacement is by fabrication such as riveting or welding, are airframe major repairs:
+(A) box beams;
+(B) monocoque or semi-monocoque wings or
+control surfaces;
+(C) wing stringers or chord members;
+(D) spars;
+(E) spar flanges;
+(F) members of truss-type beams;
+(G) thin sheet webs of beams;
+(H) keel and chine members of boat hulls or floats;
+(I) corrugated sheet compression members which
+act as flange material of wings or tail surfaces;
+(J) wing main ribs and compression members;
+(K) wing or tail surface brace struts;
+(L) engine mounts;
+(M) fuselage longerons;
+(N) members of the side truss, horizontal truss,
+or bulkheads;
+(O) main seat support braces and brackets;
+(P) landing gear brace struts;
+(Q) axles;
+(R) wheels;
+(S) parts of the control system such as control
+columns, pedals, shafts, brackets, or horns;
+(T) repairs involving the substitution of material;
+(U) the repair of damaged areas in metal or
+plywood stressed covering exceeding six inches in any direction;
+(V) the repair of portions of skin sheets by making
+additional seams;
+(W) the splicing of skin sheets;
+(X) the repair of three or more adjacent wing or
+control surface ribs or the leading edge of wings and control surfaces, between such adjacent ribs;
+(Y) repair of fabric covering involving an area
+greater than that required to repair two adjacent ribs;
+(Z) replacement of fabric on fabric covered parts
+such as wings, fuselages, stabilisers, and control surfaces;
+(AA) repairing, including re-bottoming, of
+removable or integral fuel tanks oil tanks;
+(ii) Power plant major repairs. Repairs of the following
+parts of an engine and repairs of the following types, are power plant major repairs:
+(A) separation or disassembly of a crankcase or
+crankshaft of a reciprocating engine equipped with an integral supercharger;
+(B) separation or disassembly of a crankcase or
+crankshaft of a reciprocating engine equipped with other than spur-type propeller reduction gearing;
+(C) special repairs to structural engine parts by
+welding, plating, metalising, or other methods;
+(iii) Propeller Major Repairs. Repairs of the following
+types to a propeller are propeller major repairs:
+(A) any repairs to or straightening of steel blades;
+(B) repairing or machining of steel hubs;
+(C) shortening of blades;
+(D) re-tipping of wood propellers;
+(E) replacement of outer laminations on fixed
+pitch wood propellers;
+(F) repairing elongated bolt holes in the hub of
+fixed pitch wood propellers;
+(G) inlay work on wood blades;
+(H) repairs to composition blades;
+(I) replacement of tip fabric;
+(J) replacement of plastic covering;
+(K) repair of propeller governors;
+(L) overhaul of controllable pitch propellers;
+(M) repairs to deep dents, cuts, scars, nicks, etc.,
+and straightening of aluminum blades; and
+(N) the repair or replacement of internal elements
+of blades;
+(iv) Appliance major repairs. Repairs of the following
+types to appliances are appliance major repairs:
+(A) calibration and repair of instruments;
+(B) calibration of avionics or computer equipment;
+(C) rewinding the field coil of an electrical
+accessory;
+(D) complete disassembly of complex hydraulic
+power valves;
+(E) overhaul of pressure type carburetors, and
+pressure type fuel, oil, and hydraulic pumps.
+Regulation 25
+Preventive maintenance under regulation 25 is limited to the following work, provided it does not involve complex assembly operations:
+(a) removal, installation and repair of landing gear tyres;
+(b) replacing elastic shock absorber cords on landing gear;
+(c) servicing landing gear shock struts by adding oil, air, or both;
+servicing landing gear wheel bearings, such as cleaning and greasing;
+(d) replacing defective safety wiring or cotter keys;
+(e) lubrication not requiring disassembly other than removal of
+non-structural items such as cover plates, cowlings, and fairings;
+(f) making simple fabric patches not requiring rib stitching or
+the removal of structural parts or control surfaces;
+(g) replenishing hydraulic fluid in the hydraulic reservoir;
+(h) refinishing decorative coating of fuselage, wings, tail group
+surfaces (excluding balanced control surfaces), fairings, cowling, landing gear, cabin, or cockpit interior when removal or disassembly of any primary structure or operating system is not required;
+(i) applying preservative or protective material to components
+where no disassembly of any primary structure or operating system is involved and where such coating is not prohibited or is not contrary to good practices;
+(j) repairing upholstery and decorative furnishings of the cabin
+or cockpit when the repairing does not require disassembly of any primary structure or operating system or interfere with an operating system or affect primary structure of the aircraft;
+(k) making small simple repairs to fairings, non-structural cover
+plates, cowlings, and small patches and reinforcements not changing the contour so as to interfere with proper airflow;
+(l) replacing side windows where that work does not interfere
+with the structure of any operating system such as controls, electrical equipment, etc;
+(m) replacing seats or seat parts with replacement parts approved
+for the aircraft, not involving disassembly of any primary structure or operating system;
+(n) troubleshooting and repairing broken circuits in landing
+light wiring circuits;
+(o) replacing bulbs, reflectors, and lenses of position and
+landing lights;
+(p) replacing wheels and skis where no weight and balance
+computation is involved;
+(q) replacing any cowling not requiring removal of the propeller
+or disconnection of flight controls;
+(r) replacing or cleaning spark plugs and setting of spark plug
+gap clearance;
+(s) replacing any hose connection except hydraulic connections;
+(t) replacing prefabricated fuel lines;
+(u) cleaning fuel and oil strainers;
+(v) replacing and servicing batteries;
+(w) replacement or adjustment of non-structural fasteners
+incidental to operations; and
+(x) the installation of anti-misfueling devices to reduce the
+diameter of fuel tank filler openings provided the specific device has been made a part of the aircraft type certificate data by the aircraft manufacturer, the manufacturer has provided appropriately approved instructions acceptable to the Authority for the installation of the specific device, and installation does not involve the disassembly of the existing filler opening.
+Regulation 30 One hundred-hour inspections under regulation 30 shall meet the following minimum standards for its performance:
+(a) a person authorised under these Regulations to perform an
+annual or one hundred-hour inspection shall, before that inspection, thoroughly clean the aircraft and aircraft engine and remove or open all necessary inspection plates, access doors, fairings and cowlings;
+(b) a person authorised under these Regulations performing an
+annual or one hundred-hour inspection shall inspect, where applicable, the following components:
+(i) fuselage and hull group-
+(A) fabric and skin-for deterioration, distortion,
+other evidence of failure, and defective or insecure attachment of fittings;
+(B) systems and components-for improper
+installation, apparent defects, and unsatisfactory operation;
+(C) the cabin and cockpit group;
+(D) generally-for uncleanness and loose
+equipment that might foul the controls;
+(E) seats and safety belts-for poor condition and
+apparent defects;
+(F) windows and windshields-for deterioration
+and breakage;
+(G) instruments-for poor condition, mounting,
+marking, and (where practicable) for improper operation;
+(H) flight and engine controls for improper
+installation and improper operation;
+(I) batteries-for improper installation and
+improper charge; and
+(J) all systems-for improper installation, poor
+general condition, apparent and obvious defects, and insecurity of attachment;
+(ii) engine and nacelle group-
+(A) engine section-for visual evidence of
+excessive oil, fuel, or hydraulic leaks, and sources of such leaks;
+(B) studs and nuts-for improper torquing and
+obvious defects;
+(C) internal engine-for cylinder compression
+and for metal particles or foreign matter on screens and sump drain plugs; if there is weak cylinder compression, for improper internal condition and improper internal tolerances;
+(D) engine mount-for cracks, looseness of
+mounting, and looseness of engine to mount;
+(E) flexible vibration dampeners-for poor
+condition and deterioration;
+(F) engine controls-for defects, improper
+travel, and improper safetying;
+(G) lines, hoses, and clamps-for leaks,
+improper condition, and looseness;
+(H) exhaust stacks-for cracks, defects, and
+improper attachment;
+(I) accessories-for apparent defects in security
+of mounting;
+(J) all systems-for improper installation, poor
+general condition, defects, and insecure attachment; and
+(K) cowling-for cracks and defects;
+(iii) landing gear group-
+(A) all units-for poor condition and insecurity
+of attachment;
+(B) shock absorbing devices-for improper oleo
+fluid level;
+(C) linkage, trusses, and members-for undue or
+excessive wear, fatigue, and distortion;
+(D) retracting and locking mechanism-for
+improper operation;
+(E) hydraulic lines-for leakage;
+(F) electrical system-for chafing and improper
+operation of switches;
+(G) wheels-for cracks, defects, and condition
+of bearings;
+(H) tires-for wear and cuts;
+(I) brakes-for improper adjustment; and
+(J) floats and skis-for insecure attachment and
+obvious or apparent defects;
+(iv) wing and centre section assembly for-
+(A) poor general condition;
+(B) fabric or skin deterioration;
+(C) distortion;
+(D) evidence of failure;
+(E) insecurity of attachment;
+(v) complete empennage assembly for-
+(A) poor general condition;
+(B) fabric or skin deterioration;
+(C) distortion;
+(D) evidence of failure;
+(E) insecure attachment;
+(F) improper component installation; and
+(G) improper component operation;
+(vi) propeller group-
+(A) propeller assembly-for cracks, nicks, binds,
+and oil leakage;
+(B) bolts-for improper torquing and lack of
+safety;
+(C) anti-icing devices-for improper operations
+and obvious defects; and
+(D) control mechanisms-for improper operation,
+insecure mounting, and restricted travel;
+(vii) avionics or instrument group-
+(A) avionics or instruments equipment-for
+improper installation and insecure mounting;
+(B) wiring and conduits-for improper routing,
+insecure mounting, and obvious defects;
+(C) bonding and shielding-for improper
+installation and poor condition; and
+(D) antenna including trailing antenna-for poor
+condition, insecure mounting, and improper operation;
+(viii) electronic/electrical group-
+(A) wiring and conduits-for improper routing,
+insecure mounting, and obvious defects; and
+(B) bonding and shielding-for improper
+installation and poor condition;
+(ix) each installed miscellaneous item that is not otherwise
+covered by this listing and/or has instructions for continued airworthiness-for improper installation and improper operation. Regulation 31A
+Certificate of Maintenance Review required to operate a Trinidad and Tobago aircraft in civil aviation operations:
+CERTIFICATE OF MAINTENANCE REVIEW
+Aircraft Type: ...
+Nationality and Registration Mark: ...
+Certified that a maintenance review of this aircraft and such of its equipment as is necessary for its airworthiness has been carried out in accordance with the requirements of the Act and Regulations made thereunder for the time being in force.
+The next maintenance review is due: ...
+Name: ... Signature: ...
+CAA Licence No.: ... Date: ...
+Organisation: ...
+Regulation 34
+The content and form of the Maintenance, Preventive Maintenance and Rebuilding Record under regulation 34 shall meet the following minimum standards:
+(a) appropriately authorised persons may maintain or perform
+preventive maintenance, an aeronautical product. When the
+work is satisfactorily performed, the person who has performed the work is required to make the following entries on the applicable forms and document for recording purposes, such as Logbooks, Technical Log, Routine and non-Routine Work/Record cards, Major Modification and Major Repair Record card. Certain documents may be provided by the Authority, however, where the operator develops official company documents for recording purposes, such documents shall be approved by the Authority prior to official use;
+(b) the maintenance record entry is required to include "a description
+of the work performed", which must be in sufficient detail to permit a person unfamiliar with the work to understand what was done, including the methods and procedures used in doing it. Manufacturer's manuals, service letters, bulletins, work orders, and others, which accurately describe what was done, or how it was done, may be referenced. Except for the documents mentioned, which are in common usage, referenced documents are to be made a part of the maintenance records;
+(c) the date of completion of work performed is normally the
+date upon which the work is approved for return to service. However, when work is accomplished by one person and approved for return to service by another, the date may differ. The date the work performed was completed must be appended on the record document;
+(d) the name in block letters, signature and certificate number of the
+person approving the aircraft for return to service is the only signature required. The signature constitutes the Certificate of Release to Service only for the work performed. The signature of the person who accomplished the work may be appended in an "accomplished by" column but is not a requirement;
+(e) recording of Major Repairs and Major Modifications-
+(i) each person performing a major repair or major
+modification shall-
+(A) complete the major repair and major
+modification form prescribed by the Authority at least in duplicate;
+(B) give a signed copy of that form to the aircraft
+operator; and
+(C) forward a copy of that form to the Authority,
+in accordance with Authority instructions, within 48 hours after the aeronautical product is approved for return to service;
+(ii) in place of the requirements of paragraph (a), major
+repairs made in accordance with a manual or specifications acceptable to the Authority, an Approved Maintenance Organisation may-
+(A) use the customer's work order upon which
+the repair is recorded;
+(B) give the aircraft owner a signed copy of the
+work order and retain a duplicate copy for at least one year from the date of approval for return to service of the aeronautical product;
+(C) give the aircraft owner a maintenance release
+signed by an authorised representative of the Approved Maintenance Organisation and incorporating the following information:
+(I) identity of the aeronautical product;
+(II) if an aircraft, the make, model, serial
+number, nationality and registration marks, and location of the repaired area;
+(III) if an aeronautical product, give the
+manufacturer's name, name of the part, model, and serial numbers (if any); and
+(IV) (Deleted by LN 226/2005).
+The aeronautical product identified above was repaired, overhauled and inspected in accordance with currently effective, applicable instructions of the State of Design and regulatory requirements of the Authority, and is approved for return to service.
+Pertinent details of the repair are on file at this maintenance organisation.
+Order No... Date ...
+Signed ...
+(Signature of authorised representative)
+...
+(Facility Name) (Approved Maintenance Organisation Certificate Number)
+...
+(Address)
+Regulation 35
+Records of the overhaul and rebuilding of an aeronautical product under regulation 35 shall meet the following minimum standards:
+(a) the overhaul of an aeronautical product shall entail the
+restoration of an aircraft or aeronautical product using methods, techniques, and practices acceptable to the Authority, including disassembly, cleaning, and inspection as permitted, repair as necessary, and reassembly and tested in accordance with approved standards and technical data, or in accordance with current standards and technical data acceptable to the Authority, which have been developed and documented by the State of Design, holder of the type certificate, supplemental type certificate, or a material, part, process, or appliance approval under Parts Manufacturing Authorisation (PMA) or Technical Standard Order (TSO);
+(b) having satisfied paragraphs (1), the authorised maintenance
+personnel may describe the maintenance activity to be an
+"overhaul" and make records to so indicate;
+(c) the rebuilding of an aeronautical product shall include-
+(i) the restoration of an aircraft/aeronautical product by
+using methods, techniques, and practices acceptable to the Authority, when it has been disassembled, cleaned, inspected as permitted, repaired as necessary, reassembled and tested to the same tolerances and limits as a new item, using either new parts or used parts that conform to new part tolerances and limits. The manufacturer or an organisation approved by the manufacturer and authorised by the State of Registry will be the only organisations to perform rebuilding of aeronautical products;
+(ii) the manufacturer of the component or the organisation
+approved by the manufacturer and authorised by the State of Registry, having satisfied the requirements of paragraphs (a) may describe the maintenance activity performed on the aeronautical product as a "rebuild" and make records to so indicate;
+(iii) regulation 25(f) provides that a manufacturer holding
+an Approved Maintenance Organisation Certificate may rebuild any aeronautical product manufactured by the manufacturer under a type of production certificate, a Technical Standards Order Authorisation, a Parts Manufacturer Approval by the State of Design or product and Processes Specification issued by the State of Design. When this is done, the operator of a Trinidad and Tobago aircraft may use a new maintenance record without regard to previous operating history;
+(iv) the manufacturer or an agency approved by the State
+of Design or manufacture that rebuilds and grants zero time to an aeronautical product is required to provide a signed statement containing-
+(A) the date the product was rebuilt;
+(B) each change made, as required by an
+Airworthiness Directive; and
+(C) each change made in compliance with
+service bulletins, when the service bulletin specifically requests an entry to be made.
+Regulation 36
+The content and form of records for the inspection of aeronautical products shall meet the following minimum standards:
+(a) persons issuing Certificate of Release to Service for
+Inspections performed in accordance with these Regulations and the Civil Aviation [(No. 2) Operations)] Regulations, the Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations, are required to make an entry in the maintenance record of that equipment. The following information may be made in the airframe, engine, engine module or propeller logbook, the Technical log, Routine and non-Routine Job Cards or Defect or Work card as appropriate to the recording scheme adopted by the operator approved by the Authority:
+(i) the type of inspection, including references to the
+maintenance manual and procedures used; and a brief description of the extent of the inspection performed;
+(ii) the date the inspection was completed and the total
+time-in-service at that time. The total time-in-service is the cumulative times that the aircraft was in flight;
+(b) in recording of time-in-service under paragraph (1)(b) the
+operator may use recording devices that sense aircraft lift-off and touchdown. Any other recording devices that sense such things as electrical power on, oil pressure, wheels on the ground, etc., and from these conditions provide an approximate indication of time-in-service.
+CIVIL AVIATION [(NO. 6) APPROVED
+MAINTENANCE ORGANISATION] REGULATIONS
 ARRANGEMENT OF REGULATIONS
 REGULATION
-1. Citation. 2. Interpretation. 3. Applicability of Regulations.
-3A. Prohibition of foreign registered aircraft to operate.
+1. Citation. 2. Interpretation.
+APPLICABILITY OF THESE REGULATIONS
+3. General applicability of these Regulations.
 PART I
-GENERAL REQUIREMENTS
-4. General Applicability of Part I. 5. General requirements. 6. Issue of Operations Specifications to foreign air operator. 7. Contents of Operations Specifications. 8. Conditions for continued validity. 9. Contents of Aircraft Technical Log of foreign air operator. 10. Documents required to be carried by foreign air operator. 11. Additional documents required to be carried by foreign air operator. 12. Inspection by Authority. 13. Requirement to produce documentation, manuals and records
-when requested.
-14. Requirement to preserve flight data recorder recordings. 15. Requirement to compute passenger and baggage weight. 16. Restrictions on the operations of single-engine aircraft by a foreign
-air operator.
-17. Required procedures for approach and landings. 18. Foreign air operator to give Authority access.
+GENERAL REQUIREMENTS FOR ISSUE OF AIRCRAFT
+MAINTENANCE ORGANISATION CERTIFICATE
+4. Applicability of Part I. 5. Prohibition of performance of maintenance. 6. General requirements for issue of Aircraft Maintenance Organisation
+Certificate.
+6A. Safety management system.
+7. Equivalent Safety Case and Deviation Authority. 8. Issue of Aircraft Maintenance Organisation Certificate. 9. Contents of Approved Maintenance Organisation Certificate. 10. Validity of Approved Maintenance Organisation Certificate. 11. Amendments to Approved Maintenance Organisation Certificate. 12. Advertising requirements. 13. Contents of a Maintenance Procedures Manual. 14. Issue of additional ratings. 15. Issue of ratings with limitations.
 PART II
-SECURITY
-19. Applicability of Part II. 20. Carriage of Weapons of War and Munitions of War. 21. Carriage of sporting weapons and ammunition. 22. Requirement to hold Firearm Import Licence by passenger. [Subsidiary] Civil Aviation [(No. 10) Foreign Operator] Regulations
-- Margin: [191/2006 290/2006 202/2009].
+HOUSING, FACILITIES, EQUIPMENT AND MATERIALS
+16. Applicability of Part II. 17. Minimum requirements of housing and facilities. 18. Minimum requirements for equipment, tools and materials.
+PART III
+ADMINISTRATION
+19. Applicability of Part III.
+- Margin: Regulation 37. [304/2004 226/2005 199/2009].
 - Margin: Sub. Leg.
 - Margin: Sub. Leg.
-- Margin: Sub. Leg.
-- Margin: tests)
-- Margin: In Flight
-- Margin: Sub. Leg.
-- Margin: Sub. Leg.
-- Margin: Sub. Leg.
-- Margin: Sub. Leg.
-- Margin: Sub. Leg.
-- Margin: Sub. Leg.
-- Margin: Sub. Leg.
+- Margin: *There is no paragraph (V).
 - Margin: Sub. Leg.
 - Margin: Sub. Leg.
 - Margin: Sub. Leg.
