@@ -29,49 +29,47 @@ the Western portion between Henderson Street and the Eastern Main Road
 PART E
 COUNTY OF ST. DAVID
 Nil
-PART F }
+PART F
 COUNTY OF ST. GEORGE EAST
-Road Side of Road Day of Week and Time
-where Applicable
-}
-1. That portion of Abercromby Street, Eastern Tuesday, Thursday, Saturday
-St. Joseph in the County of St. George which lies between the Eastern Main Western Sunday, Monday, Wednesday, Road and Riverside Road Friday
-} 2. Southern Main Road, Curepe in the Eastern Tuesday, Thursday, Saturday
+Day of Week and Time Road Side of Road
+where Applicable 1. That portion of Abercromby Street, Eastern Tuesday, Thursday, Saturday
+St. Joseph in the County of St. George which lies between the Eastern Main Western Sunday, Monday, Wednesday, Road and Riverside Road Friday 2. Southern Main Road, Curepe in the Eastern Tuesday, Thursday, Saturday
 Ward of St. Ann's
-Western Monday, Wednesday, Friday Eastern Tuesday, Thursday, Saturday 3. Tunapuna Road, Tunapuna
-Western Sunday, Monday, Wednesday,
+Western Monday, Wednesday, Friday
+Tuesday, Thursday, Saturday 3. Tunapuna Road, Tunapuna Eastern Sunday, Monday, Wednesday, Western
 Friday 4. That portion of Sorzano Street in the
-Borough of Arima which lies between Prince Street and St. Joseph Street 5. That portion of Broadway in the Northern Monday, Wednesday, Friday
-Borough of Arima which lies between Queen Street and Prince Street Southern Tuesday, Thursday, Saturday 6. That portion of Guanapo Street in the
+Borough of Arima which lies between Prince Street and St. Joseph Street
+Monday, Wednesday, Friday 5. That portion of Broadway in the Northern
+Borough of Arima which lies between
+Tuesday, Thursday, Saturday Queen Street and Prince Street Southern 6. That portion of Guanapo Street in the
 Borough of Arima which lies between Prince Street and Temple Street 7. That portion of Green Street in the
 Borough of Arima which lies between Cocorite Street and St. Joseph Street 8. That portion of Farfan Street in the
 Borough of Arima which lies between Cocorite Street and St. Joseph Street 9. That portion of Hollis Avenue between
-King Street and Pro-Queen Street Northern Monday, Wednesday, Friday 10. That portion of Devenish Street in the Southern Tuesday, Thursday, Saturday
+Monday, Wednesday, Friday King Street and Pro-Queen Street Northern Tuesday, Thursday, Saturday 10. That portion of Devenish Street in the Southern
 Borough of Arima which lies between Cocorite Street and Green Street 11. That portion of John Shaw Avenue in
 the Borough of Arima which lies between Providence Circular Road and Queen Mary Avenue
 PART G
 COUNTY OF ST. GEORGE WEST
 Road Side of Road Day of Week and Time
 where Applicable 1. Cascade Road situated in the Ward of Northern Tuesday,
-St. Ann's which commences at the Saturday, between 8.00 intersection of the St. Ann's Road with a.m. and 8.00 p.m. Public the Cascade Road and continues in a Holidays not included
-} north-easterly direction to a point }
+St. Ann's which commences at the Saturday, between 8.00 intersection of the St. Ann's Road with a.m. and 8.00 p.m. Public the Cascade Road and continues in a Holidays not included north-easterly direction to a point
+}
 where the said Cascade Road meets Southern Monday, Wednesday Coblentz Avenue Friday, between 8.00 a.m.
 and 8.00 p.m. Public Holidays not included 2. Cascade Road, from its intersection Northern Tuesday, Thursday, Saturday
 with Coblentz Avenue to Spring Bank
-}
 Southern Monday, Wednesday, Friday 3. Cascade Road, from Walker Avenue to Northern Tuesday, Thursday, Saturday
 4. Coblentz Avenue between St. Ann's Southern Monday, Wednesday, Friday
 Road and Cascade Road 5. Saddle Road in the Ward of St. Ann's Eastern Tuesday,
 between the St. Clair Roundabout and Saturday its junction with Long Circular Road, Western Sunday, Monday, Wednesday
 and Friday 6. Prada Street, St. Clair … … Northern Tuesday,
-Saturday 7. (Deleted by LN 75/1985) 8. Pelham Street, Belmont … … Eastern Sunday, Monday, Wednesday
+Saturday 7. (Deleted by LN 75/1985) 8. Pelham Street, Belmont Eastern Sunday, Monday, Wednesday
 and Friday
 Western Tuesday,
 Saturday
-9. Braithwaite Lane, Belmont … … Eastern Tuesday,
+9. Braithwaite Lane, Belmont Eastern Tuesday,
 Saturday
 Western Sunday, Monday, Wednesday
-and Friday 10. Willis Street, Belmont … … Northern Tuesday,
+and Friday 10. Willis Street, Belmont Northern Tuesday,
 Saturday
 Southern Sunday, Monday, Wednesday
 and Friday
@@ -109,13 +107,11 @@ where Applicable 54. Edward Street in the City of Eastern Tuesday, Thursday, Sat
 } Port-of-Spain between Tragarete
 Road and Gordon Street Western Sunday, Monday, Wednesday,
 Friday
-55. Edward Street between Park Street
-Eastern Sunday, Tuesday, Thursday,
-and Independence Square North but
-Saturday
-not including those portions of Edward Street appearing under Head
-Western Monday, Wednesday, Friday G of the First Schedule to the Road
-Traffic (Prohibited Parking) Order
+Eastern Sunday, Tuesday, Thursday, 55. Edward Street between Park Street
+Saturday and Independence Square North but
+not including those portions of
+Monday, Wednesday, Friday Edward Street appearing under Head Western
+G of the First Schedule to the Road Traffic (Prohibited Parking) Order
 Tuesday, Thursday, Saturday 56. Dundonald Street … … Eastern
 Sunday, Monday, Wednesday, Western
 Friday
@@ -125,9 +121,9 @@ Monday, Wednesday, Friday Eastern Road and Fraser Street
 and Independence Square South
 Western Sunday, Tuesday, Thursday, 59. Francis Street between Sackville
 Saturday Street and Charles Street
-} Eastern Tuesday, Thursday, Saturday 60. Melbourne Street, Port-of-Spain …
+} Eastern Tuesday, Thursday, Saturday 60. Melbourne Street, Port-of-Spain
 Western Monday, Wednesday, Friday
-Northern Tuesday, Thursday, Saturday 61. Charles Street, Port-of-Spain …
+Northern Tuesday, Thursday, Saturday 61. Charles Street, Port-of-Spain
 Southern Sunday, Monday, Wednesday,
 Friday
 Eastern Tuesday, Thursday, Saturday 62. Borde Street between Tragarete Road
@@ -148,8 +144,8 @@ Port-of-Spain between Saddle Road and Dibe Road, Port-of-Spain Southern Sunday, 
 Friday
 }
 82. Bengal Street, St. James between the Eastern Sunday, Tuesday, Thursday,
-Western Main Road and Delhi Street Saturday between 6.00
-a.m. and 6.00 p.m.
+Western Main Road and Delhi Street Saturday between 6.00 a.m.
+and 6.00 p.m.
 Western Monday, Wednesday, Friday,
 between 6.00 a.m. and 6.00 p.m. 82A. Woodford Street, between Tragarete Eastern Tuesday, Thursday, Saturday
 Road and Queen's Park West 82B. Agra Street, St. James, between Western Sunday, Monday, Wednesday,
@@ -157,9 +153,9 @@ Western Main Road and Patna Street Friday 83. Henry Pierre Street in the City of
 Port-of-Spain
 Eastern Tuesday, Thursday, Saturday 84. Nizam Street, St. James in the City of
 Port-of-Spain Western Sunday, Monday, Wednesday,
-Friday 85. Ethel Street, St. James … …
+Friday 85. Ethel Street, St. James
 }
-86. Pujadas Street, St. James … … Northern Tuesday, Thursday, Saturday
+86. Pujadas Street, St. James Northern Tuesday, Thursday, Saturday
 Southern Sunday, Monday, Wednesday,
 Friday 87. Luckput Street … … Eastern Tuesday, Thursday, Saturday 88. Coronation Street … … Western Sunday, Monday, Wednesday,
 Friday
@@ -167,7 +163,6 @@ Northern Monday, Wednesday, Friday 89. Western Main Road, St. James in the
 City of Port-of-Spain
 Southern Sunday, Tuesday, Thursday,
 Saturday
-}
 PART H
 COUNTY OF ST. PATRICK
 Side of Road
@@ -175,12 +170,14 @@ Side of Road
 in the County of St. Patrick which lies between High Street and Mary Street Western Sunday, Monday, Wednesday,
 } 2. That portion of High Street, Siparia, in Northern Tuesday, Thursday, Saturday
 the County of St. Patrick which lies between Allies and La Pastora Streets Southern Sunday, Monday, Wednesday,
-3. That portion of the Fyzabad-Guapo
-Road in the County of St. Patrick Eastern Sunday, Tuesday, Thursday, commencing at the junction of the said Fyzabad-Guapo Road and Oropouche Road continuing in a southerly Western Monday, Wednesday, Friday direction and ending at the 4-kilometre mark on the said Fyzabad-Guapo Road 4. Point Fortin Main Road, between the Northern Sunday, Tuesday, Thursday,
+Sunday, Tuesday, Thursday, 3. That portion of the Fyzabad-Guapo Eastern
+Road in the County of St. Patrick commencing at the junction of the said
+Monday, Wednesday, Friday Fyzabad-Guapo Road and Oropouche Western
+Road continuing in a southerly direction and ending at the 4-kilometre mark on the said Fyzabad-Guapo Road 4. Point Fortin Main Road, between the Northern Sunday, Tuesday, Thursday,
 Roundabout and Shell
 Trinidad Limited Main gate Southern Monday, Wednesday, Friday 5. That portion of the Point Fortin Main
 Road which lies between Frisco Junction and the A.B.C. Junction Eastern Tuesday, Thursday, Saturday 6. That portion of Guapo-Cap-de-Ville
-Road in the County of St. Patrick which Western Sunday, Monday, Wednesday, lies between the A.B.C. Junction and the Point Ligoure Junction 7. Techier Road, Point Fortin … … Northern Monday, Wednesday, Friday
+Road in the County of St. Patrick which Western Sunday, Monday, Wednesday, lies between the A.B.C. Junction and the Point Ligoure Junction 7. Techier Road, Point Fortin Northern Monday, Wednesday, Friday
 Southern Tuesday, Thursday, Saturday
 PART I
 TOBAGO
@@ -193,7 +190,7 @@ point 45 metres East of the Southern Main Road to Battoo Avenue Southern Monday,
 2. Southern Main Road, Marabella Eastern Sunday, Tuesday, Thursday,
 between the Guaracara River and the
 Western Monday, Wednesday, Friday
-3. Royal Road ... Eastern Sunday, Tuesday, Thursday,
+Eastern Sunday, Tuesday, Thursday,
 Western Monday, Wednesday, Friday
 4. Coffee Street from a point 45 metres Northern Sunday, Tuesday, Thursday,
 East of Johnstone Street to Navet Road
@@ -221,7 +218,7 @@ Road Side of Road Day of Week and Time
 where Applicable
 Northern Sunday, Tuesday, Thursday, 12. Carib Street from La Coulee Street Saturday
 to Coffee Street Southern Monday, Wednesday, Friday 13. Johnstone Street
-14. San Fernando Street … … Northern Tuesday, Thursday, Saturday
+14. San Fernando Street Northern Tuesday, Thursday, Saturday
 Southern Sunday, Monday, Wednesday,
 } Friday
 15. St. Vincent Street 16. Keate Street from Prince Alfred Northern Sunday, Tuesday, Thursday,
@@ -282,7 +279,7 @@ made under section 65
 - Margin: Thursday and
 - Margin: Thursday and
 - Margin: Road Side of Road Day of Week and Time where Applicable
-- Margin: Eastern Tuesday, Thursday and 11. Winton Lane, Belmont … … Saturday Western Sunday, Monday, Wednesday and Friday
+- Margin: Eastern Tuesday, Thursday and 11. Winton Lane, Belmont Saturday Western Sunday, Monday, Wednesday and Friday
 - Margin: 12. Agard Lane, Belmont
 - Margin: Northern Tuesday, Thursday and Saturday 13. Altorf Street, Belmont
 - Margin: Southern Sunday, Monday, Wednesday 14. St. Francois Valley Road, Belmont and Friday between Belmont Valley Road and Belmont Circular Road
@@ -292,7 +289,7 @@ made under section 65
 - Margin: 19. Belmont Circular Road between McShine Terrace and Norfolk Street
 - Margin: 20. Belmont Circular Road between Norfolk Street and Belle Eau Road Northern Tuesday, Thursday, Saturday 21. Belmont Circular Road between Belmont Valley Road and Queen's Southern Monday, Wednesday, Friday Park East
 - Margin: 22. Belmont Circular Road between Charlotte Street and McShine Terrace
-- Margin: Northern Tuesday, Thursday, Saturday 23. McShine Terrace, Belmont … … Southern Sunday, Monday, Wednesday, Friday
+- Margin: Northern Tuesday, Thursday, Saturday 23. McShine Terrace, Belmont Southern Sunday, Monday, Wednesday, Friday
 - Margin: Eastern Sunday, Tuesday, Thursday, 24. Observatory Street between Charlotte Saturday Street and Belmont Circular Road Western Monday, Wednesday, Friday
 - Margin: Side of Road Day of Week and Time Road where Applicable
 - Margin: 39. Piccadilly Street in the City of Eastern Tuesday, Thursday, Saturday Port-of-Spain between South Quay and St. Joseph Road Western Sunday, Monday, Wednesday, Friday
@@ -316,7 +313,7 @@ made under section 65
 - Margin: 73. That portion of Warren Street in the City Tuesday, Thursday, Saturday of Port-of-Spain which lies between Northern Rosalino Street and Belle-Smythe Street Sunday, Monday, Wednesday, Southern Friday 74. Warner Street between Cipriani Boulevard and Maraval Road
 - Margin: Tuesday, Thursday, Saturday 75. Picton Street between Tragarete Road Eastern and Queen's Park West Sunday, Monday, Wednesday, Western Friday
 - Margin: Sunday, Tuesday, Thursday, 76. Ana Street between Warren Street and Eastern Saturday Wrightson Road Western Monday, Wednesday, Friday
-- Margin: 77. Petra Street between Warren Street Eastern Sunday, Tuesday, Thursday, and Wrightson Road Saturday, Western Monday, Wednesday, Friday
+- Margin: 77. Petra Street between Warren Street Eastern Sunday, Tuesday, Thursday, and Wrightson Road Saturday Western Monday, Wednesday, Friday
 - Margin: Tuesday, Thursday, Saturday, 78. Damian Street in the City of Port-of-Spain Eastern Sunday, Monday, Wednesday, between Tragarete Road and Warren Street Western Friday
 - Margin: Road Side of Road Day of Week and Time where Applicable
 - Margin: 90. Western Main Road, Carenage Northern Tuesday, Thursday, Saturday between Jellicoe Street and Haig Street Southern Sunday, Monday, Wednesday, Friday
@@ -339,6 +336,7 @@ made under section 65
 - Margin: Saturday
 - Margin: Saturday
 - Margin: Marabella Roundabout
+- Margin: 3. Royal Road
 - Margin: Saturday
 - Margin: Saturday
 - Margin: Saturday

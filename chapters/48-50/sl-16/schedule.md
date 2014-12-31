@@ -36,7 +36,7 @@ Old Railway Road West-i.e., in a northerly direction from the Eastern Main Road,
 PART E
 COUNTY OF ST. DAVID
 A. In a northerly direction only
-Paria Road in the Ward of Toco, between the Toco Depot and Church Street.
+Paria Road in the Ward of Toco between the Toco Depot and Church Street.
 B. In a westerly direction only
 Church Street in the Ward of Toco bounded on the East and West by the Paria Road.
 PART F
@@ -70,7 +70,7 @@ Road in the City of Port-of-Spain. 11. Francis Street between Sackville Street a
 City of Port-of-Spain. 12. Borde Street between Tragarete Road and New Street in the City of
 Port-of-Spain. 13. Belle-Smythe Street between Ariapita Avenue and Warren Street,
 Woodbrook. 14. Hamilton Holder Street and O'Connor Street between Wrightson
-Road and Ariapita Avenue, Woodbrook. 15. Gatacre Street, Woodbrook. 16. Alfredo Street, Woodbrook 17. Rosalino Street, Woodbrook. 18. Gallus Street, Woodbrook. 19. Petra Street between Warren Street and Ariapita Avenue, Woodbrook. 20. Damian Street between Warren Street and Kelly Kenny Street,
+Road and Ariapita Avenue, Woodbrook. 15. Gatacre Street, Woodbrook. 16. Alfredo Street, Woodbrook. 17. Rosalino Street, Woodbrook. 18. Gallus Street, Woodbrook. 19. Petra Street between Warren Street and Ariapita Avenue, Woodbrook. 20. Damian Street between Warren Street and Kelly Kenny Street,
 Woodbrook. 21. Henry Pierre Street, Mucurapo. 22. Benares Street, St. James.
 23. Coronation Street from Mucurapo Road to Western Main Road,
 St. James.
@@ -109,9 +109,8 @@ COUNTY OF ST. GEORGE WEST-Continued
 South in the City of Port-of-Spain.
 14. Scott-Bushe Street South Extension between Charles Street and the
 intersection of Wrightson Road and Sackville Street.
-15. Luis Street, Woodbrook. 16. White Street, Woodbrook. 17. Alberto Street, Woodbrook. 18. Ana Street between Warren Street and Wrightson Road, Woodbrook.
-19. O'Connor Street between Warren Street and Ariapita
-Avenue, Woodbrook.
+15. Luis Street, Woodbrook. 16. White Street, Woodbrook. 17. Alberto Street, Woodbrook. 18. Ana Street between Warren Street and Wrightson Road, Woodbrook. 19. O'Connor Street between Warren Street and Ariapita Avenue,
+Woodbrook.
 20. De Verteuil Street and Dennis Mahabir Street between Ariapita
 Avenue and Wrightson Road.
 21. Gaston Johnson Street, Mucurapo. 22. Lucknow Street, St. James. 23. Luckput Street from Western Main Road, St. James to Mucurapo Road. 24. Ethel Street, St. James between Pujadas Street and Mucurapo

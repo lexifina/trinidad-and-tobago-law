@@ -1,7 +1,6 @@
 # SCHEDULE
 Special
-Speed Limit
-Bridges and Roads (kilometres per
+Speed Limit (kilometres per Bridges and Roads
 hour)
 1. COUNTY OF ST. GEORGE
 (a) B1/2-Saddle Road … … … 15
