@@ -2,21 +2,28 @@ PETROLEUM TAXES ACT
 CHAPTER 75:04
 Act
 22 of 1974 Amended by
-6 of 1989 30 of 1974
-16 of 1975 15 of 1992 46 of 1976
-8 of 1996
+15 of 1992 30 of 1974
+16 of 1975 8 of 1996 46 of 1976
+9 of 1997
 47 of 1980
-9 of 1997 5 of 1981 5 of 2004 28 of 1984
-26 of 1985 21 of 2005 14 of 1987
-2 of 2006
+5 of 2004
+5 of 1981
+21 of 2005 28 of 1984
+26 of 1985 2 of 2006 14 of 1987
+30 of 2007
 16/1987
-30 of 2007 11 of 1988 13 of 2010 27 of 1988
+13 of 2010
+11 of 1988
+*2 of 2013 27 of 1988
+6 of 1989 4 of 2014 *See Note on page 2.
 Index of Subsidiary Legislation
-Page Supplemental Refining Tax (Variation of Rates) Order (LN 143/1982) … 44 Supplemental Petroleum Tax (Variation of Rate) Order (LN 119/1983) … 44 Supplemental Petroleum Tax (Variation of Rate) Order (LN 152/1984) … 45
+Page Supplemental Refining Tax (Variation of Rates) Order (LN 143/1982) … 43 Supplemental Petroleum Tax (Variation of Rate) Order (LN 119/1983) … 43 Supplemental Petroleum Tax (Variation of Rate) Order (LN 152/1984) … 44
 Note on Omissions
 Petroleum Profits Tax (Posted Prices) Orders made under paragraph 5 of the Second Schedule have been omitted (see the Current Edition of the Consolidated Index of Acts and Subsidiary Legislation for references to these Orders).
 Note on Section 18A
 By Act No. 21 of 2005, section 10I of the Corporation Tax Act is to take effect from 1st January 2003.
+Note on Act No. 2 of 2013
+Amendments effected to this Act by Act No. 2 of 2013 took effect from 1st January 2013.
 CHAPTER 75:04
 PETROLEUM TAXES ACT
 ARRANGEMENT OF SECTIONS
@@ -45,7 +52,7 @@ COMPUTATION OF PROFITS
 12A. Anti-avoidance.
 ARRANGEMENT OF SECTIONS-Continued
 SECTION
-12B. Workover deductions. 12C. Heavy oil allowance.
+12B. Workover deductions. 12C. Heavy oil allowance. 12D. Capital expenditure allowance.
 13. Application and adaptation of Income Tax Act as to capital
 allowance and other matters.
 14. Computation and application of capital expenditure in the
@@ -68,9 +75,8 @@ SUPPLEMENTAL PETROLEUM TAX
 22A. (Repealed by Act No. 2 of 2006).
 23. 24. 25. (Repealed by Act No. 21 of 2005).
 25A. Royalty allowance. 25B. (Repealed by Act No. 21 of 2005).
-26. Investment tax credits.
-26A. Time for claiming tax credits. SECTION
-26B. Shortfalls and excesses in tax credits. 26C. Disposal of machinery and plant. 26D. (Repealed by Act No. 21 of 2005).
+26. Investment tax credits. SECTION
+26A. Time for claiming tax credits. 26B. Shortfalls and excesses in tax credits. 26C. Disposal of machinery and plant. 26D. (Repealed by Act No. 21 of 2005).
 PART III
 MISCELLANEOUS AND GENERAL
 26E. Claim for decommissioning. 26F. (Not included in the original Act). 26G. Application of certain provisions of the Act.
