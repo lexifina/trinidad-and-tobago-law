@@ -2,10 +2,15 @@ ANIMALS (DISEASES AND IMPORTATION) ACT
 CHAPTER 67:02
 Act
 19 of 1954 Amended by
-6 of 1963 15/1955 102/1977 45 of 1979 17 of 1997
+6 of 1963 15/1955 102/1977 45 of 1979 167/1993 17 of 1997 235/1997
 Index of Subsidiary Legislation
-Page Equine Influenza (Infected Places) Orders: [LN 30/1986-(Santa Rosa Paddock)] ... 18 [LN 31/1986-(Queen's Park Paddock)] ... 18 [LN 32/1986-(Union Park Paddock)] ... 19 [LN 57/1994-(Paradise Farm, Carapo)]... 19 [LN 58/1994-(Trinidad Race Club Santa Rosa Park, O'Meara)] … 20 [LN 59/1994-(Highclaire Stud Farm, Ragoonanan Road, Enterprise)] … 20 Diseases of Animals (Veterinary Export Certificates) Regulations (GN 128/1949) ... 21 Fowl Pest Order (GN 164/1952) ... 22 Anthrax Regulations (GN 28/1955) ... 31 Swine Fever Regulations (GN 29/1955) ... 38 Epizootic Abortion Regulations (GN 30/1955) ... 44 Foot and Mouth Disease Regulations (GN 60/1955) … … … 45 Paralytic Rabies Regulations (GN 50/1956) ... 62 Equine Encephalomyelitis Regulations (GN 21/1960) … … … 66 Tuberculosis in Cattle and Goats Regulations (GN 15/1967) … … 69 Bovine Brucellosis or Contagious Abortion (Eradication) Regulations
-(LN 108/2003) ... 70 Amblyomma Variegatum (Prevention and Control) Regulations (LN 31/1998) ... 79 Importation of Frozen Carcases and Boiling of Animal Foodstuffs Regulations (G 24.12.31; GN 27/1955) ... 86 Animals (Importation) Control Regulations (GN 27/1955) … … 88 Importation of Poultry and Non-Poultry Products Permit Notice (LN 233/1986) ... 107 Poultry (Application of Act) Order (GN 16/1955) … … … 109
+Page Equine Influenza (Infected Places) Orders:
+[LN 30/1986-(Santa Rosa Paddock)] ... 18 [LN 31/1986-(Queen's Park Paddock)] ... 18 [LN 32/1986-(Union Park Paddock)] ... 19 [LN 57/1994-(Paradise Farm, Carapo)] ... 19 [LN 58/1994-(Trinidad Race Club Santa Rosa Park, O'Meara)] … 20 [LN 59/1994-(Highclaire Stud Farm, Ragoonanan Road, Enterprise)] … 20 Diseases of Animals (Veterinary Export Certificates) Regulations
+(GN 128/1949) ... 21 Fowl Pest Order (GN 164/1952) ... 22 Anthrax Regulations (GN 28/1955) ... 31 Swine Fever Regulations (GN 29/1955) ... 38 Epizootic Abortion Regulations (GN 30/1955) ... 44 Foot and Mouth Disease Regulations (GN 60/1955) … … … 45 Paralytic Rabies Regulations (GN 50/1956) ... 62 Equine Encephalomyelitis Regulations (GN 21/1960) … … … 66 Tuberculosis in Cattle and Goats Regulations (GN 15/1967) … … 69 Bovine Brucellosis or Contagious Abortion (Eradication) Regulations
+(LN 108/2003) ... 70 Amblyomma Variegatum (Prevention and Control) Regulations
+(LN 31/1998) ... 79 Importation of Frozen Carcases and Boiling of Animal Foodstuffs
+Regulations (G 24.12.31; GN 27/1955) ... 86 Animals (Importation) Control Regulations (GN 27/1955) … … 88 Importation of Poultry and Non-Poultry Products Permit Notice
+(LN 233/1986) ... 109 Poultry (Application of Act) Order (GN 16/1955) … … … 111
 Note on Infected Places Orders
 The various Infected Places Orders made under section 5 should be read in the light of the amendments made to that section.
 Note on Adaptation
@@ -91,7 +96,7 @@ infested places or infected or infested areas and the removal of anything into, 
 infected or infested places or infected or infested areas, and the prevention of the spread of disease or infestation by persons in contact with diseased, suspected or infested animals;
 (e) the treatment, disinfecting, destruction, burial,
 disposal and digging up, of anything in, or the removal of anything from, an infected or infested place or an infected or infested area;
-(f) the movement, isolation, segregation,
+movement, isolation, segregation,
 examination, treatment, slaughter, destruction, disposal, burial, seizure, detention and exposure for sale of diseased, suspected or infested animals;
 (g) the removal, transport, treatment, isolation,
 examination, testing, cleansing, disinfecting, protection from suffering, exposure for sale, exhibiting or marking of animals;
@@ -167,10 +172,11 @@ or infested place or infected or infested area, is guilty of an offence against 
 26. Nothing in this Act shall apply to bees.
 27. Notwithstanding the repeal of the Diseases of Animals
 
-(Poultry) Ordinance, Ch. 25. No. 10 by the Law Revision (Miscellaneous Amendments) (No. 1) Act 1979, the Fowl Pest Order, 1952-1953 made under section 3(2) of that Ordinance shall continue in force and have effect as if made under this Act.
+(Poultry) Ordinance, by the Law Revision (Miscellaneous Amendments), the Fowl Pest Order, 1952-1953 made under section 3(2) of that Ordinance shall continue in force and have effect as if made under this Act.
 *See GN 16/1955.
 SCHEDULE
-DISEASES WITHIN THE MEANING OF THIS ACT African Horse Sickness African Swine Fever Anaplasmosis Anthrax Babesiosis Blue Tongue Bovine Spongiform Encephalopathy Bovine Viral Diarrhea Brucellosis (Brucella abortus, Brucella suis, Brucella ovis, Brucella melitensis) Campylobacteriosis (C. fetus venerealis) Contagious Equine Metritis (T. equigenitalis) Contagious Pleuro-pneumonia Cowdriosis (Heartwater-C. ruminantium) Cysticercosis Dermatophilosis Duck Viral Enteritis Duck Viral Hepatitis Enzootic Lymphangitis Epizootic Bovine Abortion Equine Encephalomyelitis Equine Infectious Anemia Equine Rhinopneumonitis Foot and Mouth Disease Fowl Cholera (Pasteurella multocida) Fowl Typhoid (Salmonella gallinarum) Glanders Hemorrhagic Septicaemia Infectious Bovine Rhinotracheitis Infectious Laryngotracheitis Influenza (Avian and Equine) Leptospirosis Lumpy Skin Disease Malignant Catarrhal Fever Newcastle Disease (Velogenic, viscerotrophic) Ornithosis Paralytic Rabies Paratuberculosis (Johne's Disease) Peste des petits ruminants Porcine Reproductive and Respiratory Syndrome Pseudo Rabies (Aujeszky's Disease) Psittacosis Pullorum Disease (Salmonella pullorum) Rabies Rift Valley Fever Rinderpest Salmonellosis Scrapie Swine Fever (Hog Cholera) Swine Vesicular Disease Swine Vesicular Exanthema Theileriasis Trichomoniasis Trypanosomiasis (Dourine-T. equiperdum; Nagana-T. vivax; Surra-T. evansi) Tuberculosis Ulcerative Lymphangitis Variola Ovina or Sheep Pox Variola Vaccinia or Cow Pox Vesicular Stomatitis Viral Hemorrhagic Disease (rabbits)
+DISEASES WITHIN THE MEANING OF THIS ACT
+African Horse Sickness African Swine Fever Anaplasmosis Anthrax Babesiosis Blue Tongue Bovine Spongiform Encephalopathy Bovine Viral Diarrhea Brucellosis (Brucella abortus, Brucella suis, Brucella ovis, Brucella melitensis) Campylobacteriosis (C. fetus venerealis) Contagious Equine Metritis (T. equigenitalis) Contagious Pleuro-pneumonia Cowdriosis (Heartwater-C. ruminantium) Cysticercosis Dermatophilosis Duck Viral Enteritis Duck Viral Hepatitis Enzootic Lymphangitis Epizootic Bovine Abortion Equine Encephalomyelitis Equine Infectious Anemia Equine Rhinopneumonitis Foot and Mouth Disease Fowl Cholera (Pasteurella multocida) Fowl Typhoid (Salmonella gallinarum) Glanders Hemorrhagic Septicaemia Infectious Bovine Rhinotracheitis Infectious Laryngotracheitis Influenza (Avian and Equine) Leptospirosis Lumpy Skin Disease Malignant Catarrhal Fever Newcastle Disease (Velogenic, viscerotrophic) Ornithosis Paralytic Rabies Paratuberculosis (Johne's Disease) Peste des petits ruminants Porcine Reproductive and Respiratory Syndrome Pseudo Rabies (Aujeszky's Disease) Psittacosis Pullorum Disease (Salmonella pullorum) Rabies Rift Valley Fever Rinderpest Salmonellosis Scrapie Swine Fever (Hog Cholera) Swine Vesicular Disease Swine Vesicular Exanthema Theileriasis Trichomoniasis Trypanosomiasis (Dourine-T. equiperdum; Nagana-T. vivax; Surra-T. evansi) Tuberculosis Ulcerative Lymphangitis Variola Ovina or Sheep Pox Variola Vaccinia or Cow Pox Vesicular Stomatitis Viral Hemorrhagic Disease (rabbits)
 SUBSIDIARY LEGISLATION
 EQUINE INFLUENZA (INFECTED PLACES) ORDER
 made under section 5(4)
@@ -204,6 +210,6 @@ made under section 5(4)
 - Margin: Transport through infected or infested places and areas. [17 of 1997].
 - Margin: Power to apply Act to poultry.
 - Margin: Bees.
-- Margin: Saving. [45 of 1979]. Ch. 25. No. 10. (1951-53 Ed.). 45 of 1979. 164/1954.
-- Margin: [Section 2 15/1955 102/1977 45 of 1979 167/1993 235/1997].
+- Margin: Saving. Ch. 25. No. 10. (1951-53 Ed.). [45 of 1979 164/1954].
+- Margin: Section 2. [15/1955 102/1977 45 of 1979 167/1993 235/1997].
 - Margin: 30/1986.
