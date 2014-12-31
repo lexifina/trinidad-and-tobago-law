@@ -1,2 +1,2 @@
 # THIRD SCHEDULE
-(The Third Schedule has been repealed by Act No. 18 of 1984)
+(The Third Schedule was repealed by Act No. 18 of 1984)
