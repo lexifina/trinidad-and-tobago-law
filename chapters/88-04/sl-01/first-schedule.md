@@ -5,6 +5,7 @@ Weekly Wages for Hourly Rates for
 Categories Full-time Part-time
 Workers Workers
 $ $ Bartender … … … 220.00 6.05 Cashier … … … 210.00 5.80 Chambermaid … … … 185.00 5.10 Cleaner … … … 185.00 5.10 Clerical Worker … … 215.00 5.90 Clerk/Typist … … … 215.00 5.90 Cook … … … 235.00 6.45 Counter Attendant … … 185.00 5.10 Driver … … … 225.00 6.20 Electrician … … … 275.00 7.55 Elevator Operator … … 185.00 5.10 Gardener … … … 185.00 5.10 Grill Worker … … … 195.00 5.35
+FIRST SCHEDULE-Continued
 Weekly Wages for Hourly Rates for
 Categories Full-time Part-time
 Workers Workers
