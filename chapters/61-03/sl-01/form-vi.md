@@ -10,8 +10,8 @@ OR SCREEN
 Esti-
 L* Drums
 Cement Lbs./ft. mated
-Size Size Grade Depth or of
-baskets Cement
+Size Size Depth or of
+baskets Grade Cement
 From To or C Cement
 Packers Fill
 Mesh
@@ -21,6 +21,5 @@ REMARKS: Here indicate only information not included in Diam. Depth
 Casing Record, such as Sidetracked Fish, Cement Plugs, etc.
 An other information:- Date water first noted ..., 20... Quantity (in Bbls. per day) water ... bbls. oil ... bbls. How guaged:-... General remarks (give here any information as to source of water: ... Proposed method of excluding water:-
 20 ... Signed ...
-Owner, Agent or Manager *L or C-Landed or Cemented.
-All depths to be given in feet. [Subsidiary] Drilling Regulations
-- Margin: (Regulation 28).
+Owner, Agent or Manager *L or C-Landed or Cemented. All depths to be given in feet.
+- Margin: Regulation 28.

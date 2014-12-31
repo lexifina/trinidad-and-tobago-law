@@ -14,17 +14,16 @@ Grand Total …
 Quantities of Products obtained from Crude Oil refined:
 QUANTITIES OBTAINED
 Description of Products
-Cracked Straight-run Fuel Oil ... Petrol ... Kerosene ... Gas Oil ... Diesel Distillates* … … … Other Distillates … … … Lubricating Oil … … … Road Oil ... Other Products ...
+Cracked Straight-run Fuel Oil ... Petrol ... Kerosene ... Gas Oil ... Diesel Distillates* … … … Other Distillates … … … Lubricating Oil … … … Road Oil... Other Products...
 Total Quantity …
 *Not including "mixed" Diesel Oil.
-[Subsidiary] Drilling Regulations
 FORM IV-Continued
 (3) Quantity of Oil used for all purposes by the Company for their operations:
 On State Lands
 On Private lands
 and Lands
 and alienated prior
-Description of Oil alienated
+alienated Description of Oil
 to 30th January
 subsequent to 29th
 1902
@@ -38,8 +37,7 @@ Description of Oil Qunatity in Stock
 Crude Oil... Fuel Oil ... Petrol ... Kerosene ... Gas Oil ... Diesel Distillates … … … Diesel Oil (Mixed) … … … Other Distillates … … … Lubricating Oil … … … Road Oil ... Other Products … … …
 Total Quantity …
 20 ...
-Signature of Owner, Agent or Manager.
-Drilling Regulations [Subsidiary]
+Signature of Owner, Agent or Manager
 FORM V-(CABLE)
 NOTIFICATION OF THE PRESENCE OF
 WATER-BEARING STRATA
@@ -48,16 +46,13 @@ Name of Company ... Field ... Well No... Drilling system ... Water was noticed/s
 CASING IN WELL WHEN WATER WAS OBSERVED
 PERFORATIONS OR
 DEPTH
-SCREEN
-If cemented give
-Size Size
-details
+SCREEN If cemented give
+Size Size details
 From To From To or
 Mesh
-It is believed that water is from... feet for the following reasons:
-Proposed method of dealing with this water ... 20 ... Signed ...
+It is believed that water is from... feet for the following reasons: Proposed method of dealing with this water ... 20 ... Signed ...
 Owner, Agent or Manager
-All depths to be given in feet. [Subsidiary] Drilling Regulations
+All depths to be given in feet.
 FORM V-(ROTARY)
 NOTIFICATION OF THE PRESENCE OF
 WATER-BEARING STRATA
@@ -68,27 +63,19 @@ OR SCREEN
 Cement
 Esti-
 L* Drums Size basket
-Lbs./ft. mated
-Size Grade Depth or of From To or Packers.
-Cement
+Lbs./ft. mated Size Depth or of From To or Packers.
+Grade Cement
 C Cement Mesh Liner Hanger
 Fill
 etc.
 HOLE RECORD
 REMARKS: Here indicate only information not included in
-Diam. Depth
+{ Diam. Depth
 Casing Record, such as sidetracked fish, Cement Plugs, etc.
-Water was located by{
-Core Evidence
-Electrical log on ... 20..., when at ... ft.
+Core Evidence Water was located by Electrical log on ... 20..., when at ... ft.
 Formation tester.
-Description of Water Sands (unnecessary when Electrical log is forwarded).
-From To Description of Formation, Salinities of sand, etc.
-Proposed method of dealing with this water:-
-The above information was communicated to the Ministry by telephone on ..., 20 ..., and is hereby confirmed.
+Description of Water Sands (unnecessary when Electrical log is forwarded). From To Description of Formation, Salinities of sand, etc.
+Proposed method of dealing with this water:- The above information was communicated to the Ministry by telephone on ..., 20 ..., and is hereby confirmed.
 20 ... Signed ...
-Owner, Agent or Manager
-*L or C-Landed or Cemented.
-All depths to be given in feet.
-Drilling Regulations [Subsidiary]
-- Margin: (Regulation 24).
+Owner, Agent or Manager *L or C-Landed or Cemented. All depths to be given in feet.
+- Margin: Regulation 24.
