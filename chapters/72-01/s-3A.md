@@ -1,4 +1,4 @@
-# 3A. Staff of the FIU.
+# 3A. Staff of the FIU. [8 of 2011].
 (1) The staff of the FIU shall include the Director and Deputy Director and such other officers required for the performance of its functions.
 (2) The Director and Deputy Director and other officers on the establishment of the FIU, shall be appointed by the Public Service Commission.
 (3) The Permanent Secretary may appoint-

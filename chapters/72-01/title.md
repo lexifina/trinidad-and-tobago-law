@@ -3,9 +3,11 @@ TRINIDAD AND TOBAGO ACT
 CHAPTER 72:01
 Act
 11 of 2009 Amended By
-3 of 2011 8 of 2011 14 of 2012
+3 of 2011 8 of 2011 14 of 2012 15 of 2014
 Index of Subsidiary Legislation
 Page Financial Intelligence Unit of Trinidad and Tobago Regulations (LN 12/2011) 23
+Note on Revision
+The pages of this Act bearing the notation L.R.O. 1/2015 are hereby authorised to be included in the Laws as from 5th January 2015 pursuant to an Order made under section 9 of the Law Revision Act (Chap. 3:03).
 CHAPTER 72:01
 FINANCIAL INTELLIGENCE UNIT OF
 TRINIDAD AND TOBAGO ACT
@@ -26,7 +28,9 @@ ARRANGEMENT OF SECTIONS-Continued
 SECTION
 PART IIIA
 THE SUPERVISORY AUTHORITY
-18A. Interpretation and application. 18B. Registration. 18C. Supervisory Authority to establish and maintain register. 18D. Suspicious activity and suspicious transactions. 18E. Functions of the FIU under this Part. 18F. Powers of the FIU. 18G. Administrative sanctions for compliance.
+18A. Interpretation and application. 18B. Registration. 18C. FIU to publish names of registered financial institutions and listed
+businesses.
+18D. Supervisory Authority to establish and maintain register. 18E. Suspicious activity and suspicious transactions. 18F. Functions of the FIU under this Part. 18G. Powers of the FIU. 18H. Administrative sanctions for compliance.
 PART IV
 OFFENCES AND PENALTIES
 19. FIU officer. 20. Failure to return ID. 21. Failure to provide information. 22. Confidentiality of information.
@@ -42,7 +46,7 @@ FINANCIAL INTELLIGENCE UNIT OF
 TRINIDAD AND TOBAGO ACT
 An Act to establish the Financial Intelligence Unit of Trinidad
 and Tobago, for the implementation of the Recommendations of the Financial Action Task Force on money laundering and the financing of terrorism and for related matters.
-*[9TH FEBRUARY 2010]
+[9TH FEBRUARY 2010]
 WHEREAS it is enacted inter alia, by subsection (1) of section 13 of the Constitution, that an Act to which that section applies, may expressly declare that it shall have effect even though inconsistent with sections 4 and 5 of the Constitution and if any such Act does so declare, it shall have effect accordingly:
 And whereas it is provided by subsection (2) of section 13 of the Constitution, that an Act to which this section applies, is one the Bill for which has been passed by both Houses of Parliament and at the final vote thereon in each House has been supported by the votes of not less than three-fifths of all the members of that House:
 And whereas it is necessary and expedient that the provisions of this Act shall have effect even though inconsistent with sections 4 and 5 of the Constitution:
