@@ -2,9 +2,9 @@ UNIT TRUST CORPORATION OF TRINIDAD
 AND TOBAGO ACT
 CHAPTER 83:03
 Act
-26 of 1981 Amended by 4 of 1984 5 of 1995 8 of 1996 9 of 1997
+26 of 1981 Amended by 4 of 1984 5 of 1995 8 of 1996 9 of 1997 2 of 2015
 Index of Subsidiary Legislation
-Page Unit Trust Regulations (LN 136/1982) ... 31 Unit Trust First Unit Scheme Regulations (LN 137/1982) … … … 42 Unit Trust Second Unit Scheme Regulations (LN 145/1989) … … 59 Unit Trust Corporation Third Unit Scheme Regulations (LN 267/2014) … 72
+Page Unit Trust Regulations (LN 136/1982) ... 31 Unit Trust First Unit Scheme Regulations (LN 137/1982) … … … 42 Unit Trust Second Unit Scheme Regulations (LN 145/1989) … … 59 Unit Trust Corporation Third Unit Scheme Regulations (LN 267/2014) … 72 Unit Trust Corporation Fourth Unit Scheme Regulations (LN 194/2015) … 82
 CHAPTER 83:03
 UNIT TRUST CORPORATION OF TRINIDAD
 AND TOBAGO ACT
