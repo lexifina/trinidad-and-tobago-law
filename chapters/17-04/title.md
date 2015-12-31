@@ -7,6 +7,7 @@ Amended by
 *30 of 2007
 *1 of 2009
 *13 of 2010
+*2 of 2015
 *See Note on page 2
 Index of Subsidiary Legislation
 Page Retiring Allowances (Diplomatic Service) Regulations (GN 104/1976) … 15
@@ -18,6 +19,8 @@ Note on Act No. 1 of 2009
 Amendments made by Act No. 1 of 2009 took effect from 1st October 2009.
 Note on Act No. 13 of 2010
 Amendments made by Act No. 13 of 2010 took effect from 1st September 2010. Further, all payments made between 1st September 2010 and 1st January 2011 have been validated under section 25.
+Note on Act No. 2 of 2015
+Amendments made by Act No. 2 of 2015 took effect from 1st October 2014. All payments made on or after and before that date have deen validated by section 26.
 CHAPTER 17:04
 RETIRING ALLOWANCES
 (DIPLOMATIC SERVICE) ACT
