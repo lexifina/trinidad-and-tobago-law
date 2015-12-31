@@ -1,11 +1,12 @@
 MUNICIPAL CORPORATIONS ACT
 CHAPTER 25:04
 Act
-21 of 1990 Amended by 28 of 1991 7 of 1992* 8 of 1992
-36 of 1995* 18 of 1998 13 of 2003 14 of 2006 18 of 2007 11 of 2008 5 of 2009 6 of 2009 13 of 2013 4 of 2014
+21 of 1990 Amended by 28 of 1991 *7 of 1992 8 of 1992
+*36 of 1995 18 of 1998 13 of 2003 14 of 2006 18 of 2007 11 of 2008 5 of 2009 6 of 2009
+*18 of 2009 13 of 2013 4 of 2014
 *See Note on page 3
 Index of Subsidiary Legislation
-Page Municipal Corporations Order (LN 133/1993) ... 171 Municipal Corporations Order (LN 194/1996) ... 172 Municipal Police Service Regulations (LN 300/2014) … … … 173 Municipal Police Officer (Duty Allowance) Order (LN 391/2014)… … 273
+Page Municipal Corporations Order (LN 133/1993) ... 151 Municipal Corporations Order (LN 194/1996) ... 152 Municipal Police Service Regulations (LN 300/2014) … … … 161 Municipal Police Officer (Duty Allowance) Order (LN 391/2014)… … 254
 Note on Omissions
 The following Subsidiary Legislation have been omitted:
 A. Vesting Orders made under section 7A of the Act. B. Standing Orders made under section 66 of the Act with respect to-
@@ -40,6 +41,8 @@ Note on Sections 210, 211 and 213
 Sections 210, 211 and 213 make reference to the Twelfth and Thirteenth Schedules. However, these Schedules are not contained in the Act.
 Note on Acts Nos. 7 of 1992 and 36 of 1995
 (These Acts are spent).
+Note on Part V
+Part V of the Act was repealed by Act No. 18 of 2009. As a consequence of this repeal, the Sixth Schedule has been omitted.
 CHAPTER 25:04
 MUNICIPAL CORPORATIONS ACT
 ARRANGEMENT OF SECTIONS
@@ -67,10 +70,10 @@ returning officer.
 34. Officers of a Corporation. 35. Appointment of Officers. 36. Chief Officers. 37. Vacancy in office of Chief Officer. 38. Functions of the Chief Executive Officer. 39. Functions of the Corporation Secretary. 40. Functions of the Treasurer. 41. Functions of the Engineer. 42. Functions of the Medical Officer of Health. 43. The Chief Public Health Inspector. 44. Accountability of officers. 45. Employees other than officers of the Corporation. 46. Council to consult appropriate organisation. 47. Appointment of bailiff.
 PART III
 MUNICIPAL POLICE SERVICE
-48. Municipal Police Service. 49. President may issue arms to Service. 50. Precept by Commissioner of Police.
+48. Municipal Police Service. 49. President may issue arms to Service. 50. Precept by Commissioner of Police. 51. Badges and uniforms.
 ARRANGEMENT OF SECTIONS-Continued
 SECTION
-51. Badges and uniforms. 52. Authority of Police Commissioner. 53. General powers and immunities of Municipal Police Officers. 54. Offenders may be arrested without warrant. 55. Power to bail. 56. Municipal Police Officers may lay information and conduct
+52. Authority of Police Commissioner. 53. General powers and immunities of Municipal Police Officers. 54. Offenders may be arrested without warrant. 55. Power to bail. 56. Municipal Police Officers may lay information and conduct
 proceedings.
 57. Sale of stolen or abandoned property. 58. Certain Municipal Police Officers to be Justices. 59. Policing beyond boundaries of Municipality. 60. Regulations for Municipal Police Service.
 60A. Duty allowance.
@@ -78,29 +81,11 @@ proceedings.
 PART IV
 MEETINGS AND PROCEEDINGS OF THE
 COUNCIL OF A CORPORATION
-62. Meetings. 63. Notice of meeting. 64. Chairman of meetings. 65. Quorum. 66. Standing Order. 67. Voting. 68. Appointment of committees. 69. Standing Committee. 70. Sub-Committees. 71. Minutes signed by Chairman to be evidence. 72. Meetings deemed to have been duly convened. 73. Delegation of powers of the Council to Committee. 74. Travelling expenses of Committees. 75. Open meetings.
+62. Meetings. 63. Notice of meeting. 64. Chairman of meetings. 65. Quorum. 66. Standing Order. 67. Voting. 68. Appointment of committees. 69. Standing Committee. 70. Sub-Committees. 71. Minutes signed by Chairman to be evidence. 72. Meetings deemed to have been duly convened.
+} 73. Delegation of powers of the Council to Committee.
+74. Travelling expenses of Committees. 75. Open meetings.
 PART V
-HOUSE RATE
-76. Interpretation. 77. Annual house rate to be levied. SECTION
-78. Annual rateable value. 79. Assessor to be appointed. 80. Assessor to ascertain rateable value. 81. Assessor and Council may require returns from owners. 82. Mode of determining annual rateable value. 83. Returns to be submitted to Chief Executive Officer. 84. House Rate Book. 85. New valuations to be made every three years. 86. Notice of completion of House Rate Book to be published. 87. Omission to enter hereditament in House Rate Book does not affect
-liability to be rated.
-88. Assessment of rateable hereditament coming into being after
-completion of House Rate Book.
-89. Rate payable where house is erected on premises which are already
-assessed.
-90. Valuation of premises in Municipality after alteration of boundary.
-Enactments and Bye-laws applicable to Municipality to extend to
-added area.
-91. Assessor to notify owner of annual rateable value of rateable
-hereditament.
-92. Owner to notify Chief Executive Officer of objection to valuation. 93. New assessments after completion of House Rate Book. 94. Decision of Commissioner of Valuations final unless appeal is filed. 95. Appeal from decision of Appeal Board. 96. Appellant to enter into recognisance. 97. Certified copy of notice of appeal to be sent to respondent. 98. Valuations which have been varied or altered to be entered in House
-Rate Book.
-99. Owner to pay annual rate. 100. Rate to be a charge on premises and may be recovered by distress. 101. Date when rate payable. 102. Treasurer to apply moneys to arrears. 103. Return of warrant by bailiff. 104. Payment by Government of annual sum in lieu of rates. 105. House Rate Book to be evidence of valuations and rates.
-ARRANGEMENT OF SECTIONS-Continued
-SECTION
-106. Errors, etc., not to affect liability to rate.
-Council may correct errors in notice or House Rate Book.
-107. Change of ownership to be noted in House Rate Book.
+76. to (Repealed by Act No. 18 of 2009). 107. SECTION
 PART VI
 FINANCIAL PROVISIONS
 108. Annual estimates. 109. Corporation fund and collection of fees, rates and taxes. 110. Mayor's Fund. 111. Moneys to be paid into approved banks. 112. Application of funds. 113. Form of accounts and audit. 114. Appeals and applications for relief. 115. Payment and recovery of sums certified to be due. 116. Signatures of cheques and receipts. 117. Council may make Regulations. 118. All financial matters to be submitted to Finance Committee. 119. Corporation may borrow money. 120. Power to alter allocation of moneys. 121. Disability of members through conflict of interest. 122. Officers to declare interest in contracts. 123. Acquisition and alienation of corporate property.
@@ -109,14 +94,15 @@ STREETS AND BUILDINGS
 124. Interpretation. 125. Breaking up of pavement or obstruction of street without prior
 consent.
 126. Execution of works and restoration of streets. 127. Encroaching upon streets. 128. Bridge over side-drains. 129. Enclosure of land. 130. Taking over streets and widening or other improvements effected by
-the Council. SECTION
-131. Fountains, statues and monuments. 132. Council may plant, maintain or cut down trees in streets. 133. Overhanging trees. 134. Bye-laws dealing with the use of streets. 135. Seizing animal or vehicle on streets. 136. Sanitary conveniences. 137. Bye-laws regarding sanitary conveniences. 138. Naming of streets and numbering of houses. 139. Streets names, and buildings numbers to be displayed. 140. Publication of resolution relating to naming or numbering. 141. Penalty for removing or defacing number or nameplates. 142. Application to erect poles. 143. Erecting pole without previous consent of Council. 144. Council may order removal of poles. 145. Obstruction of drains. 146. Council may pave or repave footway. 147. Engineer to notify owner of intention to pave. 148. Power to alter line of and widen or lessen footway. 149. Crossings for vehicles over footways. 150. Certain signs prohibited. 151. When licence to be void. 152. Awnings. 153. Length of awnings. 154. No advertisement on footways. 155. Hanging goods over footways. 156. Signs, awnings, etc., contrary to the Act may be removed. 157. Penalty. 158. Additions to, and alterations of, buildings. 159. New building to conform to Regulations. 160. Continuation of existing Building Regulations. 161. Certificate of compliance with Building Regulations. 162. Power of Engineer to order discontinuance of building operations. 163. Council may remove or pull down works executed in contravention
-of Acts or Regulations.
-Power conferred by this section to be in addition to any other remedy.
+the Council.
+131. Fountains, statues and monuments. 132. Council may plant, maintain or cut down trees in streets. 133. Overhanging trees. 134. Bye-laws dealing with the use of streets. 135. Seizing animal or vehicle on streets.
 ARRANGEMENT OF SECTIONS-Continued
 SECTION
+136. Sanitary conveniences. 137. Bye-laws regarding sanitary conveniences. 138. Naming of streets and numbering of houses. 139. Streets names, and buildings numbers to be displayed. 140. Publication of resolution relating to naming or numbering. 141. Penalty for removing or defacing number or nameplates. 142. Application to erect poles. 143. Erecting pole without previous consent of Council. 144. Council may order removal of poles. 145. Obstruction of drains. 146. Council may pave or repave footway. 147. Engineer to notify owner of intention to pave. 148. Power to alter line of and widen or lessen footway. 149. Crossings for vehicles over footways. 150. Certain signs prohibited. 151. When licence to be void. 152. Awnings. 153. Length of awnings. 154. No advertisement on footways. 155. Hanging goods over footways. 156. Signs, awnings, etc., contrary to the Act may be removed. 157. Penalty. 158. Additions to, and alterations of, buildings. 159. New building to conform to Regulations. 160. Continuation of existing Building Regulations. 161. Certificate of compliance with Building Regulations. 162. Power of Engineer to order discontinuance of building operations. 163. Council may remove or pull down works executed in contravention
+of Act or Regulations.
+Power conferred by this section to be in addition to any other remedy.
 164. No building to be removed except after notice to the Corporation. 165. Owner of vacant land to notify Chief Executive Officer of removal
-of house therefrom.
+of house therefrom. SECTION
 166. Payments of rates before removal of house. 167. Plans deposited to be of no effect if building is not commenced
 within two years.
 168. Penalty for breach of Regulations with respect to new buildings. 169. Building over drain. 170. Public buildings not to be used until approved. 171. Conversion into a public building of building erected for other
@@ -128,10 +114,12 @@ of Engineer.
 184. Owner as well as builder liable for contravention of Act or Regulations. 185. Authentication of notice. 186. Notice served on builder.
 PART VIII
 MARKETS AND SLAUGHTERHOUSES
-187. Interpretation. 188. Existing markets. 189. Appointing places as markets. SECTION
-190. Notice of opening of new market.
+187. Interpretation. 188. Existing markets. 189. Appointing places as markets. 190. Notice of opening of new market.
 Fixing market hours and goods to be sold.
-191. Power to close markets. 192. Appointment of Market Administrator and other servants. 193. Inspection for detecting unsound marketable commodities. 194. Market dues. 195. Existing tolls, etc., to continue to be payable. 196. Bye-laws.
+191. Power to close markets. 192. Appointment of Market Administrator and other servants.
+ARRANGEMENT OF SECTIONS-Continued
+SECTION
+193. Inspection for detecting unsound marketable commodities. 194. Market dues. 195. Existing tolls, etc., to continue to be payable. 196. Bye-laws.
 Bye-laws to be exhibited in market and published.
 197. Markets only in specified areas. 198. Licence to salesman of meat or fish. 199. Meat and fish to be sold only in public market or licensed shop, etc.
 Prohibition of sale of marketable commodities not being fish or meat. Penalty for breach of subsection (1). Penalty for breach of subsection (2).
@@ -142,10 +130,8 @@ All animals to be slaugtered at public slaughterhouses.
 208. Bye-laws for slaughterhouses and detention stations. 209. Penalty for second offences.
 PART IX
 PEDLARS, HAWKERS AND HUCKSTERS
-210. Licensee to trade as pedlar, hawker and huckster. 211. Duration of licences. 212. Register of licences. 213. Alteration of fees. 214. Requisition for licence. 215. Evidence.
-ARRANGEMENT OF SECTIONS-Continued
-SECTION
-216. Form of licence. 217. Change of abode of licensee. 218. Forging or counterfeiting licence. 219. Huckster's name to be on box, etc. 220. Who may lay information.
+210. Licensee to trade as pedlar, hawker and huckster. 211. Duration of licences. 212. Register of licences. 213. Alteration of fees. 214. Requisition for licence. 215. Evidence. 216. Form of licence. 217. Change of abode of licensee. 218. Forging or counterfeiting licence. SECTION
+219. Huckster's name to be on box, etc. 220. Who may lay information.
 PART X
 BYE-LAWS, RULES AND REGULATIONS
 221. Bye-laws for good government of a Corporation. 222. Penalty for breach of Bye-laws. 223. Bye-laws to be confirmed by the President.
@@ -163,10 +149,12 @@ Payments by instalments. Procedure in case of non-payment of instalment. Expense
 Bye-laws.
 230. Certified copies of documents to be prima facie evidence thereof.
 Proof of handwriting not required. Fee for copy or extract. Production of original. Fee for production of original. Definition of "document" of a Corporation. Certified copy or extract may be granted by Corporation Secretary.
-231. Procedure for enforcing powers of entry. SECTION
+231. Procedure for enforcing powers of entry.
 PART XII
 MISCELLANEOUS FUNCTIONS
 232. Additional functions.
+ARRANGEMENT OF SECTIONS-Continued
+SECTION
 PART XIII
 ASSOCIATION OF LOCAL
 GOVERNMENT CORPORATIONS
@@ -183,19 +171,14 @@ PART XVI
 GENERAL PROVISIONS
 255. Form, authentication, and service of notices, etc. 256. Power to attach conditions to consent. 257. Misnomer or misdescription. 258. Statutory increase. 259. Remission of statutory increase. 260. Computation of time. 261. Authentication of licence.
 Duplicate licence.
-262. Power to withhold, suspend, or revoke licence. 263. Execution of works on default of owner. 264. Charges on premises to be preferential to other encumbrances.
-ARRANGEMENT OF SECTIONS-Continued
-SECTION
-265. Apportionment of expenses of works between different owners. 266. Plans, etc., deposited to become property of Corporation. 267. Powers conferred by written law to be cumulative. 268. Schedules-power to alter or amend. 269. Government policy directions. 270. Power to investigate. 271. Power of President to dissolve a Council and appoint a
-Commissioner.
-272. Continuation of collective agreements and union representation. 273. Extension of term of office of serving members.
+262. Power to withhold, suspend, or revoke licence. 263. Execution of works on default of owner. 264. Charges on premises to be preferential to other encumbrances. 265. Apportionment of expenses of works between different owners. 266. Plans, etc., deposited to become property of Corporation. SECTION
+267. Powers conferred by written law to be cumulative. 268. Schedules-power to alter or amend. 269. Government policy directions. 270. Power to investigate. 271. Power of President to dissolve a Council and appoint Commissioner. 272. Continuation of collective agreements and union representation. 273. Extension of term of office of serving members.
 FIRST SCHEDULE-LIST OF CORPORATIONS CONTINUED UNDER THISACT. SECOND SCHEDULE-LIST OF MUNICIPALCORPORATIONS ESTABLISHED
 UNDER THIS ACT.
 THIRD SCHEDULE-NUMBER OF COUNCILLORS AND ALDERMEN TO BE
 ELECTED TO THE COUNCIL OF EACH CORPORATION. FOURTH SCHEDULE-DECLARATION TO BY PERSON
 BE MADE
-ELECTED TO A CORPORATE OFFICE. FIFTH SCHEDULE-WARRANT. SIXTH SCHEDULE-FORM A (ASSESSMENT RETURN)
-FORM B (COMPLETION OF HOUSE RATE BOOK). SEVENTH SCHEDULE-PAVING OF FOOTWAYS. EIGHTH SCHEDULE-CONTINUATION OF EXISTING LAWS. NINTH SCHEDULE-FORM A (REMOVAL OF HOUSE-NOTICE BY
+ELECTED TO A CORPORATE OFFICE. FIFTH SCHEDULE-WARRANT. SIXTH SCHEDULE-OMITTED DUE TO THE REPEAL OF PART V SEVENTH SCHEDULE-PAVING OF FOOTWAYS. EIGHTH SCHEDULE-CONTINUATION OF EXISTING LAWS. NINTH SCHEDULE-FORM A (REMOVAL OF HOUSE-NOTICE BY
 OWNER OF HOUSE).
 FORM B (REMOVAL OF HOUSE-NOTICE BY
 OWNER OF LAND).
