@@ -79,7 +79,8 @@ other sweetening matter;
 (ag)
 (Deleted by LN 365/2012); †
 (ah)
-(ai) icing sugar; *Schedule 2 has been amended by the following: [215/1989; 63/1990; 6 of 1991, 31/1991; 4 of 1992, 10/1992; 37/1993; 12 of 1994; 5 of 1995, 57/1995; 8 of 1996; 35 of 1998, 241/1998, 263/1998, 278/1998; 91 of 2000, 196/2000; 42/2001, 202/2001; 135/2002; 76/2003, 197/2003; 298/2004; 89/2005, 260/2005; 20/2006, 126/2006; 17 of 2007, 26/2007, 30 of 2007, 108/2007; 166/2008; 192/2009; 13 of 2010; 202/2011; 365/2012, 409/2012; 2 of 2013, 75/2013, 178/2013, 179/2013 and 256/2013]. †LNs 365/2012 and 409/2012 came into operation on 15th November 2012.
+(ai) icing sugar;
+*Schedule 2 has been amended by the following: [215/1989; 63/1990; 6 of 1991, 31/1991; 4 of 1992, 10/1992; 37/1993; 12 of 1994; 5 of 1995, 57/1995; 8 of 1996; 35 of 1998, 241/1998, 263/1998, 278/1998; 91 of 2000, 196/2000; 42/2001, 202/2001; 135/2002; 76/2003, 197/2003; 298/2004; 89/2005, 260/2005; 20/2006, 126/2006; 17 of 2007, 26/2007, 30 of 2007, 108/2007; 166/2008; 192/2009; 13 of 2010; 202/2011; 365/2012, 409/2012; 2 of 2013, 75/2013, 178/2013, 179/2013, 256/2013 and 2 of 2015]. †LNs 365/2012 and 409/2012 came into operation on 15th November 2012.
 (ak) (Deleted by LN 365/2012);
 (al) biscuits;
 (am) grapefruit juice;
@@ -165,7 +166,9 @@ Crude oil having tariff heading number 1514.91.00;
 (br) Rape, colza or mustard oil and fractions thereof, whether or
 not refined, but not chemically modified-
 Low erucic acid rape or colza oil and its fractions: Other
-having tariff heading number 1514.99.00; wholly hydrogenated, interesterified, re-esterified or elaidinised, whether or not refined, but not further prepared-
+having tariff heading number 1514.99.00;
+(bs) Animal or vegetable fats and oils and their fractions, partly or
+wholly hydrogenated, interesterified, re-esterified or elaidinised, whether or not refined, but not further prepared-
 Animal fats and oils and their fractions: Vegetable fats
 and oils and their fractions having tariff heading number 1516.20.00;
 (bt) Meat and edible meat offal, salted, in brine, dried or smoked;
@@ -205,9 +208,8 @@ cachets of a kind suitable for pharmaceutical use, sealing wafers, rice paper an
 prepared or preserved by vinegar or acetic acid other than-
 (i) cucumber and gherkins; and
 (ii) those in packages of not less than 50 kg;
-otherwise than by vinegar or acetic acid except those in packages of not less than 50 kg;
-(ch) Other tomatoes other than tomato paste and except those in
-packages of not less than 50 kg;
+(cg) Tomatoes, whole or in pieces, prepared or preserved
+otherwise than by vinegar or acetic acid except those in packages of not less than 50 kg; packages of not less than 50 kg;
 (ci) Mushrooms prepared or preserved otherwise than by vinegar
 or acetic acid other than mushrooms of the genus Agaricus;
 (cj) Other vegetables prepared or preserved otherwise than by
@@ -419,13 +421,24 @@ his return to Trinidad and Tobago;
 (iii) requires the motor vehicle for his personal use.
 (2) For the purposes of subparagraph (1), continuous residence abroad by a returning national shall not be affected by temporary visits to Trinidad and Tobago for periods not exceeding three months in each of the five years immediately prior to his return to Trinidad and Tobago to reside permanently.
 (3) A returning national shall only be allowed to import one motor vehicle under subparagraph (1).
+†7C. (1) Any-
+(a) new electric vehicle with an engine size not exceeding
+179 kilowatts; or
+(b) used electric vehicle with an engine size not exceeding
+179 kilowatts and which is not older than four years from the year of manufacture, which is imported for private or commercial use on or after 1st January 2015 and before 1st January 2020.
+*7B came into operation on 24th May 2013. †7C came into operation on 1st January 2015.
+(2) For the purposes of this paragraph, "electric vehicle" means a vehicle that is propelled by an electric motor powered by a rechargeable battery pack.
+7D. (1) Any-
+(a) new hybrid vehicle with an engine size not exceeding 1799 cc; or
+(b) used hybrid vehicle with an engine size not exceeding 1799 cc
+and which is not older than four years from the year of manufacture, which is imported for private or commercial use on or after 1st January 2015 and before 1st January 2020.
+(2) For the purposes of this paragraph, "hybrid vehicle" means a vehicle that is capable of being propelled by a combination of an internal combustion engine and an on-board rechargeable energy system.
 8. Medicines and drugs of a kind available only by prescription.
 8A. Any of the following medicines for human use:
 (a) analgesics in the form of liquids, tablets, capsules or other
 solid dosage forms for oral or rectal use;
 (b) cough and cold preparations in the form of liquids, tablets,
 capsules or other solid dosage forms for oral and nasal use;
-*7B came into operation on 24th May 2013.
 (c) antacids and antiflatulants in the form of liquids, tablets,
 capsules and other solid dosage forms for oral use;
 (d) laxatives in the form of liquids, tablets, capsules or other
@@ -454,8 +467,7 @@ of W.H.O./Pharmacopoeia standards.
 (q) Chorhexidine Gluconate 20% having tariff number 2918.16.00;
 (r) Chlorpheniramine Maleate having tariff number 2942.00.00;
 (s) Cocamidopropyl Betaine having tariff number 2915.90.00;
-(t) Croda Absorption Base Type having tariff number
-1505.00.00;
+(t) Croda Absorption Base Type having tariff number 1505.00.00;
 (u) Crodasinic LS 30 having tariff number 2942.00.00;
 (v) Crodamol MM having tariff number 2915.90.00;
 (w) Edetate Disodium having tariff number 2921.21.00;
@@ -478,8 +490,7 @@ of W.H.O./Pharmacopoeia standards.
 (nn) Menthol Crystals having tariff number 2906.11.00;
 (oo) Methyl Parabens having tariff number 2916.31.00;
 (pp) Methyl Salicylate having tariff number 2918.22.00;
-(qq) Micro Crystalline cellulose having tariff number
-2938.90.00;
+(qq) Micro Crystalline cellulose having tariff number 2938.90.00;
 (rr) Mineral Oil Britol 7NF having tariff number 2901.29.90;
 (ss) Nutmeg Oil having tariff number 3301.29.40;
 (tt) Paraffin Liquid USP 35 having tariff number 2901.29.90;
@@ -488,19 +499,22 @@ of W.H.O./Pharmacopoeia standards.
 (ww) Polaxmer 407 NF having tariff number 2942.00.00;
 (xx) Polyethylene Glycol having tariff number 2909.49.00;
 (yy) Polysorbate 60 NF having tariff number 2915.90.00;
-(zz) Potassium Chloride Powder having tariff number
-3104.20.00;
-(aaa) Potassium Stearate having tariff number 2915.70.00; (bbb) Propyl Parabens having tariff number 2916.31.00; (ccc) Propylene Glycol having tariff number 2905.32.00; (ddd) Pine Oil Alpid having tariff number 3301.29.00; (eee) Quinoline Yellow Dye having tariff number 3204.90.00; (fff) Salicylic Acid having tariff number 2918.21.00;
-(ggg) Sodium Benzoate having tariff number 2916.31.00; (hhh) Sodium Chloride Powder USP having tariff number 2501.00.40;
-(iii) Sodium Dioctyl Sulfosuccinate having tariff number
-2904.10.90;
-(jjj) Sodium Hydroxide Solid having tariff number 2815.11.00; (kkk) Sodium Saccharin having tariff number 2925.11.00;
-(lll) Sorbitol 70% Solution having tariff number 2905.44.00; (mmm) Sorbitan Tristearate having tariff number 2915.70.00;
-(nnn) Starch 1500 having tariff number 1108.19.00; (ooo) Stearic Acid having tariff number 2915.70.00; (ppp) Sunset Yellow Dye having tariff number 3204.90.00; (qqq) Teinowax having tariff number 2712.90.00; (rrr) Terpineol having tariff number 2906.14.00; (sss) Thymol having tariff number 2907.19.00;
-(ttt) Triethanolamine 99% having tariff number 2922.13.00;
+(zz) Potassium Chloride Powder having tariff number 3104.20.00; (aaa) Potassium Stearate having tariff number 2915.70.00; (bbb) Propyl Parabens having tariff number 2916.31.00; (ccc) Propylene Glycol having tariff number 2905.32.00; (ddd) Pine Oil Alpid having tariff number 3301.29.00; (eee) Quinoline Yellow Dye having tariff number 3204.90.00; (fff) Salicylic Acid having tariff number 2918.21.00; (ggg) Sodium Benzoate having tariff number 2916.31.00; (hhh) Sodium Chloride Powder USP having tariff number 2501.00.40;
+(iii) Sodium Dioctyl Sulfosuccinate having tariff number 2904.10.90; (jjj) Sodium Hydroxide Solid having tariff number 2815.11.00;
+(kkk) Sodium Saccharin having tariff number 2925.11.00;
+(lll) Sorbitol 70% Solution having tariff number 2905.44.00;
+(mmm) Sorbitan Tristearate having tariff number 2915.70.00;
+(nnn) Starch 1500 having tariff number 1108.19.00;
+(ooo) Stearic Acid having tariff number 2915.70.00;
+(ppp) Sunset Yellow Dye having tariff number 3204.90.00;
+(qqq) Teinowax having tariff number 2712.90.00; (rrr) Terpineol having tariff number 2906.14.00; (sss) Thymol having tariff number 2907.19.00; (ttt) Triethanolamine 99% having tariff number 2922.13.00;
 (uuu) Trisodium Citrate having tariff number 2918.15.00;
-(vvv) Turpentine Oil having tariff number 3301.29.90; (www) Vitamin E Oil having tariff number 2936.28.00;
-(xxx) White Beeswax having tariff number 1521.00.00; (yyy) White Corn Starch having tariff number 1108.12.00; (zzz) Xanthan Gum having tariff number 1301.90.90; (aaaa) Zinc Oxide having tariff number 2817.00.00.
+(vvv) Turpentine Oil having tariff number 3301.29.90;
+(www) Vitamin E Oil having tariff number 2936.28.00;
+(xxx) White Beeswax having tariff number 1521.00.00;
+(yyy) White Corn Starch having tariff number 1108.12.00;
+(zzz) Xanthan Gum having tariff number 1301.90.90;
+(aaaa) Zinc Oxide having tariff number 2817.00.00.
 8B. Diabetic-
 (a) diagnostic testing kits and devices for testing glucose in
 blood and urine;
@@ -647,8 +661,7 @@ heading number 8714.20.
 (k) other outdoor games having tariff heading number 9506.999;
 (l) golf balls having tariff heading number 9506.32.00;
 (m) lawn-tennis balls having tariff heading number 9506.61.00;
-(n) inflatable balls for soccer having tariff heading
-number 9506.62.10;
+(n) inflatable balls for soccer having tariff heading number 9506.62.10;
 (o) other inflatable balls having tariff heading number 9506.62.90;
 (p) other balls having tariff number 9506.69.00.
 34. The item contained in the First Schedule to the Customs Act being salted fish under tariff heading number Ex. 03.05.
@@ -712,15 +725,6 @@ anchor handling tugs and platform supply vessels.
 - Margin: Ch. 75:04.
 - Margin: Ch. 75:02.
 - Margin: Ch. 85:01.
-- Margin: Ch. 78:01.
-- Margin: Ch. 78:01.
-- Margin: Ch. 78:01.
-- Margin: Ch. 78:01.
-- Margin: Ch. 78:01.
-- Margin: Ch. 78:01.
-- Margin: Ch. 78:01.
-- Margin: Ch. 78:01.
-- Margin: Ch. 78:01.
 - Margin: Ch. 78:01.
 - Margin: Ch. 78:01.
 - Margin: Ch. 78:01.
