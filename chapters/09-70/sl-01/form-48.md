@@ -1,11 +1,12 @@
 # FORM 48
-NOTICE OF MEETING (GENERAL FORM)
-(TITLE)
-Take notice that a meeting of creditors in the above matter will be held at ... on the ... day of ... , 20..., at ... o'clock in the ... noon.
-Agenda (a)
-Dated this ... day of ... , 20...
-Receiver or Trustee.
-Address ...
-NB-Forms of general and special proxy can be obtained on application to the Receiver or trustee at ...
-Early application is necessary, as proxies must be lodged with the person summoning the meeting not later than the day before the meeting.
-- Margin: (a) Here insert purpose for which meeting called.
+[Section 72(1)(a) of the Act and Regulation 98]
+DEMAND FOR REPOSSESSION OF GOODS
+To ________________________, purchaser (or trustee or receiver).
+I, __________________, of ___________________ (address), (or as ____________ of___________________,) supplier, hereby demand access to and repossession of the goods described below, which were sold and delivered to ___________________, the purchaser, on the dates and in accordance with the terms set out in the attached documents:
+[Attach copies of documents of sale (invoice, delivery slip, etc.) and provide an
+appropriate description of the goods.]
+Whereas the purchaser is bankrupt (or there is a receiver within the meaning of section 12 of the Act, appointed in respect of the purchaser's property) the trustee (or receiver) is required to release the goods described above in accordance with section 72(1) of the Act.
+Dated at __________________, this ______ day of __________, 20______.
+______________________________
+Supplier
+Telephone Number ___________________ Fax Number _________________________ E-mail Address _______________________

@@ -1,10 +1,8 @@
 # FORM 46
-MEMORANDUM OF PROCEEDINGS AT ADJOURNED
-FIRST MEETING
-NO QUORUM
-(TITLE)
-Before ... at ... on the ... day of
-... , 20... , at ... o'clock.
-Memorandum-The adjourned first meeting of creditors in the above matter was
-held at the time and place above-mentioned, and the several proofs of debt lodged were produced, but it appearing that there was not a quorum of creditors qualified to vote present or represented no resolution was passed, and the meeting was not further adjourned.
-Chairman.
+[Regulation 94(1)]
+NOTICE OF PASSING OF ACCOUNTS OF
+FORMER TRUSTEE
+Take notice that the passing of accounts before the Court pursuant to section 220(1) of the Act in the bankrupt estate of _______________________________ (bankrupt), will be held before the ________________ Court at _____________________ on the _______ day of __________________, 20______ at ___________o'clock.
+Dated at ______________ on this ____ day of ___________, 20____.
+__________________________________
+Former Trustee

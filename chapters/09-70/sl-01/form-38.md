@@ -1,18 +1,16 @@
 # FORM 38
-NOTICE OF MEETING IN SUMMARY CASE WHERE
-DEBTOR SUBMITS AN OFFER OF COMPOSITION, ETC.
-(TITLE)
-SUMMARY CASE
-(Under receiving order dated ...) Notice is hereby given that a general meeting of the creditors of the above-named debtor will be held at ... on the ... day of ... , 20... at ... o'clock in the ... noon precisely.
-An order for summary administration under section 114 of the Act has been made by the Court.
-Creditors qualified to vote at such meeting may, by a resolution passed by a majority in number, and three-fourths in value, of those who have proved their debts, accept the proposal made by the debtor for a composition [or scheme], the terms of which are set forth in the accompanying report, or any amendment of such proposal which, in the opinion of the Receiver, is calculated to benefit the general body of creditors.
-Proofs of debts intended to be used at the meeting must be lodged with the Receiver not later than ... o'clock on the ... day of ... , 20...
-Creditors who prove their debts, and whose proofs are admitted, and who do not vote on the debtor's proposal, will be reckoned as voting against it.
-The public examination of the debtor will be held at ... on the ... day of ... , 20... , at ... o'clock in the ... noon.
-Any creditor who has tendered a proof, or his representative, authorised in writing, may question the debtor on his public examination concerning his affairs and the causes of his failure.
-Dated this ... day of ... , 20...
-Receiver.
-Notes
-1. Creditors who have proved may vote for or against the acceptance of the debtor's proposal by means of the voting letter attached to the Receiver's report.
-2. If the proposal is not accepted, the Court shall, if the debtor has not already been adjudged bankrupt, adjudge him bankrupt.
-3. Forms of proof and of general and special proxy and a summary of the statement of affairs are sent herewith. [Subsidiary] Bankruptcy Rules
+[Section 126(4) of the Act and Regulation 54]
+NOTICE OF DISALLOWANCE OF CLAIM, RIGHT
+TO PRIORITY OR SECURITY OR NOTICE OF
+VALUATION OF CLAIM
+Take notice that:
+(A) As trustee acting in the matter of the bankruptcy (or proposal) of ____________,
+I have disallowed your claim (or your right to a priority or your security on the property) in whole (or to the extent of $____________), pursuant to section 126(3) of the Act, for the following reasons:
+(Set out the reasons for the disallowance.)
+(or)
+(B) As trustee acting in the matter of the bankruptcy (or proposal) of ____________,
+I have determined that your contingent or unliquidated claim is a provable claim and have valued it at $______________ and therefore, it is deemed a proved claim to this amount pursuant to section 126(2) of the Act.
+And further take notice that if you are dissatisfied with my decision in disallowing your claim in whole or in part (or a right to rank or your security or valuation of your claim), you may appeal to the Court within the thirty-day period after the day on which this notice is served, or within any other period that the Court may, on application made within the same thirty-day period, allow.
+Dated at __________________, this ______ day of __________, 20______.
+______________________________
+Trustee
