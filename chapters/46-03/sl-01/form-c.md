@@ -1,21 +1,29 @@
 # FORM C
-STATEMENT TO BE LODGED IN COURT BY BOARD ON
-EVERY APPLICATION FOR AN ADOPTION ORDER
-Statement by Adoption Board of identity of child now named ... known to the Adoption Board as Case No ... To the ... Court:
-1. I ... being a
-member of the Adoption Board of Trinidad and Tobago hereby certify that the child above-named Adoption Board Case No... is the child formerly known as ...
-2. The father of the child is ...,
-now resident at ..., whose written consent to the making of an adoption order is appended hereto; and the mother of the child is ..., now resident at ... whose written consent to the making of the adoption order is appended hereto.
-3. The child was born on the ... day of ... 20 ..., and is identical with
-the child to whom the attached certified copy of an entry in the Register of Births relates.
-4. The child is a citizen of Trinidad and Tobago and has never married. *5. The guardian(s) of the child is (or are) ...,
-of ..., whose written consent(s) to the making of an adoption order is (or are) appended hereto.
-*6. The child is in the actual custody of ...,
-of ..., whose written consent to the making of an adoption order is appended hereto.
-*7..., of ... is (or are) liable to contribute
-to the support of the child and his (or their) written consent(s) to the making of an
-..., adoption order is (or are) appended hereto.
-... Signature of Member of Adoption Board
-Dated ... *Delete whichever is not applicable.
-Adoption of Children Rules [Subsidiary]
-- Margin: Rule 3(3).
+OPTIONAL DECLARATION BY A PARENT
+OR GUARDIAN
+ADOPTION OF CHILDREN ACT, CH. 46:03
+I, ...
+Name of Declarant
+of ...
+Address of Declarant
+do hereby declare that I am the *mother/father/guardian
+of...
+Name of child
+who was born on ...
+Date of birth of child to ...
+Name of birth mother/father
+at ...
+Place of birth of child
+I hereby state that I prefer not to be involved in future questions concerning the adoption of
+...
+Name of child
+I make this declaration of my own free will
+at ...
+Place where declaration is made
+on ...
+Date of declaration
+...
+Signature of Declarant ...
+Signature of Witness
+* To be completed individually by the parents, where applicable.
+- Margin: Section 15(7). Regulation 11.
