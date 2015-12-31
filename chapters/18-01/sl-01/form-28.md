@@ -18,10 +18,9 @@ of the Immigration Department at the address shown in (6) of any change of resid
 to the ... of the Immigration Department at ... unless that Officer grants him written permission to report on another date.
 ... Signed ...
 (Place) for Chief Immigration Officer
-Immigration Regulations
+FORM 28-Continued
 I, ... hereby acknowledge that I have (read) had interpreted and explained to me in the ... language and understand the contents of this order, a copy of which I have received, I further understand that failure to comply with the terms of this order will subject me to being retaken into custody forthwith without warrant, and any security deposit that may have been made as a condition of my release being forfeited...
+(Immigration Officer) (Person's Signature)
 ...
-Immigration Regulations
-- Margin: [Regulations 26(3), 29(2)(c)].
-- Margin: (Immigration Officer) (Person's Signature)
-- Margin: (Address) (Address)
+(Address) (Address)
+- Margin: Regulations 26(3), 29(2)(c).

@@ -9,5 +9,4 @@ Order of the Minister under section 14(3) of the Immigration Act, Ch. 18:01. To 
 ...
 Minister of National Security
 *Delete whichever is inappropriate.
-Immigration Regulations
-- Margin: (Regulation 45).
+- Margin: Regulation 45.

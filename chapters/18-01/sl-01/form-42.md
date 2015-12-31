@@ -18,5 +18,4 @@ Date ... Port ... Waiver granted under regulation by Application approved/disapp
 ...
 Signature
 Chief Immigration Officer
-Immigration Regulations
-- Margin: [Regulation 13(9)(d)].
+- Margin: Regulation 13(9)(d).

@@ -4,10 +4,15 @@ IMMIGRATION REGULATIONS
 WELCOME TO THE
 REPUBLIC OF TRINIDAD AND TOBAGO
 PASSENGER DECLARATION FORM
-Flight No... Boarded At ... Please Print All Information 1. SURNAME ... 2. FIRST NAME Middle Initial ... 3. (a) DATE OF BIRTH .../.../... 3. (b) SEX: MALE 4. (a) COUNTRY OF BIRTH ... 4. (b) NATIONALITY... 5. PASSPORT NO... DATE OF ISSUE .../.../... 6. CARICOM ID. NO... 7. PERMANENT ADDRESS ... 8. INTENDED ADDRESS (VISITOR) ... 9. OCCUPATION ... Intended Length of Stay ... 10. PURPOSE OF ENTRY Holiday Business Work In transit
+Flight No... Boarded At ... Please Print All Information 1. SURNAME
+... 2. FIRST NAME Middle Initial
+... 3. (a) DATE OF BIRTH .../.../... 3. (b) SEX: MALE 4. (a) COUNTRY OF BIRTH ... 4. (b) NATIONALITY... 5. PASSPORT NO... DATE OF ISSUE .../.../... 6. CARICOM ID. NO... 7. PERMANENT ADDRESS ...
+... 8. INTENDED ADDRESS (VISITOR) ...
+... 9. OCCUPATION ... Intended Length of Stay ... 10. PURPOSE OF ENTRY Holiday Business Work In transit
 Study Conference Sport Other ... Returning Resident Length of Stay Abroad ... SIGNATURE OF PASSENGER ... FOR OFFICIAL USE ONLY (Immigration)
 TRINIDAD AND TOBAGO DEPARTURE RECORD
-FLIGHT NO... PASSENGER DESTINATION... 1. SURNAME ... 2. FIRST NAME ... 3. PASSPORT NO... 4. DATE OF BIRTH .../.../ ... 5. NATIONALITY ...
-Immigration Regulations
+FLIGHT NO... PASSENGER DESTINATION... 1. SURNAME
+... 2. FIRST NAME
+... 3. PASSPORT NO... 4. DATE OF BIRTH .../.../ ... 5. NATIONALITY ...
 - Margin: Regulations 3(2); 32(4); 32(5)(a); 33(2)(c). [81/1995].
 - Margin: FEMALE

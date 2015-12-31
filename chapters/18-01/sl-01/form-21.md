@@ -9,4 +9,4 @@ who is a resident of Trinidad and Tobago has been exempted by the Minister from 
 ...
 Permanent Secretary,
 Ministry of National Security
-- Margin: [Regulation 40(2)].
+- Margin: Regulation 40(2).

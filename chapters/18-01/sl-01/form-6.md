@@ -18,7 +18,7 @@ of ...
 (Here insert occupation; profession; calling)
 hereby apply for permission to become a resident of Trinidad and Tobago. In support of my application I tender the following information: 1. Full name: Mr...
 Mrs... Miss ... 2. Date and Place of Birth ... 3. Present Nationality ... 4. Passport Number and Date and Place of Issue ... 5. Previous Nationality ... 6. Particulars of any change of name ... 7. Permanent Address ... 8. Marital Status ... 9. Full name of wife/husband ... 10. Citizenship of Father ... Is he a resident of Trinidad and Tobago? 11. Citizenship of Mother ... Is she a resident of Trinidad and Tobago?
-Immigration Regulations
+FORM 6-Continued
 12. Reason for desiring to reside in Trinidad and Tobago ...
 ... 13. Particulars of children are as follows:
 Place of Birth
@@ -32,21 +32,7 @@ Organisations, Friendly Societies, Co-operatives, Civic or other Charitable Orga
 If so, state particulars ... 19. Date on which entry into Trinidad and Tobago was permitted with respect to this application
 ... 20. Proof of length of permitted stay in Trinidad and Tobago ... 21. Period of ordinary residence in Trinidad and Tobago in respect of persons applying under
 section 50(1) of the Act ...
-Immigration Regulations
 FORM 6-Continued
-22. Particulars of employment during the past five (5) years ...
-...
-Position Duration of Held Employment
-23. Place/places of abode during the last ten (10) years preceding the application giving dates of
-such abode in each country, including details of periods of absences from Trinidad and Tobago ... 24. Names and addresses of person/s sponsoring the application under section 6 of the Act
-... 25. Particulars of relatives (if any) who are either citizens or residents of Trinidad and Tobago
-able to provide for your care and maintenance ... 26. Annual income and other assets ... 27. Do you have any children/grandchildren in Trinidad and Tobago who are either citizens
-of Trinidad and Tobago or residents willing and able to provide for your care and maintenance? ... 28. Has the applicant ever been deported or required to leave any other country? ...
-... 29. State offences (other than traffic offences) of which applicant has been convicted, if any, and
-give the date of conviction in each case ... 30. Does the applicant have any investments in Trinidad and Tobago? If so, give particulars
-... 31. Does the applicant own property in Trinidad and Tobago? Give particulars ...
-...
-Immigration Regulations
 32. Any other information which the applicant considers may be of assistance, may be given
 ... I, ... hereby declare that the foregoing
 ...
@@ -76,30 +62,7 @@ mental diseases;
 deportation order against him and prior to the execution of such order or his voluntarily leaving Trinidad and Tobago, unless an appeal against such order is allowed; or
 (c) is in Trinidad and Tobago under a permit.
 (3) For the purposes of subsection (1)(f) the Minister may, in his
-discretion, confer the status of a resident on any person he considers fit.
-Immigration Regulations
-FORM 6-Continued
-6. (1) Subject to this Act and the Regulations, persons who come within the following classes may on application in the prescribed form, be granted permission by the Minister if he thinks fit, to become residents, that is to say:
-(a) a permitted entrant who-
-(i) by reason of his education, occupational qualifications,
-personal history, employment record, training, skills or other special qualifications has established or is likely to be able to establish himself successfully in Trinidad and Tobago in a profession, trade, self-operating business or agricultural enterprise and who has sufficient means of support to maintain himself and his immediate family in Trinidad and Tobago; and
-(ii) has been continuously resident in Trinidad and Tobago for
-five years or such shorter period (not being less than twelve months) as the Minister may in the special circumstances of any particular case accept;
-(b) a person who is the parent or grandparent of either a citizen or
-resident of Trinidad and Tobago, residing in Trinidad and Tobago, if such citizen or resident is willing and able to provide care and maintenance for that person;
-(c) the spouse of a citizen or resident of Trinidad and Tobago; and
-(d) a person who has ceased to be a citizen of Trinidad and Tobago by
-reason of his voluntary acquisition of citizenship of another country.
-(2) In determining the suitability of an applicant for the grant of resident status under this section, the Minister shall be satisfied, inter alia, that the applicant-
-(a) had entered the country legally;
-(b) is not in a prohibited class; and
-(c) is of good character as evidenced by a police certificate of
-good character.
-(1) Subject to subsection (6), resident status is lost by a person-
-(a) who voluntarily resides outside Trinidad and Tobago for a
-continuous period of one year, unless he obtains from the Minister a certificate in the prescribed form exempting him from the provisions of this paragraph; or
-(b) who was entitled under the former Constitution to be registered as
-a citizen of Trinidad and Tobago, if he has resided outside Trinidad and Tobago for a continuous period of two years immediately preceding the commencement of this Act, unless within a period of six months from that date he obtains from the Minister a certificate in the prescribed form exempting him from the provisions of this paragraph. Immigration Regulations
+discretion, confer the status of a resident on any person he considers fit. FORM 6-Continued
 (2) Where the Minister is satisfied that a person has been-
 (a) engaged in activities detrimental to the security of Trinidad
 and Tobago; or
@@ -117,21 +80,82 @@ for residence; or
 (5) Any period during which a permitted entrant is in Trinidad and Tobago that is less than the period required for the acquisition of resident status under section 6(1)(a)(ii) that might otherwise be counted by a person towards the acquisition of such status in accordance with Regulations made under this Act is lost upon the making of a deportation order against him, unless an appeal against such order is allowed.
 (6) In no case shall residence out of Trinidad and Tobago for the purpose of serving in the public service or diplomatic or other service of Trinidad and Tobago, cause loss of resident status.
 50. (1) Notwithstanding anything in Part I to the contrary, a person who, upon the commencement of this Act, was ordinarily resident in Trinidad and Tobago for a period of five years is entitled to apply to the Minister for permission to become a resident, and the Minister may, if he thinks fit, grant such permission. An application under this subsection shall be made within one year of the commencement of this Act and no later, unless the Minister prescribes some further period, not exceeding three years, within which such application may be made.".
-Immigration Regulations
-- Margin: [Regulations 17(1); 21; 22].
+- Margin: Regulations 17(1); 21; 22.
 - Margin: Place and Date Passport Date of Name of Issue No. Birth
 - Margin: Dates Institution Awarded
 - Margin: (1) Secondary/High School
 - Margin: (2) University
 - Margin: (3) Other Courses
-- Margin: Reason for Employer's Employer Termination Address
+- Margin: 22. Particulars of employment during the past five (5) years ...
+- Margin: ...
+- Margin: Reason for Duration of Position Employer's Employer Termination Employment Held Address
+- Margin: 23. Place/places of abode during the last ten (10) years preceding the application giving dates of
+- Margin: such abode in each country, including details of periods of absences from Trinidad and Tobago
+- Margin: ...
+- Margin: ...
+- Margin: ...
+- Margin: 24. Names and addresses of person/s sponsoring the application under section 6 of the Act
+- Margin: ...
+- Margin: ...
+- Margin: 25. Particulars of relatives (if any) who are either citizens or residents of Trinidad and Tobago
+- Margin: able to provide for your care and maintenance ...
+- Margin: ...
+- Margin: 26. Annual income and other assets ...
+- Margin: 27. Do you have any children/grandchildren in Trinidad and Tobago who are either citizens
+- Margin: of Trinidad and Tobago or residents willing and able to provide for your care and
+- Margin: maintenance? ...
+- Margin: 28. Has the applicant ever been deported or required to leave any other country? ...
+- Margin: ...
+- Margin: 29. State offences (other than traffic offences) of which applicant has been convicted, if any, and
+- Margin: give the date of conviction in each case ...
+- Margin: ...
+- Margin: ...
+- Margin: ...
+- Margin: ...
+- Margin: 30. Does the applicant have any investments in Trinidad and Tobago? If so, give particulars
+- Margin: ...
+- Margin: 31. Does the applicant own property in Trinidad and Tobago? Give particulars ...
+- Margin: ...
+- Margin: ...
 - Margin: particulars are true and correct.
 - Margin: Signature of Applicant
 - Margin: Date
 - Margin: separate sheet.
 - Margin: "Persons who are residents of Trinidad and Tobago.
-- Margin: Persons who may be permitted to become residents.
-- Margin: 7 Loss of resident status.
+- Margin: 6. (1) Subject to this Act and the Regulations, persons who come within the Persons who may be permitted to following classes may on application in the prescribed form, be granted permission become residents. by the Minister if he thinks fit, to become residents, that is to say: (a) a permitted entrant who-
+- Margin: (i) by reason of his education, occupational qualifications,
+- Margin: personal history, employment record, training, skills or other
+- Margin: special qualifications has established or is likely to be able to
+- Margin: establish himself successfully in Trinidad and Tobago in a
+- Margin: profession, trade, self-operating business or agricultural
+- Margin: enterprise and who has sufficient means of support to maintain
+- Margin: himself and his immediate family in Trinidad and Tobago; and
+- Margin: (ii) has been continuously resident in Trinidad and Tobago for
+- Margin: five years or such shorter period (not being less than
+- Margin: twelve months) as the Minister may in the special
+- Margin: circumstances of any particular case accept;
+- Margin: (b) a person who is the parent or grandparent of either a citizen or
+- Margin: resident of Trinidad and Tobago, residing in Trinidad and
+- Margin: Tobago, if such citizen or resident is willing and able to
+- Margin: provide care and maintenance for that person; (c) the spouse of a citizen or resident of Trinidad and Tobago; and
+- Margin: (d) a person who has ceased to be a citizen of Trinidad and Tobago by
+- Margin: reason of his voluntary acquisition of citizenship of another country.
+- Margin: (2) In determining the suitability of an applicant for the grant of resident
+- Margin: status under this section, the Minister shall be satisfied, inter alia, that the applicant- (a) had entered the country legally;
+- Margin: (b) is not in a prohibited class; and
+- Margin: (c) is of good character as evidenced by a police certificate of
+- Margin: good character.
+- Margin: 7. (1) Subject to subsection (6), resident status is lost by a person- Loss of resident (a) who voluntarily resides outside Trinidad and Tobago for a status.
+- Margin: continuous period of one year, unless he obtains from the
+- Margin: Minister a certificate in the prescribed form exempting him
+- Margin: from the provisions of this paragraph; or
+- Margin: (b) who was entitled under the former Constitution to be registered as
+- Margin: a citizen of Trinidad and Tobago, if he has resided outside
+- Margin: Trinidad and Tobago for a continuous period of two years
+- Margin: immediately preceding the commencement of this Act, unless
+- Margin: within a period of six months from that date he obtains from the
+- Margin: Minister a certificate in the prescribed form exempting him from
+- Margin: the provisions of this paragraph.
 - Margin: person who-
 - Margin: a resident-
 - Margin: Applications by certain persons for resident status and for certificates under section 9.

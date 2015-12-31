@@ -22,7 +22,6 @@ Original of this notice was delivered to the above-named applicant by the unders
 on ...
 ...
 Immigration Officer
-Immigration Regulations
 NOTICE TO RESPONDENT
 Any statement you make may be used as evidence in Deportation Proceedings
 THE COPY OF THIS ORDER SERVED UPON YOU IS
@@ -35,7 +34,7 @@ When you appear you may, if you wish, admit that the allegations contained in th
 You may apply at the hearing for voluntary departure in lieu of deportation. Moreover, if you appear to be eligible to acquire lawful, permanent, resident status the Special Inquiry Officer will explain this to you at the hearing and give you an opportunity to apply.
 You will be asked during the hearing to select a country to which you choose to be deported in the event that your deportation is required by law. The Special Inquiry Officer will also notify you concerning any other country or countries to which your deportation may be directed pursuant to law; and upon receipt of this information, you will have an opportunity to apply during the hearing for temporary withholding of deportation if you believe you would be subject to prosecution in any such country on account of race, religion, or political opinion.
 Failure to attend the hearing at the time and place designated hereon may result in your arrest and detention by the Immigration Division without further notice, or in a determination being made by the Special Inquiry Officer in your absence.
-Immigration Regulations
+FORM 44-Continued
 REQUEST FOR PROMPT HEARING
 To expedite determination of my case, I request an immediate hearing and waive any right I may have to more extended notice.
 ...
@@ -46,6 +45,5 @@ CERTIFICATE OF SERVICE
 This order and notice were served by me on ... in the following manner.
 ...
 Signature and Title of Employee or Officer
-Immigration Regulations
-- Margin: (Regulation 48).
+- Margin: Regulation 48.
 - Margin: Before:

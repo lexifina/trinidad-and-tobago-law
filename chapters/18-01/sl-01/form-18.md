@@ -10,5 +10,4 @@ Signed ... in the presence of ...
 Signature of Witness
 Fined:
 Paid ...
-Immigration Regulations
-- Margin: (Regulation 58).
+- Margin: Regulation 58.

@@ -6,5 +6,4 @@ UNDER SECTION 9(2) OF THE ACT
 The bearer is permitted to enter and remain in Trinidad and Tobago not later than ... for the purpose of ... and may not engage in employment paid or unpaid.
 (Immigration Department Stamp)
 ...
-Immigration Regulations
-- Margin: (Regulation 41).
+- Margin: Regulation 41.

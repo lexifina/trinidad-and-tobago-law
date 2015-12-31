@@ -9,6 +9,5 @@ this port? ... 8. Has the Master discharged any of his
 crew at this port? ... For what reason ... 9. Cargo landed at Trinidad and Tobago... General ... tons 10. In-transit Cargo... 11. Amount of Bunkers taken (coal or oil) ... 12. Agents ... 13. Number of passengers embarking ... 14. Number of in-transit passengers ...
 Port ... Date of Departure ... Clearance Granted at ... o'clock ... 20 ... Bill of Health Issued
 ...
-Immigration Regulations
-- Margin: [Regulation 33(2)(a)].
+- Margin: Regulation 33(2)(a).
 - Margin: Master

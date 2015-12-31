@@ -15,6 +15,5 @@ Ministry of National Security
 N.B.:Regulation 19(3) reads as follows:
 "A person to whom the status of resident has been granted shall notify the Permanent
 Secretary of any change in his marital status and the Permanent Secretary shall cause the necessary alteration to be made in the register of residents."
-Immigration Regulations
-- Margin: (Regulation 23).
+- Margin: Regulation 23.
 - Margin: the

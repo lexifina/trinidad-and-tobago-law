@@ -1,4 +1,4 @@
 CARICOM TRAVELLING SALESMEN (EXEMPTION
 FROM LICENCE FEES) ORDER
-made under section 11(6)
+made under regulation 11(6)
 - Margin: 184/1987.

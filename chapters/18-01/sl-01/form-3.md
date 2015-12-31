@@ -19,19 +19,17 @@ Name Nationality
 Birth Birth No.
 11. Profession or occupation to be followed in Trinidad and Tobago ...
 ...
-Immigration Regulations
 FORM 3-Continued
 12. State job experience, including on-the-job training ...
 ... 13. Whether accompanied by wife/husband ... 14. Whether accompanied by children ... 15. Date of arrival/intended arrival in Trinidad and Tobago (in relation to present application)
 ... 16. Local residential address: ...
 ... 17. Particulars of employment during the past five (5) years-
-Employer's Position Duration of
-Held Employment
+Position Duration of Held Employment
 18. Place/places of residence during the last ten (10) years preceding the application giving
 dates of such residence in each country- ... 19. Particulars of income assured while employed in Trinidad and Tobago, (state salary,
 commission, perquisites and other benefits)- ...
-Immigration Regulations
-[Regulation * 20. SCHOOLS/UNIVERSITIES ATTENDED: 32(2)(f)].
+[Regulation * 20. SCHOOLS/UNIVERSITIES ATTENDED:
+32(2)(f)].
 Degrees/Diplomas Dates Certificates obtained Dates
 Institution
 (documentary proof Awarded
@@ -48,11 +46,12 @@ Signature of Employee
 Date ...
 24. Capital formation of company including-
 (a) percentage of capital owned by Nationals of Trinidad and Tobago ...
-(b) percentage of capital owned by Non-Nationals of Trinidad and Tobago who are residents...
-(c) whether subsidiary or affiliate of foreign-based company, and if so, name of parent company... 25. Brief description of the Company's activities ... 26. Number of Employees ...
+(b) percentage of capital owned by Non-Nationals of Trinidad and Tobago who are
+residents...
+(c) whether subsidiary or affiliate of foreign-based company, and if so, name of
+parent company... 25. Brief description of the Company's activities ... 26. Number of Employees ...
 * Regulation 32(2)(f) has been deleted by LN 112/1978.
 See the Second Schedule to the Quarantine (Maritime) Regulations (Ch. 28:05-Sub. Leg.).
-Immigration Regulations
 FORM 3-Continued
 27. Particulars of Non-Nationals employed in Professional, Managerial and Senior Technical
 Posts Held
@@ -62,23 +61,16 @@ Posts Held
 ... 30. Period for which Permit is required ... 31. Description of programme instituted by Company to train Nationals to fill the post for which
 this work permit is required ... 32. Statement by employer as to what steps he has taken including advertisements in the Trinidad
 and Tobago daily newspapers and in newspapers in foreign countries where there are large concentrations of nationals of Trinidad and Tobago to secure the services of a national of Trinidad and Tobago to perform the duties for which this application is made and with what results ...
-Immigration Regulations
-33. I, hereby declare that all the particulars in paragraphs 24-33 of the application are correct
-and true. If a visa is required in addition to the work permit I hereby make application for the
-If the above space is insufficient the requested information can be attached on a
-One copy of each newspaper containing the advertisement referred to in paragraph 32, and photostats of diplomas, certificates, etc., should be forwarded with
-Immigration Regulations
-- Margin: [Regulation 10(3)].
+- Margin: Regulation 10(3).
 - Margin: of Issue
-- Margin: Reason for Employer Termination Address
+- Margin: Reason for Employer's Employer Termination Address
 - Margin: positions-
 - Margin: Date Names To From
 - Margin: Senior Technical positions-
 - Margin: Date Names To From
-- Margin: said visa.
+- Margin: 33. I, hereby declare that all the particulars in paragraphs 24-33 of the application are correct and true. If a visa is required in addition to the work permit I hereby make application for the said visa.
 - Margin: ... Signature of Employer
 - Margin: ... Address
 - Margin: ... Date
-- Margin: N.B.- (i) separate sheet.
-- Margin: (ii)
-- Margin: this application.
+- Margin: N.B.- (i) If the above space is insufficient the requested information can be attached on a separate sheet.
+- Margin: (ii) One copy of each newspaper containing the advertisement referred to in paragraph 32, and photostats of diplomas, certificates, etc., should be forwarded with this application.

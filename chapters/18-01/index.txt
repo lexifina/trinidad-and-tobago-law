@@ -131,6 +131,7 @@ sl-01/form-11.md
 sl-01/form-12.md
 sl-01/form-13.md
 sl-01/form-14.md
+sl-01/form-15.md
 sl-01/form-16.md
 sl-01/form-17.md
 sl-01/form-18.md
@@ -165,6 +166,7 @@ sl-01/form-45.md
 sl-01/form-46.md
 sl-01/form-47.md
 sl-01/form-48.md
+sl-01/form-49.md
 sl-01/form-50.md
 sl-01/form-51.md
 sl-01/form-52.md
@@ -179,6 +181,8 @@ sl-01/third-schedule.md
 sl-01/fourth-schedule.md
 sl-01/fifth-schedule.md
 sl-01/sixth-schedule.md
+sl-01/seventh-schedule.md
+sl-01/eighth-schedule.md
 sl-02/title.md
 sl-02/r-1.md
 sl-02/r-2.md

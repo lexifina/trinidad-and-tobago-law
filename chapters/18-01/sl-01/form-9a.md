@@ -15,5 +15,4 @@ Appellant
 Service hereof acknowledged this ... day of ..., 20... at ... a.m./p.m.
 ...
 Immigration Officer
-Immigration Regulations
-- Margin: [Regulations 26(1), 30(1) and 42].
+- Margin: Regulations 26(1), 30(1) and 42.

@@ -7,28 +7,14 @@ M ... of ... is/are hereby licensed to carry on the business of a travelling sal
 ...
 Date Permanent Secretary,
 Ministry of National Security
-Immigration Regulations
-[REGULATION 57(1) AND (2)].
-REMARKS
-SIGNATURE
-REASON FOR
-BEING IN COUNTRY
-TERMINATED
-ACCOMMODATION REGISTER
-ACCOMMODATION
+REGULATION 57(1) AND (2).
 IMMIGRATION REGULATIONS
-COMMENCED
-FORM 49
-DOMICILE
-COUNTRY VISITED
-LAST
-REPUBLIC OF TRINIDAD AND TOBAGO OF PASSPORT PARTICULARS
-NATIONALITY
-DATE AND PLACE OF
-BIRTH
-NAME
-Immigration Regulations
-- Margin: [Regulation 11(2)].
+- Margin: Regulation 11(2).
 - Margin: ... I CERTIFY THAT THE ABOVE IS A TRUE RECORD OF ACCOMMODATION FOR THE PERIOD ...
+- Margin: REMARKS
 - Margin: KEEPER OF PREMISES
-- Margin: .
+- Margin: SIGNATURE
+- Margin: REASON FOR BEING IN COUNTRY
+- Margin: TERMINATED
+- Margin: ACCOMMODATION
+- Margin: COMMENCED

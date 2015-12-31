@@ -1,4 +1,4 @@
 IMMIGRATION (EXEMPTION FROM WORK PERMIT
 REQUIREMENTS) ORDER
-made under section 10(14)
+made under regulation 10(14)
 - Margin: 80/2005. 117/2005.

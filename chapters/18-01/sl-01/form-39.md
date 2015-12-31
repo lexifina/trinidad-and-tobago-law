@@ -9,5 +9,4 @@ You are therefore directed to report to the Chief Immigration Officer immediatel
 Signed ...
 Permanent Secretary,
 Ministry of National Security
-Immigration Regulations
-- Margin: [Regulation 10(10)].
+- Margin: Regulation 10(10).

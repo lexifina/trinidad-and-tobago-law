@@ -9,7 +9,7 @@ Immigration Officer
 Port of Entry ... Service hereof acknowledged by ... at ... a.m./p.m...
 Signature of Reject
 *NOTE-Sections 20 and 21 of the Act read as follows:
-20. (1) Where, in the opinion of the examining Immigration Officer, a "Where a person cannot be
+"Where a person 20. (1) Where, in the opinion of the examining Immigration Officer, a cannot be
 person appearing before him for examination cannot be properly examined by properly examined.
 reason of the effects of alcohol, drugs or illness, the Immigration Officer may cause an examination of such person to be deferred until such time as he may be properly examined or make an order for his rejection.
 (2) A rejection order in the prescribed form or copy thereof shall be
@@ -24,7 +24,7 @@ a report to a Special Inquiry Officer.
 under subsection (1)(a) who is aggrieved by the making of such order may forthwith give notice of appeal to the Immigration Officer.
 (3) Where a notice of appeal has been given under subsection (2), the
 Immigration Officer shall forthwith make arrangements for the appeal to be heard and determined by a Special Inquiry Officer.
-Immigration Regulations
+FORM 29-Continued
 (4) Where a notice of appeal has been given under subsection (2), the
 Immigration Officer may either-
 (a) cause such person to be detained pending the hearing and
@@ -33,4 +33,4 @@ the determination of such appeal; or
 thinks fit having regard to all the circumstances of the case.
 (5) The provisions of section 20(2) and (3) shall apply for the purposes
 of an Order for rejection made against a person under subsection (1)(a).".
-- Margin: (Regulation 47).
+- Margin: Regulation 47.

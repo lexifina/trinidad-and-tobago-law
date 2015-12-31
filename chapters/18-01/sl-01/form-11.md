@@ -7,7 +7,6 @@ Date of Nationality Number Full Name Birth
 I hereby certify that the information furnished on the crew manifest is true and correct in every detail.
 Date ...
 ...
-Immigration Regulations
-- Margin: [Regulation 32(2)(b)].
+- Margin: Regulation 32(2)(b).
 - Margin: Duties on Board
 - Margin: Master

@@ -19,8 +19,9 @@ illness or surgical operations? If so list them ...
 5. Have you or has any member of your family ever suffered from mental disease, fits, or
 epilepsy, or been treated for these or similar diseases or other mental disorder? ... I hereby certify that the information supplied by me to the Medical Examiner is correct in every particular.
 ...
-Signature of Applicant/Legal Guardian This form shall be completed by every applicant over 16 years of age, or by the parents or legal guardians of applicants under 16 years of age.
-Immigration Regulations
+Signature of Applicant/Legal Guardian
+This form shall be completed by every applicant over 16 years of age, or by the parents or legal guardians of applicants under 16 years of age.
+FORM 40-Continued
 PHYSICAL EXAMINATION OF APPLICANT
 PART B
 To be completed by Examining Medical Officer after Part A has been presented.
@@ -33,5 +34,4 @@ Date ...
 ...
 ...
 Signature and Qualifications of Medical Officer and Practitioner
-Immigration Regulations
-- Margin: [Regulation 13(12)].
+- Margin: Regulation 13(12).

@@ -1,3 +1,4 @@
 # SCHEDULE
-Conditions of Exemption Class of Persons
-Journalist Entry for the duration of the event to be covered.
+Class of Persons Conditions of Exemption
+Journalist Entry for the duration of the event to be
+covered.
