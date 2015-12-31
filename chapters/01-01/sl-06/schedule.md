@@ -7,7 +7,6 @@ POWERS DELEGATED
 (3) The power hereby delegated does not apply to-
 (a) any office in an assisted school; or
 *Most of these delegations were made under section 99C of the former Constitution and were saved and deemed to be made under the Constitution by section 13 of the Constitution of the Republic of Trinidad and Tobago Act.
-Teaching Service Commission (Delegation of Powers) Order
 (b) any office in the Teaching Service the appointment to which
 is subject to consultation with the Prime Minister.
 3. (1) The power to certify the eligibility of teachers whose Staff Reports are not adverse, for annual increments of salary (when due).
@@ -36,8 +35,8 @@ THE PUBLIC SERVICE COMMISSION
 Dissents.
 8. Consultation with other persons. 9. Non-compliance. 10. Instrument of delegation to be published.
 CHAPTER III
-APPOINTMENTS, PROMOTIONS AND TRANSFERS 11. Application for appointment. 12. Selection for appointment on basis of competitive examination. 13. Filling of vacancies. 14. Appointments to be by competition within the particular service. 15. Advertisement of vacancies. 16. Selection Boards. 17. Examination Boards. 18. Principle of selection for promotion. 19. Promotion to Administrative Class.
-Public Service Commission Regulations
+APPOINTMENTS, PROMOTIONS AND TRANSFERS
+11. Application for appointment. 12. Selection for appointment on basis of competitive examination. 13. Filling of vacancies. 14. Appointments to be by competition within the particular service. 15. Advertisement of vacancies. 16. Selection Boards. 17. Examination Boards. 18. Principle of selection for promotion. 19. Promotion to Administrative Class.
 ARRANGEMENT OF REGULATIONS-Continued
 REGULATION
 20. Seniority lists to be kept up-to-date. 21. Seniority of officer to be reckoned from date of appointment
@@ -54,12 +53,10 @@ STAFF REPORTS
 34. Staff Reports. 35. Officer to be informed of adverse report. 36. (Revoked by LN 282/1998).
 CHAPTER V
 PROBATIONARY APPOINTMENTS
-37. Period of probation on first appointment. 38. Period of probation on appointment. 39. Period of probation on promotion. 40. Waiver of portion of period of probation.
-Public Service Commission Regulations
-REGULATION
+37. Period of probation on first appointment. 38. Period of probation on appointment. 39. Period of probation on promotion. 40. Waiver of portion of period of probation. REGULATION
 41. Principles to be observed while officer on probation. 42. Confidential reports on officer on probation. 43. Officer may make representation on recommendation of
 Permanent Secretary.
-44. Commission to confirm appointment. 45. Incremental date when period of probation extended. 46. Permanent Secretary to keep record. 47. Permanent Secretary not to allow payment out of public funds in
+44. Commission to confirm appointment. 45. Incremental date where period of probation extended. 46. Permanent Secretary to keep record. 47. Permanent Secretary not to allow payment out of public funds in
 certain circumstances.
 CHAPTER VI
 RESIGNATIONS, RETIREMENTS AND TERMINATION
@@ -68,13 +65,14 @@ OF APPOINTMENTS
 compulsory.
 53. Premature retirement. 54. Retirement in the public interest. 55. Termination of appointment on abolition of office or for facilitating
 improvement in the organisation of a Ministry or Department.
-56. Termination of appointment on grounds of inefficiency. 57. (Revoked by LN 282/1998). 58. Medical Boards. 59. Unfit officers.
+56. Termination of appointment on grounds of inefficiency.
+}
+57. (Revoked by LN 282/1998). 58. Medical Boards. 59. Unfit officers.
 CHAPTER VII
-CONDUCT }
+CONDUCT
 60.
 (Revoked by LN 28/1991). to
 83.
-Public Service Commission Regulations
 ARRANGEMENT OF REGULATIONS-Continued
 REGULATION
 CHAPTER VIII DISCIPLINE
@@ -88,17 +86,18 @@ dealt with.
 explanation.
 93. Hearing on failure to admit or deny charge. 94. Witnesses. 95. Appointment of disciplinary tribunal. 96. Duty of officers appointed to disciplinary tribunal. 97. Officer on charge not to be permitted leave. 98. Procedure at hearing. 99. Adjournment of hearing. 100. Hearing in absence of accused officer. 101. Standard of proof. 102. Tribunal to report.
 Report confidential.
-103. Disciplinary tribunal may adjourn and report to Commission. 104. Disciplinary tribunal to report where evidence insufficient.
-Public Service Commission Regulations
-REGULATION
+103. Disciplinary tribunal may adjourn and report to Commission. 104. Disciplinary tribunal to report where evidence insufficient. REGULATION
 105. Disciplinary tribunal to report evidence of other misconduct or
 indiscipline disclosed at hearing of charges.
-106. Penalties that may be awarded under delegated authority. 107. Commission to inform officer of penalty imposed and of his right to
+106. Penalties that may be awarded under delegated authority.
+}
+107. Commission to inform officer of penalty imposed and of his right to
 apply for review.
-108. Commission may remove officer in public interest. 109. Proceedings in private. 110. Penalties. } 111. to (Revoked by LN 28/1991). 113. 114. Non-payment of remuneration on conviction of a criminal charge.
+108. Commission may remove officer in public interest. 109. Proceedings in private. 110. Penalties. 111. to (Revoked by LN 28/1991). 113.
+}
+114. Non-payment of remuneration on conviction of a criminal charge.
 CHAPTER IX
 REVIEWS
-}
 115. to (Revoked by LN 28/1991). 122.
 CHAPTER X
 MISCELLANEOUS
@@ -111,9 +110,7 @@ PRELIMINARY
 PART II
 APPOINTMENTS
 126. Application for first appointment. 127. Duty of Permanent Secretary to keep separate seniority lists for
-primary school teachers.
-Public Service Commission Regulations
-ARRANGEMENT OF REGULATIONS-Continued
+primary school teachers. ARRANGEMENT OF REGULATIONS-Continued
 REGULATION
 128. Vacancies in Government schools. 129. Vacancies in assisted schools. 130. Advertising of vacancy by Commission in certain circumstances. 131. Director to advertise vacancies. 132. Duty of Permanent Secretary re applications in response
 to advertisements.
@@ -128,9 +125,7 @@ CHAPTER XII
 THE FIRE SERVICE
 PART I
 PRELIMINARY
-146. Definitions.
-Public Service Commission Regulations
-REGULATION
+146. Definitions. REGULATION
 PART II
 APPOINTMENTS, PROMOTIONS AND TRANSFERS
 147. Commission to determine forms. 148. Date of appointment. 149. Application for appointment as Firefighter. 150. Appointment to office of Firefighter. 151. Application for appointment to an office in the Service (other than
@@ -144,7 +139,6 @@ PART IV
 RESIGNATION, RETIREMENT
 163A. Resignation. 163B. Removal on abandonment. 163C. Retirement. 163D. Commission to issue instructions on matters not dealt with in
 Regulations re Fire Officer.
-Public Service Commission Regulations
 - Margin: 88/1969, [146/1978].
 - Margin: Appointments.
 - Margin: Acting appointments.

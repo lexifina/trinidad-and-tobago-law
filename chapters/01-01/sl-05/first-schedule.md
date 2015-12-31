@@ -16,9 +16,7 @@ Ministry or Department to which such an officer is assigned to a similar office 
 for periods not exceeding six months at a time where such persons have already been appointed temporarily by the
 Public Service Commission for a fixed period;
 (d) to confirm the appointment of a public officer to a public
-office after consideration of all performance appraisal reports
-Public Service Commission (Delegation of Powers) Order
-and medical reports on the officer, where applicable during the probationary period if satisfied that the service of the officer on probation has been satisfactory.
+office after consideration of all performance appraisal reports and medical reports on the officer, where applicable during the probationary period if satisfied that the service of the officer on probation has been satisfactory.
 2. The powers delegated in this Part are in respect of public officers in the Ministry under his supervision who hold the public offices specified in Salary Ranges Nos. 1 to 68 of the Classification of Offices set out in the First Schedule to the Civil Service Act, except that the power to confirm appointments to public offices applies to all offices within the Ministry or Department.
 3. The powers delegated in this Part do not apply to offices, the appointment or promotion to which is subject to consultation with the Prime Minister.
 4. A Permanent Secretary or Head of Department shall submit to the Commission once in every quarter a report of the exercise of the powers delegated to him.
@@ -33,7 +31,6 @@ Public Service Commission for a fixed period;
 (c) to confirm the appointment of a public officer to a public
 office in Salary Ranges up to and including Salary Range 45 after consideration of all performance appraisal reports and medical reports on the officer where applicable during the probationary period if satisfied that the service of the officer on probation has been satisfactory.
 2. The powers hereby delegated are in respect of public officers in the Ministry under the supervision of the Deputy Permanent Secretary who hold the public offices specified in Salary Ranges up to and including Salary Range 45 of the Classification of Offices set out in the First Schedule to the Civil Service Act.
-Public Service Commission (Delegation of Powers) Order
 3. The powers hereby delegated do not apply to offices the appointment or promotion to which is subject to consultation with the Prime Minister.
 4. A Deputy Permanent Secretary shall submit to the Commission once in every quarter through the Permanent Secretary a report on the exercise of the power delegated to him.
 PART IV
@@ -48,7 +45,6 @@ office up to and including Salary Range 34 after consideration of all performanc
 2. The powers delegated in this Part are in respect of public officers in the Ministry under the supervision of the Director, Human Resources, who hold the public offices specified in Salary Ranges Nos. 1 to 34 of the Classification of Offices set out in the First Schedule to the Civil Service Act.
 3. The powers hereby delegated do not apply to offices the appointment or promotion to which is subject to consultation with the Prime Minister.
 4. A Director, Human Resources shall submit to the Commission once in every quarter through the Permanent Secretary a report on the exercise of its powers delegated to him.
-Public Service Commission (Delegation of Powers) Order
 PART V
 PERMANENT SECRETARY, MINISTRY OF HEALTH
 1. The Permanent Secretary, Ministry of Health is delegated the powers to appoint persons temporarily to the offices of Clinical Instructor and Nursing Instructor.
@@ -70,9 +66,7 @@ PART VII
 THE COMMISSIONER OF PRISONS
 1. The powers delegated to the Commissioner of Prisons are as follows:
 (a) the power to appoint persons and prison officers on
-promotion to offices in the Prison Service below the rank of Prison Supervisor and to confirm the appointment of Prison Officers to such offices in accordance with the Regulations, but the power hereby delegated shall not include the power
-Public Service Commission (Delegation of Powers) Order
-to terminate an appointment on probation or extend a period of probation under regulation 44 of the Regulations;
+promotion to offices in the Prison Service below the rank of Prison Supervisor and to confirm the appointment of Prison Officers to such offices in accordance with the Regulations, but the power hereby delegated shall not include the power to terminate an appointment on probation or extend a period of probation under regulation 44 of the Regulations;
 (b) in the case of a person recruited for training to serve as a
 prison officer below the rank of Prison Supervisor, the power to terminate the appointment at any time on the ground of unsuitability arising from any cause;
 (c) the power to appoint prison officers to act in offices in the Prison
@@ -90,9 +84,7 @@ THE CHIEF FIRE OFFICER
 (a) the power to appoint persons and fire officers on promotion to
 offices in the Second Division of the Fire Service below the office of Fire Station Officer and to confirm the appointment of Fire Officers to such offices in accordance with the Regulations, but the power hereby delegated shall not include power to terminate an appointment on probation or extend a period of probation under regulation 44 of the Regulations;
 (b) in the case of a person recruited for training to serve as a fire
-officer below the office of Fire Station Officer, the power to
-Public Service Commission (Delegation of Powers) Order
-terminate the appointment at any time on the ground of unsuitability arising from the cause;
+officer below the office of Fire Station Officer, the power to terminate the appointment at any time on the ground of unsuitability arising from the cause;
 (c) the power to appoint fire officers to act in offices in the
 Second Division of the Fire Service below the office of Fire Station Officer and in the exercise of this power the Chief Fire Officer shall apply the principles of selection prescribed in regulations 154, 157 and 158, and the provisions of regulations 154 and 155 of the Regulations;
 (d) the power to transfer Fire Officers from one Division or
@@ -109,9 +101,7 @@ ASSEMBLY, TOBAGO
 (a) to appoint persons on recruitment from outside the Civil
 Service in a temporary capacity to an office in the Tobago House of Assembly, subject to section 26(1) and the Sixth Schedule of the Tobago House of Assembly Act, No. 40 of 1996 which powers are in respect of the public offices specified in the classification of offices set out in the First Schedule to the Civil Service Act, and which are regarded as the basic normal entry points to the general clerical, secretarial and manipulative classes;
 (b) to appoint a public officer to act in a public office in the Civil
-Service, Tobago House of Assembly, for periods up to six
-Public Service Commission (Delegation of Powers) Order
-months whether such acting appointment is in a vacant office or not except that where an acting appointment is made in a vacant office the officer must be informed that such acting appointment would not give him any prior claim to eventual permanent appointment thereto and in respect of such power the Chief Administrator shall apply the principles of selection prescribed in regulations 18, 24 and 26 and the provisions of regulation 25 of the Regulations;
+Service, Tobago House of Assembly, for periods up to six months whether such acting appointment is in a vacant office or not except that where an acting appointment is made in a vacant office the officer must be informed that such acting appointment would not give him any prior claim to eventual permanent appointment thereto and in respect of such power the Chief Administrator shall apply the principles of selection prescribed in regulations 18, 24 and 26 and the provisions of regulation 25 of the Regulations;
 (c) to transfer a public officer from an office in a grade in the
 Tobago House of Assembly, to which such an officer is assigned to a similar office in that grade within the Tobago House of Assembly, with no alteration in his remuneration which power shall be exercised by the Chief Administrator subject to the provisions of regulation 29.
 (d) to direct a public officer assigned to an office in the Tobago
@@ -127,9 +117,7 @@ Tribunal as prescribed in the Regulations;
 (c) any fine which the Chief Administrator imposes under
 paragraph (e) shall not exceed an amount calculated on four days pay per month to a maximum of three months.
 3. The Chief Administrator shall submit to the Commission once in every quarter, a report on the exercise of powers delegated to him in this Part.
-4. The powers and functions delegated in this Part are in respect of public officers who hold any of the public offices specified in Salary Ranges
-Public Service Commission (Delegation of Powers) Order
-Nos. 1 to 68 inclusive of the Classification of Offices set out in the First Schedule to the Civil Service Act, 1965, except that the powers delegated do not apply to offices the appointment or promotion to which is subject to consultation with the Prime Minister.
+4. The powers and functions delegated in this Part are in respect of public officers who hold any of the public offices specified in Salary Ranges Nos. 1 to 68 inclusive of the Classification of Offices set out in the First Schedule to the Civil Service Act, 1965, except that the powers delegated do not apply to offices the appointment or promotion to which is subject to consultation with the Prime Minister.
 PART X
 THE SENIOR PUBLIC OFFICER, HIGH COMMISSIONS,
 MISSIONS AND EMBASSIES OF TRINIDAD AND
@@ -146,9 +134,7 @@ ADMINISTRATIVE SERVICES, TOBAGO
 (a) to appoint persons on recruitment from outside the Civil
 Service in a temporary capacity to an office in a Ministry or Department or in a Division of a Ministry or Department located in Tobago (exclusive of offices in the Prison and Fire Services) which power is in respect of the public offices specified in the Classification of Offices set out in the First Schedule to the Civil Service Act, and which are regarded as the basic normal entry points to the general clerical, secretarial and manipulative classes;
 (b) to appoint a public officer to act in a public office in the Civil
-Service and located in the Department of Central Administrative Services, Tobago, for periods up to six months whether such acting appointment is in a vacant post or not except that where an acting appointment is made in a vacant post, the officer must be informed that such acting
-Public Service Commission (Delegation of Powers) Order
-appointment would not give him any prior claim to eventual permanent appointment thereto, in respect of which power the Permanent Secretary shall apply the principles of selection prescribed in regulations 18, 24 and 26 and the provisions of regulation 25 of the Regulations;
+Service and located in the Department of Central Administrative Services, Tobago, for periods up to six months whether such acting appointment is in a vacant post or not except that where an acting appointment is made in a vacant post, the officer must be informed that such acting appointment would not give him any prior claim to eventual permanent appointment thereto, in respect of which power the Permanent Secretary shall apply the principles of selection prescribed in regulations 18, 24 and 26 and the provisions of regulation 25 of the Regulations;
 (c) to transfer a public officer from an office in a grade in the
 Department of Central Administrative Services, Tobago to which such an officer is assigned to a similar office in that grade in the same Department of Central Administrative Services, Tobago, with no alteration in his remuneration, which power shall be exercised by the Permanent Secretary subject to the provisions of regulation 29 of the Regulations, which require notice to be given to such officer and which preserves the right of such officer to make representations to the Commission;
 (d) to direct a public officer assigned to an office in the
@@ -161,7 +147,6 @@ and (7);
 (b) assign a public officer of a grade higher than that of the
 officer charged with misconduct or indiscipline but in no case of a grade lower than that of a Clerk IV to be a disciplinary tribunal, and that officer shall hear the evidence, find the facts and make a report thereon to the Permanent Secretary in accordance with the provisions respecting the functions and duties of a Disciplinary Tribunal as prescribed in the Regulations.
 3. Any fine which the Permanent Secretary imposes under paragraph 1(e) shall not exceed an amount calculated on four days pay per month to a maximum of three months.
-Public Service Commission (Delegation of Powers) Order
 4. The Permanent Secretary shall submit to the Commission, once in every quarter, a report of the exercise of any powers delegated to him.
 5. The powers and functions hereby delegated under this Part are in respect of public officers who hold any of the public offices specified in Salary Ranges Nos. 1 to 68 inclusive of the Classification of Offices set out in the First Schedule to the Civil Service Act, except where such offices require the holders to perform as Heads or Deputy Heads of Ministries/Departments/Divisions and in respect of which offices consultation with the Prime Minister is required by the Commission.
 - Margin: 158/1966. [232/1990].

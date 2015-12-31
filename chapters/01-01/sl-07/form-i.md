@@ -4,6 +4,5 @@ I, ... do swear/solemnly declare and affirm, that I will without fear, favour, a
 So help me God. Sworn/Declared before me this ... day of ..., 20...
 ...
 Judge of High Court
-*Regulation 176 was Revoked by LN 28/1991.
-Public Service Commission Regulations
+*Regulation 176 was revoked by LN 28/1991.
 - Margin: [Subsidiary]

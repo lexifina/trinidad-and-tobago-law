@@ -6,8 +6,7 @@ the Civil Service Regulations;
 (b) in respect of officers in the Fire Service, in Chapter VII of the
 Fire Service (Terms and Conditions of Employment) Regulations, 1998;
 (c) in respect of officers in the Prison Service, in Chapter II of
-the Prison Service (Code of Conduct) Regulations, 1990, as specified in Columns 2, 3 and 4 of that Table in respect of the Civil Service, the Fire Service, and the Prison Service, respectively.
-Public Service Commission (Delegation of Powers) Order [Subsidiary]
+the Prison Service (Code of Conduct) Regulations, 1990, as specified in Columns 2, 3 and 4 of that Table in respect of the Civil Service, the Fire Service, and the Prison Service, respectively. [Subsidiary]
 SECOND SCHEDULE-Continued
 COLUMN 1 COLUMN 2 COLUMN 3 COLUMN 4
 CIVIL SERVICE FIRE SERVICE PRISON SERVICE
@@ -29,17 +28,18 @@ Regulation 136(1) Absence without leave Regulation 103(1)
 or reasonable excuse
 Failure to report absence Regulation 103(2) Regulation 136(2)
 from country and (3)
-Regulation 104(1)(b) Failure to disclose Regulation 6(1)(d) Regulation 137(2)
+Failure to disclose Regulation 104(1)(b) Regulation 6(1)(d) Regulation 137(2)
 activities outside and (2) Service
 Breach of rules relating Regulation 110 Regulation 12 Regulation 140
 to broadcast
-Public Service Commission (Delegation of Powers) Order [Subsidiary]
+[Subsidiary]
 COLUMN 1 COLUMN 2 COLUMN 3 COLUMN 4
 CIVIL SERVICE FIRE SERVICE PRISON SERVICE
-Reference to Reference to Reference to Regulation of Description of Regulation of Regulation of Civil Service Misconduct Fire Service (Terms Prison Service Regulations and Conditions of (Code of Conduct)
+Reference to Reference to Reference to
+Description of Regulation of Regulation of Regulation of Misconduct Civil Service Fire Service (Terms Prison Service
+Regulations and Conditions of (Code of Conduct)
 Employment) Regulations, 1990
-Regulations, 1998
-Regulation 111 Act of indebtedness Regulation 141 Regulation 13(1)
+Regulations, 1998 Regulation 111 Act of indebtedness Regulation 141 Regulation 13(1)
 to the extent it impairs efficiency, etc.
 Regulation 142 Regulation 112 Failure to notify of Regulation 14
 bankruptcy proceedings
@@ -55,8 +55,7 @@ Employment) Regulations, 1998 and other written law;
 Regulation 149(1)(d) Regulation 119(1)(d) Act that is prejudicial to, Regulation 20(1)(c)
 or discredits Regulation 20(1)(d) reputation of the Service
 Regulation 149(2)(b) Regulation 119(2)(c) Disobedience to Regulation 20(2)(c)
-orders
-Public Service Commission (Delegation of Powers) Order [Subsidiary]
+orders [Subsidiary]
 SECOND SCHEDULE-Continued
 COLUMN 1 COLUMN 2 COLUMN 3 COLUMN 4
 CIVIL SERVICE FIRE SERVICE PRISON SERVICE
