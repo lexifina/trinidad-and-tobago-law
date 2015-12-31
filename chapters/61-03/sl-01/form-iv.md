@@ -69,9 +69,8 @@ C Cement Mesh Liner Hanger
 Fill
 etc.
 HOLE RECORD
-REMARKS: Here indicate only information not included in
-{ Diam. Depth
-Casing Record, such as sidetracked fish, Cement Plugs, etc.
+REMARKS: Here indicate only information not included in Diam. Depth
+{ Casing Record, such as sidetracked fish, Cement Plugs, etc.
 Core Evidence Water was located by Electrical log on ... 20..., when at ... ft.
 Formation tester.
 Description of Water Sands (unnecessary when Electrical log is forwarded). From To Description of Formation, Salinities of sand, etc.

@@ -5,9 +5,11 @@ Condition of well at end of month ... Depth ... Drilling System ... Mining Lease
 CASING RECORD
 PERFORATIONS
 CASING REMARKS
-OR SCREEN Size Lbs./ft. Depth L* Drums Estimated From To Size Cement baskets
-Cement or Packers Grade or of
-Fill Mesh Liner Hangers
+OR SCREEN
+L* Drums Estimated Size Cement baskets
+Lbs./ft.
+From Cement To or Packers Size Depth or of
+Grade Fill Mesh Liner Hangers
 C Cement.
 *L or C- Landed or Cemented. All depths to be given in feet.
 HOLE RECORD
@@ -17,8 +19,8 @@ Here indicate any information not indicated in Casing Diam. Depth Record, such a
 DRILLING RECORD
 Oil, Gas, Water. DEVIATIONS
 Depth C*
-Description of Formation. Date of or REMARKS Depth
-Degrees General Histroy. Weight of
+Description of Formation. Date of or Depth
+Degrees REMARKS General Histroy. Weight of
 D Base
 mud, etc.
 Date ... Signed ...

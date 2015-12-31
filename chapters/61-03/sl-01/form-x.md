@@ -13,7 +13,7 @@ ANOTHER FIELD Cu.ft. Name of vendor and/or Field
 (a)
 (b)
 (c)
-Total Extend Total)
+Total (Extend Total)
 Grand Total …
 ESTIMATED DISPOSAL OF NATURAL GAS Cu.ft. Gas converted to liquid at 30 Cu.ft.per imp. gallon Gas used as fuel Gas replaced in formation (Extend Total)
 GAS SOLD AND/OR TRANSFERRED TO

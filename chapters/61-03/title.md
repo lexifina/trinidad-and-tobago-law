@@ -5,7 +5,7 @@ Act
 Amended by
 4 of 2014
 Index of Subsidiary Legislation
-Page *Drilling Regulations ... 31 *Mines Regulations ... 54 * Quarry Regulations ... 61
+Page *Drilling Regulations ... 31 *Mines Regulations ... 54 * Quarry Regulations ... 61 Minerals (General) Regulations (LN 111/2015) ... 66
 * These Regulations which have been made under section 25 of the Mines, Boring and
 Quarries Act (Ch. 61:01) repealed by this Act shall be deemed to be made under this Act until such time as new Regualtions are made under this Act. (See section 49(2) of this Act).
 CHAPTER 61:03
@@ -22,7 +22,8 @@ ADMINISTRATION
 PART III
 LICENCES
 12. Prohibition of mining without licence. 13. Restrictions on issue of licence. 14. Restriction on powers to issue licence. 15. Minerals Advisory Committee. 16. Duties of the Committee. 17. Mining on State Land. 18. Application for licence. 19. Issue of licence. 20. Refusal to issue a licence. 21. Form of Licence.
-ARRANGEMENT OF SECTIONS-Continued SECTION
+ARRANGEMENT OF SECTIONS-Continued
+SECTION
 22. Conditions of licence. 23. Surrender of licence. 24. Renewal of licence. 25. Rehabilitation Bond. 26. Performance Bond. 27. Revocation of licence. 28. Termination of licence.
 PART IV
 ENFORCEMENT
