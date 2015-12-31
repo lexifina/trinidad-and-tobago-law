@@ -7,8 +7,8 @@ So help me God. Sworn/Declared before me this ... day of ..., 20...
 Judge of High Court
 NOTE ON SECOND SCHEDULE
 Regulation 73 which dealt with the incurring of debts by an officer has been revoked by LN 28/1991.
-Public Service Commission Regulations
-REGULATION 73(2)... NUMBER OF DEPENDANTS ... SIGNATURE ... MARRIED/SINGLE ...
+[Subsidiary]
+REGULATION 73(2)... OFFICE HELD: ... NUMBER OF DEPENDANTS ... SIGNATURE ... NAME: ... MARRIED/SINGLE ...
 AMOUNT NOW
 OUTSTANDING
 REPAYMENT
@@ -17,4 +17,3 @@ HOW SECURED
 AS AT ... 20...
 RETURN OF INDEBTEDNESS *SECOND SCHEDULE
 - Margin: Regulation 3(2).
-- Margin: [Subsidiary]

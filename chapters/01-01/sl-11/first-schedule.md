@@ -1,2 +1,2 @@
 # FIRST SCHEDULE
-- Margin: [172/1978 68/1981 85/1981 179/1985].
+- Margin: Regulations 1 and 2.

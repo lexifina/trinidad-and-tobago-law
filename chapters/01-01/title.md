@@ -5,9 +5,9 @@ Act
 4 of 1976
 Index of Subsidiary Legislation
 Page Existing Laws Amendment Order (GN 8/1962) ... 17 Existing Laws Amendment Order (GN 97/1963) … … … 19 Existing Laws Modification Order (GN 136/1976) … … … 22 Letters Patent Establishing the Distinguished Society of Trinidad and Tobago
-(110/1983) ... 23 Electoral College Regulations (GN 187/1976) ... 29 Public Service Commission (Delegation of Powers) Order (GN 158/1966) … 41 Teaching Service Commission (Delegation of Powers) Order (GN 88/1969)… 55 Public Service Commission Regulations (GN 132/1966) … … 57 Police Service Commission Regulations (GN 131/1966) … … 131 Appointment of the Commissioner of Police and Deputy Commissioner of
-Police (Qualification and Selection Criteria) Order (LN 165/2007) … 172 Commissioner of Police and Deputy Commissioner of Police (Selection Process)
-Order (LN 166/2007) ... 174 Public Service Appeal Board Regulations (GN 74/1978) … … … 177 Police Service Commission (Appeal) Regulations … … … 191
+(110/1983) ... 23 Electoral College Regulations (GN 187/1976) ... 29 Public Service Commission (Delegation of Powers) Order (GN 158/1966) … 41 Teaching Service Commission (Delegation of Powers) Order (GN 88/1969)… 55 Public Service Commission Regulations (GN 132/1966) … … 57 Police Service Commission Regulations (GN 131/1966) … … 131 Commissioner of Police and Deputy Commissioner of Police (Selection
+Process) Order (LN 218/2015) ... 172 Appointment of the Commissioner of Police and Deputy Commissioner of Police
+(Qualification and Selection Criteria) Order (LN 219/2015) … … 175 Public Service Appeal Board Regulations (GN 74/1978) … … … 176 Police Service Commission (Appeal) Regulations … … … 190
 Note on Schedule
 The Constitution which was originally enacted as the Schedule to this Act has been published independently (at the beginning of this Edition and immediately before this Chapter). However, any statutory instruments made under the Constitution are published as part of the Subsidiary Legislation of this Chapter.
 Note on Omissions
@@ -29,7 +29,8 @@ LN 282/1998 amended the Public Service Commission Regulations by revoking and re
 CHAPTER 1:01
 CONSTITUTION OF THE REPUBLIC OF TRINIDAD AND TOBAGO ACT
 ARRANGEMENT OF SECTIONS SECTION
-1. Short title. 2. Interpretation. 3. Former Constitution repealed and new Constitution enacted. 4. Appointed day. 5. Existing law. 6. Prerogative and privilege. 7. Legal proceedings and other matters. 8. Succession to property. 9. Rights, liabilities and obligations. 10. Existing officers. 11. Judges of the Supreme Court. 12. Oaths. 13. Transitional provisions relating to existing Commissions. 14. Saving for offices of Prime Minister and Ministers. 15. Alteration to this Act. 16. Transitional as to dissolution of last Parliament. 17. Transitional as to Director of Public Prosecutions. 18. Validation of certain enactments. 19. Saving for prescribed matters under former Constitution. 20. Saving for Standing Orders. 21. Transitional as to constituency boundaries and list of electors. 22. Act to be certified. SCHEDULE-(See Note on page 2).
+1. Short title. 2. Interpretation. 3. Former Constitution repealed and new Constitution enacted. 4. Appointed day. 5. Existing law. 6. Prerogative and privilege. 7. Legal proceedings and other matters. 8. Succession to property. 9. Rights, liabilities and obligations. 10. Existing officers. 11. Judges of the Supreme Court. 12. Oaths. 13. Transitional provisions relating to existing Commissions. 14. Saving for offices of Prime Minister and Ministers. 15. Alteration to this Act. 16. Transitional as to dissolution of last Parliament. 17. Transitional as to Director of Public Prosecutions. 18. Validation of certain enactments. 19. Saving for prescribed matters under former Constitution. 20. Saving for Standing Orders. 21. Transitional as to constituency boundaries and list of electors. 22. Act to be certified.
+SCHEDULE-(See Note on page 2).
 
 CHAPTER 1:01
 CONSTITUTION OF THE REPUBLIC
