@@ -4,7 +4,7 @@ Rate % Buildings (Housing machinery)-Industrial … … … 10 Buildings (Housin
 Building, structures and improvements thereon completed on or
 after 1st January 1995 ... 10
 Industrial building structures under the Income Tax (In Aid of
-Industry) Act acquired prior to 1st January 2006: … 10
+Industry) Act acquired prior to 1st January 2006 … … 10
 CLASS B (WEAR AND TEAR RATE) 25%
 Rate %
 Bakers' Plant ... 25 Office Machines and Equipment-Calculating Machines … 25 Railway Sidings ... 25 Office Machines and Equipment-Duplicating Machines … 25 Furniture-Office ... 25 Dentists-Electric Motors ... 25 Electrical Fittings ... 25 Medical Practitioners -High-Frequency Current Machines … 25 Neon Signs ... 25 Dentists-Furniture ... 25 Carpets (Cost over $500) ... 25 Medical Practitioners-Electro-Cardiograph … … … 25 Radios, Radiograms and Phonographs … … … 25 Typewriters ... 25 Calculating Machines-Electrical ... 25 Office Machines and Equipment-Adding Machines … … 25
