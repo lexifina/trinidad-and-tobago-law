@@ -2,7 +2,7 @@ WIDOWS' AND ORPHANS' PENSIONS ACT
 CHAPTER 23:54
 Act
 17 of 1934 Amended by 26 of 1941 25 of 1942 2 of 1945 21 of 1952 15 of 1954 23 of 1955 16 of 1965 21 of 1965 11 of 1972 28 of 1973 5 of 1974
-*17 of 2007 *30 of 2007 *1 of 2009 *13 of 2010
+*17 of 2007 *30 of 2007 *1 of 2009 *13 of 2010 *2 of 2015
 (See also Act No. 30 of 1964 and Act No. 25 of 1974)
 *See Note on page 2
 Index of Subsidiary Legislation
@@ -15,6 +15,8 @@ Note on Act No. 1 of 2009
 By section 16 of Act No. 1 of 2009 increases in the payment of pensions under section 5 are to take effect from 1st October 2008.
 Note on Act No. 13 of 2010
 By section 26 of Act No. 13 of 2010 increases in the payment of pensions under section 5 are to take effect from 1st September 2010 and by section 25, all payments made between 1st September 2010 and 1st January 2011 have been validated.
+Note on Act No. 2 of 2015
+By section 26 of Act No. 2 of 2015 increases in the payment of pensions under section 5 are to take effect from 1st October 2014. All payments made on or after and before 1st October 2014 have been validated.
 CHAPTER 23:54
 WIDOWS' AND ORPHANS' PENSIONS ACT
 ARRANGEMENT OF SECTIONS
@@ -61,6 +63,6 @@ WIDOWS' AND ORPHANS' PENSIONS ACT
 An Act relating to Pensions to Widows and Children of
 deceased Public Officers.
 [1ST AUGUST 1934]
-- Margin: 1950 Ed. Ch. 9 No. 8.
+- Margin: 1950 Ed. Ch. 9. No. 8.
 - Margin: 17 of 1934.
 - Margin: Commencement.
