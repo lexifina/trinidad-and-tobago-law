@@ -1,12 +1,11 @@
 TOBACCO CONTROL ACT
 CHAPTER 30:04
 Act
-15 of 2009
+15 of 2009 Amended by 12 of 2012
 Index of Subsidiary Legislation
-Page Tobacco Control Regulations (LN 6/2014). These Regulations shall come into
-effect on 10th January 2015 ... 26
+Page Tobacco Control Regulations (LN 6/2014) ... 26
 Note on Commencement-Section 2
-The various sections of this Act came into operation on 17th February 2010 (See LN 24/2010) and 5th August 2013 (See LN 154/2013).
+The various sections of this Act came into operation on 17th February 2010 and 5th August 2013. (See Legal Notices Nos. 24/2010 and 154/2013, respectively).
 CHAPTER 30:04
 TOBACCO CONTROL ACT
 ARRANGEMENT OF SECTIONS
@@ -16,12 +15,17 @@ PRELIMINARY
 1. Short title. 2. Commencement. 3. Act inconsistent with Constitution. 4. Interpretation.
 PART II
 ADMINISTRATIVE
-5. Unit established in Ministry. 6. Function of Unit. 7. Function of authorised officers. 8. Power of authorised officers. 9. Identification of authorised officers.
-10. Licensing procedure and transitional period. 11. Information required in reports.
+5. Unit established in Ministry. 6. Function of Unit. 7. Function of authorised officers. 8. Power of authorised officers. 9. Identification of authorised officers. 10. Licensing procedure and transitional period. 11. Information required in reports.
 PART III
 PROHIBITIONS
-12. Non-smoking areas. 13. Prohibition on sales by minors. 14. Prohibition on self-service displays. 15. Prohibition on public displays. 16. Prohibition on self-service sales of tobacco products. 17. Prohibition on sales of tobacco products in certain places. 18. Prohibition on toy or candy cigarettes. 19. Prohibition against tobacco advertising. 20. Prohibition against incentive promotions and free supply of tobacco
-products. ARRANGEMENT OF SECTIONS-Continued SECTION
+12. Non-smoking areas. 13. Prohibition on sales by minors.
+13A. Prohibition on use of a child to buy tobacco products.
+14. Prohibition on self-service displays. 15. Prohibition on public displays. 16. Prohibition on self-service sales of tobacco products. 17. Prohibition on sales of tobacco products in certain places.
+17A. Vendor of tobacco products to display sign.
+18. Prohibition on toy or candy cigarettes. 19. Prohibition against tobacco advertising.
+ARRANGEMENT OF SECTIONS-Continued SECTION
+20. Prohibition against incentive promotions and free supply of tobacco
+products.
 21. Sponsorship. 22. Other forms of promotion.
 PART IV
 PACKAGING AND LABELLING
@@ -42,7 +46,7 @@ And whereas most smokers who start smoking at a very young age are not aware of 
 And whereas the marketing of tobacco products through product design, promotion, packaging, pricing and distribution, is known to contribute to the demand for tobacco products:
 And whereas resolving to align national laws with the World Health Organisation Framework Convention on Tobacco Control, the following measures are undertaken to protect the health and well-being of all the people:
 And whereas it is enacted inter alia, by subsection (1) of section 13 of the Constitution that an Act to which this section
-*See Section 2 for commencement. applies may expressly declare that it shall have effect even though inconsistent with sections 4 and 5 of the Constitution and, if any such Act does so declare, it shall have effect accordingly:
+*See Section 2 for Commencement. applies may expressly declare that it shall have effect even though inconsistent with sections 4 and 5 of the Constitution and, if any such Act does so declare, it shall have effect accordingly:
 And whereas it is provided by subsection (2) of the said section 13 of the Constitution that an Act to which this section applies is one the Bill for which has been passed by both Houses of Parliament and at the final vote thereon in each House has been supported by the votes of not less than three-fifths of all the members of that House:
 And whereas it is necessary and expedient that the provisions of this Act shall have effect even though inconsistent with sections 4 and 5 of the Constitution:
 PART I
