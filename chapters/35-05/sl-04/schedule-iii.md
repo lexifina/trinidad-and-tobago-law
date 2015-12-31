@@ -26,7 +26,7 @@ under Article 4 of the Ramsar Convention;
 (d) a component of biological diversity identified under Article
 7(a) of the BIODIVERSITY Convention.
 - Margin: Rule 3(1)(e).
-- Margin: Ch. 23 No. 17.
+- Margin: Ch. 23. No. 17.
 - Margin: Ch. 63:54.
 - Margin: Ch. 67:01.
 - Margin: Ch. 67:51.

@@ -3,9 +3,9 @@ CHAPTER 35:05
 Act
 3 of 2000
 Index of Subsidiary Legislation
-Page Certificate of Environmental Clearance Rules (LN 104/2001) … … 64 Noise Pollution Control Rules (LN 60/2001) ... 75 Noise Pollution Control (Fees) Regulations (LN 51/2001) … … 101 Environmentally Sensitive Species Rules (LN 63/2001) … … … 102 Environmentally Sensitive Area Rules (LN 64/2001) … … … 112 Environmentally Sensitive Area (Matura National Park) Notice (LN 323/2004) 122 Certificate of Environmental Clearance (Designated Activities) Order
+Page Certificate of Environmental Clearance Rules (LN 104/2001) … … 64 Noise Pollution Control Rules (LN 60/2001) ... 75 Noise Pollution Control (Fees) Regulations (LN 51/2001) … … 101 Environmentally Sensitive Species Rules (LN 63/2001) … … … 102 Environmentally Sensitive Areas Rules (LN 64/2001) … … … 112 Environmentally Sensitive Area (Matura National Park) Notice (LN 323/2004) 122 Certificate of Environmental Clearance (Designated Activities) Order
 (LN 103/2001) ... 134 Certificate of Environmental Clearance (Fees and Charges) Regulations
-(LN 91/2001) ... 145 Environmental Commission Rules of Practice and Procedure (LN 135/2002) 147 Water Pollution Rules (LN 230/2001) ... 193 Water Pollution (Fees) Regulations (LN 142/2001) … … … 220
+(LN 91/2001) ... 145 Environmental Commission Rules of Practice and Procedure (LN 135/2002) 147 Water Pollution Rules (LN 230/2001) ... 193 Water Pollution (Fees) Regulations (LN 142/2001) … … … 220 Air Pollution Rules (LN 12/2015) ... 222 Air Pollution (Fees) Regulations (LN 13/2015) ... 265
 Note on Omission
 Notices made under sections 28, 29, 35, 41 and 86 have been omitted. (These Notices deal with submission for comments and final action in respect of Rules made under the Act within a definite period-See the Current Edition of Acts and Subsidiary Legislation for references to these Notices).
 CHAPTER 35:05
@@ -54,7 +54,7 @@ COMPLIANCE AND ENFORCEMENT
 62. Environmental requirements. 63. Notice of violation. 64. Issue of Administrative Order. 65. Administrative Orders. 66. Administrative civil assessment. 67. Application for enforcement. 68. Other actions by the Authority. 69. Direct private party actions. 70. Criminal offence for knowing or reckless endangerment. 71. Liability of private and public officials.
 PART VII
 ENVIRONMENTAL TRUST FUND AND FINANCES
-72. Establishment and purposes of the Fund. 73. Trustees for the Fund. 74. Resources of the Fund. 75. Investment of Fund monies. 76. Exemption from taxes. 77. Borrowing by the Fund. 78. Use of Fund monies. 79. Finances of the Authority. 80. Financial accounting by the Trustees.
+72. Establishment and purposes of the Fund. 73. Trustees for the Fund. 74. Resources of the Fund. 75. Investment of Fund monies. 76. Exemption from taxes. 77. Borrowing by the Fund. 78. Use of Fund moneys. 79. Finances of the Authority. 80. Financial accounting by the Trustees.
 PART VIII
 ESTABLISHMENT AND JURISDICTION OF
 ENVIRONMENTAL COMMISSION

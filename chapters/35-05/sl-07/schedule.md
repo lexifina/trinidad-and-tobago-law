@@ -117,9 +117,9 @@ expansion, recreational areas abandonment (inclusive of associated works) of a p
 expansion, abandonment (inclusive of associated works) of a golf course.
 32 Establishment of infrastructure for air The establishment,
 transportation expansion,
-abandonment (inclusive of associated works) of an airport, heliport, aerodrome or landing strip.
-(a) The establishment (inclusive of associated 33 Establishment of infrastructure for land
-works) of a road of more than 1 kilometre transportation in length;
+abandonment (inclusive of associated works) of an airport, heliport, aerodrome or landing strip. 33 Establishment of infrastructure for land (a) The establishment (inclusive of associated
+transportation works) of a road of more than 1 kilometre
+in length;
 (b) The extension/expansion (inclusive of
 associated works) of a road by more than 1 km or by 35% or more of its length or width.
 (DESIGNATED ACTIVITIES)-Continued
@@ -152,9 +152,7 @@ of a land drainage or irrigation scheme for a parcel of land or more than 1 hect
 (b) The establishment of a flood control
 system or a water supply impoundment for a parcel of land of more than 1 hectare during a two-year period;
 (c) The realignment or modification of drainage
-or river systems. 42 Establishment of waste water or sewage The establishment,
-treatment facilities expansion,
-abandonment (inclusive of associated works) of a waste water or sewage treatment facility. 43 Provision of other service-oriented activities (a) The establishment,
+or river systems. The establishment, 42 Establishment of waste water or sewage expansion, treatment facilities abandonment (inclusive of associated works) of a waste water or sewage treatment facility. 43 Provision of other service-oriented activities (a) The establishment,
 expansion, abandonment (inclusive of associated works) of an automotive repair garage, autobody shops, gasoline/service stations or vehicle inspection stations;
 (b) The establishment, modification, expansion,
 decommissioning or abandonment of a laundry (wet or dry cleaning);
