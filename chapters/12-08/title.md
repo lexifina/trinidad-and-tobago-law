@@ -2,8 +2,8 @@ INTERNATIONAL CHILD ABDUCTION ACT
 CHAPTER 12:08
 Act
 8 of 2008
-Note on Subsidiary Legislation
-This Chapter contains no subsidiary legislation.
+Index of Subsidiary Legislation
+Page International Child Abduction Order (LN 107/2009) … … … 20
 CHAPTER 12:08
 INTERNATIONAL CHILD ABDUCTION ACT
 ARRANGEMENT OF SECTIONS SECTION
@@ -14,6 +14,5 @@ CHAPTER 12:08
 INTERNATIONAL CHILD ABDUCTION ACT
 An Act to provide for the application on Trinidad and Tobago
 of The Hague Convention on the Civil Aspects of International Child Abduction and to provide for matters connected with or related thereto.
-[15TH OCTOBER 2008]
+*[ASSENTED TO 25TH JUNE 2008]
 - Margin: 8 of 2008.
-- Margin: Commencement. [155/2008].

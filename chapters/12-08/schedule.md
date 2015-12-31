@@ -1,6 +1,6 @@
 # SCHEDULE
-CONVENTION ON THE CIVIL ASPECTS OF INTERNATIONAL CHILD
-ABDUCTION
+CONVENTION ON THE CIVIL ASPECTS OF INTERNATIONAL
+CHILD ABDUCTION
 The States signatory to the present Convention,
 Firmly convinced that the interests of children are of importance in matters relating to their custody,
 Desiring to protect children internationally from the harmful effects of their wrongful removal or retention and to establish procedures to ensure their prompt return to the State of their habitual residence, as well as to secure protection for rights of access,
@@ -200,4 +200,4 @@ paragraph, and the withdrawals referred to in Article 42;
 (7) the denunciations referred to in Article 44.
 In witness whereof the undersigned, being duly authorised thereto, have signed this Convention.
 Done at The Hague, on the 25th day of October, 1980, in the English and French languages, both texts being equally authentic, in a single copy which shall be deposited in the archives of the Government of the Kingdom of the Netherlands, and of which a certified copy shall be sent, through diplomatic channels, to each of the States Members of The Hague Conference on Private International Law at the date of its Fourteenth Session.
-- Margin: [Section 4].
+- Margin: Section 4.
