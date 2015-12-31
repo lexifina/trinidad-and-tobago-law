@@ -1,15 +1,27 @@
 # FORM A
-APPLICATION FOR ADOPTION ORDER
-Application for an Adoption Order in respect of a child named ... known to the Adoption Board as Case No ... To the ... Court.
-I (or We), the undersigned ... resident at ... hereby state: ...
-1. I am (or We are) desirous of being authorised under the provisions of the Adoption of Children Act to adopt ... a child of the ... sex, resident at ... in Trinidad and Tobago, hereinafter called "the child".
-2. The child was on the date of coming into force of the said Act in my (or our) custody and was being brought up, maintained and educated by me (or us) as my (or our) child under a de facto adoption and had been in my (our) custody and had been so maintained and educated for a period of not less than two years before that date, to wit, from and after the ... day of ... 20 ...
-3. The child has been in my (our) care and has been brought up, maintained and educated by me (us) since ...
-4. We are married to each other; (or I am unmarried) (or I am married to ... whose written consent to the making of the order is appended hereto).
-5. I am (or We are) domiciled in Trinidad and Tobago. 6. I (or We) have not received or agreed to receive, and no person has made or given or agreed to make or give to me (or us), any payment or other reward in consideration of the adoption (except as follows: ... ).
-7. I (or We) have no previous application under the said Act in respect of the child to any Court (other than the application made to the ... Court at ... on the ... day of ... 20 ... which was dealt with as follows, viz.: ...)
-8. The particulars furnished in this application and in the attached form are true and complete and I am a (or we are) fit and proper person(s) to maintain and bring up the child suitably.
-In Witness whereof I (or we) have signed this statement on the ... of ..., 20 ...
-...
-Signature of Applicant(s) (giving full given names) [Subsidiary] Adoption of Children Rules
-- Margin: Delete except in the case of de facto adoption.
+ADOPTION OF CHILDREN ACT, CH. 46:03
+MEMORANDUM TO BE FURNISHED BY THE
+AUTHORITY TO THE PARENT OR GUARDIAN
+PROPOSING TO PLACE CHILD AT DISPOSITION OF
+THE AUTHORITY
+If an adoption order is made in respect of your child, all your rights and responsibilities with regard to the child will be transferred permanently to the adopter and all your rights and responsibilities as a parent will end.
+Where a person applies to the Authority to have a child placed for adoption and the Authority accepts that application, the Authority must apply to the Court for an order declaring that child to be freed for adoption.
+No application to free a child for adoption shall be made unless-
+(a) it is made with the consent of the parents or guardian of the
+child; or
+(b) the Authority is applying for dispensation of the consent of
+the parents or guardian of the child, and the child is in the care of the Authority.
+The Court may dispense with the need to obtain the consent of the parents or guardian where the parent or guardian-
+(a) has abandoned, neglected or deserted the child;
+(b) cannot be found or is incapable of giving consent;
+(c) is withholding his consent unreasonably;
+(d) has persistently failed to carry out his parental responsibility
+for the child, without reasonable cause;
+(e) has persistently or seriously ill-treated the child;
+(f) has persistently neglected or refused to contribute to the
+support of the child, even though he is responsible for contributing to the support of the child;
+(g) is a person whose consent ought, in the opinion of the Court,
+to be dispensed with; and
+(h) there is already an order freeing the child for adoption.
+It may be necessary for you to appear before the Court in private to indicate whether you agree to the adoption.
+- Margin: Regulation 10.

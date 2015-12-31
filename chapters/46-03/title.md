@@ -1,28 +1,56 @@
 ADOPTION OF CHILDREN ACT
 CHAPTER 46:03
 Act
-31 of 1946 Amended by 15 of 1948 28 of 1973 17 of 1981 *67 of 2000
-*See Note on page 2
+67 of 2000
+Amended by
+9 of 2003
+4 of 2015
 Index of Subsidiary Legislation
-Page Adoption of Children Regulations (GN 101/1947) … … … 17 Adoption of Children Rules (GN 129/1947) ... 26
-Note on Act No. 67 of 2000
-This Act is purported to be repealed by the Adoption of Children Act, 2000 (Act No. 67 of 2000) but Act No. 67 of 2000 has not yet been proclaimed. This Act therefore is the existing law with respect to the adoption of children and will continue in force until Act No. 67 of 2000 is proclaimed.
-Note on Delegation of Powers
-For Delegation of Powers-See LN 10/1957
-Note on Adaptation
-Under paragraph 6 of the Second Schedule to the Law Revision Act (Ch. 3:03) the Commission amended certain references to public officers in this Chapter. The Minister's approval of the amendments was signified by LN 120/1980, but no marginal reference is made to this Notice where any such amendment is made in the text.
+Page Adoption of Children Regulations (LN 110/2015) … … … 28
+Note on Repeal
+This Act repeals the Adoption of Children Act, No. 31 of 1946. (See Section 41).
 CHAPTER 46:03
 ADOPTION OF CHILDREN ACT
-ARRANGEMENT OF SECTIONS SECTION
-1. Short title. 2. Interpretation. 3. Establishment of Adoption Board. 4. Restriction on making arrangements for the adoption of children. 5. Duties of Board. 6. Provisions relating to arrangements made by the Board. 7. Appeals by persons desirous of adopting children. 8. Release of inmate of certified school for purposes of adoption. 9. Regulations.
-10. Power to make adoption orders. 11. Restrictions on making adoption orders. 12. Matters with respect to which Court to be satisfied. 13. Power to make interim orders. 14. Terms and conditions of order. 15. Effect of Adoption Order. 16. Power to make subsequent order in respect of child already subject to
-an order.
-17. Jurisdiction and procedure. 18. Restriction on payments. 19. Offences. 20. Provisions as to existing de facto. 21. Adopted Children Register.
-SCHEDULE.
+ARRANGEMENT OF SECTIONS
+SECTION
+PART I }
+PRELIMINARY
+1. Short title and commencement. 2. Interpretation.
+PART II
+3. to (Repealed by Act No. 4 of 2015). 8.
+PART III
+ARRANGEMENTS FOR ADOPTION
+9. Authority to make adoption arrangements. 10. Duty to promote welfare of child. 11. Religious upbringing of child. 12. Probationary period. 13. Removal of child from care and control of applicant. 14. Notification by Authority on declined application.
+14A. Appeals.
+PART IV
+MAKING A CHILD AVAILABLE FOR ADOPTION
+15. Freeing child for adoption. 16. Progress reports to former parents. 17. Revocation of order made under section 15.
+PART V
+ADOPTION ORDERS
+18. Power to make adoption orders.
+ARRANGEMENT OF SECTIONS-Continued
+SECTION
+19. Power to make interim orders. 20. Power to make subsequent order in respect of child already subject
+to an order.
+21. Application where child placed by Authority. 22. Consideration of views of the child. 23. (Repealed by Act No. 4 of 2015). 24. Consent to the making of an order. 25. Matters with respect to which Court must be satisfied. 26. Terms and conditions of orders. 27. Jurisdiction and procedure. 28. Restriction of payments. 29. Prohibition on advertisement. 30. Provisions as to existing de facto adoptions.
+PART VI REGISTRATION AND EFFECTS OF ADOPTION ORDERS
+31. The effect of adoption orders. 32. Rights and duties of adopters. 33. Adopted Children Register.
+33A. Birth Certificates of adopted child. 33B. Issuance of certificate of adoption. 33C. Application by adopted person for certificate of adoption.
+34. Disclosure of birth records of adopted children.
+34A. Application by adopted persons for certain information.
+PART VII
+OVERSEAS ADOPTION
+35. Restriction on sending child abroad for adoption. 36. Order permitting child to be sent abroad for adoption. 37. Effect of overseas adoption. 38. Adoption by non-nationals. SECTION
+PART VIII
+MISCELLANEOUS
+39. Serving of notices. 40. Regulations. 41. Repeal of Act No. 31 of 1946. 42. Transitional provisions.
+SCHEDULE-(Repealed by Act No. 4 of 2015).
 
 CHAPTER 46:03
 ADOPTION OF CHILDREN ACT
-An Act to make provision for the Adoption of Children.
-[13TH JUNE 1947]
-- Margin: 1950 Ed. Ch. 29. No 7.
-- Margin: 31 of 1946. Commencement.
+An Act to make provision for the regulation of procedures
+governing the adoption of children and to give effect to the United Nations Convention on the Rights of the Child, 1989.
+*[ASSENTED TO 12TH OCTOBER 2000]
+PART I
+PRELIMINARY
+- Margin: 67 of 2000.
