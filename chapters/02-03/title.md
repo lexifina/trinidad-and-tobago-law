@@ -9,10 +9,14 @@ Amended by
 4 of 2008
 2 of 2012
 2 of 2013
+*2 of 2015
+*See Note on page 2
 Index of Subsidiary Legislation
-Page Retiring Allowances (Legislative Service) Regulations (GN 234/1971) … 18
+Page Retiring Allowances (Legislative Service) Regulations (GN 234/1971) … 17
 Note on Adaptation
 Under paragraph 6 of the Second Schedule to the Law Revision Act (Ch. 3:03) the Commission amended certain references to public officers in this Chapter. The Minister's approval of the amendments was signified by LN 52/1980, but no marginal reference is made to this Notice where any such amendment is made in the text.
+Note on Act No. 2 of 2015
+Amendments made to section 6 by Act No. 2 of 2015 took effect from 1st October 2014. All payments made on or after and before that date have been validated by section 26(1).
 CHAPTER 2:03
 RETIRING ALLOWANCES
 (LEGISLATIVE SERVICE) ACT
