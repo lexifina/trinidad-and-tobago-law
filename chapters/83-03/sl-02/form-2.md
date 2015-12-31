@@ -7,7 +7,8 @@ Registered Office:
 UNIT CERTIFICATE FOR FIRST UNIT SCHEME
 Units
 ...
-Account No. The Trinidad and Tobago Unit Trust Corporation certifies that:
+Account No.
+The Trinidad and Tobago Unit Trust Corporation certifies that:
 Name ...
 Address ...
 [Joint Holder(s) (1) ...
@@ -21,9 +22,10 @@ Authorised Signature Authorised Signature
 FORM OF RENUNCIATION TO BE COMPLETED WHEN
 DISPOSING OF UNITS TO THE TRINIDAD AND
 TOBAGO UNIT TRUST CORPORATION
-Insert the total number of
-I/We ... Number of Units units being sold followed by the full names of all
-... unitholders and the current registered office ... of the first holder.
+Insert the total number of units being sold followed Number of Units
+I/We ... by the full names of all
+... unitholders and the current registered office
+... of the first holder.
 ...
 FORM 2-Continued
 acknowledge that I am/we are no longer interested in the units shown above, all of which are represented by the certificate(s) presented for cancellation. Dated ... day of ... 20...
@@ -32,7 +34,8 @@ acknowledge that I am/we are no longer interested in the units shown above, all 
 (Signature of (Signature of 2nd Unitholder) 4th Unitholder)
 When Units are held in joint names all holders must sign except where they have signed a declaration authorising any one or more of them to sign. Note: A corporation must complete this form under its common seal or under the hand of an officer or attorney so authorised.
 This Renunciation Form relates to this certificate and the additional certificate(s) listed below, all of which must be forwarded to the Trinidad and Tobago Unit Trust Corporation. The corresponding form on such additional certificate(s) can be left blank. Certificate No. of Certificate No. of Certificate No. of
-Number Units Number Units Number Units ... 1. If this certificate is for a greater number of units than is being sold or transferred
+Number Units Number Units Number Units ...
+1. If this certificate is for a greater number of units than is being sold or transferred
 a new certificate will be issued in due course. 2. When transferring units to another person the form above should not be used. A
 Unit Transfer Form should be completed and sent to this office with this certificate. 3. All notices, correspondence (including intimations of change of address) and
 documents requiring to be registered in respect of this holding should be sent direct to the Trinidad and Tobago Unit Trust Corporation. 4. Copies of the Regulations can be inspected by any certificate holder at the Head Office
