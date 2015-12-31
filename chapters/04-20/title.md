@@ -3,34 +3,35 @@ CHAPTER 4:20
 Act
 9 of 1918
 Amended by
-2 of 1919 16 of 1962 38 of 1991
-97/1963 28 of 1921 8 of 1992
-19 of 1965 62 of 1921
-3 of 1994
-31 of 1971 6 of 1923
+2 of 1919 97/1963 8 of 1992
+19 of 1965 28 of 1921 3 of 1994
+31 of 1971 62 of 1921
 18 of 1994
-53 of 1976
-32 of 1925
+53 of 1976 6 of 1923
 27 of 1994
-136/1976
-22 of 1936
-28 of 1996 22 of 1977 14 of 1939
-22 of 1997 45 of 1979 21 of 1943
-3 of 1980 37 of 1997 36 of 1947
-47 of 1980 44 of 2000 24 of 1948
-98/1981
-59 of 2000 24 of 1951
-29 of 1982
-85 of 2000 20 of 1953
+136/1976 32 of 1925
+28 of 1996
+22 of 1977 22 of 1936
+22 of 1997 45 of 1979 14 of 1939
+3 of 1980 37 of 1997 21 of 1943 47 of 1980 44 of 2000 36 of 1947
+98/1981 24 of 1948
+59 of 2000
+29 of 1982 24 of 1951
+85 of 2000
 37 of 1985
-6 of 2004 18 of 1957
+20 of 1953
+6 of 2004
 *13 of 1986
-175/1958 15 of 2005 27 of 1986 11 of 1961 19 of 2005 11 of 1987 172/1961 16 of 1989 †23 of 2005 (by implication)
-8/1962 21 of 1990 4 of 2011
+18 of 1957
+15 of 2005 27 of 1986 175/1958
+19 of 2005 11 of 1987 11 of 1961
+16 of 1989 †23 of 2005 172/1961
+21 of 1990 4 of 2011 (by implication) 8/1962 38 of 1991 16 of 1962 12 of 2012
 *See Note on Validation on page 3
 †See Note on page 3
 Index of Subsidiary Legislation
-Page Magisterial Districts Order (Proc. 17 of 1926) ... 168 Summary Courts (Sittings) Order (LN 163/1995) … … … 170 Summary Courts (Costs on Appeal) Rules (GN 175/1958) … … 175 Summary Courts (Service of Summons) (Family Court) Order (LN 221/2005) 177
+Page
+Magisterial Districts Order (Proc. 17 of 1926) ... 168 Summary Courts (Sittings) Order (LN 163/1995) … … … 170 Summary Courts (Costs on Appeal) Rules (GN 175/1958) … … 175 Summary Courts (Service of Summons) (Family Court) Order (LN 221/2005) 177
 Note on section 133A or 134
 (Review of Magistrates' decision)
 For an application to review the decision of a Magistrate under section 133A or 134 see Order 56A of the Rules of the Supreme Court 1975 (LN 28/1985).
