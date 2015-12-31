@@ -24,7 +24,7 @@ ____________________ ________________ (ii) Fax No. _____________
 (e) Business Address ____________________________________________________
 (f) Compound Address __________________________________________________
 [If different from (a) above] ________________________________________
-C. (FLEET OWNERS ONLY-Inspection would be conducted by Transport Division's
+C. FLEET OWNERS ONLY-(Inspection would be conducted by Transport Division's
 Personnel)
 (a) No. of Vehicles ______________________________________________________
 (b) Registration Class:
@@ -38,7 +38,7 @@ Agriculture ____________________ Industrial ________________________________
 - Margin: (c) Have you applied for Fleet Owner Compound Inspection previously?
 - Margin: Yes No (d) Have you been granted Fleet Owner Compound Inspection approval previously? Yes No
 - Margin: (e) If answer to (d) is "Yes" state period(s)
-- Margin: D. (VEHICLE TESTING ONLY-Testing to be conducted by Private Garage Personnel on Private Cars and Motorcycles)
+- Margin: D. VEHICLE TESTING ONLY-(Testing to be conducted by Private Garage Personnel on Private Cars and Motorcycles)
 - Margin: (a) List all work/functions presently performed at Testing Compound ______________
 - Margin: __________________________________________________________________
 - Margin: __________________________________________________________________

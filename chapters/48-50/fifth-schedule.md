@@ -11,6 +11,6 @@ five years old but not more than seven years … 3,000.00
 two years old but not more than five years old … 4,500.00
 (e) Used motor vehicles (other than motorcycles) two
 years old and under ... 6,000.00
-Used motorcycles not exceeding 250 cc ... 150.00 (f)
+(f) Used motorcycles not exceeding 250 cc ... 150.00
 (g) Used motorcycles exceeding 250 cc … … 300.00
 - Margin: Section 19A. [3 of 1994 195/2009].

@@ -52,9 +52,6 @@ s-41.md
 s-41A.md
 s-42.md
 s-43.md
-s-43B.md
-s-43C.md
-s-43D.md
 s-44.md
 s-45.md
 s-46.md

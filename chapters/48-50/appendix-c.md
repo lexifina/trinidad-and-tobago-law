@@ -14,7 +14,9 @@ not including payments for patents, royalties, licences and similar charges made
 (f) rent paid, not including rent paid to non-nationals and to
 non-resident principals of resident companies;
 (g) the cost of raw materials (including components and fuel
-power) other than imported raw materials, used in productions; including similar expenses incurred to non-nationals and to non-resident principals of resident companies; and
+power) other than imported raw materials, used in productions;
+(h) other overhead expenses apportionable to production, not
+including similar expenses incurred to non-nationals and to non-resident principals of resident companies; and
 (i) plant profit, not including profits distributed or remitted
 directly or indirectly to non-nationals and to non-resident principals of resident companies.
 2. In this Appendix- "Caribbean Common Market", "Common Market Origin" and "Member

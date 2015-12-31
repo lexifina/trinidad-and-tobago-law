@@ -17,41 +17,39 @@ to law
 (h) Passenger Stop Buzzer
 (b) VIN/Chassis No...
 (Maxi-Taxi)
-(c) Body number (if applicable) ...
-(i) Taxi Sign Lamp (Maxi-Taxi)
-(d) Engine Number ... (j) Loose Wires, Switches, etc.
+(c) Body number (if applicable) ... (i) Taxi Sign Lamp (Maxi-Taxi)
+(j) Loose Wires, Switches, etc. (d) Engine Number ...
 (e) Weight ...
 5. Body/door/fenders/panels/glasses/seats
 (f) Description of Vehicle:
 (a) Operation of: Good Defective
 (i) Colour ...
 (i) Hinges, locks, winders,
-(ii) Year manufactured ...
-etc.
-(iii) Model ... (ii) Doors, Bonnet, Trunk
-in fair condition (iv) Seating ...
+(ii) Year manufactured ... etc.
+(ii) Doors, Bonnet, Trunk (iii) Model ...
+in fair condition
+(iv) Seating ...
 (iii) Entrance/exit door
 (v) Type ...
 (Maxi-Taxi)
-(vi) Horse Power ...
-(iv) Emergency door
+(vi) Horse Power ... (iv) Emergency door
 (vii) Engine Size ... (Maxi-Taxi)
-(b) Condition of Fender/ 3. Engine: Good Defective Panels (i.e., not
-excessively corroded) (a) Oil and Fuel Leaks
-(c) Seats secured (b) Water/Coolant Leaks
+(b) Condition of Fender/
+Panels (i.e., not 3. Engine: Good Defective excessively corroded)
+(a) Oil and Fuel Leaks
+(c) Seats secured
+(b) Water/Coolant Leaks
 (d) Seat Belt
-(c) Operation of cut-off
-(e) Seat Upholstered
-switch (Diesel Trucks)
-(f) Glasses (Windscreens
-(d) Starter Mechanism
-included)
-(e) Engine properly washed (g) Tint of Glasses
-(h) Outside mirror (f) Battery properly secured
-(i) Length, Width and (g) Tuned properly
+(c) Operation of cut-off (e) Seat Upholstered
+switch (Diesel Trucks) (f) Glasses (Windscreens
+(d) Starter Mechanism included)
+(g) Tint of Glasses (e) Engine properly washed
+(h) Outside mirror
+(f) Battery properly secured
+(i) Length, Width and
+(g) Tuned properly
 overhangs
-(h) Visible Vapour/Sparks, etc.
-(j) Bumpers secured
+(h) Visible Vapour/Sparks, etc. (j) Bumpers secured
 APPENDIX VI-Continued
 6. Markings: 10. Under Carriage
 Good Defective Check for: Good Defective
@@ -84,7 +82,7 @@ Condition of: Good Defective
 damage including corrosion (c) Fluid and Air Leaks
 (b) Cut and Joined bodies and (d) Brake hoses, Pipes, Joints,
 chassis Cables and Linkages
-Foot Brake Warning Device (e) 8. Tyres/wheels
+(e) Foot Brake Warning Device 8. Tyres/wheels
 (Heavy Vehicles)
 Condition of: Good Defective
 (f) Spring Brake

@@ -31,21 +31,24 @@ COUNTY OF ST. DAVID
 Nil
 PART F
 COUNTY OF ST. GEORGE EAST
-Day of Week and Time Road Side of Road
-where Applicable 1. That portion of Abercromby Street, Eastern Tuesday, Thursday, Saturday
-St. Joseph in the County of St. George which lies between the Eastern Main Western Sunday, Monday, Wednesday, Road and Riverside Road Friday 2. Southern Main Road, Curepe in the Eastern Tuesday, Thursday, Saturday
+Side of Road Day of Week and Time Road
+where Applicable
+Eastern Tuesday, Thursday, Saturday 1. That portion of Abercromby Street,
+St. Joseph in the County of St. George
+Western Sunday, Monday, Wednesday, which lies between the Eastern Main
+Friday Road and Riverside Road
+Eastern Tuesday, Thursday, Saturday 2. Southern Main Road, Curepe in the
 Ward of St. Ann's
 Western Monday, Wednesday, Friday
-Tuesday, Thursday, Saturday 3. Tunapuna Road, Tunapuna Eastern Sunday, Monday, Wednesday, Western
+3. Tunapuna Road, Tunapuna Eastern Tuesday, Thursday, Saturday
+Western Sunday, Monday, Wednesday,
 Friday 4. That portion of Sorzano Street in the
-Borough of Arima which lies between Prince Street and St. Joseph Street
-Monday, Wednesday, Friday 5. That portion of Broadway in the Northern
-Borough of Arima which lies between
-Tuesday, Thursday, Saturday Queen Street and Prince Street Southern 6. That portion of Guanapo Street in the
+Borough of Arima which lies between Prince Street and St. Joseph Street 5. That portion of Broadway in the Northern Monday, Wednesday, Friday
+Borough of Arima which lies between Queen Street and Prince Street Southern Tuesday, Thursday, Saturday 6. That portion of Guanapo Street in the
 Borough of Arima which lies between Prince Street and Temple Street 7. That portion of Green Street in the
 Borough of Arima which lies between Cocorite Street and St. Joseph Street 8. That portion of Farfan Street in the
 Borough of Arima which lies between Cocorite Street and St. Joseph Street 9. That portion of Hollis Avenue between
-Monday, Wednesday, Friday King Street and Pro-Queen Street Northern Tuesday, Thursday, Saturday 10. That portion of Devenish Street in the Southern
+King Street and Pro-Queen Street Northern Monday, Wednesday, Friday 10. That portion of Devenish Street in the Southern Tuesday, Thursday, Saturday
 Borough of Arima which lies between Cocorite Street and Green Street 11. That portion of John Shaw Avenue in
 the Borough of Arima which lies between Providence Circular Road and Queen Mary Avenue
 PART G
@@ -62,7 +65,8 @@ Southern Monday, Wednesday, Friday 3. Cascade Road, from Walker Avenue to Northe
 Road and Cascade Road 5. Saddle Road in the Ward of St. Ann's Eastern Tuesday,
 between the St. Clair Roundabout and Saturday its junction with Long Circular Road, Western Sunday, Monday, Wednesday
 and Friday 6. Prada Street, St. Clair … … Northern Tuesday,
-Saturday 7. (Deleted by LN 75/1985) 8. Pelham Street, Belmont Eastern Sunday, Monday, Wednesday
+Saturday 7. (Deleted by LN 75/1985)
+8. Pelham Street, Belmont Eastern Sunday, Monday, Wednesday
 and Friday
 Western Tuesday,
 Saturday
@@ -104,8 +108,8 @@ Tuesday, Thursday, Saturday Southern
 COUNTY OF ST. GEORGE WEST-Continued
 Road Side of Road Day of Week and Time
 where Applicable 54. Edward Street in the City of Eastern Tuesday, Thursday, Saturday
-} Port-of-Spain between Tragarete
-Road and Gordon Street Western Sunday, Monday, Wednesday,
+}
+Port-of-Spain between Tragarete Road and Gordon Street Western Sunday, Monday, Wednesday,
 Friday
 Eastern Sunday, Tuesday, Thursday, 55. Edward Street between Park Street
 Saturday and Independence Square North but
@@ -127,8 +131,7 @@ Northern Tuesday, Thursday, Saturday 61. Charles Street, Port-of-Spain
 Southern Sunday, Monday, Wednesday,
 Friday
 Eastern Tuesday, Thursday, Saturday 62. Borde Street between Tragarete Road
-}
-and New Street
+} and New Street
 Western Sunday, Monday, Wednesday, 63. Colville Street, from Wrightson Road
 Friday to Tragarete Road
 Northern Tuesday, Thursday, Saturday 64. Methuen Street
@@ -177,7 +180,8 @@ Road continuing in a southerly direction and ending at the 4-kilometre mark on t
 Roundabout and Shell
 Trinidad Limited Main gate Southern Monday, Wednesday, Friday 5. That portion of the Point Fortin Main
 Road which lies between Frisco Junction and the A.B.C. Junction Eastern Tuesday, Thursday, Saturday 6. That portion of Guapo-Cap-de-Ville
-Road in the County of St. Patrick which Western Sunday, Monday, Wednesday, lies between the A.B.C. Junction and the Point Ligoure Junction 7. Techier Road, Point Fortin Northern Monday, Wednesday, Friday
+Road in the County of St. Patrick which Western Sunday, Monday, Wednesday, lies between the A.B.C. Junction and the Point Ligoure Junction
+7. Techier Road, Point Fortin Northern Monday, Wednesday, Friday
 Southern Tuesday, Thursday, Saturday
 PART I
 TOBAGO
@@ -185,31 +189,30 @@ Nil
 PART J
 COUNTY OF VICTORIA
 Side of Road
-1. Guaracara-Tabaquite Road from a Northern Sunday, Tuesday, Thursday,
-point 45 metres East of the Southern Main Road to Battoo Avenue Southern Monday, Wednesday, Friday
-2. Southern Main Road, Marabella Eastern Sunday, Tuesday, Thursday,
+Northern Sunday, Tuesday, Thursday, 1. Guaracara-Tabaquite Road from a
+point 45 metres East of the Southern
+Southern Monday, Wednesday, Friday Main Road to Battoo Avenue
+Eastern Sunday, Tuesday, Thursday, 2. Southern Main Road, Marabella
 between the Guaracara River and the
 Western Monday, Wednesday, Friday
 Eastern Sunday, Tuesday, Thursday,
 Western Monday, Wednesday, Friday
-4. Coffee Street from a point 45 metres Northern Sunday, Tuesday, Thursday,
+Northern Sunday, Tuesday, Thursday, 4. Coffee Street from a point 45 metres
 East of Johnstone Street to Navet Road
 Southern Monday, Wednesday, Friday
-5. Naparima-Mayaro Road from Circular Northern Sunday, Tuesday, Thursday,
+Northern Sunday, Tuesday, Thursday, 5. Naparima-Mayaro Road from Circular
 Road to the Mon Repos Roundabout
 Southern Monday, Wednesday, Friday
-6. Cipero Street from Park Street to Eastern Sunday, Tuesday, Thursday,
+Eastern Sunday, Tuesday, Thursday, 6. Cipero Street from Park Street to
 34 metres South of Coffee Street
-Monday, Wednesday, Friday Western
-Sunday, Tuesday, Thursday, 7. Rushworth Street from Independence Northern
+Western Monday, Wednesday, Friday
+Northern Sunday, Tuesday, Thursday, 7. Rushworth Street from Independence
 Avenue to Bertrand Street
-Monday, Wednesday, Friday Southern
-Sunday, Tuesday, Thursday, 8. Prince Alfred Street from Keate Street Eastern
-Monday, Wednesday, Friday Western
-Sunday, Tuesday, Thursday, 9. High Street, San Fernando but not Northern
-including that portion appearing under
-Monday, Wednesday, Friday Part "J" of the Schedule to the Public Southern
-Stands (Taxis) Parking Order
+Southern Monday, Wednesday, Friday
+Eastern Sunday, Tuesday, Thursday, 8. Prince Alfred Street from Keate Street
+Western Monday, Wednesday, Friday
+Northern Sunday, Tuesday, Thursday, 9. High Street, San Fernando but not
+including that portion appearing under Part "J" of the Schedule to the Public Southern Monday, Wednesday, Friday Stands (Taxis) Parking Order
 10. Prince of Wales Street from Coffee Sunday, Tuesday, Thursday, Eastern
 Street to Rushworth Street
 Monday, Wednesday, Friday Western
@@ -217,11 +220,9 @@ COUNTY OF VICTORIA-Continued
 Road Side of Road Day of Week and Time
 where Applicable
 Northern Sunday, Tuesday, Thursday, 12. Carib Street from La Coulee Street Saturday
-to Coffee Street Southern Monday, Wednesday, Friday 13. Johnstone Street
-14. San Fernando Street Northern Tuesday, Thursday, Saturday
+to Coffee Street Southern Monday, Wednesday, Friday 13. Johnstone Street 14. San Fernando Street Northern Tuesday, Thursday, Saturday
 Southern Sunday, Monday, Wednesday,
-} Friday
-15. St. Vincent Street 16. Keate Street from Prince Alfred Northern Sunday, Tuesday, Thursday,
+Friday } 15. St. Vincent Street 16. Keate Street from Prince Alfred Northern Sunday, Tuesday, Thursday,
 Street to Prince of Wales Street Saturday and from Gransaul Street to Independence Avenue Southern Monday, Wednesday, Friday 17. Circular Road from Pointe-a-
 Pierre Road to a point 90 metres West of London Street 18. Penitence Street from Harris Eastern Sunday, Tuesday, Thursday,
 Promenade (North) to High Street Saturday
@@ -292,18 +293,18 @@ made under section 65
 - Margin: Northern Tuesday, Thursday, Saturday 23. McShine Terrace, Belmont Southern Sunday, Monday, Wednesday, Friday
 - Margin: Eastern Sunday, Tuesday, Thursday, 24. Observatory Street between Charlotte Saturday Street and Belmont Circular Road Western Monday, Wednesday, Friday
 - Margin: Side of Road Day of Week and Time Road where Applicable
-- Margin: 39. Piccadilly Street in the City of Eastern Tuesday, Thursday, Saturday Port-of-Spain between South Quay and St. Joseph Road Western Sunday, Monday, Wednesday, Friday
+- Margin: Eastern Tuesday, Thursday, Saturday 39. Piccadilly Street in the City of Port-of-Spain between South Quay Western Sunday, Monday, Wednesday, and St. Joseph Road Friday
 - Margin: 40. Duncan Street between Prince Street and South Quay
-- Margin: 41. Nelson Street between Duke Street and South Quay Eastern Sunday, Tuesday, Thursday, 42. George Street between Duke Street and Saturday South Quay Western Monday, Wednesday, Friday 43. Charlotte Street between Gordon Street and Observatory Street
+- Margin: 41. Nelson Street between Duke Street and South Quay Eastern Sunday, Tuesday, Thursday, Saturday 42. George Street between Duke Street and South Quay Western Monday, Wednesday, Friday 43. Charlotte Street between Gordon Street and Observatory Street
 - Margin: 44. Charlotte Street between Park Street and South Quay
 - Margin: 45. Henry Street between Gordon Street and South Quay
 - Margin: 46. Frederick Street between Keate Street and Gordon Street
 - Margin: 47. Frederick Street between New Street and Independence Square North
 - Margin: 48. Chacon Street between Queen Street and Independence Square South
-- Margin: 49. Pembroke Street between Keate Street and Gordon Street Sunday, Tuesday, Thursday, Eastern Saturday 50. Pembroke Street between New Street and Knox Street Monday, Wednesday, Friday Western 51. Abercromby Street between Keate Street and South Quay
+- Margin: 49. Pembroke Street between Keate Street and Gordon Street Eastern Sunday, Tuesday, Thursday, 50. Pembroke Street between New Street Saturday and Knox Street Western Monday, Wednesday, Friday 51. Abercromby Street between Keate Street and South Quay
 - Margin: 52. St. Vincent Street between Gordon Street and Treasury Street, Port-of-Spain, but not including those portions of St. Vincent Street appearing under Head G of the First Schedule to the Miscellaneous Roads (Unilateral Parking) Order
 - Margin: 53. St. Vincent Street between Independence Square North and Independence Square South, Port-of-Spain
-- Margin: Day of Week and Time Road Side of Road where Applicable 66. French Street between Tragarete Road and Ariapita Avenue
+- Margin: Day of Week and Time Side of Road Road where Applicable 66. French Street between Tragarete Road and Ariapita Avenue
 - Margin: Tuesday, Thursday, Saturday 67. French Street, from Wrightson Road Eastern to Ariapita Avenue
 - Margin: Sunday, Monday, Wednesday, 68. Maraval Road between Tragarete Western Friday Road and Queen's Park West
 - Margin: 69. Cornelio Street, from Wrightson Road to Tragarete Road
@@ -331,7 +332,7 @@ made under section 65
 - Margin: Saturday
 - Margin: A.B.C. Saturday
 - Margin: Friday
-- Margin: Road Day of Week and Time
+- Margin: Day of Week and Time Road
 - Margin: where Applicable
 - Margin: Saturday
 - Margin: Saturday

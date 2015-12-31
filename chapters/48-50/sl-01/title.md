@@ -74,8 +74,7 @@ PUBLIC SERVICE VEHICLES
 76. Special regulations for drivers of public service vehicles. 77. Lost property. 78. Touting. 79. Attire of taxi driver. 80. Advertisement. 81. Refusal to hire motor vehicle. 82. (Repealed by LN 197/1999). 83. (Deleted by LN 34/2003). 84. Right to demand fare.
 PART X
 RESTRICTIONS RELATING TO
-}
-MOTOR OMNIBUSES
+} MOTOR OMNIBUSES
 85. Omnibus routes. 86. Routes to be specified on licence. 87. Special permits. 88. to (Repealed by LN 197/1999). 90. 91. Reconsideration of Licensing Authority's decision.
 PART XI
 RULES FOR PARKING OF VEHICLES
@@ -83,8 +82,10 @@ RULES FOR PARKING OF VEHICLES
 and public stands.
 93. Rules for parking of taxis. 94. Taxis leaving stands. 95. Parking of taxis. 96. Alignment of omnibuses. 97. Omnibuses leaving stands.
 ARRANGEMENT OF REGULATIONS-Continued
-} (Repealed by LN 197/1999). REGULATION
-98. Parking. 99. 100.
+} REGULATION
+98. Parking. 99.
+(Repealed by LN 197/1999).
+100.
 PART XII
 TRAFFIC LIGHT SIGNALS
 101. Licensing Authority to erect and maintain light signals. 102. Significance of light signals. 103. (Repealed by LN 197/1999). 104. "Cross" and "Don't Cross" Signals. 104A. Inoperative traffic lights.

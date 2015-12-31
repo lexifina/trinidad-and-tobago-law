@@ -7,7 +7,7 @@ PART B
 COUNTY OF MAYARO
 ROAD
 1. Naparima-Mayaro Road from its junction with Pierreville Village Street and extending in an easterly direction to a point 45 metres East of its junction with Manzanilla-Mayaro Road.
-*This Order has been amended by the following: 220/1980; 148/1983; 117/1984; 75/1985; 114/1985; 138/1986 and 184/1986.
+*This Order has been amended by the following: 220/1980; 148/1983; 117/1984; 75/1985;
 2. Manzanilla-Mayaro Road from its junction with Naparima-Mayaro Road and extending in a northerly direction for a distance of 45 metres.
 3. Peter Hill Trace from its junction with Naparima-Mayaro Road and extending in a northerly direction for a distance of 50 metres.
 4. Guayaguayare Road from its junction with Naparima-Mayaro Road and extending in a southerly direction to a point 10 metres South of the Mayaro Post Office.
