@@ -3,17 +3,29 @@ CHAPTER 33:01
 Act
 3 of 1962
 Amended by
-7 of 1965 143/1978 9 of 1965 18 of 1980 12 of 1969 *20 of 1981 6 of 1975 *24 of 1981 26 of 1976 43 of 1981 201/1976 55/1981 21 of 1977 18 of 1989 32 of 1978 39 of 2000
-38/1978 24 of 2005 *See Note on Amendment at page 2
+7 of 1965 18 of 1980 9 of 1965 *20 of 1981 12 of 1969
+*24 of 1981
+6 of 1975
+43 of 1981
+26 of 1976
+55/1981
+201/1976
+18 of 1989
+21 of 1977
+39 of 2000 32 of 1978 †24 of 2005 38/1978
+143/1978 †2 of 2015 *See Note on Amendment at page 2
+†See Note on page 2
 Index of Subsidiary Legislation
 Page Trinidad and Tobago Housing Development Corporation (Direct Loans)
-Regulations (GN 42/1969) ... 31 Interest Rate (Direct Loans) Notice (GN 35/1978) … … … 50 Soft Loans (Approved Agents) Order (GN 103/1977) … … … 51 Trinidad and Tobago Housing Development Corporation (Soft Loans)
-Regulations (GN 98/1977) ... 52 Interest Rate (Soft Loans) Notice (GN 34/1978)... 73
+Regulations (GN 42/1969) ... 32 Interest Rate (Direct Loans) Notice (GN 35/1978) … … … 51 Soft Loans (Approved Agents) Order (GN 103/1977) … … … 52 Trinidad and Tobago Housing Development Corporation (Soft Loans)
+Regulations (GN 98/1977) ... 53 Interest Rate (Soft Loans) Notice (GN 34/1978)... 74
 Note on Staff Provisions
 (See Chap. 24:01)
 Under section 3(2) of the Statutory Authorities Act (Chapter 24:01), the Trinidad and Tobago Housing Development Corporation has been declared a statutory authority subject to the provisions of that Act (See Chapter 24:01-Subsidiary Legislation). So long as this declaration remains in force, the provisions of this Act relating to staff must be read and construed accordingly.
 Note on Amendment
 This Act has been amended by Act No. 20 of 1981 and Act No. 24 of 1981 but Act No. 20 of 1981 and Act No. 24 of 1981 had not, up to the date of the last revision of this Act, been brought into operation.
+Note on Act No. 24 of 2005 and Act No. 2 of 2015-Part VIII
+Part VIII of this Act was repealed by Act No 24 of 2005 and subsequently replaced by Act No. 2 of 2015.
 CHAPTER 33:01
 HOUSING ACT
 ARRANGEMENT OF SECTIONS SECTION
@@ -57,7 +69,7 @@ PART VII
 HOME IMPROVEMENT LOANS
 52. Interpretation. 53. Home improvement loan guarantee. 54. Termination of operation of section 53. 55. Termination of liability for loans. 56. Amount of liability. 57. Limit on liability. 58. Regulations. 59. Offences and penalties. 60. Onus of proof. 61. Subrogation. 62. Evidence of receipt. 63. Home improvement insurance fund. 64. Approval of credit agencies.
 PART VIII
-(PART VIII Repealed by Act No. 24 of 2005).
+65. Regulations. 66. Validation.
 
 CHAPTER 33:01
 HOUSING ACT
