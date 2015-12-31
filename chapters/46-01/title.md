@@ -1,167 +1,119 @@
 CHILDREN ACT
 CHAPTER 46:01
 Act
-4 of 1925 Amended by 20 of 1936 45 of 1979
-15 of 1981 14 of 1939 17 of 1981 24 of 1946
-27 of 1986 44 of 1946
-18 of 1994
-6 of 1953
-19 of 1994* 40 of 1961
-28 of 1996 16 of 1962 68 of 2000* 136/1976 2 of 2002
-3 of 2007 20 of 1979
-*See Note on page 2
+12 of 2012
 Note on Subsidiary Legislation
 This Chapter contains no subsidiary legislation.
-Sitting of Juvenile Court
-For the sittings of the Juvenile Court under this Act, see GN 170/1979 and LN 91/1981.
-Maintenance Orders
-For Maintenance Orders under sections 13 and 65 of this Act see Schedule I, Item 6, to the Attachment of Earnings (Maintenance) Act (Ch. 45:52).
-Note on Act No. 19 of 1994
-Section 15 of Act No. 19 of 1994 provides as follows:
-15. The taking of a child or young person to a place of safety under
-"Validating of
-the Act or the making of an Order under the Act in respect of an offence acts done under
-repealed
-specified in a provision referred to in the Schedule to the Act which was
-provisions.
-repealed by the First Schedule to the Sexual Offences Act is not invalid by
-Ch. 11:28.
-reason solely of that repeal.".
-Note on Act No. 68 of 2000
-Act No. 68 of 2000 [i.e., the Children (Amendment) Act, 2000] has made substantial amendments to this Act, (i.e., the Children Act, Ch. 46:01) but Act No. 68 of 2000 had not, at the date of the revision of this Act, been proclaimed. Act No. 68 of 2000 is contained in an Appendix to this Act.
-Note on Adaptation
-Under paragraph 6 of the Second Schedule to the Law Revision Act (Ch. 3:03) the Commission amended certain references to public officers in this Chapter. The Minister's approval of the amendments was signified by LN 52/1980, but no marginal reference is made to this Notice where any such amendments is made in the text.
+Note on Commencement
+With the exception of sections 60(3) and (4), 64, 70, 72 and 73 this Act came into operation on 18th May 2015.
+Note on Schedule 3
+Schedule 3 to this Act has been omitted as all amendments made to the various pieces of legislation contained in that schedule have now been duly incorporated into the respective Acts.
 CHAPTER 46:01
 CHILDREN ACT
-ARRANGEMENT OF SECTIONS SECTION
-1. Short title. 2. Interpretation.
+ARRANGEMENT OF SECTIONS
+SECTION
 PART I
-PREVENTION OF CRUELTY TO CHILDREN
-AND YOUNG PERSONS
-3. Punishment for cruelty to children and young persons. Punishment to be increased if money accruable to offender on death
-of child.
-Interest in share. Policy of insurance proved by certified copy. Offence of cruelty.
-4. Suffocation of infants.
-OTHER OFFENCES IN RELATION TO
-CHILDREN AND YOUNG PERSONS
-5. Begging. 6. Exposing children to risk of burning. 7. Allowing children or young persons to be in brothels. 8. Causing, encouraging, or favouring seduction or prostitution of
-child or young person.
-9. Binding over persons having custody of child or young person.
-9A. Order for counselling.
-ARREST OF OFFENDERS AND PROVISION
-FOR SAFETY OF CHILDREN
-10. Power of arrest.
-Release on bail of persons arrested without warrant.
-11. Detention of child or young person in place of safety. Order pending hearing. Order pending enquiry.
-ARRANGEMENT OF SECTIONS-Continued SECTION
-11A. Child or young person to appear before Magistrate in eight days
-once taken to a place of safety.
-12. Disposal of child or young person by order of Court. No order if child has fit, legal guardian. Order, how made. Order void on acquittal. Discharge. Rules. Emigration. Orphanage.
-13. Maintenance and control of child or young person committed to care
-of any person under order of Court.
-Parent to contribute to maintenance. Payment of contributions. No contributions by parent pending trial. Attachment of pension or income.
-14. Religious persuasion of persons to whom child or young person
-is committed.
-Transfer order. Transfer if undertaking not observed.
-15. Care Order.
-EVIDENCE AND PROCEDURE
-16. Evidence of accused person. 17. Special power to take deposition. Preservation of deposition.
-18. Admission of deposition in evidence. 19. Children's evidence to be unsworn.
-19A. Cross-examination of child victim. 19B. Admissibility of video recorded evidence. 19C. Child witness to be called. 19D. Video recorded evidence treated as direct oral testimony. 19E. Interpretation. 19F. Rules of Court.
-20. Power to proceed in absence of child. SECTION
-21. Mode of charging offence and limitation of time. Different offences may be charged, but only one penalty inflicted. Limitation of time for prosecution. Continuous offence.
-SUPPLEMENTAL
-22. Right of parent, etc., to administer punishment. 23. Interpretation-"Fit person". Person liable for maintenance. Person who has charge of child. Person who has care of child.
+PRELIMINARY
+1. Short title and commencement. 2. Act inconsistent with Constitution. 3. Interpretation.
 PART II
-JUVENILE SMOKING
-24. Sale of tobacco to children. 25. Forfeiture of tobacco. 26. Automatic machines for sale of tobacco.
-26A. Vendor to display sign.
-27. Exemptions. 28. Application of Part II.
+PREVENTION OF CRUELTY TO CHILDREN
+4. Prevention of cruelty to children.
 PART III
-INDUSTRIAL SCHOOLS AND ORPHANAGES
-29. Interpretation of Part III. Managers of school.
-30. Government schools. 31. Appointment of Inspector. 32. Application of Act to certain schools and their inmates. 33. Land for site of school. Resumption of land.
-CERTIFICATION OF SCHOOLS
-34. Certification of schools. 35. Power of Minister to withdraw certificate.
-ARRANGEMENT OF SECTIONS-Continued
-SECTION
-36. Resignation of certificate by managers. 37. Effect of withdrawal or resignation of certificate. 38. Disposal of inmates on withdrawal or resignation of certificate. 39. Publication of grant, etc., of certificate.
-DUTIES AND POWERS OF MANAGERS
-40. Liabilities of managers. 41. Power to make Rules. 42. Approval of alterations, etc., of buildings.
-MODE OF SENDING OFFENDERS AND CHILDREN
-TO CERTIFIED SCHOOLS AND THEIR
-TREATMENT THEREIN
-43. Commitment of offenders between ten and sixteen years of age to
-Industrial Schools.
-44. Children liable to be sent to Orphanages. Detention of child under ten years in Orphanage. Child of ten or eleven years may be sent to Orphanage in lieu of
-Industrial School.
-Inability of parent to control child. Probation in lieu of detention order. Committal to care of relative.
-45. Committal of young person to care of relative or fit person in
-certain cases.
-46. In such cases, young persons may be placed under supervision of
-probation officer.
-47. Operation of order may be deferred. 48. Choice of school. 49. Conveyance to school. Detention order effective on transfer.
-50. Period of detention. 51. Provision as to religious persuasion. Presumption as to religious persuasion. Order to remove. Application within thirty days. SECTION
-52. When no school conducted according to religion of offender or child. 53. Exemption from religious instruction, etc. 54. Manager to submit notice claiming exemption to Inspector. 55. Inspector to report to Minister when exemption not observed. Minister on report may transfer offender.
-56. Placing out on licence. Forfeiture of licence. Revocation of licence. Escape. Licence period to be deemed part of time of detention. Parent may be summoned to produce child.
-57. Discharge and transfer. Transfer orders. Transfer for medical treatment. Failure to return to school.
-58. Re-committal to Industrial School. 59. Transfer from prison to an Industrial School. 60. Power to apprentice.
-OFFENCES IN RELATION TO CERTIFIED SCHOOLS
-AND APPRENTICES
-61. Refusal to conform to rules. 62. Escaping from Industrial School. Escaping from Orphanage.
-Period of escape not reckoned in period of detention.
-Detention beyond limitation period. Assisting to escape and harbouring, etc.
-63. Offences by apprentice. 64. Offences by masters.
-CONTRIBUTIONS BY PARENTS
-65. Contributions by parents. Order of Court. Variation of order. Order binding. Application to modify or rescind. Change of address of parent.
-ARRANGEMENT OF SECTIONS-Continued
-SECTION
-Remission of contributions. Contribution by person other than parent. Attachment of pension or income. Enforcement of payment of contributions.
-SUPPLEMENTAL PROVISIONS
-66. Power to send offenders conditionally pardoned to Industrial
-School.
-67. Persons in charge of youthful offenders to have powers of constable. 68. Orders and notices. 69. Rules respecting evidence of documents. 70. Rules. Approval by Parliament. Forms.
+OFFENCES IN RELATION TO BEGGING, RISK OF
+BURNING, FIREARMS AND AMMUNITION
+5. Begging. 6. Exposing children to risk of burning. 7. Injury or death by firearm or ammunition. 8. Giving, selling, lending or renting of a firearm or ammunition to a child.
 PART IV
-JUVENILE OFFENDERS
-71. Bail of children and young persons arrested. 72. Custody of children and young persons not discharged on bail
-after arrest.
-73. Association with adults during detention in Police Station. 74. Remand or committal to custody in place of detention. 75. Attendance before Magistrate of parent of child or young person
-charged with an offence, etc.
-Parent of arrested child to be warned to attend Court. Enforcing attendance of parent.
-No attendance if child removed from custody of parent.
-76. Power to order parent to pay fine, etc., instead of child or young person. Security for good behaviour of child. Order on parent without conviction of child. Order though parent fails to attend. Sums recoverable from parent by distress.
-77. Limitation of costs. 78. Restrictions on punishment of children and young persons. 79. Abolition of death sentence in case of person under eighteen. 80. Detention in case of certain crimes committed by children or
-young persons. SECTION
-81. Provisions as to discharge of children and young persons detained
-in accordance with directions of Minister.
-82. Substitution of custody in place of detention for imprisonment. 83. Methods of dealing with children and young persons charged
-with offences.
-84. Provision of places of detention. 85. Provisions as to custody of children and young persons in places
-of detention.
-86. Expenses of maintenance of child or young person. 87. Juvenile Courts.
+OFFENCE OF FEMALE GENITAL MUTILATION 9. Offence of female genital mutilation. 10. Offence of aiding and abetting, counselling or procuring a girl to
+engage in female genital mutilation.
 PART V
-RESTRICTIONS ON EMPLOYMENT OF
-YOUNG PERSONS
-88. Interpretation of Part V. 89. President may define industrial undertakings. 90. Restrictions on employment at night of persons under eighteen years. 91. Restrictions on employment of children under the age of sixteen years. 92. Employer to keep register of persons under the age of eighteen years.
-92A. Inspectors. 92B. Powers of entry. (Repealed by Act No. 3 of 2007). 93.
-94. Neglectful parent.
-94A. Liability of agent or employer. 94B. False certificate or representation of age.
-95. Presumption of age. 96. Penalties.
+ABUSE OF CHILDREN THROUGH PROSTITUTION 11. Allowing children to be in brothels. 12. Causing or encouraging the seduction, prostitution or sexual
+penetration of a child.
+13. Paying for sexual services of a child. 14. Causing or inciting prostitution. 15. Controlling a child prostitute.
+ARRANGEMENT OF SECTIONS-Continued SECTION
+16. Arranging or facilitating child prostitution. 17. Prostitution: definition.
 PART VI
-MISCELLANEOUS AND GENERAL
-97. Power to clear Court whilst child or young person is giving evidence
-in certain cases.
-98. Prohibition on children being present in Court during the trial of
-other persons. ARRANGEMENT OF SECTIONS-Continued SECTION
-99. Presumption and determination of age. Presumption of age. Charge or indictment not bad for misdescription. Defence of over age.
-100. Recovery of penalties. Procedure. Appeals.
-SCHEDULE. APPENDIX.
+OTHER SEXUAL OFFENCES
+18. Sexual penetration of a child. 19. Sexual touching of a child. 20. Decriminalising of sexual activity between children. 21. Causing or inciting a child to engage in sexual activity. 22. Causing or inciting a child to engage in sexual activity with an animal. 23. Engaging in sexual activity in the presence of a child. 24. Causing a child to watch a sexual act. 25. Meeting a child following sexual grooming. 26. Marriage exception with respect to section 18, 19 or 24. 27. Marriage exception with respect to section 23. 28. Proceedings with respect to marriage exceptions. 29. Abuse of positions of trust and familial relationships. 30. Persons in position of trust. 31. Position of trust: interpretation. 32. Familial relationships: interpretation. 33. Power of arrest.
+33A. Powers of constable with respect to child sex offenders.
+34. Order for the welfare of child victim.
+PART VII
+OFFENCES RELATING TO DANGEROUS DRUGS,
+TOBACCO AND ALCOHOL
+35. Exposing a child to a dangerous drug. 36. Giving a child a dangerous drug. 37. Use of a child to sell, buy or deliver a dangerous drug. 38. Constable reasonably believing a child to be in possession of
+tobacco or drinking alcohol.
+39. Part VII: interpretation. SECTION
+PART VIII
+CHILD PORNOGRAPHY
+40. Child pornography. 41. Exposing a child to pornography. 42. Inciting or facilitating child pornography. 43. Penalty for child offenders under Parts V, VI and VIII or the Sexual
+Offences Act, Ch. 11:28.
+44. Compensation for virtual complainant.
+PART IX
+PROVISIONS FOR THE SAFETY OF CHILDREN
+45. Taking a child to a place of safety. 46. Arrangements for child by order of Court. 47. Control of child placed in the care of a person. 48. Maintenance of child placed in the care of a person. 49. Religious persuasion of person with whom child is placed. 50. Court order to require the appearance of parent or guardian.
+PART X
+CHILD OFFENDERS
+51. Bail for children arrested.
+52. Custody of children not discharged on bail after arrest. 53. Association with adults during detention in Police Station. 54. Remand or committal to custody in a Community Residence. 55. Parent, guardian or person with responsibility for the child to attend
+Court proceedings.
+56. Power of Court to order parent, guardian or person with
+responsibility for the child to pay any fine, damages or costs instead of child where a child is charged.
+57. Power of the Court to call parent or guardian to show cause where a
+child is convicted.
+58. Limitation of costs. 59. Determination of sentence for child. 60. Restriction on punishment of children and substitution of custody in
+place of detention for imprisonment.
+ARRANGEMENT OF SECTIONS-Continued
+SECTION
+61. Inability of parent to control child. 62. Additional order under the Probation of Offenders Act, Ch. 13:51. 63. Conveyance to Community Residence and person conveying to have
+powers of a constable.
+64. Period of placement for a child between ten and under eighteen years. 65. Period of placement for a child under the age of ten years. 66. Temporary placement of child. 67. Licence period to be deemed part of time of placement. 68. Parent may be summoned to produce child. 69. Discharge. 70. Transfer orders. 71. Transfer for medical treatment. 72. Re-committal to Rehabilitation Centre. 73. Transfer from prison to a Rehabilitation Centre. 74. Power to send child offender to training. 75. Non-application of death sentence in case of person under eighteen
+years of age.
+76. Placement in case of certain crimes committed by children. 77. Provisions as to discharge of children placed in accordance with
+directions of the Court.
+78. Provisions as to csutody of children. 79. Court order may provide for the guardian or parent to have access to
+child, etc.
+80. Ministers to make Rules for Community Residences on the advice of
+the Authority.
+81. Juvenile Court and its proceedings.
+PART XI
+OFFENCES IN RELATION TO COMMUNITY
+RESIDENCES
+82. Refusal to conform to rules. 83. Escaping from Community Residence. 84. Period of escape not reckoned in period of placement. 85. Placement beyond limitation period. 86. Offence of assisting to escape and harbouring, etc. 87. Orders and notices. SECTION
+PART XII
+CHILDREN'S ATTORNEY
+88. Children's Attorney. 89. Children's Attorney may be engaged on contract. 90. Independence of Children's Attorney.
+PART XIII
+EVIDENCE AND PROCEDURES
+91. Special power to take deposition and record evidence, etc. 92. Admission of deposition and recorded evidence into evidence. 93. Admissibility of video recorded evidence of interview between an
+adult and a child.
+94. Cross-examination of child victim. 95. Child witness to be called. 96. Video recorded evidence treated as direct oral testimony. 97. Definition of "child" for the purposes of sections 93 to 96. 98. Unsworn evidence of a child in criminal proceedings. 99. Examination of child witnesses through an intermediary. 100. Power to proceed in absence of child. 101. Power to clear Court whilst child is giving evidence in certain cases. 102. Prohibition on children being present in Court during the trial of
+other persons.
+PART XIV
+EMPLOYMENT OF YOUNG PERSONS
+103. Interpretation. 104. President may define industrial undertakings. 105. Restrictions on employment of a child under the age of sixteen
+years.
+106. Disapplication of section 105. 107. Duty of employers to keep register of persons under the age of
+eighteen years.
+108. Inspectors. 109. Powers of entry.
+ARRANGEMENT OF SECTIONS-Continued
+SECTION
+110. Neglectful parent. 111. Liability of agent or employer. 112. False certificate of representation of age. 113. Presumption of age. 114. Penalty.
+PART XV
+MISCELLANEOUS
+115. Order of Court for counselling. 116. Proceedings to be with the consent of the Director of Public
+Prosecutions.
+117. Presumption and determination of age. 118. Application of Summary Courts Act. 119. Offences committed outside of the Republic of Trinidad and Tobago. 120. Application of Ch. 11:28.
+121. Inconsistency with other laws. 122. Repeal of Act No. 4 of 1925.
+SCHEDULE 1. SCHEDULE 2.
 
 CHAPTER 46:01
 CHILDREN ACT
-An Act relating to the protection of children and young
-persons, Industrial Schools and Orphanages, and juvenile offenders.
-[17TH MARCH 1925]
-- Margin: 1950 Ed. Ch. 4 No. 21.
-- Margin: 4 of 1925.
-- Margin: Commencement.
+An Act relating to the protection of children and for matters
+related thereto.
+*[ASSENTED TO 6TH AUGUST 2012]
+WHEREAS it is enacted by section 13(1) of the Constitution that an Act of Parliament to which that section applies may expressly declare that it shall have effect even though inconsistent with sections 4 and 5 of the Constitution and, if any Act does so declare, it shall have effect accordingly:
+And whereas it is provided by section 13(2) of the Constitution that an Act of Parliament to which that section applies is one the Bill for which has been passed by both Houses of Parliament and at the final vote thereon in each House has been supported by the votes of not less than three-fifths of all members of that House:
+And whereas it is necessary and expedient that the provisions of this Act shall have effect even though inconsistent with sections 4 and 5 of the Constitution:
+PART I
+PRELIMINARY
+- Margin: 12 of 2012.
+- Margin: Preamble.
