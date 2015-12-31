@@ -10,5 +10,4 @@ State offences (other than traffic offences) of which applicant has been convict
 Date...
 Signature of Applicant or Signature of
 Responsible Parent or Guardian
-Immigration Regulations
-- Margin: [Regulation 9(6)(b)].
+- Margin: Regulation 9(6)(b).

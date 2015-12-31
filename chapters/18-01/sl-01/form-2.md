@@ -11,5 +11,4 @@ Signed, sealed and delivered by the above-named in the presence of
 Signature of Witness ... Signature of Surety ...[L.S.]
 Address ... Address ...
 Occupation ... Occupation ...
-Immigration Regulations
-- Margin: [Regulations 9(1), 38(6)].
+- Margin: Regulations 9(1), 38(6).

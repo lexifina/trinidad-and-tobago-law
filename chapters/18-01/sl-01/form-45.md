@@ -7,5 +7,4 @@ Whereas an enquiry is being held by me into ... and whereas it appears to me tha
 Given under my hand this ... day of ... 20...
 ...
 Special Inquiry Officer
-Immigration Regulations
-- Margin: (Regulation 48). [47 of 1980].
+- Margin: Regulation 48. [47 of 1980].

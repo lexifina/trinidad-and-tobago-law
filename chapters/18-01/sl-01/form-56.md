@@ -14,5 +14,4 @@ Tobago ... 9. Reason for residence abroad ... 10. Certificate of exemption requi
 ... I declare that the foregoing particulars are true and correct.
 Date ...
 Signature of Applicant
-Immigration Regulations
-- Margin: [Regulation 40(1)].
+- Margin: Regulation 40(1).

@@ -17,5 +17,4 @@ WHEREAS I have been served with a Deportation Order, the service of which order 
 (Signature of Deportee)
 WITNESSED ...
 Signature of Immigration Officer
-Immigration Regulations
-- Margin: [Regulation 39(1)].
+- Margin: Regulation 39(1).

@@ -11,5 +11,4 @@ Dated this ... day of ... 20...
 Special Inquiry Officer
 WARNING
 Failure to comply with the terms of this Order or to observe any condition prescribed by the Chief Immigration Officer could result in the arrest and detention of the Respondent and the making of a deportation order against him.
-Immigration Regulations
-- Margin: (Regulation 49). [47 of 1980].
+- Margin: Regulation 49. [47 of 1980].

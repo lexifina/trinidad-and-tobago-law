@@ -9,7 +9,5 @@ Regulation 35 of the Immigration Regulations provides that the Minister, or any 
 Regulation 35 of the Immigration Regulations further provides that the master of a ship or commander of any aircraft shall, if so required by an immigration officer, take such steps as may be necessary for preventing any person placed on board the ship or aircraft under regulation 35 from disembarking from the ship or aircraft before it leaves Trinidad and Tobago and for that purpose the master or commander may detain the said person in custody on board the ship or aircraft.
 I accordingly require you to take such steps as may be necessary to prevent the said ... from disembarking from your ship/aircraft before it leaves the territory. For this purpose you may, if necessary detain him/her in custody.
 Date...
-Chief Immigration Officer
-To the Master, ss/m.v.
-Immigration Regulations
-- Margin: [Regulation 35(2)].
+Chief Immigration Officer To the Master, ss/m.v.
+- Margin: Regulation 35(2).

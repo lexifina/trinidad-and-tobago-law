@@ -1,4 +1,4 @@
 IMMIGRATION (WORK PERMIT
 EXEMPTION) ORDER
-made under section 10(14)
+made under regulation 10(14)
 - Margin: 142/1986.

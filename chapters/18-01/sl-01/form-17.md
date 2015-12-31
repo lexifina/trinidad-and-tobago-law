@@ -17,5 +17,4 @@ RENEWAL
 The period of validity of this permit is hereby extended to ... Date ...
 Minister
 *Delete where not applicable.
-Immigration Regulations
-- Margin: (Regulation 46).
+- Margin: Regulation 46.

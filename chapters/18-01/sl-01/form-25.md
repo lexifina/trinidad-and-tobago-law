@@ -9,5 +9,4 @@ To the Commissioner of Prisons/Police WHEREAS an examination or inquiry is to be
 ...
 Minister/Chief Immigration Officer/
 Special Inquiry Officer
-Immigration Regulations
-- Margin: (Regulation 44).
+- Margin: Regulation 44.
