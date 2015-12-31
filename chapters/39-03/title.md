@@ -3,7 +3,7 @@ PENSIONS ACT
 CHAPTER 39:03
 Act
 21 of 1963 Amended by
-5 of 1985 *9 of 1987 *19 of 1989 20 of 1997 17 of 2007 30 of 2007 *22 of 2008 *1 of 2009 *13 of 2010
+5 of 1985 *9 of 1987 *19 of 1989 20 of 1997 17 of 2007 30 of 2007 *22 of 2008 *1 of 2009 *13 of 2010 *2 of 2015
 *See Note on page 2
 Index of Subsidiary Legislation
 Page Assisted Secondary School Teachers' Pensions Regulations
@@ -16,6 +16,8 @@ Note on Act No. 1 of 2009
 Amendments made to section 11(1) by Act No. 1 of 2009 took effect from 1st October 2008.
 Note on Act No. 13 of 2010
 Amendments made to section 11(1) by Act No. 13 of 2010 took effect from 1st September 2010.
+Note on Act No. 2 of 2015
+Amendments made to section 11(1) by Act No. 2 of 2015 took effect from 1st October 2014. Payments made on or after and before that date have been validated by section 26.
 CHAPTER 39:03
 ASSISTED SECONDARY SCHOOL
 TEACHERS' PENSIONS ACT
