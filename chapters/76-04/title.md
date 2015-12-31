@@ -1,55 +1,53 @@
-LANDS AND BUILDINGS TAXES ACT
+PROPERTY TAX ACT
 CHAPTER 76:04
 Act
-14 of 1920 Amended by
-50 of 1920 32 of 1969 27 of 1921 41 of 1975 16 of 1932
-24 of 1981
-1 of 1936
-4/1985
-18 of 1947
-9 of 1990
-11 of 1948
-3 of 1994 34 of 1960 8 of 1996 29 of 1966
-18 of 1968 30 of 2007
+18 of 2009
+Amended by
+2 of 2015
 Note on Subsidiary Legislation
 This Chapter contains no subsidiary legislation.
-Note on Amendment
-Sections 8, 28 and 29 of this Act have been amended by Act No. 24 of 1981. However, Act No. 24 of 1981 had not, up to the date of the revision of this Act, been brought into operation.
-Note on Adaptation
-Under paragraph 6 of the Second Schedule to the Law Revision Act (Ch. 3:03) the Commission amended certain references to public officers in this Chapter. The Minister's approval of the amendments was signified by LN 120/1980, but no marginal reference is made to this Notice where any such amendment is made in the text.
-Note on Act No. 30 of 2007
-Section 2 of Act No. 30 of 2007 provides that the amendment to section 21 shall come into effect from August 21, 2007.
+Note on Commencement
+This Act took effect from 1st January 2010. (See section 2).
+Note on Repeals
+Sections 55, 56 and 57, respectively, of this Act repealed Part V of the Municipal Corporations Act Ch. 25:04, the Lands and Buildings Taxes Act No. 14 of 1920 and the Taxes Exemption Act No. 26 of 1902.
 CHAPTER 76:04
-LANDS AND BUILDINGS TAXES ACT
-ARRANGEMENT OF SECTIONS SECTION
-1. Short title. 2. Interpretation. 3. Tax to be raised on all lands and buildings. Exemptions.
-4. When taxes payable. 5. Returns by owners. 6. Returns by persons coming into possession. 7. Penalty in default of making true returns. 8. Assessment roll. 9. Mode of fixing annual taxable value. Assessment calculated from capital value.
-10. Power to make deductions. 11. Local situation of buildings. 12. Publication and duration of assessment roll. Amendment of roll.
-13. Signing and notice of assessment roll. Commencement.
-14. Notice to taxpayers. 15. Lands and buildings omitted from roll. Assessment of buildings erected after completion of asssessment roll. Proportionate rate. Notice to owner.
-16. Appeal against assessment. 17. District Revenue Officer to decide appeal. Appeal to Court of Appeal.
-18. Liability to tax. 19. Tenant may recover against landlord. Owner of mineral rights may recover against surface owner.
-20. Owner solely liable for payment of taxes. 21. Increase in case of default.
-21A. Waiver of certain liabilities.
-22. Power to distrain.
-ARRANGEMENT OF SECTIONS-Continued SECTION
-23. Distress and sale. 24. Power to follow goods of owner. 25. No goods to be taken at suit of any person save on payment of
-arrears of taxes due.
-26. Forfeiture of buildings. 27. Power to forfeit lands where tax is one year in arrear.
-Notice in Gazette as to forfeiture of lands.
-Issue of warrant of possession.
-28. Registration of warrant of forfeiture. 29. Facts recited in warrant conclusive. 30. Forfeited land. Price. Regrant. Compensation. 31. Lands and buildings unoccupied, etc., for five years may be
-forfeited.
-32. Procedure to obtain regrant.
-32A. Prosecution of offences.
-33. Change in person of Commissioner. 34. Minister may remit tax in case of fire. 35. Minister may enlarge time for doing of acts, etc. 36. Assaults, etc., on officers. 37. Computation of time. 38. Regulations. 39. Forms.
-FIRST SCHEDULE. SECOND SCHEDULE. THIRD SCHEDULE. FOURTH SCHEDULE.
+PROPERTY TAX ACT
+ARRANGEMENT OF SECTIONS
+SECTION
+PART I
+PRELIMINARY
+1. Short title. 2. Commencement. 3. Interpretation. 4. Act binds the State.
+PART II
+THE ASSESSMENT ROLL
+5. Preparation of Assessment Roll. 6. Contents of Assessment Roll. 7. Assessment Roll may be used as evidence. 8 Errors on Assessment Roll. 9. Land not on Assessment Roll liable to assessment.
+PART III
+ASSESSMENT OF PROPERTY TAXES
+10. Assessment of tax. 11. Amount of tax payable. 12. Valuation Roll to be used for assessment. 13. Calculation of annual taxable value. 14. Power to make deductions. 15. Owner of land liable to pay tax. 16. Exemption from taxation. 17. Notice of assessment. 18. Liability not affected by inaccurate or incomplete assessments,
+absence of assessments, errors of form or description.
+19. Land omitted from the Assessment Roll. 20. Refund on tax paid.
+ARRANGEMENT OF SECTIONS-Continued
+SECTION
+PART IV OBJECTIONS, RELIEF, REVALUATIONS AND APPEALS
+21. Objections to assessments. 22. Grounds for objections. 23. Deferral of tax. 24. Proof of necessity for relief. 25. Conditions for relief. 26. Board may vary or revoke authorisation. 27. Any period of deferment to cease on death of the owner. 28. False statements in applications for relief. 29. Appeals. 30. Variation or alteration to be entered in the Valuation Roll.
+PART V
+RECOVERY OF TAXES
+31. Payment of tax. 32. Unpaid tax a charge on land. 33. Date when tax due and payable. 34. Notice of penalties for non-payment of interest and forfeiture. 35. Liquidation of any arrears. 36. Notice of where tax assessed not paid. 37. Power to distrain. 38. Distress at the cost of the owner. 39. Goods for distress. 40. Distress other than by the Board. 41. Warrant for forfeiture. 42. Registration of warrant for forfeiture. 43. Registered warrant as evidence. 44. Forfeited land. 45. Land unoccupied for sixteen years. 46. Re-grant of land forfeited. 47. Prosecution for offences under this Act. SECTION
+48. Succession of Commissioner of State Lands. 49. Penalty for obstructing authorised agent.
+PART VI
+THIRD PARTY AGENCIES PAYMENTS
+50. Payments may be made through third parties. 51. Board may receive third party agencies payments.
+PART VII
+MISCELLANEOUS
+52. Minister may extend times prescribed by the Act.
+52A. Waiver of taxes.
+53. Regulations. 54. Transitional. 55. Repeal of Part V of Ch. 25:04. 56. Repeal of Act No. 14 of 1920. 57. Repeal of Act No. 26 of 1902.
+SCHEDULE I-Percentages for Annual Taxable Value. SCHEDULE II-Distress Warrant. SCHEDULE III-Warrant of Possession.
 
 CHAPTER 76:04
-LANDS AND BUILDINGS TAXES ACT
-An Act relating to taxes on Lands and Buildings outside the
-limits of the Municipal Areas.
-[30TH APRIL 1920]
-- Margin: 1950 Ed. Ch. 33 No. 7.
-- Margin: 14 of 1920.
-- Margin: Commencement.
+PROPERTY TAX ACT
+An Act to make provision for the assessment, rating and
+taxation of land and for matters incidental thereto.
+*[ASSENTED TO 31ST DECEMBER 2009]
+PART I
+PRELIMINARY
+- Margin: 18 of 2009.
