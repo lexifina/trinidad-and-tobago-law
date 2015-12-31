@@ -76,6 +76,7 @@ s-57.md
 s-58.md
 s-59.md
 s-60.md
+s-60A.md
 s-61.md
 s-62.md
 s-63.md

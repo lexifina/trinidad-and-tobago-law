@@ -4,11 +4,23 @@ Act
 27 of 1955 Amended by
 18 of 1984 12 of 1956
 4/1985 33 of 1956
-6 of 1991 17 of 1960 6 of 1993 2/1963 3 of 1994 21/1963 8 of 1996 13 of 1963 13 of 1997 1/19661 3 of 1998 2 of 1966 66 of 2000 11 of 1971 2 of 2002 28 of 1973 4 of 2014 45 of 1979 6 of 2014 44 of 1980
+6 of 1991 17 of 1960 6 of 1993
+2/1963
+3 of 1994
+21/1963
+8 of 1996
+13 of 1963
+13 of 1997
+1/19661
+3 of 1998
+2 of 1966
+66 of 2000
+11 of 1971 2 of 2002 28 of 1973 12 of 2012 45 of 1979 4 of 2014
+6 of 2014 44 of 1980
 Index of Subsidiary Legislation
 Page Liquor Licences Regulations (GN 195/1955) ... 58
 Note on Omissions
-Special Events Order made under section 47 of the Act have been omitted -See the Current Edition of the Consolidated Index of Acts and Subsidiary Legislation for references to these Orders.
+Special Events Order made under section 47C(2) of the Act are too numerous and have been omitted-See the Current Edition of the Consolidated Index of Acts and Subsidiary Legislation for references to those Orders made after 2004.
 Note on Delegation of Functions Orders
 See the following Legal Notices for Delegation of Functions Orders made with respect to section 18 of the Act:
 (a) LN 98/1956;
@@ -58,7 +70,9 @@ PART VI
 OFFENCES
 48. Selling intoxicating liquor without licence.
 Power of arrest. Selling for unlawful retail, etc.
-49. Unlawful purchase of spirits. 50. What spirits may be received by licensed person. 51. Certificate book. 52. Stock books to be kept by licensees. 53. Offences in respect of stock and certificate books. 54. Penalties for removal without certificate. 55. Fraudulent use of certificates. 56. Cancelling and delivering permits and certificates. 57. Hotel keepers to maintain register of the persons lodging at their hotel. 58. Gambling. 59. Power to prohibit the use or possession of certain substances. 60. Sale of intoxicating liquor to children. 61. Licensed person permitting disorder on premises. 62. Removal of disorderly person. 63. Closing premises in case of riot. 64. Wine retailer or wine merchant keeping spirits.
+49. Unlawful purchase of spirits. 50. What spirits may be received by licensed person. 51. Certificate book. 52. Stock books to be kept by licensees. 53. Offences in respect of stock and certificate books. 54. Penalties for removal without certificate. 55. Fraudulent use of certificates. 56. Cancelling and delivering permits and certificates. 57. Hotel keepers to maintain register of the persons lodging at their hotel. 58. Gambling. 59. Power to prohibit the use or possession of certain substances. 60. Sale of intoxicating liquor to children.
+60A. Use of a child to buy alcohol.
+61. Licensed person permitting disorder on premises. 62. Removal of disorderly person. 63. Closing premises in case of riot. 64. Wine retailer or wine merchant keeping spirits.
 ARRANGEMENT OF SECTIONS-Continued SECTION
 PART VII
 POWERS OF OFFICERS AND LICENSING
@@ -71,7 +85,7 @@ Liability of occupier for unauthorised sale.
 74. Penalties.
 PART IX
 GENERAL
-75. Signboards. 76. Persons licensed to make entry. 77. Soliciting or taking orders for goods, etc. 78. Exceptions. 79. Medicines. 80. Action to recover debts for intoxicating liquor. 81. Supply on premises compulsory. 82. Rewards. 83. Regulations and forms.
+75. Sign boards. 76. Persons licensed to make entry. 77. Soliciting or taking orders for goods, etc. 78. Exceptions. 79. Medicines. 80. Action to recover debts for intoxicating liquor. 81. Supply on premises compulsory. 82. Rewards. 83. Regulations and forms.
 83A. Regulations to give effect to section 21A.
 84. Duties may be altered by resolution. 85. Evidence to be on oath. 86. Refund of licensed duty. 87. Surrender of licence. FIRST SCHEDULE. SECOND SCHEDULE. THIRD SCHEDULE (Repealed by Act No. 18 of 1984).
 
