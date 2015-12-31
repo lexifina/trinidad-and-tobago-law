@@ -27,4 +27,4 @@ TEACHERS' PENSIONS REGULATIONS
 deemed to be made under section 4
 PART I
 PRELIMINARY
-- Margin: 22 of 1952. [31 of 1964 74/1966 5 of 1985 20 of 1997 55/2011].
+- Margin: 22 of 1952. [31 of 1964 74/1966 5 of 1985 20 of 1997 55/2011 287/2014].
