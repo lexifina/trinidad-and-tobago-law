@@ -35,8 +35,10 @@ and $500,000 course of conduct in
 imprisonment connection with, or for five (5) incidental to, the business
 years activities of a broker-dealer,
 an investment adviser, or an underwriter without said person being registered, or deemed registered with the Commission as contained in section 51(1)
-Up to 70(1) $1,000,000 Knowing or reckless-
-and $500,000
+70(1) $1,000,000 Knowing or reckless-
+Up to
+and
+$500,000
 Failure of a reporting issuer
 imprisonment
 to prepare, file and
@@ -92,8 +94,13 @@ imprisonment
 Issuers
 for two (2)
 years
-99 Up to Knowingly or recklessly $2,000,000
-conducting transactions to $500,000 and five (5) create a false or misleading years appearance of trading
+99 Knowingly or recklessly
+Up to $2,000,000
+conducting transactions to
+$500,000 and five (5)
+create a false or misleading
+years
+appearance of trading
 imprisonment
 activity as contained in section 91(1) Knowingly or recklessly conducting transactions to create an artificial price, or to maintain at a level that is an artificial price for a security as contained in section 91(2) and 91(3) Knowingly or recklessly conducting a transaction that does not involve a change in the beneficial ownership of securities with the intention of maintaining, increasing, reducing, stabilising, or causing fluctuations in the price of securities traded on a securities market as contained in section 92(a) Knowingly or recklessly conducting a fictitious or artificial transaction with the intention of maintaining, increasing, reducing, stabilising, or causing fluctuations in the price of securities traded on a securities market as contained in section 92(b)
 Criminal Administrative Section General Description of Offence
@@ -124,14 +131,16 @@ imprisonment
 trading as contained in section 96 Making unsuitable recommendations and failing to disclose conflicts or potential conflicts of interest as contained in section 98(1) Publishing a research report not intended for a specific client and which recommends a trade in security, without disclosing a conflict of interest, as contained in section 98(2). Failure by a broker-dealer 107(4) $500,000 and Up to to establish proper client imprisonment $500,000 accounts on behalf of any for two (2) person, other than another years broker-dealer, for the purchase or sale of securities, as contained in section 107(1) Withdrawal from client accounts by a broker-dealer, except for the purpose of making payment on behalf of, or to the person for whom it was established, as contained in section 107(2) Failure of a person $500,000 and Up to 138 connected to a reporting imprisonment $500,000 issuer to disclose beneficial for two (2) ownership of securities of years
 Criminal Administrative Section General Description of Offence
 Penalty Fine
-138 Up to the reporting issuer, as $500,000 and
+138 Up to $500,000 and the reporting issuer, as
 contained in section 136(1) $500,000 imprisonment
 for two (2)
 Failure of a person
 years
 connected to a reporting issuer to disclose changes in beneficial ownership of securities of the reporting issuer, after filing an initial report of beneficial ownership, as contained in section 136(2) *Transfer of securities of a reporting issuer held by a person connected to the reporting issuer to another person without filing a report with the Commission, as contained in section 136(3) Knowingly or recklessly making a false statement or filing a false report or failing to supply any particulars which are required to be supplied to the Commission pursuant to sections 136 and 137
-151 Up to Failure or refusal to attend
-$500,000 before the Commission or
+151 Failure or refusal to attend
+Up to
+before the Commission or
+$500,000
 failure or refusal to provide information to the Commission
 SCHEDULE-(Continued)
 OFFENCES IN RESPECT OF WHICH CRIMINAL LIABILITY MAY BE DISCHARGED BY PAYMENT OF
@@ -142,18 +151,12 @@ Up to Knowingly or recklessly $2,000,000 165(1)(a)
 $500,000 and five (5) makes a misrepresentation
 years in contravention of the Act
 imprisonment
-Up to $2,000,000 Carrying on business or 165(1)(c)
-$500,000 and
-activities as a self-regulatory
-imprisonment
-organisation without
-for five (5)
-registration with the
-years
-Commission as prescribed in section 36 of the Act Failure to file with the Commission a prospectus for a security that is to be traded and deemed a distribution
-Up to $500,000 and 165(2) Contravention of an order
-$500,000 Imprisonment
-of the Commission
+Carrying on business or 165(1)(c) Up to $2,000,000 activities as a self-regulatory $500,000 and organisation without imprisonment
+for five (5) registration with the
+years Commission as
+prescribed in section 36 of the Act Failure to file with the Commission a prospectus for a security that is to be traded and deemed a distribution
+Contravention of an order Up to $500,000 and 165(2)
+$500,000 Imprisonment of the Commission
 for two (2)
 years
 - Margin: [9 of 2014].

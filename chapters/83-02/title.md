@@ -5,8 +5,11 @@ Act
 Amended by
 9 of 2014
 *See Note on page 2
+Index of Subsidiary Legislation
+Page
+Securities (General) Bye-Laws (LN 41/2015) ... 195
 Note on Subsidiary Legislation
-This Chapter contains subsidiary legislation enacted under Act No. 32 of 1995, which has been saved by Act No. 17 of 2012 and is attached as an Appendix to this Act.
+This Chapter also contains subsidiary legislation enacted under Act No. 32 of 1995, which has been saved by Act No. 17 of 2012 and is attached as an Appendix to this Act.
 Note on Consequential Amendments
 Section 172 of this Act (No. 17 of 2012) amended both the Proceeds of Crime Act (Ch. 11:27) and the Financial Institutions Act (Ch. 79:09). These amendments have been duly incorporated into the respective Acts and section 172 deleted accordingly.
 CHAPTER 83:02
@@ -99,7 +102,7 @@ DIVISION 8-OFFENCES
 PART XII
 REPEAL AND TRANSITIONAL PROVISIONS
 170. Transitional provisions. 171. Act No. 32 of 1995 repealed.
-SCHEDULE. APPENDIX.
+SCHEDULE.
 
 CHAPTER 83:02
 SECURITIES ACT
