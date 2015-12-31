@@ -10,14 +10,14 @@ ORGANISATION AND STRUCTURE OF
 THE TEACHING SERVICE
 4. (Revoked by LN 75/1981). 5. Requirement for posts in the Teaching Service.
 PART III
-RECRUITMENT APPOINTMENTS
+RECRUITMENT
+APPOINTMENTS
 6. Maximum age of recruitment. 7. Vacancies to be filled normally by citizens. 8. Date of appointment. 9. Medical examination. 10. Re-employment of pensioners.
 PROBATIONARY APPOINTMENTS AND SECONDMENTS
 11. First appointment. 12. Probation on promotion. 13. Secondments.
 PART IV
 PAYMENT, PENSIONS AND GRATUITIES
 14. Pensions and gratuities. 15. Priority to be given to computation of pensions and gratuities.
-Education (Teaching Service) Regulations
 ARRANGEMENT OF REGULATIONS-Continued
 REGULATION
 CERTIFICATES OF SERVICE AND TESTIMONIALS 16. Testimonials, references, etc.
@@ -32,9 +32,7 @@ INCREMENTS
 PART VI
 ALLOWANCES, LEAVE, ETC.
 SEPARATION ALLOWANCE
-31. Definition of "separated". 32. Definition of "family". 33. Conditions of payment of separation allowances. 34. Claims for temporary separation allowance. 35. Hardship. 36. Duration of allowance.
-Education (Teaching Service) Regulations
-REGULATION
+31. Definition of "separated". 32. Definition of "family". 33. Conditions of payment of separation allowances. 34. Claims for temporary separation allowance. 35. Hardship. 36. Duration of allowance. REGULATION
 SPECIAL TRAVEL ALLOWANCES
 37. Allowances for temporary teachers. 38. Teachers travelling abroad. 39. Power of Ministry of Finance. 40. Clothing allowance. 41. Subsistence. 42. Travelling expenses.
 42A. Allowance for teaching in remote areas.
@@ -51,7 +49,6 @@ RESIGNATION
 PART VII
 QUARTERS
 54. Quarters for teachers. 55. Rent. 56. Competent authority for allocating quarters. 57. Provision for teachers on transfer. 58. Care of quarters. 59. Damage, etc., to quarters. 60. Telephones in Government quarters. 61. Payment of dues of staff Association by salary deduction.
-Education (Teaching Service) Regulations
 ARRANGEMENT OF REGULATIONS-Continued
 REGULATION
 PART VIII

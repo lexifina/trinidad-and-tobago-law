@@ -13,37 +13,9 @@ The Certificate is effective from the ... day of ... 20...
 ...
 Chairman
 ...
-Secretary
-Teaching Service (Certification of Recognition) Regulations
-REMARKS
+Secretary [Subsidiary]
 TEACHING SERVICE (CERTIFICATION OF RECOGNITION) REGULATIONS-RECORD OF CERTIFICATION
-VARIATION OF BARGAINING
-DATE OF
-UNIT
-OF BARGAINING
-VARIATION
-UNIT
-ASSOCIATION AND CERTIFICATION AS
-RELEVANT DATE APPROPRIATE RECOGNISED
-DATE OF
-BARGAINING UNIT AND NUMBER OF PERSONS
-IN DETERMINED
-RELEVANT
-DATE
-FORM 3
-AS DETERMINED BY
-BARGAINING UNIT DESCRIPTION OF
-APPROPRIATE THE BOARD
-EMPLOYER
-PARTIES
-ASSOCIATION
-CLAIMANT
-APPLICATION
-DATE OF
-NUMBER
-FILE
-CERTIFICATE
-NUMBER EDUCATION (LOCAL SCHOOL BOARD) REGULATIONS
+FORM 3 EDUCATION (LOCAL SCHOOL BOARD) REGULATIONS
 ARRANGEMENT OF REGULATIONS REGULATION
 PART I
 PRELIMINARY
@@ -74,7 +46,6 @@ the following persons:
 other than the principal;
 (ii) a member of the union most
 representative of teachers nominated by the union who is a practising member of the school's staff;
-Education (Local School Board) Regulations
 (iii) two members of the majority Parent
 Teacher Organisation functioning and existing at the School, nominated by the members of the Organisation;
 (iv) a representative of the Past Pupils'
@@ -89,7 +60,6 @@ as he deems necessary after consultation with the relevant interest groups and s
 5. (1) Where a member, by reason of illness or otherwise, is unable to perform his function as a member of the Board, the Minister may by Order, appoint another person to act as a temporary member during the period of absence not exceeding three months.
 (2) The member chosen as the temporary substitute under subregulation (1) shall be selected from the same category outlined in regulation 3 under which the absentee was appointed.
 (3) Where the period of absence under subregulation (1) exceeds three months, a vacancy in accordance with regulation 6 shall arise.
-Education (Local School Board) Regulations
 (4) The Minister on the advice of a majority of the members of the Board may revoke the appointment of a member.
 6. Where a vacancy arises in the membership of the Board, the Minister after consultation with the relevant interest groups and stakeholders, may appoint a person to be a member to fill that vacancy for the unexpired portion of the term of the Board.
 7. Subject to these Regulations, a Board may regulate its own procedures for the conduct of its business.
@@ -105,7 +75,6 @@ current financial year.
 10. (1) The Chairman shall cause to be issued notices to all members for an extraordinary meeting of the Board, within seven days of receiving a request, in writing, signed by no fewer than six members of the Board to do so.
 (2) A request for an extraordinary meeting shall include specific indication of the purpose of the meeting.
 11. (1) The Chairman on giving twenty-four hours written notice to all members, may call an emergency meeting.
-Education (Local School Board) Regulations
 (2) The notice referred to in subregulation (1), shall indicate the nature of the emergency to be discussed.
 12. (1) At any meeting of the Board, a quorum is constituted of five members who are present.
 (2) Unless for good cause, the Principal shall attend all meetings of the Board.
@@ -118,7 +87,6 @@ Education (Local School Board) Regulations
 14. (1) A member of a Board who is in any way, whether directly or indirectly, interested in a contract under consideration by the Board, shall at the first practicable opportunity declare his interest and those of his immediate family and remove himself from any decision-making process with respect to such contract.
 (2) A declaration referred to in subregulation (1) shall be recorded in the minutes.
 (3) Where a member does not declare his interest, the Minister shall revoke his appointment.
-Education (Local School Board) Regulations
 15. A decision of the Board may be rescinded or varied by the Board at a meeting subsequent to that at which the original decision was ratified and recorded in the minutes where there is a change in circumstances or fresh evidence which affects the original decision.
 16. (1) The Board shall appoint, from outside its membership, a recording secretary who shall be paid a stipend to be approved by the Permanent Secretary of the Ministry.
 (2) The recording secretary shall keep minutes of each meeting in proper form and shall lodge them in the Principal's office together with all the correspondence of the Board.
@@ -133,7 +101,6 @@ DUTIES AND POWERS OF THE BOARD
 school plant;
 (b) in the conduct of an operational and
 environmental audit of the activities of the school;
-Education (Local School Board) Regulations
 (c) in the development and implementation of
 school improvement plans;
 (d) by receiving information, complaints and
@@ -158,7 +125,6 @@ for capital improvement and the upgrading of plant and equipment;
 maintenance programme for the plant and equipment of the school;
 (n) in the development and implementation of plans
 to improve the security of the school;
-Education (Local School Board) Regulations
 (o) by promoting fund-raising activities on behalf
 of the school and controlling the expenditure of funds so raised;
 (p) by making recommendations for the better
@@ -169,7 +135,18 @@ school; and
 benefit of the school.
 (2) The Board may make Rules for and in relation to the matters specified in subregulation (1).
 - Margin: Regulation 8.
-- Margin: [Subsidiary]
+- Margin: REMARKS
+- Margin: VARIATION OF BARGAINING DATE OF UNIT
+- Margin: OF BARGAINING VARIATION UNIT
+- Margin: ASSOCIATION AND CERTIFICATION AS RELEVANT DATE APPROPRIATE RECOGNISED DATE OF
+- Margin: BARGAINING UNIT AND NUMBER OF PERSONS IN DETERMINED RELEVANT DATE
+- Margin: AS DETERMINED BY BARGAINING UNIT DESCRIPTION OF APPROPRIATE THE BOARD
+- Margin: EMPLOYER
+- Margin: PARTIES
+- Margin: ASSOCIATION CLAIMANT
+- Margin: APPLICATION DATE OF
+- Margin: NUMBER FILE
+- Margin: CERTIFICATE NUMBER
 - Margin: [Subsidiary]
 - Margin: [Subsidiary]
 - Margin: 112/2001. [104/2005 105/2005].
