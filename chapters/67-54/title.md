@@ -11,8 +11,8 @@ Amended by
 3 of 1974
 21 of 1990
 3 of 1994
-*32 of 2000
+*11 of 2013
 *See Note on page 2
 Index of Subsidiary Legislation
-Page Dogs Regulations (G. 11.12.1930) ... 13
+Page Dogs Regulations (G. 11.12.1930) ... 12
 Note on Adaptation
