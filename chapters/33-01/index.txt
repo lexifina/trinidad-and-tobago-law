@@ -52,6 +52,8 @@ s-61.md
 s-62.md
 s-63.md
 s-64.md
+s-65.md
+s-66.md
 sl-01/title.md
 sl-01/r-1.md
 sl-01/r-2.md
