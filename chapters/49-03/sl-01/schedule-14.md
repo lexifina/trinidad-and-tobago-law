@@ -325,18 +325,18 @@ ICAO LANGUAGE PROFICIENCY RATING SCALE
 LEVELS 4, 5 AND 6
 Proficiency Level 4 Level 5 Level 6
 Parameters Operational Extended Expert
-Interaction … Responses are Responses are Interacts with ease
-usually immediate, i m m e d i a t e , in nearly all appropriate and
+Interaction … Responses are Responses are Interacts with
+usually immediate, i m m e d i a t e , ease in nearly all appropriate and
 appropriate and situations. Is
 i n f o r m a t i v e .
-i n f o r m a t i v e . sensitive to verbal
+i n f o r m a t i v e . sensitive to
 Initiates and
-M a n a g e s t h e and non-verbal cues
+M a n a g e s t h e verbal and non-
 m a i n t a i n s
-speaker/listener and responds to
+speaker/listener verbal cues and
 exchanges even
-r e l a t i o n s h i p them appropriately. when dealing with
-an unexpected effectively. turn of events. Deals adequately with apparent misunderstanding by checking, confirming, or clarifying.
+r e l a t i o n s h i p responds to them when dealing with
+an unexpected turn effectively. appropriately. of events. Deals adequately with a p p a r e n t misunderstanding by checking, confirming, or clarifying.
 Note: Levels 4, 5 and 6 describe language proficiency levels that meet the ICAO language
 proficiency requirements for aeronautical radio-telephony communication with Level 4 being rating acceptable for aeronautical radio-telephony communication.
 Regulation 194(2)
@@ -376,13 +376,17 @@ transport operations.
 transport operations.
 64. Simulated abnormal situations in flight for commercial air
 transport operations.
-65. Completion of technical logbook for commercial air transport operations. 66. Reporting mechanical irregularities. 67. General reporting procedures for occurrences. 68. Reporting procedures for accidents and serious incidents. 69. Reporting procedures for Air Traffic incidents. 70. Procedures for reporting Airborne Collision Avoidance System Advisory. 71. Procedures for reporting bird hazards and strikes. REGULATION
+65. Completion of technical logbook for commercial air transport
+operations.
+66. Reporting mechanical irregularities. 67. General reporting procedures for occurrences. 68. Reporting procedures for accidents and serious incidents. 69. Reporting procedures for Air Traffic incidents. 70. Procedures for reporting Airborne Collision Avoidance System Advisory. 71. Procedures for reporting bird hazards and strikes. REGULATION
 72. Procedures for reporting in-flight emergency. 73. Procedures for reporting unlawful interference. 74. Procedures for reporting potentially hazardous conditions. 75. Operation of cockpit voice and flight data recorder. 76. Requirements for minimum supply and use of oxygen. 77. Restrictions on use of portable electronic devices.
 PART V
 FLIGHT PLANNING AND SUPERVISION
 78. Submission of flight plan. 79. Air traffic control flight plan for commercial air transport
 operations.
-80. Contents of a flight plan. 81. Requirements for planned re-clearance. 82. Procedures where there are changes to a flight plan. 83. Procedures for closing a flight plan. 84. Requirements for aircraft airworthiness and safety precautions. 85. Requirement for adequacy of operating facilities. 86. Pilot in command to be familiar with meteorological information. 87. Weather limitations for Visual Flight Rules flights. 88. Instrument Flight Rules, destination aerodrome requirements. 89. Instrument Flight Rules destination alternate requirements. 90. Instrument Flight Rules, alternate aerodome selection criteria. 91. Reqirements for off-shore alternates for helicopter operations. 92. Take-off alternate aerodromes for commercial air transport operations. 93. Maximum distance from an adequate aerodrome for two-engine
+80. Contents of a flight plan. 81. Requirements for planned re-clearance. 82. Procedures where there are changes to a flight plan. 83. Procedures for closing a flight plan. 84. Requirements for aircraft airworthiness and safety precautions. 85. Requirement for adequacy of operating facilities. 86. Pilot in command to be familiar with meteorological information. 87. Weather limitations for Visual Flight Rules flights. 88. Instrument Flight Rules, destination aerodrome requirements. 89. Instrument Flight Rules destination alternate requirements. 90. Instrument Flight Rules, alternate aerodome selection criteria. 91. Reqirements for off-shore alternates for helicopter operations. 92. Take-off alternate aerodromes for commercial air transport
+operations.
+93. Maximum distance from an adequate aerodrome for two-engine
 aeroplanes without an extended range operations approval.
 94. Extended range operations with two-engine aeroplane. 95. Requirements for en route alternate aerodromes for extended
 range operations.
@@ -391,7 +395,9 @@ ARRANGEMENT OF REGULATIONS-Continued
 REGULATION
 98. Fuel supply requirement for Instrument Flight Rules flight. 99. Requirements for flight planning document distribution and
 retention for commercial air transport operations.
-100. Requirements for aircraft loading, mass and balance. 101. Allowable weights on all load manifests. 102. Requirement for flight release for commercial air transport operations. 103. Requirements for operational flight plan for commercial air
+100. Requirements for aircraft loading, mass and balance. 101. Allowable weights on all load manifests. 102. Requirement for flight release for commercial air transport
+operations.
+103. Requirements for operational flight plan for commercial air
 transport operations.
 104. Requirement to keep records of emergency and survival equipment
 for commercial air transport operations.
@@ -403,46 +409,55 @@ air transport.
 111. Prohibitions on the use of single-engine aircraft. 112. Required mass limitations for aeroplanes. 113. Aircraft performance calculations. 114. Commercial air transport operations take-off limitations. 115. En route limitations with all engines operating. 116. En route limitations where one engine is inoperative. 117. En route limitations where two engines of an aeroplance are inoperative. 118. Aircraft landing limitations. 118A. Additional requirements for operations of a single-engine turbined-
 powered aircraft, etc.
 118B. Additional requirements for operations of helicopters in performance
-Class 3 in Instrument Meteorological Conditions, except special REGULATION
-Visual Flight Rules flight.
+Class 3 in Instrument Meteorological Conditions, except special Visual Flight Rules flight. REGULATION
 PART VII
 FLIGHT RULES
 119. Applicability. 120. General flight rules requirements. 121. Restrictions on the operation of aircraft on the ground. 122. Required take-off conditions. 123. Requirements and restrictions where flight into known or
 expected icing.
 124. Cruising levels with altimeter settings. 125. General minimum safe altitudes. 126. Minimum safe Visual Flight Rules Altitudes for commercial air
 transport operations.
-127. Aerodrome operating minima. 128. Required threshold crossing height for precision approaches. 129. Instrument approach operating minima requirements. 130. General operating rules for Category II and Category III operations. 131. Requirements for Category II and Category III manual. 132. Procedures to be followed where a diversion decision is to be made. 133. Procedures to be used for formation flight. 134. General right-of-way rules. 135. Right-of-way Rules for water operations. 136. Requirements for the use of aircraft lights. 137. Requirements for simulated instrument flight. 138. Requirements for in-flight simulation of abnormal situations. 139. Restrictions on dropping, spraying and towing. 140. Restrictions on aerobatic flight. 141. Restrictions on where flight test is conducted. 142. Restrictions on the use of an aircraft in a prohibited or restricted area. 143. Restrictions on operations in Minimum Navigation Performance
-ARRANGEMENT OF REGULATIONS-Continued
-REGULATION
-Specification or Reduced Vertical Separation Minimum. 143A. Approved operation in vertical separation minimum airspace.
-144. Requirements where operations are conducted on or in the vicinity
-of an uncontrolled aerodrome.
-145. Required altitudes for turbojet, turbofan or large aircraft on entering
-aerodrome traffic pattern.
-146. Compliance with visual and electronic glide slopes. 147. Restriction or suspension of operations for commercial air transport
+127. Aerodrome operating minima. 128. Required threshold crossing height for precision approaches. 129. Instrument approach operating minima requirements. 130. General operating rules for Category II and Category III
 operations.
-148. Continuation of flight in commercial air transport when destination
-aerodrome is temporarily restricted.
+131. Requirements for Category II and Category III manual. 132. Procedures to be followed where a diversion decision is to be
+made.
+133. Procedures to be used for formation flight. 134. General right-of-way rules. 135. Right-of-way Rules for water operations. 136. Requirements for the use of aircraft lights. 137. Requirements for simulated instrument flight. 138. Requirements for in-flight simulation of abnormal situations. 139. Restrictions on dropping, spraying and towing. 140. Restrictions on aerobatic flight. 141. Restrictions on where flight test is conducted. 142. Restrictions on the use of an aircraft in a prohibited or
+restricted area.
+143. Restrictions on operations in Minimum Navigation Performance
+Specification or Reduced Vertical Separation Minimum.
+ARRANGEMENT OF REGULATIONS-Continued
+REGULATION 143A. Approved operation in vertical separation minimum airspace.
+144. Requirements where operations are conducted on or in the
+vicinity of an uncontrolled aerodrome.
+145. Required altitudes for turbojet, turbofan or large aircraft on
+entering aerodrome traffic pattern.
+146. Compliance with visual and electronic glide slopes. 147. Restriction or suspension of operations for commercial air
+transport operations.
+148. Continuation of flight in commercial air transport when
+destination aerodrome is temporarily restricted.
 149. Requirements where interception occurs. 150. Requirements for Air Traffic Control clearances. 151. Requirement to adhere to Air Traffic Control clearances. 152. Communication requirements. 153. Pilot in command to fly along assigned route. 154. Procedures where inadvertent changes occur. 155. Procedures where there are intended changes for Air Traffic
 Control clearance.
-156. Requirements for position reports. 157. Procedures where operations are conducted on or in the vicinity of a
-controlled aerodrome.
-158. Procedures where there has been unlawful interference on board
-an aircraft.
+156. Requirements for position reports. 157. Procedures where operations are conducted on or in the
+vicinity of a controlled aerodrome.
+158. Procedures where there has been unlawful interference on
+board an aircraft.
 159. Time check requirements. 160. Universal signals requirements. 160A. Technical and servicing communication signals.
-161. Visual Flight Rules and navigation requirements. 162. Restrictions on operations under Visual Meteorological conditions. 163. Visual Flight Rules weather minimums for take-off and landing. 164. Special Visual Flight Rules Operations. 165. Visual Flight Rules Cruising Altitudes. REGULATION
+161. Visual Flight Rules and navigation requirements. 162. Restrictions on operations under Visual Meteorological
+conditions.
+163. Visual Flight Rules weather minimums for take-off and landing. 164. Special Visual Flight Rules Operations. 165. Visual Flight Rules Cruising Altitudes. REGULATION
 166. Requirement to comply with Air Traffic Control clearances for
 Visual Flight Rules flights.
-167. Requirement to have Air Traffic Control Authorisation for Visual
-Flight Rules flights.
+167. Requirement to have Air Traffic Control Authorisation for
+Visual Flight Rules flights.
 168. Procedure where there is weather deterioration below Visual
 Meteorological Conditions.
-169. Changing from Visual Flight Rules to Instrument Flight Rules. 170. Two-way radio communication failure in Visual Flight Rules. 171. Restrictions on Instrument Flight Rules flights in controlled airspace. 172. Procedures for Instrument Flight Rules flights outside controlled
+169. Changing from Visual Flight Rules to Instrument Flight Rules. 170. Two-way radio communication failure in Visual Flight Rules. 171. Restrictions on Instrument Flight Rules flights in controlled
 airspace.
+172. Procedures for Instrument Flight Rules flights outside
+controlled airspace.
 173. Procedures for Instrument Flight Rules take-off minima for
 commercial air transport.
-174. Restrictions on take-off or landing under Instrument Flight Rules
-Operations.
+174. Restrictions on take-off or landing under Instrument Flight
+Rules Operations.
 175. Minimum altitudes for use of an autopilot. 176. Instrument Flight Rules, Cruising Altitude or flight level in
 controlled airspace.
 177. Instrument Flight Rules, Cruising Altitude or flight level in
@@ -473,7 +488,9 @@ air transport operations.
 217. Requirement for seat backs to be upright prior to take-off and landing. 218. Restrictions of movement in respect of stowage of food and beverage. 219. Requirements to secure items of mass in passenger compartment.
 PART IX
 CREW MEMBER AND FLIGHT OPERATIONS OFFICER QUALIFICATIONS FOR COMMERCIAL AIR TRANSPORT
-220. Applicability of Part IX. 221. Age and special medical certificate restriction. 222. Pilot in command requirements for turbojet, turbofan or large aircraft. 223. Pilot in command requirements for non-turbojet or non-turbofan. 224. Aeronautical Experience Requirements for Pilot in Command in
+220. Applicability of Part IX. 221. Age and special medical certificate restriction. 222. Pilot in command requirements for turbojet, turbofan or large
+aircraft.
+223. Pilot in command requirements for non-turbojet or non-turbofan. 224. Aeronautical Experience Requirements for Pilot in Command in
 respect of small aeroplanes. 224A. Pilot operations under the Instruments Flight Rules or at night.
 225. Co-pilot licence requirements. 226. Flight Engineer licence requirements. 227. Requirements for Flight Engineer competency. 228. Requirements for Flight Operations Officer. 229. Requirement for crew member or Flight Operations Officer to
 complete Company Procedures Indoctrination.

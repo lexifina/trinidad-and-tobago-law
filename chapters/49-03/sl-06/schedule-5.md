@@ -682,8 +682,7 @@ FLIGHT AND NAVIGATIONAL INSTRUMENTS
 Performance Specifications airspace.
 PART III
 COMMUNICATION EQUIPMENT
-14. General applicability of Part III. 15. Radio equipment requirements. REGULATION
-16. Crew member interphone system.
+14. General applicability of Part III. 15. Radio equipment requirements. 16. Crew member interphone system. REGULATION
 PART IV
 AIRCRAFT LIGHTS AND INSTRUMENT ILLUMINATION
 17. Applicability of Part IV. 18. Aircraft lights and instrument illumination.
@@ -695,12 +694,11 @@ WARNING INSTRUMENTS AND SYSTEMS
 21. Applicability of Part VI. 22. Mach number indicator. 23. Loss of pressurisation indicator. 24. Landing gear aural warning device. 25. Altitude alterting system. 26. Ground proximity award warning visual system. 27. Airborne weather radar equipment.
 PART VII
 FLIGHT RECORDERS
-28. Applicability of Part VII. 29. Flight Recorders General. 33.} 30. Flight Recorders for Aeroplane engaged in Commercial Air
+28. Applicability of Part VII. 29. Flight Recorders General. 35.} 30. Flight Recorders for Aeroplane engaged in Commercial Air
 Transport Operations.
 31. Flight Recorders for Aeroplane not engaged in Commercial Air
 Transport Operations.
-32. Flight Recorders for helicopters.
-Repealed by LN No. 194/2011.
+32. Flight Recorders for helicopters. 33. 34. Repealed by LN No. 194/2011.
 - Margin: Regulation 37. [305/2004 227/2005].
 - Margin: Sub. Leg.
 - Margin: Sub. Leg.
