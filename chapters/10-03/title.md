@@ -1,23 +1,24 @@
 PRAEDIAL LARCENY PREVENTION ACT
 CHAPTER 10:03
 Act
-12 of 1963 Amended by 19 of 1970 36 of 1976 45 of 1979 21 of 1990 8 of 1992 56 of 2000
+12 of 1963 Amended by 19 of 1970 36 of 1976 45 of 1979 21 of 1990 8 of 1992 56 of 2000 2 of 2015
 Note on Subsidiary Legislation
 This Chapter contains no subsidiary legislation.
 Note on Adaptation
-Under paragraph 6 of the Second Schedule to the Law Revision Act (Chap. 3:03) the Commission amended certain references to public officers in this Chapter. The Minister's approval of the amendments was signified by LN 120/1980, but no marginal reference is made to this Notice where any such amendment is made in the text.
+Under paragraph 6 of the Second Schedule to the Law Revision Act (Ch. 3:03) the Commission amended certain references to public officers in this Chapter. The Minister's approval of the amendments was signified by LN 120/1980, but no marginal reference is made to this Notice where any such amendment is made in the text.
 CHAPTER 10:03
 PRAEDIAL LARCENY PREVENTION ACT
 ARRANGEMENT OF SECTIONS SECTION
 1. Short title. 2. Interpretation.
 2A. Establishment of Praedial Larceny Squad.
 3. Registration as a seller of agricultural produce or livestock.
-3A. Memorandum of sale or delivery for agricultural produce or livestock. 3B. Power to stop and search any person carrying agricultural produce or
+3A. Memorandum of sale or delivery for agricultural produce or
+livestock.
+3B. Power to stop and search any person carrying agricultural produce or
 livestock, etc.
 4. Conveying produce of several persons. 5. Power to arrest without warrant. 6. Power to stop and examine. 7. Power to require production of memorandum of sale or delivery or
 other proof of ownership.
-8. Power to arrest and seize. 9. Charging and trial of suspected persons.
-10. Escape, etc., of suspected person. 11. Search warrant. 12. Trial of persons brought before Magistrate under section 11. 13. Tracing possession.
+8. Power to arrest and seize. 9. Charging and trial of suspected persons. 10. Escape, etc., of suspected person. 11. Search warrant. 12. Trial of persons brought before Magistrate under section 11. 13. Tracing possession.
 13A. Orders before conviction. 13B. Taking of photographs of agricultural produce, etc.
 14. Forfeiture and sale after conviction. 15. Restitution.
 15A. Supervision order.

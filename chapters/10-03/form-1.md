@@ -10,6 +10,6 @@ and the said photograph(s) was/were shown as numbers
 (model and serial number of camera) which I used to take said photographs.
 Date ...
 Signature ...
-THE PRAEDIAL LARCENY PREVENTION ACT (CHAP. 10:03)
+THE PRAEDIAL LARCENY PREVENTION ACT (CH. 10:03)
 RETURN OF WITNESS TO TAKING OF PHOTOGRAPHS
-- Margin: [Section 13B(1)].
+- Margin: Section 13B(1).
