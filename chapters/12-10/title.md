@@ -2,6 +2,8 @@ TRAFFICKING IN PERSONS ACT
 CHAPTER 12:10
 Act
 14 of 2011
+Amended by
+12 of 2012
 Note on Subsidiary Legislation
 This Chapter contains no subsidiary legislation.
 Note on Amendment
@@ -15,8 +17,7 @@ PRELIMINARY
 1. Short title. 2. Commencement. 3. Interpretation. 4. Object of the Act.
 PART II
 NATIONAL TASK FORCE
-5. Establishment of the Task Force. 6. Functions of the Task Force. 7. Composition and appointment of the Task Force. 8. Chairman of the Task Force. 9. Meetings.
-10. Declaration of interest.
+5. Establishment of the Task Force. 6. Functions of the Task Force. 7. Composition and appointment of the Task Force. 8. Chairman of the Task Force. 9. Meetings. 10. Declaration of interest.
 PART III
 COUNTER-TRAFFICKING UNIT
 11. Establishment of the Counter-Trafficking Unit and the designation
