@@ -5,11 +5,12 @@ Act
 Amended by
 13 of 2007
 *2 of 2012
+11 of 2014
 *See Note on page 2
 Index of Subsidiary Legislation
 Page
-Police Service Regulations (LN 145/2007) … … … 43 Police Service (Recruitment of Special Reserve Police) Regulations
-(LN 175/2008) ... 165
+Police Service Regulations (LN 145/2007) ... 51 Police Service (Recruitment of Special Reserve Police) Regulations
+(LN 175/2008) ... 173
 Note on Subsidiary Legislation
 For Resolution affirming the Police Service Regulations (LN 145/2007) See LN 111/2007.
 Note on Omission
@@ -54,18 +55,21 @@ POLICE SERVICE ASSOCIATIONS
 PART VIII
 GENERAL FUNCTIONS AND OBLIGATIONS OF
 MEMBERS OF THE POLICE SERVICE
-39. Police officer voting. 40. Police officer and political activities. 41. Public statements by police officer on certain matters. 42. Certain police officers to be Justices. 43. Every police officer to be a constable. 44. General power of police officer. 45. General duties of police officer. 46. Power to arrest without a warrant. 47. Power to arrest without having warrant in possession. 48. Execution of warrant or order. 49. Action against police officer for acting on warrant or order. 50. Power to take measurement, photograph or fingerprint. 51. Certificate of character. 52. Analysis of fingerprint impression. 53. Punishment for serious offence. 54. Public property not to be used privately. 55. Delivery up of article supplied on leaving the Police Service. 56. Improper possession of article supplied to police officer. 57. Delivery up of article supplied to deceased police officer. 58. Unclaimed article. 59. Assault, etc., on police officer. 60. Refusing to assist police officer assaulted. 61. Harbouring police officer. 62. Impersonation of police officer or wearing police uniform, etc. 63. Obtaining admission into the Police Service by fraud. 64. Right to prosecute police cases. 65. Award Fund. 66. Awards Board. 67. Granting of special award. 68. Fines and bribes to be payable to the Fund. 69. Account to be kept.
+39. Police officer voting. 40. Police officer and political activities. 41. Public statements by police officer on certain matters. 42. Certain police officers to be Justices. 43. Every police officer to be a constable. 44. General power of police officer. 45. General duties of police officer. 46. Power to arrest without a warrant. 47. Power to arrest without having warrant in possession. 48. Execution of warrant or order. 49. Action against police officer for acting on warrant or order. 50. Power to take measurement or photograph.
+50A. Taking of fingerprint impression. 50B. Retaking of fingerprint impression. 50C. Taking fingerprint impression of certain persons at ports of entry. 50D. Notice to attend for fingerprinting. 50E. Taking of fingerprint impression from child or incapable person. 50F. Reasonable force to take and protect measurement, photograph or
+fingerprint impression.
+50G. Refusing to give measurement, photograph or fingerprint impression. 50H. Resisting or obstructing police officer in the exercise of his functions. 50I. Volunteering to give a fingerprint impression. 50J. Retention of fingerprint impression. 50K. National Fingerprint Database. 50L. Mutual legal assistance.
+51. Certificate of character. 52. Analysis of fingerprint impression. 53. Punishment for serious offence. 54. Public property not to be used privately. 55. Delivery up of article supplied on leaving the Police Service. 56. Improper possession of article supplied to police officer. 57. Delivery up of article supplied to deceased police officer.
 ARRANGEMENT OF SECTIONS-Continued SECTION
+58. Unclaimed article. 59. Assault, etc., on police officer. 60. Refusing to assist police officer assaulted. 61. Harbouring police officer. 62. Impersonation of police officer or wearing police uniform, etc. 63. Obtaining admission into the Police Service by fraud. 64. Right to prosecute police cases. 65. Award Fund. 66. Awards Board. 67. Granting of special award. 68. Fines and bribes to be payable to the Fund. 69. Account to be kept.
 PART IX
 MISCELLANEOUS PROVISIONS
 70. Sale of liquor in Canteens and Messes. 71. Police Station to be lock-up. 72. Police officer to take oath of office.
 72A. Fingerprint database.
-73. Mode of leaving service. 74. Age of retirement for police officer. 75. Extension of service. 76. Grant of three months salary to next of kin of deceased police
-officer.
-77. Payment of arrears of salary or pension without production of
+73. Mode of leaving service. 74. Age of retirement for police officer. 75. Extension of service. 76. Grant of three months salary to next of kin of deceased police officer. 77. Payment of arrears of salary or pension without production of
 probate or letters of administration.
 78. Regulations. 79. Savings. 80. Repeal.
-FIRST SCHEDULE. SECOND SCHEDULE. THIRD SCHEDULE. FOURTH SCHEDULE. FIFTH SCHEDULE.
+FIRST SCHEDULE. SECOND SCHEDULE. THIRD SCHEDULE. FOURTH SCHEDULE. FIFTH SCHEDULE. SIXTH SCHEDULE.
 
 CHAPTER 15:01
 POLICE SERVICE ACT
