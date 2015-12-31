@@ -147,6 +147,7 @@ RIGHT TO CONTINUANCE OF ANY BENEFITS
 PROCEEDINGS FOR AN OFFENCE AGAINST THE REGULATIONS
 30. (1) Proceedings for an offence against these Regulations shall not be instituted except with the consent of the Attorney General.
 (2) Where an offence against these Regulations has been committed by a body corporate, every person who, at the time of the commission of the offence was a Director, General Manager, Secretary or other similar officers of the body corporate, or was purporting to act in any such capacity, shall be deemed to be guilty of that offence, unless he proves that the offence was committed without his consent or connivance and that he exercised all such diligence to prevent the commission of the offence as he ought to have exercised, having regard to the nature of his functions in that capacity and to all the circumstances.
+ttcaa@tstt.net.tt
 SCHEDULE 1
 Regulation 6(1).
 APPLICATION FOR LICENCE TO OPERATE A SCHEDULED SERVICE

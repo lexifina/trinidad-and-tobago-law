@@ -1164,9 +1164,8 @@ Human performance and limitations-Required
 knowledge, skills and attitudes 1 General programme overview 3 3 2 Human Factors knowledge 3 3 3 Communication skills 3 3 4 Teamwork skills 3 3 5 Performance management 3 3 6 Situation awareness 3 3 7 Human error 3 3 8 Reporting and investigating errors 3 3 9 Monitoring and auditing 3 3 10 Document design 3 3
 (iv) C-Engine, Turbo-jet, Turbo-shaft and Turbo-propeller:
 Civil aviation requirements, laws and regulations 1 International and State aviation law 10 3 2 Airworthiness requirements 10 3 3 Civil aviation operating regulations 10 3 4 Air transport operations 10 3 5 Organisation and management of the operator 10 3 6 Operator Economics related to maintenance 10 3 7 Approved maintenance organisations (AMOs) 30 3
-(iv) C-Engine, Turbo-jet, Turbo-shaft and Turbo-
-propeller:-Continued
 Civil aviation requirements, laws and regulations-Continued
+Hours Level
 8 Aircraft maintenance licence requirements 10 3 9 The role of the State aviation regulatory body 10 3 10 Aircraft certification, documents and maintenance 10 3
 Natural science and general principles of aircraft 1 Mathematics 75 1 2 Physics 70 1 3 Technical Drawing 70 1 4 Chemistry 30 1
 Aircraft engineering and maintenance: Engines/

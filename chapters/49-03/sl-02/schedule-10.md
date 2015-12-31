@@ -57,15 +57,17 @@ Reserve duty
 Maximum flight duty period-aeroplanes
 17. The maximum flight duty periods for aeroplane crews is shown in the tables below-
 TWO (2) PILOT CREW-AEROPLANE
-Local Time at
+Sectors Local Time at
 Start 1 2 3 4 5 6 7 8 9 10 or
 more 0600-1259 14 14 14 13 12 11 10 10 9 9 1300-1759 14 14 131/4 121/2 113/4 11 10 10 9 9 1800-2159 14 131/4 121/2 113/4 11 10 10 10 9 9 2200-0559 12 111/2 103/4 10 10 10 10 10 9 9
 TWO (2) PILOTS AND ONE (1) FLIGHT ENGINEER-AEROPLANE
+Sectors
 Local Time at
 Start 1 2 3 4 5 6 7 8 or
 more
 14 14 14 131/2 121/2 11 10 10 0600-1259 14 14 131/2 123/4 121/2 11 10 10 1300-2159 12 12 111/2 11 11 11 10 9 2200-0559
 SINGLE (1) PILOT CREW-AEROPLANE
+Sectors
 Local Time at
 Start Up to 5 6 7 8 or
 4 more 10 91/4 81/2 8 8 0600-1259 11 101/4 91/2 83/4 8 1300-1759 10 91/4 81/2 8 8 1800-2159 9 81/4 8 8 8 2200-0559
@@ -92,7 +94,8 @@ Rest periods
 24. The national air operator shall endeavour to notify the crew member of a flight duty period assignment in good time so that sufficient pre-flight rest can be obtained. When away from base, opportunities and facilities for adequate pre-flight rest will be provided by the national air operator.
 25. The minimum rest period which shall be provided prior to a flight duty period shall be-
 (a) at least as long as the preceding duty period; or
-(b) eleven hours, whichever is greater. Note: The minimum rest period of eleven hours includes travel time to and from the rest facility,
+(b) eleven hours, whichever is greater.
+Note: The minimum rest period of eleven hours includes travel time to and from the rest facility,
 hotel check-in and check-out time and time for personal hygiene and meals allowing eight consecutive hours of sleep opportunity in suitable accommodation. If any of the variables is longer than expected, or there is any further delay in the crews being afforded the required eight hours sleep opportunity, the minimum rest shall be increased accordingly. 26. If the preceding duty period exceeded sixteen hours, the minimum rest shall be no less than sixteen hours plus two hours for every hour or part of an hour that the previous duty period exceeded sixteen hours.
 27. Following a sequence of reduced rest and extended flight duty period the subsequent rest period shall not be reduced.
 28. At least thirty-six consecutive hours rest each seven days shall be provided. These rest periods may be taken on layovers in suitable accommodation.

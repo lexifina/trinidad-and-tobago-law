@@ -456,10 +456,9 @@ conditions that could impair or preclude continued safe flight or landing?
 15 Does the change affect the pilot's visibility or impair
 the pilot's capability to control the aircraft?
 16 Does the change involve alterations to the interior
-arrangement or cabin materials?
-TABLE-Continued
-CRITERIA FOR ASSESSING A MODIFICATION OR
+arrangement or cabin materials? CRITERIA FOR ASSESSING A MODIFICATION OR
 REPAIR AS MAJOR OR MINOR
+Item Question
 Structural Strength
 17 Does the change involve systems for cabin pressurisation
 or the provision of breathing oxygen?
@@ -835,26 +834,6 @@ maintenance manual and procedures used; and a brief description of the extent of
 time-in-service at that time. The total time-in-service is the cumulative times that the aircraft was in flight;
 (b) in recording of time-in-service under paragraph (1)(b) the
 operator may use recording devices that sense aircraft lift-off and touchdown. Any other recording devices that sense such things as electrical power on, oil pressure, wheels on the ground, etc., and from these conditions provide an approximate indication of time-in-service.
-CIVIL AVIATION [(NO. 6) APPROVED
-MAINTENANCE ORGANISATION] REGULATIONS
-ARRANGEMENT OF REGULATIONS
-REGULATION
-1. Citation. 2. Interpretation.
-APPLICABILITY OF THESE REGULATIONS
-3. General applicability of these Regulations.
-PART I
-GENERAL REQUIREMENTS FOR ISSUE OF AIRCRAFT
-MAINTENANCE ORGANISATION CERTIFICATE
-4. Applicability of Part I. 5. Prohibition of performance of maintenance. 6. General requirements for issue of Aircraft Maintenance Organisation
-Certificate.
-6A. Safety management system.
-7. Equivalent Safety Case and Deviation Authority. 8. Issue of Aircraft Maintenance Organisation Certificate. 9. Contents of Approved Maintenance Organisation Certificate. 10. Validity of Approved Maintenance Organisation Certificate. 11. Amendments to Approved Maintenance Organisation Certificate. 12. Advertising requirements. 13. Contents of a Maintenance Procedures Manual. 14. Issue of additional ratings. 15. Issue of ratings with limitations.
-PART II
-HOUSING, FACILITIES, EQUIPMENT AND MATERIALS
-16. Applicability of Part II. 17. Minimum requirements of housing and facilities. 18. Minimum requirements for equipment, tools and materials.
-PART III
-ADMINISTRATION
-19. Applicability of Part III.
 - Margin: Regulation 37. [304/2004 226/2005 199/2009].
 - Margin: Sub. Leg.
 - Margin: Sub. Leg.

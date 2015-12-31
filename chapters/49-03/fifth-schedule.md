@@ -14,3 +14,36 @@ Frequency/Direction Finding installation situated to the South of the Golden Gro
 Control Centre situated to the west of the Caroni North Bank Road, in the Ward of Tacarigua, in the County of St. George, in the island of Trinidad.
 Reference points have been defined in accordance with the World Geodetic System (WGS 84).
 - Margin: Section 43. [17 of 2003].
+- Margin: 307/2004.
+- Margin: Citation.
+- Margin: Interpretation.
+- Margin: Establishment and composition of Tenders Committee.
+- Margin: Establishment and composition of Management Tenders Committee.
+- Margin: Functions of the Committee.
+- Margin: Meetings of the Committee.
+- Margin: Quorum.
+- Margin: Decisions of committee.
+- Margin: Minutes of meetings.
+- Margin: Purchasing procedures.
+- Margin: Cases of emergency.
+- Margin: Exemptions from the operation of these Rules.
+- Margin: Confidentiality of documents and information.
+- Margin: Invitation to tender.
+- Margin: Ch. 35:05.
+- Margin: Advertisement of offers on radio and television.
+- Margin: Form of tender.
+- Margin: Tender deposit.
+- Margin: Compliance with Rules.
+- Margin: Tender boxes.
+- Margin: Receipt of tenders.
+- Margin: Opening of offers.
+- Margin: Consideration of tenders.
+- Margin: Acceptance of offers.
+- Margin: Contractor to provide security.
+- Margin: Disqualification.
+- Margin: Prohibition from entering into contract.
+- Margin: Disposal of surplus or unserviceable goods.
+- Margin: Tenders for office equipment.
+- Margin: International contracts.
+- Margin: Applicability of the Central Tenders Board Act. Ch. 71:91.
+- Margin: Amendment to Rules.

@@ -84,19 +84,29 @@ goods training are maintained for all personnel who required such training and t
 staff is trained in accordance with the applicable column of Table 1 or Table 2;
 Table 2
 Area of Training 1 2 3 4 5
-General Philosophy x x x x x Limitations On Dangerous Goods in the Air x x x x x
-Classification and List of Dangerous Goods x x x General Packing Requirements and Packing
+General Philosophy x x x x x
+Limitations On Dangerous Goods in the Air x x x x x
+Transport
+Classification and List of Dangerous Goods x x x
+General Packing Requirements and Packing
 x
-Instructions Packaging Specifications Marking x Package Marking and Labelling x x x x x Documentation from the Shipper x Acceptance of Dangerous Goods, including x
-the use of a checklist Loading, Restrictions on Loading and
+Instructions
+Packaging Specifications Marking x
+Package Marking and Labelling x x x x x
+Documentation from the Shipper x Acceptance of Dangerous Goods, including x
+the use of a checklist
+Loading, Restrictions on Loading and
 x x x x
-Segregation Inspections for damage or leakage and
+Segregation
+Inspections for damage or leakage and
 x x
-Decontamination Procedures Provision of information to pilot in command
-x x x Dangerous Goods in Passengers' Baggage
-x x x Emergency Procedures
-x x x x
-x indicates an area to be covered.
+Decontamination Procedures
+Provision of information to pilot in command
+x x x
+Dangerous Goods in Passengers' Baggage
+x x x
+Emergency Procedures
+x x x x Note: x indicates an area to be covered.
 (h) a national air operator shall provide dangerous goods
 training manuals which contain adequate procedures and information to assist personnel in identifying packages marked or labelled as containing hazardous materials including-
 (i) instructions on the acceptance, handling, and carriage
@@ -773,10 +783,14 @@ deportees or persons in custody.
 44. National air operator to have crew member checking and
 standardisation programme.
 ARRANGEMENT OF REGULATIONS-Continued
+REGULATION
 45. National air operator shall cause flight deck checklist procedure to
-be made available. 46. National air operator to provide Minimum Equipment List and
-Configuration Deviation List. 47. National air operator to provide Aircraft Loading and Handling Manual. 48. National air operator to have Mass and Balance Data Control System. 49. National air operator to issue Cabin Attendant Manuals. 50. National air operator to carry passenger briefing cards on aircraft. 51. Approved weather reporting sources. 52. National air operator to adhere to certain requirements in frost, ice
-or snow. 53. Employees shall comply with State legislation. 54. National air operator to submit Aircraft Operating Manual. 55. National air operator to provide Performance Planning Manual. 56. National air operator to have aircraft Performance Data System. 57. National air operator to have Aeronautical Data Control System. 58. National air operator to provide certain information guide. 59. Restriction on the conduct of routes. 60. Requirements in respect of navigational systems and facilities. 61. National air operator to have two-way radio communications. 62. Definition.
+be made available.
+46. National air operator to provide Minimum Equipment List and
+Configuration Deviation List.
+47. National air operator to provide Aircraft Loading and Handling Manual. 48. National air operator to have Mass and Balance Data Control System. 49. National air operator to issue Cabin Attendant Manuals. 50. National air operator to carry passenger briefing cards on aircraft. 51. Approved weather reporting sources. 52. National air operator to adhere to certain requirements in frost, ice
+or snow.
+53. Employees shall comply with State legislation. 54. National air operator to submit Aircraft Operating Manual. 55. National air operator to provide Performance Planning Manual. 56. National air operator to have aircraft Performance Data System. 57. National air operator to have Aeronautical Data Control System. 58. National air operator to provide certain information guide. 59. Restriction on the conduct of routes. 60. Requirements in respect of navigational systems and facilities. 61. National air operator to have two-way radio communications. 62. Definition.
 PART V
 AIR OPERATOR SECURITY MANAGEMENT
 63. Applicability of Part V. 64. Security requirements. 65. Security Training Programmes. 66. Reporting acts of unlawful interference. 67. Aircraft search procedure checklist. 68. Air operator to establish procedures to secure flight crew compartment. 69. Carriage of weapons of war or munitions of war. 70. Carriage of sporting weapons and ammunitions. 71. Definition of certain clauses. REGULATION
@@ -794,8 +808,6 @@ RECORDS
 licences requirements.
 - Margin: Regulation 305. [223/2005 186/2006 285/2006 34/2009].
 - Margin: Transport
-- Margin: Transport
-- Margin: Note:
 - Margin: Sub. Leg.
 - Margin: Sub. Leg.
 - Margin: Sub. Leg.

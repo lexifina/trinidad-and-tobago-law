@@ -259,9 +259,9 @@ only to the flight data recorder and are not checked by other means, recalibrati
 provided by sensors that are dedicated to the flight data recorder system, there shall be a recalibration performed as recommended by the sensor manufacturer, or at least every two years.
 TABLE 1
 PARAMETER STANDARDS FOR FLIGHT DATA RECORDERS
-Serial Parameter Measurement range Maximum Accuracy limits Recording Number sampling (sensor input resolution
-and compared
-recording to FDR read-out) interval (seconds) 1 Time (UTC when 24 hours 4 ±0.125% per hour 1 second
+Maximum
+Accuracy limits sampling (sensor input and Parameter Measurement range compared recording
+interval to FDR read-out) (seconds) 1 Time (UTC when 24 hours 4 ±0.125% per hour 1 second
 available, otherwise relative time count or GPS time sync) 2 Pressure-altitude -300 m (-1 000 ft) to 1 ±30 m to ±200 m 1.5 m (5 ft)
 maximum certificated (±100 ft to ±700 ft) altitude of aircraft +1 500 m (+5 000 ft) 3 Indicated airspeed or 95 km/h (50 kt) to max 1 ±5% 1 kt (0.5 kt
 calibrated airspeed VSo (Note 1) VSo to 1.2 ±3% recommen-
@@ -278,9 +278,9 @@ and cockpit control discrete position indicator range selection or the
 and cockpit discrete position indicator range or the control selection resolution
 TABLE 1-Continued
 PARAMETER STANDARDS FOR FLIGHT DATA RECORDERS
-Serial Parameter Measurement range Maximum Accuracy limits Recording Number sampling (sensor input resolution
-and compared
-recording to FDR read-out) interval (seconds) 12* Thrust reverser Stowed, in transit, and 1 (per
+Maximum
+Accuracy limits sampling (sensor input and Parameter Measurement range compared recording
+interval to FDR read-out) (seconds) 12* Thrust reverser Stowed, in transit, and 1 (per
 position reverse engine) 13* Ground spoiler/speed Full range or each 1 ±2% unless higher 0.2% of full
 brake selection discrete position accuracy range (Selection and position) uniquely required 14 Outside air temperature Sensor range 2 ±2° C ±3° C 15* Autopilot/auto A suitable 1
 throttle/AFCS mode combination and engagement of discretes
@@ -294,11 +294,10 @@ controlsurface accuracy range or as position-primary uniquely required installed
 accuracy uniquely range or as required installed 20* Radio altitude -6 m to 750 m 1 ±0.6 m (±2 ft) or 0.3 m (1 ft)
 (-20 ft to 2 500 ft) ±3%whichever is below
 greater below 150 m (500 150 m (500 ft) and ft.) 0.3 m ±5% above 150 m (1 ft) + (500 ft) 0.5% of full
-TABLE 1-Continued
 PARAMETER STANDARDS FOR FLIGHT DATA RECORDERS
-Serial Parameter Measurement range Maximum Accuracy limits Recording Number sampling (sensor input resolution
-and compared
-recording to FDR read-out) interval (seconds) 21* Vertical beam Signal range 1 ±3% 0.3% of full
+Maximum sampling Accuracy limits
+and (sensor input Parameter Measurement range
+recording compared interval to FDR read-out) (seconds) 21* Vertical beam Signal range 1 ±3% 0.3% of full
 deviation (ILS/GPS/GLS range glide path, MLS elevation, IRNAV/IAN vertical deviation) 22* Horizontal beam Signal range 1 ±3% 0.3% of full
 deviation (ILS/GPS/GLS range localiser, MLS azimuth,IRNAV/IAN lateral deviation) 23 Marker beacon passage Discrete 1 24 Master warning Discrete 1 25 Each NAV frequency Full range 4 As installed
 selection (Note 6) 27† Air/ground status Discrete 1 28* GPWS (ground proximity Discrete 1
@@ -309,9 +308,9 @@ warning system) /TAWS/GCAS status (selection of terrain display mode including p
 † There is no serial number 26.
 TABLE 1-Continued
 PARAMETER STANDARDS FOR FLIGHT DATA RECORDERS
-Serial Parameter Measurement range Maximum Accuracy limits Recording Number sampling (sensor input resolution
-and compared
-recording to FDR read-out) interval (seconds)
+Maximum
+Accuracy limits sampling (sensor input and Parameter Measurement range compared recording
+interval to FDR read-out) (seconds)
 32* Landing gear and gear Discrete 4 As installed
 selector position Note.- The preceding 32 parameters satisfy the requirements for a Type I FDR.
 33* Groundspeed As installed 1 Data should be 1 kt
@@ -327,11 +326,10 @@ selectable modes of determine operation) crew
 selectable modes of determine operation) crew
 42* Selected vertical speed As installed 1 As installed Sufficient to
 (all pilot selectable determine modes of operation) crew
-TABLE 1-Continued
 PARAMETER STANDARDS FOR FLIGHT DATA RECORDERS
-Serial Parameter Measurement range Maximum Accuracy limits Recording Number sampling (sensor input resolution
-and compared
-recording to FDR read-out) interval (seconds)
+Maximum
+Accuracy limits sampling (sensor input and Parameter Measurement range compared recording
+interval to FDR read-out) (seconds)
 43* Selected heading (all As installed 1 As installed Sufficient to
 pilot selectable modes determine of operation) crew
 44* Selected flight path 1 As installed
@@ -347,9 +345,9 @@ on/off 59* Operational stall As installed 1 As installed
 protection,stick shaker
 TABLE 1-Continued
 PARAMETER STANDARDS FOR FLIGHT DATA RECORDERS
-Serial Parameter Measurement range Maximum Accuracy limits Recording Number sampling (sensor input resolution
-and compared
-recording to FDR read-out) interval (seconds)
+Maximum
+Accuracy limits sampling (sensor input and Parameter Measurement range compared recording
+interval to FDR read-out) (seconds)
 and pusher activation 60* Primary navigation As installed 4 As installed
 system reference (GNSS, INS, VOR/DME, MLS, Loran C, localiser glideslope) 61* Ice detection As installed 4 As installed 62* Engine warning each As installed 1 As installed
 engine vibration 63* Engine warning each As installed 1 As installed
@@ -365,11 +363,10 @@ icing systems selection 70* Hydraulic pressure Full range 2 ± 5% 100 psi
 input Position Pitch range or as
 73* Cockpit trim control Full range 1 ± 5% 0.2% of full
 input Position Roll range or as
-TABLE 1-Continued
 PARAMETER STANDARDS FOR FLIGHT DATA RECORDERS
-Serial Parameter Measurement range Maximum Accuracy limits Recording Number sampling (sensor input resolution
-and compared
-recording to FDR read-out) interval (seconds)
+Maximum
+Accuracy limits sampling (sensor input and Parameter Measurement range compared recording
+interval to FDR read-out) (seconds)
 74* Cockpit trim control Full range 1 ± 5% 0.2% of full
 input position Yaw range or as
 75* All cockpit flight control Full range [±311 N 1 ± 5 0.2% of full
@@ -420,9 +417,8 @@ Data
 the ICAO definition of AOC) Key: C: Complete contents recorded. M: Information that enables correlation to any associated records stored separately from the aeroplane. *: Applications to be recorded only as far as is practicable given the architecture of the system.
 TABLE 3
 PARAMETER STANDARDS FOR AIRCRAFT DATA RECORDING SYSTEMS
-No. Parameter Parameter Minimum Maximum Minimum Minimum
-Name Category Recording Recording Recording Recording Remarks
-Range interval in Accuracy Resolution
+Minimum Maximum Minimum Minimum
+Parameter Recording Recording Recording Parameter Remarks Recording Category Range interval in Accuracy Name Resolution
 seconds 1 Heading R* ±180 degrees 1 ±2 degrees 0.5 degree *If not
 (Magnetic available, or True) record rates 2 Pitch E* ±90 degrees 0.25 ±2 degrees 0.5 degree *If not
 attitude available,
@@ -443,12 +439,8 @@ system range available) estimated error
 9 Positioning E 300 m 2 (1 if As installed 1.5 m (5 ft)
 system: (-1 000 ft) available) [±15 m (±50 ft) altitude to maximum recommended]
 certificated altitude of aeroplane + 1 500 m (5 000 ft)
-TABLE 3-Continued
 PARAMETER STANDARDS FOR AIRCRAFT DATA RECORDING SYSTEMS
-No. Parameter Parameter Minimum Maximum Minimum Minimum
-Name Category Recording Recording Recording Recording Remarks
-Range interval in Accuracy Resolution
-seconds 10 Positioning E 24 hours 1 ±0.5 second 0.1 second * UTC time
+Maximum Minimum Minimum Minimum Recording Recording Parameter Recording Parameter Remarks Recording interval in Accuracy Category Range Name Resolution seconds 10 Positioning E 24 hours 1 ±0.5 second 0.1 second * UTC time
 system: preferred time* where
 available
 11 Positioning E 0-1000 kt 2 As installed 1 kt
@@ -470,10 +462,7 @@ refer to table IIA. 2) 17 Outside air R 50° to +90°C 2 As installed 1°C
 temperature or available (±2°C recom- (or total air sensor range mended) temperature)
 TABLE 3-Continued
 PARAMETER STANDARDS FOR AIRCRAFT DATA RECORDING SYSTEMS
-No. Parameter Parameter Minimum Maximum Minimum Minimum
-Name Category Recording Recording Recording Recording Remarks
-Range interval in Accuracy Resolution
-seconds 18 Indicated air R As the 1 As installed 1 kt (0.5 kt
+Maximum Minimum Minimum Minimum Recording Recording Parameter Recording Parameter Remarks Recording interval in Accuracy Category Range Name Resolution seconds 18 Indicated air R As the 1 As installed 1 kt (0.5 kt
 speed installed (±3 % recommended) Pilot display recommended) measuring system or available sensor range 19 Engine RPM R Full range Each engine As installed 0.2% of full
 including Each second range overspeed condition 20 Engine oil R Full range Each engine As installed 2% of full
 pressure Each second (5% of full range
@@ -484,13 +473,8 @@ pressure Each second range 23 Manifold R Full range Each engine As installed 0.2
 pressure Each second range 24 Engine R Full range Each engine As installed 0.1% of full * Sufficient
 thrust/power Each second range parameters e.g /torque EPR/N1 or parameters torque / Np required to as appropriate determine to the particular propulsive engine shall be thrust/power* recorded to
 determine power in both normal and reverse thrust. A margin for possible over speed should be provided 25 Engine gas R 0-150% Each engine As installed 0.2% of full
-generator Each second range speed (Ng)
-TABLE 3-Continued
-PARAMETER STANDARDS FOR AIRCRAFT DATA RECORDING SYSTEMS
-No. Parameter Parameter Minimum Maximum Minimum Minimum
-Name Category Recording Recording Recording Recording Remarks
-Range interval in Accuracy Resolution
-seconds 26 Free power R 0-150% Each engine As installed 0.2% of full
+generator Each second range speed (Ng) PARAMETER STANDARDS FOR AIRCRAFT DATA RECORDING SYSTEMS
+Maximum Minimum Minimum Minimum Recording Recording Parameter Recording Parameter Remarks Recording interval in Accuracy Category Range Name Resolution seconds 26 Free power R 0-150% Each engine As installed 0.2% of full
 turbine Each second range speed (Nf) 27 Coolant R Full range 1 As installed 1 degree
 temperature (±5°C Celsius
 recommended) 28 Main voltage R Full range Each engine As installed 1 Volt
@@ -696,28 +680,30 @@ provided by sensors that are dedicated to the flight data recorder system, there
 *There is no paragraph (vii).
 TABLE 1
 PARAMETER STANDARDS FOR FLIGHT DATA RECORDERS
-Serial Parameter Measurement range Maximum Accuracy limits Recording Number sampling (sensor input resolution
-and compared
-recording to FDR read-out) interval (seconds) 1 Time (UTC when 24 hours 4 ±0.125% per hour 1 second
+Maximum sampling Accuracy limits
+Parameter Measurement range and (sensor input
+recording compared interval
+to FDR read-out)
+(seconds) 1 Time (UTC when 24 hours 4 ±0.125% per hour 1 second
 available, otherwise relative time count or GPS time sync) 2 Pressure-altitude -300 m (-1 000 ft) to 1 ±30 m to ±200 m 1.5 m (5 ft)
 maximum certificated (±100 ft to ±700 ft) altitude of aircraft +1 500 m (+5 000 ft) 3 Indicated airspeed As the installed pilot 1 ±3% 1 kt
-display measuring
-4 Heading 360° 1 ±2° 0.5° 5 Normal acceleration -3 g to +6 g 0.125 ±0.09 g excluding a 0.004 g
+display measuring system 4 Heading 360° 1 ±2° 0.5° 5 Normal acceleration -3 g to +6 g 0.125 ±0.09 g excluding a 0.004 g
 datum error of ±0.045 g 6 Pitch attitude ±75° or 100% of useable 0.5 ±2° 0.5°
 range whichever is greater 7 Roll attitude ±180° 0.5 ±2° 0.5° 8 Radio transmission On-off (one discrete) 1 - -
-9 Power on each engine Full range 1 (per ±2% 0.1% of full
+keying 9 Power on each engine Full range 1 (per ±2% 0.1% of full
 engine) range 10* Main rotor: 50-130%Discrete 0.51 ±2% 0.3% of full
 Main rotor speed range Rotor brake 11* Pilot input and/or Full range 0.5 (0.25 recommended) 0.5% of
 control surface position ±2% unless higher operating -primary controls accu racy uniquely range (collective pitch, required longitudinal cyclic pitch, lateral cyclic pitch, tail rotor pedal) 12 Hydraulics, each Discrete 1 - -
 system (low pressure and selection) 13 Outside air temperature Sensor range 2 ±2°C 0.3°C
 TABLE 1-Continued
 PARAMETER STANDARDS FOR FLIGHT DATA RECORDERS
-Serial Parameter Measurement range Maximum Accuracy limits Recording Number sampling (sensor input resolution
-and compared
-recording to FDR read-out) interval (seconds) 14* Autopilot/autothrottle A suitable combination 1 - -
+Maximum sampling Accuracy limits
+Parameter Measurement range and (sensor input
+recording compared interval
+to FDR read-out)
+(seconds) 14* Autopilot/autothrottle A suitable combination 1 - -
 /AFCS mode of discretes and engagement status 15* Stability augmentation Discrete 1 - -
-system engagement
-Note.- The preceding 15 parameters satisfy the requirements for a Type VFDR. 16* Main gearbox oil As installed 1 As installed 6.895
+system engagement Note.- The preceding 15 parameters satisfy the requirements for a Type VFDR. 16* Main gearbox oil As installed 1 As installed 6.895
 pressure (kN/m21 psi) 17* Main gearbox oil As installed 2 As installed 1°C
 temperature 18 Yaw ±400°/second 0.25 rate ±1.5% ±2°/s
 maximum range excluding a datum error of ±5% 19* Sling load force 0 to 200% of certified 0.5 ±3% of maximum 0.5% for
@@ -732,11 +718,12 @@ greater below 150 m (500 ft), 0.3 m (500 ft) and ±5% (1 ft) + 0.5% above 150m (
 24* Horizontal beam Signal range 1 ±3% 0.3% of full
 deviation range 25 Marker beacon passage Discrete 1 - - 26 Warnings Discrete(s) 1 - - 27 Each navigation Sufficient to determine 4 As installed -
 receiver frequency selected frequency selection
-TABLE 1-Continued
 PARAMETER STANDARDS FOR FLIGHT DATA RECORDERS
-Serial Parameter Measurement range Maximum Accuracy limits Recording Number sampling (sensor input resolution
-and compared
-recording to FDR read-out) interval (seconds) 28* DME 1 and 2 distances 0-370 km(0-200 NM) 4 As installed 1 852 m
+Maximum sampling Accuracy limits
+Parameter Measurement range and (sensor input
+recording compared interval
+to FDR read-out)
+(seconds) 28* DME 1 and 2 distances 0-370 km(0-200 NM) 4 As installed 1 852 m
 29* Navigation data As installed 2 As installed As installed
 (latitude/longitude, ground speed, drift angle, wind speed, wind direction) 30* Landing gear and gear Discrete 4 - -
 selector position Note.- The preceding 30 parameters satisfy the requirements for a Type IV FDR. 31* Engine exhaust gas As installed 1 As installed
@@ -753,9 +740,11 @@ selectable modes of determine operation) crew
 (all pilot selectable determine modes of operation) crew
 TABLE 1-Continued
 PARAMETER STANDARDS FOR FLIGHT DATA RECORDERS
-Serial Parameter Measurement range Maximum Accuracy limits Recording Number sampling (sensor input resolution
-and compared
-recording to FDR read-out) interval (seconds) 43* Selected heading (all As installed 1 As installed Sufficient to
+Maximum sampling Accuracy limits
+Parameter and Measurement range (sensor input
+recording compared interval
+to FDR read-out)
+(seconds) 43* Selected heading (all As installed 1 As installed Sufficient to
 pilot selectable modes determine of operation) crew
 44* Selected flight path As installed 1 As installed Sufficient to
 (all pilot selectable determine modes of operation) crew
@@ -766,15 +755,14 @@ engine/alerts display format 48* Event marker Discrete 1 - -
 Note.-The preceding 48 parameters satisfy the requirements for a Type IVA FDR.
 TABLE 2
 DESCRIPTION OF APLICATIONS FOR DATA LINK RECORDERS
-Item No. Application Type Application Description Recording
+Item No. Application Type Application Description
 1 Data link Initiation This includes any applications used to logon to or C
 initiate data link service. In FANS-1/A and ATN, these are ATS Facilities Notification (AFN) and Context Management (CM) respectively
 2 Controller/Pilot This includes any application used to exchange requests, C
 Communication clearances, instructions and reports between the flight
 crew and controllers on the ground. In FANS-1/A and ATN, this includes the CPDLC application. It also includes applications used for the exchange of oceanic (OCL) and departure clearances (DCL) as well as data link delivery of taxi clearances
-TABLE 2-Continued
 DESCRIPTION OF APLICATIONS FOR DATA LINK RECORDERS
-Item No. Application Type Application Description Recording
+Item No. Application Type Application Description
 3 Addressed This includes any surveillance application in which the C
 Surveillance ground sets up contracts for delivery of surveillance
 data. In FANS-1/A and ATN, this includes the Automatic Dependent Surveillance (ADS-C) application. Where parametric data are reported within the message they shall be recorded unless data from the same source are recorded on the FDR
@@ -784,43 +772,54 @@ information to specific aircraft. This includes, for example, D-METAR, D-ATIS, D
 Surveillance Systems, as well as ADS-B output data. Where parametric
 data sent by the aeroplane are reported within the message they shall be recorded unless data from the same source are recorded on the FDR
 6 Aeronautical This includes any application transmitting or receiving M *
-Operational Control data used for AOC purposes (per the ICAO definition
-Data of AOC)
-Key: C: Complete contents recorded.
-M: Information that enables correlation to any associated records stored separately from the aeroplane.
+Operational Control data used for AOC purposes (per the ICAO definition Data of AOC)
+Key: C: Complete contents recorded. M: Information that enables correlation to any associated records stored separately from the aeroplane.
 *: Applications to be recorded only as far as is practicable given the architecture of the system.
 - Margin: Regulations 30 and 31. [194/2011].
+- Margin: Serial Recording Number resolution
 - Margin: resolution required to operate the aircraft
 - Margin: resolution required to operate the aircraft
 - Margin: required to operate the aircraft
+- Margin: Serial Recording Number resolution
 - Margin: status
 - Margin: range above
 - Margin: 150 m (500ft)
+- Margin: Serial Recording Number resolution
 - Margin: range
+- Margin: Serial Recording Number resolution
 - Margin: selection
 - Margin: selection
 - Margin: selection
+- Margin: Serial Recording Number resolution
 - Margin: selection
 - Margin: selection
 - Margin: crew
 - Margin: selection
 - Margin: range
+- Margin: Serial Recording Number resolution
+- Margin: installed
+- Margin: Serial Recording Number resolution
 - Margin: installed
 - Margin: installed
-- Margin: installed
+- Margin: No.
+- Margin: No.
+- Margin: No.
+- Margin: No.
 - Margin: Regulation 32.
-- Margin: system
-- Margin: keying
+- Margin: Serial Recording Number resolution
+- Margin: Serial Recording Number resolution
 - Margin: certified load
 - Margin: above 150 m (500 ft)
 - Margin: range
+- Margin: Serial Recording Number resolution
 - Margin: (1 NM)
 - Margin: selection
 - Margin: selection
 - Margin: selection
 - Margin: selection
+- Margin: Serial Recording Number resolution
 - Margin: selection
 - Margin: selection
 - Margin: determine crew selection
-- Margin: Contract
-- Margin: Contract
+- Margin: Recording Contract
+- Margin: Recording Contract

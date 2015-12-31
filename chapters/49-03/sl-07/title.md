@@ -1,6 +1,5 @@
 ARRANGEMENT OF REGULATIONS-Continued
 REGULATION
-34. 35.
 PART VIII
 EMERGENCY, RESCUE, AND SURVIVAL EQUIPMENT
 36. Applicability of Part VIII. 37. Emergency equipment. 38. Emergency exit equipment. 39. Visual signaling devices and survival kits. 40. Portable fire extinguishers. 41. Built-in fire extinguisher in lavatory. 42. Requirement for lavatory smoke detector. 43. Requirement to have crash axe on board an aeroplane. 44. Requirement for break-in points markings. 45. Requirement to have first-aid and emergency medical kit on board
@@ -12,8 +11,8 @@ an aircraft.
 sea area.
 PART IX
 MISCELLANEOUS SYSTEMS AND EQUIPMENT
-54. Applicability of Part IX. 55. Seats, safety belts and shoulder harnesses. 56. Passenger and pilot compartment doors safety requirement. 57. Passenger information signs. 58. Public address system requirement. REGULATION
-59. Airworthiness requirement for materials for cabin interiors. 60. Ceiling and liner materials for cargo and baggage compartments. 61. Power supply, distribution and indication system. 62. Spare protective circuit fuses. 63. Icing protection equipment. 64. Pitot heat indicator systems. 65. Independent static pressure system. 66. Windshield wipers. 67. Chart holder. 68. Cosmic radiation measuring equipment. 69. Maritime sound signaling device. 70. Anchors. 71. Airborne collision avoidance system. 72. Pressure Altitude Reporting Transponder.
+54. Applicability of Part IX. 55. Seats, safety belts and shoulder harnesses. 56. Passenger and pilot compartment doors safety requirement. 57. Passenger information signs. 58. Public address system requirement. 59. Airworthiness requirement for materials for cabin interiors. 60. Ceiling and liner materials for cargo and baggage compartments. 61. Power supply, distribution and indication system. REGULATION
+62. Spare protective circuit fuses. 63. Icing protection equipment. 64. Pitot heat indicator systems. 65. Independent static pressure system. 66. Windshield wipers. 67. Chart holder. 68. Cosmic radiation measuring equipment. 69. Maritime sound signaling device. 70. Anchors. 71. Airborne collision avoidance system. 72. Pressure Altitude Reporting Transponder.
 72A. Aircraft equipped with head-up displays or enhanced vision systems.
 73. Implementing Standards. 74. Director-General to amend Schedules. 75. Commencement.
 SCHEDULE 1. SCHEDULE 2. SCHEDULE 3. SCHEDULE 4.

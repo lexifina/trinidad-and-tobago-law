@@ -1,7 +1,7 @@
 # SCHEDULE 7
 The universal signs to be used in air transport operations shall have the following meanings:
-(a) distress signals. The following signals, used either together
-or separately, mean that grave and imminent danger threatens, and immediate assistance is requested:
+(a) distress signals. The following signals, used either together or
+separately, mean that grave and imminent danger threatens, and immediate assistance is requested:
 (i) a signal made by radio-telegraphy or by any other
 signaling method consisting of the group SOS (• • • -
 - - • • • in the Morse Code);
@@ -12,14 +12,14 @@ time at short intervals; and
 (iv) a parachute flare showing a red light;
 (b) none of the provisions in this clause shall prevent the use, by
 an aircraft in distress, of any means at its disposal to attract attention, make known its position and obtain help;
-(c) the following signals, used either together or separately, means
-that an aircraft wishes to give notice of difficulties which compel it to land without requiring immediate assistance:
+(c) the following signals, used either together or separately,
+means that an aircraft wishes to give notice of difficulties which compel it to land without requiring immediate assistance:
 (i) the repeated switching on and off of the landing
 lights; or
 (ii) the repeated switching on and off of the navigation
 lights in such manner as to be distinct from flashing navigation lights;
-(d) the following signals, used either together or separately,
-means that an aircraft has a very urgent message to transmit concerning the safety of a ship, aircraft or other vehicle, or of some person on board or within sight:
+(d) the following signals, used either together or separately, means
+that an aircraft has a very urgent message to transmit concerning the safety of a ship, aircraft or other vehicle, or of some person on board or within sight:
 (i) a signal made by radiotelegraphy or by any other
 signaling method consisting of the group XXX; and
 (ii) a signal sent by radiotelephony consisting of the
@@ -32,8 +32,8 @@ Responds
 Follow me Following or NIGHT-Rocking aircraft and flashing navigational lights at irregular intervals (and landing lights in the case of a helicopter) from a position slightly above and ahead of, and normally to the left of, the intercepted aircraft (or to the right if the intercepted aircraft is a helicopter) and, after acknowledgement, a slow level turn, normally to the left, (or to the right in the case of a helicopter) on the desired heading. Note 1.-Meteorlogical conditions or terrain may require the intercepting aircraft to reverse the positions and direction of turn given above in Series 1. Note 2.-If the intercepted aircraft is not able to keep pace with the intercepting aircraft, the latter is expected to fly a series of racetrack patterns and to rock the aircraft each time it passes the intercepted aircraft.
 You may Understood, DAY or NIGHT-Rocking the aircraft DAY or NIGHT-An abrupt break-away proceed will comply manoeuvre from the intercepted aircraft consisting of a climbing turn of 90 degrees or more without crossing the line of flight of the intercepted aircraft.
 DAY or NIGHT-Lowering landing Understood, Land at this DAY or NIGHT-Lowering landing gear (if gear (if fitted), showing steady aerodrome fitted), showing steady landing lights and will comply landing lights and following the overlying runway in use or, if the intercepted intercepting aircraft and, if, after aircraft is a helicopter, overflying the overlying the runway in use or helicopter landing area. In the case of helicopter landing area, landing is helicopters, the intercepting helicopter makes considered safe, proceeding to land. a landing approach, coming to hover near to the landing area.
-(ii) signals initiated by intercepted aircraft and responses
-by intercepting aircraft;
+(ii) signals initiated by intercepted aircraft and
+responses by intercepting aircraft;
 INTERCEPTING Aircraft Meaning INTERCEPTED Aircraft Signals Meaning
 Responds
 Aerodrome Understood DAY or NIGHT-If it is desired that DAY or NIGHT-Raising landing gear (if you have follow me the intercepted aircraft follow the fitted) and flashing landing lights while passing designated is intercepting aircraft to an alternate over runway in use or helicopter landing area at
@@ -68,8 +68,8 @@ as follows:
 (i) when in flight-
 (A) during the hours of daylight by rocking the
 aircraft's wings; and
-Note: This signal should not be expected on the base and final legs of the
-approach.
+Note:This signal should not be expected on the base and final
+legs of the approach.
 (B) during the hours of darkness by flashing on and
 off twice the aircraft's landing lights or, if not so equipped, by switching on and off twice its navigation lights;
 (ii) when on the ground-
@@ -96,9 +96,8 @@ Figure 8.5
 contrasting colour, yellow or white (Figure 8.6), displayed horizontally on runways and taxiways or parts thereof indicate an area unfit for movement of aircraft;
 Figure 8.6
 (vi) directions for landing or take-off:
-A horizontal white or orange landing T (Figure 8.7) indicates the direction to be used by aircraft for landing and take-off, which shall be in a direction parallel to the shaft of the T towards the cross arm;
-Note: When used at night, the landing T is either illuminated or
-outlined in white coloured lights.
+A horizontal white or orange landing T (Figure 8.7) indicates the direction to be used by aircraft for landing and take-off, which shall be in a direction parallel to the shaft of the T towards the cross arm; Note: When used at night, the landing T is either illuminated
+or outlined in white coloured lights.
 Figure 8.7
 (vii) a set of two digits (Figure 8.8) displayed vertically at
 or near the aerodrome control tower indicates to aircraft on the manoeuvring area the direction for take-off, expressed in units of 10 degrees to the nearest 10 degrees of the magnetic compass;
@@ -162,7 +161,6 @@ Do not remove chocks until authorised by flight crew.
 Marshalling Signal No. 9
 9. Start engine(s)
 Raise right arm to head level with wand pointing up and start a circular motion with hand; at the same time, with left arm raised above head level, point to engine to be started.
-Marshalling Signal No. 10
 10. Cut engines
 Extend arm with wand forward of body at shoulder level; move hand and wand to top of left shoulder and draw wand to top of right shoulder in a slicing motion across throat. Marshalling Signal No. 11
 11. Slow down
@@ -186,8 +184,7 @@ Note.-This signal is also used as a t e c h n i c a l / s e r v i c i n g commun
 Fully extend arms and wands at a 90-degree angle to sides.
 Marshalling Signal No. 17
 *17. Move upwards
-Fully extend arms and wands at a 90-degree angle to sides and, with palms turned up, move hands upwards. Speed of movement indicates rate of ascent.
-Marshalling Signal No. 18
+Fully extend arms and wands at a 90-degree angle to sides and, with palms turned up, move hands upwards. Speed of movement indicates rate of ascent. Marshalling Signal No. 18
 *18. Move downwards
 Fully extend arms and wands at a 90-degree angle to sides and, with palms turned down, move hands downwards. Speed of movement indicates rate of descent. Marshalling Signal No. 19(a)
 *19(a). Move horizontally left (from pilot's point of view)
@@ -269,13 +266,13 @@ limited to determining the identity of the
 aircraft, unless it is necessary to return the aircraft to its planned track, direct it beyond the boundaries of national airspace, guide it away from a prohibited, restricted or danger area or instruct it to effect a landing at a designated aerodrome;
 (III) practice interception of civil aircraft will
 not be undertaken;
-(IV) navigational
-guidance and related
+(IV) navigational guidance and related
 information will be given to an intercepted aircraft by radiotelephony, whenever radio contact can be established; and
 (V) in the cast where an intercepted civil
 aircraft is required to land in the territory overflown, the aerodrome designated for the landing is to be suitable for the safe landing of the aircraft type concerned;
 Note: In the unanimous adoption by the 25th Session
-(Extraordinary) of the ICA0 Assembly on 10th May 1984 of Article 3 is to the Convention on International Civil Aviation, the Contracting States have recognised that "every State shall refrain from resorting to the use of weapons against civil aircraft in flight". (B) Contracting States shall publish a standard method
+(Extraordinary) of the ICA0 Assembly on 10th May 1984 of Article 3 is to the Convention on International Civil Aviation, the Contracting States have recognised that "every State shall refrain from resorting to the use of weapons against civil aircraft in flight".
+(B) Contracting States shall publish a standard method
 that has been established for the manoeuvring of aircraft intercepting a civil aircraft. Such method shall be designed to avoid any hazard for the intercepted aircraft;
 (C) Contracting States shall ensure that provision is
 made for the use of secondary surveillance radar, where available, to identify civil aircraft in areas where they may be subject to interception;
