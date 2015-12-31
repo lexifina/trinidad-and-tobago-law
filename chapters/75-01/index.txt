@@ -27,7 +27,6 @@ s-16.md
 s-17.md
 s-18.md
 s-18A.md
-s-18B.md
 s-19.md
 s-20.md
 s-21.md
@@ -77,6 +76,7 @@ s-48J.md
 s-48K.md
 s-48L.md
 s-48M.md
+s-48N.md
 s-49.md
 s-50.md
 s-51.md
