@@ -56,31 +56,30 @@ Rule I.
 (b) Turn to the section of Table I, which contains in the heading
 the age of the husband at the date of completion of his period of contribution, and multiply the amount of the current annual contribution, by the quantity found from that section corresponding to the respective ages next birthday of the husband and wife at the date of marriage. The product gives the registered pension on account of the annual contribution current at the date of marriage.
 Example of the application of Rules I. (a) and I. (b)-
-Officer born on ... July 31, 1858 Officer commenced to contribute on… … April 1, 1884 Officer married on ... June 30, 1888
-Annual contribution at date of marriage … $19.20
-Date of completion of contribution period … April 1, 1919 Wife born on ... Aug. 31, 1868
+Officer born on ... July 31, 1858 Officer commenced to contribute on… … April 1, 1884 Officer married on ... June 30, 1888 Annual contribution at date of marriage … $19.20 Date of completion of contribution period … April 1, 1919 Wife born on ... Aug. 31, 1868
 Officer's age next birthday at date of marriage 30
 Officer's age next birthday at completion
 of contribution period … … … 61
 Wife's age next birthday at date of marriage… 20
 Application of Rule I. (a)-
 Accumulation of contributions paid during bachelorhood-
+}
 Total accumulation-$81.60.
 Quantity found from Table II-
-}
 Husband* 30
 ...554
 Wife* 20
 $81.60 x .554 = $45.21 = registered pension in consideration of contributions paid during bachelorhood. Application of Rule I. (b)-
-Annual contribution current at the date of marriage, $19.20. Quantity found from Table I, section for Officers aged 61 next
-birthday at completion of period of contribution-
+Annual contribution current at the date of marriage, $19.20.
 }
+Quantity found from Table I, section for Officers aged 61 next
+birthday at completion of period of contribution-
 Husband* 30
 … … … 5.77
 Wife* 20
 * Note-Where the ages are not given in the Tables, proceed as illustrated in the general
 examples given in F. $19.20 x 5.77 = $110.78 = registered pension in consideration of annual contribution current at marriage.
-Total Registered Pension to be recorded on the bachelor contributor marrying-
+to be recorded on the bachelor Total Registered Pension contributor marrying-
 By Rule I. (a) … … … $ 45.21 By Rule I. (b) … … … $110.78
 Total … … … $155.99
 (c) Variations of pension consequent on increments to, and
@@ -91,7 +90,7 @@ Rule I.
 the age of the husband at the date of completion of his period of contribution, and multiply the amount of the increment to, or the decrement from, the current annual contribution by the quantity found from that section corresponding to the respective ages next birthday of the husband and wife at the date of the variation of the contribution.
 The product gives the amount to be added to the
 registered pension consequent on the increment to the current annual contribution, or, as the case may be, the amount to be deducted from the registered pension consequent on the decrement from the current annual contribution. Example of the application of Rule I. (c)-
-Example Assume particulars as in the subjoined to
+Assume particulars as in the subjoined to Example
 Rules I. (a) and I. (b)-
 Annual contribution increased on 31st May
 $28.80 1893, from $19.20 to … …
@@ -100,19 +99,20 @@ $24.00 1898, from $28.80 to … … …
 Annual contribution ceased on 31st March 1903,
 31st May 1893-Increment to current annual
 contribution … … … $ 9.60
+}
 Quantity found from Table I, section for Officers aged 61 next
-birthday at completion of period of contribution- }
+birthday at completion of period of contribution-
 Husband 35
 … … … 4.74
 Wife 25 $9.60 x 4.74 = $45.50 = amount to be added to the registered pension.
 Registered pension at marriage, see Example
 subjoined to Rules I. (a) and I. (b) … … … $ 155.99
-Add ... $ 45.50 Registered pension at 31st May 1893 … … $ 201.49
+Add ... $ 45.50 Registered pension at 31st May 1893 … …
+$ 201.49
 30th April 1898-Decrement from current
 annual contribution ... $ 4.80
-Quantity found from Table I, section for Officers aged 61 next
+} Quantity found from Table I, section for Officers aged 61 next
 birthday at completion of period of contribution-
-}
 Husband 40
 … … … 3.83
 Wife 30
@@ -121,9 +121,8 @@ Registered pension at 31st May 1893, as above … $ 201.49 Deduct ... $ 18.38
 Registered pension at 30th of April 1898 … $ 183.11
 31st March 1903-Cessation of contribution
 regarded as a decrement from current annual contribution ... $ 24.00
-Quantity found from Table I, section for Officers aged 61 next
+} … … … 2.99 Quantity found from Table I, section for Officers aged 61 next
 birthday at completion of period of contribution-
-} … … … 2.99
 Husband 45 Wife 35
 $24.00 x 2.99 = $71.76 = amount to be deducted from registered pension.
 Registered pension at 30th April 1898, as
@@ -154,15 +153,15 @@ date of the re-marriage … 20
 Age next birthday which the first
 wife would have attained had she survived to date of the re-marriage … … … 25
 31st January 1893-The second wife being of a less age next
-birthday at the date of the re-marriage than the first wife would have been had she survived, the registered pension $155.99-see Example subjoined to Rules I. (a) and I. (b)-is to be re-calculated.
-Quantity found from Table III.-
+birthday at the date of the re-marriage than the first wife would have been had she survived, the registered pension $155.99-see Example subjoined
 }
-Husband 35
-… 2.074
+to Rules I. (a) and I. (b)-is to be re-calculated.
+Quantity found from Table III.-
+Husband 35 … … 2.074
+}
 Wife 25
 Quantity found from Table II.-
-} … .462
-Husband 35 Wife 20
+Husband 35 … … .462 Wife 20
 $155.99 x 2.074 = $323.52. $323.52 x .462 = $149.47 = registered pension at 31st January 1893.
 (c) Variations of pension consequent on increments to, and
 decrements from, the current annual contribution while the contributor is married to his second, or subsequent, wife.
@@ -190,8 +189,8 @@ Wife's age next birthday on 31st
 July 1890 ... 30
 31st July 1890-Current annual
 contribution ... $19.20
-Quantity found from Table I, section for Officers aged 65 next birthday at completion of period of contribution-
 } … … 3.99
+Quantity found from Table I, section for Officers aged 65 next birthday at completion of period of contribution-
 Husband 40 Wife 30
 $19.20 x 3.99 = $76.61 = registered pension in consideration of annual contribution current at commencement of contribution.
 (b) Variations of pension consequent on increments to, and
