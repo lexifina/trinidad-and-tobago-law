@@ -2,7 +2,7 @@ MUNICIPAL CORPORATIONS (PENSIONS) ACT
 CHAPTER 25:05
 Act
 29 of 1936 Amended by
-3 of 1944 12 of 1954 27 of 1956 12 of 1957 *18 of 1960 13 of 1965 15 of 1984 5 of 1985 *9 of 1987 *19 of 1989 20 of 1997 †17 of 2007 †30 of 2007 †1 of 2009 †13 of 2010 †2 of 2012
+3 of 1944 12 of 1954 27 of 1956 12 of 1957 *18 of 1960 13 of 1965 15 of 1984 5 of 1985 *9 of 1987 *19 of 1989 20 of 1997 †17 of 2007 †30 of 2007 †1 of 2009 †13 of 2010 †2 of 2012 †2 of 2015
 *By implication
 †See Note on page 2
 Index of Subsidiary Legislation
@@ -30,6 +30,8 @@ Note on Act No. 13 of 2010
 Section 26 of Act No. 13 of 2010 provides that amendments to sections 10 and 17 shall come into effect from 1st September 2010.
 Note on Act No. 2 of 2012
 By Act No. 2 of 2012 Sections 14A and 14B took effect from 1st January 2004.
+Note on Act No. 2 of 2015
+Amendments made to sections 10 and 17 by Act No. 2 of 2015 took effect from 1st October 2014.
 CHAPTER 25:05
 MUNICIPAL CORPORATIONS (PENSIONS) ACT
 ARRANGEMENT OF SECTIONS
