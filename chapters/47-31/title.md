@@ -1,14 +1,13 @@
 TELECOMMUNICATIONS ACT
 CHAPTER 47:31
 Act
-4 of 2001
-Amended by
-17 of 2004
+4 of 2001 Amended by 17 of 2004
 Index of Subsidiary Legislation
-Page Telecommunications Tenders Rules (LN 74/2005) … … … 62 Telecommunications (Access to Facilities) Regulations (LN 180/2006)… 83 Telecommunications (Interconnection) Regulations (LN 181/2006) … 105 Telecommunications (Fees) Regulations (LN 206/2006) … … 131
+Page Telecommunications Tenders Rules (LN 74/2005) … … … 62 Telecommunications (Access to Facilities) Regulations (LN 180/2006)… 83 Telecommunications (Interconnection) Regulations (LN 181/2006) … 105 Telecommunications (Fees) Regulations (LN 206/2006) … … 131 Telecommunications (Universal Service) Regulations (LN 63/2015)… 150 Telecommunications (Accounting Separation) Regulations (LN 64/2015) 169
 CHAPTER 47:31
 TELECOMMUNICATIONS ACT
-ARRANGEMENT OF SECTIONS SECTION
+ARRANGEMENT OF SECTIONS
+SECTION
 PART I
 PRELIMINARY
 1. Short title.
@@ -16,8 +15,7 @@ PRELIMINARY
 2. Interpretation. 3. Objects of the Act.
 PART II
 THE TELECOMMUNICATIONS AUTHORITY
-4. Establishment of the Authority. 5. Management of Authority by Board. 6. Constitution of Board. 7. Corporate Secretary. 8. Executive Director. 9. Absence from office of Executive Director.
-10. Seal. 11. Ordinary meetings. 12. Special meetings. 13. Quorum. 14. Decisions of the Board. 15. Disclosure of interest. 16. Inducement, collusion, concealment or connivance. 17. Personal liability of members. 18. Functions and powers of the Authority. 19. Directions by the Minister. 20. Assets transferred to the Authority.
+4. Establishment of the Authority. 5. Management of Authority by Board. 6. Constitution of Board. 7. Corporate Secretary. 8. Executive Director. 9. Absence from office of Executive Director. 10. Seal. 11. Ordinary meetings. 12. Special meetings. 13. Quorum. 14. Decisions of the Board. 15. Disclosure of interest. 16. Inducement, collusion, concealment or connivance. 17. Personal liability of members. 18. Functions and powers of the Authority. 19. Directions by the Minister. 20. Assets transferred to the Authority.
 PART III
 CONCESSIONS
 21. Requirement for a concession. 22. Conditions applicable to all concessions. 23. Conditions applicable to a concession for a broadcasting service.
@@ -50,13 +48,14 @@ ARRANGEMENT OF SECTIONS-Continued
 SECTION
 PART X
 GENERAL
-73. Directions for Minister. 74. Minister's certification. 75. Monitoring stations. 76. Harmful interference. 77. Obligations under international agreements. 78. Regulations. 79. Authority to promulgate Broadcasting Code. 80. Confidentiality. 81. Forbearance. 82. Dispute resolution. 83. Reconsideration and appeal. 84. Telecommunications during an emergency. 85. Repeal and transitional provisions. SCHEDULE.
+73. Directions for Minister. 74. Minister's certification. 75. Monitoring stations. 76. Harmful interference. 77. Obligations under international agreements. 78. Regulations. 79. Authority to promulgate Broadcasting Code. 80. Confidentiality. 81. Forbearance. 82. Dispute resolution. 83. Reconsideration and appeal. 84. Telecommunications during an emergency. 85. Repeal and transitional provisions.
+SCHEDULE.
 
 CHAPTER 47:31
 TELECOMMUNICATIONS ACT
 An Act for the regulation of Telecommunications in Trinidad
 and Tobago.
-*[ASSENTED TO 5TH JULY, 2001]
+*[ASSENTED TO 5TH JULY 2001]
 Whereas, the Government believes that in order to promote the country as the regional centre for the new information economy, it is necessary to establish a comprehensive and modern legal framework for an open telecommunications sector by permitting new providers of telecommunications services to enter the market and compete fairly:
 And whereas it is appropriate that an Authority be established with transparent regulatory processes to guide the sector's transformation from virtual monopoly, in which Telecommunications Services of Trinidad and Tobago is the principal provider of telecommunications services, to a competitive environment, to monitor and regulate the sector so transformed and, in particular, to prevent anti-competitive practices:
 And whereas, in order to achieve these stated goals, it is necessary to repeal the existing, outdated legislation and enact new legislation, as hereunder proposed:
