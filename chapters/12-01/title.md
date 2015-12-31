@@ -2,8 +2,18 @@ INDICTABLE OFFENCES (PRELIMINARY ENQUIRY) ACT
 CHAPTER 12:01
 Act
 12 of 1917 Amended by
-48 of 1920 *27 of 1986 5 of 1923 †8 of 1990 21 of 1936 †18 of 1994 14 of 1939 20 of 1994 25 of 1948 6 of 1996 1 of 1955 28 of 1996 10 of 1961 19 of 1998 11 of 1961 32 of 1998 29 of 1977 23 of 2005 45 of 1979 4 of 2011
-*See Note on page 2 †See Note on page 2
+48 of 1920 *8 of 1990 5 of 1923 *18 of 1994 21 of 1936 20 of 1994 14 of 1939
+6 of 1996
+25 of 1948
+28 of 1996
+1 of 1955
+19 of 1998
+10 of 1961
+32 of 1998
+11 of 1961
+23 of 2005 29 of 1977 4 of 2011 45 of 1979
+*27 of 1986 11 of 2014
+*See Note on page 2
 Note on Subsidiary Legislation
 This Chapter contains no subsidiary legislation.
 Note on Act No. 27 of 1986
