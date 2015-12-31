@@ -13,5 +13,6 @@ representations as to the nature of the act;
 complainant.
 (2) Subsections (2) to (4) of section 4 applies, mutatis mutandis, to the offence of grievous sexual assault as it does to the offence of rape.
 (3) This section also applies to a husband in relation to the commission of the offence of grievous sexual assault on his wife.
-(4) In subsection (3) "husband" or "wife" includes a cohabitant within the meaning of the Cohabitational Relationships Act.
+(4) In subsection (3) "husband" or "wife" includes a
+} cohabitant within the meaning of the Cohabitational Relationships Act.
 - Margin: Ch. 45:55.
