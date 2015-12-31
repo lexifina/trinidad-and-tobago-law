@@ -6,18 +6,15 @@ PART I
 PRELIMINARY
 1. Citation. 2. Interpretation.
 PART II
-TRAINING OBLIGATIONS AND COMPLIANCE
-PROGRAMME OF A FINANCIAL INSTITUTION OR
-LISTED BUSINESS
+TRAINING OBLIGATIONS AND COMPLIANCE PROGRAMME OF A FINANCIAL INSTITUTION
+OR LISTED BUSINESS
 3. Compliance Officer. 4. Functions of the Compliance Officer. 5. Recruitment of staff. 6. Training of staff. 7. Compliance programme. 8. Internal reporting to Compliance Officer. 9. Legal professional adviser. 10. Auditors to review programme.
 PART III
 CUSTOMER DUE DILIGENCE
-11. Identification procedure. 12. Beneficial owner. 13. Representative applicant. 14. Risk-based approach. 15. New business relationship. 16. Identity of a business customer. 17. Trust fiduciaries. 18. Discrepancies in information. 19. Anonymous accounts. 20. Politically exposed persons. 21. Correspondent banking. 22. Shell banks. 23. Technological developments.
-ARRANGEMENT OF REGULATIONS-Continued
-REGULATION
+11. Identification procedure. 12. Beneficial owner. 13. Representative applicant. 14. Risk-based approach. 15. New business relationship. 16. Identity of a business customer. 17. Trust fiduciaries. 18. Discrepancies in information. 19. Anonymous accounts. 20. Politically exposed persons. 21. Correspondent banking. 22. Shell banks. 23. Technological developments. REGULATION
 PART IV
-CUSTOMER DUE DILIGENCE PROVISIONS FOR
-INSURANCE COMPANIES
+CUSTOMER DUE DILIGENCE PROVISIONS
+FOR INSURANCE COMPANIES
 24. General requirements. 25. Verification of customer identity. 26. Reinsurers. 27. Payment of claims. 28. Payments on surrender of policy. 29. Exceptions to verification of identity. 30. Transactions not linked.
 PART V
 RECORD KEEPING

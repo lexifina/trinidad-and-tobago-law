@@ -131,3 +131,14 @@ sl-01/r-42.md
 sl-01/r-43.md
 sl-01/r-44.md
 sl-01/r-45.md
+sl-02/title.md
+sl-02/r-1.md
+sl-02/r-2.md
+sl-02/r-3.md
+sl-02/schedule.md
+sl-02/form-a.md
+sl-02/form-b.md
+sl-02/form-c.md
+sl-02/form-d.md
+sl-02/form-e.md
+sl-02/form-f.md
