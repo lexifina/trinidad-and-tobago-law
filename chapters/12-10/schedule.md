@@ -5,7 +5,7 @@
 (c) psychologists;
 (d) communications specialists;
 (e) administrative staff;
-(f) an attorney-at-law; and
+(f) an Attorney-at-law; and
 (g) such other officers that are necessary for the carrying out of
 the purposes of the Act.
 2. The competencies of the personnel of the Counter-Trafficking Unit referred to in paragraphs 1(a) to (e) shall include-
