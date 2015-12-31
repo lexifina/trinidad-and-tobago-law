@@ -4,17 +4,12 @@ Act
 11 of 2013
 Amended by
 3 of 2014
-Note on Subsidiary Legislation
-This Chapter contains no subsidiary legislation.
-Note on Commencement
-At the date of the Revision of this Act, sections 6, 7, 9, 10, 11, 12, 13, 16, 27 and 29 were not yet in operation. (See LN 226/2014).
+Index of Subsidiary Legislation
+Page Dog Control Regulations (LN 52/2015) ... 24 Dog Control (Approved Microchip) Order (LN 116/2015) … … 44
 Note on Act No. 3 of 2014
-(1) Act No. 3 of 2014 which amends this Act was brought into operation on 2nd June 2014.
-(See LN 227/2014).
-(2) Section 29 of Act No. 11 of 2013 repealed sections 15, 16 and 17 of the Dogs Act
-Chap. 67:54 and section 30 repealed the Dangerous Dogs Act No. 32 of 2000.
-However, up to the date of the Revision of this Act, section 29 had not yet been
-proclaimed.
+Act No. 3 of 2014 which amends this Act was brought into operation on 2nd June 2014. (See LN 227/2014).
+Note on Repeals
+Section 29 of this Act which came into operation on the 31st day of March 2015, repealed sections 15, 16 and 17 of the Dogs Act (Chap. 67:54) while section 30 repealed the Dangerous Dogs Act. (No. 32 of 2000) which was never proclaimed.
 CHAPTER 67:56
 DOG CONTROL ACT
 ARRANGEMENT OF SECTIONS
