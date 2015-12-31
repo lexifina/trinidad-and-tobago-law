@@ -84,7 +84,7 @@ Transport: Name
 Transport: Nationality
 (Nationality of aircraft or ship as determined by its port of
 registry)
-(Port of Registry) Transport: Place (Optional)
+Transport: Place (Optional) (Port of Registry)
 SCHEDULE-Continued
 Registration
 (International registration number including in respect of ship, the

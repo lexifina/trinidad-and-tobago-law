@@ -293,17 +293,18 @@ and mixed seasonings; prepared mustard Ex 21.04 Soups and broths and preparation
 homogenised composite food preparations (excluding preparations for infant use, put up for retail sale) 21.05 Ice cream and other edible ice, whether or not
 containing cocoa 2106.001 Mauby syrup 2106.002 Other flavoured or coloured sugar syrups 2106.006 Ice cream powders 2106.007 Preparations consisting of saccharin and a
 foodstuff, used for sweetening purposes 2106.009 Other food preparations not elsewhere specified or
-included 2201.101 Mineral waters 2201.102 Aerated waters Heading No. Description of Goods 2202.101 Aerated beverages 2209.00 Vinegar and substitutes for vinegar obtained from
+included 2201.101 Mineral waters Heading No. Description of Goods 2201.102 Aerated waters 2202.101 Aerated beverages 2209.00 Vinegar and substitutes for vinegar obtained from
 acetic acid 2309.10 Dog or cat food, put up for retail sale 2309.901 Mixed bird seed 2309.902 Other foods for pets 2501.001 Table salt in retail packages of not more than 2.5 kg 2712.10 Petroleum jelly 33.03 Perfumes and toilet waters 33.04 Beauty or make-up preparations and preparations
 for the care of the skin (other than medicaments), including sunscreen or sun tan preparations; manicure or pedicure preparations 33.05 Preparations for use on the hair 3306.101 Toothpastes Ex 33.07 Pre-shave, shaving or after-shave preparations,
 personal deodorants, bath preparations, depilatories and other perfumery, cosmetic or toilet preparations, not elsewhere specifed or included; prepared room deodorisers, whether or not perfumed or having disinfectant properties (excluding perfumed bath salts and other bath preparations) Ex 34.01 Soap, organic surface-active products and
 preparations for use as soap, in form of bars, cakes, moulded pieces or shapes, whether or not containing soap; paper, wadding: felt and non-wovens, impregnated, coated or covered with soap or detergent (excluding industrial soaps) 34.02 Organic surface-active agents (other than soap);
 surface-active preparations, washing preparations (including auxiliary washing preparations) and cleaning preparations, whether or not containing soap, other than those of heading No. 3401 (excluding organic surface-active agents, not put up for retail sale) 34.05 Polishes and creams, for footwear, furniture, floors,
-coachwork, glass or metal, scouring pastes and powders and similar preparations (whether or not in the form of paper, wadding, felt, non-wovens, cellular plastics or cellular rubber, impregnated, coated or covered with such preparations), excluding waxes of heading No. 3404.00
+coachwork, glass or metal, scouring pastes and powders and similar preparations (whether or not in the form of paper, wadding, felt, non-wovens, cellular plastics or cellular rubber, impregnated, coated or covered with such preparations),
 CLASS II
 LIST OF COMMODITIES INELIGIBLE FOR
 CONDITIONAL DUTY EXEMPTIONS-Continued
-Heading No. Description of Goods 34.06 Candles, tapers and the like 36.05 Matches, other than pyrotechnic articles of
+Heading No. Description of Goods
+excluding waxes of heading No. 3404.00 34.06 Candles, tapers and the like 36.05 Matches, other than pyrotechnic articles of
 heading No. 3604 3808.10 Insecticides: 3808.102 Mosquito coils 3808.103 Other, put up in forms or packings for retail sale or
 as preparations or articles 3808.40 Disinfectants: 3808.401 Put up in forms or packings for retail sale or as
 preparations or articles 3808.901 Rodenticides, put up in forms or packings for
@@ -312,19 +313,20 @@ as preparations or articles 3917.301 Garden hose, of plastics 3924.101 Cups, for
 of plastics 3924.901 Ashtrays, buckets, coat-hangers and dustbins, of
 plastics 3924.902 Flower pots, of plastics 4016.991 Rubber bands 4202.101 Suitcases, travelling bags, and briefcases, of leather 4202.102 Suitcases, of other materials 4202.103 Travelling bags and briefcases, of other materials 4202.20 Handbags, whether or not with shoulder strap,
 including those without handle: 4202.201 Of leather 4202.209 Of other materials 4202.301 Purses, spectacle cases and wallets, of leather 4202.302 Purses, spectacle cases and wallets, of other materials 4415.20 Pallets, box pallets and other load boards 4419.00 Tableware and kitchen-ware, of wood Ex 44.20 Caskets and cases for jewellery or cutlery, and
-similar articles, of wood; statuettes and other ornaments, of wood; wooden articles of furniture not falling in Chapter 94 Heading No. Description of Goods 4421.10 Clothes hangers 4421.909 Other articles of wood 4601.20 Mats, matting and screens of vegetable materials 4601.901 Straw envelopes for bottles 46.02 Basketwork, wickerwork and other articles, made
+similar articles, of wood; statuettes and other Heading No. Description of Goods
+ornaments, of wood; wooden articles of furniture not falling in Chapter 94 4421.10 Clothes hangers 4421.909 Other articles of wood 4601.20 Mats, matting and screens of vegetable materials 4601.901 Straw envelopes for bottles 46.02 Basketwork, wickerwork and other articles, made
 directly to shape from plaiting materials or made up from goods of heading No. 46:01; articles of loofah 48.17 Envelopes, letter cards, plain post cards and
 correspondence cards, of paper or paperboard; boxes, pouches, wallets and writing compendiums, of paper or paperboard, containing an assortment of paper stationery 48.18 Toilet paper, handkerchiefs, cleansing tissues,
 towels, tablecloths, serviettes, napkins for babies, tampons, bed sheets and similar household, sanitary or hospital articles, articles of apparel and clothing accessories of paper pulp, paper, cellulose wadding or webs of cellulose fibres: 4818.10 Toilet paper 4818.20 Handkerchiefs, cleansing or facial tissues and towels 4818.302 Serviettes 4818.50 Articles of apparel and clothing accessories 4818.90 Other articles 4819.60 Box files, letter trays, storage boxes and similar
 articles, of a kind used in offices, shops or the like Ex 48.20 Registers, account books, note books, order books,
 receipt books, letter pads, memorandum pads, diaries and similar articles, blotting-pads, binders (loose-leaf or other), folders, file covers, manifold business forms, interleaved carbon sets and other articles of stationery, of paper or paperboard; albums for samples or for collections and book covers, of paper or paperboard 4823.50 Other paper and paperboard, of a kind used for
 writing, printing or other graphic purposes 4823.60 Trays, dishes, plates, cups and the like, of paper or
-paperboard 4907.003 Cheque forms 4907.009 Other stamp-impressed paper; stock, share or bond
-certificates and similar documents of title
+paperboard 4907.003 Cheque forms
 CLASS II
 LIST OF COMMODITIES INELIGIBLE FOR
 CONDITIONAL DUTY EXEMPTIONS-Continued
-Heading No. Description of Goods 49.09 Printed or illustrated post cards; printed cards
+Heading No. Description of Goods 4907.009 Other stamp-impressed paper; stock, share or bond
+certificates and similar documents of title 49.09 Printed or illustrated post cards; printed cards
 bearing personal greetings, messages or announcements, whether or not illustrated, with or without envelopes or trimmings 4910.00 Calendars of any kind, printed, including calendar
 blocks 4911.009 Other printed matter 5608.102 Net shopping bags 5608.902 Net shopping bags 57.01 Carpets and other textile floor coverings, knotted,
 whether or not made up: 57.02 Carpets and other textile floor coverings, woven,
@@ -334,8 +336,8 @@ not tufted or flocked, whether or not made up 5705.00 Other carpets and other te
 or not made up 6101.00 Men's or boys' over-coats, car-coats, capes, cloaks,
 anoraks (including ski jackets), windcheaters, wind jackets and similar articles, knitted or crocheted, other than those of heading No. 61.03 6102.00 Women's or girls' over-coats, car-coats, capes,
 cloaks, anoraks (including ski jackets), wind-cheaters, wind jackets and similar articles, knitted or crocheted, other than those of heading No. 61.04 61.03 Men's or boys' suits, ensembles, jackets, blazers,
-trousers, bib and brace overalls, breeches and shorts (other than swim wear), knitted or crocheted 61.04 Women's or girls' suits, ensembles, jackets,
-blazers, dresses, skirts, divided skirts, trousers, bib and brace overalls, breeches and shorts (other than swim wear), knitted or crocheted Heading No. Description of Goods 61.05 Men's or boys' shirts, knitted or crocheted 61.06 Women's or girls' blouses, shirts and shirt-blouses,
+trousers, bib and brace overalls, breeches and shorts (other than swim wear), knitted or crocheted 61.04 Women's or girls' suits, ensembles, jackets, Heading No. Description of Goods
+blazers, dresses, skirts, divided skirts, trousers, bib and brace overalls, breeches and shorts (other than swim wear), knitted or crocheted 61.05 Men's or boys' shirts, knitted or crocheted 61.06 Women's or girls' blouses, shirts and shirt-blouses,
 knitted or crocheted 61.07 Men's or boys' underpants, briefs, night-shirts,
 pyjamas, bathrobes, dressing gowns and similar articles, knitted or crocheted 61.08 Women's or girls' slips, petticoats, briefs, panties,
 nightdresses, pyjamas, negligees, bathrobes, dressing gowns and similar articles, knitted or crocheted 61.09 T-shirts, singlets and other vests, knitted or crocheted 61.10 Jerseys, pullovers, cardigans, waist-coats and
@@ -346,12 +348,12 @@ of heading No. 5903.00, 59.06 or 5907.00 6114.00 Other garments, knitted or croc
 including stockings for varicose veins and footwear without applied soles, knitted or crocheted 61.16 Gloves, mittens and mitts, knitted or crocheted Ex 61.17 Other made up clothing accessories, knitted or
 crocheted; knitted or crocheted clothing accessories 62.01 Men's or boys' overcoats, car coats, capes, cloaks,
 anoraks (including ski jackets), windcheaters, wind jackets and similar articles, other than those of heading No. 62.03 62.02 Women's or girls' overcoats, car coats, capes,
-cloaks, anoraks (including ski jackets), windcheaters, wind jackets and similar articles, other than those of heading No. 62.04 62.03 Men's or boys' suits, ensembles, jackets, blazers,
-trousers, bib and brace overalls, breeches and shorts (other than swim wear)
+cloaks, anoraks (including ski jackets), windcheaters, wind jackets and similar articles, other than those of heading No. 62.04
 CLASS II
 LIST OF COMMODITIES INELIGIBLE FOR
 CONDITIONAL DUTY EXEMPTIONS-Continued
-Heading No. Description of Goods 62.04 Women's or girls' suits, ensembles, jackets,
+Heading No. Description of Goods 62.03 Men's or boys' suits, ensembles, jackets, blazers,
+trousers, bib and brace overalls, breeches and shorts (other than swim wear) 62.04 Women's or girls' suits, ensembles, jackets,
 blazers, dresses, skirts, divided skirts, trousers, bib and brace overalls, breeches and shorts
 (other than swim wear)
 62.05 Men's or boys' shirts 62.06 Women's or girls' blouses, shirts and shirt blouses 62.07 Men's or boys' singlets and other vests,
@@ -361,7 +363,7 @@ briefs, panties, nightdresses, pyjamas, negligees, bathrobes, dressing gowns and
 gloves) Ex 62.17 Other made up clothing accessories 63.02 Bed linen, table linen, toilet linen and kitchen linen 63.03 Curtains (including drapes) and interior blinds;
 curtain or bed valances 63.04 Other furnishing articles, excluding those of
 heading No. 94.04 6307.10 Floor-cloths, dish-cloths, dusters and similar
-cleaning cloths 6307.902 Dress patterns, of other textile materials 6307.903 Flags, pennants and banners 6307.904 Pin cushions Heading No. Description of Goods 6307.909 Other made up textile articles 6309.00 Worn clothing and other worn articles 6401.10 Footwear incorporating a protective metal toe-cap 6401.901 Waterproof boots (Wellingtons) 6403.40 Other footwear, incorporating, a protective metal
+cleaning cloths Heading No. Description of Goods 6307.902 Dress patterns, of other textile materials 6307.903 Flags, pennants and banners 6307.904 Pin cushions 6307.909 Other made up textile articles 6309.00 Worn clothing and other worn articles 6401.10 Footwear incorporating a protective metal toe-cap 6401.901 Waterproof boots (Wellingtons) 6403.40 Other footwear, incorporating, a protective metal
 toe-cap 6503.00 Felt hats and other felt headgear, made from the
 hat bodies, hoods or plateaux of heading No. 6501.00 whether or not lined or trimmed 6504.00 Hats and other headgear, plaited or, made by
 assembling strips of any material, whether or not lined or trimmed Ex 65.05 Hats and other headgear, knitted or crocheted, or
@@ -371,27 +373,28 @@ stick umbrellas, garden umbrellas and similar umbrellas) 6602.00 Walking-sticks,
 and the like 6701.001 Fans 6702.001 Artificial flowers, foliage and fruit; articles made
 of artificial flowers foliage or fruit 6802.001 Articles 6803.001 Troughs, reservoirs, basins and sinks 6809.009 Other articles of plaster or of compositions based
 on plaster 6810.991 Statues, statuettes, animal figures, vases, flower-
-pots, architectural and garden ornaments; bird baths, fountain basins, tombstones; reservoirs and troughs 6913.00 Statuettes and other ornamental ceramic articles 6914.00 Other ceramic articles 7016.109 Other glass cubes and other glass smallwares
+pots, architectural and garden ornaments; bird baths, fountain basins, tombstones; reservoirs and troughs
 CLASS II
 LIST OF COMMODITIES INELIGIBLE FOR
 CONDITIONAL DUTY EXEMPTIONS-Continued
-Heading No. Description of Goods 7018.909 Other statuettes and other ornaments of lamp-worked
+Heading No. Description of Goods 6913.00 Statuettes and other ornamental ceramic articles 6914.00 Other ceramic articles 7016.109 Other glass cubes and other glass smallwares 7018.909 Other statuettes and other ornaments of lamp-worked
 glass and articles of glass beads, imitation pearls, imitation precious or semi-precious stones and similar glass smallwares 7321.101 Stoves and ranges 7321.102 Cookers 7321.103 Barbecues 7323.102 Pot scourers and scouring or polishing pads 7323.901 Baking pans 7323.902 Buckets 7323.903 Dustbins 7323.904 Funnels 7323.905 Watering-cans 7323.906 Clothes hangers 7323.907 Letter boxes 7615.101 Saucepans 7615.102 Baking, stew and frying pans 8212.201 Safety razor blades 8310.00 Sign-plates, name-plates, address-plates, and similar
 plates, numbers, letters and other symbols, of base metal, excluding those of heading No. 94.05 Ex 8414.51 Table, floor, wall or window fan, with a self-
 contained electric motor of an output not exceeding 125W: Ex 84.15 Air-conditioning machines, comprising a motor-
 driven fan and elements for changing the temperature and humidity, including those machines in which the humidity cannot be separately regulated (excluding parts) Ex 84.18 Refrigerators, freezers and other refrigerating or
-freezing equipment, electric or other; heat pumps other than air conditioning machines of heading No. 84.15 (excluding other refrigerating or freezing chests, cabinets, display counters, show cases and similar refrigerating or freezing furniture and parts) Heading No. Description of Goods 8419.101 Solar water heaters, for domestic use 8419.102 Other solar water heaters 8419.103 Other water heaters, for domestic. use 8419.109 Other water heaters, non-electric 8421.121 Clothes-dryers, for domestic use 85.06 Primary cells and primary batteries 85.07 Electric accumulators, including separators therefor,
+freezing equipment, electric or other; heat pumps other than air conditioning machines of Heading No. Description of Goods
+heading No. 84.15 (excluding other refrigerating or freezing chests, cabinets, display counters, show cases and similar refrigerating or freezing furniture and parts) 8419.101 Solar water heaters, for domestic use 8419.102 Other solar water heaters 8419.103 Other water heaters, for domestic. use 8419.109 Other water heaters, non-electric 8421.121 Clothes-dryers, for domestic use 85.06 Primary cells and primary batteries 85.07 Electric accumulators, including separators therefor,
 whether or not rectangular (including square) 8509.801 Blenders 8516.101 Electric instantaneous or storage water heaters 8516.601 Stoves and cookers 8519.20 Other record-players 8519.30 Turntables (record-decks) 8519.91 Cassette-type 8519.99 Other sound reproducing apparatus 8520.31 Cassette-type 8520.39 Other magnetic tape recorders incorporating sound
 reproducing apparatus 8524.10 Gramophone records 8524.20 Magnetic tapes 85.27 Reception apparatus for radio-telephony, radio-
 telegraphy or radio-broadcasting, whether or not combined, in the same housing, with sound recording or reproducing apparatus or a clock 85.28 Television receivers (including video monitors and
 video projectors), whether or not combined, in the same housing, with radio-broadcast receivers or sound or video recording or reproducing apparatus 8539.20 Other filament lamps, excluding ultra-violet or
-infra-red lamps 8539.31 Fluorescent, hot cathode 8539.39 Other discharge lamps 9206.001 Steelband instruments 9401.30 Swivel seats with variable height adjustment 9401.50 Seats of cane, osier, bamboo or similar materials 9401.60 Other seats, with wooden frames 9401.70 Other seats, with metal frames
+infra-red lamps 8539.31 Fluorescent, hot cathode 8539.39 Other discharge lamps 9206.001 Steelband instruments 9401.30 Swivel seats with variable height adjustment
 CLASS II
 LIST OF COMMODITIES INELIGIBLE FOR
 CONDITIONAL DUTY EXEMPTIONS-Continued
-Heading No. Description of Goods 9401.80 Other seats 9401.90 Parts of seats 9403.209 Other metal furniture 9403.40 Wooden furniture of a kind used in the kitchen 9403.50 Wooden furniture of a kind used in the bedroom 9403.609 Other wooden furniture 9403.709 Other furniture, of plastics 9403.809 Other furniture, of other materials 9403.90 Parts of other furniture 9404.10 Mattress supports 9404.20 Mattresses 9404.90 Other articles of bedding and similar furnishings 9504.40 Playing cards 9504.901 Draught and chess boards 9505.101 Artificial Christmas trees 96.01 Worked ivory, bone, tortoise shell, horn, antlers,
+Heading No. Description of Goods 9401.50 Seats of cane, osier, bamboo or similar materials 9401.60 Other seats, with wooden frames 9401.70 Other seats, with metal frames 9401.80 Other seats 9401.90 Parts of seats 9403.209 Other metal furniture 9403.40 Wooden furniture of a kind used in the kitchen 9403.50 Wooden furniture of a kind used in the bedroom 9403.609 Other wooden furniture 9403.709 Other furniture, of plastics 9403.809 Other furniture, of other materials 9403.90 Parts of other furniture 9404.10 Mattress supports 9404.20 Mattresses 9404.90 Other articles of bedding and similar furnishings 9504.40 Playing cards 9504.901 Draught and chess boards 9505.101 Artificial Christmas trees 96.01 Worked ivory, bone, tortoise shell, horn, antlers,
 coral, mother-of-pearl and other animal carving material, and articles of these materials (including articles obtained by moulding) 96.02 Worked vegetable or mineral carving material and
-articles of these materials; moulded or carved articles of wax, of stearin, of natural gums or natural resins or of modelling pastes and other moulded or carved articles, not elsewhere specified or included, worked, unhardened gelatin, (except gelatin of heading No. 3503.00) and articles of unhardened gelatin 9603.001 Brooms and brushes, consisting of twigs or other
-vegetable materials merely bound together and not mounted in a head (for example, besoms and whisks), with or without handles Heading No. Description of Goods 9603.002 Other brooms and mops for sweeping roads and
-floors 9603.003 Toothbrushes 9603.004 Scrubbing brushes 9603.005 Feather dusters 9608.10 Ballpoint pens 9611.001 Rubber stamps 9613.001 Pocket lighters, gas fuelled, non-refillable 9615.10 Combs, hairslides and the like 9615.901 Hairpins
+articles of these materials; moulded or carved articles of wax, of stearin, of natural gums or natural resins or of modelling pastes and other moulded or carved articles, not elsewhere specified or included, worked, unhardened gelatin, (except gelatin of heading No. 3503.00) and articles of unhardened gelatin Heading No. Description of Goods 9603.001 Brooms and brushes, consisting of twigs or other
+vegetable materials merely bound together and not mounted in a head (for example, besoms and whisks), with or without handles 9603.002 Other brooms and mops for sweeping roads and
+floors 9603.003 Toothbrushes 9603.004 Scrubbing brushes 9603.005 Feather dusters 9608.10 Ballpoint pens 9611.001 Rubber stamps 9613.001 Pocket lighters, gas fuelled, non-refillable 9615.10 Combs, hairslides and the like
 - Margin: 239/1990. [4 of 1992. 6 of 1993. 9 of 1997. 35 of 1998 17 of 2007 13 of 2010].

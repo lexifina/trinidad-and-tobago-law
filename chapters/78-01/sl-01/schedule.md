@@ -51,7 +51,7 @@ OF REGISTRATION
 REPORTED
 SHIP'S TOTAL
 2
-TOBACCO … … … KG. CIGARS … … … KG. CIGARETTES … … … KG. SPIRITS … … … L PERFUMED SPIRITS … … L WINES … … … L FIREARMS … … … NO. AMMUNITION … … NO. DOGS … … … NO. CATS … … … NO. SWINE … … … NO. OTHER ANIMALS … NO.
+PERFUMED SPIRITS … … L AMMUNITION … … NO. TOBACCO … … … KG. CIGARS … … … KG. CIGARETTES … … … KG. SPIRITS … … … L WINES … … … L FIREARMS … … … NO. DOGS … … … NO. CATS … … … NO. SWINE … … … NO. OTHER ANIMALS … NO.
 REGISTERED
 TONNAGE
 NET
@@ -183,8 +183,8 @@ SHIP'S NAME
 STEAM MOTOR
 1
 }
-(IF ANY WRECK OR DERELICT WAS FALLEN IN WITH, OR PICKED UP, OR ANY CASUALTY TO THE VESSEL OCCURRED DURING THE GOODS CONSIGNED TO THE PORT OF FIRST ARRIVAL. GOODS WHICH ARE TO REMAIN ON BOARD FOR DISCHARGE OUTSIDE TRINIDAD AND TOBAGO ARE ALSO TO BE SEPARATELY REPORTED, BUT, IN THE CASE OF STEAMSHIPS, THE REPORT (EXCEPT AS TO RUM AND OTHER SPIRITS, WINES, TOBACCO, CIGARS, AND CIGARETTES, WHICH ARE TO BE SPECIFICALLY REPORTED, AS *GOODS INTENDED FOR ANOTHER PORT IN TRINIDAD AND TOBAGO OR FOR TRANSHIPMENT ARE TO BE SEPARATELY REPORTED, THE SAME PARTICULARS BEING GIVEN AS IN THE CASE OF
-I/WE DECLARE THAT THE ABOVE IS A JUST REPORT OF THE ... AND OF HER LADING, AND THAT THE PARTICULARS THEREIN INSERTED ARE TRUE TO THE BEST OF MY/OUR KNOWLEDGE, AND THAT I/WE HAVE NOT BROKEN BULK OR DELIVERED ANY GOODS OUT OF THE SAID SHIP SINCE MASTER AGENT (‡). FOR COMPTROLLER OF CUSTOMS AND EXCISE.
+(IF ANY WRECK OR DERELICT WAS FALLEN IN WITH, OR PICKED UP, OR ANY CASUALTY TO THE VESSEL OCCURRED DURING THE *GOODS INTENDED FOR ANOTHER PORT IN TRINIDAD AND TOBAGO OR FOR TRANSHIPMENT ARE TO BE SEPARATELY REPORTED, THE SAME PARTICULARS BEING GIVEN AS IN THE CASE OF GOODS CONSIGNED TO THE PORT OF FIRST ARRIVAL. GOODS WHICH ARE TO REMAIN ON BOARD FOR DISCHARGE OUTSIDE TRINIDAD AND TOBAGO ARE ALSO TO BE SEPARATELY REPORTED, BUT, IN THE CASE OF STEAMSHIPS, THE REPORT (EXCEPT AS TO RUM AND OTHER SPIRITS, WINES, TOBACCO, CIGARS, AND CIGARETTES, WHICH ARE TO BE SPECIFICALLY REPORTED, AS
+ARE TRUE TO THE BEST OF MY/OUR KNOWLEDGE, AND THAT I/WE HAVE NOT BROKEN BULK OR DELIVERED ANY GOODS OUT OF THE SAID SHIP SINCE I/WE DECLARE THAT THE ABOVE IS A JUST REPORT OF THE ... AND OF HER LADING, AND THAT THE PARTICULARS THEREIN INSERTED MASTER AGENT (‡). FOR COMPTROLLER OF CUSTOMS AND EXCISE.
 AT WHAT STATION SHIP LYING:
 VOYAGE PARTICULARS TO BE STATED.)
 NAME AND ADDRESS OF AGENTS APPOINTED FOR THIS SHIP BY THE MASTER OR OWNER:
@@ -226,11 +226,14 @@ Surname and Initials
 or operator only use only
 CARGO MANIFEST
 Marks For use
-For Number Nature and by
-Gross
-official and of Numbers From To owner or
-Weight
-use Type of Goods on operator only Packages Packages only
+For
+Number Nature and by
+Gross official
+and of Numbers From To owner or
+Weight use
+Type of Goods on operator
+only
+Packages Packages only
 }
 I declare that this General Declaration, and all statements and particulars contained
 } therein, and in any attached manifests or stores lists are complete and contain to the } best of my knowledge and belief an exact and true account of all: Crew Embarked on* Passengers Disembarked from*
@@ -279,7 +282,8 @@ Tonnage to which she Destination Name of her registry Name
 belongs
 Lying at ... Reported ..., 20...
 I, ..., Master of the ship ..., do hereby declare that no imported goods are left at this date on board of the said ship other than the goods and stores whereof particulars are set out below.
-} Cargo remaining on board:
+}
+Cargo remaining on board:
 Stores remaining on board (*):
 (†)
 Certificate of rummage attached. Date:
@@ -345,9 +349,10 @@ I request that a Loading Licence be issued to enable the ... to proceed coastwis
 Master or Agent
 A Loading Licence is hereby granted to the master of the ..., to proceed to ..., for the purpose of loading ..., and this licence shall remain in force for ... days.
 This licence is issued subject to the observance of the following conditions:
-The duplicate of this licence when completed by the Master as to cargo { and stores loaded at
-(a) is to be delivered to
-{ at before clearance.
+The duplicate of this licence when completed by the Master as to cargo
+{
+and stores loaded at
+(a) is to be delivered to at before clearance. {
 Cargo remaining on board from the
 inward voyage:
 Cargo landed at this port:
@@ -358,7 +363,7 @@ Master or Agent
 Date ..., 20... NOTE-The duplicate of this licence is to be surrendered after completion to the Officer at the port of loading, and the original is to be attached to the content on clearance by the Master or Agent.
 (a) Applicable only in case of a loading licence issued for a port or place at which no Customs Officer is permanently stationed.
 * Delete where not applicable. † To be printed on reverse side. FORM C 15 FORM C 15-Continued
-UNDER ONE HEAD "STORES" FOLLOWING THE PARTICULARS OF THE CARGO. IN THE CASE OF SHIPS OTHER THAN STEAMSHIPS EXCEEDING 100 TONNES REGISTER THE I DECLARE THAT THE ABOVE CONTENT IS A TRUE ACCOUNT OF ALL GOODS SHIPPED, OR INTENDED TO BE SHIPPED ON BOARD THE ABOVE-NAMED SHIP, AND AND "OTHER GOODS," EACH HEAD BEING SUB-DIVIDED UNDER THE HEADS "LIABLE TO EXPORT DUTY" AND "NOT LIABLE TO EXPORT DUTY" AND ALSO UNDER THE HEADS "PRODUCE OF TRINIDAD AND TOBAGO, AND RE-EXPORTS." PARTICULARS OF ALL THE STORES SHIPPED IN TRINIDAD AND TOBAGO ARE TO BE SHOWN TRUE IN ALL PARTICULARS AND THAT ALL LOADING AND SPECIAL LOADING LICENCES FOR GOODS LOADED AT OTHER PORTS IN TRINIDAD AND TOBAGO ARE ATTACHED GOODS ARE TO BE SHOWN SEPARATELY UNDER EACH OF THE FOLLOWING HEADS, VIZ.: "WAREHOUSED GOODS," "DRAWBACK GOODS," "TRANSHIPMENT" MASTER OR AGENT FOR COMPTROLLER OF CUSTOMS AND EXCISE
+AND "OTHER GOODS," EACH HEAD BEING SUB-DIVIDED UNDER THE HEADS "LIABLE TO EXPORT DUTY" AND "NOT LIABLE TO EXPORT DUTY" AND ALSO UNDER THE HEADS "PRODUCE OF TRINIDAD AND TOBAGO, AND RE-EXPORTS." PARTICULARS OF ALL THE STORES SHIPPED IN TRINIDAD AND TOBAGO ARE TO BE SHOWN TRUE IN ALL PARTICULARS AND THAT ALL LOADING AND SPECIAL LOADING LICENCES FOR GOODS LOADED AT OTHER PORTS IN TRINIDAD AND TOBAGO ARE ATTACHED GOODS ARE TO BE SHOWN SEPARATELY UNDER EACH OF THE FOLLOWING HEADS, VIZ.: "WAREHOUSED GOODS," "DRAWBACK GOODS," "TRANSHIPMENT" UNDER ONE HEAD "STORES" FOLLOWING THE PARTICULARS OF THE CARGO. IN THE CASE OF SHIPS OTHER THAN STEAMSHIPS EXCEEDING 100 TONNES REGISTER THE I DECLARE THAT THE ABOVE CONTENT IS A TRUE ACCOUNT OF ALL GOODS SHIPPED, OR INTENDED TO BE SHIPPED ON BOARD THE ABOVE-NAMED SHIP, AND MASTER OR AGENT FOR COMPTROLLER OF CUSTOMS AND EXCISE
 DEPARTURE OFFICIAL USE ONLY
 DATE OF
 FOR
@@ -367,11 +372,10 @@ EXPORT DUTY DESTINATION AMOUNT OF
 PLACE OF PORT OR
 PORT OF VOYAGE NO. DATE OF DEPARTURE IF ANY
 STEAM OFFICIAL NUMBER $
-EXAMINED, MEASURE-
-PASSENGERS
-METRES CUBIC
+EXAMINED,
+PASSENGERS MEASURE-
+METRES CUBIC FREIGHT PAID ON
 MENT
-FREIGHT PAID ON
 NO.
 OF
 WEIGHT T. KG.
@@ -770,7 +774,7 @@ On Saturdays, Sundays and public holidays-From 6.00 a.m. to 6.00 p.m.
 for Comptroller of Customs and Excise Date ..., 20...
 ENDORSEMENTS†
 CLEARED ENTERED
-Officer Officer Date Hour Station Date Hour Station
+Date
 *Issuing Officer to delete and initial words not required. †To be printed on reverse side.
 FORM C 46
 CUSTOMS
@@ -895,7 +899,8 @@ REPUBLIC OF TRINIDAD AND TOBAGO
 BOND FOR THE RE-EXPORTATION OF IMPORTED GOODS
 DELIVERED WITHOUT PAYMENT OF IMPORT DUTY
 Know all men by these presents that we ..., of ..., and ..., of ..., are held and firmly bound unto the State in the sum of ... dollars to be paid to the State for which payment we hereby bind ourselves, our heirs, executors, administrators, and successors, each of us and each of them jointly and severally.
-Dated this ... day of ..., in the year of Our Lord Two Thousand and ... Whereas the above bounden ... has imported into Trinidad and Tobago by the ship ... from ... certain packages containing ... (hereinafter called "the said goods") and marked and/or numbered ..., whereon duties of } Customs have not been paid; and whereas the above bounden ... is required to export the said goods within three months of the date hereof or such further period as the Comptroller of Customs and Excise (hereinafter called "the Comptroller") may allow and to produce proof if required to the satisfaction of the Comptroller of the landing of the said goods abroad, or otherwise to pay to the Comptroller the full duties of Customs in respect of so much of the said goods as may not have been re-exported and so proved as stated above:
+Dated this ... day of ..., in the year of Our Lord Two Thousand and ... Whereas the above bounden ... has imported into Trinidad and Tobago by the ship ... from ... certain packages containing ... (hereinafter called "the said goods") and marked and/or numbered ..., whereon duties of
+} Customs have not been paid; and whereas the above bounden ... is required to export the said goods within three months of the date hereof or such further period as the Comptroller of Customs and Excise (hereinafter called "the Comptroller") may allow and to produce proof if required to the satisfaction of the Comptroller of the landing of the said goods abroad, or otherwise to pay to the Comptroller the full duties of Customs in respect of so much of the said goods as may not have been re-exported and so proved as stated above:
 Now the condition of this obligation is such that if the above bounden ... pays to the Comptroller the full duties of Customs upon any of the said goods which may not have been re-exported and so proved as stated above, and does not sell or otherwise dispose of any or all of the said goods within Trinidad and Tobago without the written permission of the Comptroller, then in such case this obligation shall be void, but otherwise shall remain in full force.
 Signed and delivered by the above bounded in the presence of
 of
@@ -928,8 +933,7 @@ PORT OR PLACE
 Know all men by these presents that we ..., of ..., and ..., of ..., are held and firmly bound unto the State in the sum of ... dollars to be paid to the State for which payment we hereby bind ourselves, our heirs, executors, administrators, and successors, each of us and each of them jointly and severally.
 Dated this ... day of ..., in the year of Our Lord Two Thousand and ...
 Whereas the above bounden has given notice to the Comptroller of Customs and Excise (hereinafter called "the Comptroller") of his intention to remove to ..., by ..., the following goods, that is to say:
-}
-Now the condition of this obligation is such that if the said goods and every part thereof are duly removed and delivered into the custody of the proper Officer of Customs and Excise at ... within ... day/hours from the date hereof, and if no alteration or diminution in quantity or quality (except such as may be accounted for to the satisfaction of the Comptroller) takes place in the said goods, or in the packages in which the goods are delivered from the time of the delivery thereof to the said ... under this obligation, until the delivery thereof into the custody of the proper Officer at ... as mentioned above, and if the above bounden ... thereupon forthwith deliver to the proper Officer proper Customs entries of all such goods so delivered to the satisfaction of the Comptroller and in the case of goods not warehoused in pursuance of an entry for warehousing forthwith pays to the Comptroller all duties and other charges due to him on such goods, then this obligation shall be void, but otherwise shall remain in full force.
+Now the condition of this obligation is such that if the said goods and every part } thereof are duly removed and delivered into the custody of the proper Officer of Customs and Excise at ... within ... day/hours from the date hereof, and if no alteration or diminution in quantity or quality (except such as may be accounted for to the satisfaction of the Comptroller) takes place in the said goods, or in the packages in which the goods are delivered from the time of the delivery thereof to the said ... under this obligation, until the delivery thereof into the custody of the proper Officer at ... as mentioned above, and if the above bounden ... thereupon forthwith deliver to the proper Officer proper Customs entries of all such goods so delivered to the satisfaction of the Comptroller and in the case of goods not warehoused in pursuance of an entry for warehousing forthwith pays to the Comptroller all duties and other charges due to him on such goods, then this obligation shall be void, but otherwise shall remain in full force.
 Signed and delivered by the above bounden in the presence of
 of
 Signed and delivered by the above bounden in the presence of
@@ -942,7 +946,8 @@ REPUBLIC OF TRINIDAD AND TOBAGO
 BOND FOR GOODS AND MACHINERY USED IN
 MANUFACTURE
 Know all men by these presents that we ..., of ..., and ..., of ..., are held and firmly bound unto the State in the sum of ... dollars to be paid to the State for which payment we hereby bind ourselves, our heirs, executors, administrators, and successors, each of us and each of them jointly and severally.
-} Dated this ... day of ..., in the year of Our Lord Two Thousand and ...
+Dated this ... day of ..., in the year of Our Lord Two
+} Thousand and ...
 Whereas the above bounden, ..., desire from time to time to remove to their premises situate at ... various goods (namely: chemicals, raw materials, manufactured and semi-manufactured goods and other articles and machinery) for the manufacture or processing of ... in a bonded area or bonded factory situate at ... without the payment of import duties of Customs;
 Now the condition of this obligation is such that if the said goods are used solely in the manufacture or processing of ... in the above-mentioned bonded area or bonded warehouse or are otherwise accounted for to the satisfaction of the Comptroller of Customs and Excise, then this obligation shall be void but shall otherwise remain in full force.
 Signed and delivered by the above bounden in the presence of
@@ -958,7 +963,7 @@ BOND OF INDEMNITY FOR DETENTION OF GOODS
 Know all men by these presents that we, ..., of ..., and ..., of ..., are held and firmly bound unto the State in the sum of ... dollars to be paid to the State for which payment we hereby bind ourselves, our heirs, executors, administrators, and successors, each of us and each of them jointly and severally.
 Dated this ... day of ..., in the year of Our Lord Two Thousand and ...
 Whereas the above-named ... has by notice dated the ... day of ... informed the Comptroller, or principal Officer of Customs and Excise at ... that the undermentioned goods, that is to say, ... were about to be imported into the port of ... contrary to section 45 of the Customs Act, and requested that the said goods should be detained and dealt with according to law. And whereas the said goods arrived in the said port on the ... day ... last, and are now detained pursuant to the said notice:
-} Now the condition of this obligation is such that if the said ... his heirs, executors and administrators, well and effectually indemnify, save harmless, and keep indemnified the state, its officers of Customs and Excise and their executors or administrators, from and against all loss, damage or expenses which they may sustain or incur by reason or on account of any detention of the said goods following upon the information contained in such notice and any proceedings consequent upon such detention, then this obligation shall be void but otherwise shall remain in full force.
+Now the condition of this obligation is such that if the said ... his heirs, } executors and administrators, well and effectually indemnify, save harmless, and keep indemnified the state, its officers of Customs and Excise and their executors or administrators, from and against all loss, damage or expenses which they may sustain or incur by reason or on account of any detention of the said goods following upon the information contained in such notice and any proceedings consequent upon such detention, then this obligation shall be void but otherwise shall remain in full force.
 Signed and delivered by the above bounden in the presence of
 Signed and delivered by the above bounden in the presence of
 Approved: for Comptroller of Customs and Excise
@@ -969,7 +974,8 @@ BOND FOR EXPORTATION
 Know all men by these presents that we ..., of ..., and ..., of ...are held and firmly bound unto the State in the sum of ... dollars to be paid to the State for which payment we hereby bind ourselves, our heirs, executors, administrators, and successors, each of us and each of them jointly and severally.
 Dated this ... day of ..., in the year of Our Lord Two Thousand and ...
 Whereas the above bounden ..., has given notice of his intention to export to ..., in the ..., the following goods:
-Now the condition of this obligation is such that if the said goods and every part thereof are duly exported to, and landed at ... within ... from the date hereof and if no alteration or diminution in quantity or quality [except such as may be accounted for to the satisfaction of the Comptroller of Customs and Excise (hereinafter called "the Comptroller")] takes place in the said goods, or in the casks, cases or package in which the goods are delivered, from the time of the delivery thereof } to the said ... under this obligation, until the landing thereof at the said place; and if the said ... shall in every case in which the Comptroller requires it and within such time as in each case he may allow, produce proof, to the
+Now the condition of this obligation is such that if the said goods and every part thereof are duly exported to, and landed at ... within ... from the date hereof and if no alteration or diminution in quantity or quality [except such as may be accounted for to the satisfaction of the Comptroller of Customs and Excise (hereinafter called "the Comptroller")] takes place in the said goods, or in the casks, cases or package in which the goods are delivered, from the time of the delivery thereof
+} to the said ... under this obligation, until the landing thereof at the said place; and if the said ... shall in every case in which the Comptroller requires it and within such time as in each case he may allow, produce proof, to the
 } satisfaction of the Comptroller of the due landing of the said goods at the said place, then this obligation shall be void, but otherwise shall remain in full force.
 Signed and delivered by the above bounden in the presence of
 Witness
@@ -998,7 +1004,8 @@ FORM C 60
 CUSTOMS
 REPUBLIC OF TRINIDAD AND TOBAGO
 BOND FOR SHIPMENT OF STORES
-Know all men by these presents that we ..., of ..., and ..., of } ..., are held and firmly bound unto the State in the sum of ... dollars to be paid to the State for which payment we hereby bind ourselves, our heirs, executors, administrators, and successors, each of us and each of them jointly and severally.
+Know all men by these presents that we ..., of ..., and ..., of
+} ..., are held and firmly bound unto the State in the sum of ... dollars to be paid to the State for which payment we hereby bind ourselves, our heirs, executors, administrators, and successors, each of us and each of them jointly and severally.
 Dated this ... day of ... in the year of Our Lord Two Thousand and ... Whereas the above bounden ... intends to load as stores on board the ... the undermentioned goods, that is to say:
 Now the condition of this obligation is such, that if all the said goods are duly loaded on board the ... , and enumerated in the content of the said ..., and are used as stores on board the said ..., or are otherwise accounted for to the satisfaction of the Comptroller of Customs and Excise; and if the packages containing the goods are not opened, nor any of the goods therein taken out or altered, until the said ... has left the place of final departure of her intended foreign journey, then this obigation shall be void, but otherwise shall remain in full force.
 Signed and delivered by the above bounden in the presence of
@@ -1011,8 +1018,8 @@ CUSTOMS
 REPUBLIC OF TRINIDAD AND TOBAGO
 GENERAL BOND FOR SHIPMENT OF STORES
 Know all men by these presents that we ..., of ..., and ..., of ..., are held and firmly bound unto the State in the sum of ... dollars to be paid to the State for which payment we hereby bind ourselves, our heirs, executors, administrators, and successors, each of us and each of them jointly and severally.
-Dated this ... day of ..., in the year of Our Lord Two Thousand
-} and ...
+Dated this ... day of ..., in the year of Our Lord Two Thousand and ...
+}
 Whereas the above bounden intends to remove from time to time goods to be used as stores on board aircraft or ships bound for ports outside Trinidad and Tobago and to load the same on board such aircraft or ships:
 Now the condition of this obligation is such, that if all the goods which in pursuance of such intention are delivered from a warehouse or upon which any drawback is allowed on exportation are duly shipped and used as stores on board the aircraft or ships specified on the export entries or other documents for such goods or are otherwise accounted for to the satisfaction of the Comptroller of Customs and Excise, and if the packages containing such goods are not opened nor any of the goods taken out or altered, until the said aircraft or ships have left the port of final departure on their intended foreign voyage, then this obligation to be void, but otherwise shall remain in full force.
 Signed and delivered by the above bounden in the presence of
@@ -1025,7 +1032,8 @@ CUSTOMS
 REPUBLIC OF TRINIDAD AND TOBAGO
 TRANSHIPMENT BOND
 Know all men by these presents that we ..., of ..., and ..., of ...are held and firmly bound unto the State in the sum of ... dollars to be paid to the State for which payment we hereby bind ourselves, our heirs, executors, administrators, and successors, each of us and each of them jointly and severally.
-Dated this ... day of ..., in the year of Our Lord Two Thousand and ... Whereas the above bounden ... has given notice of his intention to transfer from the ... to the ... for exportation the following goods, that } is to say:
+Dated this ... day of ..., in the year of Our Lord Two Thousand and ... Whereas the above bounden ... has given notice of his intention to transfer from the ... to the ... for exportation the following goods, that
+} is to say:
 Now the condition of this obligation is such that if the said goods and every part thereof duly transferred from the ... to the ... and duly exported to, and landed at ... within ... from the date hereof; and if no alteration or diminution in quantity or quality (except such as may be accounted for to the satisfaction of the Comptroller of Customs and Excise hereinafter called "the Comptroller") takes place in the said goods, or in the casks, cases or packages in which the goods are delivered, from the time of the delivery thereof to the said ... under this obligation, until the landing thereof at the said place; and if the said ... in case the Comptroller requires it, and within such time as he allows, produces proof to the satisfaction of the Comptroller of the due landing of the said goods at the said place, then this obligation shall be void, but otherwise shall remain in full force.
 Signed and delivered by the above bounden in the presence of
 of
@@ -1066,8 +1074,8 @@ REPUBLIC OF TRINIDAD AND TOBAGO GENERAL BOND FOR REMOVAL OF WAREHOUSED GOODS
 Know all men by these presents that we ..., of ..., and ..., of ..., are held and firmly bound unto the State in the sum of ... dollars to be paid to the State for which payment we hereby bind ourselves, our heirs, executors, administrators, and successors, each of us and each of them jointly and severally.
 Dated this ... day of ..., in the year of Our Lord Two Thousand and ... Whereas the above bounden ... has elected to give a General Bond for the due removal from time to time of such goods as he may have occasion to remove from one place to another within Trinidad and Tobago:
 Now the condition of this obligation is such that if all and every portion of such goods as may from time to time be entered by the above bounden ... on the proper notice or other approved document for removal are with all due diligence removed to and delivered into the care of the proper Officer of Customs at the place or places to and for which they are entered to be removed:
-And if all goods removed under this obligation are so removed within such time or respective times as are specified on the proper documents relating thereto and delivered into the care of the proper Officer of Customs and Excise at the place or places to and for which they were entered to be removed and if no alteration or diminution in quantity or
-} quality (except such as may be accounted for to the satisfaction of the Comptroller of Customs and Excise-hereinafter referred to as "the Comptroller") takes place in any such goods or in the packages in which the goods were delivered, from the time of the delivery thereof to the above bounden ... under this obligation until the delivery thereof into the care of the proper Officer of Customs and Excise at the place or places to and for which they have been entered to be removed:
+And if all goods removed under this obligation are so removed within such time or respective times as are specified on the proper documents relating thereto and delivered into the care of the proper Officer of Customs and Excise at the place or places to and for which they were entered to be removed and if no alteration or diminution in quantity or quality (except such as may be accounted for to the satisfaction of the Comptroller of
+} Customs and Excise-hereinafter referred to as "the Comptroller") takes place in any such goods or in the packages in which the goods were delivered, from the time of the delivery thereof to the above bounden ... under this obligation until the delivery thereof into the care of the proper Officer of Customs and Excise at the place or places to and for which they have been entered to be removed:
 And if the above bounden ... and his agents or servants do not remove or attempt to remove any goods under or by virtue of this obligation or the permission given or implied hereby after he has received notice from the Comptroller that further or additional security is required until such further or additional or larger amount of security is given by the above bounden ... to the satisfaction of the Comptroller, then this obligation shall be void, but otherwise shall remain in full force.
 Signed and delivered by the above bounden in the presence of
 of
@@ -1080,7 +1088,8 @@ REPUBLIC OF TRINIDAD AND TOBAGO
 GENERAL BOND TO GUARANTEE PAYMENT OF RENT
 Know all men by these presents that we ..., of ..., and ..., of ..., are held and firmly bound unto the State in the sum of ... dollars to be paid to the State for which payment we hereby bind ourselves, our heirs, executors, administrators, and successors, each of us and each of them jointly and severally.
 Dated this ... day of ..., in the year of Our Lord Two Thousand and ... Whereas the above bounden ... desires from time to time to remove for exportation goods from warehouse with all convenient speed:
-} And whereas the Comptroller of Customs and Excise has agreed to permit goods belonging to the above bounden ... to be delivered from warehouse for exportation without the rent having first been paid, on condition that such rent be paid not later than the day next following that on which any such goods are from time to time delivered from warehouse for exportation:
+And whereas the Comptroller of Customs and Excise has agreed to permit goods
+} belonging to the above bounden ... to be delivered from warehouse for exportation without the rent having first been paid, on condition that such rent be paid not later than the day next following that on which any such goods are from time to time delivered from warehouse for exportation:
 Now the condition of the above written bond or obligation is such that if the above bounden ... at any time takes delivery of any goods from warehouse, for exportation without having first paid the full rent due thereon, and there after pays to the Comptroller of Customs and Excise all such rent either on the day when the said goods are delivered, or at latest, on the next following day, then the above written bond or obligation shall be void, but otherwise shall remain in full force.
 Signed and delivered by the above bounden in the presence of
 of
@@ -1113,8 +1122,7 @@ NOT ACCOUNTED FOR
 Know all men by these presents that we ..., of ..., and ..., of ..., are held and firmly bound unto the State in the sum of ... dollars to be paid to the State for which payment we hereby bind ourselves, our heirs, executors, administrators, and successors, each of us and each of them jointly and severally.
 Dated this ... day of ..., in the year of Our Lord Two Thousand and ... Whereas the above bounden ... from time to time submits to the Comptroller of Customs and Excise (hereinafter called "the Comptroller") reports containing particulars of packages and parcels intended to be landed in Trinidad and Tobago from the ships mentioned in such reports:
 And whereas the said ... from time to time also submits to the Comptroller a landing account showing how many of the packages and parcels mentioned in such reports have been duly unloaded removed and deposited in a Customs area or other place approved by the Comptroller and have been duly entered and cleared therefrom in accordance with the laws or have been produced to the proper Officer of Customs for deposit or have been deposited in a state warehouse in accordance with the provisions of section 86 of the Customs Act:
-And whereas by section 68 of the Customs Act the Master or Agent of the ships mentioned in such reports is required to pay to the Comptroller the duty on every
-} package or parcel mentioned in such reports and not duly accounted for in such landing accounts and in addition a penalty of $200.00 in respect of each such package or parcel unless he explains to the satisfaction of the Comptroller the failure to unload, remove and deposit or produce such package or parcel:
+And whereas by section 68 of the Customs Act the Master or Agent of the ships mentioned in such reports is required to pay to the Comptroller the duty on every package or parcel mentioned in such reports and not duly accounted for in such landing } accounts and in addition a penalty of $200.00 in respect of each such package or parcel unless he explains to the satisfaction of the Comptroller the failure to unload, remove and deposit or produce such package or parcel:
 Now the condition of this bond or obligation is such that if the above bounden ... pays to the Comptroller within a period of three months from the respective dates of the said reports, or such further period as the Comptroller in any particular case allows, the full Customs duty payable and the said penalty of $200.00 in respect of each package or parcel mentioned in such reports and not duly unloaded, removed and deposited in a Customs area or other place approved by the Comptroller or not duly entered and cleared therefrom in accordance with Customs laws or has not been produced to the proper Officer of Customs for deposit or not deposited in a State warehouse in accordance with the provisions of section 86 of the Customs Act whenever the failure to do so has not been explained to the satisfaction of the Comptroller, then and in such case this obligation shall be void, but otherwise shall remain in full force.
 Signed and delivered by the above bounden in the presence of
 of
@@ -1170,8 +1178,7 @@ RENT ASSESSMENT ETC., REQUIRED FOR
 NAME OF CONSIGNEE
 NAME OF IMPORTING AIRCRAFT OR SHIP ... DATE OF REPORT ... DATE FREE STORAGE PERIOD EXPIRED ... WHENCE ARRIVED ...
 WANT OF ENTRY SLIP
-OF PACKAGES AND NATURE OF CUSTOMS FORM C 72
-NUMBER AND DESCRIPTION
+OF PACKAGES AND NATURE OF CUSTOMS FORM C 72 NUMBER AND DESCRIPTION
 [SEE NOTES (1) AND (2)]
 GOODS (IF KNOWN)
 REPUBLIC OF TRINIDAD AND TOBAGO
@@ -1260,7 +1267,7 @@ NOTES
 (c) a director or the secretary in the case of an incorporated company;
 (d) any employee duly authorised in writing by one of the above-mentioned persons.
 (2) "Distributor" and "concessionaire" mean an importer who has an oral or written agreement
-with the seller by which direct supplies of goods to other importers in Trinidad and Tobago are restricted or refused.
+with the seller by which direct supplies of goods to other importers in Trinidad and Tobago
 FORM C 75-Continued
 (3) Two persons are deemed to be associated in business with one another if, whether directly
 or indirectly, either of them has any interest in the business or property of the other, or both have a common interest in any business or property, or some third person has an interest in the business or property of both of them [section 23(3) of Customs Act, Ch. 78:01].
@@ -1360,8 +1367,8 @@ Date on F.O.B.
 Number and Quantity Description of which to be Marks and
 value
 description of and/or Goods delivered/ Numbers
-packages weight $ ¢ exported
-...
+packages weight exported
+$ ¢ ...
 } ...
 * at manufacturers' premises Particulars of Examination
 at shipment ... *Not Sampled
@@ -1378,8 +1385,7 @@ DELIVERY ORDER
 To ...
 ... Delivery may be taken of the undermentioned goods duty paid on Entry No... of ...
 Number of Marks and Quantity Invoice To be Description of packages Numbers and/or value delivered Goods
-$ ¢. weight to
-...
+weight to $ ¢...
 ...
 Customs and Excise Officer
 ...
@@ -1456,13 +1462,14 @@ FORM C 88
 UNACCOMPANIED BAGGAGE DECLARATION FORM
 To be completed by every passenger who has baggage or household effects arriving later. When checked by the Officer who examines the accompanied baggage this form will be returned to the passenger for presentation as the clearing document when the unaccompanied baggage arrives.
 Name of Passenger ...
-(in block letters) Name of Aircraft or Ship on which passenger arrives ...Date of Arrival ...
+(in block letters)
+Name of Aircraft or Ship on which passenger arrives ...Date of Arrival ...
 Address in Trinidad and Tobago ...
 No. of packages of unaccompanied baggage ...
 (words) (figures) Contents ...
 Dutiable goods (see Passenger
 VALUE OR DUTY
-TOTAL VAT Declaration Form)
+VAT TOTAL Declaration Form)
 QUANTITY
 ... Particulars to be ... Verified by Officer in Cargo Bond ...
 I hereby declare that the above is a true and correct account of the baggage and household effects which I have arranged to have sent to me and I make this declaration with the knowledge that failure to declare any dutiable goods or the making of any false statement in regard thereto will subject me to penalties and render the articles together with everything packed therewith, liable to forfeiture.
@@ -1505,16 +1512,26 @@ Total Number of Users: First Name: Last Name: Position: Business Address: E-mail
 Customs Broker/Clerk National I.D. Number:
 Licence Number: SECTION FOUR
 TERMS AND CONDITIONS OF USE
-(a) General Conditions under which Registration will be Granted All Sections of this application form must be completed and all questions answered. If the applicant is a company, this form must be signed by the General Manager or another authorised senior executive, and include the official company stamp/seal. Regardless of individual responsibilities, the person signing this form on behalf of a company shall also be responsible for the requirements/conditions set out in Section Four (b) and (c). The applicant agrees to notify the Comptroller of Customs and Excise in writing within twenty-four (24) hours of any change in the Applicant Type, Applicant Details or Authorised Users.
-(b) Minimum Technical Requirements for Registration on the C.B.C.S. Process speed of at least 1.8 Ghz/RAM of 2GB/Microsoft Windows 2000 or newer operation system/Internal or External CD ROM drive (for installation and updates)/Up-to-date antivirus software installed in clients PCs/Internet Connection of at least IMbps. I/we also confirm that we have in our staff or we can call upon a qualified IT person to deal with any C.B.C.S. requirements.
-(c) Specific Conditions with respect to the Security of the C.B.C.S. If approved as a registered user of C.B.C.S., the applicant and any other individual applicant listed in this application, agrees-
-(i) Not to provide copies of any C.B.C.S. software given for your use by Customs and Excise Division to any third parties, whether registered or not;
-(ii) To keep secure, and not disclose to another person the authentication code allocated to you;
-(iii) To use only the authentication code to access data in the system that is available to all registered users or is data input or pertains only to your transmission;
-(iv) To notify the Customs and Excise Division immediately if you suspect that the security of your unique identifier has in any way been compromised;
-(v) To notify the Customs and Excise Division if you gain access or otherwise receive data that does not pertain to your lawful access to the system;
-(vi) To comply with any reasonable conditions imposed by the Comptroller of Customs and Excise in relation to the security of a unique identifier allocated to you or persons listed in this application or to any other matters related to the access to and use of the C.B.C.S.
-(vii) To request a password reset using either the registered e-mail account or in person using proper ID. I have read and agreed to all Terms and Conditions of Use. I certify that all statements I have made in this application are true, correct and complete.
+(a) General Conditions under which Registration will be Granted
+All Sections of this application form must be completed and all questions answered. If the applicant is a company, this form must be signed by the General Manager or another authorised senior executive, and include the official company stamp/seal. Regardless of individual responsibilities, the person signing this form on behalf of a company shall also be responsible for the requirements/conditions set out in Section Four (b) and (c). The applicant agrees to notify the Comptroller of Customs and Excise in writing within twenty-four (24) hours of any change in the Applicant Type, Applicant Details or Authorised Users.
+(b) Minimum Technical Requirements for Registration on the C.B.C.S.
+Process speed of at least 1.8 Ghz/RAM of 2GB/Microsoft Windows 2000 or newer operation system/Internal or External CD ROM drive (for installation and updates)/Up-to-date antivirus software installed in clients PCs/Internet Connection of at least IMbps. I/we also confirm that we have in our staff or we can call upon a qualified IT person to deal with any C.B.C.S. requirements.
+(c) Specific Conditions with respect to the Security of the C.B.C.S.
+If approved as a registered user of C.B.C.S., the applicant and any other individual applicant listed in this application, agrees-
+(i) Not to provide copies of any C.B.C.S. software given for your use by
+Customs and Excise Division to any third parties, whether registered or not;
+(ii) To keep secure, and not disclose to another person the authentication code
+allocated to you;
+(iii) To use only the authentication code to access data in the system that is available
+to all registered users or is data input or pertains only to your transmission;
+(iv) To notify the Customs and Excise Division immediately if you suspect that
+the security of your unique identifier has in any way been compromised;
+(v) To notify the Customs and Excise Division if you gain access or otherwise
+receive data that does not pertain to your lawful access to the system;
+(vi) To comply with any reasonable conditions imposed by the Comptroller of
+Customs and Excise in relation to the security of a unique identifier allocated to you or persons listed in this application or to any other matters related to the access to and use of the C.B.C.S.
+(vii) To request a password reset using either the registered e-mail account or
+in person using proper ID. I have read and agreed to all Terms and Conditions of Use. I certify that all statements I have made in this application are true, correct and complete.
 Company Seal/Stamp Signature ... National I.D. Number ... Name (In Block Letters) ... Date... Position...
 - Margin: Regulation 3. [72/1993 60/2007 133/2011 5/2014].
 - Margin: REGULATION 9. NOTE: SINCE THE 1950 EDITION, THESE FORMS HAVE BEEN AMENDED BY THE FOLLOWING:-GN 152/1951, 11/1952, 111/1952, 197/1955, 15/1956, 180/1956,
@@ -1564,7 +1581,7 @@ Company Seal/Stamp Signature ... National I.D. Number ... Name (In Block Letters
 - Margin: Regulation 187.
 - Margin: Regulation 187.
 - Margin: Regulation 213.
-- Margin: NOTE.- TOBACCO, CIGARS, CIGARETTES, WINES AND SPIRITS, (EXCEPT SPIRITS, THE PRODUCE OF TRINIDAD AND TOBAGO, REMOVED UNDER THE PROVISIONS OF THE EXCISE LAW OR WITH THE PERMISSION OF THE COMPTROLLER OF CUSTOMS AND EXCISE), AND TOBACCO, THE PRODUCE OF TRINIDAD AND TOBAGO, ACCOMPANIED BY A PERMIT GRANTED BY AN AUTHORISED OFFICER, MAY NOT BE SHIPPED FOR CARRIAGE COASTWISE EXCEPT AT AN APPROVED PLACE OF LOADING AND IN THE PRESENCE AND WITH THE REGULATION 28
+- Margin: OR WITH THE PERMISSION OF THE COMPTROLLER OF CUSTOMS AND EXCISE), AND TOBACCO, THE PRODUCE OF TRINIDAD AND TOBAGO, ACCOMPANIED BY A PERMIT GRANTED NOTE.- TOBACCO, CIGARS, CIGARETTES, WINES AND SPIRITS, (EXCEPT SPIRITS, THE PRODUCE OF TRINIDAD AND TOBAGO, REMOVED UNDER THE PROVISIONS OF THE EXCISE LAW BY AN AUTHORISED OFFICER, MAY NOT BE SHIPPED FOR CARRIAGE COASTWISE EXCEPT AT AN APPROVED PLACE OF LOADING AND IN THE PRESENCE AND WITH THE REGULATION 28
 - Margin: AUTHORISATION OF THE PROPER OFFICER OF CUSTOMS.
 - Margin: Section 179, Regulation 212.
 - Margin: Regulations, 49, 164.
@@ -1587,6 +1604,7 @@ Company Seal/Stamp Signature ... National I.D. Number ... Name (In Block Letters
 - Margin: Regulation 212.
 - Margin: Regulation 106.
 - Margin: Regulations 37, 212. [72/1993 34 of 1996 27/2011].
+- Margin: are restricted or refused.
 - Margin: royalty or licence fees; tooling or design costs;
 - Margin: inspection fees.
 - Margin: packing;
@@ -1603,7 +1621,7 @@ Company Seal/Stamp Signature ... National I.D. Number ... Name (In Block Letters
 - Margin: Regulation 201.
 - Margin: Regulations 204, 208.
 - Margin: Regulations 55, 210. [72/1993].
-- Margin: Regulations 36, (Regulation 36, 111. 111) [72/1993]. [72/1993].
+- Margin: Regulations 36, (Regulation 36, 111. 111) [72/1993].
 - Margin: Schedule 1. [72/1993].
 - Margin: Schedule 1. [72/1993].
 - Margin: CPC DECLARATION FOR OFFICIAL USE

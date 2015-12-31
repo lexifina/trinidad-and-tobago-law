@@ -93,8 +93,6 @@ s-83.md
 s-84.md
 s-85.md
 s-86.md
-s-87.md
-s-87A.md
 s-87B.md
 s-88.md
 s-89.md
@@ -291,7 +289,6 @@ s-278.md
 s-279.md
 s-280.md
 s-281.md
-first-schedule.md
 second-schedule.md
 third-schedule.md
 fourth-schedule.md

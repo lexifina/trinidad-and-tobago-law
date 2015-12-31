@@ -166,11 +166,11 @@ payable in Trinidad and Tobago by reason of the importation or sale of the goods
 (4) In this paragraph, the unit price at which imported goods or identical or similar imported goods are sold in the greatest aggregate quantity is the price at which the greatest number of units is sold in sales to persons who are not related to the persons from whom they buy such goods at the first commercial level after importation at which such sales take place.
 (5) Any sale in Trinidad and Tobago to a person who supplies directly or indirectly free of charge or at reduced cost for use in connection with the production and sale for export of the imported goods any of the elements specified in paragraph 8(1)(b), shall not be taken into account in establishing the unit price for the purposes of this paragraph.
 (6) For the purposes of subparagraph (1)(a)-
-(a) "profit and general expenses" shall be
-taken as a whole, the figure for the purposes of this deduction being determined on the basis of information supplied by or on behalf of the importer unless his figures are inconsistent with those obtaining in sales of imported goods of the same
+(a) "profit and general expenses" shall
+be taken as a whole, the figure for the purposes of this deduction being determined on the basis of information supplied by or on behalf of the importer unless his figures are inconsistent with those obtaining in sales of imported goods of the same
 VALUE OF IMPORTED GOODS-Continued
-Value based on class or kind. Where the importer's unit price of figures are inconsistent with such greatest figures, the amount for profit and aggregate-Cont'd general expenses may be based upon
-relevant information other than that supplied by or on behalf of the importer; and
+Value based on class or kind. Where the importer's unit price of figures are inconsistent with such greatest figures, the amount for profit and
+general expenses may be based upon relevant information other than that supplied by or on behalf of the importer; and
 (b) in determining either the commissions
 or the additions usually made for profit and general expenses, the question whether certain goods are of the same class or kind as other goods shall be determined on a case-by-case basis by reference to the circumstances involved and in doing this, sales for which the necessary information can be provided of the narrowest group or range of imported goods of the same class or kind as the goods being valued should be examined;
 (c) "goods of the same class or kind"
@@ -205,6 +205,7 @@ and indirect costs of producing and selling the goods for export which are not i
 the following, to the extent that they are incurred by the buyer but are not included in the price actually paid or payable for the goods-
 (a) commission and brokerage, except
 buying commission;
+(b) the cost of containers which are
 treated as being one for Customs purposes with the goods in question;
 (c) the cost of packing, whether for
 labour or materials;

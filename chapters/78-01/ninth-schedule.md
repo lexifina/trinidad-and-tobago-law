@@ -59,7 +59,9 @@ Customs Clerk must be shown on the entry;
 (d) date of importation: This is the date on which the ship arrived
 in the waters of Trinidad and Tobago. In the case of an aircraft, it is the date on which the aircraft landed in the country;
 (e) rotation number: All reports of ships and aircraft are
-numbered in numerical sequence at their reporting station; manner as to show their precise nature and in sufficient detail to enable them to be classified for tariff purposes;
+numbered in numerical sequence at their reporting station;
+(f) description of goods: Goods must be described in such a
+manner as to show their precise nature and in sufficient detail to enable them to be classified for tariff purposes;
 (g) rate of exchange: The rate of exchange is that which is
 applicable on the date of first submission of the entry after the importation of the goods;
 (h) regime: This is the code indicating the type of transaction to
@@ -116,11 +118,11 @@ Jamaica ... JM … … JMD Japan ... JP … … JPY Johnston Island … … … 
 K
 Kazakhstan … … … KZ … … SUR Kenya ... KE … … KES Kiribati ... KI … … AUD Korea, Dem. People's Republic of … KP … … KPW Korea, Republic of … … KR … … KRW Kuwait ... KW … … KWD Kyrgyzstan … … … KG … … SUR
 L
-Lao People's Democratic Republic (Laos) LA … … LAK Latvia ... LV … … SUR Lebanon … … … LB … … LBP Lesotho ... LS … … ZAR/LSL
+Lao People's Democratic Republic (Laos) LA … … LAK Latvia ... LV … … SUR Lebanon … … … LB … … LBP
 RECOGNISED DESIGNATIONS AND ALPHA CODES
 OF COUNTRIES-Continued
 Country Code Currency Code
-Liberia ... LR … … LRD Libyan Arab Jamahiriya (Libya) … LY … … LYD Liechtenstein … … … LI … … CHF Lithuania … … … LT … … SUR Luxembourg … … … LU … … LUF
+Lesotho ... LS … … ZAR/LSL Liberia ... LR … … LRD Libyan Arab Jamahiriya (Libya) … LY … … LYD Liechtenstein … … … LI … … CHF Lithuania … … … LT … … SUR Luxembourg … … … LU … … LUF
 M
 Macau ... MO … … MOP Madagascar … … … MG … … MGF Malawi ... MW … … MWK Malaysia … … … MY … … MYR Maldives … … … MV … … MVR Mali ... ML … … XOF Malta ... MT … … MTL Marshall Islands … … … MH … … USD Martinique … … … MQ … … FRF Mauritania … … … MR … … MRO Mauritius … … … MU … … MUR Mexico ... MX … … MXP Micronesia, Fed. States of … … FM … … USD Midway Island … … … MI … … USD Monaco ... MC … … FRF Mongolia … … … MN … … MNT Montserrat … … … MS … … XCD Morocco … … … MA … … MAD Mozambique … … … MZ … … MZM Myanmar … … … MM … … MMK
 N
