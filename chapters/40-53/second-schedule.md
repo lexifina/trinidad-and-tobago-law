@@ -28,19 +28,19 @@ regulation 4.
 (g) survey;
 (h) take impressions;
 (i) describe; and
-(j) do whatever else that may be necessary to create a pictorial or
-dimensional impression of the property.
+(j) do whatever else that may be necessary to create a pictorial
+or dimensional impression of the property.
 (4) As soon as practicable after receiving the dossier the Council shall classify the property, and shall-
 (a) set aside the dossier, if in the opinion of the Council the
 property should not be listed; in which event the dossier or a modification thereof may be reviewed not earlier than six months thereafter, or
-(b) determine the grade listing of the property in accordance with
-regulation 3.
+(b) determine the grade listing of the property in accordance
+with regulation 3.
 3. (1) The grades of property of interest with a view to listing are as provided in this regulation.
 (2) In respect to buildings, including the curtilage, the grades are-
 (a) Grade 1-property in which there should be no change, nor
 alteration to its shape or form, nor in or upon any material object, plant or other thing that may deform or deface the property;
-(b) Grade 2-property in which material change may be permitted,
-provided that similarity is maintained in all respects as it origined composition, shape and form;
+(b) Grade 2-property in which material change may be
+permitted, provided that similarity is maintained in all respects as it origined composition, shape and form;
 (c) Grade 3-property in which there may be allowed (a)
 alterations to international non-structural components and roof cladding material; or (b) specified alterations to the internal structure;
 (d) Grade 4-property of which one or more of the facades or
@@ -50,12 +50,12 @@ some specified part or area should be preserved.
 unique or is considered to be a fine crafted example of its kind;
 (b) Grade B-an area, site or place of natural beauty or repose
 that would be despoiled if it were to be altered by the introduction or removal of any flora, fauna or work of man;
-(c) Grade C-a site or place which contains or breeds a particular
-specie of plant, animal, bird, fish, insect or marine life, that is likely to be despoiled by the introduction or removal of any, or all, or a combination of, the species present, or by the introduction of any new specie;
+(c) Grade C-a site or place which contains or breeds a
+particular specie of plant, animal, bird, fish, insect or marine life, that is likely to be despoiled by the introduction or removal of any, or all, or a combination of, the species present, or by the introduction of any new specie;
 (d) Grade D-a work of man considered to be of outstanding
 artistic merit or to be indigenous to Trinidad and Tobago or to the region;
-(e) Grade E-a work of international repute that by circumstance
-of relation, gift or bequest, belongs or belonged to a citizen or a resident of Trinidad and Tobago;
+(e) Grade E-a work of international repute that by
+circumstance of relation, gift or bequest, belongs or belonged to a citizen or a resident of Trinidad and Tobago;
 (f) Grade F-an original manuscript, music score or other similar
 work that was written or composed by a citizen or resident of Trinidad and Tobago or by a person of international repute.
 4. Without prejudice to regulations 2 and 3, the criteria for listing buildings are-
@@ -68,11 +68,11 @@ work that was written or composed by a citizen or resident of Trinidad and Tobag
 5. Where the Council decides to list the property it shall, as soon as practicable, give notice of its intention to do so-
 (a) to the owner or the person in possession of the property and
 provide him with such information as may be necessary of the benefits to be derived from preserving the property as a national treasure; and
-(b) in the Gazette and in at least three issues of a daily newspaper
-circulating in Trinidad and Tobago.
+(b) in the Gazette and in at least three issues of a daily
+newspaper circulating in Trinidad and Tobago.
 6. (1) The Registrar General shall, in accordance with section 4(4)(a) of the Registrar General Act, keep a separate and distinct index of all listings of buildings and lands made or revoked under sections 8 and 9 of the Act.
 (2) The Registrar General shall cause every listing registered with him to be entered in the index of listings under the letter of the alphabet corresponding with the initial surname of every person whose property is intended to be affected by the listing, with the given names and surname, at full length, of every such person and a description of the property thereby affected.
-- Margin: [31 of 1999].
+- Margin: Section 30. [31 of 1999].
 - Margin: Citation.
 - Margin: Procedure for listing.
 - Margin: Grade listings.
