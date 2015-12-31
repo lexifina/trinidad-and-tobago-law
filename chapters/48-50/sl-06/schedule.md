@@ -31,7 +31,7 @@ Dinsley Junction 3. Hollis Avenue between John Shaw Avenue and King Street, Nort
 Arima 4. Freeling Street, between Wells Street and Sheriff Street Western
 PART G
 COUNTY OF ST. GEORGE WEST
-Road Side of Road
+Side of Road Road
 1. St. Ann's Road between Lady Young Road and Simon Valley Eastern
 Road, St. Ann's
 2. Norfolk Street, Belmont in the City of Port-of-Spain between Eastern
@@ -66,8 +66,10 @@ George Street in the City of Port-of-Spain 16. Piccadilly Street between Prince 
 City of Port-of-Spain 17. Nelson Street between Independence Square North and Western
 South Quay in the City of Port-of-Spain 18. Charlotte Street, Port-of-Spain from the junction of Queen's Eastern
 Park East to the junction of New Street 19. Frederick Street between Queen's Park West and Keate Eastern
-Street, Port-of-Spain 20. Chacon Street between Independence Square South and Western
-South Quay, Port-of-Spain 21. St. Vincent Street, from Electric Pole No. 23 extending South Western
+Street, Port-of-Spain
+Western 20. Chacon Street between Independence Square South and
+South Quay, Port-of-Spain
+Western 21. St. Vincent Street, from Electric Pole No. 23 extending South
 for a distance of 20 metres in the City of Port-of-Spain
 Eastern 22. St. Vincent Street, from the exit of the Red House Driveway
 (Southern Exit) South to Hart Street
@@ -104,7 +106,7 @@ Road 3. School Road, Point Fortin between Mainsfield Road and Southern
 Guapo-Cap-de-Ville Road
 PART I
 TOBAGO
-Road Side of Road 1. Milford Road from its junction with Wilson Road to a point Southern
+Side of Road Road 1. Milford Road from its junction with Wilson Road to a point Southern
 115 metres West, Scarborough between 6.00 a.m.
 and 6.00 p.m.
 2. Milford Road from the western end of the Licensing Office Northern
@@ -115,8 +117,7 @@ Scarborough 7. Piggott Street between Robinson and Bacolet Streets, Northern
 Scarborough 8. Carrington Street between Castries and Exit Streets from Southern
 Customs Area, Scarborough 9. Carrington Street from Wilson Road to a point 5 metres from Southern
 the Truck Stand, Scarborough 10. Carrington Street from its junction with Castries Street and Northern
-extending in a westerly direction to the Bailey Bridge, Scarborough
-11. Jerningham Street from Ross Street to Piggott Street, Eastern
+extending in a westerly direction to the Bailey Bridge, Scarborough 11. Jerningham Street from Ross Street to Piggott Street, Eastern
 Scarborough 12. Entry Street to Customs Area, Scarborough Eastern
 PART J
 COUNTY OF VICTORIA
@@ -127,7 +128,8 @@ Fernando 7. Mucurapo Street from Cemetery Street to Lord Street, Eastern
 San Fernando 8. Prince Alfred Street from Cemetery Street to Keate Street, Eastern
 San Fernando 9. Cipero Street from Cipero Bridge to Scott Street, San Western
 Fernando 10. Park Street from Cipero Street to Todd Street, San Fernando Northern 11. Buen Intento Road from the northern end of the Taxi Stand Eastern
-to Water Lane, Princes Town 12. Railway Road, Princes Town Eastern 13. Tramline Street, Princes Town Northern 14. Naparima-Mayaro Road between King Street and Aldana Western
+to Water Lane, Princes Town 12. Railway Road, Princes Town Eastern
+Northern 13. Tramline Street, Princes Town Western 14. Naparima-Mayaro Road between King Street and Aldana
 Street, Princes Town
 Northern 15. Naparima-Mayaro Road from Railway Road to Buen Intento
 Road, Princes Town

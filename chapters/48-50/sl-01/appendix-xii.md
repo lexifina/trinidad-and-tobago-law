@@ -6,7 +6,7 @@ Amount
 No. and Date Insp. Cert. No.
 TOTAL
 The above information was prepared by: ... Date...
-(Name in Block letters)
+(Name in Block Letters)
 ... Date...
 - Margin: For official use
 - Margin: Insurance Registered Owner No. Date Vehicle Reg. No. Defect Policy Company Expiry Insp. No. No. Date

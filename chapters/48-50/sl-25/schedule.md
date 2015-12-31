@@ -126,7 +126,6 @@ PART II
 GENERAL
 10. Any person who contravenes any of the provisions of this Order is guilty of an offence and is liable on summary conviction to a fine of five hundred dollars or to imprisonment for three months.
 - Margin: Clause 4. Diagram 1. [241/2001].
-- Margin: be
 - Margin: Clause 5. Diagram 2.
 - Margin: Clause 5. Diagram 3.
 - Margin: Clause 5. Diagram 4.
