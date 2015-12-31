@@ -62,7 +62,7 @@ CHAPTER VIII
 MISCELLANEOUS
 120. Circulars, Orders and Notices. 121. Corrections. 122. Circulation of Orders. 123. Forfeiture of benefits on dismissal. 124. Remuneration on suspension. 125. Channel of communication. 126. Complaints. 127. Permanent Secretary or Chief Fire Officer to facilitate request
 of Commission.
-128. Acceptance of foreign currency. 129. Payment from public funds. 130. Authorisation of deduction from pay. 131. Legal proceedings. 132. Determined form. 133. Availability of Regulations. 134. Act deemed to be done under these Regulations. 135. Chief Fire Officer to approve medical practitioner. 136. Application of Regulations to Chief Fire Officer. 137. Revocation of LN No. 75 of 1990.
+128. Acceptance of foreign currency. 129. Payment from public funds. 130. Authorisation of deduction from pay. 131. Legal proceedings. 132. Determined form. 133. Availability of Regulations. 134. Act deemed to be done under these Regulations. 135. Chief Fire Officer to approve medical practitioner. 136. Application of Regulations to Chief Fire Officer.
 FIRE SERVICE (TERMS AND CONDITIONS OF
 EMPLOYMENT) REGULATIONS
 made under section 34
