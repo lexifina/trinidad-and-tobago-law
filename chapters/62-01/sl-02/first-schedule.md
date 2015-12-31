@@ -15,14 +15,14 @@ cents per litre
 Exclusive Inclusive of VAT of VAT
 Unleaded Premium
 Gasoline 95 RON … … … 483.000 555.450 Unleaded Super
-Gasoline 92 RON … … … 217.783 250.450 Unleaded Regular Gasoline 83 RON… … 211.587 243.325 Domestic Kerosene … … … 120.435 138.500 Auto Diesel … … … 118.435 136.200.
+Gasoline 92 RON … … … 253.718 291.776 Unleaded Regular Gasoline 83 RON… … 211.587 243.325 Domestic Kerosene … … … 120.435 138.500 Auto Diesel … … … 137.977 158.673.
 3. Except as provided in paragraph 4, the retail price of petroleum products listed hereunder is as follows:
 Petroleum Products Trinidad and Tobago
 cents per litre
 Exclusive Inclusive of VAT of VAT Unleaded Premium
 Gasoline 95 RON … … … 500.000 575.000 Unleaded Super
-Gasoline 92 RON … … … 234.783 270.000 Unleaded Regular
-Gasoline 83 RON … … … 226.087 260.000 Domestic Kerosene … … … 130.435 150.000 Auto Diesel … … … 130.435 150.000.
+Gasoline 92 RON … … … 270.718 311.326 Unleaded Regular
+Gasoline 83 RON … … … 226.087 260.000 Domestic Kerosene … … … 130.435 150.000 Auto Diesel … … … 149.977 172.473.
 4. The retail price of the petroleum products listed in Appendix A and sold by a person carrying on marketing business-
 (a) to an associated person (this expression here including one
 company that exercises or is entitled to exercise control directly or indirectly over the affairs of another and any company the majority of the shareholding of which is held by more than one other company similarly so controlled);
@@ -32,6 +32,6 @@ business or both, shall be at a price equal to the ex-refinery price plus the su
 - Margin: Formula for arriving at price of petroleum product.
 - Margin: Rate of exchange.
 - Margin: Price of last preceding day to be taken into account in certain circumstances.
-- Margin: Wholesale price of petroleum products. [250/2004 253/2005 144/2008 354/2012].
-- Margin: Retail price of petroleum products. [250/2004 253/2005 144/2008 354/2012].
+- Margin: Wholesale price of petroleum products. [250/2004 253/2005 144/2008 354/2012 191/2015].
+- Margin: Retail price of petroleum products. [250/2004 253/2005 144/2008 354/2012 191/2015].
 - Margin: Retail price of petroleum products in certain cases. Appendix A. Appendix B. [174/2003 250/2004].

@@ -40,11 +40,9 @@ PRELIMINARY
 PART I
 PETROLEUM OPERATIONS
 LICENCES
-6. Licences. 7. Applications for licences. 8. Objections to licences. 9. Grant of licences. 10. Competitive bidding. 11. Certain conditions to be included in licences. 12. Conditions as to furnishing returns. 13. Special restrictions on grant of licences. 14. Exploration Licence confers non-exclusive rights. 15. Rights under an exploration and production licence. 16. Duty of licensee to deliver up facilities upon determination of
-licence.
+6. Licences. 7. Applications for licences. 8. Objections to licences. 9. Grant of licences. 10. Competitive bidding. 11. Certain conditions to be included in licences. 12. Conditions as to furnishing returns. 13. Special restrictions on grant of licences. 14. Exploration Licence confers non-exclusive rights. 15. Rights under an exploration and production licence. 16. Duty of licensee to deliver up facilities upon determination of licence.
 DEFAULT AND DISPUTES
-17. Consequences of failure to fulfil obligations, etc. 18. Arbitration in certain cases of revocation of licences. 19. Effect of force majeure. 20. General provision as to arbitration of differences. 21. Conduct of arbitration. SECTION
-22. Cesser of operations during arbitration.
+17. Consequences of failure to fulfil obligations, etc. 18. Arbitration in certain cases of revocation of licences. 19. Effect of force majeure. 20. General provision as to arbitration of differences. 21. Conduct of arbitration. 22. Cesser of operations during arbitration. SECTION
 NON-RESIDENT COMPANIES
 23. Licensing of non-resident companies. 24. Service of documents.
 SUB-LICENCES

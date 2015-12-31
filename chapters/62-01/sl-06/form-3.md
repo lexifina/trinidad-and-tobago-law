@@ -23,4 +23,3 @@ above or for any contravention of the Act or the Regulations.
 Date ...
 Minister of
 Energy and Energy Industries
-- Margin: Regulation 4.
