@@ -2,7 +2,17 @@ PETTY CIVIL COURTS ACT
 CHAPTER 4:21
 Act
 9 of 1911 Amended by
-3 of 1964 35 of 1917 43 of 1975 13 of 1921 45 of 1979 63 of 1921 3 of 1980 29 of 1922 47 of 1980 29 of 1925 12 of 1988 36 of 1936 28 of 1996 14 of 1939 13 of 1998* 9 of 1943 47 of 2000 2 of 1949
+3 of 1964 35 of 1917 43 of 1975 13 of 1921 45 of 1979
+63 of 1921
+3 of 1980
+29 of 1922
+47 of 1980
+29 of 1925
+12 of 1988
+36 of 1936
+28 of 1996
+14 of 1939 *13 of 1998 9 of 1943 47 of 2000
+2 of 2015 2 of 1949
 *See Note on page 2
 Index of Subsidiary Legislation
 Page Petty Civil Courts (Sittings) Order (LN 164/1995) … … … 30 Petty Civil Courts Rules (RG 20.11.41, 30.4.42, 23.12.43) … … 34
@@ -25,7 +35,7 @@ ARRANGEMENT OF SECTIONS-Continued SECTION
 Amendment of process. Affidavits.
 28. General jurisdiction at trial.
 28A. Power of Court to award interest on debts and damages.
-29. Time for payment and instalment. 30. Judgment to be final. 31. Certiorari. 32. New trial and stay of execution. 33. Appeals. 34. Defence and counterclaim by defendant. 35. Appearance of parties and advocates. 36. Summonses to witnesses.
+29. Time for payment and instalments. 30. Judgment to be final. 31. Certiorari. 32. New trial and stay of execution. 33. Appeals. 34. Defence and counterclaim by defendant. 35. Appearance of parties and advocates. 36. Summonses to witnesses.
 Service of summonses. Refusal to give evidence, etc.
 37. Power to administer oath to and examine witnesses. 38. Costs. 39. Costs on judgment by confession, or in undefended cases.
 39A. Costs in cases transferred. 39B. Procedure on transfer of cases from High Court.
