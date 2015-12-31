@@ -24,4 +24,3 @@ the supplier of natural gas for any cause whatsoever, this licence shall be dete
 Date ...
 Minister of
 Energy and Energy Industries
-- Margin: Regulation 4.
