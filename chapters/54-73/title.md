@@ -1,7 +1,7 @@
 REGULATED INDUSTRIES COMMISSION ACT
 CHAPTER 54:73
 Act
-26 of 1998 Amended by
+42 of 1945 Amended by
 4 of 2001
 Note on Subsidiary Legislation
 The following Subsidiary Legislation have been omitted:
