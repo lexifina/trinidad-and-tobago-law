@@ -1,0 +1,16 @@
+# FORM 3
+APPLICATION FOR LICENCE TO OWN CLASS A DOG
+[pursuant to section 7(1) of the Dog Control Act, Chap. 67:56]
+I, ...
+(Name of Owner)
+of ...
+(Address)
+hereby apply for a licence from the ...
+(Name of Local Authority)
+to own or keep in possession a class A dog at...
+(Address at which class A dog is to be kept)
+... The following documents are hereby supplied:
+a certificate in accordance with Form 7; a policy of insurance in compliance with section 11 of the Dog Control Act; microchip number; a certificate in accordance with Form 9; proof of payment of the licence fee; and a certificate of good character issued by the Commissioner of Police.
+...
+Signature of Owner Date
+For official use
