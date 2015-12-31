@@ -1,7 +1,9 @@
 title.md
 s-1.md
 s-2.md
+s-3.md
 s-4.md
+s-5.md
 s-6.md
 s-6A.md
 s-7.md
@@ -19,6 +21,5 @@ s-17.md
 s-18.md
 s-19.md
 s-21.md
-second-schedule.md
 first-schedule.md
-first-schedule--2.md
+second-schedule.md
