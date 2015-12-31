@@ -1,10 +1,14 @@
 COMPANIES ACT
 CHAPTER 81:01
 Act
-35 of 1995 Amended by
-5 of 1997 6 of 1999
+35 of 1995
+Amended by
+5 of 1997
+6 of 1999
 *12 of 2003
-2 of 2012 2 of 2013
+2 of 2012
+2 of 2013
+2 of 2015
 *See Note on page 2
 Index of Subsidiary Legislation
 Page Companies Regulations (LN 69/1997) … … … 507
@@ -12,14 +16,14 @@ Page Companies Regulations (LN 69/1997) … … … 507
 Note on Legal Notices Nos. 59 and 78 of 1999
 See LNs 59 and 78/1999 re the Act before its revision.
 Note on Act No. 12 of 2003
-Sections 2, 3 and 4 of the Companies (Former-Act Companies)(Validation) Act 2003 (Act No. 12 of 2003) provides as follows:
+Sections 2, 3 and 4 of the Companies (Former-Act Companies) (Validation) Act, 2003 (Act No. 12 of 2003) provides as follows:
 2. In this Act- "Act" means the Companies Act, 1995; "certificate of continuance" has the meaning assigned to it in Part V, Division 3 of the Act; "former-Act company" has the meaning assigned to it in section 4 of the Act.
 3. (1) Any act done or omitted to be done by a former-Act company which applied for a certificate of continuance between the 14th day of August, 2000 and the 1st day of June, 2001, shall be valid and lawful to the extent that it would have been had the former-Act company applied for a certificate of continuance before the 15th day of August, 2000.
 (2) For the avoidance of doubt and subject to subsection (3), any act or thing done or omitted to be done by a former-Act company which applied for a certificate of continuance between the 14th day of August, 2000 and the 1st day of June, 2001, shall not be called into question merely because the former-Act company applied for the certificate of continuance between the 14th day of August, 2000 and the 1st day of June, 2001 and section 346 of the Act shall not be invoked against the former-Act company.
 (3) Subsection (2) shall not apply to proceedings which have already been concluded.
 4. This Act binds the State.
 Note on section 340 of the Act
-Section 340 of the Act states that every former-Act company shall within two years after the commencement date of the Act (i.e., 15th April, 1997) apply to the Registrar for a Certificate of Continuance. For the extension of the deadline date for application to the Registrar for a Certificate of Continuance see the 2004 Edition of The Consolidated Index of Acts and Subsidiary Legislation for references to the relevant Legal Notices.
+Section 340 of the Act states that every former-Act company shall within two years after the commencement date of the Act (i.e., 15th April 1997) apply to the Registrar for a Certificate of Continuance. For the extension of the deadline date for application to the Registrar for a Certificate of Continuance see the 2004 Edition of The Consolidated Index of Acts and Subsidiary Legislation for references to the relevant Legal Notices.
 Note on the First, Second
 and Third Schedules to the Act
 Section 464(2) of the Act ordains that the Rules contained in the Eleventh, Twelfth and Thirteenth Schedules of the Companies Ordinance [Ch. 31. No. 11.(1950 Edition)] shall, notwithstanding the repeal of this Ordinance, continue to have effect with such modification and adaptation as are required to make them conform to the Act.
@@ -81,7 +85,7 @@ INDEMNITIES
 REMUNERATION OF DIRECTORS, OFFICERS
 AND EMPLOYEES
 106. Remuneration.
-DIVISION 5- SHAREHOLDERS OF COMPANIES
+DIVISION 5-SHAREHOLDERS OF COMPANIES
 MEETINGS OF SHAREHOLDERS
 107. Shareholders and their meetings. 108. Meeting outside Trinidad and Tobago. 109. Calling meetings. 110. Record date of shareholders. 111. Statutory date. 112. Notice of record date. 113. Notice of meeting. 114. Special business. 115. Waiver of notice and telephone participation.
 PROPOSALS

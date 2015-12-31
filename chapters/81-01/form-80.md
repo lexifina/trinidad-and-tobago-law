@@ -4,10 +4,10 @@ LIQUIDATOR'S TRADING
 ACCOUNT UNDER SECTION 380
 (Title same as Form 2)
 the Liquidator of the above-named company in account with the estate.
-RECEIPTS PAYMENTS Dr.
+RECEIPTS PAYMENTS
+Dr. Cr.
 Date $ Date $
 Liquidator... Date...
 We have examined this account with the vouchers and find the same correct, and we are of opinion the expenditure has been proper.
 Dated this ... day of ... 20...
 Committee of Inspection [or member of the Committee of Inspection]
-- Margin: Cr.

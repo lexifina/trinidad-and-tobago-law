@@ -11,19 +11,19 @@ Particulars, pursuant to the Companies Act, supplied by ...a Company incorporate
 Date and
 Amount owing on description
 Names, Addresses
-the security of the Date of Short of the
+Date of the security of the Short of the
 and Descriptions
-Mortgage or acquisition particulars of Instrument
+acquisition Mortgage or particulars of Instrument
 of the persons
-Charge at the date of the the Property creating
+of the Charge at the date the Property creating
 entitled to the
-of the Property Mortgaged or or evidencing
+Property of the Mortgaged or or evidencing
 Mortgage or
-(d) commencement of Charged
-the Mortgage Charge
+commencement of Charged (d) the Mortgage
+Charge
 the Act or
 Charge (c) Signature of the persons authorised under the Companies Act, or of some other person in Trinidad and Tobago duly authorised by the Company.
-Dated the ...day of ...20...
+Dated the ... day of ... 20...
 (a) Country of origin.
 (b) Address in Trinidad and Tobago.
 (c) A description of the Instrument, e.g., "Trust Deed", "Mortgage", "Debenture", etc. as the

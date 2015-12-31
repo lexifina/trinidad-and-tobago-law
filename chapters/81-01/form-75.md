@@ -2,10 +2,10 @@
 (Rules 128 and 135)
 SPECIAL PROXY
 (Title same as Form 2)
-I/WE, ...of... a creditor [or contributory], hereby appoint * ... as my/our proxy at the Meeting of Creditors [or Contributories] to be held on the ... day of ... 20..., or at any adjournment thereof to vote for/against ...
+I/WE, ... of ... a creditor [or contributory], hereby appoint * ... as my/our proxy at the Meeting of Creditors [or Contributories] to be held on the ... day of ... 20..., or at any adjournment thereof to vote for/against ...
 (State hereunder the particular resolution) the resolution numbered ... in the notice convening the meeting.
 Dated this ... day of ... 20...
-Signed †... * The person appointed proxy may be the Official Receiver, the Liquidator, or such other person
+†Signed ... * The person appointed proxy may be the Official Receiver, the Liquidator, or such other person
 as the creditor [or contributory] may approve, and the proxy form when signed must be lodged by the time and at the address named for that purpose in the notice convening the meeting at which it is to be used. A creditor [or contributory] may give a special proxy to any person to vote at any specified meeting or adjournment thereof on all or any of the following matters:
 (a) For or against the appointment or continuance in office of any specified person as liquidator
 or as member of the Committee of Inspection;

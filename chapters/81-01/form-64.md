@@ -1,21 +1,20 @@
 # FORM 64
 (Rule 101)
-SCHEDULE OR LIST OF CONTRIBUTORIES
+*SCHEDULE OR LIST OF CONTRIBUTORIES
 HOLDING PAID-UP SHARES TO
-WHOM A RETURN IS TO BE PAID*
+WHOM A RETURN IS TO BE PAID
 In the Matter of ... No... of 20...
 Previous
 Date and
 returns of Arrears Amount
-Name of Number particulars Number Total capital of Calls
-of Net Contri- of Shares Total
+Name of Number particulars Number Total capital of Calls of
+Net Contri- of Shares Total
 of transfer in
 amount appropri- at date Return return
-butory as Address held as amount of interest settled called ated by of
-payable paya- in settled per settled paid up
-or other
-List up Liquidator Return
-at--per ble List List variation
+butory as Address held as amount of interest settled called ated by of payable
+paya- in settled per settled paid up or other
+List up Liquidator Return at--per
+ble List variation List
 Costs for arrears share
 in List
 of Calls

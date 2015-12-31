@@ -33,7 +33,7 @@ up under the supervision of the Court] Date of commencement of winding up ... Da
 LIQUIDATOR'S STATEMENT OF ACCOUNT PURSUANT TO
 SECTION 456 OF THE COMPANIES ACT
 REALISATIONS DISBURSEMENTS
-Date Amount Of whom Nature of Assets Amount Date Nature of To whom
+Date Amount Amount Of whom Nature of Assets Date Nature of To whom
 $ $
 Brought forward ... Brought forward
 NOTE -No balance should be shown on this Account, but only the total Realisations and Disbursements, which should be carried forward to the next Account.
@@ -66,6 +66,8 @@ Unsecured creditors...$
 FORM 84-Continued
 }
 (2) The total amount of Paid up in cash ...$ the capital paid up at the date Issued as paid up otherwise of the commencement of the than for cash ...$ winding up.
-(3) The general description and } estimated value of outstanding assets (if any). }
+(3) The general description and
+} estimated value of outstanding assets (if any).
+}
 (4) The causes which delay the termination of the winding up.
 (5) The period within which the winding up may probably be completed.
