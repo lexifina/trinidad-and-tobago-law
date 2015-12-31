@@ -37,6 +37,7 @@ s-25G.md
 s-25H.md
 s-25I.md
 s-25J.md
+s-25K.md
 s-26.md
 s-27.md
 s-28.md
@@ -65,3 +66,6 @@ s-49.md
 s-50.md
 s-51.md
 schedule.md
+sl-01/title.md
+sl-01/r-1.md
+sl-01/r-2.md
