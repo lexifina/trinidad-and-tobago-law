@@ -39,8 +39,8 @@ national patrimony or any art form.
 (c) of every Committee appointed by the Council.
 (6) The Registers shall be open to inspection free of charge by members of the Trust during office hours.
 7. (1) A member of the Council shall vacate his office when he-
-(a) is absent from more than three meetings of the Council without
-the consent of the Council;
+(a) is absent from more than three meetings of the Council
+without the consent of the Council;
 (b) has become bankrupt or has made an arrangement with
 his creditors;
 (c) is incapacitated by physical or mental illness; or
@@ -80,8 +80,8 @@ accounts; and
 (5) No business shall be transacted at the meeting other than that set out in the notice convening the meeting.
 11. (1) The Chairman shall-
 (a) preside at meetings of the Trust and of the Council;
-(b) maintain order at the meetings, at which his ruling on all points
-of procedure is final;
+(b) maintain order at the meetings, at which his ruling on all
+points of procedure is final;
 (c) have an ordinary vote, and in case of a tie a casting vote also;
 (d) at each meeting sign the minute book kept by the
 Secretary; and
@@ -94,18 +94,18 @@ documents and papers of the Trust and shall be responsible for their proper care
 transacted at each meeting of the Council and of the Trust;
 (c) at a meeting of the Council and of the Trust read the minutes
 of the previous meeting, and after approval of those minutes sign them after the Chairman has done so;
-(d) pay over all monies he received at the earliest opportunity to
+(d) pay over all moneys he received at the earliest opportunity to
 the Treasurer and obtain a receipt therefor; and
-(e) sign vouchers for payment by the Treasurer of sums due and
-payable by the Trust.
+(e) sign vouchers for payment by the Treasurer of sums due
+and payable by the Trust.
 (4) The Treasurer shall-
-(a) receive from the Secretary the monies paid to and on behalf of
-the Trust and issue receipts therefor;
-(b) pay other liabilities of the Trust on receipt of orders or vouchers
-signed by the Secretary and countersigned by the Chairman;
+(a) receive from the Secretary the moneys paid to and on behalf
+of the Trust and issue receipts therefor;
+(b) pay other liabilities of the Trust on receipt of orders or
+vouchers signed by the Secretary and countersigned by the Chairman;
 (c) as directed by the Council, prepare and present at the annual
 general meeting or other meeting a statement of accounts showing the financial position of the Trust for a specified period; and
-(d) retain in his possession monies of the Trust, not exceeding
+(d) retain in his possession moneys of the Trust, not exceeding
 that specified by the Council; and deposit all sums in excess thereof in a bank approved by the Council.
 - Margin: Section 4.
 - Margin: Citation.
