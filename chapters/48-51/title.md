@@ -1,9 +1,20 @@
-MOTOR VEHICLES INSURANCE
-(THIRD-PARTY RISKS) ACT
+MOTOR VEHICLES INSURANCE (THIRD-PARTY
+RISKS) ACT
 CHAPTER 48:51
 Act
-39 of 1933 Amended by 16 of 1935 19 of 1938 11 of 1940 12 of 1943 28 of 1946 12 of 1961 11 of 1965 24 of 1966 34 of 1974 9 of 1978 45 of 1979 50 of 1979 *47 of 1980
-44 of 198 21 of 1990 38 of 1996
+39 of 1933 Amended by
+9 of 1978 16 of 1935
+19 of 1938 45 of 1979 11 of 1940
+50 of 1979
+12 of 1943
+*47 of 1980
+28 of 1946
+44 of 1981
+12 of 1961
+21 of 1990
+11 of 1965
+38 of 1996 24 of 1966
+34 of 1974 2 of 2015
 *See Note on page 2
 Index of Subsidiary Legislation
 Page Motor Vehicles Insurance (Third-Party Risks) Regulations (G. 1.3.1934) … 28
@@ -39,7 +50,9 @@ the insured.
 18. Duty to give necessary information to third parties.
 ARRANGEMENT OF SECTIONS-Continued
 SECTION
-19. Settlement between insurers and insured persons. 20. Requirements as to production of certificate of insurance or of security. 21. Company to notify Licensing Authority of decision to accept vehicle
+19. Settlement between insurers and insured persons. 20. Requirements as to production of certificate of insurance or of
+security.
+21. Company to notify Licensing Authority of decision to accept vehicle
 as a total loss or to pay insured for loss of vehicle.
 22. Forgery, etc., of certificates. 23. Refusing to give name or address or giving false name or address. 24. Liability of driver and owner for offences. 25. Offences and general penalty. 26. Recovery of penalties. 27. Regulations.
 

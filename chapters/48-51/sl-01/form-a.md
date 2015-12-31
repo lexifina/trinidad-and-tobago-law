@@ -1,0 +1,9 @@
+# FORM A
+MOTOR VEHICLES INSURANCE (THIRD-PARTY RISKS) ACT
+CERTIFICATE OF INSURANCE
+Certificate No. Policy No.
+(Optional)
+1. Index mark and registration number of vehicle. or (if not registered) Make... Chassis No...
+2. Name of Policy holder. 3. Effective date of the commencement of Insurance for the purposes of the Act. 4. Date of expiry of Insurance. 5. Persons or classes of persons entitled to drive.* 6. Limitations as to use.*
+(I)/(We) hereby certify that the policy to which this certificate relates is issued in accordance with the provisions of the above-mentioned Act. Hour of issue. Date of issue.
+Insurers *Limitations rendered inoperative by section 12 of the Motor Vehicles Insurance (Third-Party Risks) Act are not to be included under this heading.
