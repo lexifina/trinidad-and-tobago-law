@@ -12,7 +12,7 @@ THE COMMISSIONER OF POLICE
 8. For prescribing places in streets where vehicles, or vehicles of any particular class or description, may, or may not, wait either generally or at particular times.
 9. For prescribing cab ranks and ranks and stopping places of omnibuses and other public conveyances.
 *FOURTH SCHEDULE
-1. There shall be charged, levied and collected in respect of every motor vehicle of a class or description specified in the first column of Part I of Appendix A a tax (in this Act referred to as "motor vehicles tax") calculated on such basis as is specified in the second column of that Part of Appendix A in relation to a motor vehicle of that class or description.
+1. There shall be charged, levied and collected in respect of every motor vehicle of a class or description specified in the first column of Parts I and IA of Appendix A a tax (in this Act referred to as "motor vehicles tax") calculated on such basis as is specified in the second column of the respective Part of Appendix A in relation to a motor vehicle of that class or description.
 1A. (1) Notwithstanding paragraph 1, all motor vehicles (including agricultural tractors) purchased by the University of the West Indies for its own use shall be exempt from motor vehicles tax.
 (2) Where the University of the West Indies transfers ownership of a motor vehicle that is exempt from motor vehicles tax under paragraph 1 within five years from the date of registration of the motor vehicle, the motor vehicles tax shall immediately become payable.
 2. (1) Where motor vehicles tax is required to be paid on a motor vehicle, it shall be paid in the case of an imported motor vehicle by the importer of the vehicle and in the case of a locally assembled motor vehicle, by the assembler of the vehicle.
@@ -22,7 +22,7 @@ THE COMMISSIONER OF POLICE
 (3) Subject to paragraph 7, the rebate of tax in respect of any such motor car shall be computed in accordance with Appendix B according to the local value added in the assembly of the motor car.
 (4) Nothing in this paragraph shall apply in any case where the motor car is sold for export.
 (5) In this paragraph and in paragraphs 5 and 6 "manufacturer" means a person who carries on in Trinidad and Tobago the business of assembling motor cars.
-* This Schedule has been amended by the following: Act No. 35 of 1957; GNs 115/1958, 2/1963, 21/1963, 27/1966, 6/1968, 2/1973, 11/1974, 6/1975; Acts Nos. 6 of 1977, 28 of 1978, 14 of 1979, 2 of 1982; LNs 146/1982, 3/1983, 157/1983; Acts Nos. 9 of 1990, 3 of 1994, 2 of 2002, 30 of 2007, 1 of 2009, 13 of 2010, 2 of 2013 and 48/2014.
+* This Schedule has been amended by the following: Act No. 35 of 1957; GNs 115/1958; 2/1963, 21/1963; 27/1966; 6/1968; 2/1973; 11/1974; 6/1975; Acts Nos. 6 of 1977; 28 of 1978; 14 of 1979; 2 of 1982; LNs 146/1982; 3/1983, 157/1983; Acts Nos. 9 of 1990; 3 of 1994; 2 of 2002; 30 of 2007; 1 of 2009; 13 of 2010; 2 of 2013; 48/2014 and †2 of 2015. † See Note on page 4.
 4. (1) In this paragraph, in paragraphs 3, 5 and 6 and in Appendix B and Appendix C, the local value added is the aggregate amount of the expenses specified in Appendix C incurred during the immediately preceding year in the assembly of motor cars similar to the motor cars in respect of which the claim for rebate of tax is made apportioned over the number of motor cars assembled during that year and expressed as a percentage of the showroom price of such motor car.
 (2) Notwithstanding subparagraph (1) in any case where the Minister so directs the Board of Inland Revenue may reduce the aggregate amount of the expenses incurred in the assembly of any such motor cars by an amount representing the excess over the level of profits that the Minister considers appropriate to be taken into account in determining the local value added of any such motor cars.
 (3) In any case where there is no immediately preceding financial year or the immediately preceding financial year is less than twelve months, the aggregate amount of expenses incurred in the assembly of similar motor cars in the current financial year shall be estimated in the claim for the rebate of tax and subject to subparagraph (4) be applied in determining the local value added.
@@ -59,12 +59,20 @@ three thousand five hundred dollars or more but under five thousand dollars, 15 
 (iii) in the case of motor cars the showroom price of which
 is five thousand dollars or more but under seven thousand dollars, 10 per cent of the motor vehicles tax.
 (4) For the purposes of making rebate of tax during the period 1st January 1973 to 3rd July 1973, paragraphs 3, 4, 5 and 6 (together with Appendices B and C) shall be deemed to have come into operation on 1st January 1973 and shall be read and construed with such adaptations and modifications as are necessary or expedient, as if the Customs (Amendment) Act 1968 was still in force.
-*8. Notwithstanding the requirements under this Schedule-
-(a) new private or commercial motor vehicles manufactured to
-use compressed natural gas; and
-(b) used private or commercial motor vehicles manufactured to
-use compressed natural gas and not older than two years from the year of manufacture, shall be free from motor vehicles tax.
-*The provisions of paragraph 8 will expire on 31st December 2015 (See Act No. 13 of 2010).
+*8. (Expired).
+8A. (1) Notwithstanding the requirements under this Schedule-
+(a) a new electric vehicle, with an engine size not exceeding
+179 kilowatts; or
+(b) a used electric vehicle, with an engine size not exceeding
+179 kilowatts, and which is not older than four years from the year of manufacture, which is imported for private or commercial use on or after 1st January 2015 and before 1st January 2020, shall be free from motor vehicles tax.
+*The provisions of paragraph 8 expired on 31st December 2015 (See Act No. 13 of 2010).
+(2) For the purposes of this paragraph, "electric vehicle" means a vehicle that is propelled by an electric motor powered by a rechargeable battery pack.
+8B. (1) Notwithstanding the requirements under this Schedule-
+(a) a new hybrid vehicle, with an engine size not exceeding
+1799 cc; or
+(b) a used hybrid vehicle, with an engine size not exceeding
+1799 cc, and which is not older than four years from the year of manufacture, which is imported for private or commercial use on or after 1st January 2015 and before 1st January 2020, shall be free from motor vehicles tax.
+(2) For the purposes of this paragraph, "hybrid vehicle" means a vehicle that is capable of being propelled by a combination of an internal combustion engine and an on-board rechargeable energy system.
 *APPENDIX A
 In this Appendix-
 (a) engine size references expressed in cm3 means the total
@@ -73,11 +81,13 @@ volume of the cylinders measured in cubic centimetres;
 Board of Inland Revenue is the ordinary retail selling price of the motor vehicle without having regard to any discounts, commissions, monetary deductions, or other allowances given or made by the seller thereof.
 PART I
 PARTICULARS OF TAX
-Class of Description of Motor Vehicles Vehicle tax
+Class of Description of Motor Vehicles Vehicle Tax
 $
-(1) Private motor cars or rented cars, station wagons
-or estate wagons:
+(1) Private Motor Cars or Rented Cars, Station Wagons
+or Estate Wagons:
 (a) Engine size not exceeding 1 599 cc … … 5.00 per cc
+* This Appendix (Appendix A to the Fourth Schedule) has been amended by the following: kAct No. 35 of 1957; GNs 115/1958; 2/1963, 21/1963; 27/1966; 6/1968; 2/1973; 11/1974; 6/1975; Acts Nos. 28 of 1978; 2 of 1982; LNs 146/1982; 3/1983; 157/1983; Acts Nos. 9 of 1990; 4 of 1992; 3 of 1994, 5 of 1995; 8 of 1996; 9 of 1997; 2 of 2002; 30 of 2007; 1 of 2009; 2 of 2013 and 2 of 2015. Amendments made to this Appendix by Act No. 1 of 2009 took effect on 1st October 2008.
+$
 (b) Engine size exceeding 1 599 cc but not exceeding
 1 799 cc ... 8.00 per cc
 (c) Engine size exceeding 1 799 cc but not exceeding
@@ -86,7 +96,7 @@ or estate wagons:
 2 499 cc ... 25.00 per cc
 (e) Engine size exceeding 2 499 cc but not exceeding
 2 999 cc ... 30.00 per cc
-Engine size exceeding 2 999 cc but not exceeding (f)
+(f) Engine size exceeding 2 999 cc but not exceeding
 3 499 cc ... 35.00 per cc
 (g) Engine size exceeding 3 499 cc … … … 50.00 per cc
 (2) Taxis:
@@ -97,11 +107,9 @@ Engine size exceeding 2 999 cc but not exceeding (f)
 1 799 cc ... 3.00 per cc
 (d) Engine size exceeding 1 799 cc but not exceeding
 1 999 cc ... 6.00 per cc
-* This Appendix (Appendix A to the Fourth Schedule) has been amended by the following: Act No. 35 of 1957; GNs 115/1958, 2/1963, 21/1963, 27/1966, 6/1968, 2/1973, 11/1974, 6/1975; Acts Nos. 28 of 1978, 2 of 1982; LNs 146/1982, 3/1983, 157/1983; Acts Nos. 9 of 1990, 4 of 1992, 3 of 1994, 5 of 1995, 8 of 1996, 9 of 1997, 2 of 2002, 30 of 2007, 1 of 2009 and 2 of 2013. Amendments made to this Appendix by Act No. 1 of 2009 took effect on 1st October 2008. Class of Description of Motor Vehicles Vehicle tax
-$
 (e) Engine size exceeding 1 999 cc but not exceeding
 2 499 cc ... 15.75 per cc
-Engine size exceeding 2 499 cc but not exceeding (f)
+(f) Engine size exceeding 2 499 cc but not exceeding
 2 999 cc ... 18.75 per cc
 (g) Engine size exceeding 2 999 cc but not exceeding
 3 499 cc ... 22.50 per cc
@@ -113,7 +121,10 @@ Engine size exceeding 2 499 cc but not exceeding (f)
 (5) Tractors:
 (a) Agricultural tractors ... 1.00 per cc
 (b) Industrial tractors ... 1.00 per cc
-(6) Completely built-up foreign used motor vehicles
+*Note-For the purposes of this Part of this Schedule, a station wagon or estate vehicle is not a
+goods vehicle. Class of Description of Motor Vehicles Vehicle Tax
+$
+(6) Completely Built-up Foreign-used Motor Vehicles
 imported by persons other than returning nationals, seventy-five per cent of the tax specified in subparagraph (1), (2), (3) or (4).
 (7) Motor Cycles:
 (a) Engine size not exceeding 250 cc … … 1.50 per cc
@@ -126,8 +137,51 @@ imported by persons other than returning nationals, seventy-five per cent of the
 (b) Engine size exceeding 2 499 cc but not exceeding
 3 499 cc ... 8.00 per cc
 (c) Engine size exceeding 3 499 cc … … 12.00 per cc
-*Note-For the purposes of this Part of this Schedule, a station wagon or estate vehicle is not a
-goods vehicle.
+PART IA
+PARTICULARS OF TAX FOR ELECTRIC VEHICLES
+Class of Description of Motor Vehicles Vehicle Tax
+$
+(1) Private Motor Cars or Rented Cars, Station Wagons
+or Estate Wagons:
+(a) Engine size not exceeding 159 kilowatts 5.00 per kilowatt
+(b) Engine size exceeding 159 kilowatts but not
+exceeding 179 kilowatts … … … 8.00 per kilowatt
+(c) Engine size exceeding 179 kilowatts but not
+exceeding 199 kilowatts … … … 15.00 per kilowatt
+(d) Engine size exceeding 199 kilowatts but not
+exceeding 249 kilowatts … … … 25.00 per kilowatt
+(e) Engine size exceeding 249 kilowatts but not
+exceeding 299 kilowatts … … … 30.00 per kilowatt Class of Description of Motor Vehicles Vehicle Tax
+$
+(f) Engine size exceeding 299 kilowatts but not
+exceeding 349 kilowatts … … … 35.00 per kilowatt
+(g) Engine size exceeding 349 kilowatts … 50.00 per kilowatt
+(2) Taxis:
+(a) Engine size not exceeding 159 kilowatts … 1.50 per kilowatt
+(b) Engine size exceeding 159 kilowatts but not
+exceeding 179 kilowatts … … … 3.00 per kilowatt
+(c) Engine size exceeding 179 kilowatts but not
+exceeding 199 kilowatts … … … 6.00 per kilowatt
+(d) Engine size exceeding 1.99 kilowatts but not
+exceeding 249 kilowatts … … … 15.75 per kilowatt
+(e) Engine size exceeding 249 kilowatts but not
+exceeding 299 kilowatts … … … 18.75 per kilowatt
+(f) Engine size exceeding 299 kilowatts but not
+exceeding 349 kilowatts … … … 22.50 per kilowatt
+(g) Engine size exceeding 349 kilowatts … 33.75 per kilowatt
+(3) Maxi-Taxis:
+(a) Engine size not exceeding 249 kilowatts … 6.00 per kilowatt
+(b) Engine size exceeding 249 kilowatts … 8.00 per kilowatt
+(4) Goods Vehicles
+(5) Tractors:
+(a) Agricultural tractors … … … 1.00 per kilowatt
+(b) Industrial tractors... 1.00 per kilowatt
+(6) Private School Bus:
+(a) Engine size not exceeding 249 kilowatts … 6.00 per kilowatt
+(b) Engine size exceeding 249 kilowatts … 8.00 per kilowatt
+(7) Omni Bus:
+(a) Engine size not exceeding 249 kilowatts … 6.00 per kilowatt
+(b) Engine size exceeding 249 kilowatts … 8.00 per kilowatt
 PART II
 RELIEF FOR CITIZENS RETURNING FROM ABROAD
 1. (a) A returning national of Trinidad and Tobago who returns to Trinidad and Tobago to reside permanently after residing abroad for a continuous period of not less than five years, where he imports a vehicle of a class or description set out in item 1 in Part I of this Appendix, shall be entitled to full relief from motor vehicles tax.
@@ -153,6 +207,7 @@ was the owner of that vehicle for the entire period on which his claim for relie
 - Margin: Rate of rebate until 1975.
 - Margin: Retrospective application to CARIFTA.
 - Margin: 12 of 1968.
-- Margin: No motor vehicle tax on vehicles manufactured to use compressed natural gas. [13 of 2010].
+- Margin: No motor vehicles tax on electric- powered vehicles. [2 of 2015].
+- Margin: No motor vehicles tax on hybrid vehicles. [2 of 2015].
 - Margin: Paragraph 1.
 - Margin: [28 of 1978 30 of 2007 2 of 2013].
