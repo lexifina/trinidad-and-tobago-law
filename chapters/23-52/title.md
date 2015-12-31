@@ -2,32 +2,52 @@ PENSIONS ACT
 CHAPTER 23:52
 Act
 16 of 1934 Amended by
-21 of 1938 37 of 1968 16 of 1940 38 of 1973 33 of 1943 32 of 1974 8 of 1944 44 of 1976 55 of 1946 22 of 1977 17 of 1950 *14 of 1980 28 of 1950 98/1981 10 of 1952 *9 of 1987 1 of 1953 *19 of 1989 1 of 1954 *5 of 1994 5 of 1955 *4 of 1995 20 of 1955 20 of 1997 39 of 1955 *21 of 2005 43 of 1956 *17 of 2007 14 of 1958 13 of 2008 37 of 1961 20 of 2008 16 of 1962 *1 of 2009 9 of 1968 *13 of 2010 *See Note on Amendment Acts on page 2
+38 of 1973 21 of 1938
+16 of 1940 32 of 1974 33 of 1943 44 of 1976 8 of 1944 22 of 1977 55 of 1946
+*14 of 1980
+17 of 1950
+98/1981
+28 of 1950
+*9 of 1987
+10 of 1952
+*19 of 1989
+1 of 1953
+*5 of 1994
+1 of 1954
+*4 of 1995
+5 of 1955
+20 of 1997
+20 of 1955
+*21 of 2005 39 of 1955 *17 of 2007 43 of 1956 13 of 2008 14 of 1958 20 of 2008 37 of 1961
+16 of 1962 *1 of 2009 9 of 1968 *13 of 2010 37 of 1968 *2 of 2015
+*See Note on Amendment Acts on page 2
 Index of Subsidiary Legislation
 Page Pensions Regulations (16 of 1934 Second Schedule) … … … 36 Pensions (Approved Post) Order (GN 139/1976) … … … 52
 Note on Subsidiary Legislation
 Notifications made under sections 2 and 3 in respect of "pensionable offices" and "pensionable services" have been omitted, as they are numerous and frequent and of limited interest to the general public. For reference to these Notifications-See the Current Edition of the Consolidated Index of Acts and Subsidiary Legislation.
 Note on Amendment Acts
-A. Note on Act No. 14 of 1980
+Note on Act No. 14 of 1980
 Section 4 of Act No. 14 of 1980 provides as follows:
 "This Act is deemed to have come into operation on 1st January 1977, and in its application
 it shall extend to persons who on that day were serving officers or in receipt of pension or eligible to receive pension under the Ordinance" (now the Pensions Act).
-B. Note on Act No. 9 of 1987
+Note on Act No. 9 of 1987
 See section 4 of, and the First Schedule to, Act No. 9 of 1987 with respect to the application of this Act.
-C. Note on Act No. 19 of 1989
+Note on Act No. 19 of 1989
 See section 13 of, and the First Schedule to, Act No. 19 of 1989 with respect to the application of this Act.
-D. Note on Act No. 5 of 1994
+Note on Act No. 5 of 1994
 See section 30 of Act No. 5 of 1994 for the preservation of the pension of an officer who is transferred to an Authority.
-E. Note on Act No. 4 of 1995
+Note on Act No. 4 of 1995
 See section 10 of Act No. 4 of 1995 for the continuation of the pension rights of officers of the defunct Tourist Board.
-F. Note on Act No. 21 of 2005
+Note on Act No. 21 of 2005
 See section 15 of Act No. 21 of 2005 for the determination of pensionable emoluments of certain officers.
-G. Note on Act No. 17 of 2007
+Note on Act No. 17 of 2007
 See section 25 of Act No. 17 of 2007 with respect to the application of this Act.
-H. Note on Act No. 1 of 2009
+Note on Act No. 1 of 2009
 Amendments made to sections 18(1) and 19(1) by Act No. 1 of 2009 took effect from 1st October 2008.
-I. Note on Act No. 13 of 2010
+Note on Act No. 13 of 2010
 Amendments made to sections 18(1) and 19(1) by Act No. 13 of 2010 took effect from 1st September 2010 and all payments made between that date and 1st January 2011 have been validated by section 25.
+Note on Act No. 2 of 2015
+Amendments made to sections 18(1) and 19(1) by Act No. 2 of 2015 took effect from 1st October 2014 and all payments made on or after and before that date have been validated by section 26.
 CHAPTER 23:52
 PENSIONS ACT
 ARRANGEMENT OF SECTIONS
