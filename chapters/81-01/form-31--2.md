@@ -6,26 +6,28 @@ SHARES AND OF THE NUMBER OF SHARES WHICH
 PERSONS HAVE AGREED FOR A COMMISSION
 TO SUBSCRIBE ABSOLUTELY
 Name of Company ...
-Presented by ... }
+} Presented by ...
 Name of Company ... Article of Association authorising Commission ... No.
 Particulars of amount payable as Commission for subscribing, or agreeing to subscribe, or for procuring or agreeing to
 $ procure, subscriptions for any shares in the Company; or
-} Rate of such Commission ... Rate per cent.
-Date of Circular or Notice (if any), not being a prospectus, inviting subscriptions for the shares and disclosing the amount Date
+}
+Rate of such Commission ... Rate per cent.
+Date of Circular or Notice (if any), not being a prospectus,
+Date inviting subscriptions for the shares and disclosing the amount
 } or rate of the Commission ...
-Number of shares which persons have agreed for a commission to subscribe absolutely ... No.
+Number of shares which persons have agreed for a commission
+No. to subscribe absolutely ...
 ... Signatures of all
 ... the Directors or
-... of their agents authorised ... in writing.
+... of their agents
+... authorised in writing.
 Dated the ... day of ... 20...
 CHRONOLOGICAL INDEX OF CHARGES ENTERED IN THE REGISTER
-PRESENTED BY ...
-NAME OF COMPANY...
+PRESENTED BY ... NAME OF COMPANY ...
 THE COMPANIES ACT, (CH. 81:01)
 FORM 32
 REGISTER OF MORTGAGES AND CHARGES, AND MEMORANDUM OF SATISFACTION
-PRESENTED BY ...
-NAME OF COMPANY...
+PRESENTED BY ... NAME OF COMPANY ...
 THE COMPANIES ACT, (CH. 81:01)
 FORM 33
 - Margin: REMARKS
@@ -43,17 +45,17 @@ FORM 33
 - Margin: DATE OF
 - Margin: DATE OF CEASING TO ACT RECEIVER OR MANAGER. (16) NAME AND APPOINT- DATE OF MENT
 - Margin: RATE PER CENT. COMMISSION, OR DISCOUNT ALLOWANCE, AMOUNT OR OF THE (15)
-- Margin: OF SATISFACTION. MEMORANDUMS AMOUNT ($) (14)
+- Margin: MEMORANDUMS OF SATISFACTION AMOUNT ($) (14)
 - Margin: DEBENTURE NAMES OF TRUSTEES HOLDERS FOR THE (13) THE
 - Margin: PARTICULARS RELATING TO THE ISSUES OF DEBENTURES OF A SERIES DESCRIPTION PROPERTY CHARGED GENERAL OF THE (12)
 - Margin: DATE OF THE COVERING DEED (11)
 - Margin: DATES OF THE RESOLUTIONS THE ISSUE OF AUTHORISING THE SERIES (10)
-- Margin: AMT. EACH ISSUE OF AMOUNTS OF ($) THE SERIES DATE AND (9) ($) DATE
+- Margin: AMT. EACH ISSUE OF AMOUNTS OF ($) THE SERIES DATE AND (9) DATE ($)
 - Margin: SECURED BY A DEBENTURES SERIES OF AMOUNT TOTAL (8)
 - Margin: MORTGAGEES THE CHARGE OR PERSONS ENTITLED TO NAMES OF THE (7)
 - Margin: OR CHARGED MORTGAGED PARTICULARS PROPERTY OF THE SHORT (6)
 - Margin: OR CHARGE MORTGAGE AMOUNT SECURED ($) BY THE (5)
-- Margin: ACQUISITION PROPERTY. DATE OF OF THE THE (4)
+- Margin: ACQUISITION PROPERTY. DATE OF OF THE (4) THE
 - Margin: DESCRIPTION CREATION OF OR CHARGE MORTGAGE DATE OF THEREOF EACH AND (3)
 - Margin: OF DOCU- MENT ON NUMBER SERIAL FILE (2)
 - Margin: GISTRA- OF RE- DATE TION (1)

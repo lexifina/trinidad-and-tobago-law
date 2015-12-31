@@ -30,9 +30,9 @@ X.Y., etc.
 FIRST PART
 DEBTS AND CLAIMS WHOLLY OR PARTLY ADMITTED
 BY THE COMPANY
-Amount Amount admitted Amounts Debts proposed Names, Particulars claimed by the Company admitted by the to be Addresses and of Debt or
-to be owing to company to be appropriated descriptions of Claim
-Creditor owing but which in full although Creditors
+Amount Amount admitted Amounts Names, Particulars Debts proposed claimed by the Company admitted by the Addresses and of Debt or to be
+to be owing to company to be descriptions of Claim appropriated
+Creditor owing but which Creditors in full although
 it is contended disputed are not within the inquiry
 FORM 5-Continued
 SECOND PART

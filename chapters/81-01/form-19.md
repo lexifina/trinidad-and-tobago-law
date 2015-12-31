@@ -4,23 +4,23 @@ STATEMENT OF AFFAIRS
 (Title same as Form 2)
 STATEMENT OF AFFAIRS on the ... day of ... 20..., the date of the Winding up Order (or such other date as the Official Receiver has for special reasons directed).
 I-As regards Creditors
-Gross Liabilities Expected to Assets Estimated to
+Estimated to Gross Liabilities Expected to Assets
 produce Liability rank
-$ Debts and liabilities, viz: (a) Property as per List "H",viz.: $ $
-(a) Cash at Bankers... (a) Unsecured Creditors as per List "A"
+(a) Property as per List 'H',viz.: $ Debts and liabilities, viz: $ $
+(a) Cash at Bankers... (a) Unsecured Creditors as per List 'A'
 (State number) (b) Cash in hand...
 (c) Stock in trade... $
-(b) Creditors fully secured (not (Estimated cost, $___) including debenture holders), (d) Machinery... as per List "B"...
+(b) Creditors fully secured (not (Estimated cost, $___) including debenture holders), (d) Machinery... as per List 'B'...
 (e) Trade fixtures, fittings,
 Estimated value of securities.. utensils, etc.
 Estimated surplus $
 (f) Investments in shares, etc...
-(g) Loans on mortgage... Carried to List "C"...
+(g) Loans on mortgage... Carried to List 'C'...
 Balance to contra (d)... (h) Other property, viz.:
 (b) Book debts (___debtors) as per
 (c) Creditors partly secured,
-List "I", viz.:
-as per List "C"...
+List 'I', viz.:
+as per List 'C'...
 Good...
 Less estimated value of securities.
 $
@@ -28,24 +28,24 @@ Doubtful...
 Estimated to rank for dividend... Bad...
 (d) Liabilities on bills discounted Estimated to produce... other than company's own $
 (c) Bills of exchange, or other similar acceptances for value as securities on hand
-List "D"...
-as per List "J"...
+List 'D'...
+as per List 'J'...
 Of which it is expected
 Estimated to produce...
 will rank for dividend...
-(d) Surplus from securities in the hands of creditors fully secured (per (e) Other liabilities, as per List contra)(b)... "E"...
+(d) Surplus from securities in the hands of creditors fully secured (per (e) Other liabilities, as per List contra)(b)... 'E'...
 Of which it is expected
 (e) Unpaid calls (___debtors),
 will rank for dividend...
-as per List "K"...
+as per List 'K'...
 Estimated to produce ... $
 Estimated total assets...
 (f) Preferential creditors for rates, taxes, $
 Deduct preferential wages, etc., as per
-creditors as per contra (f)... List "F" deducted contra...$ Estimated amount available
+creditors as per contra (f)... List 'F' deducted contra...$ Estimated amount available
 (Loans on debenture bonds, as
 to meet claims of
-per List "G" deducted debenture holders... contra(___holders)...$
+per List 'G' deducted debenture holders... contra(___holders)...$
 Deduct loans on debenture bonds
 $
 secured on the assets of the company as per contra (g)... Estimated surplus (if any) after meeting
@@ -55,29 +55,33 @@ liquidation
 unsecured creditors, subject to cost of $ liquidation... Estimated deficiency of assets to meet liabilities of the company, subject to cost of liquidation...
 $ The nominal amount of unpaid capital liable to be called up is $-which is [available to meet above deficiency] or [charged to
 debenture holders] or as the case may be.
+FORM 19-Continued
 STATEMENT OF AFFAIRS-Continued
 $
 Capital issued and allotted, viz: $ $ Founders' Shares of $ - per share.
 (---Shareholders) Estimated Surplus as above (if any)
-(a) Issued as fully paid. (a) Where subject to cost of Liquidation... Amount called up at $--per share, capital is issued as per List "L"... as partly paid up the form
+(a) Issued as fully paid. (a) Where subject to cost of Liquidation... Amount called up at $--per share, capital is issued as per List 'L'... as partly paid up the form
 Ordinary Shares of $---per share. should be
 (---Shareholders) altered accord-
 (a) Issued as fully paid. ingly.
-Amount called up at $--per share, as per List "M"... Preference Shares of $--per share, (--Shareholders)
+Amount called up at $--per share, as per List 'M'... Preference Shares of $--per share, (--Shareholders)
 (a) Issued as fully paid. Amount called up at $--per share, as per List 'N' ...
-(b) Amount, if any, paid in (b) Add parti-advance of call... culars of any other capital.
+(b) Amount, if any, paid in
+(b) Add parti-
+advance of call... culars of any other capital.
 Less unpaid calls estimated to be irrevocable ...
 Add deficiency to meet liability as Total deficiency as explained in
 above... Statement "O"...
 ===
-$ $ I, ...of ... make oath and say that the foregoing Statement and the Several Lists hereunto annexed marked ... are, to the best of my knowledge and belief, a full, true and complete statement of the affairs of the above-named Company, on the ... day of ... 20..., the date of the winding up order. (a). Signature ...
+$ $ I, ...of ... make oath and say that the foregoing Statement and the Several Lists hereunto annexed marked ... are, to the best of my knowledge and belief, a full, true and complete statement of the affairs of the above-named Company, on the ... day of ... 20..., the date of the winding up order. (a).
+Signature ...
 Sworn at ... this ... day of ... 20...
 Before me, A Commissioner, etc. NOTE: The Commissioner is particularly requested, before swearing the Affidavit, to ascertain that the full name, address and description of the Deponent are stated, and to initial all crossings out or other alterations on the printed form. A deficiency in the Affidavit in any of the above respects will entail its refusal by the Court, and will necessitate its being re-sworn.
 (a) Where the Official Receiver has directed any date other than the date of the winding up order, substitute such
 other date.
 LIST 'A'
 UNSECURED CREDITORS
-The names to be arranged in alphabetical order and numbered consecutively, Creditors for $48 and upwards being placed first. NOTES-1. When there is a contra account against the creditor, less than the amount of his claim against the Company, the amount of the creditor's claim and the amount of the contra account should be shown in the third column, and the balance only be inserted under the heading 'Amount of Debt', thus: Total amount of claim ...$ Less: Contra account...$ No such set-off should be included in List 'I'.
+The names to be arranged in alphabetical order and numbered consecutively, Creditors for $48 and upwards being placed first. NOTES-1. When there is a contra account against the creditor, less than the amount of his claim against the Company, the amount of the creditor's claim and the amount of the contra account should be shown in the third column, and the balance only be inserted under the heading "Amount of Debt", thus: Total amount of claim ...$ Less: Contra account...$ No such set-off should be included in List 'I'.
 2. The particulars of any bills of exchange and promissory notes held by a creditor should be inserted immediately below the name and address of such creditor.
 3. The names of any creditors who are also contributories, or alleged to be contributories, of the Company must be shown separately, and described as such at the end of the List.
 Address and Amount of Date when contracted
@@ -85,25 +89,25 @@ No. Name Consideration
 Occupation Debt
 Month Year
 Signature ... Dated ... 20...
+FORM 19-Continued
 LIST 'B'
 CREDITORS FULLY SECURED (NOT INCLUDING
 DEBENTURE HOLDERS)
-Date when Estimated
+Date when
 Particulars Date when Address and Amount of Consider- Name of
-contracted No. value of
+contracted No.
 of Security given ation Occupation Debt Creditor
-Security
 Month Year
 Signature ... Dated ... 20...
 LIST 'C'
 CREDITORS PARTLY SECURED
 (State whether also Contributories of the Company)
-Date when Estimated
+Date when
 Month and Address and Amount of
 Name of Particulars Consider-
-contracted No. value of Year when
+contracted No. Year when
 of Security ation Occupation Debt Creditor
-Security given
+given
 Month Year
 Signature ... Dated ... 20...
 LIST 'D'
@@ -123,12 +127,13 @@ Nature of Consider- Amount expected to rank No. Creditor or Liability or Liabili
 Occupation Liability ation against Assets for dividend
 Claimant Claim incurred
 Signature ... Dated ... 20...
+FORM 19-Continued
 LIST 'F'
 PREFERENTIAL CREDITORS FOR RATES, TAXES, SALARIES,
 WAGES AND OTHERWISE
 Period during Difference Amount
-Nature of Address and Name of Amount of Date when No. ranking for which claim payable in
-Claim due Claim Occupation Creditor
+Nature of Name of Address and Amount of Date when No. ranking for which claim payable in
+Claim due Claim Creditor Occupation
 Dividend full accrued due
 Signature ... Dated ... 20...
 LIST 'G'
@@ -152,6 +157,7 @@ utensils, etc... Investments in Stocks or Shares, etc... (f) [State Particulars]
 (g) Loans for which Mortgage or other security [State Particulars] held...
 (h) Other Property, viz. :...
 Signature ... Dated ... 20...
+FORM 19-Continued
 LIST 'I'
 DEBTS DUE TO THE COMPANY
 The names to be arranged in alphabetical order, and numbered consecutively
@@ -159,7 +165,7 @@ NOTE: If any debtor to the Company is also a Creditor, but for a less amount tha
 Folio of Particulars Ledger or Estimated
 of any When Amount
 Residence and other book
-to of No. Name Securities Contracted
+to of Name No. Securities Contracted
 where Occupation Debt
 produce held for
 Particulars to
@@ -186,6 +192,7 @@ Name of Shareholder Share
 Share due Occupation held tive No.
 Register unpaid
 Signature ... Dated ... 20...
+FORM 19-Continued
 LIST 'L'
 LIST OF FOUNDERS' SHARES
 Nominal Consecu- Register No. of
@@ -214,11 +221,8 @@ WITHIN THREE YEARS OF FORMATION OF COMPANY
 $
 I. Gross profit (if any) arising from carrying I. Expenditure in carrying on business from date
 on business from date of formation of of formation of Company to date of Winding Company to date of Winding up Order (1) up Order, (1), viz.: (as per Trading Account annexed).
-Amount Due at date
-II. Receipts, if any, during same period from
-dis- of Winding
-undermentioned sources:
-charged up Order
+Amount Due at date II. Receipts, if any, during same period from
+dis- of Winding undermentioned sources: charged up Order
 (1) Interests on Loans ...
 Interests on Deposits... II. General Expenditure: $ $
 Transfer Fees... Salaries... Amount paid on Shares issued and Wages not charged in subsequently forfeited (as per List Trading Account... annexed)... Rent...
@@ -236,10 +240,12 @@ V. Losses and depreciation
 written off in Company's books (2): Bad Debts... Losses on Investments... Depreciation on Property... Preliminary Expenses...
 VI. Losses and depreciation not written off in
 Company's books now written off by the Directors(2): Bad Debts... Losses on Investments... Depreciation on Property... Preliminary Expenses...
-Total amount to be accounted for ...(3)...$ VII. Other Losses and Expenses
-Total amount accounted for (3)...$ NOTE: (1) Where the Official Receiver has so directed substitute any other date.
+VII. Other Losses and Expenses Total amount to be accounted for ...(3)...$
+Total amount accounted for (3)...$
+NOTE: (1) Where the Official Receiver has so directed substitute any other date.
 (2) Where particulars are numerous they should be inserted in a separate Schedule.
 (3) These figures should agree. Signature ... Dated ... 20...
+FORM 19-Continued
 LIST 'O' (ii)
 DEFICIENCY ACCOUNT
 (i) DEFICIENCY ACCOUNT WHERE WINDING UP ORDER (1) MADE
@@ -248,15 +254,11 @@ $
 I. Excess of Assets over Capital and Liabilities I. Excess of Capital and Liabilities over assets
 on the (2) ---day of --------20 ___(if any), on the (2) --day of -------20 -- (if any), as per Company's Balance Sheets (to be as per Company's Balance Sheet. (This and annexed or handed to O.R.)... any previous Balance Sheets to be annexed
 or handed to O.R.)
-II. Gross profit (if any) arising from carrying II. Expenses in carrying on business from the (2)
-on business from the (2) ----day of ------ ---day of ---20 --- to date of Winding up Order, 20-, to date of Winding up Order (1) (as (1), viz.:
-Due at date Amount per Trading Account annexed). of Winding dis-up Order charged
-III. Receipts, if any, during same period from
-undermentioned sources:... General Expenditure: (1)
-Salaries... Interest on Loans...
-$ $ Wages not charged in
-Interest on Deposits...
-Trading Account...
+II. Gross profit (if any) arising from carrying II. Expenses in carrying on business from the (2) --
+on business from the (2) ----day of ------ -day of ---20 --- to date of Winding up Order, 20-, to date of Winding up Order (1) (as (1), viz.: per Trading Account annexed). Due at date Amount
+of Winding dis-up Order (1) charged III. Receipts, if any, during same period from
+undermentioned sources:... General Expenditure: $ $
+Salaries... Interest on Loans... Wages not charged in Interest on Deposits... Trading Account...
 Transfer Fees...
 Rent...
 Amount paid on Shares issued and
@@ -277,7 +279,8 @@ from the ----day of --20 --
 VI. Losses and depreciation not written off in
 Company's books now written off by the Directors(2): Bad Debts Losses on Investments Depreciation on Property Preliminary Expenses
 Total amount to be accounted for ...(4)...$ VII. Other Losses and Expenses
-Total amount accounted for (4)...$ NOTE: (1) Where the Official Receiver has so directed substitute any other date.
+Total amount accounted for (4)...$
+NOTE: (1) Where the Official Receiver has so directed substitute any other date.
 (2) Three years before date of Winding up Order or such other date as the Official Receiver has directed.
 (3) Where particulars are numerous they should be inserted in a separate Schedule.
 (4) These figures should agree. Signature ... Dated ... 20...
@@ -288,19 +291,18 @@ REMARKS
 LIST Where no particulars are entered on any one or PARTICULARS, AS PER FRONT SHEET
 more of the Lists named 'A' to 'O' the word 'Nil' should be inserted in this column opposite the
 particular List or Lists left blank
-Unsecured Creditors... A
-B Creditors fully secured (not including debenture
+A Unsecured Creditors... B Creditors fully secured (not including debenture
 holders)...
 C Creditors partly secured...
 Liabilities on Bills discounted other than the D
 Company's own acceptances for value...
-Other Liabilities... E Preferential Creditors for rates, taxes, wages, etc... F Loans on Debenture Bonds... G Property... H Book Debts... I
-J Bills of Exchange or other similar securities on hand K Unpaid Calls... L Founders' Shares...
+Other Liabilities... E Preferential Creditors for rates, taxes, wages, etc... F Loans on Debenture Bonds... G Property... H
+I Book Debts... J Bills of Exchange or other similar securities on hand K Unpaid Calls... L Founders' Shares...
 Ordinary Shares... M
 N Preferential Shares... O Deficiency Account ...
 Signature ... Dated ... 20...
-- Margin: Estimated surplus from Security
-- Margin: Balance of Debt Unsecured
+- Margin: Estimated Estimated surplus from value of Security Security
+- Margin: Balance of Estimated Debt value of Unsecured Security
 - Margin: Amount expected to rank for Dividend
 - Margin: realise
 - Margin: Total Amount per amount Share called up called up
