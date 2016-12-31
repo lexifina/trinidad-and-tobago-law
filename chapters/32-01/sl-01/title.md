@@ -16,7 +16,9 @@ SELF-EMPLOYED PERSONS
 PART IV
 GENERAL
 11. Board to supply forms.
-12. National Insurance Registration Card. REGULATION
+12. National Insurance Registration Card.
+ARRANGEMENT OF REGULATIONS-Continued
+REGULATION
 13. Loss, etc., of insurance certificate or National Insurance Registration
 Card.
 14. Board to be informed of changes. 15. Offences.
