@@ -1,14 +1,14 @@
 SUBSIDIARY LEGISLATION
 EMERGENCY AMBULANCE SERVICES AND
 EMERGENCY MEDICAL PERSONNEL REGULATIONS
-ARRANGEMENT OF REGULATIONS REGULATION
+ARRANGEMENT OF REGULATIONS
+REGULATION
 PART I
 PRELIMINARY
 1. Citation. 2. Interpretation. 3. Application for licence. 4. Responsible medical practitioner. 5. Insurance.
 PART II
 AMBULANCE SERVICES
-6. Requirements for an Ambulance Service-Basic. 7. Minimum requirements for Ambulance Service-Advanced 1. 8. Minimum Requirements for Ambulance Service-Advanced 2. 9. Patient's choice of nearest appropriate medical facility.
-10. Reports to health care facility. 11. Required emergency ambulance call reports. 12. Restriction on advertisement. 13. Drugs register to be kept. 14. Requirements to secure patients. 15. Patient consent.
+6. Requirements for an Ambulance Service-Basic. 7. Minimum requirements for Ambulance Service-Advanced 1. 8. Minimum Requirements for Ambulance Service-Advanced 2. 9. Patient's choice of nearest appropriate medical facility. 10. Reports to health care facility. 11. Required emergency ambulance call reports. 12. Restriction on advertisement. 13. Drugs register to be kept. 14. Requirements to secure patients. 15. Patient consent.
 PART III
 LAND AMBULANCE-VEHICLE AND EQUIPMENT 16. Minimum structural criteria for land ambulances. 17. Minimum equipment required to be on board a land ambulance. 18. Exterior surfaces. 19. Interior surfaces in patient compartment. 20. Linen.
 Emergency Medical Personnel Regulations
@@ -343,7 +343,7 @@ THE EMERGENCY AMBULANCE SERVICES AND
 EMERGENCY MEDICAL PERSONNEL
 REGULATIONS
 APPLICATION FOR AN AMBULANCE SERVICES LICENCE
-- Margin: 58/2013.
+- Margin: 58/2013. 32/2016.
 - Margin: Citation.
 - Margin: Interpretation.
 - Margin: Ch. 29:05.

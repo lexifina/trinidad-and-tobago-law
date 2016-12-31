@@ -1,9 +1,11 @@
 # SCHEDULE 3
-MINIMUM STRUCTURAL CRITERIA FOR A LAND AMBULANCE
+MINIMUM STRUCTURAL CRITERIA FOR
+A LAND AMBULANCE
 An emergency ambulance shall meet the minimum criteria below-
 (a) base unit of the ambulance shall have the following:
-(i) the gross weight shall be not less than 3 000 kg in weight;
-(ii) the length shall be no less than 16 metres;
+(i) the gross weight shall be not less than 3 000 kg in
+weight;
+(ii) the length shall be no less than 6 metres;
 (iii) maximum effective tyres;
 (iv) power steering;
 (v) power brakes;
@@ -23,30 +25,39 @@ prominently on both sides of the vehicle and on its bonnet; with letters at leas
 (d) a mirror image of the word "AMBULANCE" shall be on the
 bonnet of the ambulance;
 (e) the following interior patient compartment dimensions:
-(i) the compartment length shall provide a minimum of fifteen
-centimetres clear space at the head and ten centimetres at the foot of a one hundred and eighty centimetres litter and the minimum inside length shall be two hundred and eighty centimetres;
+(i) the compartment length shall provide a minimum of
+fifteen centimetres clear space at the head and ten centimetres at the foot of a one hundred and eighty centimetres litter and the minimum inside length shall be two hundred and eighty centimetres;
 (ii) the minimum inside width of one hundred and fifty
 centimetres; and
-(iii) the minimum inside height of the patient compartment shall
-be a minimum distance of one hundred and fifty centimetres from the floor to ceiling;
+(iii) the minimum inside height of the patient
+compartment shall be a minimum distance of one hundred and fifty centimetres from the floor to ceiling;
 Emergency Medical Personnel Regulations
 (f) access to vehicle in respect of-
 (i) the driver compartment shall have-
-(A) a door on each side of the vehicle in the driver's compartment;
-(B) a separation from the patient to afford privacy for radio communications and to protect the driver from an unruly patient, while providing both verbal and visual communication between driver and attendant through a sliding shatterproof glass partition at the upper portion of the separation partition; and
-(C) a bulkhead strong enough to support an attendant's seat in the patient area at the top of the patient's head and to withstand deceleration forces of the attendant in the case of accident;
+(A) a door on each side of the vehicle in the
+driver's compartment;
+(B) a separation from the patient to afford
+privacy for radio communications and to protect the driver from an unruly patient, while providing both verbal and visual communication between driver and attendant through a sliding shatterproof glass partition at the upper portion of the separation partition; and
+(C) a bulkhead strong enough to support an
+attendant's seat in the patient area at the top of the patient's head and to withstand deceleration forces of the attendant in the case of accident;
 (ii) the patient compartment shall have-
-(A) a door on the left side of the patient's compartment near the patient's head which permits a technician to position himself at the patient's head and quickly remove him from the side of the vehicle should the rear door become jammed;
-(B) a rear door which swings clear of the opening to permit full access to the patient's compartment;
-(C) holding devices incorporated on the patient compartment doors to prevent the door closing unintentionally from wind or vibration and such holding device should not protrude into the access area when the doors are open;
-(D) a spare wheel storage which is situated so as to permit the wheel to be removed without disturbing the patient;
+(A) a door on the left side of the patient's
+compartment near the patient's head which permits a technician to position himself at the patient's head and quickly remove him from the side of the vehicle should the rear door become jammed;
+(B) a rear door which swings clear of the
+opening to permit full access to the patient's compartment;
+(C) holding devices incorporated on the patient
+compartment doors to prevent the door closing unintentionally from wind or vibration and such holding device should not protrude into the access area when the doors are open;
+(D) a spare wheel storage which is situated so as
+to permit the wheel to be removed without disturbing the patient;
 (g) interior lighting-
 (i) the driver compartment shall have lighting which is
 available both to the driver as well as an attendant riding in the driving compartment in order to read maps and records;
 Emergency Medical Personnel Regulations
 (ii) the patient compartment shall have-
-(A) adequate illumination throughout the compartment with illumination at the level of the patient adequate for observation of vital signs, such as skin colour and papillary reflex and for care in transit; and
-(B) light controls at the entrance door, at the head of the patient and in the driver's compartment;
+(A) adequate illumination throughout the
+compartment with illumination at the level of the patient adequate for observation of vital signs, such as skin colour and papillary reflex and for care in transit; and
+(B) light controls at the entrance door, at the head
+of the patient and in the driver's compartment;
 (h) illumination devices-
 (i) there shall be at least one flood light mounted not less
 than one hundred and eighty centimetres above the ground and unobstructed by open doors located on each side of the vehicle and one flood light above the rear doors of the vehicle;
