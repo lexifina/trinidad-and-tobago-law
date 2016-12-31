@@ -1,5 +1,20 @@
-ARRANGEMENT OF REGULATIONS- Continued
+TRAFFIC CONTROL REGULATIONS
+ARRANGEMENT OF REGULATIONS
 REGULATION
+1. Citation.
+PART I
+PORT-OF-SPAIN
+2. Maxi-taxi stand. 3. No entry to maxi-taxis 4. No entry to taxis. 5. Parking prohibited. 6. Parking. 7. Entry and exit from Richmond Street. 8. One-way traffic.
+PART II
+TUNAPUNA
+9. One-way traffic. 10. Parking. 11. Parking prohibited.
+PART III CUREPE
+12. No stopping or parking.
+PART IV ARIMA
+13. One-way traffic. 14. No parking, stopping or waiting. 15. Parking prohibited. 16. Parking permitted. 17. No entry to maxi-taxis.
+PART V
+SANGRE GRANDE
+18. One-way traffic. REGULATION
 PART VI
 MARABELLA
 19. One-way traffic.

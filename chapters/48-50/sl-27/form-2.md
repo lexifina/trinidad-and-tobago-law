@@ -15,9 +15,8 @@ Classification: [ ] Owner
 AUTHORISED SIGNATURE
 SIGNATURE OF
 HOLDER
-FORM 2-Continued
-PUBLIC TRANSPORT SERVICE CORPORATION
-(BACK) Reminder Notice
+(BACK)
+Reminder Notice
 This Permit is valid for one (1) year from the date of First Issue or Anniversary
 Date of Renewal.
 NOTES

@@ -21,7 +21,6 @@ from obtaining a Transit Centre Pass?
 ...
 Date Signature of Applicant N.B.: It is an offence under the Motor Vehicles and Road Traffic Act, Ch. 48:50
 to give any particulars which are false or in any material respect misleading and you will be liable to prosecution if you do so.
-FORM 3-Continued
 (BACK)
 DECLARATION IN RESPECT OF APPLICATION FOR
 DUPLICATE TRANSIT CENTRE PASS FOR

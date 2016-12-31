@@ -575,3 +575,6 @@ sl-32/r-6.md
 sl-32/r-7.md
 sl-32/r-8.md
 sl-32/r-9.md
+sl-33/title.md
+sl-33/r-1.md
+sl-33/r-2.md
