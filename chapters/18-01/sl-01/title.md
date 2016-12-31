@@ -81,9 +81,9 @@ the Act.
 MISCELLANEOUS
 48. Hearing before a Special Inquiry Officer. 49. Decision of Special Inquiry Officer. 50. Uniforms. REGULATION
 51. Fees for visiting and clearing of ships by immigration officers. 52. Change of ownership, etc., of ships. 53. Fees in respect of the issue of miscellaneous permits and certificates.
-53A. Fees in respect of the issue of passports and other travel documents.
+53A. Fees in respect of the issue of passports and other travel documents. 53B. Senior citizens exempted from passport fees.
 54. Immigration examination signal. 55. Ships to stop for immigration officer.
-Procedure of arrival in Trinidad and Tobago.
+Procedure on arrival in Trinidad and Tobago.
 PROCEDURE WITH RESPECT TO PERSONS WHO ARE
 NOT CITIZENS OF TRINIDAD AND TOBAGO OR
 RESIDENTS

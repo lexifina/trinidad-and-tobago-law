@@ -11,6 +11,7 @@ Amended by
 37 of 1995
 2 of 2005
 †14 of 2005 (by implication)
+† 1 of 2016
 *See Note on page 2.
 †See Note on page 3.
 Index of Subsidiary Legislation
@@ -18,7 +19,7 @@ Page Immigration Regulations (GN 178/1974) ... 49 Immigration (Work Permit Exemp
 (LN 184/1987) ... 184 Delegation of Functions (Immigration and Citizenship ) Order (LN 52/1988) 185 Immigration (Exemption From Work Permit Requirements) Order
 (LN 80/2005) ... 186
 Note on Subsidiary Legislation which have been omitted
-The Classes of Undesirable Immigrants Order 1953 (GN 177/1953 as amended), the Immigration Detention Places Regulations (1950 Ed. Vol. VIII page 801) and the Notice fixing Overtime rates for Launch Crews (RG 13.1.1921, as amended) made under the Immigration (Restriction) Ordinance, Ch. 20: No. 2 (1950 Ed.) (now repealed) continue in force by virtue of section 29(3) of the Interpretation Act (Ch. 3:01), but they have not been published as they are out of date and will soon be revoked or replaced.
+The Classes of Undesirable Immigrants Order 1953 (GN 177/1953 as amended), the Immigration Detention Places Regulations (1950 Ed. Vol. VIII page 801) and the Notice fixing Overtime rates for Launch Crews (RG 13.1.1921, as amended) made under the Immigration (Restriction) Ordinance, Ch. 20. No. 2 (1950 Ed.) (now repealed) continue in force by virtue of section 29(3) of the Interpretation Act (Ch. 3:01), but they have not been published as they are out of date and will soon be revoked or replaced.
 Similarly, Orders made under section 4 of the repealed Ordinance declaring specified persons to be undesirable immigrants have not been published since they are of a personal nature. N.B. See the Current Edition of Consolidated Index of Acts and Subsidiary Legislation for references to the above Subsidiary Legislation.
 Note on Act No. 19 of 1988
 Section 38 of the Trinidad and Tobago Free Zones Act, 1988 (Act No. 19 of 1988) provides as follows:
@@ -41,6 +42,8 @@ See the following Notices:
 (a) GN 287/1986 (From Minister to Chief Immigration Officer);
 (b) LN 52/1988 (From Minister to Minister in the Ministry of National Security and
 Citizenship).
+Note on Act No. 1 of 2016
+Amendments made to the Immigration Regulations by Act No. 1 of 2016 took effect from 1st January 2016.
 CHAPTER 18:01
 IMMIGRATION ACT
 ARRANGEMENT OF SECTIONS SECTION
