@@ -5,5 +5,4 @@ Dated this ... day of ... , 20...
 Secretary to Cabinet
 Note: Section 5(3) of the Land Acquisition Act requires that this Order be published and served
 in the manner set out in section 3(1) and (2) respectively, of that Act.
-Land Acquisition (Prescribed Forms) Regulations
 - Margin: [Subsidiary]

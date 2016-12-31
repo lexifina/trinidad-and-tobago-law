@@ -1,9 +1,7 @@
-Land Acquisition (Prescribed Forms) Regulations
 FORM C
-THE LAND ACQUISITION ACT
+THE LAND ACQUISITION ACT, CH. 58:01
 ORDER
 MADE BY THE PRESIDENT UNDER SECTION 5(1) OF THE
 LAND ACQUISITION ACT
 THE LAND ACQUISITION (REQUISITION) ORDER
-- Margin: [Subsidiary]
-- Margin: [Section 5(1)].
+- Margin: Section 5(1).

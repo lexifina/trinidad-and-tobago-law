@@ -6,3 +6,4 @@ Dated this ... day of ... , 20...
 Secretary to Cabinet
 Note: The Land Acquisition Act requires that this Notice be published and served in the manner
 set out in section 3(1) and (2) respectively, of that Act.
+- Margin: [Subsidiary]
