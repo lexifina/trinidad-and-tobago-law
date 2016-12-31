@@ -214,12 +214,12 @@ Address amount of Name of Shareholder
 Shares held tive No. No.
 Share
 Signature ... Dated ... 20...
-LIST 'O'. (i)
+LIST 'O' (i)
 DEFICIENCY ACCOUNT
 (i) DEFICIENCY ACCOUNT WHERE WINDING UP ORDER (1) MADE
 WITHIN THREE YEARS OF FORMATION OF COMPANY
-$
 I. Gross profit (if any) arising from carrying I. Expenditure in carrying on business from date
+$
 on business from date of formation of of formation of Company to date of Winding Company to date of Winding up Order (1) up Order, (1), viz.: (as per Trading Account annexed).
 Amount Due at date II. Receipts, if any, during same period from
 dis- of Winding undermentioned sources: charged up Order
