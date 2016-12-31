@@ -15,7 +15,8 @@ Market) Order (LN 129/1990 ... 63 Privileges and Immunities (Caribbean Financial
 Management Programme-Resource Assessment Unit) Order (LN 164/1996) 83 Privileges and Immunities (Andean Development Corporation) Order (LN 166/1996) 90 Privileges and Immunities (Caribbean Export Development Agency) Order
 (LN 193/1997) ... 95 Privileges and Immunities (Conventions of Lomé) Order (LN 48/1999) … 103 Privileges and Immunities (Diplomatic, Consular and International Organisations)
 (Inter-American Institute for Co-operation on Agriculture) Order (LN 101/2001) 104 Privileges and Immunities [Caribbean Court of Justice (CCJ), Regional Judicial
-and Legal Services Commission (RJLSC) and the Caribbean Court of Justice Trust Fund] Order (LN 99/2005) ... 105
+and Legal Services Commission (RJLSC) and the Caribbean Court of Justice Trust Fund] Order (LN 99/2005) ... 105 Privileges and Immunities [CARICOM Implementation Agency for Crime
+and Security (IMPACS)] Order (LN 83/2016)... 107
 CHAPTER 17:01
 PRIVILEGES AND IMMUNITIES
 (DIPLOMATIC, CONSULAR AND INTERNATIONAL
@@ -43,7 +44,8 @@ INTERNATIONAL ORGANISATIONS AND AGENCIES
 9. Privileges and immunities of specified international organisations
 and agencies.
 10. Bilateral arrangements for additional privileges and immunities.
-ARRANGEMENT OF SECTIONS-Continued SECTION
+ARRANGEMENT OF SECTIONS-Continued
+SECTION
 PART VI
 GENERAL
 11. Certificate of Minister is conclusive evidence. 12. Use, etc., of official seal of United Nations. 13. Regulations.
