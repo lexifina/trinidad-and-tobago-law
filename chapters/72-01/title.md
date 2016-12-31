@@ -4,8 +4,9 @@ CHAPTER 72:01
 Act
 11 of 2009 Amended By
 3 of 2011 8 of 2011 14 of 2012 15 of 2014
+41 ..
 Index of Subsidiary Legislation
-Page Financial Intelligence Unit of Trinidad and Tobago Regulations (LN 12/2011) 23
+Page Financial Intelligence Unit of Trinidad and Tobago Regulations (LN 12/2011) 23 Financial Intelligence Unit of Trinidad and Tobago (Enhanced Due Diligence Requirements) Order (LN 189/2016) ... 41
 Note on Revision
 The pages of this Act bearing the notation L.R.O. 1/2015 are hereby authorised to be included in the Laws as from 5th January 2015 pursuant to an Order made under section 9 of the Law Revision Act (Chap. 3:03).
 CHAPTER 72:01
