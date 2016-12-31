@@ -7,7 +7,7 @@ Ex. 15.08 do. Ground-nut oil and its fractions, refined,
 but not chemically modified
 Ex. 15.11 do. Palm oil and its fractions, refined, but not
 chemically modified
-do. Ex. 15.12 Sunflower-seed, safflower or cotton seed
+Ex. 15.12 do. Sunflower-seed, safflower or cotton seed
 oil and fractions thereof, refined, but not chemically modified
 do. Ex. 15.13 Coconut (copra), palm kernel or babassu
 oil and fractions thereof, refined, but not chemically modified

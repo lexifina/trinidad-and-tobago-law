@@ -1,11 +1,8 @@
 # NINTH SCHEDULE
-FINANCIAL SERVICES Statements Daily statements on accounts Duplicate statements on accounts Interim statements on accounts Provision of Audit Certificates Certificate of balances/information on accounts Statements of interest earned Statements of loan payment Statements of interest paid Other statements on accounts
-Orders Stop payments Standing Orders Voucher search (Customer request) Accounts closed within a specified period of time (usually 3 months) Deposit broken before maturity Mail and Telephone Payment Orders-Outgoing Certified Cheques Cheques deposited and subsequently charged back to customers' accounts Clearing of cheques by Fax or Telephone Transfer between accounts to cover cheques Confidential reports:
+FINANCIAL SERVICES Statements Daily statements on accounts Duplicate statements on accounts Interim statements on accounts Provision of Audit Certificates Certificate of balances/information on accounts Statements of interest earned Statements of loan payment Statements of interest paid Other statements on accounts Orders Stop payments Standing Orders Voucher search (Customer request) Accounts closed within a specified period of time (usually 3 months) Deposit broken before maturity Mail and Telephone Payment Orders-Outgoing Certified Cheques Cheques deposited and subsequently charged back to customers' accounts Clearing of cheques by Fax or Telephone Transfer between accounts to cover cheques Confidential reports:
 Clients' requests Correspondents' requests Embassies'/Consulates' request Telephone confirmation of balance-
-Interbranch withdrawals Withdrawals without passbook Third party withdrawals
-Bills, Bonds, Guarantees and Indemnities Bills discounted
-T&T Export Credit Insurance
-Bills for Collection Bonding and Insurance of Goods Commission on Bills
+Interbranch withdrawals Withdrawals without passbook Third party withdrawals Bills, Bonds, Guarantees and Indemnities Bills discounted
+T&T Export Credit Insurance Bills for Collection Bonding and Insurance of Goods Commission on Bills
 Case of Need Payments
 Certificate of Transfer of Title of Goods
 Certificate of Rates
@@ -54,4 +51,3 @@ Credit to account Advise beneficiary to collect funds Dishonored items Forward c
 Bank Notices Notice of dormant accounts
 Returned Items N.S.F. returned cheques Voucher returned with statement Returned item Charge-Foreign currency accounts
 Miscellaneous Charges Auditor's confirmations Photocopy requests Deposit by security firms over the counter Exchange of coins-For non-bank account Facsimile messages Balances below designated amount on foreign currency accounts.
-- Margin: Section 39(1). [3 of 1994].
