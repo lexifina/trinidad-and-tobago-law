@@ -45,11 +45,11 @@ and ownership, the total catch of fish and shrimp of which is to be supplied und
 3. The wholesale price of L.P.G. shall be as follows:
 Petroleum Product Trinidad and Tobago cents per pound
 Exclusive Inclusive of VAT of VAT
-L.P.G... 6.304 7.250
+L.P.G... 8.333 9.375
 4. The retail price of L.P.G. shall be as follows:
 Petroleum Product Trinidad and Tobago cents per pound
 Exclusive Inclusive of VAT of VAT
-L.P.G... 91.304 105.000
+L.P.G... 93.333 105.000
 *This Schedule was further amended by 200/1979; 117/1980; 5/1982, 144/1982; 1/1983; 3/1984;
 - Margin: 109/1976. [173/1979 200/1979 201/1979 52/1981 22/1982 8/1984 178/1992]. Interpretation.
 - Margin: Ch. 81:01.
