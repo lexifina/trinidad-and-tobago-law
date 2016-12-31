@@ -2,8 +2,9 @@ CONSERVATION OF WILD LIFE ACT
 CHAPTER 67:01
 Act
 16 of 1958 Amended by 14 of 1963 *31 of 1980
+137/2016
 *See Note on Validation on page 2
-1-6 .. 7-20 .. 21-22 . 23-28 ..
+1-2 .. 3-6 .. 7-14 . 15-28 ..
 Index of Subsidiary Legislation
 Page Conservation of Wild Life Regulations (Act No. 16 of 1958) … … 20 Conservation of Wild Life (Prohibition Against Hunting During Certain Periods)
 Regulations (LN 116/2002)... 28
