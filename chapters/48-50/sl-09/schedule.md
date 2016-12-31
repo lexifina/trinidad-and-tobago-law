@@ -7,7 +7,7 @@ COUNTY OF MAYARO
 Nil
 PART C
 COUNTY OF NARIVA
-Motor Omnibus Stands-Rio Claro
+Motor Omnibus Stand-Rio Claro
 On the South side of the Naparima-Mayaro Road, East of the Taxi Stand- three omnibuses facing West.
 PART D
 COUNTY OF ST. ANDREW
@@ -28,11 +28,12 @@ COUNTY OF ST. GEORGE WEST
 Nil
 PART H
 COUNTY OF ST. PATRICK
-Motor Omnibus Stands-Penal
+Motor Omnibus Stand-Penal
 West side of Siparia-Erin Road from the twelve-kilometre post and extending in a northerly direction for a distance of forty-five metres-five omnibuses facing North.
 PART I
 TOBAGO
-Motor Omnibus Stands-Tobago Carrington Street from a point one metre West of Exit Street from Customs Area, Scarborough, to the sea wall-eight omnibuses facing North.
+Motor Omnibus Stand-Tobago
+Carrington Street from a point one metre West of Exit Street from Customs Area, Scarborough, to the sea wall-eight omnibuses facing North.
 PART J
 COUNTY OF VICTORIA
 1. The Eastern side of the triangle in Buen Intento Road-two omnibuses facing North.

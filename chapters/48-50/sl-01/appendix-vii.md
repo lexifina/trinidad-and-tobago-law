@@ -9,12 +9,13 @@ Motor Vehicle Reg. No... categorised as ...vehicle Owner's Name ... Owner's Addr
 (b) Make and year manufactured ... VIN/Chassis No...
 (c) Engine No... No. of Cylinders ...
 (d) Fuel ... Horse Power ... Colour ...
-(e) Tare ... kg M.G.W ... kg Tyre Size ... and found the condition of its several parts to be:
-Chassis ... Engine ... Body ... Tyres ... Brakes ... Mechanism ... Fittings ... and have allowed a:
+(e) Tare ... kg M.G.W ... kg Tyre Size ...
+and found the condition of its several parts to be:
+Chassis ... Engine ... Body ... Tyres ... Brakes ... Mechanism ... Fittings ...
+and have allowed a:
 Longitudinal overhang of ... Lateral overhang of ... Rear Axle: Dual Dual Single
 (2) The said vehicle/trailer ... conforms to the
 Regulations for the time being in force under the Motor Vehicle and Road Traffic Act, Ch. 48:50 and is in good and proper condition to carry ...passengers.
-APPENDIX VII-Continued
 (3) No more than ... persons may sit on the left/right of the driver
 and the vehicle may carry a maximum of ... passengers.
 (4) Inspection Receipt bearing No... dated ..., 20... for

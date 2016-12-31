@@ -49,9 +49,7 @@ switch (Diesel Trucks) (f) Glasses (Windscreens
 (i) Length, Width and
 (g) Tuned properly
 overhangs
-(h) Visible Vapour/Sparks, etc. (j) Bumpers secured
-APPENDIX VI-Continued
-6. Markings: 10. Under Carriage
+(h) Visible Vapour/Sparks, etc. (j) Bumpers secured 6. Markings: 10. Under Carriage
 Good Defective Check for: Good Defective
 (a) Washed under carriage
 (a) Letter (S) painted on all

@@ -8,11 +8,11 @@ Taxi Stands-Chaguanas
 4. Old Southern Main Road-Eastern side from a point ten metres South of Eleanor Street and extending in a southerly direction for a distance of fifty metres-eight taxis facing South.
 5. St. Yves Street-Western side from a point twenty metres North of the Chaguanas Main Road and extending in a northerly direction for a distance of forty metres-six taxis facing North.
 6. Noel Street-on the western side, North of Gran Couva Road, from a point nine metres extending northwards-twelve taxis facing South.
-Taxi Stands-Carapichaima
+Taxi Stand-Carapichaima
 Waterloo Road, St. Mary's Junction-Northern side from a point ten metres West of the entrance to the Gas Station and extending in a westerly direction for a distance of forty metres (Church entrance shall be free of obstruction) - six taxis facing West.
 PART B
 COUNTY OF MAYARO
-Taxi Stands-Mayaro
+Taxi Stand-Mayaro
 The northern half of the parking lot situated at the corner of Naparima Mayaro Road and Guayaguayare Road (opposite the Mayaro Market)-eleven taxis parked within lines painted or marked on the surface of the said parking lot.
 PART C
 COUNTY OF NARIVA
@@ -21,7 +21,7 @@ Taxi Stands-Rio Claro
 2. Naparima-Mayaro Road-From a point forty metres East of Cunapo South Road, along the northern side of Railway Road-ten taxis facing East.
 PART D
 COUNTY OF ST. ANDREW
-Taxi Stand-Sangre Grande
+Taxi Stands-Sangre Grande
 1. Railway Station Road Exit-Eastern side-eight taxis facing south-west.
 2. Old Railway Station Road-Northern side near wall of Public Transport Service Corporation Administration Building-ten taxis facing South.
 3. Cunapo Southern Main Road-Eastern side from a point ten metres North of Andre Street and extending in a northerly direction for a distance of fifty metres-eight taxis facing South.
@@ -33,13 +33,13 @@ COUNTY OF ST. DAVID
 Nil
 PART F
 COUNTY OF ST. GEORGE EAST
-Taxi Stands-Curepe
+Taxi Stand-Curepe
 Evans Street-From a point thirty metres from the corner of Old Southern Main Road and Evans Street.
-Taxi Stands-Arouca
+Taxi Stand-Arouca
 Golden Grove Road-Eastern side from a point twenty-three metres South of the Eastern Main Road extending in a southerly direction-ten taxis facing South.
 Taxi Stands-Arima
 1. Broadway-Northern side between Queen Street (Dial) and Prince Street-fourteen taxis facing East.
-2. North side of Broadway from a point ten metres East of Woodford Street to a point indicated by studs fifteen metres West of Queen Street-fifteen taxis facing East.
+2. North side of Broadway from a point ten metres East of Woodford Street to a point indicated by studs fifteen metres West of Queen Street- fifteen taxis facing East.
 3. Pro-Queen Street-Western side between Hollis Avenue and de Verteuil Street-fifteen taxis facing North.
 4. West side of Pro-Queen Street from a point thirty metres South of Hollis Street and extending in a southerly direction for sixty metres-ten taxis facing North.
 5. Queen Street-Western side, from a point nine metres South of the corner of Farfan Street-twelve taxis facing South.
@@ -63,7 +63,7 @@ Taxi Stands-Port-of-Spain
 16. Broadway-On West side close to kerb from Independence Square North to Independence Square South-twelve taxis facing East.
 17. Dock Road-On North side and close to kerb from a point twenty-five metres West of No. 2 Gate, King's Wharf and extending in a westerly direction-seven taxis facing South.
 18. Queen Street-On the southern side, from a point nine metres East of Nelson Street-ten taxis facing West.
-Taxi Stands-Morvant
+Taxi Stand-Morvant
 Lady Young Road-Western side shoulder from a point thirty metres North of Morvant Junction and extending northerly for a distance of thirty-four metres. The width of the said Taxi Stand is to commence six metres West of the Lady Young Road and to extend for a distance of a further six metres West thereof-ten taxis facing north-east.
 Taxi Stands-San Juan
 1. Eastern Main Road-The south-east corner of the El Socorro Road junction-nine taxis facing south-west, the head of the rank being the taxi nearest the Post Office.
@@ -80,7 +80,7 @@ Taxi Stands-Penal
 Taxi Stands-Siparia
 1. Eastern side of the parking ground adjoining the Post Office on the Siparia-Erin Road-four taxis facing South.
 2. Coora Extension Road-Eastern side of Siparia-Erin Road-six taxis facing South in herring-bone fashion.
-Taxi Stands-Fyzabad
+Taxi Stand-Fyzabad
 South side of Fyzabad-Guapo Road from a point twenty metres West of the junction of Fyzabad Road and extending in a westerly direction for a distance of thirty metres-four taxis facing West.
 Taxi Stands-Point Fortin
 1. Mainfield Road-Northern side-eight taxis facing West.
