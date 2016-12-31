@@ -1,0 +1,4 @@
+# Section 141D
+141D. There is established a fund to be called "the Tobago House of Assembly Fund" which shall consist of-
+(a) such monies as may be appropriated by Parliament for the use of the Assembly; and
+(b) such other monies as the Assembly may lawfully collect.

@@ -1,0 +1,8 @@
+# Section 123A
+123A. (1) Subject to section 123(1), the Commissioner of Police shall have the complete power to manage the Police Service and is required to ensure that the human, financial and material resources available to the Service are used in an efficient and effective manner.
+(2) The Commissioner of Police shall have the power to -
+(a) appoint persons to hold or act in an office in the Police Service, other than an officer referred to in section 123(1)(a), including the power to make appointments on promotion and to confirm appointments;
+(b) transfer any police officer; and
+(c) remove from office and exercise disciplinary control over police officers, other than an officer referred to in section 123(1)(a).
+(3) The functions of the Commissioner of Police under this section may be exercised by him in person or through any police officer of or above the rank of Superintendent acting under and in accordance with his general or special instructions.
+(4) In the performance of his functions under this section the Commissioner of Police shall act in accordance with the Police Service Act and the Regulations made thereunder.
