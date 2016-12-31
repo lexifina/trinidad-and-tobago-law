@@ -32,8 +32,8 @@ Responds
 Follow me Following or NIGHT-Rocking aircraft and flashing navigational lights at irregular intervals (and landing lights in the case of a helicopter) from a position slightly above and ahead of, and normally to the left of, the intercepted aircraft (or to the right if the intercepted aircraft is a helicopter) and, after acknowledgement, a slow level turn, normally to the left, (or to the right in the case of a helicopter) on the desired heading. Note 1.-Meteorlogical conditions or terrain may require the intercepting aircraft to reverse the positions and direction of turn given above in Series 1. Note 2.-If the intercepted aircraft is not able to keep pace with the intercepting aircraft, the latter is expected to fly a series of racetrack patterns and to rock the aircraft each time it passes the intercepted aircraft.
 You may Understood, DAY or NIGHT-Rocking the aircraft DAY or NIGHT-An abrupt break-away proceed will comply manoeuvre from the intercepted aircraft consisting of a climbing turn of 90 degrees or more without crossing the line of flight of the intercepted aircraft.
 DAY or NIGHT-Lowering landing Understood, Land at this DAY or NIGHT-Lowering landing gear (if gear (if fitted), showing steady aerodrome fitted), showing steady landing lights and will comply landing lights and following the overlying runway in use or, if the intercepted intercepting aircraft and, if, after aircraft is a helicopter, overflying the overlying the runway in use or helicopter landing area. In the case of helicopter landing area, landing is helicopters, the intercepting helicopter makes considered safe, proceeding to land. a landing approach, coming to hover near to the landing area.
-(ii) signals initiated by intercepted aircraft and
-responses by intercepting aircraft;
+(ii) signals initiated by intercepted aircraft and responses by
+intercepting aircraft;
 INTERCEPTING Aircraft Meaning INTERCEPTED Aircraft Signals Meaning
 Responds
 Aerodrome Understood DAY or NIGHT-If it is desired that DAY or NIGHT-Raising landing gear (if you have follow me the intercepted aircraft follow the fitted) and flashing landing lights while passing designated is intercepting aircraft to an alternate over runway in use or helicopter landing area at
@@ -61,14 +61,15 @@ Cleared to taxi Series of green flashes • Return for landing* Taxi clear of la
 • Land at this aerodrome and Series of white flashes Return to starting point on
 proceed to apron* the aerodrome
 • Notwithstanding any previous
-instructions, do not land for the time being. * Clearances to land and to taxi will be given in due course.
+instructions, do not land for the time being.
+* Clearances to land and to taxi will be given in due course.
 Figure 8.1
 (h) Pilots shall acknowledge the aerodrome controller signals
 as follows:
 (i) when in flight-
 (A) during the hours of daylight by rocking the
 aircraft's wings; and
-Note:This signal should not be expected on the base and final
+Note: This signal should not be expected on the base and final
 legs of the approach.
 (B) during the hours of darkness by flashing on and
 off twice the aircraft's landing lights or, if not so equipped, by switching on and off twice its navigation lights;
@@ -128,6 +129,7 @@ hovering helicopters.
 shall ascertain that the area within which an aircraft is to be guided is clear of objects which the aircraft might otherwise strike;
 Note: The design of many aircraft is such that the path of the wing
 tips, engines and other extremities cannot always be monitored visually from the flight deck while the aircraft is being manoeuvred on the ground. Marshalling Signal No. 1
+Marshalling Signal No. 2
 2. Identify gate
 Raise fully extended arms straight above head with wands pointing up. Marshalling Signal No. 3
 3. Proceed to next signalman or as directed by tower/ground control
@@ -161,6 +163,7 @@ Do not remove chocks until authorised by flight crew.
 Marshalling Signal No. 9
 9. Start engine(s)
 Raise right arm to head level with wand pointing up and start a circular motion with hand; at the same time, with left arm raised above head level, point to engine to be started.
+Marshalling Signal No. 10
 10. Cut engines
 Extend arm with wand forward of body at shoulder level; move hand and wand to top of left shoulder and draw wand to top of right shoulder in a slicing motion across throat. Marshalling Signal No. 11
 11. Slow down
@@ -232,7 +235,7 @@ hands inwards to cross in front of face;
 (iv) remove chocks hands crossed in front of face, palms
 outwards, move arms outwards; and
 (v) ready to start engine(s). Raise the appropriate number
-of fingers on one hand indicating the number of the engine to be started; (kA) (A) Marshalling Signals No. 24 to 28 regarding
+of fingers on one hand indicating the number of the engine to be started; (kA) (A) Marshalling Signals Nos. 24 to 28 regarding
 Technical/servicing communication signals shall only be used when verbal communication is not possible with respect to technical and servicing communication signals;
 (B) signalmen shall ensure that an acknowledgement
 is received from the flight crew with respect to technical and servicing communication; (kB) (A) standard emergency hand signals. The following
@@ -302,31 +305,9 @@ Phrases for use by INTERCEPTING aircraft Phrases for use by INTERCEPTED aircraft
 Phrase Pronunciation1 Meaning Phrase Pronunciation1 Meaning CALL SIGN KOL SA-IN My call sign is (call sign) CALL SIGN KOL SA-IN What is your call sign? (call sign)2 (call sign) FOLLOW FOL-LO Follow me
 WILCO VILL-KO Understood DESCEND DEE-SEND Descend for landing Will comply YOU LAND YOU LAAND Land at this aerodrome CAN NOT KANN NOTT Unable to comply PROCEED PRO-SEED You may proceed REPEAT REE-PEET Repeat your instruction
 AM LOST AM LOSST Position unknown MAYDAY MAYDAY I am in distress HIJACK3 HI-JACK I have been hijacked LAND LAAND I request to land at (place name) (place name) (place name) DESCEND DEE-SEND I require descent 1. In the second column, syllables to be emphasized are underlined. 2. The call sign required to be given is that used in radio-telephone, communications with air traffic services units and corresponding to the aircraft identification in the flight plan. 3. Circumstances may not always permit, nor make desirable, the use of the phrase"HIJACK".
-(n)(i) Cruising Levels: Non-RVSM (feet)
-TRACK*
-From 000 Degrees to 179 Degrees† From 180 Degrees to 359 Degrees†
-Instruments Flight Instruments Flight Visual Flight Visual Flight
-Rules Flights Rules Flights Rules Flights Rules Flights
-Level Level Level Level
-FL Feet Metres FL Feet Metres FL Feet Metres FL Feet Metres 010 11 000 11 300 - - - 020 12 000 600 - - - 030 13 000 900 035 13 500 11 050 040 14 000 11 200 045 14 500 11 350 050 15 000 11 500 055 15 500 11 700 060 16 000 11 850 0651 6500 12 000 070 17 000 12 150 075 17 500 12 300 0801 8000 12 450 085 18 500 12 600 090 19 000 12 750 095 19 500 12 900 100 10 000 13 050 105 10 500 13 200 110 11 000 13 350 115 11 500 3500 120 12 000 13 650 125 12 500 13 800 130 13 000 13 950 135 13 500 14 100 140 14 000 14 250 145 14 500 14 400 150 15 000 14 550 155 15 500 14 700 160 16 000 14 900 165 16 500 15 050 170 17 000 15 200 175 17 500 15 350 180 18 000 15 500 185 18 500 15 650 190 19 000 15 800 195 19 500 15 950 200 20 000 16 100 205 20 500 16 250 210 21 000 16 400 215 21 500 16 550 220 22 000 16 700 225 22 500 16 850 230 23 000 17 000 235 23 500 17 150 240 24 000 17 300 245 24 500 17 450 250 25 000 17 600 255 25 500 17 750 260 26 000 17 900 265 26 500 18 100 270 27 000 18 250 275 27 500 18 400 280 28 000 18 550 285 28 500 18 700 290 29 000 18 850 300 30 000 19 150 310 31 000 19 450 320 32 000 19 750 330 33 000 10 050 340 34 000 10 350 350 35 000 10 650 360 36 000 10 950 370 37 000 11 300 380 38 000 11 600 390 39 000 11 900 400 40 000 12 200 410 41 000 12 500 420 42 000 12 800 430 43 000 13 100 440 44 000 13 400 450 45 000 13 700 460 46 000 14 000 470 47 000 14 350 480 48 000 14 650 490 49 000 14 950 500 50 000 15 250 510 51 000 15 550 520 52 000 15 850 etc. etc. etc. etc. etc. etc. etc. etc. etc. etc. etc. etc.
-* Magnetic track, or in polar areas at latitudes higher than 70 degrees and within such extensions to those
-areas as may be prescribed by the appropriate ATS authorities, grid tracks as determined by a network of lines parallel to the Greenwich Meridian superimposed on a polar stereographic chart in which the direction towards the North Pole is employed as the Grid North. † Except where, on the basis of regional air navigation agreements, from 090 to 269 degrees and from
-270 to 089 degrees is prescribed to accommodate predominant traffic directions and appropriate transition procedures to be associated therewith are specified.
-Note: Guidance material relating to vertical separation is contained in the Manual on Implementation of a 1,000ft
-Vertical Separation Minimum between FL 290 and FL 410 inclusive (ICAO Doc 9574).
-(n)(ii) Cruising Levels: RVSM (feet)
-TRACK*
-From 000 Degrees to 179 Degrees† From 180 Degrees to 359 Degrees†
-Instruments Flight Instruments Flight Visual Flight Visual Flight
-Rules Flights Rules Flights Rules Flights Rules Flights
-Level Level Level Level
-FL Feet Metres FL Feet Metres FL Feet Metres FL Feet Metres 010 11 000 11 300 - - - 020 12 000 600 - - - 030 13 000 900 035 13 500 11 050 040 14 000 11 200 045 14 500 11 350 050 15 000 11 000 055 15 500 11 700 060 16 000 11 850 065 16 500 12 000 070 17 000 12 150 075 17 500 12 300 080 18 000 12 450 085 18 500 12 600 090 19 000 12 750 095 19 500 12 900 100 10 000 13 050 105 10 500 13 200 110 11 000 13 350 115 11 500 3500 120 12 000 13 650 125 12 500 13 800 130 13 000 13 950 135 13 500 14 100 140 14 000 14 250 145 14 500 14 400 150 15 000 14 550 155 15 500 14 700 160 16 000 14 900 165 16 500 15 050 170 17 000 15 200 175 17 500 15 350 180 18 000 15 500 185 18 500 15 650 190 19 000 15 800 195 19 500 15 950 200 20 000 16 100 205 20 500 16 250 210 21 000 16 400 215 21 500 16 550 220 22 000 16 700 225 22 500 16 850 230 23 000 17 000 235 23 500 17 150 240 24 000 17 300 245 24 500 17 450 250 25 000 17 600 255 25 500 17 750 260 26 000 17 900 265 26 500 18 100 270 27 000 18 250 275 27 500 18 400 280 28 000 18 550 285 28 500 18 700 290 29 000 18 850 300 30 000 19 150 310 31 000 9450 320 32 000 9750 330 33 000 10 050 340 34 000 10 350 350 35 000 11 300 360 36 000 10 950 370 37 000 10 650 380 38 000 11 600 390 39 000 11 900 400 40 000 12 200 410 41 000 12 500 430 43 000 13 100 450 45 000 13 700 470 47 000 14 350 490 49 000 14 950 510 51 000 15 550 etc. etc. etc. etc. etc. etc.
-Except when, on the basis of regional air navigation agreements, a modified table of cruising levels based on a nominal vertical separation minimum of 1,000ft (300m) is prescribed for use, under specified conditions, by aircraft operating above FL 410 within designated portions of the airspace. * Magnetic track, or in polar areas at latitudes higher than 70 degrees and within such extensions to those
-areas as may be prescribed by the appropriate ATS authorities, grid tracks as determined by a network of lines parallel to the Greenwich Meridian superimposed on a polar stereographic chart in which the direction towards the North Pole is employed as the Grid North. † Except where, on the basis of regional air navigation agreements, from 090 to 269 degrees and from 270
-to 089 degrees is prescribed to accommodate predominant traffic directions and appropriate transition procedures to be associated therewith are specified.
-Note: Guidance material relating to vertical separation is contained in the Manual on Implementation of a 1,000ft
-Vertical Separation Minimum between FL 290 and FL 410 inclusive (ICAO Doc 9574).
-- Margin: Regulation 160. [186/2006 34/2009 143/2011].
+(n)(i) Cruising Levels: RVSM (feet)
+(n)(ii) Cruising Levels: Non-RVSM (feet)
+- Margin: Regulation 160. [186/2006 34/2009 143/2011 173/2016].
 - Margin: Series
 - Margin: 1. DAY
 - Margin: 2.
@@ -338,3 +319,5 @@ Vertical Separation Minimum between FL 290 and FL 410 inclusive (ICAO Doc 9574).
 - Margin: Light
 - Margin: Steady green Directed towards Steady red aircraft concerned (See Figure 1.1)
 - Margin: Red pyrotechnic
+- Margin: In
+- Margin: b) In

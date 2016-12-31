@@ -111,8 +111,8 @@ ensure slide or slide-raft inflation;
 securing device;
 (iv) prepare extinguisher for use;
 (v) actually operate and discharge each type of installed
-hand fire extinguisher; Note: Fighting an actual or a simulated fire is not necessary
-during this drill.
+hand fire extinguisher; Note: Fighting an actual or a simulated fire is not
+necessary during this drill.
 (vi) utilise correct fire-fighting techniques for type of
 fire; and
 (vii) implement procedures for effective crew co-ordination
@@ -211,8 +211,8 @@ procedures which shall be followed when operating in the following conditions:
 (G) low visibility;
 (iv) normal and emergency communications procedures
 and navigation equipment including the national air operator communications procedures and Air Traffic Control clearance requirements;
-(v) navigation procedures used in area departure, en
-route, area arrival, approach and landing phases;
+(v) navigation procedures used in area departure
+en route, area arrival, approach and landing phases;
 (vi) approved crew resource management training;
 (vii) air traffic control systems, procedures, and
 phraseology; and
@@ -435,8 +435,7 @@ operations); and
 (D) window exits;
 (v) crew member communication and co-ordination:
 (A) authority of pilot in command;
-(B) routine communication signals and procedures;
-and
+(B) routine communication signals and procedures; and
 (C) crew member briefing;
 (vi) routine crew member duties and procedures:
 (A) crew member general responsibilities;
@@ -518,7 +517,8 @@ training for cabin crew includes a competence check to determine his or her abil
 (d) a national air operator shall ensure that initial ground training
 for cabin crew consists of at least the following programmed hours of instruction:
 (i) Multi-engine turbine: 16 hours; and
-(ii) Multi-engine reciprocating: 8 hours. 3. Flight Operations Officer-
+(ii) Multi-engine reciprocating: 8 hours.
+3. Flight Operations Officer-
 (a) a national air operator shall provide initial aircraft ground
 training for flight operations officers that include instruction in at least the following general dispatch subjects:
 (i) normal and emergency communications procedures;
@@ -560,7 +560,8 @@ private agencies;
 for flight operations officers includes a competence check given by an appropriate supervisor or ground instructor that demonstrates the required knowledge and abilities.
 PART E
 A national air operator shall ensure that pilot initial flight training includes at least the following:
-Flight training may be conducted in an appropriate aircraft or adequate training simulator (simulator shall have landing capability). (a) preparation:
+Flight training may be conducted in an appropriate aircraft or adequate training simulator (simulator shall have landing capability).
+(a) preparation:
 (i) visual inspection (for aircraft with a flight engineer,
 use of pictorial display authorised);
 (ii) pre-taxi procedures; and
@@ -763,26 +764,20 @@ check following completion of an approved air operator training programme for th
 procedures required for a type rating practical test; and
 (ii) proficiency checks are conducted by a check airman;
 (b) aircraft and instrument proficiency checks for pilot in
-command and co-pilot shall include the following operations and procedures listed in Table A. As noted, check airmen may waive certain events on the flight test based on an assessment of the pilot's demonstrated level of performance;
+command and co-pilot shall include the following operations and procedures listed in Table A;
 Table A
 TYPE OF OPERATION OR PROCEDURE PIC or Co-Pilot Notes Ground Operations Preflight inspection PIC and Co-Pilot
 Both pilots may take simultaneous credit Taxiing PIC and Co-Pilot Both pilots may take simultaneous credit Power plant checks PIC and Co-Pilot
 Take-offs
 PIC and Co-Pilot Normal PIC and Co-Pilot Instrument
-Crosswind PIC and Co-Pilot With power plant failure PIC and Co-Pilot
-Both pilots may take simultaneous credit
-Rejected take-off PIC and Co-Pilot
-May be waived
-Instrument Procedures
-May be waived PIC and Co-Pilot Area departure May be waived PIC and Co-Pilot Area arrival May be waived PIC and Co-Pilot Holding
-Normal ILS approach PIC and Co-Pilot Engine-out ILS PIC and Co-Pilot Coupled ILS approach PIC and Co-Pilot Non-precision approach Both pilots may take simultaneous credit PIC and Co-Pilot Second non-precision approach PIC and Co-Pilot Missed approach from an ILS PIC and Co-Pilot Second missed approach PIC only
-Only when authorised in the AOC holder's Circling approach PIC and Co-Pilot Operations Manual. May be waived TYPE OF OPERATION OR PROCEDURE PIC or Co-Pilot Notes
-May be waived PIC only
-PIC and Co-Pilot PIC and Co-Pilot May be waived PIC and Co-Pilot 2 engine inoperative approach (3 and 4 engine aircraft) PIC and Co-Pilot
-PIC and Co-Pilot PIC and Co-Pilot PIC and Co-Pilot PIC and Co-Pilot
-Only if authorised in Operations Manual PIC and Co-Pilot May be waived
-PIC and Co-Pilot Normal and Non-Normal Procedures PIC and Co-Pilot PIC only 2 engine inoperative approach (3 and 4 engine aircraft)
-Check airman's discretion PIC and Co-Pilot
+Crosswind PIC and Co-Pilot With power plant failure PIC and Co-Pilot Rejected take-off PIC and Co-Pilot Both pilots may take simultaneous credit Instrument Procedures
+PIC and Co-Pilot Area departure PIC and Co-Pilot Area arrival PIC and Co-Pilot Holding
+Normal ILS approach PIC and Co-Pilot Engine-out ILS PIC and Co-Pilot Coupled ILS approach PIC and Co-Pilot
+Both pilots may take simultaneous credit Non-precision approach PIC and Co-Pilot
+Second non-precision approach PIC and Co-Pilot Missed approach from an ILS PIC and Co-Pilot Second missed approach PIC only
+Only when authorised in the AOC holder's Circling approach PIC and Co-Pilot Operations Manual. TYPE OF OPERATION OR PROCEDURE PIC or Co-Pilot Notes
+PIC only PIC and Co-Pilot PIC and Co-Pilot PIC and Co-Pilot 2 engine inoperative approach (3 and 4 engine aircraft) PIC and Co-Pilot
+PIC and Co-Pilot PIC and Co-Pilot PIC and Co-Pilot PIC and Co-Pilot PIC and Co-Pilot Only if authorised in Operations Manual PIC and Co-Pilot Normal and Non-Normal Procedures PIC and Co-Pilot PIC only 2 engine inoperative approach (3 and 4 engine aircraft) PIC and Co-Pilot Check airman's discretion
 (c) the oral and flight test phases of a proficiency check should
 not be conducted simultaneously;
 (d) when the check airman determines that an applicant's
@@ -914,20 +909,14 @@ during recurrent and requalification competency checks, a representative sample 
 before a Flight Operations Officer is qualified in ETOPS or other special operations authorised by the Authority.
 PART M
 Supervised line experience for Cabin Crew shall include the following:
-The following areas of operation are required for supervised line experience for cabin crew:
+The following areas of operation are required for supervised
+line experience for cabin crew:
 New entrant cabin crew
-(a) each new entrant cabin crew member having no previous
-comparable operating experience should-
-(i) participate in a visit to the aircraft to be operated; and
-(ii) participate in familiarisation flights as described in
-paragraph (c) below;
-Cabin crew operating on a subsequent aircraft type
-(b) a cabin crew member assigned to operate on a subsequent
-aircraft type with the same operator should either-
-(i) participate in a familiarisation flight as described in
-paragraph 3 below; or
-(ii) participate in an aircraft visit to the aircraft to be operated;
-(c) for familiarisation flights the following:
+(a) each cabin crew member must participate-
+(i) in a visit to an aircraft to be operated; and
+(ii) in familiarisation flight as described in paragraph (b)
+below;
+(b) for familiarisation flights the following:
 (i) during familiarisation flights, the cabin crew
 member should be additional to the minimum number of cabin crew required under the Act or Regulations made thereunder;
 (ii) familiarisation flights should be conducted under the
@@ -939,7 +928,7 @@ cabin crew member in the operator's uniform; and
 (v) familiarisation flights should form part of the training
 record for each cabin crew member;
 Aircraft visits
-(d) the purpose of aircraft visits is to familiarise each cabin crew
+(c) the purpose of aircraft visits is to familiarise each cabin crew
 member with the aircraft environment and its equipment. Accordingly, aircraft visits should be conducted by suitably qualified persons and in accordance with a syllabus described in the Operations Manual, Part D. The aircraft visit should provide an overview of the aircraft's exterior, interior and systems including the following:
 (i) interphone and public address systems;
 (ii) evacuation alarm systems;
@@ -994,14 +983,14 @@ equipment; and
 (B) demonstration of the method used to operate a
 slide, where fitted;
 (C) firefighting using equipment representative of
-that carried in the aircraft on an actual or simulated fire; Note:
-With halon extinguishers, an alternative method acceptable to the Authority may be used.
+that carried in the aircraft on an actual or simulated fire; Note: With halon extinguishers, an alternative method
+acceptable to the Authority may be used.
 (D) effects of smoke in an enclosed area and actual
 use of all relevant equipment in a simulated smoke-filled environment;
 (E) actual handling of pyrotechnics, real or
 simulated, where fitted;
 (F) demonstration of the use of life-raft(s), where fitted;
-{ (G) an emergency evacuation drill;
+(G) an emergency evacuation drill; {
 (H) a "dry" ditching drill; and
 (I) a rapid decompression drill, if applicable;
 (d)
@@ -1043,14 +1032,14 @@ authorised); and
 (B) crosswind;
 (C) rejected;
 (D) power failure after V1;
-*Note: Flight Training may be conducted in an Appropriate Aircraft or Adequate
-Training Simulator (Simulator shall have Landing Capability).
 (E) power plant failure during second segment; and
 (F) lower than standard minimum;
 (iv) climb:
 (A) normal; and
 (B) one-engine inoperative during climb to
 en route altitude;
+*Note: Flight Training may be conducted in an Appropriate Aircraft or Adequate
+Training Simulator (Simulator shall have Landing Capability).
 (v) en route:
 (A) steep turns;
 (B) approaches to stalls (take-off, en route, and
@@ -1060,7 +1049,11 @@ landing configurations);
 (E) high-speed handling characteristics;
 (vi) descent:
 (A) normal; and
-(B) maximum rate;
+(B) applicable to pilot in command only: visual
+approach with 50% loss of power on-
+(i) one engine for a 2-engined aeroplane; and
+(ii) two engines for a 3-engined or a 4-engined
+aeroplane;
 (vii) approaches:
 (A) visual flight rules procedures;
 (B) visual approach with 50% loss of power on one-
@@ -1068,11 +1061,11 @@ engine (2 engines inoperative on 3-engine aeroplanes) (pilot in command only);
 (C) visual approach with slat or flap malfunction;
 (D) instrument flight rules precision approaches
 (instrument landing system normal and instrument landing system with one-engine inoperative);
-(E) instrument flight rules non-precision approaches
-(non- directional beacon normal and VHF omni range normal); and
-(F) non-precision approach with one engine
-inoperative (localizer back course, SDF or LDA, GPS, TACAN and circling approach procedures); Note: Simulator shall be qualified for training and
-checking on the circling manoeuvre.
+(E) instrument
+flight rules non-precision
+approaches for the intended area of operation;
+(F) non-precision approach for the intended area of
+operation with one engine inoperative;
 (G) missed approach from precision approach;
 (H) missed approach from non-precision
 approach; and
@@ -1185,7 +1178,8 @@ equipment carried on the aircraft;
 (B) demonstration of the method used to operate a
 slide, where fitted; and
 (C) firefighting using equipment representative of
-that carried in the aircraft on an actual or simulated fire; Note: With Halon extinguishers, an alternative method
+that carried in the aircraft on an actual or simulated fire;
+Note: With Halon extinguishers, an alternative method
 acceptable to the Authority may be used.
 (D) effects of smoke in an enclosed area and actual
 use of all relevant equipment in a simulated smoke-filled environment;
@@ -1290,7 +1284,7 @@ required normal, abnormal, and emergency procedures to ensure competence to cond
 (b) training in the operation of flight simulators or flight training
 devices, or both, to ensure competence to conduct the evaluations required by this Part.
 5. A national air operator may accomplish flight training for check airmen in full or in part in an aircraft, in a flight simulator, or in a flight training device, as appropriate.
-- Margin: Regulation 229. [223/2005 143/2011].
+- Margin: Regulation 229. [223/2005 143/2011 173/2016].
 - Margin: Regulation 232.
 - Margin: Regulation 233.
 - Margin: Regulation 234.

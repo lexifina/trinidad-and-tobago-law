@@ -351,14 +351,28 @@ APPLICABILITY OF REGULATIONS
 PART I
 GENERAL OPERATIONS REQUIREMENTS
 4. Requirements for registration markings. 5. Restrictions on the operation of aircraft. 6. Special Flight Permit operational restrictions. 7. Required aircraft instruments and equipment.
-7A. Electronic Navigation data management.
-8. Restrictions on the use of inoperative instruments and equipment. 9. Required Aircraft Flight Manual, marking and placard requirements. 10. Required aircraft and equipment inspections. 11. Documents to be carried on aircraft for all operations. 12. Approval to transport dangerous goods. 13. Provisions for safe transport of dangerous goods. 14. Specific goods not to be transported. 15. Classification of dangerous goods. 16. Packing of dangerous goods. 17. Labelling and marking of dangerous goods. 18. Requirement for a Dangerous Goods Transport Document. 19. Restrictions on the acceptance of dangerous goods by an operator or
-his handling agent.
-20. Inspection for damage, leakage or contamination by dangerous goods. 21. Removal of contamination by dangerous goods. REGULATION
-22. Loading restrictions for dangerous goods. 23. Provision of information in respect of dangerous goods by operator. 24. Requirement for dangerous goods training programme. 25. Dangerous goods incident and accident reports.
+7A. Electronic navigation data management.
+8. Restrictions on the use of inoperative instruments and equipment. 9. Required Aircraft Flight Manual, marking and placard requirements. 10. Required aircraft and equipment inspections. 11. Documents to be carried on aircraft for all operations.
+PART IA
+SAFE TRANSPORT OF DANGEROUS GOODS BY AIR 11A. Definitions. 11B. General applicability. 11C. Provision of information to ICAO. 11D. Exemption and exception from the Technical Instructions. 11E. Application by an operator to transport dangerous goods by air. 11F. Operator's responsibilities for safe transport of dangerous goods
+by air.
+11G. Limitation on the transport of dangerous goods by air. 11H. Classification, packing, labelling and marking of dangerous goods. 11I. Application by a shipper for transport of dangerous goods by air. 11J. Shipper's responsibilities for safe transport of dangerous goods by air. REGULATION
+11K. Application by a designated postal operator for the safe transport of
+dangerous goods by air.
+11L. Designated postal operator's responsibilities for safe transport of
+dangerous goods by air.
+11M. Information to pilot in command. 11N. Information and instructions to flight crew members. 11O. Information to passengers. 11P. Information to other persons. 11Q. Information from pilot in command to aerodrome authorities. 11R. Information in the event of an aircraft accident, serious aircraft
+incident or aircraft incident.
+11S. Dangerous goods training programmes. 11T. Dangerous goods accident and incident reporting. 11U. Dangerous goods security provisions. 11V. Operators with no operational approval to transport dangerous goods
+}
+as cargo.
+11W. Operators transporting dangerous goods as cargo. 11X. Provision of operational approval and limitation information.
+12. to (Repealed by LN 173/2016). 25.
 PART II
 AIRCRAFT MAINTENANCE REQUIREMENTS
 26. Applicability of Part II. 27. General requirements in respect of aircraft. 28. Requirements of operator in respect of aircraft. 29. Requirements for inspection of aircraft. 30. Required changes to aircraft inspection programmes. 31. Owner, lessee or operator to keep maintenance records. 32. Owner, lessee or operator to retain maintenance records. 33. Procedure on transfer of maintenance records.
+ARRANGEMENT OF REGULATIONS-Continued
+REGULATION
 PART III
 FLIGHT CREW REQUIREMENTS
 34. Composition of the flight crew. 35. Operator to ensure flight crew qualifications. 36. Licence requirements for flight crew. 37. Limitation on use of services for commercial air transport operations. 38. Rating required for Instrument Flight Rules operations. 39. Special authorisation required for Category II or III operations. 40. Pilot's logbook. 41. Recency requirements for a pilot in command.
@@ -366,11 +380,10 @@ FLIGHT CREW REQUIREMENTS
 42. Requirements for flying under Instrument Flight Rules or Instrument
 Meteorological Conditions.
 43. Recency take-off and landings requirements for co-pilot. 44. Required proficiency for general aviation pilots. 45. Pilot privileges and limitations.
-ARRANGEMENT OF REGULATIONS-Continued
-REGULATION
 PART IV
 CREW MEMBER DUTIES AND RESPONSIBILITIES
-46. Crew responsibilities. 47. Powers of the pilot in command. 48. Compliance with local regulations. 49. Prohibition on the negligent or reckless operations of aircraft. 50. Fitness of flight crew. 51. Crew member use of seat belt and shoulder harness. 52. Requirements of flight crew at duty stations. 53. Flight crew emergency duties. 54. Required crew equipment. 55. Requirement to comply with approved checklist procedures. 56. Requirement to have search and rescue information on board aircraft. 57. Production of aircraft and flight documentation. 58. Requirements for cockpit compartment security for commercial air
+46. Crew responsibilities. 47. Powers of the pilot in command. 48. Compliance with local regulations. 49. Prohibition on the negligent or reckless operations of aircraft. 50. Fitness of flight crew. 51. Crew member use of seat belt and shoulder harness. 52. Requirements of flight crew at duty stations. 53. Flight crew emergency duties. 54. Required crew equipment. 55. Requirement to comply with approved checklist procedures. 56. Requirement to have search and rescue information on board aircraft. 57. Production of aircraft and flight documentation. REGULATION
+58. Requirements for cockpit compartment security for commercial air
 transport operations.
 59. Admission to the cockpit in commercial air transport operations. 60. Admission of Inspector to the cockpit. 61. Requirement for in-flight fuel management. 62. Duties of flight crew during critical phases of flight. 63. Restriction on manipulation of the controls in commercial air
 transport operations.
@@ -378,29 +391,32 @@ transport operations.
 transport operations.
 65. Completion of technical logbook for commercial air transport
 operations.
-66. Reporting mechanical irregularities. 67. General reporting procedures for occurrences. 68. Reporting procedures for accidents and serious incidents. 69. Reporting procedures for Air Traffic incidents. 70. Procedures for reporting Airborne Collision Avoidance System Advisory. 71. Procedures for reporting bird hazards and strikes. REGULATION
-72. Procedures for reporting in-flight emergency. 73. Procedures for reporting unlawful interference. 74. Procedures for reporting potentially hazardous conditions. 75. Operation of cockpit voice and flight data recorder. 76. Requirements for minimum supply and use of oxygen. 77. Restrictions on use of portable electronic devices.
+66. Reporting mechanical irregularities. 67. General reporting procedures for occurrences. 68. Reporting procedures for accidents and serious incidents. 69. Reporting procedures for Air Traffic incidents. 70. Procedures for reporting Airborne Collision Avoidance System Advisory. 71. Procedures for reporting bird hazards and strikes. 72. Procedures for reporting in-flight emergency.
+72A. General Declaration requirements. 72B. Suspected communicable disease reporting.
+73. Procedures for reporting unlawful interference. 74. Procedures for reporting potentially hazardous conditions. 75. Operation of cockpit voice and flight data recorder. 76. Requirements for minimum supply and use of oxygen.
+76A. Electronic flight bag.
+77. Restrictions on use of portable electronic devices.
 PART V
 FLIGHT PLANNING AND SUPERVISION
 78. Submission of flight plan. 79. Air traffic control flight plan for commercial air transport
 operations.
-80. Contents of a flight plan. 81. Requirements for planned re-clearance. 82. Procedures where there are changes to a flight plan. 83. Procedures for closing a flight plan. 84. Requirements for aircraft airworthiness and safety precautions. 85. Requirement for adequacy of operating facilities. 86. Pilot in command to be familiar with meteorological information. 87. Weather limitations for Visual Flight Rules flights. 88. Instrument Flight Rules, destination aerodrome requirements. 89. Instrument Flight Rules destination alternate requirements. 90. Instrument Flight Rules, alternate aerodome selection criteria. 91. Reqirements for off-shore alternates for helicopter operations. 92. Take-off alternate aerodromes for commercial air transport
+80. Contents of a flight plan.
+ARRANGEMENT OF REGULATIONS-Continued
+REGULATION
+81. Requirements for planned re-clearance. 82. Procedures where there are changes to a flight plan. 83. Procedures for closing a flight plan. 84. Requirements for aircraft airworthiness and safety precautions. 85. Requirement for adequacy of operating facilities. 86. Pilot in command to be familiar with meteorological information. 87. Weather limitations for Visual Flight Rules flights. 88. Instrument Flight Rules, destination aerodrome requirements. 89. Instrument Flight Rules destination alternate requirements. 90. Instrument Flight Rules, alternate aerodome selection criteria. 91. Reqirements for off-shore alternates for helicopter operations. 92. Take-off alternate aerodromes for commercial air transport
 operations.
 93. Maximum distance from an adequate aerodrome for two-engine
 aeroplanes without an extended range operations approval.
 94. Extended range operations with two-engine aeroplane. 95. Requirements for en route alternate aerodromes for extended
 range operations.
-96. Fuel, oil and oxygen planning and contingency factors. 97. Fuel supply requirement for Visual Flight Rules flight.
-ARRANGEMENT OF REGULATIONS-Continued
-REGULATION
-98. Fuel supply requirement for Instrument Flight Rules flight. 99. Requirements for flight planning document distribution and
+96. Fuel, oil and oxygen planning and contingency factors. 97. Fuel supply requirement for Visual Flight Rules flight. 98. Fuel supply requirement for Instrument Flight Rules flight. 99. Requirements for flight planning document distribution and
 retention for commercial air transport operations.
 100. Requirements for aircraft loading, mass and balance. 101. Allowable weights on all load manifests. 102. Requirement for flight release for commercial air transport
 operations.
 103. Requirements for operational flight plan for commercial air
 transport operations.
 104. Requirement to keep records of emergency and survival equipment
-for commercial air transport operations.
+for commercial air transport operations. REGULATION
 PART VI
 AIRCRAFT OPERATING AND PERFORMANCE
 LIMITATIONS
@@ -409,12 +425,15 @@ air transport.
 111. Prohibitions on the use of single-engine aircraft. 112. Required mass limitations for aeroplanes. 113. Aircraft performance calculations. 114. Commercial air transport operations take-off limitations. 115. En route limitations with all engines operating. 116. En route limitations where one engine is inoperative. 117. En route limitations where two engines of an aeroplance are inoperative. 118. Aircraft landing limitations. 118A. Additional requirements for operations of a single-engine turbined-
 powered aircraft, etc.
 118B. Additional requirements for operations of helicopters in performance
-Class 3 in Instrument Meteorological Conditions, except special Visual Flight Rules flight. REGULATION
+Class 3 in Instrument Meteorological Conditions, except special Visual Flight Rules flight.
 PART VII
 FLIGHT RULES
 119. Applicability. 120. General flight rules requirements. 121. Restrictions on the operation of aircraft on the ground. 122. Required take-off conditions. 123. Requirements and restrictions where flight into known or
 expected icing.
-124. Cruising levels with altimeter settings. 125. General minimum safe altitudes. 126. Minimum safe Visual Flight Rules Altitudes for commercial air
+124. Cruising levels with altimeter settings. 125. General minimum safe altitudes.
+ARRANGEMENT OF REGULATIONS-Continued
+REGULATION
+126. Minimum safe Visual Flight Rules Altitudes for commercial air
 transport operations.
 127. Aerodrome operating minima. 128. Required threshold crossing height for precision approaches. 129. Instrument approach operating minima requirements. 130. General operating rules for Category II and Category III
 operations.
@@ -423,15 +442,13 @@ made.
 133. Procedures to be used for formation flight. 134. General right-of-way rules. 135. Right-of-way Rules for water operations. 136. Requirements for the use of aircraft lights. 137. Requirements for simulated instrument flight. 138. Requirements for in-flight simulation of abnormal situations. 139. Restrictions on dropping, spraying and towing. 140. Restrictions on aerobatic flight. 141. Restrictions on where flight test is conducted. 142. Restrictions on the use of an aircraft in a prohibited or
 restricted area.
 143. Restrictions on operations in Minimum Navigation Performance
-Specification or Reduced Vertical Separation Minimum.
-ARRANGEMENT OF REGULATIONS-Continued
-REGULATION 143A. Approved operation in vertical separation minimum airspace.
+Specification or Reduced Vertical Separation Minimum. 143A. Approved operation in vertical separation minimum airspace.
 144. Requirements where operations are conducted on or in the
 vicinity of an uncontrolled aerodrome.
 145. Required altitudes for turbojet, turbofan or large aircraft on
 entering aerodrome traffic pattern.
 146. Compliance with visual and electronic glide slopes. 147. Restriction or suspension of operations for commercial air
-transport operations.
+transport operations. REGULATION
 148. Continuation of flight in commercial air transport when
 destination aerodrome is temporarily restricted.
 149. Requirements where interception occurs. 150. Requirements for Air Traffic Control clearances. 151. Requirement to adhere to Air Traffic Control clearances. 152. Communication requirements. 153. Pilot in command to fly along assigned route. 154. Procedures where inadvertent changes occur. 155. Procedures where there are intended changes for Air Traffic
@@ -443,8 +460,7 @@ board an aircraft.
 159. Time check requirements. 160. Universal signals requirements. 160A. Technical and servicing communication signals.
 161. Visual Flight Rules and navigation requirements. 162. Restrictions on operations under Visual Meteorological
 conditions.
-163. Visual Flight Rules weather minimums for take-off and landing. 164. Special Visual Flight Rules Operations. 165. Visual Flight Rules Cruising Altitudes. REGULATION
-166. Requirement to comply with Air Traffic Control clearances for
+163. Visual Flight Rules weather minimums for take-off and landing. 164. Special Visual Flight Rules Operations. 165. Visual Flight Rules Cruising Altitudes. 166. Requirement to comply with Air Traffic Control clearances for
 Visual Flight Rules flights.
 167. Requirement to have Air Traffic Control Authorisation for
 Visual Flight Rules flights.
@@ -452,6 +468,8 @@ Visual Flight Rules flights.
 Meteorological Conditions.
 169. Changing from Visual Flight Rules to Instrument Flight Rules. 170. Two-way radio communication failure in Visual Flight Rules. 171. Restrictions on Instrument Flight Rules flights in controlled
 airspace.
+ARRANGEMENT OF REGULATIONS-Continued
+REGULATION
 172. Procedures for Instrument Flight Rules flights outside
 controlled airspace.
 173. Procedures for Instrument Flight Rules take-off minima for
@@ -470,46 +488,39 @@ landing minimums.
 descent altitude.
 185. Execution of missed approach procedures. 186. Requirements for landing during Instrument Meteorological Conditions. 187. Procedure where change from Instrument Flight Rules flight to
 Visual Flight Rules flight.
-ARRANGEMENT OF REGULATIONS-Continued
-REGULATION
 188. Two-way radio communication failure in Instrument
 Meteorological Conditions.
 PART VIII
 PASSENGERS AND PASSENGER HANDLING
 189. Unacceptable conduct of passenger. 190. Requirements for refuelling or defuelling with passengers
 embarking on board or disembarking.
-191. Required passenger seats, safety belts and shoulder harnesses. 192. Required passenger briefing. 193. Required in-flight emergency instruction. 194. Minimum supply and use of passenger oxygen. 195. Exceptions to use of medication by passenger. 196. Restricted areas of access of passengers. 197. Applicability of regulations 198 to 219. 198. Requirement to comply with instructions given by crew members. 199. Denial of transportation of certain categories of passengers in
+191. Required passenger seats, safety belts and shoulder harnesses. REGULATION
+192. Required passenger briefing. 193. Required in-flight emergency instruction. 194. Minimum supply and use of passenger oxygen. 195. Exceptions to use of medication by passenger. 196. Restricted areas of access of passengers. 197. Applicability of regulations 198 to 219. 198. Requirement to comply with instructions given by crew members. 199. Denial of transportation of certain categories of passengers in
 commercial air transport operations.
 200. Exemptions of certain passenger-carrying requirements. 201. Cabin crew at duty stations. 202. Pilot in command to ensure emergency exit is available. 203. Prohibition in respect of armed emergency exit. 204. Prohibition on blocking access to emergency exit. 205. Pilot in command or senior cabin crew to ensure. 206. Requirements for passengers with reduced mobility. 207. Requirements for transport of inadmissible passengers, deportees or
 persons in custody.
-208. Passenger requirements for exit row seating. 209. Restriction on carriage of weapons. 210. Requirements for oxygen for medical use by passengers. REGULATION
-211. Restrictions on carry-on baggage. 212. Prohibition on carriage of cargo in passenger compartment. 213. Prohibition on smoking on aircraft. 214. (Revoked by LN 143/2011). 215. Requirement to brief, specific to over water operations. 216. Required passenger seat belts and information signs in commercial
+208. Passenger requirements for exit row seating. 209. Restriction on carriage of weapons. 210. Requirements for oxygen for medical use by passengers. 211. Restrictions on carry-on baggage. 212. Prohibition on carriage of cargo in passenger compartment. 213. Prohibition on smoking on aircraft. 214. (Revoked by LN 143/2011). 215. Requirement to brief, specific to over-water operations. 216. Required passenger seat belts and information signs in commercial
 air transport operations.
 217. Requirement for seat backs to be upright prior to take-off and landing. 218. Restrictions of movement in respect of stowage of food and beverage. 219. Requirements to secure items of mass in passenger compartment.
+ARRANGEMENT OF REGULATIONS-Continued
+REGULATION
 PART IX
 CREW MEMBER AND FLIGHT OPERATIONS OFFICER QUALIFICATIONS FOR COMMERCIAL AIR TRANSPORT
-220. Applicability of Part IX. 221. Age and special medical certificate restriction. 222. Pilot in command requirements for turbojet, turbofan or large
+220. Applicability of Part IX. 221. Age and special medical certificate restrictions. 222. Pilot in command requirements for turbojet, turbofan or large
 aircraft.
 223. Pilot in command requirements for non-turbojet or non-turbofan. 224. Aeronautical Experience Requirements for Pilot in Command in
 respect of small aeroplanes. 224A. Pilot operations under the Instruments Flight Rules or at night.
 225. Co-pilot licence requirements. 226. Flight Engineer licence requirements. 227. Requirements for Flight Engineer competency. 228. Requirements for Flight Operations Officer. 229. Requirement for crew member or Flight Operations Officer to
 complete Company Procedures Indoctrination.
-230. Requirement for initial dangerous goods training. 231. Initial security training. 232. Requirement for initial crew resource training.
-ARRANGEMENT OF REGULATIONS-Continued
-REGULATION
-233. Initial emergency equipment drills. 234. Required initial aircraft ground training. 235. Initial aircraft flight training. 236. Initial specialised operations training. 237. Requirement for flight crew member to complete difference and
+230. Requirement for initial dangerous goods training. 231. Initial security training. 232. Requirement for initial crew resource training. 233. Initial emergency equipment drills. 234. Required initial aircraft ground training. 235. Initial aircraft flight training. 236. Initial specialised operations training. 237. Requirement for flight crew member to complete difference and
 familiarisation training.
 238. Requirements when aircraft simulators are used. 239. Requirements for flight crew conversion training and checking. 240. Restrictions on the use by the national air operator of persons as
-flight crew.
+flight crew. REGULATION
 241. Nomination as pilot in command. 242. Required qualifications to operate in either pilot's seat. 243. Re-establishing recency of experience by a pilot. 244. Requirements for operations on more than one type or variant
 of aircraft.
-245. Restrictions on operation of helicopters and aeroplanes. 246. Requirement for the maintenance of training records. 247. Requirement for the pairing of low experience crew members. 248. Requirement of Flight Engineer proficiency checks. 249. Requirement for competency checks for cabin crew. 250. Requirement for competency checks for Flight Operations Officers. 251. Requirements for supervised line flying for pilots. 252. Requirements for supervised line flying for Flight Engineers. 253. Requirements for supervised line experience for cabin crew. 254. Familiarisation requirements for cabin crew. 255. Line observations for Flight Operations Officers. 256. Route and airport qualification for pilot in command. 257. Required route and area checks for pilot qualification. 258. Pilot in command low minima authorisation. REGULATION
-259. Required pilot in command qualifications for designated special
+245. Restrictions on operation of helicopters and aeroplanes. 246. Requirement for the maintenance of training records. 247. Requirement for the pairing of low experience crew members. 248. Requirement of Flight Engineer proficiency checks. 249. Requirement for competency checks for cabin crew. 250. Requirement for competency checks for Flight Operations Officers. 251. Requirements for supervised line flying for pilots. 252. Requirements for supervised line flying for Flight Engineers. 253. Requirements for supervised line experience for cabin crew. 254. Familiarisation requirements for cabin crew. 255. Line observations for Flight Operations Officers. 256. Route and airport qualification for pilot in command. 257. Required route and area checks for pilot qualification. 258. Pilot in command low minima authorisation. 259. Required pilot in command qualifications for designated special
 aerodromes and heliports.
-260. Required recurrent training and checking for flight crew members. 261. Recurrent training for cabin crew. 262. Refresher training for cabin crew recurrent training is still valid. 263. Required recurrent training for Flight Operations Officers. 264. Required Flight Instructor Training. 265. Qualification requirements for Flight Instructors. 266. Restrictions on use of person as check airman. 267. Restriction on use of check airmen. 268. Required check airman qualifications. 269. Check airman limitations. 270. Substitution of simulator experience. 271. Required line qualification for check airman and instructor. 272. Termination of a proficiency, competence or line check. 273. Recording of crew member qualifications. 274. Monitoring of training and checking activities. 275. Procedure for the reduction in training requirements.
-PART X
-CREW AND FLIGHT DUTY LIMITATIONS
-276. Definitions of certain terms and applicability of this Part. 277. Responsibilities of national air operator. 278. Monitoring System. 279. Flight time limitations. 280. Flight duty limitations and rest periods. 281. Extension of flight duty time by split duty. 282. Extension of flight duty by crew augmentation. 283. Unforeseen operational circumstances.
+260. Required recurrent training and checking for flight crew members. 261. Recurrent training for cabin crew. 262. Refresher training for cabin crew recurrent training is still valid. 263. Required recurrent training for Flight Operations Officers. 264. Required Flight Instructor Training. 265. Qualification requirements for Flight Instructors. 266. Restrictions on use of person as check airman. 267. Restriction on use of check airmen. 268. Required check airman qualifications. 269. Check airman limitations. 270. Substitution of simulator experience.
 - Margin: Regulation 191. [301/2004 222/2005 196/2009].
 - Margin: NOTE: CAT II/III operations shall be accomplished in accordance with Operational Rules.
 - Margin: TEST AND

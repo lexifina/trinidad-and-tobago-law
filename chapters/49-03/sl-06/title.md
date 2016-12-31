@@ -1,34 +1,23 @@
-CIVIL AVIATION [(NO. 6) APPROVED
-MAINTENANCE ORGANISATION] REGULATIONS
-ARRANGEMENT OF REGULATIONS
+ARRANGEMENT OF REGULATIONS-Continued
 REGULATION
-1. Citation. 2. Interpretation.
-APPLICABILITY OF THESE REGULATIONS
-3. General applicability of these Regulations.
-PART I
-GENERAL REQUIREMENTS FOR ISSUE OF AIRCRAFT
-MAINTENANCE ORGANISATION CERTIFICATE
-4. Applicability of Part I. 5. Prohibition of performance of maintenance. 6. General requirements for issue of Aircraft Maintenance Organisation
-Certificate.
-6A. Safety management system.
-7. Equivalent Safety Case and Deviation Authority. 8. Issue of Aircraft Maintenance Organisation Certificate. 9. Contents of Approved Maintenance Organisation Certificate. 10. Validity of Approved Maintenance Organisation Certificate. 11. Amendments to Approved Maintenance Organisation Certificate. 12. Advertising requirements. 13. Contents of a Maintenance Procedures Manual. 14. Issue of additional ratings. 15. Issue of ratings with limitations.
-PART II
-HOUSING, FACILITIES, EQUIPMENT AND MATERIALS
-16. Applicability of Part II. 17. Minimum requirements of housing and facilities. 18. Minimum requirements for equipment, tools and materials.
-PART III
-ADMINISTRATION
-19. Applicability of Part III. REGULATION
-20. Minimum training requirements for personnel. 21. Requirements for certifying staff. 22. Requirements for records for certifying staff. 23. Rest and duty times restrictions.
-PART IV
-APPROVED MAINTENANCE ORGANISATION
-OPERATING RULES
-24. Applicability of Part IV. 25. Requirements for Maintenance Procedures Manual. 26. Requirements for quality assurance system and maintenance
-procedure.
-27. Requirements for retention of capability list. 28. Approved Maintenance Organisation privileges. 29. Approved Maintenance Organisation limitations. 30. Requirements for Certificate of Release to Service. 31. Maintenance records requirements. 32. Requirements to retain maintenance data. 33. Requirements for production planning. 34. Requirement to report unairworthy conditions of aeronautical products. 35. Inspection requirements. 36. Approved Maintenance Organisation to perform maintenance to
-required standards.
-37. Implementing standards. 38. Director-General to amend Schedules. 39. Transitional Provision.
-SCHEDULE 1. SCHEDULE 2. SCHEDULE 3. SCHEDULE 4. SCHEDULE 5.
-CIVIL AVIATION [(NO. 6) APPROVED
-MAINTENANCE ORGANISATION] REGULATIONS
+PART VIII
+EMERGENCY, RESCUE, AND SURVIVAL
+EQUIPMENT
+36. Applicability of Part VIII. 37. Emergency equipment. 38. Emergency exit equipment. 39. Visual signaling devices and survival kits. 40. Portable fire extinguishers. 41. Built-in fire extinguisher in lavatory. 42. Requirement for lavatory smoke detector. 43. Requirement to have crash axe on board an aeroplane. 44. Requirement for break-in points markings. 45. Requirement to have first-aid and emergency medical kit on board
+an aircraft.
+46. Oxygen storage and dispensing apparatus. 47. Protective breathing equipment. 48. First-aid oxygen dispensing units. 49. Requirement for megaphones on board an aeroplane. 50. Requirement for individual flotation devices on board an aeroplane. 51. Requirement to have life raft on board an aeroplane. 52. (Repealed by LN 177/2016).
+52A. Effective date.
+53. Flotation device for helicopter ditching.
+53A. Life-saving equipment requirement for search and rescue over
+sea area.
+PART IX
+MISCELLANEOUS SYSTEMS AND EQUIPMENT
+54. Applicability of Part IX. 55. Seats, safety belts and shoulder harnesses. 56. Passenger and pilot compartment doors safety requirement. 57. Passenger information signs. 58. Public address system requirement. 59. Airworthiness requirement for materials for cabin interiors. 60. Ceiling and liner materials for cargo and baggage compartments. REGULATION
+61. Power supply, distribution and indication system. 62. Spare protective circuit fuses. 63. Icing protection equipment. 64. Pitot heat indicator systems. 65. Independent static pressure system. 66. Windshield wipers. 67. Chart holder. 68. Cosmic radiation measuring equipment. 69. Maritime sound signaling device. 70. Anchors. 71. Airborne collision avoidance system. 72. Pressure Altitude Reporting Transponder.
+72A. Installation and use of systems to be approved by Authority.
+73. Implementing Standards. 74. Director-General to amend Schedules. 75. Commencement.
+SCHEDULE 1. SCHEDULE 2. SCHEDULE 3. SCHEDULE 4.
+*CIVIL AVIATION [(NO. 7) INSTRUMENTS AND
+EQUIPMENT] REGULATIONS
 made under section 33
-- Margin: 105/2004. [277/2004 305/2004 34/2005 227/2005 288/2006 49/2007 200/2009 144/2011].
+- Margin: 106/2004.

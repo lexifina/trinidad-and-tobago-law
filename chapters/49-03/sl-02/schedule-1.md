@@ -1,7 +1,7 @@
 # SCHEDULE 1
 The frequency and details of the progressive inspections under regulation 29 shall be as follows:
-(a) provide for the complete inspection of the aircraft within
-each twelve-month period;
+(a) provide for the complete inspection of the aircraft
+within each twelve-month period;
 (b) be consistent with the current recommendations of the
 manufacturer, field service experience;
 (c) be appropriate to the kind of operation in which the aircraft
@@ -17,5 +17,6 @@ be due within one hundred hours of that complete inspection;
 (h) a complete inspection of an aircraft, for the purpose of
 determining when the annual and one hundred-hour inspections are due, requires a detailed inspection of the aircraft and all its components in accordance with the progressive inspection programme;
 (i) a routine inspection of an aircraft and a detailed inspection of
-several components are not considered to be a complete inspection, required under paragraph (h).
+several components are not considered to be a complete inspection, required under paragraph (h). SCHEDULE 1A
 - Margin: Regulation 29.
+- Margin: Regulation 72B(3). [173/2016].

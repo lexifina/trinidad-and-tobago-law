@@ -1,14 +1,10 @@
 ARRANGEMENT OF REGULATIONS-Continued
 REGULATION
-PART V
-TRAINING COURSES FOR AIRMEN OTHER THAN
-FLIGHT CREW AND MAINTENANCE ENGINEERS
-55. Applicability of Part V. 56. Flight Operations Officer training course requirements. 57. Personnel requirements for an Approved Training Organisation
-approved to conduct a Flight Operations Officer Training Course.
-58. Other courses of instruction. 59. Requirements to comply with minimum standards. 60. Director-General to amend Schedules.
-61. Transitional provision.
-SCHEDULE 1. SCHEDULE 1A. SCHEDULE 2. SCHEDULE 3.
-CIVIL AVIATION [(NO. 9) APPROVED TRAINING
-ORGANISATION] REGULATIONS
+22. Requirement to hold Firearm Import Licence by passenger. 23. Security Programme for foreign air operator. 24. Unauthorised carriage.
+PART III
+DANGEROUS GOODS
+25. Applicability of Part III. 26. Offering dangerous goods for transport by air. 27. Transitional provisions. 28. Director-General to amend Schedules.
+CIVIL AVIATION [(NO. 10) FOREIGN OPERATOR]
+REGULATIONS
 made under section 33
-- Margin: 108/2004. [36/2005 229/2005 191/2006 290/2006 34/2008 202/2009 146/2011 243/2012].
+- Margin: 109/2004. [272/2004 37/2005 230/2005 291/2006 35/2008 203/2009 131/2011 178/2016].
