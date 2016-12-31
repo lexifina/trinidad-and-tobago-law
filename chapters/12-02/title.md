@@ -15,7 +15,7 @@ Act
 11 of 1961 28 of 1996 172/1961 1 of 2000
 8/1962 16 of 2005
 Index of Subsidiary Legislation
-Page Criminal Procedure (Change of Venue) Rules (LN 203/1980) … … 56
+Page Criminal Procedure (Change of Venue) Rules (LN 203/1980) … … 56 Criminal Procedure Rules (LN 55/2016) ... 57
 Note
 The Indictment Rules are contained in the First Schedule to this Act (See page 34).
 Note on Increase of Fines
@@ -80,8 +80,10 @@ Constitution of the jury. Evidence and proof. Appeal.
 Right to allege pregnancy in stay of execution abolished.
 ARRANGEMENT OF SECTIONS-Continued
 SECTION
-TRIAL AND VERDICT IN CASES OF INFANTICIDE 63. Offence of infanticide.
-ARRAIGNMENT AND TRIAL OF INSANE PERSONS 64. Procedure where person indicted appears on arraignment to be
+TRIAL AND VERDICT IN CASES OF INFANTICIDE
+63. Offence of infanticide.
+ARRAIGNMENT AND TRIAL OF INSANE PERSONS
+64. Procedure where person indicted appears on arraignment to be
 insane.
 65. Procedure where person indicted appears during trial to be insane. 66. Special verdict where accused person found guilty, but insane at date
 of act charged.
@@ -100,6 +102,6 @@ CRIMINAL PROCEDURE ACT
 An Act to regulate the procedure in criminal cases triable on
 indictment.
 [2ND JUNE 1925]
-- Margin: 1950 Ed. Ch. 4 No. 3.
+- Margin: 1950 Ed. Ch. 4. No. 3.
 - Margin: 22 of 1925.
 - Margin: Commencement.
