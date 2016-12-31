@@ -22,7 +22,7 @@ THE COMMISSIONER OF POLICE
 (3) Subject to paragraph 7, the rebate of tax in respect of any such motor car shall be computed in accordance with Appendix B according to the local value added in the assembly of the motor car.
 (4) Nothing in this paragraph shall apply in any case where the motor car is sold for export.
 (5) In this paragraph and in paragraphs 5 and 6 "manufacturer" means a person who carries on in Trinidad and Tobago the business of assembling motor cars.
-* This Schedule has been amended by the following: Act No. 35 of 1957; GNs 115/1958; 2/1963, 21/1963; 27/1966; 6/1968; 2/1973; 11/1974; 6/1975; Acts Nos. 6 of 1977; 28 of 1978; 14 of 1979; 2 of 1982; LNs 146/1982; 3/1983, 157/1983; Acts Nos. 9 of 1990; 3 of 1994; 2 of 2002; 30 of 2007; 1 of 2009; 13 of 2010; 2 of 2013; 48/2014 and †2 of 2015. † See Note on page 4.
+* This Schedule has been amended by the following: Act No. 35 of 1957; GNs 115/1958; 2/1963, 21/1963; 27/1966; 6/1968; 2/1973; 11/1974; 6/1975; Acts Nos. 6 of 1977; 28 of 1978; 14 of 1979; 2 of 1982; LNs 146/1982; 3/1983, 157/1983; Acts Nos. 9 of 1990; 3 of 1994; 2 of 2002; 30 of 2007; 1 of 2009; 13 of 2010; 2 of 2013; 48/2014; †2 of 2015; 7 of 2016 and 18/2016. † See Note on page 4.
 4. (1) In this paragraph, in paragraphs 3, 5 and 6 and in Appendix B and Appendix C, the local value added is the aggregate amount of the expenses specified in Appendix C incurred during the immediately preceding year in the assembly of motor cars similar to the motor cars in respect of which the claim for rebate of tax is made apportioned over the number of motor cars assembled during that year and expressed as a percentage of the showroom price of such motor car.
 (2) Notwithstanding subparagraph (1) in any case where the Minister so directs the Board of Inland Revenue may reduce the aggregate amount of the expenses incurred in the assembly of any such motor cars by an amount representing the excess over the level of profits that the Minister considers appropriate to be taken into account in determining the local value added of any such motor cars.
 (3) In any case where there is no immediately preceding financial year or the immediately preceding financial year is less than twelve months, the aggregate amount of expenses incurred in the assembly of similar motor cars in the current financial year shall be estimated in the claim for the rebate of tax and subject to subparagraph (4) be applied in determining the local value added.
@@ -59,20 +59,28 @@ three thousand five hundred dollars or more but under five thousand dollars, 15 
 (iii) in the case of motor cars the showroom price of which
 is five thousand dollars or more but under seven thousand dollars, 10 per cent of the motor vehicles tax.
 (4) For the purposes of making rebate of tax during the period 1st January 1973 to 3rd July 1973, paragraphs 3, 4, 5 and 6 (together with Appendices B and C) shall be deemed to have come into operation on 1st January 1973 and shall be read and construed with such adaptations and modifications as are necessary or expedient, as if the Customs (Amendment) Act 1968 was still in force.
-*8. (Expired).
-8A. (1) Notwithstanding the requirements under this Schedule-
-(a) a new electric vehicle, with an engine size not exceeding
-179 kilowatts; or
-(b) a used electric vehicle, with an engine size not exceeding
-179 kilowatts, and which is not older than four years from the year of manufacture, which is imported for private or commercial use on or after 1st January 2015 and before 1st January 2020, shall be free from motor vehicles tax.
-*The provisions of paragraph 8 expired on 31st December 2015 (See Act No. 13 of 2010).
-(2) For the purposes of this paragraph, "electric vehicle" means a vehicle that is propelled by an electric motor powered by a rechargeable battery pack.
-8B. (1) Notwithstanding the requirements under this Schedule-
-(a) a new hybrid vehicle, with an engine size not exceeding
-1799 cc; or
-(b) a used hybrid vehicle, with an engine size not exceeding
-1799 cc, and which is not older than four years from the year of manufacture, which is imported for private or commercial use on or after 1st January 2015 and before 1st January 2020, shall be free from motor vehicles tax.
-(2) For the purposes of this paragraph, "hybrid vehicle" means a vehicle that is capable of being propelled by a combination of an internal combustion engine and an on-board rechargeable energy system.
+8. (1) Notwithstanding paragraph (1), motor vehicles tax shall not be charged, levied and collected in respect of a-
+(a) new motor vehicle, imported for private or commercial use,
+which is manufactured to use compressed natural gas; or
+(b) used motor vehicle, imported for private or commercial use,
+which is-
+(i) manufactured to use compressed natural gas; and
+(ii) not older than four years from the year of manufacture.
+(2) This paragraph comes into force on 1st January 2016 and expires on 31st December 2020.
+9. (1) Notwithstanding paragraph (1), motor vehicles tax shall not be charged, levied and collected in respect of a-
+(a) new electric vehicle which is imported for private or
+commercial use; or
+(b) used electric vehicle, imported for private or commercial use,
+which is not older than four years from the year of manufacture.
+(2) In this paragraph, an "electric vehicle" means a vehicle, with an engine size not exceeding 179 kilowatts, which is propelled by an electric motor powered by a rechargeable battery pack or other energy storage device.
+(3) This paragraph expires on 31st December 2020.
+10. (1) Notwithstanding paragraph (1), motor vehicles tax shall not be charged, levied and collected in respect of a-
+(a) new hybrid vehicle which is imported for private or
+commercial use; or
+(b) used hybrid vehicle, imported for private or commercial use,
+which is not older than four years from the year of manufacture.
+(2) In this paragraph, a "hybrid vehicle" means a vehicle, with an engine size not exceeding 1 999cc, which is capable of being propelled by a combination of an internal combustion engine and an on-board rechargeable energy system or other energy storage device.
+(3) This paragraph expires on 31st December 2020.
 *APPENDIX A
 In this Appendix-
 (a) engine size references expressed in cm3 means the total
@@ -86,7 +94,7 @@ $
 (1) Private Motor Cars or Rented Cars, Station Wagons
 or Estate Wagons:
 (a) Engine size not exceeding 1 599 cc … … 5.00 per cc
-* This Appendix (Appendix A to the Fourth Schedule) has been amended by the following: kAct No. 35 of 1957; GNs 115/1958; 2/1963, 21/1963; 27/1966; 6/1968; 2/1973; 11/1974; 6/1975; Acts Nos. 28 of 1978; 2 of 1982; LNs 146/1982; 3/1983; 157/1983; Acts Nos. 9 of 1990; 4 of 1992; 3 of 1994, 5 of 1995; 8 of 1996; 9 of 1997; 2 of 2002; 30 of 2007; 1 of 2009; 2 of 2013 and 2 of 2015. Amendments made to this Appendix by Act No. 1 of 2009 took effect on 1st October 2008.
+*This Appendix (Appendix A to the Fourth Schedule) has been amended by the following: Act No. 35 of 1957; GNs 115/1958; 2/1963, 21/1963; 27/1966; 6/1968; 2/1973; 11/1974; 6/1975; Acts Nos. 28 of 1978; 2 of 1982; LNs 146/1982; 3/1983; 157/1983; Acts Nos. 9 of 1990; 4 of 1992; 3 of 1994, 5 of 1995; 8 of 1996; 9 of 1997; 2 of 2002; 30 of 2007; 1 of 2009; 2 of 2013; 2 of 2015; 47/2016 and 61/2016. Amendments made to this Appendix by Act No. 1 of 2009 took effect on 1st October 2008.
 $
 (b) Engine size exceeding 1 599 cc but not exceeding
 1 799 cc ... 8.00 per cc
@@ -207,7 +215,8 @@ was the owner of that vehicle for the entire period on which his claim for relie
 - Margin: Rate of rebate until 1975.
 - Margin: Retrospective application to CARIFTA.
 - Margin: 12 of 1968.
-- Margin: No motor vehicles tax on electric- powered vehicles. [2 of 2015].
-- Margin: No motor vehicles tax on hybrid vehicles. [2 of 2015].
+- Margin: No motor vehicles tax on vehicles manufactured to use compressed natural gas. [18/2016 7 of 2016].
+- Margin: No motor vehicles tax on electric vehicles. [7 of 2016].
+- Margin: No motor vehicles tax on hybrid vehicles. [7 of 2016].
 - Margin: Paragraph 1.
 - Margin: [28 of 1978 30 of 2007 2 of 2013].
