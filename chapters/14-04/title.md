@@ -2,6 +2,8 @@ VISITING FORCES ACT
 CHAPTER 14:04
 Act
 8 of 2007
+Amended by
+7 of 2016
 Note on Subsidiary Legislation
 This Chapter contains no subsidiary legislation.
 Note on Omissions
@@ -34,6 +36,7 @@ CORONER'S INQUEST
 PART VI
 TAXATION
 24. Tax and other exemptions.
+24A. Exemptions for visiting forces contractors.
 PART VII
 MISCELLANEOUS
 25. Driver's licences. 26. Regulations and Rules. 27. Act to bind State.
