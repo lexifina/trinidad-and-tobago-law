@@ -2,19 +2,11 @@
 FIRST COLUMN SECOND COLUMN THIRD COLUMN Tariff Heading No. Description of Goods Rate of Surcharge
 in %
 Of fowls of the species
-Gallus domesticus:
-0207.11.00 Not cut in pieces, fresh or chilled 15%
-0207.12.00 Not cut in pieces, frozen do.
-0207.13.00 Cuts and offal, fresh or chilled do.
-0207.14.00 Cuts and offal frozen:
-0207.14.10 Backs and necks do.
-0207.14.20 Wings do.
-0207.14.30 Livers do.
-0207.14.90 Other do.
-Of turkeys:
-0207.27.10 Backs, necks and wings 0%
-0207.27.90 Other 0% FIRST COLUMN SECOND COLUMN THIRD COLUMN Tariff Heading No. Description of Goods Rate of Surcharge
-in % 0207.30.00 Of ducks, geese or
+Gallus domesticus: 0207.11.00 Not cut in pieces, fresh or chilled 15% 0207.12.00 Not cut in pieces, frozen do. 0207.13.00 Cuts and offal, fresh or chilled do.
+SEVENTH SCHEDULE-Continued
+FIRST COLUMN SECOND COLUMN THIRD COLUMN Tariff Heading No. Description of Goods Rate of Surcharge
+in % 0207.14.00 Cuts and offal frozen: 0207.14.10 Backs and necks do. 0207.14.20 Wings do. 0207.14.30 Livers do. 0207.14.90 Other do.
+Of turkeys: 0207.27.10 Backs, necks and wings 0% 0207.27.90 Other 0% 0207.30.00 Of ducks, geese or
 guinea fowls: 0207.32.00 Not cut in pieces, 0%
 fresh or chilled 0207.33.00 Not cut in pieces, 0%
 frozen 0207.34.00 Fatty livers, fresh or 86% from 1st January 2005

@@ -6,9 +6,6 @@ s-19.md
 s-20.md
 s-21.md
 s-22.md
-s-23.md
-s-24.md
-s-25.md
 s-26.md
 s-27.md
 s-27A.md
@@ -47,7 +44,6 @@ s-59A.md
 s-60.md
 s-60A.md
 s-61.md
-s-62.md
 s-62A.md
 s-63.md
 s-64.md
@@ -61,6 +57,9 @@ s-66.md
 s-67.md
 s-68.md
 s-69.md
+s-70.md
+s-71.md
+s-72.md
 sixth-schedule.md
 seventh-schedule.md
 eighth-schedule.md
