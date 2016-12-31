@@ -3,7 +3,7 @@ PART A
 MINIMUM MEDICAL EQUIPMENT FOR BASIC
 AMBULANCE-LAND AMBULANCE
 The following are the minimum ambulance medical equipment required to be on board an ambulance:
-(i) minimum of two plastic or aluminium frame folding (a)
+(a) (i) minimum of two plastic or aluminium frame folding
 stretcher litters;
 (ii) one multi-level, elevating, wheeled cot with elevating
 back with two patient restraining straps at least 5 cm wide, one on the chest and one on the thigh; and
