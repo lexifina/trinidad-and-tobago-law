@@ -57,7 +57,7 @@ ADVANCE CARGO INFORMATION DATA
 A. DATA RELATING TO THE MANIFEST
 Voyage Number
 (A number assigned by local Shipping Agent for ships or the
-scheduled flight number for aircrafts) Date and Time of Submission
+scheduled flight number for aircraft) Date and Time of Submission
 Scheduled Departure Date
 (Date of departure of aircraft or ship)
 Scheduled Departure Time
