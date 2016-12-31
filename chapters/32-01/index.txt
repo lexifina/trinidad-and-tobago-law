@@ -66,6 +66,7 @@ s-54A.md
 s-54B.md
 s-54C.md
 s-54D.md
+s-54E.md
 s-55.md
 s-56.md
 s-57.md
