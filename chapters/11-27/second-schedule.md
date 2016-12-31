@@ -16,11 +16,13 @@ of products;
 (13) Murder, grievous bodily injury;
 (14) Kidnapping, illegal restraint and hostage-taking;
 (15) Robbery or theft;
-(16) Smuggling (including in relation to customs and excise duties
-and taxes);
+(16) Smuggling (including in relation to customs and excise duties and taxes);
 (17) Tax crimes (relating to direct taxes and indirect taxes);
 (18) Extortion;
 (19) Forgery;
-(20) Piracy; and
-(21) Insider trading and market manipulation.
-- Margin: Section 2. [15 of 2014].
+(20) Piracy;
+(21) Insider trading and market manipulation;
+(22) Money laundering; and
+(23) Offences under the Gambling and Betting Act.
+- Margin: Section 2. [15 of 2014 49/2016].
+- Margin: Ch. 11:19.

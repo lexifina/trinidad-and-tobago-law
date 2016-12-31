@@ -15,7 +15,7 @@ Subject to seizure under any other written law of the cash referred to below, th
 (Interested Party) (Address) at ... on the ... day of ... 20..., and for which a
 (Place of Seizure) detention order was last made by a Magistrate in the District of ... on the ... day of ..., 20..., as there are no longer any grounds for the detention of the said cash or as the detention of the cash is no longer justified, for that-
 1. [State particulars of
-2. belief. (sec. 38(7)(a)(i)/(ii)]
+2. belief. [sec. 38(7)(a)(i)/(ii)]
 3.
 Signed ...
 (Applicant)

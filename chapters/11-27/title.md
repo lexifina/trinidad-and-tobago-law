@@ -1,7 +1,7 @@
 PROCEEDS OF CRIME ACT
 CHAPTER 11:27
 Act
-55 of 2000 Amended by 10 of 2009 17 of 2012 15 of 2014 2 of 2015
+55 of 2000 Amended by 10 of 2009 17 of 2012 15 of 2014 2 of 2015 49/2016
 Index of Subsidiary Legislation
 Page Financial Obligations Regulations (LN 7/2010)... 86 Proceeds of Crime (Prescribed Forms) Regulations (LN 2/2015) … … 124
 Note on Omissions
@@ -12,7 +12,7 @@ Ch. 4:01.
 B. Section 61 of this Act amends sections 30 to 53 of the Dangerous Drugs Act, Ch. 11:25
 with savings. These amendments have been duly incorporated into the respective Acts.
 Note on Revision
-The pages of this Act bearing the notation L.R.O. are hereby authorised to be included in the Laws as from 5th January 2015 pursuant to an Order made under section 9 of the Law Revision Act (Chap. 3:03).
+The pages of this Act bearing the notation L.R.O. 1/2015 are hereby authorised to be included in the Laws as from 5th January 2015 pursuant to an Order made under section 9 of the Law Revision Act (Chap. 3:03).
 CHAPTER 11:27
 PROCEEDS OF CRIME ACT
 ARRANGEMENT OF SECTIONS
