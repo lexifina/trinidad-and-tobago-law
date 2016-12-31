@@ -10,6 +10,7 @@ s-6A.md
 s-7.md
 s-8.md
 s-9.md
+schedule.md
 sl-01/title.md
 sl-01/r-1.md
 sl-01/r-2.md
