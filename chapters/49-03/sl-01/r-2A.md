@@ -1,4 +1,4 @@
-# 2A. Regulation, administration and supervision. (407/2014).
+# 2A. Regulation, administration and supervision. [407/2014].
 (1) The Director-General shall develop and maintain a safety oversight system and a security oversight system for civil aviation in Trinidad and Tobago in accordance with the eight critical elements of the ICAO Oversight System for safety and security.
 (2) In furtherance of subregulation (1), the Director- General shall-
 (a) advise the Authority on recommendations to be
@@ -76,7 +76,7 @@ letters of correction;
 (iii) limiting, suspending or revoking an
 aviation document;
 (iv) applying pecuniary penalties in accordance
-with the Civil Aviation [(No. l6) Compounding of Offences] (Pecuniary Penalties) Regulations; or
+with the Civil Aviation [(No. l6) Compounding of Offences (Pecuniary Penalties)] Regulations; or
 (v) applying the appropriate penalties for
 offences specified in the Act;
 (q) ensure that identified safety and security issues

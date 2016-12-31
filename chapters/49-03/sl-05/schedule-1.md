@@ -1,8 +1,12 @@
 # SCHEDULE 1
-The following established international airworthiness codes meet the minimum international civil aviation requirements for giving effect to Annex 8 of the Chicago Convention in respect of the minimum standards relating to the airworthiness requirements of these Regulations as applicable:
-(a) Federal Aviation Regulations of the United States of
-America;
-(b) Joint Aviation Requirements;
-(c) Canadian Aviation Regulations; and
-(d) British Civil Airworthiness Requirements.
-- Margin: Regulation 11.
+APPROVED MAINTENANCE
+ORGANISATION CERTIFICATE
+Number
+This certificate is issued to
+Whose business address is
+Upon finding that its organisation complies in all respects with the requirements of the Civil Aviation [(No. 6) Approved Maintenance Organisation] Regulations relating to the establishment of an Approved Maintenance Organisation is empowered to operate an Approved Maintenance Organisation with the following classes and ratings:
+Date of issue: ... Name:...
+Date of expiry:... Signature: ...
+(f /Authority)
+This certificate is not transferable.
+- Margin: Regulation 9.

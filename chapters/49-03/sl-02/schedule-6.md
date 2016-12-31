@@ -66,5 +66,5 @@ OPERATOR CERTIFICATION OR VALIDATION
 9. The operator shall demonstrate the ability to conduct operations by single-engine turbine-powered aeroplanes at night or in IMC through a certification and approval process specified by the State of the Operator.
 Note 1: A "safe" forced landing in this context means a landing in an area at which it can
 reasonably be expected that it will not lead to serious injury or loss of life, even though the aeroplane may incur extensive damage. Note 2: Operation over routes and in weather conditions that permit a safe forced landing in the
-event of an engine failure, as specified in regulation 111(4) of these Regulations, is not required by paragraph 6(1) and 6(2) of this Schedule for aeroplanes approved in accordance with regulation 118A of these Regulations.
+event of an engine failure, as specified in regulation 111(4) of these Regulations, is not required by subparagraphs 6(1) and 6(2) of this Schedule for aeroplanes approved in accordance with regulation 118A of these Regulations.
 - Margin: Regulation 118A. [186/2006 285/2006].

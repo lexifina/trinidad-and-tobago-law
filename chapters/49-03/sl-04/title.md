@@ -1,16 +1,35 @@
-CIVIL AVIATION [(NO. 4) REGISTRATION AND
-MARKINGS] REGULATIONS
-ARRANGEMENT OF REGULATIONS REGULATION
-1. Citation. 2. Interpretation. 3. Applicability of these Regulations.
+CIVIL AVIATION [(NO. 5) AIRWORTHINESS]
+REGULATIONS
+ARRANGEMENT OF REGULATIONS
+REGULATION
+1. Citation. 2. Interpretation. 3. General Applicability of these Regulations.
 PART I
-REGISTRATION
-4. Applicability of Part I. 5. Restriction on operation of aircraft in Trinidad and Tobago. 6. Requirements for application. 7. Requirement for registration of aircraft. 8. De-registration for purpose of registration. 9. Issue of Certificate of Aircraft Registration. 10. Requirements after Certificate of Aircraft Registration. 11. Requirements for de-registration of an aircraft. 12. Register of civil aircraft. 13. Conditions of registration.
+AERONAUTICAL PRODUCT CERTIFICATION
+4. General applicability of Part I. 5. Application for Type Certificate. 6. Application for Production Certificate. 7. Application for a new Type Certificate. 8. Supplemental Type Certificate.
 PART II
-NATIONALITY AND REGISTRATION MARKS
-14. Applicability of Part II. 15. Requirements for display of nationality and registration marks. 16. Display of marks. 17. Size of marks. 18. Location of marks on fixed-wing aircraft. 19. Location of marks on rotorcraft. 20. Location of marks on lighter-than-air aircraft. 21. Deviation of size and location of marks. 22. Removal of marks after sale of aircraft. 23. Identification plates required. 24. Removal, replacement and attachment of and alteration of information
-on aircraft identification plates.
-25. Director-General to amend Schedules.
-CIVIL AVIATION [(NO. 4) REGISTRATION AND
-MARKINGS] REGULATIONS
+AIRWORTHINESS CERTIFICATION
+9. Application of Part II. 10. Restriction on operation of aircraft without Airworthiness Certificate. 11. Requirements for the issue of Airworthiness Certificate. 12. Issue of Special Flight Permit. 13. Amendment of Airworthiness Certificate. 14. Transfer or surrender of Airworthiness Certificate. 15. Continued validity of Airworthiness Certificate. 16. Contents of an Airworthiness Certificate. 17. Requirement of air operator to maintain records for identification of
+type design.
+18. Requirements for continued airworthiness of aircraft and
+aeronautical products.
+19. Requirements for Aircraft Maintenance Programme. 20. Airworthiness directives procedures. 21. Procedures to be followed where damage occurs to aircraft. 22. Requirements for reporting of failures, malfunctions and defects. 23. Procedures for major modification and major repairs. REGULATION
+PART IIA
+NOISE CERTIFICATION
+23A. Applicability. 23B. Standards for noise. 23C. Restriction on operations without noise validation certificate. 23D. Requirements for the issue of a noise validation certificate. 23E. Continued validity of a noise validation certificate. 23F. Contents of a noise validation certificate.
+PART III
+AIRCRAFT MAINTENANCE AND INSPECTION
+24. Applicability of Part III. 25. Persons authorised to perform maintenance or preventive maintenance. 26. Persons authorised to perform inspections. 27. Restrictions on persons who can issue Certificate of Release to Service. 28. Maintenance Performance Rules. 29. Requirements for inspections performance rules. 30. Requirements for annual and one hundred-hour inspections and use
+of a checklist.
+31. Issue of Certificate of Release to Service.
+31A. Certificate of Maintenance Review.
+32. Required Performance Rules, Certificate of Release to Service.
+PART IV
+MAINTENANCE RECORDS AND ENTRIES
+33. Applicability of Part IV. 34. Content, form, and disposition of maintenance, preventive
+maintenance, rebuilding, and modification of records.
+35. Requirement for records of overhaul and rebuilding. 36. Required content, form, and disposition of records for inspections. 37. Air operator to comply with implementing standards. 38. Director-General to amend Schedules. 39. Transitional provisions.
+SCHEDULE 1. SCHEDULE 2. SCHEDULE 3.
+*CIVIL AVIATION [(NO. 5) AIRWORTHINESS]
+REGULATIONS
 made under section 33
-- Margin: 103/2004. [225/2005].
+- Margin: 104/2004.

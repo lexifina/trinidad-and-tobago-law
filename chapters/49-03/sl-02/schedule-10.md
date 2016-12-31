@@ -18,9 +18,9 @@ Time or local time that begins at midnight and ends twenty-four hours later at t
 duties. A rest period may be included as part of a day off; "dispatch crew" means a fully qualified and current flight crew or cabin crew
 authorised to carry out pre-flight duties as defined by the national air operator; "duty" means any continuous period during which a crew member is required to
 carry out any task associated with the business of the national air operator; "flight crew" means those members of the crew of an aircraft who act as pilot
-or pilot engineer; "flight time" means the total time from the moment an aircraft first moves
-under its own power for the purpose of taking off until the moment it finally comes to rest at the end of the flight; "flight duty period" means any time during which a person operates in an
-aircraft as a member of its crew. It starts when the crew member is required by the national air operator to report for a flight and finishes at the end of the flight time on the final sector. This term is used interchangeably with flying duty period and flight duty time; "minimum rest period" means a period during which a flight crew member is
+or pilot engineer; "flight duty period" means any time during which a person operates in an
+aircraft as a member of its crew. It starts when the crew member is required by the national air operator to report for a flight and finishes at the end of the flight time on the final sector. This term is used interchangeably with flying duty period and flight duty time; "flight time" means the total time from the moment an aircraft first moves
+under its own power for the purpose of taking off until the moment it finally comes to rest at the end of the flight; "minimum rest period" means a period during which a flight crew member is
 free from all duties, is not interrupted by the national air operator or private operator, and is provided with an opportunity to obtain not less than eight consecutive hours of sleep in suitable accommodation, time to travel to and from that accommodation and time for personal hygiene and meals; "positioning" means the practice of transferring crews from place to place as
 passengers in surface or air transport on behalf of the national air operator. Positioning time counts as duty time; "reporting time" means the time at which a crew member is required by the
 national air operator to report for any duty; "rest period" means a period of time before starting a flight duty period that is
@@ -84,7 +84,7 @@ the length of the preceding flight duty time; and
 (d) a maximum of three sectors may be completed.
 20. Where a flight crew is augmented by the addition of at least one flight crew member, the total flight time accumulated during the flight shall be logged by all flight crew members for the purposes of calculating the maximum flight times.
 Extensions of flight duty period by split duty
-21. When a flight duty period consists of two or more sectors-of which one can be a positioning journey counted as a sector-but separated by less than a minimum rest period, then the flight duty period will extend by the amounts indicated below.
+21. When a flight duty period consists of two or more sectors-of which one can be a positioning journey counted as a sector-but separated by less than a minimum rest period, then the flight duty period will extend by the amounts indicated below-
 Consecutive Hours Rest Maximum Extension of the FDP Less than 3 NIL 3-10 A period equal to half the consecutive
 hours rest taken.
 22. The rest period shall not include the time allowed for immediate post and pre-flight duties. When the rest period is less than six hours it will suffice if a quiet and comfortable place, not open to the public, is available. If rest is to be taken in the aircraft on the ground, the crew shall have adequate control of the temperature and ventilation. Passengers shall not be on board. If the rest period is more than six consecutive hours, then suitable accommodation shall be provided.
@@ -171,19 +171,19 @@ Time or local time that begins at midnight and ends twenty-four hours later at t
 duties. A rest period may be included as part of a day off; "dispatch crew" means a fully qualified and current flight crew or cabin
 crew authorised to carry out pre-flight duties as defined by the national air operator; "duty" means any continuous period during which a crew member is
 required to carry out any task associated with the business of the national air operator; "flight crew" means those members of the crew of an aircraft who act as pilot
-or pilot engineer; "flight time (helicopter)" means the total time from the moment a helicopter
-first moves under its own power for the purpose of taking-off until the rotors are next stopped; "flight duty period" means any time during which a person operates in an
-aircraft as a member of its crew. It starts when the crew member is required by the national air operator to report for a flight and finishes at the end of the flight time on the final sector. This term is used interchangeably with flight duty period and flight duty time; "minimum rest period" means a period during which a flight crew member is
+or pilot engineer; "flight duty period" means any time during which a person operates in an
+aircraft as a member of its crew. It starts when the crew member is required by the national air operator to report for a flight and finishes at the end of the flight time on the final sector. This term is used interchangeably with flight duty period and flight duty time; "flight time (helicopter)" means the total time from the moment a helicopter
+first moves under its own power for the purpose of taking-off until the rotors are next stopped; "minimum rest period" means a period during which a flight crew member is
 free from all duties, is not interrupted by the national air operator or private operator, and is provided with an opportunity to obtain not less than eight consecutive hours of sleep in suitable accommodation, time to travel to and from that accommodation and time for personal hygiene and meals; "positioning" means the practice of transferring crews from place to place as
 passengers in surface or air transport on behalf of the national air operator. Positioning time counts as duty time; "reporting time" means the time at which a crew member is required by the
-national air operator to report for any duty; "rest period" means a period of time before starting a flight duty period that is
+national air operator to report for any duty; "reserve duty" means a period during which the national air operator places
+restraints on a crew member who would otherwise be off duty; "rest period" means a period of time before starting a flight duty period that is
 designed to give crew members adequate opportunity to rest before a flight; "rostered duty" means a duty period, or series of duty periods, with stipulated
 start and finish times, notified by the national air operator to crews in advance; "scheduled duty" means the allocation of specific flight or flights or other duties
 to a crew member within the pre-notified rostered series of duty periods; "sector" means the time between an aircraft first moving under its own power
 until it next comes to rest after landing, on the designated parking position; "split duty" means a flight duty period which consists of two or more sectors
 separated by less than a minimum rest period; "standby" means a flight crew member who has been designated by a national
-air operator to remain at a specified location in order to be available to report for flight duty on notice of one hour or less; "reserve duty" means a period during which the national air operator places
-restraints on a crew member who would otherwise be off duty; "suitable accommodation" means a furnished bedroom which is subject to
+air operator to remain at a specified location in order to be available to report for flight duty on notice of one hour or less; "suitable accommodation" means a furnished bedroom which is subject to
 minimum noise, is well ventilated, and has the facility to control the levels of light and temperature; and "travelling" means all time spent by a crew member transiting between the
 place of rest and the place of reporting for duty. Travelling time does not count as duty time.
 Monitoring system

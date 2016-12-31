@@ -1,6 +1,17 @@
-ARRANGEMENT OF REGULATIONS-Continued REGULATION
-95. National air operator to comply with minimum implementing standards. 96. Director-General may amend the Schedules. 97. Transitional provisions.
-SCHEDULE 1. SCHEDULE 2. SCHEDULE 3. SCHEDULE 4. SCHEDULE 5. SCHEDULE 6. SCHEDULE 7. SCHEDULE 8. SCHEDULE 9. SCHEDULE 10. CIVIL AVIATION [(NO. 3) AIR OPERATOR CERTIFICATION
-AND ADMINISTRATION] REGULATIONS
+CIVIL AVIATION [(NO. 4) REGISTRATION AND
+MARKINGS] REGULATIONS
+ARRANGEMENT OF REGULATIONS REGULATION
+1. Citation. 2. Interpretation. 3. Applicability of these Regulations.
+PART I
+REGISTRATION
+4. Applicability of Part I. 5. Restriction on operation of aircraft in Trinidad and Tobago. 6. Requirements for application. 7. Requirement for registration of aircraft. 8. De-registration for purpose of registration. 9. Issue of Certificate of Registration. 10. Requirements after Certificate of Registration. 11. Requirements for de-registration of an aircraft. 12. Register of civil aircraft. 13. Conditions of registration.
+PART II
+NATIONALITY AND REGISTRATION MARKS
+14. Applicability of Part II. 15. Requirements for display of nationality and registration marks. 16. Display of marks. 17. Size of marks. 18. Location of marks on fixed-wing aircraft. 19. Location of marks on rotorcraft. 20. Location of marks on lighter-than-air aircraft. 21. Deviation of size and location of marks. 22. Removal of marks after sale of aircraft. 23. Identification plates required. 24. Removal, replacement and attachment of and alteration of information
+on aircraft identification plates.
+25. Director-General to amend Schedules.
+SCHEDULE 1. SCHEDULE 2.
+CIVIL AVIATION [(NO. 4) REGISTRATION AND
+MARKINGS] REGULATIONS
 made under section 33
-- Margin: 102/2004. [275/2004 303/2004 32/2005 224/2005 187/2006 286/2006 47/2007 31/2008 35/2009 198/2009 140/2011 241/2012]. Citation.
+- Margin: 103/2004. [225/2005 175/2016].

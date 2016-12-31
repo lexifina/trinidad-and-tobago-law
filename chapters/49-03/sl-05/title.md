@@ -1,35 +1,34 @@
-CIVIL AVIATION [(NO. 5) AIRWORTHINESS]
-REGULATIONS
+CIVIL AVIATION [(NO. 6) APPROVED
+MAINTENANCE ORGANISATION] REGULATIONS
 ARRANGEMENT OF REGULATIONS
 REGULATION
-1. Citation. 2. Interpretation. 3. General Applicability of these Regulations.
+1. Citation. 2. Interpretation.
+APPLICABILITY OF THESE REGULATIONS
+3. General applicability of these Regulations.
 PART I
-AERONAUTICAL PRODUCT CERTIFICATION
-4. General applicability of Part I. 5. Application for Type Certificate. 6. Application for Production Certificate. 7. Application for a new Type Certificate. 8. Supplemental Type Certificate.
+GENERAL REQUIREMENTS FOR ISSUE OF AIRCRAFT
+MAINTENANCE ORGANISATION CERTIFICATE
+4. Applicability of Part I. 5. Prohibition of performance of maintenance. 6. General requirements for issue of Aircraft Maintenance Organisation
+Certificate.
+6A. Safety management system.
+7. Equivalent Safety Case and Deviation Authority. 8. Issue of Aircraft Maintenance Organisation Certificate. 9. Contents of Approved Maintenance Organisation Certificate. 10. Validity of Approved Maintenance Organisation Certificate. 11. Amendments to Approved Maintenance Organisation Certificate. 12. Advertising requirements. 13. Contents of a Maintenance Procedures Manual. 14. Issue of additional ratings. 15. Issue of ratings with limitations.
 PART II
-AIRWORTHINESS CERTIFICATION
-9. Application of Part II. 10. Restriction on operation of aircraft without Airworthiness Certificate. 11. Requirements for the issue of Airworthiness Certificate. 12. Issue of Special Flight Permit. 13. Amendment of Airworthiness Certificate. 14. Transfer or surrender of Airworthiness Certificate. 15. Continued validity of Airworthiness Certificate. 16. Contents of an Airworthiness Certificate. 17. Requirement of air operator to maintain records for identification of
-type design.
-18. Requirements for continued airworthiness of aircraft and
-aeronautical products.
-19. Requirements for Aircraft Maintenance Programme. 20. Airworthiness directives procedures. 21. Procedures to be followed where damage occurs to aircraft. 22. Requirements for reporting of failures, malfunctions and defects. 23. Procedures for major modification and major repairs. REGULATION
-PART IIA
-NOISE CERTIFICATION
-23A. Applicability. 23B. Standards for noise. 23C. Restriction on operations without noise validation certificate. 23D. Requirements for the issue of a noise validation certificate. 23E. Continued validity of a noise validation certificate. 23F. Contents of a noise validation certificate.
+HOUSING, FACILITIES, EQUIPMENT AND MATERIALS
+16. Applicability of Part II. 17. Minimum requirements of housing and facilities. 18. Minimum requirements for equipment, tools and materials.
 PART III
-AIRCRAFT MAINTENANCE AND INSPECTION
-24. Applicability of Part III. 25. Persons authorised to perform maintenance or preventive maintenance. 26. Persons authorised to perform inspections. 27. Restrictions on persons who can issue Certificate of Release to Service. 28. Maintenance Performance Rules. 29. Requirements for inspections performance rules. 30. Requirements for annual and one hundred-hour inspections and use
-of a checklist.
-31. Issue of Certificate of Release to Service.
-31A. Certificate of Maintenance Review.
-32. Required Performance Rules, Certificate of Release to Service.
+ADMINISTRATION
+19. Applicability of Part III. REGULATION
+20. Minimum training requirements for personnel. 21. Requirements for certifying staff. 22. Requirements for records for certifying staff. 23. Rest and duty times restrictions.
 PART IV
-MAINTENANCE RECORDS AND ENTRIES
-33. Applicability of Part IV. 34. Content, form, and disposition of maintenance, preventive
-maintenance, rebuilding, and modification of records.
-35. Requirement for records of overhaul and rebuilding. 36. Required content, form, and disposition of records for inspections. 37. Air operator to comply with implementing standards. 38. Director-General to amend Schedules. 39. Transitional provisions.
-SCHEDULE 1. SCHEDULE 2. SCHEDULE 3.
-CIVIL AVIATION [(NO. 5) AIRWORTHINESS]
-REGULATIONS
+APPROVED MAINTENANCE ORGANISATION
+OPERATING RULES
+24. Applicability of Part IV. 25. Requirements for Maintenance Procedures Manual. 26. Requirements for quality assurance system and maintenance
+procedure.
+27. Requirements for retention of capability list. 28. Approved Maintenance Organisation privileges. 29. Approved Maintenance Organisation limitations. 30. Requirements for Certificate of Release to Service. 31. Maintenance records requirements. 32. Requirements to retain maintenance data. 33. Requirements for production planning. 34. Requirement to report unairworthy conditions of aeronautical products. 35. Inspection requirements. 36. Approved Maintenance Organisation to perform maintenance to
+required standards.
+37. Implementing standards. 38. Director-General to amend Schedules. 39. Transitional Provision.
+SCHEDULE 1. SCHEDULE 2. SCHEDULE 3. SCHEDULE 4. SCHEDULE 5.
+CIVIL AVIATION [(NO. 6) APPROVED
+MAINTENANCE ORGANISATION] REGULATIONS
 made under section 33
-- Margin: 104/2004. [276/2004. 304/2004 33/2005 226/2005 188/2006 287/2006 48/2007 32/2008 199/2009 141/2011]. Citation.
+- Margin: 105/2004. [277/2004 305/2004 34/2005 227/2005 288/2006 49/2007 200/2009 144/2011].

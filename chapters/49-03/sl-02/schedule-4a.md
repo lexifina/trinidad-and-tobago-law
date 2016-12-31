@@ -78,7 +78,7 @@ Note: If the operation consists of continuous launchings, the time to be include
 time at which the first and the last in the series will reach the appropriate level (e.g., 122136Z-130330Z).
 (xi) the estimated date and time of termination of the
 flight and the planned location of the impact or recovery area. In the case of balloons carrying out flights of long duration, as a result of which the date and time of termination of the flight and the location of impact cannot be forecast with accuracy, the term
-"long duration" shall be used.
+"long duration" shall be used;
 Note: If there is to be more than one location of impact/recovery, each location is to be listed
 together with the appropriate estimated time of impact. If there is to be a series of continuous impacts, the time to be included is the estimated time of the first and the last in the series (e.g., 070330Z-072300Z).
 (c) any changes in the pre-launch information notified in
@@ -89,7 +89,7 @@ launched the operator shall notify the appropriate Air Traffic Services Unit of 
 (a) balloon flight identification;
 (b) launch site;
 (c) actual time of launch;
-(d) estimated time at which 18000 metres (60,000 feet) pressure-
+(d) estimated time at which 18 000 metres (60,000 feet) pressure-
 altitude will be passed, or the estimated time at which the cruising level will be reached if at or below 18 000 metres
 (60,000 feet) and the estimated location; and
 (e) any changes to the information previously notified in
@@ -108,10 +108,10 @@ POSITION RECORDING AND REPORTS
 (8) One hour before the beginning of planned descent of a heavy unmanned free balloon, the operator shall forward to the appropriate Air Traffic Services Unit the following information regarding the balloon:
 (a) the current geographical position;
 (b) the current level or pressure-altitude;
-(c) the forecast time of penetration of 18 000 metres (60,000
-feet) pressure-altitude, if applicable; and
+(c) the forecast time of penetration of 18 000 metres (60,000 feet)
+pressure-altitude, if applicable; and
 (d) the forecast time and location of ground impact.
 (9) The operator of a heavy or medium unmanned free balloon shall notify the appropriate Air Traffic Services Unit when the operation is ended.
 FIGURE 1
 CLASSIFICATION OF UNMANNED FREE BALLOONS
-- Margin: Regulation 106(5). [34/2009].
+- Margin: Regulation 106(6). [34/2009 173/2016].
