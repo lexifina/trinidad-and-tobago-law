@@ -5,7 +5,7 @@ Act
 Note on Subsidiary Legislation
 This Chapter contains no subsidiary legislation.
 Note on Commencement
-With the exception of sections 60(3) and (4), 64, 70, 72 and 73 this Act came into operation on 18th May 2015.
+At the time of the revision of this Act in September 2016, sections 60(3) and (4), 64, 70, 72 and 73 were awaiting proclamation.
 Note on Schedule 3
 Schedule 3 to this Act has been omitted as all amendments made to the various pieces of legislation contained in that schedule have now been duly incorporated into the respective Acts.
 CHAPTER 46:01
