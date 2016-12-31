@@ -3,26 +3,24 @@ CHAPTER 75:06
 Act
 37 of 1989
 Amended by
-2 of 2012 215/1989 †32 of 1994
-5/1990 5 of 1995 365/2012 17/1990 8 of 1996 409/2012 63/1990 35 of 1998
-2 of 2013
-9 of 1990
-91 of 2000 75/2013
-31/1991
-2 of 2002 177/2013
-*6 of 1991
-5 of 2004 178/2013
-4 of 1992
-17 of 2007 179/2013
-6 of 1993
-30 of 2007 242/2013 *22 of 1993
-13 of 2010 256/2013 *3 of 1994 202/2011 2 of 2015 14 of 1994
+365/2012 215/1989 †32 of 1994 409/2012 5/1990 5 of 1995 2 of 2013 17/1990 8 of 1996 75/2013
+63/1990 35 of 1998
+177/2013
+9 of 1990 91 of 2000
+178/2013
+31/1991 2 of 2002
+179/2013
+*6 of 1991 5 of 2004
+242/2013
+4 of 1992 17 of 2007
+256/2013
+6 of 1993 30 of 2007 2 of 2015 *22 of 1993 13 of 2010 1 of 2016 *3 of 1994 202/2011 7 of 2016 14 of 1994 2 of 2012 17/2016
 *See Note on Exemption on page 2
 †See Note on non-application of Act on page 2
 Index of Subsidiary Legislation
 Page
-Value Added Tax (Books and Records) Regulations (LN 170/1992) … 76 Value Added Tax (Prescribed Offences-Modified Penalties) Regulations
-(LN 169/1992) ... 78
+Value Added Tax (Books and Records) Regulations (LN 170/1992) … 66 Value Added Tax (Prescribed Offences-Modified Penalties) Regulations
+(LN 169/1992) ... 68
 Note on sections 61 and 62
 Schedule 4 to the Value Added Tax Act 1989 (Act No. 37 of 1989) has been omitted since this Schedule dealt with amendments and repeals to other Acts mentioned therein. For a reference to Schedule 4 of the Value Added Tax Act, 1989-See the 1989 Annual Volumes of Acts and Subsidiary Legislation.
 Note on non-application of Act
@@ -50,13 +48,15 @@ TAX ON SUPPLY
 DIVISION 1-THE TAX
 14. Commercial supply. 15. What constitutes a supply of goods or services. 16. Place of supply.
 ARRANGEMENT OF SECTIONS-Continued
+SECTION
 17. Time of supply. 18. Value of supply. 19. Open market value of supply.
 DIVISION 2-REGISTRATION
 20. Suppliers to be registered. 21. Low level supplies. 22. Declarations. 23. Registered person may recover tax from person supplied. 24. Application for registration. 25. Registration. 26. Certain self-supply may be disregarded. 27. Certificate of registration. 28. Notification of changes. 29. Cancellation of registration.
 DIVISION 3-PAYMENT OF THE TAX
 30. Tax periods. 31. Returns. 32. Calculation of tax payable or refund due. 33. Output tax. 34. Input tax. 35. Payment or refund of tax. 36. Tax invoices. 37. Credit and debit notes. 38. Books and records to be kept.
 DIVISION 4-ASSESSMENTS
-39. Board may assess tax. 39A. Refund of overpayments of tax on supplies.
+39. Board may assess tax.
+39A. Refund of overpayments of tax on supplies.
 40. Objections and appeals.
 DIVISION 5-SPECIAL CASES
 41. Branches and divisions. 42. Unincorporated bodies. 43. Agents of absentee principals. SECTION
@@ -70,7 +70,7 @@ RELIEFS
 PART 6
 MISCELLANEOUS
 48. Effect of changes in tax on existing contracts. 49. Administration. 50. Authorised persons. 51. Functions of authorised persons. 52. Secrecy. 53. Board may require security. 54. Interest and penalty.
-54A. Waiver of certain liabilities.
+54A. Waiver of liabilities.
 55. Certain provisions of Income Tax Act to apply.
 55A. Clearance certificate.
 56. General offences. 57. Additional liability for offence by body corporate. 58. Proceedings for prosecution of offences. 59. Regulations.
