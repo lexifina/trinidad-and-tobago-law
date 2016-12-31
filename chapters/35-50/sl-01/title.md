@@ -22,7 +22,9 @@ probationary report.
 22. Record to be kept. 23. Seniority list.
 PART III
 REMUNERATION AND ADVANCES
-24. Salary. 25. Date of payment of salary. 26. Advance of salary. 27. Minister may authorise advance for other purposes. 28. Deduction from salary. 29. Adjustment of salary on promotion or secondment. 30. Adjustment of salary on acting appointment. 31. Salary when appointed to act in intermediate office or promoted to
+24. Salary. 25. Date of payment of salary. 26. Advance of salary. 27. Minister may authorise advance for other purposes.
+27A. Duty allowance.
+28. Deduction from salary. 29. Adjustment of salary on promotion or secondment. 30. Adjustment of salary on acting appointment. 31. Salary when appointed to act in intermediate office or promoted to
 intermediate office.
 32. Acting appointment in an office higher than that in which an officer
 held acting appointment.
@@ -68,4 +70,4 @@ EMPLOYMENT) REGULATIONS
 made under section 34
 CHAPTER I
 PRELIMINARY
-- Margin: 267/1998. [324/2004].
+- Margin: 267/1998. [324/2004 40/2012].

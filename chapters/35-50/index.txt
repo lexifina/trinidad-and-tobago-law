@@ -92,6 +92,7 @@ sl-01/r-24.md
 sl-01/r-25.md
 sl-01/r-26.md
 sl-01/r-27.md
+sl-01/r-27A.md
 sl-01/r-28.md
 sl-01/r-29.md
 sl-01/r-30.md
