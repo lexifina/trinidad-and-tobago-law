@@ -3,21 +3,18 @@ CHAPTER 75:04
 Act
 22 of 1974 Amended by
 15 of 1992 30 of 1974
-16 of 1975 8 of 1996 46 of 1976
-9 of 1997
-47 of 1980
+16 of 1975 8 of 1996 46 of 1976 9 of 1997 47 of 1980
 5 of 2004
 5 of 1981
-21 of 2005 28 of 1984
-26 of 1985 2 of 2006 14 of 1987
-30 of 2007
-16/1987
-13 of 2010
-11 of 1988
-*2 of 2013 27 of 1988
-6 of 1989 4 of 2014 *See Note on page 2.
+21 of 2005
+28 of 1984
+2 of 2006
+26 of 1985
+30 of 2007 14 of 1987 13 of 2010 16/1987 *2 of 2013 11 of 1988
+27 of 1988 4 of 2014 6 of 1989 7 of 2016 *See Note on page 2.
 Index of Subsidiary Legislation
-Page Supplemental Refining Tax (Variation of Rates) Order (LN 143/1982) … 43 Supplemental Petroleum Tax (Variation of Rate) Order (LN 119/1983) … 43 Supplemental Petroleum Tax (Variation of Rate) Order (LN 152/1984) … 44
+Page
+Supplemental Refining Tax (Variation of Rates) Order (LN 143/1982) … 43 Supplemental Petroleum Tax (Variation of Rate) Order (LN 119/1983) … 43 Supplemental Petroleum Tax (Variation of Rate) Order (LN 152/1984) … 44
 Note on Omissions
 Petroleum Profits Tax (Posted Prices) Orders made under paragraph 5 of the Second Schedule have been omitted (see the Current Edition of the Consolidated Index of Acts and Subsidiary Legislation for references to these Orders).
 Note on Section 18A
