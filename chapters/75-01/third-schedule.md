@@ -2,13 +2,17 @@
 PART I
 RATES OF TAX PAYABLE ON CHARGEABLE INCOME
 OF A PERSON OTHER THAN A COMPANY
-1. The rate of tax payable on the chargeable income of a person other than a company shall be twenty-five cents for every dollar.
+1. The rate of tax payable on the chargeable income of a person, other than a company is-
+(a) twenty-five cents for every dollar up to $1,000,000 of
+chargeable income; and
+(b) thirty cents for every dollar that exceeds $1,000,000 of
+chargeable income.
 2. Notwithstanding the rates of tax set out in paragraph 1, where the chargeable income of a person other than a company who is resident in Trinidad and Tobago-
 (a) does not exceed $5,000, no tax shall be charged;
-(b) exceeds $5,000, but does not exceed $5,500, the tax payable
-shall be limited to 49.5 per cent of the amount by which the chargeable income exceeds $5,000;
 * This Schedule has been amended by the following: 16 of 1963; 29 of 1966; 42 of 1966; 13 of
-1968; 1 of 1979; 19 of 1980; 25 of 1981; 11 of 1988; 6 of 1989; 9 of 1990; 4 of 1992; 5 of 1995; 8 of 1996; 9 of 1997; 2 of 2002; 2 of 2006; 30 of 2007.
+1968; 1 of 1979; 19 of 1980; 25 of 1981; 11 of 1988; 6 of 1989; 9 of 1990; 4 of 1992; 5 of 1995; 8 of 1996; 9 of 1997; 2 of 2002; 2 of 2006; 30 of 2007 and 10 of 2016.
+shall be limited to 49.5 per cent of the amount by which the chargeable income exceeds $5,000;
+(c) exceeds $5,000, but does not exceed $6,000, the tax payable
 shall be reduced by 50 per cent;
 (d) exceeds $6,000, but does not exceed $7,000, the tax payable
 shall be limited to $280 plus 31.2 per cent of the amount by which the chargeable income exceeds $6,000;
