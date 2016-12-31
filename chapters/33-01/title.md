@@ -18,7 +18,7 @@ Amended by
 Index of Subsidiary Legislation
 Page Trinidad and Tobago Housing Development Corporation (Direct Loans)
 Regulations (GN 42/1969) ... 32 Interest Rate (Direct Loans) Notice (GN 35/1978) … … … 51 Soft Loans (Approved Agents) Order (GN 103/1977) … … … 52 Trinidad and Tobago Housing Development Corporation (Soft Loans)
-Regulations (GN 98/1977) ... 53 Interest Rate (Soft Loans) Notice (GN 34/1978)... 74
+Regulations (GN 98/1977) ... 53 Interest Rate (Soft Loans) Notice (GN 34/1978)... 74 Housing (Income Tax Incentives) Regulations (LN 105/2016) … … 75 Housing (Registration of Traders and Land Developers) Regulations (LN 106/2016) 82
 Note on Staff Provisions
 (See Chap. 24:01)
 Under section 3(2) of the Statutory Authorities Act (Chapter 24:01), the Trinidad and Tobago Housing Development Corporation has been declared a statutory authority subject to the provisions of that Act (See Chapter 24:01-Subsidiary Legislation). So long as this declaration remains in force, the provisions of this Act relating to staff must be read and construed accordingly.
