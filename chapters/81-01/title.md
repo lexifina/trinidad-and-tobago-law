@@ -9,6 +9,7 @@ Amended by
 2 of 2012
 2 of 2013
 2 of 2015
+7 of 2016
 *See Note on page 2
 Index of Subsidiary Legislation
 Page Companies Regulations (LN 69/1997) … … … 507
