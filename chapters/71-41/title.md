@@ -2,11 +2,14 @@ GOVERNMENT SAVINGS BONDS ACT
 CHAPTER 71:41
 Act
 8 of 1962 Amended by
-5 of 1965 50/1982 103/1983 11 of 1988 14 of 1995
+5 of 1965 50/1982 103/1983 11 of 1988 14 of 1995 *10 of 2016
+*See Note on page 2
 Index of Subsidiary Legislation
-Page Government Savings Bonds Regulations (GN 88/1962) … … … 7 National Tax Free Savings Bonds Regulations (GN 216/1977) … … 14 Resolutions passed under section 3(1)(b) ... 16 Tax Free Housing Bonds Regulations (LN 157/1988) … … … 17
+Page Government Savings Bonds Regulations (GN 88/1962) … … … 8 National Tax Free Savings Bonds Regulations (GN 216/1977) … … 15 Resolutions passed under section 3(1)(b) ... 17 Tax Free Housing Bonds Regulations (LN 157/1988) … … … 18
 Note on Act No. 2 of 2015
 Amendments made by Act No. 2 of 2015 to regulation 9 of the National Tax Free Savings Bonds Regulations took effect from 1st January 2015.
+Note on Act No. 10 of 2016
+Amendments made by Act No. 10 of 2016 took effect from 1st January 2017.
 CHAPTER 71:41
 GOVERNMENT SAVINGS BONDS ACT
 ARRANGEMENT OF SECTIONS SECTION
@@ -17,6 +20,7 @@ Time limit for the bearing of interest. Encashment of Bonds.
 6A. Fiscal Agent.
 7. Receipts exempt from stamp duty. 8. Regulations. 9. General Loan and Stock Act and General Local Loan Act not to
 apply to Bonds.
+SCHEDULE.
 
 CHAPTER 71:41
 GOVERNMENT SAVINGS BONDS ACT
