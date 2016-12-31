@@ -3,7 +3,7 @@ CHAPTER 40:56
 Act
 10 of 2013
 Note on Subsidiary Legislation
-This Chapter contains no Subsidiary Legislation
+This Chapter contains no Subsidiary Legislation.
 CHAPTER 40:56
 ANTI-DOPING IN SPORT ACT
 ARRANGEMENT OF SECTIONS
@@ -31,7 +31,7 @@ APPEAL PANEL
 31. Establishment of the Appeal Panel. 32. Composition and appointment of the Appeal Panel. 33. Functions of the Appeal Panel. 34. Powers of the Appeal Panel.
 PART VI
 MISCELLANEOUS
-35. Conflict of interest. 36. Confidentiality. 37. Sanctions against national governing bodies. 38. Regulations
+35. Conflict of interest. 36. Confidentiality. 37. Sanctions against national governing bodies. 38. Regulations.
 
 CHAPTER 40:56
 ANTI-DOPING IN SPORT ACT
