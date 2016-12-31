@@ -3,8 +3,22 @@ CHAPTER 1:02
 Act
 36 of 1966
 Amended by
-38 of 1968 96/1984 28 of 1972 171/1985 17 of 1973 189/1985 7 of 1976 3 of 1986 23 of 1976 22/2011 49 of 1976 151/2011 11 of 1977 204/2011 22 of 1977 83/2013 45 of 1979 224/2014 *4 of 1980 259/2014 1 of 1983 295/2014
-*See Note on page 2
+38 of 1968 171/1985 28 of 1972 189/1985 17 of 1973 3 of 1986 7 of 1976 22/2011
+23 of 1976
+151/2011
+49 of 1976
+204/2011
+11 of 1977
+83/2013
+22 of 1977
+224/2014
+45 of 1979
+259/2014
+*4 of 1980
+295/2014
+1 of 1983
+58/2016
+96/1984 *See Note on page 2
 Index of Subsidiary Legislation
 Page Auditor General (Allowances) Order (LN 171/1985) … … … 10
 Note on Consolidation
