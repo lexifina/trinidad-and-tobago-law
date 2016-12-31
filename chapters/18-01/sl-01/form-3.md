@@ -27,13 +27,11 @@ FORM 3-Continued
 Position Duration of Held Employment
 18. Place/places of residence during the last ten (10) years preceding the application giving
 dates of such residence in each country- ... 19. Particulars of income assured while employed in Trinidad and Tobago, (state salary,
-commission, perquisites and other benefits)- ...
-[Regulation * 20. SCHOOLS/UNIVERSITIES ATTENDED:
-32(2)(f)].
-Degrees/Diplomas Dates Certificates obtained Dates
+commission, perquisites and other benefits)- ... 20. SCHOOLS/UNIVERSITIES ATTENDED:
+Degrees/Diplomas Dates Certificates obtained
 Institution
-(documentary proof Awarded
-From To required)
+(documentary proof
+From To
 (1) Secondary/High School
 (2) University
 (3) Other Courses
@@ -41,9 +39,6 @@ From To required)
 financial circumstances with documentary support and business references: ... 22. Has the prospective employee ever been deported or required to leave any other country?
 ... 23. State offences (other than traffic offences) of which applicant has been convicted, if any,
 and give the date of conviction in each case. I, ... hereby declare that the foregoing particulars are true and correct.
-...
-Signature of Employee
-Date ...
 24. Capital formation of company including-
 (a) percentage of capital owned by Nationals of Trinidad and Tobago ...
 (b) percentage of capital owned by Non-Nationals of Trinidad and Tobago who are
@@ -64,6 +59,11 @@ and Tobago daily newspapers and in newspapers in foreign countries where there a
 - Margin: Regulation 10(3).
 - Margin: of Issue
 - Margin: Reason for Employer's Employer Termination Address
+- Margin: *Regulation 32(2)(f).
+- Margin: Dates Awarded required)
+- Margin: ...
+- Margin: Signature of Employee
+- Margin: Date ...
 - Margin: positions-
 - Margin: Date Names To From
 - Margin: Senior Technical positions-

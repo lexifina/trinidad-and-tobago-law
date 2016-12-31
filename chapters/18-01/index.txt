@@ -108,6 +108,7 @@ sl-01/r-51.md
 sl-01/r-52.md
 sl-01/r-53.md
 sl-01/r-53A.md
+sl-01/r-53B.md
 sl-01/r-54.md
 sl-01/r-55.md
 sl-01/r-56.md
@@ -166,7 +167,6 @@ sl-01/form-45.md
 sl-01/form-46.md
 sl-01/form-47.md
 sl-01/form-48.md
-sl-01/form-49.md
 sl-01/form-50.md
 sl-01/form-51.md
 sl-01/form-52.md

@@ -20,7 +20,7 @@ Answer Yes or No
 5. Is there any sick person on board now? Insert particulars in Schedule hereto*. If more than six weeks have elapsed since the voyage begun, it will suffice to give particulars for the last six weeks... * Regulation 32(2) (f) has been deleted by LN 112/1978. See the Second Schedule to the Quarantine (Maritime) Regulations (Ch. 28:05-Sub. Leg.).
 FORM 4-Continued
 NOTE-In the absence of a surgeon, the master should regard the following symptoms as ground for suspecting the existence of infectious disease; fever accompanied by prostration or persisting for several days, or attended with glandular swellings, or any acute skin rash or eruption with or without fever; severe diarrhoea or diarrhoea symptoms of collapse; jaundice accompanied by fever.
-6. Are you aware of any other condition on Board which may lead to infection
+6. Are you aware of any other condition on Board which may lead to infection or the spread
 I hereby declare that the particulars and answers to the questions given in the Declaration of Health (including the Schedule) are true and correct to the best of my knowledge and belief.
 (Sgd.) ...
 Date ... Countersigned ...
@@ -49,8 +49,8 @@ AGE
 *STATE WHETHER RECOVERED; STILL ILL; DIED.
 CLASS OF RATING
 NAME
-- Margin: *[Regulation 32(2)(f)].
-- Margin: or the spread of infectious disease? ...
+- Margin: *Regulation 32(2)(f).
+- Margin: of infectious disease? ...
 - Margin: Master
 - Margin: foregoing pages.
 - Margin: to 232 British edition)].
