@@ -241,7 +241,7 @@ the above aircraft.
 Laden on* Cargo
 Unladen from* Stores Mail
 Signature
-Pilot-in-Command or Authorised Agent
+Pilot in Command or Authorised Agent
 * Delete as necessary.
 FORM C 6
 CUSTOMS
@@ -405,8 +405,7 @@ NET
 MARKS
 SHIP'S NAME DATE OF REPORT.
 AND CORRECT.
-} LADING
-BILL OF
+LADING BILL OF }
 NO.
 MOTOR
 FORM C 17
@@ -705,8 +704,7 @@ To the Officer-in-Charge, King's Warehouse,
 Port of
 I certify that the above packages have been received without loss or diminution and duly re-warehoused-Rot ... Register ... Folio ...Vide Entry No...[Copy attached].
 Officer-in-Charge,
-Warehouse Dated ..., 20... Port of ...
-* To be printed on reverse side.
+Warehouse Dated ..., 20... Port of ... * To be printed on reverse side.
 FORM C 42
 CUSTOMS
 REPUBLIC OF TRINIDAD AND TOBAGO
@@ -774,7 +772,7 @@ On Saturdays, Sundays and public holidays-From 6.00 a.m. to 6.00 p.m.
 for Comptroller of Customs and Excise Date ..., 20...
 ENDORSEMENTS†
 CLEARED ENTERED
-Date
+Officer Officer Date Hour Station Date Hour Station
 *Issuing Officer to delete and initial words not required. †To be printed on reverse side.
 FORM C 46
 CUSTOMS
@@ -857,7 +855,7 @@ REPUBLIC OF TRINIDAD AND TOBAGO
 DROGHER'S LICENCE (LICENCE TO NAVIGATE
 COASTWISE)
 No...,
-Licence is hereby granted to the ..., ...tonnes, ... Master owned by ... , to trade coastwise, from this date until the thirty-first day of December, 20..., subject to the law regulating the coastwise trade of Trinidad and Tobago. Dated ...,20...
+Licence is hereby granted to the ..., ...tonnes, ... Master owned by ... , to trade coastwise, from this date until the thirty-first day of December, 20..., subject to the law regulating the coastwise trade of Trinidad and Tobago. Dated ..., 20...
 for Comptroller of Customs and Excise
 TO DISCHARGE PERMISSION
 OF OFFICER SIGNATURE
@@ -1134,8 +1132,7 @@ CUSTOMS
 REPUBLIC OF TRINIDAD AND TOBAGO
 AUCTIONEER'S BOND
 Know all men by these presents that we ..., of ..., and ..., of ..., are held and firmly bound unto the State in the sum of ... dollars to be paid to the State for which payment we hereby bind ourselves, our heirs, executors, administrators, and successors, each of us and each of them jointly and severally.
-Dated this ... day of ..., in the year of Our Lord Two Thousand and ... Whereas the regulations made under the Customs Act provide that before an Auctioneer is entrusted with the sale of goods by auction under the Customs laws he
-} shall first have entered into a bond in a sum to be fixed by the Comptroller of Customs and Excise (hereinafter called "the Comptroller"):
+Dated this ... day of ..., in the year of Our Lord Two Thousand and ... Whereas the regulations made under the Customs Act provide that before an Auctioneer is entrusted with the sale of goods by auction under the Customs laws he } shall first have entered into a bond in a sum to be fixed by the Comptroller of Customs and Excise (hereinafter called "the Comptroller"):
 And whereas the said ... having been employed by the Comptroller to sell or dispose from time to time by public auction of goods under the Customs laws and to account to the Comptroller for the proceeds of such sales is required to give such security by bond in the sum of ... dollars:
 Now the condition of this obligation is such that if the said ... at all times during his employment as auctioneer well and sufficiently performs all the duties required of him as auctioneer in respect of the receipt and payment of money on behalf of the Comptroller and duly accounts for the same, this obligation shall be void, but otherwise shall continue in full force.
 Signed and delivered by the above bounden in the presence of
@@ -1267,7 +1264,7 @@ NOTES
 (c) a director or the secretary in the case of an incorporated company;
 (d) any employee duly authorised in writing by one of the above-mentioned persons.
 (2) "Distributor" and "concessionaire" mean an importer who has an oral or written agreement
-with the seller by which direct supplies of goods to other importers in Trinidad and Tobago
+with the seller by which direct supplies of goods to other importers in Trinidad and Tobago are restricted or refused.
 FORM C 75-Continued
 (3) Two persons are deemed to be associated in business with one another if, whether directly
 or indirectly, either of them has any interest in the business or property of the other, or both have a common interest in any business or property, or some third person has an interest in the business or property of both of them [section 23(3) of Customs Act, Ch. 78:01].
@@ -1409,7 +1406,7 @@ Item
 Item
 ...
 Signature of Declarant/Representative
-FORM C 85 (Schedule 1). [72/1993].
+FORM C 85 Schedule 1. [72/1993].
 CUSTOMS
 REPUBLIC OF TRINIDAD AND TOBAGO Customs and Excise Division
 STATEMENT OF WAREHOUSE RENT
@@ -1534,8 +1531,8 @@ Customs and Excise in relation to the security of a unique identifier allocated 
 in person using proper ID. I have read and agreed to all Terms and Conditions of Use. I certify that all statements I have made in this application are true, correct and complete.
 Company Seal/Stamp Signature ... National I.D. Number ... Name (In Block Letters) ... Date... Position...
 - Margin: Regulation 3. [72/1993 60/2007 133/2011 5/2014].
-- Margin: REGULATION 9. NOTE: SINCE THE 1950 EDITION, THESE FORMS HAVE BEEN AMENDED BY THE FOLLOWING:-GN 152/1951, 11/1952, 111/1952, 197/1955, 15/1956, 180/1956,
-- Margin: 199/1968, 181/1970, 96/1972, 132/1973, 168/1977, 60/2007 AND 265/2007.
+- Margin: REGULATION 9. NOTE: SINCE THE 1950 EDITION, THESE FORMS HAVE BEEN AMENDED BY THE FOLLOWING:-GNS 152/1951, 11/1952, 111/1952, 197/1955, 15/1956, 180/1956,
+- Margin: 199/1968, 181/1970, 96/1972, 132/1973, 168/1977; LNS 60/2007 AND 265/2007.
 - Margin: Regulation 9.
 - Margin: †WHEN MORE FORMS THAN ONE ARE REQUIRED THEY SHOULD BE FASTENED TOGETHER AND NUMBERED CONSECUTIVELY, AND THE MASTER'S CERTIFICATE NEED ONLY BE GIVEN ON SIGNED ...
 - Margin: MASTER.
@@ -1584,7 +1581,7 @@ Company Seal/Stamp Signature ... National I.D. Number ... Name (In Block Letters
 - Margin: OR WITH THE PERMISSION OF THE COMPTROLLER OF CUSTOMS AND EXCISE), AND TOBACCO, THE PRODUCE OF TRINIDAD AND TOBAGO, ACCOMPANIED BY A PERMIT GRANTED NOTE.- TOBACCO, CIGARS, CIGARETTES, WINES AND SPIRITS, (EXCEPT SPIRITS, THE PRODUCE OF TRINIDAD AND TOBAGO, REMOVED UNDER THE PROVISIONS OF THE EXCISE LAW BY AN AUTHORISED OFFICER, MAY NOT BE SHIPPED FOR CARRIAGE COASTWISE EXCEPT AT AN APPROVED PLACE OF LOADING AND IN THE PRESENCE AND WITH THE REGULATION 28
 - Margin: AUTHORISATION OF THE PROPER OFFICER OF CUSTOMS.
 - Margin: Section 179, Regulation 212.
-- Margin: Regulations, 49, 164.
+- Margin: Regulations 49, 164.
 - Margin: Regulations 49, 70.
 - Margin: Regulations 49, 50.
 - Margin: Regulations 196, 212.
@@ -1604,12 +1601,12 @@ Company Seal/Stamp Signature ... National I.D. Number ... Name (In Block Letters
 - Margin: Regulation 212.
 - Margin: Regulation 106.
 - Margin: Regulations 37, 212. [72/1993 34 of 1996 27/2011].
-- Margin: are restricted or refused.
 - Margin: royalty or licence fees; tooling or design costs;
 - Margin: inspection fees.
 - Margin: packing;
 - Margin: freight; insurance premium(s);
 - Margin: Foreign duties or taxes.
+- Margin: Regulations 37, 212. [133/2011].
 - Margin: Regulations 37, 212. [72/1993 34 of 1996 27/2011].
 - Margin: (1) Declarations may be made by-
 - Margin: are restricted or refused.
@@ -1618,10 +1615,14 @@ Company Seal/Stamp Signature ... National I.D. Number ... Name (In Block Letters
 - Margin: packing;
 - Margin: freight; insurance premium(s);
 - Margin: Foreign duties or taxes.
+- Margin: Regulations 37, 212. [133/2011].
 - Margin: Regulation 201.
 - Margin: Regulations 204, 208.
 - Margin: Regulations 55, 210. [72/1993].
 - Margin: Regulations 36, (Regulation 36, 111. 111) [72/1993].
+- Margin: (Import/Export)
+- Margin: For Official Use
+- Margin: [133/2011].
 - Margin: Schedule 1. [72/1993].
 - Margin: Schedule 1. [72/1993].
 - Margin: CPC DECLARATION FOR OFFICIAL USE

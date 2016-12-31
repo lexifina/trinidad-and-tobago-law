@@ -23,19 +23,18 @@ radio gramophones (radiograms) for use in the manufacture and/or assembly of rad
 (6) Parts (electrical and non-electrical) for television
 receivers when imparted for use in the manufacture and/or assembly of television receivers in plants approved for the purpose by the Minister of Industry and Enterprise... 0%
 (7) Parts (electrical and non-eleatrical) for stoves and ranges
-(electric) household cooking and heating appliances (e.g.
+(electric) household cooking and heating appliances (e.g.,
 hot plates, toasters, irons, sun lamps, etc.) for use in the manufacture and/or assembly of stoves and ranges (electric) household cooking and heating appliances (e.g. hot plates, toasters, irons and sun lamps, etc.) in plants approved for the purpose by the Minister of Industry and Enterprise... 0%
-(8) Motor cars (not exceeding 1360 kg in weight) completely
-knocked down for assembly in plants approved for the purpose by the Minister of Industry and Enterprise ... 0%
-(9) Motor cars (exceeding 1360 kg in weight) completely
+(8) Motor cars (not exceeding 1 360 kg in weight)
+completely knocked down for assembly in plants approved for the purpose by the Minister of Industry and Enterprise... 0%
+(9) Motor cars (exceeding 1 360 kg in weight) completely
 knocked down for assembly in plants approved for the purpose by the Minister of Industry and Enterprise ... 0%
 (10) Buses, trucks, lorries, station wagons or estate cars and road
 motor vehicles packed completely knocked down for assembly in plants approved for the purpose by the Minister of Industry and Enterprise (excluding motor cycles)... 0%
 (11) Parts (electrical and non-electrical) for domestic refrigerators
-when imported for use in the manufacture and/or assembly of domestic refrigerators in plants approved for the purpose
-0% by the Minister of Industry and Enterprise... LISTS OF IMPORTATIONS WHICH ARE ALLOWED CONDITIONAL
+when imported for use in the manufacture and/or assembly of domestic refrigerators in plants approved for the purpose by the Minister of Industry and Enterprise... 0% LISTS OF IMPORTATIONS WHICH ARE ALLOWED CONDITIONAL
 REDUCED RATES OF DUTY, UNDER SECTION 56A OF THE
-CUSTOMS ACT -Continued
+CUSTOMS ACT-Continued
 Rate
 Item
 Class or Description of Goods of
