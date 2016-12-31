@@ -1,5 +1,5 @@
 # FORM G
-THE LAND ACQUISITION ACT
+THE LAND ACQUISITION ACT, CH. 58:01
 NOTICE REQUIRING INFORMATION OF INTEREST IN
 LAND ACQUIRED OR LIKELY TO BE ACQUIRED
 I do hereby require you ... a person interested in all or any part of the parcel of land comprising ... situate in the Ward of ... in the County of ... and bounded as follows:
@@ -8,6 +8,5 @@ Should you refuse to make or deliver such statement or wilfully make any stateme
 Dated this ... day of ... 20...
 ...
 Commissioner of State Lands
-Land Acquisition (Prescribed Forms) Regulations
-- Margin: [Section 7(1)].
+- Margin: Section 7(1).
 - Margin: [Subsidiary]

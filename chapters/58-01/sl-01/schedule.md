@@ -1,2 +1,2 @@
 # SCHEDULE
-- Margin: [Section 3(1)].
+- Margin: Section 3(1).

@@ -1,14 +1,15 @@
 LAND ACQUISITION ACT
 CHAPTER 58:01
 Act
-28 of 1994 Amended by 15 of 2000* 73 of 2000
+28 of 1994 Amended by *15 of 2000 73 of 2000 170/2016
 *See Note on page 2
 Index of Subsidiary Legislation
 Page Land Acquisition (Prescribed Forms) Regulations (LN 131/1996) … … 41
 Note on Omissions of Subsidiary Legislation
 The following Subsidiary Legislation have been omitted:
 (a) Notices made under section 3 (i.e. Land likely to be acquired for a public purpose).
-(b) Orders made under section 4 (i.e. Possession of land prior to formal vesting in the State).
+(b) Orders made under section 4 (i.e. Possession of land prior to formal vesting in the
+State).
 (c) Requisition Orders made under section 5(1).
 (d) Declaration of Acquisition Orders made under section 5(3).
 (e) Notices of Completion made under section 5(9).
@@ -21,7 +22,8 @@ Note on section 8 of the Act
 Act No. 73 of 2000 amended section 8 of the Act by inserting after subsection (3) a new subsection (4). Since section 8 already contains a subsection (4), this new subsection (4) was renumbered as subsection (5) and was inserted after the existing subsection (4).
 CHAPTER 58:01
 LAND ACQUISITION ACT
-ARRANGEMENT OF SECTIONS SECTION
+ARRANGEMENT OF SECTIONS
+SECTION
 1. Short title.
 PART I
 PRELIMINARY
@@ -30,11 +32,11 @@ PART II
 ACQUISITION OF LAND
 3. Preliminary entry and survey. 4. Possession prior to formal vesting. 5. Declaration of acquisition.
 5A. Notice to the Registrar General.
-6. Notice of acquisition. 7. Notice requiring information. 8. Abandonment of acquisition. 9. Deemed abandonment.
-10. Acquisition in special cases.
+6. Notice of acquisition. 7. Notice requiring information. 8. Abandonment of acquisition. 9. Deemed abandonment. 10. Acquisition in special cases.
 PART III
 COMPENSATION
-11. Determination of disputes. 12. Rules of assessment. 13. Change in value disregarded. 14. Contiguous or adjacent land. 15. Subsequent acquisition. 16. Depreciation. 17. Severance. 18. Injurious affection by works. 19. Acquisition under special powers. 20. Interest. 21. Payment of compensation. 22. Advance payment. 23. Limitation. 24. Compensation in cases of disability or incapacity. 25. Rules for awarding costs.
+11. Determination of disputes.
+12. Rules of assessment. 13. Change in value disregarded. 14. Contiguous or adjacent land. 15. Subsequent acquisition. 16. Depreciation. 17. Severance. 18. Injurious affection by works. 19. Acquisition under special powers. 20. Interest. 21. Payment of compensation. 22. Advance payment. 23. Limitation. 24. Compensation in cases of disability or incapacity. 25. Rules for awarding costs.
 ARRANGEMENT OF SECTIONS-Continued SECTION
 PART IV
 ASSESSORS
