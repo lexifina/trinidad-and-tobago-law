@@ -3,16 +3,27 @@ CHAPTER 75:02
 Act
 29 of 1966*
 Amended by
-2/1968 12/1988 9 of 1997 14 of 1968 33/1988 35 of 1998 5 of 1969 6 of 1989 37 of 2000 13 of 1969 18 of 1989 39 of 2000 32 of 1969 94/1989 50 of 2000 46 of 1969 9 of 1990
-91 of 2000 5 of 1970 6 of 1991
-203/2001 35 of 1971 65/1991
-2 of 2002 22 of 1974 4 of 1992
-5 of 2004 30 of 1974 137/1992
-*21 of 2005 14 of 1976 6 of 1993
-207/2005 1 of 1979 22 of 1993
-2 of 2006 203/1979 3 of 1994
-17 of 2007 22 of 1980 14 of 1994
-30 of 2007 11 of 1984 22 of 1994 13 of 2010 *14 of 1987 24 of 1994 2 of 2012 50/1987 4 of 1995 2 of 2013 3 of 1988 5 of 1995 11 of 1988 8 of 1996 4 of 2014
+50 of 2000 6 of 1989 2/1968
+18 of 1989 14 of 1968 91 of 2000
+94/1989 5 of 1969
+203/2001
+9 of 1990 13 of 1969
+2 of 2002 6 of 1991 32 of 1969 5 of 2004 65/1991 46 of 1969
+4 of 1992 5 of 1970 *21 of 2005 35 of 1971 137/1992
+207/2005
+6 of 1993 22 of 1974
+2 of 2006 22 of 1993 30 of 1974 17 of 2007 14 of 1976 3 of 1994
+14 of 1994 1 of 1979 30 of 2007
+22 of 1994 203/1979
+13 of 2010 22 of 1980 24 of 1994
+2 of 2012 4 of 1995 11 of 1984
+5 of 1995 2 of 2013 *14 of 1987
+50/1987 8 of 1996 4 of 2014
+9 of 1997 3 of 1988
+*1 of 2016
+35 of 1998 11 of 1988
+7 of 2016 37 of 2000 12/1988
+39 of 2000 *10 of 2016 33/1988
 *See Note on page 2
 Note on Subsidiary Legislation
 This Chapter contains no subsidiary legislation.
@@ -30,6 +41,10 @@ Note on Act No. 14 of 1987
 See Part III of Act No. 14 of 1987 which amends this Act by implication.
 Note on Act No. 21 of 2005
 See section 8 of Act No. 21 of 2005 for validation of acts done by the Board.
+Note on Act No. 1 of 2016
+Amendments made to section 3A by Act No. 1 of 2016 took effect from 21st January 2016.
+Note on Act No. 10 of 2016
+Amendments made to the First Schedule by Act No. 10 of 2016 took effect from 1st January 2017.
 CHAPTER 75:02
 CORPORATION TAX ACT
 ARRANGEMENT OF SECTIONS SECTION
@@ -52,7 +67,7 @@ COMPUTATION OF PROFITS
 7. General rules for computation of income. 8. to (Repealed by Act No. 2 of 2002). 9. 10. Deductions and additions in computations of profits for capital
 allowances and related charges.
 10A. (Repealed by Act No. 6 of 1989). 10B. Promotional expenses. 10C. (Repealed by Act No. 2 of 2006). 10D. Deductions of contributions to catastrophe reserve fund. 10E. Expenses incurred in respect of training. 10F. Bonds, notes, debentures, other debt securities. 10G. Art and culture allowance.
-ARRANGEMENT OF SECTIONS
+ARRANGEMENT OF SECTIONS-Continued
 SECTION
 10H. Scholarship allowance. 10I. Deduction of expenditure by promoters or sponsors of sporting
 activities and sportsmen.
@@ -82,7 +97,7 @@ MISCELLANEOUS AND GENERAL
 PART II
 MISCELLANEOUS
 26. General as to exemption.
-FIRST SCHEDULE- RATE OF CORPORATION TAX. SECOND SCHEDULE-(REPEALED BY ACT NO. 2 OF 2002). THIRD SCHEDULE-CLOSE COMPANIES. FOURTH SCHEDULE-INSURANCE, SHIPPING AND AIR
+FIRST SCHEDULE-RATE OF CORPORATION TAX. SECOND SCHEDULE-(REPEALED BY ACT NO. 2 OF 2002). THIRD SCHEDULE-CLOSE COMPANIES. FOURTH SCHEDULE-INSURANCE, SHIPPING AND AIR
 NAVIGATION COMPANIES. FIFTH SCHEDULE-EXEMPTIONS. SIXTH SCHEDULE-COUNTRIES IN RESPECT OF WHICH EXPENSES
 AND GRANTS MAY NOT BE CLAIMED.
 
