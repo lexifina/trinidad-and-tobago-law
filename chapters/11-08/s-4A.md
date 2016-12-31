@@ -8,11 +8,9 @@
 (a) that at the time of the alleged offence he was
 insane so as not to be responsible according to law for his actions; or
 (b) that at that time he was suffering from such
-abnormality of mind as is specified in subsection (1),
-the Court shall allow the prosecution to adduce or elicit evidence tending to prove the other of those contentions, and may give directions as to the stage of the proceedings at which the prosecution may adduce such evidence.
-(6) Where on a trial for murder-
+abnormality of mind as is specified in subsection (1), the Court shall allow the prosecution to adduce or elicit evidence tending to prove the other of those contentions, and may give directions as to the stage of the proceedings at which the prosecution may adduce such evidence.
+*(6) Where on a trial for murder-
 (a) evidence is given that the accused was at the
 time of the alleged offence suffering from such abnormality of mind as is specified in subsection (1); and
-(b) the accused is convicted of manslaughter,
-the Court shall require the jury to declare whether the accused was so convicted by them on the ground of such abnormality of mind and, if the jury declare that the conviction was on that ground, the Court may, instead of passing such sentence as is provided by law for that offence, direct the finding of the jury to be recorded, and thereupon the Court may order such person to be detained in safe custody, in such place and manner as the Court thinks fit until the President's pleasure is known.
-(7) The Court shall as soon as practicable, report the finding of the jury and the detention of the person to the President who shall order the person to be dealt with as a mentally ill person in accordance with the laws governing the care and treatment of such persons or in any other manner he may think necessary.
+(b) the accused is convicted of manslaughter, the Court shall require the jury to declare whether the accused was so convicted by them on the ground of such abnormality of mind and, if the jury declare that the conviction was on that ground, the Court may, instead of passing such sentence as is provided by law for that offence, direct the finding of the jury to be recorded, and thereupon the Court may order such person to be detained in safe custody, in such place and manner as the Court thinks fit until the Court's pleasure is known.
+*See Note on page 2.

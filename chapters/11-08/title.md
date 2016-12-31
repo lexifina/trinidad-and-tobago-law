@@ -11,6 +11,8 @@ This Act has been amended by the Offences Against the Person (Amendment) Act 200
 Act No. 90 of 2000 has been appended to this Act as an Appendix.
 Note on Act No. 11 of 2005
 The amendments effected by Act No. 11 of 2005 were brought into operation on 30th June 2008, by LN No. 113/2008.
+Note on Section 4A
+Section 4A(6) has been revised and section 4A(7) has been deleted to give effect to the decision of the High Court in the case of Gilbert Evelyn and the Attorney General of Trinidad and Tobago. (CV 2007-04514).
 CHAPTER 11:08
 OFFENCES AGAINST THE PERSON ACT
 ARRANGEMENT OF SECTIONS
@@ -43,25 +45,27 @@ ASSAULTS
 27. Obstructing or assaulting a religious official in the discharge of his duties. 28. Assaults on persons saving shipwrecked property. 29. Assault on peace officers, etc. 30. Assault occasioning bodily harm.
 Common assault.
 HARASSMENT
-30A. Harassment. 30B. Putting a person in fear of violence. 30C. Defence. 30D. Orders for protection and compensation. 30E. Award of compensation. 30F. Further Order.
+30A. Harassment. 30B. Putting a person in fear of violence. 30C. Defence. 30D. Orders for protection and compensation.
+}(Repealed by Act No. 27 of 1986).
+30E. Award of compensation. 30F. Further Order.
 RAPE, ABDUCTION, AND DEFILEMENT
 OF WOMEN, ETC.
-}
-31. to (Repealed by Act No. 27 of 1986). 47. 48. Abduction of girl from parents or guardians. 49. (Repealed by Act No. 27 of 1986). 50. Determination of tenancy of premises on conviction for permitting
+31. to 47. 48. Abduction of girl from parents or guardians. 49. (Repealed by Act No. 27 of 1986). 50. Determination of tenancy of premises on conviction for permitting
 use as brothel, etc. SECTION
-}
-51. to (Repealed by Act No. 27 of 1986). 53.
+51.
+(Repealed by Act No. 27 of 1986). to.
+53.
 CHILD STEALING
 54. Child stealing.
 Fathers taking their illegitimate children.
 BIGAMY
 55. Bigamy.
 ATTEMPTS TO PROCURE ABORTION
-56. Procuring abortion. 57. Procuring drugs, etc., to cause abortion.
-CONCEALING THE BIRTH OF A CHILD
-58. Concealment of birth.
+56. Procuring abortion.
 }
-59. to (Repealed by Act No. 27 of 1986). 61.
+57. Procuring drugs, etc., to cause abortion.
+CONCEALING THE BIRTH OF A CHILD
+58. Concealment of birth. 59. to (Repealed by Act No. 27 of 1986). 61.
 MAKING EXPLOSIVE SUBSTANCE TO COMMIT OFFENCE, AND SEARCHING FOR THE SAME
 62. Making or having explosive substances, with intent to commit
 offence against this Act.
