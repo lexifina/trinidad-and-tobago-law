@@ -5,7 +5,7 @@ Act
 Index of Subsidiary Legislation
 Page Tobacco Control Regulations (LN 6/2014) ... 26
 Note on Commencement-Section 2
-The various sections of this Act came into operation on 17th February 2010 and 5th August 2013. (See Legal Notices Nos. 24/2010 and 154/2013, respectively).
+The various sections of this Act came into operation on 17th February 2010 and 5th August 2013 (See Legal Notices Nos. 24/2010 and 154/2013, respectively).
 CHAPTER 30:04
 TOBACCO CONTROL ACT
 ARRANGEMENT OF SECTIONS

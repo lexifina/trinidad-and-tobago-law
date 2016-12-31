@@ -11,4 +11,4 @@ shopping malls
 (h) pool and bingo halls
 (i) publicly owned facilities rented out for events
 (j) any other facilities that are accessible to the public.
-- Margin: Section 12.
+- Margin: Section 12(1).
