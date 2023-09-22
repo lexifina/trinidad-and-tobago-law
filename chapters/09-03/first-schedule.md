@@ -10,8 +10,8 @@ APPLICATIONS
 2. Such applications shall be made through an Attorney-at-law and shall not be received by letter nor through the medium of an agent. Applications shall not be accepted at the registry unless they bear the signature of the Attorney-at-law who prepared the same: Provided that in applications coming within the provisions of rule 5, the Registrar or Sub-Registrar, to whom application is made, shall prepare the necessary papers to lead to a grant of probate or administration, without the payment of any fees other than those mentioned in the said rule.
 3. (1) Applications for probate shall be in writing and there shall be filed together therewith-
 (a) an affidavit by the applicant in support of the said application;
-(b) an affidavit by the persons attesting, or one of them, exhibiting
-the Will and stating in effect that the requirements of the Act as regards its execution have been complied with;
+(b) an affidavit by the persons attesting, or one of them,
+exhibiting the Will and stating in effect that the requirements of the Act as regards its execution have been complied with;
 (c) a certificate of death or burial of the deceased, or a statement
 in writing to the satisfaction of the Registrar for the non-production thereof;
 (d) an inventory of the particulars of the estate of the deceased,
@@ -25,7 +25,7 @@ Estate and Succession Duties Act, or the certificate mentioned in subsection (2)
 (3) The application, affidavits and the inventory shall be in the respective forms appearing in the Appendix hereto with such variations as the case may require.
 4. (1) Applications for administration shall be in writing and there shall be filed together therewith an affidavit by the applicant in support of the said application in which he shall depose that the deceased left no Will (or, as the case may be, exhibiting any last Will of the deceased which the applicant desires to have annexed to such administration) and showing the relationship or other circumstances alleged as entitling the applicant to such administration.
 (2) The provisions of rule 3 shall apply to applications for administration except paragraph (1)(a) and (b).
-5. (1) When any person shall die possessed of or entitled to estate the value of which does not exceed the sum of four thousand eight hundred dollars, and application has been made for a grant of administration thereto by any person being husband, wife, child, descendant, father, mother, brother or sister or issue of a brother or sister of the deceased or for a grant of probate by an executor, the following provisions shall apply:
+5. (1) When any person shall die possessed of or entitled to estate the value of which does not exceed the sum of four thousand, eight hundred dollars, and application has been made for a grant of administration thereto by any person being husband, wife, child, descendant, father, mother, brother or sister or issue of a brother or sister of the deceased or for a grant of probate by an executor, the following provisions shall apply:
 (a) On receipt of the application the Registrar shall make such
 enquiries into the facts stated therein as he shall think fit and shall report the same in writing to the Court.
 (b) The Court may, if satisfied therewith, grant administration or
@@ -72,14 +72,21 @@ LIMITED AND SPECIAL ADMINISTRATION
 GRANTS TO AN ATTORNEY
 28. In the case of a person residing out of Trinidad and Tobago, administration may be granted to his attorney, acting under a power of attorney, registered in the office of the Registrar General. A certified copy of such power of attorney shall be filed with the application.
 GRANTS TO GUARDIAN
-29. Grants of administration may be made to guardians of minors and infants for their use and benefit, and elections by minors of their next of kin or next friend, as the case may be, will be required.
-30. In all cases of infants under the age of fourteen years not having a testamentary guardian, or guardian appointed by the Court, the guardian shall be appointed by the order of the Court. For the purpose of obtaining such appointment, an affidavit shall be filed showing that the proposed guardian is either de facto next of kin of the infants, or that their next of kin de facto has renounced his right to the guardianship, and is consenting to the assignment of the proposed guardian, and that such proposed guardian is ready to undertake the proposed guardianship.
-31. Where there are both minors and infants, the guardian elected by the minors may act for the infants without being specially assigned to them by order of the Court, provided that the object in view is to take a grant. If the object be to renounce a grant, the guardian shall be specially assigned to the infants by order of the Court.
+29. Grants of administration may be made to guardians of minors and Minors and
+infants. infants for their use and benefit, and elections by minors of their next of kin or next friend, as the case may be, will be required.
+30. In all cases of infants under the age of fourteen years not having Appointment of
+guardians. a testamentary guardian, or guardian appointed by the Court, the guardian shall be appointed by the order of the Court. For the purpose of obtaining such appointment, an affidavit shall be filed showing that the proposed guardian is either de facto next of kin of the infants, or that their next of kin de facto has renounced his right to the guardianship, and is consenting to the assignment of the proposed guardian, and that such proposed guardian is ready to undertake the proposed guardianship.
+31. Where there are both minors and infants, the guardian elected by the Guardian of
+minor may act minors may act for the infants without being specially assigned to them by
+for infant. order of the Court, provided that the object in view is to take a grant. If the object be to renounce a grant, the guardian shall be specially assigned to the infants by order of the Court.
 ADMINISTRATOR'S OATH
-32. The oath of an administrator is to be so worded as to clear off all persons having a prior right to the grant, and the grant is to show on the face of it how the prior interests have been cleared off, and the oath is to set forth, when the fact is so, that the party applying is the only next of kin or one of the next of kin of the deceased. In all administrations of a special character the recitals in the oath and in the letters of administration must be framed in accordance with the facts of the case.
+32. The oath of an administrator is to be so worded as to clear off all Contents of
+oath. persons having a prior right to the grant, and the grant is to show on the face of it how the prior interests have been cleared off, and the oath is to set forth, when the fact is so, that the party applying is the only next of kin or one of the next of kin of the deceased. In all administrations of a special character the recitals in the oath and in the letters of administration must be framed in accordance with the facts of the case.
 ADMINISTRATION BONDS
-33. Administration bonds are to be attested by an officer in the registry authorised to administer oaths, or by an Attorney-at-law, Justice of the Peace, Notary Public, Revenue Officer or Commissioner of Affidavits. The bond shall be prepared by an Attorney-at-law who shall certify the fact thereon. The bond shall be filed in the Registry, Port-of-Spain.
-34. In all cases of administration, except where the Court otherwise directs, two sureties are to be required to the bond, and the bond shall be given in the same amount as the value of the estate to be placed in the possession of, or dealt with by, the administrator by means of the grant: Provided that the Court may in its discretion order that the bond may be given in such increased amount, not exceeding double the amount of the value of the estate to be placed in the possession of, or dealt with by, the administrator by means of the grant, as it may think fit: The bond shall be in such form in use in the Probate Court in England with such variations as are appropriate to the case, or in such other form as in special circumstances of the case the Registrar may direct.
+33. Administration bonds are to be attested by an officer in the registry Preparation and
+attestation of. authorised to administer oaths, or by an Attorney-at-law, Justice of the Peace, Notary Public, Revenue Officer or Commissioner of Affidavits. The bond shall be prepared by an Attorney-at-law who shall certify the fact thereon. The bond shall be filed in the Registry, Port-of-Spain.
+34. In all cases of administration, except where the Court otherwise Amount of bond
+and sureties. directs, two sureties are to be required to the bond, and the bond shall be given in the same amount as the value of the estate to be placed in the possession of, or dealt with by, the administrator by means of the grant: Provided that the Court may in its discretion order that the bond may be given in such increased amount, not exceeding double the amount of the value of the estate to be placed in the possession of, or dealt with by, the administrator by means of the grant, as it may think fit: The bond shall be in such form in use in the Probate Court in England with such variations as are appropriate to the case, or in such other form as in special circumstances of the case the Registrar may direct.
 35. The Registrar is to take care (as far as possible) that the sureties to administration bonds are responsible persons, and except where the Registrar otherwise directs, the sureties to the administration bond must justify.
 RENUNCIATION
 36. Renunciation shall be in such of the forms set out in the Appendix hereto or as nearly thereto as may be applicable to the case.
@@ -91,15 +98,19 @@ ADVERTISEMENT
 40. Application for probate or administration shall be advertised in the form in the Appendix hereto, and shall be inserted once a week for not less than two weeks in one of the local daily newspapers and once in the Gazette. From the date of the first advertisement three weeks shall elapse before any application is submitted to the Court, except where the Administrator General on behalf of the State is the applicant in which case the grant may issue at such time as seems fit to the Court.
 41. If no caveat shall have been entered in the sub-registry at which application has been made, the Sub-Registrar shall forward the application and other documents and a report by him to the Registrar.
 CAVEATS, WARNINGS AND CITATIONS
-42. Any person intending to oppose a grant of probate or administration shall, either personally or by his Attorney-at-law, enter a caveat in the registry: Provided, however, that if the application for a grant has been made in a sub-registry the caveat shall be entered there and all subsequent proceedings consequential upon such caveat shall be conducted in such sub-registry.
-43. The Registrar or Sub-Registrar shall note the caveat in the Caveat Book, and notify the Attorney-at-law of the applicant of the fact that a caveat has been entered.
-44. A caveat may be in the form set out in the Appendix hereto, but any written document signed by the party objecting or by an Attorney-at-law on his behalf shall be sufficient.
-45. A caveat shall bear date on the day it is entered, and shall remain in force for the space of six months only, and then expire and be of no effect; but caveats may be renewed from time to time.
-46. A caveat may be entered at any time subsequent to the application for a grant of probate or administration and prior to the issue of the grant.
-47. No grant shall be issued at any time if the Registrar has knowledge of an effective caveat.
-48. The warning to a caveat is to be left at the place mentioned in the caveat as the address of the person who entered it and may be served by the person requiring such issue; but it shall be sufficient for the warning of a caveat that the Registrar or Sub-Registrar send by post a warning directed to the person who entered the caveat at the address mentioned in it.
-49. The warning to a caveat is to state the name and interest of the party on whose behalf the same is issued, and if such party claims under a Will is also to state the date of such Will, and is to contain an address, within three miles of the registry or sub-registry at which any notice requiring service may be left. The warning shall be in the form set out in the Appendix hereto and shall be prepared by the Attorney-at-law issuing the same and signed by the Registrar or Sub-Registrar.
-50. Before any citation is signed a caveat shall be entered against any grant being made in respect of the estate and effects of the deceased to which such citation relates.
+42. Any person intending to oppose a grant of probate or administration Where entered. shall, either personally or by his Attorney-at-law, enter a caveat in the registry: Provided, however, that if the application for a grant has been made in a sub-registry the caveat shall be entered there and all subsequent proceedings consequential upon such caveat shall be conducted in such sub-registry.
+43. The Registrar or Sub-Registrar shall note the caveat in the Caveat Notice of
+caveat. Book, and notify the Attorney-at-law of the applicant of the fact that a caveat has been entered.
+44. A caveat may be in the form set out in the Appendix hereto, but any Form. written document signed by the party objecting or by an Attorney-at-law on his behalf shall be sufficient.
+45. A caveat shall bear date on the day it is entered, and shall remain in Expiry of
+caveat. force for the space of six months only, and then expire and be of no effect; but caveats may be renewed from time to time.
+46. A caveat may be entered at any time subsequent to the application Time for entry. for a grant of probate or administration and prior to the issue of the grant.
+Caveats stop 47. No grant shall be issued at any time if the Registrar has knowledge issue of grant. of an effective caveat.
+48. The warning to a caveat is to be left at the place mentioned in the Warning. caveat as the address of the person who entered it and may be served by the person requiring such issue; but it shall be sufficient for the warning of a caveat that the Registrar or Sub-Registrar send by post a warning directed to the person who entered the caveat at the address mentioned in it.
+Form of 49. The warning to a caveat is to state the name and interest of the party warning. on whose behalf the same is issued, and if such party claims under a Will is also to state the date of such Will, and is to contain an address, within three miles of the registry or sub-registry at which any notice requiring service may be left. The warning shall be in the form set out in the Appendix hereto and shall be prepared by the Attorney-at-law issuing the same and signed by the Registrar or Sub-Registrar.
+50. Before any citation is signed a caveat shall be entered against any Caveat to be
+entered before grant being made in respect of the estate and effects of the deceased to which
+citation signed. such citation relates.
 51. In order to clear off a caveat when no appearance has been entered to a warning duly served, an affidavit of the service of the warning, stating the manner of the service and an affidavit of search for appearance or non-appearance shall be filed.
 52. After a caveat has been entered, the Registrar shall not proceed with the grant of probate or administration to which it relates until it has expired or been subducted, or until the caveat has been warned and no appearance entered, or until the contentious proceedings consequent on the caveat have terminated.
 53. No citation is to issue under seal of the Court until an affidavit, in verification of the averments it contains, has been filed in the registry.
@@ -134,9 +145,20 @@ have elapsed since the death of the deceased.
 68. On a grant being resealed, the provisions of section 76 of the Act shall apply.
 MISCELLANEOUS
 69. The Registrar shall not permit testamentary papers and other documents once deposited in the Registry to be removed or taken out therefrom, unless under special circumstances pending probate.
-70. Legal advice is not to be given to applicants by officials in the registry, either with respect to the property to be included in the particulars of the estate or upon any other matter connected with the application, and the clerks in the department are only to be held responsible for embodying in a proper form the instructions given to them under rule 2 but they will as far as practicable assist applicants by giving them information and directions as to the course they must pursue.
+70. Legal advice is not to be given to applicants by officials in the Registry, either with respect to the property to be included in the particulars of the estate or upon any other matter connected with the application, and the clerks in the department are only to be held responsible for embodying in a proper form the instructions given to them under rule 2 but they will as far as practicable assist applicants by giving them information and directions as to the course they must pursue.
 71. The forms in the Appendix hereto or forms to the like effect shall be used with such modifications as circumstances shall require; no notice or application or other document shall be deemed void for want of conformity with any form, provided that such document is in substantial compliance with the requirements of the Act and of these rules, and the Registrar may in default of such substantial compliance return such document to the person tendering the same for such further entries or amendments as he may deem necessary.
-- Margin: (Section 24). [1/1959 16/1984].
+72. (1) The Chief Justice may issue Practice Directions as to the practice and procedure to be followed in the submission of applications under these Rules and in the conduct of business under these Rules generally.
+(2) Practice Directions must be-
+(a) published in the Gazette; and
+(b) displayed and made available at each court office.
+(3) A Practice Direction takes effect from the date of publication in the Gazette unless otherwise specified.
+(4) The Chief Justice may, by Practice Direction, vary, suspend, waive or defer any fee to be taken by the Registrar for applications under these Rules.
+(5) An applicant or his Attorney-at-law must comply with any relevant Practice Direction.
+(6) Where an applicant or his Attorney-at-law fails to comply with any Rule or Practice Direction, the Registrar may by notice require the applicant or Attorney-at-law to do so within forty-two (42) days.
+(7) Where the applicant or his Attorney-at-law fails to comply with subrule (6), the Registrar may strike out the application.
+(8) The applicant or his Attorney-at-law may apply to the Registrar to have the application reinstated and the Registrar may issue fresh directions.
+(9) The application for reinstatement must be made within twenty-eight (28) days of the date of the striking out.
+- Margin: (Section 24). [1/1959 16/1984 139/2021].
 - Margin: Applications where made.
 - Margin: Applications how made.
 - Margin: Procedure for probate.
@@ -169,12 +191,6 @@ MISCELLANEOUS
 - Margin: Procedure to obtain special administration.
 - Margin: General grant precludes limited grant.
 - Margin: Power of attorney to be registered.
-- Margin: Minors and infants.
-- Margin: Appointment of guardians.
-- Margin: Guardian of minor may act for infant.
-- Margin: Contents of oath.
-- Margin: Preparation and attestation of.
-- Margin: Amount of bond and sureties.
 - Margin: Sureties to justify.
 - Margin: Form of renunciation.
 - Margin: Renouncing executor or administrator not to take grant in another character.
@@ -182,15 +198,6 @@ MISCELLANEOUS
 - Margin: Documents to be legible.
 - Margin: Period of advertisement.
 - Margin: Procedure where no caveat entered in sub-registry.
-- Margin: Where entered.
-- Margin: Notice of caveat.
-- Margin: Form.
-- Margin: Expiry of caveat.
-- Margin: Time for entry.
-- Margin: Caveats stop issue of grant.
-- Margin: Warning.
-- Margin: Form of warning.
-- Margin: Caveat to be entered before citation signed.
 - Margin: How caveat to be cleared off.
 - Margin: No grant to issue till expiry, etc., of caveat.
 - Margin: Affidavit to support citation.
@@ -212,3 +219,4 @@ MISCELLANEOUS
 - Margin: Testamentary papers not to leave Registry.
 - Margin: Legal advice not to be given.
 - Margin: Forms.
+- Margin: Chief Justice may issue Practice Directions.
