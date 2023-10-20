@@ -2,21 +2,26 @@ INDUSTRIAL RELATIONS ACT
 CHAPTER 88:01
 Act
 23 of 1972 Amended by
-42 of 1972 2 of 1979 11 of 1975 136/1980 25 of 1977 137/1980 44 of 1978 3 of 1987
-59/1978 18 of 1987 60/1978 21 of 1990 61/1978 *5 of 1994
-*See Note on page 2
+42 of 1972 136/1980 11 of 1975 137/1980 25 of 1977
+3 of 1987
+44 of 1978
+18 of 1987
+59/1978
+21 of 1990
+60/1978
+*5 of 1994 61/1978 163/2023 2 of 1979
+*(See Note on page 2)
 Index of Subsidiary Legislation
 Page *Industrial Court (Pensions and Gratuities of Members) Regulations (GN 70/1976) 80 Registration Recognition and Certification Board Rules (GN 133/1972) … 86 Industrial Relations (Certification of Recognition) Regulations (GN 123/1972) 98 Delegation of Functions (Industrial Relations) Order (LN 203/1996) … 109 Delegation of Functions (Industrial Relations) Order (LN 255/2007) … 110 Industrial Relations (Agency Shop Order) (Authorisation Form) Regulations (LN 77/1988) ... 111
 (*See Act No. 18 of 1983 and Act No. 19 of 1983 for the payment of Pension and Gratuity for former members of the Industrial Court).
 Note on Act No. 5 of 1994
-(Regional Health Authorities Act Ch. 29:05)
+(Regional Health Authorities Act, Chap. 29:05)
 Section 32 of Act No. 5 of 1994 provides as follows:
 "32. Any agreement applicable to former officers in the public service or a statutory
 authority who have transferred to the service of an Authority shall be valid and binding on the relevant representative association and the Authority shall be deemed to be registered under the Industrial Relations Act.".
 CHAPTER 88:01
 INDUSTRIAL RELATIONS ACT
-ARRANGEMENT OF SECTIONS
-SECTION
+ARRANGEMENT OF SECTIONS SECTION
 1. Short title.
 Act at variance with the Constitution.
 PRELIMINARY
@@ -58,14 +63,14 @@ activities.
 72. Definitions relating to agency shop orders. 73. Agency shop orders. 74. Effect of agency shop order. 75. Additional provisions as to agency shop orders. 76. Applications in restraint of agency shop orders and general
 restrictions thereon.
 MISCELLANEOUS
-77. Fraudulent medical certificates. 78. Prosecutions with consent of Director of Public Prosecutions. 79. Regulations. 80. Establishment of Industrial Relations Advisory Committee. 81. Functions of Advisory Committee. 82. Economic and Industrial Research. 83. Annual reports. 84. Industrial relations offences-procedure.
+77. Fraudulent medical certificates. 78. Prosecution with consent of Director of Public Prosecutions. 79. Regulations. 80. Establishment of Industrial Relations Advisory Committee. 81. Functions of Advisory Committee. 82. Economic and Industrial Research. 83. Annual reports. 84. Industrial relations offences-procedure.
 APPLICATION OF FORMER ACT AND SAVINGS
 85. Application of former Act. 86. Transitional provisions. 87. Act binds the State.
 FIRST SCHEDULE. SECOND SCHEDULE.
 
 CHAPTER 88:01
 INDUSTRIAL RELATIONS ACT
-An Act to repeal and replace the Industrial Stabilisation Act
+An Act to repeal and replace the Industrial Stabilisation Act,
 1965, and to make better provision for the stabilisation, improvement and promotion of industrial relations.
 [31ST JULY 1972]
 WHEREAS it is enacted inter alia by section 13(1) of the Constitution that an Act of Parliament to which that section applies may expressly declare that it shall have effect notwithstanding sections 4 and 5 of the Constitution and, if any such Act does so declare, it shall have effect accordingly:

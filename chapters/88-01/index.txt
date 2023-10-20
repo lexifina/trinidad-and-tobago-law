@@ -164,5 +164,4 @@ sl-06/title.md
 sl-06/r-1.md
 sl-06/r-2.md
 sl-06/r-3.md
-sl-06/schedule.md
 sl-06/form-a.md
