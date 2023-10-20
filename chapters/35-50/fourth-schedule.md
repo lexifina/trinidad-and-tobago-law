@@ -1,7 +1,7 @@
 # FOURTH SCHEDULE
 OATH/AFFIRMATION* OF OFFICE AND SECRECY
 I ... do swear/do solemnly and sincerely affirm*/that I will well and truly serve Trinidad and Tobago in the office of ... of the Trinidad and Tobago Fire Service and that I will take steps at all times to preserve life and property to the utmost of my power; and that while I shall continue to hold the said office I will, to the best of my skill and knowledge discharge all the duties thereof faithfully according to law and will not, without due authority in that behalf, in any manner whatsoever publish or communicate any facts or information being facts or expressions of opinion based on such facts that come to my knowledge by reason of my being the holder of such office. So help me God. †
-*Delete whichever is inapplicable † Delete in case of affirmation.
+*Delete whichever is inapplicable. †Delete in case of affirmation.
 *FIFTH SCHEDULE
 PENSIONS AND GRATUITIES PAYABLE TO FIRE
 OFFICERS IN THE FIRST AND SECOND DIVISIONS
@@ -12,17 +12,16 @@ OFFICERS IN THE FIRST AND SECOND DIVISIONS
 (4) The arrears of contribution payable under subparagraph (3) [hereinafter referred to as ("the arrears")] shall be determined on the basis of the actual pay received by the fire officer for each year in respect of which the arrears are payable.
 (5) The aggregate amount of the arrears shall be deducted as follows:
 (a) in the case of a fire officer who is in the Fire Service after the
-commencement of the Fire Service (Amendment) Act 1974 (that is, 18th March 1974) the arrears shall be deducted-
+commencement of the Fire Service (Amendment) Act, 1974 (that is, 18th March 1974) the arrears shall be deducted-
 (i) from his pay as far as practicable, by equal monthly
 instalments over a period of three years from the commencement of the said Act or such lesser period, where the remainder of the service of the officer is less than three years;
 (ii) from his gratuity by lump sum, where any arrears are
 unpaid on the retirement of the fire officer;
 (b) in the case of a fire officer-
 (i) who retires from the Fire Service on the
-commencement of the Fire Service (Amendment) Act 1974 (that is, 18th March 1974); or
-(ii) to whom the provisions of subparagraph (6) apply, the arrears shall be deducted by lump sum from any arrears of gratuity payable to the fire officer.
-*This Schedule has been further amended by 5 of 1974, 5 of 1985, 20 of 1997, 22 of 2006, 17 of 2007, 30 of 2007, 13 of 2010 and 2 of 2015.
-(6) The provisions of subparagraph (3) and of paragraph 3(5) to 3(7) shall extend to fire officers who entered the Fire Service in the Second Division and retired from the Fire Service on or after 1st January 1966, but before the commencement of the Fire Service (Amendment) Act 1974 (that is, 18th March, 1974), and shall in their application to such fire officers, have effect as if those provisions had come into operation on 1st January 1966.
+commencement of the Fire Service (Amendment) Act, 1974 (that is, 18th March 1974); or
+(ii) to whom the provisions of subparagraph (6) apply, the arrears shall be deducted by lump sum from any arrears of gratuity payable to the fire officer. *This Schedule has been further amended by 5 of 1974; 5 of 1985; 20 of 1997; 22 of 2006; 17 of 2007, 30 of 2007; 13 of 2010; 2 of 2015 and 7 of 2017.
+(6) The provisions of subparagraph (3) and of paragraph 3(5) to 3(7) shall extend to fire officers who entered the Fire Service in the Second Division and retired from the Fire Service on or after 1st January 1966, but before the commencement of the Fire Service (Amendment) Act, 1974 (that is, 18th March 1974), and shall in their application to such fire officers, have effect as if those provisions had come into operation on 1st January 1966.
 (7) For the purposes of subparagraph (3) "Public Service" has the meaning assigned to that expression by section 2 of the Pensions Act, and includes service in the Police Service established by the Police Service Act, in the Prison Service established by the Prison Service Act, service as a member of the Special Police established by the Special Reserve Police Act and service as a member of the Auxiliary Fire Service established under the Auxiliary Fire Service Act.
 (8) Subject to subparagraph (3), with effect from January 1, 1991, a fire officer or retired fire officer who served as an auxiliary fire officer on a full-time basis immediately prior to his appointment as a fire officer, shall be entitled to have both periods of service computed for purposes of the grant of pension.
 3. (1) Subject to subparagraph (2) a fire officer who is disabled by infirmity of mind or body may be retired, and if the fire officer has completed ten years of satisfactory service, may thereupon be granted a monthly pension not exceeding the sum of three thousand, five hundred dollars per month or one-four hundred and eightieth of a month's pay for each completed month of service, whichever is the greater.
@@ -34,7 +33,23 @@ commencement of the Fire Service (Amendment) Act 1974 (that is, 18th March 1974)
 Service with the approval of the Minister of Finance, may be granted a monthly pension not exceeding the sum of three thousand, five hundred dollars per month or one-four hundred and eightieth of a month's pay, whichever is the greater for each completed month of service.
 (5) For the purposes of paragraphs 2(3) and 3(4), a period of full-time service in a pensionable office in the Public Service shall be counted as service in the Fire Service if it terminates not earlier than the day immediately preceding the commencement of service in the Fire Service.
 (6) In paragraph 2(3) and in subparagraph (5) "full-time service" means service remunerated at a monthly paid rate and includes any period of absence from duty on leave with full pay.
-(7) The amount of pension payable to a fire officer under this paragraph shall not exceed eighty-five per cent of his final pay for the year in which he retires, except that, in the case of a fire officer in the Second Division at the date of the commencement of the Fire Service (Amendment) Act 1974 (that is, 18th March 1974), who retires from the Fire Service as a fire officer in the Second Division, the percentage of final pay for the year in which he retires shall not exceed ninety-two and one-half per cent.
+(7) The amount of pension payable to a fire officer under this paragraph shall not exceed eighty-five per cent of his final pay for the year in which he retires, except that, in the case of a fire officer in the Second Division at the date of the commencement of the Fire Service (Amendment) Act, 1974 (that is, 18th March 1974), who retires from the Fire Service as a fire officer in the Second Division, the percentage of final pay for the year in which he retires shall not exceed ninety-two and one-half per cent.
+(7A) A fire officer who-
+(a) has acted in a higher office for a continuous period of at least
+three years immediately prior to the date-
+(i) of his compulsory retirement; or
+(ii) on which he proceeds on annual leave before the date
+of his compulsory retirement,
+shall be eligible to have his pension, gratuity or other allowance calculated as if he were substantively appointed to that higher office; and
+(b) satisfies the requirements in paragraph (a) shall be required
+to pay in addition to the contribution payable in his substantive office, arrears of contribution calculated on the basis of the pay he would have received in that higher office had he been substantively appointed.
+(7B) The arrears of contribution which is payable under subclause
+(7A)(b) shall be-
+(a) determined on the basis of the pay the fire officer would have
+received in that higher office for each year in respect of which he acted continuously; and
+(b) deducted as a lump sum from the gratuity payable to the fire
+officer where practicable or from the fire officer's pension in equal monthly installments over a period to be determined by the Comptroller of Accounts.
+(7C) Subclauses (7A) and (7B) shall apply to fire officers in the First Division and the Second Division who compulsorily retire or who had compulsorily retired from the Fire Service on, or after 1st January 2008.
 (8) Where a period of service as a fire officer is or has been immediately followed by service in a pensionable office in other public service as defined for the purposes of the Pensions Act, the fire officer shall, notwithstanding anything contained in subparagraph (4), be entitled to a monthly pension under this Act not exceeding the sum of three thousand, five hundred dollars per month or one-four hundred and eightieth of a month's pay, whichever is the greater, for each completed month of service if he has served in the Fire Service for not less than ten years; and if he ultimately retires from such other public service at an age less than fifty years at which he is permitted by the Law or Regulations of that service to retire with a pension, the pension which may be granted to him under this Act shall be payable from the date of the retirement, notwithstanding that he shall not be fifty years of age.
 (9) A fire officer may if he has exercised his option as provided in subparagraph (10) but not otherwise, be paid, in lieu of any pension for which he is eligible, the sum of three thousand, five hundred dollars per month or a pension at the rate of three-fourths of such pension whichever is the greater, together with a gratuity equal to twelve and one-half times the amount of the annual reduction so made in the pension.
 (10) The following provisions apply to the option referred to in subparagraph (9):
@@ -53,6 +68,14 @@ has finally retired but before a pension has been awarded under this Act, the Pr
 (11) Nothing herein contained shall be construed to entitle any fire officer absolutely to any pension, or to prevent his being dismissed without pension, and subject to subparagraphs (12) and (13), if any such fire officer to whom a pension has been granted under this Act is sentenced to a term of imprisonment by any competent Court in Trinidad and Tobago or elsewhere for any crime or offence, or quits Trinidad and Tobago after having reason to know that a charge of having committed any indictable or summary offence has been laid against him, and before the charge has been heard and determined, the President may direct that the pension shall forthwith cease.
 (12) A fire officer whose pension has ceased in pursuance of subparagraph (11) and who at any time receives a pardon in respect of the offence for which he had been convicted, shall be entitled to have the pension restored to him with effect from the date on which the pension was ceased.
 (13) The President may, where a pension ceases for the reasons set out in subparagraph (11) cause all or any part of the moneys to which the pensioner would have been entitled by way of pension to be paid to or applied for the benefit of any wife, child or children of the pensioner, or, after the expiration of his sentence, also for the benefit of the pensioner himself in such proportions and manner as the President thinks proper, and such moneys shall be paid or applied accordingly.
+3A. (1) Notwithstanding any other provision of this Act or any other written law, where there is sufficient evidence that a person who compulsorily retires is eligible for a pension under this Act, the person shall-
+(a) pending the completion of any administrative or other
+requirements for the payment of that pension; and
+(b) commencing on the date that the first payment of that
+pension would fall due if the administrative and other requirements referred to in paragraph (a) had been completed, be paid an interim pension in the sum of three thousand, five hundred dollars per month.
+(2) A person referred to in subsection (1) may, upon the completion of the administrative or other requirements referred to in that subsection, be granted such pension for which he is eligible under this Act, subject to the deduction of the amount previously paid to him under that subsection.
+(3) Any amount paid pursuant to subsection (1) to a person who is not eligible for a pension under this Act, may be recovered as a civil debt.
+(4) Where prior to 1st January 2019, a person retired under this Act but is not in receipt of a pension under this Act, this section shall apply to him.
 4. (1) Where an order of maintenance is made against any fire officer to whom a pension has been granted under this Act, the President may, on its being proved to him that there is no reasonable probability of the order being satisfied, from time to time cause to be deducted from the moneys payable to such person such sum or sums as the President may deem expedient and may cause the same to be applied to satisfy wholly or in part the order.
 (2) Where any person to whom a pension has been granted hereunder has left Trinidad and Tobago and has deserted and left his wife or child in Trinidad and Tobago, without sufficient means of support is, by reason of the person's absence from Trinidad and Tobago, unable and would but for the absence be able, to obtain an order of maintenance, the President may from time to time cause to be deducted from the moneys payable to the person by way of pension such sum or sums as the President may deem expedient and apply the same for the maintenance and support of the wife or child.
 5. (1) When a fire officer has been retired in accordance with the provisions of paragraph 3(1) and the provisions of subparagraph (2) of the said paragraph have been satisfied, but the fire officer has not served in the Fire Service for ten years, the fire officer may be granted by way of gratuity a sum not exceeding one-twelfth of a month's pay for each completed month of service.
@@ -125,18 +148,21 @@ manner prescribed in paragraph 3(9), which might have been granted to the fire o
 - Margin: 5 of 1974.
 - Margin: Ch. 23:52.
 - Margin: Ch. 15:01.
-- Margin: Ch. 13:02 Ch. 15:03.
+- Margin: Ch. 13:02. Ch. 15:03.
 - Margin: Ch. 35:54.
 - Margin: Pension to fire officer in case of disability. [17 of 2007 30 of 2007 13 of 2010 2 of 2015].
 - Margin: If unable to re-enlist after ten years service.
 - Margin: On attaining the age of fifty.
 - Margin: Meaning of full-time service.
 - Margin: Pension payable.
+- Margin: Eligibility for pension for service in an acting capacity. [7 of 2017].
 - Margin: Fire officers transferred to other public service. Ch. 23:52.
+- Margin: Interim pension. [19 of 2018].
 - Margin: Payments out of pensions.
 - Margin: Service for less than ten years.
 - Margin: Power of President to suspend pension in case of subsequent enlistment. [5 of 1985].
 - Margin: Broken service. [20 of 1997].
 - Margin: Permanent injury. [20 of 1997].
 - Margin: Pensions to dependants of fire officers killed on duty and gratuity to widow, etc., of fire officer who dies in the Service. [20 of 1997].
+- Margin: Section 32.
 - Margin: Ch. 88:05.

@@ -1,16 +1,12 @@
 # FIRST SCHEDULE
 CLASSIFICATION OF OFFICES IN THE FIRE SERVICE
 Old Title New Title Effective Date
-RANGE 13
-Apprentice Firefighter Apprentice Firefighter
-GRADE 1
-Firefighter [for five (5) years] Firefighter 1.10.03 Firefighter [after five (5) years] Firefighter 1.10.03
-GRADE 2
-Fire Sub-Officer Fire Sub-Officer 1.10.03
-GRADE 3
-Fire Sub-Station Officer Fire Sub-Station Officer 1.10.03
-GRADE 4
-Fire Station Officer Fire Station Officer 1.10.03 Fire Equipment Supervisor Fire Equipment Supervisor 1.10.03
+RANGE 13 Apprentice Firefighter Apprentice Firefighter
+GRADE 1 Firefighter [for five (5) years] Firefighter 1.10.03 Firefighter [after five (5) years] Firefighter 1.10.03
+GRADE 2 Fire Sub-Officer Fire Sub-Officer 1.10.03
+GRADE 3 Fire Sub-Station Officer Fire Sub-Station Officer 1.10.03
+GRADE 4 Fire Station Officer Fire Station Officer 1.10.03 Fire Equipment Supervisor Fire Equipment Supervisor 1.10.03
+Old Title New Title Effective Date
 GRADE 5 Assistant Divisional Assistant Divisional 1.10.03
 Fire Officer Fire Officer
 GRADE 6 Divisional Fire Officer Divisional Fire Officer 1.10.03
