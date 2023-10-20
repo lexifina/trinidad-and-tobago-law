@@ -13,4 +13,3 @@ TO SECTION 30(1) OF THE ACT
 9. The powers, duties and functions of the Executive Committee of the Association.
 10. Disputes between members of the Association and the Executive Committee thereof.
 11. A prohibition against admission to membership with respect to a fire officer who is a member of an appropriate recognised association.
-- Margin: Section 32.
