@@ -60,7 +60,7 @@ Strychnine or its salts in preparations Potassium Chlorate
 containing the equivalent of 2 per Potassium Permanganate or cent or more or strychnine
 preparations thereof alkaloids Rue, the oil, derivatives or Tansy, the oil, derivatives or
 preparations preparations Santonin, except when in internal Yohimbine, or its alkaloids or
-preparations as a therapeutic preparations ingredient containing not more than 65 mg per stated dose
+preparations as a therapeutic preparations. ingredient containing not more than 65 mg per stated dose
 PART II
 Acetanilide (except) when not more Guaiacol, except when in internal
 than 65 mg per stated dose preparations as a therapeutic Acid Acetic (33 per cent or stronger) ingredient Acid Chromic or its salts Hyoscine or its salts and internal Acid Hydrochloric preparation containing not more Acid Nitric than 0.325 per stated dose Acid Phosphoric
@@ -90,7 +90,7 @@ other medical ingredients in
 Handle with care and avoid skin recognised therapeutic dosage contact and inhalation of vapours forms and when in doses not
 exceeding those generally
 Nitroglycerine in tablet form
-recognised as safe medication.
+recognised as safe medication
 Phenol in preparations under 5 per cent Bromides, salts, compounds or
 Phosphorous in free state derivatives Potassium Hydroxide Cedar oil from leaf or wood Potassium Nitrite Chenopodium or preparations Rubbing alcohol compound Colchium or Colchicine Sabadilla seeds Copper salts or compounds, except
 Silver salts or preparations
@@ -108,6 +108,5 @@ forms and in doses not exceeding Ephedrine, or its salts, except when those gene
 in inhalant form or in internal
 medication
 preparations containing not more
-Zinc salts except in trace amounts.
-than 11 mg per stated dose
+Zinc salts except in trace amounts. than 11 mg per stated dose
 - Margin: Section 32.
