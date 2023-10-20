@@ -2,37 +2,20 @@
 ELECTORAL VEHICLES
 1. There shall be one electoral vehicle for every six hundred electors in each Parliamentary electoral district.
 2. (1) There shall be one electoral vehicle for every five hundred electors in an electoral district in each of the following Regional Municipalities:
-(a) Diego Martin;
-(b) San Juan/Laventille;
-(c) Tunapuna/Piarco;
-(d) Sangre Grande;
-(e) Mayaro/Rio Claro;
-(f) Couva/Tabaquite/Talparo;
-(g) Penal/Debe;
-(h) Princes Town;
-(i) Siparia.
+(a) San Juan-Laventille;
+(b) Tunapuna-Piarco;
+(c) Sangre Grande;
+(d) Mayaro-Rio Claro;
+(e) Couva-Tabaquite-Talparo;
+(f) Penal-Debe;
+(g) Princes Town.
 (2) There shall be one electoral vehicle for every four hundred electors in each Tobago House of Assembly electoral district.
-- Margin: (Section 38). [51 of 2000].
-- Margin: Citation.
-- Margin: Interpretation. [28 of 1976 221/2000].
-- Margin: Sub. Leg.
-- Margin: Ch. 15:01.
-- Margin: Ch. 15:03.
-- Margin: Sub. leg.
+- Margin: (Section 38). [51 of 2000 6 of 2023].
 - Margin: Registration area to be divided into polling divisions. [256/1988 221/2000].
-- Margin: Maps to be prepared.
-- Margin: Registration offices. [155/1972 72/1974].
 - Margin: Supply of registration records. [20 of 1976 241/1986 221/2000].
 - Margin: Manner of registration. [83/1968 221 of 2000].
-- Margin: House to house registration. [221/2000].
-- Margin: Allowance and disallowance of registrations. [241/1986 221/2000].
-- Margin: Sub. Leg. Form 8.
 - Margin: Colours and numbering of series of registration records. [221/2000].
 - Margin: Registration records and identification cards. [83/1968 20 of 1976 214/1986 221/2000]. Sub. Leg. Forms 10 and 11A.
-- Margin: Sub. Leg.
-- Margin: Information to be given by persons to be registered. [241/1986 221/2000].
-- Margin: Records to be read and signed. [221/2000].
-- Margin: Preparation of identification cards. [241/1986 221/2000].
 - Margin: Sub. Leg. Form 11A.
 - Margin: Rule 15 to apply mutatis mutandis to the delivery of identification cards. [241/1986 221/2000].
 - Margin: Person unable to read or write. [241/1986 221/2000].
@@ -44,12 +27,9 @@ ELECTORAL VEHICLES
 - Margin: Correction of errors or omissions in the registration record. [20 of 1976 221/2000].
 - Margin: Correction of errors in names and dates of birth. [221/2000].
 - Margin: Documents to be safely kept. [241/1986 221/2000].
-- Margin: Delivery of documents by Assistant Registration Officer or an Authorised Registering Officer to Registration Officer. 221/2000].
+- Margin: Delivery of documents by Assistant Registration Officer or an Authorised Registering Officer to Registration Officer. [221/2000].
 - Margin: Photograph and completion of registration. [46/1980 241/1986 221/2000].
 - Margin: Form 13.
-- Margin: Circumstances in which photographs other than official acceptable. [241/1986].
-- Margin: Exemption from taking of photograph. [241/1986 221/2000].
-- Margin: Sub. Leg.
 - Margin: Delivery of documents by Registration Officer to Chief Election Officer. [221/2000].
 - Margin: Completion of registration record and identification card by Chief Election Officer. [46/1980 221/2000].
 - Margin: Filing of registration records in unit registers. [83/1968 221/2000].
@@ -72,7 +52,7 @@ ELECTORAL VEHICLES
 - Margin: Sub. Leg. Form 20.
 - Margin: Report of result of enquiry. [221/2000].
 - Margin: Custody of check cards. [221/2000].
-- Margin: Cancellation of registration. [20 of 1976 [221/2000].
+- Margin: Cancellation of registration. [20 of 1976 221/2000].
 - Margin: Sub. Leg. Form 21.
 - Margin: Disposal of disused registration records and identification cards. [221/2000].
 - Margin: Change of place of residence in registration area or polling division. [221/2000].
@@ -123,9 +103,6 @@ ELECTORAL VEHICLES
 - Margin: Delivery of documents to police. [221/2000].
 - Margin: Remuneration and allowances.
 - Margin: Offences and penalties. [221/2000].
-- Margin: Citation.
-- Margin: Interpretation. [20 of 1976 28 of 1976 240/1986 220/2000].
-- Margin: Sub. Leg.
 - Margin: Returning Officer to establish office. [20 of 1976 220/2000].
 - Margin: Election notice. [240/1986].
 - Margin: Sub. Leg. Form 35.
@@ -152,8 +129,6 @@ ELECTORAL VEHICLES
 - Margin: Provision of polling station. [20 of 1976 240/1986].
 - Margin: Ballot boxes. [20 of 1976 240/1986].
 - Margin: Custody of ballot boxes. [20 of 1976].
-- Margin: Ballot papers. [70/1971 20 of 1976].
-- Margin: Sub. Leg. Form 47.
 - Margin: Symbols. [70/1971 20 of 1976 240/1986 220/2000]. Schedule.
 - Margin: Schedule.
 - Margin: Delivery of unit registers of electors to Returning Officers. [20 of 1976].
@@ -165,8 +140,6 @@ ELECTORAL VEHICLES
 - Margin: Returning Officer or Poll Clerk may preside at polling station. [20 of 1976].
 - Margin: Polling Agent and Special Polling Agent. [240/1986].
 - Margin: Sub. Leg. Form 49. Form 50.
-- Margin: Declaration of secrecy. [20 of 1976 43/1988]. Sub. Leg. Form 51.
-- Margin: Admission to polling station. [20 of 1976 43/1988 220/2000].
 - Margin: Arrangement of polling station. [70/1971 20 of 1976 220/2000].
 - Margin: Arrival at polling station of Presiding Officer, etc. [70/1971 20 of 1976 220/2000].
 - Margin: Duties of Presiding Officer before opening of poll. [70/1971 20 of 1976 48/1977 220/2000].
@@ -178,7 +151,7 @@ ELECTORAL VEHICLES
 - Margin: Poll cards issued to prospective voters. [153/1991].
 - Margin: Duties of Presiding Officer. [20 of 1976 48/1977 115/1992 220/2000].
 - Margin: Sub. Leg. Form 54.
-- Margin: Additional duties of Presiding Officer where different Municipal Council elections held same day.
+- Margin: Additional duties of Presiding Officer where different Municipal Council elections held on same day.
 - Margin: Procedure for elector whose name is not on revised list. [20 of 1976 220/2000].
 - Margin: Sub. Leg. Form 54.
 - Margin: Procedure where elector's registration record is not in unit register. [26 of 1976 220/2000]. Sub. Leg. Forms 55, 56 and 57.
@@ -191,7 +164,7 @@ ELECTORAL VEHICLES
 - Margin: Declaration by incapacitated elector's companion. [20 of 1976 203/1998]. Sub. Leg. Form 60.
 - Margin: Mode of voting in special cases. [20 of 1976 220/2000].
 - Margin: Sub. Leg. Form 61.
-- Margin: Sub. Leg Form 54.
+- Margin: Sub. Leg. Form 54.
 - Margin: Form 55.
 - Margin: Sub. Leg. Form 54.
 - Margin: Questions to be put to electors. [220/2000].
