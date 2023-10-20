@@ -187,8 +187,11 @@ sl-01/r-19.md
 sl-01/r-20.md
 sl-01/appendix.md
 sl-01/appendix--2.md
-sl-01/schedule.md
-sl-01/form-1.md
-sl-01/form-2.md
-sl-01/form-3.md
-sl-01/form-4.md
+sl-02/title.md
+sl-02/r-1.md
+sl-02/r-2.md
+sl-02/r-3.md
+sl-02/r-4.md
+sl-02/form-2.md
+sl-02/form-3.md
+sl-02/form-4.md

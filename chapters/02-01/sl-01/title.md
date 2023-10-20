@@ -6,8 +6,7 @@ PART I
 PERMANENT PERSONAL REGISTRATION
 3. Registration area to be divided into polling divisions.
 3A. (Revoked by LN 221/2000).
-4. Maps to be prepared. 5. Registration offices. 6. Supply of registration records. 7. (Revoked by LN 241/1986). 8. Manner of registration. 9. House to house registration.
-10. Allowance and disallowance of registrations.
+4. Maps to be prepared. 5. Registration offices. 6. Supply of registration records. 7. (Revoked by LN 241/1986). 8. Manner of registration. 9. House to house registration. 10. Allowance and disallowance of registrations.
 10A. Colours and numbering of series of registration records.
 11. Registration records and identification cards. 12. Information to be given by persons to be registered. 13. Records to be read and signed. 14. Preparation of identification cards.
 14A. Rule 15 to apply mutatis mutandis to the delivery of
@@ -22,7 +21,8 @@ RULE
 Election Officer.
 26. Completion of registration record and identification card by Chief
 Election Officer.
-27. Filing of registration records in unit registers. 28. Arrangement of unit registers. 29. Filing of records in central register. 30. Arrangement of central register. 31. Delivery of identification cards. }
+27. Filing of registration records in unit registers. 28. Arrangement of unit registers. 29. Filing of records in central register. 30. Arrangement of central register. 31. Delivery of identification cards.
+}
 31A.
 (Revoked by LN 221/2000). to
 31B.
@@ -41,23 +41,28 @@ PART IV
 GENERAL
 66. Manner of determining residence. 67. Forms to be supplied free of cost. 68. Supply of copies of notices and lists of electors. 69. Mode of sending documents to Registration Officer. 70. Declarations as to age and nationality. 71. Interpreter. 72. Enquiries by Commission as to address of registered person. 73. Checks by Commission. 74. Delivery of unit register to Commission. 75. Delivery of documents to police. 76. Remuneration and allowances. 77. Offences and penalties.
 [Subsidiary]
-*41/1967. REGISTRATION RULES
+REGISTRATION RULES *41/1967.
 deemed to be made under section 161
 1. These Rules may be cited as the Registration Rules.
-2. In these Rules- "acknowledgement of application for registration" means an
+Citation.
+2. In these Rules- Interpretation.
+[28 of 1976 "acknowledgement of application for registration" means an 221/2000].
 acknowledgement of application for registration referred to in rule 18; "check card" means a check card referred to in rule 36; "Forces special elector" means a member of the Trinidad and
-Tobago Defence Force who is entitled under the Election Rules to vote as a special elector; "list of cancellations" means a list of cancellations of registrations
-referred to in rule 6(1)(e); "list of questions" means a list of questions referred to in rule 16; "office hours" means the hours during which an office is open to
+Tobago Defence Force who is entitled under the Election Sub. Leg.
+Rules to vote as a special elector; "list of cancellations" means a list of cancellations of
+registrations referred to in rule 6(1)(e); "list of questions" means a list of questions referred to in rule 16; "office hours" means the hours during which an office is open to
 public business; "police special elector" means a member of the Police Service
-established under the Police Service Act, a member of the Special Reserve Police established under the Special Reserve Police Act and a member of the police force of any Municipal Corporation who is entitled under the Election Rules to vote as a special elector; "preliminary list" means the annual list published on 1st July in
+established under the Police Service Act, a member of the Ch. 15:01. Special Reserve Police established under the Special Ch. 15:03. Reserve Police Act and a member of the police force of any
+Municipal Corporation who is entitled under the Election Sub. Leg.
+Rules to vote as a special elector; "preliminary list" means the annual list published on 1st July in
 every year or any other list declared by the President to be a preliminary list under section 29 of the Act and referred to in rule 56; "registered person" means a person who is registered under
 these Rules; "registration list" means a registration list referred to in
 rule 6(1)(d);
-*These Rules have been amended by the following: GNs 83/1968, 47/1969, 67/1971, 155/1972, 72/1974, 25/1975, and 20 of 1976, 28 of 1976; 128/1976; 46/1980, 25/1981, 144/1981, 241/1986, 256/1988, 7 of 1992, 214/1994, 221/2000.
+*These Rules have been amended by the following: GNs 83/1968; 47/1969; 67/1971; 155/1972; 72/1974; 25/1975; and 20 of 1976, 28 of 1976, 128/1976; 46/1980; 5/1981, 144/1981; 256/1988; 7 of 1992; 214/1994; 221/2000.
 Registration Rules [Subsidiary]
 "registration number" means the number printed on a registration
-record or on an identification card as provided in rule 11(3) and rule 26(1)(b) respectively; "registration office" means the office of a Registration Officer,
-an Assistant Registration Officer or a Temporary Assistant Registration Officer; "revised list" means a revised list of electors referred to in
+record or on an identification card as provided in rule 11(3) and rule 26(1)(b) respectively; "registration office" means the office of a Registration Officer, an
+Assistant Registration Officer or a Temporary Assistant Registration Officer; "revised list" means a revised list of electors referred to in
 rule 62.
 PART I
 PERMANENT PERSONAL REGISTRATION
@@ -72,11 +77,14 @@ the change.
 (5) Polling divisions shall be numbered by the Commission according to a numerical series for Trinidad and Tobago or in such other manner as may be approved by them.
 3A. (Revoked by LN 221/2000).
 Registration Rules [Subsidiary]
-4. (1) The Commission shall cause maps of every registration area and of every electoral district to be prepared showing clearly the boundaries of every polling division therein and any other features which it may consider necessary.
+4. (1) The Commission shall cause maps of every
+Maps to be prepared. registration area and of every electoral district to be prepared showing clearly the boundaries of every polling division therein and any other features which it may consider necessary.
 (2) Every map prepared under subrule (1) shall be open to inspection by the public at the office of the Commission.
 (3) Every map of a registration area prepared under subrule (1) shall be open to inspection by the public at the office of the Registration Officer of the said area.
 (4) Every map of an electoral district prepared under subrule (1) shall be open to inspection by the public at the office of the Returning Officer of the district between the date of the publication of an election notice for an election in the district and polling day for the election.
-5. (1) Registration Officers and Assistant Registration Officers shall use as their offices for the purpose of these Rules such places as the Chief Election Officer may approve.
+5. (1) Registration Officers and Assistant Registration Registration
+offices. Officers shall use as their offices for the purpose of these Rules
+[155/1972 72/1974]. such places as the Chief Election Officer may approve.
 (2) Subject to subrule (3), the office of the Registration Officer and the Assistant Registration Officer in any registration area shall be open for public business every day, except Saturday, Sunday and any public holiday, between the hours of 8.00 o'clock in the forenoon and 4.12 o'clock in the afternoon, or during such other times as may be approved by the Commission.
 (3) Where the office of the Assistant Registration Officer is situated at some place other than that of the Registration Officer, such office shall be open for public business on such days and during such times as may be approved by the Commission.
 (4) The Commission shall publish in the Gazette and in a daily newspaper the addresses of the offices of the Registration Officers and of the Assistant Registration Officers and the times when such offices are open for public business.
@@ -98,15 +106,19 @@ the performance of his duties.
 (3) Where a person wishing to be registered is physically incapacitated, he shall notify the Registration Officer of the registration area in which he is resident of such infirmity or incapacity and such Registration Officer shall go to the address at which such person is resident and shall effect the registration of such persons in accordance with these Rules.
 Registration Rules [Subsidiary]
 (4) Where a person wishing to be registered for the purposes of a City or Borough election is qualified as a City or Borough elector under the provisions of section 13(1)(e) of the Act, he shall make application to the Registration Officer of the polling division in which the qualifying property is situated.
-9. (1) Notwithstanding anything contained in these Rules, Assistant Registration Officers, when required in pursuance of section 4(3)(a) of the Act, shall-
+9. (1) Notwithstanding anything contained in these Rules,
+House to house registration. Assistant Registration Officers, when required in pursuance of [221/2000]. section 4(3)(a) of the Act, shall-
 (a) visit every house in the polling division
 assigned to them and receive applications for registration; and
 (b) if satisfied that an applicant for registration is
 qualified to be registered, effect the registration of the applicant.
 (2) Subject to subrule (3), the provisions of this Part which relate to application for registration made in pursuance of rule 8(2) shall apply mutatis mutandis to application for registration under this rule.
 (3) For the purpose of completing registrations for which applications are received under subrule (1), an official photographer shall accompany Assistant Registration Officers, and shall, subject to rules 23(5) and 24, and after the provisions of rule 23(1) have been complied with, take the photograph of every such applicant.
-10. (1) If the Assistant Registration Officer or the Authorised Registering Officer is satisfied that such person is qualified to be registered, and, after examination of the registration list and the list of cancellations, that he is entitled to be registered as an elector, he shall cause a registration record and an acknowledgement of application for registration to be prepared for the person in accordance with these Rules.
-(2) If the Assistant Registration Officer or the Authorised Registering Officer is not satisfied as in subrule (1), he shall issue to the person a notice of disallowance, in the form set out as Form No. 8 in the Prescribed Forms Rules, and send a copy of
+10. (1) If the Assistant Registration Officer or the Allowance and
+disallowance of Authorised Registering Officer is satisfied that such person is
+registrations. [241/1986 qualified to be registered, and, after examination of the 221/2000]. registration list and the list of cancellations, that he is entitled to be registered as an elector, he shall cause a registration record and an acknowledgement of application for registration to be prepared for the person in accordance with these Rules.
+(2) If the Assistant Registration Officer or the Authorised Registering Officer is not satisfied as in subrule (1), he shall issue to the person a notice of disallowance, in the form set out as Form No. 8 in the Prescribed Forms Rules, and send a copy of Sub. Leg.
+Form 8.
 Registration Rules [Subsidiary]
 the notice to the Registration Officer of the registration area in which the person resides.
 10A. (1) Registration records prepared in respect of persons who are citizens of Trinidad and Tobago shall, whether such persons are electors or not, be of the same colour.
@@ -119,12 +131,19 @@ the notice to the Registration Officer of the registration area in which the per
 (3) For the purposes of a Municipal Council election, the original of the registration record issued to any person who would but for the provisions of section 13(1)(c), (d) or (e) of the Act continue to be a non-elector shall be the same in colour as that referred to in rule 10A(3).
 (4) For the purposes of a Municipal Council election and of complying with the provisions of rule 27(1) and of rule 36 of
 Registration Rules [Subsidiary]
-the Election Rules, the Chief Election Officer shall cause to be prepared in respect of any person qualified as an elector under the provisions of section 13(1)(e) of the Act, a photostatic copy of the original of the registration record issued to such person registered under section 16 of the Act, of a colour to be determined by the Commission. The Chief Election Officer shall make and sign a certificate on each photostatic copy certifying such copy to be a true and correct reproduction of the original of the registration record.
+the Election Rules, the Chief Election Officer shall cause to be
+Sub. Leg. prepared in respect of any person qualified as an elector under the provisions of section 13(1)(e) of the Act, a photostatic copy of the original of the registration record issued to such person registered under section 16 of the Act, of a colour to be determined by the Commission. The Chief Election Officer shall make and sign a certificate on each photostatic copy certifying such copy to be a true and correct reproduction of the original of the registration record.
 (5) Every registration record referred to in subrule (1) shall carry in addition to the registration number, a registration serial number labelled as File Number which shall be different for each card.
 (6) (Revoked by LN 241/1986).
-12. An Assistant Registration Officer or an Authorised Registering Officer may require any person who wishes to be registered to give him such information, supported by such documentary evidence as he considers necessary, as lies within the power of the person to give, for inclusion in the registration record of that person, and the Assistant Registration Officer or an Authorised Registering Officer shall record the information in ink on the original of the registration record and, by means of carbon paper, on the duplicate of the registration record.
-13. After the necessary particulars have been entered on the registration record, the Assistant Registration Officer or the Authorised Registering Officer shall sign it, and, subject to rule 15, require the person being registered to read and to sign it if he is satisfied that the contents thereof are correct.
-14. (1) Before signing the registration record of a person who is fifteen years of age or over the Assistant Registration Officer or the Authorised Registering Officer shall, if an identification card has previously been issued to the person, require him to surrender the same.
+12. An Assistant Registration Officer or an Authorised Information to
+be given by Registering Officer may require any person who wishes to be
+persons to be registered. registered to give him such information, supported by such [241/1986 221/2000]. documentary evidence as he considers necessary, as lies within the power of the person to give, for inclusion in the registration record of that person, and the Assistant Registration Officer or an Authorised Registering Officer shall record the information in ink on the original of the registration record and, by means of carbon paper, on the duplicate of the registration record.
+13. After the necessary particulars have been entered on
+Records to be read and signed. the registration record, the Assistant Registration Officer or the
+[221/2000]. Authorised Registering Officer shall sign it, and, subject to rule 15, require the person being registered to read and to sign it if he is satisfied that the contents thereof are correct.
+14. (1) Before signing the registration record of a person
+Preparation of identification who is fifteen years of age or over the Assistant Registration
+cards. [241/1986 Officer or the Authorised Registering Officer shall, if an 221/2000]. identification card has previously been issued to the person, require him to surrender the same.
 Registration Rules [Subsidiary]
 (2) Where a person described in subrule (1)-
 (a) surrenders his identification card; or
@@ -135,8 +154,8 @@ identification card, the Chief Election Officer shall cause the required particu
 (3) The print on an identification card in the Form set out as Form No. 11A in the Prescribed Forms Rules issued-
 (a) to a citizen of Trinidad and Tobago, whether an
 elector or not, shall be in the colour blue;
-(b) to a Commonwealth Citizen other than a citizen
-of Trinidad and Tobago, whether an elector or not, shall be in the colour red;
+(b) to a Commonwealth Citizen other than a citizen of
+Trinidad and Tobago, whether an elector or not, shall be in the colour red;
 (c) to a person other than those described in
 paragraph (a) or paragraph (b), shall be in the colour orange.
 (4) A facsimile signature of the Chief Election Officer shall be placed on every identification card.
@@ -164,14 +183,14 @@ Registration Rules [Subsidiary]
 (5) The Assistant Registration Officer or the Authorised Registering Officer and, where there is a witness, such witness as well shall affix their signatures below the answers referred to in subrule (4).
 (6) After the answers have been recorded and signed, the list of questions shall be numbered by the Assistant Registration Officer or the Authorised Registering Officer in sequence in respect of each polling division, and such number shall be placed on the original and on the duplicate of the appropriate registration record in the place provided for the registrant's signature.
 (7) After the list of questions has been numbered as in subrule (6), it shall be kept confidentially in a separate file by the Assistant Registration Officer who shall not permit any person other than the Chief Election Officer and the Registration Officer of his registration area to have access to that file.
-17. (1) An Assistant Registration Officer or an Authorised Registering Officer , upon being satisfied that a registration record cannot conveniently be used or that he is unable to complete such record, shall cancel it by entering the word "spoiled" upon the registration record.
+17. (1) An Assistant Registration Officer or an Authorised Registering Officer, upon being satisfied that a registration record cannot conveniently be used or that he is unable to complete such record, shall cancel it by entering the word "spoiled" upon the registration record.
 (2) A registration record that has not been completed because of the disallowance of a registration shall be cancelled by the Assistant Registration Officer or the Authorised Registering Officer by marking upon it the word "disallowed".
 (3) (Revoked by LN 221/2000).
 18. (1) An Assistant Registration Officer or an Authorised Registering Officer shall issue, in respect of every person applying for registration, an acknowledgement of application for registration in the form set out as Form 13 in the Prescribed Forms Rules.
 (2) The Assistant Registration Officer or the Authorised Registering Officer shall record the required particulars, affix his signature to the acknowledgement and deliver same to the applicant.
 Registration Rules [Subsidiary]
 (3) Every acknowledgement issued under subrule (1) shall certify that the applicant has been photographed by the Commission's photographer, or has submitted two identical prints of a recent photograph.
-19. (1 ) Any clerical error or omission in a registration record, and any other error in any such record that has been caused by the inadvertence of an Assistant Registration Officer or an Authorised Registering Officer, or the person seeking registration may be corrected or inserted, as the case may require, by an Assistant Registration Officer or an Authorised Registering Officer.
+19. (1) Any clerical error or omission in a registration record, and any other error in any such record that has been caused by the inadvertence of an Assistant Registration Officer or an Authorised Registering Officer, or the person seeking registration may be corrected or inserted, as the case may require, by an Assistant Registration Officer or an Authorised Registering Officer.
 (2) Where the description of the address of a registered person has been altered by lawful authority, a Registration Officer may make the appropriate alteration on the registration record of that person.
 (3) The provisions of rule 15(1) to (3) shall apply mutatis mutandis in respect of corrections, insertions and alterations made under this rule.
 (4) A correction, insertion or alteration made under this rule shall be initialled by the Assistant Registration Officer or the Authorised Registering Officer and by the person to whom the record relates, or by a witness present, as the case may be.
@@ -196,8 +215,8 @@ any person to have unlawful access to unused, completed or cancelled-
 (d) check cards;
 (e) notices of disallowance of registrations;
 (f) minors' registration cards;
-(g) acknowledgement of Application for Registration;
-and
+(g) acknowledgement of Application for
+Registration; and
 (h) answers to lists of questions.
 (2) Should it be necessary for an Assistant Registration Officer or any other Authorised Officer to keep any of the documents mentioned in subrule (1) overnight he shall lock them in a container provided for that purpose by the Commission.
 22. At such times as the Commission may direct, an Assistant Registration Officer or an Authorised Registering Officer shall deliver to the appropriate Registration Officer all registration records, cards, forms, binders or other documents that have been completed or used by him or delivered to him in the performance of his duties.
@@ -207,10 +226,15 @@ and
 Registration Rules [Subsidiary]
 has been taken in accordance with subrules (1) and (2) or until prints of his photograph have been accepted in accordance with subrule (3) or until prints of his photograph have been accepted in accordance with rule 23A.
 (4) The official photographer shall transmit the photographs taken by him under subrule (2), or accepted by him under subrule (5), to the appropriate Registration Officer. On receipt thereof, the Registration Officer, or the Authorised Registering Officer, shall attach one print of the photograph to the registration record in respect of the same person, and file same appropriately in the register of the relevant polling division.
-23A. (1) Notwithstanding anything contained in these Rules, an Assistant Registration Officer or an official photographer may accept from a person who has applied for registration or to have his registration updated or whose identification card is being substituted pursuant to rule 49 two recent prints of his photograph certified by a person designated by the Commission and of a size and type specified by the Commission.
+23A. (1) Notwithstanding anything contained in these Rules, Circumstances
+in which an Assistant Registration Officer or an official photographer may
+photographs other than accept from a person who has applied for registration or to have official acceptable. his registration updated or whose identification card is being [241/1986]. substituted pursuant to rule 49 two recent prints of his photograph certified by a person designated by the Commission and of a size and type specified by the Commission.
 (2) Prints of photographs accepted under subrule (1) shall be submitted to the appropriate Registration Officer as directed by the Commission and on receipt thereof the Registration Officer shall transmit the same to the Commission.
-24. (1) Where a person objects to the taking of his photograph for the reason that his face is disfigured or on religious grounds or on any other ground which the Registration Officer considers to be reasonable, the Registration Officer shall, on application by such person, exempt him from compliance with and from the operation of rule 23.
-*(2) An application under this rule shall be completed by the applicant and handed to the Assistant Registration Officer or an Authorised Registering Officer before an acknowledgement of application for registration is issued under rule 18.
+24. (1) Where a person objects to the taking of his Exemption
+from taking of photograph for the reason that his face is disfigured or on
+photograph. [241/1986 religious grounds or on any other ground which the Registration 221/2000]. Officer considers to be reasonable, the Registration Officer shall, on application by such person, exempt him from compliance with and from the operation of rule 23.
+*(2) An application under this rule shall be completed by
+Sub. Leg. the applicant and handed to the Assistant Registration Officer or an Authorised Registering Officer before an acknowledgement of application for registration is issued under rule 18.
 *An application for exemption under this rule is in Form No. 14 of the Prescribed Forms Rules.
 Registration Rules [Subsidiary]
 (3) On receipt of an application under subrule (2), the Assistant Registration Officer or the Authorised Registering Officer shall attach same to the completed registration record and the other related documents.
@@ -238,8 +262,7 @@ Registration Rules [Subsidiary]
 (2) Where a check card has been issued under rule 37, the registration record of the person affected shall not be filed as provided in subrule (1) until the report of the person assigned for the purpose under rule 36 has been received and a decision made thereon by the Registration Officer approving the registration of the elector.
 (3) The binder referred to in subrule (1) shall be capable of being locked in such manner that no registration record filed therein may be removed except by the application of force.
 28. (1) A Registration Officer shall arrange the originals of the registration records in alphabetical order according to family names and addresses.
-}
-(2)
+} (2)
 to (Revoked by LN 241/1986).
 (3)
 (4) The original registration records of electors and non-electors shall be kept in separate binders.
@@ -255,14 +278,13 @@ the person assigned for that purpose under rule 36 until the report of that pers
 (4) Where the person delivering the identification card is satisfied-
 (a) that the person to whom it relates is unable to
 produce the acknowledgement of application for registration; and
-(b) as to the identity of such person,
-he may issue the identification card on the person giving him a receipt in a form approved by the Chief Election Officer.
+(b) as to the identity of such person, he may issue the identification card on the person giving him a receipt in a form approved by the Chief Election Officer.
 (5) An identification card issued by the Commission shall be valid for such period as may be determined by the Commission.
 Registration Rules [Subsidiary]
 (6) The Commission may, by notice, published in the Gazette and at least in one daily newspaper, extend the expiry date of identification cards issued by it, for any period that the Commission considers appropriate.
 }
 31A.
-(Revoked by LN 221/2000). to
+to (Revoked by LN 221/2000).
 31B.
 32. An elector or during an electoral registration a Scrutineer who objects to the registration of a person as an elector in pursuance of section 25 of the Act shall do so by filling out a notice of objection in the form set out as Form No. 15 in the Prescribed Forms Rules which shall consist of a postcard in duplicate, and by transmitting by registered post or delivering by hand one section to the appropriate Registration Officer and the other section to the person to whose registration objection is being made.
 33. (1) A person, or during an electoral registration, a Scrutineer who applies for the registration of a person as an elector in pursuance of section 16 or 25 of the Act shall do so by filling out an application in the form set out as Form No. 16 in the Prescribed Forms Rules.
@@ -303,8 +325,7 @@ Registration Rules [Subsidiary]
 (b) the polling division;
 (c) the physical features, occupational, or marital
 status of the registered person; or
-(d) information concerning minors,
-this rule shall not apply but the Registration Officer or the Assistant Registration Officer or the Authorised Registering Officer may make such corrections to the registration record of such person as may be necessary and shall notify the registrant of the corrections.
+(d) information concerning minors, this rule shall not apply but the Registration Officer or the Assistant Registration Officer or the Authorised Registering Officer may make such corrections to the registration record of such person as may be necessary and shall notify the registrant of the corrections.
 Registration Rules [Subsidiary]
 39. Forthwith upon the completion of an enquiry under rule 35 or 38, the Registration Officer shall inform the Chief Election Officer and the person whose name appears upon the registration record of his decision in the matter.
 40. A Registration Officer shall keep all signed check cards in two different groups; one group containing check cards upon which the particulars of the relevant registration records were found by the person assigned for the purpose under rule 36 or by the Registration Officer after an enquiry to be correct, and the other group containing check cards upon which the particulars of the relevant record cards were found to be incorrect.
@@ -320,8 +341,8 @@ registration area who has been registered as an elector.
 Registration Rules [Subsidiary]
 (4) The Registration Officer shall send a notice, in the form set out as Form No. 21 in the Prescribed Forms Rules, to an elector whose registration he proposes to cancel under this rule-
 (a) setting out the reason for the cancellation;
-(b) indicating the time when he proposes to cancel the
-same; and
+(b) indicating the time when he proposes to cancel
+the same; and
 (c) requiring the elector within such time to produce
 his identification card to the Registration Officer.
 (5) A notice under subrule (4) shall be sent to the address at which the elector is registered or may be delivered to him in person.
@@ -334,8 +355,8 @@ Registration Rules [Subsidiary]
 (11) An entry against a number in a registration record opposite to the reason for cancellation shall denote that the reason for cancellation is that set out opposite the number as follows:
 1. Not a Commonwealth Citizen; 2. Under the age of 18; 3. Not resident in Trinidad and Tobago for the
 required period;
-4. Not resident in an electoral district for the required
-period;
+4. Not resident in an electoral district for the
+required period;
 5. Not resident in the registration area; 6. Double registration; 7. Dead; 8. Serving sentence of imprisonment of over one
 year;
 9. Under sentence of death; 10. Adjudged of unsound mind or certified to be
@@ -361,8 +382,8 @@ residence from one polling division to another in the same registration area, tr
 residence from one address to another in the same polling division, transfer the registration record of that person to its proper place in the same unit register in accordance with rule 28;
 (c) notify the transfer to the Chief Election Officer
 who shall make the necessary correction in the registration record of the person in the central register;
-(d) inform the person to whom the registration record
-relates that the transfer has been made.
+(d) inform the person to whom the registration
+record relates that the transfer has been made.
 (6) Notwithstanding anything contained in this rule, where a registered person has changed his place of residence in the circumstances contemplated by subrule (1) and the new address of the person falls within a different electoral district, the date of the change of address on the corrected registration record shall be inserted as an amendment to the date originally recorded on the registration record of the person.
 44. (1) Where a registered person changes his place of residence from one registration area to another, he shall notify in writing the Registration Officer of the registration area in which he resides as a result of his change of residence and thereupon the registration record of that person shall be transferred to the unit register for the polling division in which he resides.
 (2) Subject to subrule (3), rule 43(2), (3), (4) and (5) shall apply mutatis mutandis to the transfer of registration records made under subrule (1).
@@ -381,16 +402,15 @@ identification card.
 (2) An Election Officer shall give a receipt to any person who delivers to him any notice or application or other document required to be delivered to such officer under these Rules.
 Registration Rules [Subsidiary]
 47. (1) Where an identification card has been issued to any person-
-(a) who claims that it has been lost, stolen, destroyed,
-mutilated or defaced; or
+(a) who claims that it has been lost, stolen,
+destroyed, mutilated or defaced; or
 (b) which is discovered to contain information
 given by the person which is inaccurate or incorrect, he may apply to the Registration Officer for the time being for the area in which he resides for the replacement of the identification card, and the Registration Officer, if he is satisfied by statutory declaration or otherwise, that the application is a bona fide one, shall recommend the issue to the person of a replacement identification card.
 (2) An application under subrule (1) shall be in the form set out as Form No. 24 in the Prescribed Forms Rules and shall be accompanied by the fee specified in subrule (9).
 (3) The Registration Officer shall not recommend the issue of a replacement identification card until, in the case of a card-
 (a) which is discovered to contain inaccurate or
 incorrect information; or
-(b) which has become mutilated or defaced,
-the card has been delivered to him for destruction.
+(b) which has become mutilated or defaced, the card has been delivered to him for destruction.
 (4) Rule 14 shall apply mutatis mutandis in relation to a replacement identification card.
 (5) Subject to subrule (6), a replacement identification card shall contain such particulars as were recorded on the identification card of the person to whom it relates.
 (6) When a Registration Officer recommends the issue of a replacement identification card, he shall request the Chief Election Officer to issue a replacement identification card and the Chief Election Officer may-
@@ -419,8 +439,8 @@ ANNUAL LIST OF ELECTORS
 *By rule 3 deemed to have come into operation on 1st January 1974.
 Registration Rules [Subsidiary]
 (3) The annual list of electors referred to in subrule (1) in respect of-
-(a) Parliamentary and the Tobago House of Assembly
-electors shall be in the form set out as Form No. 25 in the Prescribed Forms Rules; and
+(a) Parliamentary and the Tobago House of
+Assembly electors shall be in the form set out as Form No. 25 in the Prescribed Forms Rules; and
 (b) Municipal Council electors shall be in the
 form set out as Form No. 26 in the Prescribed Forms Rules.
 (4) The names and addresses of electors in the list of electors referred to in subrule (1) shall be arranged in the manner set forth in rule 28.
@@ -488,8 +508,8 @@ Registration Rules [Subsidiary]
 64. (1) A Registration Officer shall not later than the fifth day before polling day for the election in respect of which such lists were prepared-
 (a) delete from the revised lists the names of any
 electors in respect of whose registration objections have been made and upheld;
-(b) initial any deletions on every revised list that has
-not been distributed to the appropriate Returning Officer;
+(b) initial any deletions on every revised list that
+has not been distributed to the appropriate Returning Officer;
 (c) notify the Chief Election Officer of any such
 deletion;
 (d) notify the appropriate Returning Officer if the
@@ -497,8 +517,8 @@ revised lists have already been distributed to him.
 (2) Where the name of an elector has been inadvertently included on a revised list, the appropriate Registration Officer shall not later than ten days before polling day for the election to which the electoral registration relates-
 (a) delete the name of such elector from the revised
 lists in which his name inadvertently appears;
-(b) initial any deletions on every revised list that has
-not been distributed to the appropriate Returning Officer;
+(b) initial any deletions on every revised list that
+has not been distributed to the appropriate Returning Officer;
 (c) notify the Chief Election Officer of any such
 deletion; and
 (d) notify the appriate Returning Officer if the revised
@@ -537,8 +557,8 @@ Registration Rules [Subsidiary]
 69. Except as otherwise provided in these Rules, any document required by these Rules to be sent to the Registration Officer shall be addressed to him at his office and may be sent by registered post, postage free, or delivered to him by hand.
 Registration Rules [Subsidiary]
 70. (1) A Registration Officer, an Assistant Registration Officer or an Authorised Registering Officer or a Temporary Assistant Registration Officer before registering any person as an elector may, where he is in doubt as to the age or nationality of such person, require that person to produce-
-(a) either a certificate of birth or a statutory declaration
-that the person has attained the age of eighteen years; and
+(a) either a certificate of birth or a statutory
+declaration that the person has attained the age of eighteen years; and
 (b) either a certificate of naturalisation or a statutory
 declaration that he is a Commonwealth Citizen.
 (2) No fee shall be payable for any statutory declaration referred to in subrule (1).
@@ -566,10 +586,10 @@ Registration Rules [Subsidiary]
 (a) a Scrutineer who contravenes rule 55(3) or (4);
 (b) a person who fails to obey any summons issued
 or order made by virtue of rule 35(3);
-(c) a person who, without reasonable excuse, fails to
-comply with rule 41(1)(c);
-(d) a person who, without reasonable excuse, fails to
-surrender an identification card in accordance with rule 47(9) or 48(1).
+(c) a person who, without reasonable excuse, fails
+to comply with rule 41(1)(c);
+(d) a person who, without reasonable excuse, fails
+to surrender an identification card in accordance with rule 47(9) or 48(1).
 (2) A person guilty of an offence against these Rules is liable on summary conviction to a fine of seven hundred and fifty dollars and to imprisonment for six months. [Subsidiary]
 ELECTION RULES
 ARRANGEMENT OF RULES
@@ -581,8 +601,7 @@ ISSUE OF WRIT AND NOMINATION OF CANDIDATES
 the list of electors.
 6. Duty of Returning Officers to decide on nomination documents, and
 appeal to a Judge against such decision.
-7. Nomination of candidates. 8. Statutory declaration of qualifications. 9. Deposit.
-10. Right to attend nomination proceedings. 11. Decisions as to validity of nomination papers. 12. Returning Officer to post copy of nomination papers. 13. Transmission, return and forfeiture of deposit. 14. Withdrawal of candidature. 15. Method of election.
+7. Nomination of candidates. 8. Statutory declaration of qualifications. 9. Deposit. 10. Right to attend nomination proceedings. 11. Decisions as to validity of nomination papers. 12. Returning Officer to post copy of nomination papers. 13. Transmission, return and forfeiture of deposit. 14. Withdrawal of candidature. 15. Method of election.
 PART II
 PREPARATION FOR THE POLL
 16. Notice of taking of poll. 17. Death of candidate. 18. Manner of voting. 19. Provision of polling station. 20. Ballot boxes. 21. Custody of ballot boxes.
@@ -599,8 +618,8 @@ ARRANGEMENT OF RULES-Continued RULE
 49. Declaration by incapacitated elector's companion. 50. Mode of voting in special cases. 51. Questions to be put to electors. 52. Challenge of elector. 53. Interpreter. 54. Polling station diary. 55. Spoiled ballots. 56. Suspension or adjournment of poll. 57. Closing of poll. 58. Procedure at closing of poll.
 PART IV
 SPECIAL VOTING
-59. Special elector. 60. Voting by special elector. 61. Voting on polling day. 62. Determination of right to be treated as special elector. 63. Record and list of special electors. 64. Register of special electors. 65. Supply of election material to Returning Officer. 66. Ballot papers for special electors. 67. Persons entitled to be present at issue of ballot papers. 68. Declaration of secrecy. 69. Marking of ballot paper. 70. Refusal to issue ballot paper to special elector. 71. Covering envelope. 72. Delivery of ballot papers for special electors to the office of the Chief
-Election Officer.
+59. Special elector. 60. Voting by special elector. 61. Voting on polling day. 62. Determination of right to be treated as special elector. 63. Record and list of special electors. 64. Register of special electors. 65. Supply of election material to Returning Officer. 66. Ballot papers for special electors. 67. Persons entitled to be present at issue of ballot papers. 68. Declaration of secrecy. 69. Marking of ballot paper. 70. Refusal to issue ballot paper to special elector. 71. Covering envelope. 72. Delivery of ballot papers for special electors to the office of the
+Chief Election Officer.
 73. Special polling stations. 74. Sealing up of list of special electors.
 Election Rules [Subsidiary]
 RULE
@@ -608,8 +627,11 @@ RULE
 89A. Receipt to be given by Presiding Officer. 89B. Items to be delivered by Returning Officer. 89C. Opening of special ballot box.
 90. Procedure on receipt of special ballots. 91. Sealing up list of special electors and rejected ballot papers of
 special electors and declarations of identity.
-92. Station diary record of events. 93. Reopening of special ballot boxes. }
-94. to (Revoked by LN 240/1986). 96. 97. Procedure by Presiding Officer after closing of poll. 98. Loss, etc., of ballot box. 99. Police assistants.
+92. Station diary record of events. 93. Reopening of special ballot boxes.
+}
+94.
+(Revoked by LN 240/1986).
+to 96. 97. Procedure by Presiding Officer after closing of poll. 98. Loss, etc., of ballot box. 99. Police assistants.
 Election Rules [Subsidiary]
 ARRANGEMENT OF RULES-Continued
 RULE
@@ -624,16 +646,18 @@ SCHEDULE.
 *41/1967. ELECTION RULES
 deemed to be made under section 161
 1. These Rules may be cited as the Election Rules.
-2. In these Rules- "ballot box" means a receptacle for the reception of ballots cast
-at a polling station; "carrying case" means a carrying case referred to in rule 26(2)(b); "declaration of identity" means a declaration of identity referred
+Citation.
+2. In these Rules-
+Interpretation. [20 of 1976 "ballot box" means a receptacle for the reception of ballots cast
+28 of 1976 240/1986 at a polling station; 220/2000]. "carrying case" means a carrying case referred to in rule 26(2)(b); "declaration of identity" means a declaration of identity referred
 to in rule 71; "election notice" means an election notice referred to in rule 4; "file of answers to questions" means the file referred to in
 rule 24 and in rule 26(1)(e); "list of special electors" means a list of electors prepared under
-rule 63; "poll card box" means a box referred to in rule 26(1)(g); "register of electors", in relation to a polling station, means the
-unit register or registers of electors or the part of a unit register of electors, subject to such removals therefrom or additions thereto as may be effected under rule 64, containing the names of persons entitled to vote at the polling station and supplied to a Presiding Officer under rule 26(1)(c); " register of special electors" means the register of special electors
-referred to in rule 64; "registration number" means the serial number appearing on
+rule 63; "poll card box" means a box referred to in rule 26(1)(g); "register of electors", in relation to a polling station, means the unit
+register or registers of electors or the part of a unit register of electors, subject to such removals therefrom or additions thereto as may be effected under rule 64, containing the names of persons entitled to vote at the polling station and supplied to a Presiding Officer under rule 26(1)(c); "register of special electors" means the register of special
+electors referred to in rule 64; "registration number" means the serial number appearing on
 the registration record and on the identification card of an elector; "revised list of electors", in relation to a polling station, means
-the revised list of lists of electors containing the names of persons entitled to vote at the polling station and includes the names of those persons added thereto by a supplemental list referred to in rule 64A of the Registration Rules;
-*These Rules have been amended by the following: GNs 79/1968, 70/1971, Act No. 20 of 1975, 28 of 1976, GNs 122/1976, 126/1976, 138/1976, 48/1977, Act No. 45 of 1979, LNs 51/1980, 153/1981, 240/1986, 43/1988, 153/1991, 7 of 1992, 115/1992, 131/1992, 203/1998 and 220/2000.
+the revised list of lists of electors containing the names of persons entitled to vote at the polling station and includes the names of those persons added thereto by a supplemental list referred to in rule 64A of the Registration Rules; Sub. Leg.
+*These Rules have been amended by the following: GNs 79/1968; 70/1971; Act No. 20 of 1975; 28 of 1976, GNs 122/1976, 126/1976, 138/1976; 48/1977; Act No. 45 of 1979; LNs 51/1980; 153/1981; 240/1986; 43/1988; 153/1991; 7 of 1992, 115/1992, 131/1992; 203/1998 and 220/2000.
 Election Rules [Subsidiary]
 "special ballot box" means a ballot box specially provided for the
 purpose of special voting under Part IV; "special elector" means an elector whose name appears on a list
@@ -678,7 +702,7 @@ declaration is not signed as so required.
 (7) Where the Returning Officer has certified that the nomination paper of a candidate is invalid, the candidate or his agent may appeal against the decision to a Judge in Chambers not later than the sixth day before nomination day, by filing with the Registrar and serving on the Returning Officer a notice in the form set out as Form No. 36 in the Prescribed Forms Rules.
 (8) The Registrar shall give at least two days' notice in writing, to the appellant and to the Returning Officer, of the time and place fixed for the hearing of the appeal.
 (9) Every appeal under this rule shall be prosecuted and heard and determined by the Judge in such manner as may be prescribed by Rules of Court, and the costs of every such appeal shall be in the discretion of the Judge.
-(10) On every such appeal the appellant or the Returning Officer may be represented by an Attorney-at-Law.
+(10) On every such appeal the appellant or the Returning Officer may be represented by an Attorney-at-law.
 Election Rules [Subsidiary]
 (11) The Judge shall deliver his decision allowing or disallowing the appeal not later than two days before nomination day, and every such decision shall be certified to the Returning Officer under the hand of the Judge or of the Registrar and shall be final to all intents and purposes.
 7. (1) On the day and at the place fixed for the nomination of candidates, the Returning Officer shall attend between the hours of nine o'clock in the morning and twelve noon and between the hours of one and three o'clock in the afternoon for the purpose of receiving the nomination of any duly qualified candidate.
@@ -752,7 +776,9 @@ Election Rules [Subsidiary]
 21. (1) The Commission shall cause all ballot boxes to be securely kept and they shall be in its custody and control at all times except when they are in use at an election or when they are being used by a Court for the purposes of a petition or prosecution relating to an election.
 (2) The Commission shall cause all ballot boxes to be properly protected and preserved from damage or unnecessary deterioration and to be kept in good and proper repair, and shall not permit any person to tamper with them.
 Election Rules [Subsidiary]
-22. (1) As soon as possible after the nomination of candidates for an election the Commission shall cause ballot papers to be printed for use in that election.
+22. (1) As soon as possible after the nomination of Ballot papers.
+[70/1971 candidates for an election the Commission shall cause ballot
+20 of 1976]. papers to be printed for use in that election.
 (2) A ballot paper is a paper on which there is printed-
 (a) the name of each candidate, arranged
 alphabetically in order of surnames and numbered consecutively from the top beginning with the number "1";
@@ -760,6 +786,7 @@ alphabetically in order of surnames and numbered consecutively from the top begi
 (c) the symbol assigned to each candidate.
 (3) The name, address and occupation of a candidate shall be printed on ballot papers exactly as they appear on the nomination paper of that candidate.
 (4) A ballot paper when completed shall be in the form set out as Form No. 47 in the Prescribed Forms Rules.
+Sub. Leg. Form 47.
 (5) Subject to subrule (6), ballot papers shall be printed by the Government Printer who shall comply with the specifications and delivery dates prescribed by the Chief Election Officer. For this purpose the Government Printer shall keep in stock and in safe custody at all times a sufficient supply of the type of paper required for the printing of ballot papers at an election.
 (6) Where the Government Printer is unable to complete the printing of ballot papers he may arrange for the printing to be done by a private printery but ballot papers for one constituency shall not be printed by more than one private printery.
 (7) The Government Printer is required to deliver ballot papers wherever they may be printed to the Chief Election Officer. He shall deliver all the ballot papers printed and shall so certify to the Chief Election Officer. He shall also be required to certify that all spoilt or defective ballot papers printed have been destroyed and that all unused paper of the type used for the printing of ballot papers is in his possession and accounted for.
@@ -780,13 +807,13 @@ Election Rules [Subsidiary]
 (5) Available copies of the revised lists of electors for his electoral district shall be sold by the Returning Officer to candidates and to the general public at a price to be determined by the Commission.
 26. (1) The Returning Officer shall at least two clear days before polling day furnish to each Presiding Officer in his electoral district for use at his polling station a ballot box with locking devices, a polling station diary, a stamp with X mark to be used by electors to mark their ballots, and a guidance ballot, together with-
 (a) at least three copies of printed directions, in
-the form set out as Form No. 48 in the Prescribed
+the form set out as Form No. 48 in the
 Election Rules [Subsidiary]
-Forms Rules, for the guidance of electors in voting;
+Prescribed Forms Rules, for the guidance of electors in voting;
 (b) a copy of or excerpts from these Rules;
 (c) the register of electors for the polling station;
-(d) three copies of the revised list of electors entitled
-to vote at the polling station;
+(d) three copies of the revised list of electors
+entitled to vote at the polling station;
 (e) the file of answers to questions by electors whose
 names appear on the revised list of electors;
 (f) a sufficient number of poll cards for at least the
@@ -796,8 +823,8 @@ with one lock and key and a slit or narrow opening in the top, and so constructe
 (h) (Deleted by LN 220/2000);
 (i) the several forms of oaths to be administered to
 electors printed together on a card;
-(j) the necessary envelopes and such other forms and
-supplies as may be authorised or furnished by the Commission;
+(j) the necessary envelopes and such other forms
+and supplies as may be authorised or furnished by the Commission;
 (k) the key to the ballot box, the key to the poll card
 box, and the key to the carrying case referred to in subrule (2), each sealed in a separate envelope;
 (l) the necessary supplies of electoral ink.
@@ -807,8 +834,8 @@ no registration record can be removed from the register unless it is torn theref
 (b) the binder and the file of answers to questions
 shall be locked in a carrying case and the binder or the carrying case shall be sealed by the Returning Officer before its delivery to the Presiding Officer;
 Election Rules [Subsidiary]
-(c) the Returning Officer shall retain in his possession
-the key of the binder;
+(c) the Returning Officer shall retain in his
+possession the key of the binder;
 (d) the carrying case may not be opened, nor shall
 the seal on the binder or the carrying case be broken, except at such time and place as the
 Returning Officer shall direct.
@@ -838,9 +865,13 @@ as the case may be, may appoint another such agent in his place and the provisio
 (5) A candidate may himself do any act or thing which any Polling Agent of his, if appointed, would have been authorised to do, or may assist his Polling Agent in doing any such act or thing; but no candidate and his Polling Agent shall be in the same polling station at the same time for more than ten consecutive minutes.
 (6) A Polling Agent may, with the permission of the Presiding Officer, absent himself from the polling station during any period except the hour immediately prior to the closing of the poll.
 (7) Where by these Rules any act or thing is required or authorised to be done in the presence of the candidates or their election agents, Polling Agents or Special Polling Agents, the non-attendance of any such candidate or agent at the time and place appointed for the purpose, does not, if the act or thing is otherwise duly done, invalidate the act or thing done.
-31. (1) Before entering a polling station a declaration of secrecy, in the form set out as Form No. 51 in the Prescribed Forms Rules, shall be made by every person referred to in rule 32.
+31. (1) Before entering a polling station a declaration of
+Declaration of secrecy. secrecy, in the form set out as Form No. 51 in the Prescribed
+[20 of 1976 43/1988]. Forms Rules, shall be made by every person referred to in rule 32. Sub. Leg. Form 51.
 (2) The Chief Election Officer, the Deputy Chief Election Officer, the Assistant Chief Election Officer, a Registration Supervisor, a Returning Officer or an Election Clerk shall make the declaration referred to in subrule (1) in the presence of a Justice; and any other person shall make the declaration in the presence either of a Justice, Returning Officer or Election Clerk, and section 64(1), (2), (3), (5) and (6) of the Act shall be read to the declarant by the person taking the declaration.
-32. The Presiding Officer shall regulate the number of electors to be admitted to his polling station at the same time, and shall exclude all other persons except such of the following
+32. The Presiding Officer shall regulate the number of
+Admission to polling station. electors to be admitted to his polling station at the same time, and
+[20 of 1976 43/1988 shall exclude all other persons except such of the following 220/2000].
 Election Rules [Subsidiary]
 persons who he is satisfied have made the declaration required under rule 31:
 (a) the candidates and their Election Agents;
@@ -861,8 +892,8 @@ by the Returning Officer with the approval of the Commission.
 Election Rules [Subsidiary]
 34. The Presiding Officer, the Deputy Presiding Officer, the Poll Clerks and other polling station officers shall arrive at their polling stations on polling day not later than two hours before the opening of the poll.
 35. (1) Immediately before the opening of the poll the Presiding Officer shall in the presence of-
-(a) the Deputy Presiding Officer, the Poll Clerks and
-any other Polling Station Officers; and
+(a) the Deputy Presiding Officer, the Poll Clerks
+and any other Polling Station Officers; and
 (b) the candidates or their agents, open and inspect the ballot box to ascertain that there are no ballot papers or other papers or material therein, after which the box shall be locked by means of the outside lock, placed on the table of the officer in charge of the ballot box in full view of all present and shall remain so placed until the close of the poll.
 (2) Where neither the candidates nor their agents are present, the Presiding Officer shall call upon two electors to witness the opening of the ballot box.
 (3) The Presiding Officer shall open and inspect the poll card box in the same manner as the ballot box. The Presiding Officer shall then lock the poll card box, and place it on the table provided for the officer in charge of the ballot box in full view of all present where it shall remain until the close of the poll.
@@ -884,10 +915,10 @@ Election Rules [Subsidiary]
 (a) with his right thumb, where he has one;
 (b) where he has no right thumb, with the finger, as
 ascertained by the Poll Clerk from the unit register with which the elector is recorded as having made his impression on the registration record.
-*(8)Where the elector has no finger on either hand, the poll card shall be signed for and on his behalf by a companion or a candidate or Polling Agent or an Election Agent; and the Poll Clerk shall make a note to that effect upon the original of the poll card.
+*(8) Where the elector has no finger on either hand, the poll card shall be signed for and on his behalf by a companion or a candidate or Polling Agent or an Election Agent; and the Poll Clerk shall make a note to that effect upon the original of the poll card.
 (9) After the elector has signed his name or made his impression on the poll card, the Poll Clerk shall deliver to such person his identification card, if any, and direct him to give the poll card and identification card, if any, to the Deputy Presiding Officer or his nominee.
 (10) Subject to rule 40(13), the Poll Clerk shall then mark the consecutive number of the poll card on the revised list of electors opposite to the name of the elector.
-* "companion" is defined in rule 48(4).
+*"companion" is defined in rule 48(4).
 Election Rules [Subsidiary]
 (11) A prospective voter referred to in subrule (5) may be required by the Presiding Officer to stand in a separate line from and to be attended to after electors with identification cards.
 (12) If a person's name does not appear on the revised list of electors, the Poll Clerk shall check the register for the name of that person.
@@ -906,13 +937,13 @@ Election Rules [Subsidiary]
 poll card;
 (b) entering on the stub of the ballot paper intended
 to be given to that elector the consecutive number as recorded on the poll card and the number recorded against the elector's name on the revised list of electors in use at that polling station;
-(c) carefully detaching the ballots from the stub along
-the lines of perforation and placing the initial letters of his own name together with the polling station number in the place provided on the ballot for so doing;
+(c) carefully detaching the ballots from the stub
+along the lines of perforation and placing the initial letters of his own name together with the polling station number in the place provided on the ballot for so doing;
 (d) using the guidance ballot, instructing the elector
 in the procedure for voting and the manner in which the ballot is to be folded after the elector has signified his vote thereon;
 (e) delivering the ballot to the elector;
-(f) handing to the elector the stamp with "X" mark
-or other instrument provided for electors to mark their ballots at the election and directing the elector to the voting booth where he shall mark his ballot by imprinting or marking an "X" against the particulars of the candidate of his choice with the stamp or other instrument provided therefor.
+(f) handing to the elector the stamp with "X" mark or
+other instrument provided for electors to mark their ballots at the election and directing the elector to the voting booth where he shall mark his ballot by imprinting or marking an "X" against the particulars of the candidate of his choice with the stamp or other instrument provided therefor.
 (5) The elector shall then fold his ballot so that the initials of the Presiding Officer or his nominee can be seen without opening the ballot, proceed to the officer in charge of the ballot box, displaying the ballot and handing over his poll card to him. Where the ballot is not so folded, the officer in charge of the ballot box shall require the elector to fold the ballot as required by this subrule.
 Election Rules [Subsidiary]
 (6) The officer in charge of the ballot box upon satisfying himself-
@@ -942,8 +973,7 @@ Election Rules [Subsidiary]
 (19) An elector whose ballot is destroyed under subrule (18) shall not be issued another ballot paper at that election.
 41. Where a Municipal Council election takes place in which election for a City, Borough or Regional Municipality is held on the same day, the Presiding Officer notwithstanding rule 40(6), shall not prohibit a person who is qualified to be an elector for the City or Borough election under section 13(1)(e) of the Act and who presents himself at a polling station-
 (a) in the City or Borough electoral district from
-voting on the ground only that any finger of such person has a mark of electoral ink in use in the
-Regional Municipality election; or
+voting on the ground only that any finger of such person has a mark of electoral ink in use in the Regional Municipality election; or
 (b) in the Regional Municipality electoral district
 from voting on the ground only that any finger of such person has a mark of electoral ink in use in the said City or Borough election, if the Presiding Officer is satisfied that the person is not exercising more than one vote either in the Municipal Council election or in the Regional Municipality election. The Presiding Officer shall require the elector to immerse any finger other than the finger bearing such electoral ink, in the appropriate electoral ink.
 42. Where an elector's name does not appear on the revised list of electors for the polling station at which he is qualified to vote but his registration record appears in the unit register, the elector shall be required to take the oath in the form set out as Form No. 54 in the Prescribed Forms Rules before he is permitted to vote and such oath shall be administered by the Presiding Officer or his nominee.
@@ -999,13 +1029,12 @@ Election Rules [Subsidiary]
 (a) a candidate or his Polling Agent or election agent
 declares to the Presiding Officer that he has reasonable cause to believe that the person has committed an offence of personation and undertakes to substantiate the charge in Court; or
 (b) the Presiding Officer has reasonable cause to
-believe that the person has committed the offence of personation,
-the Presiding Officer may order a police officer to arrest that person and the order of the Presiding Officer shall be sufficient authority for the police officer to do so.
+believe that the person has committed the offence of personation, the Presiding Officer may order a police officer to arrest that person and the order of the Presiding Officer shall be sufficient authority for the police officer to do so.
 (2) A person who is arrested under this rule shall not by reason thereof be prevented from voting.
 (3) A person arrested under this rule shall be dealt with as a person taken into custody by a police officer for an offence without a warrant.
-53. (1) Whenever the Presiding Officer does not understand the language spoken by any elector, he shall appoint an interpreter who shall be the means of communication between the elector and
+53. (1) Whenever the Presiding Officer does not understand the language spoken by any elector, he shall appoint an interpreter who shall be the means of communication between
 Election Rules [Subsidiary]
-any Election Officer at the polling station with reference to all matters required to enable that elector to vote, but in case no interpreter is found, the elector shall be allowed to vote.
+the elector and any Election Officer at the polling station with reference to all matters required to enable that elector to vote, but in case no interpreter is found, the elector shall be allowed to vote.
 (2) Every interpreter appointed under this rule shall take oath in the form set out as Form No. 63 in the Prescribed Forms Rules, and the Presiding Officer shall make a note on the poll card of the elector of the appointment of the interpreter.
 54. (1) The Presiding Officer shall cause to be maintained at each polling station a record to be called a polling station diary.
 (2) The Presiding Officer shall cause to be recorded in the polling station diary, in addition to any event which in his opinion ought to be so recorded-
@@ -1015,8 +1044,8 @@ the candidates or their agents were present;
 officer and Polling Agents at the polling station;
 (b) the name of any person who votes under rule 50(1)
 or (5);
-(c) the name, address and identification card number
-of any person who claims to be registered and entitled to vote at that polling station but whose name does not appear on the revised list of electors or in the unit register at that polling station;
+(c) the name, address and identification card
+number of any person who claims to be registered and entitled to vote at that polling station but whose name does not appear on the revised list of electors or in the unit register at that polling station;
 (d) the name of any elector who is not permitted to
 vote because of his refusal to take an oath or to comply with any lawful direction of the Presiding Officer provided for in this Act or the Rules made thereunder and which is required to be complied with before the elector casts his vote;
 (e) any objection recorded by a candidate or his agent;
@@ -1025,8 +1054,8 @@ to contain some foreign element and is placed in the special envelope reserved f
 Election Rules [Subsidiary]
 (g) the name of any elector who is required to take
 an oath and the form of the oath;
-(h) a certificate as to the number of persons who voted
-at the polling station signed by them and other polling station officials;
+(h) a certificate as to the number of persons who
+voted at the polling station signed by them and other polling station officials;
 (i) destroyed ballots and spoiled ballots;
 (j) a statement of the result of the poll; and
 (k) the circumstances surrounding any destroyed
@@ -1043,8 +1072,8 @@ station diary.
 (2) Where the poll is adjourned at a polling station under this rule-
 (a) the hours of the poll on the day to which it is
 adjourned shall be the same as for the original day; and
-(b) references in this Act to the close of the poll shall
-be construed accordingly.
+(b) references in this Act to the close of the poll
+shall be construed accordingly.
 57. Immediately after the last elector has voted after 6.00 p.m. the Presiding Officer shall announce the close of the poll.
 Election Rules [Subsidiary]
 58. (1) The Presiding Officer shall record in the polling station diary the hour at which the poll was closed and the number of persons who voted at that polling station as recorded on the stub of the last ballot paper issued excluding the total number of destroyed and spoiled ballots.
@@ -1059,8 +1088,8 @@ Force;
 (ba) a member of the Prison Service;
 (c) a member of the Commission, the Chief Election
 Officer, the Deputy Chief Election Officer, and the Assistant Chief Election Officer;
-(d) the Returning Officer of an electoral district other
-than that in which he is registered for the purposes of the election;
+(d) the Returning Officer of an electoral district
+other than that in which he is registered for the purposes of the election;
 (e) a Presiding Officer, a Deputy Presiding Officer
 or a Poll Clerk;
 (f) a Polling Agent;
@@ -1076,7 +1105,7 @@ the polling station at which he is entitled to vote by reason of being-
 (i) a patient in a public hospital, or in a private
 hospital approved by the Commission, or an inmate in a public institution; or
 (ii) a prisoner within the meaning of that
-expression in section 2 of the Prisons Act.
+expression in section 2 of the Prisons Act;
 (k) a member of the flight crew of an aircraft;
 (l) a person engaged in offshore petroleum
 operations, or any other person or member of any other organisation as the Commission sees fit.
@@ -1129,9 +1158,9 @@ Election Rules [Subsidiary]
 (3) Every such ballot box shall be shown open and empty to any candidate, election agent, special polling agent or elector who may be present and shall then be locked by the Returning Officer and sealed with the seal of the Returning Officer and the seals of such of the above-mentioned persons as desire to affix their seals in such manner as to prevent its being opened without breaking the seal.
 (4) Every such ballot box shall be marked "special ballot box" and with the name of the electoral district for which the election is held.
 (5) The Returning Officer shall make provision for the safe custody of every such ballot box.
-74. The Returning Officer, as soon as practicable after the completion of the issue of the ballot papers and in the presence of the persons referred to in rule 73(3), shall make up in a packet
+74. The Returning Officer, as soon as practicable after the completion of the issue of the ballot papers and in the presence of the persons referred to in rule 73(3), shall make up in a packet the
 Election Rules [Subsidiary]
-the copy of the list of special electors marked under rule 69; and such packet shall be sealed with the seal of the Returning Officer and of any of the other persons present who desire to affix their seals thereto.
+copy of the list of special electors marked under rule 69; and such packet shall be sealed with the seal of the Returning Officer and of any of the other persons present who desire to affix their seals thereto.
 75. The hours of operation of a special polling station established for an electoral district under rule 73 shall be fixed by the Commission and published in the Gazette and in at least one daily newspaper circulated in Trinidad and Tobago.
 76. (1) Where the Commission is of the opinion-
 (a) that any category of special elector as specified
@@ -1148,10 +1177,10 @@ Election Rules [Subsidiary]
 80. The voting at a special polling station established under rule 73 shall be supervised by the Returning Officer or his Election Clerk, and in so doing the Returning Officer or Election Clerk shall be designated a Special Presiding Officer.
 81. Each employer or person in charge of an institution shall, where notice is given to him by the Commission of its intention to establish a special polling station for the convenience of persons working, resident or confined in an area under his control, provide such facilities as may be necessary for the Special Presiding Officer to function and for the special electors to cast their vote in secrecy.
 82. Before a special elector is permitted to cast his vote, the Special Presiding Officer shall, after the special elector has identified himself-
-(a) request the special elector to supply his name and
-address and occupation, and where the polling station is established under rule 76, the electoral district for which he is a special elector, the covering envelope and if available, his identification card;
-(b) check the list of special electors for that electoral
-district supplied to him by the Chief Election Officer to establish whether there is an entry corresponding to the information given;
+(a) request the special elector to supply his name
+and address and occupation, and where the polling station is established under rule 76, the electoral district for which he is a special elector, the covering envelope and if available, his identification card;
+(b) check the list of special electors for that
+electoral district supplied to him by the Chief Election Officer to establish whether there is an entry corresponding to the information given;
 (c) where the check required by paragraph (b)
 establishes the information given, request him to display-
 (i) the ballot paper in his possession so as to
@@ -1186,7 +1215,8 @@ of covering envelopes contained therein tallies with the number recorded by the 
 (b) check the name and address appearing on the
 declaration of identity on each covering envelope against the list of special electors;
 (c) where the declaration of identity is incomplete,
-return the covering envelope to the Special Presiding Officer for completion;
+return the covering envelope to the Special
+Presiding Officer for completion;
 (d) record individually in the record book at the
 polling station the name and address of each elector as recorded on the declaration of identity on the covering envelope and the special polling station at which the vote was cast; and
 (e) without opening the covering envelopes insert
@@ -1207,8 +1237,8 @@ Election Rules [Subsidiary]
 90. (1) The Presiding Officer shall then separately open each covering envelope contained therein.
 (2) Where the envelope does not contain a ballot paper the Presiding Officer shall mark the covering envelope "No ballot paper" and also "rejected" and attach thereto the contents (if any) of the envelopes, and place the same into a separate receptacle (hereinafter referred to as "the receptacle for votes rejected").
 (3) Where the envelope does contain a ballot paper the Presiding Officer shall satisfy himself that-
-(a) the declaration of identity printed on the covering
-envelope has been duly signed;
+(a) the declaration of identity printed on the
+covering envelope has been duly signed;
 (b) the signature on the declaration of identity
 corresponds with the signature on the registration record of the elector in the register of special electors;
 (c) that the initials appearing on the ballot paper are
@@ -1223,8 +1253,8 @@ to the persons authorised by the Presiding Officer to be present;
 Election Rules [Subsidiary]
 (d) place the covering envelope in the receptacle for
 votes rejected;
-(e) add the words "rejection objected to" and the letter
-"Q" to the covering envelope if an objection is made by a candidate or an election agent or any counting agent to his decision.
+(e) add the words "rejection objected to" and the
+letter "Q" to the covering envelope if an objection is made by a candidate or an election agent or any counting agent to his decision.
 (5) If the Presiding Officer is satisfied as in subrule (3), he shall-
 (a) place the covering envelope on which the
 declaration of identity is printed in a separate receptacle (hereinafter referred to as "the receptacle for covering envelopes");
@@ -1250,8 +1280,8 @@ the book of ballot papers, place them with the stub of all used ballot papers in
 Election Rules [Subsidiary]
 (c) check the number of ballot papers supplied by
 the Returning Officer against the number of spoiled ballot papers, if any, the number of unused ballot papers and the number of destroyed ballot papers as recorded in the polling station diary and the number of voters at the polling station as reflected on the stub of the last ballot issued at that polling station, in order to ascertain that all ballot papers are accounted for;
-(d) record the number of ballots and ballot papers on
-the Statement of the Poll in the form set out as Form No. 69 in the Prescribed Forms Rules;
+(d) record the number of ballots and ballot papers
+on the Statement of the Poll in the form set out as Form No. 69 in the Prescribed Forms Rules;
 (e) open the ballot box and empty its contents upon
 a table;
 (f) take the suspect ballots, if any, from the special
@@ -1270,8 +1300,8 @@ one (1) candidate;
 Election Rules [Subsidiary]
 (d) where it cannot be established for whom the
 elector has voted;
-(e) upon which there is any writing or mark by which
-the elector can be identified.
+(e) upon which there is any writing or mark by
+which the elector can be identified.
 (3) No ballot shall be rejected by reason only that-
 (a) it has on it any number or mark placed thereon
 by the Presiding Officer; or
@@ -1354,18 +1384,17 @@ Election Rules [Subsidiary]
 107. (1) Each candidate or his agent may appoint one agent to be present at the final count or the check of the result of the poll and to attend the declaration of the result of the poll.
 (2) An appointment of an agent for the purposes of this rule shall be in the form set out as Form No. 71 in the Prescribed Forms Rules.
 108. (1) Subject to subrule (2), the Returning Officer shall, on the seventh day next following the day on which he declared the result of the poll under rule 104, deliver personally or transmit by registered post to the Chief Election Officer-
-(a) the writ with his return in the form set out as Form
-No. 72 in the Prescribed Forms Rules and endorsed thereon that the candidate for whom the most votes have been given has been elected;
-(b) a report of his proceedings in the form prescribed
-by the Commission;
+(a) the writ with his return in the form set out as
+Form No. 72 in the Prescribed Forms Rules and endorsed thereon that the candidate for whom the most votes have been given has been elected;
+(b) a report of his proceedings in the form
+prescribed by the Commission;
 (c) the recapitulation sheets in the form prescribed by
 the Commission showing the number of votes cast for each candidate at each polling station, and making such observations as the Returning Officer may think proper as to the state of the election papers as received from his Presiding Officers;
 (d) the returns from each polling station enclosed in
 sealed envelopes, including the polling station diary, a packet containing spoiled ballot papers, a packet containing rejected ballots, a packet containing destroyed ballots, a packet containing stubs and unused ballot papers, a packet containing rejected ballots, a packet containing the revised list of electors used at the polling station and a packet containing the written appointments of the candidates' agents;
 (e) the Statement of the Poll;
-}
+} (Revoked by LN 240/1986);
 (f)
-(Revoked by LN 240/1986);
 (g)
 (h) the sealed packets referred to in rules 74 and 91;
 Election Rules [Subsidiary]
@@ -1412,75 +1441,93 @@ GENERAL
 (2) For each polling station rented for polling day there shall be paid a sum fixed by the Commission from time to time.
 111. Office or certified copies of any election documents supplied by an Election Officer shall be paid for at the rate of twenty-five cents for every folio of one hundred words.
 112. Any person whose presence is secured by the Chief Election Officer or a Returning Officer for the purpose of witnessing any proceedings under these Rules shall be paid a fee of one hundred dollars for each day or part thereof during which he attends for such purpose, and such travelling and subsistence expenses as he may have, in the opinion of the Returning Officer, reasonably incurred. Election Rules [Subsidiary]
-(Rule 23). SCHEDULE
-SYMBOLS [Subsidiary]
+SCHEDULE (Rule 23). SYMBOLS [Subsidiary]
 *PRESCRIBED FORMS RULES deemed to be made under section 161
 1. These Rules may be cited as the Prescribed Forms Rules.
-2. For the purposes of these Rules, a reference to a Municipal
-Council shall be construed as a reference to the Tobago House of Assembly.
+2. For the purposes of these Rules, a reference to a
+Municipal Council shall be construed as a reference to the Tobago House of Assembly.
 2A. For the purposes of these Rules, a reference to a Regional
 Corporation shall be construed as a reference to the Tobago House of Assembly.
 3. The forms set out in the Schedule are hereby prescribed.
-*The Rules have been amended by the following: 20 of l975 and 20 of 1976; GNs 122/1976, 48/1977 and 116/1977; LNs 45/1980, 145/1981, 181/1983, 239/1986, 154/1991, 163/1991, 116/1992, 202/1998 and 222/2000.
+*The Rules have been amended by the following: 20 of l975 and 20 of 1976; GNs 122/1976; 48/1977 and 116/1977; LNs 45/1980; 145/1981; 181/1983; 239/1986; 154/1991, 163/1991; 116/1992; 202/1998 and 222/2000.
 Prescribed Forms Rules [Subsidiary]
 SCHEDULE
 FORMS
 ARRANGEMENT OF FORMS
 Form No. Heading Section of Act
 1. Oath of Chief Election Officer … … … 3(3) 2. Writ of Election … … … 33(3) 3. Return of Election Expenses authorised by an
-Election Agent and Declaration to accompany
-the same … … … 47(5)
-4. Election Expenses Return … … … 52(1) 5. Declaration by Candidate or Election Agent … 53 6. Oath or affirmation of Election Officer other than the Chief Election Officer … … … 157(1)
+Election Agent and Declaration to accompany the same … … … 47(5)
+4. Election Expenses Return … … … 52(1) 5. Declaration by Candidate or Election Agent … 53 6. Oath or affirmation of Election Officer other than
+the Chief Election Officer … … … 157(1)
 Registration Rule
-7. (Deleted by LN 239/1986) 8. Notice of Disallowance of Registration … … 10(2) 9. (Deleted by LN 222/2000)
-10. Registration Record … … … 11(1) 11. (Deleted by LN 222/2000) 11A. Identification Card … … … 11(1A)
-12. List of Twenty Questions … … … 16(1) 13. Acknowledgement of Application for Registration/ Replacement of Identification Card … … 18
-14. Application for Exemption from taking photograph 24(2) 15. Notice of objection to registration of an elector … 32 16. Application to Registration Officer for registration as an elector … … … 33(1)
-17. Notice of enquiry by Registration Officer into objection to or disallowance of registration as an elector … … … 35(2)
-18. Notice of disallowance by Registration Officer of application for registration as an elector … … 35(9)
-19. Check Card … … … 36 20. Notice of enquiry consequent upon report under rule 37 … … … 38(1)
-21. Notice of intention to cancel registration … … 41(4) 22. Notice of change of residence or address … … 43(1) 23. Notice of change of name … … … 45(1) 24. Application for replacement of identification card … … … 47(2)
+7. (Deleted by LN 239/1986) 8. Notice of Disallowance of Registration … … 10(2) 9. (Deleted by LN 222/2000) 10. Registration Record … … … 11(1) 11. (Deleted by LN 222/2000) 11A. Identification Card … … … 11(1A)
+12. List of Twenty Questions … … … 16(1) 13. Acknowledgement of Application for Registration/
+Replacement of Identification Card … … 18
+14. Application for Exemption from taking photograph 24(2) 15. Notice of objection to registration of an elector … 32 16. Application to Registration Officer for registration
+as an elector … … … 33(1)
+17. Notice of enquiry by Registration Officer into
+objection to or disallowance of registration as an elector … … … 35(2)
+18. Notice of disallowance by Registration Officer of
+application for registration as an elector … … 35(9)
+19. Check Card … … … 36 20. Notice of enquiry consequent upon report under
+rule 37 … … … 38(1)
+21. Notice of intention to cancel registration … …
+41(4)
+22. Notice of change of residence or address … …
+43(1)
+23. Notice of change of name … … …
+45(1)
+24. Application for replacement of
+identification card … … … 47(2)
 Prescribed Forms Rules [Subsidiary]
 ARRANGEMENT OF FORMS-Continued
 Form No. Heading Registration Rule
-25. Preliminary List of Electors (House of Representatives and Tobago House of Assembly Elections) … … … 50(3)(a)
-26. Preliminary List of Electors (Municipal Council Elections) … … … 50(3)(b)
-27. Notice of Preliminary List of Electors … … 58 28. Application by elector omitted from Preliminary List for inclusion in Revised List … … … 60
-29. Revised List of Electors (Parliamentary, Municipal Council and Tobago House of Assembly Elections) 62(3) 29A. Supplemental List of Electors … … … 64A
-30. Revised List of Electors (Municipal Council Election) … … … 62(3)
-31. Option where person has more than one place of residence … … … 66(5)
+25. Preliminary List of Electors (House of
+Representatives and Tobago House of Assembly Elections) … … … 50(3)(a)
+26. Preliminary List of Electors (Municipal Council
+Elections) … … … 50(3)(b)
+27. Notice of Preliminary List of Electors … … 58 28. Application by elector omitted from Preliminary
+List for inclusion in Revised List … … … 60
+29. Revised List of Electors (Parliamentary, Municipal
+Council and Tobago House of Assembly Elections) 62(3) 29A. Supplemental List of Electors … … … 64A
+30. Revised List of Electors (Municipal Council
+Election) … … … 62(3)
+31. Option where person has more than one place
+of residence … … … 66(5)
 32. Statutory Declaration … … … 67(2) 33. Oath of Interpreter … … … 71(2) 34. Enquiry as to address … … … 72(1)
 Election Rule
 35. Notice of Election … … … 4(1)(a) 36. Notice of Appeal (invalid nomination paper) … 6(7)
-7(2),(3) 37. Nomination Paper (in person) … … … 7(2),(3) 38. Nomination Paper (by proposers) … … …
+7(2), (3) 37. Nomination Paper (in person) … … … 7(2), (3) 38. Nomination Paper (by proposers) … … …
 39. Statutory Declaration (candidate)-Parliamentary
 8 election … … …
-40. Statutory Declaration (proposers)-Parliamentary election … … … 8
+40. Statutory Declaration (proposers)-Parliamentary
+election … … … 8
 41. Statutory Declaration (candidate)-Municipal
 Council election) … … … 8
 42. Statutory Declaration (proposers)-Municipal
 Council election) … … … 8
-43. Statutory Declaration (candidate)-Tobago House of Assembly election) … … … 8
-44. Statutory Declaration (proposers)-Tobago House of Assembly election) … … … 8
+43. Statutory Declaration (candidate)-Tobago House
+of Assembly election) … … … 8
+44. Statutory Declaration (proposers)-Tobago House
+of Assembly election) … … … 8
 45. Return of Uncontested Election … … … 15(2) 46. Notice of Taking a Poll … … … 16(2) 47. Ballot Paper … … … 22(4)
 Prescribed Forms Rules [Subsidiary]
 Form No. Heading Election Rule
-48. Guidelines for Voting on Election Day … … 26(1)(a)
-30(2) 49. Appointment of Polling Agent … … … 30(2) 50. Appointment of Special Polling Agent … … 31(1), 83(1) 51. Declaration of Secrecy … … … 38(4) 52. Poll Card … … … 38(5) 53. Oath of elector without identification card … 40(10), 42, 54. Oath of identity … … … 50(3), 51(6)
-55. Oath of Qualification of Elector (Parliamentary, Tobago House of Assembly and Municipal Council
-43(1), 50(4) Election) … … …
+48. Guidelines for Voting on Election Day … … 26(1)(a) 49. Appointment of Polling Agent … … … 30(2) 50. Appointment of Special Polling Agent … … 30(2) 51. Declaration of Secrecy … … … 31(1), 83(1) 52. Poll Card … … … 38(4) 53. Oath of elector without identification card … 38(5) 54. Oath of identity … … … 40(10), 42,
+50(3), 51(6)
+55. Oath of Qualification of Elector (Parliamentary,
+Tobago House of Assembly and Municipal Council Election) … … … 43(1), 50(4)
 56. Oath of residence qualification of elector
-43(1) (Municipal Council Election) … … …
-57. Oath of property qualification of elector (Municipal
-43(1) Council Election) … … … 48 58. Oath of a blind or visually impaired elector … 48 59. Oath of elector incapacitated by other physical cause 49(1) 60. Declaration by companion of elector … … 50(1) 61. Oath of a personated elector … … … 51(4) 62. List of Questions … … … 53(2) 63. Oath of Interpreter … … … 63(4) 64. List of special electors … …
-65. (Deleted by LN 239/1986)
-68(1) 66. Declaration of secrecy (special poll) … … 71 67. Declaration of identity … …
-68. (Deleted by LN 239/1986)
-97(1)(d), 97(12) 69. Statement of the Poll … … …
-70. Oath of messenger sent to collect ballot boxes, poll
-97(17) card boxes and carrying cases … … 88 70A. Oath of messenger sent with special ballot box …
-71. Appointment of agent for final count/check of result
-107(2) of poll … … … 108(1)(a) 72. Return after poll has been taken … …
+(Municipal Council Election) … … … 43(1)
+57. Oath of property qualification of elector
+(Municipal Council Election) … … … 43(1)
+58. Oath of a blind or visually impaired elector … 48 59. Oath of elector incapacitated by other physical 48
+cause 49(1)
+60. Declaration by companion of elector … … 50(1) 61. Oath of a personated elector … … … 51(4) 62. List of Questions … … … 53(2) 63. Oath of Interpreter … … … 63(4) 64. List of special electors … … 65. (Deleted by LN 239/1986) 68(1) 66. Declaration of secrecy (special poll) … … 71 67. Declaration of identity … … 68. (Deleted by LN 239/1986) 97(1)(d), 97(12) 69. Statement of the Poll … … … 70. Oath of messenger sent to collect ballot boxes, poll 97(17)
+card boxes and carrying cases … … 88 70A. Oath of messenger sent with special ballot box …
+71. Appointment of agent for final count/check of 107(2)
+result of poll … … … 108(1)(a)
+72. Return after poll has been taken … …
 Prescribed Forms Rules [Subsidiary]
 FORM NO. 1
 REPRESENTATION OF THE PEOPLE ACT
@@ -1488,8 +1535,8 @@ OATH OF CHIEF ELECTION OFFICER
 I, ..., having been appointed Chief Election Officer for Trinidad and Tobago, do swear that I will, to the best of my ability, faithfully perform all the duties of Chief Election Officer in accordance with the provisions of the Representation of the People Act, and of any Rules made thereunder.
 ...
 Chief Election Officer
-Sworn before me at...,
-this ...day of..., 20...
+Sworn before me at ...,
+this ... day of... 20...
 ...
 Judge of the High Court
 Prescribed Forms Rules [Subsidiary]
@@ -1501,16 +1548,16 @@ By His Excellency ...
 ... President and Commander-in-Chief of Trinidad and Tobago.
 President
 TO THE RETURNING OFFICER OF THE ELECTORAL DISTRICT OF ...
-†WHEREAS I think it expedient that writs should issue for the election of members to serve in the House of Representatives*/the Municipal Council of the City*/ Borough* of ... /Regional Corporation* of .../Tobago House of Assembly*:
+†WHEREAS I think it expedient that writs should issue for the election of members to serve in the House of Representatives*/the Municipal Council of the City*/Borough* of ... /Regional Corporation* of .../Tobago House of Assembly*:
 ‡WHEREAS the seat of the member of the electoral district of ... has become vacant in consequence of ...
-I COMMAND YOU that notice of the time and place of election being first duly given you do, on the ... day of ... 20..., which said day shall be nomination day in the said electoral district of ..., cause election to be made according to law of a member to serve in the House of Representatives*/the Council of the...Corporation*/Tobago House of Assembly* for the said electoral district of ... and that, if necessary, you do cause a poll to be taken on the ... day of ... 20..., and that you do cause the name of such member when so elected to be certified to the Chief Election Officer on the seventh day next, following the declaration by you of the result of the poll.
-Given under my Hand and the Seal of the President of the Republic Trinidad and Tobago this ... day of ..., 20...
+I COMMAND YOU that notice of the time and place of election being first duly given you do, on the ... day of ... 20..., which said day shall be nomination day in the said electoral district of ..., cause election to be made according to law of a member to serve in the House of Representatives*/the Council of the ... Corporation*/Tobago House of Assembly* for the said electoral district of ... and that, if necessary, you do cause a poll to be taken on the ... day of ... 20..., and that you do cause the name of such member when so elected to be certified to the Chief Election Officer on the seventh day next, following the declaration by you of the result of the poll.
+Given under my Hand and the Seal of the President of the Republic Trinidad and Tobago this ... day of ... 20...
 Prescribed Forms Rules [Subsidiary]
 (Reverse side of Form)
 Indorsement
-Received the within Writ on the ... day of ..., 20...
+Received the within Writ on the ... day of ... 20...
 Returning Officer for the electoral district of ...
-* Delete if inapplicable. † To be included in a writ for a general election. ‡ To be included in a writ for a bye-election.
+*Delete if inapplicable. †To be included in a writ for a general election. ‡To be included in a writ for a bye-election.
 Prescribed Forms Rules [Subsidiary]
 FORM NO. 3
 REPRESENTATION OF THE PEOPLE ACT
@@ -1539,22 +1586,21 @@ Received of the above-named candidate/Paid by me* $ ... Received of ...
 and the amount received from him) ...
 $ ...
 EXPENDITURE
-NOTE: The Return shall deal under a separate heading or sub-heading with
-any expenses included therein incurred on account of any purposes referred to in section 50 of the above Act Candidate's personal expenses- Paid by him/by me as candidate* $ ... Paid by me/by me acting as my election agent* $ ... Received by me for my services as election agent ...
+NOTE: The Return shall deal under a separate heading or sub-heading
+with any expenses included therein incurred on account of any purposes referred to in section 50 of the above Act Candidate's personal expenses- Paid by him/by me as candidate* $ ... Paid by me/by me acting as my election agent* $ ... Received by me for my services as election agent ...
 (omit if candidate is his own election agent)
 ...
-$ ... * Delete if inapplicable.
+$ ...
+*Delete if inapplicable.
 Prescribed Forms Rules [Subsidiary]
 Paid to† ... as sub-agent of polling division No... $ ... Paid to† ... as Polling Agent $ ... Paid to† ... as Counting Agent $ ... Paid to† ... as clerk for ... days service $ ... Paid to† ... as messenger for ... days service $ ... Paid to the following persons in respect of goods supplied or work and labour done- To†...
 (here set out the nature of the goods supplied or work and labour done thus-
 ...
 (printing), (advertising), (publishing), (issuing and distributing address and notices)
 ...
-$ ... Paid for the hire of rooms-
-for holding public meetings- Paid to† ... for hire of ...
+$ ... Paid for the hire of rooms- for holding public meetings- Paid to† ... for hire of ...
 (identify the rooms by naming or describing them)
-$ ...
-for committee rooms-
+$ ... for committee rooms-
 Paid to† ... for hire of ...
 (identify the rooms by naming or describing them)
 $ ...
@@ -1563,8 +1609,7 @@ Paid for telegrams $ ...
 Prescribed Forms Rules [Subsidiary]
 FORM NO. 4-Continued
 No. of electoral vehicles employed ... at §$ ... Paid to† ... for transporting electors to the polls §$ ...
-In addition to the above I am aware (unless the candidate is his own election agent add as election agent for the above-named candidate) of the following disputed and unpaid claims: † Set out separately the name, address and occupation of each person with the amount paid to him. Disputed claims-
-By‡ ...for
+In addition to the above I am aware (unless the candidate is his own election agent add as election agent for the above-named candidate) of the following disputed and unpaid claims: † Set out separately the name, address and occupation of each person with the amount paid to him. Disputed claims- By‡ ... for
 ...
 (here set out the goods, work and labour or other matter on the ground of which
 ...
@@ -1582,9 +1627,9 @@ FORM NO. 5
 REPRESENTATION OF THE PEOPLE ACT
 DECLARATION BY CANDIDATE OR
 ELECTION AGENT
-Election in the Electoral District of... Date of publication of result of election ... Name of Candidate ... I solemnly and sincerely declare as follows:
+Election in the Electoral District of ... Date of publication of result of election ... Name of Candidate ... I solemnly and sincerely declare as follows:
 - Margin: [Section 3(3)].
-- Margin: [Section 33(3)]. 181/1983.
+- Margin: [Section 33(3)]. [181/1983].
 - Margin: [Section 47(5)].
 - Margin: [Section 52(1)].
 - Margin: (Section 53).

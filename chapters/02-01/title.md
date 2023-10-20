@@ -2,27 +2,28 @@ REPRESENTATION OF THE PEOPLE ACT
 CHAPTER 2:01
 Act
 41 of 1967 Amended by 20 of 1975 20 of 1976 28 of 1976
-51/1980 8 of 1980 37 of 1980 38 of 1980 26 of 1986 25 of 1987 21 of 1990* 7 of 1992* 8 of 1992 51 of 2000
-*See Note at page 2
+51/1980 8 of 1980 37 of 1980 38 of 1980 26 of 1986 25 of 1987 *21 of 1990 *7 of 1992 8 of 1992 51 of 2000 *6 of 2023
+(*See Note at page 2)
 Index of Subsidiary Legislation
-Page Registration Rules (41 of 1967)... 96 Election Rules (41 of 1967) ... 144 Prescribed Forms Rules (41 of 1967) ... 212 Election Proceedings Rules (LN 267/2001) ... 304
+Page Registration Rules (41 of 1967) ... 96 Election Rules (41 of 1967) ... 144 Prescribed Forms Rules (41 of 1967) ... 212 Election Proceedings Rules (LN 267/2001) ... 304
 Comparative Table of Schedules
-Act No. 41 of 1967 Ch. 2:01
+Act No. 41 of 1967 Chap. 2:01
 First Schedule First Schedule Second Schedule Registration Rules Third Schedule Election Rules Fourth Schedule Second Schedule Fifth Schedule Prescribed Forms Rules Sixth Schedule Third Schedule
 Note on Omissions
-Orders and Proclamations made under sections 29 and 30 of the Act have been omitted. References to these may be found in the Current Consolidated Index of Acts and Subsidiary Legislation.
+Orders and Proclamations made under sections 29 and 30 of the Act have been omitted. References to these may be found in the current Consolidated Index of Acts and Subsidiary Legislation.
 Note on Act No. 21 of 1990
-The Municipal Corporations Act (21 of 1990) repealed the County Councils Act (Ch. 25:04) and replaced the First Schedule (Registration Areas) to the Representation of the People Act. As a result all references in the Representation of the People Act to County Councils, etc., have been removed/replaced with nomenclature to bring the said Act in line with the Municipal Corporations Act.
+The Municipal Corporations Act (21 of 1990) repealed the County Councils Act (Chap. 25:04) and replaced the First Schedule (Registration Areas) to the Representation of the People Act. As a result all references in the Representation of the People Act to County Councils, etc., have been removed/replaced with nomenclature to bring the said Act in line with the Municipal Corporations Act.
 Note on Act No. 7 of 1992
-The Municipal Councils 1992 Elections (Special Provisions) Act, 1992 (Act No. 7 of 1992) which made special provisions regarding the boundaries of the electoral districts for the purpose of the Municipal Councils elections of 1992, etc., remained in force for one year after its commencement and has since expired
+The Municipal Councils 1992 Elections (Special Provisions) Act, 1992 (Act No. 7 of 1992) which made special provisions regarding the boundaries of the electoral districts for the purpose of the Municipal Councils elections of 1992, etc., remained in force for one year after its commencement and has since expired.
+Note on Act No. 6 of 2023
+Amendments made to this Act by Act No. 6 of 2023 took effect on 20th June 2023 by LN 174/2023.
 CHAPTER 2:01
 REPRESENTATION OF THE PEOPLE ACT
 ARRANGEMENT OF SECTIONS SECTION
 1. Short title. 2. Interpretation.
 PART I
 OFFICERS OF THE COMMISSION
-3. Chief Election Officer. 4. Registration Officers, etc. 5. Scrutineers. 6. Returning Officers. 7. Election Clerks. 8. Presiding Officers and Poll Clerks. 9. Commission to appoint Officers, Clerks, etc.
-10. Candidates and members not to be Election Officers.
+3. Chief Election Officer. 4. Registration Officers, etc. 5. Scrutineers. 6. Returning Officers. 7. Election Clerks. 8. Presiding Officers and Poll Clerks. 9. Commission to appoint Officers, Clerks, etc. 10. Candidates and members not to be Election Officers.
 PART II
 FRANCHISE AND REGISTRATION
 11. Electors. 12. Qualifications for registration as Parliamentary, Municipal Council
@@ -34,10 +35,12 @@ PART III
 ELECTIONS
 31. Disqualification of Chief Election Officer, Deputy Chief Election
 Officer, Assistant Chief Election Officer and Returning Officers.
-32. Disqualifying officers and appointments. 33. Writs of election. 34. Government authorised to adjourn polling day in event of emergency. 35. Rules for elections. 36. Place and manner of voting and facility to employees to vote. 37. Voting at elections. 38. Registration of motor vehicles as electoral vehicles.
+32. Disqualifying officers, and appointments. 33. Writs of election. 34. Government authorised to adjourn polling day in event of
+emergency.
+35. Rules for elections. 36. Place and manner of voting and facility to employees to vote. 37. Voting at elections. 38. Registration of motor vehicles as electoral vehicles.
 PART IV
 ELECTION CAMPAIGN
-39. Exception. 40. Appointment of election agents. 41. Appointment of sub-agent. 42. Offfice of election agent. 43. Effect of default in appointment of election agent.
+39. Exception. 40. Appointment of election agents. 41. Appointment of sub-agent. 42. Office of election agent. 43. Effect of default in appointment of election agent.
 ELECTION EXPENSES
 44. Making of contracts through election agent. 45. Payment of expenses through election agent. 46. Personal expenses of candidate and petty expenses. 47. Prohibition of expenses not authorised by election agent. 48. Limitation of election expenses. 49. Time for sending in and paying claims. 50. Disputed claims. 51. Claim by election agent. 52. Return as to election expenses. SECTION
 53. Declaration as to election expenses. 54. Cases where return and declaration not needed. 55. Imputed expense for hire of electoral vehicle. 56. Authorised excuses for failures as respects return and declaration. 57. Power of Court to require information from election agent. 58. Publication of summary of return. 59. Inspection of returns and declarations.
@@ -55,8 +58,7 @@ ARRANGEMENT OF SECTIONS-Continued SECTION
 OFFENCES ON POLLING DAY
 85. Use of motor vehicle, etc., for conveying of electors to the poll. 86. Restriction on user of registered electoral vehicles. 87. Power to question passengers and detain vehicles. 88. Prohibition of employment of bands of music. 89. Loudspeakers, banners, favours, badges, etc., prohibited. 90. Persons not to congregate near polling stations. 91. Influencing electors to vote for any candidate. 92. Intoxicating liquor not to be sold. 93. Interference with employees' time off for voting. 94. Illegal voting.
 OTHER OFFENCES AND SAVINGS
-95. Damage to electoral vehicle. 96. Bribery. 97. Treating. 98. Undue influence. 99. Personation.
-100. Penalty for corrupt practice. 101. Penalty for illegal practice. 102. Findings on charge of corrupt practice or illegal practice. 103. Penalty for illegal payment or hiring. 104. Saving for elections. 105. Rights of creditors.
+95. Damage to electoral vehicle. 96. Bribery. 97. Treating. 98. Undue influence. 99. Personation. 100. Penalty for corrupt practice. 101. Penalty for illegal practice. 102. Findings on charge of corrupt practice or illegal practice. 103. Penalty for illegal payment or hiring. 104. Saving for elections. 105. Rights of creditors.
 PART VI
 LEGAL PROCEEDINGS
 DISPUTED APPOINTMENTS AND ELECTIONS
@@ -86,7 +88,7 @@ FIRST SCHEDULE- Registration Areas. SECOND SCHEDULE-Disqualifying offices and ap
 CHAPTER 2:01
 REPRESENTATION OF THE PEOPLE ACT
 An Act to re-enact and amend the law which provides for the
+41 of 1967.
 registration of electors to vote at elections of Members of the House of Representatives, of Municipal Councils and the Tobago House of Assembly, and for the regulation of the holding of such elections; for the disqualification of the holders of certain specified offices and appointments for membership of the above-mentioned bodies; for the determination of questions as to membership of Parliament and of Municipal Councils and of the Tobago House of Assembly; for the registration of other persons; and for other purposes connected therewith.
-[21ST DECEMBER 1967]
-- Margin: 41 of 1967.
-- Margin: Commencement. 165/1967.
+[21ST DECEMBER 1967] Commencement.
+165/1967.
