@@ -1,8 +1,9 @@
 # FIRST SCHEDULE
 ESSENTIAL INDUSTRIES (CATEGORIES)
-1. Electricity Service (Generation, Transmission and Distribution). 2. Water and Sewerage Services. 3. Fire Service. 4. Health Services. 5 Hospital Services. 6. Sanitation Services (including scavenging). 7. Oil, Gas, Petrochemicals (Exploration, Exploitation, Refining, Manufacture, Distribution, Marketing).
+1. Electricity Service (Generation, Transmission and Distribution). 2. Water and Sewerage Services. 3. Fire Service. 4. Health Services. 5. Hospital Services. 6. Sanitation Services (including scavenging). 7. Oil, Gas, Petrochemicals (Exploration, Exploitation, Refining, Manufacture, Distribution, Marketing).
 8. Port Operations (Dock and Harbour, Cargo Handling, Ship Building and Repairing).
-9. Sugar (Cultivation, Manufacture, Refining). 10. Communications, internal and external (Radio, Telephones, Telegraph, Television, Wireless).
+9. Sugar (Cultivation, Manufacture, Refining).
+10. Communications, internal and external (Radio, Telephones, Telegraph, Television, Wireless).
 11. Public Bus Transport Service (including Public School Bus Service). 12. Civil Aviation Services (including all services provided by a commercial airline the majority of the aircraft of which are registered in Trinidad and Tobago or are owned by citizens of Trinidad and Tobago or by a company incorporated in Trinidad and Tobago, aircraft maintenance, refuelling and ramp services, air traffic control and meteorological services and airline catering services).
 13. The iron and steel industry, that is to say-
 (a) the processing and smelting of iron ore;

@@ -3,7 +3,7 @@ INDUSTRIAL RELATIONS
 (CERTIFICATION OF RECOGNITION) REGULATIONS
 CERTIFICATE ISSUED TO
 RECOGNISED MAJORITY UNION
-Issued this... day of ... , 20... Pursuant to section 86(1) of the Industrial Relations Act, the Registration Recognition and Certification Board hereby certifies: ...
+Issued this... day of ..., 20... Pursuant to section 86(1) of the Industrial Relations Act, the Registration Recognition and Certification Board hereby certifies: ...
 (Name of Union)
 as the recognised majority Union in respect of the workers employed by: ...
 (Name of Employer)
@@ -13,5 +13,6 @@ The Union and the Employer herein mentioned are parties to Registered Collective
 Chairman (Seal of Board)
 ...
 Secretary
+Industrial Relations (Certification of Recognition) Regulations
 - Margin: Regulation 9(1).
 - Margin: [Subsidiary]
