@@ -10,14 +10,16 @@ HOUSING
 8. Housing for Chief Justice.
 8A. Housing for other Judges
 9. Judge on circuit. 10. Deemed allowance.
-10A. Judge's allowance.
+10A. Judges allowance.
 TRANSPORT
 11. Transport allowance. 12. Application of Travelling Allowances Regulations.
 Advances to purchase means of transport.
 12A. Exemption from motor vehicles tax or Customs duty.
 13. Transport to Tobago.
-CHAUFFEUR'S ALLOWANCE
-14. Chauffeur's allowance. REGULATION
+CHAUFFEURS ALLOWANCE
+14. Chauffeurs allowance.
+Judges (Conditions of Service and Allowances) Regulations (No. 2)
+REGULATION
 SUBSISTENCE
 15. Subsistence.
 ENTERTAINMENT ALLOWANCE
