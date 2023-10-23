@@ -9,8 +9,9 @@ CRIMES TO WHICH THIS ACT APPLIES
 so as to endanger life or inflict grievous bodily harm;
 (g) Administering poison with intent to injure or annoy;
 (h) Offences under the Sexual Offences Act;
-*(i) Offences under the Trafficking in Persons Act.
+*(i) Offences under the Trafficking in Persons Act;
+(j) Offences under the Children Act.
 *See Note on page 2.
-- Margin: Section 4(1). [14 of 2011].
+- Margin: Section 4(1). [14 of 2011 19 of 2019].
 - Margin: Ch. 11:28.
 - Margin: [14 of 2011].
