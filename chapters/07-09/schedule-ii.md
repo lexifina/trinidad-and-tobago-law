@@ -1,14 +1,12 @@
 # SCHEDULE II
 REPEALS
-Chapter and Short Title Extent of Repeal
-Number
-Subsection (1) of section 5 The Compensation Ch. 8:05
-for Injuries Act
-Ch. 5 No. 6. The whole Ordinance The Limitation of Personal
+Extent of Chapter and Short Title Repeal Number
+The Compensation Subsection (1) of section 5 Ch. 8:05 for Injuries Act
+The whole Ordinance The Limitation of Personal Ch. 5 No. 6.
 Actions Ordinance
-Ch. 29:50 Section 27 The Medical Board Act
-The Arbitration Act Section 24 except subsection (5) Ch. 5:01
+Ch. 29:50 The Medical Board Act Section 27
+Ch. 5:01 The Arbitration Act Section 24 except subsection (5)
 thereof
-The Public Authorities Ch. 8:03
-The whole Act Protection Act
+Ch. 8:03 The whole Act The Public Authorities
+Protection Act
 - Margin: [Section 22(2)].
