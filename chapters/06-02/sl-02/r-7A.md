@@ -1,6 +1,6 @@
 # 7A. Additional passage allowance. [125/1981 190/1997].
 (1) Notwithstanding regulation 7, once every two years a Judge is entitled to a passage to any part of the Commonwealth served by the National Airline so that he may establish contact with judicial colleagues, attend conferences, seminars, lectures or similar gatherings.
-(2) Where such judicial contact involves some official participation in-
+(2) Where such judicial contact involves some official participation in
 (a) a Commonwealth country not served by the
 National Airline; or
 (b) the United Nations and its law agencies

@@ -3,12 +3,13 @@ CHAPTER 6:02
 Act
 4 of 1965
 Amended by
-37 of 1971 38 of 1975 43 of 1976 39 of 1981 *3 of 1985 *17 of 2007 *30 of 2007 *1 of 2009 *13 of 2010 *2 of 2015
-*See Note on page 2
+37 of 1971 38 of 1975 43 of 1976 39 of 1981 *3 of 1985 *17 of 2007 *30 of 2007 *1 of 2009 *13 of 2010 *2 of 2015 *19 of 2018 13 of 2019 16 of 2019
+(*See Notes on page 2)
+127 ..
 Index of Subsidiary Legislation
 Page Judges (Conditions of Service and Allowances) Regulations (No. 1)
-(GN 25/1965) ... 10 Judges (Conditions of Service and Allowances) Regulations (No. 2)
-(GN 28/1972) ... 16 Judges (Salaries and Pensions) Regulations (LN 202/1997) … … 26
+(GN 25/1965)        11 Judges (Conditions of Service and Allowances) Regulations (No. 2)
+(GN 28/1972)        17 Judges (Salaries and Pensions) Regulations (LN 202/1997)   27
 Note on Act No. 3 of 1985
 This Act is deemed to have come into operation on 1st January 1981.
 Note on Act No. 17 of 2007
@@ -21,6 +22,8 @@ Note on Act No. 13 of 2010
 Amendments effected to sections 12 and 13 by Act No. 13 of 2010 took effect from 1st September 2010.
 Note on Act No. 2 of 2015
 Amendments effected to sections 12 and 13 by Act No. 2 of 2015 took effect from 1st October 2014. All payments made on or after and before that date have been validated by section 26.
+Note on Act No. 19 of 2018
+Amendments made to this Act by Act No. 19 of 2018 took effect on 1st January 2019.
 CHAPTER 6:02
 JUDGES SALARIES AND PENSIONS ACT
 ARRANGEMENT OF SECTIONS SECTION
@@ -33,10 +36,15 @@ SUPREME COURT OF JUDICATURE
 4. Salaries of Judges.
 PART III
 PENSIONS
-5. Pensions. 6. Minimum and maximum pensions. 7. Rate of pension payable to the Chief Justice. 8. Rate of pension payable to Judges, other than the Chief Justice. 9. Computation of pensions. 10. Gratuity on death of Judge. 11. Gratuity and reduced pension. 12. Widow of Chief Justice. 13. Widow of Judge. 14. Widows' and Orphans' Pensions. 15. Pension not assignable or attachable.
+5. Pensions. 6. Minimum and maximum pensions. 7. Rate of pension payable to the Chief Justice. 8. Rate of pension payable to Judges, other than the Chief Justice. 9. Computation of pensions. 10. Gratuity on death of Judge. 11. Gratuity and reduced pension.
+11A. Review of pension.
+12. Widow of Chief Justice. 13. Widow of Judge.
+13A. Interim pension.
+14. Widows and Orphans Pensions. 15. Pension not assignable or attachable.
 PART IV
 MISCELLANEOUS
-16. Regulations. SCHEDULE.
+16. Regulations.
+SCHEDULE.
 
 CHAPTER 6:02
 JUDGES SALARIES AND PENSIONS ACT
