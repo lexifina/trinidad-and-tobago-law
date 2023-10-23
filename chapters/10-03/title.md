@@ -1,11 +1,12 @@
 PRAEDIAL LARCENY PREVENTION ACT
 CHAPTER 10:03
 Act
-12 of 1963 Amended by 19 of 1970 36 of 1976 45 of 1979 21 of 1990 8 of 1992 56 of 2000 2 of 2015
+12 of 1963 Amended by 19 of 1970 36 of 1976 45 of 1979 21 of 1990 8 of 1992 56 of 2000 2 of 2015 10 of 2021
+1 2 .. 3 6 .. 7 22 .. 23 25 ..
 Note on Subsidiary Legislation
 This Chapter contains no subsidiary legislation.
 Note on Adaptation
-Under paragraph 6 of the Second Schedule to the Law Revision Act (Ch. 3:03) the Commission amended certain references to public officers in this Chapter. The Minister's approval of the amendments was signified by LN 120/1980, but no marginal reference is made to this Notice where any such amendment is made in the text.
+Under paragraph 6 of the Second Schedule to the Law Revision Act (Chap. 3:03) the Commission amended certain references to public officers in this Chapter. The Minister s approval of the amendments was signified by LN 120/1980, but no marginal reference is made to this Notice where any such amendment is made in the text.
 CHAPTER 10:03
 PRAEDIAL LARCENY PREVENTION ACT
 ARRANGEMENT OF SECTIONS SECTION
@@ -23,7 +24,7 @@ other proof of ownership.
 14. Forfeiture and sale after conviction. 15. Restitution.
 15A. Supervision order.
 16. Appointment of authorised persons. 17. Precept of appointment and oath of office. 18. Names of authorised persons to be published in Gazette. 19. Production of precept or Gazette in evidence. 20. Equipment. 21. Resignation. 22. Revocation of appointment.
-ARRANGEMENT OF SECTIONS-Continued
+ARRANGEMENT OF SECTIONSContinued
 SECTION
 23. Delivery of articles supplied on termination. 24. Delivery up of supplied articles upon death of authorised person. 25. Powers and immunities. 26. Personation of authorised persons. 27. Unlawful possession of badges, etc.
 27A. Forging or counterfeiting certification of registration.
