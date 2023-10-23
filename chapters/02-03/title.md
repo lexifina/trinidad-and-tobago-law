@@ -10,22 +10,31 @@ Amended by
 2 of 2012
 2 of 2013
 *2 of 2015
-*See Note on page 2
+*19 of 2018
+13 of 2019
+16 of 2019
+(*See Notes on page 2)
+122 ..
 Index of Subsidiary Legislation
-Page Retiring Allowances (Legislative Service) Regulations (GN 234/1971) … 17
+Page
+18 Retiring Allowances (Legislative Service) Regulations (GN 234/1971) 
 Note on Adaptation
-Under paragraph 6 of the Second Schedule to the Law Revision Act (Ch. 3:03) the Commission amended certain references to public officers in this Chapter. The Minister's approval of the amendments was signified by LN 52/1980, but no marginal reference is made to this Notice where any such amendment is made in the text.
+Under paragraph 6 of the Second Schedule to the Law Revision Act (Ch. 3:03) the Commission amended certain references to public officers in this Chapter. The Minister$s approval of the amendments was signified by LN 52/1980, but no marginal reference is made to this Notice where any such amendment is made in the text.
 Note on Act No. 2 of 2015
 Amendments made to section 6 by Act No. 2 of 2015 took effect from 1st October 2014. All payments made on or after and before that date have been validated by section 26(1).
+Note on Act No. 19 of 2018
+Amendments made by Act No. 19 of 2018 took effect on 1st January 2019.
 CHAPTER 2:03
 RETIRING ALLOWANCES
 (LEGISLATIVE SERVICE) ACT
 ARRANGEMENT OF SECTIONS
 SECTION
-1. Short title. 2. Interpretation. 3. Contributors. 4. Contributions. 5. Circumstances in which retiring allowances shall be paid. 6. Rate of retiring allowance. 7. Cessation of retiring allowance if person in receipt thereof again
+1. Short title. 2. Interpretation. 3. Contributors. 4. Contributions. 5. Circumstances in which retiring allowances shall be paid. 6. Rate of retiring allowance.
+6A. Interim pension. 6B. Review of retiring allowance.
+7. Cessation of retiring allowance if person in receipt thereof again
 becomes a legislator.
-8. Gratuity. 9. Surviving spouse's allowance.
-9A. (Deleted by Act No. 2 of 2013). 10. Children's allowance. 11. Retiring allowance to former legislators on payment of special
+8. Gratuity. 9. Surviving spouse$s allowance.
+9A. (Deleted by Act No. 2 of 2013). 10. Children$s allowance. 11. Retiring allowance to former legislators on payment of special
 contribution.
 12. Awards to be charged on the Consolidated Fund. 13. Awards not to be assignable. 14. Power to make Regulations. 15. Payment of contributions for period between 1st January 1969 and
 passing of this Act.
