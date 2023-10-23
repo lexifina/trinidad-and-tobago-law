@@ -1,0 +1,4 @@
+# 6B. Review of retiring allowance. [13 of 2019 16 of 2019].
+(1) A person, including a retired legislator, is eligible on every fifth anniversary of the date he ceased to be a legislator for a revised retiring allowance calculated on the basis of the salary payable to a legislator on that date.
+(2) For the avoidance of doubt, subsection (1) shall not be construed as authorising the payment of a revised retiring allowance with respect to a fifth anniversary which occurred before the coming into force of that subsection.
+(3) Notwithstanding subsection (1), a person referred to in that subsection who ceased to hold office before 25th June 2019 is entitled to the revised retiring allowance referred to in that subsection as of 25th June 2019 and thereafter on every fifth anniversary referred to in that subsection.

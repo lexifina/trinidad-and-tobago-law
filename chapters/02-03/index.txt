@@ -5,6 +5,8 @@ s-3.md
 s-4.md
 s-5.md
 s-6.md
+s-6A.md
+s-6B.md
 s-7.md
 s-9A.md
 s-11.md
