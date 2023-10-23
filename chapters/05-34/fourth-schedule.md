@@ -13,5 +13,5 @@ Service;
 Excise Division;
 (g) the Chief Immigration Officer, in respect of the Immigration
 Division; and
-(h) the employer, in respect of a private security officer.
+(h) the employer, in respect of a private security officer. [Subsidiary]
 - Margin: Section 15. [11 of 2014].
