@@ -2,17 +2,35 @@ ADMINISTRATION OF JUSTICE (DEOXYRIBONUCLEIC ACID) ACT
 CHAPTER 5:34
 Act
 5 of 2012
+Amended by
 11 of 2014
-Note on Subsidiary Legislation
-This Chapter contains no subsidiary legislation.
+*6 of 2016
+*15 of 2018
+*19 of 2019
+50/2020
+400/2020
+*13 of 2021
+(*See Notes on page 2)
+162 ..
+Index of Subsidiary Legislation
+Page The Administration of Justice (Deoxyribonucleic Acid) Regulations
+(LN 81/2018) ... 38 Notification of Laboratory approved by the Minister under section 6(b)
+(LN 4/2021) ... 62
 Note on Amendment
 Amendment to Evidence Act Ch. 7:02
 Section 39 of Act No. 5 of 2012 amended the Evidence Act in section 19(4). This amendment has been duly incorporated into that Act.
+Note on Act No. 6 of 2016
+Amendments made to this Act by Act No. 6 of 2016 took effect on the 15th May 2017 by LN 38/2017.
+Note on Act No. 15 of 2018
+Amendments made to this Act by Act No. 15 of 2018 took effect on 31st December 2018 by LN 191/2018.
+Note on Act No. 19 of 2019
+Amendments made to this Act by Act No. 19 of 2019 took effect on 31st January 2020 by LN 33/2020.
+Note on Act No. 13 of 2021
+Amendments made to this Act by Act No. 13 of 2021 took effect on 18th August 2021 by LN 218/2021.
 CHAPTER 5:34
 ADMINISTRATION OF JUSTICE
 (DEOXYRIBONUCLEIC ACID) ACT
-ARRANGEMENT OF SECTIONS
-SECTION
+ARRANGEMENT OF SECTIONS SECTION
 PART I
 PRELIMINARY
 1. Short title. 2. Act inconsistent with the Constitution. 3. Application. 4. Interpretation.
@@ -22,15 +40,14 @@ FORENSIC DNA LABORATORIES
 PART III
 THE NATIONAL FORENSIC DNA DATABANK OF
 TRINIDAD AND TOBAGO
-7. DNA profiles may be kept indefinitely in Forensic DNA Databank. 8. Appointment of Custodian and Deputy Custodian. 9. Transitional.
-10. Functions and duties of Custodian. 11. Report.
+7. DNA profiles may be kept indefinitely in Forensic DNA Databank. 8. Appointment of Custodian and Deputy Custodian. 9. Transitional. 10. Functions and duties of Custodian. 11. Report.
 PART IV OBTAINING NON-INTIMATE AND INTIMATE SAMPLES
 12. Persons may volunteer to give a sample. 13. Obtaining a non-intimate sample without consent.
 13A. Notice to attend for giving a DNA sample.
-14. Taking a repeat non-intimate sample. 15. Requirement for certain persons to give non-intimate sample. 16. Non-intimate sample to be taken from deported citizens.
+14. Taking a repeat non-intimate sample. 15. Requirement for certain persons to give non-intimate sample. 16. Non-intimate sample to be taken from deported citizens. 17. Missing persons, deceased persons and crime scenes.
 ARRANGEMENT OF SECTIONS-Continued
 SECTION
-17. Missing persons, deceased persons and crime scenes. 18. Complainants. 19. Conditions for taking an intimate sample. 20. Right of child or incapable person to have representative present. 21. Use of force.
+18. Complainants. 19. Conditions for taking an intimate sample. 20. Right of child or incapable person to have representative present. 21. Use of force.
 PART V
 PROCEDURE FOR TAKING NON-INTIMATE AND INTIMATE SAMPLES AND POST COLLECTION
 PROCEDURES
@@ -39,7 +56,10 @@ PROCEDURES
 24. Duties of forensic DNA analyst. 25. Retention of sample. 26. Expungement of profile in certain circumstances.
 PART VI
 MISCELLANEOUS
-27. Arrangement with foreign governments to share DNA data. 28. Immunity. 29. Disclosure and confidentiality. 30. Offences. 31. Refusal or obstruction when sample is being taken. 32. Post-conviction forensic analysis. 33. Documentary evidence. 34. Regulations. 35. Power to amend Schedules. 36. Validation. 37. Repeal of Act No. 24 of 2007. 38. Savings.
+27. Arrangement with foreign governments to share DNA data. 28. Immunity. 29. Disclosure and confidentiality.
+29A. Use of DNA data and information with respect to non-intimate and
+intimate samples.
+30. Offences. 31. Refusal or obstruction when sample is being taken. 32. Post-conviction forensic analysis. 33. Documentary evidence. 34. Regulations. 35. Power to amend Schedules. 36. Validation. 37. Repeal of Act No. 24 of 2007. 38. Savings.
 FIRST SCHEDULE. SECOND SCHEDULE. THIRD SCHEDULE. FOURTH SCHEDULE.
 
 CHAPTER 5:34
