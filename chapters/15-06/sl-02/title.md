@@ -1,0 +1,3 @@
+STRATEGIC SERVICES AGENCY REGULATIONS
+made under section 14
+- Margin: 39/2020.
