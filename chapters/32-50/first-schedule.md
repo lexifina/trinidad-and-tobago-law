@@ -26,9 +26,9 @@ SOCIETIES REGISTERED UNDER THIS ACT
 13. A valuation when required by the Registrar of the assets and liabilities of the society, including the estimated risks and contributions.
 14. The voluntary dissolution of a society by consent of not less than three-fourths in value of the members, and of every person for the time being entitled to any benefit from the funds of the society, unless his claim is first satisfied or adequately provided for in accordance with section 77(1)(c) of the Act.
 15. The right of one-fifth of the total number of members, or of one hundred members in the case of a society of one thousand members and not exceeding ten thousand, or of five hundred members in the case of a society of more than ten thousand members, to apply to the Registrar for an investigation of the affairs of the society, or for winding up the same in accordance wth section 79 of the Act.
-16. Provisions shall be made-
-(a) that the subscriptions, except levies, payable by every member
-who has maintained his membership for an unbroken period of twenty years in the society or branch shall not exceed one-half of the subscriptions payable by a member; and
+16. Provisions shall be made
+(a) that the subscriptions, except levies, payable by every
+member who has maintained his membership for an unbroken period of twenty years in the society or branch shall not exceed one-half of the subscriptions payable by a member; and
 (b) that no subscriptions or levies of any kind whatsoever, shall
 be payable by a member who has maintained his membership for an unbroken period of thirty years in the society or branch.
 However, no pensioner or member whose subscriptions are waived under paragraph (b) shall be paid bonus or other moneys in the nature thereof; and no waiver of subscriptions under paragraph (b) shall apply to members under the age of fifty years.
