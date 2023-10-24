@@ -4,16 +4,12 @@ PAYMENTS ORDER AT SAME RATE AS ORDER FOR
 MAINTENANCE PENDING SUIT
 (Heading as in Form 5)
 TO ... of ...
-The Petitioner (or Respondent) having on the ... day of ...20...,
-obtained an order for payment by you of maintenance pending suit at the rate of ...
-AND the Petitioner (or Respondent) having applied in his (her) petition (or answer)
-for a periodical payments order for himself (or herself).
-TAKE NOTICE that the Petitioner (or Respondent) has requested the Court to make
-a periodical payments order for himself (or herself) providing for payments by you at the same rate as those mentioned above.
-AND TAKE NOTICE that if you object to the making of such a periodical payments
-order, you must give notice to that effect to the Registrar and the Petitioner (or Respondent) within fourteen days after service of this notice on you, and if you do not do so, the Court may make such a periodical payments order without further notice to you.
-Dated this ... day of ... , 20...
+The Petitioner (or Respondent) having on the ... day of ... 20..., obtained an order for payment by you of maintenance pending suit at the rate of ...
+AND the Petitioner (or Respondent) having applied in his (her) petition (or answer) for a periodical payments order for himself (or herself).
+TAKE NOTICE that the Petitioner (or Respondent) has requested the Court to make a periodical payments order for himself (or herself) providing for payments by you at the same rate as those mentioned above.
+AND TAKE NOTICE that if you object to the making of such a periodical payments order, you must give notice to that effect to the Registrar and the Petitioner (or Respondent) within fourteen days after service of this notice on you, and if you do not do so, the Court may make such a periodical payments order without further notice to you.
+Dated this ... day of ..., 20...
 ...
 Registrar, Supreme Court
-Matrimonial Causes Rules [Subsidiary]
+Matrimonial Causes Rules
 - Margin: Rule 62(2).

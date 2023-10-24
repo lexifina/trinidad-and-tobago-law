@@ -6,7 +6,7 @@ Notice will be given to you of the place and time fixed for the hearing of the a
 (Unless the parties are agreed upon the terms of the proposed order, and in the case of an application for an order for maintenance pending suit, periodical payments or a lump sum):
 TAKE NOTICE ALSO that you must send to the Registrar, so as to reach him within fourteen days after you receive this notice, an affidavit giving full particulars of your property and income. You must at the same time send a copy of your affidavit to the (Attorney-at-law for) the applicant.
 If you wish to allege that the Petitioner (Respondent) has property or income, you should say so in your affidavit].
-Dated this ... day of ... , 20...
+Dated this ... day of ..., 20...
 Signed ...
-(Attorney-at-law!for)!the Petitioner!(or!Respondent)
+(Attorney-at-law for) the Petitioner (or Respondent)
 - Margin: Rule 52(2)(b) and (3).
