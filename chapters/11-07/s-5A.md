@@ -1,0 +1,2 @@
+# 5A. Forcible entry. [5 of 2019].
+A person who uses force, threats or intimidation to enter premises which is in the lawful possession of another person in order to expel that person and take possession of the premises and does so otherwise than in pursuance of an order of a Court or other lawful authority commits an offence and is liable on summary conviction to a fine of one hundred thousand dollars and to imprisonment for fifteen years.
