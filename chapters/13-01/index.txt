@@ -6,6 +6,10 @@ s-4.md
 s-6.md
 s-7.md
 s-8.md
+s-8A.md
+s-8B.md
+s-8C.md
+s-8D.md
 s-9.md
 s-10.md
 s-11.md
@@ -19,3 +23,4 @@ s-18.md
 s-19.md
 s-20.md
 s-21.md
+s-22.md
