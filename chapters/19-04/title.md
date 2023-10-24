@@ -2,9 +2,8 @@ NATIONAL EMBLEMS OF TRINIDAD AND TOBAGO
 (REGULATION) ACT
 CHAPTER 19:04
 Act
-14 of 1967
-Amended by
-17 of 1980
+14 of 1967 Amended by 17 of 1980 10 of 2019
+12 .. 36 .. 78 ..
 Note on Subsidiary Legislation
 This Chapter contains no subsidiary legislation.
 CHAPTER 19:04
@@ -20,8 +19,8 @@ SCHEDULE.
 CHAPTER 19:04
 NATIONAL EMBLEMS OF TRINIDAD AND TOBAGO
 (REGULATION) ACT
-An Act to regulate the use of the National Emblems of Trinidad
-and Tobago.
+An Act to regulate the use of the National Emblems of
+Trinidad and Tobago.
 [1ST DECEMBER 1980]
 - Margin: 14 of 1967.
 - Margin: Commencement. 197/1980.
