@@ -10,6 +10,9 @@ Amended by
 37 of 1933
 148/1955
 23 of 1999
+*21 of 2022
+(*See Note on page 2)
+1 4 .. 5 6 .. 7 12 .. 13 60 ..
 Index of Subsidiary Legislation
-Page Forest (Prohibited Areas) Order (GN 125/1953)... 21 Forest Officers Notification (GN 80/1963) ... 38 Conferment of Powers Notification (GN 27/1958) … … … 38 Declared Districts Order (G. 13.3.19) ... 39 Removal of Timber (Permits) Rules (G. 18.4.18) … … … 40 Felling of Trees (Permits) (Private Land) Rules (LN 309/2000) … … 52
+Page Forest (Prohibited Areas) Order (GN 125/1953) " " " " 21 Forest Officers Notification (GN 80/1963) " " " " 38 Conferment of Powers Notification (GN 27/1958) " " " 38 Declared Districts Order (G. 13.3.19) " " " " " 39 Removal of Timber (Permits) Rules (G. 18.4.18) " " " 40 Felling of Trees (Permits) (Private Land) Rules (LN 309/2000) " " 52
 Note on Adaptation
