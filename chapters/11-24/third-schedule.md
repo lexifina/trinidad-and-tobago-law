@@ -7,7 +7,7 @@ Securing attendance of witnesses
 Power to administer oaths
 2. The Court may, in the proceedings, take evidence on oath, and both the questions and answers shall be recorded.
 Privilege of witnesses
-3. (1) A person shall not be compelled to give, in the proceedings, any evidence which he could not be compelled to give-
+3. (1) A person shall not be compelled to give, in the proceedings, any evidence which he could not be compelled to give!
 (a) in criminal proceedings in Trinidad and Tobago; or
 (b) subject to subparagraph (2), in criminal proceedings in the
 Commonwealth or non-commonwealth country from which the request for the evidence has come.
