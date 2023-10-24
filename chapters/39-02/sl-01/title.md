@@ -1,7 +1,6 @@
 SUBSIDIARY LEGISLATION
-TEACHERS' PENSIONS REGULATIONS
-ARRANGEMENT OF REGULATIONS
-REGULATION
+TEACHERS PENSIONS REGULATIONS
+ARRANGEMENT OF REGULATIONS REGULATION
 PART I
 PRELIMINARY
 1. Citation. 2. Interpretation.
@@ -23,7 +22,7 @@ Saving.
 15. Broken service. 16. (Revoked by Act No. 20 of 1997). 17. Computation of pensions and gratuities.
 Periods of service and absence. Absence on half-pay leave. Periods not taken into account.
 18. Service in a temporary capacity. 19. Computation of pensions, etc., on what emoluments to be based. 20. Rates of pension or gratuity when office abolished. 21. Officers retiring on account of injuries. 22. Register to be kept.
-TEACHERS' PENSIONS REGULATIONS
+TEACHERS PENSIONS REGULATIONS
 deemed to be made under section 4
 PART I
 PRELIMINARY
