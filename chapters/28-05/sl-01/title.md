@@ -1,7 +1,6 @@
 SUBSIDIARY LEGISLATION
 QUARANTINE (MARITIME) REGULATIONS
-ARRANGEMENT OF REGULATIONS
-REGULATION
+ARRANGEMENT OF REGULATIONS REGULATION
 1. Citation.
 PART I
 INTRODUCTORY
@@ -15,22 +14,31 @@ PROVISIONS AS TO SHIPS IN QUARANTINE
 PART IV
 PROVISIONS AS TO SHIPS DEPARTING
 15. General power to examine persons embarking. 16. Infected areas in Trinidad and Tobago.
-ARRANGEMENT OF REGULATIONS-Continued REGULATION
+Quarantine (Maritime) Regulations
+ARRANGEMENT OF REGULATIONSContinued REGULATION
 17. Offences. 18. Bills of Health.
 PART V
 MISCELLANEOUS PROVISIONS AS TO SHIPS
 ARRIVING AND IN PORT
 19. General power to inspect ships, etc. 20. Power to send ship to another port. 21. General powers. 22. Duties of master. 23. Repetition of sanitary measures not necessary. 24. Saving in the case of ships continuing voyage. 25. Powers as to persons who unlawfully board or leave ships. 26. Persons suffering from infectious diseases not to land.
 PART VI
-DERATISATION OF SHIPS
-27. Deratisation. 28. Ships arriving with deratisation certificates. 29. Form of certificates. 30. Where ship harbours rats but deratisation not possible. 31. General deratisation measures.
+SHIP SANITATION CONTROL CERTIFICATE
+27. Requirement to provide a Ship Sanitation Control Exemption
+Certificate or a Ship Sanitation Control Certificate.
+28. Issue of Ship Sanitation Control Exemption Certificate.
+}
+29.
+(Repealed by LN 111/2021). 30.
+31.
 PART VII
 MERCHANDISE AND BAGGAGE
 32. Merchandise, etc., not to be put on ship in quarantine
 without permission.
 33. Entry of merchandise and baggage to be permitted subject to
 certain measures.
-34. Destruction of clothes, etc., likely to carry infections. REGULATION
+34. Destruction of clothes, etc., likely to carry infections.
+Quarantine (Maritime) Regulations
+REGULATION
 35. Saving of mails. 36. Certificates.
 PART VIII
 OBSERVATION AND SURVEILLANCE
@@ -46,12 +54,13 @@ Visiting Officers with copies.
 PART X
 CHARGES FOR SERVICES
 50. Charges for sanitary measures applied. 51. Charges. 52. Further provisions as to expenses and charges.
-ARRANGEMENT OF REGULATIONS-Continued
+Quarantine (Maritime) Regulations
+ARRANGEMENT OF REGULATIONSContinued
 REGULATION
 PART XI
 MISCELLANEOUS
 53. General duty to comply with orders, instructions and conditions. 54. Certificates as to sanitary measures taken. 55. Prohibition.
 FIRST SCHEDULE. SECOND SCHEDULE. THIRD SCHEDULE. FOURTH SCHEDULE. FIFTH SCHEDULE. SIXTH SCHEDULE.
 QUARANTINE (MARITIME) REGULATIONS
-deemed to be made under section 4.
-- Margin: 19 of 1944. [29 of 1945].
+deemed to be made under section 4
+- Margin: 19 of 1944. [29 of 1945 *111/2021].

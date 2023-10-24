@@ -39,7 +39,6 @@ sl-01/r-26.md
 sl-01/r-27.md
 sl-01/r-28.md
 sl-01/r-29.md
-sl-01/r-30.md
 sl-01/r-31.md
 sl-01/r-32.md
 sl-01/r-33.md
@@ -69,8 +68,6 @@ sl-01/first-schedule.md
 sl-01/second-schedule.md
 sl-01/third-schedule.md
 sl-01/fourth-schedule.md
-sl-01/fifth-schedule.md
-sl-01/sixth-schedule.md
 sl-02/title.md
 sl-02/r-1.md
 sl-02/r-2.md
@@ -120,3 +117,11 @@ sl-03/title.md
 sl-03/r-1.md
 sl-03/r-2.md
 sl-03/r-3.md
+sl-04/title.md
+sl-04/r-1.md
+sl-04/r-2.md
+sl-04/r-3.md
+sl-05/title.md
+sl-05/r-1.md
+sl-05/r-2.md
+sl-05/r-3.md
