@@ -6,14 +6,17 @@ REGULATION
 PART I
 PRELIMINARY
 1. Citation. 2. Interpretation.
-PART II THE STATUTORY AUTHORITIES SERVICE COMMISSION
+PART II
+THE STATUTORY AUTHORITIES SERVICE
+COMMISSION
 3. Oath of Office. 4. Meetings. 5. Procedure, quorum and voting. 6. Decisions other than at meetings. 7. Record of meetings and decisions.
 Dissents.
 8. Consultation with other persons. 9. Non-compliance. 10. Instrument of delegation to be published.
 PART III
-APPOINTMENTS, PROMOTIONS AND TRANSFERS
+APPOINTMENTS, PROMOTIONS AND
+TRANSFERS
 11. Application for appointment. 12. Selection for appointment on basis of competitive examination. 13. Filling of vacancies. 14. Appointments to be by competition within the particular service. 15. Advertisement of vacancies. 16. Selection Boards. 17. Examination Board. 18. Principle of selection for promotion.
-ARRANGEMENT OF REGULATIONS-Continued
+ARRANGEMENT OF REGULATIONSContinued
 REGULATION
 19. Promotion to Administrative Class. 20. Seniority lists to be kept up-to-date. 21. Seniority of officer to be reckoned from date of appointment or
 reappointment.
@@ -43,7 +46,7 @@ improvement in the organisation of a Statutory Authority.
 PART VII
 CONDUCT
 61. General conduct. 62. Duties of officer. 63. Discourtesy. 64. Absence without leave.
-ARRANGEMENT OF REGULATIONS-Continued
+ARRANGEMENT OF REGULATIONSContinued
 REGULATION
 65. Misconduct. 66. Activities outside the service. 67. Officer not to call public meeting or participate in certain public
 meetings.
@@ -55,7 +58,7 @@ Reference to Head of Statutory Authority.
 Return of debts. Accommodation bill.
 74. Bankruptcy. 75. Officer not to solicit intervention. 76. Gifts, rewards. 77. Exceptions. 78. Bribery. 79. Legal proceedings. 80. Application to initiate legal proceedings to be in writing. 81. Grounds for refusal of application. 82. Officer to report criminal charge. 83. Misconduct defined.
 PART VIII
-DISCIPLINE-GENERAL
+DISCIPLINEGENERAL
 84. Officer liable to disciplinary proceedings. 85. Head of Statutory Authority to report misconduct or indiscipline. 86. Head of Statutory Authority may inform Police of offence. 87. Commission to issue instructions in certain cases. REGULATION
 87A. Commission to exercise disciplinary control of Head of a
 Statutory Authority.
@@ -68,10 +71,10 @@ indiscipline disclosed at hearing of charges.
 106. Penalties that may be awarded under delegated authority. 107. Commission to inform officer of penalty imposed and of his right to
 apply for review.
 108. Commission may remove officer in public interest. 109. Proceedings in private. 110. Penalties. 111. No disciplinary action while criminal proceedings pending. 112. Disciplinary action after acquittal of a criminal charge. 113. Officer convicted of criminal charge. 114. Non-payment of remuneration on conviction of a criminal charge.
-ARRANGEMENT OF REGULATIONS-Continued
-}
+ARRANGEMENT OF REGULATIONSContinued
 REGULATION
 PART IX
+}
 REVIEWS
 115. to (Revoked by LN 260/2006). 121.
 PART X

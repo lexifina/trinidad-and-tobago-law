@@ -21,7 +21,7 @@ alleged act of misconduct or indiscipline prescribed in regulations 63 and 65 an
 (e), (f) and (i) of the Statutory Authorities Service Commission Regulations, to the extent that the Authority may charge an officer or servant of the Water and Sewerage Authority with any offence prescribed as mentioned above and may impose in respect of such misconduct or indiscipline, any of the penalties specified in regulation 110(1)(d), (e), (f) or (g) of the said Regulations.
 2. (1) In the exercise of the powers delegated by paragraph 1(a),
 (b), (c), (d) and (e), the Authority shall be guided by the regulations set out in Parts III, IV and V of the Statutory Authorities Service Commission Regulations in so far as they are applicable.
-(2) In the exercise of the power delegated by paragraph 1(f), the Authority shall-
+(2) In the exercise of the power delegated by paragraph 1(f), the Authority shall
 (a) exercise the power of the Commission under regulation 88(1)
 and regulation 90(6) and (7) of the Statutory Authorities Service Commission Regulations; and
 (b) appoint a disciplinary tribunal comprising one or more
