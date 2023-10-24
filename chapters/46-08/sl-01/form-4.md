@@ -14,28 +14,28 @@ Magistrate of the ... Court on ... for the payment of ...
 ...
 Specimen Signature of Payee
 DEPOSIT WITH MAGISTRATE
-Amount Date to which Date of payment Date Receipt No.
-Settlement is out of Court $ c.
+Amount Receipt Date to which Date of payment
+Date
+Settlement is out of Court No. $ c.
 made
-C.
-AMOUNT
-PAID
+Maintenance Rules [Subsidiary]
+c.
+Amount
+Paid
 $
 FAMILY LAW (GUARDIANSHIP OF MINORS, DOMICILE AND MAINTENANCE) ACT
-COMPLAINANT
-PAYMENT TO
-DATE OF
-C. DEPOSITED
-AMOUNT
+Complainant Payment to
+Date of
+c. Deposited
+Amount
 $
 DEPOSIT REGISTER
-COUNTY OF ...
-DEFENDANT
-NAME OF FORM 5
-COMPLAINANT
-NAME OF
+County of ...
+Defendant Name of FORM 5
+Complainant
+Name of
 REPUBLIC OF TRINIDAD AND TOBAGO
-CARD NUMBER MAINTENANCE
-COUNTERFO IL RECEIPT
-NUMBER
-RECEIPT DATE OF [Subsidiary] Maintenance Rules
+Maintenance Card Number
+Counterfoil
+Receipt Number
+Date of Receipt [Subsidiary] Maintenance Rules
