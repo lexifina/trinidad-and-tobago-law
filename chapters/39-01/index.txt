@@ -159,6 +159,8 @@ sl-01/r-45.md
 sl-01/r-46.md
 sl-01/r-47.md
 sl-01/r-48.md
+sl-01/r-48A.md
+sl-01/r-48B.md
 sl-01/r-49.md
 sl-01/r-50.md
 sl-01/r-51.md
