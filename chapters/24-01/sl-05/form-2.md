@@ -22,3 +22,4 @@ Total Cost ... (i) + (ii) + (iii) + (iv) $ ... PLEASE PRESENT THIS BILL TO THE C
 ...
 City Treasurer,
 Port-of-Spain Corporation
+Regulations

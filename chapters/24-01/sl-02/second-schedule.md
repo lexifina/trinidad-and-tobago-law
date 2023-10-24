@@ -4,7 +4,7 @@ TRINIDAD AND TOBAGO
 1. The power delegated to the General Manager of the Port Authority is as follows:
 The power to exercise disciplinary control in respect of any alleged act
 of misconduct or indiscipline prescribed in regulations 63 and 65 and in regulation 83(2)(a), (b), (c), (d), (e), (f) and (i) of the Statutory Authorities Service Commission Regulations to the extent that the General Manager may charge an officer of the Authority with any offence prescribed as mentioned above and may impose, in respect of such misconduct or indiscipline, the penalty of a fine under regulation 110(1)(g) or of a reprimand under regulation 110(1)(f) of the said Regulations.
-2. In the exercise of the power delegated by paragraph 1, the General Manager shall-
+2. In the exercise of the power delegated by paragraph 1, the General Manager shall
 (a) exercise the powers of the Commission under regulation
 88(1) and regulation 90(6) and (7) of the Statutory Authorities Service Commission Regulations; and
 (b) assign an officer of a grade higher than that of the officer
