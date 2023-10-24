@@ -1,5 +1,5 @@
 # 3A. Functions of the Council. [8 of 2014].
-The functions of the Council are to-
+The functions of the Council are to.
 (a) open and maintain the registers or rolls required
 under this Act;
 (b) register, enrol, certify or licence nursing

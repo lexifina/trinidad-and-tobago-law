@@ -1,5 +1,5 @@
 # 3B. Powers of the Council. [8 of 2014].
-In exercise of its functions under section 3A, the Council shall have the power to-
+In exercise of its functions under section 3A, the Council shall have the power to.
 (a) register or enrol nursing personnel;
 (b) issue certificates or licences to nursing personnel;
 (c) cancel certificates or revoke licences, where
