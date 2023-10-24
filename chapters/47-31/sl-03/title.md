@@ -1,4 +1,4 @@
-ARRANGEMENT OF REGULATIONS-Continued REGULATION
+ARRANGEMENT OF REGULATIONS!Continued REGULATION
 20. Submission of a RIO. 21. Amendment of RIO. 22. Publication of RIO. 23. Interconnection agreement to be consistent with RIO.
 PART V
 IMPLEMENTATION OF INTERCONNECTION
