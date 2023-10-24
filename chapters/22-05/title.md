@@ -1,16 +1,18 @@
 ELECTRONIC TRANSACTIONS ACT
 CHAPTER 22:05
 Act
-6 of 2011 Amended by *4 of 2014
-*See Note on page 2
+6 of 2011 Amended by *4 of 2014 *20 of 2020
+(*See Notes on page 2)
+12 .. 36 .. 78 .. 910 .. 1116 .. 1718 .. 1924 .. 2532 ..
 Note on Subsidiary Legislation
 This Chapter contains no subsidiary legislation.
 Note on Proclamation
-At the date of the Revision of this Act (December 2012), Parts V, VI, VIII, IX and X had not yet been brought into operation. [See Section 1(2)].
+At the date of the Revision of this Act (December 31st 2012), Parts V, VI, VIII, IX and X had not yet been brought into operation. [See Section 1(2) and (3)].
 Further Note on Proclamation
 Act No. 4 of 2014
-At the date of the Revision of this Act (December 2014), amendments made to section 2 by the insertion of a new definition "revenue" and to section 53(1) by the insertion of paragraphs
-(e) and (f) by Act No. 4 of 2014 had not yet been brought into operation.
+At the date of the Revision of this Act (December 2014), amendments made to section 2 by the insertion of a new definition 'revenue- and to section 53(1) by the insertion of paragraphs (e) and (f) by Act No. 4 of 2014 had not yet been brought into operation.
+Note on Act No. 20 of 2020
+The amendments made to this Act by Act No. 20 of 2020 took effect on 21st July 2020 by LN 275/2020.
 CHAPTER 22:05
 ELECTRONIC TRANSACTIONS ACT
 ARRANGEMENT OF SECTIONS
@@ -27,7 +29,7 @@ form.
 14. Whether information, a data message or a record is capable of being
 retained.
 15. Copies. 16. Electronically signed message deemed to be original document. 17. Admissibility and evidential weight of electronic records. 18. Electronic notarisation.
-ARRANGEMENT OF SECTIONS-Continued
+ARRANGEMENT OF SECTIONS!Continued
 SECTION
 PART III
 CONTRACT FORMATION AND
@@ -40,7 +42,7 @@ authentication product.
 PART V
 ELECTRONIC AUTHENTICATION
 SERVICE PROVIDERS
-33. Registration of Electronic Authentication Service Providers. 34. Application for registration. 35. Requirements for an Electronic Authentication Service Provider that
+33. Registration of Electronic Authentication Service Provider. 34. Application for registration. 35. Requirements for an Electronic Authentication Service Provider that
 issues qualified electronic authentication products.
 36. Grant of registration. 37. Recognition of the qualified external electronic authentication
 products.
@@ -67,7 +69,7 @@ PUBLIC BODIES
 PART VIII
 CONSUMER PROTECTION
 55. Minimum information in e-commerce. 56. Minimum information regarding authentication products. 57. Right of rescission. 58. Unwanted communications.
-ARRANGEMENT OF SECTIONS-Continued
+ARRANGEMENT OF SECTIONS!Continued
 SECTION
 PART IX
 CONTRAVENTION AND ENFORCEMENT
