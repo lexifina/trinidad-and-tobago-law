@@ -14,7 +14,7 @@ of each competition, be the total amount of the stakes less the pool betting dut
 competition shall be posted up on some conspicuous part of the licensed premises and notified to the said accountant at least one day before the first of the relevant sporting or other events take place.
 (2) Notwithstanding anything in subparagraph (1)(d) or (e) if it is found that a bet which ought to have been treated as a winning bet has been inadvertently overlooked, the promoter shall pay to the person making that bet the sum paid by him to other persons making comparable bets or, if there are no comparable bets, such sum as would have been payable had such winning bet not been overlooked.
 2. References in this Schedule to stakes in, or in respect of entries in, any competition do not include references to stakes in respect of rejected entries.
-3. (1) As soon as may be after the events to which any of his competitions relate have taken place, and in any case not later than seven days after the announcement of the results of that competition, every promoter shall send to the said accountant a statement showing-
+3. (1) As soon as may be after the events to which any of his competitions relate have taken place, and in any case not later than seven days after the announcement of the results of that competition, every promoter shall send to the said accountant a statement showing'
 (a) the total amount of the stakes in respect of entries in the
 competition;
 (b) the total amount payable by way of winnings in that
@@ -22,24 +22,25 @@ competition;
 (c) the total amount of the stakes in respect of winning bets in
 the competition, and if there are more prizes than one in the competition, the total amount of the stakes in respect of winning bets qualifying for, or for shares in, each of the prizes; and
 (d) the amount payable in respect of each winning bet.
-(2) In September in each year every promoter shall send to the said accountant and to the Board a statement showing, as respects his pool betting business for the twelve-month period ending 30th June in the same year-
+(2) In September in each year every promoter shall send to the said accountant and to the Board a statement showing, as respects his pool betting business for the twelve-month period ending 30th June in the same year'
 (a) the aggregate total stakes in all his competitions;
 (b) the aggregate prize money in respect of those competitions;
-(c) the amount of the promoter's commission (as defined for the
+(c) the amount of the promoters commission (as defined for the
 purposes of this Schedule) and the percentage (calculated to the nearest one-tenth of one per cent) which the said commission bears to the said aggregate total stakes.
 4. (1) The Board may in the case of each promoter appoint a person or persons being a qualified accountant to exercise and perform in relation to that promoter, the powers and duties conferred and imposed by the provisions of this Schedule.
 (2) The remuneration of the accountant in respect of each promoter shall be payable out of the funds of the Betting Levy Board.
 (3) A Petty Civil Court shall have jurisdiction to hear and determine any such claim as is mentioned in subparagraph (2) without limit of jurisdiction notwithstanding that the amount claimed exceeds two hundred and fifty dollars and the provisions of the Petty Civil Courts Act shall apply in respect of every such action.
-(4) In this paragraph "remuneration" includes any sum paid or to be paid to the accountant in respect of his expenses.
-5. (1) The accountant shall-
+(4) In this paragraph "remuneration! includes any sum paid or to be paid to the accountant in respect of his expenses.
+5. (1) The accountant shall'
 (a) examine all statements submitted to him under paragraph 3
 with a view to determining whether there is cause to believe that any of the provisions of this Schedule are being contravened in relation to the competition in question; and
+(b) retain all such statements for two years; and
 (c) at any time during that period give facilities for their examination
 by any officer authorised in that behalf by the Board.
 (2) The accountant and any servant of his authorised in that behalf by him in writing may at all reasonable times enter any premises on which a promoter is carrying on his business and enquire into the manner in which that business is being carried on, and may require the promoter or any servant of his to give to the accountant or servant so authorised all such information and produce all such accounts, books and other documents and carry out such checks or additional checks of coupons or other entry forms as the accountant or servant so authorised may think necessary for the purpose of determining whether there is cause to believe that any of the provisions of this Schedule are being contravened; and it shall be the duty of the promoter to preserve in good condition all accounts, books or other documents (including coupons or other entry forms) that relate wholly or partly to any of his competitions for, in the case of coupons and other entry forms, at least two months, and in the case of accounts, books or other documents, at least two years, from the day on which the events take place on which that competition depends.
 (3) If at any time the accountant has cause to believe that any of the provisions of this Schedule are being contravened in relation to any of the competitions of a promoter, he shall report the matter to the Board.
-(4) Not later than the end of November in each year the accountant shall furnish to the Board a report stating, if such be the fact, that he has examined all statements submitted to him by a promoter under paragraph 3 for the period mentioned in subparagraph (2) of that paragraph which ended in that year, has conducted such enquiries into the manner in which the business of that promoter is carried on and made such examination of that promoter's records as he considers necessary and whether or not he has cause to believe that any of the provisions of this Schedule have been contravened in relation to any of the competitions of that promoter taking place during the said period.
-6. (1) Any person who-
+(4) Not later than the end of November in each year the accountant shall furnish to the Board a report stating, if such be the fact, that he has examined all statements submitted to him by a promoter under paragraph 3 for the period mentioned in subparagraph (2) of that paragraph which ended in that year, has conducted such enquiries into the manner in which the business of that promoter is carried on and made such examination of that promoters records as he considers necessary and whether or not he has cause to believe that any of the provisions of this Schedule have been contravened in relation to any of the competitions of that promoter taking place during the said period.
+6. (1) Any person who'
 (a) obstructs the accountant or any servant of his in the
 execution of any powers or duties under this Schedule; or
 (b) fails to comply with any requirement duly made on him by

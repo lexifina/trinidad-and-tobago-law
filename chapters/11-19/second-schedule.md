@@ -1,8 +1,8 @@
 # SECOND SCHEDULE
 RULES FOR LICENSED BETTING OFFICES
 1. The licensed premises shall be closed throughout Good Friday, Christmas Day and every Sunday, and at such other times, if any, as may be prescribed, and shall not be used for any purpose other than the effecting of betting transactions.
-2. No person who is a young person, within the meaning of section 38(3) or who is known to any person connected with the licensee's business and present on the licensed premises to be under that age, shall be admitted to or allowed to remain on those premises, so, however, that in any proceedings for a contravention of this rule in respect of a young person, within the meaning of the said section 38(3), it shall be a defence to prove that at the time of the alleged contravention he had in fact attained the required age or that he had apparently attained that age.
-3. The licensee-
+2. No person who is a young person, within the meaning of section 38(3) or who is known to any person connected with the licensees business and present on the licensed premises to be under that age, shall be admitted to or allowed to remain on those premises, so, however, that in any proceedings for a contravention of this rule in respect of a young person, within the meaning of the said section 38(3), it shall be a defence to prove that at the time of the alleged contravention he had in fact attained the required age or that he had apparently attained that age.
+3. The licensee'
 (a) shall display his betting office licence in a conspicuous place
 on the licensed premises;
 (b) shall exhibit on these premises such notices in such form and
