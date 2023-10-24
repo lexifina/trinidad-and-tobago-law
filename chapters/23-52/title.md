@@ -2,52 +2,48 @@ PENSIONS ACT
 CHAPTER 23:52
 Act
 16 of 1934 Amended by
-38 of 1973 21 of 1938
-16 of 1940 32 of 1974 33 of 1943 44 of 1976 8 of 1944 22 of 1977 55 of 1946
+21 of 1938 32 of 1974 16 of 1940 44 of 1976 33 of 1943 22 of 1977 8 of 1944
 *14 of 1980
-17 of 1950
+55 of 1946
 98/1981
-28 of 1950
+17 of 1950
 *9 of 1987
-10 of 1952
-*19 of 1989
-1 of 1953
-*5 of 1994
-1 of 1954
-*4 of 1995
-5 of 1955
-20 of 1997
-20 of 1955
-*21 of 2005 39 of 1955 *17 of 2007 43 of 1956 13 of 2008 14 of 1958 20 of 2008 37 of 1961
-16 of 1962 *1 of 2009 9 of 1968 *13 of 2010 37 of 1968 *2 of 2015
-*See Note on Amendment Acts on page 2
+28 of 1950
+*19 of 1989 10 of 1952 *5 of 1994 1 of 1953
+1 of 1954 *4 of 1995 5 of 1955 20 of 1997 20 of 1955 *21 of 2005 39 of 1955
+*17 of 2007
+43 of 1956
+13 of 2008
+14 of 1958
+20 of 2008
+37 of 1961
+*1 of 2009 16 of 1962 *13 of 2010 9 of 1968 *2 of 2015 37 of 1968 *19 of 2018 38 of 1973 (*See Note on Amendment Acts on page 2)
+154 ..
 Index of Subsidiary Legislation
-Page Pensions Regulations (16 of 1934 Second Schedule) … … … 36 Pensions (Approved Post) Order (GN 139/1976) … … … 52
+Page Pensions Regulations (16 of 1934 Second Schedule)    38
+54 Pensions (Approved Post) Order (GN 139/1976)   
 Note on Subsidiary Legislation
-Notifications made under sections 2 and 3 in respect of "pensionable offices" and "pensionable services" have been omitted, as they are numerous and frequent and of limited interest to the general public. For reference to these Notifications-See the Current Edition of the Consolidated Index of Acts and Subsidiary Legislation.
+Notifications made under sections 2 and 3 in respect of pensionable offices and pensionable services have been omitted, as they are numerous and frequent and of limited interest to the general public. For reference to these NotificationsSee the Current Edition of the Consolidated Index of Acts and Subsidiary Legislation.
 Note on Amendment Acts
-Note on Act No. 14 of 1980
-Section 4 of Act No. 14 of 1980 provides as follows:
-"This Act is deemed to have come into operation on 1st January 1977, and in its application
-it shall extend to persons who on that day were serving officers or in receipt of pension or eligible to receive pension under the Ordinance" (now the Pensions Act).
-Note on Act No. 9 of 1987
-See section 4 of, and the First Schedule to, Act No. 9 of 1987 with respect to the application of this Act.
-Note on Act No. 19 of 1989
-See section 13 of, and the First Schedule to, Act No. 19 of 1989 with respect to the application of this Act.
+Note on Act No. 14 of 1980 Section 4 of Act No. 14 of 1980 provides as follows:
+This Act is deemed to have come into operation on 1st January 1977, and in its
+application it shall extend to persons who on that day were serving officers or in receipt of pension or eligible to receive pension under the Ordinance (now the Pensions Act).
+Note on Act No. 9 of 1987 See section 4 of, and the First Schedule to, Act No. 9 of 1987 with respect to the application of this Act.
+Note on Act No. 19 of 1989 See section 13 of, and the First Schedule to, Act No. 19 of 1989 with respect to the application of this Act.
 Note on Act No. 5 of 1994
 See section 30 of Act No. 5 of 1994 for the preservation of the pension of an officer who is transferred to an Authority.
 Note on Act No. 4 of 1995
 See section 10 of Act No. 4 of 1995 for the continuation of the pension rights of officers of the defunct Tourist Board.
-Note on Act No. 21 of 2005
-See section 15 of Act No. 21 of 2005 for the determination of pensionable emoluments of certain officers.
-Note on Act No. 17 of 2007
-See section 25 of Act No. 17 of 2007 with respect to the application of this Act.
+Note on Act No. 21 of 2005 See section 15 of Act No. 21 of 2005 for the determination of pensionable emoluments of certain officers.
+Note on Act No. 17 of 2007 See section 25 of Act No. 17 of 2007 with respect to the application of this Act.
 Note on Act No. 1 of 2009
 Amendments made to sections 18(1) and 19(1) by Act No. 1 of 2009 took effect from 1st October 2008.
 Note on Act No. 13 of 2010
 Amendments made to sections 18(1) and 19(1) by Act No. 13 of 2010 took effect from 1st September 2010 and all payments made between that date and 1st January 2011 have been validated by section 25.
 Note on Act No. 2 of 2015
 Amendments made to sections 18(1) and 19(1) by Act No. 2 of 2015 took effect from 1st October 2014 and all payments made on or after and before that date have been validated by section 26.
+Note on Act No. 19 of 2018
+Section 19A inserted in this Act by Act No. 19 of 2018, took effect on 1st January 2019.
 CHAPTER 23:52
 PENSIONS ACT
 ARRANGEMENT OF SECTIONS
@@ -71,7 +67,7 @@ Gratuity to female officer retiring on account of her marriage.
 approved post.
 16A. Computation of pension in acting capacity, prior to compulsory
 retirement.
-ARRANGEMENT OF SECTIONS-Continued
+ARRANGEMENT OF SECTIONSContinued
 SECTION
 16B. Computation of pension on promotion following acting, prior to
 compulsory retirement.
@@ -79,9 +75,11 @@ compulsory retirement.
 17. Liability of pensioners to be called upon to take further employment. 18. Maximum pension.
 Maximum pension when officer entitled to pension from other
 public service.
-19. Gratuity and reduced pension. 20. Pension payable to officer after re-employment. 21. Gratuity to dependants when officer dies in service of Trinidad
+19. Gratuity and reduced pension.
+19A. Interim Pension.
+20. Pension payable to officer after re-employment. 21. Gratuity to dependants when officer dies in service of Trinidad
 and Tobago or shortly after retirement therefrom.
-22. Pensions to dependants when an officer is killed on duty. 23. Pensions not assignable or attachable. 24. President may apply part of a person's pension towards the
+22. Pensions to dependants when an officer is killed on duty. 23. Pensions not assignable or attachable. 24. President may apply part of a person s pension towards the
 maintenance of his wife or children.
 25. Pensions, etc., to cease on bankruptcy. 26. Pensions, etc., to cease on conviction. 27. Pensions, etc., to cease on accepting certain appointments. 28. President to decide questions arising under the Act. 29. Application of the Act.
 Limitation of application. Saving existing rights to pensioners.
