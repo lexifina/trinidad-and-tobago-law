@@ -1,0 +1,3 @@
+WASTE MANAGEMENT (FEES) REGULATIONS
+made under section 96(2)
+- Margin: 185/2021.

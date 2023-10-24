@@ -1,14 +1,14 @@
 # SCHEDULE II
 GUIDELINES FOR ENVIRONMENTALLY
 SENSITIVE SPECIES
-1. The designation of species as "environmentally sensitive" is to meet one or more of three general categories of objectives:
+1. The designation of species as &environmentally sensitive' is to meet one or more of three general categories of objectives,
 (a) conservation of biological diversity and protection of the
 environment;
 (b) sustainable economic and human development;
 (c) logistic support, e.g., environmental education, information
-sharing, etc. The specific objectives are:
+sharing, etc. The specific objectives are,
 (a) maintenance of species abundance and diversity;
-(b) preservation of the integrity of species' populations to ensure
+(b) preservation of the integrity of species populations to ensure
 genetic viability and to sustain their intangible and direct material benefits;
 (c) maintenance of its importance or significance to the
 ecosystem(s) of the immediate locality or to wider areas;
@@ -31,6 +31,7 @@ weather or climate patterns;
 key physical processes or ecological interactions characteristic of a given locality or wider area;
 (f) critical to the colonisation, consolidation or rehabilitation of
 barren, hostile or unsettled areas;
+Environmentally Sensitive Species Rules
 (g) unique or of significant taxonomic importance as a
 subspecies or variant of continental genera; a relict species; a species adapted to local conditions; or a viable mutant strain;
 (h) significance in ecosystems external to Trinidad and Tobago

@@ -1,13 +1,14 @@
 # SCHEDULE II
 GUIDELINES FOR ENVIRONMENTALLY
 SENSITIVE AREAS
-1. The designation of an area, as "environmentally sensitive" is to meet one or more of three categories of general objectives:
+1. The designation of an area, as &environmentally sensitive' is to meet one or more of three categories of general objectives,
 (a) Conservation of natural resources and protection of the
 environment.
 (b) Sustainable economic and human development.
 (c) Logistic support such as environmental education, and
 information sharing.
-2. The specific objectives are:
+Environmentally Sensitive Areas Rules
+2. The specific objectives are,
 (a) Appreciation of the broader ecological aspects of an area for
 its intrinsic values and functions as well as for its potential for direct material benefits.
 (b) Maintenance of the significance of an area in the national,
@@ -26,7 +27,7 @@ associated with preserving the integrity of the environment.
 (i) Maintenance of a stock of genetic resources in viable
 populations.
 (j) Facilitation of relevant scientific research or environmental
-monitoring to improve understanding of interactions between biotic and abiotic components of the environment, the processes involved and the attributes and potential of the area's resources.
+monitoring to improve understanding of interactions between biotic and abiotic components of the environment, the processes involved and the attributes and potential of the areas resources.
 (k) Dissemination of relevant information to stakeholders and
 the public at large.
 3. Areas will be selected on the basis of one or more of the following general or specific criteria:
@@ -40,6 +41,7 @@ characteristic of one, or common to more than one biogeographical region.
 in a biogeographical region.
 (e) Critical importance to the survival or recovery of
 endangered, endemic or vulnerable species/communities of plants or animals.
+Environmentally Sensitive Areas Rules
 (f) An appreciable or significant assemblage of endangered, or
 threatened species of plants or animals.
 (g) Special value as a habitat for plants or animals at a critical
@@ -66,6 +68,7 @@ ecological integrity of one or more ecosystems for present and future generation
 natural or natural/cultural features of outstanding or unique value that require conservation because of inherent rarity, representative or aesthetic qualities or cultural significance.
 (d) Habitat/Species Management Area: an area requiring
 conservation through management intervention to ensure the maintenance of habitats and/or to meet the requirements of specific species.
+Environmentally Sensitive Areas Rules
 (e) Protected Landscape/Seascape: an area, that may contain
 coast and sea requiring protection for conservation and recreation, where the interaction of people and nature over time has produced an area of distinct character with significant aesthetic, ecological and/or cultural value, and often with high biological diversity.
 (f) Managed Resource Protected Area: an area containing
