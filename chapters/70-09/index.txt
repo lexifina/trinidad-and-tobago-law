@@ -14,6 +14,7 @@ s-12.md
 s-13.md
 s-14.md
 s-15.md
+s-15A.md
 s-16.md
 s-17.md
 s-18.md
