@@ -1,0 +1,4 @@
+PLANT PROTECTION (EXEMPTION FROM IMPORT
+PERMIT) ORDER
+made under section 4A(j)
+- Margin: 333/2020.

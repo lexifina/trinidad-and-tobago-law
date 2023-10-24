@@ -61,3 +61,16 @@ sl-04/r-3.md
 sl-05/title.md
 sl-05/r-1.md
 sl-05/r-2.md
+sl-06/title.md
+sl-06/r-1.md
+sl-06/r-2.md
+sl-07/title.md
+sl-07/r-1.md
+sl-07/r-2.md
+sl-08/title.md
+sl-08/r-1.md
+sl-08/r-2.md
+sl-08/r-3.md
+sl-09/title.md
+sl-09/r-1.md
+sl-09/r-2.md

@@ -1,11 +1,23 @@
 PLANT PROTECTION ACT
 CHAPTER 63:56
 Act
-13 of 1975 Amended by 2 of 2001
-29 ..
+13 of 1975 Amended by
+2 of 2001
+*10 of 2020
+(*See Note on page 2)
+12 ..
+34 ..
+58 ..
+914 ..
+1518 ..
+1924 ..
+2532 ..
 Index of Subsidiary Legislation
-Page Plant Protection Regulations (LN 194/1997) ... 15 Plant Protection (Declaration of Notifiable Disease) Order (LN 268/2004) … 26 Plant Protection (Control of Black Sigatoka Disease) (Tobago) Order
-(LN 93/2006) ... 27 Plant Protection (Giant African Snail) (Achatina Fulica) Order (LN 31/2010) 29 Plant Protection (Declaration of a Notifiable Pest) Order (LN 23/2016) … 29
+Page Plant Protection Regulations (LN 194/1997) " " " " 15 Plant Protection (Declaration of Notifiable Disease) Order (LN 268/2004) " 26 Plant Protection (Control of Black Sigatoka Disease) (Tobago) Order
+(LN 93/2006) " " " " " " 27 Plant Protection (Giant African Snail) (Achatina Fulica) Order (LN 31/2010) 29 Plant Protection (Declaration of a Notifiable Pest) Order (LN 23/2016) " 29 Plant Protection (Declaration of a Notifiable Pest) Order (LN 155/2017) " 29 Plant Protection (Declaration of Notifiable Pests and Diseases) Order
+(LN 104/2020) " " " " " " 30 Plant Protection (Exemption from Import Permit) Order (LN 333/2020) " 31 Plant Protection (Declaration of a Notifiable Disease) Order (LN 61/2022) " 32
+Note on Act No. 10 of 2020
+The amendments made to this Act by Act No. 10 of 2020 took effect on 11th May 2020 by LN 92/2020.
 CHAPTER 63:56
 PLANT PROTECTION ACT
 ARRANGEMENT OF SECTIONS
