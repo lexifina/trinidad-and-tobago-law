@@ -2,11 +2,10 @@ NATIONAL LIBRARY AND INFORMATION
 SYSTEM ACT
 CHAPTER 40:01
 Act
-18 of 1998
-Amended by
-11 of 2007
-Note on Subsidiary Legislation
-This Chapter contains no subsidiary legislation.
+18 of 1998 Amended by 11 of 2007
+16 .. 716 .. 1718 .. 1922 .. 2336 ..
+Index of Subsidiary Legislation
+Page National Library and Information System Regulations (LN 147/2021)  23
 CHAPTER 40:01
 NATIONAL LIBRARY AND INFORMATION
 SYSTEM ACT
@@ -17,14 +16,13 @@ PRELIMINARY
 1. Short title. 2. Interpretation.
 PART II
 ESTABLISHMENT OF THE NATIONAL LIBRARY AND
-INFORMATION SYSTEM-NALIS
-3. Establishment of NALIS and appointment of the Board. 4. Functions of NALIS. 5. Powers of NALIS. 6. NALIS to enter management arrangements. 7. Seal of NALIS. 8. Collection, acquisition and maintenance of material and information. 9. Establishment and functions of Board.
-10. Directions by Minister. 11. Committees.
+INFORMATION SYSTEMNALIS
+3. Establishment of NALIS and appointment of the Board. 4. Functions of NALIS. 5. Powers of NALIS. 6. NALIS to enter management arrangements. 7. Seal of NALIS. 8. Collection, acquisition and maintenance of material and information. 9. Establishment and functions of Board. 10. Directions by Minister. 11. Committees.
 PART III
 EXECUTIVE DIRECTOR, STAFF AND
 RELATED MATTERS
 12. Executive Director. 13. Duties of Executive Director. 14. Resignation of Executive Director. 15. Publication. 16. Disclosure of interests. 17. Deputy Executive Director. 18. Power of NALIS to appoint and deal with staff. 19. Employment by NALIS of non-public officers in libraries at
-commencement of Act. ARRANGEMENT OF SECTIONS-Continued
+commencement of Act. ARRANGEMENT OF SECTIONSContinued
 SECTION
 20. Employment of public officers employed in libraries at
 commencement of Act.
