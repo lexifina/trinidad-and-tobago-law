@@ -1,0 +1,2 @@
+# SCHEDULE
+That parcel of land known as the Guave Road Triangle, situate in Chaguaramas, in the Ward of Diego Martin, County of St. George, comprising 34.5118 hectares (85.2805 acres), which parcel of land is bounded on the North by lands of the Chaguaramas Development Authority (CDA) and Guave Road 15.00 metres wide, on the South by the lands of the CDA. On the East by Guave Road 15.00 metres wide and on the West by lands of the CDA and Guave Road 15.00 metres wide and is delineated and labelled G on the plan annexed hereto.

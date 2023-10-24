@@ -4,7 +4,7 @@ THE NORTH-WEST PENINSULA
 North by the Caribbean Sea, from the point whose co-ordinates are
 North 1188 097 m. and East 653 395 m., approximately two miles East of Macqueripe Bay, to Entrada Point, at the entrance of the Boca de Monos (commonly known as the First Boca);
 West by the Boca de Monos, from Entrada Point, to Delgada Point,
-sometimes known as Canning's Point;
+sometimes known as Cannings Point;
 South by the Gulf of Paria, from Delgada Point, to the point whose
 co-ordinates are North 1181 332 m. and East 653 405 m., approximately 15 feet West of the pier of the Bauxite Transfer Station at Carenage;
 East by a line starting at the above-mentioned point North 1181
