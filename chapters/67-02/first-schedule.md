@@ -1,7 +1,7 @@
 # FIRST SCHEDULE
-MINISTRY OF AGRICULTURE-TRINIDAD AND TOBAGO
+MINISTRY OF AGRICULTURE"TRINIDAD AND TOBAGO
 ANIMAL LANDING PERMIT
-No. This is to Certify that I have this day examined the undermentioned animal(s) and-
+No. This is to Certify that I have this day examined the undermentioned animal(s) and"
 (a) Find them/it to be healthy and therefore permit entry into Trinidad and
 Tobago.
 (b) Find ...

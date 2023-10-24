@@ -14,12 +14,12 @@ Date...
 ...
 Inspector
 CONDITIONS GOVERNING THIS LICENCE
-1. A licence for movement between different parts of the same farm or holding may, at the discretion of the Inspector, be made valid for use as often as required. Such a licence shall be endorsed "occupation licence" by the Inspector, and shall remain in force until written cancellation is given by the Inspector.
+1. A licence for movement between different parts of the same farm or holding may, at the discretion of the Inspector, be made valid for use as often as required. Such a licence shall be endorsed occupation licence by the Inspector, and shall remain in force until written cancellation is given by the Inspector.
 2. The animals shall be moved by the manner and route specified in the licence. If no special provision is made the animals shall be moved by the nearest available route, and without avoidable delay to the place of destruction specified in the licence, and not elsewhere.
 3. The animals shall be kept as far as practicable apart from other animals during the movement. 4. Where the number of animals moved is less than the number for which the licence was granted, the Inspector shall endorse the licence at Column II for the number of animals actually moved. The licence shall not be valid for any further movements, except as provided in Condition No. 1.
-5. Before movement other than movement between different parts of the same farm, animals shall be marked with a letter "M" on the neck.
+5. Before movement other than movement between different parts of the same farm, animals shall be marked with a letter M on the neck.
 6. The licence shall accompany the animals throughout the movement and shall be produced on demand to the Inspector or a constable.
-7. The licence, unless marked "occupation licence"-see Condition No. 1-shall be delivered to the nearest Police Station immediately upon arrival of the animals at the place of destination.
+7. The licence, unless marked occupation licence"see Condition No. 1"shall be delivered to the nearest Police Station immediately upon arrival of the animals at the place of destination.
 8. Unless the place of destruction specified in Column IV is a place of slaughter, the animals shall on arrival be detained for a period of 14 days from the date of arrival.
 9. Additional special conditions governing this licence.
 - Margin: Regulations 5(1), 10(8) and 13(4).
