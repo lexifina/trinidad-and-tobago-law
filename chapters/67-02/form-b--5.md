@@ -1,26 +1,26 @@
 # FORM B
 AMBLYOMMA VARIEGATUM (PREVENTION AND CONTROL) REGULATIONS
 WITHDRAWAL NOTICE
-To ... of ... I ... of ... being the Inspector designated under the Animals (Diseases and Importation) Act, do hereby withdraw, as from the ... day of ..., 20... the notice relating to premises in your occupation at ... dated the ... day of ..., 20... signed by ... and served upon you on the ... day of ..., 20...
+To ... of ... I, ... of ... being the Inspector designated under the Animals (Diseases, Importation, Health and Welfare) Act, do hereby withdraw, as from the ... day of ..., 20... the notice relating to premises in your occupation at ... dated the ... day of ..., 20... signed by ... and served upon you on the ... day of ..., 20...
 Dated this ... day of ..., 20...
 ...
-Inspector IMPORTATION OF FROZEN CARCASES AND BOILING
+Inspector IMPORTATION OF FROZEN CARCASSES AND BOILING
 OF ANIMAL FOODSTUFFS REGULATIONS
-* deemed to be made under section 15
-1. These Regulations may be cited as the Importation of Frozen Carcases and Boiling of Animal Foodstuffs Regulations.
+*deemed to be made under section 15
+1. These Regulations may be cited as the Importation of Frozen Carcasses and Boiling of Animal Foodstuffs Regulations.
 PART I
-2. In these Regulations- "animal" means cattle, sheep, pigs or goats; "boiled" means exposed for a period of at least one hour by any
-process to a temperature of not less than 212˚ F., and the expression "boiling" shall be construed accordingly; "swill" means any broken or waste foodstuffs including table or
-kitchen refuse, scraps or waste, containing any meat, bones, offal or portions thereof, or any other part of the carcase of an animal.
+2. In these Regulations" animal means cattle, sheep, pigs or goats; boiled means exposed for a period of at least one hour by any
+process to a temperature of not less than 212 F., and the expression boiling shall be construed accordingly; swill means any broken or waste foodstuffs including table or
+kitchen refuse, scraps or waste, containing any meat, bones, offal or portions thereof, or any other part of the carcass of an animal.
 PART II
 PRECAUTIONS TO BE ADOPTED IN REGARD TO
 CERTAIN ANIMAL FOODSTUFFS
-3. (1) Every person having in his possession or under his charge-
+3. (1) Every person having in his possession or under his charge"
 (a) any meat, bones, offal, or other part of the
-carcase of an animal; or
+carcass of an animal; or
 (b) any swill; or
 (c) any other broken or waste foodstuffs which have
-been in contact with meat, bones, offal, or other part of the carcase of an animal,
+been in contact with meat, bones, offal, or other part of the carcass of an animal,
 *These Regulations were made under section 14N of the Diseases of Animals Ordinance (now repealed) and continue in force by virtue of section 29(3) of the Interpretation Act (Ch. 3:01). shall, before he allows any such articles to be brought into contact with or fed to animals or before he sells or otherwise disposes of them to any other person, cause such articles to be boiled.
 (2) No person shall permit any animal to be brought into contact with any article mentioned in subregulation (1), unless and until the article has been boiled.
 ANIMALS (IMPORTATION) CONTROL REGULATIONS
@@ -28,23 +28,24 @@ ARRANGEMENT OF REGULATIONS
 REGULATION
 1. Citation. 2. Interpretation. 3. Importation of animals. 4. Landing of animals. 5. (Revoked by LN 56/2014). 6. Inspection, disinfection and quarantine of vessels and aircraft. 7. Inspection of animals. 8. Quarantine of animals. 9. Expenses of and destruction of animals in quarantine. 10. Saving. 11. Dog or cat from Category 1 and Category 2.
 11A. Dog or cat other than a dog or cat in Category 1 or Category 2 countries. 11B. Dog or cat returning to Trinidad and Tobago from abroad.
-12. Horses. 13. Cattle, sheep and goats. 14. Pigs. 15. Poultry. 16. Pigeons. 17. Monkeys. 18. Carcases of cattle, pigs, sheep and goats. 19. Beef. 20. Carcases of poultry. 21. Animal products. 22. Fodder and litter. 23. Dung and dead carcases. 24. Used or second-hand animal blankets, saddle cloth, cloths, felting,
-pads, etc. REGULATION
+12. Horses. 13. Cattle, sheep and goats. 14. Pigs. 15. Poultry. 16. Pigeons. 17. Monkeys. 18. Carcasses of cattle, pigs, sheep and goats. 19. Beef. 20. Carcasses of poultry. 21. Animal products. 22. Fodder and litter. 23. Dung and dead carcasses. 24. Used or second-hand animal blanket, saddle cloth, felting, pad, etc.
+ARRANGEMENT OF REGULATIONS"Continued
+REGULATION
 25. Used and second-hand animal trappings. 26. Biological products. 27. Semen. 28. Fees. 29. Penalty.
-FIRST SCHEDULE. SECOND SCHEDULE-(Repealed by LN 56/2014). THIRD SCHEDULE. FOURTH SCHEDULE. FIFTH SCHEDULE. SIXTH SCHEDULE. SEVENTH SCHEDULE. EIGHTH SCHEDULE. NINTH SCHEDULE. TENTH SCHEDULE.
+FIRST SCHEDULE. SECOND SCHEDULE'(Repealed by LN 56/2014). THIRD SCHEDULE. FOURTH SCHEDULE. FIFTH SCHEDULE. SIXTH SCHEDULE. SEVENTH SCHEDULE. EIGHTH SCHEDULE. NINTH SCHEDULE. TENTH SCHEDULE.
 ANIMALS (IMPORTATION) CONTROL REGULATIONS
 made under section 15 and 23
 1. These Regulations may be cited as the Animals (Importation) Control Regulations.
-2. In these Regulations- "animal" does not include a fish or a monkey; "approved laboratory" means a laboratory which is approved
-by The World Health Organisation Collaborating Center for Rabies Surveillance and Research for the Fluorescent Anti-body Virus Neutralisation (FAVN) testing of dogs and cats for the purposes of international travel as published in the Gazette by the Ministry; "Category 1 country" means a country in which no cases of
-rabies have been reported within the last five years as published in the Gazette by the Ministry; "Category 2 country" means a country in which rabies is
-controlled in domestic dogs and cats but may be present in wild animals as published in the Gazette by the Ministry; "Chief Technical Officer" means the Chief Technical Officer
-(Agriculture) or any officer of the Ministry of Agriculture lawfully authorised by him in writing; "Commonwealth Caribbean Territories" means Anguilla,
-Antigua, Barbados, Dominica, Grenada, Guyana, Jamaica, Montserrat, St. Kitts-Nevis, St. Lucia, St. Vincent and the British Virgin Islands; "import permit" means a permit granted under regulation 3(2); "Pet Passport" means an official document of the Pet Travel
+2. In these Regulations" animal does not include a fish or a monkey; approved laboratory means a laboratory which is approved
+by The World Health Organisation Collaborating Center for Rabies Surveillance and Research for the Fluorescent Anti-body Virus Neutralisation (FAVN) testing of dogs and cats for the purposes of international travel as published in the Gazette by the Ministry; Category 1 country means a country in which no cases of
+rabies have been reported within the last five years as published in the Gazette by the Ministry; Category 2 country means a country in which rabies is
+controlled in domestic dogs and cats but may be present in wild animals as published in the Gazette by the Ministry; Chief Technical Officer means the Chief Technical Officer
+(Agriculture) or any officer of the Ministry of Agriculture lawfully authorised by him in writing; Commonwealth Caribbean Territories means Anguilla,
+Antigua, Barbados, Dominica, Grenada, Guyana, Jamaica, Montserrat, St. Kitts-Nevis, St. Lucia, St. Vincent and the British Virgin Islands; import permit means a permit granted under regulation 3(2); Pet Passport means an official document of the Pet Travel
 Scheme (PETS) that records relevant identification data of
-*These Regulations (GN 27/1955) have been amended by GNs 174/1955, 210/1955, 79/1956, 124/1956, 88/1957, 19/1959, 57/1960, 51/1961, 143/1961, 150/1961, 90/1962, 25/1963, 74/1964, 97/1964, 3/1965, 42/1965, 26/1967, 40/1967, 192/1977, 123/1978, Acts Nos. 45 of 1979, 47 of 1980; LNs 124/1980, 165/1984, 172/1987, 47/1988, 48/1988, 253/1988, Act No. 6 of 1993, LNs 54/1994, 35/1996, 234/1997, 280/1997, 114/1998, 129/1998, 131/1999, 215/1999, 80/2000, 251/2000, 4/2003, 64/2008; 205/2013 and 56/2014. *These Regulations were further amended by Legal Notices Nos. 84 and 85/2004 and LN No. 68/2005 but these Legal Notices were not laid in Parliament by the end of the year 2007 and accordingly have not been included in the Regulations. As a consequence it is not possible to accommodate amendments made to the Second Schedule of these Regulations by LN No. 72/2005.
-and health information for a specific dog or cat, and allows that a dog or cat may travel easily between member countries; "prescribed certificate" means a certificate which purports to
-have been given-
+*These Regulations (GN 27/1955) have been amended by GNs 174/1955, 210/1955; 79/1956, 124/1956; 88/1957; 19/1959; 57/1960; 51/1961, 143/1961, 150/1961; 90/1962; 25/1963; 74/1964, 97/1964; 3/1965, 42/1965; 26/1967, 40/1967; 192/1977; 123/1978; Acts Nos. 45 of 1979, 47 of 1980, LNs 124/1980; 165/1984; 172/1987; 47/1988, 48/1988, 253/1988; Act No. 6 of 1993; LNs 54/1994; 35/1996; 234/1997, 280/1997; 114/1998, 129/1998; 131/1999, 215/1999; 80/2000, 251/2000; 4/2003; 64/2008; 205/2013; 56/2014 and 94/2018. *These Regulations were further amended by Legal Notices Nos. 84 and 85/2004 and LN No. 68/2005 but these Legal Notices were not laid in Parliament by the end of the year 2007 and accordingly have not been included in the Regulations. As a consequence it is not possible to accommodate amendments made to the Second Schedule of these Regulations by LN No. 72/2005.
+and health information for a specific dog or cat, and allows that a dog or cat may travel easily between member countries; prescribed certificate means a certificate which purports to
+have been given"
 (a) in the case of Great Britain, by the Ministry of
 Agriculture and Fisheries;
 (b) in the case of Northern Ireland, by the Ministry
@@ -58,7 +59,7 @@ the Bureau of Animal Husbandry;
 (f) in the case of a Commonwealth Caribbean
 Territory, by a Government Veterinary Officer of such Territory; and
 (g) in the case of any other country, by an Official
-Veterinarian of the National Government of such country; "vessel" means any ship, schooner, boat or other floating craft.
+Veterinarian of the National Government of such country; vessel means any ship, schooner, boat or other floating craft.
 3. (1) No animal shall be imported into Trinidad and Tobago except in accordance with these Regulations.
 (2) No animal shall be imported into Trinidad and Tobago except in accordance with the terms of a permit granted by the Chief Technical Officer.
 4. (1) No animal shall be landed at any port, except the ports of Port-of-Spain, San Fernando, Chaguaramas, Point Lisas and Scarborough or at any aerodrome other than the Piarco Airport and the A.N.R. Robinson International Airport.
@@ -75,8 +76,8 @@ or aircraft or any portion thereof as he may deem necessary for preventing the i
 carry out such written directions as he may receive from the Inspector with respect to the quarantine;
 (e) the Master or Captain of the vessel or aircraft shall
 take such measures as the Inspector may direct for the cleaning and disinfection of all stalls and boxes in and of any portion of the vessel or aircraft used for the transportation of animals.
-7. (1) Every animal before being landed shall be subject to inspection by the Inspector who may-
-(a) if satisfied-
+7. (1) Every animal before being landed shall be subject to inspection by the Inspector who may"
+(a) if satisfied"
 (i) that any such animal is suffering from
 disease; or
 (ii) that any condition of a permit permitting
@@ -93,8 +94,8 @@ landed either unconditionally or subject to such conditions as he may impose.
 (2) Every animal shall be kept in quarantine at the risk of the consignee.
 (3) When any animal, while in quarantine in accordance with the provisions of these Regulations, develops or, in the opinion of the Inspector, shows symptoms of any disease the spread of which would endanger the health of animals in Trinidad and Tobago, the animal may, with the approval of the Minister, be destroyed without payment of any compensation.
 10. The provisions of such of these Regulations as relate to the importation of animals do not apply to any animal imported by, with the concurrence of, or on behalf of the Government.
-11. (1) Subject to regulations 7 and 8, where a dog or cat is imported directly from any Category 1 country, the dog or cat shall not be landed unless-
-(a) the dog or cat has been resident in-
+11. (1) Subject to regulations 7 and 8, where a dog or cat is imported directly from any Category 1 country, the dog or cat shall not be landed unless"
+(a) the dog or cat has been resident in"
 (i) any Category 1 country since its birth; or
 (ii) one or more Category 1 countries for a
 total period of six months immediately prior to the period of its transportation to
@@ -102,18 +103,18 @@ Trinidad and Tobago;
 (b) the dog or cat has been fitted with, and can be
 permanently identified by a microchip, which satisfies the requirement of the import permit; and
 (c) the owner or consignee of the dog or cat
-produces to the Inspector an official Veterinary Export Health Certificate, Pet Passport or other relevant document which-
+produces to the Inspector an official Veterinary Export Health Certificate, Pet Passport or other relevant document which"
 (i) is in English or translated into English; and
 (ii) satisfies the requirements of the import permit.
-(2) Subject to regulations 7 and 8, where a dog or cat is imported from any Category 2 country, the dog or cat shall not be landed unless-
-(a) the dog or cat has been resident in-
+(2) Subject to regulations 7 and 8, where a dog or cat is imported from any Category 2 country, the dog or cat shall not be landed unless"
+(a) the dog or cat has been resident in"
 (i) a Category 2 country since its birth; or
 (ii) one or more Category 2 countries for a
 total period of six months immediately prior to the period of its transportation to
 Trinidad and Tobago;
 (b) the dog or cat has been fitted with, and can be
 permanently identified by a microchip, which satisfies the requirements of the import permit;
-(c) after being fitted with a microchip-
+(c) after being fitted with a microchip"
 (i) the dog or cat was vaccinated against
 rabies using an inactivated or recombinant vaccine or any other vaccine which satisfies the requirements of the import permits; and
 (ii) the microchip number, date of vaccination,
@@ -127,13 +128,13 @@ Neutralisation (FAVN) blood test referred to in paragraph (e) show a serum antib
 (g) the dog or cat arrives at the port or aerodrome at
 least three months before immunity from the rabies vaccination expires; and
 (h) the owner or consignee of the dog or cat
-produces to the Inspector an official Veterinary Export Health Certificate, Pet Passport or other relevant document which-
+produces to the Inspector an official Veterinary Export Health Certificate, Pet Passport or other relevant document which"
 (i) is in English or translated into English; and
 (ii) satisfies the requirements of the import permit.
-11A. Subject to regulations 7 and 8, where a dog or cat, other than a dog or cat to which regulation 11(1) or (2) applies, is imported into Trinidad and Tobago, the dog or cat shall not be landed unless-
+11A. Subject to regulations 7 and 8, where a dog or cat, other than a dog or cat to which regulation 11(1) or (2) applies, is imported into Trinidad and Tobago, the dog or cat shall not be landed unless"
 (a) the dog or cat has been fitted with and can be
 permanently identified by a microchip, which satisfies the requirements of the import permit;
-(b) after being fitted with a microchip-
+(b) after being fitted with a microchip"
 (i) the dog or cat was vaccinated against
 rabies using an inactivated or recombinant vaccine or any other vaccine which satisfies the requirements of the import permit; and
 (ii) the microchip number, date of vaccination,
@@ -145,20 +146,20 @@ rabies vaccine, a blood sample from the dog or cat was taken to determine the ti
 (e) the results of the Fluorescent Anti-body Virus
 Neutralisation (FAVN) test referred to in paragraph (d) show a serum antibody level of at least 0.5 IU/ml and the laboratory results bear the number of the microchip;
 (f) the dog or cat arrives at the port of entry or
-aerodrome-
+aerodrome"
 (i) not less than six months after receiving
 the rabies vaccine; and
 (ii) at least three months before immunity
 from the rabies vaccination expires; and
 (g) the owner or consignee of the dog or cat
-produces to the Inspector an official Veterinary Export Health Certificate, Pet Passport or other relevant document which-
+produces to the Inspector an official Veterinary Export Health Certificate, Pet Passport or other relevant document which"
 (i) is in English or translated into English; and
 (ii) satisfies the requirements of the import
 permit.
-11B. (1) Subject to subregulation (2), a dog or cat born in Trinidad and Tobago or resident in Trinidad and Tobago for a period of at least six months and returning to Trinidad and Tobago from abroad, shall not be landed unless-
+11B. (1) Subject to subregulation (2), a dog or cat born in Trinidad and Tobago or resident in Trinidad and Tobago for a period of at least six months and returning to Trinidad and Tobago from abroad, shall not be landed unless"
 (a) the dog or cat was fitted with and can be
 permanently identified by a microchip, approved by the Chief Technical Officer;
-(b) after being fitted with a microchip-
+(b) after being fitted with a microchip"
 (i) the dog or cat was vaccinated against
 rabies using an inactivated or recombinant vaccine or any other vaccine which satisfies the requirement of the import permit; and
 (ii) the microchip number, date of vaccination,
@@ -169,7 +170,7 @@ when the primary rabies vaccine was given;
 rabies vaccine, a blood sample from the dog or cat was taken to determine the titre level of protective antibodies against rabies by an approved laboratory using the Fluorescent Anti-body Virus Neutralisation (FAVN) test;
 (e) the results of the Fluorescent Anti-body Virus
 Neutralisation (FAVN) blood test referred to in paragraph (d) show a serum antibody level of at least 0.5 IU/ml and the laboratory results bear the number of the microchip; and
-(f) the dog or cat-
+(f) the dog or cat"
 (i) returns to Trinidad and Tobago at least
 three months before immunity from the rabies vaccination expires; and
 (ii) satisfies the requirements of the import
@@ -177,7 +178,7 @@ permit.
 (2) A dog or cat referred to in subregulation (1) which does not meet the requirements of paragraphs (a) to (f) may be landed in accordance with regulation 11 or 11A as applicable.
 12. (1) No horse shall be imported into Trinidad and Tobago except the horse is imported directly from one of the countries specified in the Third Schedule.
 (2) No horse so imported shall be landed in Trinidad and Tobago unless there is produced to the Inspector in respect thereof the prescribed certificate.
-(3) The certificate shall state-
+(3) The certificate shall state"
 (a) that the country from which the horse was
 exported is free from foot and mouth disease;
 (b) if the country is not free from foot and mouth
@@ -189,27 +190,27 @@ test for glanders (farcy) with negative results; and
 (e) so far as it has been possible to ascertain no case
 of dourine (mal du coit), mal de caderas, glanders (farcy), epizootic lymphangitis, ulcerative lymphangitis, influenza, equine infectious aenaemia, equine encephalomyelitis, or mange, has occurred in the stables or on the premises where the horse was kept during the thirty days prior to the date of exportation.
 (4) Notwithstanding subregulation 3(d), the Inspector may permit the landing in Trinidad and Tobago of any horse shipped from Great Britain or a Commonwealth Caribbean Territory without the prescribed certificate; but, if he thinks fit, the animal shall be detained and dealt with in accordance with regulations 8 and 9.
-(5) For the purpose of this regulation, "horses" includes mares, mules, donkeys and zebras.
+(5) For the purpose of this regulation, horses includes mares, mules, donkeys and zebras.
 13. (1) No cattle, sheep or goats shall be imported into Trinidad and Tobago except any such animal is imported directly from one of the countries specified in the Fourth Schedule.
 (2) No cattle so imported shall be landed in Trinidad and Tobago unless there is produced to the Inspector in respect thereof the prescribed certificate.
-(3) The certificate shall state that-
+(3) The certificate shall state that"
 (a) the country from which the cattle were imported
 is free from foot and mouth disease;
 (b) the cattle are physically sound, in good health,
-and free of symptoms of paratuberculosis (Johne's disease) and other infectious diseases;
+and free of symptoms of paratuberculosis (Johne s disease) and other infectious diseases;
 (c) the cattle have passed negative to an intradermal
 tuberculin test within ten days prior to the date of exportation;
 (d) the cattle have reacted negatively to the serum-
 agglutination test for Brucellosis within thirty days prior to the date of exportation.
 (4) Notwithstanding subregulations (1) to (3), the Chief Technical Officer may, in his discretion, permit cattle to be imported for slaughter purposes subject to such conditions and directions as he may impose in writing.
 (5) No sheep so imported shall be landed unless there is produced to the Inspector in respect thereof the prescribed certificate.
-(6) The certificate shall state that-
+(6) The certificate shall state that"
 (a) the country from which the sheep was exported
 is free from foot and mouth disease; and
 (b) the sheep is physically sound, in good health and
 free from infectious and contagious diseases.
 (7) No goat so imported shall be landed unless there is produced to the Inspector in respect thereof the prescribed certificate.
-(8) The certificate shall state that-
+(8) The certificate shall state that"
 (a) the country from which the goat was exported is
 free from foot and mouth disease;
 (b) the goat is physically sound and free from
@@ -220,14 +221,14 @@ tuberculin test within ten days prior to the date of exportation; and
 agglutination test for Brucellosis within thirty days prior to the date of exportation of the goat.
 14. (1) No pig shall be imported into Trinidad and Tobago except any such pig is imported directly from one of the countries specified in the Fifth Schedule.
 (2) No pig so imported shall be landed in Trinidad and Tobago unless there is produced to the Inspector in respect thereof the prescribed certificate.
-(3) The certificate shall state-
+(3) The certificate shall state"
 (a) that the country from which the pig was
 exported is free from foot and mouth disease and from swine fever (hog cholera); or
 (b) if the country is not free from foot and mouth
 disease and swine fever, that the area from which the pig originated and through which it was transported to the port of exportation is free from foot and mouth disease and swine fever; and
 (c) that the pig is free from symptoms of infectious
 and contagious diseases.
-15. (1) Poultry may be imported into Trinidad and Tobago only-
+15. (1) Poultry may be imported into Trinidad and Tobago only"
 (a) from one of the countries specified in the Sixth
 Schedule; and
 (b) in accordance with the terms and conditions of a
@@ -238,27 +239,27 @@ permit granted by the Chief Technical Officer.
 (2) No such pigeons shall be landed unless there is delivered to the Comptroller of Customs and Excise in respect thereof the prescribed certificate.
 (3) The certificate shall state that the pigeon is free from and has not been exposed to Newcastle disease.
 17. No monkey shall be imported into Trinidad and Tobago.
-18. (1) No fresh carcase, whether frozen or chilled, nor any cured or pickled or smoked carcase, of any cattle, pig, sheep or goat, or any portion of any such carcase, shall be imported into Trinidad and Tobago except the carcase or portion thereof is imported-
+18. (1) No fresh carcass, whether frozen or chilled, nor any cured or pickled or smoked carcass, of any cattle, pig, sheep or goat, or any portion of any such carcass, shall be imported into Trinidad and Tobago except the carcass or portion thereof is imported"
 (a) directly from any of the countries specified in
 the Seventh Schedule, or from any other country from which the Chief Technical Officer is satisfied that the importation is unlikely to result in the introduction or spread of disease in Trinidad and Tobago; and
 (b) in accordance with the terms of a permit granted
 by the Chief Technical Officer.
-(2) Subregulation (1) does not apply to-
+(2) Subregulation (1) does not apply to"
 (a) any importation made by or on behalf of the
 Government; or
 (b) any commercially canned meats, imported in
 hermetically sealed metal cans and fully processed in a manner approved by the Chief Technical Officer as being satisfactory for ensuring that the importation is unlikely to result in the introduction or spread of disease in Trinidad and Tobago, and accompanied by the official Meat Inspection
 Certificate of the country of origin.
 19. Notwithstanding regulation 18, beef whether frozen or chilled may be imported into Trinidad and Tobago directly from any of the countries specified in the Eighth Schedule.
-20. (1) No carcase of any poultry or any portion of the carcase shall be imported into Trinidad and Tobago unless the carcase or portion thereof is imported-
+20. (1) No carcass of any poultry or any portion of the carcass shall be imported into Trinidad and Tobago unless the carcass or portion thereof is imported"
 (a) directly from any of the countries specified in
 the Sixth Schedule; and
 (b) in accordance with the terms of a permit granted
 by the Chief Technical Officer.
-(2) Subregulation (1) does not apply to any carcase or part of a carcase of any poultry which has been fully cooked.
-(3) In this regulation, "fully cooked" means cooked throughout the whole of its substance so as to render it unnecessary for it to be further cooked before being used for human consumption.
+(2) Subregulation (1) does not apply to any carcass or part of a carcass of any poultry which has been fully cooked.
+(3) In this regulation, fully cooked means cooked throughout the whole of its substance so as to render it unnecessary for it to be further cooked before being used for human consumption.
 21. No animal products including hides, skins, horns, hair, wool, bones, bone meal, meat scrap and tankage shall be imported into Trinidad and Tobago except in accordance with the terms of a permit issued by the Chief Technical Officer and subject to such conditions as he may impose therein.
-22. (1) No fodder or litter shall be imported into Trinidad and Tobago except-
+22. (1) No fodder or litter shall be imported into Trinidad and Tobago except"
 (a) directly from any of the countries specified in
 the Ninth Schedule; and
 (b) in accordance with the terms of a permit granted
@@ -267,17 +268,17 @@ by the Chief Technical Officer.
 (3) The certificate shall state that the area from which the fodder or litter originated and the district through which it was transported to the port of exportation is free from foot and mouth disease.
 23. (1) No dung (other than the excrements of birds) shall be imported into Trinidad and Tobago.
 (2) Subregulation (1) does not apply to any dung which is contained in any box or crate in which any animal is lawfully imported into Trinidad and Tobago.
-(3) No carcase of an animal which has died or been slaughtered on board a vessel or aircraft while in port or during the voyage shall be landed in Trinidad and Tobago.
+(3) No carcass of an animal which has died or been slaughtered on board a vessel or aircraft while in port or during the voyage shall be landed in Trinidad and Tobago.
 24. (1) No used or second-hand animal blanket, saddle cloth, felting, pad, or other similar article shall be imported into Trinidad and Tobago.
 (2) Subregulation (1) does not apply to any such article which accompanies and forms part of the clothing or individual accoutrement of any animal lawfully imported into Trinidad and Tobago if the article was new at the time of exportation.
 25. No used or second-hand harness, saddle, halter, rein, girth, yoke, rope, chain or other trapping shall be landed in Trinidad and Tobago unless the trapping shall first be treated to the satisfaction of the Inspector at the risk of the person to whom the trapping is consigned before delivery to the consignee.
 26. (1) No biological product prepared from animal tissues intended for use in veterinary medicine shall be imported into Trinidad and Tobago except in accordance with the terms of a permit granted by the Chief Technical Officer.
-(2) In this regulation, "biological product" includes any substance commonly known as hormones, vaccines, sera, toxins, anti-toxins and antigens intended for use in the practice of veterinary medicine.
+(2) In this regulation, biological product includes any substance commonly known as hormones, vaccines, sera, toxins, anti-toxins and antigens intended for use in the practice of veterinary medicine.
 27. No semen of animals for artificial insemination shall be imported into Trinidad and Tobago except in accordance with the terms of a permit granted by the Chief Technical Officer.
 28. (1) The fees set out in the Tenth Schedule shall be payable, by the consignee or importer of an animal in respect of the matters therein set forth, to the Comptroller of Customs and Excise, the Inspector or other person, as specified therein, and all such fees as are not payable to the Inspector shall be paid to the general revenue of Trinidad and Tobago.
 (2) All fees payable under subregulation (1) may be recovered at the suit of the Chief Technical Officer in any Court of competent jurisdiction.
 29. (1) Any person who contravenes these Regulations, or any Order, instruction, or condition lawfully made, given, or imposed by any person under the authority of these Regulations, is liable on summary conviction to a penalty of one thousand dollars.
-(2) Where any carcase or any thing specified in regulations 18 to 27 is imported into or landed in Trinidad and Tobago in contravention of those Regulations, the same may be seized by the Inspector and, in his discretion, detained, destroyed or otherwise disposed of as he shall direct.
+(2) Where any carcass or any thing specified in regulations 18 to 27 is imported into or landed in Trinidad and Tobago in contravention of those Regulations, the same may be seized by the Inspector and, in his discretion, detained, destroyed or otherwise disposed of as he shall direct.
 - Margin: Regulation 4.
 - Margin: G. 24.12.31. [27/1955].
 - Margin: Citation.
@@ -299,7 +300,7 @@ by the Chief Technical Officer.
 - Margin: Dog or cat returning to Trinidad and Tobago from abroad. [56/2014].
 - Margin: Horses. [26/1967].
 - Margin: Third Schedule.
-- Margin: Cattle, sheep and goals.
+- Margin: Cattle, sheep and goats.
 - Margin: Fourth Schedule.
 - Margin: Pigs.
 - Margin: Fifth Schedule.
@@ -307,17 +308,17 @@ by the Chief Technical Officer.
 - Margin: Sixth Schedule.
 - Margin: Pigeons. [40/1967].
 - Margin: Monkeys.
-- Margin: Carcases of cattle, pigs, sheep and goats. [174/1955 210/1955 79/1956].
+- Margin: Carcasses of cattle, pigs, sheep and goats. [174/1955 210/1955 79/1956].
 - Margin: Seventh Schedule.
 - Margin: Beef. [90/1962].
 - Margin: Eighth Schedule.
-- Margin: Carcases of poultry.
+- Margin: Carcasses of poultry.
 - Margin: Sixth Schedule.
 - Margin: Animal products.
 - Margin: Fodder and litter.
 - Margin: Ninth Schedule.
-- Margin: Dung and dead carcases.
-- Margin: Used and second-hand animal blankets, saddle cloth, cloths, felting, pads, etc.
+- Margin: Dung and dead carcasses.
+- Margin: Used or second- hand animal blanket, saddle cloth, felting, pad, etc.
 - Margin: Used and second-hand animal trappings.
 - Margin: Biological products.
 - Margin: Semen.

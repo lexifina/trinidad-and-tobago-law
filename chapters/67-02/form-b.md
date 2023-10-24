@@ -1,19 +1,19 @@
 # FORM B
 ANTHRAX REGULATIONS
 WITHDRAWAL NOTICE
-To ... of ... I ... of ... being the Inspector designated under the Animals (Diseases and Importation) Act, do hereby withdraw, as from the ... day of ..., 20... the notice relating to premises in your occupation at ... dated the ... day of ..., 20... signed by ... and served upon you on the ... day of ..., 20... Dated this ... day of ..., 20...
+To ... of ... I, ... of ... being the Inspector designated under the Animals (Diseases, Importation, Health and Welfare) Act, do hereby withdraw, as from the ... day of ..., 20... the notice relating to premises in your occupation at ... dated the ... day of ..., 20... signed by ... and served upon you on the ... day of ..., 20... Dated this ... day of ..., 20...
 (Signature) ...
 Inspector
 SWINE FEVER REGULATIONS
 ARRANGEMENT OF REGULATIONS
 REGULATION
-1. Citation. 2. Swine, etc., affected with swine fever. 3. Serving of notice. 4. Movement of swine, etc. 5. Confinement. 6. Swine straying. 7. Burning or burial of carcase. 8. Exhumation, etc. of carcase. 9. Dung of swine, food, etc., used in connection with swine. 10. Cleansing and treatment of sty, etc. 11. Confinement and immunisation. 12. Isolation. 13. Sale. 14. Seizure and destruction. 15. Penalty. 16. Non-application.
+1. Citation. 2. Swine, etc., affected with swine fever. 3. Serving of notice. 4. Movement of swine, etc. 5. Confinement. 6. Swine straying. 7. Burning or burial of carcass. 8. Exhumation, etc., of carcass. 9. Dung of swine, food, etc., used in connection with swine. 10. Cleansing and treatment of sty, etc. 11. Confinement and immunisation. 12. Isolation. 13. Sale. 14. Seizure and destruction. 15. Penalty. 16. Non-application.
 SWINE FEVER REGULATIONS
 made under section 13
 1. These Regulations may be cited as the Swine Fever Regulations.
-2. (1) Every person having in his possession or under his charge any swine affected with, or suspected of being affected with, swine fever, or the carcase of any swine so affected or suspected, shall with all practicable speed give notice of the swine or the carcase being or having been so affected or suspected to the constable in charge of the nearest police station.
-(2) Every veterinary surgeon who, upon examining any swine or the carcase of any swine, is of opinion or suspects that such swine is or was when it died or was slaughtered affected with swine fever, shall with all practicable speed give notice of the affection or suspicion of affection to the constable in charge of the nearest police station.
-(3) The constable upon receiving the notice shall-
+2. (1) Every person having in his possession or under his charge any swine affected with, or suspected of being affected with, swine fever, or the carcass of any swine so affected or suspected, shall with all practicable speed give notice of the swine or the carcass being or having been so affected or suspected to the constable in charge of the nearest police station.
+(2) Every veterinary surgeon who, upon examining any swine or the carcass of any swine, is of opinion or suspects that such swine is or was when it died or was slaughtered affected with swine fever, shall with all practicable speed give notice of the affection or suspicion of affection to the constable in charge of the nearest police station.
+(3) The constable upon receiving the notice shall"
 (a) forthwith transmit the information by telephone
 to the Inspector; and
 (b) as soon as may be practicable thereafter confirm
@@ -22,16 +22,15 @@ in writing to the Inspector the transmission by telephone of the information.
 (2) The Inspector shall immediately after the service of the notice referred to in subregulation (1) proceed to the place to which the notice refers, and shall there make a full investigation of all the circumstances and shall make a report thereon to the Chief Technical Officer (Agriculture).
 (3) The Inspector may give directions in relation to the steps which should be taken in dealing with any animal affected with swine fever and with any other animal, vehicle, utensil, implement, fodder, litter, dung or other thing within the infected place, and the occupier of every such infected place shall comply with the directions.
 (4) A notice under subregulation (1) shall remain in force until withdrawn by a withdrawal notice in the form set out as Form B in the Schedule, or until revoked by Order of the Minister.
-4. No swine nor the carcase of any swine nor any portion of the carcase shall be moved out of or into, or from place to place within, any infected place or area except in accordance with the terms of a permit in writing given by the Inspector.
+4. No swine nor the carcass of any swine nor any portion of the carcass shall be moved out of or into, or from place to place within, any infected place or area except in accordance with the terms of a permit in writing given by the Inspector.
 5. All swine within an infected place or area shall be kept confined in a sty, pen or other enclosure.
 6. Any swine straying into or out of an infected place or an infected area may, in the discretion of the Inspector or constable in charge of the nearest police station, be shot or otherwise destroyed.
-7. (1) The carcase of any swine-
+7. (1) The carcass of any swine"
 (a) destroyed pursuant to regulation 6;
 (b) which died of swine fever; or
-(c) which died within an infected place or area,
-shall be burnt or buried, within six hours of the death of the swine in the infected place or area from or into which it strayed or in which it died, by the owner or occupier of the infected place or area.
-(2) Where the carcase of any such swine is buried, it shall be buried at a depth of not less than five feet below the surface of the ground.
-8. No person shall exhume or dig up the carcase of any swine nor any portion thereof which is buried within an infected place or area except in accordance with the terms of a permit in writing granted by the Inspector.
+(c) which died within an infected place or area, shall be burnt or buried, within six hours of the death of the swine in the infected place or area from or into which it strayed or in which it died, by the owner or occupier of the infected place or area.
+(2) Where the carcass of any such swine is buried, it shall be buried at a depth of not less than five feet below the surface of the ground.
+8. No person shall exhume or dig up the carcass of any swine nor any portion thereof which is buried within an infected place or area except in accordance with the terms of a permit in writing granted by the Inspector.
 9. (1) No dung of any swine, nor food, fodder, litter or utensils used in connection with any swine in an infected place or area shall be moved out of the infected place or area.
 (2) Any such dung, food, fodder, litter or utensils shall be burnt or buried or otherwise treated, dealt with, or disposed of as the Inspector may in any particular case direct.
 10. Every part of every sty, pen or other enclosure where any swine affected with, or suspected of being affected with, swine fever has been kept or isolated shall be cleansed and treated in such manner as the Inspector may in any particular case direct.
@@ -41,7 +40,7 @@ shall be burnt or buried, within six hours of the death of the swine in the infe
 (4) All swine immunised pursuant to subregulation (3) shall be isolated from other swine and kept confined for such period as may be specified by the Inspector.
 12. All swine on separate premises within an infected place or area shall be isolated from swine on adjoining premises within or upon the boundary of the infected place or area.
 13. No flesh of any swine butchered or slaughtered within an infected place or area shall be offered for sale or used for human consumption.
-14. The carcase of any swine which has within seven days immediately preceding the date of its slaughter been in contact with any other swine affected with or suspected of being affected with swine fever may be seized and destroyed by the Inspector.
+14. The carcass of any swine which has within seven days immediately preceding the date of its slaughter been in contact with any other swine affected with or suspected of being affected with swine fever may be seized and destroyed by the Inspector.
 15. Any person who contravenes these Regulations or any directions lawfully given, or the terms of any permit lawfully imposed by any person under the authority of these Regulations is liable on summary conviction to a fine of one thousand dollars.
 16. These Regulations shall not apply to swine which originate outside of any infected place or area and which are moved in a vehicle into or through any such place or area for slaughter, within forty-eight hours of being moved through any such place or area, at any public abattoir or other place authorised or licensed for the slaughter or butchering of animals.
 - Margin: Regulation 3.
@@ -54,8 +53,8 @@ shall be burnt or buried, within six hours of the death of the swine in the infe
 - Margin: Movement of swine, etc.
 - Margin: Confinement.
 - Margin: Swine straying.
-- Margin: Burning or burial of carcase.
-- Margin: Exhumation, etc., of carcase.
+- Margin: Burning or burial of carcass.
+- Margin: Exhumation, etc., of carcass.
 - Margin: Dung of swine, food, etc., used in connection with swine.
 - Margin: Cleansing and treatment of sty, etc.
 - Margin: Confinement and immunisation.

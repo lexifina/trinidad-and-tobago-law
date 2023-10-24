@@ -2,16 +2,18 @@
 Customs
 Quantity Allowable shall Tariff
 Description of Goods
-not be in excess of Heading Number 02.021 Dead Poultry: of chicken-fresh, Five (5) whole birds
+not be in excess of Heading Number 02.021 Dead Poultry: of chicken"fresh, Five (5) whole birds
 frozen, chilled: (Whole birds)
-Dead Poultry: of chicken or other types A total of five (5) kilos nett of 02.02.1
-of birds, fresh, frozen, chilled, cut any type, or a combination of parts all types 16.01 Sausages of bovine or pork meats or A total of twelve (12) packages
-admixtures of such meats or meat or not more than 475 offals put up in retail packages, quick grammes nett each package frozen
+A total of five (5) kilogrammes Dead Poultry: of chicken or other types 02.02.1
+nett of any type, or a of birds, fresh, frozen, chilled, cut combination of all types parts 16.01 A total of twelve (12) packages Sausages of bovine or pork meats or
+or not more than 475 grammes admixtures of such meats or meat nett each package offals put up in retail packages, quick
+frozen
 Sausages of bovine or pork meats or 16.01 A total of twelve (12) cans of
 admixtures of such meats or meat not more than 475 grammes offals, canned nett each can
-Sausages of bovine or pork meats or A total of five (5) kilos nett 16.01
-admixtures of such meats or meat offals dried, cured or otherwise preserved
-Soups in cans up to 474 grammes … 21.05 A total of twelve (12) cans Soups in solid or powdered form in A total of twenty (20) packets 21.05
+A total of five (5) kilogrammes Sausages of bovine or pork meats or 16.01
+nett admixtures of such meats or meat
+offals dried, cured or otherwise preserved
+Soups in cans up to 474 grammes  21.05 A total of twelve (12) cans Soups in solid or powdered form in A total of twenty (20) packets 21.05
 packets up to 228 grammes
 Hams, dried, cured, frozen or in airtight 16.02 A total of two (2) only
 containers
