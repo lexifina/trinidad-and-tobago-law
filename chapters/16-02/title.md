@@ -11,8 +11,11 @@ Amended by
 14 of 1936
 39 of 1942
 3 of 1994
+*20 of 2020
+(*See Note on page 2)
+18 .. 912 .. 1314 .. 1550 .. 5152 .. 5362 .. 6364 ..
 Index of Subsidiary Legislation
-Page Powder Magazine Rules (G. 27th August 1908) ... 31 Rent (Prescribed Rate) Regulations (G. 27th August 1908) … … … 34 Importation, Storage, etc., of Dynamite Regulations (G. 2nd September 1915,
-45 of 1979) ... 35 Importation, Storage, etc., of Gunpowder and Cartridges other than Safety
-Cartridges Regulations (G. 27th August 1908, 45 of 1979) … … … 45 Storage of Dynamite Regulations (G. 17th January 1918) … … … 48 Explosives (Manufacture of Fireworks) Order (GN 271/1950) … … 51 Magazine (Appointment and Supervision) Order (LN 78/1991) … … 58 Magazine (Appointment and Supervision) (No. 2) Order GN 171/1991) … 60 Magazine (Appointment and Supervision) Order (LN 10/1997) … … 62
+Page Powder Magazine Rules (G. 27th August 1908)      31 Rent (Prescribed Rate) Regulations (G. 27th August 1908)    34 Importation, Storage, etc., of Dynamite Regulations (G. 2nd September 1915,
+45 of 1979)          35 Importation, Storage, etc., of Gunpowder and Cartridges other than Safety
+Cartridges Regulations (G. 27th August 1908, 45 of 1979)    45 Storage of Dynamite Regulations (G. 17th January 1918)    48 Explosives (Manufacture of Fireworks) Order (GN 271/1950)   51 Magazine (Appointment and Supervision) Order (LN 78/1991)   58 Magazine (Appointment and Supervision) (No. 2) Order LN 171/1991)  60 Magazine (Appointment and Supervision) Order (LN 10/1997)   62 Explosives (Prohibition of Scratch Bombs) Order 197/2018    64
 Note on Adaptation
