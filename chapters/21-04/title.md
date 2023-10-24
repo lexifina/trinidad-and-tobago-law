@@ -2,14 +2,29 @@ NATIONAL LOTTERIES ACT
 CHAPTER 21:04
 Act
 22 of 1968 Amended by *50 of 1970 32 of 1988 11 of 2004 9 of 2006
-*Act No. 50 of 1970
+19 of 2018 28 of 2020
+(*Act No. 50 of 1970
 incorporated into
-this Act as section 32.
+this Act as section 32)
+(See Notes on page 2)
+12 ..
+34 ..
+56 ..
+78 ..
+910 ..
+1118 ..
+1922 ..
+2324 ..
+2530 ..
 Index of Subsidiary Legislation
-Page National Lotteries Regulations (GN 79/1969) ... 18
+Page National Lotteries Regulations (GN 79/1969)     18
 Note on Staff Provisions
 (Page 10)
-Under section 3(2) of the Statutory Authorities Act (Chapter 24:01) the National Lotteries Control Board has been declared a statutory authority subject to the provisions of that Act (See Chapter 24:01-Subsidiary Legislation). So long as this declaration remains in force, the provisions of this Act relating to staff must be read and construed accordingly.
+Under section 3(2) of the Statutory Authorities Act (Chapter 24:01) the National Lotteries Control Board has been declared a statutory authority subject to the provisions of that Act (See Chapter 24:01Subsidiary Legislation). So long as this declaration remains in force, the provisions of this Act relating to staff must be read and construed accordingly.
+Note on Act No. 19 of 2018
+Amendments made to this Act by Act No. 19 of 2018 took effect on 1st January 2019.
+Note on Act No. 28 of 2020
+Amendments made to this Act by Act No. 28 of 2020 took effect on 24th December 2020 by LN 412/2020.
 CHAPTER 21:04
 NATIONAL LOTTERIES ACT
 ARRANGEMENT OF SECTIONS SECTION
@@ -22,20 +37,19 @@ ESTABLISHMENT OF BOARD
 PROCEDURE
 6. Procedure and meetings of the Board. 7. Appointment of committees. 8. Power of Board to delegate.
 GENERAL POWERS AND DUTIES OF THE BOARD
-9. Powers to and duties of the Board.
-10. Policy directions.
+9. Powers to and duties of the Board. 10. Policy directions.
 MISCELLANEOUS
 11. Remuneration of members. 12. Execution of documents. 13. Annual report of Board.
 PART II
 ADMINISTRATION
 PERSONNEL
 14. Interpretation. 15. Establishment of offices and appointment of employees. 16. Classification of offices.
-ARRANGEMENT OF SECTIONS-Continued SECTION
+ARRANGEMENT OF SECTIONSContinued SECTION
 17. Transfer on secondment. 18. Responsibility of officers.
 FINANCIAL PROVISIONS
 19. Funds and resources of Board. 20. Advances.
 20A. Acquisition and disposal of property by the Board.
-21. Application of revenue. 22. Proceeds of national lotteries. 23. Balance of National Lotteries Account to be paid into Consolidated Fund.
+21. Application of revenue. 22. Proceeds of National Lotteries. 23. Balance of National Lotteries Account to be paid into Consolidated Fund.
 23A. Instant lottery surplus.
 24. Public accounts. 25. Accounting of Board. 26. Cash deposits and payments. 27. Rules made by the Board.
 PART III
@@ -47,6 +61,6 @@ NATIONAL LOTTERIES ACT
 An Act to provide for the establishment of a National
 Lotteries Control Board for the promotion and conduct of national lotteries.
 [12TH AUGUST 1968]
-50 of 1970*.
+[*50 of 1970].
 - Margin: 22 of 1968.
 - Margin: Commencement.
