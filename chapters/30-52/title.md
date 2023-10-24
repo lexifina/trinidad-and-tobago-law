@@ -1,18 +1,15 @@
 LITTER ACT
 CHAPTER 30:52
 Act
-27 of 1973
-Amended by
-2 of 1976
-10 of 1981
-21 of 1990
-8 of 1992
-13 of 2010
-2 of 2013
-4 of 2014
+27 of 1973 Amended by
+2 of 1976 10 of 1981 21 of 1990 8 of 1992 13 of 2010 2 of 2013 4 of 2014 19 of 2018
+12 ..
+36 ..
+716 .. 1718 .. 1926 .. 2728 .. 2932 .. 3334 ..
 Index of Subsidiary Legislation
-Page Litter (Fixed Penalty Procedure) Regulations (106/1981) … … 29
-CHAPTER 30:52 LITTER ACT
+Page Litter (Fixed Penalty Procedure) Regulations (106/1981)   29
+CHAPTER 30:52
+LITTER ACT
 ARRANGEMENT OF SECTIONS SECTION
 1. Short title. 2. Interpretation. 3. Depositing litter in a public place.
 3A. Disposal of litter from motor vehicle or trailer. 3B. Owner of bus to provide receptacle for litter.
@@ -26,7 +23,7 @@ CONVICTING OFFENDERS
 LITTER PREVENTION WARDENS
 16. Appointment of litter prevention wardens by public authorities.
 16A. Appointment of other litter prevention wardens. 16B. Power and duties of litter prevention wardens. 16C. Unsightly premises and clean-up order. 16D. Offences in respect of litter prevention wardens.
-ARRANGEMENT OF SECTIONS-Continued
+ARRANGEMENT OF SECTIONSContinued
 SECTION
 17. Interference with receptacles for litter. 18. Punishment of offences. 19. Public Authorities to provide receptacles in public places. 20. Power of arrest. 21. Offences and penalties by a public authority. 22. Offence by a body corporate. 23. Minister may designate officers of Ministry to carry out provisions
 of this Act.
