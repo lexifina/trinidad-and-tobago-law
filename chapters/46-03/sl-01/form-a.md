@@ -6,12 +6,12 @@ PROPOSING TO PLACE CHILD AT DISPOSITION OF
 THE AUTHORITY
 If an adoption order is made in respect of your child, all your rights and responsibilities with regard to the child will be transferred permanently to the adopter and all your rights and responsibilities as a parent will end.
 Where a person applies to the Authority to have a child placed for adoption and the Authority accepts that application, the Authority must apply to the Court for an order declaring that child to be freed for adoption.
-No application to free a child for adoption shall be made unless-
+No application to free a child for adoption shall be made unless$
 (a) it is made with the consent of the parents or guardian of the
 child; or
 (b) the Authority is applying for dispensation of the consent of
 the parents or guardian of the child, and the child is in the care of the Authority.
-The Court may dispense with the need to obtain the consent of the parents or guardian where the parent or guardian-
+The Court may dispense with the need to obtain the consent of the parents or guardian where the parent or guardian$
 (a) has abandoned, neglected or deserted the child;
 (b) cannot be found or is incapable of giving consent;
 (c) is withholding his consent unreasonably;
