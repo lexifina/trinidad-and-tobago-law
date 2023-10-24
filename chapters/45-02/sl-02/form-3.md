@@ -13,5 +13,6 @@ You will then receive notice of the case being set down for hearing. When the ca
 If you wish witnesses to give evidence on your behalf you must also include on the Answer the names of the witnesses and their addresses. The Secretary will then deliver to you subpoenas for service on such witnesses at the time you are served with notice of the case being set down for hearing.
 ...
 Secretary, Divorce Council
-(name of body) [Subsidiary] Divorce (Procedure and Practice) Rules
+(name of body)
+Divorce (Procedure and Practice) Rules
 - Margin: Rule 8.
