@@ -1,19 +1,23 @@
 ADOPTION OF CHILDREN ACT
 CHAPTER 46:03
 Act
-67 of 2000
-Amended by
-9 of 2003
-4 of 2015
+67 of 2000 Amended by
+9 of 2003 4 of 2015 *6 of 2016
+(*See Note on page 2)
+1 16 ..
+17 20 ..
+21 24 ..
+25 36 ..
 Index of Subsidiary Legislation
-Page Adoption of Children Regulations (LN 110/2015) … … … 28
+Page Adoption of Children Regulations (LN 110/2015)    28
 Note on Repeal
 This Act repeals the Adoption of Children Act, No. 31 of 1946. (See Section 41).
+Note on Act No. 6 of 2016
+Amendments made to this Act by Act No. 6 of 2016 took effect on the 15th May 2017 by LN 38/2017.
 CHAPTER 46:03
 ADOPTION OF CHILDREN ACT
-ARRANGEMENT OF SECTIONS
-SECTION
-PART I }
+ARRANGEMENT OF SECTIONS SECTION
+PART I
 PRELIMINARY
 1. Short title and commencement. 2. Interpretation.
 PART II
@@ -28,14 +32,13 @@ MAKING A CHILD AVAILABLE FOR ADOPTION
 PART V
 ADOPTION ORDERS
 18. Power to make adoption orders.
-ARRANGEMENT OF SECTIONS-Continued
-SECTION
+ARRANGEMENT OF SECTIONSContinued SECTION
 19. Power to make interim orders. 20. Power to make subsequent order in respect of child already subject
 to an order.
 21. Application where child placed by Authority. 22. Consideration of views of the child. 23. (Repealed by Act No. 4 of 2015). 24. Consent to the making of an order. 25. Matters with respect to which Court must be satisfied. 26. Terms and conditions of orders. 27. Jurisdiction and procedure. 28. Restriction of payments. 29. Prohibition on advertisement. 30. Provisions as to existing de facto adoptions.
 PART VI REGISTRATION AND EFFECTS OF ADOPTION ORDERS
 31. The effect of adoption orders. 32. Rights and duties of adopters. 33. Adopted Children Register.
-33A. Birth Certificates of adopted child. 33B. Issuance of certificate of adoption. 33C. Application by adopted person for certificate of adoption.
+33A. Birth certificate of adopted child. 33B. Issuance of certificate of adoption. 33C. Application by adopted person for certificate of adoption.
 34. Disclosure of birth records of adopted children.
 34A. Application by adopted persons for certain information.
 PART VII
@@ -44,7 +47,7 @@ OVERSEAS ADOPTION
 PART VIII
 MISCELLANEOUS
 39. Serving of notices. 40. Regulations. 41. Repeal of Act No. 31 of 1946. 42. Transitional provisions.
-SCHEDULE-(Repealed by Act No. 4 of 2015).
+SCHEDULE(Repealed by Act No. 4 of 2015).
 
 CHAPTER 46:03
 ADOPTION OF CHILDREN ACT
