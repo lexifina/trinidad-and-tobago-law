@@ -7,5 +7,6 @@ Respondent.
 The Petitioner sets this matter down for hearing. The Petition is contested/ uncontested.*
 ...
 Signature or Mark of Petitioner
-*Strike out whichever does not apply. This document must be accompanied by the receipt of the Registrar General evidencing payment of the prescribed fees for setting down. [Subsidiary] Divorce (Procedure and Practice) Rules
+*Strike out whichever does not apply. This document must be accompanied by the receipt of the Registrar General evidencing payment of the prescribed fees for setting down.
+Divorce (Procedure and Practice) Rules
 - Margin: Rules 12(1), 14(1).

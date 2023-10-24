@@ -7,7 +7,7 @@ I, ... of ...
 do hereby make application to the Council to determine whether the following ground(s) are sufficient to support a petition for divorce/nullity:
 (here state ground(s) briefly)
 ...
-Signature or Mark of Intended Petitioner To: The Secretary, Divorce Council
+Signature or Mark of To: The Secretary, Divorce Council Intended Petitioner
 (name of body)
-[Subsidiary] Divorce (Procedure and Practice) Rules
+Divorce (Procedure and Practice) Rules
 - Margin: Rule 6(1).
