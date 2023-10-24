@@ -6,4 +6,4 @@ the day of 20 , between , of and ,
 was duly registered in accordance with the provisions of the Orisa Marriage
 Act on the day of , 20 .
 Registrar of Orisa Marriages
-- Margin: (Section 23).
+- Margin: Section 23.

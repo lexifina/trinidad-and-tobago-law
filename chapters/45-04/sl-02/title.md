@@ -1,0 +1,3 @@
+ORISA MARRIAGE (PRESCRIBED FEES) REGULATIONS
+made under section 36
+- Margin: 170/2000.
