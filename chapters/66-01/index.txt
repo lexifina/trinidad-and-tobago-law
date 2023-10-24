@@ -38,6 +38,7 @@ sl-01/r-1A.md
 sl-01/r-2.md
 sl-01/r-3.md
 sl-01/r-4.md
+sl-01/r-5.md
 sl-01/first-schedule.md
 sl-01/second-schedule.md
 sl-01/third-schedule.md
