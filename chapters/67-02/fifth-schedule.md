@@ -1,3 +1,3 @@
 # FIFTH SCHEDULE
-Anguilla Northern Ireland Antigua Republic of Ireland Barbados St. Kitts-Nevis Canada St. Lucia Great Britain St. Vincent Grenada United States of America Jamaica
-- Margin: Regulation 14.
+Jamaica United States of America St. Vincent
+- Margin: Regulation 14. [21 of 2020].

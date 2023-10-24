@@ -1,12 +1,3 @@
 # SEVENTH SCHEDULE
-Argentina Iceland
-Australia Italy
-Belgium Japan
-Brazil Mexico
-Canada Netherlands Chile New Zealand Commonwealth Caribbean Territories Nicaragua Costa Rica Northern Ireland
-Croatia Poland
-Czech Republic Republic of Ireland Denmark Romania Finland San Marino
-France Spain
-Germany Sweden
-Great Britain United Kingdom Honduras United States of America Hungary Uruguay
-- Margin: Regulation 18. [253/1988 251/2000 64/2008].
+Argentina Malaysia Australia Mexico Barbados Netherlands Belgium New Zealand Brazil Northern Ireland Canada Panama Costa Rica Puerto Rico France Singapore Holland Spain India Sweden Ireland United Kingdom Italy United States of America Jamaica Uruguay
+- Margin: Regulation 18. [253/1988 251/2000 64/2008 21 of 2020].
