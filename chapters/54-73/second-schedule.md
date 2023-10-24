@@ -5,4 +5,4 @@ SERVICES
 3. Supply of water.
 4. Distribution of water.
 5. Provision of sewerage and waste-water services.
-- Margin: (Sections 2 and 37). [4 of 2001].
+- Margin: Sections 2 and 37. [4 of 2001].
