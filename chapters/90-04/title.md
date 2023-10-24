@@ -1,9 +1,10 @@
 PROFESSIONS RELATED TO MEDICINE ACT
 CHAPTER 90:04
 Act
-35 of 1985
+35 of 1985 Amended by 15 of 2021
+1 4 .. 5 22 .. 23 41 ..
 Index of Subsidiary Legislation
-Page Professions Related to Medicine Rules (LN 226/2003) … … … 29
+Page Professions Related to Medicine Rules (LN 226/2003) ' ' ' 30
 CHAPTER 90:04
 PROFESSIONS RELATED TO MEDICINE ACT
 ARRANGEMENT OF SECTIONS
@@ -14,23 +15,25 @@ PRELIMINARY
 PART I
 ESTABLISHMENT OF A COUNCIL AND BOARDS FOR
 CERTAIN PROFESSIONS RELATED TO MEDICINE
-3. The Council for professions related to medicine and the Boards. Establishment of Boards.
+3. The Council for professions related to medicine and the Boards.
+Establishment of Boards.
 4. Constitution of the Council. 5. Constitution of the Boards. 6. Officers and servants.
 PART II
 REGISTRATION OF MEMBERS OF THE
 RELATED PROFESSIONS
-7. Establishment and maintenance of registers and Rules. 8. Qualifications for registration. 9. Approval of courses, qualifications and institutions.
-10. Appeal from a refusal or withdrawal of approval of institution. 11. Supervision of approved institutions and of examinations for approved
-qualifications.
+7. Establishment and maintenance of registers and Rules. 8. Qualifications for registration. 9. Approval of courses, qualifications and institutions. 10. Appeal from a refusal or withdrawal of approval of institution. 11. Supervision of approved institutions and of examinations for
+approved qualifications.
 12. Use of titles. 13. Penalty for false representations, etc., to obtain registration.
-ARRANGEMENT OF SECTIONS-Continued
+ARRANGEMENT OF SECTIONSContinued
 SECTION
 PART III
 DISCIPLINE AND APPEALS
 14. Disciplinary Committee and procedure of Disciplinary Committee. 15. Power of Council to appoint legal adviser. 16. Complaints against persons registered. 17. Disciplinary powers of Council. 18. Infamous conduct in a professional respect. 19. Appeal against direction to remove name from register.
 PART IV
 MISCELLANEOUS
-20. Power to extend or restrict application of Act. 21. Default powers of Minister. 22. Notices.
+20. Power to extend or restrict application of Act.
+20A. Power to administer vaccine.
+21. Default powers of Minister. 22. Notices.
 FIRST SCHEDULE. SECOND SCHEDULE. THIRD SCHEDULE.
 
 CHAPTER 90:04
