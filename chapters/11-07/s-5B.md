@@ -1,0 +1,2 @@
+# 5B. Forcible detainer. [5 of 2019].
+Any person who, being unlawfully in or upon any premises, maintains or attempts to maintain his possession or occupation thereof and does so by force or in a manner that would render the use of force as the only reasonable or practicable means of recovering lawful possession of the premises, commits an offence and is liable on summary conviction to a fine of one hundred thousand dollars and to imprisonment for fifteen years.
