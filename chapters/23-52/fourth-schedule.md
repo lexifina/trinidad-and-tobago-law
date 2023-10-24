@@ -7,7 +7,7 @@ Schools Supervisor II 59D
 Schools Supervisor I 53E
 Director of Curriculum Development 64
 Curriculum Co-ordinator 62
-FOURTH SCHEDULE-Continued
+FOURTH SCHEDULEContinued
 Professional, Administrative and Technical Offices Range
 Curriculum Officer 59D
 Education Research Officer II 53E
