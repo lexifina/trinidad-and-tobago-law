@@ -1,0 +1,4 @@
+MAGAZINE (APPOINTMENT AND SUPERVISION)
+ORDER
+made under section 3
+- Margin: 78/1991.

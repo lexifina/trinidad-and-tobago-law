@@ -1,9 +1,11 @@
 # FORM B
 GUNPOWDER DELIVERY BOOK
 Name and address Number
-Name and address of person or firm to
+Name and address
+of person or firm to
 and Date of
-whom sold or to of carrier or person Quantity Delivery description
+of carrier or person Quantity whom sold or to Delivery description
 whom delivery is to whom delivered
-of packages to be made
+of packages
+to be made
 - Margin: Section 16.
