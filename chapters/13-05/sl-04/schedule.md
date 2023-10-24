@@ -1,0 +1,2 @@
+# SCHEDULE
+ALL AND SINGULAR that piece or parcel of land together with the building thereon comprising approximately twenty thousand square feet on the Golden Grove Estate, bounded on the North by the Arouca Health Centre, on the South by the Female Officers Dormitory, on the East by the Commissioner of Prisons Quarters, and on the West by the Golden Grove Road, which forms part of a larger portion of land namely the Golden Grove Estate.
