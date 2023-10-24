@@ -4,9 +4,14 @@ Act
 28 of 1960
 Amended by
 14 of 1995
+15 of 2017
+*23 of 2019
+(*See Note on page 2)
+16 ..
 Index of Subsidiary Legislation
-Page
-Resolutions (made under section 2) ... 6
+Page Resolutions (made under section 2) 6
+Note on Act No. 23 of 2019
+Amendments made to this Act by Act No. 23 of 2019 took effect on 1st January 2020.
 CHAPTER 71:40
 TREASURY BILLS ACT
 ARRANGEMENT OF SECTIONS
