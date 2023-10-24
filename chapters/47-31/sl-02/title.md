@@ -1,4 +1,4 @@
-ARRANGEMENT OF REGULATIONS-Continued REGULATION
+ARRANGEMENT OF REGULATIONS!Continued REGULATION
 PART V
 IMPLEMENTATION OF ACCESS AGREEMENTS
 19. Access agreement to stipulate time for access. 20. Effecting access. 21. No deprivation of access. 22. Costs of modification recoverable.

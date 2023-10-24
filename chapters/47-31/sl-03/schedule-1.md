@@ -1,7 +1,7 @@
 # SCHEDULE 1
 BASIC TELECOMMUNICATION SERVICES
 1. Voice Telecommunications Services
--call origination -call termination.
+call origination call termination.
 2. Access to Emergency Services.
 3. Directory Assistance.
 4. Free Itemised Billing.

@@ -2,12 +2,24 @@ TELECOMMUNICATIONS ACT
 CHAPTER 47:31
 Act
 4 of 2001 Amended by 17 of 2004
+12 ..
+36 ..
+78 ..
+940 ..
+4144 ..
+4564 ..
+6568 ..
+6996 ..
+97102 ..
+103148 ..
+149150 ..
+151168 ..
+169181 ..
 Index of Subsidiary Legislation
-Page Telecommunications Tenders Rules (LN 74/2005) … … … 62 Telecommunications (Access to Facilities) Regulations (LN 180/2006)… 83 Telecommunications (Interconnection) Regulations (LN 181/2006) … 105 Telecommunications (Fees) Regulations (LN 206/2006) … … 131 Telecommunications (Universal Service) Regulations (LN 63/2015)… 150 Telecommunications (Accounting Separation) Regulations (LN 64/2015) 169
+Page Telecommunications Tenders Rules (LN 74/2005) 62 Telecommunications (Access to Facilities) Regulations (LN 180/2006) 83 Telecommunications (Interconnection) Regulations (LN 181/2006) 105 Telecommunications (Fees) Regulations (LN 206/2006) 131 Telecommunications (Universal Service) Regulations (LN 63/2015) 150 Telecommunications (Accounting Separation) Regulations (LN 64/2015) 169
 CHAPTER 47:31
 TELECOMMUNICATIONS ACT
-ARRANGEMENT OF SECTIONS
-SECTION
+ARRANGEMENT OF SECTIONS SECTION
 PART I
 PRELIMINARY
 1. Short title.
@@ -19,7 +31,7 @@ THE TELECOMMUNICATIONS AUTHORITY
 PART III
 CONCESSIONS
 21. Requirement for a concession. 22. Conditions applicable to all concessions. 23. Conditions applicable to a concession for a broadcasting service.
-ARRANGEMENT OF SECTIONS-Continued
+ARRANGEMENT OF SECTIONS!Continued
 SECTION
 24. Conditions applicable to a concession for a public
 telecommunications network or service.
@@ -44,23 +56,24 @@ STAFF AND RELATED MATTERS
 PART IX
 OFFENCES
 65. Offences. 66. Obstructing an inspector. 67. False signals. 68. False communications. 69. Damage to equipment. 70. Recovery of civil debt. 71. General penalty. 72. Amendment of penalties.
-ARRANGEMENT OF SECTIONS-Continued
+ARRANGEMENT OF SECTIONS!Continued
 SECTION
 PART X
 GENERAL
-73. Directions for Minister. 74. Minister's certification. 75. Monitoring stations. 76. Harmful interference. 77. Obligations under international agreements. 78. Regulations. 79. Authority to promulgate Broadcasting Code. 80. Confidentiality. 81. Forbearance. 82. Dispute resolution. 83. Reconsideration and appeal. 84. Telecommunications during an emergency. 85. Repeal and transitional provisions.
+73. Directions for Minister. 74. Ministers certification. 75. Monitoring stations. 76. Harmful interference. 77. Obligations under international agreements. 78. Regulations. 79. Authority to promulgate Broadcasting Code. 80. Confidentiality. 81. Forbearance. 82. Dispute resolution. 83. Reconsideration and appeal. 84. Telecommunications during an emergency. 85. Repeal and transitional provisions.
 SCHEDULE.
 
 CHAPTER 47:31
 TELECOMMUNICATIONS ACT
 An Act for the regulation of Telecommunications in Trinidad
+4 of 2001.
 and Tobago.
 *[ASSENTED TO 5TH JULY 2001]
-Whereas, the Government believes that in order to promote the country as the regional centre for the new information economy, it is necessary to establish a comprehensive and modern legal framework for an open telecommunications sector by permitting new providers of telecommunications services to enter the market and compete fairly:
-And whereas it is appropriate that an Authority be established with transparent regulatory processes to guide the sector's transformation from virtual monopoly, in which Telecommunications Services of Trinidad and Tobago is the principal provider of telecommunications services, to a competitive environment, to monitor and regulate the sector so transformed and, in particular, to prevent anti-competitive practices:
-And whereas, in order to achieve these stated goals, it is necessary to repeal the existing, outdated legislation and enact new legislation, as hereunder proposed:
+WHEREAS, the Government believes that in order to promote
+Preamble. the country as the regional centre for the new information economy, it is necessary to establish a comprehensive and modern legal framework for an open telecommunications sector by permitting new providers of telecommunications services to enter the market and compete fairly:
+And whereas it is appropriate that an Authority be established with transparent regulatory processes to guide the sectors transformation from virtual monopoly, in which Telecommunications Services of Trinidad and Tobago is the principal provider of telecommunications services, to a competitive environment, to monitor and regulate the sector so transformed and, in particular, to prevent anti-competitive practices:
+And whereas, in order to achieve these stated goals, it is
+necessary to repeal the existing, outdated legislation and enact new legislation, as hereunder proposed:
 And whereas existing legislation in the related field of broadcasting is also outdated:
 PART I
 PRELIMINARY
-- Margin: 4 of 2001.
-- Margin: Preamble.

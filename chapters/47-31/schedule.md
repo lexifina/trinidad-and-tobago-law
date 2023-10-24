@@ -1,6 +1,6 @@
 # SCHEDULE
 ASSETS VESTED IN THE AUTHORITY
-All the-
+All the!
 (a) Vehicles;
 (b) Furniture;
 (c) Equipment, including office equipment, testing equipment
