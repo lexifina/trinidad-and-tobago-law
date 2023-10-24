@@ -1,7 +1,7 @@
 # SCHEDULE
 CONSTITUTION AND PROCEDURES OF
 THE BOARD OF NALIS
-1. (1) The Board shall consist of-
+1. (1) The Board shall consist of
 (a) eight members appointed by the President; and
 (b) the Executive Director who is an ex officio member.
 (2) The members appointed by the President shall be from amongst persons who have special qualifications in, and practical experience of, matters relating to one or more of the following disciplines:
@@ -26,12 +26,12 @@ the President considers will advance the interests of NALIS, with no such area o
 3. The Board shall pay its members such remuneration as it recommends and is approved by the Minister.
 4. The President shall appoint a Chairman and Deputy Chairman from among the members of the Board.
 5. The Chairman may grant to a member leave of absence from a meeting of the Board upon such terms and conditions as he determines.
-6. (1) A member who has a direct or indirect pecuniary interest in a matter being considered or about to be considered by the Board shall disclose the nature of his interest before or during the Board's deliberation of the matter.
-(2) A disclosure under subsection (1), shall be recorded in the minutes of the meeting of the Board and the member shall not-
+6. (1) A member who has a direct or indirect pecuniary interest in a matter being considered or about to be considered by the Board shall disclose the nature of his interest before or during the Board s deliberation of the matter.
+(2) A disclosure under subsection (1), shall be recorded in the minutes of the meeting of the Board and the member shall not
 (a) be present during any deliberation of the Board with respect
 to that matter; or
 (b) take part in any decision of the Board with respect to that matter.
-7. (1) The Chairman or, when necessary, the Deputy Chairman-
+7. (1) The Chairman or, when necessary, the Deputy Chairman
 (a) shall, not less than once every two months convene such
 meetings of the Board as are necessary for the efficient conduct of its functions; and
 (b) shall, on receipt of a written request signed by no fewer than
