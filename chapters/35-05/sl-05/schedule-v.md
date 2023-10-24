@@ -1,5 +1,5 @@
 # SCHEDULE V
-THE ENVIRONMENTAL MANAGEMENT ACT, CH. 35:05
+THE ENVIRONMENTAL MANAGEMENT ACT, CHAP. 35:05
 NOTICE
 MADE BY THE ENVIRONMENTAL MANAGEMENT AUTHORITY UNDER
 SECTION 41 OF THE ENVIRONMENTAL MANAGEMENT ACT
@@ -7,7 +7,7 @@ SECTION 41 OF THE ENVIRONMENTAL MANAGEMENT ACT
 2. The reason for the rescission of the designation is that the objective set out in Part II has ceased to apply to the said ESA.
 3. Legal Notice No... of ... 20... is hereby revoked.
 Part I Part II
-Made the ... day of ... , 20...
+Made the ... day of ... 20...
 Chairman/Deputy Chairman/Secretary, Environmental Management Authority
 - Margin: Rule 6(2).
 - Margin: Rescission of designation. Part I.
