@@ -1,11 +1,14 @@
 DENTAL PROFESSION ACT
 CHAPTER 29:54
 Act
-16 of 1980 Amended by 31 of 1998 3 of 1999
-41 ..
+16 of 1980 Amended by 31 of 1998 3 of 1999 13/2018
+15 of 2021
+1 4 ..
+5 16 ..
+17 42 ..
 Index of Subsidiary Legislation
-Page Dental Regulations (LN 36/1982) ... 26 Dental Profession (Dental Assistants) Order (LN 138/1997) … … 41 Appointment of an Election Supervisor (Dental Council Elections)
-Order (LN 153/1999) ... 41
+Page Dental Regulations (LN 36/1982) 27 Dental Profession (Dental Assistants) Order (LN 138/1997) 42 Appointment of an Election Supervisor (Dental Council Elections)
+Order (LN 153/1999) 42
 CHAPTER 29:54
 DENTAL PROFESSION ACT
 ARRANGEMENT OF SECTIONS SECTION
@@ -16,10 +19,12 @@ ARRANGEMENT OF SECTIONS SECTION
 11. Term of office of Council. 12. Functions of Council. 13. Council may appoint committees. 14. Register of Dentists. 15. Temporary registration and examination. 16. Conditions of temporary registration. 17. Rolls of Dental Auxiliary. 18. Grace period for enrolment of persons performing as dental
 assistants, etc.
 19. Opening of the Rolls. 20. Temporary enrolment and examination. 21. Conditions of temporary enrolment. 22. Honour Roll. 23. Secretary to keep Register and Rolls. 24. Publication of lists. 25. Certificate of Secretary to be sufficient evidence. 26. Registration of higher or additional qualification.
-ARRANGEMENT OF SECTIONS-Continued SECTION
-27. Treasurer to keep accounts. 28. Removal from Register or Roll. 29. Professional discipline. 30. Holding out as dentist or dental auxiliary. 31. Practice by unauthorised person. 32. Holding out as dental auxiliary of different class. 33. Performing as dental auxiliary of different class. 34. Person suspended found practising. 35. Dental nurses to treat children. 36. False representations with a view to obtaining registration or
+ARRANGEMENT OF SECTIONS'Continued SECTION
+27. Treasurer to keep accounts. 28. Removal from Register or Roll. 29. Professional discipline. 30. Holding out as dentist or dental auxiliary. 31. Practise by unauthorised person. 32. Holding out as dental auxiliary of different class. 33. Performing as dental auxiliary of different class. 34. Person suspended found practising. 35. Dental nurses to treat children. 36. False representations with a view to obtaining registration or
 enrolment.
-37. Appeal to Judge in Chambers. 38. Service of documents on the Board. 39. Authorisation to prosecute. 40. Retention of services of Attorney-at-law. 41. Fines for use of Board. 42. Funds of Board to be used for purposes of Act. 43. Advisory Committee on Dental Auxiliaries. 44. Functions of the Advisory Committee. 45. Regulations. 46. Minister may review curriculum of Dental School.
+37. Appeal to Judge in Chambers. 38. Service of documents on the Board. 39. Authorisation to prosecute. 40. Retention of services of Attorney-at-law. 41. Fines for use of Board. 42. Funds of Board to be used for purposes of Act. 43. Advisory Committee on Dental Auxiliaries. 44. Functions of the Advisory Committee.
+44A. Power to administer vaccine.
+45. Regulations. 46. Minister may review curriculum of Dental School.
 SCHEDULE.
 
 CHAPTER 29:54

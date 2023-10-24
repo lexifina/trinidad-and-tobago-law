@@ -1,7 +1,6 @@
 # SCHEDULE
 FORM D.R. 1
-DENTAL COUNCIL OF TRINIDAD
-For Office Use Only AND TOBAGO 115, ABERCROMBY STREET,
+DENTAL COUNCIL OF TRINIDAD For Office Use Only AND TOBAGO 115, ABERCROMBY STREET,
 Fee ... PORT-OF-SPAIN, TRINIDAD, W.I.
 Application form for Registration as a
 dentist under the Dental Profession Act,
@@ -32,7 +31,7 @@ of ...
 (Address in Trinidad and Tobago)
 certify that I am well acquainted with ...
 (Name of Applicant)
-FORM D.R. 1-Continued
+FORM D.R. 1'Continued
 that he is the person he states himself to be in the foregoing declaration and that he is a person of good character.
 Signature ...
 Date ...
@@ -45,13 +44,14 @@ FIRST REGISTRATION
 (c) where applicable, a certificate from the appropriate
 governing body in the last country in which he/she practised indicating that he/she is in good professional standing.
 2. The attention of applicants is drawn to section 31(1) of the Act which reads-
-"31. (1) A person not being a dentist or auxiliary who practises dentistry whether for reward or not is liable on summary conviction to a fine of five thousand dollars or to imprisonment for one year or to both such fine and imprisonment.".
-3. On being registered the applicant is entitled to a Certificate of Registration and a Practice Certificate for the year of Registration. Registration Certificates and the current Practice Certificate shall be prominently displayed in his/her reception area at all times. ANNUAL FEE FOR RETENTION IN REGISTER
+31. (1) A person not being a dentist or auxiliary who practises dentistry whether for reward or not is liable on summary conviction to a fine of five thousand dollars or to imprisonment for one year or to both such fine and imprisonment..
+3. On being registered the applicant is entitled to a Certificate of Registration and a Practice Certificate for the year of Registration. Registration Certificates and the current Practice Certificate shall be prominently displayed in his/her reception area at all times.
+ANNUAL FEE FOR RETENTION IN REGISTER
 For the retention of his name in the Register after the expiry of the Practice Certificate obtained on Registration the dentist must pay an annual practice fee of six hundred dollars. Prior notice of the date of payment of the fee together with a form of application for retention will be sent to the dentist's registered address.
 FORM D.R. 2
 DENTAL COUNCIL OF TRINIDAD AND TOBAGO 115, ABERCROMBY STREET, PORT-OF-SPAIN, TRINIDAD, W.I.
 THIS CERTIFIES THAT
-... of ... was duly admitted to practise Dentistry in Trinidad and Tobago on the ... day of ... 20... Registration No ...
+... of ... was duly admitted to practise Dentistry in Trinidad and Tobago on the ... day of ... 20... Registration No...
 ...
 President
 ...
@@ -69,19 +69,18 @@ Reason(s) for request ...
 ...
 Date ...20... Signed ...
 FORM D.R. 4
-DENTAL COUNCIL OF TRINIDAD AND TOBAGO
-For Office Use Only 115, ABERCROMBY STREET, PORT-OF-SPAIN,
+DENTAL COUNCIL OF TRINIDAD AND TOBAGO For Office Use Only 115, ABERCROMBY STREET, PORT-OF-SPAIN,
 Fee ... TRINIDAD, W.I.
 ...
-Certificate No. APPLICATION FORM FOR
-RETENTION OF NAMES ON THE
-...
-DENTAL REGISTER
-Registration Date
+Certificate No.
+APPLICATION FORM FOR
+RETENTION OF NAMES ON THE ...
+Registration Date DENTAL REGISTER
 (To be completed by the applicant in his handwriting)
 I hereby apply to have my name retained in the Dental Register for the year ... Full name of applicant (in BLOCK letters surname underlined) ...
 Permanent address (To appear in Dental Register) ...
-Address to which practising certificate is to be sent ... Original Registration No... I declare that I have not been suspended or disqualified or prohibited from practising Dentistry or from being registered as a Dentist in any country.
+Address to which practising certificate is to be sent ... Original Registration No...
+I declare that I have not been suspended or disqualified or prohibited from practising Dentistry or from being registered as a Dentist in any country.
 I enclose a remittance of $ ... in payment of the fee prescribed in the Regulations made under the Dental Profession Act, Ch. 29:54.
 Date ... Signed ...
 I wish to become/remain a member of the Dental Board of Trinidad and Tobago.
