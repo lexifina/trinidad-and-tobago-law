@@ -2,13 +2,13 @@ SUBSIDIARY LEGISLATION
 GOVERNMENT SAVINGS BONDS REGULATIONS
 ARRANGEMENT OF REGULATIONS
 REGULATION
-1. Citation. 2. Interpretation. 3. Purchasers of Bonds.
-Payment of Bonds. Joint holders.
+1. Citation. 2. Interpretation. 3. Purchasers of bonds.
+Payment of bonds. Joint holders.
 Purchase on behalf of beneficiaries.
 Minors as holders. Children as holders.
 4. Purchase by Trustees. 5. Sale and encashment.
 Manner of purchase. Issue date. Manner of delivery.
-6. Limit on purchase. 7. Payment on redemption of Bonds. 8. Mutilated, destroyed, lost or stolen. 9. Description of Bonds. 10. Register of Bonds. 11. Denominations. 12. Payment of interest. 13. Penalty.
+6. Limit on purchase. 7. Payment on redemption of bonds. 8. Mutilated, destroyed, lost or stolen. 9. Description of bonds. 10. Register of bonds. 11. Denominations. 12. Payment of interest. 13. Penalty.
 SCHEDULE.
 GOVERNMENT SAVINGS BONDS REGULATIONS
 made under section 8
