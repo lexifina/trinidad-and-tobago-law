@@ -8,9 +8,9 @@ TENURE OF OFFICE, ETC., OF MEMBERS AND CHAIRMAN
 2. (1) A member of the Council or a Board who is appointed by the Minister may resign his office at any time by written notice to the Minister, a copy of which shall be forwarded by the member to the Registrar and any other member may do so by written notice to the Registrar.
 (2) A member of the Council or a Board whose name is removed from any register maintained under this Act shall be deemed to have relinquished his office.
 (3) A representative of the Council appointed by a Board who ceases to be a representative member of that Board shall be deemed to have relinquished his office on the Council.
-(4) When a member of the Council or a Board ceases to hold office otherwise than by retirement his place shall be taken-
-(a) in the case of a Board member by a person chosen or appointed
-in the same manner and satisfying the same requirements of this Act as the member in question;
+(4) When a member of the Council or a Board ceases to hold office otherwise than by retirement his place shall be taken
+(a) in the case of a Board member by a person chosen or
+appointed in the same manner and satisfying the same requirements of this Act as the member in question;
 (b) in any other case, by a person appointed in the same manner
 and satisfying the same requirements of this Act as the member in question.
 (5) A person taking office by virtue of subparagraph (4) shall retire when the person whose place he takes would normally have retired.
