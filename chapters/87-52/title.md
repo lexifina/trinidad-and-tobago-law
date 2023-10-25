@@ -3,13 +3,16 @@ CHAPTER 87:52
 Act
 17 of 1899
 Amended by
-38 of 1978 59 of 1921 45 of 1980 18 of 1930 51/1980 43 of 1934 4/1985 31 of 1939 239/1990 23 of 1952 6 of 1991 32 of 1957 6 of 1993 4 of 1961 8 of 1996 7 of 1973
+59 of 1921 38 of 1978 18 of 1930 45 of 1980 43 of 1934 51/1980 31 of 1939 4/1985 23 of 1952 239/1990 32 of 1957 6 of 1991 4 of 1961 6 of 1993 7 of 1973 8 of 1996
+12 .. 36 .. 712 .. 1320 .. 2124 .. 2541 ..
 Index of Subsidiary Legislation
-Page Brewery (Manufacture of Beverages) Orders (LN 112/1990) (LN 237/2011)
-(LN 24/2012) ... 21
+Page Brewery (Manufacture of Beverages) Orders (LN 112/1990), (LN 237/2011),
+(LN 24/2012), (LN 58/2017), (LN 115/2017), (LN 145/2018), (LN 153/2018), (LN 123/2019), (LN 128/2019), (LN 48/2020), (LN 128/2021), (LN 129/2021), (LN 130/2021), (LN 282/2021), (LN 283/2021), (LN 242/2022)  21
+Note on the above Orders
+The Orders above made under section 34A are frequent and numerous and in view of the very limited use by the general public, they will not be further updated and included in the Act. For references to these OrdersSee the current edition of the Consolidated Index of Acts and Subsidiary Legislation.
 Note on Adaptation
-Under paragraph 6 of the Second Schedule to the Law Revision Act (Ch. 3:03) the Commission amended certain references to public officers in this Chapter. The Minister's approval of the amendments was signified by LN 52/1980, but no marginal reference is made to this Notice where any such amendment is made in the text.
-CHAPTER 87: 52
+Under paragraph 6 of the Second Schedule to the Law Revision Act (Chap. 3:03) the Commission amended certain references to public officers in this Chapter. The Ministers approval of the amendments was signified by LN 52/1980, but no marginal reference is made to this Notice where any such amendment is made in the text.
+CHAPTER 87:52
 BREWERY ACT
 ARRANGEMENT OF SECTIONS SECTION
 1. Short title. 2. Interpretation. 3. Licence to brew.
@@ -21,7 +24,7 @@ Payment for samples.
 20. Penalty for concealing beer, etc.
 20A. (Repealed by Act No. 8 of 1996). 20B. Brewer of shandy to keep record of volume of production.
 21. Brewer to provide scales, weights, ladders, etc. 22. Use of unjust weights or measures. 23. Power of entry and examination by Officers. 24. Power to enter and search for concealed pipes, etc. 25. Obstruction of Officers. 26. Drawback on beer exported.
-ARRANGEMENT OF SECTIONS-Continued SECTION
+ARRANGEMENT OF SECTIONSContinued SECTION
 27. Exportation of brewery products. 28. Samples to ascertain gravity of beer for export. 29. Debenture for payment of drawback. 30. (Repealed by Act No. 8 of 1996). 31. Prohibition against possession of sugar and other substances. 32. Power to prohibit use of certain substances in excisable goods. 33. (Repealed by Act No. 8 of 1996). 34. Exemption from Customs duty.
 34A. Minister may authorise manufacture of other beverages. 34B. Use of duty-free equipment in authorised manufacture.
 35. Penalties.
