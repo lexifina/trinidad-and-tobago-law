@@ -1,106 +1,79 @@
 SUBSIDIARY LEGISLATION
-TRADE MARKS RULES
-ARRANGEMENT OF RULES
-SHORT TITLE
-1. Citation.
-INTERPRETATION
-2. Interpretation.
-FEES
-3. Fees.
-FORMS
-4. Forms.
-CLASSIFICATION OF GOODS
-5. Classification of goods.
-DOCUMENTS
-6. Size, etc., of documents. 6A. Communication by telefacsimile.
-7. Signature of documents by partnerships, companies and associations.
-ADDRESS
-8. Address. 9. Address for service.
-AGENTS
-10. Agency. 10A. Acts of agent or representative. [Subsidiary] Trade Marks Rules
-ARRANGEMENT OF RULES-Continued
-REGISTRABLE TRADE MARKS
-11. Registrable trade marks. 12. National emblems, etc., of Convention countries.
-12A. Emblems, etc., of certain international organisations. 12B. Notification under Article 6ter of the Convention.
-13. Arms of city, etc. 14. Restraint of arms, etc., of Convention countries. 15. Living persons or persons recently dead. 16. Name or description of goods on a trade mark.
-APPLICATION FOR REGISTRATION OF A
-TRADE MARK SPECIFICATION
-17. Form of application. Specification. 18. Representation of mark. 19. Additional forms and representations. 20. Representations to be durable. 21. Single applications for goods and services in several classes.
-21A. Division of application or registration.
-22. Representations to be satisfactory. 23. Specimens of trade marks in exceptional cases. 24. Series of trade marks. 25. Transliteration and translation.
-PROCEDURE ON RECEIPT OF APPLICATION FOR
-REGISTRATION OF A TRADE SMARK
-26. Search. 27. Acceptance, absolute or conditional; objection. 28. Controller's objections. Hearing. 29. Controller's conditions, etc. Hearing. 30. Decision of Controller. 31. Disclaimer. 32. (Revoked by LN 197/1997).
-Trade Marks Rules [Subsidiary]
-RULE
-CERTIFICATION TRADE MARKS
-33. Application under section 50. 34. Authorisation to proceed. 35. Case; draft regulations.
-ADVERSTIEMENT OF APPLICATION
-36. Advertisement of application. 37. Wood block or electrotype printing. 38. Advertisement of series. 39. Advertisement under section 22 or section 49.
-OPPOSITION TO REGISTRATION
-40. Opposition. 41. Notice of opposition. 42. Counter-statement. 43. Evidence in support of opposition. 44. Evidence in support of application. 45. Evidence in reply by opponent. 46. Further evidence. 47. Exhibits. 48. Hearing. 49. Extension of time. 50. Security for costs. 51. Costs in uncontested case. 52. Opposition to application under section 50.
-NON-COMPLETION
-53. Filing requirements.
-ENTRY IN THE REGISTER AND ASSOCIATED MARKS
-54. Entry in Register. 55. Associated marks. 56. Death of applicant before registration. [Subsidiary] Trade Marks Rules
-ARRANGEMENT OF RULES-Continued
-RENEWAL
-57. Application for renewal.
-}
-58.
-(Revoked by LN 197/1997).
-59. 60. Record of removal of mark.
-ASSIGNMENTS AND TRANSMISSIONS
-61. Registration of assignment.
-}
-62.
-(Revoked by LN 197/1997). to
-65. 66. Application for entry of assignment without goodwill. 67. Entry in Register. 68. Separate registrations. 69. Controller's certificate or approval as to certain assignments and
-transmissions.
-70. Controller's directions for advertisement of assignment without
-goodwill of trade mark in use.
-ALTERATION OF ADDRESS
-71. Alteration of address in Register.
-APPLICATIONS TO THE CONTROLLER
-FOR RECTIFICATION
-72. Application to rectify or remove a trade mark from the Register. 73. Further procedure. 74. Intervention by third parties.
-APPLICATIONS FOR ALTERATION OF THE REGISTER
-BY CORRECTION, CHANGE, CANCELLATION OR
-STRIKING OUT GOODS, OR FOR ENTRY OF
-DISCLAIMER, MEMORANDUM OR NOTE
-75. Application under section 48(1). 76. Evidence.
-Trade Marks Rules [Subsidiary]
-RULE
-77. Advertisement of certain applications. 78. Certificates of validity to be noted.
-APPLICATIONS TO ALTER REGISTERED
-TRADE MARKS
-79. Alteration of registered trade mark. 80. Advertisement before decision. 81. Decision. Advertisement. Notification.
-82. Advertisement illustration.
-RECTIFICATION AND ALTERATION OF CERTIFICATION
-TRADE MARK ENTRIES AND REGULATIONS
-83. Rectification of certification Trade Mark entries by the Controller.
-ALTERATION OF CERTIFICATION
-TRADE MARK REGULATIONS
-84. Alteration of regulations.
-REGISTERED USERS
-85. Application for entry of Registered User. 86. Entry and notification. 87. Registered proprietor's application to vary entry. 88. Application by registered proprietor of user to cancel entry. 89. Application under section 41(1)(c) to cancel entry. 90. Notification and hearing. 91. Registered user's application under section 48(2). Cancellation by Controller.
-EXTENSION OF TIME
-92. Extension of time. 93. Excluded days. [Subsidiary] Trade Marks Rules
-ARRANGEMENT OF RULES-Continued
-DISCRETIONARY POWER
-94. Hearing. 95. Application for hearing. 96. Notice of hearing. 97. Notification of decision.
-POWER TO DISPENSE WITH EVIDENCE
-98. Dispensing with evidence.
-AMENDMENTS
-99. Amendment of documents.
-CERTIFICATES
-100. Certificates by Controller. 101. Marks registered without limitation of colour. 102. Certificates for use in obtaining registration abroad.
-DECLARATIONS
-103. Manner in which, and person before whom, declaration is to be taken. 104. Notice of seal of officer taking declaration to prove itself.
-APPLICATIONS TO AND ORDERS OF THE COURT 105. Application to Court. 106. Order of Court. 107. Publication of Order of Court.
-FIRST SCHEDULE. SECOND SCHEDULE. THIRD SCHEDULE. FOURTH SCHEDULE.
-[Subsidiary]
-TRADE MARKS RULES
-made under section 51
-SHORT TITLE
-- Margin: 91/1956*. [45 of 1979 198/1994 6 of 1993].
+TRADE MARKS REGULATIONS
+ARRANGEMENT OF REGULATIONS
+REGULATION
+PART I
+PRELIMINARY
+1. Citation. 2. Interpretation. 3. Fees. 4. Filing of documents. 5. Forms. 6. Size of documents. 7. Signature on documents. 8. Service of documents. 9. Furnishing of address. 10. Address for service. 11. Agents.
+PART II
+REGISTRATION OF TRADE MARKS Division 1 Registrability of Trade Marks
+12. Representation of President. 13. Trinidad and Tobago National Emblems, etc. 14. Registration of mark consisting of armorial bearings, etc.
+Division 2 Application for Registration
+15. Application for registration. 16. Representation of trade marks. 17. Division of application for registration. 18. Claim to priority. 19. Specification. 20. Translation and transliteration.
+ARRANGEMENT OF REGULATIONS*Continued REGULATION
+21. Deficiencies in application.
+Division 3 Amendment of Application
+22. Amendment of application. 23. Amendment of application after publication.
+Division 4 Examination of Application for Registration
+24. Examination report and applicants response.
+Division 5 Publication
+25. Publication of application.
+Division 6 Opposition to Registration
+26. Notice of opposition. 27. Contents of notice of opposition. 28. Counter-statement. 29. Evidence in support of opposition. 30. Evidence in support of application. 31. Evidence in reply by opponent. 32. Further evidence. 33. Exhibits. 34. Original exhibits. 35. Opposition hearing. 36. Controllers decision in opposition proceedings. 37. Extension of time in opposition proceedings. 38. Costs in uncontested oppositions.
+Division 7 Registration
+39. Certificate of registration.
+PART III
+REGISTER
+40. Entry in Register of particulars of registered trade mark. 41. Registration subject to disclaimer or limitation. 42. Application to change name or address in Register. 43. Death of applicant before registration. 44. Removal of matter from Register. 45. Certificate of validity. REGULATION
+46. Extract from Register.
+PART IV
+RENEWAL OF REGISTRATION OF TRADE MARK 47. Renewal of registration. 48. Notice of renewal. 49. Notice of non-compliance. 50. Removal of trade mark from Register. 51. Restoration of registration.
+PART V
+REGISTRABLE TRANSACTIONS
+52. Entry in Register of particulars of registrable transactions. 53. Application to register or give notice of transaction.
+PART VI
+ALTERATION OF REGISTERED TRADE MARK
+54. Application to alter registered trade mark.
+PART VII
+REVOCATION, INVALIDATION, RECTIFICATION AND
+CANCELLATION
+55. Application for revocation, declaration of invalidity and
+rectification.
+56. Counter-statement. 57. Further procedure. 58. Intervention by third parties. 59. Application to cancel registered trade mark or registration in relation
+to certain goods or services.
+PART VIII
+COLLECTIVE MARKS AND CERTIFICATION MARKS
+60. Application of Regulations to collective marks and certification
+marks.
+61. Filing of rules.
+ARRANGEMENT OF REGULATIONS*Continued REGULATION
+62. Opposition to registration. 63. Amendment of rules. 64. Opposition to amendment of rules.
+PART IX
+EVIDENCE AND PROCEDURE
+65. Right of affected party to be heard. 66. Hearing before Controller to be in public. 67. Evidence in proceedings before Controller. 68. Statutory declarations. 69. Notice of seal of officer taking declaration.
+PART X COSTS
+70. Application for costs. 71. Scale of costs.
+PART XI
+EXTENSION OF TIME AND REINSTATEMENT OF APPLICATIONS, RIGHTS AND OTHER MATTERS 72. Request for extension of time. 73. Where non-compliance with time caused by act of person employed
+in the Intellectual Property Office.
+74. Reinstatement of application, right or other matter. 75. Change of commencement date of period for filing evidence.
+PART XII
+ELECTRONIC ONLINE SYSTEM
+76. Establishment of electronic online system. 77. Registration as account holder. 78. Identification name and authentication code. 79. Obligation to inform Controller of change of particulars. 80. Security measures. 81. Duty of person using electronic online system. REGULATION
+82. Cancellation of registration as account holder. 83. Documents to be signed, made on oath or attested.
+PART XIII
+HOURS OF BUSINESS AND EXCLUDED DAYS
+84. Hours of business and excluded days. 85. Extension of period where interruption in postal service or
+operations.
+PART XIV
+MISCELLANEOUS
+86. General certificates by Controller. 87. Case management conference. 88. Production of documents, information or evidence. 89. Irregularities and correction of clerical errors. 90. Appeal. 91. Application to Court. 92. Order of Court. 93. Trade Marks Journal.
+PART XV
+TRANSITIONAL PROVISIONS
+94. Pending applications for registration. 95. Savings. 96. Commencement.
+FIRST SCHEDULE FEES. SECOND SCHEDULE DESCRIPTION OF FORMS. THIRD SCHEDULE SCALE OF COSTS.
+TRADE MARKS REGULATIONS
+made under section 123
+PART I
+PRELIMINARY
+- Margin: 137/2020.
