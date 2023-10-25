@@ -1,0 +1,16 @@
+# SCHEDULE
+The Comptroller of Customs and Excise
+Copyright (Customs) Regulations
+Regulation 11. FORM 5
+COPYRIGHT ACT, CHAP. 82:80
+NOTICE OF SEIZURE OF INFRINGING COPIES
+To: ...
+(owner/agent of owner) of ...
+Re: ...
+Pursuant to Notice of Importation dated:
+NOTICE is hereby given that the copies specified in the above-mentioned Notice have been seized pursuant to section 48 of the Copyright Act, Chap. 82:80.
+The importer of the copies is ...
+of ...
+TAKE NOTICE that the said copies may be released to the importer for any of the reasons specified in regulation 14 of the Copyright (Customs) Regulations.
+The Comptroller of Customs and Excise
+Copyright (Customs) Regulations

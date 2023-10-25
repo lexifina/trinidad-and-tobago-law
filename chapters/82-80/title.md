@@ -5,9 +5,11 @@ Act
 Amended by
 18 of 2000
 5 of 2008
+14 of 2020
+174 ..
 Index of Subsidiary Legislation
 Page
-Copyright (Customs) Regulations (LN 37/2000) … … … 53
+Copyright (Customs) Regulations (LN 37/2000) ' ' ' 59
 CHAPTER 82:80
 COPYRIGHT ACT
 ARRANGEMENT OF SECTIONS SECTION
@@ -16,7 +18,9 @@ PRELIMINARY
 1. Short title. 2. Act inconsistent with the Constitution. 3. Interpretation. 4. Application.
 PART II
 COPYRIGHT
-5. Copyright and copyright works. 6. Derivative works. 7. Subject matter not protected. 8. Nature of copyright. 9. Private reproduction for personal purposes. 10. Quotation. 11. Reproduction for teaching. 12. Reprographic reproduction by libraries and archives. 13. Reproduction, broadcasting and other communication to the public
+5. Copyright and copyright works. 6. Derivative works. 7. Subject matter not protected. 8. Nature of copyright. 9. Private reproduction for personal purposes. 10. Quotation. 11. Reproduction for teaching. 12. Reprographic reproduction by libraries and archives.
+12A. Authorised entity.
+13. Reproduction, broadcasting and other communication to the public
 for informatory purposes.
 14. Reproduction and adaptation of computer programs. 15. Importation for personal purposes. 16. Display of works. 17. Permitted use of artistic works situated in public places.
 PART III
@@ -25,7 +29,7 @@ MORAL RIGHTS
 PART IV
 DURATION OF COPYRIGHT AND MORAL RIGHTS 19. Duration of copyright.
 19A. Duration of moral rights of performers.
-ARRANGEMENT OF SECTIONS-Continued
+ARRANGEMENT OF SECTIONS)Continued
 SECTION
 PART V
 NEIGHBOURING RIGHTS
@@ -38,15 +42,15 @@ PART VI
 OWNERSHIP AND ASSIGNMENT
 26. Original ownership of copyright and neighbouring rights. 27. Original ownership of copyright and neighbouring rights by
 international organisations.
-28. Assignments and licences. 29. Prospective ownership of author's rights.
+28. Assignments and licences. 29. Prospective ownership of author s rights.
 PART VII
 CIVIL REMEDIES
-30. Action-definition of. 31. Action by owner of rights for infringement. 32. Action by exclusive licensee for infringement.
+30. Action)definition of. 31. Action by owner of rights for infringement. 32. Action by exclusive licensee for infringement.
 32A. Certain infringement actionable by non-exclusive licensee.
 33. Exercise of concurrent rights. 34. Secondary infringements.
 34A. Measures, remedies and sanctions against acts constituting
 infringements of copyright and neighbouring rights.
-34B. Abuses in respect of rights management information.
+34B. Abuses in respect of rights management information. 34C. Exceptions to offences.
 35. Presumption of authorship and of representation of the author. 36. Presumptions relevant to sound recordings, audio-visual works and
 computer programs. SECTION
 37. Presumptions relevant to works of the State. 38. Civil remedies for infringement. 39. Wide injunction available to licensing bodies. 40. Withdrawal of privilege against incrimination of self or spouse in
