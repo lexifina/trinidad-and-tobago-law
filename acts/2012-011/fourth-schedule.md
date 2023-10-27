@@ -1,0 +1,9 @@
+# FOURTH SCHEDULE
+OATH OF SECRECY
+I, ..., do swear and declare that I will honestly and faithfully serve and fulfill the duties that devolve upon me by reason of my employment in the Electronic Monitoring Unit, and that I will not divulge any information being facts or expressions of opinions based on such facts gained by me as a result of my employment to any unauthorised person, orally or in writing, without the previous sanction of the Director/Manager. I understand that these provisions apply not only during the period of my employment but also after my employment with the Unit has ceased.
+Signed ...
+Date ...
+...
+Justice of the Peace
+- Margin: [11 of 2020].
+- Margin: 325/2020.
