@@ -1,0 +1,20 @@
+# SCHEDULE 1
+STAFF OF THE COMMISSION
+1. (1) Subject to subclause (2) and to the approval of the Commission, the appropriate Service Commission and the consent of the officer, any officer in the Public Service or a Statutory Authority may be seconded to the service of the Commission, on terms and conditions agreed between the officer and the Commission.
+(2) Where a secondment referred to in subclause (1) is effected, arrangements shall be made to preserve the rights of the officer so transferred to any pension, gratuity or other allowance for which he would have been eligible had he not been seconded to the service of the Commission.
+(3) A period of secondment shall not, in any case, exceed three years.
+2. Subject to the approval of the Commission, the appropriate Service Commission and with the consent of the officer, an officer in the Public Service or a Statutory Authority may be transferred to the service of the Commission on terms and conditions no less favourable than those enjoyed by the officer in the Public Service or Statutory Authority, as the case may be.
+3. (1) The Commission shall establish a pension fund plan or where the establishment of a plan is not feasible, join an existing plan.
+(2) All employees of the Commission shall be eligible to become members of the pension fund plan.
+(3) Superannuation benefits which had accrued to a person who transferred in accordance with clause 2 shall be preserved as at the date of his employment by the Commission and such benefits shall continue to accrue under the relevant pension law up to the date of establishing or joining a pension fund plan on the basis of pay, pensionable emoluments or salary, as the case may be, applicable at the time of his transfer, to the office held by him immediately prior to his employment at the Commission.
+(4) Where a person who is transferred in accordance with clause 2 dies, retires or his post in the Commission is abolished or he is retrenched by the Commission prior to establishing or joining the pension fund plan and, if at the date that his service is terminated by any of the above-mentioned methods he was in receipt of a salary higher than the pay, pensionable emoluments or salary referred to in subclause (3), the superannuation benefits payable to his estate or to him, as the case may be, shall be based on the higher salary.
+(5) The difference between the superannuation benefits payable on the basis of the higher salary referred to in subclause (4) and the superannuation benefits payable under the relevant pension law, on the basis of the pay, pensionable emoluments or salary referred to in subclause (3), shall be paid by the Commission.
+(6) Where a person, who is transferred in accordance with clause 2 dies, retires or his post in the Commission is abolished or he is retrenched from the Commission while being a member of the pension fund established by the Commission, he shall be paid superannuation benefits by the pension fund at the amount which, when combined with the superannuation benefits payable under the relevant pension law, is equivalent to the benefits based on his pensionable service in the Public Service or a Statutory Authority combined with his service in the Commission and calculated at the final salary applicable to him on the date that his service was terminated by any of the methods identified herein.
+(7) For the purposes of subclause (6) "final salary" shall have the meaning assigned to it in the pension fund plan.
+(8) Where a person who is transferred in accordance with clause 2 dies, retires, his post in the Commission is abolished or he is retrenched from the Commission while being a member of a pension fund plan that the Commission joined, superannuation benefits payable under that plan shall be no less favourable than those payable in accordance with subclause (6).
+4. Section 12 of the Act applies mutatis mutandis to the staff of the Commission.
+- Margin: (Section 17). 205/2021.
+- Margin: Secondment to Commission.
+- Margin: Transfer to the Commission.
+- Margin: Pension Fund.
+- Margin: Declaration staff of interest.
