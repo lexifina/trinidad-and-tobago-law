@@ -27,6 +27,8 @@ schedule.md
 sl-01/title.md
 sl-01/r-1.md
 sl-01/r-2.md
+sl-01/r-3.md
+sl-01/r-4.md
 sl-02/title.md
 sl-02/r-1.md
 sl-02/r-2.md
