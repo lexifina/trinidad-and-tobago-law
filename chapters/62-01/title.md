@@ -3,20 +3,16 @@ CHAPTER 62:01
 Act
 46 of 1969
 Amended by
-4 of 1970 29 of 1988 16 of 1974 14 of 1990 38 of 1974
-34 of 1995 34 of 1975
-8 of 1996 27 of 1976
-79 of 2000
-9 of 1979
-13 of 2010 45 of 1979 47 of 1980 4 of 2014
+4 of 1970 29 of 1988 16 of 1974 14 of 1990 38 of 1974 34 of 1995 34 of 1975 8 of 1996 27 of 1976 79 of 2000 9 of 1979 13 of 2010 45 of 1979 4 of 2014 47 of 1980 15 of 2019
+12 .. 1/2023 310 .. 1/2018 1116 .. 1/2013 1718 .. 1/2023 1922 .. 1/2009 2326 .. 1/2023 2732 .. 1/2009 3348 .. 1/2023 4962 .. 1/2013 63161 .. 1/2023
 Index of Subsidiary Legislation
 Page
-Petroleum Regulations (GN 5/1970) ... 30 Price of Petroleum Products Order (GN 110/1974) … … … 72 Petroleum (Protection Against Fire) Regulations (GN 83/1960)… … 80 Oil Tanks Regulations (GN 19/1949) ... 82 Petroleum (Testing, Storage, etc.) Regulations (GN 99/1946) … … 102 Petroleum (Compressed Natural Gas) Regulations (LN 196/1994) … 125 Petroleum (Prescribed Form) Regulations (LN 100/1989) … … 150 Price of Compressed Natural Gas Order (LN 294/2014 ) … … 154 Petroleum (Pollution Compensation) Regulations (LN 134/1997) … 155 Petroleum (Form for Objection to the Issue of Licences for Petroleum Operations)
-Order (LN 160/1992) ... 158
+Petroleum Regulations (GN 5/1970) ... 30 Price of Petroleum Products Order (GN 110/1974) … … … 71 Petroleum (Protection Against Fire) Regulations (GN 83/1960) … 82 Oil Tanks Regulations (GN 19/1949) ... 84 Petroleum (Testing, Storage, etc.) Regulations (GN 99/1946) … … 104 Petroleum (Compressed Natural Gas) Regulations (LN 196/1994) … 127 Petroleum (Prescribed Form) Regulations (LN 100/1989) … … 152 Price of Compressed Natural Gas Order (LN 294/2014) … … 156 Petroleum (Pollution Compensation) Regulations (LN 134/1997) … 157 Petroleum (Form for Objection to the Issue of Licences for Petroleum Operations)
+Order (LN 160/1992) ... 160
 Note on Subsidiary Legislation
 The following Subsidiary Legislation have been omitted:
 (a) Notices of Application for Licences made under section 7 of the Act;
-(b) Notices of Grant of Licences etc., made under section 9 of the Act;
+(b) Notices of Grant of Licences, etc., made under section 9 of the Act;
 (c) Exploration Licence made under section 9 of the Act;
 (d) Production Sharing Contracts made under section 9 of the Act;
 (e) Competitive Bidding (Determination) Notice made under section 10 of the Act;
@@ -26,10 +22,9 @@ Regulations;
 (h) Renewal of Licence Notice made under regulation 21 of the Petroleum Regulations;
 (i) Petroleum Impost Rating Orders made under regulation 72 of the Petroleum
 Regulations.
-N.B. For references with respect to omissions of Subsidiary Legislation, in addition to those mentioned above, see (a) the Consolidated Index of Subsidiary Legislation to 1st January 1994 and
-(b) the Consolidated Index of Subsidiary Legislation to 1st January 2005.
+N.B. For references with respect to omissions of the above Subsidiary Legislation, seethe current edition of the Consolidated Index of Acts and Subsidiary Legislation.
 Note on section 39
-The former section 38(2) of this Act (replaced by the present section 39) provided for the Ordinances mentioned in that section to continue to operate in relation to petroleum "until Regulations are made under section 29 with respect to any matter contained" in these Ordinances. Regulations (GN 5/1970) were made under section 29. Therefore "for the avoidance of doubt" section 9 of the Law Revision (Miscellaneous Provisions) Act No. 47 of 1980, declared that "the Petroleum Regulations 1970 (5/1970) shall not be deemed to have had the effect" of repealing any of these Ordinances.
+The former section 38(2) of this Act (replaced by the present section 39) provided for the Ordinances mentioned in that section to continue to operate in relation to petroleum 'until Regulations are made under section 29 with respect to any matter contained- in these Ordinances. Regulations (GN 5/1970) were made under section 29. Therefore 'for the avoidance of doubt- section 9 of the Law Revision (Miscellaneous Provisions) Act No. 47 of 1980, declared that 'the Petroleum Regulations, 1970 (5/1970) shall not be deemed to have had the effect- of repealing any of these Ordinances.
 N.B. With respect to the above see LN 185/1998.
 CHAPTER 62:01
 PETROLEUM ACT
@@ -46,7 +41,7 @@ DEFAULT AND DISPUTES
 NON-RESIDENT COMPANIES
 23. Licensing of non-resident companies. 24. Service of documents.
 SUB-LICENCES
-24A. Licensee may issue sub-licence. 24B. Application for Minister's approval to issue sub-licence. 24C. Effect of sub-licence. 24D. Penalties.
+24A. Licensee may issue sub-licence. 24B. Application for Ministers approval to issue sub-licence. 24C. Effect of sub-licence. 24D. Penalties.
 PART II
 ANCILLARY RIGHTS
 25. Licensee to negotiate for ancillary rights. 26. Power to grant ancillary rights. 27. Limitation on power of granting rights. 28. Applications for rights.

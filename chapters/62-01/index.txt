@@ -148,6 +148,9 @@ sl-02/appendix-b.md
 sl-02/second-schedule.md
 sl-02/appendix.md
 sl-02/third-schedule.md
+sl-02/fifth-schedule.md
+sl-02/appendix-a--2.md
+sl-02/appendix-b--2.md
 sl-03/title.md
 sl-03/r-1.md
 sl-03/r-2.md
@@ -166,11 +169,6 @@ sl-04/r-10.md
 sl-04/r-11.md
 sl-04/r-12.md
 sl-04/r-13.md
-sl-04/r-14.md
-sl-04/appendix-a.md
-sl-04/form-a.md
-sl-04/form-b.md
-sl-04/appendix-b.md
 sl-05/title.md
 sl-05/r-1.md
 sl-05/r-2.md

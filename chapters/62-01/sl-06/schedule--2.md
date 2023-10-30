@@ -7,8 +7,9 @@ Corner of Dumfries Road and South
 Trunk Road, La Romaine
 Fernandes Industrial Centre,
 Eastern Main Road, Laventille
-O'Meara Industrial Estate, O'Meara
+OMeara Industrial Estate, OMeara
 Road, Arima
+Petroleum (Compressed Natural Gas) Regulations
 NOTIFICATION
 ISSUED UNDER REGULATION 15 OF THE PETROLEUM
 (COMPRESSED NATURAL GAS) REGULATIONS, 1994
