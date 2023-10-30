@@ -3,6 +3,9 @@ COMMISSION ACT
 CHAPTER 54:70
 Act
 42 of 1945 Amended by 32 of 1952 49 of 1952 26 of 1954 15 of 1958 25 of 1960 8 of 1961 16 of 1962 9 of 1969 31 of 1972 45 of 1979 11 of 1988 37 of 1989 28 of 1994 32 of 1994 6 of 2009
+*28 of 2020
+(*See Note on page 2)
+12 .. 1/2023 310 .. 1/2011 1122 .. 1/2006 2332 .. 1/2023 3346 .. 1/2006 4760 .. 1/2011 6162 .. 1/2023 6369 .. 1/2006
 Note on Subsidiary Legislation
 Subsidiary Legislation made under sections 10, 31, 33, 34A and 34B have been omitted. See the Current Edition of the Consolidated Index of Acts and Subsidiary Legislation for references to these Subsidiary Legislation.
 Note on Repealed Ordinances
@@ -14,6 +17,8 @@ The following Ordinances, namely:
 (d) San Fernando Electric Works Ordinance (Ch. 39 No. 9.) (1950 Rev. Ed.);
 (e) San Fernando Corporation Ordinance (Ch. 39 No. 7.) (1950 Rev. Ed.),
 mentioned in this Act have been repealed. References to specific provisions mentioned in these Ordinances should be read in the light of the corresponding provisions of the Acts which have repealed and replaced these Ordinances.
+Note on Act No. 28 of 2020
+Amendments made to this Act by Act No. 28 of 2020 took effect on 24th December 2020 by LN 412/2020.
 CHAPTER 54:70
 TRINIDAD AND TOBAGO ELECTRICITY
 COMMISSION ACT
@@ -38,7 +43,7 @@ PORT-OF-SPAIN CORPORATION AND SAN FERNANDO
 CORPORATION: VESTING OF CERTAIN PROPERTY
 RIGHTS AND LIABILITIES THEREOF IN COMMISSION
 13. Port-of-Spain electricity undertaking vested in Commission. 14. Acts, etc., of Port-of-Spain Electricity Board.
-ARRANGEMENT OF SECTIONS-Continued
+ARRANGEMENT OF SECTIONS Continued
 SECTION
 15. Funds of Commission. 16. Transfer of offices to Commission. 17. San Fernando electricity undertaking vested in Commission. 18. Funds of the Commission. 19. Supplementary Order of President. 20. Completion of acts and proceedings.
 PART V
@@ -82,7 +87,7 @@ PRICE
 52. Methods of charging for supply. 53. Tariff of prices for electricity.
 53A. (Repealed by Act No. 37 of 1989).
 54. Charges by agreement.
-ARRANGEMENT OF SECTIONS-Continued
+ARRANGEMENT OF SECTIONS Continued
 SECTION
 55. Electric Inspector to certify meters. 56. Commission to supply meters if required. 57. Meters not to be connected or disconnected without notice. 58. Commission to keep meters in repair. 59. Differences as to correctness of meter to be settled by Electric
 Inspector.
@@ -97,7 +102,7 @@ LICENCES FOR INSTALLATIONS
 of licences.
 67. Supply lines and other apparatus on State land. 68. Security.
 Suspension and revocation of licence.
-69. Restriction of use to specified purposes. 70. Definitions of "installation" and "prime mover".
+69. Restriction of use to specified purposes. 70. Definitions of installation and prime mover.
 PART IX
 INJURIOUS ACTS, OFFENCES AND PENALTIES
 71. Injurious acts with intent to cut off supply or maliciously extinguishing
@@ -112,7 +117,7 @@ waterworks, etc.
 DAMAGES
 88. Injuries to public property. 89. Injurious affection. 90. Cutting trees and boughs. 91. Felling trees within fifty feet of works.
 RESERVATION OF RIGHTS
-92. Use of poles, etc. 93. General penalty. 94. Recovery of penalties. 95. Recovery of fees, expenses, etc. 96. Commission responsible for all damages. 97. Nuisances. 98. Reservation to the State. 99. Savings of State rights. 100. Exemptions from Customs duty and income tax.
+92. Use of poles, etc. 93. General penalty. 94. Recovery of penalties. 95. Recovery of fees, expenses, etc. 96. Commission responsible for all damages. 97. Nuisances. 98. Reservation to the State. 99. Saving of State rights. 100. Exemptions from Customs duty and income tax.
 
 CHAPTER 54:70
 TRINIDAD AND TOBAGO ELECTRICITY
@@ -122,6 +127,6 @@ and Tobago, to enable the Commission to generate and supply electrical energy an
 [1ST JANUARY 1946]
 PART I
 SHORT TITLE AND INTERPRETATION
-- Margin: 1950 Ed. Ch. 37 No. 5.
+- Margin: 1950 Ed. Ch. 37. No. 5.
 - Margin: 42 of 1945.
 - Margin: Commencement.
