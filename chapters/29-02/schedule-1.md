@@ -11,7 +11,7 @@ The Minister of Health has in accordance with section 15 of the Emergency Ambula
 of ...
 (Address)
 ...
-as an Inspector under the Emergency Ambulance Services and Emergency Medical Personnel Act, Ch. 29:02.
-Given under my hand this day of , 2009.
+as an Inspector under the Emergency Ambulance Services and Emergency Medical Personnel Act, Chap. 29:02.
+Given under my hand this... day of ..., 2009.
 Minister of Health
 - Margin: Section 15(8).
