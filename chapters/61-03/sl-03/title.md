@@ -4,7 +4,7 @@ ARRANGEMENT OF REGULATIONS REGULATION
 SAFETY OF THE QUARRY
 2. Prevention of dangerous falls. 3. Quarry worked in or without steps or galleries. 4. Space between outside rails of tramways and edges of galleries. 5. Top of quarry and shaft to be fenced.
 BLASTING
-6. Storing of explosives, fuse or detonator. 7. Tool to be used for charging or stemming a hole. 8. Hole to be charged or fired by authorised person. 9. Warnings to be given before blasting. 10. Length of fuse. 11. Number of explosions and "all safe" signal. 12. Provision of shelters. 13. Charge that has missed fire. 14. Regulations for blasting to be displayed.
+6. Storing of explosives, fuse or detonator. 7. Tool to be used for charging or stemming a hole. 8. Hole to be charged or fired by authorised person. 9. Warnings to be given before blasting. 10. Length of fuse. 11. Number of explosions and "all safe' signal. 12. Provision of shelters. 13. Charge that has missed fire. 14. Regulations for blasting to be displayed.
 ACCESS TO THE QUARRY
 15. Secure means of access.
 MACHINERY AND PLANT
