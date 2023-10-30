@@ -1,0 +1,9 @@
+CO-OPERATIVE SOCIETIES REGULATIONS
+ARRANGEMENT OF REGULATIONS
+REGULATION
+1. Citation. 2. Register of Societies. 3. Application for registration. 4. Documents to be supplied to a society. 5. Refusal to register a society. 6. Register of members. 7. Books, accounts and forms. 8. Membership. 9. Withdrawal from society. 10. Disqualification for membership. 11. Number of members. 12. Appointment of nominees. 13. Division of surplus. 14. Limit to liability. 15. Authority of general meeting. 16. Right of member to attend general meetings. 17. First meeting of members. 18. Convening of annual general meeting. 19. Convening of special general meeting. 20. Chairman of meetings. 21. Voting at meetings. 22. Voting of resolution by show of hands. 23. Minutes of meetings. 24. Election of Board. 25. Powers and duties of the Board. 26. Meetings of the Board. 27. Failure to attend Board meeting. 28. Vacancy on Board. 29. Borrowing powers of Board. 30. Appointment of officers. REGULATION
+31. Security for financial officers. 32. Bad debts. 33. Preparation of balance sheet. 34. Loan to be approved by Board or committee. 35. Application for loan. 36. Approval of loan. 37. Granting of loans. 38. Purpose of loans. 39. Notification of approval to borrower. 40. Instruments to be executed. 41. Inspection of Register Book of Co-operative Societies Charges. 42. Restriction on loans to defaulters. 43. Extension of time on loans. 44. Misapplication of loan. 45. Recovery of loans. 46. Transfer of shares. 47. Reserve fund. 48. Audit of accounts. 49. Supervisory and Audit Fund. 50. Bye-laws. 51. Amendments to Bye-laws. 52. Copies of entries. 53. Reference of dispute to Commissioner. 54. Reference to arbitration by Commissioner. 55. Proceedings before arbitrators. 56. Procedure on liquidation. 57. Liquidator to forward records to Commissioner.
+FIRST SCHEDULE. SECOND SCHEDULE.
+CO-OPERATIVE SOCIETIES REGULATIONS
+made under section 81
+- Margin: 255/1971. [201/1997 289/2020].
