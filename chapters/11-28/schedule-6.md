@@ -1,0 +1,9 @@
+# SCHEDULE 6
+CERTIFICATE OF REMOVAL OF RECORD FROM REGISTER
+I, ...,
+do certify that the record of ...
+...
+was removed from the National Sex Offender Register on the
+... day of ..., ...
+- Margin: Section 63(7).
+- Margin: [19 of 2019].
