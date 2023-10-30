@@ -1,7 +1,7 @@
 # FIRST SCHEDULE
 CNGV SYSTEMS
 (A) Cylinders
-All cylinders must have identifying marks, including the manufacturer's name and pressure rating and must be marked for CNG usage.
+All cylinders must have identifying marks, including the manufacturers name and pressure rating and must be marked for CNG usage.
 (1) MANUFACTURER Faber
 TYPE Fuel Cylinders MANUFACTURING STANDARDS New Zealand NZS 5454
 Specifications
@@ -18,6 +18,7 @@ mm mm Capacity/litres
 316 … … 1115 … … 70
 356 … … 905 … … 70
 356 … … 1235 … … 100
+Petroleum (Compressed Natural Gas) Regulations
 (2) MANUFACTURER Inflex
 TYPE Fuel Cylinder
 MANUFACTURING STANDARDS DOT
@@ -36,8 +37,9 @@ TEST PRESSURE 4,500 psi
 SIZE AND CAPACITY DESCRIPTION
 Diameter/ Length/ Water
 mm mm Capacity/litres 270 … … 990 … … 45 270 … … 1150 … … 53 270 … … 1735 … … 80 270 … … 820 … … 36 270 … … 1435 … … 65
+Petroleum (Compressed Natural Gas) Regulations
 (B) Pressure Regulators
-All pressure regulators must have identifying marks, including manufacturer's name and model number.
+All pressure regulators must have identifying marks, including manufacturers name and model number.
 (1) (i) MANUFACTURER Landi Renzo
 MODEL TN 2/CS MANUFACTURING STANDARDS CAN/CGA 12.3-M91 PRESSURE RATING 3,000 psi
 (ii) MANUFACTURER Landi Renzo
@@ -64,6 +66,7 @@ Italian Ministry of
 Transport Standard 350
 Argentine Standards Malaysian Standards
 PRESSURE RATING 3,000 psi
+Petroleum (Compressed Natural Gas) Regulations
 (ii) MANUFACTURER Tartarini
 MODEL RP/76E95 MANUFACTURING STANDARDS CAN/CGA 12.3-M91
 Italian Ministry of
@@ -88,12 +91,13 @@ TEST PRESSURE 12,400 psi
 MANUFACTURING STANDARDS NBR.001
 Gas del Estado-Argentina
 MATERIAL TYPE Stainless Steel
-EXTERNAL DIAMETER 4 mm PRESSURE RATING 200 bars (3,000 psi) TEST PRESSURE 1000 bars (15,000 psi)
+EXTERNAL DIAMETER 4 mm PRESSURE RATING 200 bars (3,000 psi) TEST PRESSURE 1,000 bars (15,000 psi)
 (ii) MANUFACTURER/SUPPLIER Ansi
 MANUFACTURING STANDARDS NBR.001
 Gas del Estado-Argentina
 MATERIAL TYPE Stainless Steel
-EXTERNAL DIAMETER 6 mm PRESSURE RATING 200 bars (3,000 psi) TEST PRESSURE 1000 bars (15,000 psi)
+EXTERNAL DIAMETER 6 mm PRESSURE RATING 200 bars (3,000 psi) TEST PRESSURE 1,000 bars (15,000 psi)
+Petroleum (Compressed Natural Gas) Regulations
 (3) MANUFACTURER/SUPPLIER Landi Renzo
 MANUFACTURING STANDARDS CAN/CGA 12.3-M91
 IR 45
@@ -104,21 +108,23 @@ TEST PRESSURE 800/900 bars
 MANUFACTURING STANDARDS ASTM A254
 MATERIAL TYPE Steel with Zinc coating EXTERNAL DIAMETER 6 mm PRESSURE RATING 3,000 psi TEST PRESSURE 12,000 psi
 (E) Cylinder Valves
-All cylinder valves must have identifying marks, including manufacturer's name and model number.
+All cylinder valves must have identifying marks, including manufacturers name and model number.
 MANUFACTURER Emer MODEL 198/1 MANUFACTURING STANDARDS CAN/CGA 12.3-M91
 1R 45
 MATERIAL TYPE Brass PRESSURE RATING 210 bars (3,150 psi) TEST PRESSURE 900 bars (13,500 psi) RELIEF DEVICE TYPE Combination excess flow/
 rupture disc/fusible plug
-Rupture disc rating: 300 bars Fusible plug rating: 212˚F
+Rupture disc rating: 300 bars Fusible plug rating: 212F
 (F) Valves (other than Cylinder Valves)
-All valves must have identifying marks, including manufacturer's name and model number.
+All valves must have identifying marks, including manufacturers name and model number.
 (1) MANUFACTURER Emer
 MODEL 198/2B MANUFACTURING STANDARDS CAN/CGA 12.3-M91
 IR 45 NZSS 5422
 MATERIAL TYPE Brass PRESSURE RATING 210 bars (3,150 psi) TEST PRESSURE 900 bars (13,500 psi)
+Petroleum (Compressed Natural Gas) Regulations
 (2) MANUFACTURER Tartarini
 MODEL M2 MANUFACTURING STANDARDS CAN/CGA 12.3-M91
 Italian Ministry of
 Transport Standard 350
 Argentine Standards Malaysian Standards
 MATERIAL TYPE Brass PRESSURE RATING 220 bars TEST PRESSURE 800 bars
+Petroleum (Compressed Natural Gas) Regulations
