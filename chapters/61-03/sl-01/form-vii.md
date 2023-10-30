@@ -1,6 +1,6 @@
 # FORM VII
 CERTIFICATE OF TEST FOR WATER SHUT-OFF
-Company ... Field... Loc. No... Well No...
+Company ... Field ... Loc. No... Well No...
 CASING RECORD
 PERFORATIONS
 CASING REMARKS
@@ -12,7 +12,7 @@ Lbs./ft. mated Size Depth or of From To or Packers
 Grade Cement
 C Cement Mesh Liner
 Fill
-Hangers etc.
+Hangers, etc.
 HOLE RECORD
 REMARKS: Here indicate only information not included in Diam. Depth
 Casing Record, such as side tracked fish, Cement plugs, etc.
@@ -20,6 +20,6 @@ At the request of the Engineer with whom the programme for the water Shut-off Te
 In our opinion the water shut-off has been shown to be satisfactory.
 Signed ...
 Witness
-20 ... Countersigned ...
+20... Countersigned ...
 Manager or his Deputy *L or C-Landed or Cemented. All depths to be given in feet.
 - Margin: Regulation 26.

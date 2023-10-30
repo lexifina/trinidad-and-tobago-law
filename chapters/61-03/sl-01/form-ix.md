@@ -14,12 +14,13 @@ Lbs./ft. mated Size Depth or of From To or Packers
 Grade Cement
 C Cement Mesh Liner
 Fill
-Hangers etc.
+Hangers, etc.
 HOLE RECORD
 REMARKS: Here indicate only information not included in Diam. Depth
 Casing Record, such as side tracked fish, Cement plugs, etc.
 Any other information: ...
 Proposed Work is as follows: ...
-20 ... Signed ...
-Owner, Agent or Manager *L or C-Landed or Cemented. All depths to be given in feet.
+20... Signed ...
+Owner, Agent or Manager
+*L or C-Landed or Cemented. All depths to be given in feet.
 - Margin: Regulation 21.
