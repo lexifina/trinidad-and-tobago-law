@@ -5,13 +5,14 @@ Act
 14 of 1974 Amended by 34 of 1975 154/1976
 6/1984
 16 of 1992 195/2003 249/2004 30 of 2007
-82/2009 2 of 2012
+82/2009 2 of 2012 15 of 2019
+117 .. 1/2023
 Index of Subsidiary Legislation
 Page Petroleum Production Levy and Subsidy (Gross Margin) Order
-(LN 81/2009) ... 15 Petroleum Production Levy and Subsidy (Gross Margin) (L.P.G.) Order
-(GN 155/1976) ... 16
+(LN 228/2022) & & & & & & & 16 Petroleum Production Levy and Subsidy (Gross Margin) (L.P.G.) Order
+(GN 155/1976) & & & & & & & 17
 Note on Adaptation
-Under paragraph 6 of the Second Schedule to the Law Revision Act (Ch. 3:03) the Commission amended certain references to public officers in this Chapter. The Minister's approval of the amendments was signified by LN 120/1980, but no marginal reference is made to this Notice where any such amendment is made in the text.
+Under paragraph 6 of the Second Schedule to the Law Revision Act (Chap. 3:03) the Commission amended certain references to public officers in this Chapter. The Ministers approval of the amendments was signified by LN 120/1980, but no marginal reference is made to this Notice where any such amendment is made in the text.
 CHAPTER 62:02
 PETROLEUM PRODUCTION LEVY AND
 SUBSIDY ACT
@@ -28,7 +29,7 @@ PETROLEUM PRODUCTION LEVY
 9A. Production sharing contract to prevail. 10. Offence not to pay levy within time specified. 11. Method of computing levy.
 MISCELLANEOUS AND GENERAL
 12. Refining and marketing business to make return to the Minister. 13. Refining and marketing business to keep proper records. 14. Accounts. 15. Annual Audit. 16. Provisions as to recovery of levy. 17. Offence to export petroleum products obtained from sales by retail. 18. Offences and general penalty provisions. 19. Minister responsible for administration of Act.
-ARRANGEMENT OF SECTIONS-Continued
+ARRANGEMENT OF SECTIONSContinued
 SECTION
 20. Minister may vary Schedule. 21. Power to make Regulations. 22. Transitional provisions as to Orders under section 8(3). 23. Disposal for use.
 SCHEDULE.
