@@ -2,8 +2,13 @@ ECONOMIC SANCTIONS ACT
 CHAPTER 81:05
 Act
 15 of 1994
+1-2 .. 1/2023
+3-10 .. 1/2006
 Note on Subsidiary Legislation
 This Chapter contains no subsidiary legislation.
+Note on Omissions
+The Economic Sanctions Orders made under section 4(1) of this Act have been omitted as they are voluminous and are of limited use to the general public.
+References to the Economic Sanctions Orders are contained in the current Consolidated Index of Acts and Subsidiary Legislation.
 CHAPTER 81:05
 ECONOMIC SANCTIONS ACT
 ARRANGEMENT OF SECTIONS
@@ -16,8 +21,7 @@ IMPOSITION OF ECONOMIC SANCTIONS
 4. Orders and regulations. 5. Restricted and prohibited activities. 6. Exemption permits.
 PART III
 ENFORCEMENT
-7. Offences. 8. Search and seizure. 9. Offences committed outside Trinidad and Tobago.
-10. Consent of the Director of Public Prosecutions. 11. Joint Parliamentary Committee on Economic Sanctions.
+7. Offences. 8. Search and seizure. 9. Offences committed outside Trinidad and Tobago. 10. Consent of the Director of Public Prosecutions. 11. Joint Parliamentary Committee on Economic Sanctions.
 
 CHAPTER 81:05
 ECONOMIC SANCTIONS ACT
