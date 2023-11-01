@@ -1,0 +1,2 @@
+# 8A. Court may order a probation officer to conduct assessments, investigation and reports. [6 of 2016].
+Where a Court requires an assessment, investigation and report on a child or person associated with a child to determine what provisions shall be made for the care of that child pending hearing, during hearing or post hearing, the Court may order that a suitably qualified probation officer conduct such assessment, investigation and report on the child or the person.
