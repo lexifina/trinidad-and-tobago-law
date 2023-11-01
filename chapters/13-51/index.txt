@@ -7,6 +7,7 @@ s-5.md
 s-6.md
 s-7.md
 s-8.md
+s-8A.md
 s-9.md
 s-10.md
 s-11.md
@@ -26,5 +27,11 @@ sl-01/r-3.md
 sl-01/r-4.md
 sl-01/r-5.md
 sl-01/r-6.md
+sl-01/r-7.md
+sl-01/r-8.md
+sl-01/r-9.md
+sl-01/r-10.md
+sl-01/r-11.md
+sl-01/r-12.md
 sl-01/r-13.md
 sl-01/r-14.md
