@@ -2,13 +2,13 @@ FREEDOM OF INFORMATION ACT
 CHAPTER 22:02
 Act
 26 of 1999 Amended by 92 of 2000 14 of 2003
+16 .. 1/2023 78 .. 1/2018 918 .. 1/2006 1920 .. 1/2009 2140 .. 1/2006 4154 .. 1/2018 5556 .. 1/2023
 Index of Subsidiary Legislation
 Page Freedom of Information (Publication of Arrangements) Regulations
-(LN 114/2001) ... 44 Freedom of Information (Fees and Charges) Regulations (LN 115/2001) … 45 Freedom of Information (Exemption) Order (LN 21/2003) … … 54 Freedom of Information (Exemption) (No. 2) Order (LN 76/2004) … 55 Freedom of Information (Exemption) (No. 3) Order (LN 131/2005) … 55 Freedom of Information (Exemption) Order (No. 4) (LN 48/2015) … … 56
+(LN 114/2001) 44 Freedom of Information (Fees and Charges) Regulations (LN 115/2001) 45 Freedom of Information (Exemption) Order (LN 21/2003) 54 Freedom of Information (Exemption) (No. 2) Order (LN 76/2004) 55 Freedom of Information (Exemption) (No. 3) Order (LN 131/2005) 55 Freedom of Information (Exemption) (No. 4) Order (LN 48/2015) 55 Freedom of Information (Exemption) (No. 5) Order (LN 151/2017) 56 Freedom of Information (Exemption) (No. 6) Order (LN 143/2022) 56
 CHAPTER 22:02
 FREEDOM OF INFORMATION ACT
-ARRANGEMENT OF SECTIONS
-SECTION
+ARRANGEMENT OF SECTIONS SECTION
 PART I
 PRELIMINARY
 1. Short title. 2. Commencement. 3. Object of Act. 4. Interpretation. 5. Non-application of Act. 6. Act binds the State.
@@ -21,8 +21,7 @@ authorities.
 PART III
 RIGHT OF ACCESS TO INFORMATION
 11. Right of access. 12. Access procedure not to apply to certain documents. 13. Requests for access. 14. Duty to assist applicants. 15. Time limit for determining requests. 16. Giving of access and deletion of exempt information. 17. Fees for access to documents. 18. Forms of access. 19. Deferment of access. 20. Repeated requests.
-ARRANGEMENT OF SECTIONS-Continued
-SECTION
+ARRANGEMENT OF SECTIONS'Continued SECTION
 21. Requests may be refused in certain cases. 22. Decision to be made by authorised person. 23. Reasons to be given for deferment or refusal.
 PART IV
 EXEMPT DOCUMENTS
