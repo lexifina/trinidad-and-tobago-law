@@ -25,6 +25,7 @@ s-23.md
 s-24.md
 s-25.md
 s-26.md
+s-26A.md
 s-27.md
 s-28.md
 s-29.md
@@ -111,3 +112,6 @@ sl-03/r-1.md
 sl-03/r-2.md
 sl-03/r-3.md
 sl-03/schedule.md
+sl-04/title.md
+sl-04/r-1.md
+sl-04/r-2.md

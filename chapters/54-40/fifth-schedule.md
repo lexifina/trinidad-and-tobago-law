@@ -3,8 +3,8 @@ PROVISIONS APPLICABLE TO THE AUTHORITY
 UNDER PART IV OF THE ACT
 Preliminary
 1. (1) In this Schedule, the expressions defined in section 61(1) of the Act and the expressions defined in paragraph 1(1) of the Third Schedule shall have the meanings assigned to them in that section and in that paragraph, respectively, and- "business" does not include a profession; "county" means the area comprising the electoral district set out in the First
-Schedule to the Municipal Corporations Act; "highway authority" means, in the case of a highway maintainable at the public
-expense, the Technical Officer (Works) and in any other case the authority or person in whom that highway is vested or the authority or person responsible for the maintenance of the highway or if no authority or person is responsible therefor, the owner of the soil of the highway.
+Schedule to the Municipal Corporations Act; "highway authority" means, in the case of a highway maintainable at the
+public expense, the Technical Officer (Works) and in any other case the authority or person in whom that highway is vested or the authority or person responsible for the maintenance of the highway or if no authority or person is responsible therefor, the owner of the soil of the highway.
 (2) Where in this Schedule, a highway is expressed to be maintainable at the public expense, that expression means that the highway is so maintainable at the expense of the public generally and not at the expense of a particular portion of the public, whether the expense is met wholly or partly out of public funds or otherwise; and a highway in any other case shall be held to continue to be so, notwithstanding that the expense of the maintenance thereof will be met wholly or partly out of public funds.
 PART I
 Power to Lay Street Sewers, etc.
@@ -36,8 +36,8 @@ House Sewers
 renewal, or is no longer sufficient to meet the requirements of the houses; or
 (b) an instalment of the sewerage rate in respect of any of the
 houses remains unpaid after the end of the period for which it is due; or
-(c) the houses are, by structural alterations to one or more of them,
-converted into a larger number of houses.
+(c) the houses are, by structural alterations to one or more of
+them, converted into a larger number of houses.
 5. (1) All collecting sewers, whether laid before or after the coming into force of this paragraph, shall vest in the Authority and the Authority shall at its own expense carry out any necessary works of maintenance, repair or renewal of such sewers and any work on its street sewers incidental thereto.
 (2) The Authority shall also carry out any such necessary works as aforesaid in the case of so much of any house sewer as is laid in a highway, and may recover the expenses reasonably incurred by it in so doing summarily as a civil debt from the owners of the premises served by the house sewer, but without prejudice to the rights and obligations, as between themselves, of the owner and the occupier of the premises.
 PART III
@@ -59,7 +59,8 @@ annual value thereof as may be prescribed or, if no proportion is prescribed, as
 (2) A sewerage rate under this paragraph, or in force under Part XVII of the Port-of-Spain Corporation Ordinance (repealed by the Municipal Corporations Act, 1990), immediately before the coming into operation of this paragraph, shall, notwithstanding anything to the contrary, until a new rate is made, continue to operate in respect of each successive period of twelve months.
 (3) Subject to the Act-
 (a) where the Authority commences to serve any premises, with
-sewerage facilities, the then current instalment of the sewerage rate shall become payable on the day when the Authority commences to give the service; and
+sewerage facilities, the then current instalment of the sewerage rate shall become payable on the day when the
+Authority commences to give the service; and
 (b) the liability of a person to pay an instalment of a sewerage
 rate shall not be affected by the fact that, before the end of the period in respect of which the instalment became payable by him, he or his tenant, as the case may be, removes from the premises in question.
 (4) Nothing in this paragraph affects any right of the Authority to make a minimum charge in respect of sewerage rates.
@@ -107,7 +108,7 @@ and as to other Fittings
 - Margin: Power to enter premises to detect misuse of sewerage facilities.
 - Margin: Power to repair house sewers.
 - Margin: Penalty for misuse, etc., of sewerage facilities by non-repair of water closets, etc.
-- Margin: Disposal of sewerage other than by sewer.
+- Margin: Disposal of sewage other than by sewer.
 - Margin: Allowing anything but sewage and paper to be in sewers.
 - Margin: Permitting prohibited sewage to flow into sewers.
 - Margin: 99/1958.
