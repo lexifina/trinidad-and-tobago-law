@@ -1,10 +1,13 @@
 SUBSIDIARY LEGISLATION
 CONSERVATION OF WILD LIFE REGULATIONS
-ARRANGEMENT OF REGULATIONS
-REGULATION
-1. Citation. 2. Form of licence. 3. Licence fee. 4. Restrictions on capturing birds.
+ARRANGEMENT OF REGULATIONS REGULATION
+1. Citation. 2. Form of licence.
+Submission of Mandatory Data Form for the year 2020.
+3. Licence fee. 4. Restrictions on capturing birds.
 4A. Permit required for the keeping in captivity of specified birds. 4B. (Revoked by LN 117/2002).
-5. Prohibition against lights. 6. Close season. 7. Hunting in Forest Reserve. 8. Special authority necessary. 9. Protected animals. 10. Selling protected animal. 11. Powers of Game Warden or Constable. 12. Magistrate's power under regulation 11. 13. Form of acknowledgment. 14. Clipping wings of protected birds. 15. Permits for protected birds.
-FIRST SCHEDULE. SECOND SCHEDULE.
+5. Prohibition against lights. 6. Close season. 7. Hunting in Forest Reserve.
+7A. Hunting on State Lands.
+8. (Deleted by LN 280/2019). 9. Protected animals. 10. Selling protected animal. 11. Powers of Game Warden or Constable. 12. Magistrates power under regulation 11. 13. Form of acknowledgment. 14. Clipping wings of protected birds. 15. Permits for protected birds.
+FIRST SCHEDULE. SECOND SCHEDULE. THIRD SCHEDULE.(Deleted by LN 252/2021)
 *CONSERVATION OF WILD LIFE REGULATIONS
 deemed to be made under section 24

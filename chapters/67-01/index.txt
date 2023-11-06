@@ -38,6 +38,7 @@ sl-01/r-4B.md
 sl-01/r-5.md
 sl-01/r-6.md
 sl-01/r-7.md
+sl-01/r-7A.md
 sl-01/r-8.md
 sl-01/r-9.md
 sl-01/r-10.md
