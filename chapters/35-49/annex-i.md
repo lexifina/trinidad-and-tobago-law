@@ -16,7 +16,7 @@ sound technologies and know-how relating to environmentally sound management and
 (e) Establishing and maintaining regular exchange of information
 relevant to the provisions of the Basel Convention, and networking at the national and regional levels;
 (f) Organising meetings, symposiums and missions in the field,
-useful for carrying out these objectives in the region; 34 Chap. 35:49 Training and Technology Transfer)
+useful for carrying out these objectives in the region;
 (g) Providing assistance and advice to the Parties and non-
 Parties of the region at their request, on matters relevant to the environmentally sound management or minimisation of hazardous wastes, the implementation of the provisions of the Basel Convention and other related matters;
 (h) Promoting public awareness;
