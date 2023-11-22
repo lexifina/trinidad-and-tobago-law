@@ -1,0 +1,19 @@
+# FORM 1A
+DOMESTIC VIOLENCE ACT (CH. 45:56)
+AFFIDAVIT IN SUPPORT OF APPLICATION
+REPUBLIC OF TRINIDAD AND TOBAGO In the District of ...
+I, ...
+(Name of Applicant)
+of ...
+(Address)
+make oath and say as follows:
+1. I am the Applicant herein. 2. The facts and matters deposed to in this Affidavit are made of my own knowledge and I certify that I believe that the facts stated in this Affidavit are true.
+3. My relationship with the Respondent is --...-------... 4. The circumstances which gave rise to this application are that: ...
+5. I made a complaint/A complaint was made on my behalf by
+------------- at -------...--.. Police Station.
+(Name of Complainant) (Name of Police Station) A copy of a report dated -...-... is annexed hereto and marked -...-..
+(Date of Report) Sworn to be the Deponent ---------...---------...
+(Name of Deponent) at ---------.. on the --..-. day of -...--------... Before me
+...
+Justice or Clerk of the Peace of the Magistrates Court for the District
+- Margin: [18 of 2020].
