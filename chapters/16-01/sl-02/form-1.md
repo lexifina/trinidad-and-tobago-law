@@ -1,11 +1,20 @@
 # FORM 1
 THE FIREARMS REGULATIONS
-(FORM OF APPLICATION FOR THE GRANT OF A
-FIREARM USER'S LICENCE)
-Applicant's title and Surname ...
-(Mr., Mrs. or Miss) Surname Given names in full ... Full postal address ... Details of firearms possessed at date of this application. If none write NONE here ...
-Calibre Make Type Serial No. Date of issue ... Details of firearms desired to be purchased or acquired: Dealer's Name Calibre Make Type Serial No. Details of ammunition desired to be purchased or acquired: Dealer's Name Quantity Calibre Type Amount possessed at date of this application ... Maximum amount desired to be possessed at any one time ... Total amount desired to be purchased or acquired in one year ... Maximum amount desired to be purchased or acquired at any one time ... Height ... Nationality ... Occupation ... Age ... Business address: ... Permanent address if different from above: ... Do you suffer from any form of mental disorder or defect? YES/ NO If YES, give details: ... Have you been convicted of any offence, other than minor traffic offences? YES/ NO If YES, give details: ... Reasons for requiring each of the firearms and the ammunition specified: ... Where do you intend to use each of the firearm's specified? ... Where, if a Firearm User's Licence is granted will each of the firearms and the ammunition specified be kept when not in use and what arrangements have been made for their safe custody? ...
-I hereby apply to the Commissioner of Police for a Firearm User's Licence in respect of the above-mentioned firearm(s) and ammunition and for the reasons specified. I declare that the statements made on this form are true.
-Date ... Usual signature of applicant ...
-- Margin: Regulation 3.
-- Margin: Regulation 4.
+FORM OF APPLICATION FOR THE GRANT OF A
+FIREARM USERS LICENCE
+First Issue Renewal
+Applicant+s title and surname ...
+(Mr., Mrs. or Miss) Surname Christian or forename in full ... Full postal address ... Telephone:
+Home ... Work ... Mobile ... Details of firearms possessed at the date of this application. If none, write NONE here ...
+Calibre Maker+s Name Type Details
+Date of Issue ... Details of firearms desired to be purchased or acquired:
+Dealer+s Name Maker+s Name Calibre Type Serial No.
+Details of ammunition desired to be purchased or acquired:
+Dealer+s Name Quantity Calibre Type
+Amount possessed at date of this Application ... Maximum amount desired to be purchased at any one time ... Total amount desired to be purchased or acquired in one year ... Height ... Nationality ...
+Firearms Regulations
+Occupation ... Business Address ... Postal address if different from above ... Do you suffer from any form of mental disorder or defect? Yes No If yes, give details ... Have you been convicted of any offence, other than minor traffic offences?
+Yes No If yes, give details ... Reasons for requiring each of the firearms and the ammunition specified: ... Where do you intend to use each of the firearms specified? ... Where, if a Firearm User+s Licence is granted, will each of the firearms and the ammunition specified be kept when in use and what arrangements have been made for their safe custody? ... I hereby apply to the Commissioner of Police for a Firearm User+s Licence in respect of the firearm(s) and ammunition and for the reasons specified... I declare that the statements made on this form are true.
+Date ... Usual Signature of applicant ...
+To be accompanied by two copies of a recent photograph of the applicant taken full face and bareheaded, not more than 21/2" x 2" or less than 2" x 11/2".
+Firearms Regulations
