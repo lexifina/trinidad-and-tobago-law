@@ -2,13 +2,13 @@
 THE FAIR TRADING ACT
 NOTICE OF INTENTION TO INITIATE AN INVESTIGATION
 From: The Fair Trading Commission
-To: ...
+To: ,,,,,,,,,,,,,,,..,,...,,
 (name of the relevant parties)
-Notice is hereby given that the Fair Trading Commission ("the Commission") in pursuance of the power given to it under section 7(2) of the Fair Trading Act, 2006 intends to initiate an investigation in respect of ...
+Notice is hereby given that the Fair Trading Commission (the Commission) in pursuance of the power given to it under section 7(2) of the Fair Trading Act, 2006 intends to initiate an investigation in respect of ,, ,,,,...,,,,,...,,,,,...,...,...
 (details of the reason for the investigation)
-...
-...
-Notice is also given that the Commission may in pursuance of the power given to it under section 8(1)-
+,,,,,,,,,,,,,,,,,,,,,,.,,.,,,,,,..
+,,,,,,,,,,,,,,,,,,,,,,..,,.,,,,,,.
+Notice is also given that the Commission may in pursuance of the power given to it under section 8(1)$
 (a) require the production of documents for examination;
 (b) require any document to be submitted to the Commission to
 be verified by Affidavit; and
