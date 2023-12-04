@@ -2,17 +2,20 @@ FAIR TRADING ACT
 CHAPTER 81:13
 Act
 13 of 2006
+12 .. 1/2023 34 .. 1/2015 56 .. 1/2023 78 .. 1/2015 916 .. 1/2023 1731 .. 1/2009
 Note on Subsidiary Legislation
 This Chapter contains no subsidiary legislation.
 Note on Commencement
-At the time of the Revision of this Act, Parts I, III, VII, VIII and IX were awaiting proclamation.
+(a) Parts IV, V and VI of this Act came into force on the 26th April 2007 by LN 98/2007.
+(b) Part II of this Act came into force on the 31st January 2014 by LN 43/2014.
+(c) Parts I, III, VII, VIII and IX of this Act came into force on the 10th February 2020 by
+LN 41/2020.
 CHAPTER 81:13
 FAIR TRADING ACT
-ARRANGEMENT OF SECTIONS
-SECTION
+ARRANGEMENT OF SECTIONS SECTION
 PART I
 PRELIMINARY
-1. Short title and commencement. 2. Interpretation and application. 3. Non-application of Act.
+1. Short title and Commencement. 2. Interpretation and application. 3. Non-application of Act.
 PART II
 THE FAIR TRADING COMMISSION
 ESTABLISHMENT, POWERS AND FUNCTIONS OF THE COMMISSION
@@ -22,7 +25,7 @@ MERGERS, ANTI-COMPETITIVE AGREEMENTS OR
 PRACTICES AND MONOPOLIES
 MERGERS
 13. Definitions of merger and anti-competitive merger. 14. Mergers and qualifying mergers. 15. Interlocking directorship. 16. Order for divestment.
-ARRANGEMENT OF SECTIONS-Continued SECTION
+ARRANGEMENT OF SECTIONS$Continued SECTION
 ANTI-COMPETITIVE AGREEMENTS OR PRACTICES
 17. Definition of anti-competitive agreement and practices. 18. Horizontal and vertical agreements. 19. Transitional competitive amnesty.
 MONOPOLIES
@@ -33,12 +36,12 @@ CONSTITUTION OF THE COMMISSION
 PART V
 STAFF OF THE COMMISSION AND RELATED
 MATTERS
-35. Executive Director. 36. Secretary. 37. Appointment of authorised officers. 38. Appointment of staff. 39. Transfer of officers of the Government to the Commission on
+35. Executive Director. 36. Secretary. 37. Appointment of authorised officers. 38. Appointment of staff. 39. Transfer of public officers of the Government to the Commission on
 secondment. SECTION
 40. Transfer of public officers to the Commission. 41. Pension rights.
 PART VI
 FINANCE, REPORT AND AUDIT
-42. Funds of the Commission. 43. Accounts, audit and annual reports.
+42. Funds of the Commission. 43. Accounts, audit and annual report.
 PART VII
 POWERS OF THE COURT
 44. Jurisdiction of Court. 45. Applications and Orders for deferment. 46. Appeals from decisions of the Court. 47. Hearing and determination of appeals.
