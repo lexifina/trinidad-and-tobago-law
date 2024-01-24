@@ -1,9 +1,11 @@
 MINIMUM WAGES ACT
 CHAPTER 88:04
 Act
-35 of 1976 Amended by 11 of 2000
+35 of 1976 Amended by
+11 of 2000
+1- 2 .. 1/2024 3- 20 .. 1/2009 21- 22 .. 1/2015 23- 34 .. 1/2009 35- 38 .. 1/2015 39- 43 .. 1/2024
 Index of Subsidiary Legislation
-Page Minimum Wages (Catering Industry) Order ( LN 158/1991) … … 16 Minimum Wages (Shop Assistants) Order (LN 159/1991) … … 24 Minimum Wages (Household Assistants) Order (LN 160/1991) … … 30 Minimum Wages (Security Industry Employees) Order (LN 10/1995) … 35 Minimum Wages Order (LN 402/2014) ... 38
+Page Minimum Wages (Catering Industry) Order (LN 158/1991) … … 16 Minimum Wages (Shop Assistants) Order (LN 159/1991) … … 24 Minimum Wages (Household Assistants) Order (LN 160/1991) … … 30 Minimum Wages (Security Industry Employees) Order (LN 10/1995) … 35 Minimum Wages Order (LN 402/2014) ... 38
 CHAPTER 88:04
 MINIMUM WAGES ACT
 ARRANGEMENT OF SECTIONS SECTION

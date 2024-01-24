@@ -8,4 +8,4 @@ First eight hours … … two times hourly pay Thereafter ... three times hourly
 (3) For time worked on Sunday
 First eight hours ... two times hourly pay Thereafter … … … three times hourly pay
 (4) For time worked on public holiday
-First eight hours ... two times hourly pay Thereafter ... four times hourly pay For the purposes of this Schedule "hourly pay" means in the case of the full-time worker his pay divided by forty.
+First eight hours ... two times hourly pay Thereafter ... four times hourly pay For the purposes of this Schedule "hourly pay" means in the case of the full-time worker his pay divided by forty. [Subsidiary]
