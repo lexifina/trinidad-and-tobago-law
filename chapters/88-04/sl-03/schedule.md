@@ -10,4 +10,4 @@ Secretary … $5.63 … … $6.20
 Clerk/Typist … $5.38 … … $5.90
 Receptionist … $5.00 … … $5.50
 Clerical Worker … $5.00 … … $5.50
-Telephone Operator … $4.88 … … $5.36
+Telephone Operator … $4.88 … … $5.36 [Subsidiary]
