@@ -19,8 +19,8 @@ REGULATION
 19. Marketing of beeswax. 20. Purity of honey or beeswax.
 PART IV
 RESTRICTIONS ON THE IMPORTATION OF BEES,
-BEE SUPPLIES, AND BEE PRODUCTS
-21. Prohibition. 22. Transhipment of honey. 23. Importation of Queen Bees and bee supplies. 24. Application for permit. 25. Refusal of application. 26. Issue of application. 27. Inspection before permission granted. 28. Number of Queen Bees. 29. Packaging of Queen Bees. 30. Removal of Queen Bee from package or cage. 31. Due diligence and care. 32. Importation at risk and cost of importer. 33. Fees. 34. Deposit of fees. 35. Forfeiture. 36. Precaution.
+BEE SUPPLIES AND BEE PRODUCTS
+21. Prohibition. 22. Transhipment of honey. 23. Importation of Queen Bees and bee supplies. 24. Application for permit. 25. Refusal of application. 26. Issue of permit. 27. Inspection before permission granted. 28. Number of Queen Bees. 29. Packaging of Queen Bees. 30. Removal of Queen Bee from package or cage. 31. Due diligence and care. 32. Importation at risk and cost of importer. 33. Fees. 34. Deposit of fees. 35. Forfeiture. 36. Precaution.
 PART V
 STANDARD OF HONEY FOR EXPORTATION AND
 CONTROL OF ITS EXPORTATION
