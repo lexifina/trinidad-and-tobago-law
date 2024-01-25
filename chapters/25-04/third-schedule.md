@@ -7,4 +7,6 @@ Districts Aldermen
 3. Borough of Arima 7 4
 4. Borough of Point Fortin 6 4
 5. Borough of Chaguanas 8 4
-- Margin: Section 11(2). Section 12(2). [13 of 2013].
+6. Borough of Diego Martin 10 4
+7. Borough of Siparia 9 4
+- Margin: Section 11(2). Section 12(2). [13 of 2013 6 of 2023].
