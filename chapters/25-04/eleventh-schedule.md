@@ -1,6 +1,6 @@
 # ELEVENTH SCHEDULE
 EXAMPLE OF CALCULATION OF ALLOCATION OF
-ALDERMEN FOR MUNICIPALITY X
+ALDERMEN FOR MUNICIPALITY
 A. Calculation of Quota-
 Total valid votes cast 25,916 Number of seats in each 4 Council designated for Aldermen Quota = A/B = 6,479 B. Calculation of Aldermen Allocation-
 Total valid votes for Party A ... 11,420 Total valid votes for Party B ... 8,013 Total valid votes for Party C ... 6,483

@@ -1,10 +1,20 @@
 MUNICIPAL CORPORATIONS ACT
 CHAPTER 25:04
 Act
-21 of 1990 Amended by 28 of 1991 *7 of 1992 8 of 1992
-*36 of 1995 18 of 1998 13 of 2003 14 of 2006 18 of 2007 11 of 2008 5 of 2009 6 of 2009
-*18 of 2009 13 of 2013 4 of 2014
-*See Note on page 3
+21 of 1990 Amended by
+28 of 1991 11 of 2008
+5 of 2009 *7 of 1992 6 of 2009
+8 of 1992
+*18 of 2009
+*36 of 1995
+13 of 2013
+18 of 1998
+4 of 2014
+13 of 2003
+*19 of 2018
+14 of 2006 *11 of 2022 18 of 2007 *6 of 2023
+(*See Notes on page 3)
+1-4 .. 1/2024 5-16 .. 1/2018 17-24 .. 1/2024 25-36 .. 1/2018 37-38 .. 1/2024 39-54 .. 1/2018 55-58 .. 1/2024 59-254 .. 1/2018
 Index of Subsidiary Legislation
 Page Municipal Corporations Order (LN 133/1993) ... 151 Municipal Corporations Order (LN 194/1996) ... 152 Municipal Police Service Regulations (LN 300/2014) … … … 161 Municipal Police Officer (Duty Allowance) Order (LN 391/2014)… … 254
 Note on Omissions
@@ -12,41 +22,47 @@ The following Subsidiary Legislation have been omitted:
 A. Vesting Orders made under section 7A of the Act. B. Standing Orders made under section 66 of the Act with respect to-
 (i) City Corporations;
 (ii) Borough Corporations; and
-(iii) Regional Corporations.
-C. Market Bye-laws made under section 196 of the Act. D. Abattoir Bye-laws made under section 208 of the Act. E. Municipal Corporations Orders made under sections 48 and 187 of the Act.
+(iii) Regional Corporations. C. Market Bye-laws made under section 196 of the Act. D. Abattoir Bye-laws made under section 208 of the Act. E. Municipal Corporations Orders made under sections 48 and 187 of the Act.
 (For references to the above Vesting Orders, Standing Orders, Market Bye-laws and
-Abattoir Bye-laws-See the Current Index of Acts and Subsidiary Legislation.
+Abattoir Bye-laws-See the current Index of Acts and Subsidiary Legislation.
 N.B.-Although the above Vesting Orders, Standing Orders, Market Bye-laws, Abattoir Bye-laws and Municipal Corporations Orders are of importance, the need for reference to them is very limited and in view of their length it is not considered practical to publish them in the Revised Edition. They are issued with the Gazette and published in the Annual Volumes of the Acts and Subsidiary Legislation of Trinidad and Tobago and copies may be purchased from the Government Printery.
 Note on Commencement Dates
-14th September, 1990: Legal Notice 182/1990 brought sections 1 and 273 into operation
-with effect from 14th September, 1990. 3rd April, 1991: Legal Notice 39/1991 brought the following sections and
-Schedules into operation with effect from 3rd April, 1991-
+14th September 1990: Legal Notice 182/1990 brought sections 1 and 273 into operation
+with effect from 14th September 1990. 3rd April 1991: Legal Notice 39/1991 brought the following sections and
+Schedules into operation with effect from 3rd April 1991:
 (a) sections 2, with respect to the definitions of "elector",
 "electoral district", "Municipality" and "Returning Officer", 3, 4, 5(1), 11(1), (2), (3) and 275; and
 (b) the First, Second, Third Schedules and the Eleventh
-Schedule, in so far as this Schedule applies to section 2 and the First Schedule of the Representation of the People Act, Ch. 2:01, section 82 of the Interpretation Act, Ch. 3:01 and sections 2, 3 and the First and Second Schedules of the Elections and Boundaries Commission (Local Government) Act, Ch. 25:50. 1st October, 1991: Legal Notice 129/1991 brought the following portions of the Act
-into operation with effect from 1st October, 1991-
+Schedule, in so far as this Schedule applies to section 2 and the First Schedule of the Representation of the People Act, Chap. 2:01, section 82 of the Interpretation Act, Chap. 3:01 and sections 2, 3 and the First and Second Schedules of the Elections and Boundaries Commission (Local Government) Act, Chap. 25:50. 1st October 1991: Legal Notice 129/1991 brought the following portions of the Act
+into operation with effect from 1st October 1991:
 (a) all portions not yet proclaimed in so far as they apply to
 the City of Port-of-Spain, the City of San Fernando, the Borough of Arima and the Borough of Point Fortin; and
 (b) all portions not yet proclaimed, other than-
 (i) section 207; and
 (ii) those sections and Schedules falling under or
-relating to Parts III, V and VII, in so far as they apply to the several new Municipal Corporations established under section 4 of the said Act. 1st September, 1991: Legal Notice 129/1993 brought section 207 into operation in so far
-as it applies to the Municipal Corporations established under section 4. 17th June, 1996: Legal Notice 90/1996 brought into operation the following Parts
-and Schedules into operation-
+relating to Parts III, V and VII, in so far as they apply to the several new Municipal Corporations established under section 4 of the said Act. 1st September 1991: Legal Notice 129/1993 brought section 207 into operation in so far
+as it applies to the Municipal Corporations established under section 4. 17th June 1996: Legal Notice 90/1996 brought into operation the following Parts
+and Schedules into operation:
 (a) Parts III, V, VII in so far as these apply to the several
 new Municipal Corporations established under section 4 of the Act; and
 (b) the Fifth, Sixth, Seventh and Ninth Schedules.
-Note on Sections 210, 211 and 213
+Note on sections 210, 211 and 213
 Sections 210, 211 and 213 make reference to the Twelfth and Thirteenth Schedules. However, these Schedules are not contained in the Act.
 Note on Acts Nos. 7 of 1992 and 36 of 1995
 (These Acts are spent).
 Note on Part V
 Part V of the Act was repealed by Act No. 18 of 2009. As a consequence of this repeal, the Sixth Schedule has been omitted.
+Note on Act No. 19 of 2018
+Amendments made to this Act by Act No. 19 of 2018 took effect on 1st January 2019.
+Note on Act No. 11 of 2022
+Amendments made to sections 5, 11, 12 and 39 of this Act by Act No. 11 of 2022 took effect on 8th November 2022 by LN 206/2022.
+Note on Act No. 6 of 2023
+Amendments made to this Act by Act No. 6 of 2023 took effect on 20th June 2023 by LN 174/2023.
+Note on Extension of Terms of Office and Validation
+Act No. 4 of 2023 extends the terms of office of Councillors and Aldermen elected in December 2019, to provide for elections in 2023 and to validate the actions of the said Councillors and Aldermen between 2nd December 2022 and 18th May 2023.
 CHAPTER 25:04
 MUNICIPAL CORPORATIONS ACT
-ARRANGEMENT OF SECTIONS
-SECTION
+ARRANGEMENT OF SECTIONS SECTION
 1. Short title and commencement.
 PART I
 2. Interpretation. 3. Continuation of former Municipal Corporations. 4. Establishment of new Municipal Corporations. 5. Application of Act. 6. Contents of Orders. 7. Continuation of powers, rights and property of preceding
@@ -71,8 +87,7 @@ returning officer.
 PART III
 MUNICIPAL POLICE SERVICE
 48. Municipal Police Service. 49. President may issue arms to Service. 50. Precept by Commissioner of Police. 51. Badges and uniforms.
-ARRANGEMENT OF SECTIONS-Continued
-SECTION
+ARRANGEMENT OF SECTIONS-Continued SECTION
 52. Authority of Police Commissioner. 53. General powers and immunities of Municipal Police Officers. 54. Offenders may be arrested without warrant. 55. Power to bail. 56. Municipal Police Officers may lay information and conduct
 proceedings.
 57. Sale of stolen or abandoned property. 58. Certain Municipal Police Officers to be Justices. 59. Policing beyond boundaries of Municipality. 60. Regulations for Municipal Police Service.
@@ -81,10 +96,9 @@ proceedings.
 PART IV
 MEETINGS AND PROCEEDINGS OF THE
 COUNCIL OF A CORPORATION
-62. Meetings. 63. Notice of meeting. 64. Chairman of meetings. 65. Quorum. 66. Standing Order. 67. Voting. 68. Appointment of committees. 69. Standing Committee. 70. Sub-Committees. 71. Minutes signed by Chairman to be evidence. 72. Meetings deemed to have been duly convened.
-} 73. Delegation of powers of the Council to Committee.
-74. Travelling expenses of Committees. 75. Open meetings.
+62. Meetings. 63. Notice of meeting. 64. Chairman of meetings. 65. Quorum. 66. Standing Order. 67. Voting. 68. Appointment of committees. 69. Standing Committee. 70. Sub-Committees. 71. Minutes signed by Chairman to be evidence. 72. Meetings deemed to have been duly convened. 73. Delegation of powers of the Council to Committee. 74. Travelling expenses of Committees. 75. Open meetings.
 PART V
+}
 76. to (Repealed by Act No. 18 of 2009). 107. SECTION
 PART VI
 FINANCIAL PROVISIONS
@@ -117,8 +131,7 @@ MARKETS AND SLAUGHTERHOUSES
 187. Interpretation. 188. Existing markets. 189. Appointing places as markets. 190. Notice of opening of new market.
 Fixing market hours and goods to be sold.
 191. Power to close markets. 192. Appointment of Market Administrator and other servants.
-ARRANGEMENT OF SECTIONS-Continued
-SECTION
+ARRANGEMENT OF SECTIONS-Continued SECTION
 193. Inspection for detecting unsound marketable commodities. 194. Market dues. 195. Existing tolls, etc., to continue to be payable. 196. Bye-laws.
 Bye-laws to be exhibited in market and published.
 197. Markets only in specified areas. 198. Licence to salesman of meat or fish. 199. Meat and fish to be sold only in public market or licensed shop, etc.
@@ -126,7 +139,7 @@ Prohibition of sale of marketable commodities not being fish or meat. Penalty fo
 200. In Regional Municipalities commodities to be sold in public markets
 or licensed shops, etc.
 201. Licences generally. 202. Cold stores to be licensed. 203. Selling meat or fish. 204. Dues payable on meat or fish sold from licensed cold stores. 205. Bye-laws. 206. Landing of fish for sale. 207. Provision of public slaughterhouses.
-All animals to be slaugtered at public slaughterhouses.
+All animals to be slaughtered at public slaughterhouses.
 208. Bye-laws for slaughterhouses and detention stations. 209. Penalty for second offences.
 PART IX
 PEDLARS, HAWKERS AND HUCKSTERS
@@ -153,16 +166,14 @@ Proof of handwriting not required. Fee for copy or extract. Production of origin
 PART XII
 MISCELLANEOUS FUNCTIONS
 232. Additional functions.
-ARRANGEMENT OF SECTIONS-Continued
-SECTION
+ARRANGEMENT OF SECTIONS-Continued SECTION
 PART XIII
 ASSOCIATION OF LOCAL
 GOVERNMENT CORPORATIONS
-233. Association of Local Government Corporations. 234. Chairman and Executive Committee of Association.
-}
-235. Code of ethics.
+233. Association of Local Government Corporations. 234. Chairman and Executive Committee of Association. 235. Code of ethics.
 PART XIV
 DISCIPLINARY PROCEEDINGS
+}
 236. to (Repealed by Act No. 8 of 1992). 252.
 PART XV
 REGIONAL CO-ORDINATING COMMITTEES
@@ -173,17 +184,15 @@ GENERAL PROVISIONS
 Duplicate licence.
 262. Power to withhold, suspend, or revoke licence. 263. Execution of works on default of owner. 264. Charges on premises to be preferential to other encumbrances. 265. Apportionment of expenses of works between different owners. 266. Plans, etc., deposited to become property of Corporation. SECTION
 267. Powers conferred by written law to be cumulative. 268. Schedules-power to alter or amend. 269. Government policy directions. 270. Power to investigate. 271. Power of President to dissolve a Council and appoint Commissioner. 272. Continuation of collective agreements and union representation. 273. Extension of term of office of serving members.
-FIRST SCHEDULE-LIST OF CORPORATIONS CONTINUED UNDER THISACT. SECOND SCHEDULE-LIST OF MUNICIPALCORPORATIONS ESTABLISHED
-UNDER THIS ACT.
-THIRD SCHEDULE-NUMBER OF COUNCILLORS AND ALDERMEN TO BE
-ELECTED TO THE COUNCIL OF EACH CORPORATION. FOURTH SCHEDULE-DECLARATION TO BY PERSON
-BE MADE
-ELECTED TO A CORPORATE OFFICE. FIFTH SCHEDULE-WARRANT. SIXTH SCHEDULE-OMITTED DUE TO THE REPEAL OF PART V SEVENTH SCHEDULE-PAVING OF FOOTWAYS. EIGHTH SCHEDULE-CONTINUATION OF EXISTING LAWS. NINTH SCHEDULE-FORM A (REMOVAL OF HOUSE-NOTICE BY
-OWNER OF HOUSE).
-FORM B (REMOVAL OF HOUSE-NOTICE BY
-OWNER OF LAND).
-TENTH SCHEDULE-WARRANT FOR ENTRY ON PREMISES. ELEVENTH SCHEDULE-EXAMPLE OF CALCULATION OF ALLOCATION
-OF ALDERMEN FOR MUNICIPALITY.
+FIRST SCHEDULE-List of Corporations continued under this Act. SECOND SCHEDULE-List of Municipal Corporations established
+under this Act. THIRD SCHEDULE-Number of Councillors and Aldermen to be elected
+to the Council of each Corporation. FOURTH SCHEDULE-Declaration to be made by Person Elected to
+a Corporate Office. FIFTH SCHEDULE-Warrant. SIXTH SCHEDULE-Omitted due to the Repeal of Part V. SEVENTH SCHEDULE-Paving of Footways. EIGHTH SCHEDULE-Continuation of Existing Laws. NINTH SCHEDULE-Form A (Removal of House-Notice by
+Owner of House).
+Form B (Removal of House-Notice by
+Owner of Land).
+TENTH SCHEDULE-Warrant for Entry on Premises. ELEVENTH SCHEDULE-Example of Calculation of Allocation of
+Aldermen for Municipality.
 
 CHAPTER 25:04
 MUNICIPAL CORPORATIONS ACT
