@@ -1,149 +1,126 @@
 SUBSIDIARY LEGISLATION
-COURT OF APPEAL RULES
-ARRANGEMENT OF RULES
-ORDER I
-PRELIMINARY
-1. Citation. 2. Interpretation.
-APPEALS GENERALLY
-3. Forms in Appendices A and C to be used. 4. Times of sittings and vacation.
-Days on which offices are to be closed. 5. Notice of sittings. 6. Right of audience. 7. Register of appeals brought. 8. Enlargement of time and departure from Rules. 9. Service of documents.
-ORDER II
-CIVIL APPEALS FROM HIGH COURT
-(Revoked by LN 121/1980)
-ORDER III
-CRIMINAL APPEALS FROM HIGH COURT
-NOTICES OF APPEAL 1. Notices of appeal to be signed by appellant and addressed to Registrar.
-How notices, etc., may be sent or given. Where appellant unable to write. Appellant's representative may act for him where question of
-insanity involved.
-Notice, etc., on behalf of corporations. SHORTHAND WRITERS AND TRANSCRIPT OF NOTES 2. Shorthand notes to be certified by the writer.
-Transcript to be furnished on application of Registrar.
-Party interested may obtain transcript from shorthand writer.
-Party interested may obtain transcript from Registrar. Definition of "party interested". Transcript to be made by writer thereof or some other person on
-Registrar's directions.
-Verification of transcript for use of Court. What record shall be taken.
-CERTIFICATE OF JUDGE OF TRIAL 3. Judge's certificate under section 43.
-Judge's certificate may be given at trial without application.
-APPEALS WHERE FINE ONLY IS INFLICTED 4. Where fine imposed on conviction to be retained pending appeal.
-Person in custody in default of payment of fine, deemed to be person
-sentenced to imprisonment.
-Person fined may in certain cases intimate appeal, and not pay fine.
-Power of Court of trial in such cases to impose recognisances.
-Fine to be repaid on success of appeal. How appellant committing breach of recognisance under this rule
-may be dealt with.
-CUSTODY OF EXHIBITS USED AT TRIAL 5. Judge's directions as to custody of exhibits.
-Record of Judge's directions as to custody of exhibits. List of exhibits produced before committal to be made by clerk to
-Magistrate or Justice.
-ORDER MADE AT TRIAL. CONSEQUENTIAL ORDERS
-AND SUSPENSION OF SAME PENDING APPEAL 6. Varying order of restitution of property. Persons affected may appear
-on appeal. 7. Non-suspension of orders of restitution, etc., to be subject to
-property or a sample, etc., being necessary for purposes of appeal. 8. Temporary suspension of orders made on conviction, as to money
-rewards, costs, etc.
-ARRANGEMENT OF RULES-Continued
-RULE
-Judge's direction as to property of convicted person pending appeal.
-Suspension of disqualifications consequent on conviction.
-Judge's direction as to securing payment of money by convicted
-person pending appeal.
-Suspension of order of destruction or forfeiture of property.
-Suspension of proceedings or claims consequent on conviction.
-9. Period of suspension of orders under section 46 of Act. 10. Certificate of conviction not to issue for fourteen days after conviction.
-After fourteen days from conviction, clerk to be satisfied no appeal
-pending before issuing certificate of conviction.
-11. Judge's notes to be furnished to the Registrar on request. 12. Report of Judge of Court of trial. 13. Registrar to furnish Judge of Court of trial with materials for report.
-NOTICES OF APPEAL AND PERIOD FOR APPEALING
-ABANDONMENT OF APPEALS
-14. Obligation on appellants to fill up forms of appeal notices and
-answer questions thereon.
-15. Time for appealing against conviction to run from verdict. 16. Time for appealing against sentence to run from pronouncement
-of sentence.
-17. Registrar to require proper officer of Court of trial to furnish him
-with particulars, etc., of trial.
-Registrar to require proper officer of Court of trial to furnish him with
-depositions, indictments, pleas, etc., for use of Court of Appeal.
-18. Prosecutor at trial to be ascertained. 19. Notice of application for leave to appeal. 20. Abandonment of appeal. 21. Notice of application for extension of time for appealing.
-PROCEEDINGS BEFORE JUDGE OF THE COURT UNDER
-SECTION 59 OF THE ACT
-22. How application for leave to appeal and other preliminary
-applications are to be dealt with.
-Procedure where Judge of Court of Appeal refuses applications. Sittings of a Judge under section 59.
-PROCEDURE UNDER SECTION 60 OF THE ACT
-23. Procedure under section 60.
-Materials to be supplied to Judge for statement of special case. Judge to forward special case to Registrar and copies to be supplied
-to appellant and respondent.
-These Rules to apply to convicted persons where case stated under
-section 60.
-DUTIES OF DIRECTOR OF PUBLIC PROSECUTIONS
-24. Registrar's duties as to ascertaining respondent.
-Prosecutor to afford all information, documents, etc., to Registrar
-and Director of Public Prosecutions.
-25. Court may at any stage substitute a Law Officer for a private prosecutor.
-PROCEDURE ON APPLICATIONS FOR BAIL; RIGHTS OF SURETIES;
-ESTREAT OF RECOGNISANCES
-26. Bail. Court of Appeal to specify amount and before whom
-recognisances to be taken.
-Appellant's recognisances. Appellant and prison officer to receive notice of terms of bail. Police of district to assist Magistrate in inquiring as to surety's
-sufficiency.
-Appellant's and surety's recognisances to be forwarded to Registrar.
-Clerk to give surety certificate of recognisances.
-Registrar on receiving recognisances in due form to notify officer of
-prison to release appellant.
-Form of recognisance.
-Presence of appellant on bail, at hearing of his appeal.
-Varying order for bail, by Court of Appeal. Provisions for sureties discharging their obligations. How appellant on bail to be dealt with on arrest at instance of sureties. Arrest and commitment of appellant to be notified to Registrar by Clerk. Power of Court of Appeal to revoke order for bail. Officer in charge of prison on commitment of appellant to notify Registrar. Sureties' rights at Common Law preserved. Estreat of recognisances.
-27. Duty of Police to enquire and report as to appellant's means, on
-request of Registrar.
-28. Warders, etc., to attend sittings of Court of Appeal.
-ARRANGEMENT OF RULES-Continued
-RULE
-Appellant to surrender on appeal, be searched, and remain in custody
-until further dealt with.
-29. Registrar on application of appellant or respondent, or where he
-thinks necessary, to obtain documents, exhibits, etc., for purposes of appeal, and same to be open for inspection.
-Court of Appeal may order production of any document or exhibit, etc. Service of orders.
-EXHIBITS IN COURT OF TRIAL, HOW DEALT WITH
-30. Exhibits to which rule 5 relates to be returned to persons producing
-the same subject to order of Court.
-NOTIFYING RESULT OF APPEALS
-31. On final determination of appeals, etc., Registrar to notify appellant,
-Minister, and Commissioner of Prisons.
-In cases of death sentence, notice of appeal and of final
-determination to be sent to Minister.
-Registrar to notify officer of Court of trial results of appeal.
-Officer of Court of trial to enter decision of Court on records.
-32. Registrar after appeal to return original depositions, exhibits,
-indictment, etc., to officer of Court of trial when received from him.
-LEGAL AID TO APPELLANTS
-33. Reports as to legal aid under section 57(5). 34. List of Attorneys-at-law for purposes of Act.
-Legal aid to be provided from such lists.
-COPIES OF DOCUMENTS FOR USE OF APPELLANTS
-35. How appellant or respondent may obtain from Registrar copies of
-documents or exhibits.
-Attorney-at-law assigned to appellant may receive copies of
-documents and exhibits free on his request.
-Transcript of shorthand notes not to be supplied free except on order
-of Judge.
-Poor appellant not legally represented may obtain copy of
-documents or exhibits free. RULE PROCEDURE AS TO WITNESSES BEFORE COURT OF APPEAL AND
-THEIR EXAMINATION BEFORE EXAMINER
-36. Attendance of witnesses before Court.
-Application to Court to hear witnesses. Order appointing examiner. Registrar to furnish examiner with exhibits, etc., necessary for
-examination.
-Notification of date of examination. Evidence to be given on oath. Deposition of witness, how to be taken. Travelling expenses of witnesses before Examiner. Service of notices and orders under rule. Presence of parties at examination of witnesses. Proceedings on
-order of reference.
-CAUSE LISTS
-37. Register of appeals to be kept by the Registrar.
-Registrar to keep general list of appeals. List of cases for daily sittings of Court. Notices to appellants in custody.
-38. Application not specially provided for, how made. 39. Notice by Registrar to appellant of results of all applications. 40. Non-compliance with Rules not wilful may be waived by Court. 41. Enforcing duties under Rules. 42. Warrants for arrest of appellants to be deemed to be warrants issued
-under Ch. 12:01.
-43. A petitioner under section 64(2)(a) to be deemed to be an appellant
-for all purposes.
-44. Reference to Court under section 64(2)(b). 45. Sittings during vacation. 46. Saving as regard Summary Courts procedure.
-APPENDIX A-Civil Forms (Revoked by LN 121/1980).
-APPENDIX B-Fees of Court in Civil Appeals
-(Revoked by LN 121/1980).
-APPENDIX C-Criminal Forms.
 *COURT OF APPEAL RULES
-deemed to have been made under section 78
-ORDER I
-PRELIMINARY
-- Margin: 12 of 1962 [14 of 1964 53/1965 32/1974 54/1974 121/1980].
+(Revoked by LN 377/2023)
+BARRISTERS (DISCIPLINARY PROCEEDINGS) RULES
+(Repealed by section 66 of Act No. 21 of 1986)
+*See Note on Court of Appeal Rules at page 2.
+[Subsidiary]
+CRIMINAL APPEAL (REFERENCE
+OF POINTS OF LAW) RULES
+ARRANGEMENT OF RULES
+RULE
+1. Citation. 2. Interpretation. 3. Form of reference. 4. Notice of reference. 5. Withdrawal of amendment of reference. 6. Amendment of respondent's argument. 7. Application under section 63(3). 8. Non-disclosure of respondent's identity. 9. Service on respondent. 10. Service on Registrar.
+SCHEDULE. [Subsidiary]
+*CRIMINAL APPEAL (REFERENCE OF
+POINTS OF LAW) RULES
+made under section 77
+1. These Rules may be cited as the Criminal Appeal
+(Reference of Points of Law) Rules.
+2. In these Rules-
+"the Act" means the Supreme Court of Judicature Act;
+"the Court" means the Court of Appeal;
+"Form" means a criminal form set out in the Schedule;
+"reference" means a reference of a point of law to the Court in
+pursuance of section 63 of the Act;
+"Registrar" means the Registrar of the Supreme Court of Judicature; "respondent", in relation to a reference, means the acquitted
+person in whose case the point of law referred to arose.
+3. (1) A reference shall be in writing, and shall-
+(a) specify the point of law referred and, where
+appropriate, such facts of the case as are necessary for the proper consideration of the point of law;
+(b) summarise the arguments intended to be put to
+the Court; and
+(c) specify the authorities intended to be cited,
+but no mention shall be made in the reference of the proper name of a person or place that is likely to lead to the identification of the respondent.
+(2) A reference shall be entitled "Reference by the
+Attorney General to the Court of Appeal under section 63 of the Supreme Court of Judicature Act", together with the year and number of the reference and shall be addressed to, and served on the Registrar within forty-two days of the acquittal.
+*These Rules came into operation on 1st August 1981. Criminal Appeal (Reference of Points of Law) Rules [Subsidiary]
+4. (1) The Registrar shall cause to be served on the respondent a copy of the reference and a notice in Form A.
+(2) In the notice the Registrar shall-
+(a) inform the respondent that the reference will not
+affect the trial in relation to which it is made or on acquittal in that trial; and
+(b) invite the respondent, within twenty-eight days
+from the date of service of the notice, to inform the Registrar if the respondent wishes to present any argument to the Court and, if so, whether he wishes to present the argument in person or by an Attorney-at-law on his behalf.
+(3) When the respondent wishes to present any argument he shall serve a notice to that effect on the Registrar within the time specified in paragraph (2) and such notice shall summarise the argument and specify the authorities intended to be cited.
+(4) The Court shall not hear argument by or on behalf of the Attorney General until the period specified in paragraph (2) has expired, unless the respondent agrees.
+5. (1) The Attorney General may withdraw or amend the reference at any time before the Court has begun the hearing or, after that, and until the Court has given its opinion, may withdraw or amend the reference by leave of the Court.
+(2) Notice of withdrawal or amendment under sub-rule (1) shall be in Form B and shall be served by the Attorney General on the Registrar and on the respondent.
+(3) An application by the Attorney General for leave to amend or withdraw the reference after the termination of the hearing and before the Court gives its opinion shall be in Form C and a copy thereof shall be served by the Attorney General on the respondent.
+6. (1) Where a notice of amendment is served on the respondent under rule 5 he may within twenty-eight days thereafter serve on the Attorney General and on the Registrar a notice amending his argument. [Subsidiary] Criminal Appeal (Reference of Points of Law) Rules
+(2) The respondent may also amend his argument at any
+time before the Court has begun the hearing, or after that, and until the Court has given its opinion, by leave of the Court.
+(3) An application by the respondent for leave to amend
+his argument after the termination of the hearing and before the Court gives its opinion shall be in Form D and a copy thereof shall be served by the respondent on the Attorney General.
+7. (1) An application under section 63(3) of the Act for a
+reference of a point of law to the Judicial Committee of the Privy Council may be made within fourteen days after the Court gives its opinion.
+(2) The application shall be in Form E addressed to the
+Registrar, and a copy thereof shall be served by the applicant on the respondent or on the Attorney General, as the case may be, within fourteen days after the Court gives its opinion.
+8. (1) Where a reference is made by the Attorney General
+under section 63(1) of the Act no matter likely to lead members of the public to identify the respondent shall either be published in a written publication available to the public or be broadcast or televised, except as authorised by the Court.
+(2) The Court shall ensure that the identity of the
+respondent is not disclosed during the proceedings on a reference, except where the respondent has given his consent to the use of his name in the proceedings.
+9. For the purpose of these Rules, service of a document on
+the respondent may be effected in an appropriate manner prescribed by section 23(2) of the Interpretation Act.
+10. For the purpose of these Rules, service of a document on
+the Registrar may be effected by addressing it to him and posting it to or leaving it at his office at the Court of Appeal, Hall of Justice, Knox Street, Port-of-Spain. Criminal Appeal (Reference of Points of Law) Rules [Subsidiary]
+SCHEDULE
+CRIMINAL FORM A
+Attorney General's Reference No... of 20... NOTICE TO RESPONDENT of Reference by the Attorney General under section 63(1) of the Supreme Court of Judicature Act, and rule 4(1) of the Rules of the Criminal Appeal (Reference of Points of Law) Rules.
+To: TAKE NOTICE that, by virtue of section 63(1) of the Supreme Court of Judicature Act, the Attorney General has referred the following point of law for the opinion of the Court of Appeal arising out of the matter of the State v... which was determined by your acquittal on ... before Mr. Justice ...
+(State point of law) And further take notice that the reference will not have any effect either on the trial in relation to which it is made or on your acquittal but is solely to determine a point of law which arose therein.
+You may within twenty-eight days from the date of service of this notice upon you, inform the Registrar whether you wish to present any argument to the Court on the said point of law and if so whether you wish to present such argument personally or by Attorney-at-law on your behalf. For this purpose please complete the attached notice and return to:
+The Registrar, Court of Appeal, Hall of Justice, Knox Street, Port-of-Spain.
+...
+Registrar
+Served on the respondent ... by ... at ...
+on the ... day of ..., 20... [Subsidiary] Criminal Appeal (Reference of Points of Law) Rules
+CRIMINAL FORM B
+NOTICE TO RESPONDENT of withdrawal or amendment by Attorney General of Reference under rule 5 of the Criminal Appeal (Reference of Points of Law) Rules.
+Attorney General's Reference No... of 20...
+To: TAKE NOTICE that by virtue of rule 5 of the Criminal Appeal (Reference of Points of Law) Rules, the Attorney General has *withdrawn/amended his reference.
+*The amendment is as follows:
+Dated this ... day of ..., 20...
+...
+Attorney General
+*Delete as appropriate.
+CRIMINAL FORM C
+Attorney General's Reference No... of ... 20... APPLICATION by Attorney General to *withdraw/amend his reference under rule 5 of the Criminal Appeal (Reference of Points of Law) Rules.
+TAKE NOTICE that the Attorney General hereby applies to the Court of Appeal to *withdraw/amend his reference.
+*The amendment is as follows:
+...
+Attorney General
+*Delete as appropriate. Criminal Appeal (Reference of Points of Law) Rules [Subsidiary]
+CRIMINAL FORM D
+Attorney General's Reference No... of ... 20... APPLICATION by respondent to amend his argument under rule 6 of the Criminal Appeal (Reference of Points of Law) Rules.
+TAKE NOTICE that the respondent hereby applies to the Court of Appeal to amend his argument.
+The amendment is as follows:
+...
+Respondent
+CRIMINAL FORM E
+Attorney General's Reference No... of ... 20... APPLICATION for Reference of Point of Law to the Judicial Committee of the Privy Council under section 63(3) of the Supreme Court of Judicature Act and rule 7 of the Criminal Appeal (Reference of Points of Law) Rules.
+TAKE NOTICE that the Attorney General/Respondent, being dissatisfied with the opinion given by the Court of Appeal on the ... day of ... 20... hereby applies to the Court of Appeal to refer the point of law to the Judicial Committee of the Privy Council and that this application will be heard by the Court on the ... day of ... 20...
+...
+*Attorney General/Respondent
+*Delete as appropriate.
+- Margin: 87/1981.
+- Margin: Citation.
+- Margin: Interpretation.
+- Margin: Schedule.
+- Margin: Form of reference.
+- Margin: Notice of reference. Form A.
+- Margin: Withdrawal of amendment of reference.
+- Margin: Form B.
+- Margin: Form C.
+- Margin: Amendment of respondent's argument.
+- Margin: Form D.
+- Margin: Application under section 63(3).
+- Margin: Form E.
+- Margin: Non-disclosure of respondent's identity.
+- Margin: Service on respondent.
+- Margin: Ch. 3:01.
+- Margin: Service on Registrar.
+- Margin: Section 2(1).
+- Margin: Rule 4(1).
+- Margin: Rule 5(2).
+- Margin: Rule 5(3).
+- Margin: Rule 6(3).
+- Margin: Rule 7(2).
