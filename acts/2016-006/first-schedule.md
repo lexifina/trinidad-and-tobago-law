@@ -1,0 +1,5 @@
+# FIRST SCHEDULE
+WRITTEN LAWS IN RELATION TO FAMILY MATTERS Administration of Estates Act ... Chap. 9:01 Succession Act (Part VIII) ... Chap. 9:02 Emigration (Children) Act ... Chap. 18:02 Marriage Act ... Chap. 45:01 Muslim Marriage and Divorce Act ... Chap. 45:02 Hindu Marriage Act ... Chap. 45:03 Orisa Marriage Act ... Chap. 45:04 Married Persons Act ... Chap. 45:50 Matrimonial Proceedings and Property Act ... Chap. 45:51 Attachment of Earnings (Maintenance) Act ... Chap. 45:52 Maintenance Orders (Facilities for Enforcement) Act Chap. 45:53 Cohabitational Relationships Act ... Chap. 45:55 Domestic Violence Act ... Chap. 45:56 Children Act ... Chap. 46:01 Infants Act ... Chap. 46:02 Adoption of Children Act ... Chap. 46:03 Age of Majority Act ... Chap. 46:06 Status of Children Act ... Chap. 46:07 Family Law (Guardianship of Minors, Domicile Chap. 46:08
+and Maintenance) Act Children's Authority Act ... Chap. 46:10 Children's Community Residences, Foster Care Chap. 46:04
+and Nurseries Act Occupational Safety and Health Act (Part IX) Chap. 88:08 International Child Abduction Act ... Chap. 12:08
+- Margin: [Section 3(1)].
