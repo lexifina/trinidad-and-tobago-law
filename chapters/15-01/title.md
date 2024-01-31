@@ -6,17 +6,30 @@ Amended by
 13 of 2007
 *2 of 2012
 11 of 2014
-*See Note on page 2
+*6 of 2016
+*19 of 2019
+25 of 2019
+*13 of 2021
+*12 of 2023
+(*See Notes on page 2)
 Index of Subsidiary Legislation
 Page
-Police Service Regulations (LN 145/2007) ... 51 Police Service (Recruitment of Special Reserve Police) Regulations
-(LN 175/2008) ... 173
+Police Service Regulations (LN 145/2007) ... 55 Police Service (Recruitment of Special Reserve Police) Regulations
+(LN 175/2008) ... 177
 Note on Subsidiary Legislation
 For Resolution affirming the Police Service Regulations (LN 145/2007) See LN 111/2007.
 Note on Omission
-The Commissioner of Police (Extension of Service) Order (LN 251/2007) made under section 75(a) of the Act has been omitted.
+The Commissioner of Police (Extension of Service) Orders made under section 75(a) of the Act have been omitted.
 Note on Act No. 2 of 2012
 Act No. 2 of 2012 introduced section 8A. The Provisions of this section took effect from 1st October 2010.
+Note on Act No. 6 of 2016
+Amendments made to this Act by Act No. 6 of 2016 took effect on 15th May 2017 by LN 38/2017.
+Note on Act No. 19 of 2019
+Amendments made to this Act by Act No. 19 of 2019 took effect on 31st January 2020 by LN 33/2020.
+Note on Act No. 13 of 2021
+Amendments made to this Act by Act No. 13 of 2021 took effect on 18th August 2021 by LN 218/2021.
+Note on Act No. 12 of 2023
+Amendments made to this Act by Act No. 12 of 2023 took effect on 12th December 2023 by LN 376/2023.
 CHAPTER 15:01
 POLICE SERVICE ACT
 ARRANGEMENT OF SECTIONS SECTION
@@ -37,8 +50,7 @@ APPOINTMENT AND PROMOTION OF
 POLICE OFFICERS
 16. Appointment on promotion to First and Second Divisions. 17. Promotions to and within the First Division.
 17A. Promotional assessment process.
-ARRANGEMENT OF SECTIONS-Continued
-SECTION
+ARRANGEMENT OF SECTIONS-Continued SECTION
 18. Promotion Advisory Board. 19. Functions of the Board. 20. Promotion in Second Division. 21. Appointment or promotion on probation. 22. Contract officers.
 PART V
 DISCIPLINE
@@ -58,17 +70,26 @@ MEMBERS OF THE POLICE SERVICE
 39. Police officer voting. 40. Police officer and political activities. 41. Public statements by police officer on certain matters. 42. Certain police officers to be Justices. 43. Every police officer to be a constable. 44. General power of police officer. 45. General duties of police officer. 46. Power to arrest without a warrant. 47. Power to arrest without having warrant in possession. 48. Execution of warrant or order. 49. Action against police officer for acting on warrant or order. 50. Power to take measurement or photograph.
 50A. Taking of fingerprint impression. 50B. Retaking of fingerprint impression. 50C. Taking fingerprint impression of certain persons at ports of entry. 50D. Notice to attend for fingerprinting. 50E. Taking of fingerprint impression from child or incapable person. 50F. Reasonable force to take and protect measurement, photograph or
 fingerprint impression.
-50G. Refusing to give measurement, photograph or fingerprint impression. 50H. Resisting or obstructing police officer in the exercise of his functions. 50I. Volunteering to give a fingerprint impression. 50J. Retention of fingerprint impression. 50K. National Fingerprint Database. 50L. Mutual legal assistance.
-51. Certificate of character. 52. Analysis of fingerprint impression. 53. Punishment for serious offence. 54. Public property not to be used privately. 55. Delivery up of article supplied on leaving the Police Service. 56. Improper possession of article supplied to police officer. 57. Delivery up of article supplied to deceased police officer.
+50G. Refusing to give measurement, photograph or fingerprint impression. 50H. Assaulting, resisting or obstructing an officer in the exercise of
+specified functions.
+50I. Volunteering to give a fingerprint impression. 50J. Retention of fingerprint impression. 50K. National Fingerprint Database. 50L. Mutual legal assistance. 50M. Use and disclosure of measurements, photographs, etc. 50N. Sharing or disclosing measurements, photographs, or fingerprint
+impressions.
+51. Certificate of character. 52. Analysis of fingerprint impression.
 ARRANGEMENT OF SECTIONS-Continued SECTION
-58. Unclaimed article. 59. Assault, etc., on police officer. 60. Refusing to assist police officer assaulted. 61. Harbouring police officer. 62. Impersonation of police officer or wearing police uniform, etc. 63. Obtaining admission into the Police Service by fraud. 64. Right to prosecute police cases. 65. Award Fund. 66. Awards Board. 67. Granting of special award. 68. Fines and bribes to be payable to the Fund. 69. Account to be kept.
+53. Punishment for serious offence.
+53A. Tipping off.
+54. Public property not to be used privately. 55. Delivery up of article supplied on leaving the Police Service. 56. Improper possession of article supplied to police officer. 57. Delivery up of article supplied to deceased police officer. 58. Unclaimed article. 59. Assaults and retaliatory action against police officers. 60. Refusing to assist police officer assaulted. 61. Harbouring police officer.
+61A. Police officer accepting bribes, etc.
+62. Impersonation of police officer or wearing police uniform, etc. 63. Obtaining admission into the Police Service by fraud. 64. Right to prosecute police cases.
+64A. Police officer to prosecute in accordance with Legal Profession Act.
+65. Award Fund. 66. Awards Board. 67. Granting of special award. 68. Fines and bribes to be payable to the Fund. 69. Account to be kept.
 PART IX
 MISCELLANEOUS PROVISIONS
-70. Sale of liquor in Canteens and Messes. 71. Police Station to be lock-up. 72. Police officer to take oath of office.
+70. Sale of liquor in Canteens and Messes. 71. Police station to be lock-up. 72. Police officer to take oath of office.
 72A. Fingerprint database.
 73. Mode of leaving service. 74. Age of retirement for police officer. 75. Extension of service. 76. Grant of three months salary to next of kin of deceased police officer. 77. Payment of arrears of salary or pension without production of
 probate or letters of administration.
-78. Regulations. 79. Savings. 80. Repeal.
+78. Regulations. 79. Savings. 80. Repeal of Act No. 30 of 1965.
 FIRST SCHEDULE. SECOND SCHEDULE. THIRD SCHEDULE. FOURTH SCHEDULE. FIFTH SCHEDULE. SIXTH SCHEDULE.
 
 CHAPTER 15:01
