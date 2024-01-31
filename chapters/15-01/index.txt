@@ -62,9 +62,12 @@ s-50I.md
 s-50J.md
 s-50K.md
 s-50L.md
+s-50M.md
+s-50N.md
 s-51.md
 s-52.md
 s-53.md
+s-53A.md
 s-54.md
 s-55.md
 s-56.md
@@ -73,9 +76,11 @@ s-58.md
 s-59.md
 s-60.md
 s-61.md
+s-61A.md
 s-62.md
 s-63.md
 s-64.md
+s-64A.md
 s-65.md
 s-66.md
 s-67.md

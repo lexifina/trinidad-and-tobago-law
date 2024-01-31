@@ -2,7 +2,7 @@
 FIRST DIVISION OFFICERS' UNIFORM
 AND ORDERS OF DRESS
 Badges of Rank-Silver-plated, Service pattern on dark blue background.
-Belt, Sam Brown-with pouch and holster in brown leather with silver-plated fittings.
+Belt, Sam Browne-with pouch and holster in brown leather with silver-plated fittings.
 Beret-Dark blue cloth, Officers' pattern, silver-plated Service badge at left front.
 Boots and Shoes-
 (a) Black Wellington parade;
@@ -24,7 +24,7 @@ Hose tops-Dark blue.
 Lanyard and Whistle-Dark blue silk cord, 36 inches double, with Metropolitan Police pattern whistle.
 Mess Jacket-Plain white Eton jacket with miniature silver-plated Service badge on dark blue mount on each lapel, dark blue detachable shoulder straps, miniature silver-plated badges of rank.
 Overalls-Dark blue cloth with 13/4 inches black overleaf braid down sides, black leather tabs to button or buckle under Wellington boots.
-Riding Breaches-Dark blue cloth with black buckskin strappings and 13/4 inches black oak leaf braid down sides, split falls, cross pockets, laced, boot button at back, seam across the knee.
+Riding Breeches-Dark blue cloth with black buckskin strappings and 13/4 inches black oak leaf braid down sides, split falls, cross pockets, laced, boot button at back, seam across the knee.
 Satchels-Black and brown leather for female police officers.
 Sashes-Dark blue with tassels.
 Shirt-White, soft.
@@ -32,7 +32,7 @@ Shirt-White, hard front evening, detached collar, black studs and links with sil
 Shirt-White, soft evening, attached or detached double collar, polo shape, plain white buttons.
 Shorts-Khaki Garnaline, fly front, side pockets, waistband all round, 33/4 inches deep with four pleats.
 Skirts-Dark blue serge.
-Skirts-Khaki Garberdine.
+Skirts-Khaki Gaberdine.
 Skirts-Khaki Garnaline.
 Police Service Regulations
 Socks-Dark blue for service dress, black for Mess kit.
@@ -53,7 +53,8 @@ Waterproof-Khaki, regulation pattern.
 Police Service Regulations
 ORDERS OF DRESS
 (i) Full Dress:
-Forage Cap, white tunic, cross belt and pouch, sword and plated scabbard, sword belt and slings, silver sword knot, medals and/or decorations (if any), overalls, Wellington boots, box spurs, white gloves; gorgets, dark blue detachable shoulder straps, lanyards and sashes for the Commissioner, Deputy Commissioner, and Assistant Commissioner. Dark blue Service pattern Tunic belt and skirt, black stockings, black leather shoes, white soft shirt and navy blue tie for female police officers. When Mounted: Dark blue riding breeches, black top boots, spurs and chains, black leather guards.
+Forage Cap, white tunic, cross belt and pouch, sword and plated scabbard, sword belt and slings, silver sword knot, medals and/or decorations (if any), overalls, Wellington boots, box spurs, white gloves; gorgets, dark blue detachable shoulder straps, lanyards and sashes for the Commissioner, Deputy Commissioner, and Assistant Commissioner. Dark blue Service pattern Tunic belt and skirt, black stockings, black leather shoes, white soft shirt and navy blue tie for female police officers.
+When Mounted: Dark blue riding breeches, black top boots, spurs and chains, black leather guards.
 (ii) Service Dress:
 Forage Cap, khaki gaberdine service tunic, white shirt, blue tie, Sam Browne belt or self-cloth belt, khaki gaberdine trousers, blue socks, brown leather shoes, lanyard and whistle; gorgets for the Commissioner, Deputy Commissioner and Assistant Commissioner. Khaki gaberdine skirt and flesh colour stocking for female police officers.
 When Mounted: Dark blue riding breeches, black top boots, spurs and chains, black leather guards.
