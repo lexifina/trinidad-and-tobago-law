@@ -3,7 +3,7 @@ DUTY COUNSEL CERTIFICATE
 THIS IS TO CERTIFY that ... of
 ...
 (address)
-(hereinafter called "the suspect") is entitled, in accordance with the Legal Aid and Advice Act, Ch. 7:07, to legal representation by Duty Counsel in connection with the following:
+(hereinafter called "the suspect") is entitled, in accordance with the Legal Aid and Advice Act, Chap. 7:07, to legal representation by Duty Counsel in connection with the following:
 ...
 (describe the circumstances)
 ...
@@ -23,7 +23,10 @@ Issued this day of , 20 .
 ...
 Director
 This is to certify that I, ..., the suspect/parent or guardian of the suspect have appointed an Attorney-at-law and hereby discharge the Duty Counsel named in this Certificate.
-Dated this ... day of ..., 20 .
+Dated this ... day of ... 20...
 ...
 Signature
+Section 15B(11). FOURTH SCHEDULE [3 of 2012].
+DUTY COUNSEL FEES
+The fees and expenses payable to a Duty Counsel assigned to a suspect under section 15B shall be not less than one thousand dollars and not more than two thousand, five hundred dollars.
 - Margin: Section 15B(4).

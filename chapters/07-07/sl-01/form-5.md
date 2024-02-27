@@ -1,11 +1,16 @@
 # FORM 5
 APPLICATION FOR EMERGENCY CERTIFICATE
-1. I, (Mr., Mrs. or Miss) ... of ... (whose permanent
-(address in block letters) address is [as above or (address)]), apply for an Emergency Certificate to ... (State briefly the kind of claim to be made or resisted, making quite clear if it be the case that
+1. I, (Mr., Mrs. or Miss) ...
+of ... (whose permanent
+(address in block letters)
+address is [as above or (address)]), apply for an Emergency Certificate to ... (State briefly the kind of claim to be made or resisted, making quite clear if it be the case that
 Court proceedings have begun or that an appeal is involved).
-I (enclose or have already lodged) an Application Form for an ordinary Certificate for Legal Aid in respect of this matter.
-2. The reason why my case is urgent necessitating an Emergency Certificate is...
+I (enclose or have already lodged) an Application Form for an ordinary
+Certificate for Legal Aid in respect of this matter.
+2. The reason why my case is urgent necessitating an Emergency
+Certificate is ...
 (State the reason)
+Legal Aid and Advice Regulations [Subsidiary]
 3. The Attorney-at-law I wish to act for me is named in the Application Form 1 (submit herewith or have already submitted), and he has agreed to act for me in this matter.
 4. I agree that if I am granted an Emergency Certificate which is revoked by the Authority, or becomes revoked because I do not take the steps necessary to obtain an ordinary Certificate to replace it, I shall become liable-
 (i) to pay the Authority the expense to which the Legal

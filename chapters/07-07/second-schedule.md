@@ -6,7 +6,7 @@ DESCRIPTION OF PROCEEDINGS
 1. Proceedings in the Supreme Court.
 2. Proceedings before any person to whom a case is referred in whole or in part by the Supreme Court.
 3. Proceedings before the Environmental Commission.
-4. Applications for the Grant of Probate and Letters of Administration where the value of the Estate is more than four thousand eight hundred dollars but does not exceed one hundred thousand dollars; the applicant shall be required to pay to the Director a fee, not exceeding 0.5 per cent of the value of the Estate.
+4. Applications for the Grant of Probate and Letters of Administration where the value of the Estate is more than four thousand, eight hundred dollars but does not exceed one hundred thousand dollars; the applicant shall be required to pay to the Director a fee, not exceeding 0.5 per cent of the value of the Estate.
 PART II
 EXCEPTED PROCEEDINGS
 1. Proceedings wholly or partly in respect of-
