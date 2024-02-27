@@ -5,8 +5,8 @@ PART I
 DESCRIPTION OF PROCEEDINGS
 1. Criminal proceedings in respect of-
 (a) indictable offences whether or not determined summarily;
-(b) all offences, except motor vehicle offences charged in a
-Court of summary jurisdiction;
+(b) all offences, except motor vehicle offences where a person eighteen
+years and over is charged in a Court of summary jurisdiction;
 (c) contempt proceedings in the Magistrates' Court;
 (d) plea discussions and plea agreements under the Criminal
 Procedure (Plea Discussion and Plea Agreement) Act.
@@ -14,6 +14,7 @@ Procedure (Plea Discussion and Plea Agreement) Act.
 2. Proceedings for and in relation to an application under the Status of Children Act, the Family Law (Guardianship of Minors, Domicile and Maintenance) Act, the Domestic Violence Act, the Attachment of Earnings (Maintenance) Act, and the Cohabitational Relationships Act.
 3. Proceedings under the Summary Ejectment Ordinance and the Rent Restriction (Dwelling Houses) Act.
 4. Proceedings before a Coroner's Court under the Coroners Act. 5. An application for bail by a person who is charged with an offence before a Court of summary jurisdiction and who is brought before the Court in pursuance of a remand in custody.
+*Note: Act No. 15 of 2018 came into force on 31st December 2018 by Proclamation. (See LN No. 191/2018).
 PART II
 The fees and expenses to an Attorney-at-law assigned to a person under section 16(6) shall be as follows:
 1. There may be allowed to an Attorney-at-law-
@@ -31,10 +32,9 @@ The Authority shall pay to an Attorney-at-law in respect of non-capital offences
 Where three or more accused persons are appearing in a capital case being tried before the High Court and the Authority reasonably believes that the trial may be lengthy in time, the Authority shall pay to an Attorney-at-law representing one or more of the accused, a sum not exceeding thirty thousand dollars per month, during the period of the trial and such payment may be prorated by the Authority as it thinks fit.
 In respect of capital offences, the Authority shall pay a fee not exceeding fifteen thousand dollars; but the presiding Judge after the conclusion of the trial, may, if he thinks fit, certify that the case was of unusual length or difficulty and increase the fee of the Attorney-at-law to a sum not exceeding twenty thousand dollars and, in exceptional circumstances, allow the Attorney-at-law an additional fee not exceeding ten thousand dollars.
 These sums become due and payable by the Director on the written authority of the presiding Judge.
-- Margin: Section 16(1). [46 of 1979 18 of 1994 11 of 1999 18 of 1999 3 of 2012 180/2013].
+- Margin: Section 16(1). [46 of 1979 18 of 1994 11 of 1999 18 of 1999 3 of 2012 180/2013 *15 of 2018].
 - Margin: Ch. 13:07.
-- Margin: Ch. 46:07. Ch. 46:08. Ch. 45:56. Ch. 45:52.
-- Margin: Ch. 45:55.
+- Margin: Ch. 46:07. Ch. 46:08. Ch. 45:56. Ch. 45:52. Ch. 45:55.
 - Margin: Ch. 27. No. 17. (1950 Ed.). Ch. 59:55.
 - Margin: Ch. 6:04.
 - Margin: Section 16(6).
