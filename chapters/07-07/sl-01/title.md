@@ -8,6 +8,7 @@ persons.
 person.
 15. Remuneration of Attorneys-at-law giving legal aid and advice. 16. Miscellaneous provisions. 17. Rules of Procedure. 18. Applications for legal aid under Part III of the Act.
 SCHEDULE.
+[Subsidiary]
 LEGAL AID AND ADVICE REGULATIONS
 deemed to be made under section 40
 - Margin: 25 of 1976. [46 of 1979 55/1979].
