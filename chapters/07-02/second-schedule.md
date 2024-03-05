@@ -1,32 +1,20 @@
 # SECOND SCHEDULE
 COLUMN I COLUMN II
-Name of title of Office Name of Ministry, or Certifying Officers Department or Office
-Permanent Secretary of each Ministry All Ministries ... Sub-Intendant Ministry of Agriculture, Lands and
-Director of Surveys Fisheries
-Chief Education Officer Ministry of Education… … … Comptroller of Customs and Excise Ministry of Finance (Customs and
-Customs and Excise Supervisor Excise Department)
-(Tobago)
-Commissioner of Inland Revenue (Inland Revenue Department)… …
-Revenue Officer (Tobago)
-Chief Medical Officer Ministry of Health and Housing
-Principal Medical Officer (Medical Department)
-Solicitor-General Ministry of Legal Affairs … …
-Chief Parliamentary Counsel Chief State Solicitor
-Registrar General (Registrar General Department) …
-Deputy Registrar General Delegate of the Registrar General
-(Tobago)
-Clerk of the Peace of each Judiciary/Magistracy … … …
-Summary Court
-Chief Immigration Officer Ministry of National Security (Immigration)
-Commissioner of Police (Police Department) … … …
-Deputy Commissioner of Police
-Commissioner of Prisons (Prison Department) … … …
-Deputy Commissioner of Prisons
-Chief Personnel Officer Personnel Department… … … Chief Petroleum Engineer Ministry of Petroleum and Mines … Postmaster General Ministry of Public Utilities (Post
-General Postal Supervisor Office Department)
-(Tobago)
-General Manager Port Authority ...
-Harbour Master
-Registrar of Friendly Societies Registrar of Friendly Societies… … Director of Personnel Administration Service Commissions Department … Transport Commissioner Ministry of Works … … …
+Name of Ministry, Name of title of Office
+Department or Office or Certifying Officers All Ministries ... Permanent Secretary of each Ministry Ministry of Agriculture, Lands and Sub-Intendant
+Fisheries Director of Surveys Ministry of Education … … Chief Education Officer Ministry of Finance (Customs and Comptroller of Customs and Excise
+Excise Department) Customs and Excise Supervisor
+(Tobago) (Inland Revenue Department) … Commissioner of Inland Revenue
+Revenue Officer (Tobago) Ministry of Health and Housing Chief Medical Officer
+(Medical Department) Principal Medical Officer Ministry of Legal Affairs … … Solicitor-General
+Chief Parliamentary Counsel Chief State Solicitor (Registrar General Department) … Registrar General
+Deputy Registrar General Delegate of the Registrar General (Tobago) Judiciary/Magistracy … … … Senior Magistracy Registrar and Clerk
+of the Court or Magistracy Registrar and Clerk of the Court of each Summary Court Ministry of National Security Chief Immigration Officer
+(Immigration) (Police Department) … … … Commissioner of Police
+Deputy Commissioner of Police (Prison Department) … … … Commissioner of Prisons
+Deputy Commissioner of Prisons Personnel Department … … Chief Personnel Officer Ministry of Petroleum and Mines … Chief Petroleum Engineer Ministry of Public Utilities (Post Postmaster General
+Office Department) General Postal Supervisor
+(Tobago) Port Authority ... General Manager
+Harbour Master Registrar of Friendly Societies… … Registrar of Friendly Societies Service Commissions Department … Director of Personnel Administration Ministry of Works … … … Transport Commissioner
 Licensing Officer (Tobago).
-- Margin: Sections 22, 23. [16 of 1973 11 of 1996].
+- Margin: Sections 22, 23. [16 of 1973 11 of 1996 20 of 2020].
