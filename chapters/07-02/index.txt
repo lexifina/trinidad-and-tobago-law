@@ -16,7 +16,6 @@ s-13A.md
 s-13B.md
 s-14.md
 s-14A.md
-s-14B.md
 s-14C.md
 s-14D.md
 s-14E.md
