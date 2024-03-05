@@ -1,4 +1,3 @@
-## PART VII
 ## GENERAL AND MISCELLANEOUS
 # FIRST SCHEDULE
 (Repealed by Act No. 28 of 1996).
