@@ -14,7 +14,7 @@ of aircraft; effects of atmospheric conditions on aircraft performance in accord
 (e) use and serviceability checks of equipment and systems of
 appropriate aircraft;
 (f) flight instruments; compasses, turning and acceleration errors
-gyroscopic instruments, operational limits and precession effects, practices and procedures in the event of malfunctions of various flight instruments and electronic display units;
+gyroscopic instruments, operational limits and precession effects, practices and procedures in the event of malfunctions of various flight instruments and electronic display units; [Subsidiary] Civil Aviation [(No. 1) General Application and Personnel Licensing] Regulations
 (g) maintenance procedures for airframes, systems and power
 plants of appropriate aircraft;
 (h) for helicopters and powered-lifts, transmission (power trains)
@@ -45,6 +45,7 @@ Navigation
 navigation aids and area navigation systems; specific navigation requirements for long-range flights;
 (s) use, limitation and serviceability of avionics and instruments
 necessary for the control and navigation of aircraft;
+Civil Aviation [(No. 1) General Application and Personnel Licensing] Regulations [Subsidiary]
 (t) use, accuracy and reliability of navigation systems used in
 departure, en route, approach and landing phases of flight, identification of radio navigation aids;
 (u) principles and characteristics of self-contained and external-
@@ -67,8 +68,8 @@ Radio-telephony
 taken in case of communication failure.
 PART B
 1. The applicant for an Airline Transport Pilot Licence shall have demonstrated-
-(a) the ability to perform, as pilot in command of an aircraft of
-the appropriate category required to be operated with a co-pilot, the following procedures and manoeuvres:
+(a) the ability to perform, as pilot in command of an aircraft
+of the appropriate category required to be operated with a co-pilot, the following procedures and manoeuvres:
 (i) pre-flight procedures, including the preparation of the
 operational flight plan and filing of the air traffic services flight plan;
 (ii) normal flight procedures and manoeuvres during all
@@ -76,9 +77,9 @@ phases of flight;
 (iii) abnormal and emergency procedures and manoeuvres
 related to failures and malfunctions of equipment, such as power plant, systems and airframe;
 (iiiA) for the issue of an aeroplane category Type Rating,
-upset prevention and recovery training;
-(iv) procedures for crew incapacitation and crew co-
-ordination, including allocation of pilot tasks, crew co-operation and use of checklists; and
+upset prevention and recovery training; [Subsidiary] Civil Aviation [(No. 1) General Application and Personnel Licensing] Regulations
+(iv) procedures for crew incapacitation and crew
+co- ordination, including allocation of pilot tasks, crew co-operation and use of checklists; and
 (v) in the case of aeroplanes and powered-lifts, procedures
 and manoeuvres for instrument flight described in regulation 60(1)(b)(vii), including simulated engine failure;
 (b) the ability to perform the procedures and manoeuvres
@@ -94,21 +95,24 @@ emergency procedures in all phases of flight;
 structured decision making and the maintenance of situational awareness; and
 (vi) communicate effectively with other flight crew
 members and demonstrate the ability to effectively perform procedures for crew, incapacitation, crew co-ordination, including allocation of pilot tasks, crew co-operation, adherence to standard operating procedures (SOPs) and use of checklists.
-2. In the case of aeroplanes, the applicant shall have demonstrated the ability to perform the procedures and manoeuvres specified in paragraph 1(a) as pilot in command in a multi-engine aeroplane.
+2. In the case of aeroplanes, the applicant shall have demonstrated the
+ability to perform the procedures and manoeuvres specified in paragraph 1(a) as pilot in command in a multi-engine aeroplane.
 PART C
 AERONAUTICAL EXPERIENCE REQUIREMENT FOR
 AIRLINE TRANSPORT PILOT LICENCE WITH AN
 AEROPLANE CATEGORY AND CLASS RATING
-1. The applicant for an Airline Transport Pilot Licence with an aeroplane category and class rating shall have no less than 1500 hours of total time as a pilot of aeroplanes that includes no less than-
+1. The applicant for an Airline Transport Pilot Licence with an aeroplane
+category and class rating shall have no less than 1,500 hours of total time as a pilot of aeroplanes that includes no less than-
 (a) 500 hours as pilot in command under supervision or 250
 hours, either as pilot in command or made up of not less than 70 hours as pilot in command and the necessary additional flight time as pilot in command under supervision;
+Civil Aviation [(No. 1) General Application and Personnel Licensing] Regulations [Subsidiary]
 (b) 200 hours of cross-country flight time, of which not less than
 100 hours shall be as pilot in command or as pilot in command under supervision;
 (c) 75 hours of instrument time, of which not more than
 30 hours may be instrument ground time; and
 (d) 100 hours of night flight as pilot in command or as co-pilot.
 2. Notwithstanding paragraph 1, a pilot who has performed at least twenty night take-offs and landings to a full stop, may substitute each additional night take-off and landing to a full stop, for 1 hour of night flight time to satisfy the requirements of clause 1(d), but not exceeding 25 hours of night flight time.
-3. Notwithstanding paragraph 1(a), an applicant for an Airline Transport Pilot Licence who holds a Commercial Pilot Licence, may credit the following acquired flight times toward the 1,500 hours of total time as a pilot required under pargraph 1:
+3. Notwithstanding paragraph 1(a), an applicant for an Airline Transport Pilot Licence who holds a Commercial Pilot Licence, may credit the following acquired flight times toward the 1,500 hours of total time as a pilot required under paragraph 1:
 (a) co-pilot time acquired in an aeroplane-
 (i) where it is required to have more than one pilot by the
 aeroplane flight manual or type certificate; or
@@ -127,7 +131,7 @@ Aeronautical experience requirement for Airline Transport Pilot Licence
 with a helicopter category and class rating
 4. The applicant for an Airline Transport Pilot Licence with a helicopter category and class rating shall have no less than 1,000 hours of total time as a pilot of helicopters that includes no less than-
 (a) 250 hours, either as pilot in command, or made up by not less
-than 70 hours as pilot in command and the necessary additional flight time as pilot in command under supervision;
+than 70 hours as pilot in command and the necessary additional flight time as pilot in command under supervision; [Subsidiary] Civil Aviation [(No. 1) General Application and Personnel Licensing] Regulations
 (b) 200 hours of cross-country flight time, of which not less than
 100 hours shall be as pilot in command or as pilot in command under supervision;
 (c) 30 hours of instrument time, of which not more than

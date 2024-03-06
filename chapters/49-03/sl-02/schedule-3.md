@@ -1,7 +1,8 @@
 # SCHEDULE 3
-Mass and balance documentation under regulation 100(6), shall be set out in the following manner:
-(a) mass and balance documentation shall contain the
-following information:
+Mass and balance documentation under regulation 100(6), shall be set out
+in the following manner:
+(a) mass and balance documentation shall contain the following
+information:
 (i) the aircraft registration and type;
 (ii) the flight identification number and date;
 (iii) the identity of the pilot in command;
@@ -24,4 +25,5 @@ the mass and balance documentation, this shall be brought to the attention of th
 computerised mass and balance system, the operator shall verify the integrity of the output data. He shall establish a system to check that amendments of his input data are incorporated properly in the system and that the system is operating correctly on a continuous basis by verifying the output data at intervals not exceeding six months; and
 (e) where an operator wishes to use an onboard mass and
 balance computer system as a primary source for dispatch, he shall obtain the approval of the Authority.
+[Subsidiary] Civil Aviation [(No. 2) Operations] Regulations
 - Margin: Regulation 100(6).

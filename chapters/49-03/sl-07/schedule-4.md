@@ -16,5 +16,5 @@ CATERING OPERATOR SECURITY PROGRAMME
 (j) airside premises; and
 (k) procedures for handling of stores or supplies that have been
 tampered with.
-4. In addition to paragraphs 1, 2 and 3 above, the Catering Operator's Security Programme must contain a declaration signed by the accountable manager, certifying the implementation of the security measures detailed in the programme. A sample declaration form is in the Annex to this Schedule.
+4. In addition to paragraphs 1, 2 and 3 above, the Catering Operator's Security Programme must contain a declaration signed by the accountable manager, certifying the implementation of the security measures detailed in the programme. A sample declaration form is in the Annex to this Schedule. [Subsidiary] Civil Aviation [(No. 8) Aviation Security] Regulations
 - Margin: Regulation 16(2). [408/2014].

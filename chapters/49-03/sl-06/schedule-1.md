@@ -1,5 +1,6 @@
 # SCHEDULE 1
-The following instruments and equipment shall be installed on an aircraft engaged in Category II operations in accordance with its aircraft group:
+The following instruments and equipment shall be installed on an aircraft
+engaged in Category II operations in accordance with its aircraft group:
 (a) Group I. Aircraft
 (i) two localiser and glide slope receiving systems in which-
 (A) each system shall provide a basic Instrument
@@ -15,6 +16,7 @@ visual indications of the outer and the middle markers;
 (vi) two airspeed indicators;
 (vii) two sensitive altimeters adjustable for barometric
 pressure, having markings at 20-foot intervals and each having a placarded correction for altimeter scale error and for the wheel height of the aircraft;
+Civil Aviation [(No. 7) Instruments and Equipment] Regulations [Subsidiary]
 (viii) two vertical speed indicators; and
 (ix) a flight control guidance system that consists of-
 (A) either an automatic approach coupler; or
@@ -38,6 +40,6 @@ adequate cockpit visibility for a safe visual transition by either pilot to touc
 installed or an equivalent means of preventing malfunctioning due to icing of the pitot system.
 For the purpose of Schedule 1-
 (a) "Group I" means propeller-driven aircraft; and
-(b) "Group II" means turbo-jet powered aircraft.
+(b) "Group II" means turbo-jet powered aircraft. [Subsidiary] Civil Aviation [(No. 7) Instruments and Equipment] Regulations
 - Margin: Regulation 12. [228/2005].
 - Margin: Note:
