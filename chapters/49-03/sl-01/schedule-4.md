@@ -25,8 +25,9 @@ and radio navigation aids, diversion procedures;
 including simulated aeroplane equipment malfunctions;
 (m) operations to, from and transiting controlled aerodromes,
 compliance with air traffic services procedures; and
-(n) communication procedures and phraseology.
-2. Helicopter The applicant shall have received dual instruction in helicopters from an authorised flight instructor. The instructor shall ensure that the applicant has operational experience in at least the following areas to the level of performance required for the commercial pilot:
+(n) communication procedures and phraseology. [Subsidiary] Civil Aviation [(No. 1) General Application and Personnel Licensing] Regulations
+2. Helicopter The applicant shall have received dual instruction in helicopters from an
+authorised flight instructor. The instructor shall ensure that the applicant has operational experience in at least the following areas to the level of performance required for the commercial pilot:
 (a) recognise and manage threats and errors;
 (b) pre-flight operations, including mass and balance
 determination, helicopter inspection and servicing;
@@ -50,7 +51,8 @@ helicopter equipment malfunctions, autorotative approach and landing;
 (l) operations to, from and transiting controlled aerodromes,
 compliance with air traffic services procedures; and
 (m) communication procedures and phraseology.
-3. Airship The applicant shall have received dual instruction in airships from an authorised flight instructor. The instructor shall ensure that the applicant has operational experience in at least the following areas to the level of performance required for the commercial pilot:
+3. Airship The applicant shall have received dual instruction in airships from an
+authorised flight instructor. The instructor shall ensure that the applicant has operational experience in at least the following areas to the level of performance required for the commercial pilot:
 (a) recognise and manage threats and errors;
 (b) pre-flight operations, including mass and balance
 determination, airship inspection and servicing;
@@ -59,7 +61,7 @@ precautions and procedures;
 (d) techniques and procedures for the take-off, including
 appropriate limitations, emergency procedures and signals used;
 (e) control of the airship by external visual reference;
-(f) recognition of leaks;
+(f) recognition of leaks; Civil Aviation [(No. 1) General Application and Personnel Licensing] Regulations [Subsidiary]
 (g) normal take-offs and landings;
 (h) maximum performance (short field and obstacle clearance)
 take-offs; short-field landings;
@@ -95,7 +97,7 @@ power plants; relevant operational information from the flight manual or other a
 (d) use and serviceability checks of equipment and systems of
 appropriate aircraft;
 (e) maintenance procedures for airframes, systems and power
-plants of appropriate aircraft;
+plants of appropriate aircraft; [Subsidiary] Civil Aviation [(No. 1) General Application and Personnel Licensing] Regulations
 (f) for helicopters and powered-lifts, transmission (power trains)
 where applicable;
 (g) for airships, physical properties and practical application of
@@ -125,6 +127,7 @@ instruments and navigation aids, an understanding of the principles and characte
 (q) in the case of airships-
 (i) use, limitation and serviceability of avionics and
 instruments necessary for control and navigation;
+Civil Aviation [(No. 1) General Application and Personnel Licensing] Regulations [Subsidiary]
 (ii) use, accuracy and reliability of navigation systems
 used in departure, en route, approach and landing phases of flight, identification of radio navigation aids;
 (iii) principles and characteristics of self-contained and
@@ -156,7 +159,7 @@ COMMERCIAL PILOT LICENCE
 determination, aeroplane inspection and servicing;
 (c) aerodrome and traffic pattern operations, collision avoidance
 precautions and procedures;
-(d) control of the aeroplane by external visual reference;
+(d) control of the aeroplane by external visual reference; [Subsidiary] Civil Aviation [(No. 1) General Application and Personnel Licensing] Regulations
 (e) flight at critically slow airspeeds; spin avoidance;
 recognition of, and recovery from, incipient and full stalls;
 (f) flight with asymmetrical power for multi-engine class or
@@ -175,7 +178,8 @@ including simulated aeroplane equipment malfunctions;
 (m) operations to, from and transiting controlled aerodromes,
 compliance with air traffic services procedures; and
 (n) communication procedures and phraseology.
-2. Helicopter The applicant shall have received dual instruction in helicopters from an authorised flight instructor. The instructor shall ensure that the applicant has operational experience in at least the following areas to the level of performance required for the commercial pilot:
+2. Helicopter The applicant shall have received dual instruction in helicopters from an
+authorised flight instructor. The instructor shall ensure that the applicant has operational experience in at least the following areas to the level of performance required for the commercial pilot:
 (a) recognise and manage threats and errors;
 (b) pre-flight operations, including mass and balance
 determination, helicopter inspection and servicing;
@@ -196,6 +200,7 @@ by reference solely to basic flight instruments;
 and radio navigation aids; diversion procedures;
 (k) abnormal and emergency procedures, including simulated
 helicopter equipment malfunctions, autorotative approach and landing;
+Civil Aviation [(No. 1) General Application and Personnel Licensing] Regulations [Subsidiary]
 (l) operations to, from and transiting controlled aerodromes,
 compliance with air traffic services procedures; and
 (m) communication procedures and phraseology.
@@ -224,11 +229,11 @@ compliance with air traffic services procedures; and
 PART E
 EXPERIENCE REQUIREMENTS FOR COMMERCIAL
 PILOT LICENCE
-1. Specific experience requirements for the issue of the aeroplane category rating:
+1. Specific experience requirements for the issue of the aeroplane category rating-
 (a) The applicant shall have completed not less than 200 hours
 of flight time, or 150 hours during a course of approved training, as a pilot of aeroplanes.
 (b) Credit shall be limited to a maximum of 10 hours for
-experience as a pilot under instruction in a flight simulation training device as part of the total flight time of 200 hours or 150 hours in paragraph (a) above, as the case may be.
+experience as a pilot under instruction in a flight simulation training device as part of the total flight time of 200 hours or 150 hours in paragraph (a) above, as the case may be. [Subsidiary] Civil Aviation [(No. 1) General Application and Personnel Licensing] Regulations
 (c) The applicant shall have completed in aeroplanes not less
 than-
 (i) 100 hours as pilot in command or, in the case of a course
@@ -241,7 +246,8 @@ more than 5 hours may be instrument ground time; and
 at night, 5 hours of night flight time including 5 take-offs and 5 landings as pilot in command.
 (d) Where the applicant has flight time as a pilot of aircraft in
 other categories, the Authority shall determine whether such experience is acceptable and, if so, the extent to which the flight time requirements for aeroplanes can be reduced.
-2. Specific experience requirements for the issue of the helicopter category rating:
+2. Specific experience requirements for the issue of the helicopter
+category rating-
 (a) The applicant shall have completed not less than 150 hours
 of flight time, or 100 hours if completed during a course of approved training, as a pilot of helicopters.
 (b) Credit shall be limited to a maximum of 10 hours for
@@ -255,8 +261,8 @@ more than 5 hours may be instrument ground time; and
 (iv) where the privileges of the licence are to be exercised
 at night, 5 hours of night flight time, including 5 take-offs and 5 landing patterns as pilot in command.
 (d) Where the applicant has flight time as a pilot of aircraft in
-other categories, the Authority shall determine whether such experience is acceptable and, if so, the extent to which the flight time requirements for helicopters can be reduced.
-3. Specific experience requirements for the issue of the airship category rating:
+other categories, the Authority shall determine whether such experience is acceptable and, if so, the extent to which the flight time requirements for helicopters can be reduced. Civil Aviation [(No. 1) General Application and Personnel Licensing] Regulations [Subsidiary]
+3. Specific experience requirements for the issue of the airship category rating-
 (a) the applicant shall have completed not less than 200 hours of
 flight time as a pilot.
 (b) the applicant shall have completed not less than-

@@ -1,14 +1,19 @@
 # SCHEDULE 3
 REGULATION AGENT SECURITY PROGRAMME
 (TEMPLATE)
-This Schedule is intended to assist regulated agents in developing a written security programme that details the measures to be implemented in the conduct of their business.
-The security programme should be classified as "RESTRICTED" and detail how the regulated agent intends to meet each of the requirements specified in the corresponding relevant chapters of the NCASP and the Trinidad and Tobago Civil Aviation [(No. 8) Aviation Security] Regulations.
-A regulated agent's security programme should, at a minimum, include the following topics:
+This Schedule is intended to assist regulated agents in developing a
+written security programme that details the measures to be implemented in the conduct of their business.
+The security programme should be classified as "RESTRICTED" and
+detail how the regulated agent intends to meet each of the requirements specified in the corresponding relevant chapters of the NCASP and the Trinidad and Tobago Civil Aviation [(No. 8) Aviation Security] Regulations.
+A regulated agent's security programme should, at a minimum, include
+the following topics:
 1. International obligations and organisations-
 (a) structure and roles of international and regional civil
 aviation organisations; and
 (b) purpose of the various Conventions, Annex 17 and
-regulations developed by regional organisations. 2. National obligations and organisations-
+regulations developed by regional organisations.
+Civil Aviation [(No. 8) Aviation Security] Regulations [Subsidiary]
+2. National obligations and organisations-
 (a) relevant appropriate authorities, including the appropriate
 authority responsible for aviation security;
 (b) NCASP;
@@ -42,7 +47,7 @@ handling and transport of cargo);
 (i) procedures for acceptance;
 (ii) measures for unsecure cargo;
 (iii) list of exemptions from security screening or
-physical examination;
+physical examination; [Subsidiary] Civil Aviation [(No. 8) Aviation Security] Regulations
 (iv) measures for special categories of cargo (e.g., live
 animals, unaccompanied baggage, transfer and transit cargo, human remains, and mail);
 (v) location of screening and physical examination;
@@ -78,6 +83,7 @@ including high-risk cargo;
 operations (including most appropriate method according to the nature of a consignment);
 (d) screening services provider or operator;
 (e) procedures for handling exemptions from screening;
+Civil Aviation [(No. 8) Aviation Security] Regulations [Subsidiary]
 (f) alternative security controls for air cargo and mail;
 (g) alarm resolution process and handling; and
 (h) screening equipment maintenance and testing programmes.
@@ -110,7 +116,8 @@ or checking duties;
 (ii) ground handling and other staff (security awareness
 training); and
 (iii) regulated agent security managers, supervisors and
-officers. 10. Contingency planning-
+officers. [Subsidiary] Civil Aviation [(No. 8) Aviation Security] Regulations
+10. Contingency planning-
 Plans and procedures to deal with the following contingencies:
 (i) bomb threat;
 (ii) discovery of a suspicious or prohibited item;
@@ -125,8 +132,7 @@ security measures; and
 (c) follow-up procedures and corrective action plans.
 12. Internal performance monitoring and quality control-
 (a) procedures for monitoring the implementation of security
-measures and for conducting quality control activities (in accordance with this programme and the national Civil
-Aviation Quality Control Programme); and
+measures and for conducting quality control activities (in accordance with this programme and the national Civil Aviation Quality Control Programme); and
 (b) resources for quality control activities.
 13. Escalation process.
 14. Annexes: include the following where applicable:
@@ -137,4 +143,5 @@ Aviation Quality Control Programme); and
 (e) list of key holders;
 (f) training records; and
 (g) useful contacts.
+Civil Aviation [(No. 8) Aviation Security] Regulations [Subsidiary]
 - Margin: Regulation 14. [408/2014].

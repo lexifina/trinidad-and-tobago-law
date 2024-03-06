@@ -21,7 +21,7 @@ and other performance data;
 operations under Visual Flight Rules; appropriate air traffic services procedures; altimeter setting procedures; operations in areas of high-density traffic;
 Human Performance
 (vii) human performance relevant to the glider pilot
-including principles of threat and error management;
+including principles of threat and error management; Civil Aviation [(No. 1) General Application and Personnel Licensing] Regulations [Subsidiary]
 Meteorology
 (viii) application of elementary aeronautical meteorology,
 use of, and procedures for obtaining meteorological information; altimetry;
@@ -49,7 +49,7 @@ inspection;
 (ii) techniques and procedures for the launching method
 used, including appropriate airspeed limitations, emergency procedures and signals used;
 (iii) traffic pattern operations, collision avoidance
-precautions and procedures;
+precautions and procedures; [Subsidiary] Civil Aviation [(No. 1) General Application and Personnel Licensing] Regulations
 (iv) control of the glider by external visual reference;
 (v) flight throughout the flight envelope;
 (vi) recognition of, and recovery from, incipient and full
@@ -69,6 +69,8 @@ as pilot in command of a glider, the procedures and manoeuvres described in subp
 (vi) maintain control of the glider at all times in a manner
 such that the successful outcome of a procedure or manoeuvre is assured; and
 (g) the applicant shall hold a current Class 2 Medical Assessment.
-2. (a) The privileges of the holder of a Glider Pilot Licence shall be to act as pilot in command of any glider, provided the licence holder has operational experience in the launching method used.
-(b) If passengers are to be carried, the holder of the Glider Pilot Licence shall have completed not less than 10 hours of flight time as a pilot of gliders.
+2. (a) The privileges of the holder of a Glider Pilot Licence shall
+be to act as pilot in command of any glider, provided the licence holder has operational experience in the launching method used.
+(b) If passengers are to be carried, the holder of the Glider Pilot
+Licence shall have completed not less than 10 hours of flight time as a pilot of gliders.
 - Margin: Regulation 57A. [45/2007].

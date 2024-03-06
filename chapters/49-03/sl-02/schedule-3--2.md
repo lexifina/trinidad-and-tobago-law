@@ -2,20 +2,22 @@
 PART A
 ORGANISATION AND CONTENTS OF AN OPERATIONS
 MANUAL FOR OPERATOR OF AN AEROPLANE
-An operator of an aeroplane shall ensure that his Operations Manual which may be issued in separate parts corresponding to specific aspects of the operations is organised in accordance with the structure and contents provided as follows:
-1. Structure:
+An operator of an aeroplane shall ensure that his Operations Manual which
+may be issued in separate parts corresponding to specific aspects of the operations is organised in accordance with the structure and contents provided as follows:
+1. Structure-
 (a) General;
 (b) Aircraft operating information;
 (c) Areas, routes and aerodromes; and
 (d) Training.
-2. The minimum contents of structure:
+2. The minimum contents of structure-
 (a) General-
 (i) instructions outlining the responsibilities of operations
 personnel pertaining to the conduct of flight operations;
 (ii) flight and duty time limitations and rest schemes for
 flight and cabin crew members;
 (iii) a list of the navigational equipment to be carried,
-including any requirements relating to operations in RNP airspace;
+including any requirements relating to operations in
+RNP airspace;
 (iv) where relevant to the operations, the long range
 navigation procedures, the engine failure procedure for ETOPS and the nomination and utilisation of diversion aerodromes;
 (v) the circumstances in which a radio listening watch is
@@ -24,7 +26,7 @@ to be maintained;
 (vii) the methods of determining aerodrome operating minimum;
 (viii) safety precautions during refuelling of an aircraft with
 passengers on board;
-(ix) ground handling arrangements and procedures;
+(ix) ground handling arrangements and procedures; Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations [Subsidiary]
 (x) procedures, as prescribed in Annex 12 to the
 Convention on International Civil Aviation, for pilots in command observing an accident;
 (xi) the flight crew for each type of operations including
@@ -60,7 +62,7 @@ non-precision instrument approach procedures;
 (xxix) allocation of flight crew duties and procedures for the
 management of crew workload during night and IMC instrument approach and landing operations;
 (xxx) instructions and training requirements for the avoidance
-of controlled flight into terrain and policy for the use of the ground proximity warning system (GPWS);
+of controlled flight into terrain and policy for the use of the ground proximity warning system (GPWS); [Subsidiary] Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations
 (xxxi) policy, instructions, procedures and training requirements
 for the avoidance of collisions and the use of the airborne collision avoidance system (ACAS);
 (xxxii) information and instructions relating to the interception
@@ -93,7 +95,7 @@ the EFB, as applicable;
 (ii) the normal, abnormal and emergency procedures to be
 used by the flight crew and the checklists relating thereto;
 (iii) operating instructions and information on climb
-performance with all engines operating if provided;
+performance with all engines operating if provided; Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations [Subsidiary]
 (iv) flight planning data for pre-flight and in-flight planning
 with different thrust/power and speed settings;
 (ivA) the maximum crosswind and tailwind components for
@@ -116,7 +118,7 @@ and the necessary procedures to verify its normal functioning before take-off, i
 as contained in Annex 12 to the Convention on International Civil Aviation;
 (c) Areas, routes and aerodromes-
 (i) a route guide to ensure that the flight crew will have,
-for each flight, information relating to communication facilities, navigation aids, aerodromes, instrument approaches, instrument arrivals and instrument
+for each flight, information relating to communication facilities, navigation aids, aerodromes, instrument approaches, instrument arrivals and instrument [Subsidiary] Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations
 departures as applicable for the operation, and such other information as the operator may deem necessary for the proper conduct of flight operations;
 (ii) the minimum flight altitudes for each route to be flown;
 (iii) aerodrome operating minima for each of the
@@ -141,18 +143,20 @@ minima for instrument approaches using head-up display and enhanced vision syste
 (i) details of the flight crew training programme;
 (ii) details of the cabin crew duties training programme; and
 (iii) details of the flight operations officer or flight
-dispatcher training programme when employed in conjunction with a method of flight supervision. Note: An Operational Manual may be issued in separate parts corresponding to the specific
+dispatcher training programme when employed in conjunction with a method of flight supervision.
+Note: An Operational Manual may be issued in separate parts corresponding to the specific
 aspects of operations, provided in accordance with regulation 34.
+Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations [Subsidiary]
 PART B
 ORGANISATION AND CONTENTS OF AN OPERATIONS
 MANUAL FOR OPERATOR OF A HELICOPTER
 An operator of a helicopter shall ensure that his Operations Manual which may be issued in separate parts corresponding to specific aspects of the operations is organised in accordance with the structure and contents provided as follows:
-1. Structure:
+1. Structure-
 (a) General;
 (b) Aircraft operating information;
 (c) Areas, routes and aerodromes; and
 (d) Training.
-2. The minimum contents of structure:
+2. The minimum contents of structure-
 (a) General-
 (i) instructions outlining the responsibilities of
 operations personnel pertaining to the conduct of flight operations;
@@ -173,7 +177,7 @@ Convention on International Civil Aviation for pilots in command observing an ac
 (x) the flight crew for each type of operation including the
 designation of the succession of command;
 (xi) specific instructions for the computation of the
-quantities of fuel and oil to be carried, taking into account all circumstances of the operation including the possibility of loss of pressurisation and the failure of an engine while en route;
+quantities of fuel and oil to be carried, taking into account all circumstances of the operation including the possibility of loss of pressurisation and the failure of an engine while en route; [Subsidiary] Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations
 (xii) the conditions under which oxygen shall be used and
 the procedure for determining the amount of oxygen to be carried;
 (xiii) instructions for mass and balance control;
@@ -201,18 +205,19 @@ interception of civil aircraft including-
 intercepted aircraft; and
 (B) visual signals for use by intercepting and
 intercepted aircraft,
-as required by the Civil Aviation [(No. 2) Operations] Regulations;
+as required by the Civil Aviation [(No. 2) Operations]
+Regulations;
 (xxvii) details of the safety management system provided in
 accordance with regulation 37A;
 (xxviii) information and instructions on the carriage of
 dangerous goods, including action to be taken in the event of an emergency;
 (xxix) security instructions and guidance;
 (xxx) the search procedure checklist;
+Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations [Subsidiary]
 (xxxi) instructions and training requirements for the use of
 head-up displays and enhanced vision systems, as applicable; and
 (xxxii) instructions and training requirements for the use of
-the EFB, as applicable;
-Note: Guidance material on the development of policies and procedures for dealing with
+the EFB, as applicable; Note: Guidance material on the development of policies and procedures for dealing with
 dangerous goods incidents on board aircraft is contained in Emergency Response Guidance for Aircraft Incidents involving Dangerous Goods (Doc 9481)
 (b) Aircraft operating information-
 (i) certification limitations and operating limitations;
@@ -239,7 +244,8 @@ as contained in Annex 12 to the Convention on
 International Civil Aviation;
 (c) Routes and aerodromes-
 (i) a route guide to ensure that the flight crew will have,
-for each flight, information relating to communication facilities, navigation aids, aerodromes, instrument approaches, instrument arrivals and instrument departures as applicable for the operation, and such other information as the operator may deem necessary for the proper conduct of flight operations;
+for each flight, information relating to communication facilities, navigation aids, aerodromes, instrument approaches, instrument arrivals and instrument departures as applicable for the operation, and such [Subsidiary] Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations
+other information as the operator may deem necessary for the proper conduct of flight operations;
 (ii) the minimum flight altitudes for each route to be
 flown;
 (iii) heliport operating minima for each of the heliports
@@ -256,5 +262,5 @@ requirements;
 and
 (iii) details of the flight operations officer or flight
 dispatcher training programme when employed in conjunction with a method of flight supervision.
-- Margin: Regulation 34(6)]. [303/2004 187/2006 47/2007 35/2009. 140/2011 174/2016].
+- Margin: Regulation 34(6)]. [303/2004 187/2006 47/2007 35/2009 140/2011 174/2016].
 - Margin: Sub. Leg.

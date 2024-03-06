@@ -19,7 +19,7 @@ error management;
 and information;
 (iii) origin and characteristics of weather phenomena
 affecting flight operations and safety; and
-(iv) altimetry;
+(iv) altimetry; [Subsidiary] Civil Aviation [(No. 1) General Application and Personnel Licensing] Regulations
 (f) navigation, which includes-
 (i) principles of air navigation; and
 (ii) principle, limitation and accuracy of navigation
@@ -50,6 +50,7 @@ An applicant for an Air Traffic Controller Licence and Rating under regulation 1
 (iv) air navigation facilities;
 (v) air traffic control equipment and its use;
 (vi) terrain and prominent landmarks;
+Civil Aviation [(No. 1) General Application and Personnel Licensing] Regulations [Subsidiary]
 (vii) characteristics of air traffic;
 (viii) weather phenomena; and
 (ix) emergency and search and rescue plans;
@@ -78,7 +79,7 @@ PART D
 An applicant for an Air Traffic Controller Licence and Rating under regulation 129 shall have met the following experience requirements in respect of the specific rating sought:
 (a) Aerodrome Control Rating-
 (i) satisfactorily completed an approved training
-course; and
+course; and [Subsidiary] Civil Aviation [(No. 1) General Application and Personnel Licensing] Regulations
 (ii) provided, satisfactorily, under the supervision of an
 appropriate rated Air Traffic Controller, within the previous six months, aerodrome control service, for a period of not less than 90 hours or one month, whichever is greater, at the unit for which the rating is sought or a minimum of 10 hours providing the service at an aerodrome within the control zone for which the licence holder already holds an approach rating;
 (b) Approach Control Procedural Rating, Approach Control
@@ -92,6 +93,7 @@ appropriate rated Air Traffic Controller, within the previous six months, the co
 appropriate rated Air Traffic Controller, within the previous six months, not less than 200 precision approaches of which not more than 100 shall have been carried out on a radar simulator approved for that purpose by the Authority and not less than 50 of those precision approaches shall have been carried out at the unit and on the equipment for which the rating is sought; and
 (d) where the privileges of the Approach Control Surveillance
 Rating in paragraph (b) include surveillance radar approach duties, the experience shall include not less than twenty-five plan position indicator approaches on the surveillance equipment of the type in use at the unit for which the rating is sought and under the supervision of an appropriately rated controller.
+Civil Aviation [(No. 1) General Application and Personnel Licensing] Regulations [Subsidiary]
 - Margin: Regulation 122. [179/2008 196/2009].
 - Margin: Regulation 123.
 - Margin: Regulation 129(1)(a). [179/2008].

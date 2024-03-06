@@ -18,7 +18,7 @@ operations; and
 (iii) take-off or landing or both;
 (d) obstacles the following:
 (i) those affecting take-off and landing performance
-computations;
+computations; [Subsidiary] Civil Aviation [(No. 3) Air Operator Certification and Administration] Regulations
 (ii) controlling obstacles;
 (iii) departure procedure;
 (iv) instruments flight procedures

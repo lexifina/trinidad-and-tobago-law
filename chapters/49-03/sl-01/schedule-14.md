@@ -1,10 +1,12 @@
 # SCHEDULE 14
 IMPLEMENTING STANDARDS
-The following standards are numbered to correspond numerically to the relevant provisions in the regulations:
+The following standards are numbered to correspond numerically to the
+relevant provisions in the regulations:
 Regulation 5
-An airman licence issued under these Regulations shall meet the following minimum standards:
+An airman licence issued under these Regulations shall meet the
+following minimum standards:
 (a) an airman licence shall be printed on first quality paper
-or other suitable material and the items mentioned in regulation 5(1)(c) shown clearly thereon;
+or other suitable material and the items mentioned in regulation 5(1)(c) shown clearly thereon; Civil Aviation [(No. 1) General Application and Personnel Licensing] Regulations [Subsidiary]
 (b) the following colours apply:
 (A) white for student pilot;
 (B) light brown for private pilot of an aeroplane;
@@ -29,10 +31,16 @@ Pilot's Licence;
 (ii) during Ramp Checks; and
 (iii) during flight Checks.
 Regulation 31
-Where the applicant has met the requirements pertinent to the operation of the radio-telephone on board an aircraft, the Director-General may recommend the Authority endorse the pilot licence for the operation of such radio-telephone. Regulation 33 The following procedures meet the minimum skill requirements for a Private Pilot Licence with a helicopter rating: Regulation 40
+Where the applicant has met the requirements pertinent to the operation of the radio-telephone on board an aircraft, the Director-General may recommend the Authority endorse the pilot licence for the operation of such radio-telephone. [Subsidiary] Civil Aviation [(No. 1) General Application and Personnel Licensing] Regulations
+Regulation 33 The following procedures meet the minimum skill requirements for a Private Pilot Licence with a helicopter rating: Civil Aviation [(No. 1) General Application and Personnel Licensing] Regulations [Subsidiary]
+Regulation 40
 Where the applicant has met the requirements pertinent to the operation of the radio-telephone on board an aircraft, the Director-General may recommend the Authority endorse the pilot licence for the operation of such radio-telephone.
-Regulation 42 The following procedures meet the minimum skill requirements for a Commercial Pilot Licence with a helicopter rating: Regulation 50
-Where the applicant has met the requirements pertinent to the operation of the radio-telephone on board an aircraft, the Director-General may recommend the Authority endorse the pilot licence for the operation of such radio-telephone. Regulation 58
+Regulation 42 The following procedures meet the minimum skill requirements for a Commercial Pilot Licence with a helicopter rating: [Subsidiary] Civil Aviation [(No. 1) General Application and Personnel Licensing] Regulations
+Regulation 50
+Where the applicant has met the requirements pertinent to the operation
+of the radio-telephone on board an aircraft, the Director-General may recommend the Authority endorse the pilot licence for the operation of such radio-telephone.
+Civil Aviation [(No. 1) General Application and Personnel Licensing] Regulations [Subsidiary]
+Regulation 58
 The following procedures meet the minimum skill requirements for a Type Rating for an Airline Transport Pilot Licence:
 (a) the symbols hereunder has the mean that follows:
 "P" = Trained as pilot in command or co-pilot and as
@@ -44,7 +52,7 @@ equipment level shown as (P), or may be conducted up to any higher equipment lev
 S = Flight Simulator
 TD = Flight Training Device TD = Other Training Devices
 (c) the starred items (*) shall be flown in actual or simulated
-Instrument Meterological Conditions.
+Instrument Meteorological Conditions.
 (d) where the letter "M" appears in the skill test/ proficiency
 check column this will indicate the mandatory exercise.
 (e) a flight simulator shall be used for practical training if the
@@ -57,8 +65,14 @@ provided on the course;
 (iv) the qualifications and previous line operating
 experience of the pilot under training; and
 (v) the amount of supervised line flying experience
-provided after the issue of the new Type Rating. Regulation 60
-The following procedures meet the minimum skill requirements for an Instrument Rating skill test for a helicopter: Regulation 100
+provided after the issue of the new Type Rating. [Subsidiary] Civil Aviation [(No. 1) General Application and Personnel Licensing] Regulations Civil Aviation [(No. 1) General Application and Personnel Licensing] Regulations [Subsidiary] [Subsidiary] Civil Aviation [(No. 1) General Application and Personnel Licensing] Regulations Civil Aviation [(No. 1) General Application and Personnel Licensing] Regulations [Subsidiary] [Subsidiary] Civil Aviation [(No. 1) General Application and Personnel Licensing] Regulations Civil Aviation [(No. 1) General Application and Personnel Licensing] Regulations [Subsidiary] [Subsidiary] Civil Aviation [(No. 1) General Application and Personnel Licensing] Regulations
+NOTE: CAT II/III operations shall be accomplished in accordance with Operational Rules.
+TEST AND Civil Aviation [(No. 1) General Application and Personnel Licensing] Regulations [Subsidiary]
+PARAGRAPH 3 [Subsidiary] Civil Aviation [(No. 1) General Application and Personnel Licensing] Regulations Civil Aviation [(No. 1) General Application and Personnel Licensing] Regulations [Subsidiary]
+Regulation 60
+The following procedures meet the minimum skill requirements for an Instrument Rating skill test for a helicopter: [Subsidiary] Civil Aviation [(No. 1) General Application and Personnel Licensing] Regulations
+Civil Aviation [(No. 1) General Application and Personnel Licensing] Regulations [Subsidiary]
+Regulation 100
 Where the applicant has met the requirements pertinent to the operation of the radio-telephone on board an aircraft, the Director-General may recommend the Authority endorse the airman licence for the operation of such radio-telephone.
 Regulations 107-109
 The following procedures meet the minimum training and skill test standards for an airman licence:
@@ -78,7 +92,7 @@ record that has been signed by an authorised instructor who certifies that the a
 sixty days preceding the date of application in preparation for the skill test;
 (B) is prepared for the required skill test; and
 (C) has demonstrated satisfactory knowledge of
-the subject areas in which the applicant was deficient on the airman knowledge test;
+the subject areas in which the applicant was deficient on the airman knowledge test; [Subsidiary] Civil Aviation [(No. 1) General Application and Personnel Licensing] Regulations
 (b) an applicant for an Airline Transport Pilot Licence or
 an additional rating to an airline transport licence may take the Skill test for that licence or rating with an expired knowledge test report, provided that the applicant is employed as a-
 (i) is employed as a flight crew member by a certificate
@@ -97,7 +111,7 @@ required test that-
 (A) is of the category, class, and type, if
 applicable, applicable to the licence or rating sought; and
 (B) has a current standard, limited, or primary
-airworthiness certificate;
+airworthiness certificate; Civil Aviation [(No. 1) General Application and Personnel Licensing] Regulations [Subsidiary]
 (ii) at the discretion of the Flight Test Examiner who
 administers the Skill test, the applicant may furnish-
 (A) an aircraft that has a current airworthiness
@@ -118,7 +132,7 @@ stations with adequate visibility for each person to operate the aircraft safely
 performance of the applicant when an additional jump seat is provided for the Flight Test Examiner.
 Required Controls
 (f) each applicant for a skill test shall use an aircraft (other
-than a lighter-than-air aircraft) that has engine power controls and flight controls that are easily reached and operable in a conventional manner by both pilots, unless the Flight Test Examiner determines that the skill test can be conducted safely in the aircraft without the controls being easily reached.
+than a lighter-than-air aircraft) that has engine power controls and flight controls that are easily reached and operable in a conventional manner by both pilots, unless the Flight Test Examiner determines that the skill test can be conducted safely in the aircraft without the controls being easily reached. [Subsidiary] Civil Aviation [(No. 1) General Application and Personnel Licensing] Regulations
 Simulated Instrument Flight Equipment
 (g) an applicant for a skill test that involves manoeuvring an
 aircraft solely by reference to instruments shall furnish-
@@ -137,11 +151,11 @@ Flight Test Examiner who is in a position to observe the applicant.
 Regulation 112 The following are the minimum standards for the recording and retention of flight training and aeronautical experience records:
 (a) for the purposes of meeting the requirements of regulation 112,
 each person shall enter the following information for each flight or lesson logged-
-(i) General:
+(i) General-
 (A) date;
 (B) total flight time;
 (C) location where the aircraft departed and
-arrived, or for lessons in an approved flight simulator or an approved flight training device, the location where the lesson occurred;
+arrived, or for lessons in an approved flight simulator or an approved flight training device, the location where the lesson occurred; Civil Aviation [(No. 1) General Application and Personnel Licensing] Regulations [Subsidiary]
 (D) type and identification of aircraft, approved
 flight simulator, or approved flight training device, as appropriate;
 (E) the name of a safety pilot, if required by the
@@ -171,12 +185,13 @@ as pilot in command of an airship requiring more than one flight crewmember, a p
 (i) a private or commercial pilot may log pilot in
 command time only for that flight time during which that person is-
 (A) the sole manipulator of the controls of an
-aircraft for which the pilot is rated;
+aircraft for which the pilot is rated; [Subsidiary] Civil Aviation [(No. 1) General Application and Personnel Licensing] Regulations
 (B) acting as pilot in command of an aircraft
 on which more than one pilot is required under the type certification of the aircraft or the regulations under which the flight is conducted; or
 (C) a sole occupant.
 (ii) an airline transport pilot may log as pilot in command
-time all of the flight time while acting as pilot in command of an operation requiring an Airline Transport Pilot Licence.
+time all of the flight time while acting as pilot in command of an operation requiring an Airline
+Transport Pilot Licence.
 (iii) an authorised instructor may log as pilot in command time
 all flight time while acting as an authorised instructor.
 (iv) a student pilot may log pilot in command time when
@@ -195,11 +210,12 @@ instrument rating (if an instrument rating is required for the flight) for the a
 (f) logging instrument flight time.
 (A) a person may log instrument flight time only
 for that flight time when the person operates
+Civil Aviation [(No. 1) General Application and Personnel Licensing] Regulations [Subsidiary]
 the aircraft solely by reference to instruments under actual or simulated instrument flight conditions; and
 (B) an authorised instructor may log instrument
 flight time when conducting instrument flight instruction in actual instrument flight conditions;
 (C) for the purposes of logging instrument flight
-time to meet the recent instrument experience requirements of the Act or Regulations made thereunder, the following information shall be recorded in a person's logbook-
+time to meet the recent instrument experience requirements of the Act or Regulations made thereunder, the following information shall be recorded in a person's logbook:
 (I) the location and type of
 each instrument approach accomplished; and
 (II) the name of the safety pilot,
@@ -215,10 +231,13 @@ authorised instructor; and
 (B) include a description of the training given,
 the length of the training lesson, and the instructor's signature, licence number, and licence expiration date.
 Regulation 122
-Where the applicant has met the requirements pertinent to the operation of the radio-telephone, the Director-General may recommend the Authority endorse the airman licence for the operation of such radio-telephone. Regulation 141
-Where the applicant has met the requirements pertinent to the operation of the radio-telephone, the Director-General may recommend that the Authority endorse the Flight Operations Officer Authorisation for the operation of such radio-telephone.
+Where the applicant has met the requirements pertinent to the operation of the radio-telephone, the Director-General may recommend the Authority endorse the airman licence for the operation of such radio-telephone. [Subsidiary] Civil Aviation [(No. 1) General Application and Personnel Licensing] Regulations
+Regulation 141
+Where the applicant has met the requirements pertinent to the operation of
+the radio-telephone, the Director-General may recommend that the Authority endorse the Flight Operations Officer Authorisation for the operation of such radio-telephone.
 Regulation 189A
-An applicant for a licence or the holder of a licence shall meet the language proficiency requirements as follows:
+An applicant for a licence or the holder of a licence shall meet the language
+proficiency requirements as follows:
 (a) to meet the language proficiency requirements under
 regulations 189A, an applicant for a licence or a holder of a licence shall-
 (i) demonstrate the characteristics of a proficient speaker
@@ -226,7 +245,7 @@ in a manner acceptable to the Authority;
 (ii) comply with the parameters set out in paragraph (b); and
 (iii) comply with the International Civil Aviation
 Organisation (ICAO) Language Proficiency Rating Scale Levels 4, 5 and 6 set out in the Table that follows clause (b) hereunder.
-(b) A person classified as a proficient speaker under paragraph(a)shall-
+(b) A person classified as a proficient speaker under paragraph (a) shall-
 (i) communicate effectively in voice-only in telephone or
 radio-telephone and in face-to-face situations;
 (ii) communicate on common, concrete and work-related
@@ -236,7 +255,7 @@ exchange messages and to recognise and resolve misunderstandings in a general or
 (iv) handle successfully and with relative ease the linguistic
 challenges presented by a complication or unexpected turn of events that occur within the context of a routine work situation or communicative task with which he is otherwise familiar; and
 (v) use a dialect or accent which is intelligible to the
-aeronautical community.
+aeronautical community. Civil Aviation [(No. 1) General Application and Personnel Licensing] Regulations [Subsidiary]
 TABLE A
 ICAO LANGUAGE PROFICIENCY RATING SCALE
 LEVELS 1, 2 AND 3
@@ -244,38 +263,39 @@ Proficiency Level 1 Level 2 Level 3
 Parameters Preliminary Elementary Pre-Operational Pronunciation … Performs at a Pronunciation, Pronunciation,
 level below the stress, rhythm and stress, rhythm and elementary level. intonation are intonation are
 heavily influenced influenced by the by the first language first language or or regional variation regional variation and usually and frequently interfere with interfere with ease ease of of understanding. understanding.
-Structure … … Performs at a Shows only limited Basic grammatical
+Structure … Performs at a Shows only limited Basic grammatical
 level below the control of a few structures and elementary level. simple memorised sentence patterns
 g r a m m a t i c a l associated with structure and predictable situations sentence patterns. are not always well
 controlled. Errors frequently interfere with meaning.
 Limited vocabulary Vocabulary … Performs at a Vocabulary range range consisting level below the and accuracy are only of isolated elementary level. often sufficient to words and communicate on memorised phrases. common, concrete,
-or work-related topics, but range is limited and the word choice is often inappropriate. Is often unable to p a r a p h r a s e successfully when lacking vocabulary.
+or work-related topics, but range is limited and the word choice is often inappropriate. Is often unable to p a r a p h r a s e successfully when lacking vocabulary. [Subsidiary] Civil Aviation [(No. 1) General Application and Personnel Licensing] Regulations
 ICAO LANGUAGE PROFICIENCY RATING SCALE
 LEVELS 1, 2 AND 3-Continued
-Proficiency Level 1 Level 2 Level 3
-Parameters Preliminary Elementary Pre-Operational Fluency … … Performs at a Can produce very Produces stretches
+Proficiency Level 1 Level 2 Level 3 Parameters Preliminary Elementary Pre-Operational
+Fluency … Performs at a Can produce very Produces stretches
 level below the short, isolated, of language, but elementary level. memorised utter- phrasing and
-ances with frequent pausing are often pausing and a i n a p p r o p r i a t e . distracting use of Hesitations of fillers to search slowness in for expressions and language processing to articulate less may prevent familiar words. e f f e c t i v e
-communications. Fillers are s o m e t i m e s distracting.
+ances with frequent pausing are often pausing and a inappropriate. Hesi-distracting use of tations of slowness fillers to search in language for expressions and processing may to articulate less prevent effective familiar words. communications.
+Fillers are sometimes dis-tracting.
 Comprehension Performs at a Comprehension is Comprehension is
 level below the limited to isolated, often accurate on elementary level. memorised phrases common, concrete,
 when they are and work-related carefully and topics when the slowly articulated. accent or variety
 used is sufficiently intelligible for an i n t e r n a t i o n a l community of users. May fail to understand a linguistic or s i t u a t i o n a l complication or an unexpected turn of events.
+Civil Aviation [(No. 1) General Application and Personnel Licensing] Regulations [Subsidiary]
 TABLE A-Continued
 ICAO LANGUAGE PROFICIENCY RATING SCALE
 LEVELS 1, 2 AND 3
 Proficiency Level 1 Level 2 Level 3
-Parameters Preliminary Elementary Pre-Operational Interaction … Performs at a Response time is Responses are
-level below the slow and often s o m e t i m e s elementary level. inappropriate. i m m e d i a t e ,
-Interaction is appropriate, and limited to simple informative. Can routine exchanges. initiate and maintain
-exchanges with resonable ease on familiar topics and in predictable s i t u a t i o n . G e n e r a l l y inadequate when dealing with an unexpected turn of events.
+Parameters Preliminary Elementary Pre-Operational
+Interaction … Performs at a Response time is Responses are
+level below the slow and often sometimes im-elementary level. inappropriate. Inter- mediate appropriate,
+action is limited to and informative. simple routine Can initiate and exchanges. maintain exchanges
+with reasonable ease on familiar topics and in predictable situation. Generally inadequate when dealing with an unexpected turn of events.
 Note: Levels 1, 2 and 3 describe language proficiency levels which are below the ICAO language
-proficiency requirements for aeronautical radio-telephony communication.
+proficiency requirements for aeronautical radio-telephony communication. [Subsidiary] Civil Aviation [(No. 1) General Application and Personnel Licensing] Regulations
 TABLE B
 ICAO LANGUAGE PROFICIENCY RATING SCALE
 LEVELS 4, 5 AND 6
-Proficiency Level 4 Level 5 Level 6
-Parameters Operational Extended Expert
+Proficiency Level 4 Level 5 Level 6 Parameters Operational Extended Expert
 Pronunciation … Pronunciation, Pronunciation, Pronunciation,
 stress, rhythm, stress, rhythm, and stress, rhythm, and and intonation are intonation, though
 intonation, though
@@ -288,59 +308,62 @@ regional variation,
 but only sometimes almost never
 rarely interfere
 interfere with ease interfere with ease
-with ease of of understanding. of understanding. understanding. Basic grammatical Both basic and Structure … Basic grammatical structures and complex grammatical
-structures and
-sentence patterns structures and
-sentence patterns
-are consistently sentence patterns
+with ease of of understanding. of understanding. understanding.
+Structure … Basic grammatical Basic grammatical Both basic and
+structures and complex grammatical structures and sentence patterns structures and sentence patterns are consistently sentence patterns
 are used creatively
 well-controlled. are consistently
 and are usually
 Complex structures well controlled.
 well-controlled.
 are attempted but
-Errors may occur with errors which
-particularly in sometimes interfere unusual or with meaning. u n e x p e c t e d circumstances, but rarely interfere with meaning. Vocabulary … Vocabulary range Vocabulary range Vocabulary range
-and accuracy are and accuracy are and accuracy are usually sufficient sufficient to sufficient to to communicate c o m m u n i c a t e c o m m u n i c a t e effectively on effectively on effectively on a c o m m o n , common, concrete, wide variety of concrete, and and work-related familiar and w o r k - r e l a t e d topics. Paraphrases unfamiliar topics. topics. Can often consistently and Vocabulary is p a r a p h r a s e s u c c e s s f u l l y.
-i d i o m a t i c ,
-successfully when Vocabulary is
-nuanced, and
-lacking vocabulary s o m e t i m e s
-sensitive to registers.
-in unusual or
-idiomatic.
-u n e x p e c t e d circumstances.
+Errors may occur
+with errors which
+particularly in
+sometimes interfere
+unusual or with meaning. u n e x p e c t e d circumstances, but rarely interfere with meaning.
+Vocabulary … Vocabulary range Vocabulary range Vocabulary range
+and accuracy are and accuracy are and accuracy are usually sufficient sufficient to com- sufficient to to communicate municate effect- c o m m u n i c a t e effectively on ively on common, effectively on a common, concrete, concrete, and wide variety of and work-related w o r k - r e l a t e d familiar and topics. Can often topics. Paraphrases unfamiliar topics. paraphrase success- consistently and Vocabulary is fully when lacking s u c c e s s f u l l y.
+idiomatic, nuanced,
+vocabulary in Vocabulary is
+and sensitive to
+unusual or sometimes idio-
+registers.
+unexpected cir-
+matic.
+cumstances. Civil Aviation [(No. 1) General Application and Personnel Licensing] Regulations [Subsidiary]
 TABLE B-Continued
 ICAO LANGUAGE PROFICIENCY RATING SCALE
 LEVELS 4, 5 AND 6
 Proficiency Level 4 Level 5 Level 6
-Parameters Operational Extended Expert
-Fluency … … Produces stretches Able to speak at Able to speak at
-of language at an length with relative length with a natural appropriate tempo. ease on familiar effortless flow. There may be topics but may not Varies speech flow occasional loss of vary speech flow for stylistic effect, fluency on transition as a stylistic e.g., to emphasise from rehearsed or device. Can make a point. Uses formulaic speech use of appropriate a p p r o p r i a t e to spontaneous discourse markers discourse markers interaction, but or connectors. and connectors this does not spontaneously. prevent effective communication. Can make limited use of discourse markers or connectors. Fillers are not distracting.
+Parameters Operational Extended Expert Fluency … Produces stretches Able to speak at Able to speak at
+of language at an length with relative length with a natural appropriate tempo. ease on familiar effortless flow. There may be topics but may not Varies speech flow occasional loss of vary speech flow for stylistic effect, fluency on transition as a stylistic e.g., to emphasise from rehearsed or device. Can make a point. Uses formulaic speech use of appropriate appropriate dis-to spontaneous discourse markers course markers interaction, but or connectors. and connectors this does not spontaneously. prevent effective communication. Can make limited use of discourse markers or connectors. Fillers are not distracting.
 Comprehension Comprehension is Comprehension is Comprehension is
-mostly accurate on accurate on c o n s i s t e n t l y common, concrete, c o m m o n , accurate in nearly and work-related concrete, and all contexts and topics when the w o r k - r e l a t e d i n c l u d e s accent or variety topics and mostly comprehension of used is sufficiently accurate when the linguistic and intelligible for an speaker is cultural subtleties. i n t e r n a t i o n a l confronted with a community of users. linguistic or
-When the speaker s i t u a t i o n a l
-is confronted with complication or a linguistic or an unexpected turn s i t u a t i o n a l of event. Is able to complication or comprehend a range an unexpected of speech varieties turn of events, (dialect and/or comprehension accents) or registers. may be slower or r e q u i r e c l a r i f i c a t i o n strategies.
+mostly accurate on accurate on consistently accu-common, concrete, common, concrete, rate in nearly all and work-related and work-related contexts and topics when the topics and mostly includes compre-accent or variety accurate when the hension of linguistic used is sufficiently speaker is and cultural intelligible for an confronted with a subtleties. international com- linguistic or munity of users. s i t u a t i o n a l
+When the speaker complication or
+is confronted with an unexpected turn a linguistic or of event. Is able to situational compli- comprehend a range cation or an of speech varieties unexpected turn (dialect and/or of events, accents) or registers. comprehension may be slower or require clarifi-cation strategies. [Subsidiary] Civil Aviation [(No. 1) General Application and Personnel Licensing] Regulations
 ICAO LANGUAGE PROFICIENCY RATING SCALE
 LEVELS 4, 5 AND 6
 Proficiency Level 4 Level 5 Level 6
 Parameters Operational Extended Expert
-Interaction … Responses are Responses are Interacts with
-usually immediate, i m m e d i a t e , ease in nearly all appropriate and
+Interaction … Responses are Interacts with Responses are
+u s u a l l y i m m e d i a t e , ease in nearly all i m m e d i a t e ,
 appropriate and situations. Is
-i n f o r m a t i v e .
+appropriate and
 i n f o r m a t i v e . sensitive to
-Initiates and
-M a n a g e s t h e verbal and non-
-m a i n t a i n s
+informative. Initia-
+Manages the verbal and non-
+tes and maintains
 speaker/listener verbal cues and
 exchanges even
-r e l a t i o n s h i p responds to them when dealing with
-an unexpected turn effectively. appropriately. of events. Deals adequately with a p p a r e n t misunderstanding by checking, confirming, or clarifying.
+relationship ef- responds to them when dealing with
+an unexpected fectively. appropriately. turn of events. Deals adequately with apparent mis-understanding by checking, con-firming, or clarifying.
 Note: Levels 4, 5 and 6 describe language proficiency levels that meet the ICAO language
 proficiency requirements for aeronautical radio-telephony communication with Level 4 being rating acceptable for aeronautical radio-telephony communication.
 Regulation 194(2)
-The British Civil Airworthiness Requirements, CAP 468 Section L, Issue 13 and Airworthiness Notice No. 10, Issue 17 meet the minimum International Civil Aviation Organisation requirements for giving effect to the Chicago Convention in respect of minimum standards relating to the issue of Aircraft Maintenance Engineer Licences and Ratings. Until such time as Part IX of these Regulations comes into effect, Operators may be guided by the British Civil Airworthiness Requirements, CAP 468 Section L, Issue 13 and Airworthiness Notice No. 10, Issue 17 for the issue of Aircraft Maintenance Engineer Licences and Ratings.
+The British Civil Airworthiness Requirements, CAP 468 Section L,
+Issue 13 and Airworthiness Notice No. 10, Issue 17 meet the minimum International Civil Aviation Organisation requirements for giving effect to the Chicago Convention in respect of minimum standards relating to the issue of Aircraft Maintenance Engineer Licences and Ratings. Until such time as Part IX of these Regulations comes into effect, Operators may be guided by the British Civil Airworthiness Requirements, CAP 468 Section L, Issue 13 and Airworthiness Notice No. 10, Issue 17 for the issue of Aircraft Maintenance Engineer Licences and Ratings.
+[Subsidiary]
 CIVIL AVIATION [(NO. 2) OPERATIONS]
 REGULATIONS
 ARRANGEMENT OF REGULATIONS
@@ -356,7 +379,9 @@ GENERAL OPERATIONS REQUIREMENTS
 PART IA
 SAFE TRANSPORT OF DANGEROUS GOODS BY AIR 11A. Definitions. 11B. General applicability. 11C. Provision of information to ICAO. 11D. Exemption and exception from the Technical Instructions. 11E. Application by an operator to transport dangerous goods by air. 11F. Operator's responsibilities for safe transport of dangerous goods
 by air.
-11G. Limitation on the transport of dangerous goods by air. 11H. Classification, packing, labelling and marking of dangerous goods. 11I. Application by a shipper for transport of dangerous goods by air. 11J. Shipper's responsibilities for safe transport of dangerous goods by air. REGULATION
+11G. Limitation on the transport of dangerous goods by air. 11H. Classification, packing, labelling and marking of dangerous goods. 11I. Application by a shipper for transport of dangerous goods by air. 11J. Shipper's responsibilities for safe transport of dangerous goods by air. [Subsidiary] Civil Aviation [(No. 2) Operations] Regulations
+ARRANGEMENT OF REGULATIONS-Continued
+REGULATION
 11K. Application by a designated postal operator for the safe transport of
 dangerous goods by air.
 11L. Designated postal operator's responsibilities for safe transport of
@@ -364,14 +389,14 @@ dangerous goods by air.
 11M. Information to pilot in command. 11N. Information and instructions to flight crew members. 11O. Information to passengers. 11P. Information to other persons. 11Q. Information from pilot in command to aerodrome authorities. 11R. Information in the event of an aircraft accident, serious aircraft
 incident or aircraft incident.
 11S. Dangerous goods training programmes. 11T. Dangerous goods accident and incident reporting. 11U. Dangerous goods security provisions. 11V. Operators with no operational approval to transport dangerous goods
-}
 as cargo.
 11W. Operators transporting dangerous goods as cargo. 11X. Provision of operational approval and limitation information.
+}
 12. to (Repealed by LN 173/2016). 25.
 PART II
 AIRCRAFT MAINTENANCE REQUIREMENTS
 26. Applicability of Part II. 27. General requirements in respect of aircraft. 28. Requirements of operator in respect of aircraft. 29. Requirements for inspection of aircraft. 30. Required changes to aircraft inspection programmes. 31. Owner, lessee or operator to keep maintenance records. 32. Owner, lessee or operator to retain maintenance records. 33. Procedure on transfer of maintenance records.
-ARRANGEMENT OF REGULATIONS-Continued
+[Subsidiary] Civil Aviation [(No. 2) Operations] Regulations
 REGULATION
 PART III
 FLIGHT CREW REQUIREMENTS
@@ -382,9 +407,10 @@ Meteorological Conditions.
 43. Recency take-off and landings requirements for co-pilot. 44. Required proficiency for general aviation pilots. 45. Pilot privileges and limitations.
 PART IV
 CREW MEMBER DUTIES AND RESPONSIBILITIES
-46. Crew responsibilities. 47. Powers of the pilot in command. 48. Compliance with local regulations. 49. Prohibition on the negligent or reckless operations of aircraft. 50. Fitness of flight crew. 51. Crew member use of seat belt and shoulder harness. 52. Requirements of flight crew at duty stations. 53. Flight crew emergency duties. 54. Required crew equipment. 55. Requirement to comply with approved checklist procedures. 56. Requirement to have search and rescue information on board aircraft. 57. Production of aircraft and flight documentation. REGULATION
-58. Requirements for cockpit compartment security for commercial air
-transport operations.
+46. Crew responsibilities. 47. Powers of the pilot in command. 48. Compliance with local regulations. 49. Prohibition on the negligent or reckless operations of aircraft. 50. Fitness of flight crew. 51. Crew member use of seat belt and shoulder harness. 52. Requirements of flight crew at duty stations. 53. Flight crew emergency duties. 54. Required crew equipment. 55. Requirement to comply with approved checklist procedures. 56. Requirement to have search and rescue information on board aircraft. 57. Production of aircraft and flight documentation. 58. Requirements for cockpit compartment security for commercial air
+transport operations. [Subsidiary] Civil Aviation [(No. 2) Operations] Regulations
+ARRANGEMENT OF REGULATIONS-Continued
+REGULATION
 59. Admission to the cockpit in commercial air transport operations. 60. Admission of Inspector to the cockpit. 61. Requirement for in-flight fuel management. 62. Duties of flight crew during critical phases of flight. 63. Restriction on manipulation of the controls in commercial air
 transport operations.
 64. Simulated abnormal situations in flight for commercial air
@@ -393,7 +419,9 @@ transport operations.
 operations.
 66. Reporting mechanical irregularities. 67. General reporting procedures for occurrences. 68. Reporting procedures for accidents and serious incidents. 69. Reporting procedures for Air Traffic incidents. 70. Procedures for reporting Airborne Collision Avoidance System Advisory. 71. Procedures for reporting bird hazards and strikes. 72. Procedures for reporting in-flight emergency.
 72A. General Declaration requirements. 72B. Suspected communicable disease reporting.
-73. Procedures for reporting unlawful interference. 74. Procedures for reporting potentially hazardous conditions. 75. Operation of cockpit voice and flight data recorder. 76. Requirements for minimum supply and use of oxygen.
+73. Procedures for reporting unlawful interference. 74. Procedures for reporting potentially hazardous conditions.
+74A. Duty to report runway braking action.
+75. Operation of cockpit voice and flight data recorder. 76. Requirements for minimum supply and use of oxygen.
 76A. Electronic flight bag.
 77. Restrictions on use of portable electronic devices.
 PART V
@@ -401,9 +429,9 @@ FLIGHT PLANNING AND SUPERVISION
 78. Submission of flight plan. 79. Air traffic control flight plan for commercial air transport
 operations.
 80. Contents of a flight plan.
-ARRANGEMENT OF REGULATIONS-Continued
+[Subsidiary] Civil Aviation [(No. 2) Operations] Regulations
 REGULATION
-81. Requirements for planned re-clearance. 82. Procedures where there are changes to a flight plan. 83. Procedures for closing a flight plan. 84. Requirements for aircraft airworthiness and safety precautions. 85. Requirement for adequacy of operating facilities. 86. Pilot in command to be familiar with meteorological information. 87. Weather limitations for Visual Flight Rules flights. 88. Instrument Flight Rules, destination aerodrome requirements. 89. Instrument Flight Rules destination alternate requirements. 90. Instrument Flight Rules, alternate aerodome selection criteria. 91. Reqirements for off-shore alternates for helicopter operations. 92. Take-off alternate aerodromes for commercial air transport
+81. Requirements for planned re-clearance. 82. Procedures where there are changes to a flight plan. 83. Procedures for closing a flight plan. 84. Requirements for aircraft airworthiness and safety precautions. 85. Requirement for adequacy of operating facilities. 86. Pilot in command to be familiar with meteorological information. 87. Weather limitations for Visual Flight Rules flights. 88. Instrument Flight Rules, destination aerodrome requirements. 89. Instrument Flight Rules destination alternate requirements. 90. Instrument Flight Rules, alternate aerodrome selection criteria. 91. Requirements for off-shore alternates for helicopter operations. 92. Take-off alternate aerodromes for commercial air transport
 operations.
 93. Maximum distance from an adequate aerodrome for two-engine
 aeroplanes without an extended range operations approval.
@@ -416,13 +444,16 @@ operations.
 103. Requirements for operational flight plan for commercial air
 transport operations.
 104. Requirement to keep records of emergency and survival equipment
-for commercial air transport operations. REGULATION
+for commercial air transport operations. [Subsidiary] Civil Aviation [(No. 2) Operations] Regulations
+ARRANGEMENT OF REGULATIONS-Continued
+REGULATION
 PART VI
 AIRCRAFT OPERATING AND PERFORMANCE
 LIMITATIONS
 105. Applicability. 106. General requirements for aircraft operations. 107. Aircraft performance calculations. 108. General weight and obstruction clearance limitations. 109. Applicability of regulations 110 to 118. 110. General requirements for aircraft performance in commercial
 air transport.
-111. Prohibitions on the use of single-engine aircraft. 112. Required mass limitations for aeroplanes. 113. Aircraft performance calculations. 114. Commercial air transport operations take-off limitations. 115. En route limitations with all engines operating. 116. En route limitations where one engine is inoperative. 117. En route limitations where two engines of an aeroplance are inoperative. 118. Aircraft landing limitations. 118A. Additional requirements for operations of a single-engine turbined-
+111. Prohibitions on the use of single-engine aircraft. 112. Required mass limitations for aeroplanes. 113. Aircraft performance calculations. 114. Commercial air transport operations take-off limitations. 115. En route limitations with all engines operating. 116. En route limitations where one engine is inoperative. 117. En route limitations where two engines of an aeroplane are inoperative. 118. Aircraft landing limitations.
+118A. Additional requirements for operations of a single-engine turbine-
 powered aircraft, etc.
 118B. Additional requirements for operations of helicopters in performance
 Class 3 in Instrument Meteorological Conditions, except special Visual Flight Rules flight.
@@ -430,52 +461,47 @@ PART VII
 FLIGHT RULES
 119. Applicability. 120. General flight rules requirements. 121. Restrictions on the operation of aircraft on the ground. 122. Required take-off conditions. 123. Requirements and restrictions where flight into known or
 expected icing.
-124. Cruising levels with altimeter settings. 125. General minimum safe altitudes.
+[Subsidiary] Civil Aviation [(No. 2) Operations] Regulations
+REGULATION
+124. Cruising levels with altimeter settings. 125. General minimum safe altitudes. 126. Minimum safe Visual Flight Rules Altitudes for commercial air
+transport operations.
+127. Aerodrome operating minima. 128. Required threshold crossing height for 3D Instrument approach operations. 129. Instrument approach operating minima requirements. 130. General operating rules for Category II and Category III operations. 131. Requirements for Category II and Category III manual. 132. Procedures to be followed where a diversion decision is to be made. 133. Procedures to be used for formation flight. 134. General right-of-way rules. 135. Right-of-way Rules for water operations. 136. Requirements for the use of aircraft lights. 137. Requirements for simulated instrument flight. 138. Requirements for in-flight simulation of abnormal situations. 139. Restrictions on dropping, spraying and towing. 140. Restrictions on aerobatic flight. 141. Restrictions on where flight test is conducted. 142. Restrictions on the use of an aircraft in a prohibited or restricted area. 143. Restrictions on operations in Minimum Navigation Performance
+Specification or Reduced Vertical Separation Minimum.
+143A. Approved operation in vertical separation minimum airspace.
+144. Requirements where operations are conducted on or in the vicinity
+of an uncontrolled aerodrome.
+145. Required altitudes for turbojet, turbofan or large aircraft on entering
+aerodrome traffic pattern.
+146. Compliance with visual and electronic glide slopes. 147. Restriction or suspension of operations for commercial air
+transport operations. [Subsidiary] Civil Aviation [(No. 2) Operations] Regulations
 ARRANGEMENT OF REGULATIONS-Continued
 REGULATION
-126. Minimum safe Visual Flight Rules Altitudes for commercial air
-transport operations.
-127. Aerodrome operating minima. 128. Required threshold crossing height for precision approaches. 129. Instrument approach operating minima requirements. 130. General operating rules for Category II and Category III
-operations.
-131. Requirements for Category II and Category III manual. 132. Procedures to be followed where a diversion decision is to be
-made.
-133. Procedures to be used for formation flight. 134. General right-of-way rules. 135. Right-of-way Rules for water operations. 136. Requirements for the use of aircraft lights. 137. Requirements for simulated instrument flight. 138. Requirements for in-flight simulation of abnormal situations. 139. Restrictions on dropping, spraying and towing. 140. Restrictions on aerobatic flight. 141. Restrictions on where flight test is conducted. 142. Restrictions on the use of an aircraft in a prohibited or
-restricted area.
-143. Restrictions on operations in Minimum Navigation Performance
-Specification or Reduced Vertical Separation Minimum. 143A. Approved operation in vertical separation minimum airspace.
-144. Requirements where operations are conducted on or in the
-vicinity of an uncontrolled aerodrome.
-145. Required altitudes for turbojet, turbofan or large aircraft on
-entering aerodrome traffic pattern.
-146. Compliance with visual and electronic glide slopes. 147. Restriction or suspension of operations for commercial air
-transport operations. REGULATION
-148. Continuation of flight in commercial air transport when
-destination aerodrome is temporarily restricted.
-149. Requirements where interception occurs. 150. Requirements for Air Traffic Control clearances. 151. Requirement to adhere to Air Traffic Control clearances. 152. Communication requirements. 153. Pilot in command to fly along assigned route. 154. Procedures where inadvertent changes occur. 155. Procedures where there are intended changes for Air Traffic
+148. Continuation of flight in commercial air transport when destination
+aerodrome is temporarily restricted.
+149. Requirements where interception occurs. 150. Requirements for Air Traffic Control clearances. 151. Requirement to adhere to Air Traffic Control clearances.
+151A. Adherence to flight plan.
+152. Communication requirements. 153. Pilot in command to fly along assigned route. 154. Deviation from current flight plan. 155. Procedures where there are change requests for Air Traffic
 Control clearance.
-156. Requirements for position reports. 157. Procedures where operations are conducted on or in the
-vicinity of a controlled aerodrome.
-158. Procedures where there has been unlawful interference on
-board an aircraft.
-159. Time check requirements. 160. Universal signals requirements. 160A. Technical and servicing communication signals.
-161. Visual Flight Rules and navigation requirements. 162. Restrictions on operations under Visual Meteorological
-conditions.
-163. Visual Flight Rules weather minimums for take-off and landing. 164. Special Visual Flight Rules Operations. 165. Visual Flight Rules Cruising Altitudes. 166. Requirement to comply with Air Traffic Control clearances for
+156. Requirements for position reports. 157. Procedures where operations are conducted on or in the vicinity of
+a controlled aerodrome.
+158. Procedures where there has been unlawful interference on board
+an aircraft.
+159. Time check requirements. 160. Universal signals requirements.
+160A. Technical and servicing communication signals. 160B. Locating aeroplane in distress.
+161. Visual Flight Rules and navigation requirements. 162. Restrictions on operations under Visual Meteorological conditions. 163. Visual Flight Rules weather minimums for take-off and landing. 164. Special Visual Flight Rules Operations. 165. Visual Flight Rules Cruising Altitudes. 166. Requirement to comply with Air Traffic Control clearances for
 Visual Flight Rules flights.
-167. Requirement to have Air Traffic Control Authorisation for
-Visual Flight Rules flights.
+167. Requirement to have Air Traffic Control Authorisation for Visual
+Flight Rules flights.
+[Subsidiary] Civil Aviation [(No. 2) Operations] Regulations
+REGULATION
 168. Procedure where there is weather deterioration below Visual
 Meteorological Conditions.
-169. Changing from Visual Flight Rules to Instrument Flight Rules. 170. Two-way radio communication failure in Visual Flight Rules. 171. Restrictions on Instrument Flight Rules flights in controlled
-airspace.
-ARRANGEMENT OF REGULATIONS-Continued
-REGULATION
-172. Procedures for Instrument Flight Rules flights outside
+169. Changing from Visual Flight Rules to Instrument Flight Rules. 170. Two-way radio communication failure in Visual Flight Rules. 171. Restrictions on Instrument Flight Rules flights in controlled airspace. 172. Procedures for Instrument Flight Rules flights outside
 controlled airspace.
 173. Procedures for Instrument Flight Rules take-off minima for
 commercial air transport.
-174. Restrictions on take-off or landing under Instrument Flight
-Rules Operations.
+174. Restrictions on take-off or landing under Instrument Flight Rules
+Operations.
 175. Minimum altitudes for use of an autopilot. 176. Instrument Flight Rules, Cruising Altitude or flight level in
 controlled airspace.
 177. Instrument Flight Rules, Cruising Altitude or flight level in
@@ -489,40 +515,54 @@ descent altitude.
 185. Execution of missed approach procedures. 186. Requirements for landing during Instrument Meteorological Conditions. 187. Procedure where change from Instrument Flight Rules flight to
 Visual Flight Rules flight.
 188. Two-way radio communication failure in Instrument
-Meteorological Conditions.
+Meteorological Conditions. [Subsidiary] Civil Aviation [(No. 2) Operations] Regulations
+ARRANGEMENT OF REGULATIONS-Continued
+REGULATION
 PART VIII
 PASSENGERS AND PASSENGER HANDLING
 189. Unacceptable conduct of passenger. 190. Requirements for refuelling or defuelling with passengers
 embarking on board or disembarking.
-191. Required passenger seats, safety belts and shoulder harnesses. REGULATION
-192. Required passenger briefing. 193. Required in-flight emergency instruction. 194. Minimum supply and use of passenger oxygen. 195. Exceptions to use of medication by passenger. 196. Restricted areas of access of passengers. 197. Applicability of regulations 198 to 219. 198. Requirement to comply with instructions given by crew members. 199. Denial of transportation of certain categories of passengers in
+191. Required passenger seats, safety belts and shoulder harnesses. 192. Required passenger briefing. 193. Required in-flight emergency instruction. 194. Minimum supply and use of passenger oxygen. 195. Exceptions to use of medication by passenger. 196. Restricted areas of access of passengers. 197. Applicability of regulations 198 to 219. 198. Requirement to comply with instructions given by crew members. 199. Denial of transportation of certain categories of passengers in
 commercial air transport operations.
-200. Exemptions of certain passenger-carrying requirements. 201. Cabin crew at duty stations. 202. Pilot in command to ensure emergency exit is available. 203. Prohibition in respect of armed emergency exit. 204. Prohibition on blocking access to emergency exit. 205. Pilot in command or senior cabin crew to ensure. 206. Requirements for passengers with reduced mobility. 207. Requirements for transport of inadmissible passengers, deportees or
+200. Exemptions of certain passenger-carrying requirements. 201. Cabin crew at duty stations. 202. Pilot in command to ensure emergency exit is available. 203. Prohibition in respect of armed emergency exits. 204. Prohibition on blocking access to emergency exits. 205. Pilot in command or senior cabin crew to ensure. 206. Requirements for passengers with reduced mobility. 207. Requirements for transport of inadmissible passengers, deportees or
 persons in custody.
-208. Passenger requirements for exit row seating. 209. Restriction on carriage of weapons. 210. Requirements for oxygen for medical use by passengers. 211. Restrictions on carry-on baggage. 212. Prohibition on carriage of cargo in passenger compartment. 213. Prohibition on smoking on aircraft. 214. (Revoked by LN 143/2011). 215. Requirement to brief, specific to over-water operations. 216. Required passenger seat belts and information signs in commercial
+208. Passenger requirements for exit row seating. 209. Restriction on carriage of weapons. 210. Requirements for oxygen for medical use by passengers. 211. Restrictions on carry-on baggage. 212. Prohibition on carriage of cargo in passenger compartment. 213. Prohibition on smoking on aircraft. 214. (Revoked by LN 143/2011). 215. Requirement to brief, specific to over-water operations.
+[Subsidiary] Civil Aviation [(No. 2) Operations] Regulations
+REGULATION
+216. Required passenger seat belts and information signs in commercial
 air transport operations.
 217. Requirement for seat backs to be upright prior to take-off and landing. 218. Restrictions of movement in respect of stowage of food and beverage. 219. Requirements to secure items of mass in passenger compartment.
-ARRANGEMENT OF REGULATIONS-Continued
-REGULATION
 PART IX
-CREW MEMBER AND FLIGHT OPERATIONS OFFICER QUALIFICATIONS FOR COMMERCIAL AIR TRANSPORT
+CREW MEMBER AND FLIGHT OPERATIONS OFFICER
+QUALIFICATIONS FOR COMMERCIAL AIR
+TRANSPORT
 220. Applicability of Part IX. 221. Age and special medical certificate restrictions. 222. Pilot in command requirements for turbojet, turbofan or large
 aircraft.
-223. Pilot in command requirements for non-turbojet or non-turbofan. 224. Aeronautical Experience Requirements for Pilot in Command in
-respect of small aeroplanes. 224A. Pilot operations under the Instruments Flight Rules or at night.
+223. Pilot in command requirements for non-turbojet or non-turbofan. 224. Aeronautical experience requirements for pilot in command in
+respect of small aeroplanes.
+224A. Pilot operations under the Instruments Flight Rules or at night.
 225. Co-pilot licence requirements. 226. Flight Engineer licence requirements. 227. Requirements for Flight Engineer competency. 228. Requirements for Flight Operations Officer. 229. Requirement for crew member or Flight Operations Officer to
 complete Company Procedures Indoctrination.
 230. Requirement for initial dangerous goods training. 231. Initial security training. 232. Requirement for initial crew resource training. 233. Initial emergency equipment drills. 234. Required initial aircraft ground training. 235. Initial aircraft flight training. 236. Initial specialised operations training. 237. Requirement for flight crew member to complete difference and
 familiarisation training.
-238. Requirements when aircraft simulators are used. 239. Requirements for flight crew conversion training and checking. 240. Restrictions on the use by the national air operator of persons as
-flight crew. REGULATION
+238. Requirements when aircraft simulators are used. 239. Requirements for flight crew conversion training and checking. [Subsidiary] Civil Aviation [(No. 2) Operations] Regulations
+ARRANGEMENT OF REGULATIONS-Continued
+REGULATION
+240. Restrictions on the use by the national air operator of persons as
+flight crew.
 241. Nomination as pilot in command. 242. Required qualifications to operate in either pilot's seat. 243. Re-establishing recency of experience by a pilot. 244. Requirements for operations on more than one type or variant
 of aircraft.
 245. Restrictions on operation of helicopters and aeroplanes. 246. Requirement for the maintenance of training records. 247. Requirement for the pairing of low experience crew members. 248. Requirement of Flight Engineer proficiency checks. 249. Requirement for competency checks for cabin crew. 250. Requirement for competency checks for Flight Operations Officers. 251. Requirements for supervised line flying for pilots. 252. Requirements for supervised line flying for Flight Engineers. 253. Requirements for supervised line experience for cabin crew. 254. Familiarisation requirements for cabin crew. 255. Line observations for Flight Operations Officers. 256. Route and airport qualification for pilot in command. 257. Required route and area checks for pilot qualification. 258. Pilot in command low minima authorisation. 259. Required pilot in command qualifications for designated special
 aerodromes and heliports.
-260. Required recurrent training and checking for flight crew members. 261. Recurrent training for cabin crew. 262. Refresher training for cabin crew recurrent training is still valid. 263. Required recurrent training for Flight Operations Officers. 264. Required Flight Instructor Training. 265. Qualification requirements for Flight Instructors. 266. Restrictions on use of person as check airman. 267. Restriction on use of check airmen. 268. Required check airman qualifications. 269. Check airman limitations. 270. Substitution of simulator experience.
+260. Required recurrent training and checking for flight crew members. 261. Recurrent training for cabin crew. 262. Refresher training for cabin crew recurrent training is still valid. 263. Required recurrent training for Flight Operations Officers. 264. Required Flight Instructor Training. 265. Qualification requirements for Flight Instructors. 266. Restrictions on use of person as check airman. 267. Restriction on use of check airmen. 268. Required check airman qualifications. 269. Check airman limitations.
+[Subsidiary] Civil Aviation [(No. 2) Operations] Regulations
+REGULATION
+270. Substitution of simulator experience. 271. Required line qualification for check airman and instructor. 272. Termination of a check by a check airman. 273. Recording of crew member qualifications. 274. Monitoring of training and checking activities. 275. Procedure for the reduction in training requirements.
+PART X
+CREW AND FLIGHT DUTY LIMITATIONS
+276. Definitions of certain terms and applicability of this Part. 277. Responsibilities of national air operator. 278. Monitoring System. 279. Flight time limitations. 280. Flight duty limitations and rest periods. 281. Extension of flight duty time by split duty. 282. Extension of flight duty by crew augmentation. 283. Unforeseen operational circumstances. 284. Delayed reporting time. 285. Requirements for time free from duty. 286. Positioning time to count as duty time. 287. Flight crew members to inform of other times of flying. 288. Requirements for flight crew members on reserve. 289. Requirements for flights crossing more than four time zones. 290. Example of flight and duty time schemes for aeroplane and
+helicopter operations. 290A. Implementation of a Fatigue Risk Management System.
+PART XI
+COMMERCIAL AIR TRANSPORT FLIGHT RELEASE 291. Applicability of Part XI. 292. Qualified persons required for operational control functions. 293. Restrictions on Flight Operation Officer or flight dispatcher. [Subsidiary] Civil Aviation [(No. 2) Operations] Regulations
 - Margin: Regulation 191. [301/2004 222/2005 196/2009].
-- Margin: NOTE: CAT II/III operations shall be accomplished in accordance with Operational Rules.
-- Margin: TEST AND
-- Margin: PARAGRAPH 3
 - Margin: Sub. Leg.

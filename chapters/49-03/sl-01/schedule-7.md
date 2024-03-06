@@ -9,7 +9,7 @@ only where conducted in an approved flight simulator or an approved flight train
 (d) in an aircraft of the same category and class, and type, as
 applicable, as the aircraft in which the practical test is to be conducted or in an approved flight simulator that-
 (i) represents an aircraft of the same category and class,
-and type, as applicable, as the aircraft in which the authorisation is sought; and
+and type, as applicable, as the aircraft in which the authorisation is sought; and [Subsidiary] Civil Aviation [(No. 1) General Application and Personnel Licensing] Regulations
 (ii) is used in accordance with an approved course
 conducted by an Approved Training Organisation certified by the Authority.
 PART B
@@ -35,9 +35,10 @@ In the oral increment of the skill test, an applicant shall demonstrate knowledg
 or fixed attitude guidance displays;
 (d) use and limitations of Runway Visual Range;
 (e) use of visual clues, their availability or limitations, and
-altitude at which they are normally discernible at reduced Runway Visual Range readings;
-(f) procedures and techniques related to transition from non-
-visual to visual flight during a final approach under reduced Runway Visual Range;
+altitude at which they are normally discernible at reduced
+Runway Visual Range readings;
+(f) procedures and techniques related to transition from
+non- visual to visual flight during a final approach under reduced Runway Visual Range; Civil Aviation [(No. 1) General Application and Personnel Licensing] Regulations [Subsidiary]
 (g) effects of vertical and horizontal windshear;
 (h) characteristics and limitations of the Instrument Landing
 System and runway lighting system;
@@ -61,7 +62,8 @@ made with the use of an approved flight control guidance system, except if an ap
 (d) if a multi-engine aircraft with the performance capability to
 execute a missed approach with one engine inoperative is used for the practical test, the flight increment shall include the performance of one missed approach with an engine, which shall be the most critical engine, if applicable, set at idle or zero thrust before reaching the middle marker;
 (e) if an approved multi-engine flight simulator or approved
-multi-engine flight training device is used for the practical test, the applicant shall execute a missed approach with the most critical engine, if applicable, failed;
+multi-engine flight training device is used for the practical [Subsidiary] Civil Aviation [(No. 1) General Application and Personnel Licensing] Regulations
+test, the applicant shall execute a missed approach with the most critical engine, if applicable, failed;
 (f) for an authorisation for an aircraft that requires a type rating,
 the applicant shall pass a practical test in co-ordination with a co-pilot who holds a type rating in the aircraft in which the authorisation is sought; and
 (g) an inspector or evaluator may conduct oral questioning at
@@ -82,12 +84,13 @@ at which they are normally discernible Runway Visual Range at reduced readings i
 (i) unexpected deterioration of conditions to less than
 minimum Runway Visual Range during approach, flare and rollout;
 (ii) demonstration of expected visual references with
-weather at minimum conditions:
+weather at minimum conditions-
 (A) the expected sequence of visual cues during
 an approach in which visibility is at or above landing minima; and
 (B) procedures and techniques for making a
 transition from instrument reference flight to visual flight during a final approach under reduced Runway Visual Range;
 (g) effects of vertical and horizontal windshear;
+Civil Aviation [(No. 1) General Application and Personnel Licensing] Regulations [Subsidiary]
 (h) characteristics and limitations of the Instrument Landing
 System and runway lighting system;
 (i) characteristics and limitations of the flight director system, auto
@@ -98,7 +101,7 @@ unless the aircraft for which authorisation is sought does not require a co-pilo
 flight path tracking during approach, flare, and, if applicable, rollout; and
 (l) recognition of, and reaction to, airborne or ground system
 faults or abnormalities, particularly after passing alert height or decision height, as applicable.
-PART F
+Regulation PART F 69(9)(b).
 FLIGHT SKILL REQUIREMENTS
 1. An applicant may conduct the skill test in an aircraft of the same category and class, and type, as applicable, as the aircraft for which the authorisation is sought, or in an approved flight simulator that-
 (a) represents an aircraft of the same category and class, and
@@ -108,18 +111,20 @@ an organisation approved for that purpose.
 2. The skill test shall consist of at least two Instrument Landing System approaches to 100 feet above ground level, including one landing and one missed approach initiated from a very low altitude that may result in a touchdown during the go around manoeuvre.
 3. The applicant shall perform all approaches during the skill test with the approved automatic landing system or an equivalent landing system approved by the Authority.
 4. Where a multi-engine aircraft with the performance capability to execute a missed approach with one engine inoperative is used for the practical test, the practical test shall include the performance of one missed approach with the most critical engine, where applicable, set at idle or zero thrust before reaching the middle or outer marker.
-5. Where an approved multi-engine flight simulator or approved multi-engine flight training device is used, the applicant shall execute a missed approach with an engine, which shall be the most critical engine, if applicable, failed.
-6. For an authorisation for an aircraft that requires a type rating, the applicant shall pass a practical test in co-ordination with a co-pilot who holds a type rating in the aircraft in which the authorisation is sought.
-7. Subject to the limitations of this paragraph, for Category III operations predicated on the use of a fail passive rollout control system, the applicant shall execute at least one manual rollout using visual reference or a combination of visual and instrument references. The applicant shall initiate this manoeuvre by a fail passive disconnect of the rollout control system-
+5. Where an approved multi-engine flight simulator or approved multi-engine flight training device is used, the applicant shall execute a missed approach with an engine, which shall be the most critical engine, if applicable, failed. [Subsidiary] Civil Aviation [(No. 1) General Application and Personnel Licensing] Regulations
+6. For an authorisation for an aircraft that requires a type rating, the
+applicant shall pass a practical test in co-ordination with a co-pilot who holds a type rating in the aircraft in which the authorisation is sought.
+7. Subject to the limitations of this paragraph, for Category III operations
+predicated on the use of a fail passive rollout control system, the applicant shall execute at least one manual rollout using visual reference or a combination of visual and instrument references. The applicant shall initiate this manoeuvre by a fail passive disconnect of the rollout control system-
 (a) after main gear touchdown;
 (b) prior to nose gear touchdown; and
 (c) in conditions representative of the most adverse lateral
 touchdown displacement allowing a safe landing on the runway.
-8. In weather conditions anticipated in Category III operations an inspector or Flight Test Examiner may conduct oral questioning at any time during the skill test.
+8. In weather conditions anticipated in Category III operations an
+inspector or Flight Test Examiner may conduct oral questioning at any time during the skill test.
 - Margin: Regulation 69(6)(b)(ii)(A).
 - Margin: Regulation 69(6)(b)(ii)(B).
 - Margin: Regulation 69(8)(a).
 - Margin: Regulation 69(8)(b).
 - Margin: Sub. Leg.
 - Margin: Regulation 69(9)(a).
-- Margin: Regulation 69(9)(b).

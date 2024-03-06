@@ -1,7 +1,8 @@
 # SCHEDULE 6B
 FREE BALLOON PILOT LICENCE
-1. Requirements for the issue of the Free Balloon Pilot Licence are as follows:
-(a) the applicant shall be not less than 16 years of age;
+1. Requirements for the issue of the Free Balloon Pilot Licence are
+as follows:
+(a) the applicant shall be not less than 16 years of age; Civil Aviation [(No. 1) General Application and Personnel Licensing] Regulations [Subsidiary]
 (b) the applicant shall have demonstrated a level of knowledge
 appropriate to the privileges granted to the holder of a free balloon pilot licence, in at least the following subjects:
 Air Law
@@ -29,7 +30,7 @@ Meteorology
 use of, and procedures for obtaining, meteorological information; altimetry;
 Navigation
 (x) practical aspects of air navigation and dead-reckoning
-techniques; use of aeronautical charts;
+techniques; use of aeronautical charts; [Subsidiary] Civil Aviation [(No. 1) General Application and Personnel Licensing] Regulations
 Operational Procedures
 (xi) use of aeronautical documentation such as AIP,
 NOTAM, aeronautical codes and abbreviations;
@@ -60,6 +61,7 @@ be exercised at night, the applicant shall have gained, under appropriate superv
 the holder of the Free Balloon Pilot Licence shall have completed not less than 35 hours of flight time including 20 hours as a pilot of a free balloon;
 (g) the applicant shall have demonstrated the ability to perform
 as pilot in command of a free balloon, the procedures and
+Civil Aviation [(No. 1) General Application and Personnel Licensing] Regulations [Subsidiary]
 manoeuvres described in paragraph (d) with a degree of competency appropriate to the privileges granted to the holder of a free balloon pilot licence, and to-
 (i) recognise and manage threats and errors;
 (ii) operate the free balloon within its limitations;

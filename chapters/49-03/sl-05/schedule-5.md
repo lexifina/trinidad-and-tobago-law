@@ -1,8 +1,10 @@
 # SCHEDULE 5
 IMPLEMENTING STANDARDS
-The following standards are numbered to correspond numerically with the relevant provision in these Regulations:
+The following standards are numbered to correspond numerically with the
+relevant provision in these Regulations:
 Regulation 17
-An Approved Maintenance Organisation shall ensure that its housing and facilities, for the organisation under regulation 17, meet the following minimum standards:
+An Approved Maintenance Organisation shall ensure that its housing
+and facilities, for the organisation under regulation 17, meet the following minimum standards:
 (a) for ongoing maintenance of aircraft, aircraft hangars shall be
 available and large enough to accommodate aircraft during maintenance activities;
 (b) where the hangar is not owned by the Approved Maintenance
@@ -23,11 +25,11 @@ usage during inclement weather for minor scheduled work and/or lengthy defect re
 where they may study maintenance instructions and complete maintenance records in a proper manner;
 (d) hangars used to house aircraft together with office
 accommodation shall be such as to ensure a clean, effective and comfortable working environment to include the following:
-(i) temperatures should be maintained at a comfortable level;
+(i) temperatures should be maintained at a comfortable level; Civil Aviation [(No. 6) Approved Maintenance Organisation] Regulations [Subsidiary]
 (ii) dust and any other airborne contamination should be
 kept to a minimum and not permitted to reach a level in the work task area where visible aircraft/component surface contamination is evident;
 (iii) lighting should be such as to ensure each inspection
-and maintenance task can be carried out; and
+and maintenance task can be carried out;
 (iv) noise levels should not be permitted to rise to the point
 of distracting personnel from carrying out inspection tasks. Where it is impractical to control the noise source, such personnel should be provided with the necessary personal equipment to stop excessive noise causing distraction during inspection tasks;
 (v) where a particular maintenance task requires the
@@ -43,8 +45,10 @@ shall be followed for specific aircraft components;
 (x) storage racks shall provide sufficient support for large
 aircraft components such that the component is not distorted; and
 (xi) all aircraft components, wherever practicable, shall
-remain packaged in protective material to minimise damage and corrosion during storage. Regulation 18
-An Approved Maintenance Organisation shall ensure that the equipment, tools and material used in its organisation under regulation 18, meet the following minimum standards:
+remain packaged in protective material to minimise damage and corrosion during storage. [Subsidiary] Civil Aviation [(No. 6) Approved Maintenance Organisation] Regulations
+Regulation 18
+An Approved Maintenance Organisation shall ensure that the equipment,
+tools and material used in its organisation under regulation 18, meet the following minimum standards:
 (a) all applicable tools, equipment, and test equipment used for
 product acceptance and for making a finding of airworthiness shall be traceable to the applicable standards acceptable to the Authority;
 (b) except as provided in paragraph (1), in the case of foreign
@@ -62,7 +66,7 @@ establish the competence of personnel that make the determination of equivalency
 (B) conducting and documenting the comparison
 made between the specification of the tool, equipment or test equipment recommended by the manufacturer and the equivalent tool, equipment or test equipment proposed;
 (C) ensuring that the limitations, parameters, and
-reliability of the proposed tool, equipment or test equipment are equivalent to the manufacturer's recommended tools, equipment or test equipment; and
+reliability of the proposed tool, equipment or test equipment are equivalent to the manufacturer's recommended tools, equipment or test equipment; and Civil Aviation [(No. 6) Approved Maintenance Organisation] Regulations [Subsidiary]
 (D) ensuring that the equivalent tool, equipment
 or test equipment is capable of performing the appropriate maintenance function, all normal tests, or calibrations and checking all parameters of the aircraft or aeronautical product undergoing maintenance or calibration;
 (iii) the Approved Maintenance Organisation shall have
@@ -80,8 +84,10 @@ equipment shall be used to give information on when such tools, equipment and te
 (j) a register shall be maintained for all calibrated tools, equipment
 and test equipment together with a record of calibrations and standards used;
 (k) inspection, service or calibration on a regular basis shall be
-in accordance with the equipment instructions of the manufacturer except where the Approved Maintenance Organisation can show by results that a different time period is appropriate in a particular case and is acceptable to the Authority. Regulation 20
-An Approved Maintenance Organisation shall ensure that in employing persons in its organisation under regulation 20, it meets the following minimum standards:
+in accordance with the equipment instructions of the manufacturer except where the Approved Maintenance Organisation can show by results that a different time period is appropriate in a particular case and is acceptable to the Authority. [Subsidiary] Civil Aviation [(No. 6) Approved Maintenance Organisation] Regulations
+Regulation 20
+An Approved Maintenance Organisation shall ensure that in employing
+persons in its organisation under regulation 20, it meets the following minimum standards:
 (a) the Approved Maintenance Organisation functions shall be
 subdivided under individual managers or combined in any number of ways, dependent upon the size of the Approved Maintenance Organisation;
 (b) the Approved Maintenance Organisation shall have, dependent
@@ -108,7 +114,7 @@ compliance monitoring;
 (i) ensuring that all work on aircraft components is
 performed to required standards; and
 (ii) any corrective action resulting from quality
-compliance monitoring;
+compliance monitoring; Civil Aviation [(No. 6) Approved Maintenance Organisation] Regulations [Subsidiary]
 (g) the Quality Manager shall be responsible for-
 (i) monitoring compliance with these Regulations by the
 Approved Maintenance Organisation; and
@@ -119,17 +125,17 @@ for managerial positions, but shall identify to the Authority the titles and per
 (i) where an Approved Maintenance Organisation chooses to
 appoint managers for all or any combination of the identified functions because of the size of the undertaking, these managers shall report ultimately through either the Base Maintenance Manager or Line Maintenance Manager or Workshop Manager or Quality Manager, as appropriate, to the Accountable manager;
 (j) the managers specified in this subsection shall be identified
-and their credentials submitted to the Authority to be accepted, such managers shall have relevant knowledge and satisfactory experience related to aircraft or aircraft component maintenance as appropriate in accordance with these Regulations; Note:
-Certifying staff may report to any of the managers specified depending upon which type of control the Approved Maintenance Organisation uses (for example, licensed engineers, independent inspection or dual function supervisors, etc.) so long as the quality compliance monitoring staff remain independent.
+and their credentials submitted to the Authority to be accepted, such managers shall have relevant knowledge and satisfactory experience related to aircraft or aircraft component maintenance as appropriate in accordance with these Regulations; Note: Certifying staff may report to any of the managers specified
+depending upon which type of control the Approved Maintenance Organisation uses (for example, licensed engineers, independent inspection or dual function supervisors, etc.) so long as the quality compliance monitoring staff remain independent.
 (k) the Approved Maintenance Organisation shall have a
 production man-hours plan showing that it has sufficient man-hours for the intended work;
 (l) if an Approved Maintenance Organisation is approved for
 base maintenance, the plan shall relate to the aircraft hangar visit plan;
 (m) man-hour plans shall regularly be updated;
-Note:
-Work performed on any aircraft registered outside Trinidad and Tobago should be taken into account where it impacts upon the production man-hours plan.
+Note: Work performed on any aircraft registered outside Trinidad and
+Tobago should be taken into account where it impacts upon the production man-hours plan.
 (n) quality monitoring compliance function man-hours shall be
-sufficient to meet the requirement of regulation 26(1)(c);
+sufficient to meet the requirement of regulation 26(1)(c); [Subsidiary] Civil Aviation [(No. 6) Approved Maintenance Organisation] Regulations
 (o) planners, mechanics, supervisors and certifying staff shall be
 assessed for competence by "on the job" evaluation or by examination relevant to their particular role within the Approved Maintenance Organisation before unsupervised work is permitted;
 (p) to assist in the assessment of competence, job descriptions
@@ -150,16 +156,20 @@ Maintenance Organisation or by an institute selected by the Approved Maintenance
 (t) initial training shall cover-
 (i) basic engineering theory relevant to the airframe
 structure and systems fitted to the class of aircraft the Approved Maintenance Organisation intends to maintain;
+Civil Aviation [(No. 6) Approved Maintenance Organisation] Regulations [Subsidiary]
 (ii) specific information on the actual aircraft type on
 which the person is intended to become a certifying person including the impact of repairs and system/structural defects; and
 (iii) company procedures relevant to the certifying
 staff's tasks;
 (u) continuation training should cover changes in Approved
-Maintenance Organisation procedures and changes in the standard of aircraft and/or aeronautical products maintained;
+Maintenance Organisation procedures and changes in the
+standard of aircraft and/or aeronautical products maintained;
 (v) the training programme shall include details of the number of
 personnel who will receive initial training to qualify as certifying staff over specified time periods;
 (w) the training programme established for maintenance personnel
-and certifying staff by the Approved Maintenance Organisation shall include training in knowledge and skills related to human performance including co-ordination with other maintenance personnel and flight crew;
+and certifying staff by the Approved Maintenance
+Organisation shall include training in knowledge and skills
+related to human performance including co-ordination with other maintenance personnel and flight crew;
 (x) in respect of understanding the application of human factors
 and human performance issues the following personnel are required to receive continuation training:
 (i) nominated managers, managers and supervisors;
@@ -179,7 +189,7 @@ in respect of each certifying person:
 (ii) date of birth;
 (iii) basic training;
 (iv) type training;
-(v) continuation training;
+(v) continuation training; [Subsidiary] Civil Aviation [(No. 6) Approved Maintenance Organisation] Regulations
 (vi) experience;
 (vii) qualifications relevant to the approval;
 (viii) scope of the authorisation;
@@ -195,31 +205,36 @@ request to his or her records;
 (e) the Authority is authorised to and may investigate the records
 system for initial and continued approval, or when the Authority has cause to doubt the competence of a particular certifying person;
 (f) the Approved Maintenance Organisation shall keep the
-record of a certifying person for at least two years after that person has ceased employment with the Approved Maintenance Organisation or upon withdrawal of his or her authorisation. Upon request, the certifying staff shall be provided with a copy of their record on leaving the Approved Maintenance Organisation;
+record of a certifying person for at least two years after that person has ceased employment with the Approved Maintenance Organisation or upon withdrawal of his or her authorisation. Upon request, the certifying staff shall be provided with a copy of their record on leaving the Approved
+Maintenance Organisation;
 (g) the authorisation document shall be in a style that makes its
 scope clear to certifying staff and any authorised person that may be required to examine the document. Where codes are used to define scope, an interpretation document shall be readily available; and
 (h) certifying staff are not required to carry the authorisation
 document at all times but shall produce it within a reasonable time of a request from an authorised person.
 Regulation 26
-1. A system of inspection under regulation 26(1)(c)(i) to ensure that all maintenance is properly performed shall be described in the Maintenance Procedures Manual and set out in the manner described in the example hereunder.
+1. A system of inspection under regulation 26(1)(c)(i) to ensure that
+all maintenance is properly performed shall be described in the Maintenance Procedures Manual and set out in the manner described in the example hereunder.
+Civil Aviation [(No. 6) Approved Maintenance Organisation] Regulations [Subsidiary]
 MAINTENANCE SYSTEM AND CERTIFYING STAFF
 2. The minimum standards applicable to maintenance system and certifying staff shall be as follows:
 (a) an Approved Maintenance Organisation shall appoint as head
-of the certifying staff, a nominated manager reporting to the accountable manager who will be responsible for ensuring full compliance by the Approved Maintenance Organisation, with all procedures outlined in this system as appropriate to any item being inspected, repaired, overhauled or modified by the Approved Maintenance Organisation. The airworthiness of those items and compliance and record requirements of the operators of those items and of the Approved Maintenance Organisation depend upon compliance with the procedures of this system;
+of the certifying staff, a nominated manager reporting to the accountable manager who will be responsible for ensuring full compliance by the Approved Maintenance Organisation, with all procedures outlined in this system as appropriate to any item being inspected, repaired, overhauled or modified by the Approved Maintenance Organisation. The airworthiness of those items and compliance and record requirements of the operators of those items and of the Approved
+Maintenance Organisation depend upon compliance with the
+procedures of this system;
 (b) certifying staff shall-
 (i) be thoroughly familiar with all inspection methods,
 techniques and equipment used in their area of responsibility to determine the quality of airworthiness of an article undergoing maintenance, repair or alterations;
 (ii) maintain proficiency in the use of the various types of
 inspection aids to be used for inspection of the particular items undergoing inspection;
 (iii) have readily available, all current specifications
-involving inspection tolerances, limits, and procedures as set forth by manufacturer of the product undergoing inspection and other forms of inspection information such as Civil Aviation Authority airworthiness directives, manufacturer's bulletins, etc;
+involving inspection tolerances, limits, and procedures as set forth by manufacturer of the product undergoing inspection and other forms of inspection information such as Civil Aviation Authority airworthiness directives, manufacturer's bulletins, etc.;
 (iv) have readily available a current file of maintenance
 manuals, engineering letters, service letters, Civil Aviation Authority regulations, etc., maintained in the inspection office;
 (v) be familiar with the Civil Aviation Authority regulations
 applicable to his areas of operations with particular emphasis on the following Civil Aviation Regulations:
 (A) aircraft Registration and Marking;
 (B) airworthiness;
-(C) approved Maintenance Organisation;
+(C) approved Maintenance Organisation; [Subsidiary] Civil Aviation [(No. 6) Approved Maintenance Organisation] Regulations
 (D) instruments and equipment;
 (E) operations; and
 (F) air Operator Certificate Certification and
@@ -231,7 +246,8 @@ performed prior to submitting the item to certifying staff for final acceptance;
 (e) certifying staff shall indicate his acceptance of work performed
 by the mechanic in (d) above by appending his signature or affixing his acceptance stamp next to the item on the work cards or work sheets.
 MAINTENANCE CONTINUITY
-3. (1) This section shall include the title of the person in the organisation who performs the maintenance continuity, the forms to be used and disposition of the records, reference to inspection standards of the manufacturer for the maintenance of the particular items and description of procedures for handling of-
+3. (1) This section shall include the title of the person in the organisation
+who performs the maintenance continuity, the forms to be used and disposition of the records, reference to inspection standards of the manufacturer for the maintenance of the particular items and description of procedures for handling of-
 (a) incoming materials including preliminary, hidden damage
 and final inspection where applicable;
 (b) items as they progress through various stages of repair, overhaul
@@ -242,7 +258,9 @@ one shift or person to another.
 (a) established through a "Line of Succession" list maintained
 by the Approved Maintenance Organisation through procedures in the Maintenance Procedures Manual to clearly identify at all times, the nominated manager responsible for maintenance or the person acting on his behalf;
 (b) maintained through the use of a status book which provided
-in each hangar and workshop in which a status report shall be left by each of the certifying staff leaving the job before completion of a project, for information to the succeeding certifying staff to ensure a continuing inspection responsibility for work inspections which are in progress;
+in each hangar and workshop in which a status report shall
+Civil Aviation [(No. 6) Approved Maintenance Organisation] Regulations [Subsidiary]
+be left by each of the certifying staff leaving the job before completion of a project, for information to the succeeding certifying staff to ensure a continuing inspection responsibility for work inspections which are in progress;
 (c) maintained by the use of forms designed to accommodate
 entries to indicate-
 (i) work performed;
@@ -270,10 +288,11 @@ equipment and other products procured for use by the maintenance organisation ar
 (b) a record of inspections in paragraph (a) shall be recorded on
 the Approved Maintenance Organisation Receiving Inspection Form by Form Number;
 (c) products that fail to meet applicable specifications shall be
-tagged as unserviceable using a red tag listing the discrepancy and such tagged product returned to the vendor; and
+tagged as unserviceable using a red tag listing the discrepancy and such tagged product returned to the vendor; and [Subsidiary] Civil Aviation [(No. 6) Approved Maintenance Organisation] Regulations
 (d) tagged products that fail to meet applicable specifications in
 paragraph (c) are to be placed in a locked holding area until they are removed for shipping to the vendor to ensure that they are not used in the performance of maintenance.
-(3) The following general inspection and test requirements shall apply to new, repaired and overhauled components as applicable:
+(3) The following general inspection and test requirements shall
+apply to new, repaired and overhauled components as applicable:
 (a) new components manufactured under a type or production
 certificate, or in accordance with a Technical Standard Order or similar Civil Aviation Authority approved technical data, or components which have been rebuilt by the manufacturer to production specifications, require a visual receiving inspection;
 (b) repaired or overhauled components received from an Approved
@@ -288,6 +307,7 @@ accordance with instructions contained in the appropriate publications of the ma
 check of any component overhauled or repaired by any agency, when of the opinion that such a check is required;
 (g) all adhesives, sealers, primers, finishings and other materials
 having limited shelf life shall be identified by material control labels showing the expiration date of the shelf life as established by applicable specifications;
+Civil Aviation [(No. 6) Approved Maintenance Organisation] Regulations [Subsidiary]
 (h) where inspectors and mechanics identify items in paragraph (g)
 in the workshop or storerooms without such identification or with expired shelf life, they shall dispose those materials in accordance with approved procedures; and
 (i) the detailed functions of materials inspection are covered
@@ -307,7 +327,8 @@ shall be secured and retained in a designated office;
 (f) a logbook shall be maintained in the designated office for
 recording each work order in numerical order, identifying the customer, the product for which it was issued along with its serial number, special instructions and the work to be accomplished;
 (g) it shall be the responsibility of the respective workshop manager
-to ensure that proper supplemental instructions are furnished to assure proper progressive servicing, inspection and testing of the product involved;
+to ensure that proper supplemental instructions are furnished [Subsidiary] Civil Aviation [(No. 6) Approved Maintenance Organisation] Regulations
+to assure proper progressive servicing, inspection and testing of the product involved;
 (h) mechanics shall enter work accomplished on the form and,
 sign the form for performing such work;
 (i) certifying staff may use their signature or inspection stamp to
@@ -321,11 +342,13 @@ that performed maintenance and inspection on each unit;
 (iii) show all of the parts used; and
 (iv) be maintained for a period of two years.
 RECORD OF WORK
-6. This section shall describe the minimum standards applicable to record of work performed shall include the following:
+6. This section shall describe the minimum standards applicable to
+record of work performed shall include the following:
 (a) a detailed record shall be kept of all work performed by the
 maintenance organisation;
 (b) a copy of each Work Order Form with all attached supplementary
-forms shall be maintained in the Approved Maintenance Organisation records section;
+forms shall be maintained in the Approved Maintenance
+Organisation records section;
 (c) a separate file area shall be provided for all paper work associated
 with the Approved Maintenance Organisations work activities;
 (d) each work record shall be checked by an inspector for work
@@ -336,7 +359,7 @@ PRELIMINARY INSPECTION
 (a) the procedures and methods to be followed when conducting
 such inspection;
 (b) the persons authorised to conduct such inspection;
-(c) any special testing requirements; and
+(c) any special testing requirements; and Civil Aviation [(No. 6) Approved Maintenance Organisation] Regulations [Subsidiary]
 (d) procedures in recording defects and the requirement of
 making them part of the work order.
 (2) Preliminary inspection shall be conducted as follows:
@@ -362,9 +385,10 @@ the inspection;
 adjacent to obviously damaged members or components;
 (c) how the inspection will be recorded;
 (d) the recording and handling of any defects noted; and
-(e) the requirement to make the inspection a part of the work order.
+(e) the requirement to make the inspection a part of the work order. [Subsidiary] Civil Aviation [(No. 6) Approved Maintenance Organisation] Regulations
 INSPECTION FOR HIDDEN DAMAGE
-9. (1) This section shall explain how the results of required inspections are recorded and made part of the applicable work order and shall include instructions on the following:
+9. (1) This section shall explain how the results of required inspections
+are recorded and made part of the applicable work order and shall include instructions on the following:
 (a) the preliminary inspection shall not be limited to the area of
 obvious damage or deterioration but include a thorough and searching inspection for hidden damage in areas adjacent to the damaged area;
 (b) in the case of deterioration, a thorough review of all similar
@@ -373,14 +397,18 @@ materials or equipment in a given system or structural area;
 of unit involved with special consideration accorded previous operating history, malfunction or defect reports, service bulletins and Airworthiness Directive notes applicable to the unit involved; and
 (d) the person conducting such hidden damage inspection shall
 be responsible for listing all discrepancies noted during inspection on the work order prior to release for return to service.
-(2) Certifying staff shall be assigned to make progressive inspections at various stages of teardown, overhaul, and repair of all units or components received by the maintenance organisation for service. Progressive inspections are accomplished with a frequency determined by applicable manual recommendations and work forms originated by the Approved Maintenance Organisation.
-(3) Major repair and modification to aircraft and aeronautical products shall include the following:
+(2) Certifying staff shall be assigned to make progressive inspections
+at various stages of teardown, overhaul, and repair of all units or components received by the maintenance organisation for service. Progressive inspections are accomplished with a frequency determined by applicable manual recommendations and work forms originated by the Approved Maintenance Organisation.
+(3) Major repair and modification to aircraft and aeronautical
+products shall include the following:
 (a) upon completion of the preliminary inspection, additional
 records may be prepared by the inspection department to provide a comprehensive historical record of the work performed;
 (b) the records of work performed specified in paragraph (a)
 shall contain details, as applicable, of work orders, service bulletins, airworthiness directive notes, service letters, type of inspection, detailed figures related to functional tests and special non-destructive tests to be accomplished;
 (c) the approved engineering or other approved technical data
-authorising the repair or modification shall be clearly indicated. Where special drawings are made to cover specific repair conditions, a copy of the drawing shall be included with the aircraft records;
+authorising the repair or modification shall be clearly indicated. Where special drawings are made to cover
+Civil Aviation [(No. 6) Approved Maintenance Organisation] Regulations [Subsidiary]
+specific repair conditions, a copy of the drawing shall be included with the aircraft records;
 (d) units removed from the aircraft shall be tagged with the
 appropriate inspection identification tag listing the aircraft serial number, unit serial number and reason for removal; and
 (e) units removed from the aircraft and tagged as specified in
@@ -400,7 +428,8 @@ the work involved shall be recorded on the appropriate work forms;
 (f) discrepancies so recorded under paragraph (e), shall be
 corrected before the unit is submitted for final inspection;
 (g) upon completion of this progressive inspection, the area
-affected is given a detailed inspection and after all rework is accomplished and accepted, the inspector shall clear the unit for final acceptance;
+affected is given a detailed inspection and after all rework is [Subsidiary] Civil Aviation [(No. 6) Approved Maintenance Organisation] Regulations
+accomplished and accepted, the inspector shall clear the unit for final acceptance;
 (h) upon completion of a specific operation, the mechanic shall
 sign off the records using his signature indicating that the item is complete and ready for inspection;
 (i) the actions performed to correct a specific discrepancy shall
@@ -411,7 +440,8 @@ conformance to specifications and established workmanship standards;
 to functional checks before final acceptance for return to service; and
 (l) inspection acceptance for return to service shall be indicated
 by the signature of the inspector and his certifying stamp.
-(6) Maintenance inspection shall be accomplished in accordance with the following:
+(6) Maintenance inspection shall be accomplished in accordance
+with the following:
 (a) one hundred hour and progressive inspections and aircraft
 continuous maintenance programmes shall be accomplished in accordance with the inspection cards or inspection schedule provided for each specific model aircraft;
 (b) the inspection paperwork shall be supplemented as necessary
@@ -426,6 +456,7 @@ completed work orders covering work performed in their assigned area to assure t
 accuracy, they shall be routed to the office of the applicable nominated manager; and
 (g) such inspection and work records shall be retained in active
 file for a period of not less than two years.
+Civil Aviation [(No. 6) Approved Maintenance Organisation] Regulations [Subsidiary]
 HANDLING OF PARTS
 10. (1) This section shall explain the method of compliance for processing of parts and include the following:
 (a) all items or components undergoing maintenance, repairs
@@ -451,12 +482,13 @@ following information:
 (ii) model;
 (iii) part number;
 (iv) serial number; and
-(v) name of part owner;
+(v) name of part owner; [Subsidiary] Civil Aviation [(No. 6) Approved Maintenance Organisation] Regulations
 (f) the yellow tag in paragraph (c) shall remain attached to the
 part returned to the customer; and
 (g) the white, green and red tags in paragraphs (a), (b) and (d)
 respectively, shall form part of the work order file. Where a rejected part is returned to the customer, the red tag shall remain attached and a record made on the work order showing that the part was returned to the customer.
-(3) Part finishing which includes painting and spraying shall be accomplished in an area segregated from the assembly areas.
+(3) Part finishing which includes painting and spraying shall be
+accomplished in an area segregated from the assembly areas.
 (4) Preservation of parts shall be accomplished as follows:
 (a) components shall be preserved in accordance with the
 recommendations of the manufacturer or other acceptable industry standards;
@@ -473,7 +505,9 @@ limits shall be identified by a red tag and disposed of in an appropriate manner
 (a) all incoming material shall be inspected for quantity, quality,
 conformity to dimensions or specifications and state of preservation; and
 (b) where materials with an expiry date having shelf life are
-received, the expiry date shall be noted and a system shall be utilised whereby older stock are used first on a "first-in, first-out system" provided the specifications of the manufacturer are not exceded.
+received, the expiry date shall be noted and a system shall be
+Civil Aviation [(No. 6) Approved Maintenance Organisation] Regulations [Subsidiary]
+utilised whereby older stock are used first on a "first-in, first-out system" provided the specifications of the manufacturer are not exceeded.
 (7) Hardware and equipment storage shall follow acceptable industry practices for the proper protection and storage of materials and ensure that only acceptable parts and supplies are issued for any job. The procedures for hardware and equipment storage shall include the following:
 (a) the stockroom manager shall be responsible for the operation
 of the stockroom and controlling, segregating and maintaining all stock and tools;
@@ -491,24 +525,26 @@ calibration shall be made on an appropriately printed work form with specific no
 (b) where a record of the inspection by dimensions, tests or
 calibration is required by the technical data of the manufacturer, such record shall be made on an appropriate form properly identified with the Work Order date and signed by the mechanic performing the inspection, test or calibration, and the certifying staff as appropriate;
 (c) a system shall be maintained on all precision test equipment
-that shall properly identify each piece of equipment. A filing system shall be maintained to properly identify the equipment and record the date and person testing or calibrating each individual piece of precision equipment;
+that shall properly identify each piece of equipment. A filing [Subsidiary] Civil Aviation [(No. 6) Approved Maintenance Organisation] Regulations
+system shall be maintained to properly identify the equipment and record the date and person testing or calibrating each individual piece of precision equipment;
 (d) where test and calibrations are performed by outside contractors
-such contractors shall be required to provide the records as outlined in paragraph (b) and (c); and
+such contractors shall be required to provide the records as outlined in paragraphs (b) and (c); and
 (e) a list of outside contractors under paragraph (d) and the work
 for which they are contracted to perform for the Approved Maintenance Organisation shall be included in this section of the Maintenance Procedures Manual.
-RECORD OF PRECISION TEST EQUIPMENT CALIBRATION
-12. (1) This section shall identify the title of the person responsible for the calibration and the test of records. Such records shall include the name of the manufacturer, model and serial or company assigned number, date of check, the method used to calibrate and the frequency, the person or company who performs checks, and the results and any corrections made, when the next inspection is due and requirements to tag equipment.
-(2) Procedures for the control of precision tools and test equipment shall include the following:
+RECORD OF PRECISION TEST EQUIPMENT CALIBRATION 12. (1) This section shall identify the title of the person responsible for
+the calibration and the test of records. Such records shall include the name of the manufacturer, model and serial or company assigned number, date of check, the method used to calibrate and the frequency, the person or company who performs checks, and the results and any corrections made, when the next inspection is due and requirements to tag equipment.
+(2) Procedures for the control of precision tools and test equipment
+shall include the following:
 (a) precision tools, gauges, scales, pressure gauges, ammeters,
 ohmmeters, voltmeters, radio, electronic, X-ray, eddy current and ultrasonic test equipment used in the operations of the Approved Maintenance Organisation shall be subject to periodic checks and calibration in accordance with appropriate Approved Maintenance Organisation procedures; and
 (b) all Approved Maintenance Organisation personnel, before
-using test equipment, shall be responsible for checking that the testing unit has a current calibration label attached. Any piece of test equipment found in the Approved Maintenance Organisation without a current calibration label attached shall be routed to the appropriate department in the Approved
-Maintenance Organisation for re-calibration.
+using test equipment, shall be responsible for checking that the testing unit has a current calibration label attached. Any piece of test equipment found in the Approved Maintenance Organisation without a current calibration label attached shall be routed to the appropriate department in the Approved Maintenance Organisation for re-calibration.
 (3) Test equipment calibration shall include the following:
 (a) test equipment shall be calibrated at periodic intervals established
 on the basis of stability, purpose and degree of usage. One year shall be the maximum calibration interval;
 (b) each piece of test equipment shall be labelled. The label shall
 identify the unit by manufacturer, model and serial number. The attached label shall indicate the last calibration date and when the next calibration is due;
+Civil Aviation [(No. 6) Approved Maintenance Organisation] Regulations [Subsidiary]
 (c) during the first week of each month the nominated manager
 responsible for maintenance shall review the test equipment calibration history card file and give cards for test equipment requiring calibration to the maintenance manager and each workshop foreman as appropriate. It shall be the responsibility of those persons to issue work orders to maintenance organisation workshops or outside contractors as necessary for the calibration of the units and attachment of updated calibration labels. After calibration, the test unit shall be checked for proper labelling and the equipment calibration history card shall be updated and returned to the inspection department active file;
 (d) at no time shall any person be permitted to perform work on
@@ -522,8 +558,9 @@ evaluations and the individual that ensures that the capability list is kept cur
 (b) the self-evaluation along with the capability list shall be
 reviewed and signed by the accountable manager. Procedures identifying that the Approved Maintenance Organisation shall not perform such maintenance on any article until such time as the accountable manager has accepted and signed the self-evaluation sheet and capability list.
 FINAL INSPECTION AND RELEASE TO SERVICE
-13. (1) This section shall include procedures for compliance with the regulations, who performs the inspection, how such inspection is recorded and how the maintenance work package is checked for completion.
-(2) Procedures for final inspection and release to service shall include the following:
+13. (1) This section shall include procedures for compliance with the regulations, who performs the inspection, how such inspection is recorded and how the maintenance work package is checked for completion. [Subsidiary] Civil Aviation [(No. 6) Approved Maintenance Organisation] Regulations
+(2) Procedures for final inspection and release to service shall
+include the following:
 (a) prior to approval for return to service, irrespective of the
 method to be used to indicate such approval, the nominated manager responsible for maintenance shall audit the records "package" as identified by the work order, to determine that all work has been inspected as required for compliance with this inspection system;
 (b) when approval has been given to the above audit, either the
@@ -540,9 +577,14 @@ return to service to assure that the aircraft flight manual is properly revised 
 completed aircraft repaired or overhauled as authorised by the maintenance organisation specifications, shall be returned to service through the use of a Certificate of Release to Service pre-printed on the serviceable parts tag described in this section of this manual. The authorised supervisor under whose jurisdiction the work is accomplished shall be responsible for the release of units in the category; and
 (h) an aircraft or a unit shall not be released for return to service
 until the work order and other records have been reviewed for completeness and final acceptance for return to service cleared by inspection. Particular attention shall be accorded the status of applicable airworthiness directives.
-(3) A Certificate of Release to Service stamp or pre-printed tag prepared in accordance with Civil Aviation [(No. 5) Airworthiness] Regulations, regulation 34, shall be used to release to service major repairs which have been accomplished by this Approved Maintenance Organisation in accordance with Civil Aviation [(No. 5) Airworthiness] Regulations. Other records required by Civil Aviation [(No. 5) Airworthiness] Regulations, shall be executed as required regardless of whether a Certificate of Release to Service has been issued to return the article to service. In any event, the Approved Maintenance Organisation shall indicate on its copy of the work order whether or not a Certificate of Release to Service was issued. The following or similarly worded statement may be used:
-"The aircraft, airframe, aircraft engine, propeller or appliance identified above was repaired and inspected in accordance with current maintenance rules of the Civil Aviation Regulations and is approved for return to service.
-'Pertinent details of the repair are on file at this maintenance organisation under Work Order Number ___________________ Date _____________' Signed _____________________________________
+Civil Aviation [(No. 6) Approved Maintenance Organisation] Regulations [Subsidiary]
+(3) A Certificate of Release to Service stamp or pre-printed tag prepared in accordance with Civil Aviation [(No. 5) Airworthiness] Regulations, regulation 34, shall be used to release to service major repairs which have been accomplished by this Approved Maintenance Organisation in accordance with Civil Aviation [(No. 5) Airworthiness] Regulations. Other
+Sub. Leg. records required by Civil Aviation [(No. 5) Airworthiness] Regulations, shall be executed as required regardless of whether a Certificate of Release to Service has been issued to return the article to service. In any event, the Approved Maintenance Organisation shall indicate on its copy of the work order whether or not a Certificate of Release to Service was issued. The following or similarly worded statement may be used:
+"The aircraft, airframe, aircraft engine, propeller or appliance identified above was repaired and inspected in accordance with current maintenance rules of the Civil Aviation
+Regulations and is approved for return to service.
+'Pertinent details of the repair are on file at this maintenance organisation under Work Order Number
+___________________ Date _____________'
+Signed _____________________________________
 (Signature of authorised representative)
 for _____________________________________________
 (Maintenance organisation name and certificate number)
@@ -554,16 +596,20 @@ RELIABILITY REPORT
 (a) the Approved Maintenance Organisation shall report to the
 Civil Aviation Authority within 72 hours after it discovers any serious defect in, or other recurring unairworthy condition of an aircraft, power plant, propeller or any component of any of them;
 (b) the report under paragraph (1) shall be made on a form
-prescribed by the Authority, describing the defect or malfunction completely without withholding any pertinent information;
+prescribed by the Authority, describing the defect or malfunction completely without withholding any pertinent information; [Subsidiary] Civil Aviation [(No. 6) Approved Maintenance Organisation] Regulations
 (c) where the filing of a report under paragraph (2) might prejudice
 the Approved Maintenance Organisation, the Approved Maintenance Organisation should seek guidance from the Authority on whether the serious defect or other recurring unairworthy condition under paragraph (1) shall be reported; and
 (d) where the defect or malfunction could result in an imminent
 hazard to flight, the Approved Maintenance Organisation shall use the most expeditious method to inform the Authority.
-(2) Where the Approved Maintenance Organisation is accomplishing work for an air operator and a defect under paragraph (1)(a) is found, the air operator shall be notified.
-(3) A notification under paragraph (2), shall assist an air operator in issuing a report required under regulation 22 of the Civil Aviation [(No. 5) Airworthiness] Regulations.
-(4) A report under paragraph (1)(b), shall be prepared by the nominated manager responsible for maintenance and submitted to the Authority through the Quality Manager.
+(2) Where the Approved Maintenance Organisation is accomplishing
+work for an air operator and a defect under paragraph (1)(a) is found, the air operator shall be notified.
+(3) A notification under paragraph (2), shall assist an air operator in
+issuing a report required under regulation 22 of the Civil Aviation [(No. 5) Airworthiness] Regulations.
+(4) A report under paragraph (1)(b), shall be prepared by the
+nominated manager responsible for maintenance and submitted to the Authority through the Quality Manager.
 SUBCONTRACTED MAINTENANCE PROCEDURES
-15. (1) This section shall detail the procedures for the use of subcontracted maintenance and shall include the following:
+15. (1) This section shall detail the procedures for the use of
+subcontracted maintenance and shall include the following:
 (a) any work performed by another maintenance organisation for
 this Approved Maintenance Organisation shall be inspected by the nominated manager responsible for maintenance or certifying staff personnel delegated for such inspection;
 (b) the inspection under subparagraph (a) shall be to verify that-
@@ -575,6 +621,7 @@ airworthiness standards; and
 authenticity of the part and work performed;
 (c) the stockroom manager of the Approved Maintenance
 Organisation shall not release any parts made by, or parts having had work performed on them by a subcontractor until the certifying staff personnel have approved the materials as being airworthy;
+Civil Aviation [(No. 6) Approved Maintenance Organisation] Regulations [Subsidiary]
 (d) all subcontracted work shall be segregated from regular
 stock until the inspection under paragraph (a) has been performed and the material accepted for use; and
 (e) where subcontracted material is rejected as being unairworthy,
@@ -601,10 +648,11 @@ maintenance, preventive maintenance, modifications and required inspection under
 (b) the Approved Maintenance Organisation shall have a
 current copy of the applicable section of the manual of the air operator which contracts with the Approved Maintenance Organisation for the performance of the required maintenance of the air operator; and
 (c) the nominated manager responsible for maintenance shall be
-responsible for keeping each manual of the air operator revised and determining that such manual is current before a work order is issued.
+responsible for keeping each manual of the air operator revised and determining that such manual is current before a work order is issued. [Subsidiary] Civil Aviation [(No. 6) Approved Maintenance Organisation] Regulations
 PERFORMANCE OF WORK AT A LOCATION OTHER THAN THE
 MAINTENANCE ORGANISATION
-17. Where maintenance functions are being performed at a location other than at the Approved Maintenance Organisation the following procedures shall be included in this section:
+17. Where maintenance functions are being performed at a location other
+than at the Approved Maintenance Organisation the following procedures shall be included in this section:
 (a) the Approved Maintenance Organisation shall indicate what
 maintenance service will be provided for its customers on an emergency on-call basis at a place away from the Approved Maintenance Organisation. Service shall only be provided for work for which the Approved Maintenance Organisation is rated;
 (b) only the Accountable Manager or the nominated manager
@@ -616,7 +664,9 @@ assign the certifying staff responsible to inspect the work and ensure that all 
 (e) the base maintenance manager shall ensure that the article to
 undergo maintenance and the persons conducting the work shall be in an area safe for the work to be performed and that they shall be protected from the elements. The base maintenance manager shall be responsible for providing all the necessary manpower, work forms, technical data, tools, and equipment necessary for the accomplishment of the maintenance. The base maintenance manager shall establish a system of communications between the field force and the maintenance organisation;
 (f) the stockroom manager shall be responsible for assigning a
-stockperson who shall provide parts and supply support between the maintenance organisation and the field force. All articles removed by the field force from a product undergoing maintenance at a location away from the maintenance organisation shall be routed through the stockroom parts receiving department. The article(s) shall be inspected in accordance with the maintenance organisation inspection procedures and either routed to the maintenance organisation workshops or to contract maintenance organisations, as appropriate; and
+stockperson who shall provide parts and supply support between the maintenance organisation and the field force. All articles removed by the field force from a product undergoing maintenance at a location away from the maintenance organisation shall be routed through the stockroom parts receiving department.
+Civil Aviation [(No. 6) Approved Maintenance Organisation] Regulations [Subsidiary]
+The article(s) shall be inspected in accordance with the maintenance organisation inspection procedures and either routed to the maintenance organisation workshops or to contract maintenance organisations, as appropriate; and
 (g) personnel assigned to accomplish work away from the maintenance
 organisation shall accomplish the specific function of work in the same manner as when performed at the maintenance organisation and in accordance with Part 6. Regulation 30
 A Certificate of Release to Service under regulation 30 shall meet the following minimum standards:
@@ -630,11 +680,11 @@ component when such maintenance is conducted off the aircraft;
 (b) the Certificate of Release to Service shall be in a form
 prescribed by the Director-General;
 (c) the Certificate of Release to Service shall reference the data
-specified in instructions of a manufacturer or air operator or the aircraft maintenance programme which itself may cross-reference to instruction in the manufacturer maintenance manual, service bulletin, etc;
+specified in instructions of a manufacturer or air operator or the aircraft maintenance programme which itself may cross-reference to instruction in the manufacturer maintenance manual, service bulletin, etc.;
 (d) where instructions under paragraph (3) include a requirement
 to insure that a dimension or test figure is within a specific tolerance as opposed to a general tolerance, the dimension or test figure shall be recorded unless the instruction permits the use of "GO/NO-GO" gauges. It shall not be sufficient to state that the dimension or the test figure is within tolerance;
 (e) the date maintenance was carried out on an aeronautical
-product shall include the period when the maintenance took place relative to any life or overhaul limitation in terms of date, flying hours, cycles, or landings as appropriate;
+product shall include the period when the maintenance took place relative to any life or overhaul limitation in terms of date, flying hours, cycles, or landings as appropriate; [Subsidiary] Civil Aviation [(No. 6) Approved Maintenance Organisation] Regulations
 (f) where extensive maintenance has been carried out, it shall be
 acceptable for the Certificate of Release to Service to summarise the maintenance as long as there is a cross-reference to the work-pack record containing full details of maintenance carried out. Dimensional information shall be retained in the work-pack record;
 (g) the person issuing the Certificate of Release to Service shall
@@ -642,7 +692,8 @@ use a full signature and preferably a certification stamp except in the case whe
 (h) an Approved Maintenance Organisation may only defer
 maintenance in exceptional circumstances and then only in accordance with procedures specified in its Maintenance Procedures Manual.
 Regulation 32
-Maintenance Data under regulation 32 shall meet the following minimum standards:
+Maintenance Data under regulation 32 shall meet the following
+minimum standards:
 (a) the Approved Maintenance Organisation shall be in receipt
 of all maintenance data appropriate to support the maintenance work performed from the Authority, the aircraft and associated aeronautical product design organisation, and any other approved design organisation in the State of Design, as appropriate;
 (b) some examples of maintenance-related documents are-
@@ -655,7 +706,7 @@ of all maintenance data appropriate to support the maintenance work performed fr
 (vii) service bulletins;
 (viii) service letters;
 (ix) service instructions;
-(x) modification leaflets;
+(x) modification leaflets; Civil Aviation [(No. 6) Approved Maintenance Organisation] Regulations [Subsidiary]
 (xi) aircraft maintenance programme; and
 (xii) NDT manual, etc.;
 Note 1: Paragraph (1) primarily refers to maintenance data that has
@@ -667,7 +718,8 @@ status of all data and maintain a check that all amendments are being received b
 (d) maintenance data shall be made available in the work area in
 close proximity to the aircraft or aeronautical product being maintained and for supervisors, mechanics, and certifying staff to study; and
 (e) where computer systems, and microfilm and microfiche
-reader printers are used to provide maintenance data, the number of computer terminals and reader printers shall be sufficient in relation to the size of the work programme to enable easy access, unless the computer system and reader printers can produce paper copies. CIVIL AVIATION [(NO. 7) INSTRUMENTS AND
+reader printers are used to provide maintenance data, the number of computer terminals and reader printers shall be sufficient in relation to the size of the work programme to enable easy access, unless the computer system and reader printers can produce paper copies. [Subsidiary]
+CIVIL AVIATION [(NO. 7) INSTRUMENTS AND
 EQUIPMENT] REGULATIONS
 ARRANGEMENT OF REGULATIONS
 REGULATION
@@ -682,7 +734,9 @@ FLIGHT AND NAVIGATIONAL INSTRUMENTS
 Performance Specifications airspace.
 PART III
 COMMUNICATION EQUIPMENT
-14. General applicability of Part III. 15. Radio equipment requirements. 16. Crew member interphone system. REGULATION
+14. General applicability of Part III. 15. Radio equipment requirements. 16. Crew member interphone system.
+Civil Aviation [(No. 7) Instruments and Equipment] Regulations [Subsidiary]
+REGULATION
 PART IV
 AIRCRAFT LIGHTS AND INSTRUMENT
 ILLUMINATION
@@ -692,14 +746,13 @@ ENGINE INSTRUMENTS
 19. Applicability of Part V. 20. Engine instruments requirements.
 PART VI
 WARNING INSTRUMENTS AND SYSTEMS
-21. Applicability of Part VI. 22. Mach number indicator. 23. Loss of pressurisation indicator. 24. Landing gear aural warning device. 25. Altitude alterting system. 26. Ground proximity award warning visual system. 27. Airborne weather radar equipment.
+21. Applicability of Part VI. 22. Mach number indicator. 23. Loss of pressurisation indicator. 24. Landing gear aural warning device. 25. Altitude alerting system. 26. Ground proximity award warning visual system. 27. Airborne weather radar equipment.
 PART VII
 FLIGHT RECORDERS
-28. Applicability of Part VII. 29. Flight Recorders General. 35.} 30. Flight Recorders for Aeroplane engaged in Commercial Air
+28. Applicability of Part VII. 29. Flight Recorders General. 30. Flight Recorders for Aeroplane engaged in Commercial Air
 Transport Operations.
 31. Flight Recorders for Aeroplane not engaged in Commercial Air
 Transport Operations.
-32. Flight Recorders for helicopters. 33. 34. (Repealed by LN No. 194/2011).
+32. Flight Recorders for helicopters. 35. } 33. 34. (Repealed by LN No. 194/2011). [Subsidiary] Civil Aviation [(No. 7) Instruments and Equipment] Regulations
 - Margin: Regulation 37. [305/2004 227/2005].
-- Margin: Sub. Leg.
 - Margin: Sub. Leg.

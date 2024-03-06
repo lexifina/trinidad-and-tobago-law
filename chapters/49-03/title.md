@@ -4,16 +4,17 @@ Act
 11 of 2001
 Amended by
 17 of 2003
+22 of 2022
 Index of Subsidiary Legislation
 Page Civil Aviation (Tenders Committee) Rules (LN 307/2004) … … 54 Civil Aviation [(No. 1) General Application and Personnel Licensing] Regulations
-(LN 100/2004) ... 72 Civil Aviation [(No. 2) Operations] Regulations (LN 101/2004) … … 360 *Civil Aviation [(No. 3) Air Operator Certification and Administration]
-Regulations (LN 102/2004) ... 764 *Civil Aviation [(No. 4) Registration and Markings] Regulations (LN 103/2004) 894 *Civil Aviation [(No. 5) Airworthiness] Regulations (LN 104/2004) … 911 *Civil Aviation [(No. 6) Approved Maintenance Organisation] Regulations
-(LN 105/2004) ... 990 *Civil Aviation [(No. 7) Instruments and Equipment] Regulations (LN 106/2004) 1092 *Civil Aviation [(No. 8) Aviation Security] Regulations (LN 107/2004) … 1209 *Civil Aviation [(No. 9) Approved Training Organisation] Regulations
-(LN 108/2004) (191/2006) ... 1357 *Civil Aviation [(No. 10) Foreign Operator] Regulations (LN 109/2004) … 1469 *Civil Aviation [(No. 11) Aerial Work] Regulations (LN 110/2004) … 1486 *Civil Aviation [(No. 12) Aerodrome Licensing] Regulations (LN 111/2004) … 1526 *Civil Aviation [(No. 13) Charges for Air Navigation Services] Regulations
-(LN 239/2005) ... 1576 *Civil Aviation [(No. 14) Aircraft Accident and Incident Investigation] Rgulations
-(LN 306/2006) ... 1583 *Civil Aviation [(No. 15) Air Navigation Services] Regulations (LN 308/2006) 1619 *Civil Aviation [(No. 16) Compounding of Offences (Pecuniary Penalties)]
-Regulations (LN 52/2007) ... 1880 *Civil Aviation [(No. 17) Economic] Regulations (LN 132/2011) … … 1891 *Civil Aviation [(No. 18) State Aircraft Registration and Markings] Regulations
-(LN 145/2015) ... 1965 *Civil Aviation [(No. 19) Unmanned Aircraft Systems ] Regulations (LN 183/2016) 1979
+(LN 100/2004) ... 72 Civil Aviation [(No. 2) Operations] Regulations (LN 101/2004) … … 363 *Civil Aviation [(No. 3) Air Operator Certification and Administration]
+Regulations (LN 102/2004) ... 784 *Civil Aviation [(No. 4) Registration and Markings] Regulations (LN 103/2004) 922 *Civil Aviation [(No. 5) Airworthiness] Regulations (LN 104/2004) … 939 *Civil Aviation [(No. 6) Approved Maintenance Organisation] Regulations
+(LN 105/2004) ... 1026 *Civil Aviation [(No. 7) Instruments and Equipment] Regulations (LN 106/2004) 1130 *Civil Aviation [(No. 8) Aviation Security] Regulations (LN 107/2004) … 1256 *Civil Aviation [(No. 9) Approved Training Organisation] Regulations
+(LN 108/2004) (191/2006) ... 1404 *Civil Aviation [(No. 10) Foreign Operator] Regulations (LN 109/2004) … 1517 *Civil Aviation [(No. 11) Aerial Work] Regulations (LN 110/2004) … 1534 *Civil Aviation [(No. 12) Aerodrome Licensing] Regulations (LN 111/2004) … 1574 *Civil Aviation [(No. 13) Charges for Air Navigation Services] Regulations
+(LN 239/2005) ... 1626 *Civil Aviation [(No. 14) Aircraft Accident and Incident Investigation] Regulations
+(LN 306/2006) ... 1633 *Civil Aviation [(No. 15) Air Navigation Services] Regulations (LN 308/2006) 1679 *Civil Aviation [(No. 16) Compounding of Offences (Pecuniary Penalties)]
+Regulations (LN 52/2007) ... 1940 *Civil Aviation [(No. 17) Economic] Regulations (LN 132/2011) … … 1951 *Civil Aviation [(No. 18) State Aircraft Registration and Markings] Regulations
+(LN 145/2015) ... 2025 *Civil Aviation [(No. 19) Unmanned Aircraft Systems] Regulations (LN 183/2016) 2039
 Note on Subsidiary Legislation
 Civil Aviation [(No. 5) Airworthiness] Regulations
 Amendments made to the Civil Aviation [(No. 5) Airworthiness] Regulations by LN 48/2007 took effect on 1st October 2007.
