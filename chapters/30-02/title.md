@@ -3,30 +3,32 @@ CHAPTER 30:02
 Act
 18 of 1948
 Amended by
-46/1964 190/1950
-178/1951 55/1964 219/1951 9/1965 123/1952 34/1965 59/1954 47/1965 71/1954
+190/1950 55/1964 178/1951 9/1965 219/1951
+34/1965
+123/1952
+47/1965
+59/1954
 113/1968
-147/1954
+71/1954
 4 of 1988
-76/1955
-55/2003
-128/1955
-12/2005
-173/1955
-213/2005
-174/1956
-154/2008
-17/1957
+147/1954
+55/2003 76/1955 12/2005 128/1955
+173/1955 213/2005 174/1956 154/2008 17/1957
 188/2008
 48/1957
-88/2009 106/1958 147/2009 13/1960 26/2011 20 of 1960 40/2011 31/1961
+88/2009
+106/1958
+147/2009
+13/1960
+26/2011 20 of 1960
+40/2011 31/1961 223/2023 46/1964
 Index of Subsidiary Legislation
 Page Importation of Antibiotics Preparations Order ... 12 Approved Pharmaceutical Firms Order ... 32 Antibiotics (Conditions for Use) Order (LN 29/1989) … … … 38
 Note on the above Orders
-The amendments to the above Orders are long and frequent, and in view of their very limited use by the general public they will not be updated annually (following the policy adopted with respect to the Approval of New Drugs Notification under the Food and Drugs Act- See page 2 of Ch. 30:01).
+The amendments to the above Orders are long and frequent, and in view of their very limited use by the general public they will not be updated annually (following the policy adopted with respect to the Approval of New Drugs Notification under the Food and Drugs Act- See page 2 of Chap. 30:01).
 For amendments to these Orders-See the Current Edition of the Consolidated Index of Acts and Subsidiary Legislation.
 Note on Adaptation
-Under paragraph 6 of the Second Schedule to the Law Revision Act (Ch. 3:03) the Commission amended certain references to public officers in this Chapter. The Minister's approval of the amendments was signified by LN 120/1980, but no marginal reference is made to this Notice where any such amendment is made in the text.
+Under paragraph 6 of the Second Schedule to the Law Revision Act (Chap. 3:03) the Commission amended certain references to public officers in this Chapter. The Minister's approval of the amendments was signified by LN 120/1980, but no marginal reference is made to this Notice where any such amendment is made in the text.
 CHAPTER 30:02
 ANTIBIOTICS ACT
 ARRANGEMENT OF SECTIONS
