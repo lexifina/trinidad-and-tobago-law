@@ -1,11 +1,11 @@
 BILLS OF EXCHANGE ACT
 CHAPTER 82:31
 Act
-14 of 1884 Amended by 31 of 1907 33 of 1920 18 of 1926 4 of 1933 8 of 1934 36 of 1942 45 of 1979
+14 of 1884 Amended by 31 of 1907 33 of 1920 18 of 1926 4 of 1933 8 of 1934 36 of 1942 45 of 1979 12 of 2022
 Note on Subsidiary Legislation
 This Chapter contains no subsidiary legislation.
 Note on Adaptation
-Under paragraph 6 of the Second Schedule to the Law Revision Act (Ch. 3:03) the Commission amended certain references to public officers in this Chapter. The Minister's approval of the amendments was signified by LN 52/1980, but no marginal reference is made to this Notice where any such amendment is made in the text.
+Under paragraph 6 of the Second Schedule to the Law Revision Act (Chap. 3:03) the Commission amended certain references to public officers in this Chapter. The Minister's approval of the amendments was signified by LN 52/1980, but no marginal reference is made to this Notice where any such amendment is made in the text.
 CHAPTER 82:31
 BILLS OF EXCHANGE ACT
 ARRANGEMENT OF SECTIONS SECTION
@@ -13,8 +13,7 @@ ARRANGEMENT OF SECTIONS SECTION
 PART I
 BILLS OF EXCHANGE
 FORM AND INTERPRETATION
-3. Bill of exchange defined. 4. Inland and foreign bills. 5. Effect where different parties to bill are the same person. 6. Address to drawee. 7. Certainty required as to payee. 8. What bills are negotiable. 9. Sum payable.
-10. Bill payable on demand. 11. Bill payable at a future time. 12. Omission of date in bill payable after date. 13. Antedating and post-dating. 14. Computation of time of payment. 15. Case of need. 16. Optional stipulations by drawer or indorser. 17. Definition and requisites of acceptance. 18. Time of acceptance. 19. General and qualified acceptances. 20. Inchoate instruments. 21. Delivery.
+3. Bill of exchange defined. 4. Inland and foreign bills. 5. Effect where different parties to bill are the same person. 6. Address to drawee. 7. Certainty required as to payee. 8. What bills are negotiable. 9. Sum payable. 10. Bill payable on demand. 11. Bill payable at a future time. 12. Omission of date in bill payable after date. 13. Antedating and post-dating. 14. Computation of time of payment. 15. Case of need. 16. Optional stipulations by drawer or indorser. 17. Definition and requisites of acceptance. 18. Time of acceptance. 19. General and qualified acceptances. 20. Inchoate instruments. 21. Delivery.
 CAPACITY AND AUTHORITY OF PARTIES
 22. Capacity of parties. 23. Signature essential to liability. 24. Forged or unauthorised signature.
 ARRANGEMENT OF SECTIONS-Continued SECTION
@@ -41,17 +40,22 @@ CONFLICT OF LAWS
 72. Rules where laws conflict.
 PART II
 CHEQUES ON A BANKER
-73. Cheque defined. 74. Presentment of cheque for payment. 75. Revocation of banker's authority.
+73. Cheque defined. 74. Presentment of cheque for payment.
+74A. Alternative place of presentment of cheque.
+75. Revocation of banker's authority.
 ARRANGEMENT OF SECTIONS-Continued SECTION
 CROSSED CHEQUES
-76. General and special crossings defined. 77. Crossing by drawer or after issue. 78. Crossing, a material part of cheque. 79. Duties of banker as to crossed cheques. Protection to banker and drawer where cheque is crossed.
+76. General and special crossings defined. 77. Crossing by drawer or after issue. 78. Crossing, a material part of cheque. 79. Duties of banker as to crossed cheques.
+Protection to banker and drawer where cheque is crossed.
 80. Protection to collecting banker. 81. Effect of words "not negotiable". 82. Cheques drawn on a bank by itself.
 PART III
 PROMISSORY NOTES
 83. Promissory note defined. 84. Delivery necessary. 85. Joint and several notes. 86. Note payable on demand. 87. Presentment of note for payment. 88. Liability of maker. 89. Application of Part I to notes.
+PART IIIA PRESENTMENT OF CHEQUES BY ELECTRONIC MEANS
+89A. Presentment of cheques by electronic means. 89B. Obligation of banker to receive physical cheque for payment.
 PART IV
 SUPPLEMENTARY
-90. Good faith. 91. Signature. 92. Computation of time for act due to be done on non-business days. 93. When noting equivalent to protest. 94. Protest when Notary not accessible. 95. What signatures to be attested. 96. Savings.
+90. Good faith. 91. Signature. 92. Computation of time for act due to be done on non-business days. 93. When noting equivalent to protest. 94. Protest when Notary not accessible. 95. What signatures to be attested. 96. Savings. 97. Regulations and Guidelines.
 SCHEDULE.
 
 CHAPTER 82:31

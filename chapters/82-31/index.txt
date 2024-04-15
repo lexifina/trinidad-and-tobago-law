@@ -73,6 +73,7 @@ s-71.md
 s-72.md
 s-73.md
 s-74.md
+s-74A.md
 s-75.md
 s-76.md
 s-77.md
@@ -88,6 +89,8 @@ s-86.md
 s-87.md
 s-88.md
 s-89.md
+s-89A.md
+s-89B.md
 s-90.md
 s-91.md
 s-92.md
@@ -95,4 +98,5 @@ s-93.md
 s-94.md
 s-95.md
 s-96.md
+s-97.md
 schedule.md
