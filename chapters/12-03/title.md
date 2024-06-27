@@ -1,17 +1,20 @@
 CRIMINAL PROCEDURE (CORPORATIONS) ACT
 CHAPTER 12:03
-Act
-10 of 1961 Amended by
+Act 10 of 1961
+Amended by
 172/1961
 8/1962
 136/1976
+*20 of 2011
+(*See Note on page 2)
 Note on Subsidiary Legislation
 This Chapter contains no subsidiary legislation.
+Note on Act No. 20 of 2011
+Amendments made to this Act by Act No. 20 of 2011 took effect on 12th December 2023 by LN 374/2023.
 CHAPTER 12:03
 CRIMINAL PROCEDURE (CORPORATIONS) ACT
 ARRANGEMENT OF SECTIONS SECTION
-1. Short title. 2. Interpretation. 3. Corporations: committal for trial. 4. Representatives: appearance before Magistrate. 5. Matters in presence of representative. 6. Non-appearance of representative. 7. Corporation charged jointly with individual. 8. Plea by corporation. 9. Representatives: qualification to act.
-10. Method of appointment of representative. 11. A representative may not be fined or imprisoned on conviction of
+1. Short title. 2. Interpretation. 3. Corporations: committal for trial. 4. Representatives: appearance before Master. 5. Matters in presence of representative. 6. Non-appearance of representative. 7. Corporation charged jointly with individual. 8. Plea by corporation. 9. Representatives: qualification to act. 10. Method of appointment of representative. 11. A representative may not be fined or imprisoned on conviction of
 corporation.
 12. Fines on corporations. 13. Enforcement. 14. Service of documents. 15. Application and non-application.
 SCHEDULE.
