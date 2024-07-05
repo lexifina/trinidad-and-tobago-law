@@ -7,7 +7,7 @@ GRADE 1 Prisons Officer I [for five (5) Prisons Officer I 1.10.03 years] Prisons
 GRADE 2 Prisons Welfare Officer I Prisons Welfare Officer I 1.10.03 Prisons Officer II Prisons Officer II 1.10.03
 RANGE 36 Prisons Cadet Officer Prisons Cadet Officer 1.1.74
 *Previous amendments, now completely superseded, were made to this Schedule by
-GNs: 125/1966, 267/1971, 219/1973 and 177/1976.
+GNs: 125/1966; 267/1971; 219/1973 and 177/1976.
 CLASSIFICATION OF OFFICES IN
 THE PRISON SERVICE-Continued
 Effective Old Title of Post New Title of Post
