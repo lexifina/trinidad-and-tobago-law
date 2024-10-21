@@ -2,15 +2,18 @@ PREVENTION OF CORRUPTION ACT
 CHAPTER 11:11
 Act
 11 of 1987
+*15 of 2024
 Note on Subsidiary Legislation
 This Chapter contains no subsidiary legislation.
+Note on Act No. 15 of 2024
+Amendments made to this Act by Act No. 15 of 2024 took effect on 14th October 2024 by LN 185/2024.
 CHAPTER 11:11
 PREVENTION OF CORRUPTION ACT
 ARRANGEMENT OF SECTIONS
 SECTION
-1. Short title. Act inconsistent with Constitution.
-2. Interpretation. 3. Corruption in office an offence. 4. Punishment of corrupt transactions with agents. 5. Offence to corruptly use or communicate official information. 6. Penalty for offences. 7. Presumption of corruption in certain cases. 8. Time for taking proceedings. 9. Powers of police to inspect financial records and other documents.
-10. Saving clause. 11. Consent of Director of Public Prosecutions.
+1. Short title.
+Act inconsistent with Constitution.
+2. Interpretation. 3. Corruption in office an offence. 4. Punishment of corrupt transactions with agents. 5. Offence to corruptly use or communicate official information. 6. Penalty for offences. 7. Presumption of corruption in certain cases. 8. Time for taking proceedings. 9. Powers of police to inspect financial records and other documents. 10. Saving clause. 11. Consent of Director of Public Prosecutions.
 
 CHAPTER 11:11
 PREVENTION OF CORRUPTION ACT
