@@ -1,0 +1,2 @@
+# 8B. Register of Beneficial Owners to be made available to Board of Inland Revenue. [1 of 2024].
+Corporation Sole or any person acting under delegated authority of Corporation Sole shall make the register under section 8A(3) available to the Board of Inland Revenue or to any other person as the Minister may by Order prescribe, where required under any Tax Information Sharing Agreement to which Trinidad and Tobago is a party.
