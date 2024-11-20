@@ -16,6 +16,7 @@ CONTROL
 3. (1) For purposes of this Part, a person shall be taken to have control of a company-
 (a) if he exercises, or is able to exercise, or is entitled to
 acquire, control, whether direct or indirect, over the company's affairs, and in particular, but without prejudice to the generality of the preceding words, if he possesses or is entitled to acquire, the greater part of the share capital or voting power in the company; or
+(b) if he possesses or is entitled to acquire, either-
 (i) the greater part of the issued share capital of the
 company;
 (ii) such part of that capital as would, if the whole of the
