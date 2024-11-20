@@ -1,0 +1,9 @@
+# 22BD. Attorney General to propose names to the UNSC. [13 of 2018].
+(1) Where the Attorney General is satisfied that there are reasonable grounds to believe that a listed entity meets the criteria for being placed on the Resolutions 1267 (1999), 1989 (2011) and 2253 (2015) List or the 1988 List for the time being in force, he may make a request to the 1267, 1989 and 2253 Committee or the 1988 Committee as the case may be for the individual or entity to be placed on the respective list.
+(2) Notwithstanding subsection (3), the Attorney General shall not make a request to the 1267, 1989 and 2253 Committee or the 1988 Committee, as the case may be, for an individual or entity to be placed on the Resolutions 1267 (1999), 1989 (2011) and 2253 (2015) List or the 1988 List unless that individual or entity has been listed in accordance with section 22B(3).
+(3) Where an individual or entity has been placed on the Resolutions 1267 (1999), 1989 (2011) and 2253 (2015) List or the 1988 List on the basis of a request by the Attorney General, and the Attorney General is satisfied that an individual or entity listed pursuant to section 22BA(3) no longer meets the criteria for listing, he may petition-
+(a) the 1267, 1989 and 2253 Committee for
+removal of the individual or entity from the Resolutions 1267 (1999), 1989 (2011) and 2253 (2015) List; or
+(b) the 1988 Committee for removal of the
+individual or entity from the 1988 List.
+(4) Where an individual or entity has been placed on the Resolutions 1267 (1999), 1989 (2011) and 2253 (2015) List or the 1988 List, the Attorney General shall, as far as practicable, inform the individual or entity of the availability of the UN office of the Ombudsperson or focal point for De-Listing, as appropriate, for the purposes of petitioning the removal from the Resolutions 1267 (1999), 1989 (2011) and 2253 (2015) List or the 1988 List, as the case may be.
