@@ -1,0 +1,3 @@
+# 5E. Use of the electronic system. [4 of 2024].
+(1) The transmission or electronic record of a data message, information or document in the electronic system shall, unless the contrary is proved, be prima facie evidence that the transmission or electronic record was made or authorised by or deemed to have been made or authorised by the registered user to whom the user account or user account unique identifier or other credentials were used.
+(2) The Registrar General is not required to conduct investigations or verification processes into any matter regarding the transmission or electronic record of a data message, information or document in the information system.
