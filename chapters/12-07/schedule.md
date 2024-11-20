@@ -15,8 +15,8 @@ it ends;
 from one place of custody to another as well as the time at which the detention ends;
 (g) any property secured from the person on his arrest or during
 his detention;
-(h) the name and rank of the police officer above the rank of
-sergeant upon whose authority any action in relation to the detained person is taken; and
+(h) the name and rank of the police officer upon whose authority
+any action in relation to the detained person is taken; and
 (i) the ground or grounds, on which the detention is based.
 2. The Custody Record shall be opened as soon as practicable after the start of a person's detention.
 3. The person making an entry in the Custody Record shall insert the time at which the entry is made and his signature against the entry made.
@@ -26,5 +26,4 @@ sergeant upon whose authority any action in relation to the detained person is t
 7. An entry shall be made in respect of any refusal of the person detained to insert his signature where such signature is required.
 8. Entries in the Custody Record shall be made as soon as practicable after the occurrence of the events to which they relate.
 9. A police officer of the rank of Inspector or above shall be responsible for ensuring the accuracy and completeness of the Custody Record and that the Custody Record or a copy of the Record accompanies the detained person on his transfer.
-10. Entries in a computerised Custody Record shall be timed and shall contain evidence of the computer operator's identity.
-- Margin: Section 23. [2 of 2010].
+10. Entries in a computerised Custody Record shall be timed and shall contain evidence of the computer operator's identity. [Subsidiary]
