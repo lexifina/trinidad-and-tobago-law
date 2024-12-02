@@ -2,25 +2,30 @@ PETROLEUM TAXES ACT
 CHAPTER 75:04
 Act
 22 of 1974 Amended by
-15 of 1992 30 of 1974
-16 of 1975 8 of 1996 46 of 1976 9 of 1997 47 of 1980
-5 of 2004
-5 of 1981
-21 of 2005
-28 of 1984
-2 of 2006
-26 of 1985
-30 of 2007 14 of 1987 13 of 2010 16/1987 *2 of 2013 11 of 1988
-27 of 1988 4 of 2014 6 of 1989 7 of 2016 *See Note on page 2.
+5 of 2004 30 of 1974 21 of 2005 6 of 1975 2 of 2006 46 of 1976 30 of 2007 47 of 1980 13 of 2010 5 of 1981 *2 of 2013 28 of 1984 4 of 2014 26 of 1985 7 of 2016 14 of 1987
+*23 of 2019 16/1987 *30 of 2020 11 of 1988 *10 of 2021 27 of 1988 *16 of 2021 6 of 1989 *23 of 2022 15 of 1992
+8 of 1996 15 of 2023 9 of 1997 *15 of 2024 (*See Notes on page 2)
 Index of Subsidiary Legislation
 Page
-Supplemental Refining Tax (Variation of Rates) Order (LN 143/1982) … 43 Supplemental Petroleum Tax (Variation of Rate) Order (LN 119/1983) … 43 Supplemental Petroleum Tax (Variation of Rate) Order (LN 152/1984) … 44
+Supplemental Refining Tax (Variation of Rates) Order (LN 143/1982) … 47 Supplemental Petroleum Tax (Variation of Rate) Order (LN 119/1983) … 47 Supplemental Petroleum Tax (Variation of Rate) Order (LN 152/1984) … 48
 Note on Omissions
 Petroleum Profits Tax (Posted Prices) Orders made under paragraph 5 of the Second Schedule have been omitted (see the Current Edition of the Consolidated Index of Acts and Subsidiary Legislation for references to these Orders).
 Note on Section 18A
-By Act No. 21 of 2005, section 10I of the Corporation Tax Act is to take effect from 1st January 2003.
+By Act No. 21 of 2005, section 10I of the Corporation Tax Act took effect from 1st January 2003.
 Note on Act No. 2 of 2013
 Amendments effected to this Act by Act No. 2 of 2013 took effect from 1st January 2013.
+Note on Act No. 23 of 2019
+Amendments made to this Act by Act No. 23 of 2019 took effect on 1st January 2020.
+Note on Act No. 30 of 2020
+Amendments made to this Act by Act No. 30 of 2020 took effect on 1st January 2020.
+Note on Act No. 10 of 2021
+Amendments made to this Act by Act No. 10 of 2021 are deemed to have come into operation on 5th July 2021.
+Note on Act No. 16 of 2021
+Amendments made to this Act by Act No. 16 of 2021 took effect on 1st January 2022.
+Note on Act No. 23 of 2022
+Amendments made to this Act by Act No. 23 of 2022 took effect on 1st January 2023.
+Note on Act No. 15 of 2024
+Amendments made to this Act by Act No. 15 of 2024 took effect on 14th October 2024 by LN 185/2024.
 CHAPTER 75:04
 PETROLEUM TAXES ACT
 ARRANGEMENT OF SECTIONS
@@ -28,8 +33,7 @@ SECTION
 1. Short title.
 PRELIMINARY
 2. Interpretation.
-CONSTRUCTION AND APPLICATION OF ACTS
-3. Construction of Part I.
+CONSTRUCTION AND APPLICATION OF ACTS 3. Construction of Part I.
 3A. Application of the Act.
 4. Application of Acts.
 ADMINISTRATION AND GENERAL PRINCIPLES
@@ -38,9 +42,9 @@ OF TAXATION
 7A. Payment of supplemental petroleum tax.
 PART I
 TAXATION OF PETROLEUM OPERATIONS
-} 8. Application of Part I to individuals and companies.
-9. Charge of petroleum profits tax.
+8. Application of Part I to individuals and companies. 9. Charge of petroleum profits tax.
 9A. Charge and computation of national recovery impost. 10. General scheme of petroleum profits tax. 11. Basis of assessment.
+}
 11A.
 to (Repealed by Act No. 8 of 1996).
 11C.
@@ -66,17 +70,16 @@ TRANSITIONAL PROVISIONS
 19A. Payment of tax for 1980. 19B. Gross income of production business for 1980. 19C. Refining stocks as at 31st December 1979.
 PART II
 SUPPLEMENTAL PETROLEUM TAX
-20. Interpretation. 21. Charge to supplemental petroleum tax.
-} (Repealed by Act No. 15 of 1992).
-22. Computation of supplemental petroleum tax.
+20. Interpretation. 21. Charge to supplemental petroleum tax. 22. Computation of supplemental petroleum tax.
 22A. (Repealed by Act No. 2 of 2006).
+} (Repealed by Act No. 15 of 1992).
 23. 24. 25. (Repealed by Act No. 21 of 2005).
 25A. Royalty allowance. 25B. (Repealed by Act No. 21 of 2005).
 26. Investment tax credits. SECTION
 26A. Time for claiming tax credits. 26B. Shortfalls and excesses in tax credits. 26C. Disposal of machinery and plant. 26D. (Repealed by Act No. 21 of 2005).
 PART III
 MISCELLANEOUS AND GENERAL
-26E. Claim for decommissioning. 26F. (Not included in the original Act). 26G. Application of certain provisions of the Act.
+26E. Claim for decommissioning. 26F. (Not included in the original Act). 26G. Application of certain provisions of the Act. 26H. Carbon capture and storage and enhanced oil recovery allowance.
 27. Allocation of expenses to separate business. 28. Provisions as to accounting. 29. Powers of inspection of records. 30. Consultation. 31. Offences and penalties. 32. Regulations.
 FIRST SCHEDULE. SECOND SCHEDULE. THIRD SCHEDULE. FOURTH SCHEDULE.
 

@@ -10,7 +10,7 @@ fifteen days after ceasing to carry on such business.
 (3) Subject to subsection (4), if all or any part of the tax payable under this Part is not paid by the fifteenth day of the month following the end of a quarter, the outstanding tax shall bear interest at the rate of twenty per cent a year from the day after the date on which the quarterly instalment was due up to the date of payment.
 (4) Notwithstanding subsection (3)-
 (a) every person shall pay to the Board on or
-before 30th April 2006, any outstanding tax owing for any of the quarters for the year ending 31st December 2005, as a result of the coming into operation of the Finance Act, 2005, and no interest shall accure on such outstanding tax up to 30th April 2006; and
+before 30th April 2006, any outstanding tax owing for any of the quarters for the year ending 31st December 2005, as a result of the coming into operation of the Finance Act, 2005, and no interest shall accrue on such outstanding tax up to 30th April 2006; and
 (b) if all or any part of the outstanding tax referred
 to in paragraph (a), is not paid by 30th April 2006, the outstanding tax shall bear interest at the rate of twenty per cent a year from 1st May
 2006, up to the date of payment.
