@@ -51,6 +51,7 @@ s-26D.md
 s-26E.md
 s-26F.md
 s-26G.md
+s-26H.md
 s-27.md
 s-28.md
 s-29.md
