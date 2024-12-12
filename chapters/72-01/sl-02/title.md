@@ -1,5 +1,8 @@
+SCHEDULE
+(Deleted by Act No. 2 of 2018)
 FINANCIAL INTELLIGENCE UNIT OF TRINIDAD AND
 TOBAGO (ENHANCED DUE DILIGENCE
 REQUIREMENTS) ORDER
 made under section 17(2)
+- Margin: Regulation 28. [2 of 2018].
 - Margin: 189/2016.
