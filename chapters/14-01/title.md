@@ -3,19 +3,17 @@ CHAPTER 14:01
 Act
 7 of 1962
 Amended by
-32 of 1979 9 of 1963 16 of 1988 19 of 1967 16 of 1994 35 of 1970 *18 of 1994 38 of 1970 14 of 1996 136/1976 †25 of 2000 110/1977 66 of 2000 218/1977
-*See Note on page 3
-†See Note on Validation at page 3
+16 of 1988 9 of 1963 16 of 1994 19 of 1967 *18 of 1994 35 of 1970 14 of 1996 38 of 1970 †25 of 2000 136/1976 66 of 2000 110/1977 *20 of 2020 218/1977 23 of 2022 32 of 1979
+(*See Notes on pages 2 and 3) (†See Note on Validation at page 3)
 Index of Subsidiary Legislation
 Page
-Defence (Enlistment and Service) Regulations (7 of 1962) … … … 154
-Defence (Officers) Regulations (7 of 1962) ... 167
-Defence (Pay and Superannuation) (Transferred Officers) Regulations (19 of 1967) 170
+Defence (Enlistment and Service) Regulations (7 of 1962) … … … 156
+Defence (Officers) Regulations (7 of 1962) ... 169
+Defence (Pay and Superannuation) (Transferred Officers) Regulations (19 of 1967) 172
 Defence (Pay and Superannuation) (Transferred Officers) (Prescribed Bodies and
-Authorities) Regulations (134/1974) ... 175
-Defence Force (Administrative Inspections) Regulations (82/1975) … … 177
-Defence (Special Service Commissions) Regulations (LN 104/1987) … … 180
-Defence (Pensions, Terminal and Other Grants) Regulations (GN No. 38 of 1968) 190
+Authorities) Regulations (134/1974) ... 177
+Defence Force (Administrative Inspections) Regulations (82/1975) … … 179
+Defence (Special Service Commissions) Regulations (LN 104/1987) … … 182 Defence (Pensions, Terminal and Other Grants) Regulations (GN No. 38 of 1968) 192
 Note on Omissions
 The following Subsidiary Legislation have been omitted:
 PART A
@@ -28,10 +26,15 @@ PART B
 (a) Notifications made under section 5;
 (b) Orders made under section 189;
 (c) Proclamations made under section 238.
-NB-(For references to the omitted Subsidiary Legislation see the latest Edition of the Consolidated Index of Acts and Subsidiary Legislation). For the discretion of the Court to deny bail to a defendant who is in custody in pursuance of the sentence of a Court or any authority acting under the Defence Act, see section 6(2)(c) of Act No. 18 of 1994.
+NB-(For references to the omitted Subsidiary Legislation see the latest Edition of the Consolidated Index of Acts and Subsidiary Legislation).
+Note on Act No. 18 of 1994
+For the discretion of the Court to deny bail to a defendant who is in custody in pursuance of the sentence of a Court or any authority acting under the Defence Act, see section 6(2)(c) of Act No. 18 of 1994.
 Note on Validation
 For the validation of all acts and things done under the Act, see section 4 of Act No. 25 of 2000.
-CHAPTER 14:01 DEFENCE ACT
+Note on Act No. 20 of 2020
+The amendments made to this Act by Act No. 20 of 2020 took effect on 21st July 2020 by LN 275/2020.
+CHAPTER 14:01
+DEFENCE ACT
 ARRANGEMENT OF SECTIONS SECTION
 PART I
 PRELIMINARY
@@ -48,7 +51,7 @@ PART IV
 ENLISTMENT AND TERMS OF SERVICE
 18. Recruiting officers. 19. Enlistment Form. SECTION
 TERMS AND CONDITIONS OF SERVICE
-20. Terms of enlistment
+20. Terms of enlistment.
 RE-ENGAGEMENT AND EXTENSION OF SERVICE
 21. Re-engagement and continuance in service. 22. Prolongation of service.
 DISCHARGE AND TRANSFER TO THE RESERVE
@@ -67,8 +70,7 @@ OUT OF MILITARY SERVICE
 33. Aiding the enemy. 34. Communication with the enemy. 35. Cowardly behaviour. 36. Offences against morale. 37. Becoming a prisoner of war through disobedience or wilful neglect;
 and failure to rejoin forces.
 38. Offences by or in relation to sentries, etc.
-ARRANGEMENT OF SECTIONS-Continued
-SECTION
+ARRANGEMENT OF SECTIONS-Continued SECTION
 39. Sleeping on watch or abandoning post. 40. Looting.
 MUTINY AND INSUBORDINATION
 41. Mutiny. 42. Failure to suppress mutiny. 43. Insubordinate behaviour. 44. Disobedience to particular orders. 45. Obstruction of provost officers. 46. Disobedience to standing orders.
@@ -97,7 +99,7 @@ ARREST
 83. Power to arrest offenders. 84. Provisions for avoiding delay after arrest.
 ARRANGEMENT OF SECTIONS-Continued
 SECTION INVESTIGATIONS OF, AND SUMMARY DEALING WITH, CHARGES
-85. Investigation of charges by Commanding Officer. 86. Charges to be dealt with summarily or by Court-martial. 87. Further proceedings on charges against N.C.Os and other ranks. 88. Further proceedings on charges against officers and warrant officers. 89. Dismissal of charges referred to higher authority. 90. Officers who are to act as commanding officers and appropriate
+85. Investigation of charges and interdiction from duty. 86. Charges to be dealt with summarily or by Court-martial. 87. Further proceedings on charges against N.C.Os and other ranks. 88. Further proceedings on charges against officers and warrant officers. 89. Dismissal of charges referred to higher authority. 90. Officers who are to act as commanding officers and appropriate
 superior authorities.
 91. Limitation on powers of summary dealing with charges.
 COURT-MARTIAL: GENERAL PROVISIONS
@@ -129,8 +131,7 @@ AND FINALITY OF TRIALS
 disposed of.
 INQUIRIES
 131. Boards of inquiry. 132. Inquiries into absence.
-ARRANGEMENT OF SECTIONS-Continued
-SECTION
+ARRANGEMENT OF SECTIONS-Continued SECTION
 MISCELLANEOUS PROVISIONS
 133. Restitution or compensation for theft, etc. 134. Appointment of judge advocate. 135. Promulgation. 136. Custody of proceedings of Court-martial and right of accused to a
 copy thereof.
@@ -154,15 +155,14 @@ BILLETING
 171. Billeting requisitions. 172. Premises in which the billets may be provided. 173. Provision of billets. 174. Accommodation to be provided and payment therefor. 175. Appeals against billeting. 176. Compensation for damage. 177. Refusal to receive persons billeted, etc. 178. Application to civilians employed with the Force.
 REQUISITIONING OF VEHICLES
 179. Requisitioning orders. 180. Provision of vehicles. 181. Period for which vehicle to be furnished. 182. Payment for vehicle furnished. 183. Avoidance or hardship in requisitioning of vehicles.
-ARRANGEMENT OF SECTIONS-Continued
-SECTION
+ARRANGEMENT OF SECTIONS-Continued SECTION
 184. Record and inspection of mechanically-propelled vehicles. 185. Enforcement of provisions as to requisitioning. 186. Application to cattle, food, forage and stores. 187. Liability of State for damage by vehicles being delivered for
 requisitioning.
 188. Bringing into operation of sections 171 and 179. 189. Requisition of land for training, etc.
 PART IX
 GOVERNMENT AND GENERAL
 PROVISIONS COMMAND
-190. Command and precedence. 191. Chief of Defence Staff. 192. Regulations as to command. 193. Powers of command of members of co-operating forces.
+190. Command and precedence. 191. Chief of Defence Staff and Vice Chief of Defence Staff. 192. Regulations as to command. 193. Powers of command of members of co-operating forces.
 REDRESS OF COMPLAINTS
 194. Complaints by officers. 195. Complaints by other ranks.
 EXEMPTIONS FOR MEMBERS OF THE FORCE
@@ -185,15 +185,13 @@ USE OF UNIFORMS AND DRILLING
 PART X
 RESERVE
 221. Reservists. 222. Annual training. 223. Calling out of the reserve on temporary service. 224. Calling out of the reserve on permanent service. 225. Punishment for non-attendance. 226. Record of illegal absence.
-ARRANGEMENT OF SECTIONS-Continued
-SECTION
+ARRANGEMENT OF SECTIONS-Continued SECTION
 227. Discharge during service. 228. Regulations as to the reserve.
 PART XI
 VOLUNTEER DEFENCE FORCE
 229. Interpretation. 230. Constitution of Force. 231. Appointment of Commander of the Volunteer Defence Force. 232. Appointment of Staff Officers. 233. Appointment of officers. 234. Enlistment. 235. Enrolment. 236. Oath of allegiance. 237. Period of service. 238. President empowered to call out Force to aid civil force. 239. Power to make Regulations. 240. Saving.
 PART XII
-APPLICATION OF THE ACT AND
-SUPPLEMENTARY PROVISIONS
+APPLICATION OF THE ACT AND SUPPLEMENTARY PROVISIONS
 APPLICATION, TRANSFER AND ATTACHMENT
 241. Persons subject to military law and application of the Act. 242. Application of Act to civilians.
 FINANCIAL PROVISIONS AND REGULATIONS
