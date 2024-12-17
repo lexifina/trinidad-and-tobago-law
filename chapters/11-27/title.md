@@ -1,18 +1,29 @@
 PROCEEDS OF CRIME ACT
 CHAPTER 11:27
 Act
-55 of 2000 Amended by 10 of 2009 17 of 2012 15 of 2014 2 of 2015 49/2016
+55 of 2000 Amended by 10 of 2009 17 of 2012 15 of 2014 2 of 2015 49/2016 2 of 2018 *4 of 2018 *13 of 2018 20 of 2018 *7 of 2019 22 of 2019 *13 of 2020 *25 of 2020 *4 of 2021 16 of 2021 *24 of 2022 *1 of 2024 *15 of 2024
+(*See Notes on pages 2 and 3)
 Index of Subsidiary Legislation
-Page Financial Obligations Regulations (LN 7/2010)... 86 Proceeds of Crime (Prescribed Forms) Regulations (LN 2/2015) … … 124
-Note on Omissions
-Proceeds of Crime (Designated Authority) Order (LN 160/2003). Proceeds of Crime (Prescribed Sum) Order (LN 184/2010). Proceeds of Crime (Prescribed Sum) Order (LN 38/2011).
+Page Financial Obligations Regulations (LN 7/2010) ... 93 Proceeds of Crime (Prescribed Forms) Regulations (LN 2/2015) … … 136 Proceeds of Crime (Large Transactions) Order (LN 356/2019) … … 148
+Note on Omissions Proceeds of Crime (Designated Authority) Order (LN 160/2003). Proceeds of Crime (Prescribed Sum) Order (LN 184/2010). Proceeds of Crime (Prescribed Sum) Order (LN 38/2011).
 Note on Amendments made by this Act
 A. Section 60 of this Act amends section 50 of the Supreme Court of Judicature Act,
-Ch. 4:01.
-B. Section 61 of this Act amends sections 30 to 53 of the Dangerous Drugs Act, Ch. 11:25
-with savings. These amendments have been duly incorporated into the respective Acts.
-Note on Revision
-The pages of this Act bearing the notation L.R.O. 1/2015 are hereby authorised to be included in the Laws as from 5th January 2015 pursuant to an Order made under section 9 of the Law Revision Act (Chap. 3:03).
+Chap. 4:01.
+B. Section 61 of this Act amends sections 30 to 53 of the Dangerous Drugs Act,
+Chap. 11:25 with savings. These amendments have been duly incorporated into the respective Acts.
+Note on Act No. 4 of 2018 Amendments made to this Act by Act No. 4 of 2018 took effect on 1st January 2021 by LN 369/2020.
+Note on Act No. 13 of 2018 Amendments made to this Act by Act No. 13 of 2018 took effect on 20th August 2018 by LN 121/2018.
+Note on Act No. 7 of 2019 Amendments made to this Act by Act No. 7 of 2019 took effect on 14th June 2019 by LN 115/2019.
+Note on Act No. 13 of 2020 Amendments made to this Act by Act No. 13 of 2020 took effect on 15th January 2021 by LN 5/2021.
+Note on Act No. 25 of 2020 Amendments made to section 58E of this Act by Act No. 25 of 2020 took effect on 22nd December 2020 by LN 409/2020.
+Note on Act No. 4 of 2021
+Amendments made to this Act by Act No. 4 of 2021 took effect on 5th May 2021 by LN 126/2021.
+Note on Act No. 24 of 2022
+Amendments made to this Act by Act No. 24 of 2022 took effect on 8th May 2023 by LN 112/2023.
+Note on Act No. 1 of 2024
+Amendments made to this Act by Act No. 1 of 2024 took effect on 14th October 2024 by LN 183/2024.
+Note on Act No. 15 of 2024
+Amendments made to this Act by Act No. 15 of 2024 took effect on 14th October 2024 by LN 185/2024.
 CHAPTER 11:27
 PROCEEDS OF CRIME ACT
 ARRANGEMENT OF SECTIONS
@@ -25,21 +36,25 @@ OF A SPECIFIED OFFENCE
 trafficking.
 6. Benefit from drug trafficking. 7. The amount that might be realised. 8. Realised property. 9. Standard of proof. 10. Definitions. 11. Exercise of powers of Court. 12. Postponed determinations. 13. Provision of information by the Director of Public Prosecutions. 14. Provision of information by the defendant. 15. Review of cases where the proceeds of crime not assessed. 16. Review of assessment of the proceeds of a specific offence or drug
 trafficking.
-17. Revision of assessment of amount to be recovered. 18. Cases in which restraint and charging orders may be made. 19. Restraint orders. 20. Charging orders in respect of land, securities, etc. 21. Realisation of property. 22. Exercise of powers by High Court Receiver. 23. Variation of confiscation orders. 24. Increase in realisable property. 25. Confiscation orders where the defendant had absconded or died.
-ARRANGEMENT OF SECTIONS-Continued SECTION
-26. Variation of confiscation made by virtue of section 25. 27. Acquittal of absconder. 28. Discharge of confiscation order made against an absconder. 29. Compensation. 30. Amount of compensation. 31. Sentence in default of payment and interest on sums to be paid under
+17. Revision of assessment of amount to be recovered. 18. Cases in which restraint and charging orders may be made. 19. Restraint orders. 20. Charging orders in respect of land, securities, etc. 21. Realisation of property. 22. Exercise of powers by High Court Receiver. 23. Variation of confiscation orders. 24. Increase in realisable property. 25. Confiscation orders where the defendant had absconded or died. 26. Variation of confiscation made by virtue of section 25. 27. Acquittal of absconder.
+28. Discharge of confiscation order made against an absconder. 29. Compensation. 30. Amount of compensation. 31. Sentence in default of payment and interest on sums to be paid under
 confiscation order.
 32. Orders to make material available for investigating the benefit from
 a specified offence or drug trafficking.
-33. Authority for search. 34. Orders against a government department. 35. Affected persons can make representations. 36. Enforcement of external confiscation orders. 37. Registration of external confiscation orders. 38. Seizure and detention of cash. 39. Forfeiture of cash. 40. Appeal against forfeiture order made by a Magistrates' Court. 41. Forfeiture orders. 42. Restoration of forfeited items.
+33. Authority for search. 33A. Non-disclosure of warrants.
+34. Orders against a government department. 35. Affected persons can make representations. 36. Enforcement of external confiscation orders. 37. Registration of external confiscation orders. 38. Seizure and detention of cash. 39. Forfeiture of cash. 40. Appeal against forfeiture order made by a Magistrates' Court. 41. Forfeiture orders. 42. Restoration of forfeited items.
 PART II
 MONEY LAUNDERING
 42A. (Repealed by Act No. 15 of 2014).
-43. Interpretation of certain words and phrases. 44. Money laundering. 45. Dealings with criminal property. 46. Defence to charge of money laundering. 47. Disclosing a suspicion or belief. 48. Defence to sections 43, 45 and 46. 49. Effect of sections 47 and 48. 50. Not offence. 51. Tipping-off. 52. Failure to disclose knowledge or suspicion of money laundering. 53. Penalties. SECTION
-54. Extension of certain offences to public servants. 55. Record keeping and retention duties.
-55A. Reporting suspicious activity and transactions. 55B. Exemption from liability. 55C. Compliance programme. 55D. Supervisory Authority may enter premises. 55E. Confidentiality. 55F. Breach of confidentiality. 56. Regulations.
+43. Interpretation of certain words and phrases. 44. Money laundering. 45. Dealings with criminal property. 46. Defence to charge of money laundering. 47. Disclosing a suspicion or belief. 48. Defence to sections 43, 45 and 46. 49. Effect of sections 47 and 48. 50. Not offence. 51. Tipping-off. 52. Failure to disclose knowledge or suspicion of money laundering. 53. Penalties. 54. (Repealed by Act No. 20 of 2018). 55. Record keeping and retention duties. 55A. Reporting suspicious activity and transactions. 55B. Exemption from liability. 55C. Compliance programme. 55D. Supervisory Authority may enter premises.
+ARRANGEMENT OF SECTIONS-Continued SECTION
+55E. Confidentiality. 55F. Breach of confidentiality. 56. Regulations.
 56A. Supervisory Authority to submit report. 56B. Joint Committee of Parliament to be established.
 57. Offences and punishment.
+PART IIA
+NATIONAL ANTI-MONEY LAUNDERING COUNTER
+FINANCING OF TERRORISM COMMITTEE
+57A. Establishment of NAMLC. 57B. Rules to govern procedure of NAMLC.
 PART III
 MISCELLANEOUS
 58. Seized Assets Fund.

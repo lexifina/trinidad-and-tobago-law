@@ -22,7 +22,12 @@ of products;
 (19) Forgery;
 (20) Piracy;
 (21) Insider trading and market manipulation;
-(22) Money laundering; and
-(23) Offences under the Gambling and Betting Act.
-- Margin: Section 2. [15 of 2014 49/2016].
+(22) Money laundering;
+(23) Offences under the Gambling and Betting Act;
+(24) Participation in gangs and gang-related activity offences;
+(25) Offences related to a prohibited scheme under section 165A of the
+Securities Act; and
+(26) Offences under the Scrap Metal Act.
+- Margin: Section 2. [15 of 2014 49/2016 4 of 2021 16 of 2021 24 of 2022].
 - Margin: Ch. 11:19.
+- Margin: Ch. 84:07.
