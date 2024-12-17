@@ -10,15 +10,15 @@ CONFISCATION OF PROCEEDS OF
 DRUG TRAFFICKING
 30. (1) Where a person is convicted of a drug trafficking offence by a Magistrate and where-
 (a) it appears to the Magistrate that the person
-convicted may have benefited from drug trafficking and has or may have realisable property; or
+convicted may have benefitted from drug trafficking and has or may have realisable property; or
 (b) it appears to the Director of Public Prosecutions
-that the person convicted may have benefited from drug trafficking and has or may have realisable property, on application by the
+that the person convicted may have benefitted from drug trafficking and has or may have realisable property, on application by the
 Director of Public Prosecutions,
 the Magistrate shall at the time of conviction commit such person for sentence by a Judge of the High Court and shall remit to the Judge his recommendations as to such sentence and the reasons therefor.
 (2) Where a person appears before the High Court (hereinafter referred to as "the Court") to be sentenced in respect of a drug trafficking offence or where a person, after having been committed to the Court for trial, is convicted of a drug trafficking offence, the Court shall act as follows:
 (a) the Court shall first determine whether he has
-benefited from drug trafficking;
-(b) if the Court determines that he has so benefited,
+benefitted from drug trafficking;
+(b) if the Court determines that he has so benefitted,
 the Court shall, before sentencing or otherwise dealing with him in respect of the offence, determine in accordance with section 33 the amount to be recovered by virtue of this section;
 (c) the Court shall then in respect of the offence
 concerned-
@@ -30,19 +30,20 @@ payment by him; or
 (C) making any order under section 53; and
 (iii) subject to subparagraph (ii), leave the
 order out of account in determining the appropriate sentence or other manner of dealing with the defendant.
-(3) For the purposes of this Act, a person who has, at any time, whether before or after the commencement of this Act, received any payment or other reward in connection with drug trafficking carried on by him or another has benefited from drug trafficking.
+(3) For the purposes of this Act, a person who has, at any time, whether before or after the commencement of this Act, received any payment or other reward in connection with drug trafficking carried on by him or another has benefitted from drug trafficking.
 (4) Notwithstanding any written law to the contrary where an order is made against an offender under this section, the Court may, in addition to the making of that order, deal with the offender in any way it considers appropriate in respect of the drug trafficking offence for which the order was made.
 (5) In this Part and in Part VI and Part VII-
 (a) "confiscation order" means an order made under
 subsection (2);
 (b) "defendant" means a person against whom
 proceedings have been instituted for a drug trafficking offence whether or not he has been convicted.
-31. (1) For the purposes of this Act-
-(a) any payments or other rewards received by a
+31. (1) For the purposes of this Act- Assessing the
+proceeds of
+(a) any payments or other rewards received by a drug trafficking.
 person at any time whether before or after the commencement of this Act, in connection with drug trafficking carried on by him or another are his proceeds of drug trafficking; and
 (b) the value of his proceeds of drug trafficking is
 the aggregate of the values of the payments or other rewards.
-(2) The Court may, for the purposes of determining whether the defendant has benefited from drug trafficking and, if he has so benefited, of assessing the value of his proceeds of drug trafficking, make the assumptions referred to in subsection (3) except to the extent that any of the assumptions are shown to be incorrect in the defendant's case.
+(2) The Court may, for the purposes of determining whether the defendant has benefitted from drug trafficking and, if he has so benefitted, of assessing the value of his proceeds of drug trafficking, make the assumptions referred to in subsection (3) except to the extent that any of the assumptions are shown to be incorrect in the defendant's case.
 (3) The assumptions referred to in subsection (2)-
 (a) that any property appearing to the Court-
 (i) to have been held by him at any time since
@@ -210,12 +211,12 @@ RESTRAINT ORDERS
 defendant for a drug trafficking offence;
 (b) the proceedings have not been concluded; and
 (c) the Court is satisfied that there is reasonable
-cause to believe that the defendant has benefited from drug trafficking.
+cause to believe that the defendant has benefitted from drug trafficking.
 (2) Those powers are also exercisable where the Court is satisfied-
 (a) that an information is to be laid that a person
 has committed, or is suspected of having committed, a drug trafficking offence; and
 (b) that there is reasonable cause to believe that he
-has benefited from drug trafficking.
+has benefitted from drug trafficking.
 (3) For the purposes of sections 37 and 38, at any time when those powers are exercisable before proceedings have been instituted-
 (a) references in this Act to the defendant shall be
 construed as references to the person referred to in subsection (2)(a);
@@ -241,7 +242,9 @@ Judge in Chambers; and
 persons affected by the order.
 (5) A restraint order-
 (a) may be discharged or varied in relation to any
-property; and offences are concluded.
+property; and
+(b) shall be discharged when proceedings for the
+offences are concluded.
 (6) An application for the discharge or variation of a restraint order may be made by any person affected by it.
 (7) Where the Court has made a restraint order, the Court may, at any time, appoint a receiver-
 (a) to take possession of any realisable property; and
@@ -312,7 +315,9 @@ realisable property to make such payment to the receiver in respect of any benef
 (a) the proceeds of the enforcement of any charge
 imposed under section 38;
 (b) the proceeds of the realisation, other than by the
-enforcement of such a charge, of any property under section 37 or 38; and defendant, shall, after such payments, if any, as the Court may direct, have been made out of those sums, be applied on the defendant's behalf towards the satisfaction of the confiscation order.
+enforcement of such a charge, of any property under section 37 or 38; and
+(c) any other sums, being property held by the
+defendant, shall, after such payments, if any, as the Court may direct, have been made out of those sums, be applied on the defendant's behalf towards the satisfaction of the confiscation order.
 (2) If, after the amount payable under the confiscation order has been fully paid, any sums remain in the hands of the receiver, the receiver shall distribute those sums among such of those who held property which has been realised under this Act, and in such proportions as the Court may direct after giving reasonable opportunity for such persons to make representations to the Court.
 (3) The receipt of any sum by the Court on account of an amount payable under a confiscation order shall reduce the amount so payable, but the sum shall be applied as follows:
 (a) if paid by a receiver under subsection (1), it
@@ -333,7 +338,9 @@ realisable property which appears to the Court to be attributable wholly or part
 (3) Where a certificate has been issued under subsection (1), the defendant may apply to the Court for the amount to be recovered under the order to be reduced.
 (4) The Court shall, on an application under subsection (3)-
 (a) substitute for the amount to be recovered under
-the order such lesser amount as the Court thinks just in all the circumstances of the case; and detention in respect of the amount to be recovered under the order such shorter term in respect of the lesser amount as the Court thinks just in all the circumstances of the case.
+the order such lesser amount as the Court thinks just in all the circumstances of the case; and
+(b) substitute for the term of imprisonment or of
+detention in respect of the amount to be recovered under the order such shorter term in respect of the lesser amount as the Court thinks just in all the circumstances of the case.
 43. (1) Where a person who holds realisable property is adjudged bankrupt-
 (a) property for the time being subject to a restraint
 order made before the order adjudging him bankrupt; and
@@ -360,7 +367,9 @@ company has been made, the time of the passing of the resolution for voluntary w
 the presentation of the petition for the winding up of the company by the Court, such a resolution had been passed by the company, the time of the passing of the resolution; and
 (c) in any other case where such an order has been
 made, the time of the making of the order.
-45. (1) Where a receiver appointed under section 37 or 39 or in pursuance of a charging order takes any action-
+45. (1) Where a receiver appointed under section 37 or 39 Receivers
+supplementary or in pursuance of a charging order takes any action-
+provisions.
 (a) in relation to property which is not realisable
 property, being action which he would be entitled to take if it were such property;
 (b) believing, and having reasonable grounds for
@@ -370,7 +379,8 @@ believing, that he is entitled to take that action in relation to that property,
 or 39 or in pursuance of a charging order and no sum is available to be applied in payment of it under section 40(3)(a); or
 (b) where proceedings for a drug trafficking offence
 are not instituted.
-46. (1) If proceedings are instituted against a person for a drug trafficking offence and either-
+46. (1) If proceedings are instituted against a person for a Compensation.
+[27 of 1994]. drug trafficking offence and either-
 (a) the proceedings do not result in his conviction or
 convictions for any drug trafficking offence, or
 (b) where he is convicted of one or more drug
@@ -388,13 +398,11 @@ or continued if the serious default had not occurred.
 (a) conceals or disguises any property which is, or
 which, in whole or in part directly or indirectly represents, his proceeds of drug trafficking; or
 (b) converts, transfers or disposes of that property
-or removes it from the jurisdiction,
-for the purpose of avoiding prosecution for a drug trafficking offence or the making or enforcement in his case of a confiscation order or a forfeiture order.
+or removes it from the jurisdiction, for the purpose of avoiding prosecution for a drug trafficking offence or the making or enforcement in his case of a confiscation order or a forfeiture order.
 (2) A person is guilty of an offence if, knowing or having reasonable grounds to suspect that any property is, or in whole or in part directly or indirectly represents, another person's proceeds of drug trafficking, he-
 (a) conceals or disguises that property; or
 (b) converts, transfers or disposes of that property
-or removes it from the jurisdiction,
-for the purpose of assisting any person to avoid prosecution for a drug trafficking offence or the making or enforcement of a confiscation order or a forfeiture order.
+or removes it from the jurisdiction, for the purpose of assisting any person to avoid prosecution for a drug trafficking offence or the making or enforcement of a confiscation order or a forfeiture order.
 (3) A person is guilty of an offence who conceals, disposes, disguises, transfers, brings into Trinidad and Tobago or removes from Trinidad and Tobago any money or other property knowing or having reasonable grounds to suspect that the money or other property is derived, obtained or realised, directly or indirectly from drug trafficking.
 (4) A person is guilty of an offence if, knowing or having reasonable grounds to suspect that any money or other property is, or in whole or in part directly or indirectly represents another person's proceeds of drug trafficking, he receives, possesses or converts that money or other property.
 (5) It is a defence to a charge of committing an offence under subsection (4) that the person charged acquired the property for adequate consideration.
@@ -440,7 +448,7 @@ identified under subparagraphs (i) and (ii) whether the property is held by such
 (3) The period to be specified in an order under subsection (2) shall be seven days unless it appears to the Judge that a longer or shorter period would be appropriate in the particular circumstances of the application.
 (4) The conditions referred to in subsection (2) are-
 (a) that there are reasonable grounds for suspecting
-that a specified person has carried on or has benefited from drug trafficking;
+that a specified person has carried on or has benefitted from drug trafficking;
 (b) that there are reasonable grounds for suspecting
 that the material or the declaration to which the application relates-
 (i) is likely to be of substantial value, whether
@@ -453,8 +461,7 @@ that it is in the public interest, having regard to-
 investigation if the material is obtained or the declaration made; and
 (ii) the circumstances under which the person
 in possession of the material holds it, or the relationship or dealings of the person required to make the declaration with the specified person referred to in subparagraph (a), that the material should be produced or that access to it should be given or that the declarations be made.
-(5) Where the Judge makes an order under subsection
-(2)(b) in relation to material on any premises, he may, on the application of a police officer, order any person who appears to him to be entitled to grant entry to the premises, to allow a police officer to enter the premises to obtain access to the material.
+(5) Where the Judge makes an order under subsection (2)(b) in relation to material on any premises, he may, on the application of a police officer, order any person who appears to him to be entitled to grant entry to the premises, to allow a police officer to enter the premises to obtain access to the material.
 (6) Provision may be made by Rules of Court as to-
 (a) the discharge and variation of orders under this
 section; and
@@ -510,7 +517,7 @@ fulfilled; or
 (c) that the conditions in subsection (4) are fulfilled.
 (3) The conditions referred to in subsection (2)(b) are-
 (a) that there are reasonable grounds for suspecting
-that a specified person has carried on or has benefited from drug trafficking;
+that a specified person has carried on or has benefitted from drug trafficking;
 (b) that the conditions in section 48(4)(b) and (c)
 are fulfilled in relation to any material on the premises; and
 (c) that it would not be appropriate to make an
@@ -523,7 +530,7 @@ person entitled to grant access to the material or entitled to grant entry to th
 which the application is made might be seriously prejudiced unless a police officer could secure immediate access to the material.
 (4) The conditions referred to in subsection (2)(c) are-
 (a) that there are reasonable grounds for suspecting
-that a specified person has carried on or has benefited from drug trafficking; and
+that a specified person has carried on or has benefitted from drug trafficking; and
 (b) that there are reasonable grounds for suspecting
 that there is on the premises material relating to the specified person or to drug trafficking which is likely to be of substantial value, whether by itself or together with other material, to the investigation for the purpose of which the application is made, but that the material cannot at the time of the application be particularised; and
 (c) that-
@@ -551,14 +558,15 @@ communications and made-
 (i) in connection with the giving of legal
 advice; or
 (ii) in connection with or in contemplation of
-legal proceedings and for the purposes of such proceedings,
-when they are in the possession of a person who is entitled to possession of them.
+legal proceedings and for the purposes of such proceedings, when they are in the possession of a person who is entitled to possession of them.
 (2) Items held with the intention of furthering a criminal purpose are not items subject to legal privilege.
 (3) Subject to subsections (4) and (5), in sections 48 and 49 "excluded material" means-
 (a) personal records which a person has acquired
 or created in the course of any trade, business, profession or other occupation or for the purposes of any paid or unpaid office and which he holds in confidence;
 (b) human tissue or tissue fluid which has been taken
-for the purpose of diagnosis or medical treatment and which a person holds in confidence; confidence and which consists-
+for the purpose of diagnosis or medical treatment and which a person holds in confidence;
+(c) journalistic material which a person holds in
+confidence and which consists-
 (i) of documents; or
 (ii) of records other than documents.
 (4) A person holds material other than journalistic material in confidence for the purposes of this section if he holds it subject-
@@ -578,7 +586,9 @@ persons, subject to such an undertaking, restriction or obligation since it was 
 (a) any vehicle, vessel, aircraft;
 (b) any offshore installation; and
 (c) any tent or movable structure.
-51. (1) Subject to subsection (4), the Court may on an application by the Director of Public Prosecutions order any material mentioned in subsection (3) which is in the possession of a government department to be produced to the Court within such period as the Court may specify.
+51. (1) Subject to subsection (4), the Court may on an Disclosure of
+information held application by the Director of Public Prosecutions order any
+by government departments. material mentioned in subsection (3) which is in the possession of a government department to be produced to the Court within such period as the Court may specify.
 (2) The power to make an order under subsection (1) is exercisable if-
 (a) the powers conferred on the Court by
 sections 37(1) and 41(1) are exercisable by virtue of section 36(1); or
@@ -595,8 +605,8 @@ officer of a government department and the defendant or a person, referred to in
 (5) The Court may by order authorise the disclosure to such a receiver of any material produced under subsection (1) or any part of such material but the Court shall not make an order under this subsection unless a reasonable opportunity has been given for an officer of the department to make representations to the Court.
 (6) Material disclosed in pursuance of an order under subsection (5) may, subject to any conditions contained in the order, be further disclosed for the purposes of the functions under this Act of the receiver or the Court.
 (7) The Court may, by order, authorise the disclosure to a person mentioned in subsection (8) of any material produced under subsection (1) or any part of such material but the Court shall not make an order under this subsection unless-
-(a) a reasonable opportunity has been given for an
-officer of the department to make representations to the Court; and
+(a) a reasonable opportunity has been given for
+an officer of the department to make representations to the Court; and
 (b) it appears to the Court that the material is likely
 to be of substantial value in exercising functions relating to drug trafficking.
 (8) The persons referred to in subsection (7) are-
@@ -639,8 +649,8 @@ deceased person; or
 (4) In making its determination-
 (a) under subsection (3)(a) the Court shall consider
 any representations made by a personal representative, beneficiary, or other relevant party regarding the estate of the deceased person;
-(b) under subsection (3)(b) the Court shall do so one
-month after notice of the application made by the Director of Public Prosecutions has been advertised in a daily newspaper.
+(b) under subsection (3)(b) the Court shall do so
+one month after notice of the application made by the Director of Public Prosecutions has been advertised in a daily newspaper.
 SUBSIDIARY LEGISLATION
 DANGEROUS DRUGS (DESIGNATED COUNTRY) ORDER
 made under section 35A
@@ -648,7 +658,6 @@ WHEREAS it is provided by section 35A of the Dangerous Drugs Act, that the Minis
 And whereas it is expedient for the Minister to declare the United States of America a designated country:
 Now, therefore, the Minister in exercise of the powers conferred on her by section 35A of the Act, hereby declares as follows:
 - Margin: Confiscation orders.
-- Margin: Assessing the proceeds of drug trafficking.
 - Margin: Statements relating to drug trafficking.
 - Margin: Amount to be recovered under confiscation order.
 - Margin: Definition of principal terms used.
@@ -669,14 +678,11 @@ Now, therefore, the Minister in exercise of the powers conferred on her by secti
 - Margin: Ch. 9:70.
 - Margin: Winding up of company holding realisable property.
 - Margin: Ch. 81:01.
-- Margin: Receivers supplementary provisions.
-- Margin: Compensation. [27 of 1994].
 - Margin: Offences relating to the proceeds of drug trafficking. [27 of 1994].
 - Margin: Order to make material available.
 - Margin: Ch. 81:01.
 - Margin: Authority for search.
 - Margin: Supplementary provisions to sections 48 and 49.
-- Margin: Disclosure of information held by government departments.
 - Margin: Offence of prejudicing investigation.
 - Margin: Forfeiture orders. [27 of 1994].
 - Margin: 65/1997.
