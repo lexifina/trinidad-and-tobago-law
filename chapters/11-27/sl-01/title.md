@@ -1,7 +1,6 @@
 SUBSIDIARY LEGISLATION
 FINANCIAL OBLIGATIONS REGULATIONS
-ARRANGEMENT OF REGULATIONS
-REGULATION
+ARRANGEMENT OF REGULATIONS REGULATION
 PART I
 PRELIMINARY
 1. Citation. 2. Interpretation.
@@ -11,7 +10,9 @@ OR LISTED BUSINESS
 3. Compliance Officer. 4. Functions of the Compliance Officer. 5. Recruitment of staff. 6. Training of staff. 7. Compliance programme. 8. Internal reporting to Compliance Officer. 9. Legal professional adviser. 10. Auditors to review programme.
 PART III
 CUSTOMER DUE DILIGENCE
-11. Identification procedure. 12. Beneficial owner. 13. Representative applicant. 14. Risk-based approach. 15. New business relationship. 16. Identity of a business customer. 17. Trust fiduciaries. 18. Discrepancies in information. 19. Anonymous accounts. 20. Politically exposed persons. 21. Correspondent banking. 22. Shell banks. 23. Technological developments. REGULATION
+11. Identification procedure. 12. Beneficial owner. 13. Representative applicant. 14. Risk-based approach. 15. New business relationship. 16. Identity of a business customer. 17. Trust fiduciaries. 18. Discrepancies in information. 19. Anonymous accounts. 20. Politically exposed persons. 21. Correspondent banking. 22. Shell banks. 23. Technological developments. [Subsidiary] Financial Obligations Regulations
+ARRANGEMENT OF REGULATIONS-Continued
+REGULATION
 PART IV
 CUSTOMER DUE DILIGENCE PROVISIONS
 FOR INSURANCE COMPANIES
@@ -25,15 +26,16 @@ PART VI
 SUPERVISORY AUTHORITY
 39. Delegation by Supervisory Authority. 40. Measures to ensure compliance.
 40A. Supervisory Authority to issue guidelines.
-41. Reports to the F.I.U.
+41. Reports to the FIU.
 PART VII
 OFFENCES AND PENALTIES
 42. Offences and penalties. 43. Offences by companies, etc. 44. Prosecutions.
 PART VIII
 MISCELLANEOUS
 45. Repeal and Savings.
+[Subsidiary]
 FINANCIAL OBLIGATIONS REGULATIONS
 made under section 56
 PART I
 PRELIMINARY
-- Margin: 7/2010. [392/2014].
+- Margin: 7/2010. [392/2014 183/2018 22 of 2019 73/2019 386/2019].
