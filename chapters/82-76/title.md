@@ -6,12 +6,15 @@ Amended by
 *5 of 1999 (By implication)
 18 of 2000
 54 of 2000
-*See Note on page 2
+*14 of 2024
+(*See Notes on page 2)
 Index of Subsidiary Legislation
 Page Patents Rules (LN 144/1996) ... 57
 Note on Act No. 5 of 1999
 (Validation of applications filed under the Patent Co-operation Treaty)
-See Patents (Validation of International Applications filed under the Patent Co-operation Treaty), (No. 2) Act 1999 (Act No. 5 of 1999) for validating the effect of certain international applications under the said Treaty designating Trinidad and Tobago filed between 10th March, 1994 and 1st December, 1997.
+See Patents (Validation of International Applications filed under the Patent Co-operation Treaty), (No. 2) Act 1999 (Act No. 5 of 1999) for validating the effect of certain international applications under the said Treaty designating Trinidad and Tobago filed between 10th March 1994 and 1st December 1997.
+Note on Act No. 14 of 2024
+The amendments made to this Act by Act No. 14 of 2024 took effect on 14th October 2024 by LN 186/2024.
 CHAPTER 82:76
 PATENTS ACT
 ARRANGEMENT OF SECTIONS SECTION
@@ -20,13 +23,13 @@ PRELIMINARY
 1. Short title. 2. Interpretation.
 PART II
 INTELLECTUAL PROPERTY OFFICE
-3. Intellectual property office. Controller and his staff.
+3. Intellectual property office.
+Controller and his staff.
 PART III PATENTS
 4. Administration of patents; Information Services. 5. Appointment of Examiners. 6. Restrictions on officers of Intellectual Property Office. 7. Exercise of discretionary power by Controller.
 PART IV
 PATENTABILITY OF INVENTIONS
-8. Patentable inventions. 9. Novelty.
-10. Inventive step. 11. Industrial application. 12. Exclusions from patentability.
+8. Patentable inventions. 9. Novelty. 10. Inventive step. 11. Industrial application. 12. Exclusions from patentability.
 PART V
 RIGHT TO APPLY FOR AND OBTAIN A PATENT
 13. Right to apply for patent. 14. Right to patent. 15. Invention made by an employee or pursuant to a commission. 16. Judicial assignment of patent application or patent. 17. Mention of inventor.
@@ -37,7 +40,7 @@ APPLICATIONS FOR PATENT
 18. Making of application. 19. Date of filing application. 20. Priority date. 21. Information on corresponding foreign applications. 22. Disclosure of matter, etc., between earlier and later applications. 23. Examination as to form. 24. Search and substantive examination. 25. Refusal or grant of patent. 26. Amendment of application; time limit for grant; changes in patent. 27. Withdrawal of application. 28. Notification of grant and publication of specification.
 PART VII
 PROVISIONS AS TO PATENTS AFTER GRANT
-29. Term of patent. 30. Annual fees. 31. Surrender of patent or of claim.
+29. Term of patent. 30. Annual fee. 31. Surrender of patent or of claim.
 PART VIII
 PROPERTY IN PATENT APPLICATIONS AND PATENTS
 32. Nature of and transactions in patents. 33. Co-ownership of patents and applications for patents.
@@ -75,8 +78,8 @@ REPRESENTATION
 79. Representation. SECTION
 PART XIX
 LEGAL PROCEEDINGS
-80. Appeal against order of Controller. 81. Right of appeal from order and decision of Court. 82. Burden of proof in certain cases. 83. Extension of privilege for certain communications with Attorneys-at-
-law relating to patent proceedings.
+80. Appeal against order of Controller. 81. Right of appeal from order and decision of Court. 82. Burden of proof in certain cases. 83. Extension of privilege for certain communications with Attorneys-
+at-law relating to patent proceedings.
 84. Costs and security for costs.
 PART XX
 GENERAL AND MISCELLANEOUS
