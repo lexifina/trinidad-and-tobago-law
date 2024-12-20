@@ -41,12 +41,13 @@ company and the licensee from other business and from other interests of any con
 internal controls and accounting systems of the company;
 (e) risk management systems and policies or proposed risk
 management systems and policies of the company and the licensee;
+SECOND SCHEDULE-Continued
 (f) arrangements for any business, or functions relating to any
 business, of the company or the licensee to be carried on by any person other than the company or the licensee; and
 (g) such other matters as the Central Bank may prescribe.
 B. Business to be directed by at least two individuals
 At least two individuals with sufficient experience and knowledge of the business to direct effectively the business of the licensee or the financial holding company.
-C. Composition of board of directors
+C. Composition of
 In the case of a company incorporated in Trinidad and Tobago the directors shall include such number (if any) of directors without executive responsibility for the management of its business as the Central Bank considers appropriate having regard to the circumstances of the licensee and the nature and scale of its operations. The directors shall be selected from amongst persons drawn from diverse occupations, and the overall composition of the board should reflect a reasonable mix of skills and experience, in matters relating to finance, economics, accountancy, industry, commerce, law or administration.
 D. Business to be conducted in prudent manner
 (1) The licensee must conduct, or, in the case of a company which is not yet carrying on the business of banking or business of a financial nature, will conduct its business in a prudent manner.
@@ -71,15 +72,15 @@ operation of any affiliate so far as is capable of affecting the licensee.
 (9) A licensee shall not be regarded as conducting its business in a prudent manner unless it maintains or, as the case may be, will maintain adequate systems of control of its business and records.
 (10) Records and systems shall not be regarded as adequate unless they are such as to enable the business of the licensee to be prudently managed and the licensee to comply with the duties imposed on it by or under this Act; and in determining whether those systems are adequate, the Central Bank shall have regard to the functions and responsibilities in respect of them of any such directors of the licensee as are mentioned in paragraph C.
 (11) Subparagraphs (2) to (10) are without prejudice to the generality of subparagraph (1).
-(12) For the purposes of this paragraph "net assets", in relation to a company, means stated capital and reserves. E.
-Integrity and skills The business of the licensee or financial holding company is, or in the case of an institution which has applied for a licence or a permit, will be carried on with integrity and the professional skills appropriate to the nature and scale of its activities.
-F.
-Minimum net assets
+(12) For the purposes of this paragraph "net assets", in relation to a company, means stated capital and reserves.
+SECOND SCHEDULE-Continued
+E. Integrity and skills
+The business of the licensee or financial holding company is, or in the case of an institution which has applied for a licence or a permit, will be carried on with integrity and the professional skills appropriate to the nature and scale of its activities.
+F. Minimum net assets
 (1) The institution will at any time when a licence is granted to it have net assets amounting to not less than fifteen million dollars (or an amount of equivalent value denominated wholly or partly in a currency acceptable to the Central Bank other than Trinidad and Tobago currency).
 (2) In this paragraph "net assets", means stated capital.
 (3) The Central Bank may vary the sum specified in paragraph (1).
-G.
-Other matters for consideration:
+G. Other matters for consideration
 (1) The nature and sufficiency of the financial resources of the proposed controlling shareholder or proposed acquirer as a source of continuing financial support for the licensee.
 (2) The soundness and feasibility of the proposed controlling shareholder or proposed acquirer for the future conduct and development of the licensee's business.
 (3) The business record and experience of the proposed controlling shareholder or the proposed acquirer.

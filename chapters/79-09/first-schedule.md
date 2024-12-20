@@ -2,14 +2,13 @@
 Class Activities
 1. Confirming House or Confirming, accepting or financing
 Acceptance House import and export bills
-2. Finance Company Hire Purchase and Installment Credit
+2. Finance Company Hire Purchase and Instalment Credit
 Accounts receivable
 Trade and inventory financing
 factoring
 Block discounting
 3. Leasing Corporation Lease financing
-* See Note on section 130 on page 2. † See Note on section 52(2)(b) at page 2.
-FIRST SCHEDULE-Continued
+*See Note on section 130 on page 2. †See Note on section 52(2)(b) at page 2.
 Class Activities
 4. Merchant Bank Floating and underwriting stocks,
 shares and bonds
