@@ -42,6 +42,7 @@ s-40.md
 s-41.md
 s-42.md
 s-43.md
+s-43A.md
 s-44.md
 s-45.md
 s-46.md
@@ -135,3 +136,11 @@ sl-01/r-1.md
 sl-01/r-2.md
 sl-01/r-3.md
 sl-01/schedule.md
+sl-01/schedule-1.md
+sl-01/schedule-2.md
+sl-01/schedule-3.md
+sl-01/schedule-4.md
+sl-01/schedule-5.md
+sl-01/schedule-1--2.md
+sl-01/schedule-2--2.md
+sl-01/schedule-3--2.md

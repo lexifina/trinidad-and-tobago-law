@@ -26,6 +26,7 @@ Institutions Activities
 Export-Import Bank of (a) The business of a
 Trinidad and Tobago Confirming House, Limited Acceptance House,
 Finance House or Finance Company;
+THIRD SCHEDULE-Continued
 (b) Financial Services
 Activities as described in paragraph 8 of the First Schedule.
 The following persons
