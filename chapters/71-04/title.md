@@ -1,9 +1,9 @@
 DEVELOPMENT LOANS ACT
 CHAPTER 71:04
 Act
-19 of 1964 Amended by 17 of 1965 14 of 1969 7 of 1990 29 of 1994 14 of 1995
+19 of 1964 Amended by 17 of 1965 14 of 1969 7 of 1990 29 of 1994 14 of 1995 10 of 2021
 Index of Subsidiary Legislation
-Page Resolutions [made under section 3(1)] ... 9 Development Loans (Citicorp Merchant Bank Ltd.) (TT $200M-TT $300M
+Page Resolutions [made under section 3(1)] ... 9 Development Loans (Citicorp Merchant Bank Ltd.) (TT$200M-TT$300M
 Bond Issue) Order (LN 48/1997) ... 10
 CHAPTER 71:04
 DEVELOPMENT LOANS ACT
