@@ -1,10 +1,11 @@
-CENTRAL BANK (DEPOSIT INSURANCE) BYE-LAWS
-ARRANGEMENT OF BYE-LAWS
-BYE-LAW
-1. Citation. 2. Definitions. 3. Commencement of operations of Corporation. 4. Issue of certificate of insurance to licensed institution. 5. Assessment of initial contribution and annual premium. 6. Inspector of Banks to supply to Corporation information regarding
-institutions.
-7. Inspector's Reports to be available to the Corporation. 8. Annual returns by institutions to Corporation. 9. Public notification of closure of institution. 10. Powers of Corporation in relation to closed institution. 11. Payment by Corporation to depositor. 12. Claims for deposit insurance. 13. Payment of claims. 14. Individual and nominee accounts. 15. Trust accounts. 16. Personal representative accounts. 17. Joint accounts.
-SCHEDULE.
-CENTRAL BANK (DEPOSIT INSURANCE) BYE-LAWS
-made under section 60(3)
-- Margin: 210/1986. [124/1988].
+CENTRAL BANK (PAYMENT OF SUPERVISORY FEES
+AND CHARGES) REGULATIONS
+ARRANGEMENT OF REGULATIONS
+REGULATION
+1. Citation. 2. Interpretation. 3. Application of Regulations. 4. Service charges. 5. Date for determining supervisory costs. 6. Apportioning supervisory costs. 7. Supervisory fees. 8. Calculation of fees. 9. Total assets to be aggregate assets. 10. Exclusion of assets. 11. Total assets based on a two-year average. 12. Difference between supervisory fees and licence fees. 13. Flat supervisory fee for pension fund plans. 14. Billing procedure. 15. Time frame for payments by instalments. 16. First payment. 17. Deductions from Reserve Account. 18. Unpaid fees to be recovered as civil debt. 19. Supervisory costs to be introduced on a phased basis. 20. Payments from pension funds.
+SCHEDULE I. SCHEDULE II.
+[Subsidiary]
+CENTRAL BANK (PAYMENT OF SUPERVISORY FEES
+AND CHARGES) REGULATIONS
+made under section 60(6)
+- Margin: 170/2011. 372/2020.
