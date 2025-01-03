@@ -8,6 +8,7 @@ s-6.md
 s-7.md
 s-8.md
 s-8A.md
+s-8B.md
 s-9.md
 s-10.md
 s-11.md
@@ -15,8 +16,12 @@ s-12.md
 s-13.md
 s-14.md
 s-15.md
+s-15A.md
+s-15B.md
+s-15C.md
 s-16.md
 s-17.md
+s-18.md
 third-schedule.md
 fourth-schedule.md
 fifth-schedule.md
