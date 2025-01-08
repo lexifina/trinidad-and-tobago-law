@@ -11,6 +11,7 @@ and whose household income is deemed inadequate;
 of the Senior Citizens' Pension and public assistance; and
 (ii) whose household income is deemed
 inadequate;
+Public Assistance Regulations
 (c) a single parent who-
 (i) is unable to earn a living due to caring for
 his child who has a physical or mental disability; and
