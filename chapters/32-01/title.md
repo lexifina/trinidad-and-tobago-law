@@ -2,18 +2,23 @@ NATIONAL INSURANCE ACT
 CHAPTER 32:01
 Act
 35 of 1971 Amended by
-27 of 1974 †30 of 2007 27 of 1977 17/2008 23 of 1980
-18/2008
+27 of 1974 †2 of 2012 27 of 1977 2 of 2013 23 of 1980 73/2013
 11/1984
-†2 of 2012
+254/2013
 *13 of 1984
-2 of 2013
+†7 of 2016
 *14 of 1987
-73/2013
+132/2018
 †18 of 1993
-254/2013 9 of 1999 †7 of 2016 9 of 2004
-*See Note on Health Surcharge on page 3
-†See Note on page 3
+13 of 2019
+9 of 1999
+15 of 2022
+9 of 2004
+15 of 2023
+†30 of 2007
+†15 of 2024 17/2008 18 of 2024 18/2008
+(*See Note on Health Surcharge on page 3)
+(†See Notes on page 3)
 Index of Subsidiary Legislation
 Page National Insurance (Registration) Regulations (LN 27/2004) … … 139 National Insurance (Contribution) Regulations (GN 63/1972) … … 146 National Insurance (Medical Expenses) Regulations (GN 95/1977) … 168 National Insurance (Employment Injury) (Payment of Medical Expenses)
 Order (GN 226/1979) ... 172 National Insurance (Prescribed Diseases) Regulations (GN 94/1977) … 184 National Insurance (Benefits) Regulations (GN 77/1972)… … … 199 National Insurance (Harmonisation of Pension Fund Plans) Regulations
@@ -25,22 +30,25 @@ The following are the relevant commencement dates:
 (a) 15th November 1971-GN 223/1971
 Section 1 to section 27, the provisions of Part II (i.e., section 28 to section 35) save in their application to self-employed persons and the provisions of sections 58, 64 and 71 came into operation on 15th November 1971 [GN 223/1971].
 (b) 10th April 1972-GN 62/1972
-Section 36 to section 38; section 41 to section 45; section 46(1)(d) and (f) to section 56 of Part III save in their application to employed persons employed by more than one person within the meaning of the said section 45; section 57; section 59 to section 63 and section 65 to section 70 of Part IV came into operation on 10th April 1972 [GN 62/1972].
+Section 36 to section 38; section 41 to section 45; section 46(1)(d) and (f) to section 56 of Part III save in their application to employed persons employed by more than one person within the meaning of the said section 45; section 57; section 59 to section 63 and section 65 to section 70 of Part IV came into operation on 10th April 1972 (GN 62/1972).
 (c) 15th January 1973-GN 6/1973
 Section 46 (1)(a) and (b) came into operation on 15th January 1973.
 (See GN 6/1973 see also 27 of 1974).
 (d) 16th July 1973-GN 108/1973
-Section 46(1)(g) came into operation on 16th July 1973 [GN 108/1973].
+Section 46(1)(g) came into operation on 16th July 1973 (GN 108/1973).
 (e) 10th December 1974-27 of 1974
-Sections 39 and 40 came into operation on 10th December 1974 [27 of 1974].
+Sections 39 and 40 came into operation on 10th December 1974 (27 of 1974).
 (f) 17th February 1975-GN 21/1975
-Section 46(1)(e) came into operation on 17th February 1975 [GN 21/1975].
+Section 46(1)(e) came into operation on 17th February 1975 (GN 21/1975).
 (g) 7th January 2008-LNs 17, 18, 19, 20, 21, 22, 23, 24, 25, 37, 38, 39 and 40.
 Note on Health Surcharge
-Legal Notice 11/1984 the Provisional Collection of Taxes Order, had introduced section 38 (a), dealing with surcharge contributions, but this new section was repealed by Act No. 13 of 1984, the National Insurance Amendment Act.
+Legal Notice 11/1984 the Provisional Collection of Taxes Order, had introduced section 38(a), dealing with surcharge contributions, but this new section was repealed by Act No. 13 of 1984, the National Insurance Amendment Act.
 Act No. 13 of 1984, amended section 8(1) and section 21. It introduced section 21(2). This Act also introduced Part IIIA, that is sections 56A to 56I. It also amended section 64, by introducing subsections (4A) and (4B). It also introduced section 65A.
 In 1987, however, Act No. 14 of 1987 the Finance Act, made provisions for the administration, computation, collection and recovery of the health surcharge to be undertaken by the Board of Inland Revenue, instead of the National Insurance Board, and in effect repealed Act No. 13 of 1984. The amendments which were made to this Chapter by LN 11/1984 and Act No. 13 of 1984 have not been published in this Act.
 For the same reason, LN 84/1984 which introduced the Health Surcharge Regulations is not being published.
+Note on Omissions
+National Insurance (Extension of Waiver of Penalty and Interest) Orders made under section 39C(5) have been omitted.
+For reference to the above Orders-See the current Index of Acts and Subsidiary Legislation.
 Note on Act No. 18 of 1993
 See sections 62 and 65 of, and the Third Schedule to, Act No. 18 of 1993.
 Note on LN No. 31 of 2006
@@ -53,6 +61,8 @@ Note on Act No. 2 of 2012
 Amendments made to section 54(5) by Act No. 2 of 2012 took effect from 1st February 2012.
 Note on Act No. 7 of 2016
 Amendments made by Act No. 7 of 2016 took effect from 5th September 2016.
+Note on Act No. 15 of 2024
+Amendments made to this Act by Act No. 15 of 2024 took effect on 14th October 2024 by LN 185/2024.
 CHAPTER 32:01
 NATIONAL INSURANCE ACT
 ARRANGEMENT OF SECTIONS SECTION
@@ -85,9 +95,8 @@ CONTRIBUTIONS
 by employer.
 38A. Certificate and penalty.
 39. Discharge of liability.
-39A. Statutory trust. 39B. Interest. 39C. Waiver of penalties.
-ARRANGEMENT OF SECTIONS-Continued
-SECTION
+39A. Statutory trust. 39B. Interest. 39C. Waiver of penalty and interest.
+ARRANGEMENT OF SECTIONS-Continued SECTION
 40. Offence and penalty. 41. Rates of contributions. 42. Voluntary contributions. 43. Establishment of funds. 44. Board to make Regulations with regard to contributions. 45. Board to total contributions paid by persons.
 45A. Garnishment.
 BENEFITS

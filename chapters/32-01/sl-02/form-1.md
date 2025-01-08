@@ -19,3 +19,4 @@ Surname Other Name(s) 1 2 3 4 5 6 7 8 Z
 CONTRIBUTIONS
 (c) TOTAL NUMBER ...(c/f) SECTION "C" (CERTIFICATE OF DECLARANT) I/We solemnly and sincerely declare that the information given is a correct reflection of contributions due and payable for all insured persons for the period stated. NAME ... POSITION ... SIGNATURE ... DATE
 YYY MM DD
+National Insurance (Contribution) Regulations [Subsidiary]
