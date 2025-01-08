@@ -5,7 +5,7 @@ employed by the Government; "Imperial Act" means an Act passed by the Imperial P
 United Kingdom; "Medical Officer" means a medical practitioner in the service of the
 Government or in the employ of a Regional Health Authority established under the Regional Health Authority Act; "Order in Council" includes an Imperial Order in Council, an order of the
 President made on the advice of the Cabinet, and a resolution of both Chambers of the Legislature having the force of law; "prison" has the meaning assigned to that term in the Prisons Act; "registered" used with reference to a document means registered under the
-provisions of the law for the time being applicable to the registration of such document; "regulation" includes any rule, bye-law, order, form of notice, issued or made
+provisions of the law for the time being applicable to the registration of such document; "regulation" includes any rule, Bye-law, order, form of notice, issued or made
 under the authority of any law; "rule" includes regulation and has the same meaning as that term; "a Secretary of State" means one of the Principal Secretaries of State of the
 Government of the United Kingdom; "the Secretary of State" means Secretary of State of the Government of the
 United Kingdom; "service by post"-Where an Ordinance authorises or requires any document
