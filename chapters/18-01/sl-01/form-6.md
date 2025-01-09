@@ -39,7 +39,7 @@ FORM 6-Continued
 ...
 N.B.-(1) If the above space is insufficient, the requested information can be attached on a
 (2) The attention of applicants for the status of resident of Trinidad and Tobago is directed to
-the provisions of sections 5, 6, 7 and 50(1) of the Immigration Act, as quoted hereunder:
+the provisions of sections 5, 6, 7 and 50(1) of the Immigration Act, as quoted hereunder-
 5. (1) The following persons not being citizens of Trinidad and Tobago
 are residents of Trinidad and Tobago:
 (a) a person who was entitled under the former Constitution to be
@@ -76,10 +76,26 @@ imprisonment, or has at least on one occasion been sentenced to be detained at t
 (4) The Minister, if he has reasonable grounds for suspecting that
 (a) has given false or misleading information in his application
 for residence; or
-(b) is a person referred to in section 8(1) (e), (f), (k), (l), (m), (o) or (q), may issue a written declaration under his hand stating that the resident has lost his resident status from the date specified in the declaration, and the Minister may make a deportation order against that person.
+(b) is a person referred to in section 8(1)(e), (f), (k), (l), (m), (o) or (q), may issue a written declaration under his hand stating that the resident has lost his resident status from the date specified in the declaration, and the Minister may make a deportation order against that person.
 (5) Any period during which a permitted entrant is in Trinidad and Tobago that is less than the period required for the acquisition of resident status under section 6(1)(a)(ii) that might otherwise be counted by a person towards the acquisition of such status in accordance with Regulations made under this Act is lost upon the making of a deportation order against him, unless an appeal against such order is allowed.
 (6) In no case shall residence out of Trinidad and Tobago for the purpose of serving in the public service or diplomatic or other service of Trinidad and Tobago, cause loss of resident status.
 50. (1) Notwithstanding anything in Part I to the contrary, a person who, upon the commencement of this Act, was ordinarily resident in Trinidad and Tobago for a period of five years is entitled to apply to the Minister for permission to become a resident, and the Minister may, if he thinks fit, grant such permission. An application under this subsection shall be made within one year of the commencement of this Act and no later, unless the Minister prescribes some further period, not exceeding three years, within which such application may be made.".
+FORM 7 Regulation 23. REPUBLIC OF TRINIDAD AND TOBAGO
+Registration No.:
+IMMIGRATION REGULATIONS
+CERTIFICATE OF REGISTRATION AS A RESIDENT
+OF TRINIDAD AND TOBAGO
+To ... of ...
+This is to certify that permission has been granted you by the Minister to become a resident of Trinidad and Tobago under the authority of section 5 of the Act.
+Your attention is directed to the provisions of regulation 19(3) of the Immigration Regulations, 1974 (which relate to notification of change of marital status).
+This certificate is subject to cancellation if
+any information supplied in the application therefrom, is found to be false or misleading.
+...
+Permanent Secretary,
+Ministry of National Security
+N.B.-Regulation 19(3) reads as follows:
+"A person to whom the status of resident has been granted shall notify the Permanent
+Secretary of any change in his marital status and the Permanent Secretary shall cause the necessary alteration to be made in the register of residents.".
 - Margin: Regulations 17(1); 21; 22.
 - Margin: Place and Date Passport Date of Name of Issue No. Birth
 - Margin: Dates Institution Awarded
@@ -101,9 +117,9 @@ for residence; or
 - Margin: able to provide for your care and maintenance ...
 - Margin: ...
 - Margin: 26. Annual income and other assets ...
-- Margin: 27. Do you have any children/grandchildren in Trinidad and Tobago who are either citizens
-- Margin: of Trinidad and Tobago or residents willing and able to provide for your care and
-- Margin: maintenance? ...
+- Margin: 27. Do you have any children/grandchildren in Trinidad and Tobago who are either citizens of
+- Margin: Trinidad and Tobago or residents willing and able to provide for your care and maintenance?
+- Margin: ...
 - Margin: 28. Has the applicant ever been deported or required to leave any other country? ...
 - Margin: ...
 - Margin: 29. State offences (other than traffic offences) of which applicant has been convicted, if any, and
@@ -122,7 +138,8 @@ for residence; or
 - Margin: Date
 - Margin: separate sheet.
 - Margin: "Persons who are residents of Trinidad and Tobago.
-- Margin: 6. (1) Subject to this Act and the Regulations, persons who come within the Persons who may be permitted to following classes may on application in the prescribed form, be granted permission become residents. by the Minister if he thinks fit, to become residents, that is to say: (a) a permitted entrant who-
+- Margin: 6. (1) Subject to this Act and the Regulations, persons who come within the Persons who may be permitted to following classes may on application in the prescribed form, be granted permission become residents. by the Minister if he thinks fit, to become residents, that is to say:
+- Margin: (a) a permitted entrant who-
 - Margin: (i) by reason of his education, occupational qualifications,
 - Margin: personal history, employment record, training, skills or other
 - Margin: special qualifications has established or is likely to be able to
@@ -132,20 +149,20 @@ for residence; or
 - Margin: himself and his immediate family in Trinidad and Tobago; and
 - Margin: (ii) has been continuously resident in Trinidad and Tobago for
 - Margin: five years or such shorter period (not being less than
-- Margin: twelve months) as the Minister may in the special
-- Margin: circumstances of any particular case accept;
+- Margin: twelve months) as the Minister may in the special circumstances of any particular case accept;
 - Margin: (b) a person who is the parent or grandparent of either a citizen or
 - Margin: resident of Trinidad and Tobago, residing in Trinidad and
-- Margin: Tobago, if such citizen or resident is willing and able to
-- Margin: provide care and maintenance for that person; (c) the spouse of a citizen or resident of Trinidad and Tobago; and
+- Margin: Tobago, if such citizen or resident is willing and able to provide care and maintenance for that person;
+- Margin: (c) the spouse of a citizen or resident of Trinidad and Tobago; and
 - Margin: (d) a person who has ceased to be a citizen of Trinidad and Tobago by
 - Margin: reason of his voluntary acquisition of citizenship of another country.
 - Margin: (2) In determining the suitability of an applicant for the grant of resident
-- Margin: status under this section, the Minister shall be satisfied, inter alia, that the applicant- (a) had entered the country legally;
+- Margin: status under this section, the Minister shall be satisfied, inter alia, that the applicant-
+- Margin: (a) had entered the country legally;
 - Margin: (b) is not in a prohibited class; and
 - Margin: (c) is of good character as evidenced by a police certificate of
 - Margin: good character.
-- Margin: 7. (1) Subject to subsection (6), resident status is lost by a person- Loss of resident (a) who voluntarily resides outside Trinidad and Tobago for a status.
+- Margin: 7. (1) Subject to subsection (6), resident status is lost by a person- Loss of resident status. (a) who voluntarily resides outside Trinidad and Tobago for a
 - Margin: continuous period of one year, unless he obtains from the
 - Margin: Minister a certificate in the prescribed form exempting him
 - Margin: from the provisions of this paragraph; or
@@ -154,8 +171,7 @@ for residence; or
 - Margin: Trinidad and Tobago for a continuous period of two years
 - Margin: immediately preceding the commencement of this Act, unless
 - Margin: within a period of six months from that date he obtains from the
-- Margin: Minister a certificate in the prescribed form exempting him from
-- Margin: the provisions of this paragraph.
+- Margin: Minister a certificate in the prescribed form exempting him from the provisions of this paragraph.
 - Margin: person who-
 - Margin: a resident-
 - Margin: Applications by certain persons for resident status and for certificates under section 9.

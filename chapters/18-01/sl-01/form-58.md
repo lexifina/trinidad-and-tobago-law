@@ -4,7 +4,8 @@ IMMIGRATION REGULATIONS
 NOTICE OF COMPLAINT AGAINST A PERSON
 FOR COMMITTING A BREACH OF
 THE IMMIGRATION REGULATIONS
-To: The Chief Immigration Officer I, ... Immigration Officer on
+To: The Chief Immigration Officer
+I, ... Immigration Officer on
 (Name of Officer) duty at ... hereby charge ...
 (Port) ... for committing a breach
 (Name of Person/Transportation Company) of the Immigration Regulations, in that ... contrary to ...
@@ -17,8 +18,11 @@ You are hereby ordered to appear before the Chief Immigration Officer at ... a.m
 Date Immigration Officer
 SERVICE HEREOF ACKNOWLEDGED BY ...
 (Signature)
-I/We ...
+I/We, ...
 (Name of Person/Transportation Company)
 hereby elect to have the above complaint heard by the Chief Immigration Officer...
 Date Signature
+FORM 59 FORM 59-Continued FORM 59-Continued FORM 60 FORM 60-Continued
 - Margin: Regulation 58(3)(4).
+- Margin: Regulation 32(2B). [113/2021].
+- Margin: Regulation 51(3)(b). [113/2021].
