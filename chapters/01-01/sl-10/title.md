@@ -1,13 +1,11 @@
-PUBLIC SERVICE APPEAL BOARD
+POLICE SERVICE COMMISSION (APPEAL)
 REGULATIONS
-ARRANGEMENT OF REGULATIONS
-REGULATION
-1. Citation. 2. Interpretation. 3. Meetings and procedure of Board. 4. Secretary. 5. Notice of appeal. 6. Time for appeal. 7. Service of notice of appeal. 8. Copy of record and affidavit of service to be filed with Secretary.
-8A. Record of disciplinary proceedings to be filed by respondent.
-9. Procedure on withdrawing appeal. 10. Entitlement to be represented by an Attorney-at-law. 11. Appeal Board may require production of exhibit. l2. Power of Appeal Board to dismiss an appeal. 13. Procedure where respondent fails to appear at hearing. 14. Fees.
+ARRANGEMENT OF REGULATIONS REGULATION
+1. Citation. 2. Interpretation. 3. Meetings of Commission. 4. Composition of the Commission for hearing of appeals. 5. Procedure for notice of appeal. 6. Time for filing appeal. 7. Service of notice of appeal. 8. Procedure on notice of appeal. 9. Procedure on withdrawal of appeal. 10. Entitlement to representation by Attorney-at-law. 11. Production of exhibits Commission may require. 12. Power of Commission to dismiss appeals. 13. Non-appearance of respondent at hearing. 14. Powers of Commission. 15. Presentation of evidence. 16. Commission not bound by rules of evidence. 17. Functions of Commission. 18. Powers of Commission on appeal. 19. Copies of appeal documents.
 FIRST SCHEDULE. SECOND SCHEDULE.
-PUBLIC SERVICE APPEAL BOARD
+POLICE SERVICE COMMISSION (APPEAL)
 REGULATIONS
-made under section 132(5) of the Constitution
+made with the consent of the Prime Minister under section 129 of
+the Constitution
 - Margin: [Subsidiary]
-- Margin: 74/1978. [172/1978 68/1981 85/1981 179/1985].
+- Margin: 270/2009.

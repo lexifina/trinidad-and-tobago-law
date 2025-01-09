@@ -1,12 +1,12 @@
 # FORM 7
-BEFORE THE PUBLIC SERVICE APPEAL BOARD
-NOTICE OF APPLICATION FOR RESTORATION
-OF APPEAL
-Appeal No ... of 20...
+BEFORE THE POLICE SERVICE COMMISSION
+NOTICE OF APPLICATION FOR SETTING ASIDE
+DECISION IN APPEAL TAKEN EX PARTE
+Appeal No... of 20...
 Between
 ... Appellant
 And
-... Respondent TAKE NOTICE that I ... the Appellant in the above-named appeal which was dismissed on the ... day of ..., 20 ... hereby apply for the restoration of the said appeal on the grounds that-
+Commissioner of Police Respondent TAKE NOTICE that the Commissioner of Police the Respondent in the above-named appeal which was decided ex parte on the ... day of ..., 20... hereby applies for a setting aside of that decision on the grounds that-
 (a) ...
 (b) ...
 (c) ...
@@ -15,6 +15,5 @@ And
 (State grounds on which application is based)
 Dated this ... day of ..., 20...
 ...
-Applicant/Appellant
-- Margin: Regulation 12(2).
-- Margin: [Subsidiary]
+Applicant/Respondent [Subsidiary] Police Service Commission (Appeal) Regulations
+- Margin: Regulation 13(2).
