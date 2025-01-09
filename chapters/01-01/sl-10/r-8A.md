@@ -1,8 +1,0 @@
-# 8A. Record of disciplinary proceedings to be filed by respondent. [68/1981 85/1981].
-(1) Where an appeal against the decision of a Service Commission has been filed, the respondent shall, within three weeks of the service of notice of appeal or within such extended time as may be granted by the Appeal Board, file with the Secretary five copies (or such greater number as the Secretary may require) of the record of the disciplinary proceedings upon which the decision of the Commission was based.
-(2) When the provisions of subregulation (1) have been complied with, the Secretary shall-
-(a) give to the appellant notice of the filing of the
-record in the form set out as Form 4 in the First Schedule together with a copy of that record; and
-(b) keep for the use of the Appeal Board three copies
-(or such greater number as may be required) of the record and of any notice or other document received by him after the record has been filed.
-- Margin: Form 4. First Schedule.
