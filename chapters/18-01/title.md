@@ -11,30 +11,33 @@ Amended by
 37 of 1995
 2 of 2005
 †14 of 2005 (by implication)
-† 1 of 2016
-*See Note on page 2.
-†See Note on page 3.
+†1 of 2016
+†19 of 2019
+25 of 2019
+(*See Note on page 2)
+(†See Note on page 3)
 Index of Subsidiary Legislation
-Page Immigration Regulations (GN 178/1974) ... 49 Immigration (Work Permit Exemption) Order (LN 142/1986) … … 184 Caricom Travelling Salesmen (Exemption from Licence Fees) Order
-(LN 184/1987) ... 184 Delegation of Functions (Immigration and Citizenship ) Order (LN 52/1988) 185 Immigration (Exemption From Work Permit Requirements) Order
-(LN 80/2005) ... 186
+Page Immigration Regulations (GN 178/1974) ... 51 Immigration (Work Permit Exemption) Order (LN 142/1986) … … 201 Caricom Travelling Salesmen (Exemption from Licence Fees) Order
+(LN 184/1987) ... 201 Delegation of Functions (Immigration and Citizenship ) Order (LN 52/1988) 202 Immigration (Exemption From Work Permit Requirements) Order
+(LN 80/2005) ... 203
 Note on Subsidiary Legislation which have been omitted
-The Classes of Undesirable Immigrants Order 1953 (GN 177/1953 as amended), the Immigration Detention Places Regulations (1950 Ed. Vol. VIII page 801) and the Notice fixing Overtime rates for Launch Crews (RG 13.1.1921, as amended) made under the Immigration (Restriction) Ordinance, Ch. 20. No. 2 (1950 Ed.) (now repealed) continue in force by virtue of section 29(3) of the Interpretation Act (Ch. 3:01), but they have not been published as they are out of date and will soon be revoked or replaced.
-Similarly, Orders made under section 4 of the repealed Ordinance declaring specified persons to be undesirable immigrants have not been published since they are of a personal nature. N.B. See the Current Edition of Consolidated Index of Acts and Subsidiary Legislation for references to the above Subsidiary Legislation.
+(a) The Classes of Undesirable Immigrants Order, 1953 (GN 177/1953 as amended), the
+Immigration Detention Places Regulations (1950 Ed. Vol. VIII, page 801) and the Notice fixing Overtime rates for Launch Crews (RG 13.1.1921, as amended) made under the Immigration (Restriction) Ordinance, Ch. 20. No. 2 (1950 Ed.) (now repealed) continue in force by virtue of section 29(3) of the Interpretation Act (Ch. 3:01), but they have not been published as they are out of date and will soon be revoked or replaced.
+(b) Similarly, Orders made under section 4 of the repealed Ordinance declaring specified
+persons to be undesirable immigrants have not been published since they are of a personal nature.
+(c) Immigration (Exemption from Work Permit) Orders made under Regulation 10(14) have
+not been published as they have been revoked or replaced or have expired. N.B. See the Current Edition of Consolidated Index of Acts and Subsidiary Legislation for references to the above Subsidiary Legislation.
 Note on Act No. 19 of 1988
 Section 38 of the Trinidad and Tobago Free Zones Act, 1988 (Act No. 19 of 1988) provides as follows:
-38. (1) A person who is a foreign national or Commonwealth citizen
-"Work permits. employed by the Company or by an approved enterprise established in any
-free zone shall not, by virtue only of such employment, be exempt from the Immigration Act, but the Minister responsible for the administration of that
-Ch. 18:01.
-Act shall, in considering applications by or on behalf of such a person, have regard to the need to facilitate the operations of the free zone.
+38. (1) A person who is a foreign national or Commonwealth citizen "Work
+permits.
+employed by the Company or by an approved enterprise established in any free zone shall not, by virtue only of such employment, be exempt from the Immigration Act, but the Minister responsible for the administration of that Ch. 18:01. Act shall, in considering applications by or on behalf of such a person, have regard to the need to facilitate the operations of the free zone.
 (2) Where a person referred to in subsection (1) is employed by an
 approved enterprise, he and that enterprise shall be exempt from such provisions of the Immigration Act as authorise or require the payment or imposition of fees in relation to the grant of a work permit to him.
-*(3)The Aliens (Landholding) Act shall not apply with respect to an
-Ch. 58:02.
+*(3) The Aliens (Landholding) Act shall not apply with respect to an Ch. 58:02.
 investment in an approved enterprise established in a free zone or the holding of an interest in land in a free zone.". (*See Note on Act No. 16 of 1990).
 Note on Act No. 16 of 1990
-Act No. 16 of 1990 (Foreign Investment Act, 1990) repealed the Aliens (Landholding) Act, Ch. 58:02. Accordingly, section 38 (3) of Act No. 19 of 1988 should be read in the light of this repeal.
+Act No. 16 of 1990 (Foreign Investment Act, 1990) repealed the Aliens (Landholding) Act, Chap. 58:02. Accordingly, section 38(3) of Act No. 19 of 1988 should be read in the light of this repeal.
 Note on Act No. 14 of 2005
 See Section 5 of Act No. 14 of 2005 with respect to entry into, residence in, and departure from Trinidad and Tobago.
 Note on Delegation of Functions
@@ -44,6 +47,8 @@ See the following Notices:
 Citizenship).
 Note on Act No. 1 of 2016
 Amendments made to the Immigration Regulations by Act No. 1 of 2016 took effect from 1st January 2016.
+Note on Act No. 19 of 2019
+Amendments made to this Act by Act No. 19 of 2019 took effect on 31st January 2020 by LN 33/2020.
 CHAPTER 18:01
 IMMIGRATION ACT
 ARRANGEMENT OF SECTIONS SECTION
@@ -51,8 +56,8 @@ ARRANGEMENT OF SECTIONS SECTION
 PRELIMINARY
 2. Interpretation.
 PART I
-ADMISSION OF PERSONS INTO TRINIDAD
-AND TOBAGO
+ADMISSION OF PERSONS INTO TRINIDAD AND
+TOBAGO
 3. Immigrants.
 ENTITLEMENT OF CITIZENS AND RESIDENTS
 TO COME INTO TRINIDAD AND TOBAGO
@@ -94,6 +99,7 @@ PART IV
 OFFENCES AND PENALTIES
 40. Specific offences against this Act. 41. Offences respecting immigration officers and members of the
 Immigration Department.
+41A. Tipping-off. 41B. Assaults and retaliatory action against immigration officers.
 42. Offences and penalties.
 Power of Chief Immigration Officer to impose fine.
 Mitigation of penalty.

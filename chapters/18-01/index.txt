@@ -40,6 +40,8 @@ s-38.md
 s-39.md
 s-40.md
 s-41.md
+s-41A.md
+s-41B.md
 s-42.md
 s-43.md
 s-44.md
@@ -100,6 +102,7 @@ sl-01/r-43.md
 sl-01/r-44.md
 sl-01/r-45.md
 sl-01/r-46.md
+sl-01/r-46A.md
 sl-01/r-47.md
 sl-01/r-48.md
 sl-01/r-49.md
@@ -123,7 +126,6 @@ sl-01/form-3a.md
 sl-01/form-4.md
 sl-01/form-5.md
 sl-01/form-6.md
-sl-01/form-7.md
 sl-01/form-8.md
 sl-01/form-9a.md
 sl-01/form-9b.md
@@ -135,6 +137,10 @@ sl-01/form-14.md
 sl-01/form-15.md
 sl-01/form-16.md
 sl-01/form-17.md
+sl-01/form-17a.md
+sl-01/annex-i.md
+sl-01/annex-ii.md
+sl-01/form-17b.md
 sl-01/form-18.md
 sl-01/form-19a.md
 sl-01/form-19b.md
@@ -154,7 +160,6 @@ sl-01/form-32.md
 sl-01/form-33.md
 sl-01/form-34.md
 sl-01/form-35.md
-sl-01/form-36.md
 sl-01/form-37.md
 sl-01/form-38.md
 sl-01/form-39.md
@@ -179,8 +184,6 @@ sl-01/form-58.md
 sl-01/second-schedule.md
 sl-01/third-schedule.md
 sl-01/fourth-schedule.md
-sl-01/fifth-schedule.md
-sl-01/sixth-schedule.md
 sl-01/seventh-schedule.md
 sl-01/eighth-schedule.md
 sl-02/title.md

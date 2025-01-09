@@ -24,16 +24,14 @@ REGULATION
 DESIGNATION OF PORTS OF ENTRY AND FACILITIES FOR DETENTION FOR THE PURPOSES OF THIS ACT
 15. Ports of entry. 16. Arrangements for detainees.
 CONDITIONS APPLICABLE TO THE GRANT OF
-PERMISSION TO ACQUIRE RESIDENT STATUS AND
-THE MANNER OF MAKING APPLICATION THEREFOR
+PERMISSION TO ACQUIRE RESIDENT STATUS AND THE MANNER OF MAKING APPLICATION THEREFOR
 17. Form of application for status of resident. 18. Refusal of application. Time within which to re-apply.
-REGISTRATION OF PERSONS WHO ACQUIRE THE
-STATUS OF A RESIDENT BY VIRTUE OF SECTION 5
+REGISTRATION OF PERSONS WHO ACQUIRE THE STATUS OF A RESIDENT BY VIRTUE OF SECTION 5
 OF THE ACT AND THE REGISTRATION AND
 RECORDING ON TRAVEL DOCUMENTS OF THE
 STATUS OF A PERSON RESIDENT BY VIRTUE OF
 SECTION 5(1)
-19. Register of residents. 20. Removal from register of names of persons losing status of residents. 21. Application of persons to become residents under section 50 of
+19. Register of Residents. 20. Removal from register of names of persons losing status of residents. 21. Application of persons to become residents under section 50 of
 the Act.
 22. Form of application for resident status under section 6(1) of the Act. 23. Certificate of status of resident. 24. Record on passport. REGULATION
 THE PROCEDURE TO BE FOLLOWED UPON
@@ -77,10 +75,11 @@ Notice of deportation.
 Certificate under section 7(1). Declaration under section 9(4).
 41. Form of certificate to be issued to permitted entrant. 42. Form of notice of appeal to Minister. 43. Form of warrant of arrest. 44. Order for detention and release. 45. Order of the Minister to Commissioner of Prisons, etc. 46. Form of permit to be issued by the Minister under section 10(1) of
 the Act.
+46A. Application under section 10.
 47. Form of rejection order under section 20(1) or 21(1)(a) of the Act.
 MISCELLANEOUS
-48. Hearing before a Special Inquiry Officer. 49. Decision of Special Inquiry Officer. 50. Uniforms. REGULATION
-51. Fees for visiting and clearing of ships by immigration officers. 52. Change of ownership, etc., of ships. 53. Fees in respect of the issue of miscellaneous permits and certificates.
+48. Hearing before a Special Inquiry Officer. 49. Decision of Special Inquiry Officer. REGULATION
+50. Uniforms. 51. Fees for visiting and clearing of ships by immigration officers. 52. Change of ownership, etc., of ships. 53. Fees in respect of the issue of miscellaneous permits and certificates.
 53A. Fees in respect of the issue of passports and other travel documents. 53B. Senior citizens exempted from passport fees.
 54. Immigration examination signal. 55. Ships to stop for immigration officer.
 Procedure on arrival in Trinidad and Tobago.
