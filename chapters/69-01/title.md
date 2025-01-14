@@ -3,31 +3,37 @@ CHAPTER 69:01
 Act
 20 of 1959
 Amended by
-176/1961 22/1998 161/1977
-23 of 1998 *52/1962 7/1978 195/2000 †8/1962 179/1978 217/2000 97/1963
-3/1979
-198/2001
-108/1965 4/1979
-95/2003
-25 of 1964 5/1979
-280/2004
-18 of 1966 185/1979
-329/2004
-14/1974 152/1982
-13/2005
-163/1975 18/1984 235/2005
-2/1976 90/1989 302/2006 22/1976 170/1997 255/2013
-281/2014 188/1976 347/1997 4 of 2014 3/1977 18 of 1998
-*Before Independence †After Independence
+176/1961 217/2000 7/1978 *52/1962 179/1978 198/2001
+3/1979 †8/1962 95/2003 4/1979 97/1963 280/2004 5/1979 108/1965 329/2004
+185/1979 25 of 1964 13/2005 152/1982 18 of 1966 235/2005 18/1984
+14/1974 302/2006
+90/1989
+163/1975 255/2013
+170/1997
+2/1976 281/2014
+347/1997
+22/1976 4 of 2014
+18 of 1998
+188/1976 197/2022
+22/1998
+3/1977 ‡1 of 2024 23 of 1998
+161/1977 ‡15 of 2024 195/2000
+*Before Independence
+†After Independence
+(‡See Notes on page 2)
 Index of Subsidiary Legislation
-Page Contingencies Fund Increase Resolution (GN 136/1979) … … … 30 Financial Regulations (GN 118/1965) ... 31 Delegation of Powers (Exchequer and Audit) Order (LN 80/1988) … … 71
+Page Contingencies Fund Increase Resolution (GN 136/1979) … … … 34 Financial Regulations (GN 118/1965) ... 35 Delegation of Powers (Exchequer and Audit) Order (LN 80/1988) … … 75 Exchequer and Audit (Electronic Funds Transfer) Regulations (LN 68/2015) … 76
 Note on Adaptation
-Under paragraph 6 of the Second Schedule to the Law Revision Act (Ch. 3:03) the Commission amended certain references to public officers in this Chapter. The Minister's approval of the amendments was signified by LN 120/1980, but no marginal reference is made to this Notice where any such amendment is made in the text.
+Under paragraph 6 of the Second Schedule to the Law Revision Act (Chap. 3:03) the Commission amended certain references to public officers in this Chapter. The Minister's approval of the amendments was signified by LN 120/1980, but no marginal reference is made to this Notice where any such amendment is made in the text.
 Note on section 37 of the Act
 Section 26 of Act No. 18 of 1998 provides as follows:
 "26. Notwithstanding section 37 of the Exchequer and Audit Act, funds of NALIS not immediately required for the meeting of its obligations or the discharge of its functions may be invested from time to time by NALIS in securities approved by the Minister of Finance.".
 Note on section 43 of the Act
-By section 17 of Finance Act 2005 (Act No. 21 of 2005) all moneys credited and all charges and liabilities under the Dollar for Dollar Fund which was repealed by LN 235/2003 have been transferred to the Government Assistance for Tuition Expenses Fund.
+By section 17 of Finance Act, 2005 (Act No. 21 of 2005) all moneys credited and all charges and liabilities under the Dollar for Dollar Fund which was repealed by LN 235/2003 have been transferred to the Government Assistance for Tuition Expenses Fund.
+Note on Act No. 1 of 2024
+Amendments made to this Act by Act No. 1 of 2024 took effect on 14th October 2024 by LN 183/2024.
+Note on Act No. 15 of 2024
+Amendments made to this Act by Act No. 15 of 2024 took effect on 14th October 2024 by LN 185/2024.
 CHAPTER 69:01
 EXCHEQUER AND AUDIT ACT
 ARRANGEMENT OF SECTIONS SECTION
@@ -55,8 +61,9 @@ PROTECTION AND RECOVERY OF PUBLIC PROPERTY
 24. Annual Accounts. 25. Annual Report of the Auditor General. 26. Notification of irregularities to the Treasury. 27. Surcharge by Minister. 28. Notification of surcharge. 29. Withdrawal of surcharge. 30. Recovery of surcharge.
 PART VI
 CONTROLS OF THE FINANCE OF STATUTORY BODIES
-31. Audit of accounts of statutory bodies. 32. Application of certain sections to statutory bodies. 33. Capital budget. 34. Income and expenditure budget. 35. Advances. 36. Borrowings. SECTION
-37. Payment of surplus funds to Consolidated Fund. 38. Deposits to special account. 39. Appointment of auditor by Minister. 40. Annual reports and accounts. 41. Examination of accounts of Auditor General's Department.
+31. Audit of accounts of statutory bodies.
+31A. Interpretation of certain words and phrases for sections 31B and 31C. 31B. Obligations in respect of beneficial ownership information. 31C. Statement in respect of beneficial interest. 31D. Register of beneficial owners. 31E. Treasury to monitor beneficial ownership information. SECTION
+32. Application of certain sections to statutory bodies. 33. Capital budget. 34. Income and expenditure budget. 35. Advances. 36. Borrowings. 37. Payment of surplus funds to Consolidated Fund. 38. Deposits to special account. 39. Appointment of auditor by Minister. 40. Annual reports and accounts. 41. Examination of accounts of Auditor General's Department.
 PART VII
 GENERAL
 42. Duration of Appropriation Act. 43. Establishment of Funds. 44. Transfer of certain accounts to the Consolidated Fund. 45. Regulations. 46. Saving.
