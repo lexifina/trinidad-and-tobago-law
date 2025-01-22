@@ -4,14 +4,26 @@ Act
 *17 of 2012
 Amended by
 9 of 2014
-*See Note on page 2
+*4 of 2017
+12 of 2019
+*7 of 2020
+*10 of 2020
+*25 of 2020
+16 of 2021
+*1 of 2024
+*15 of 2024
+(*See Notes on page 2)
 Index of Subsidiary Legislation
 Page
-Securities (General) Bye-Laws (LN 41/2015) ... 195
-Note on Subsidiary Legislation
-This Chapter also contains subsidiary legislation enacted under Act No. 32 of 1995, which has been saved by Act No. 17 of 2012 and is attached as an Appendix to this Act.
-Note on Consequential Amendments
-Section 172 of this Act (No. 17 of 2012) amended both the Proceeds of Crime Act (Ch. 11:27) and the Financial Institutions Act (Ch. 79:09). These amendments have been duly incorporated into the respective Acts and section 172 deleted accordingly.
+Securities (General) Bye-laws (LN 41/2015) ... 205 Securities (Collective Investment Schemes) Bye-Laws (LN 71/2023) … 271
+Note on Subsidiary Legislation This Chapter also contains subsidiary legislation enacted under Act No. 32 of 1995, which has been saved by Act No. 17 of 2012 and is attached as an Appendix to this Act.
+Note on Consequential Amendments Section 172 of this Act (No. 17 of 2012) amended both the Proceeds of Crime Act (Chap. 11:27) and the Financial Institutions Act (Chap. 79:09). These amendments have been duly incorporated into the respective Acts and section 172 deleted accordingly.
+Note on Act No. 4 of 2017 Amendments made to this Act by Act No. 4 of 2017 took effect on 6th July 2017, by LN 63/2017.
+Note on Act No. 7 of 2020 Amendments made to this Act by Act No. 7 of 2020 took effect on 14th October 2024, by LN 181/2024.
+Note on Act No. 10 of 2020 Amendments made to this Act by Act No. 10 of 2020 took effect on 11th May 2020, by LN 92/2020.
+Note on Act No. 25 of 2020 Amendments made to this Act by Act No. 25 of 2020 took effect on 22nd December 2020, by LN 409/2020.
+Note on Act No. 1 of 2024 Amendments made to this Act by Act No. 1 of 2024 took effect on 14th October 2024, by LN 183/2024.
+Note on Act No. 15 of 2024 Amendments made to this Act by Act No. 15 of 2024 took effect on 14th October 2024, by LN 185/2024.
 CHAPTER 83:02
 SECURITIES ACT
 ARRANGEMENT OF SECTIONS SECTION
@@ -45,7 +57,9 @@ be registered.
 50. Dispute between members.
 PART IV
 REGISTRATION OF REGISTRANTS
-51. Registration requirement. 52. Registration by the Commission. 53. Transitional provisions. 54. Requirements for substantial shareholders of registrants. 55. Termination and suspension of registered representative status. 56. Application for registration and continuing disclosure. 57. Issue of warning. 58. Revocation of registration. 59. Surrender of registration. 60. Offence. 61. Registration of reporting issuers. 62. Registration of securities.
+51. Registration requirement. 52. Registration by the Commission. 53. Transitional provisions. 54. Requirements for substantial shareholders of registrants. 55. Termination and suspension of registered representative status. 56. Application for registration and continuing disclosure. 57. Issue of warning. 58. Revocation of registration.
+58A. Commission may revoke registration.
+59. Surrender of registration. 60. Offence. 61. Registration of reporting issuers. 62. Registration of securities.
 PART V DISCLOSURE OBLIGATIONS OF REPORTING ISSUERS
 63. Annual reports. 64. Timely disclosure of material changes. 65. Annual financial statements. 66. Interim financial statements. 67. Filing and delivery of financial statements.
 ARRANGEMENT OF SECTIONS-Continued SECTION
@@ -73,7 +87,8 @@ PART VIII
 SIMPLIFIED CLEARING FACILITIES
 118. Application of Part. 119. Definitions. 120. Use of clearing agency as registered owner of security. 121. Transfer of securities through clearing agency. 122. Transfer by record entry participants. 123. Blocked account. 124. Effecting pledge by record entry. 125. Effecting blocked account by record entry. 126. Security subject to restriction. 127. Blocking account by Court order. 128. Limitation on rights of participants. 129. Withdrawal of security. 130. Issuer's duty to request list of participants and beneficial owners. 131. Access to clearing agency records. 132. Incorrect entry by clearing agency. 133. Liability in extraordinary circumstances. 134. Application to Court to rectify records. 135. Participation by financial institutions.
 PART IX REPORTING BY PERSONS CONNECTED WITH ISSUERS
-136. Reports by certain connected persons. 137. Disclosure of beneficial interest in share capital. 138. Offences.
+136. Reports by certain connected persons. 136A. Requirements re: Beneficial Ownership Information.
+137. Disclosure of beneficial interest in share capital. 138. Offences.
 PART X
 CIVIL LIABILITY
 139. Liability for misrepresentation in prospectus, damages. 140. Action by purchasers for rescission for misrepresentation in a
@@ -98,7 +113,8 @@ ARRANGEMENT OF SECTIONS-Continued SECTION
 DIVISION 7-ORDERS OF THE HIGH COURT
 162. Court order for enforcing compliance. 163. Appointment of receiver or receiver-manager. 164. Appointment of liquidator.
 DIVISION 8-OFFENCES
-165. General offences. 166. Liability of senior officer. 167. Costs. 168. Referral of matters to Director of Public Prosecutions. 169. Notice of adverse report. 169A. Freedom of Information Act, Ch. 22:02 to apply.
+165. General offences. 165A. Prohibited scheme.
+166. Liability of senior officer. 167. Costs. 168. Referral of matters to Director of Public Prosecutions. 169. Notice of adverse report. 169A. Freedom of Information Act, Ch. 22:02 to apply.
 PART XII
 REPEAL AND TRANSITIONAL PROVISIONS
 170. Transitional provisions. 171. Act No. 32 of 1995 repealed.
