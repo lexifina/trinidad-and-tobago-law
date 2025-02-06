@@ -1,7 +1,8 @@
 # SECOND SCHEDULE
 FEES
-Service Fee in TT$ First Registration Registration anew Re-registration... See tonnage rates below
-(Gross tons) (Rate per ton) 0-100 ... 3.00
+Service Fee in TT$ First Registration Registration anew Re-registration ... See tonnage rates below
+(Gross tons) (Rate per ton)
+0-100 ... 3.00
 101-500 ... 2.50
 501-1600 ... 2.00
 1601-5000 ... 1.50
@@ -19,26 +20,31 @@ The registration of-
 by bill of sale or transmission
 (b) a mortgage
 (c) the transfer of a mortgage … … … 250.00
-The recording of a discharge of a mortgage … … … 10.00
+The recording of a discharge of a mortgage … … … 10.00 [Subsidiary] Shipping (Registration of Ships) Regulations
 SECOND SCHEDULE-Continued
 Registration of Ships under Construction
-(Gross tons) (Rate per ton) 0-100 ... 1.50
+(Gross tons) (Rate per ton)
+0-100 ... 1.50
 101-500 ... 1.25
 501-1600 ... 1.00
 1601-5000 ... 0.75
-5001 and over... 0.50 minimum fee of $75.00
+5001 and over ... 0.50 minimum fee of $75.00
 Registration of change of name of Company … … … 50.00
 Endorsement of change of Master ... 30.00
 Service Fee in TT$
 Each inspection of a Register Book ... 20.00
 Supplying a certified copy of entries in a Register … … 60.00
-Supplying a copy of a document relating to the registration of a ship ... 25.00
+Supplying a copy of a document relating to the registration
+of a ship ... 25.00
 Note 1
-Whilst the above fees are quoted in TT$, the Registrar or Proper Officer may accept payment in US dollars, EC dollars or any other currency acceptable to the Registrar and at the prevailing rate of exchange.
+Whilst the above fees are quoted in TT$, the Registrar or Proper Officer
+may accept payment in US dollars, EC dollars or any other currency acceptable to the Registrar and at the prevailing rate of exchange.
 Note 2
-Where any service is provided which is not specified above, the fee payable will be determined according to the amount of work involved.
+Where any service is provided which is not specified above, the fee payable
+will be determined according to the amount of work involved.
 Note 3
 All fees are payable in advance.
+[Subsidiary]
 SHIPPING (TONNAGE) REGULATIONS
 ARRANGEMENT OF REGULATIONS
 REGULATION
@@ -63,4 +69,4 @@ APPLICATION, ASCERTAINMENT OF TONNAGE AND
 CERTIFICATION FOR ALL SHIPS OF LESS THAN
 TWENTY-FOUR METRES IN LENGTH
 INCLUDING PLEASURE CRAFT
-12. Application of Part III.
+12. Application of Part III. [Subsidiary] Shipping (Tonnage) Regulations

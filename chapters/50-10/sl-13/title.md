@@ -1,9 +1,15 @@
-SHIPPING (PROVISIONS AND WATER)
-REGULATIONS
-ARRANGEMENT OF REGULATIONS
+ARRANGEMENT OF REGULATIONS-Continued
 REGULATION
-1. Citation. 2. Interpretation. 3. Application. 4. Duty to provide adequate provisions and water. 5. Duty to inspect provisions and water. 6. Offences and penalties. 7. Offences caused by act or default. 8. Inspection and detention of a Trinidad and Tobago ship. 9. Inspection, detention and other measures in respect of foreign ships. 10. Compensation and enforcement of detention.
-SHIPPING (PROVISIONS AND WATER)
+26. Recreation spaces. 27. Offices. 28. Sanitary accommodation. 29. Supply of drinking water. 30. Supply of fresh water. 31. Facilities for washing and drying clothes and for hanging oilskins
+and working clothes.
+32. Galleys. 33. Dry provision storerooms. 34. Cold storerooms and refrigerating equipment. 35. Hospitals. 36. Medical cabinet. 37. Protection from mosquitoes. 38. Maintenance and inspection of crew accommodation.
+PART II
+REQUIREMENTS TO BE COMPLIED WITH BY SHIPS REGISTERED IN TRINIDAD AND TOBAGO BEFORE THE DATE ON WHICH THESE REGULATIONS COME
+INTO OPERATION
+39. Interpretation. 40. Application. 41. Exemptions. 42. Duration of exemption.
+FIRST SCHEDULE. SECOND SCHEDULE. THIRD SCHEDULE. FOURTH SCHEDULE. FIFTH SCHEDULE. SIXTH SCHEDULE.
+[Subsidiary]
+SHIPPING (CREW ACCOMMODATION)
 REGULATIONS
-made under section 142
-- Margin: 144/1993.
+made under section 147
+- Margin: 94/1996.
