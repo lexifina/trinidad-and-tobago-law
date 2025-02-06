@@ -1,3 +1,0 @@
-# FIRST SCHEDULE
-FORMS OF CERTIFICATES
-- Margin: Regulations 15 and 20.
