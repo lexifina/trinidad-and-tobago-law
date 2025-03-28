@@ -18,8 +18,8 @@ under paragraph 1 of this Part and have not been produced are to be found at any
 (3) For the purposes of this paragraph, any proceedings shall be deemed not to have been finally determined so long as there is pending any appeal in the matter of the proceedings, and an appeal in that matter shall be deemed to be pending during the ordinary time within which such an appeal may be lodged, and, if such an appeal is duly lodged, the appeal shall be deemed to be pending until it is decided or withdrawn.
 (4) The powers conferred by this paragraph in relation to any article shall be in addition to, and not in derogation of, any powers otherwise exercisable in relation thereto.
 4. No person in or resident of Trinidad and Tobago shall-
-(a) with intent to evade the provisions of this Act, destroy, mutilate,
-deface, secrete or remove any documents;
+(a) with intent to evade the provisions of this Act, destroy,
+mutilate, deface, secrete or remove any documents;
 (b) in furnishing any information for any of the purposes of this
 Act, make any statement which he knows to be false in a material particular, or recklessly make any statement which is false in a material particular;
 (c) obstruct any person in the exercise of any powers conferred
@@ -31,8 +31,8 @@ GENERAL PROVISIONS AS TO OFFENCES
 (3) Any person who commits an offence punishable under this Part is liable-
 (a) on summary conviction to a fine and to imprisonment for
 two years;
-(b) on conviction on indictment to a fine and to imprisonment for
-five years, and where the offence is concerned with any currency, any security, any gold, any goods or any other property, the Court may if it thinks fit, order the currency, security, gold, goods or property to be forfeited.
+(b) on conviction on indictment to a fine and to imprisonment
+for five years, and where the offence is concerned with any currency, any security, any gold, any goods or any other property, the Court may if it thinks fit, order the currency, security, gold, goods or property to be forfeited.
 (4) Except in the case of a body corporate convicted on indictment, the maximum fine which may be imposed for an offence punishable under this Part is-
 (a) on summary conviction five thousand dollars; and
 (b) on conviction on indictment ten thousand dollars, however, where the offence is concerned with any currency, any security, any payment, any gold, any goods or any other property, and does not consist only of a failure to give information or produce books, accounts or other documents with respect thereto when required to do so under Part I of this Schedule, a larger fine may be imposed not exceeding three times the amount or value of the currency, security, payment, gold, goods or property.
@@ -50,9 +50,9 @@ IMPORT AND EXPORT
 2. Any declaration required to be given under Part IV of this Act shall, for the purposes of the Customs Act, be deemed to be a declaration in a matter relating to Customs.
 3. (Repealed by Act No. 22 of 1985).
 4. Without prejudice to any of the preceding provisions of this Part, any person who, on any occasion, is about to leave Trinidad and Tobago or arrives in Trinidad and Tobago (which person is hereafter in this paragraph referred to as "the traveller") shall, if on that occasion he is required to do so by an officer of Customs or an Immigration officer-
-(a) declare whether or not he has with him anything prohibited to
-be imported or exported by any of the provisions of Part IV of this Act, except with the permission of the Bank; and
-(b) produce any such thing as aforesaid which he has with him, and the officer may examine or search any article which the traveller has with him for the purpose of ascertaining whether he is conveying or has in his possession any such thing, and, if the officer has reasonable grounds for suspecting that the traveller has about his person any such thing, search him, and may seize anything produced as aforesaid or found upon such examination or search as aforesaid as to which the officer has reasonable ground for suspecting that it is prohibited to be imported or exported by any of the provisions of Part IV of this Act, except with permission of the Bank, but so that no female shall be searched in pursuance of this paragraph except by a female.
+(a) declare whether or not he has with him anything prohibited
+to be imported or exported by any of the provisions of Part IV of this Act, except with the permission of the Bank; and
+(b) produce any such thing as aforesaid which he has with him, and the officer may examine or search any article which the traveller has with him for the purpose of ascertaining whether he is conveying or has in his possession any such thing, and, if the officer has reasonable grounds for suspecting that the traveller has about his person any such thing, search him, and may seize anything produced as aforesaid or found upon such examination or search as aforesaid as to which the officer has reasonable ground for suspecting that it is prohibited to be imported or exported by any of the provisions of Part V of this Act, except with permission of the Bank, but so that no female shall be searched in pursuance of this paragraph except by a female.
 5. (Repealed by Act No. 22 of 1985).
 - Margin: Section 39.
 - Margin: Ch. 47:01.
