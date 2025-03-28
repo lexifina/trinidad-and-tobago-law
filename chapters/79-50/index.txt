@@ -40,4 +40,3 @@ sl-02/title.md
 sl-02/r-1.md
 sl-02/r-2.md
 sl-02/r-4.md
-sl-02/r-5.md
