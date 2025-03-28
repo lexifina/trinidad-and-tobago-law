@@ -26,7 +26,7 @@ REGULATION
 PART III-DRUGS
 GENERAL
 32. Definition of terms in Part III. 33. Labelling of drug. 34. Contents of label. 35. Label on bulk package. 36. Drug sold on prescription. 37. Packing cases. 38. Name and proportion of drug to be stated on label. 39. Label to contain all information. 40. Information clearly and prominently displayed. 41. Reference to drug. 42. Drug to conform to standard.
-[Subsidiary] Food and Drugs Regulations
+Food and Drugs Regulations [Subsidiary]
 ARRANGEMENT OF REGULATIONS-Continued REGULATION
 43. Parenteral, Third Schedule or controlled drugs. 44. Exemption from sections 4(1). 45. Drug in form of tablet. 46. Variations from declared quantity. 47. Caution on label of drug. 48. Third Schedule or a controlled drug not to be advertised. 49. Prohibition. 50. Second Schedule. 51. Contravention or non-compliance with Part III. 52. Date Regulations became effective.
 FIRST SCHEDULE. SECOND SCHEDULE. THIRD SCHEDULE. [Subsidiary]
@@ -55,8 +55,8 @@ package of a food, drug, cosmetic, or device.
 (a) furnish copies of official methods; and
 (b) indicate that a method submitted to him for his
 ruling is acceptable or otherwise.
-*These Regulations have been further amended by LNs 111/1986; 49/1987; 37/1991; 72/1996; 192/1999; 199/1999; 118/2003.
-[Subsidiary] Food and Drugs Regulations
+*These Regulations have been further amended by LNs 111/1986; 49/1987; 37/1991; 72/1996; 192/1999; 199/1999; 118/2003; 160/2017.
+Food and Drugs Regulations [Subsidiary]
 INSPECTORS
 5. (1) Inspectors shall perform the functions and duties, and carry out the responsibilities, prescribed by the Act, these Regulations and the Minister.
 (2) The authority of an inspector extends to and includes the whole of Trinidad and Tobago.
@@ -80,8 +80,8 @@ SAMPLING
 11. When taking a sample pursuant to section 21 of the Act,
 an inspector shall, after procuring a suitable quantity of the article in question and paying for the same the usual price therefor, notify the owner thereof or the person from whom the sample was obtained of his intention to submit a sample thereof to an analyst for analysis or examination, and
 (a) if the owner or the person from whom the sample
-[Subsidiary] Food and Drugs Regulations
-was obtained, demands it, but nototherwise, then and there divide the quantity into three parts, and shall-
+Food and Drugs Regulations [Subsidiary]
+was obtained, demands it, but not otherwise, then and there divide the quantity into three parts, and shall-
 (i) cause each of the three parts to be marked
 and sealed in such manner as the nature of such sample will permit;
 (ii) deliver one of the parts to the owner or
@@ -121,7 +121,7 @@ cereal and includes a beverage which is manufactured, distributed or sold under 
 (a) ale;
 (b) beer;
 (c) lager or lager beer;
-[Subsidiary] Food and Drugs Regulations
+Food and Drugs Regulations [Subsidiary]
 (d) malta;
 (e) malt liquor;
 (f) porter;
@@ -163,7 +163,7 @@ presented to the consumer or intended to be most conspicuous to the consumer at 
 contained, placed, packed or enclosed for sale;
 "prepackaged" means packaged or made up in advance in a
 package for retail sale;
-[Subsidiary] Food and Drugs Regulations
+Food and Drugs Regulations [Subsidiary]
 "preservative" means a substance classified as such in Division 7
 of the First Schedule; "proof spirit" means proof spirit as defined in the Customs Act or
 the Excise (General Provisions) Act; "registration number" means any letters or figures or a
@@ -173,8 +173,7 @@ for human consumption, which is composed principally of sugar with or without th
 carbohydrate which may be used as a sweetener; "vending machine" means a machine one of the purposes of
 which is to dispense or supply a food automatically when money or money's worth is inserted into it whether or not any further operation is required prior to its dispensing or supplying the food.
 15. Any person who sells a food that is not labelled in accordance with the provisions of this Part is guilty of an offence.
-16. (l)
-Except as otherwise provided by this Part the label of a package of food shall carry-
+16. (l) Except as otherwise provided by this Part the label of a package of food shall carry-
 (a) on the main panel of the label-
 (i) the brand or trade name of the food; [Subsidiary] Food and Drugs Regulations
 (ii) the common name of the food; and
@@ -204,7 +203,7 @@ of the package-
 required by these Regulations.
 (2) The declaration of net contents specified in
 subregulation (1)(a)(iii) shall be made in terms of metric
-[Subsidiary] Food and Drugs Regulations
+Food and Drugs Regulations [Subsidiary]
 (Systeme Internationale) units or imperial (Avoirdupois) units, or any accepted abbreviations thereof until such terms are varied with respect to any class of food by notice made by the Minister and published in the Gazette; the notice shall state specifically the date on or after which the variation becomes effective.
 (3) Where a food is packed in a liquid medium which is usually not consumed with the food, a declaration of the drained weight of the food shall be made.
 (4) The list of ingredients required by subregulation
@@ -231,7 +230,7 @@ acidifiers; anticaking agents (or free-flowing agents); antifoaming agents; anti
 Trinidad and Tobago who is not the manufacturer within the meaning of section 2 of the Act, the name and postal address in Trinidad and Tobago of the person by whom the food was prepared shall be legibly stated next to the name and address of the manufacturer.
 (9) Where the food is prepared in a country other than
 the country of the manufacturer a declaration of the country of preparation or origin shall be made on the label.
-[Subsidiary] Food and Drugs Regulations
+Food and Drugs Regulations [Subsidiary]
 (10) The declarations specified in subregulation (1) and in regulation 16A shall be made in English but where a label is applied to a food in a country the official language of which is not English, the declarations shall appear in English on any panel except the bottom of the package.
 16A. (1) Every manufacturer or distributor of a breast-milk substitute shall display on the outer label of the container-
 (a) a statement headed "Important Notice"
@@ -265,7 +264,7 @@ more than 1.0 per cent alcoholic content by volume, shall state on its main pane
 (c) degrees proof spirit or per cent proof spirit;
 (d) degrees or per cent U.S. proof; or
 (e) any other term authorised by the Minister.
-[Subsidiary] Food and Drugs Regulations
+Food and Drugs Regulations [Subsidiary]
 (8) The common names "brandy", "rum", "gin" or "vodka" shall not be applied to an alcoholic beverage, the alcoholic strength of which is below seventy-five degrees proof spirit, except in the case of fruit brandy and brandy that has been matured in a cask.
 (9) The common names referred to in subregulations (2) and (3) may be in a language other than English, but shall be printed in the English alphabet, with accent marks where appropriate.
 16C. (1) This regulation applies to the labelling of a brewery product in addition to regulation 16 and where there is a conflict between this regulation and regulation 16, this regulation prevails.
@@ -317,8 +316,8 @@ distributor, if any; and
 (h) the expiry date or other date mark.
 (7) In this regulation "bulk package" includes a package
 in which one or more duly labelled packages of a brewery product and its contents intended for retail sale are placed for the purpose
-[Subsidiary] Food and Drugs Regulations
-of wholesale and a barrel, cask or pressurized container in which a brewery product is placed for sale from draught.
+Food and Drugs Regulations [Subsidiary]
+of wholesale and a barrel, cask or pressurised container in which a brewery product is placed for sale from draught.
 17. Notwithstanding the provisions of regulation 16(1)(a)(iii), a declaration of net contents in terms of weight, volume or number is not required on the label of-
 (a) any package of food, the weight of which
 including the package is less than two ounces (56 grams) or the volume of net contents is less than two fluid ounces (56 millilitres);
@@ -364,7 +363,7 @@ aromatic bitters;
 (4) Notwithstanding the provisions of regulation
 16(1)(b)(iv), no declaration is required to indicate the presence of caramel as a food colour in the following:
 (a) non-excisable fermented beverages;
-[Subsidiary] Food and Drugs Regulations
+Food and Drugs Regulations [Subsidiary]
 (b) sauces;
 (c) spirits (except gin);
 (d) vinegar;
@@ -421,7 +420,7 @@ food and its composition is similar to that of the other food.
 mixture of ingredients, dry or otherwise, and is intended to be made into other food for human consumption by the addition of any food or substance other than water-
 (a) the name of the substance required to be added
 shall appear on the label preceded by such words as "Add" "Needs", or "Mixed With"; and
-[Subsidiary] Food and Drugs Regulations
+Food and Drugs Regulations [Subsidiary]
 (b) the words required by paragraph (a) shall appear
 in close proximity to the common name of the mixture of the ingredients sold.
 (5) A food which contains saccharin, or cyclohexylsulphamic acid (cyclamate) or the salts of either of them shall state clearly on the label the name of the artificial sweetener it contains, and a statement that it is a non-nutritive sweetener.
@@ -452,7 +451,7 @@ changed his address may continue to use his former address on old glass bottles 
 package;
 (b) weighed or measured in or counted into the
 package in the presence of the purchaser, or weighed, measured or counted in the presence of the purchaser before being packaged;
-[Subsidiary] Food and Drugs Regulations
+Food and Drugs Regulations [Subsidiary]
 (c) pre-packaged from bulk at the place where the
 food is sold by retail provided that there is placed on every shelf, bin or any other place where the food is displayed in a position clearly visible to an intending purchaser a legible statement in English giving correct details of-
 (i) the common name or trade name of
@@ -496,7 +495,7 @@ approved by the Minister;
 (d) iso-propyl alcohol;
 (e) synthetic food colours in a proportion greater
 than 0.03 per cent of the food when prepared for consumption as directed, or as it is usually consumed (except in food colour preparations as defined in Division 2 of the First Schedule).
-[Subsidiary] Food and Drugs Regulations
+Food and Drugs Regulations [Subsidiary]
 27. Notwithstanding regulation 26-
 (a) a food is not adulterated by reason only that it
 contains mineral oil not exceeding 0.3 per cent if good manufacturing practice required its use; and
@@ -538,7 +537,7 @@ by wholesale; or
 wholesaler to a pharmacist or dispensary and intended to be re-packaged by the retailer in smaller quantities for dispensing or retail, but does not include packing cases used in import or export for the protection of drugs;
 "common name" means, with reference to a drug, the name in
 English by which the drug is commonly known, or the
-[Subsidiary] Food and Drugs Regulations
+Food and Drugs Regulations [Subsidiary]
 name by which the drug is commonly known in Trinidad and Tobago; "controlled drug" means any of the drugs classified as such in
 Division 2 of the Second Schedule, and includes a preparation; "dentist" means a person qualified by law to practise dentistry in
 Trinidad and Tobago; "expiration date" means the date after which a drug is not
@@ -582,7 +581,7 @@ States Pharmacopoeial Convention as the adopted name of the drug; or
 (a), (b) or (c), the name in English assigned to the drug in any of the publications mentioned in the Second Schedule to the Act; or
 (e) international non-proprietary names proposed
 by the World Health Organisation;
-[Subsidiary] Food and Drugs Regulations
+Food and Drugs Regulations [Subsidiary]
 "Third Schedule drug" means any drug mentioned in the Third
 Schedule to the Act; "veterinary drug" means a drug sold for veterinary use, and
 includes a drug supplied on a prescription given by a veterinary surgeon; "veterinary surgeon" means a person who is registered under the
@@ -625,14 +624,15 @@ distributor of the drug;
 preceded by the words "lot number" or "lot", "batch number", or "batch" or by an abbreviation of the words "lot" or "batch" where a drug is intended for internal or parenteral use;
 (e) a correct declaration of net contents in terms of
 weight, measure or number; and
-[Subsidiary] Food and Drugs Regulations
+Food and Drugs Regulations [Subsidiary]
 (f) an expiry date, if applicable or if specified by
 these Regulations; and may carry-
 (i) adequate directions for use, in the English
 language, or a statement of dosages;
 (ii) directions on the kind of storage required
 to maintain the potency, efficacy, safety or properties of the drug.
-36. Regulation 34 does not apply-
+36. Regulation 34 does not apply- Drug sold on
+prescription.
 (a) to the label of a drug sold on a prescription
 where the label carries-
 (i) the name and address of the pharmacist
@@ -650,7 +650,8 @@ the premises where the drug is retailed, if the label carries-
 (i) the name of the drug; and
 (ii) the name and address of the pharmacist
 or pharmacy.
-37. Regulations 34 and 35 do not apply to packing cases used for the protection of bulk packages of drugs which are in transit for the purpose of import or export. [Subsidiary] Food and Drugs Regulations
+37. Regulations 34 and 35 do not apply to packing cases used Packing cases.
+[52/1974]. for the protection of bulk packages of drugs which are in transit for the purpose of import or export. [Subsidiary] Food and Drugs Regulations
 38. Notwithstanding regulation 34(b)(v), where a Patent or
 Proprietary Medicine contains a narcotic drug, a Third Schedule drug, or a controlled drug, the name and proportion of such drug shall, subject to regulation 36, be stated on the label.
 39. Where a package of a drug has only one label, that label
@@ -665,7 +666,7 @@ standard is prescribed for a drug and that standard is given a name or designati
 the safe use of parenteral drugs, Third Schedule drugs, or controlled drugs, that are used in the treatment or prevention of any of the diseases, disorders, or abnormal physical states, mentioned in the First Schedule to the Act, the diseases, disorders, or abnormal physical states may be mentioned in the inserts accompanying the drugs, and, to such extent, the drugs are hereby exempted from the provisions of section 4(1) of the Act.
 44. A drug when distributed in accordance with section 13(2)
 of the Act is hereby exempted from the provisions of section 4(1) of the Act as regards any inserts accompanying the drug.
-[Subsidiary] Food and Drugs Regulations
+Food and Drugs Regulations [Subsidiary]
 45. (1) No person shall sell a drug in the form of a tablet which is intended to be swallowed whole, unless the tablet disintegrates in not more than 60 minutes when tested by the official method.
 (2) Subregulation (1) does not apply to tablets which are represented on the label as being enteric coated, or as having delayed action.
 46. (1) Where the contents of a package of a drug are expressed in terms of weight, measure, or number, no variations from the quantity declared on the label are permitted except, subject to subregulation (2)-
@@ -691,7 +692,7 @@ one with this Part.
 51. A person who contravenes a provision of this Part is
 liable on summary conviction to a penalty of three hundred dollars or to imprisonment for three months.
 52. These Regulations have effect from 1st January 1965.
-[Subsidiary] Food and Drugs Regulations
+Food and Drugs Regulations [Subsidiary]
 FIRST SCHEDULE
 DIVISION 1-BAKING POWDER
 1. Baking Powder shall be a combination of sodium bicarbonate, an acid-reacting material mentioned in paragraph 2, and starch or other neutral material, and shall yield not less than 8 per cent of its weight of carbon dioxide as determined by the official method.
@@ -755,7 +756,7 @@ Agriculture Organisation of the United Nations and by the
 World Health Organisation;
 (e) synthetic food dyes approved for use in food by the
 Australian Commonwealth Food Additives Committee.
-[Subsidiary] Food and Drugs Regulations
+Food and Drugs Regulations [Subsidiary]
 7. Notwithstanding paragraphs 2, 3 and 6, the Minister may, on the advice of the Food Advisory Committee, withdraw, by notice published in the Gazette, approval with respect to any food colour which is toxic or capable of producing toxic effects; and on publication of any such notice, paragraphs 2, 3 and 6 shall cease to apply with respect to that food colour.
 DIVISION 3-DAIRY PRODUCTS
 1. The foods referred to in this Division are included within the term "dairy product".
@@ -804,7 +805,7 @@ Powdered Whole Milk shall be dried milk, and shall contain not less than-
 (a) 95 per cent of milk solids; and
 (b) 26 per cent of milk fat,
 and may contain added vitamin D.
-[Subsidiary] Food and Drugs Regulations
+Food and Drugs Regulations [Subsidiary]
 13. Skim (Skimmed) Milk Powder, Dry Skim (Skimmed) Milk or Powdered Skim (Skimmed) Milk shall be dried skim milk and shall contain not less than 95 per cent of milk solids, and may contain added vitamin D.
 14. Partly Skimmed Milk Powder, or Half Cream Milk Powder shall be dried milk and shall contain not less than-
 (a) 95 per cent of milk solids; and
@@ -857,7 +858,7 @@ For the purpose of this paragraph, "pre-treated" means that the complete
 mixture shall be brought to the boil and cooled in a covered container.
 24. Dairy Ice Cream shall be ice cream as defined in paragraph 22
 except that all the fat therein shall be milk fat only, except such traces as may be introduced by the use as an ingredient of any egg, any flavouring substance or any emulsifying or stabilising agent.
-[Subsidiary] Food and Drugs Regulations
+Food and Drugs Regulations [Subsidiary]
 25. Ultra Heat Treated Milk, or U.H.T. Milk, shall be milk that has been heated at a temperature of 132.2°C. (270°F.) for a period of not less than one second. The following requirements shall be satisfied in its processing:
 (a) any apparatus in which the milk is to be heated to and maintained
 at a temperature of not less than 132.2°C. (270°F.) shall be provided with a device which shall automatically divert the flow of any milk which is not raised to the authorised temperature;
@@ -904,7 +905,7 @@ beans [the seeds of Glycine max (L.) Merr.] and shall have-
 than 0.919 and not more than 0.925;
 (ii) a refractive index at 40°C. (nD40ºC.) between 1.466
 and 1.470;
-[Subsidiary] Food and Drugs Regulations
+Food and Drugs Regulations [Subsidiary]
 (iii) an iodine value (Wijs) of not less than 120 and not
 more than 143;
 (iv) a saponification value of not less than 189 and not
@@ -972,7 +973,7 @@ more than 194 mg. KOH per gram of oil;
 (b) the following characteristics of quality:
 (i) the colour, taste, and odour shall be characteristic of
 edible sunflowerseed oil, with no foreign or rancid odour or taste;
-[Subsidiary] Food and Drugs Regulations
+Food and Drugs Regulations [Subsidiary]
 (ii) the acid value shall not be greater than 4.0 mg. KOH
 per gram of virgin sunflowerseed oil, or greater than 0.6 mg. KOH per gram of non-virgin sunflowerseed oil;
 (iii) the maximum peroxide value shall be 10.0 milli-
@@ -1043,7 +1044,7 @@ Oil) shall be the oil derived from safflowerseeds (the seeds of Carthamus tincto
 than 0.922 and not more than 0.927;
 (ii) a refractive index at 40°C. (nD40ºC.) between 1.467
 and 1.470;
-[Subsidiary] Food and Drugs Regulations
+Food and Drugs Regulations [Subsidiary]
 (iii) an iodine value (Wijs) of not less than 135 and not
 more than 150;
 (iv) a saponification value of not less than 186 and not
@@ -1099,12 +1100,10 @@ Table in amounts not exceeding the quantities stated therein in parts per millio
 (c) other poisonous or harmful substances in amounts not
 considered by the Minister likely to be injurious to health,
 is hereby exempted from the provision of section 5(a) of the Act.
-[Subsidiary] Food and Drugs Regulations
+Food and Drugs Regulations [Subsidiary]
 SUBSTANCE
 FOOD
-Arsenic Lead Copper Zinc p.p.m. p.p.m. p.p.m. p.p.m. Citric Acid ... 1 10 50 50 Tartaric Acid ... 1 10 50 50 Cream of Tartar ... 2 20 50 50 Sodium Bicarbonate ... 2 5 50 50 Baking Powder ... 2 10 50 50 PhosphoricAcid ... 4 5 30 30 Calcium Phosphate ... 4 5 30 30 Sodium, Potassium and Ammonium Phosphates … 4 5 30 30 Sodium and Potassium Nitrates … … … 1 10 50 50 Sodium Nitrite ... 1 20 50 50 Marine and Fresh Water Animal Products … … 5 10 100 100 Fresh Fruits ... 2 7 50 50 Fresh Vegetables ... 1 2 50 50
-... 2 7 30 100 Gelling agents except Gelatin … … … 2 20 50 200 Dried Herbs and Spices … … … 5 10 50 50 Apple Juice, Cider, Wine and Beer … … 0.2 0.5 2 5 Fruit Juice except Apple Juice … … … 0.1 0.2 2 5 Beverages ... 0.1 0.2 2 5
-... 1 10 150 50
+Arsenic Lead Copper Zinc p.p.m. p.p.m. p.p.m. p.p.m. Citric Acid ... 1 10 50 50 Tartaric Acid ... 1 10 50 50 Cream of Tartar ... 2 20 50 50 Sodium Bicarbonate ... 2 5 50 50 Baking Powder ... 2 10 50 50 PhosphoricAcid ... 4 5 30 30 Calcium Phosphate ... 4 5 30 30 Sodium, Potassium and Ammonium Phosphates … 4 5 30 30 Sodium and Potassium Nitrates … … … 1 10 50 50 Sodium Nitrite ... 1 20 50 50 Marine and Fresh Water Animal Products … … 5 10 100 100 Fresh Fruits ... 2 7 50 50 Fresh Vegetables ... 1 2 50 50 Gelatin ... 2 7 30 100 Gelling agents except Gelatin … … … 2 20 50 200 Dried Herbs and Spices … … … 5 10 50 50 Apple Juice, Cider, Wine and Beer … … 0.2 0.5 2 5 Fruit Juice except Apple Juice … … … 0.1 0.2 2 5 Beverages ... 0.1 0.2 2 5 Tea ... 1 10 150 50
 3. Except as otherwise provided, a food not named in the Table to paragraph 2 which contains in or upon it-
 (a) not more than-
 (i) one part per million of arsenic;
@@ -1155,7 +1154,7 @@ gallate;
 (viii) nordihydroguaiaretic acid;
 (ix) butylated hydroxyanisole;
 (x) butylated hydroxytoluene.
-[Subsidiary] Food and Drugs Regulations
+Food and Drugs Regulations [Subsidiary]
 2. Where any Class II, Class III, or Class IV preservative is sold for use as a preservative for food, the label shall carry adequate directions for use in accordance with the limits prescribed for the preservative in this Division.
 3. Notwithstanding regulation 16(1)(b)-
 (a) no label declaration is required for the presence of
@@ -1216,7 +1215,7 @@ DIVISION 8-VINEGAR AND DILUTE ACETIC ACID
 (FOOD GRADE)
 1. Vinegar shall be the liquid obtained by the acetous fermentation of
 an alcoholic liquid, and subject to paragraph 7, shall contain not less than 4.0 per cent nor more than 12.0 per cent of acetic acid.
-[Subsidiary] Food and Drugs Regulations
+Food and Drugs Regulations [Subsidiary]
 2. Wine Vinegar shall be vinegar made from wine, and may contain caramel.
 3. Spirit Vinegar or Alcohol Vinegar, Distilled Molasses Vinegar, White Vinegar or Grain Vinegar shall be vinegar made from diluted distilled alcohol.
 4. Malt Vinegar shall be vinegar made from an infusion of malt undistilled prior to acetous fermentation, and may contain other cereals and caramel.
@@ -1262,7 +1261,7 @@ addition of any sugar, as determined by an acceptable method.
 may contain such added carbohydrate material as may be found necessary or desirable for good manufacturing practice.
 4. Notwithstanding regulation 17, no person shall sell any coffee
 containing added sugar in a package unless the package is distinctly labelled with the words "contains added sugar".
-[Subsidiary] Food and Drugs Regulations
+Food and Drugs Regulations [Subsidiary]
 DIVISION 11-SYNTHETIC SWEETENERS
 1. For the purpose of this Division, "synthetic sweetener" means a low calorie non-nutritive sweetener which provides little or no energy while having a high intensity sweetening purpose.
 2. Subject to paragraph 3, the following synthetic sweeteners shall be deemed to be approved by the Minister:
@@ -1315,7 +1314,7 @@ potassium at levels 350 parts per million and below either as a sole sweetener o
 (b) the beverage is sugar free; and
 (c) the beverage is low-calorie and carbonated low-calorie
 drinks are not recommended for use by children.
-[Subsidiary] Food and Drugs Regulations
+Food and Drugs Regulations [Subsidiary]
 5. No person shall set a carbonated beverage that contains-
 (a) saccharin and its salts at levels in excess of 300 parts per
 million either as a sole synthetic sweetener or in combination with any other synthetic sweetener(s);
@@ -1364,7 +1363,8 @@ with legumes;
 (c) milk powder, skim milk powder, butter milk powder, or
 whey powder;
 "type" means the common name denoting the animals from which the food
-was derived, such as beef, veal, pork, lamb, mutton, goat, poultry and other common names. 2. Meat shall be the edible part of the skeletal muscle of an animal
+was derived, such as beef, veal, pork, lamb, mutton, goat, poultry and other common names.
+2. Meat shall be the edible part of the skeletal muscle of an animal
 which was healthy at the time of slaughter, or muscle that is found in the tongue, heart or oesophagus, with or without the accompanying and overlying fat, together with the portions of bone, skin, sinew, nerve and blood vessels that normally accompany the muscle tissue and are not separated from it in the lips, snout, scalp or ears.
 3. Meat By-product shall be any edible part of an animal, other than
 meat, that has been derived from one or more animals, which were healthy at the time of slaughter.
@@ -1376,7 +1376,7 @@ of the following substances or class of substance is present therein, or has bee
 black gut, spleens, udders, lungs, or any other organs or portions of an animal that are not commonly sold as an article of food;
 (b) preservatives, other than Class I preservatives;
 (c) colour other than caramel.
-[Subsidiary] Food and Drugs Regulations
+Food and Drugs Regulations [Subsidiary]
 6. A food that consists wholly or in part of a meat by-product or a prepared meat by-product shall be labelled with-
 (a) the words "meat by-product"; and
 (b) the name of the meat by-product.
@@ -1430,7 +1430,7 @@ official method;
 fat, as determined by the official method; and
 (c) not less than 10 per cent of digestible protein, as determined
 by the official method.
-[Subsidiary] Food and Drugs Regulations
+Food and Drugs Regulations [Subsidiary]
 DIVISION 14-JAMS, JELLIES AND MARMALADES
 1. In this Division "acid ingredient" means citric acid, malic acid, fumaric acid, L-tartaric acid,
 vinegar, lime juice or lemon juice; "fruit" means all fruits commonly recognised as human food, and includes
@@ -1466,8 +1466,8 @@ form of fruit-pulp or puree which has been canned, frozen, pasteurised, dried, f
 marmalades shall be stated on the label of every container thereof.
 (2) Where the fruit content of jams, jellies or marmalades is greater
 than or equal to the following standard values for the named fruit products, the word "Standard", instead of the fruit content thereof, may be used on the label of the container-
-Apple jelly ... 45 per cent fruit content Apricot jam ... 40 per cent fruit content Guava jam ... 45 per cent fruit content Guava jelly ... 45 per cent fruit content Lime marmalade … … … 30 per cent fruit content Mixed orange and grapefruit marmalade… 30 per cent fruit content Mixed raspberry and strawberry jam … 40 per cent fruit content Orange jelly... 30 per cent fruit content Orange marmalade … … … 30 per cent fruit content Pineapple jam... 45 per cent fruit content Pineapple jelly... 45 per cent fruit content Raspberry jam... 45 per cent fruit content Strawberry jam … … … 35 per cent fruit content
-[Subsidiary] Food and Drugs Regulations
+Apple jelly ... 45 per cent fruit content Apricot jam ... 40 per cent fruit content Guava jam ... 45 per cent fruit content Guava jelly ... 45 per cent fruit content Lime marmalade … … … 30 per cent fruit content Mixed orange and grapefruit marmalade 30 per cent fruit content Mixed raspberry and strawberry jam … 40 per cent fruit content Orange jelly... 30 per cent fruit content Orange marmalade … … … 30 per cent fruit content Pineapple jam... 45 per cent fruit content Pineapple jelly... 45 per cent fruit content Raspberry jam... 45 per cent fruit content Strawberry jam … … … 35 per cent fruit content
+Food and Drugs Regulations [Subsidiary]
 9. Jams, jellies and marmalades may contain the following optional ingredients:
 (a) herbs, spices;
 (b) essential oils;
@@ -1514,7 +1514,7 @@ be detrimental to the health of the purchaser or user;
 (b) the manufacturer or distributor of the food has agreed-
 (i) to describe the food on a label or in an advertisement
 in a manner that is not false, misleading or deceptive;
-[Subsidiary] Food and Drugs Regulations
+Food and Drugs Regulations [Subsidiary]
 (ii) to use such marks or statements on the label as the
 Director may require;
 (iii) to submit to the Director the results of the test
@@ -1574,7 +1574,7 @@ food, the common name of which is a variant of the word "catsup", [hereinafter r
 (i) a total of solids which amounts to not less than 25 per
 cent by weight; and
 (ii) a pH value not exceeding 4.0.
-[Subsidiary] Food and Drugs Regulations
+Food and Drugs Regulations [Subsidiary]
 (2) (Naming the Vegetable or Fruit) ketchup may contain-
 (a) food colour;
 (b) a Class II preservative;
@@ -1635,10 +1635,9 @@ consisting of not less than 70 per cent vinylidene chloride;
 (k) nylon 11;
 (l) nylon 6; or
 (m) ethylene-vinyl acetate copolymers.
-8. This Division shall not apply to treatments by microwave.
-[Subsidiary] Food and Drugs Regulations
-DIVISION 19-FOOD GRADE SALT
-1. This Division shall apply to salt to be used as food. 2. Food Grade salt shall-
+8. This Division shall not apply to treatments by microwave. Food and Drugs Regulations [Subsidiary]
+DIVISION 19-FOOD GRADE SALT 1. This Division shall apply to salt to be used as food.
+2. Food Grade salt shall-
 (a) be white, crystalline, sodium chloride prepared from rock
 salt, seawater or natural brine;
 (b) contain not less than 97 per cent sodium chloride, calculated
@@ -1705,7 +1704,7 @@ used in the production of dendritic salt, the amount shall not exceed 0.0020 per
 (g) 2 per cent of total calcium and magnesium, calculated as
 calcium; and
 (h) 0.3 per cent extraneous matter by weight.
-[Subsidiary] Food and Drugs Regulations
+Food and Drugs Regulations [Subsidiary]
 5. (1) Rock salt shall be crude rock salt or halite obtained from the mining of salt.
 (2) Solar salt shall be salt prepared by the solar evaporation of sea water or natural brine.
 (3) Granulated salt shall be salt prepared by the vacuum evaporation of purified brine.
@@ -1744,7 +1743,7 @@ a wort, to which other ingredients may have been added and which has been brewed
 concentrate, sugar, carbon dioxide and water.
 (2) Shandy shall not contain more than 1.2 per cent alcoholic
 content by volume.
-[Subsidiary] Food and Drugs Regulations
+Food and Drugs Regulations [Subsidiary]
 10. Stout shall be a beverage produced by the fermentation by yeast, of a wort, to which other ingredients may have been added and which has been brewed in such a manner as to have the aroma, flavour and other characteristics that are commonly recognised in stout.
 11. (1) Hop extract to be used in a brewery product shall be produced by-
 (a) a process in which carbon dioxide or ethanol is used as a
@@ -1790,7 +1789,7 @@ Tobago shall import a Third Schedule drug.
 5. The provisions of paragraph 1 do not apply to the sale of a Third
 Schedule drug to-
 (a) a drug manufacturer;
-[Subsidiary] Food and Drugs Regulations
+Food and Drugs Regulations [Subsidiary]
 (b) a practitioner;
 (c) an importer, wholesaler, jobber, or agent, dealing in drugs;
 (d) a pharmacist;
@@ -1815,13 +1814,13 @@ in a recognised therapeutic form; "written order" means an order given in writin
 person to whom a licensed dealer is permitted to sell or supply a controlled drug pursuant to a written order.
 2. For the purposes of this Division the following substances and their
 salts are classified as controlled drugs:
-(a) Amphetamine
+(a) (Deleted by LN 344/2019)
 (b) Dexamphetamine
 (c) Mecloqualone
-(d) Methamphetamine
+(d) (Deleted by LN 344/2019)
 (e) Methaqualone
 (f) Methylphenidate
-(g) Phencyclidine
+(g) (Deleted by LN 344/2019)
 (h) Phenmetrazine
 (i) Amobarbital
 (j) Cyclobarbital
@@ -1844,8 +1843,7 @@ salts are classified as controlled drugs:
 (aa) Delorazepam
 (bb) Diazepam
 (cc) Estazolam
-(dd) Ethchlorvynol
-[Subsidiary] Food and Drugs Regulations
+(dd) Ethchlorvynol Food and Drugs Regulations [Subsidiary]
 (ee) Ethinamate
 (ff) Ethyl loflazepate
 (gg) Fludiazepam
@@ -1902,7 +1900,7 @@ if the signature is unknown to him.
 hospital unless-
 (a) he has first received a written order therefor from the pharmacist in
 charge of the hospital dispensary or from a physician or dentist authorised by the hospital to sign the order; and
-[Subsidiary] Food and Drugs Regulations
+Food and Drugs Regulations [Subsidiary]
 (b) he has first verified the signature of that person if the
 signature is unknown to him.
 13. A licensed dealer carrying on the business of a pharmacy, or any pharmacist employed by him for the purposes of that business, may sell a controlled drug to any person if-
@@ -1944,7 +1942,7 @@ prescription written by himself or another practitioner shall keep a special pre
 keep on his premises for a period of at least two years all records that are required to be kept by these Regulations, and the records shall be kept in a manner which will enable an audit thereof to be made at any time.
 21. Every licensed dealer shall take all necessary steps to protect
 controlled drugs in his possession or under his control against loss or theft and shall report to the Director any such loss or theft of a controlled drug within ten days of the discovery thereof.
-[Subsidiary] Food and Drugs Regulations
+Food and Drugs Regulations [Subsidiary]
 22. Nothing in this Division prohibits the sale to the Government by a licensed dealer of controlled drugs for its medical supplies but every officer in charge of Government medical supplies shall keep a separate register in which he shall enter or cause to be entered-
 (a) the name, quantity and form of any controlled drug received
 by him;
@@ -1987,7 +1985,7 @@ may require, and shall include one or more of the following:
 manufacturer by the Department of National Health and Welfare in Canada;
 (ii) a certificate from the Food and Drugs Administration
 of the Department of Health, Education and Welfare of the United States of America certifying that the new drug is approved for use in the United States of America under the conditions of use recommended
-[Subsidiary] Food and Drugs Regulations
+Food and Drugs Regulations [Subsidiary]
 and giving the conditions under which it may be sold in the United States of America;
 (iii) a certificate from the Ministry of Health of the United
 Kingdom certifying that the new drug is approved for use in the United Kingdom under the conditions of use recommended and giving the conditions under which it may be sold in the United Kingdom;
@@ -2017,15 +2015,15 @@ notice of approval in respect of a variation of formula or a new claim to that d
 manufacturer or importer with the Minister shall have attached to it the receipt issued by the Comptroller of Accounts in respect of the payment of the registration fee.
 6. Where notice of approval in respect of a new drug has been issued to
 a manufacturer or importer, another manufacturer or importer of the same new drug may provide the Minister with a submission that satisfies the provisions of paragraph 4.
-7. The Minister on the recommendation of the Drug Advisory
-Committee shall, within one hundred and twenty days after the filing of a new drug submission or supplement thereto-
+7. Within six months after the filing of a new drug submission or
+supplement thereto, the Minister shall, on the recommendation of the Drug Advisory Committee-
 (a) notify the person filing the same whether the data and
 information submitted satisfied the requirements of paragraph 3, 4 or 5; and
 (b) if those requirements are satisfied and it appears to the
 Minister after consultation with the Drug Advisory Committee, that the new drug is safe for use as a drug, by Notification signify his approval in respect of that new drug.
 8. The Minister may, after consultation with the Drug Advisory
 Committee, by Notification withdraw approval in respect of a new drug by
-[Subsidiary] Food and Drugs Regulations
+Food and Drugs Regulations [Subsidiary]
 sending notice to the manufacturer or importer of that new drug and the withdrawal may be made where-
 (a) evidence obtained from clinical or other experience, or from
 tests by new methods or by methods not used before the approval was given, reveals that the new drug is not shown to be safe for the use represented in the submissions in respect of the new drug which were filed with the Minister and on which the approval was based;
@@ -2064,7 +2062,7 @@ CONTROLS FOR DRUG MANUFACTURE
 compounds, or packages a drug for wholesale in the pharmaceutical form in which it is sold by retail to the general public, but does not include a pharmacist or pharmacy manufacturing, or compounding or packaging drugs on the premises where the drugs are sold by retail;
 "manufacture" includes mixing, compounding, preparation, and similar
 physical processes, synthesis or any similar chemical processes and packaging for wholesale, but does not include dividing, sub-dividing, and re-packaging for sale by wholesale or retail.
-[Subsidiary] Food and Drugs Regulations
+Food and Drugs Regulations [Subsidiary]
 2. No drug manufacturer shall sell a drug in the finished pharmaceutical form in which it is sold to the general public unless the drug has been manufactured, preserved, stored, labelled and tested under suitable conditions as provided in this Division, and a Certificate to this effect has been issued by the Director, on the advice of the Drug Advisory Committee.
 3. For the purposes of paragraph 2, suitable conditions in respect of a drug requires-
 (a) that the construction, fittings, and furnishings of the area in a
@@ -2113,7 +2111,7 @@ Ordinance and the Public Health Ordinance are complied with.
 five years from the date of testing of the drug, or until the expiry date of the drug, whichever first occurs, and the records shall be made available for inspection by an inspector, and copies shall be made for the information and use of the Director at his request.
 5. A sufficient sample of each batch or lot of the drug in finished
 pharmaceutical form shall be kept by the drug manufacturer under suitable conditions of storage for a period of five years from the date of testing of the drug, or until the expiry date of the drug, whichever first occurs, and the sample shall be submitted to the Director for analysis and examination on his request.
-[Subsidiary] Food and Drugs Regulations
+Food and Drugs Regulations [Subsidiary]
 6. A drug manufacturer may be permitted by the Director to dispense with tests, controls, records and samples mentioned in paragraph 3(g), (h), (j) and (k), and paragraph 5, where the nature of the drug is such that these tests, controls, records and samples are, in the opinion of the Director, not necessary.
 7. A drug manufacturer in a country other than Trinidad and Tobago shall be deemed to have complied with paragraphs 2, 3, 4 and 5, if the manufacturer or importer of a drug or drugs has produced to the Director a certificate concerning the sale, safety, or manufacture of the drug or drugs issued by-
 (a) the Department of National Health and Welfare of Canada;
@@ -2123,7 +2121,7 @@ United States, or a State or City authority in the United States concerned with 
 (d) the Department of Health of Australia;
 (e) any Government Department or official body in other
 countries issuing such certificates as comply with regulation 10 or paragraph 3(f)(v) of Division 3 of this Schedule, which are considered by the Director to show that adequate standards for conditions of drug manufacture are enforced in those countries, in respect of that drug manufacturer.
-8. Adrug manufacturer in Trinidad and Tobago, may, if he does not employ qualified personnel to carry out the tests required by paragraph 3(f)(i) and (ii)-
+8. A drug manufacturer in Trinidad and Tobago, may, if he does not employ qualified personnel to carry out the tests required by paragraph 3(f)(i) and (ii)-
 (a) import batches or lots of raw or bulk material accompanied
 by certificates of identity and purity issued by an agency approved by the Director;
 (b) submit a sample of each batch or lot of the drug in finished
@@ -2159,7 +2157,7 @@ authoritative sources of information concerning the action, hazards, side effect
 particular case may require.
 11. Paragraphs 10(b) and 10(h) shall not apply to the manufacture in
 Trinidad and Tobago of a drug which is included in any of the official publications mentioned in the Second Schedule to the Act if the drug manufacturer complies with the other requirements of paragraph 10.
-[Subsidiary] Food and Drugs Regulations
+Food and Drugs Regulations [Subsidiary]
 12. The Minister shall, on the recommendation of the Drug Advisory Committee, within one hundred and twenty days after the filing of the New Drug Submission in respect of a drug manufactured in Trinidad and Tobago-
 (a) notify the person filing the same whether the data and
 information submitted satisfies the requirements of paragraph 10;
@@ -2173,8 +2171,9 @@ tests by new methods or by methods not used before the approval was given, revea
 the Minister and on which approval was based, contain any untrue statement of material fact; or
 (c) the withdrawal is necessary in the interest of public health. Notice of withdrawal of approval in respect of a drug shall be published in the Gazette and at least one newspaper having daily circulation in Trinidad and Tobago.
 14. Where the Minister issues a notice of withdrawal in respect of a drug manufactured in Trinidad and Tobago, the drug manufacturer shall immediately withdraw from the market in Trinidad and Tobago, all batches or lots of that drug at his own expense, and deliver all the lots or batches to the Director.
-15. Where any manufacturer receives any report of any unexpected side effects, injury, toxicity or sensitivity reaction associated with the clinical uses, studies, investigations and tests respecting a drug manufactured in Trinidad and Tobago he shall inform the Director as soon as possible of the side effects, injury, toxicity or sensitivity reaction.
-16. Notwithstanding paragraph 10, a drug manufacturer may make a small number of batches of a drug that was not manufactured in Trinidad and Tobago before 1st February 1969 for the sole purpose of obtaining scientific data regarding the process of manufacture, or clinical data on the safety, stability, dosage, or efficacy of the drug, provided that-
+15. Where any manufacturer receives any report of any unexpected side effects, injury, toxicity or sensitivity reaction associated with the clinical uses, studies, investigations and tests respecting a drug manufactured in Trinidad and Tobago he shall inform the Director as soon as possible of the side effects, injury, toxicity or sensitivity reaction. [Subsidiary] Food and Drugs Regulations
+16. Notwithstanding paragraph 10, a drug manufacturer may make a
+small number of batches of a drug that was not manufactured in Trinidad and Tobago before 1st February 1969 for the sole purpose of obtaining scientific data regarding the process of manufacture, or clinical data on the safety, stability, dosage, or efficacy of the drug, provided that-
 (a) before manufacture the Director is informed of the
 proposed manufacture, and approves the disposal or use of the drug; and
 (b) where the drug is to be used in clinical investigation-
@@ -2188,12 +2187,13 @@ ensures that any person to whom the drug is to be sold or distributed is a quali
 Minister on the advice of the Drug Advisory Committee to carry out the investigation of the drug and have the facilities for so doing;
 (c) the drug manufacturer keeps accurate records of sales and
 distribution of batches of drugs made for experimental purposes which are sold or distributed to qualified investigators.
-[Subsidiary] [Subsidiary] Food and Drugs Regulations Food and Drugs Regulations
+Food and Drugs Regulations [Subsidiary]
 THIRD SCHEDULE
 FORM A
 CERTIFICATE OF APPOINTMENT OF INSPECTOR
 (Section 20 of the Food and Drugs Act)
-This is to certify that Official Stamp Mr... has been appointed as an Inspector under section 20 of the Food and Drugs Act...
+This is to certify that Official Stamp
+Mr... has been appointed as an Inspector under section 20 of the Food and Drugs Act...
 Signature of Inspector Minister of Health
 FORM B
 Laboratory No...
@@ -2205,7 +2205,7 @@ I, ..., being a person duly appointed as an analyst under section 20 of the Food
 (3) that I duly analysed or examined the said sample for the purpose of determining if same conformed to the requirements of the Food and Drugs Act and the Regulations thereunder, and I obtained the following results:
 As witness my hand this ... day of ..., 20...
 ...
-Analyst [Subsidiary] [Subsidiary] Food and Drugs Regulations Food and Drugs Regulations
+Analyst [Subsidiary] Food and Drugs Regulations
 FORM C
 NEW DRUG SUBMISSION
 To: Chief Chemist/Director of Food and Drugs,
@@ -2225,70 +2225,72 @@ Ingredient or per cent Ingredient or per cent
 1... 11... 2... 12... 3... 13... 4... 14... 5... 15... 6... 16... 7... 17... 8... 18... 9... 19... 10... 20...
 2. I/We* undertake to inform you of any subsequent material changes made in the
 conditions of use, labelling, packaging, pharmaceutical form, dosage or strength, purity or quality of the New Drug.
-[Subsidiary] [Subsidiary] Food and Drugs Regulations Food and Drugs Regulations
+Food and Drugs Regulations [Subsidiary]
 3. I/We* undertake to inform you of any report of unexpected side effects, injury, toxicity, sensitivity or other adverse reactions in any way associated with the clinical uses, studies, investigations and tests in respect of the New Drug.
 4. I/We* attach in DUPLICATE the information contained in the Note hereunder-
 *Delete as applicable
 NOTE
-(a) A description of the New Drug (including the manufacturer thereof) and a declaration of the proper name if any and the trade name. Ì
+(a) A description of the New Drug (including the manufacturer thereof) and a
+declaration of the proper name if any and the trade name. ❐
 (b) A statement of all ingredients, route of administration, dosage, claims to be made
-for the new drug and the contra-indications and side effects of the drug (if known), and a description of the pharmaceutical form in which it is to be sold. Ì
-(c) Details of tests applied to control potency, purity and safety of the new drug. Ì
+for the new drug and the contra-indications and side effects of the drug (if known), and a description of the pharmaceutical form in which it is to be sold. ❐
+(c) Details of tests applied to control potency, purity and safety of the new drug. ❐
 (d) Labels and samples of the new drug in its finished pharmaceutical form [Samples
-for submission may be imported, provided a permit is issued by the Director. If a submission is not made within one hundred and twenty (120) days of import, the samples shall be surrendered to the Director]. Ì
+for submission may be imported, provided a permit is issued by the Director. If a submission is not made within one hundred and twenty (120) days of import, the samples shall be surrendered to the Director]. ❐
 (e) Samples of the components of the new drug if required by the Director. [Samples
-for submission may be imported provided a permit is issued by the Director. If a submission is not made within one hundred and twenty (120) days of import, the Ì samples shall be surrendered to the Director].
+for submission may be imported provided a permit is issued by the Director. If a submission is not made within one hundred and twenty (120) days of import, the samples shall be surrendered to the Director]. ❐
 (f) Certificates as specified in paragraph 3(f) (i)-(v) of Division 3 of the Second
 Schedule of the Regulations.
-CANADA Ì UNITED KINGDOM Ì F.D.A. U.S.A. Ì
-AUSTRALIA Ì
+CANADA ❐ UNITED KINGDOM ❐ F.D.A. U.S.A. ❐
+AUSTRALIA ❐
 (g) Certificates from State or City authorities in the United States respecting the sale
 and conditions of sale in the United States.
 (h) Certificates in the English Language from authorities recognised as having
-adequate experience and facilities for assessing the safety of new drugs by the
-Ministries of Health in- BELGIUM Ì NETHERLANDS Ì SWITZERLAND Ì
-FRANCE Ì SWEDEN Ì DENMARK Ì
-[Subsidiary] [Subsidiary] Food and Drugs Regulations Food and Drugs Regulations
+adequate experience and facilities for assessing the safety of new drugs by the Ministries of Health in-
+BELGIUM ❐ NETHERLANDS ❐ SWITZERLAND ❐
+FRANCE ❐ SWEDEN ❐ DENMARK ❐
+[Subsidiary] Food and Drugs Regulations
 FORM C-Continued
 (i) Certificates (with English translation) from other authorities in ...
 ...
-(j) Detailed reports of animal tests Ì
+(j) Detailed reports of animal tests ❐
 and/or
 Clinical trials to establish the safety of the new drug. [Detailed reports may be required by the Drug Advisory Committee if certificates are not available from countries named in paragraphs (f), (g) and (h) of this Note].
 ... Importer/Manufacturer/Agent in
 Trinidad and Tobago*
 Date ... 20...
 *Delete as applicable.
-[Subsidiary] [Subsidiary] Food and Drugs Regulations Food and Drugs Regulations
+Food and Drugs Regulations [Subsidiary]
 FORM D
-SUPPLEMENT TO NEW DRUG SUBMISSION (Regulation 5).
+SUPPLEMENT TO NEW DRUG SUBMISSION
 VARIATION OF FORMULA/NEW CLAIM/NEW PACKAGING*
 To: Chief Chemist/Director of Food and Drugs,
 Chemistry/Food and Drugs Division, 115, Frederick Street, Port-of-Spain. I/We* ...
 (State Name of Importer/Manufacturer/Agent in Trinidad and Tobago)* of ...
-(State Address)
-hereby make a supplementary New Drug Submission in DUPLICATE for the drug ...
+(State Address) hereby make a supplementary New Drug Submission in DUPLICATE for the drug ...
 (State Name of New Drug)
-in support of the changes indicated below: - Ì Ì
-(a) Name/Mark (f) Route of administration Ì Ì
-(b) Formulation (g) Packaging Ì Ì
-(c) Conditions of Use (h) Label Ì Ì
-(d) Indications for Use (i) Pharmaceutical form Ì Ì
-(e) Dosage (j) Any other change
+in support of the changes indicated below: -
+(a) Name/Mark ❐ (f) Route of administration ❐
+(b) Formulation ❐ (g) Packaging ❐
+(c) Conditions of Use ❐ (h) Label ❐
+(d) Indications for Use ❐ (i) Pharmaceutical form ❐
+(e) Dosage ❐ (j) Any other change ❐
 Description of other changes which made the drug different from that in the original New Drug Submission: ...
 The following information is attached in support of the changes indicated:
-(a) Samples of the drug with the changes indicated above in the finished pharmaceutical form in which it is to be sold. Ì
-(b) Samples of components of the new drug as the Director may require. Ì
-(c) Certificate of compliance issued to the manufacturer by the authorised Government Agency in the country of origin. Ì
+(a) Samples of the drug with the changes indicated above in the finished
+pharmaceutical form in which it is to be sold. ❐
+(b) Samples of components of the new drug as the Director may require. ❐
+(c) Certificate of compliance issued to the manufacturer by the authorised
+Government Agency in the country of origin. ❐
 (d) Technical literature, describing the changes made to the new drug including tests
-and results of tests supporting that the quality, potency, efficacy and safety of the new drug are not affected. Ì
-(e) Any other information that may be required by the Director. Ì
+and results of tests supporting that the quality, potency, efficacy and safety of the new drug are not affected. ❐
+(e) Any other information that may be required by the Director. ❐
 I/We* undertake to inform you of any report of unexpected side effects, toxicity, sensitivity or other adverse reactions associated with the clinical uses, studies, investigations and tests in respect of the new drug or resulting from the material changes made. Date ...
 Importer/Manufacturer/Agent in
 Trinidad and Tobago* *Delete as applicable.
 FORM E
-REGISTRATION FEES (Regulations 2
-and 5). New Drug ... $750.00 Variation of Formula, New Claim or New Packaging ... $100.00 [Subsidiary] [Subsidiary]
+REGISTRATION FEES
+New Drug ... $750.00 Variation of Formula, New Claim or New Packaging ... $100.00 [Subsidiary]
 OFFICIAL METHOD NOTIFICATION
 issued under regulation 3 of the Food and Drugs Regulations
 The following method of analysis or examination of Ultra Heat
@@ -2314,11 +2316,11 @@ follows should be used:
 peptone 5g. agar 15g.
 (If New Zealand agar is used 12g. is normally sufficient).
 Fresh whole milk 10 ml. Distilled water 1,000 ml.
-[Subsidiary] [Subsidiary] Official Method Notification Official Method Notification
+Official Method Notification [Subsidiary]
 (b) the Yeastrel and peptone shall be dissolved in the
 distilled water in a steamer and the reaction at room temperature adjusted to pH 7.4, using phenol red as an indicator or using a pH meter. When phenol red is used, a brightness screen must be employed with Lovibond phenol red disc 2/IJ. The agar and the milk shall then be added to the broth and autoclaved at 121°C. for 25 minutes. If shredded agar is used, it shall be wrapped in muslin and washed in running water for 15 minutes, the excess water being squeezed out before the agar is added to the broth. To ensure thorough mixing and that heat treatment of the bulk at this stage is equivalent to the final sterilisation of the tubed medium, quantities of not more than 2 litres shall be autoclaved in 3-litre conical flasks. The hot medium shall then be filtered through paper pulp in a Buchner funnel;
 (c) the pulp shall be prepared by mashing up small
-pieces of filter paper in water and boiling. The funnel shall be inserted into an Erlenmeyer flask fitted with a side piece and a single layer of filter paper laid on the top of the Buchner funnel to prevent the pulp being sucked through. The hot pulp shall then be poured on to the filter paper and a filter pump applied to suck through the excess water, which shall then be poured away. The pulp should be firmly packed down just before the last of the water is sucked through. At this stage a layer of filter paper shall be laid on the filter bed, so that the hot medium can subsequently be poured on to it without disturbing the pulp. The filter when ready for use should have a total depth of about 1.5 mm. (A pulp layer of suitable depth and approximately the same depth for any size of funnel is obtained by pulping an area of filter paper equal to four times the square of the diameter of the funnel. With ordinary grade filter paper 1 g. of the dry paper will be required for every 20 sq. cm. of filtering area); [Subsidiary] [Subsidiary] Official Method Notification Official Method Notification
+pieces of filter paper in water and boiling. The funnel shall be inserted into an Erlenmeyer flask fitted with a side piece and a single layer of filter paper laid on the top of the Buchner funnel to prevent the pulp being sucked through. The hot pulp shall then be poured on to the filter paper and a filter pump applied to suck through the excess water, which shall then be poured away. The pulp should be firmly packed down just before the last of the water is sucked through. At this stage a layer of filter paper shall be laid on the filter bed, so that the hot medium can subsequently be poured on to it without disturbing the pulp. The filter when ready for use should have a total depth of about 1.5 mm. (A pulp layer of suitable depth and approximately the same depth for any size of funnel is obtained by pulping an area of filter paper equal to four times the square of the diameter of the funnel. With ordinary grade filter paper 1 g. of the dry paper will be required for every 20 sq. cm. of filtering area); [Subsidiary] Official Method Notification
 (d) the flask and funnel shall be thoroughly hot
 before filtering commences and these and the medium shall be kept hot during filtering. The medium shall be taken direct from the autoclave, poured on to the pulp where the filter paper is laid and the vacuum pump connected;
 (e) the reaction of the filtrate shall be tested at
@@ -2336,7 +2338,7 @@ sealed container shall be taken from each batch of U.H.T. Milk and delivered uno
 sample shall be placed unopened in the incubator at a temperature of between 30°C. and 37°C. and retained at that temperature for twenty-four hours.
 6. Mixing of sample prior to examination: At the end of
 the twenty-four hour incubation period, the sample shall be removed from the incubator and shall be mixed thoroughly by inverting the container and shaking it.
-[Subsidiary] [Subsidiary] Official Method Notification Official Method Notification
+Official Method Notification [Subsidiary]
 7. Method of carrying out the test:
 (a) After the sample has been thoroughly mixed as
 described in paragraph 6, it shall be opened with aseptic precautions as follows:
@@ -2349,8 +2351,8 @@ carton or bottle a suitable surface of the container shall be thoroughly swabbed
 (b) Immediately after opening the sample container,
 the cap from a sterile McCartney bottle shall be removed and approximately 10 ml. of the sample transferred by means of a sterile pipette to the bottle, the cap replaced and the McCartney bottle put in the refrigerator. A further 10 ml. (approximately) of the sample shall be transferred to a sterile test-tube after removing the plug. The plug shall then be replaced.
 (c) With as little delay as possible, a loopful of milk
-from the test-tube sample shall be transferred to a sterile test-tube or a 1 ounce McCartney bottle containing about 5 ml. of melted yeastrel milk agar medium at 45°C. to 50°C. The loop, after being flame-sterilised and cooled, shall be lowered into the milk about 1 inch below the [Subsidiary] [Subsidiary] Official Method Notification Official Method Notification
-surface and a loopful of milk withdrawn and transferred to the molten medium in the tube or McCartney bottle. The contents of the tube or bottle shall then be carefully mixed, the tube or bottle placed in a sloping position and the medium allowed to set. The tube or bottle shall then be incubated in a sloping position at a temperature of between 30°C. and 37°C. for forty-eight hours and at the end of that time it shall be examined for the presence of colonies.
+from the test-tube sample shall be transferred to a sterile test-tube or a 1 ounce McCartney bottle containing about 5 ml. of melted yeastrel milk agar medium at 45°C. to 50°C. The loop, after being flame-sterilised and cooled, shall be [Subsidiary] Official Method Notification
+lowered into the milk about 1 inch below the surface and a loopful of milk withdrawn and transferred to the molten medium in the tube or McCartney bottle. The contents of the tube or bottle shall then be carefully mixed, the tube or bottle placed in a sloping position and the medium allowed to set. The tube or bottle shall then be incubated in a sloping position at a temperature of between 30°C. and 37°C. for forty-eight hours and at the end of that time it shall be examined for the presence of colonies.
 8. Counting of colonies: Colonies shall be counted within
 four hours of the expiry of the incubation period.
 9. Interpretation: The test shall be deemed to be satisfied by
@@ -2361,2102 +2363,725 @@ issued under paragraph 7 of Division 3 of the Second Schedule
 of the Food and Drugs Regulations
 The Minister acting on the advice of the Drug Advisory Committee has signified his approval of the following new drugs: Trade Name and Form Manufacturer Conditions
 of Sale Parazolidine … … … Geigy, Ltd. Third Schedule 83/1965. Anodesyn … … … Boots Pure Drug Co., Ltd. Freely Indocid … … … Merck, Sharp & Dohme Ltd. Third Schedule Mintezol … … … do. do. Contac C Nasal Mist … … Menley & James Freely Contac C Capsules … … do. do. Cadol … … … Ayerst, McKenna & Harrions do. Nitrong … … … U.S. Ethicals Third Schedule Histabs … … … do. Freely Supervim M … … … do. do. Perideca … … … Merck, Sharp & Dohme Ltd. Third Schedule Apisate … … … John Wyeth & Brother Ltd. do. Natalac … … … U.S. Ethicals Freely Ferbetrin … … … do. do. Eclabron … … … do. do. Neodex AD … … … do. do. Enterodon … … … do. Controlled Drug Hepaferron … … … do. Freely Osteofer … … … Anca Laboratories do. Gynovlar 21 … … … Schering A.G. do. Tuss-Ornade … … … Smith, Kline & French Third Schedule Docabolin … … … Organon Laboratories do. Beogex … … … Lloyd Pharmaceuticals Freely Preveral … … … Wyeth Laboratories Ltd. Third Schedule Vacuetts … … … Anca Laboratories Freely Locorten … … … CIBA Ltd. Third Schedule Rhinaspray … … … C. H. Boehringer Sohn Freely Valium 10 … … … Roche Products Ltd. Third Schedule Doburil … … … C. H. Boehringer Sohn do. 98/1965. Rapenton … … … do. do. Phospholine Iodine … … Ayerst Laboratories do. Demasorb … … … E. R. Squibb & Sons Ltd. do. Nefrolan … … … May and Baker Ltd. do. Neulactil … … … do. do. Serepax … … … Wyeth Laboratories Inc. do. Alzinox (magma and tablets) … Smith, Miller & Patch Inc. Freely Alzinox Compound … … do. Third Schedule Measles vaccine (live, attenuated) … Philips Roxane Inc. do. Rapidental … … … Walter Ritter Freely Bilevac tablets … … Weddell Pharmaceuticals Ltd. do. 60/1967. Bilostat tablets … … do. do. Delcee solution … … Consolidated Chemicals Ltd. do. Dryptal tablets … … West-Silten Pharmaceuticals do.
-Ltd.
-… … Extrinemin capsules Weddell Pharmaceuticals Ltd. do.
+Ltd. Extrinemin capsules … … Weddell Pharmaceuticals Ltd. do.
 *See Note on page 2. [Subsidiary] Approval of New Drugs Notification
-Trade Name and Form Manufacturer
-… … Posalfilin ointment Camden Chemical Co. Ltd. … … Pruvagol cream do.
-Salaphene jelly … … Priory Laboratories Ltd. Unicap Therapeutic tablets … Upjohn Company Uniplex tablets … … Weddell Pharmaceuticals Ltd. Uval lotion … … … Dome Laboratories Vinlax tablets … … … Vincent Chemical Co. Pty.
+Trade Name and Form Manufacturer Conditions Posalfilin ointment … … Camden Chemical Co. Ltd. Freely Pruvagol cream … … do. do. Salaphene jelly … … Priory Laboratories Ltd. do. Unicap Therapeutic tablets … Upjohn Company do. Uniplex tablets … … Weddell Pharmaceuticals Ltd. do. Uval lotion … … … Dome Laboratories do. Vinlax tablets … … … Vincent Chemical Co. Pty. do.
 Ltd.
-Viro-tec aerosol spray … … Davis & Geck
-Camcolit tablets … … Camden Chemical Co. Ltd. Cardiacap capsules … … Consolidated Chemicals Ltd. Catapres tablets … … C. H. Boehringer Delcecal injection … … Consolidated Chemicals Ltd. Follexol injection … … do. Haemaccel 3.5% solution … Behringwerke A. G. Hepacon B12 injection, 100, 500, Consolidated Chemicals Ltd. 1000 megm/cc Maxolon injection, syrup, and tablets Beecham Research
+Viro-tec aerosol spray … … Davis & Geck do. Camcolit tablets … … Camden Chemical Co. Ltd. Third Schedule Cardiacap capsules … … Consolidated Chemicals Ltd. do. Catapres tablets … … C. H. Boehringer do. Delcecal injection … … Consolidated Chemicals Ltd. do. Follexol injection … … do. do. Haemaccel 3.5% solution … Behringwerke A. G. do. Hepacon B12 injection, 100, 500, Consolidated Chemicals Ltd. do. 1000 megm/cc Maxolon injection, syrup, and tablets Beecham Research do.
 Laboratories Ltd.
-Mebinol tablets … … Carlo Erba
-Pruvagol pessaries … … Camden Chemical Co. Ltd. Sosegon injection … … Winthrop Products Tampovagan pessaries with ichthyol… Camden Chemical Co. Ltd. Tampovagan pessaries with lactic acid do. Tampovagan pessaries with stilboestrol do.
-Ultraproct suppositories and ointment Schering A. G.
-Videol solution … … Consolidated Chemicals Ltd.
-Baby Pain elixir … … Cupal Ltd.
-11/1969.
-Burn Aid Cream … … do. Clearasil cream … … Richardson-Merrell
-Diamond foot powder … … Cupal Ltd.
-Dusk insect repellent cream … do. Epitone syrup … … … Boots Pure Drug Co. Ltd.
-Fernico tablets … … Cupal Ltd.
-Glutisal ointment … … Ravensberg GMBH Kolantyl-NV tablets … … Merrell National Laboratories
+Mebinol tablets … … Carlo Erba do. Pruvagol pessaries … … Camden Chemical Co. Ltd. do. Sosegon injection … … Winthrop Products do. Tampovagan pessaries with ichthyol… Camden Chemical Co. Ltd. do. Tampovagan pessaries with lactic acid do. do. Tampovagan pessaries with stilboestrol do. do. Ultraproct suppositories and ointment Schering A. G. do. Videol solution … … Consolidated Chemicals Ltd. do. Baby Pain elixir … … Cupal Ltd. Freely 11/1969.
+Burn Aid Cream … … do. do. Clearasil cream … … Richardson-Merrell do. Diamond foot powder … … Cupal Ltd. do. Dusk insect repellent cream … do. do. Epitone syrup … … … Boots Pure Drug Co. Ltd. do. Fernico tablets … … Cupal Ltd. do. Glutisal ointment … … Ravensberg GMBH do. Kolantyl-NV tablets … … Merrell National Laboratories do.
 Ltd.
-Meltus Junior linctus … … Cupal Ltd.
-Meltus Adult linctus … … do. Merocet lozenges … … Merrell National Laboratories
+Meltus Junior linctus … … Cupal Ltd. do. Meltus Adult linctus … … do. do. Merocet lozenges … … Merrell National Laboratories do.
 Ltd.
-Merocet solution … … do.
-Nilzan suspension (vet.) … … I.C.I. Ltd.
-Norinyl-2 tablets … … Syntex Pharmaceuticals Ltd.
-Ovanon tablets … … N V Organon
-*Quiet World tablets … … Whitehall Laboratories Inc.
-Reg-u-letts tablets … … Cupal Ltd.
-Rumex cough syrup … … Franca Laboratories Salvizol cream … … Ravensberg GMBH Salvizol lozenges … … do. Salvizol solution … … do. Sanatogen selected multi-vitamin Fisons Pharmaceuticals Ltd. tablets Sanatogen tonic elixir … … do. *See GN 49/1969.
-[Subsidiary] Approval of New Drugs Notification
-Manufacturer Conditions
-of Sale
-… William R. Warner & Co. Ltd. Freely … Chemiewerk Homburg do … Boots Pure Drug Co. Ltd. do. … Chemiewerk Homburg Third Schedule … do. do. … Merck, Sharp & Dohme do. … Chemiewerk Homburg do. … Astra A.B. do. … Pharmaceutical Exports Ltd. do. … Chemiewerk Homburg do. Perphyllon adult suppositories … do. do. Perphyllon children's suppositories … do. do.
-… do. do. … Pharmaceutical Exports Ltd. do. … Ravensberg GMBH Controlled Drug … Gedeon Richter (G.B.) Ltd. do. Absorbine athlete's foot powder … W. F. Young Inc. Freely 50/1969.
-… do. do. … do. do. … C. H. Boehringer Sohn do. … do. do. … Burns Pharmaceuticals do. … do. do. … J. B. Roerig do. … do. do. … Burns Pharmaceuticals do. … Parke, Davis & Co. do. … Ashe Laboratories Ltd. do. … Burroughs Wellcome & Co. do.
-(Canada) Ltd.
-… Heinrich Mack Nachf. do. … Burroughs Wellcome & Co. do.
-(Canada) Ltd. Sudafed tablets, 30 and 60 mgm … do. do.
-… Burns Pharmaceuticals do. … Burroughs Wellcome & Co. do.
-(Canada) Ltd.
-… Winthrop Products Inc. Third Schedule … do. do. … Burroughs Wellcome & Co. do.
-(Canada) Ltd.
-… Glaxo-Allenburys (Export) do.
+Merocet solution … … do. do. Nilzan suspension (vet.) … … I.C.I. Ltd. do. Norinyl-2 tablets … … Syntex Pharmaceuticals Ltd. do. Ovanon tablets … … N V Organon do. *Quiet World tablets … … Whitehall Laboratories Inc. do. Reg-u-letts tablets … … Cupal Ltd. do. Rumex cough syrup … … Franca Laboratories do. Salvizol cream … … Ravensberg GMBH do. Salvizol lozenges … … do. do. Salvizol solution … … do. do. Sanatogen selected multi-vitamin Fisons Pharmaceuticals Ltd. do. tablets Sanatogen tonic elixir … … do. do. *See GN 49/1969.
+Approval of New Drugs Notification [Subsidiary]
+Trade Name and Form Manufacturer Conditions
+of Sale Tedral Elixir … … … William R. Warner & Co. Ltd. Freely Transpulmin syrup … … Chemiewerk Homburg do Tusana cough syrup … … Boots Pure Drug Co. Ltd. do. Akrinor tablets … … Chemiewerk Homburg Third Schedule Akrinor ampoules 2 ml. … … do. do. Aldoril-15 tablets … … Merck, Sharp & Dohme do. Andantol ampoules 1 ml. … Chemiewerk Homburg do. Aptin injection … … Astra A.B. do. Lovely Curves cream … … Pharmaceutical Exports Ltd. do. Perphyllon ampoules 2 ml. … Chemiewerk Homburg do. Perphyllon adult suppositories … do. do. Perphyllon children's suppositories … do. do. Perphyllon tablets … … do. do. Vaginex cream … … Pharmaceutical Exports Ltd. do. Bellaravil dragees … … Ravensberg GMBH Controlled Drug Clima-Sed tablets … … Gedeon Richter (G.B.) Ltd. do. Absorbine athlete's foot powder … W. F. Young Inc. Freely 50/1969. Absorbine lotion … … do. do. Absorbine medicated soap … do. do. Bisolvon elixir … … C. H. Boehringer Sohn do. Bisolvon solution … … do. do. Blulo liquid (vet.) … … Burns Pharmaceuticals do. Cornuflex liquid (vet.) … … do. do. Coryban-D capsules … … J. B. Roerig do. Coryban-D syrup … … do. do. E. & W. spray aerosol (vet.) … Burns Pharmaceuticals do. Kaogel suspension … … Parke, Davis & Co. do. Kruschen capsules … … Ashe Laboratories Ltd. do. Lubafax lubricant … … Burroughs Wellcome & Co. do.
+(Canada) Ltd. Prontopyrin tablets … … Heinrich Mack Nachf. do. Sudafed syrup … … Burroughs Wellcome & Co. do.
+(Canada) Ltd. Sudafed tablets, 30 and 60 mgm. … do. do. Trypzyme aerosol (vet.) … … Burns Pharmaceuticals do. Zincofax Cream … … Burroughs Wellcome & Co. do.
+(Canada) Ltd. Albaton tablets … … Winthrop Products Inc. Third Schedule Albaton compound caplets … do. do. Anectine injection 10 c.c. … Burroughs Wellcome & Co. do.
+(Canada) Ltd. Betnovate rectal ointment … Glaxo-Allenburys (Export) do.
 Ltd.
-… C. H. Boehringer Sohn do. … Boots Pure Drug Co. Ltd. do. … Burns Pharmaceuticals do. … do. do. … Burroughs Wellcome & Co. do.
+Bisolvon ampoules … … C. H. Boehringer Sohn do. Brufen tablets … … Boots Pure Drug Co. Ltd. do. Bu-Biomin injection (vet.) … Burns Pharmaceuticals do. Butocin injection (vet.) … … do. do. Cardilate 10 tablets … … Burroughs Wellcome & Co. do.
+(Canada) Ltd. Cardilate 15 tablets … … do. do. Colpan capsules … … Heinrich Mack Nachf. do. Cortrosyn Depot injection … N. V. Organon do. Dap-test reagent … … Denver Chemical do.
+Manufacturing Co. Dilantin injection … … Parke, Davis & Co. do. Esbaloid tablets, 10 and 25 mgm. … Burroughs Wellcome & Co. do.
+(Canada) Ltd. Ismelin 5% eye drops … … CIBA Laboratories Ltd. do. [Subsidiary] Approval of New Drugs Notification
+Trade Name and Form Manufacturer Conditions
+Lidocaton injection 2% … … Pharmaton Ltd. Third Schedule Lidocaton injection 2% with do. do. epinephrine Megral tablets … … Burroughs Wellcome & Co. do.
 (Canada) Ltd.
-… do. do. … Heinrich Mack Nachf. do. … N. V. Organon do. … Denver Chemical do.
+Mip-test reagent … … Denver Chemical do.
 Manufacturing Co.
-… Parke, Davis & Co. do. Esbaloid tablets, 10 and 25 mgm … Burroughs Wellcome & Co. do.
-(Canada) Ltd.
-… CIBA Laboratories Ltd. do. [Subsidiary] Approval of New Drugs Notification
-Trade Name and Form Manufacturer
-Lidocaton injection 2% … … Pharmaton Ltd.
-Lidocaton injection 2% with do.
-epinephrine Megral tablets … … Burroughs Wellcome & Co.
-(Canada) Ltd.
-Mip-test reagent … … Denver Chemical
-Manufacturing Co.
-Nitro-Mack Retard capsules … Heinrich Mack Nachf. Propaderm-L ointment … … Allen and Hanburys Ltd.
-Propaderm-L suppositories … do.
-Sintisone drops, 5 ml. and 10 ml. Carlo Erba s.p.a. Sulphetrone tablets … … Burroughs Wellcome & Co.
+Nitro-Mack Retard capsules … Heinrich Mack Nachf. do. Propaderm-L ointment … … Allen and Hanburys Ltd. do. Propaderm-L suppositories … do. do. Sintisone drops, 5 ml. and 10 ml. Carlo Erba s.p.a. do. Sulphetrone tablets … … Burroughs Wellcome & Co. do.
 (India) Private Ltd.
-Synalar Anal Ointment … … I.C.I. Ltd.
-Synalar Anal Suppositories … do.
-Synocrine injection … … Burroughs Wellcome & Co.
+Synalar Anal Ointment … … I.C.I. Ltd. do. Synalar Anal Suppositories … do. do. Synocrine injection … … Burroughs Wellcome & Co. do.
 (Canada) Ltd.
-Vasoxyl injection 1 c.c. … … do.
-Cardilate P tablets … … do.
-Seda Nitro-Mack Retard capsules … Heinrich Mack Nachf. Antiphlogistine rub … … Denver Laboratories Ltd. 106/1969. Caladryl aerosol … … Parke Davis Ltd.
-Caladryl lotion … … do.
-Campoferren solution … … Farbenfabriken Bayer A.G. Carisoma compound tablets … Wallace Laboratories Ltd. Cresvite drops … … Instituto Luso-Farmaco
-Digestenzimas tablets … … do.
-Eugynon ED tablets … … Shering A.G.
-Perazil cream … … … Burroughs Wellcome & Co. Ltd.
-Perazil tablets … … do.
-Sleep-Eze tablets … … Whitehall Laboratories Slow-Fe tablets … … Ciba Laboratories Ltd. Univol suspension … … Frank W. Horner & Co.
-Univol tablets … … do.
-Vanpar suspension … … Parke Davies de Mexico SA Vicks Formula 44 cough disks … Richardson-Merrell Inc.
-Improved Vicks cough syrup … do.
-Vigorvil syrup … … Instituto Luso-Farmaco Anti-Sacer compositum tablets … Dr. A. Wander Bactrim Roche dragees … … Roche Products Ltd.
-Bactrim Roche suspension … do.
-Campovit injection … … Farbenfabriken Bayer A.G.
-Citanest jelly 2% … … Astra AB
-Dinocebril tablets … … Instituto Luso-Farmaco
-Ebisthesin special injection … Ebidenta
-Epontol i.v. injection … … Farbenfabriken Bayer A.G. Flindix tablets … … Instituto Luso-Farmaco
-Heminevrin capsules … … Astra AB
-Heminevrin injection and infusion do.
-Heminevrin tablets … … do.
-Iso-Benzacyl tablets … … Dr. A. Wander
-Iso-Benzacyl forte plus pyridoxine do.
-tablets Limbitrol 5 capsules … … Roche Products Ltd.
-[Subsidiary] Approval of New Drugs Notification
-Manufacturer Conditions
-of Sale
-… Roche Products Ltd. Third Schedule … Riker Laboratories Ltd. do. … Instituto Luso-Farmaco do. Neo-Cortodina 5 mg. injection … do. do. Neo-Cortodina 10 mg. injection … do. do. Neo-Cortodina depositum injection … do. do.
-… do. do. … do. do. … Dr. A. Wander do. … do. do. … Organon Laboratories do. … Walter Ritter do. … Schering A.G. do. … Burroughs Wellcome & Co. Ltd. do. … do. do. … do. do. … Dr. A. Wander do. … Farbenfabriken Bayer A.G. do. … Allen & Hanburys Ltd. do. … Walter Ritter do. … W. R. Warner & Co. Ltd. Freely 112/1969. … do. do. … do. do. … do. do. … G. Lockhart & Co. do. … do. do. … do. do. … Abbott Laboratories do. … G. Lockhart & Co. do. … Eaton Laboratories do. … do. do. … Nutri-time Ltd. do. … Abbott Laboratories do. … Plough, Inc. do. … G. Lockhart & Co, do. … Burroughs, Wellcome do. … Riker Laboratories Ltd. do. … G. Lockhart & Co. do. … do. do. … Syntex Pharmaceuticals Ltd. do. … Plough Inc. do. … Nutri-Time Ltd. do. … W. R. Warner & Co. Ltd. do. … G. Lockhart & Co. do. … Astra A. B. do. … G. Lockhart & Co. do. … W. R. Warner & Co. Ltd. do. … do. Third Schedule … do. do. … Arco Ltd. do. … Sandoz Ltd. do. … Geigy (U.K.) Ltd. do. … Dome Laboratories Ltd. do. … do. do. … E. R. Squibb & Sons Ltd. do. [Subsidiary] Approval of New Drugs Notification
-Trade Name and Form Manufacturer
-Gynaecological tablets … … Walter Ritter
-Melsed capsules … … Boots Pure Drug Co. Ltd. Modecate injection (0.5, l0ml) … E. R. Squibb & Sons Ltd. Penthrane liquid … … Abbott Laboratories
-Prodiol forte tablets … … Walter Ritter
-Prodiol forte ampoules … … do.
-Ultralan Oval tablets … … Schering A. G. Asilone suspension … … Berk Pharmaceuticals Ltd. 144/1969. Bactino Skin Cream … … Miles Laboratories Inc. Cafenol tablets (new formula) … Sterling Drug International Ltd. Duramatex liquid (vet.) … … Harkers Veterinary
+Vasoxyl injection 1 c.c. … … do. do. Cardilate P tablets … … do. Controlled Drug Seda Nitro-Mack Retard capsules … Heinrich Mack Nachf. do. Antiphlogistine rub … … Denver Laboratories Ltd. Freely 106/1969. Caladryl aerosol … … Parke Davis Ltd. do. Caladryl lotion … … do. do. Campoferren solution … … Farbenfabriken Bayer A.G. do. Carisoma compound tablets … Wallace Laboratories Ltd. do. Cresvite drops … … Instituto Luso-Farmaco do. Digestenzimas tablets … … do. do. Eugynon ED tablets … … Shering A.G. do. Perazil cream … … … Burroughs Wellcome & Co. Ltd. do. Perazil tablets … … do. do. Sleep-Eze tablets … … Whitehall Laboratories do. Slow-Fe tablets … … Ciba Laboratories Ltd. do. Univol suspension … … Frank W. Horner & Co. do. Univol tablets … … do. do. Vanpar suspension … … Parke Davies de Mexico SA do. Vicks Formula 44 cough disks … Richardson-Merrell Inc. do. Improved Vicks cough syrup … do. do. Vigorvil syrup … … Instituto Luso-Farmaco do. Anti-Sacer compositum tablets … Dr. A. Wander Third Schedule Bactrim Roche dragees … … Roche Products Ltd. do. Bactrim Roche suspension … do. do. Campovit injection … … Farbenfabriken Bayer A.G. do. Citanest jelly 2% … … Astra AB do. Dinocebril tablets … … Instituto Luso-Farmaco do. Ebisthesin special injection … Ebidenta do. Epontol i.v. injection … … Farbenfabriken Bayer A.G. do. Flindix tablets … … Instituto Luso-Farmaco do. Heminevrin capsules … … Astra AB do. Heminevrin injection and infusion do. do. Heminevrin tablets … … do. do. Iso-Benzacyl tablets … … Dr. A. Wander do. Iso-Benzacyl forte plus pyridoxine do. do. tablets Limbitrol 5 capsules … … Roche Products Ltd. do.
+Approval of New Drugs Notification [Subsidiary]
+Trade Name and Form Manufacturer Conditions
+of Sale Limbitrol 10 capsules … … Roche Products Ltd. Third Schedule Medihaler-Duo Inhaler … … Riker Laboratories Ltd. do. Metoxidon tablets … … Instituto Luso-Farmaco do. Neo-Cortodina 5 mg. injection … do. do. Neo-Cortodina 10 mg. injection … do. do. Neo-Cortodina depositum injection … do. do. Neo-Testis E. ampoules … … do. do. Neo-Testis E. capsules … … do. do. Pantozyme capsules … … Dr. A. Wander do. Pantozyme tablets … … do. do. Pavulon injection … … Organon Laboratories do. Perivar tablets … … Walter Ritter do. Primostat injection … … Schering A.G. do. Septrin Compound tablets … Burroughs Wellcome & Co. Ltd. do. Septrin Paediatric suspension … do. do. Septrin Paediatric tablets … do. do. Spasmo-Canulase tablets … Dr. A. Wander do. Trasylol i.v. injection … … Farbenfabriken Bayer A.G. do. Ventolin aerosol inhaler … … Allen & Hanburys Ltd. do. Vitamin B12 injection … … Walter Ritter do. Anugesic ointment … … W. R. Warner & Co. Ltd. Freely 112/1969. Anugesic suppositories … … do. do. Anusol ointment … … do. do. Anusol suppositories … … do. do. Boric acid powder … … G. Lockhart & Co. do. Calamine lotion … … do. do. Chlorodine syrup … … do. do. Dicalets improved tablets … Abbott Laboratories do. Ear-ache drops … … G. Lockhart & Co. do. Eatongel liquid … … Eaton Laboratories do. Eatongel tablets … … do. do. En-Zy-Mex tablets … … Nutri-time Ltd. do. Fer-Folic 500 tablets … … Abbott Laboratories do. Gets-It salve … … Plough, Inc. do. Hydrogen Peroxide (20 vol.) … G. Lockhart & Co, do. Ketrax tablets … … Burroughs, Wellcome do. Lergoban tablets … … Riker Laboratories Ltd. do. Liquid paraffin … … G. Lockhart & Co. do. Mercurochrome solution … … do. do. Normenon tablets … … Syntex Pharmaceuticals Ltd. do. St. Joseph Liquid A solution … Plough Inc. do. Silk-Lax tablets … … Nutri-Time Ltd. do. Sinutab tablets … … … W. R. Warner & Co. Ltd. do. Sodium Bicarbonate … … G. Lockhart & Co. do. Sorbifer P tablets … … Astra A. B. do. Tincture of Iodine … … G. Lockhart & Co. do. Urolucosil suspension … … W. R. Warner & Co. Ltd. do. Anusol HC ointment … … do. Third Schedule Anusol HC suppositories … … do. do. Arcored injection … … Arco Ltd. do. Brinerdin tablets … … Sandoz Ltd. do. Butazolidin Alka tablets … … Geigy (U.K.) Ltd. do. Cor-Tar-Quin 1/4% cream … Dome Laboratories Ltd. do. Cor-Tan-Quin 1/2% cream … do. do. Diademil tablets … … E. R. Squibb & Sons Ltd. do. [Subsidiary] Approval of New Drugs Notification
+Trade Name and Form Manufacturer Conditions
+Gynaecological tablets … … Walter Ritter Third Schedule Melsed capsules … … Boots Pure Drug Co. Ltd. do. Modecate injection (0.5, 10ml) … E. R. Squibb & Sons Ltd. do. Penthrane liquid … … Abbott Laboratories do. Prodiol forte tablets … … Walter Ritter do. Prodiol forte ampoules … … do. do. Ultralan Oval tablets … … Schering A. G. do. Asilone suspension … … Berk Pharmaceuticals Ltd. Freely 144/1969. Bactino Skin Cream … … Miles Laboratories Inc. do. Cafenol tablets (new formula) … Sterling Drug International Ltd. do. Duramatex liquid (vet.) … … Harkers Veterinary do.
 Remedies Ltd.
-Feather Rot Cream (vet.) … … do.
-Haemorex Suppositories … … Cupal Ltd.
-Lancebroc cough syrup (adults) … Lancet Pharmaceuticals Ltd.
-Lancebroc cough syrup (children) … do.
-Lancecolax paediatric drops … do.
-Lancecolax suppositories … … do.
-Lancecolax tablets (children) … do.
-Lancecolax tablets (adults) … do.
-Lanceotic eardrops … … do.
-Lancepol suspension … … do.
-Lancepol tablets … … do.
-Lanceprin tablets … … do.
-Mansonil powder (vet.) … … Farbenfabriken Bayer A.G.
-Optrex (new formula) … … do.
-Pipergran granules … … Ayrton Saunders Piriton spandets tablets … … Allen and Hanburys Squibb B Complex tablets … E. R. Squibb & Sons Ltd.
-Ultin tablets … … … Dr. Rentshler
-Ultin c Belladonna tablets … do.
-Berkfurin tablets, 50, 100 mgm … Berk Pharmaceuticals Ltd. Coccisol Solution (vet.) … … Harkers Veterinary
+Feather Rot Cream (vet.) … … do. do. Haemorex Suppositories … … Cupal Ltd. do. Lancebroc cough syrup (adults) … Lancet Pharmaceuticals Ltd. do. Lancebroc cough syrup (children) … do. do. Lancecolax paediatric drops … do. do. Lancecolax suppositories … … do. do. Lancecolax tablets (children) … do. do. Lancecolax tablets (adults) … do. do. Lanceotic eardrops … … do. do. Lancepol suspension … … do. do. Lancepol tablets … … do. do. Lanceprin tablets … … do. do. Mansonil powder (vet.) … … Farbenfabriken Bayer A.G. do. Optrex (new formula) … … do. do. Pipergran granules … … Ayrton Saunders do. Piriton spandets tablets … … Allen and Hanburys do. Squibb B Complex tablets … E. R. Squibb & Sons Ltd. do. Ultin tablets … … … Dr. Rentshler do. Ultin c Belladonna tablets … do. do. Berkfurin tablets, 50, 100 mgm. … Berk Pharmaceuticals Ltd. Third Schedule Coccisol Solution (vet.) … … Harkers Veterinary do.
 Remedies Ltd.
-Detanol Compositum Injection (vet.)… Farbenfabriken Bayer A.G. Furadantin MC Capsules … … Eaton Laboratories Lancehelmin tablets (children) … Lancet Pharmaceuticals Ltd.
-Lancehelmin tablets (adults) … do.
-Lancephylline ampoules … … do.
-Lancephylline paediatric elixir … do.
-Lancephylline suppositories … do.
-Lancephylline tablets … … do.
-Lancetropin ampoules … … do.
-Lancetropin tablets … … do.
-Neguvon injectable (vet.) … Farbenfabriken Bayer A.G. Ponderax tablets … … Selpharm Laboratories Ltd. Proviron tablets 25 mgm … … Farbenfabriken Bayer A.G. Rautol dragees … … Dr. Rentschler
-Seranaces capsules … … G. D. Searle
-Supronal Solution (vet.) … … Farbenfabriken Bayer A.G.
-Supronal pessaries (vet.) … … do.
-Testifix cream … … Patentex GMBH Vertebran ampoules … … Dr. Rentschler
-Vertebran dragees … … do.
-Vertebran drops … … do.
-Vertebran suppositories … … do.
-[Subsidiary] Approval of New Drugs Notification
-Manufacturer Country of Conditions
-origin of Sale
-… Miles Laboratories Inc. U.S.A. Free Sale 165/1969.
-I.C.I. U.K. do.
-… Lloyds Pharmaceuticals Ltd. do. do. … do. do. do. Eustidil Powder for veterinary Burroughs Wellcome & Co. do. do. Flavoured Phillips Milk of Sterling Drugs International Trinidad and do.
-Magnesia Powder (Sachets) Ltd. Tobago
-Farbenfabriken Bayer A.G. W. Germany do.
-do. do. do. Seven Seas Start Right Cod British Cod Liver Oils U.K. do.
-(Hull and Grimsby) Ltd.
-… U.S. Ethicals Inc. U.S.A. do. … Noxell Corporation do. do. … Schering Corporation Panama Third
-Schedule Deanase injection (1 million Consolidated Chemicals Ltd. U.K. do. Deanase injection (1/4 million do. do. do.
-Farbenfabriken Bayer A.G. W. Germany do.
-… U.S. Ethicals Inc. U.S.A. do.
-Farbenfabriken Bayer A.G. W. Germany do.
-… C. H. Boehringer Sohn do. do. … Schering A.G. do. do. … Walter Ritter do. do. Sinequan Capsules 10 mgs. … Pfizer Ltd. U.K. do. Sinequan Capsules 25 mgs. … do. do. do.
-… Smith Kline & French do. do.
-Laboratories Ltd.
-Farbenfabriken Bayer A.G. W. Germany do.
-… I.C.I. U.K. do.
-Farbenfabriken Bayer A.G. W. Germany do.
-… U.S. Ethicals Inc. U.S.A. do. … Etablissements Sopar Belgium Free Sale 9/1970.
-Glaxo Laboratories England Third
-Schedule
-… Carter Wallace S.A. Mexico do. … Walter Ritter W. Germany do. … do. do. do. … Laboratories Perfecta S.A. Belgium do. … Etablissements Sopar do. do.
-do. do. do. do. do. do. do. do. do.
-… Merck Sharp & Dohme Canada do.
-Smith Miller & Path. Inc. U.S.A. do.
-… Sydney Ross Co. S.A. Mexico do.
-Miles Laboratories Inc. U.S.A. Free Sale 37/1970. [Subsidiary] Approval of New Drugs Notification
-Trade Name and Form Manufacturer
-Depronal SA capsules … … W. R. Warner & Co. Ltd. 51/1970. Dillex gripe mixture … … Optrex (Overseas) Ltd. Prolact cream … … Gothic Pharmaceuticals Ltd. Pro-Plus He-Vite elixir … … Ashe Laboratories Ltd. Slow-Fe Folic tablets … … Giba Laboratories Ltd. Vi'dorado tablets … … Gothic Pharmaceuticals Ltd. Acne-Cort-Dome cream, acid pH … Dome Laboratories Anapolon 5 mgm. tablets … Syntex Pharmaceuticals Ltd. Anapolon 10 mgm. tablets … do. Gevramet elixir … … Lederle Laboratories
-Gravibinan i.m. injection … Schering A.G.
-HMS Medrysone ophthalmic susp. … Allergan Pharmaceuticals Konakion 10 tablets … … Roche Products Ltd. Mogadon capsules, 5 mgm. … Roche Products Ltd. Propaderm Forte cream … … Allen & Hanbury Ltd. Prosymasul suspension … … Lederle Laboratories
-Tantum tablets … … N.V. Organon
-Ultradil cream … … Schering A.G.
-Ultradil Ointment … … do.
+Detanol Compositum Injection (vet.)… Farbenfabriken Bayer A.G. do. Furadantin MC Capsules … … Eaton Laboratories do. Lancehelmin tablets (children) … Lancet Pharmaceuticals Ltd. do. Lancehelmin tablets (adults) … do. do. Lancephylline ampoules … … do. do. Lancephylline paediatric elixir … do. do. Lancephylline suppositories … do. do. Lancephylline tablets … … do. do. Lancetropin ampoules … … do. do. Lancetropin tablets … … do. do. Neguvon injectable (vet.) … Farbenfabriken Bayer A.G. do. Ponderax tablets … … Selpharm Laboratories Ltd. do. Proviron tablets 25 mgm. … Farbenfabriken Bayer A.G. do. Rautol dragees … … Dr. Rentschler do. Seranaces capsules … … G. D. Searle do. Supronal Solution (vet.) … … Farbenfabriken Bayer A.G. do. Supronal pessaries (vet.) … … do. do. Testifix cream … … Patentex GMBH do. Vertebran ampoules … … Dr. Rentschler do. Vertebran dragees … … do. do. Vertebran drops … … do. do. Vertebran suppositories … … do. do.
+Approval of New Drugs Notification [Subsidiary]
+Trade Name and Form Manufacturer Country of Conditions
+origin of Sale Alka-2 Tablets … … Miles Laboratories Inc. U.S.A. Free Sale 165/1969. Aimax Methallibure Pre-Mix I.C.I. U.K. do. Dynastan Powder … … Lloyds Pharmaceuticals Ltd. do. do. Dynastan Cream … … do. do. do. Eustidil Powder for veterinary Burroughs Wellcome & Co. do. do. Flavoured Phillips Milk of Sterling Drugs International Trinidad and do.
+Magnesia Powder (Sachets) Ltd. Tobago Mansonil for veterinary use Farbenfabriken Bayer A.G. W. Germany do. Neguvon for veterinary use do. do. do. Seven Seas Start Right Cod British Cod Liver Oils U.K. do.
+Liver Oil (Hull and Grimsby) Ltd. Supervim 28 tablets … U.S. Ethicals Inc. U.S.A. do. Thera-Blem Cream … Noxell Corporation do. do. Celestamine-F Syrup … Schering Corporation Panama Third
+Schedule Deanase injection (1 million Consolidated Chemicals Ltd. U.K. do. Deanase injection (1/4 million do. do. do. Detanol-E Compositum for Farbenfabriken Bayer A.G. W. Germany do. Geristone Capsules … U.S. Ethicals Inc. U.S.A. do. Ludobal Quinuronium Farbenfabriken Bayer A.G. W. Germany do.
+Sulphate for veterinary use Persumbrax Tablets … C. H. Boehringer Sohn do. do. Progynova 1 mg. Tablets … Schering A.G. do. do. Prosalve Diabetabs Tablets … Walter Ritter do. do. Sinequan Capsules 10 mgs. … Pfizer Ltd. U.K. do. Sinequan Capsules 25 mgs. … do. do. do. Stelazine Syrup … … Smith Kline & French do. do.
+Laboratories Ltd. Supronal pessaries for Farbenfabriken Bayer A.G. W. Germany do. Synalar Gel … … I.C.I. U.K. do. Supronal Solution 20% for Farbenfabriken Bayer A.G. W. Germany do. Ulcinal Tablets … … U.S. Ethicals Inc. U.S.A. do. Sodeca Capsules … … Etablissements Sopar Belgium Free Sale 9/1970. Betnovate Compound Glaxo Laboratories England Third
+Suppositories Schedule Gonaplex (injectable) … Carter Wallace S.A. Mexico do. Haflutan Tablets … … Walter Ritter W. Germany do. Ipharon Compound Tablets … do. do. do. Pasaden Tablets … … Laboratories Perfecta S.A. Belgium do. Sohydrone 1% Eye Drops … Etablissements Sopar do. do. Sohydrone 1% Eye Ointment do. do. do. Sohydrone Forte Eye Drops do. do. do. Sohydrone Forte Eye do. do. do. Triavil Tablets … … Merck Sharp & Dohme Canada do. Vasopred Ophthalmic Smith Miller & Path. Inc. U.S.A. do. Winavit Tablets … … Sydney Ross Co. S.A. Mexico do. Alka-Seltzer Plus cold tablets Miles Laboratories Inc. U.S.A. Free Sale 37/1970. [Subsidiary] Approval of New Drugs Notification
+Trade Name and Form Manufacturer Conditions
+Depronal SA capsules … … W. R. Warner & Co. Ltd. Freely 51/1970. Dillex gripe mixture … … Optrex (Overseas) Ltd. do. Prolact cream … … Gothic Pharmaceuticals Ltd. do. Pro-Plus He-Vite elixir … … Ashe Laboratories Ltd. do. Slow-Fe Folic tablets … … Giba Laboratories Ltd. do. Vi'dorado tablets … … Gothic Pharmaceuticals Ltd. do. Acne-Cort-Dome cream, acid pH … Dome Laboratories Third Schedule Anapolon 5 mgm. tablets … Syntex Pharmaceuticals Ltd. do. Anapolon 10 mgm. tablets … do. do. Gevramet elixir … … Lederle Laboratories do. Gravibinan i.m. injection … Schering A.G. do. HMS Medrysone ophthalmic susp. … Allergan Pharmaceuticals do. Konakion 10 tablets … … Roche Products Ltd. do. Mogadon capsules, 5 mgm. … Roche Products Ltd. do. Propaderm Forte cream … … Allen & Hanbury Ltd. do. Prosymasul suspension … … Lederle Laboratories do. Tantum tablets … … N.V. Organon do. Ultradil cream … … Schering A.G. do. Ultradil Ointment … … do. do.
 The following Drugs are re-approved for the reasons mentioned:
-Beminal with Iron elixir-new active ingredients … … Cortosyn, Cortrosyn Depot injections-new warning re use … Ferrapoyan elexir-previously called "Campoferron elixir" … Proviron tablets-changed in inactive ingredients … … Serenace capsules-change in proportion of inactive ingredients Sosegon compound tablets-previously called Albaton Compound tablets C-A-R solution (vet.) … … Masti-Kure Products Co. 53/1970. C-A-R concentrate (vet.) … … do. Oletron tablets … … … Farbenfabriken Bayer AG Stress-Aide injection (vet.) … Masti-Kure Products Co.
-Zev liquid … … … W. Buckley
-Flu-vet DMSO (vet.) … … Syntex Pharmaceuticals Ltd. Flu-vet tab. (vet.) … … do. Flu-vet inj. (vet.) … … do. Intal powder … … Fisons Pharmaceuticals Ltd. Nitro-Uterokure bolus (vet.) … Masti-Kure Products Co. Nitro-Uterokure Liquid (vet.) … do. Prednisolone Acetate (vet.) 1% and do. 2% injection
-Trade Name and Form Manufacturer
-Afrodor Tablets … … Klostermann GMBH W. Germany 108/1970. *Intestopan Suspension … Sandoz Ltd. Switzerland Kolanticon Gel … … Richardson Merrel Ltd. U.K.
+Beminal with Iron elixir-new active ingredients … … … Freely Cortosyn, Cortrosyn Depot injections-new warning re use … … Third Schedule Ferrapoyan elexir-previously called "Campoferron elixir" … … Freely Proviron tablets-changed in inactive ingredients … … … Third Schedule Serenace capsules-change in proportion of inactive ingredients … do. Sosegon compound tablets-previously called Albaton Compound tablets do. C-A-R solution (vet.) … … Masti-Kure Products Co. Freely 53/1970. C-A-R concentrate (vet.) … … do. do. Oletron tablets … … … Farbenfabriken Bayer AG do. Stress-Aide injection (vet.) … Masti-Kure Products Co. do. Zev liquid … … … W. Buckley do. Flu-vet DMSO (vet.) … … Syntex Pharmaceuticals Ltd. Third Schedule Flu-vet tab. (vet.) … … do. do. Flu-vet inj. (vet.) … … do. do. Intal powder … … Fisons Pharmaceuticals Ltd. do. Nitro-Uterokure bolus (vet.) … Masti-Kure Products Co. do. Nitro-Uterokure Liquid (vet.) … do. do. Prednisolone Acetate (vet.) 1% and do. do. 2% injection Trade Name and Form Manufacturer Country of Conditions
+Afrodor Tablets … … Klostermann GMBH W. Germany Freely 108/1970. *Intestopan Suspension … Sandoz Ltd. Switzerland do. Kolanticon Gel … … Richardson Merrel Ltd. U.K. do.
 (Merrel Division)
-*Mi-Cebrin Tablets … Eli Lilly & Co. U.S.A. Micolax Enema … … Pharmacia Sweden Norwich Liquid Saccharin … Norwich Pharmacal Co. U.S.A. Tums Tablets … … Lewis/Howe Co. Akineton Injection … Knoll AG Chem. Works W. Germany
+*Mi-Cebrin Tablets … Eli Lilly & Co. U.S.A. do. Micolax Enema … … Pharmacia Sweden do. Norwich Liquid Saccharin … Norwich Pharmacal Co. U.S.A. do. Tums Tablets … … Lewis/Howe Co. do. do. Akineton Injection … Knoll AG Chem. Works W. Germany Third
 *Change in formula.
-[Subsidiary] Approval of New Drugs Notification
-Manufacturer Country of Conditions
-origin of Sale
-… Knoll AG Chem. Works W. Germany Third
-Schedule
-… Ayerst Lab. Ltd. Canada do. … Paul E. Elder Co. U.S.A. do. … Eli Lilly & Co. do. do. … Ayerst Lab. Ltd. Canada do. … Winthrop Products Inc. U.S.A. do. … Schering AG W. Germany do. Neogynon ED Coated Tablets do. do. do.
-… Wyeth Pharmaceuticals Australia do. … G. D. Searle & Co. U.K. do. … Schering A.G W. Germany do.
-Eaton Laboratories U.S.A. do.
-… Sandoz Ltd. Switzerland Freely 109/1970. … E. Lilly & Co. U.S.A. do. … Chemische Werk Albert W. Germany Third
-Schedule
-… Berk Pharmaceuticals Ltd. U.K. do. … Miles Laboratories U.S.A. Freely
-Upjohn S.A. Belgium Third
-Schedule
-… C. H. Boehringer Sohn W. Germany do. … Upjohn Company U.S.A. Freely … Abbott Laboratories do. do. … do. do. do. … Heinrich Mack W. Germany do. 158/1970. … Jeffrey Martin Inc. U.S.A. do. … do. do. do.
-W. Woodward Ltd. U.K. do. Schering A.G. W. Germany Third
-Schedule
-… Jeffrey Martin Inc. U.S.A. do. … M.V. Organon Holland do. … M. Woelm W. Germany do. Isopto Epinal Eye Drops 1% Alcon Laboratories U.S.A. do.
-… Geigy U.K. do. … CIBA do. do. … Berk Pharmaceuticals Ltd. do. do. … do. do. do. … Schering A.G. do. do. … Allen and Hanburys do. do.
-Manufacturer Conditions
-of Sale
-… Healthcrafts Division of Freely 18/1971.
-Alfonal Ltd.
-… Laboratorios Vargas S.A., do.
-Venezuela
-… do. do. … do. do. … do. do. … Healthcrafts Division of do.
-Alfonal Ltd. Balm of Gilhead Cough Mixture … Heath and Heather Ltd. do.
-… Healthcrafts Division of do.
+Approval of New Drugs Notification [Subsidiary]
+Trade Name and Form Manufacturer Country of Conditions
+origin of Sale Akineton Tablets … … Knoll AG Chem. Works W. Germany Third
+Schedule Colprone Tablets … … Ayerst Lab. Ltd. Canada do. Eldopaque Cream … Paul E. Elder Co. U.S.A. do. *Intra-Cebrin Tablets … Eli Lilly & Co. do. do. Isodril Sublingal Tablets … Ayerst Lab. Ltd. Canada do. Mafylon Acetate Cream … Winthrop Products Inc. U.S.A. do. Neogynon Coated Tablets … Schering AG W. Germany do. Neogynon ED Coated Tablets do. do. do. Nordiol-21 Tablets … Wyeth Pharmaceuticals Australia do. Ovulen 50 Tablets … G. D. Searle & Co. U.K. do. Tonovan Tablets … … Schering A.G W. Germany do. Vagestrol Vaginal Eaton Laboratories U.S.A. do. Calcibronat syrup … … Sandoz Ltd. Switzerland Freely 109/1970. Becotin-T tablets … … E. Lilly & Co. U.S.A. do. Cosaldon Retard Dragees … Chemische Werk Albert W. Germany Third
+Schedule Asilone Suspension … Berk Pharmaceuticals Ltd. U.K. do. Chocks Tablets … … Miles Laboratories U.S.A. Freely Depo-Provera 150 i.m. Upjohn S.A. Belgium Third
+injection Schedule Vascunicol Tablets … C. H. Boehringer Sohn W. Germany do. Unicap M. Tablets … Upjohn Company U.S.A. Freely Maltsupex liquid … … Abbott Laboratories do. do. Maltsupex powder … do. do. do. Forapin Liniment … … Heinrich Mack W. Germany do. 158/1970. Psorex Cream … … Jeffrey Martin Inc. U.S.A. do. Psorex Shampoo … … do. do. do. Woodward's Diarrhoea W. Woodward Ltd. U.K. do. *Biligrafin Forte Amps 50% Schering A.G. W. Germany Third
+Schedule Compoz Tablets … … Jeffrey Martin Inc. U.S.A. do. Dextopic Cream … … M.V. Organon Holland do. Duraphat Varnish … … M. Woelm W. Germany do. Isopto Epinal Eye Drops 1% Alcon Laboratories U.S.A. do. Tofranil Syrup … … Geigy U.K. do. Trasicor Tablets 40 mgm. … CIBA do. do. Ubretid Ampoules … Berk Pharmaceuticals Ltd. do. do. Ubretid Tablets … … do. do. do. *Urografin Amps 76% … Schering A.G. do. do. Ventolin Tablets … … Allen and Hanburys do. do. Trade Name and Form Manufacturer Conditions
+of Sale A-Compleat Capsulettes … … Healthcrafts Division of Freely 18/1971.
+Alfonal Ltd. Andantol Jelly … … Laboratorios Vargas S.A., do.
+Venezuela Andantol Syrup … … do. do. Andantol Tablets … … do. do. Andantol F. Tablets … … do. do. Anti-Sat Capsules … … Healthcrafts Division of do.
+Alfonal Ltd. Balm of Gilhead Cough Mixture … Heath and Heather Ltd. do. B-Compleat Tablets … … Healthcrafts Division of do.
 Alfonal Ltd. [Subsidiary] Approval of New Drugs Notification
-Trade Name and Form Manufacturer
-Bio-Flora Tablets … … Healthcrafts Division of Alfonal Ltd. Bio-Flavons Tablets … … do. Calcium Plus Tablets … … do.
-Captagon Tablets … … Laboratorios Vargas S.A.,
+Trade Name and Form Manufacturer Conditions
+Bio-Flora Tablets … … Healthcrafts Division of Alfonal Ltd. Freely Bio-Flavons Tablets … … do. do. Calcium Plus Tablets … … do. do. Captagon Tablets … … Laboratorios Vargas S.A., do.
 Venezuela
-Catarrh Pastilles … … Heath and Heather Ltd.
-Catarrh Tablets … … do. Cash Nerve and Blood Tonic Tablet … A. W. Chase Corporation Ltd.
-Corn and Wart Ointment … … Heath and Heather Ltd.
-Desogen Lozenges … … Geigy (U.K.) Ltd.
-Diuretic Tablets … … Heath and Heather Ltd.
-E-Compleat Capsulettes … … Healthcrafts Division of Alfonal Ltd. do.
-Eczema Ointment … … Heath and Heather Ltd.
-Enzygest Tablets … … Healthcrafts Division of Alfonal Ltd. do. Florus Granules … … do. Gev-E-Tabs. … … do.
-Golden Health Catarrh Tablets … Trent Laboratories
-Golden Health Herbal Laxative … do. Golden Health Indigestion Tabs. … do. Golden Health Nerve Tablets … do. Golden Health Sleeping Tablets … do. Golden Health Strength Tablets … do. Golden Seal Tablets … … Healthcrafts Division of Alfonal Ltd. do.
-Healing Antiseptic Ointment … Heath and Heather Ltd.
-Heatherlax Constipation Tabs. … do. Hemapoyan B-12 … … Bayer Ltd.
-Indigestion and Flatulence Tablets Heath and Heather Ltd.
-Kidney Tablets … … do. Listerine Breath Spray … … Warner Lambert
+Catarrh Pastilles … … Heath and Heather Ltd. do. Catarrh Tablets … … do. do. Cash Nerve and Blood Tonic Tablet … A. W. Chase Corporation Ltd. do. Corn and Wart Ointment … … Heath and Heather Ltd. do. Desogen Lozenges … … Geigy (U.K.) Ltd. do. Diuretic Tablets … … Heath and Heather Ltd. do. E-Compleat Capsulettes … … Healthcrafts Division of Alfonal Ltd. do. Eczema Ointment … … Heath and Heather Ltd. do. Enzygest Tablets … … Healthcrafts Division of Alfonal Ltd. do. Florus Granules … … do. do. Gev-E-Tabs. … … do. do. Golden Health Catarrh Tablets … Trent Laboratories do. Golden Health Herbal Laxative … do. do. Golden Health Indigestion Tabs. … do. do. Golden Health Nerve Tablets … do. do. Golden Health Sleeping Tablets … do. do. Golden Health Strength Tablets … do. do. Golden Seal Tablets … … Healthcrafts Division of Alfonal Ltd. do. Healing Antiseptic Ointment … Heath and Heather Ltd. do. Heatherlax Constipation Tabs. … do. do. Hemapoyan B-12 … … Bayer Ltd. do. Indigestion and Flatulence Tablets Heath and Heather Ltd. do. Kidney Tablets … … do. do. Listerine Breath Spray … … Warner Lambert do.
 Pharmaceutical U.S.A.
-Listerine Cold Tablets … … do. Liver Plus Tablets … … Healthcrafts Division of Alfonal Ltd. do.
-Nerve Tablets … … Heath and Heather Ltd.
-Oval Colic Drops … … Frank W. Horner Ltd.
-Pile Ointment … … Heath and Heather Ltd.
-Rheumatic Balm … … do. Rheumatism Tablets … … do. Sexopronto Dragees … … A. Fabricus Sleep Compleat Capsulettes … Healthcrafts Division of Alfonal Ltd. do.
-Spartan Elixir … … Trent Laboratories
-Stomach and Liver Tablets … Heath and Heather Ltd.
-Super B-1 Capsules … … Healthcrafts Division of Alfonal Ltd. do. Super B-2 Capsules … … do. Super B-6 Capsules … … do. Super Brewer's Yeast Tablets … do. Super C Capsules … … do. Super E Capsules … … do. Super Kelp Tablets … … do. Super Lecithin Capsules … … do. Super Rose Hips Tablets … … do. Super Wheat Germ Oil Capsules … do.
-[Subsidiary] Approval of New Drugs Notification
-Manufacturer Conditions
-of Sale
-… Sandoz Ltd. Freely … Ashe Laboratories Ltd. do. … The Upjohn Co. do. … Healthcrafts Division of Alfonal Ltd. do. … Heath and Heather Ltd. do. … do. do. … do. do. … Federated Pharmaceutical Ltd. do. … Healthcrafts Division of do.
-Alfonal Ltd.
-… Heath and Heather Ltd. do. … Healthcrafts Division of Alfonal Ltd. do. … do. do. … Schering Co. Third Schedule … Ferbwerke Hoescht do. … do. do. … Charles E. Frosst do. Ketalar Injection 10 mgm./ml. … Parke Davis & Co. Ltd. do. Ketalar Injection 50 mgm./ml. … do. do.
-… Geigy (U.K.) Ltd. do. … E. R. Squibb do. … M.V. Organon do. Solu Medrol Injection 40 mgm. … The Upjohn Co. do. Solu Medrol Injection 125 mgm. … do. do.
-… Healthcrafts Division of Alfonal Ltd. do. … Diamond Laboratories do. Zumba with Hormone Tablets … Schmidt and Co. Ltd. do.
-… Laboratorios Vargas S.A. Controlled Drug
-The following Drugs are re-approved for the reasons mentioned: Calcium Sandoz with vitamin C-Removal of Sodium Cyclamate Freely Periactin Syrup-Additional claim "appetite stimulant" … … do. Periactin Tablets-Additional claim "appetite stimulant" … … do.
-Manufacturer Country of Conditions
-origin of Sale
-… Arco Ltd. Switzerland Freely 22/1971. … Parke, Davis & Co. Ltd. Canada do. … Leo Laboratories Ltd. Ireland do. … do. do. do. … William R. Warner & Co. Ltd. U.K. do. … Pharmaceutische Fabriek Roter Holland do. … Fisons Ltd. U.K. do. … Scandrug Denmark do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … Leo Laboratories Ireland do. [Subsidiary] Approval of New Drugs Notification
-Trade Name and Form Manufacturer
-*Vi-Daylin-M Syrup … Abbott Laboratories U.S.A. Wake Ups Tablets … … Adrem Ltd. Canada Aldomet Tablets 125 mgm. … Merck, Sharp & Dohme U.S.A. Aldomet Tablets 500 mgm. … do. Celaton CH3 Tablets … Biocosmetics (London) Ltd. U.K. Centyl Tablets 2.5 mgm. … Leo Laboratories Ltd. Ireland Centyl Tablets 5.0 mgm. … do. Centyl K Tablets … … do. Diphebuzol Tablets 100 mgm. do. Diphebuzol Tablets 200 mgm. do. Drixoral Chronosules … Schering Corporation U.S.A. Eraldin Injection 10 mgm. … Imperial Chemical Industries U.K. Larodopa Tablets 500 mgm. … Roche Products Ltd.
-Eraldin Tablets 100 mgm … Imperial Chemical Industries
-Leo K 600 mgm. Capsitabs … Leo Laboratories Ltd. Ireland Scandantin Capsules 100 mgm. Scandrug Denmark Scanal Compound Capsules … do Scandopa Capsules 250 mgm. do. Scaniplex Capsules … do. Sedicin Tablets … … Adrem Ltd. Canada Tacitin Tablets 10 mgm. … Ciba Laboratories Ltd. U.K.
-Topilar Ointment … Syntex Pharmaceuticals Ltd.
-Tosanyl Tablets … … Leo Laboratories Ltd. Ireland Collomack … … Heinrich Mack W. Germany 56/1971. Niferex Elixir … … Laboratorios Vargas SA Venezuela Benzyl Benzoate 50 per cent Burroughs Wellcome & Co. Canada Emulsion Niferex Tablets … … Laboratorios Vargas SA . Venezuela Nipe Capsules … … do. Settlers Tablets … … Sigma Co., Ltd Australia Seven Seas Formula 70 … British Cod Liver Oils U.K.
+Listerine Cold Tablets … … do. do. Liver Plus Tablets … … Healthcrafts Division of Alfonal Ltd. do. Nerve Tablets … … Heath and Heather Ltd. do. Oval Colic Drops … … Frank W. Horner Ltd. do. Pile Ointment … … Heath and Heather Ltd. do. Rheumatic Balm … … do. do. Rheumatism Tablets … … do. do. Sexopronto Dragees … … A. Fabricus do. Sleep Compleat Capsulettes … Healthcrafts Division of Alfonal Ltd. do. Spartan Elixir … … Trent Laboratories do. Stomach and Liver Tablets … Heath and Heather Ltd. do. Super B-1 Capsules … … Healthcrafts Division of Alfonal Ltd. do. Super B-2 Capsules … … do. do. Super B-6 Capsules … … do. do. Super Brewer's Yeast Tablets … do. do. Super C Capsules … … do. do. Super E Capsules … … do. do. Super Kelp Tablets … … do. do. Super Lecithin Capsules … … do. do. Super Rose Hips Tablets … … do. do. Super Wheat Germ Oil Capsules … do. do.
+Approval of New Drugs Notification [Subsidiary]
+Trade Name and Form Manufacturer Conditions
+of Sale Tavegyl Tablets … … Sandoz Ltd. Freely Test Sixty Tablets … … Ashe Laboratories Ltd. do. Unicap Capsules … … The Upjohn Co. do. Veg-E-Tabs... Healthcrafts Division of Alfonal Ltd. do. Ver-O-Rheum … … Heath and Heather Ltd. do. Ver-O-Vine … … … do. do. Ver-O-Zest … … … do. do. Vigorton 2 Elixir … … Federated Pharmaceutical Ltd. do. Vit-Amino Tablets … … Healthcrafts Division of do.
+Alfonal Ltd. Vi-Tablets Vitality … … Heath and Heather Ltd. do. Vita-Mines Tablets … … Healthcrafts Division of Alfonal Ltd. do. VM Tabsules … … do. do. Celestamine Tablets … … Schering Co. Third Schedule Daonil Tablets … … Ferbwerke Hoescht do. Dipar Retard Dragees … … do. do. Infrocin Capsules … … Charles E. Frosst do. Ketalar Injection 10 mgm./ml. … Parke Davis & Co. Ltd. do. Ketalar Injection 50 mgm./ml. … do. do. Lamprene Capsules … … Geigy (U.K.) Ltd. do. Minidon Tablets … … E. R. Squibb do. Restovar Tablets … … M.V. Organon do. Solu Medrol Injection 40 mgm. … The Upjohn Co. do. Solu Medrol Injection 125 mgm. … do. do. Super A. Capsules … … Healthcrafts Division of Alfonal Ltd. do. Talodex Injectable … … Diamond Laboratories do. Zumba with Hormone Tablets … Schmidt and Co. Ltd. do. Itridal Tablets … … Laboratorios Vargas S.A. Controlled Drug
+The following Drugs are re-approved for the reasons mentioned: Calcium Sandoz with vitamin C-Removal of Sodium Cyclamate Freely Periactin Syrup-Additional claim "appetite stimulant" … … do. Periactin Tablets-Additional claim "appetite stimulant" … … do. Trade Name and Form Manufacturer Country of Conditions
+origin of Sale Arcogen-12 … … Arco Ltd. Switzerland Freely 22/1971. Benylin DM Cough Syrup … Parke, Davis & Co. Ltd. Canada do. Hybin Tablets … … Leo Laboratories Ltd. Ireland do. In-Vite Powder … … do. do. do. Oraldene Liquid … … William R. Warner & Co. Ltd. U.K. do. Rotersept Spray … … Pharmaceutische Fabriek Roter Holland do. Sanatogen Junior Vitamins … Fisons Ltd. U.K. do. Scanbecomplex Capsules … Scandrug Denmark do. Scandrops … … do. do. do. Scandex Capsules … do. do. do. Scaniplex Syrup … … do. do. do. Scanlax Capsules … do. do. do. Scanminplex Capsules … do. do. do. Scanoscapine Syrup … do. do. do. Scanplast Elastic Plaster … do. do. do. Scanplast P.V.C. Plaster … do. do. do. Ultravite Tablets … … Leo Laboratories Ireland do. [Subsidiary] Approval of New Drugs Notification
+Trade Name and Form Manufacturer Country of Conditions
+*Vi-Daylin-M Syrup … Abbott Laboratories U.S.A. Freely Wake Ups Tablets … … Adrem Ltd. Canada do. Aldomet Tablets 125 mgm. … Merck, Sharp & Dohme U.S.A. Third Aldomet Tablets 500 mgm. … do. do. do. Celaton CH3 Tablets … Biocosmetics (London) Ltd. U.K. do. Centyl Tablets 2.5 mgm. … Leo Laboratories Ltd. Ireland do. Centyl Tablets 5.0 mgm. … do. do. do. Centyl K Tablets … … do. do. do. Diphebuzol Tablets 100 mgm. do. do. do. Diphebuzol Tablets 200 mgm. do. do. do. Drixoral Chronosules … Schering Corporation U.S.A. do. Eraldin Injection 10 mgm. … Imperial Chemical Industries U.K. do. Larodopa Tablets 500 mgm. … Roche Products Ltd. do. do. Eraldin Tablets 100 mgm. … Imperial Chemical Industries do. do. Leo K 600 mgm. Capsitabs … Leo Laboratories Ltd. Ireland do. Scandantin Capsules 100 mgm. Scandrug Denmark do. Scanal Compound Capsules … do do. do. Scandopa Capsules 250 mgm. do. do. do. Scaniplex Capsules … do. do. do. Sedicin Tablets … … Adrem Ltd. Canada do. Tacitin Tablets 10 mgm. … Ciba Laboratories Ltd. U.K. do. Topilar Ointment … Syntex Pharmaceuticals Ltd. do. do. Tosanyl Tablets … … Leo Laboratories Ltd. Ireland do. Collomack … … Heinrich Mack W. Germany Freely 56/1971. Niferex Elixir … … Laboratorios Vargas SA Venezuela do. Benzyl Benzoate 50 per cent Burroughs Wellcome & Co. Canada do. Emulsion Niferex Tablets … … Laboratorios Vargas SA . Venezuela do. Nipe Capsules … … do. do. do. Settlers Tablets … … Sigma Co., Ltd Australia do. Seven Seas Formula 70 … British Cod Liver Oils U.K. do.
 (Hull and Grimsby) Ltd.
-Silbephylline Syrup … Berk Pharmaceuticals Ltd.
-Tabiomin Capsules … Laboratorios Vargas SA Venezuela Tabiomin Complex Capsules … do. Afrodex Capsules … Bentex Pharmaceutical Co. U.S.A. Arcodexan Tablets … Arco Ltd. Switzerland Arconeurine Injection 2cc … do. Arconeurine Injection 3cc … do. Bactrim Adult Suspension … Roche Products Ltd. U.K. Begrivac Injection … Behringwerke W. Germany
+Silbephylline Syrup … Berk Pharmaceuticals Ltd. do. do. Tabiomin Capsules … Laboratorios Vargas SA Venezuela do. Tabiomin Complex Capsules … do. do. do. Afrodex Capsules … Bentex Pharmaceutical Co. U.S.A. Third Arcodexan Tablets … Arco Ltd. Switzerland do. Arconeurine Injection 2cc … do. do. do. Arconeurine Injection 3cc … do. do. do. Bactrim Adult Suspension … Roche Products Ltd. U.K. do. Begrivac Injection … Behringwerke W. Germany do.
 Aktiengesellschaft
-Binomil Tablets … … Biohorm Spain Ketrax Syrup … … Imperial Chemical Industries U.K.
+Binomil Tablets … … Biohorm Spain do. Ketrax Syrup … … Imperial Chemical Industries U.K. do.
 Ltd.
-Metaflorine … … Heinrich Mack W. Germany Plasil Drops … … Le Petit Italy Plasil Ampoules … … do. Plasil Syrup … … do. Plasil Tablets … … do. Prednacyl Tablets … M.V. Organon Holland Rautrax Modified 25 mgm. … E. R. Squibb & Sons Ltd. U.K. Rautrax Modified 50 mgm. … do. Tranquo-Alupent Tablets … C. H. Boehringer Sohn W. Germany *Change in formula.
-[Subsidiary] Approval of New Drugs Notification
-Manufacturer Country of Conditions
-origin of Sale
-… Alcon Laboratories Inc. Canada Third
-Schedule
-… M.C.M. Kloster frav W. Germany Freely 120/1971. … Dolder Ltd. Switzerland do. … Paul B. Elder Co. U.S.A. do. … Dolder Ltd. Switzerland do. … D.D.D. Co., Ltd. U.K. do.
-do. do. do.
-… Biosante Chemical U.S.A. do.
+Metaflorine … … Heinrich Mack W. Germany do. Plasil Drops … … Le Petit Italy do. Plasil Ampoules … … do. do. do. Plasil Syrup … … do. do. do. Plasil Tablets … … do. do. do. Prednacyl Tablets … M.V. Organon Holland do. Rautrax Modified 25 mgm. … E. R. Squibb & Sons Ltd. U.K. do. Rautrax Modified 50 mgm. … do. do. do. Tranquo-Alupent Tablets … C. H. Boehringer Sohn W. Germany do. *Change in formula.
+Approval of New Drugs Notification [Subsidiary]
+Trade Name and Form Manufacturer Country of Conditions
+origin of Sale Zolyse … … Alcon Laboratories Inc. Canada Third
+Schedule Actifs Capsules … … M.C.M. Kloster frav W. Germany Freely 120/1971. Budoform Tablets … Dolder Ltd. Switzerland do. Coryztime Capsules … Paul B. Elder Co. U.S.A. do. Daribiol Capsules … … Dolder Ltd. Switzerland do. D.D.D. Balm … … D.D.D. Co., Ltd. U.K. do. D.D.D. Prescription Extra do. do. do. Energin Tablets … … Biosante Chemical U.S.A. do.
+International Fuca Excellent … … M.D.M. Klosterfrau W. Germany do. Heptuna Plus Capsules … J. B. Roerig Div. of Pfizer U.S.A. do. Nilverm Pig Wormer … I.C.I. U.K. do. Reoribec Tablets … … J. B. Roerig Div. of Pfizer do. do. Sine-Off Tablets … … Menley & James Laboratories U.S.A. do. Testiviton Tablets … Pharmatech Laboratories do. do. Wate-On Tonic … … Wate-On Laboratories Jamaica do. Brocadopa Capsules 500 mgm. Brocades Ltd. U.K. Third
+Schedule Brocadopa Capsules 250 mgm. do. do. do. Brocadopa Capsules 125 mgm. do. do. do. Graded Sequential Tablets … Syntex Pharmaceuticals Ltd. do. do. Hiprex Tablets … … Riker Laboratories do. do. Levodopa Capsules 500 mgm. Arco Ltd. Switzerland do. Levodopa Capsules 250 mgm. do. do. do. Lyndiol Tablets … … M.V. Organon Holland do. Marek's Disease Vaccine … Merck, Sharp & Dohme U.S.A. do. Mutabon-M Tablets … Schering Corporation . do. do. Opovitam Tablets … … Biosante Chemical International do. do. Septrin Adult Suspension … Burroughs Wellcome & Co. U.K. do. Topilar Cream … … Syntex Pharmaceutical Ltd. do. do. Arthricol Tablets … … Octo Laboratories Canada Freely 264/1971. Activarol Oral Suspension … do. do. do. Activarol 500 Elixir … do. do. do. Anacin Arthritis Pain Formula Whitehall Laboratories Inc. U.S.A. do. *Autrin Capsules … … Cyanamid International do. do. Aradolene Cream … … Radial Chemicals Ltd. U.K. do. Aspellin Spirit Liniment … do. do. do. Ami-proteine Tablets … A. B. Cernelle Sweden do. Antiasthmaticae Tablets … Cephar S.A. Switzerland do. Antianem B 12 2000 Elixir … do. do. do. Anti-germ Healing Ointment Pritchards Ltd. U.K. do. Arco C 500 Pellets … Arco Ltd. Switzerland do. A.P.C. Tablets … … John Bell, Hills & Lucas U.K. do. Bropene Lotion … … Octo Laboratories Canada do. Bonzine Travel Sickness Tabs. Cupal Ltd. U.K. do. Bronal Cough and Catarrh do. do. do. *B. N. Liniment … … Minnesota 3M Lab. Ltd. U.S.A. do. Beltux Coated Tablets … A. B. Cernelle Sweden do. Bantex Capsules … … Texcan Pharmaceutical Ltd. Canada do. Beneuran Compositum Leonard & Co. Austria do. [Subsidiary] Approval of New Drugs Notification
+Trade Name and Form Manufacturer Country of Conditions
+C-Vita Syrup … … Octo Laboratories Canada Freely Child's Pain and Fever Elixir Cupal Ltd. U.K. do. Cernilton Tablets … … A. B. Cernelle Sweden do. Cernitin Wound Ointment … do. do. do. Cernifex Tablets … … do. do. do. Cervati Tablets … … do. do. do. Cernident Tablets … … do. do. do. Colepar Granules … … Copar S. A. Switzerland do. Cromatax … … Texcan Pharmaceuticals Ltd. Canada do. Diarrhoea Mixture Adults … Cupal Ltd. U.K. do. Diarrhoea Mixture Children's do. do. do. Ducon … … Smith, Kline & French Lab. U.S.A. do. Dr. Lynn's Diarrhoea & Pritchards Ltd. U.K. do. Dysentery Mixture Fetabs … … … Octo Laboratories Canada do. Ferrofume Adult Tablets … do. do. do. Ferrofume Children Tablets do. do. do. Femme Aid Pills … … Cupal Ltd. U.K. do. Fempain Tablets … … S.S.S. Company U.S.A. do. Globifer Elixir … … Orto Laboratories Canada do. Geriatrio Pharmaton … Pharmaton Ltd. Switzerland do. Hofel's Formula "S" … Hofel's Pure Food Ltd. England do. Jetsan … … … Cophar S. A. Switzerland do. Keraderm Ointment … Octo Laboratories Canada do. Kalforte … … Texcan Pharmaceuticals Ltd. do. do. Mel Syrup … … Octo Laboratories do. do. Minima Tablets … … A. B. Cernelle Sweden do. Norbitone Elixir … … Octo Laboratories Canada do. Novarubin … … Cophar S. A. Switzerland do. Octeinol Syrup … … Octo Laboratories Canada do. Ornex Capsules … … Smith, Kline & French Lab. U.S.A. do. Pyramenso Elixir … … Octo Laboratories Canada do. Peplex Tablets … … Cupal Ltd. U.K. do. Pirisol Junior Aspirin Tablets do. do. do. Polson's Cough Syrup P. A. Benjamin Mfg. Co. Canada do. Expectorant Prity Baby Gripe Mixture … Pritchards Ltd. U.K. do. Pritchards Chesto Cough Syrup do. do. do. Pritchards Children's Cherry do. do. do. Syrup Pritchards Iron Tonic Tablets do. do. do. Pritchards Junior Ipec. do. do. do. Cough Mixture Puraseptic … … do. do. do. Pollitabs Tablets … … A. B. Cernelle Sweden do. Rio Plus … … Ayerst Laboratories Canada do. Regenex Pills … … Arco Ltd. Switzerland do. Sedine Syrup … … Octo Laboratories Canada do. Senema Adult Suppository … do. do. do. Senema Forte Suppository … do. do. do. Senema Infant Suppository … do. do. do. Stark Protein Tablets … A. B. Cernelle Sweden do. Solulip Syrup … … Cophar S.A. Switzerland do. Theocyne Elixir … … Octo Laboratories Canada do. Tussin Syrup … … do. do. do. Totavit D. R. Capsules … Cupal Ltd. U.K. do. Tavegyl Syrup … … Sandoz Ltd. Switzerland do. Ulcelac Sachets … … Sigurta Farmaceutici Italy do.
+Approval of New Drugs Notification [Subsidiary]
+Trade Name and Form Manufacturer Country of Conditions
+origin of Sale Ulcelac Tablets … … Sigurta Farmaceutici Italy Freely Wormex Orange Flavour … E. C. De Witt & Co. Ltd. U.K. do. Wormex Peppermint Flavour … do. do. do. Yobinol Tablets … … Coates & Cooper Ltd. do. do. Acetone Test … … Denver Laboratories Canada Third
+Schedule Acton-x Injection … Octo Laboratories do. do. Alupent Syrup … … C. H. Boehringer Sohn W. Germany do. Aldactide Tablets … G. D. Searle & Co. Ltd. U.K. do. Arcobutina Forte Pills … Arco Ltd. Switzerland do. Anafranil Ampoules … Geigy (U.K.) Ltd. U.K. do. Anafranil Capsules … do. do. do. Anafranil Syrup … … do. do. do. Buffazone Tablets … Octo Laboratories Canada do. Buscopan Compositum Drops C. H. Boehringer Sohn W. Germany do. Beneuran Compositum Leonard & Co. Austria do. Cornatal Suppository Adult … Octo Laboratories Canada do. Cortiment Suppository … do. do. do. Cortiment Forte Suppository … do. do. do. Cortiment Junior Suppository do. do. do. Cystalgine Tablets … do. do. do. Coba-12 Injection … … do. do. do. Cortiment Dermal Topical do. do. do. Combantrin Chewable Tablets Pfizer Corporation Belgium do. Combantrin Suspension … do. do. do. Cantharone … … do. Canada do. Denco Pregnancy Test … Denver Laboratories do. do. Dopalin Tablets 250 mgm. … Charles E. Frosst & Co. do. do. Fluazine "2" Tablets … Octo Laboratories do. do. Fluazine "5" Tablets … do. do. do. Fluazine "10" Tablets … do. do. do. *Folbesyn Parenteral … Cyanamid International U.S.A. do. Femagest Tablets … Paul Lappe Laboratories W. Germany do. Fasigyn Tablets … … Pfizer Corporation Belgium do. Glytet Bitab 595 … … Octo Laboratories Canada do. Glynacort Suppository … do. do. do. Hepacon B12 Injection … Consolidated Chemicals Ltd. U.K. do. Hepacon Plex Injection … do. do. do. Immune Serum Globulin Lederle Laboratories U.S.A. do. Jonit Capsules 50 mgm. … Fabwerke Hoechst W. Germany do. K.U.B. Tablets … … Octo Laboratories Canada do. K.U.B. Minus Tablets … do. do. do. Meprobex Tablets … do. do. do. Mesco Tablets … … do. do. do. Monotest … … Denver Laboratories do. do. Motival Tablets … … E.R. Squibb & Sons Ltd. U.K. do. Moduretic Tablets … Merck, Sharp & Dohme Ltd. do. do. Meltex Cream … … Texcan Pharmaceuticals Ltd. Canada do. Manticor Q Cream 0.5% … do. do. do. Manticor Q Cream 1.0% … do. do. do. Nack "5" Capsule … … Octo Laboratories do. do. Nack "10" Capsule … do. do. do. Nack "15" Capsule … do. do. do. [Subsidiary] Approval of New Drugs Notification
+Trade Name and Form Manufacturer Country of Conditions
+Nolestrin Fe 1 mgm. Tablet … Parke Davis & Co. U.S.A. Third Nobrium Capsules 5 mgm. … Roche Products Ltd. U.K. do. *Orisulf Suspension Ciba Laboratories do. do. *Orisulf Tablets … … do. do. do. Norbium Capsules 10 mgm. … Roche Products Ltd. do. do. Ponstan Suppositories 125 mgm. Parke Davis & Co. U.S.A. do. Ponstan Suppositories 500 mgm. do. do. do. R3 Screen Test … … Denver Laboratories Canada do. Rheumaton … … do. do. do. Rinosan Tablets … … Walter Ritter W. Germany do. Streptozyme … … Denver Laboratories Canada do. Salozapyrin Suppositories … Pharmacis A. B. Sweden do. Surmontil Capsules … May & Baker Ltd. U.K. do. Supral Capsules … … Arco Ltd. Switzerland do. Sowelip Tablets … … Cophar S.A. do. do. Sowell Tablets … … do. do. do. Tavegyl Ampoules … Sandoz Ltd. do. do. U.C.G. Test … … Denver Laboratories Canada do. Urispas Tablets … … Syntex Pharmaceuticals Ltd. U.K do. Verbicol Tablets … … Octo Laboratories Canada do. Vibricmune-M … … B.D.H. Pharmaceutical Ltd. U.K. do. Venosan Tablets … … Heinrich Mack & Co. W. Germany do. Ventolin Syrup … … Allen & Hanburys Ltd. U.K. do. Cardiomatic Dragees … Apomedica Graz Austria Controlled Lunar Bitab 607 … … Octo Laboratories Canada do. Nervostal Tablets … … Cophar S.A. Switzerland do. Neo-Nervostal Tablets … do. do. do. 65/1972. Aspirin Compound Tablets B.P.C. Booker B.D.H. Jamaica Freely
+Bionet Drops … … Wallace Pharmaceuticals do. do.
 International
-… M.D.M. Klosterfrau W. Germany do. … J. B. Roerig Div. of Pfizer U.S.A. do. … I.C.I. U.K. do. … J. B. Roerig Div. of Pfizer do. do. … Menley & James Laboratories U.S.A. do. … Pharmatech Laboratories do. do. … Wate-On Laboratories Jamaica do. Brocadopa Capsules 500 mgm. Brocades Ltd. U.K. Third
-Schedule Brocadopa Capsules 250 mgm. do. do. do. Brocadopa Capsules 125 mgm. do. do. do.
-… Syntex Pharmaceuticals Ltd. do. do. … Riker Laboratories do. do. Levodopa Capsules 500 mgm. Arco Ltd. Switzerland do. Levodopa Capsules 250 mgm. do. do. do.
-… M.V. Organon Holland do. … Merck, Sharp & Dohme U.S.A. do. … Schering Corporation . do. do. … Biosante Chemical International do. do. … Burroughs Wellcome & Co. U.K. do. … Syntex Pharmaceutical Ltd. do. do. … Octo Laboratories Canada Freely 264/1971. … do. do. do. … do. do. do. Anacin Arthritis Pain Formula Whitehall Laboratories Inc. U.S.A. do.
-… Cyanamid International do. do. … Radial Chemicals Ltd. U.K. do. … do. do. do. … A. B. Cernelle Sweden do. … Cephar S.A. Switzerland do. … do. do. do.
-Pritchards Ltd. U.K. do.
-… Arco Ltd. Switzerland do. … John Bell, Hills & Lucas U.K. do. … Octo Laboratories Canada do. Bonzine Travel Sickness Tabs. Cupal Ltd. U.K. do.
-do. do. do.
-… Minnesota 3M Lab. Ltd. U.S.A. do. … A. B. Cernelle Sweden do. … Texcan Pharmaceutical Ltd. Canada do.
-Leonard & Co. Austria do. [Subsidiary] Approval of New Drugs Notification
-Trade Name and Form Manufacturer
-C-Vita Syrup … … Octo Laboratories Canada Child's Pain and Fever Elixir Cupal Ltd. U.K. Cernilton Tablets … … A. B. Cernelle Sweden Cernitin Wound Ointment … do. Cernifex Tablets … … do. Cervati Tablets … … do. Cernident Tablets … … do. Colepar Granules … … Copar S. A. Switzerland Cromatax … … Texcan Pharmaceuticals Ltd. Canada Diarrhoea Mixture Adults … Cupal Ltd. U.K. Diarrhoea Mixture Children's do. Ducon … … Smith, Kline & French Lab. U.S.A. Dr. Lynn's Diarrhoea & Pritchards Ltd. U.K. Dysentery Mixture Fetabs … … … Octo Laboratories Canada Ferrofume Adult Tablets … do. Ferrofume Children Tablets do. Femme Aid Pills … … Cupal Ltd. U.K. Fempain Tablets … … S.S.S. Company U.S.A. Globifer Elixir … … Orto Laboratories Canada Geriatrio Pharmaton … Pharmaton Ltd. Switzerland Hofel's Formula "S" … Hofel's Pure Food Ltd. England Jetsan … … … Cophar S. A. Switzerland Keraderm Ointment … Octo Laboratories Canada
-Kalforte … … Texcan Pharmaceuticals Ltd.
-Mel Syrup … … Octo Laboratories Minima Tablets … … A. B. Cernelle Sweden Norbitone Elixir … … Octo Laboratories Canada Novarubin … … Cophar S. A. Switzerland Octeinol Syrup … … Octo Laboratories Canada Ornex Capsules … … Smith, Kline & French Lab. U.S.A. Pyramenso Elixir … … Octo Laboratories Canada Peplex Tablets … … Cupal Ltd. U.K. Pirisol Junior Aspirin Tablets do. Polson's Cough Syrup P. A. Benjamin Mfg. Co. Canada Expectorant Prity Baby Gripe Mixture … Pritchards Ltd. U.K. Pritchards Chesto Cough Syrup do. Pritchards Children's Cherry do. Syrup Pritchards Iron Tonic Tablets do. Pritchards Junior Ipec. do. Cough Mixture Puraseptic … … do. Pollitabs Tablets … … A. B. Cernelle Sweden Rio Plus … … Ayerst Laboratories Canada Regenex Pills … … Arco Ltd. Switzerland Sedine Syrup … … Octo Laboratories Canada Senema Adult Suppository … do. Senema Forte Suppository … do. Senema Infant Suppository … do. Stark Protein Tablets … A. B. Cernelle Sweden Solulip Syrup … … Cophar S.A. Switzerland Theocyne Elixir … … Octo Laboratories Canada Tussin Syrup … … do. Totavit D. R. Capsules … Cupal Ltd. U.K. Tavegyl Syrup … … Sandoz Ltd. Switzerland Ulcelac Sachets … … Sigurta Farmaceutici Italy
-[Subsidiary] Approval of New Drugs Notification
-Manufacturer Country of Conditions
-origin of Sale
-… Sigurta Farmaceutici Italy Freely … E. C. De Witt & Co. Ltd. U.K. do. Wormex Peppermint Flavour … do. do. do.
-… Coates & Cooper Ltd. do. do. … Denver Laboratories Canada Third
-Schedule
-… Octo Laboratories do. do. … C. H. Boehringer Sohn W. Germany do. … G. D. Searle & Co. Ltd. U.K. do. … Arco Ltd. Switzerland do. … Geigy (U.K.) Ltd. U.K. do. … do. do. do. … do. do. do. … Octo Laboratories Canada do. Buscopan Compositum Drops C. H. Boehringer Sohn W. Germany do.
-Leonard & Co. Austria do.
-… Octo Laboratories Canada do. … do. do. do. Cortiment Forte Suppository … do. do. do.
-do. do. do.
-… do. do. do. … do. do. do.
-do. do. do. Combantrin Chewable Tablets Pfizer Corporation Belgium do.
-… do. do. do. … do. Canada do. … Denver Laboratories do. do. … Charles E. Frosst & Co. do. do. … Octo Laboratories do. do. … do. do. do. … do. do. do. … Cyanamid International U.S.A. do. … Paul Lappe Laboratories W. Germany do. … Pfizer Corporation Belgium do. … Octo Laboratories Canada do. … do. do. do. … Consolidated Chemicals Ltd. U.K. do. … do. do. do.
-Lederle Laboratories U.S.A. do.
-… Fabwerke Hoechst W. Germany do. … Octo Laboratories Canada do. … do. do. do. … do. do. do. … do. do. do. … Denver Laboratories do. do. … E.R. Squibb & Sons Ltd. U.K. do. … Merck, Sharp & Dohme Ltd. do. do. … Texcan Pharmaceuticals Ltd. Canada do. … do. do. do. … do. do. do. … Octo Laboratories do. do. … do. do. do. … do. do. do. [Subsidiary] Approval of New Drugs Notification
-Trade Name and Form Manufacturer
-Nolestrin Fe 1 mgm. Tablet … Parke Davis & Co. U.S.A. Nobrium Capsules 5 mgm. … Roche Products Ltd. U.K. *Orisulf Suspension Ciba Laboratories *Orisulf Tablets … … do.
-Norbium Capsules 10 mgm. … Roche Products Ltd.
-Ponstan Suppositories 125 mgm. Parke Davis & Co. U.S.A. Ponstan Suppositories 500 mgm. do. R3 Screen Test … … Denver Laboratories Canada Rheumaton … … do. Rinosan Tablets … … Walter Ritter W. Germany Streptozyme … … Denver Laboratories Canada Salozapyrin Suppositories … Pharmacis A. B. Sweden Surmontil Capsules … May & Baker Ltd. U.K. Supral Capsules … … Arco Ltd. Switzerland Sowelip Tablets … … Cophar S.A. Sowell Tablets … … do. Tavegyl Ampoules … Sandoz Ltd. U.C.G. Test … … Denver Laboratories Canada Urispas Tablets … … Syntex Pharmaceuticals Ltd. U.K Verbicol Tablets … … Octo Laboratories Canada Vibricmune-M … … B.D.H. Pharmaceutical Ltd. U.K. Venosan Tablets … … Heinrich Mack & Co. W. Germany Ventolin Syrup … … Allen & Hanburys Ltd. U.K. Cardiomatic Dragees … Apomedica Graz Austria Lunar Bitab 607 … … Octo Laboratories Canada Nervostal Tablets … … Cophar S.A. Switzerland Neo-Nervostal Tablets … do. 65/1972. Aspirin Compound Tablets B.P.C. Booker B.D.H. Jamaica
-Bionet Drops … … Wallace Pharmaceuticals
+Bynin Amara … … Booker B.D.H. Guyana do. Bunty Baby Cough Syrup … Lakeside Laboratories U.K. do. Camalox Suspension … William H. Rorer Inc. U.S.A. do. Cymex Cream … … E. C. De Witt & Co. Ltd. U.K. do. Camalox Tablets … … William H. Rorer Inc. U.S.A. do. Children's Whizz Tablets … Booker B.D.H. Guyana do. Diovol Suspension … Wallace Pharmaceuticals Jamaica do.
 International
-Bynin Amara … … Booker B.D.H. Guyana Bunty Baby Cough Syrup … Lakeside Laboratories U.K. Camalox Suspension … William H. Rorer Inc. U.S.A. Cymex Cream … … E. C. De Witt & Co. Ltd. U.K. Camalox Tablets … … William H. Rorer Inc. U.S.A. Children's Whizz Tablets … Booker B.D.H. Guyana Diovol Suspension … Wallace Pharmaceuticals Jamaica
-International
-Dr. Lake's Quick Action Lakeside Laboratories U.K. Fever Mixture
-*Famel Honey and Lemon Optrex Overseas Ltd.
-Cough Syrup Folic Acid Tablets 5 mgm … Booker B.D.H. Jamaica Haliborange … … do. Guyana Hetrogen K Soluble … Heterochemical Corporation U.S.A.
-Heet Spray … … Whitehall Laboratories Inc.
+Dr. Lake's Quick Action Lakeside Laboratories U.K. do. Fever Mixture *Famel Honey and Lemon Optrex Overseas Ltd. do. do. Cough Syrup Folic Acid Tablets 5 mgm. … Booker B.D.H. Jamaica do. Haliborange … … do. Guyana do. Hetrogen K Soluble … Heterochemical Corporation U.S.A. do. Heet Spray … … Whitehall Laboratories Inc. do. do.
 *Change in formula.
-[Subsidiary] Approval of New Drugs Notification
-Manufacturer Country of Conditions
-origin of Sale
-… Wallace Pharmaceuticals Jamaica Freely
+Approval of New Drugs Notification [Subsidiary]
+Trade Name and Form Manufacturer Country of Conditions
+origin of Sale Infantol Liquid … … Wallace Pharmaceuticals Jamaica Freely
 International
-… Whitehall Laboratories Inc. U.S.A. do. … Wallace Pharmaceuticals Jamaica do.
+Infrarub Analgesic Balm … Whitehall Laboratories Inc. U.S.A. do. Maltlevol-12 … … Wallace Pharmaceuticals Jamaica do.
 International
-Booker B.D.H. Jamaica do.
-… E. C. De Witt & Co. Ltd. U.K. do. … Ciba Laboratories do. do. … Wallace Pharmaceuticals Jamaica do.
+Magnesium Trisilicate Booker B.D.H. Jamaica do. No-Rash Cream … … E. C. De Witt & Co. Ltd. U.K. do. *Nupercaine Cream … Ciba Laboratories do. do. Ovol Drops … … Wallace Pharmaceuticals Jamaica do.
 International
-Booker B.D.H. do. do.
-… Optrex Overseas Ltd. U.K. do.
-do. do. do.
-… Beecham's Research do. do. … E. C. De Witt & Co. Ltd. do. do. … Booker B.D.H. Jamaica do. … Trentham Laboratories U.K. do. … E. C. De Witt & Co. Ltd. do. do. … Schering Corporation U.S.A. do. … Wallace Pharmaceuticals Jamaica do.
+Paracetamol Compound Booker B.D.H. do. do. Panets Baby Syrup … Optrex Overseas Ltd. U.K. do. Panets Paracetamol Tablets do. do. do. Plexafer Tablets … … Beecham's Research do. do. Pyrets Lozenges … … E. C. De Witt & Co. Ltd. do. do. Syrup of Piperazine Citrate … Booker B.D.H. Jamaica do. Slimming Disks for Men … Trentham Laboratories U.K. do. Secron … … … E. C. De Witt & Co. Ltd. do. do. Tinactin Cream … … Schering Corporation U.S.A. do. Tussol … … Wallace Pharmaceuticals Jamaica do.
 International
-… Texcan Pharmaceuticals Ltd. Canada do. … Lakeside Laboratories U.K. do. … do. do. do.
-do. do. do.
-… do. do. do. … do. do. do. Vibrolex Nerve & Bone Liniment do. do. do.
-Pfizer Corporation Belgium Third
-Schedule
-do. do. do.
-Recherche et Industrie do. do.
-Therapeutiques
-Chlorpromazine Tablets 25 mgm. Inter Alia Ltd. U.K. do.
-… Riker Laboratories do. do.
-Inter Alia Ltd. do. do.
-… Sandoz Ltd. Switzerland do. … do. do. do. … Ciba Laboratories U.K. do. … Wallace Pharmaceuticals Jamaica do.
+Tee-Ten Tonic … … Texcan Pharmaceuticals Ltd. Canada do. Vibrolex Throat Paint … Lakeside Laboratories U.K. do. Vibrolex Ear Drops … do. do. do. Vibrolex Polyvitamin Tablets do. do. do. Vibrolex Eye Drops … do. do. do. Vibrolex Pain Balm … do. do. do. Vibrolex Nerve & Bone Liniment do. do. do. Antiminth Chewable Tablets Pfizer Corporation Belgium Third
+Schedule Antiminth Oral Suspension do. do. do. Cendevax Rubella Virus Recherche et Industrie do. do. Vaccine Therapeutiques Chlorpromazine Tablets 25 mgm. Inter Alia Ltd. U.K. do. Duo Autohaler … … Riker Laboratories do. do. Chlorpromazine Tablets Inter Alia Ltd. do. do. Dihydergot Ampoules … Sandoz Ltd. Switzerland do. Dihydergot Tablets … do. do. do. *Doriden Tablets … … Ciba Laboratories U.K. do. Gravol L/A Capsules … Wallace Pharmaceuticals Jamaica do.
 International
-… do. do. do. … do. do. do. … Riker Laboratories U.K. do. … I.C.I. do. do. … Wallace Pharmaceuticals Mexico do.
+Gravol Tablets … … do. do. do. Gravol Liquid … … do. do. do. Iso Autohaler … … Riker Laboratories U.K. do. Metosyn Ointment … I.C.I. do. do. Pangavit 1000 Injection … Wallace Pharmaceuticals Mexico do.
 International
-… do. do. do. … Sandoz Ltd. Switzerland do. … do. do. do.
-Inter Alia Ltd. U.K. do. Prednisolone Tablets 5 mgm. … Booker B.D.H. Jamaica do.
-… Sandoz Ltd. Switzerland do. [Subsidiary] Approval of New Drugs Notification
-Trade Name and Form Manufacturer
-Soma Compound Tablets … Wallace Pharmaceuticals Jamaica
-International
-Soma Tablets … … do. Stelazine Tablets 10 mgm. … Smith, Kline & French U.K. Sulphadiazine Tablets … Booker B.D.H. Jamaica 0.5 gramme Sulphadimidine Tablets … do. 0.5 gm Sulphaguanidine Tablets … do. 0.5 gm. Phenobarbitone Tablets 1/2 grain
-do.
-Phenobarbitone Tablets 1 grain do. 102/1972. Amrutanjan Dermal Ointment Amrutanjan Ltd. India
-Amrutanjan Gripe Mixture … do. Amrutanjan Inhaler … do. Amrutanjan Pain Balm … do. Anoleum Ointment … Anglo-French Labs. Canada Hemobex A-C … … do. Hemobex Fortis Tablets … do. Klev Tablets … … do. Scapin Syrup … … Scandrug Denmark A.P.C. Tablets … … Eupharma Laboratories India Aspirin Tablets … … do. Beniplex S/F Tablets … do. Beniplex Fortified liquid … do. Emalt … … … do. Euphicin Tablets … … do. Euroton Drops … … do. Euvitan Elixir … … do. Pyridoxine Hydrochloride do.
+Pangavit 5000 Injection … do. do. do. Palerol Ampoules … Sandoz Ltd. Switzerland do. Palerol Tablets … … do. do. do. Propantheline Bromide Inter Alia Ltd. U.K. do. Prednisolone Tablets 5 mgm. … Booker B.D.H. Jamaica do. Sandoven Tablets … … Sandoz Ltd. Switzerland do. [Subsidiary] Approval of New Drugs Notification
+Trade Name and Form Manufacturer Country of Conditions
+Soma Compound Tablets … Wallace Pharmaceuticals Jamaica Third
+International Schedule
+Soma Tablets … … do. do. do . Stelazine Tablets 10 mgm. … Smith, Kline & French U.K. do. Sulphadiazine Tablets … Booker B.D.H. Jamaica do. 0.5 gramme Sulphadimidine Tablets … do. do. do. 0.5 gm Sulphaguanidine Tablets … do. do. do. 0.5 gm. Phenobarbitone Tablets 1/2 grain do. do. Controlled Phenobarbitone Tablets 1 grain do. do. do. 102/1972. Amrutanjan Dermal Ointment Amrutanjan Ltd. India Freely
+Amrutanjan Gripe Mixture … do. do. do. Amrutanjan Inhaler … do. do. do. Amrutanjan Pain Balm … do. do. do. Anoleum Ointment … Anglo-French Labs. Canada do. Hemobex A-C … … do. do. do. Hemobex Fortis Tablets … do. do. do. Klev Tablets … … do. do. do. Scapin Syrup … … Scandrug Denmark do. A.P.C. Tablets … … Eupharma Laboratories India do. Aspirin Tablets … … do. do. do. Beniplex S/F Tablets … do. do. do. Beniplex Fortified liquid … do. do. do. Emalt … … … do. do. do. Euphicin Tablets … … do. do. do. Euroton Drops … … do. do. do. Euvitan Elixir … … do. do. do. Pyridoxine Hydrochloride do. do. do.
 Tablets 10 mgm.
-Pyridoxine Hydrochloride do.
+Pyridoxine Hydrochloride do. do. do.
 Tablets 50 mgm.
-Slow Sodium Tablets … Ciba Laboratories U.K. Alcosulph Cream … … Booker B.D.H. Guyana Hibiscrub … … I.C.I. Ltd. U.K.
-Emtryl Premix … … May & Baker Ltd.
-Lemavit Sugar Coated Tablets Maltex Tra W. Germany Vicoplex Capsules … Esgepharm Tabron Tablets … … Parke Davis & Co. U.S.A. Salus Honey with Fennel Syrup Salu-Haus W. Germany Cynorin with B6 Injection … Unique Pharmaceuticals India Ifibrium Tablets 5 mgm. … do. Ifibrium Tablets 10 mgm. … do. Ifibrium Tablets 25 mgm. … do. Kinex Tablets … … do. Metrogyl Tablets … … do. Widactil Tablets 10 mgm. … do. Widactil Tablets 25 mgm. … do. Widactil Tablets 100 mgm. … do.
-Aminophylline Tablets … Eupharma Laboratories
-Chlorpromazine Tablets 10 mgm. do. Chlorpromazine Tablets do.
+Slow Sodium Tablets … Ciba Laboratories U.K. do. Alcosulph Cream … … Booker B.D.H. Guyana do. Hibiscrub … … I.C.I. Ltd. U.K. do. Emtryl Premix … … May & Baker Ltd. do. do. Lemavit Sugar Coated Tablets Maltex Tra W. Germany do. Vicoplex Capsules … Esgepharm do. do. Tabron Tablets … … Parke Davis & Co. U.S.A. do. Salus Honey with Fennel Syrup Salu-Haus W. Germany do. Cynorin with B6 Injection … Unique Pharmaceuticals India Third Ifibrium Tablets 5 mgm. … do. do. do. Ifibrium Tablets 10 mgm. … do. do. do. Ifibrium Tablets 25 mgm. … do. do. do. Kinex Tablets … … do. do. do. Metrogyl Tablets … … do. do. do. Widactil Tablets 10 mgm. … do. do. do. Widactil Tablets 25 mgm. … do. do. do. Widactil Tablets 100 mgm. … do. do. do. Aminophylline Tablets … Eupharma Laboratories do. do. Chlorpromazine Tablets 10 mgm. do. do. do. Chlorpromazine Tablets do. do. do.
 25 mgm.
-Chlorpheniramine Maleate do. Tablets 4 mgm.
-[Subsidiary] Approval of New Drugs Notification
-Manufacturer Country of Conditions
-origin of Sale
-Eupharma Laboratories India Third
-Schedule
-do. do. do. do do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do do. … do. do. do. … do. do. do. … Smith, Kline & French U.S.A. do. … do. do. do. … Esgepharm W. Germany do. … Anglo-French Labs. Canada do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do.
-do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do.
-do. do. do. … Schering Corp. U.S.A. do. … Burroughs Wellcome & Co. U.K. do. … Mycofarm Holland do. … do. do. do. … do. do. do. … Geigy Pharmaceuticals U.K. do. … Pfizer Corp. Ltd. Canada do. … William H. Warner & Co. U.K. do. … E. Scheurich Pharmwerk W. Germany do. … Allergan U.S.A. Freely 116/1972. … do. do. do.
-Ipca Laboratories India do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do.
-do. do. do. [Subsidiary] Approval of New Drugs Notification
-Trade Name and Form Manufacturer
-Vitamin C Chewable Tablets … Ipca Laboratories Brolene Eye Drops … May & Baker Ltd. Phosferine Extravite Tablets … Beecham Products *Cafenol Tablets … … Sterling Drug International Metamucil Instant Mix Powder G. D. Searle Lensine Contact Lens Solution Abbott Laboratories
-Foibyl Dragees … … Sopar
-Vitol Dragees … … do.
-Rynatan Tabules … … Mallinckrodt Chemical Works
-Rynatan Pediatric Suspension do
-Rynatuss Tabules … … do.
-Rynatuss Pediatric Suspension do.
-Audax Ear Drops … … Mapp Laboratories Ltd.
-Cuprol Cough Expectorant … do.
-Teejel Gel … … do.
-Xerumenex Ear Drops … do.
-X-Prep Liquid … … do.
-Anti-B Troches … … The De Pree Company
-De Pree Ear Drops … do.
-DPX Cleanser … … do.
-Go Pain Capsules … do.
-Go Pain Oral Gel … … do.
-Hista-C Tablets … … do.
-Itchi-Kool Ointment … do.
-Nullo Deodorant Tablets … do.
-Super Hista-C Capsules … do.
-TPO 20 Solution … … do.
-Tip-a-Lip Medicated Balm … do.
-Vitamin A & D Cream … do.
-Wheatavims Capsules … do.
-Zodiex Tablets … … do.
-Balmosa Cream … … Pharmax Ltd.
-Pylura Ointment … … do.
-Pylura Suppositories … do.
-Vasogen Cream … … do.
-Forecval Capsules … Unigreg Ltd.
-Forecval Protein … … do.
-Actonorm Gel … … Wallace Manufacturing
+Chlorpheniramine Maleate do. do. do. Tablets 4 mgm.
+Approval of New Drugs Notification [Subsidiary]
+Trade Name and Form Manufacturer Country of Conditions
+origin of Sale Cyanocobalamin Injection Eupharma Laboratories India Third 100 mcg. Schedule Cyanocobalamin Injection do. do. do. Cyanocobalamin Injection do do. do. Digoxin Tablets 0.25 mgm. … do. do. do. Nildrin 100 Tablets … do. do. do. Nildrin 200 Tablets … do. do. do. Prednisolone Tablets … do. do. do. Stabrium Tablets 10 mgm. … do. do. do. Stabrium Tablets 25 mgm. … do. do do. Sulphadimidine Tablets … do. do. do. Tolbutamide Tablets … do. do. do. Eskalith Capsules … Smith, Kline & French U.S.A. do. Teldrin Spansules … do. do. do. Diarenine Tablets … … Esgepharm W. Germany do. Alfapsin Injectable … Anglo-French Labs. Canada do. Alfapsin Tablets … … do. do. do. Alfapsin Ointment… … do. do. do. D.C.T. Vaccine … … do. do. do. Diphtheria Toxoid … do. do. do. Geriotonique Tablets … do. do. do. Immune Serum Globulin … do. do. do. Influenza Virus Vaccine … do. do. do. Polio Virus Vaccine, Live do. do. do. T.A.B. Vaccine … … do. do. do. T.A.B.T. Vaccine … … do. do. do. Tetanus Toxoid … … do. do. do. Tetanus Antitoxin … … do. do. do. Vaccination Against do. do. do. Mutabon 4/25 Tablets … Schering Corp. U.S.A. do. Flenzavax Flue Vaccine … Burroughs Wellcome & Co. U.K. do. Locoid Cream … … Mycofarm Holland do. Locoid Lotion … … do. do. do. Locoid Ointment … … do. do. do. Butacote Tablets … … Geigy Pharmaceuticals U.K. do. Renese-R Tablets … … Pfizer Corp. Ltd. Canada do. Anugesic H.C. Suppositories … William H. Warner & Co. U.K. do. Josual Scherurich Dragees … E. Scheurich Pharmwerk W. Germany do.
+116/1972. Aquacare Dry Skin Cream … Allergan U.S.A. Freely Aquacare Dry Skin Lotion … do. do. do. Acetylsalicylic Acid Tablets Ipca Laboratories India do. Alomag Tablets … … do. do. do. Enzymex Tablets … … do. do. do. Enzymex Liquid … … do. do. do. Folisules Tablets … … do. do. do. Folic Acid with Fe Tablets … do. do. do. Ipcamalt … … do. do. do. Ipcavite Drops … … do. do. do. Ipcavite Syrup … … do. do. do. Pyriplex Syrup … … do. do. do. Vipacamine Tablets … do. do. do. Vitamin B6 Tablets 50 mgm. … do. do. do. Vitamin B Complex Forte do. do. do. [Subsidiary] Approval of New Drugs Notification
+Trade Name and Form Manufacturer Country of Conditions
+Vitamin C Chewable Tablets … Ipca Laboratories India Freely Brolene Eye Drops … May & Baker Ltd. U.K. do. Phosferine Extravite Tablets … Beecham Products do. do. *Cafenol Tablets … … Sterling Drug International Trinidad do. Metamucil Instant Mix Powder G. D. Searle U.K. do. Lensine Contact Lens Solution Abbott Laboratories U.S.A. do. Foibyl Dragees … … Sopar Belgium do. Vitol Dragees … … do. do. do. Rynatan Tabules … … Mallinckrodt Chemical Works U.S.A. do. Rynatan Pediatric Suspension do do. do. Rynatuss Tabules … … do. do. do. Rynatuss Pediatric Suspension do. do. do. Audax Ear Drops … … Mapp Laboratories Ltd. U.K. do. Cuprol Cough Expectorant … do. do. do. Teejel Gel … … do. do. do. Xerumenex Ear Drops … do. do. do. X-Prep Liquid … … do. do. do. Anti-B Troches … … The De Pree Company U.S.A. do. De Pree Ear Drops … do. do. do. DPX Cleanser … … do. do. do. Go Pain Capsules … do. do. do. Go Pain Oral Gel … … do. do. do. Hista-C Tablets … … do. do. do. Itchi-Kool Ointment … do. do. do. Nullo Deodorant Tablets … do. do. do. Super Hista-C Capsules … do. do. do. TPO 20 Solution … … do. do. do. Tip-a-Lip Medicated Balm … do. do. do. Vitamin A & D Cream … do. do. do. Wheatavims Capsules … do. do. do. Zodiex Tablets … … do. do. do. Balmosa Cream … … Pharmax Ltd. U.K. do. Pylura Ointment … … do. do. do. Pylura Suppositories … do. do. do. Vasogen Cream … … do. do. do. Forecval Capsules … Unigreg Ltd. do. do. Forecval Protein … … do. do. do. Actonorm Gel … … Wallace Manufacturing do. do.
 Chemist
-Actonorm Sed Gel … do.
-Concavit Drops … … do.
-Concavit Capsules … do.
-Ironorm Capsules … do.
-Concavit Syrup … … do.
-Ironorm Drops … … do.
-Ironorm Tonic … … do.
-Molcer Ear Drops … do.
-Laxeberon Drops … … Boehringer Ingelheim Clistin-D Tablets … … Ontho Pharmaceutical Corp. Geriaplasma Dragees … Andey Pharm Tai-Ginseng Liquid … Dr. Poehlmann & Co. Floradix Kindervital for Salus-Haus
+Actonorm Sed Gel … do. do. do. Concavit Drops … … do. do. do. Concavit Capsules … do. do. do. Ironorm Capsules … do. do. do. Concavit Syrup … … do. do. do. Ironorm Drops … … do. do. do. Ironorm Tonic … … do. do. do. Molcer Ear Drops … do. do. do. Laxeberon Drops … … Boehringer Ingelheim W. Germany do. Clistin-D Tablets … … Ontho Pharmaceutical Corp. U.S.A. do. Geriaplasma Dragees … Andey Pharm W. Germany do. Tai-Ginseng Liquid … Dr. Poehlmann & Co. do. do. Floradix Kindervital for Salus-Haus do. do.
 children
-CA-l,000 Tablets … … Sandoz Ltd. Carbomucil Granules … Norgine Ltd.
-Enzypam Tablets … … do.
-Norgotin Ear Drops … do.
+CA-l,000 Tablets … … Sandoz Ltd. Switzerland do. Carbomucil Granules … Norgine Ltd. U.K. do. Enzypam Tablets … … do. do. do. Norgotin Ear Drops … do. do. do.
 *Change in formula.
-[Subsidiary] Approval of New Drugs Notification
-Manufacturer Country of Conditions
-origin of Sale
-… Norgine Ltd. U.K. Freely Abalon Liquifilm Ophthalmic Allergan U.S.A. Third
-Schedule
-do. do. do. do. do. do. Fluoroplex 1% Topical Cream do. do. do.
-do. do. do. Flucort Veterinary Injection … Syntex Pharmaceutical U.K. do.
-… Ipca Laboratories India do.
-do. do. do. do. do. do. do. do. do.
-… do. do. do.
-do. do. do. do. do. do.
-… do. do. do. … J. B. Roerig Division of Pfizer U.S.A. do. … do. do. do. … G. D. Searle U.K. do. … Carlisle Laboratories Barbados do. … do. do. do. … do. do. do. PBZ-100 Tablets 100 mgm. … do. do. do. Berkdopa Tablets 500 mgm. … Berk Pharmaceutical do. do.
-… Mallinckrodt Chemical Works do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. Motival Tablets 20/0.5 mgm.… E. R. Squibb do. do.
-… Farbwerke Hoechst W. Germany do. … Napp Laboratories Ltd. U.K. do. … do. do. do. … Eli Lilly do. do. Dicynene Tablets 250 mgm. … Delandale Laboratories do. do. Dicynene Tablets 500 mgm. … do. do. do.
-… do. do. do. … Pharmax Ltd. do. do. … Wallace Manufacturing do. do.
-Chemist
-… do. do. do.
-Boehringer Ingelheim W. Germany. do.
-… do. do. do. … Schering Corporation U.S.A. do. … do. do. do. … do. do. do. … do. do. do. … Burroughs Wellcome & Co. U.K. do. [Subsidiary] Approval of New Drugs Notification
-Trade Name and Form Manufacturer
-Domosa Veterinary Solution … Syntex Pharmaceuticals Budoform Complex Dolder Ltd. S.A.
+Approval of New Drugs Notification [Subsidiary]
+Trade Name and Form Manufacturer Country of Conditions
+origin of Sale Waxsol Ear Drops … Norgine Ltd. U.K. Freely Abalon Liquifilm Ophthalmic Allergan U.S.A. Third
+Solution Schedule Epifrin Ophthalmic Solution do. do. do. Epifrin Ophthalmic Solution do. do. do. Fluoroplex 1% Topical Cream do. do. do. F.M.L. Liquifilm Ophthalmic do. do. do. Flucort Veterinary Injection … Syntex Pharmaceutical U.K. do. Butacynil Tablets … Ipca Laboratories India do. Chlorpromazine Tablets do. do. do. Chlorpromazine Tablets do. do. do. Chlorpromazine Syrup do. do. do. Ipcavite Forte Capsules … do. do. do. Chlorpromazine Syrup do. do. do. Chlorpromazine Tablets do. do. do. Euviton Capsules … … do. do. do. Marax Suspension … J. B. Roerig Division of Pfizer U.S.A. do. Marax Tablets … … do. do. do. Pro-Benthine P.A. Tablets … G. D. Searle U.K. do. Bezide 5 mgm. Tablets … Carlisle Laboratories Barbados do. Dekam 2 Tablets 2 mgm. … do. do. do. Dekam 5 Tablets 5 mgm. … do. do. do. PBZ-100 Tablets 100 mgm. … do. do. do. Berkdopa Tablets 500 mgm. … Berk Pharmaceutical do. do. Diutensen R Tablets … Mallinckrodt Chemical Works do. do. Diutensen Tablets … do. do. do. Lufyllin Tablets … … do. do. do. Lufyllin G.G. Tablets … do. do. do. Lufyllin G.G. Elixir … do. do. do. Motival Tablets 20/0.5 mgm. E. R. Squibb do. do. Nortensin Dragees … Farbwerke Hoechst W. Germany do. Bradilan Tablets … … Napp Laboratories Ltd. U.K. do. P.I.B. Spray … … do. do. do. Doloxene 365 Pulvules … Eli Lilly do. do. Dicynene Tablets 250 mgm. … Delandale Laboratories do. do. Dicynene Tablets 500 mgm. … do. do. do. Dicynene Tablets Injection … do. do. do. Crinagen Gel … … Pharmax Ltd. do. do. Concavit Injection … Wallace Manufacturing do. do.
+Chemist Ironorm Injection … do. do. do. Tranquo-Buscopan Boehringer Ingelheim W. Germany. do. Corti Bisolvon Inhalant … do. do. do. Celestone Soluspan … Schering Corporation U.S.A. do. Etrafon 2/25 Tablets … do. do. do. Etrafon 4/10 Tablets … do. do. do. Etrafon 4/25 Tablets … do. do. do. *Imuran Tablets … … Burroughs Wellcome & Co. U.K. do. [Subsidiary] Approval of New Drugs Notification
+Trade Name and Form Manufacturer Country of Conditions
+Domosa Veterinary Solution … Syntex Pharmaceuticals U.K. Third Budoform Complex Dolder Ltd. S.A. Switzerland do.
 Suspension
-Acne Creme … … The De Pree Company 176/1972.
-Alkalade Liquid … … do.
-Ammoniated Mercury do.
+Acne Creme … … The De Pree Company U.S.A. Freely 176/1972. Alkalade Liquid … … do. do. do. Ammoniated Mercury do. do. do.
 Ointment
-Anti-B Mist Nasal Spray … do.
-Azma-Eze Tablets … do.
-Anti-Diarrhoea Compound … do.
-B Complex with C Tablets … do.
-B 12 Tablets 25 mcg. … do.
-Baby Cough Syrup … do.
-Bronchial Syrup DM … do.
-Bronchial Syrup … … do.
-Buffered Aspirin Tablets … do.
-Children's Aspirin Tablets … do.
-Children's Cough Syrup … do.
-Cold Sore Lotion … do.
-Decorpa Granules … Norgine Limited Diaper Rash Cream … The De Pree Company
-Dried Yeast Tablets … do.
-Eye Drops … … do.
-Gardalax Capsules … do.
-Gardalax Powder … … do.
-Gerigard Capsules … do.
-Go-Pain Lotion … … do.
-Ichthammol Ointment 20% … do.
-Milk of Magnesia Tablets … do.
-Muripsin Tablets … … Norgine Limited Nipe Pediatric Drops … Laboratories Vagas S.A. Nullo Foot Cream … The De Pree Company
-Nullo Foot Lotion … do.
-Nullo Foot Powder … do.
-Orbit Multivitamins with do.
+Anti-B Mist Nasal Spray … do. do. do. Azma-Eze Tablets … do. do. do. Anti-Diarrhoea Compound … do. do. do. B Complex with C Tablets … do. do. do. B 12 Tablets 25 mcg. … do. do. do. Baby Cough Syrup … do. do. do. Bronchial Syrup DM … do. do. do. Bronchial Syrup … … do. do. do. Buffered Aspirin Tablets … do. do. do. Children's Aspirin Tablets … do. do. do. Children's Cough Syrup … do. do. do. Cold Sore Lotion … do. do. do. Decorpa Granules … Norgine Limited U.K. do. Diaper Rash Cream … The De Pree Company U.S.A. do. Dried Yeast Tablets … do. do. do. Eye Drops … … do. do. do. Gardalax Capsules … do. do. do. Gardalax Powder … … do. do. do. Gerigard Capsules … do. do. do. Go-Pain Lotion … … do. do. do. Ichthammol Ointment 20% … do. do. do. Milk of Magnesia Tablets … do. do. do. Muripsin Tablets … … Norgine Limited U.K. do. Nipe Pediatric Drops … Laboratories Vagas S.A. Venezuela do. Nullo Foot Cream … The De Pree Company U.S.A. do. Nullo Foot Lotion … do. do. do. Nullo Foot Powder … do. do. do. Orbit Multivitamins with do. do. do.
 Iron Tablets
-Peralvex Liquid … … Norgine Limited Prompt Elixir … … The De Pree Company
-Prompt Lotion … … do.
-Prompt Tablets … … do.
-Quartets Capsule … … do.
-Rectal Ointment N.B. … do.
-Rectal Suppositories N.B. … do.
-Saccharin Tablets 1/2 grain … do.
-Salisan Tablets … … do.
-Set'l Liquid … … do.
-Super Hista C Syrup … do.
-Soda Mint Tablets … do.
-Tootache Redi-Kit … do.
-Vitamin Syrup for Children … do.
-Whitfield's Ointment … do.
-Trihemic 600 Tablets … Sederle Laboratories Histalix Expectorant … Wallace Manufacturing
+Peralvex Liquid … … Norgine Limited U.K. do. Prompt Elixir … … The De Pree Company U.S.A. do. Prompt Lotion … … do. do. do. Prompt Tablets … … do. do. do. Quartets Capsule … … do. do. do. Rectal Ointment N.B. … do. do. do. Rectal Suppositories N.B. … do. do. do. Saccharin Tablets 1/2 grain … do. do. do. Salisan Tablets … … do. do. do. Set'l Liquid … … do. do. do. Super Hista C Syrup … do. do. do. Soda Mint Tablets … do. do. do. Tootache Redi-Kit … do. do. do. Vitamin Syrup for Children … do. do. do. Whitfield's Ointment … do. do. do. Trihemic 600 Tablets … Sederle Laboratories do. do. Histalix Expectorant … Wallace Manufacturing U.K. do.
 Chemist Ltd.
-Noravita … … do.
-Salzone Syrup … … do.
-Vigranon B Syrup … do.
-[Subsidiary] Approval of New Drugs Notification
-Manufacturer Country of Conditions
-origin of Sale
-… Chinoin Ltd. Hungary Freely … Sedeon Richter Ltd. do. do. … Chemico G.M.B.H. W. Germany do. … Merck Sharp and Dohme Canada do. … do. do. do.
-Sterling Drug International Ltd. Trinidad do.
-… do. Jamaica do. … Morrison & Merrel Int. Ltd. Canada do. Complex 23 Pharmaton Capsules Pharmaton Ltd. Switzerland do.
-… do. do. do. … do. do. do. L.P. 11 Pharmaton Capsules … do. do. do.
-… do. do. do. … U.S.V. Pharmaceutical U.S.A. do.
+Noravita … … do. do. do. Salzone Syrup … … do. do. do. Vigranon B Syrup … do. do. do.
+Approval of New Drugs Notification [Subsidiary]
+Trade Name and Form Manufacturer Country of Conditions
+origin of Sale Multivitamin Tablets … Chinoin Ltd. Hungary Freely Polybe Tablets … … Sedeon Richter Ltd. do. do. Nu-Vita 27 Tablets … Chemico G.M.B.H. W. Germany do. Pancoxin … … Merck Sharp and Dohme Canada do. Pancoxin Plus … … do. do. do. *Children's Cafenol Tablets Sterling Drug International Ltd. Trinidad do. Powdered Tyrax … … do. Jamaica do. Lisophen Liquid … … Morrison & Merrel Int. Ltd. Canada do. Complex 23 Pharmaton Capsules Pharmaton Ltd. Switzerland do. *Geriatric Pharmaton … do. do. do. Kiddi Syrup … … do. do. do. L.P. 11 Pharmaton Capsules … do. do. do. P.P.P. Pharmaton Capsules … do. do. do. Bacid Capsules … … U.S.V. Pharmaceutical U.S.A. do.
 Corporation
-… do. do. do. … Rickett & Coleman U.K. do.
+Co-Salt … … … do. do. do. Gaviscon Tablets … … Rickett & Coleman U.K. do.
 (Overseas) Ltd.
-… The J. B. Williams Co. Inc. U.S.A. do. … do. do. do. … Rickett & Coleman U.K. do.
+Geritol Tablets … … The J. B. Williams Co. Inc. U.S.A. do. Geritol Liquid … … do. do. do. W. L. Tablets … … Rickett & Coleman U.K. do.
 (Overseas) Ltd.
-Wigglesworth Ltd. do. do.
-… do. do. do. … do. do. do. … do. do. do. … do. do. do.
-do. do. do.
-… do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … Fisons Ltd. do. do. … Minnesota 3 M do. do.
+Adult's Bronchial Balsam Wigglesworth Ltd. do. do. Adult's Expectorant … do. do. do. Adult's Nerve Tonic … do. do. do. Benzac Tablets … … do. do. do. Calmo Rheumatic Tablets … do. do. do. Children's Cherry Cough do. do. do. Ephedrine Inhalex Oil … do. do. do. Golden Ear Drops … … do. do. do. Gould's Gripe Mixture … do. do. do. Gly-Cologne Hand Jelly … do. do. do. Infants Nasal Drops … do. do. do. Junior Expectorant … do. do. do. Opas Powder … … do. do. do. Opas Tablets … … do. do. do. Panalene Elixir … … do. do. do. Panalene Tablets … … do. do. do. Rapid Energy Release Tab. … do. do. do. Slim Maid Tablets … do. do. do. Vesagex Antiseptic Oint. … do. do. do. Worm Syrup … … do. do. do. *Sanatogen Powder … Fisons Ltd. do. do. Supplamins Tablets … Minnesota 3 M do. do.
 Laboratories Ltd.
-… M & R Laboratories Netherlands do. … Ayerst Laboratories Canada do. … Smith Kline & French Ltd. do. do. Ornade D.M. Cough Liquid … do. do. do. Salus-Sun Herbal Supplement Salne-Hans W. Germany do.
-… do. do. do. [Subsidiary] Approval of New Drugs Notification
-Trade Name and Form Manufacturer
-**Procol Capsules … Promed Pharmaceuticals Ltd.
-**Prospan Capsules … do.
-Sleeping Tablets … … The De Pree Company **Provita Tablets … Promed Pharmaceuticals Ltd. Hibispray 1 Quick Prep. … I.C.I. Ltd.
-Hibispray 2 Hard Surface … do.
+Similac Isomil … … M & R Laboratories Netherlands do. Beminal 500 Tablets … Ayerst Laboratories Canada do. Ornade Liquid … … Smith Kline & French Ltd. do. do. Ornade D.M. Cough Liquid … do. do. do. Salus-Sun Herbal Supplement Salne-Hans W. Germany do. Galexir Liquid … … do. do. do. [Subsidiary] Approval of New Drugs Notification
+Trade Name and Form Manufacturer Country of Conditions
+**Procol Capsules … Promed Pharmaceuticals Ltd. Trinidad Freely **Prospan Capsules … do. do. do. Sleeping Tablets … … The De Pree Company U.S.A. Third **Provita Tablets … Promed Pharmaceuticals Ltd. Trinidad do. Hibispray 1 Quick Prep. … I.C.I. Ltd. U.K. do. Hibispray 2 Hard Surface … do. do. do.
 Disinfectant
-Hibispray 3 Skin Prep. Red … do.
-Hibispray 4 Clear Plastic do.
+Hibispray 3 Skin Prep. Red … do. do. do. Hibispray 4 Clear Plastic do. do. do.
 Dressing
-Hibispray 5 Tropical do.
+Hibispray 5 Tropical do. Trinidad do.
 Protective
-Noravita Injection … Wallace Manufacturing
+Noravita Injection … Wallace Manufacturing do. do.
 Chemists Ltd.
-Cholera Vaccine Freeze Dried Institute for Sero-
+Cholera Vaccine Freeze Dried Institute for Sero- Hungary do.
 Bacteriological Production and Research
-Digoxin Ampoules 2 ml. … Gedeon Richter Ltd.
-Digoxin Tablets 0.25 mgm. … do.
-Emetine Hydrochloride Chinoin Limited
+Digoxin Ampoules 2 ml. … Gedeon Richter Ltd. do. do. Digoxin Tablets 0.25 mgm. … do. do. do. Emetine Hydrochloride Chinoin Limited do. do.
 Injection
-Heparin Injection 5 ml. … Gedeon Richter Ltd.
-Homofort Injection 2 ml. … do.
-Nevigramon Capsules … Chinoin Limited Oxytocin Synthetic Injection … Gedeon Richter Ltd. Pipolphen Tablets … United Works of
+Heparin Injection 5 ml. … Gedeon Richter Ltd. do. do. Homofort Injection 2 ml. … do. do. do. Nevigramon Capsules … Chinoin Limited do. do. Oxytocin Synthetic Injection … Gedeon Richter Ltd. do. do. Pipolphen Tablets … United Works of do. do.
 Pharmaceutical and Dietetic Products
-Plegomazin Injection 50 mgm. do.
-Plegomazin Tablets 25 mgm. do.
-Plegomazin Tablets 100 mgm. do.
-Sertan Tablets 250 mgm. … Chinoin Ltd. Small Pox Vaccine … Institute for Sero-
+Plegomazin Injection 50 mgm. do. do. do. Plegomazin Tablets 25 mgm. do. do. do. Plegomazin Tablets 100 mgm. do. do. do. Sertan Tablets 250 mgm. … Chinoin Ltd. do. do. Small Pox Vaccine … Institute for Sero- do. do.
 Bacteriological Production and Research
-Vitamin A. Capsules 50,000 I.U. United Works of
+Vitamin A. Capsules 50,000 I.U. United Works of do. do.
 Pharmaceutical and Dietetic Products
-Vitamin B. Complex Inj. … Gedeon Richter Ltd.
-Vitamin B 12 Injection do.
+Vitamin B. Complex Inj. … Gedeon Richter Ltd. do. do. Vitamin B 12 Injection do. do. do.
 1000 mcg.
-Rowapraxin Tablets … Rowa Ltd.
-Rowapraxin Rectal Capsules do.
-Microlut Coated Tablets … Schering A.G. Ativan Capsules … … Wyeth International Amijex Equine with 5% Diamond Laboratories
+Rowapraxin Tablets … Rowa Ltd. Ireland do. Rowapraxin Rectal Capsules do. do. do. Microlut Coated Tablets … Schering A.G. W. Germany do. Ativan Capsules … … Wyeth International do. do. Amijex Equine with 5% Diamond Laboratories U.S.A. do.
 Dextrose Injection
-Amijex Powder … … do.
-Amijex S.A. with 5% do.
+Amijex Powder … … do. do. do. Amijex S.A. with 5% do. do. do.
 Dextrose Injection
-Amijex L.A. with 5% do.
+Amijex L.A. with 5% do. do. do.
 Dextrose Injection
-Cerespan Capsules … U.S.V. Pharmaceuticals
+Cerespan Capsules … U.S.V. Pharmaceuticals do. do.
 Corporation
 **Change in name of legal manufacturer.
-[Subsidiary] Approval of New Drugs Notification
-Manufacturer Country of Conditions
-origin of Sale
-… E. R. Squibb U.K. Third
-Schedule
-… Eli Lilly & Co. U.S.A. do. Prepurex Pregnancy Test Kit … The Wellcome Foundation U.K. do.
-Ltd.
-… Pfizer Ltd. do. do. … Janseen Pharmaceutica Belgium do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. Complamin Tablets 300 mgm. Laboratorios Vargas S.A. Venezuela do.
-… do. do. do. … Alkaloida Ltd. Hungary Controlled
-Drug Phenobarbitone Tablets 50 mgm. do. do. do.
-… B.D.H. (Canada) Ltd. Canada Freely 188/1972. … do. do. do. … do. do. do. … do. do. do. … Wallgreen Laboratories Inc. U.S.A. do. … do. do. do. … A. W. Chase Canada do. … I.C.I. U.K. do. … May & Baker Ltd. do. do. … Unique Pharmaceutical India do.
+Approval of New Drugs Notification [Subsidiary]
+Trade Name and Form Manufacturer Country of Conditions
+origin of Sale Flaminon Capsules … E. R. Squibb U.K. Third
+Schedule Oncovin Injection … Eli Lilly & Co. U.S.A. do. Prepurex Pregnancy Test Kit … The Wellcome Foundation U.K. do.
+Ltd. Obin Tablets 500 mgm. … Pfizer Ltd. do. do. Clinium Tablets … … Janseen Pharmaceutica Belgium do. Daktarin Cream 2% … do. do. do. Daktarin Powder … … do. do. do. Gyno-Daktarin Cream 2% … do. do. do. Orap Tablets 1 mgm. … do. do. do. Orap Forte Tablets … do. do. do. Stugeron Tablets 25 mgm. … do. do. do. Complamin Tablets 300 mgm. Laboratorios Vargas S.A. Venezuela do. Complamin Injection … do. do. do. Etoval Tablets 100 mgm. … Alkaloida Ltd. Hungary Controlled
+Drug Phenobarbitone Tablets 50 mgm. do. do. do. Bridine Aerosol Spray … B.D.H. (Canada) Ltd. Canada Freely 188/1972. Bridine Solution … … do. do. do. Bridine Surgical Scrub … do. do. do. Bridine Shampoo Liquid … do. do. do. Calamine Lotion … … Wallgreen Laboratories Inc. U.S.A. do. Calcium Lactate Tablets … do. do. do. Chase Cold Tablets … A. W. Chase Canada do. Dispray Tinct. Benz. Co. … I.C.I. U.K. do. Emtryl Soluble … … May & Baker Ltd. do. do. Ferinut Tablets … … Unique Pharmaceutical India do.
 Laboratories
-… Texcan Pharmaceuticals Ltd. Canada do. … U.S.V. Pharmaceuticals U.S.A. do. … Wallace Manufacturing U.K. do.
+Geltex Topical Liquid … Texcan Pharmaceuticals Ltd. Canada do. Histaspan-D Capsules … U.S.V. Pharmaceuticals U.S.A. do. Histalix Expectorant … Wallace Manufacturing U.K. do.
 Chemist Ltd.
-… Unique Pharmaceutical India do.
+Livernut Capsules … Unique Pharmaceutical India do.
 Laboratories
-… Wallgreen Laboratories Inc. U.S.A. do.
-do. do. do. Olaf Vitamin C Tablets 100 mgm. do. do. do.
-… do. do. do. … Berk Pharmaceutical Ltd. U.K. do. Pevidine Antiseptic Solution … do. do. do.
-… Promed Pharmaceuticals Ltd. Trinidad do. Progesic Tablets 500 mgm. … do. do. do.
-… do. do. do. … Richardson-Merrell Inc. U.S.A. do. … William R. Warner & Co. Ltd. U.K. do. … Wallgreen Laboratories Inc. U.S.A. do. … do. do. do. … Reckitt & Coleman U.K. do. … Wallace Manufacturing do. do.
+Multiple Vitamin Tablets … Wallgreen Laboratories Inc. U.S.A. do. Olaf Super B. Complex do. do. do. Olaf Vitamin C Tablets 100 mgm. do. do. do. Olaf Vitamin E 100 mgm. … do. do. do. Pevidine Surgical Scrub … Berk Pharmaceutical Ltd. U.K. do. Pevidine Antiseptic Solution … do. do. do. Profer Tablets … … Promed Pharmaceuticals Ltd. Trinidad do. Progesic Tablets 500 mgm. … do. do. do. Promin 12 Tablets 50 mcg. … do. do. do. Sinex Nasal Spray… … Richardson-Merrell Inc. U.S.A. do. Sinutab S.A. Tablets … William R. Warner & Co. Ltd. U.K. do. Salt Tablets … … Wallgreen Laboratories Inc. U.S.A. do. Soda Mint Tablets … do. do. do. *Senokot Tablets … … Reckitt & Coleman U.K. do. Vitanorm … … Wallace Manufacturing do. do.
 Chemist Ltd.
-… Wallgreen Laboratories Inc. U.S.A. do. … B.D.H. Pharmaceutical U.K. Third
+Wallgreen Aspirin Tablets … Wallgreen Laboratories Inc. U.S.A. do. Ancoloxin Tablets … B.D.H. Pharmaceutical U.K. Third
 Schedule [Subsidiary] Approval of New Drugs Notification
-Trade Name and Form Manufacturer
-Arlidin Tablets … … U.S.V. Pharmaceuticals Bridine Douche … … B.D.H. (Canada) Ltd.
-Bridine Vaginal Gel … do.
-Butax Tablets 100 mgm. … Promed Pharmaceuticals Ltd. Estrovis Tablets 4 mgm. … William R. Warren & Co. Ltd. Life Iron Injection … Abbott Laboratories
+Trade Name and Form Manufacturer Country of Conditions
+Arlidin Tablets … … U.S.V. Pharmaceuticals U.S.A. Third Bridine Douche … … B.D.H. (Canada) Ltd. Canada do. Bridine Vaginal Gel … do. do. do. Butax Tablets 100 mgm. … Promed Pharmaceuticals Ltd. Trinidad do. Estrovis Tablets 4 mgm. … William R. Warren & Co. Ltd. U.K. do. Life Iron Injection … Abbott Laboratories U.S.A. do.
 International
-Midamor Tablets 5 mgm. … Merck Sharp & Dohme Ltd. Olaf Vitamin A Capsules Wallgreen Laboratories Inc.
+Midamor Tablets 5 mgm. … Merck Sharp & Dohme Ltd. U.K. do. Olaf Vitamin A Capsules Wallgreen Laboratories Inc. U.S.A. do.
 25,000 units
-Prinalgin Tablets 500 mgm. … Berk Pharmaceutical Ltd. Predivit M Capsules … Unique Pharmaceutical
+Prinalgin Tablets 500 mgm. … Berk Pharmaceutical Ltd. U.K. do. Predivit M Capsules … Unique Pharmaceutical India do.
 Laboratories
-Prednisolone Tablets … do.
-Protran Tablets 25 mgm. … Promed Pharmaceuticals Ltd.
-Protran Tablets 50 mgm. … do.
-Protran Tablets 100 mgm. … do.
-Scanferon Injection … Scanpharm A/S Thilozone Tablets 100 mgm. … Unique Pharmaceutical
+Prednisolone Tablets … do. do. do. Protran Tablets 25 mgm. … Promed Pharmaceuticals Ltd. Trinidad do. Protran Tablets 50 mgm. … do. do. do. Protran Tablets 100 mgm. … do. do. do. Scanferon Injection … Scanpharm A/S Denmark do. Thilozone Tablets 100 mgm. … Unique Pharmaceutical India do.
 Laboratories
-Thilozone Tablets 200 mgm. … do.
-Thilozone P Tablets … do.
-Trasicor Tablets 80 mgm. … CIBA Laboratories Ulcelac Sachets … … Sigurta Farmaceutice
-Ulcelac Tablets … … do.
-Ventolin Spandets … Allen & Hanburys Ltd. Vermox … … … Janssen Pharmaceutice Garlic Capsules … … Natural Brand Sales Co. 74/1973.
-Glutamic Acid Tablets … do.
-Kelp Tablets … … do.
-Lecithin Capsules 71/2 mm. …
-do.
-Preventron Tablets … do.
-93% Protein Supplement do.
+Thilozone Tablets 200 mgm. … do. do. do. Thilozone P Tablets … do. do. do. Trasicor Tablets 80 mgm. … CIBA Laboratories U.K. do. Ulcelac Sachets … … Sigurta Farmaceutice Italy do. Ulcelac Tablets … … do. do. do. Ventolin Spandets … Allen & Hanburys Ltd. U.K. do. Vermox … … … Janssen Pharmaceutice Belgium do. Garlic Capsules … … Natural Brand Sales Co. U.S.A. Freely 74/1973. Glutamic Acid Tablets … do. do. do. Kelp Tablets … … do. do. do. Lecithin Capsules 71/2 mm. … do. do. do Preventron Tablets … do. do. do. 93% Protein Supplement do. do. do.
 Tablets
-Supreme Food Yeast Tablets … do.
-11 Vegetable Tablets … do.
-Wheat Germ Capsules … do.
-Wheate Vitamin E Capsules … Nato Products
-Malamin Tablets … … Promed Pharmaceuticals Ltd.
-Neogen Tablets … … do.
-Probec Capsules … … do.
-Progon Capsules … … do.
-Provem Capsules … … do.
-Op-Site Spray … … Smith & Nephew Ltd. Otrivine-Antistin Eye Drops … CIBA Laboratories Tab Ferrous Gluconate Ronca Pharmaceuticals Ltd.
+Supreme Food Yeast Tablets … do. do. do. 11 Vegetable Tablets … do. do. do. Wheat Germ Capsules … do. do. do. Wheate Vitamin E Capsules … Nato Products do. do. Malamin Tablets … … Promed Pharmaceuticals Ltd. Trinidad do. Neogen Tablets … … do. do. do. Probec Capsules … … do. do. do. Progon Capsules … … do. do. do. Provem Capsules … … do. do. do. Op-Site Spray … … Smith & Nephew Ltd. U.K. do. Otrivine-Antistin Eye Drops … CIBA Laboratories do. do. Tab Ferrous Gluconate Ronca Pharmaceuticals Ltd. do. do.
 BP 300 mgm.
-Tab Chlorpheniramine BP 4 mgm. do.
-Bekunis Dragees … … Roha-Werk
-Minalka Tablets … … Marco Pharma Laboratories
-Normacol (Antispasmodic) … Norgine Ltd.
-Normacol (Special) … do.
-Normacol Intestinal do.
+Tab Chlorpheniramine BP 4 mgm. do. do. do. Bekunis Dragees … … Roha-Werk W. Germany do. Minalka Tablets … … Marco Pharma Laboratories Denmark do. Normacol (Antispasmodic) … Norgine Ltd. U.K. do. Normacol (Special) … do. do. do. Normacol Intestinal do. do. do.
 Evacuant (Standard)
-Melbrosia for Men … Sanguisan A.G.
-[Subsidiary] Approval of New Drugs Notification
-Manufacturer Country of Conditions
-origin of Sale Melbrosia P.I.D. for Women … Sanguisan A.G. Switzerland Freely
-… Evers & Co. W. Germany do. … do. do. do. … do. do. Third
-Schedule
-… Allen & Hanburys U.K. do. Tab Complamin 150 mgm. … Laboratorios Vargas SA Venezuela do.
-… USV Pharmaceutical Corp. U.S.A. do. … Pharmax Ltd. U.K. do. … Promed Pharmaceuticals Ltd. Trinidad do. … do. do. do.
-Ciba-Geigy Ltd. Switzerland do.
-do. do. do. do. do. do.
-… Wyeth Pharma GMBH. W. Germany do.
-Ronca Pharmaceuticals Ltd. U.K. do.
-do. do. do. do. do. do. do. do. do. Tab Digoxin BP 0.25 mgm. … do. do. do. Tab Guanethidine BP 10 mgm. do. do. do. Tab Imipramine BP 25 mgm.… do. do. do. Tab Meprobamate BP 400 mgm. do. do. do.
-do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. Tab Propantheline BP 15 mgm. do. do. do.
-do. do. do. do. do. do.
-… Smith, Kline & French Canada do. * Amps Complamin 150 mgm. Laboratorios Vargas S.A. Venezuela do.
-… Wyeth-Pharma GMBH. W. Germany do. … Schering A.G. do. do. … Brunton Chemists Ltd. U.K. Freely 155/1973. … Syntex Pharmaceuticals Ltd. do. Third
-Schedule
-… Abbott Laboratories U.S.A. Freely … do. do. do.
+Melbrosia for Men … Sanguisan A.G. Switzerland do
+Approval of New Drugs Notification [Subsidiary]
+Trade Name and Form Manufacturer Country of Conditions
+origin of Sale Melbrosia P.I.D. for Women … Sanguisan A.G. Switzerland Freely Spontavit-M … … Evers & Co. W. Germany do. Spontavit-F … … do. do. do. Oramascul … … do. do. Third
+Schedule Becotide Inhaler … … Allen & Hanburys U.K. do. Tab Complamin 150 mgm. … Laboratorios Vargas SA Venezuela do. Meltrol-50 mg. Capsules … USV Pharmaceutical Corp. U.S.A. do. Eldo-Sed Tablets … … Pharmax Ltd. U.K. do. Prolone Tablets … … Promed Pharmaceuticals Ltd. Trinidad do. Promax Capsules … … do. do. do. Synacthen Depot Ampoules Ciba-Geigy Ltd. Switzerland do. Synacthen Depot Ampoules do. do. do. Synacthen Ampoules do. do. do. Microval Tablets … … Wyeth Pharma GMBH. W. Germany do. Tab Chlordiazepoxide Ronca Pharmaceuticals Ltd. U.K. do. Caps Chlordiazepoxide do. do. do. Tab Chlorpromazine do. do. do. Tab Chlorpropamide do. do. do. Tab Digoxin BP 0.25 mgm. … do. do. do. Tab Guanethidine BP 10 mgm. do. do. do. Tab Imipramine BP 25 mgm. do. do. do. Tab Meprobamate BP 400 mgm. do. do. do. Tab Metronidazole do. do. do. Tab Methaqualone HCL do. do. do. Tab Prednisone BP 1 mgm. do. do. do. Tab Prednisone BP 5 mgm. do. do. do. Tab Prednisolone BP 1 mgm. do. do. do. Tab Prednisolone BP 5 mgm. do. do. do. Tab Propantheline BP 15 mgm. do. do. do. Tab Phenylbutazone do. do. do. Tab Phenylbutazone do. do. do. Stelabid Forte Tablets … Smith, Kline & French Canada do. * Amps Complamin 150 mgm. Laboratorios Vargas S.A. Venezuela do. 8 Ativan Tablets … … Wyeth-Pharma GMBH. W. Germany do. Progyluton Coated Tablets … Schering A.G. do. do. Disium Vaginal Spray … Brunton Chemists Ltd. U.K. Freely 155/1973. Noriday Tablets … … Syntex Pharmaceuticals Ltd. do. Third
+Schedule Rondec Oral Drops … Abbott Laboratories U.S.A. Freely Rondec Syrup … … do. do. do.
 *To correct Notices of Approval dated 18th September 1972. [Subsidiary] Approval of New Drugs Notification
-Trade Name and Form Manufacturer
-Pangavit Injection 25,000 … Wallace Pharmaceutical
-International
-Efudix Cream … … Roche Products Ltd. Clofitrax Capsules … Ditrax Pharmaceuticals Fortavit Children's Vitamin Hough, Hoseason & Co. Ltd.
+Trade Name and Form Manufacturer Country of Conditions
+Pangavit Injection 25,000 … Wallace Pharmaceutical U.S.A. Third
+International Schedule
+Efudix Cream … … Roche Products Ltd. U.K. do. Clofitrax Capsules … Ditrax Pharmaceuticals Belgium do. Fortavit Children's Vitamin Hough, Hoseason & Co. Ltd. U.K. Freely
 Drops
-Sterzac Antibacterial do.
-Shaving Foam
-Sterzac Tablet Soap … do.
-Sterzac Bath Concentrate … do.
-Sterzac Washing Cream … do.
-Sucron Mini Lumps … Ashe Laboratories Ltd. Vita Diem Drops … … Marfleet Refining Co. Ltd. Dixarit Sugar Coated Tablets… C. H. Boehringer & Sons *Andrews Liver Salt … Sterling Drug Int. Ltd. Bilopaque Sodium Capsules Winthrop Laboratories
-Sulfamylon Cream … do.
-Pliafax Laxative Tablets … Roberts Laboratories Ltd.
-Themic Antiseptic Lozenges … do.
-APC Tablets B.P.C … do.
-Aspirin Tablets B.P. … do.
-Castor Oil B.P. … … do.
-Folic Acid Tablets B.P. … do.
-Liquid Paraffin B.P. … do.
-Olive Oil B.P. … … do.
-Paracetamol Tablets B.P. do.
+Sterzac Antibacterial do. do. Third
+Shaving Foam Schedule
+Sterzac Tablet Soap … do. do. do. Sterzac Bath Concentrate … do. do. do. Sterzac Washing Cream … do. do. do. Sucron Mini Lumps … Ashe Laboratories Ltd. do. Freely Vita Diem Drops … … Marfleet Refining Co. Ltd. do. do. Dixarit Sugar Coated Tablets… C. H. Boehringer & Sons W. Germany Third *Andrews Liver Salt … Sterling Drug Int. Ltd. Trinidad Freely Bilopaque Sodium Capsules Winthrop Laboratories U.S.A. Third Sulfamylon Cream … do. do. do. Pliafax Laxative Tablets … Roberts Laboratories Ltd. U.K. Freely Themic Antiseptic Lozenges … do. do. do. APC Tablets B.P.C … do. do. do. Aspirin Tablets B.P. … do. do. do. Castor Oil B.P. … … do. do. do. Folic Acid Tablets B.P. … do. do. do. Liquid Paraffin B.P. … do. do. do. Olive Oil B.P. … … do. do. do. Paracetamol Tablets B.P. do. do. do.
 500 mgm.
-Riboflavin Tablets 3 mgm. … do.
-White Petroleum Jelly B.P. … do.
-Rowachol Capsules … Rowa Ltd.
-Rowachol Liquid … … do.
-Rowatinex Liquid … do.
-Rowatirex Capsules … do.
-Pso-rite Cream … … The De Pree Co.
-Theragards Vitamin and do.
+Riboflavin Tablets 3 mgm. … do. do. do. White Petroleum Jelly B.P. … do. do. do. Rowachol Capsules … Rowa Ltd. Ireland do. Rowachol Liquid … … do. do. do. Rowatinex Liquid … do. do. do. Rowatirex Capsules … do. do. do. Pso-rite Cream … … The De Pree Co. U.S.A. Third Theragards Vitamin and do. do. do.
 Mineral Tablets
-Althesin Anaesthetic Glaxo Laboratories Ltd.
+Althesin Anaesthetic Glaxo Laboratories Ltd. U.K. do.
 Injection 5 ml.
-Althesin Anaesthetic do.
+Althesin Anaesthetic do. do. do.
 Injection 10 ml.
-Iodine Ointment-Non Bush Boake Allen Ltd.
+Iodine Ointment-Non Bush Boake Allen Ltd. U.K. Freely
 Staining BPC
-Zinc Undecenoate Ointment BP do.
-Korean Ginseng Complex Natural-Vigor Natural
+Zinc Undecenoate Ointment BP do. do. do. Korean Ginseng Complex Natural-Vigor Natural U.S.A. do.
 Tablets Products
-Vitamin E Capsules 400 I.U. do.
-Quinine Solution Bush Boake Allen Ltd.
+Vitamin E Capsules 400 I.U. do. do. do. Quinine Solution Bush Boake Allen Ltd. U.K. do.
 Ammoniated BPC 1963
-Tolu Solution BPC … do.
-Ferrk Chloride Solution BP … do.
-Methyl Salicylate BP … do.
-Paraffin Soft Yellow BP … Bush Boake Allan Ltd.
+Tolu Solution BPC … do. do. do. Ferrk Chloride Solution BP … do. do. do. Methyl Salicylate BP … do. do. do. Paraffin Soft Yellow BP … Bush Boake Allan Ltd. do. do.
 *Change in formula.
-[Subsidiary] Approval of New Drugs Notification
-Manufacturer Country of Conditions
-origin of Sale
-Bush Boake Allan Ltd. U.K. Freely
-… do. do. do. … do. do. do.
-do. do. do.
-… Carlo-Erba Italy Third
-Schedule
-… Janssen Pharmaceutical Belgium do. … Syntex Pharmaceuticals Ltd. U.K. do. … Winthrop Products Inc. do. Freely … do. do. do. … Institut Merieux International France Third
-Schedule
-… do. do. do.
-do. do. do.
-… Sophar S.A. Belgium Freely … do. do. do. … do. do. do.
-May & Baker Ltd. U.K. do.
-… Sandoz Ltd. Switzerland Third
-Schedule
-… do. do. do. … Wander Ltd. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … Geigy Pharmaceuticals U.K. do. Anafranil Capsules 10 mgm. … do. do. do.
-Anasco W. Germany Freely
-do. do. do.
-… C. H. Boehringer do. Third
-Schedule
-… Charles E Frosst & Co. Canada do. … do. do. do. … do. do. do. … Nicholas Laboratories Ltd. U.K. Freely Lantigen B. Sublingual Drops Lantigen Ltd. do. Third
-Schedule Lantivac Sublingual Drops … do. do. do. Aluminium Hydroxide Tablets Regent Laboratories Ltd. do. Freely
-do. do. do. Folic Acid Tablets BP 5 mgm. do. do. do.
-do. do. Third
-Schedule
-do. do. do. do. do. do. do. do. do. do. do. do.
+Approval of New Drugs Notification [Subsidiary]
+Trade Name and Form Manufacturer Country of Conditions
+origin of Sale Tragacanth Powder Bush Boake Allan Ltd. U.K. Freely Orange Tincture BPC … do. do. do. Ipecacuanha Tincture BP … do. do. do. Lavender Tincture do. do. do. Naxogin Tablets … … Carlo-Erba Italy Third
+Schedule Imap Injection … … Janssen Pharmaceutical Belgium do. *Topilar Cream … … Syntex Pharmaceuticals Ltd. U.K. do. Lenium … … Winthrop Products Inc. do. Freely Mil-Par … … do. do. do. D.P.T. Vaccine … … Institut Merieux International France Third
+Schedule D. T. Vaccine … … do. do. do. Sabin Oral Poliomyelitis do. do. do. Soparine Tablets … … Sophar S.A. Belgium Freely Ocal Eye Bath … … do. do. do. Ocal Eye Drops … … do. do. do. Phenergan Compound May & Baker Ltd. U.K. do. Purantix Cream … … Sandoz Ltd. Switzerland Third
+Schedule Purantix Ointment … do. do. do. Landromil Powder … Wander Ltd. do. do. Landromil Tincture … do. do. do. Landromil Ointment … do. do. do. Pantozyme Bitabs… … do. do. do. Spasmo-Canulase Bitabs … do. do. do. Tegretol Tablets … … Geigy Pharmaceuticals U.K. do. Anafranil Capsules 10 mgm. … do. do. do. Taxofit Effervescent Tablets Anasco W. Germany Freely Taxofit Effervescent Tablets do. do. do. Sali-Catapres Tablets … C. H. Boehringer do. Third
+Schedule Infrocin Suppositories … Charles E Frosst & Co. Canada do. Supres Tablets-150 … do. do. do. Supres Tablets-250 … do. do. do. Claradin Tablets … … Nicholas Laboratories Ltd. U.K. Freely Lantigen B. Sublingual Drops Lantigen Ltd. do. Third
+Schedule Lantivac Sublingual Drops … do. do. do. Aluminium Hydroxide Tablets Regent Laboratories Ltd. do. Freely Aspirin Tablets BP 300 mgm. do. do. do. Folic Acid Tablets BP 5 mgm. do. do. do. Sulphadimidine Tablets BP do. do. Third
+500 mgm. Schedule Sulphaguanidine Tablets BP do. do. do. Prednisolone Tablets 1 mgm. do. do. do. Prednisolone Tablets 5 mgm. do. do. do. Imipramine Tablets 10 mgm. do. do. do.
 *To include additional indication. [Subsidiary] Approval of New Drugs Notification
-Trade Name and Form Manufacturer
-Imipramine Tablets 25 mgm. Regent Laboratories Ltd.
-Isoniazid Tablets 50 mgm. … do.
-Isoniazid Tablets 100 mgm. … do.
-Promazine Tablets 10 mgm. … do.
-Amylobarbitone Tablets do.
-100 mgm.
-Aminophylline Compound Capsules do.
-Sine-Off Tablets … … Manley & James Ltd. Klaron Lotion … … Dermik Laboratories Ltd.
-Rezamid Lotion … … do.
-Zetar Shampoo … … do.
-Vanoxide Lotion … … do.
-Primodian Tablets … Schering Ltd. Ralgex Analgesic Spray … Eurcyl Ltd. Benzyl Benzoate Emulsion BP Bush Boake Allen Ltd.
-Calamine BP … … do.
-Liquorice Liquid Extract BP … do.
-Piperazine Citrate Elixir BP … do.
-Liquid Paraffin and Phenolph do.
+Trade Name and Form Manufacturer Country of Conditions
+Imipramine Tablets 25 mgm. Regent Laboratories Ltd. U.K. Third Isoniazid Tablets 50 mgm. … do. do. do. Isoniazid Tablets 100 mgm. … do. do. do. Promazine Tablets 10 mgm. … do. do. do. Amylobarbitone Tablets do. do. Controlled
+100 mgm. Drug
+Aminophylline Compound Capsules do. do. do. Sine-Off Tablets … … Manley & James Ltd. Canada do. Klaron Lotion … … Dermik Laboratories Ltd. U.S.A. Freely Rezamid Lotion … … do. do. do. Zetar Shampoo … … do. do. do. Vanoxide Lotion … … do. do. do. Primodian Tablets … Schering Ltd. W. Germany Third Ralgex Analgesic Spray … Eurcyl Ltd. U.K. Controlled Benzyl Benzoate Emulsion BP Bush Boake Allen Ltd. do. Freely Calamine BP … … do. do. do. Liquorice Liquid Extract BP … do. do. do. Piperazine Citrate Elixir BP … do. do. do. Liquid Paraffin and Phenolph do. do. do.
 Thalein Emulsion BPC
-Senega Infusion Concentrate do.
+Senega Infusion Concentrate do. do. do.
 BPC
-Orange Peel Infusion do.
-Concentrated BPC
-Camphor Liniment BP … do.
-Soap Liniment BPC Meth. … do.
-Turpentine Liniment BP … do.
-Iodine Solution Strong BP 1958 do.
-Iodine Solution Weak BP … do.
-Alquinax Anti-diarrhoea Roberts Laboratories Ltd.
+Orange Peel Infusion do. do. do. Concentrated BPC Camphor Liniment BP … do. do. do. Soap Liniment BPC Meth. … do. do. do. Turpentine Liniment BP … do. do. do. Iodine Solution Strong BP 1958 do. do. do. Iodine Solution Weak BP … do. do. do. Alquinax Anti-diarrhoea Roberts Laboratories Ltd. do. do.
 Suspension
-Alquinax Anti-diarrhoeal do.
+Alquinax Anti-diarrhoeal do. do. do.
 Tablets
-Antagal Antacid Suspension … do.
-Antagal Antacid Tablets … do.
-Antiworm Elixir BPC … do.
-Children's Soluble Aspirin do.
+Antagal Antacid Suspension … do. do. do. Antagal Antacid Tablets … do. do. do. Antiworm Elixir BPC … do. do. do. Children's Soluble Aspirin do. do. do.
 Tablets
-Fam-Lax Tablets … … do.
-Kay's Linseed Compound … do.
-Kaybell's Glycerin Lemon do.
+Fam-Lax Tablets … … do. do. do. Kay's Linseed Compound … do. do. do. Kaybell's Glycerin Lemon do. do. do
 and Honey
-Kaybell's Glycerin Lemon do.
+Kaybell's Glycerin Lemon do. do. do.
 and Ipecac
-Pliafax Laxative Syrup … do.
-Vitamin E 50 I.U. Capsule … The De Pree Co.
-Vitamin E 100 I.U. Capsule … do.
-Vitamin E 200 I.U. Capsule … do.
-Vitamin E 400 I.U. Capsule … do.
-Protein Tablets 250 mgm. … do.
-Iron and Yeast Tablets … do.
-Iron Tablets … … do.
-Kelp Tablets … … do.
-Calcigards Tablets … do.
-Lecithin Capsules … … do.
-[Subsidiary] Approval of New Drugs Notification
-Manufacturer Country of Conditions
-origin of Sale
-The De Pree Co. U.S.A. Third
-Schedule
-… do. do. do. … do. do. do. … do. do. Freely … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. Adult Glycerin Suppositories… do. do. do. Infant Glycerin Suppositories… do. do. do.
-… do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do.
-do. do. do. Limbo All-purpose Liniment… do. do. do. Vitamin C 100 mgm. Tablets… do. do. do. Vitamin C 250 mgm. Tablets… do. do. do. Treats Multi-vitamin Tablets … do. do. do.
-… Sandoz Ltd. Switzerland Third
-Schedule
-… do. do. do. … do. do. do. Sandomigran Coated Tablets … do. do. do. Prothiaden Capsules 25 mgm. The Crooks Laboratories Ltd. U.K. do. *Scanal Compound Capsules Scanpharm Denmark Freely
-… Wade Pharmaceuticals Ltd. U.K. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … Lederle do. do. … do. do. Third
-Schedule Uni-Hem 12 Forte Capsules … Uni-Chem Labs. Ltd. India Freely
-… do. do. do. … Eupharmalabs Ltd. do. do. … Bengal Pharmaceutical Works do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. [Subsidiary] Approval of New Drugs Notification
-Trade Name and Form Manufacturer
-Antiben Tablets … … Bengal Pharmaceutical Works Uniferon F12 Injection … Unichem Labs. Ltd.
-E.P. Forte Tablets … do.
-E.P. Forte Injection … do.
-Unidys Compound Tablets … do.
-Unithiben Forte (S) Tablets … do.
-Altacite Tablets … … Roussel Laboratories Ltd.
-Altacite Suspension … do.
-Micronor Tablets … … Ortho Pharmaceuticals Ltd. Solcohepsyl Injection … Solco Basle Ltd.
-Solcoseryl Injection … do.
-Solcoseryl Jelly … … do.
-Solcoseryl Ointment … do.
-Astringosol Liquid … Breon Laboratories Inc. Paracetamol Tablets BP 500 mgm. The Boots Co. Ltd. *Lenium Shampoo … Winthrop Laboratories 202/1973. Midol Tablets … … Glenbrook Laboratories Hexopal Tablets … … Winthrop Products Inc.
-Winstrol Injectable … do.
-Bonemeal with Vitamin D Natura-Vigor Natural
+Pliafax Laxative Syrup … do. do. do. Vitamin E 50 I.U. Capsule … The De Pree Co. U.S.A. do. Vitamin E 100 I.U. Capsule … do. do. do. Vitamin E 200 I.U. Capsule … do. do. do. Vitamin E 400 I.U. Capsule … do. do. do. Protein Tablets 250 mgm. … do. do. do. Iron and Yeast Tablets … do. do. do. Iron Tablets … … do. do. do. Kelp Tablets … … do. do. do. Calcigards Tablets … do. do. do. Lecithin Capsules … … do. do. do.
+Approval of New Drugs Notification [Subsidiary]
+Trade Name and Form Manufacturer Country of Conditions
+origin of Sale Vitamin A 25,000 I.U. The De Pree Co. U.S.A. Third
+Capsules Schedule Chargers Tablets … … do. do. do. Anti-Tension Tablets … do. do. do. Motion Sickness Tablets … do. do. Freely Corn Liquid … … do. do. do. Zinc Oxide Ointment … do. do. do. Allergy Tablets … … do. do. do. Wheat Germ Oil liquid … do. do. do. Wheat Germ Oil Capsules … do. do. do. Adult Glycerin Suppositories… do. do. do. Infant Glycerin Suppositories… do. do. do. Wart Away … … do. do. do. Toothache Drops … … do. do. do. Toothache Wax … … do. do. do. Ear Oil … … … do. do. do. Drawing Salve … … do. do. do. Blue Ointment … … do. do. do. Boric Acid Ointment … do. do. do. Go-pain Analgesic Cream … do. do. do. Wheatacol Tablets … do. do. do. Decongestant Syrup … do. do. do. Itchi-kool Liquid … … do. do. do. Itchi-kool Ointment … do. do. do. Alkacade Tablets … … do. do. do. Hinkle's Formula Laxative … do. do. do. Terpin Hydrate with do. do. do. Limbo All-purpose Liniment… do. do. do. Vitamin C 100 mgm. Tablets… do. do. do. Vitamin C 250 mgm. Tablets… do. do. do. Treats Multi-vitamin Tablets … do. do. do. Fiorinal-P Capsules … Sandoz Ltd. Switzerland Third
+Schedule Visken Ampoules … do. do. do. Visken Tablets 5 mgm. … do. do. do. Sandomigran Coated Tablets … do. do. do. Prothiaden Capsules 25 mgm. The Crooks Laboratories Ltd. U.K. do. *Scanal Compound Capsules Scanpharm Denmark Freely Auraltone Ear Drops … Wade Pharmaceuticals Ltd. U.K. do. Bronchotone Liquid … do. do. do. Secaderm Salve … … do. do. do. Phytocil Cream … … do. do. do. Phytocil Powder … … do. do. do. Stastabs 600 … … Lederle do. do. Mynah Tablets … … do. do. Third
+Schedule Uni-Hem 12 Forte Capsules … Uni-Chem Labs. Ltd. India Freely Allujel DF Tablets … do. do. do. Lota Ointment … … Eupharmalabs Ltd. do. do. Ringworm Ointment … Bengal Pharmaceutical Works do. do. Magsil Tablets … … do. do. do. Eutheria Anodyne Cream … do. do. do. Antiflamin Poultice … do. do. do. Ear Drops … … do. do. do. Catazoc Nasal Drops … do. do. do. Dentol Toothache Drops … do. do. do. [Subsidiary] Approval of New Drugs Notification
+Trade Name and Form Manufacturer Country of Conditions
+Antiben Tablets … … Bengal Pharmaceutical Works India Third Uniferon F12 Injection … Unichem Labs. Ltd. do. do. E.P. Forte Tablets … do. do. do. E.P. Forte Injection … do. do. do. Unidys Compound Tablets … do. do. do. Unithiben Forte (S) Tablets … do. do. do. Altacite Tablets … … Roussel Laboratories Ltd. U.K. Freely Altacite Suspension … do. do. do. Micronor Tablets … … Ortho Pharmaceuticals Ltd. do. Third Solcohepsyl Injection … Solco Basle Ltd. Switzerland do. Solcoseryl Injection … do. do. do. Solcoseryl Jelly … … do. do. do. Solcoseryl Ointment … do. do. do. Astringosol Liquid … Breon Laboratories Inc. U.S.A. Freely Paracetamol Tablets BP 500 mgm. The Boots Co. Ltd. U.K. do. *Lenium Shampoo … Winthrop Laboratories do. do. 202/1973. Midol Tablets … … Glenbrook Laboratories U.S.A. do. Hexopal Tablets … … Winthrop Products Inc. do. Third Winstrol Injectable … do. do. do. Bonemeal with Vitamin D Natura-Vigor Natural do. Freely
 Tablets Products
-Vitamin E. Capsules … do.
-Cod Liver Oil Capsules … do.
-Honeyed Protein Tablets … do.
-Torula Yeast Tablets … do.
-Iron Hematinic with B12 and do.
+Vitamin E. Capsules … do. do. do. Cod Liver Oil Capsules … do. do. do. Honeyed Protein Tablets … do. do. do. Torula Yeast Tablets … do. do. do. Iron Hematinic with B12 and do. do. do.
 C Tablets
-Children's Chewable Multiple do.
+Children's Chewable Multiple do. do. do.
 Vitamin Formula Tablets
-Super B Complex with Cano do.
+Super B Complex with Cano do. do. do.
 Fe Tablets
-Wheat Germ Oil Capsule … do.
-Chewable Vitamin E. Tablets… do.
-Vitamin E 100 I.U. … do.
-Vitamin A and D … … do.
-Vitamin E 100 I.U. … do.
-Rose Hips Vitamin C … do.
-Vitamin A … … do.
-Vitamin B Complex Elixir … Halewood Chemical Ltd. Nasciodine … … Strenol Products Ltd.
-Haledrin Suspension … do.
-Haledrin Tablets … … do.
-Hale-B-Plex Tablets … do.
-Vitamin B Complex with do.
+Wheat Germ Oil Capsule … do. do. do. Chewable Vitamin E. Tablets… do. do. do. Vitamin E 100 I.U. … do. do. do. Vitamin A and D … … do. do. do. Vitamin E 100 I.U. … do. do. do. Rose Hips Vitamin C … do. do. do. Vitamin A … … do. do. Third Vitamin B Complex Elixir … Halewood Chemical Ltd. U.K. Freely Nasciodine … … Strenol Products Ltd. do. do. Haledrin Suspension … do. do. do. Haledrin Tablets … … do. do. do. Hale-B-Plex Tablets … do. do. do. Vitamin B Complex with do. do. do.
 Ascorbic Acid Tablets
-Vitamin B Complex Strong do.
+Vitamin B Complex Strong do. do. do.
 Tablets
-Yeast Tablets 300 mgm. … Halewood Chemical Ltd.
-Yeast Tablets 450 … do.
-Vitamin B Compound Tablets do.
-*Change in formula.
-[Subsidiary] Approval of New Drugs Notification
-Manufacturer Country of Conditions
-origin of Sale
-Halewood Chemical Ltd. U.K. Freely
-… do. do. Third
-Schedule
-… do. do. Controlled
-Drug
-… Laboratories Vargas S.A. Venezuela Freely … do. do. do. … do. do. do. … do. do. do.
-do. do. do.
-… do. do. do. … do. do. do. … do. do. do. … do. do. Third
-Schedule
-… Glaxo Laboratories Ltd. U.K. do. … Nicholas Products Ltd. do. Freely … Dominion Pharmacal Canada Third
-Schedule
-… do. do. do. … do. do. do. … do. do. do. … do. do. do. … Indo-Pharma Pharmaceutical India Freely
+Yeast Tablets 300 mgm. … Halewood Chemical Ltd. do. do. Yeast Tablets 450 … do. do. do. Vitamin B Compound Tablets do. do. do. *Change in formula.
+Approval of New Drugs Notification [Subsidiary]
+Trade Name and Form Manufacturer Country of Conditions
+origin of Sale Vitamin B Compound Strong Halewood Chemical Ltd. U.K. Freely Carbachol Injection … do. do. Third
+Schedule Halebarb Tablets … … do. do. Controlled
+Drug Maalox Suspension … Laboratories Vargas S.A. Venezuela Freely Maalox Tablets No. 1 … do. do. do. Maalox Tablets No. 2 … do. do. do. Emetrol Solution … … do. do. do. Pankreon Compositum do. do. do. Isoderm Liquid 125 ml. … do. do. do. Isoderm Liquid 250 ml. … do. do. do. Isoderm Liquid 1000 ml. … do. do. do. Ananase Dragees … … do. do. Third
+Schedule Dermovate Cream … Glaxo Laboratories Ltd. U.K. do. Aspro Junior Tablets … Nicholas Products Ltd. do. Freely Probutamid Tablets … Dominion Pharmacal Canada Third
+Schedule Win-Ger Tablets … … do. do. do. Promide Tablets … … do. do. do. Prodoxide Tablets … do. do. do. Glycemex Tablets … do. do. do. Gastrindon Tablets … Indo-Pharma Pharmaceutical India Freely
 Works (Private) Ltd.
-… do. do. Third
-Schedule
-… do. do. Controlled
-Drug
-… Glaxo Laboratories Ltd. U.K. Third
-Schedule
-… Farbwerke Hoechst AG W. Germany Freely
-E. R. Squibb & Sons Ireland Third
-Schedule
-… M. V. Organon Holland do. … Abbott Laboratories U.S.A. Freely Rowarolan Dusting Powder … Rowa Ltd. Ireland do.
-… do. do. do.
-Curacao Labs. Barbados do.
-… Beecham Products Overseas U.K. do.
-Ltd. Backache Kidney Bladder Pills Cupal Ltd. do. do.
-The Boots Co. Ltd. do. do.
-… May & Baker Ltd. do. Third
-Schedule
-… Glenbrook Laboratories do. Freely … Smith Kline & French Canada do.
+Butacortindon Tablets … do. do. Third
+Schedule Amphetindon Tablets … do. do. Controlled
+Drug Dermovate Ointment … Glaxo Laboratories Ltd. U.K. Third
+Schedule Eryfer Capsules … … Farbwerke Hoechst AG W. Germany Freely Flaminon-Alka Capsules E. R. Squibb & Sons Ireland Third
+125 mgm. Schedule Exluton Tablets … … M. V. Organon Holland do. *Iberet 500 Filmtab … Abbott Laboratories U.S.A. Freely Rowarolan Dusting Powder … Rowa Ltd. Ireland do. Rowlind Liniment … … do. do. do. Junior Phensic Tablets Curacao Labs. Barbados do. Phensic Cough Mixture … Beecham Products Overseas U.K. do.
+Ltd. Backache Kidney Bladder Pills Cupal Ltd. do. do. Strepsils with Honey and The Boots Co. Ltd. do. do. Terfluzin Tablets … … May & Baker Ltd. do. Third
+Schedule Ex-Lax Instant Mix … Glenbrook Laboratories do. Freely Ecotrin Tablets 10 grains … Smith Kline & French Canada do.
 (Canada) Ltd.
-… I.C.I. U.K. Third
-Schedule
-… Consolidated Laboratories Jamaica Freely 62/1974.
-Ltd.
-… do. do. do. … do. do. do. [Subsidiary] Approval of New Drugs Notification
-Trade Name and Form Manufacturer
-Ibert 500 Liquid … … Consolidated
+Inderal 80 Tablets … I.C.I. U.K. Third
+Schedule Sucaryl Liquid … … Consolidated Laboratories Jamaica Freely 62/1974.
+Ltd. Sucaryl Tablets … … do. do. do. Surbex T. Tablets … … do. do. do. [Subsidiary] Approval of New Drugs Notification
+Trade Name and Form Manufacturer Country of Conditions
+Ibert 500 Liquid … … Consolidated Jamaica Freely
 Laboratories Ltd.
-Rondec Syrup … … do.
-Rondec D.M. Syrup … do.
-Oretic 25 mg. Tablets … do.
-Oretic 50 mg. Tablets … do.
-Cofcur-A Expectorant … Unichem Laboratories Ltd.
-Lignocaine 2% Injection … do.
-Uni-Testosterone Depot Injection do.
-Uni-Progestin Forte Depot do.
+Rondec Syrup … … do. do. do. Rondec D.M. Syrup … do. do. do. Oretic 25 mg. Tablets … do. do. Third Oretic 50 mg. Tablets … do. do. do. Cofcur-A Expectorant … Unichem Laboratories Ltd. India Freely Lignocaine 2% Injection … do. do. Third Uni-Testosterone Depot Injection do. do. do. Uni-Progestin Forte Depot do. do. do.
 Injection
-Uni-B Complex Forte Injection do.
-Dalmane Capsules … … Roche Products Ltd. Junior Disprin Tablets … Rackitt & Coleman
-Dexatopic Ointment 15G … Organon
-Dexatopic Ointment 30G … do.
-*Isoptocarpine Eye Drops 1% … Alcon Ltd.
-*Isoptocarpine Eye Drops 2% … do.
-*Isoptocarpine Eye Drops 3% do.
-†Vicks Vaporub … … Richardson-Merrell Ltd. Haynon Syrup … … R. P. Drugs Ltd.
-Antedon Elixir … … do.
-Vitamin B Complex with do.
+Uni-B Complex Forte Injection do. do. do. Dalmane Capsules … … Roche Products Ltd. England do. Junior Disprin Tablets … Rackitt & Coleman U.K. Freely Dexatopic Ointment 15G … Organon Holland Third Dexatopic Ointment 30G … do. do. do. *Isoptocarpine Eye Drops 1% … Alcon Ltd. U.S.A. do. *Isoptocarpine Eye Drops 2% … do. do. do. *Isoptocarpine Eye Drops 3% do. do. do. †Vicks Vaporub … … Richardson-Merrell Ltd. Mexico Freely Haynon Syrup … … R. P. Drugs Ltd. U.K. do. Antedon Elixir … … do. do. do. Vitamin B Complex with do. do. do.
 Iron Syrup
-Prometh Syrup … … do.
-Nor-B12 Syrup … … do.
-Dozic Syrup … … do.
-Guanor Syrup … … do.
-Guanex Elixir … … do.
-Norvol Suspension … do.
-Haynon Tablets … … do.
-Oxionor S.A. … … do.
-Methisol Tablets … … do.
-Ventolin Tablets 4 mg. … Allen & Hanburys Ltd. Tathiogal Tablets 100 mg. … Lab. Vargas
-Tathiogal Amps 100 mg. … do.
-Alfathesin Injection 5 ml. … Glaxo Laboratories
-Alfathesin Injection 10 ml. … do.
-Listerine Antiseptic … Warner Lambert Ltd. Listerine Antiseptic … Warner Lambert (Canada) Ltd. Tab Acetylsalicylic Acid Spofa United Pharmaceutical
+Prometh Syrup … … do. do. do. Nor-B12 Syrup … … do. do. do. Dozic Syrup … … do. do. do. Guanor Syrup … … do. do. do. Guanex Elixir … … do. do. do. Norvol Suspension … do. do. do. Haynon Tablets … … do. do. do. Oxionor S.A. … … do. do. do. Methisol Tablets … … do. do. Third Ventolin Tablets 4 mg. … Allen & Hanburys Ltd. do. do. Tathiogal Tablets 100 mg. … Lab. Vargas Venezuela do. Tathiogal Amps 100 mg. … do. do. do. Alfathesin Injection 5 ml. … Glaxo Laboratories U.K. do. Alfathesin Injection 10 ml. … do. do. do. Listerine Antiseptic … Warner Lambert Ltd. U.S.A. Freely Listerine Antiseptic … Warner Lambert (Canada) Ltd. Canada do. Tab Acetylsalicylic Acid Spofa United Pharmaceutical Czechoslovakia do.
 300 mg. Works
-Tab Acetylsalicylic Acid 500 mg. do.
-Tab Aminophylline 100 mg. … do.
-Tab Aminophylline 200 mg. … do.
-Tab Antazoline HC1 100 mg. … do.
-Tab A.P.C. … … do.
-*Increase in percentage or preservative.
-†Change in Country of Origin.
-[Subsidiary] Approval of New Drugs Notification
-Manufacturer Country of Conditions
-origin of Sale
-… Spofa United Czechoslovakia Freely
-Pharmaceutical Works
-… do. do. do. … do. do. do. … do. do. do. … do. do. do. Tab Piperazine Adipate 300 mg. do. do. do. Tab Piperazine Adipate 500 mg. do. do. do.
-… do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. Third
-Schedule
-… do. do. do. … do. do. do. … do. do. do. … do. do. do.
-do. do. do. do. do. do. do. do. do.
-… do. do. Freely
-do. do. Third
-Schedule
-do. do. do.
-… do. do. do. Tab Methyltestosterone 5 mg. do. do. do. Tab Methyltestosterone 10 mg. do. do. do.
-do. do. do.
-… do. do. do. … do. do. do. … do. do. do. Tab Sulphadimidine 500 mg. … do. do. do.
-… do. do. do. Inj. Ergometrine Mal 0.2 mg. … do. do. do.
-… do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do.
-do. do. do. [Subsidiary] Approval of New Drugs Notification
-Trade Name and Form Manufacturer
-Inj. Procaine cum Adrenaline Spofa United Pharmaceutical
-2% x 5 cc Works
-Inj. Progesterone 10 mg. … do.
-Inj. Testosterone Propionate do.
+Tab Acetylsalicylic Acid 500 mg. do. do. do. Tab Aminophylline 100 mg. … do. do. do. Tab Aminophylline 200 mg. … do. do. do. Tab Antazoline HC1 100 mg. … do. do. do. Tab A.P.C. … … do. do. do. *Increase in percentage or preservative. †Change in Country of Origin.
+Approval of New Drugs Notification [Subsidiary]
+Trade Name and Form Manufacturer Country of Conditions
+origin of Sale Tab Ephedrine HC1 15 mg. … Spofa United Czechoslovakia Freely
+Pharmaceutical Works Tab Ephedrine HC1 30 mg. … do. do. do. Tab Ephedrine HC1 60 mg. … do. do. do. Tab Ferrous Sulphate … do. do. do. Tab Nicotinamide 100 mg. … do. do. do. Tab Piperazine Adipate 300 mg. do. do. do. Tab Piperazine Adipate 500 mg. do. do. do. Tab Vit. B2 10 mg. … do. do. do. Tab Vit. B1 100 mg. … do. do. do. Tab. Vit. B6 20 mg. … do. do. do. Tab. Vit. B6 50 mg. … do. do. do. Tab Vit. B Complex … do. do. do. Tab Vit. C 50 mg. … do. do. do. Tab Vit. C 100 mg. … do. do. do. Tab Vit. C 200 mg. … do. do. do. Tab. Vit. C 500 mg. … do. do. do. Caps Vit. E 10 mg. … do. do. do. Inj. Nicotinamide lc.c. 25% … do. do. do. Inj. Oxytocin 5 I.U. … do. do. do. Inj. Procaine HC1 1% x 5cc … do. do. Third
+Schedule Inj. Procaine HC1 2% x 5cc … do. do. do. Inj. Procaine HC1 2% x 1cc … do. do. do. Inj. Procaine HC1 1% x 10cc … do. do. do. Inj. Procaine HC1 2% x 10cc … do. do. do. Inj. Procaine cum Adrenaline do. do. do. Inj. Procaine cum Adrenaline do. do. do. Inj. Procaine cum Adrenaline do. do. do. Caps. Vit. E 100 mg. … do. do. Freely Tab Ergometrine Mal 0.2 mg. do. do. Third
+Schedule Tab Ergometrine Mal 0.5 mg. do. do. do. Tab Ergotamine Tart 1 mg. … do. do. do. Tab Methyltestosterone 5 mg. do. do. do. Tab Methyltestosterone 10 mg. do. do. do. Tab Phthalysulphathiazole do. do. do. Tab Stilboestrol 0.5 mg. … do. do. do. Tab Stilboestrol 5.0 mg. … do. do. do. Tab Stilboestrol 20 mg. … do. do. do. Tab Sulphadimidine 500 mg. … do. do. do. Tab Trisulpha 500 mg. … do. do. do. Inj. Ergometrine Mal 0.2 mg. … do. do. do. Inj. Ergotamine Tart 0.5 mg. … do. do. do. Inj. Glucose 10% x 10cc … do. do. do. Inj. Glucose 20% x 10cc … do. do. do. Inj. Glucose 40% X 10cc … do. do. do. Inj. Herparin 5,000 I.U. … do. do. do. Inj. Lobeline HC1 3 mg. … do. do. do. Inj. Lobeline HC1 10 mg. … do. do. do. Inj. Methylergometrine do. do. do. [Subsidiary] Approval of New Drugs Notification
+Trade Name and Form Manufacturer Country of Conditions
+Inj. Procaine cum Adrenaline Spofa United Pharmaceutical Czechoslovakia Third
+2% x 5 cc Works Schedule
+Inj. Progesterone 10 mg. … do. do. do. Inj. Testosterone Propionate do. do. do.
 10 mg. per cc
-Inj. Testosterone Propionate do.
+Inj. Testosterone Propionate do. do. do.
 25 mg. per cc
-Inj. Vit. B1 100 mg. per cc … do.
-Inj. Vit. B2 10 mg. per cc … do.
-Inj. Vit. B6 50 mg. per cc … do.
-Inj. Vit. B. Complex 1cc … do.
-Inj. Vit. C. 100 mg. per cc … do.
-Inj. Vit. C 200 mg. per cc … do.
-Inj. Vit. C 500 mg. per cc … do.
-Tab Phenobarbitone 30 mg. … do.
-Tab Phenobarbitone 60 mg. … do.
-Inj. Thiopental 0.5G vial do.
+Inj. Vit. B1 100 mg. per cc … do. do. do. Inj. Vit. B2 10 mg. per cc … do. do. do. Inj. Vit. B6 50 mg. per cc … do. do. do. Inj. Vit. B. Complex 1 cc … do. do. do. Inj. Vit. C. 100 mg. per cc … do. do. do. Inj. Vit. C 200 mg. per cc … do. do. do. Inj. Vit. C 500 mg. per cc … do. do. do. Tab Phenobarbitone 30 mg. … do. do. Controlled Tab Phenobarbitone 60 mg. … do. do. do. Inj. Thiopental 0.5G vial do. do. do.
 + solv 20 cc
-Inj. Thiopental 1.0G vial do.
+Inj. Thiopental 1.0G vial do. do. do.
 + solv 20 cc
-Tab Sulphaguanidine 500 mg. do.
-Tab. Sulphathiozole 500 mg. … do.
-Diprosone Cream 0.05% … Schering Cooperation Septrin for Infusion … Burroughs, Wellcome & Co. Naprosyn Tablets … … Syntex Pharmaceutical Ltd. Maxolon Paediatric Drops … Beecham Research
+Tab Sulphaguanidine 500 mg. do. do. Third Tab. Sulphathiozole 500 mg. … do. do. do. Diprosone Cream 0.05% … Schering Cooperation U.S.A. do. Septrin for Infusion … Burroughs, Wellcome & Co. U.K. do. Naprosyn Tablets … … Syntex Pharmaceutical Ltd. do. do. Maxolon Paediatric Drops … Beecham Research do. do.
 Laboratories L
-Benylin Paediatric … … Parke-Davis & Co. Prolan Oil 500 I.U. per ml. Bayer A.G.
-Injection
-Prolan Oil-S Injection … do.
-Prolan-A 500 I.U. Injection … do.
-Rompun 2% Injection … do.
-Haldol Ampoules … Janssen Pharmaceutica
-Haldol Drops … … do.
-Haldol Tablets … … do.
-Retin-A 0.1% Cream … Johnson & Johnson Ltd.
-Retin-A 0.05% Liquid … do.
-Semap Tablets 20 mg. … Janssen Pharmaceutica Horixone Injectable 2 mg. … P.V.U. Inc.
-Horixone Injectable 5 mg. … do.
-Dixazone Injectable … do.
-Oxytocin Injectable … do.
-Phenylbutazone Bolus 1000 mg. do.
-Phenylbutazone Tablets 100 mg. do.
-Phenylbutazone Injectable do.
+Benylin Paediatric … … Parke-Davis & Co. U.S.A. Freely Prolan Oil 500 I.U. per ml. Bayer A.G. W. Germany Third
+Injection Schedule
+Prolan Oil-S Injection … do. do. do. Prolan-A 500 I.U. Injection … do. do. do. Rompun 2% Injection … do. do. do. Haldol Ampoules … Janssen Pharmaceutica Belgium do. Haldol Drops … … do. do. do. Haldol Tablets … … do. do. do. Retin-A 0.1% Cream … Johnson & Johnson Ltd. U.S.A. do. Retin-A 0.05% Liquid … do. do. do. Semap Tablets 20 mg. … Janssen Pharmaceutica Belgium do. Horixone Injectable 2 mg. … P.V.U. Inc. Canada do. Horixone Injectable 5 mg. … do. do. do. Dixazone Injectable … do. do. do. Oxytocin Injectable … do. do. do. Phenylbutazone Bolus 1000 mg. do. do. do. Phenylbutazone Tablets 100 mg. do. do. do. Phenylbutazone Injectable do. do. do.
 200 mg.
-Progesterone Injectable … do.
-Progen Injection 5,000 I.U. … do.
-Progen Injection 10,000 I.U. … do.
-Butalk Tablets … … Regent Laboratories Ltd. E-Pam Tablets 2 mg. … I.C.N. Canada Ltd.
-E-Pam Tablets 5 mg. … do.
-E-Pam Tablets 10 mg. … do.
-[Subsidiary] Approval of New Drugs Notification
-Manufacturer Country of Conditions
+Progesterone Injectable … do. do. do. Progen Injection 5,000 I.U. … do. do. do. Progen Injection 10,000 I.U. … do. do. do. Butalk Tablets … … Regent Laboratories Ltd. U.K. do. E-Pam Tablets 2 mg. … I.C.N. Canada Ltd. Canada do. E-Pam Tablets 5 mg. … do. do. do. E-Pam Tablets 10 mg. … do. do. do.
+Approval of New Drugs Notification [Subsidiary]
+Trade Name and Form Manufacturer Country of Conditions
 origin of Sale Methyldopa Tablets 250 mg. … I.C.N. Canada Ltd. Canada Third
-Schedule
-… do. do. do. … Heinrich Mach W. Germany Freely
-Pfizer Quimica Ltd. Brazil do.
-… G. D. Searle & Co. U.K. Third
-Schedule
-… Pfizer Corp. Belgium do.
-Smith Kline & French Canada Freely
-(Canada) Ltd.
-… Cyanamid International U.S.A. do.
-Roberts Laboratories U.K. do.
-… Lederle Laboratories U.S.A. do. … Smith Kline & French do. Third
-Cooperation Schedule
-… I.C.I. Ltd. U.K. Freely … do. do. do. … SKF (Canada) Ltd. Canada Third
-Schedule
-… Fisons Ltd. U.K. Freely Fenopron 415 Pulvules 200 mg. Eli Lilly & Co. U.S.A. Third
-Schedule Fenopron 416 Pulvules 300 mg. do. do. do.
-… Sandoz Ltd. Switzerland do. … do. do. do. … Merial SA France do … Wander Ltd. Switzerland do. … do. do. do. … May & Baker Ltd. U.K. do. … Sandoz Ltd. Switzerland do. … Korean Ginseng Products Co. Korea Freely … Melbrosin Austria do. … do. do. do. … Hormo Pharma W. Germany Third
-Schedule
-… China National China Freely 130/1974.
-Pharmaceutical Industries
-… Richardson-Merrell Co. U.K. do. … Laboratorios Vargas SA Venezuela do. … W. H. Rorer Canada do. … do. do. do. … Schering AG W. Germany Third
-Schedule
-… do. do. Freely Microgynon 30 E. D. Tablets … do. do. do.
-Whitehall Laboratories Inc. U.S.A. do.
-do. do. do.
-… do. do. do. … Nicholas Laboratories Ltd. U.K. do. … Schering Corp. U.SA. Third
+Schedule Urozide Tablets 50 mg. … do. do. do. Rhinopront Syrup … … Heinrich Mach W. Germany Freely Vibazine with B Complex Pfizer Quimica Ltd. Brazil do. Demulen Tablets 0.5 mg. … G. D. Searle & Co. U.K. Third
+Schedule Fasigyn Tablets … … Pfizer Corp. Belgium do. Orande Expectorant Cough Smith Kline & French Canada Freely
+Mixture (Canada) Ltd. Gervine Capsules … … Cyanamid International U.S.A. do. Zubes Lemon and Honey Roberts Laboratories U.K. do. Parfenac Cream 5% … Lederle Laboratories U.S.A. do. SK 65 Capsules … … Smith Kline & French do. Third
+Cooperation Schedule *Nilvern Drench … … I.C.I. Ltd. U.K. Freely *Nilzan Drench … … do. do. do. Darbid Tablets … … SKF (Canada) Ltd. Canada Third
+Schedule Sanatogen Junior Vitamins … Fisons Ltd. U.K. Freely Fenopron 415 Pulvules 200 mg. Eli Lilly & Co. U.S.A. Third
+Schedule Fenopron 416 Pulvules 300 mg. do. do. do. Leponex Ampoules … Sandoz Ltd. Switzerland do. Leponex Tablets … … do. do. do. Tetavax … … … Merial SA France do Tremaril Tablets … … Wander Ltd. Switzerland do. Tremaril Bitabs … … do. do. do. Halothane BP … … May & Baker Ltd. U.K. do. Noveril Tablets … … Sandoz Ltd. Switzerland do. Korean Ginseng Capsules … Korean Ginseng Products Co. Korea Freely Melbrosia For Men Tablets … Melbrosin Austria do. Melbrosia P.I.D. for Women … do. do. do. Okabukal Tablets … … Hormo Pharma W. Germany Third
+Schedule Baoercon Capsules … China National China Freely 130/1974.
+Pharmaceutical Industries Vicks Lipwick … … Richardson-Merrell Co. U.K. do. Pankreosil Tablets … Laboratorios Vargas SA Venezuela do. Maalox Plus Tablets … W. H. Rorer Canada do. Maalox Plus Suspension … do. do. do. Biligram Amps … … Schering AG W. Germany Third
+Schedule Microgynon 30 Tablets … do. do. Freely Microgynon 30 E. D. Tablets … do. do. do. Denorex Medicated Whitehall Laboratories Inc. U.S.A. do. Denerex Medicated do. do. do. Anbesol … … do. do. do. Resiguard Liquid … … Nicholas Laboratories Ltd. U.K. do. Aldecin Inhaler … … Schering Corp. U.SA. Third
 Schedule [Subsidiary] Approval of New Drugs Notification
-Trade Name and Form Manufacturer
-Ascorbic Acid Tablets 500 mg. Regent Labs. Ltd. C-Forte 500 Tablets … Rondex Laboratories Inc.
-Alkacid Tablets … … do.
-Theravem-12 Tablets … do.
-Enervite-E Tablets … do.
-Tongen 12 Tablets … do.
-Butalka Tablets … Regent Labs. Ltd.
-Propantheline Tablets 15 mg. do.
-Butobarbitone Tablets 100 mg. do.
-Alcobon Tablets 500 mg. … Roche Products Ltd. Nordette Tablets … … Wyeth Pharma GMBH Di-Jel Liquid … … Plough Export Inc.
-Di-Jel Tablets … … do.
-Enervit Multivitamin Drops … Mac Private Laboratories Ltd.
-Camphor Ice Ointment … do.
-Heptules TR Capsules … do.
-Biofol 12 Elixir … … do.
-Tristina Expectorant … do.
-Theomac Tablets … … do.
-Macqizide Tablets … do.
-Neosoralen Tablets … do.
-Curasmin Tablets … do.
-Alzia Gripe Syrup … Alzia Products Omnizole Bolus … Merck Sharp and Dohme Andursil Suspension … Geigy Pharmaceuticals
-Andursil Tablets … … do.
-Tandacote Tablets … do.
-Orudis Capsules … … May and Baker Ltd. Safflower Oil Capsules … J. I. Rodale & Co. Ltd.
-Vitamin E. Tablets 200 I.U. … do.
-Coricidin Demilets Tablets … Schering Corporation Septrin Dispersible Tablets … Wellcome Foundation Catapres Composition Tabs. … C. H. Boehringer Sohn Compound W … … Whitehall Laboratories Bactrim Dispersible Tablets … Roche Products Ltd. Alcylpyrin Tablets 300 mg. United Pharm Works
-Aminophylline Tablets 100 mg. do.
-Aminophylline Tablets 200 mg. do.
-Ephedrine Tablets 15 mg. … do.
-Ephedrine Tablets 30 mg. … do.
-Acerola Capsules … … J. I. Rodale & Co.
-Brewers Yeast Tablets … do.
-Bioflavonoid Complex Tablets do.
-Bone Meal Tablets … do.
-Dessicated Liver Tablets … do.
-Dolomite Tablets … … do.
-Emulsified Vit. E. Caps 30 I.U. do.
-[Subsidiary] Approval of New Drugs Notification
-Manufacturer Country of Conditions
-origin of Sale Emulsified Vit. E Caps 75 I.U. J. I. Rodale & Co. U.K. Freely
-… do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do.
-do. do. do. do. do. do.
-… Winthrop Laboratories do. do. … do. do. Third
-Schedule
-… do. do. do. … India Pharmaceuticals India Freely … do. do. do. … do. do. do. … Beach Nut Inc. U.S.A. do. … do. do. do.
-Allergan International do. Third
-Schedule
-do. do. do.
-… Merck Sharp & Dohme do. do. … British Pharmaceuticals India do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … Wallis Laboratories U.K. Freely Paracetamol Tablets 500 mg. … do. do. do.
-… do. do. do. … Farbwerke Hoechst W. Germany Third
-Schedule
-… do. do. do. … Franco Laboratories Canada Freely … Nardic Biochemicals do. Third
-Schedule
-… Fisons Ltd. U.K. Freely … do. do. do. … Eaton Labs. Ltd. U.S.A. Third
-Schedule
-… U.S.V. Pharmaceutical Jamaica Freely … E. R. Squibb Ltd. U.SA. Third
-Schedule
-… E. Scheurich Pharm Germany Freely … do. do. do. … do. do. do. … do. do. Third
-Schedule
-… Eisai Co. Ltd. Japan Freely … do. do. do. … do. do. do. … do. do. Third
-Schedule
-… Sydney Ross Co. Mexico Freely [Subsidiary] Approval of New Drugs Notification
-Trade Name and Form Manufacturer
-Pedialyte Oral Electrolite Abbott Laboratories
-Solution
-Mecadox Premix … … Pfizer Corporation Iron Formula Tablets … J. I. Rodale & Co. Ltd.
-Lecithin Capsules … … do.
-Kelp Tablets … … do.
-Marrow Bone Tablets … do.
-Natrodale Geriatric Formula do.
+Trade Name and Form Manufacturer Country of Conditions
+Ascorbic Acid Tablets 500 mg. Regent Labs. Ltd. U.K. Freely C-Forte 500 Tablets … Rondex Laboratories Inc. U.S.A. do. Alkacid Tablets … … do. do. do. Theravem-12 Tablets … do. do. do. Enervite-E Tablets … do. do. do. Tongen 12 Tablets … do. do. do. Butalka Tablets … Regent Labs. Ltd. U.K. Third Propantheline Tablets 15 mg. do. do. do. Butobarbitone Tablets 100 mg. do. do. do. Alcobon Tablets 500 mg. … Roche Products Ltd. do. do. Nordette Tablets … … Wyeth Pharma GMBH W. Germany Freely Di-Jel Liquid … … Plough Export Inc. U.S.A. do. Di-Jel Tablets … … do. do. do. Enervit Multivitamin Drops … Mac Private Laboratories Ltd. India do Camphor Ice Ointment … do. do. do. Heptules TR Capsules … do. do. do. Biofol 12 Elixir … … do. do. do. Tristina Expectorant … do. do. do. Theomac Tablets … … do. do. do. Macqizide Tablets … do. do. Third Neosoralen Tablets … do. do. do. Curasmin Tablets … do. do. do. Alzia Gripe Syrup … Alzia Products do. Freely Omnizole Bolus … Merck Sharp and Dohme U.S.A. do. Andursil Suspension … Geigy Pharmaceuticals U.K. do. Andursil Tablets … … do. do. do. Tandacote Tablets … do. do. Third Orudis Capsules … … May and Baker Ltd. do. do Safflower Oil Capsules … J. I. Rodale & Co. Ltd. U.K. Freely Vitamin E. Tablets 200 I.U. … do. do. do. Coricidin Demilets Tablets … Schering Corporation U.S.A. do. Septrin Dispersible Tablets … Wellcome Foundation U.K. Third Catapres Composition Tabs. … C. H. Boehringer Sohn W. Germany do. Compound W … … Whitehall Laboratories U.K. Freely Bactrim Dispersible Tablets … Roche Products Ltd. do. Third Alcylpyrin Tablets 300 mg. United Pharm Works Czechoslovakia Freely Aminophylline Tablets 100 mg. do. do. do. Aminophylline Tablets 200 mg. do. do. do. Ephedrine Tablets 15 mg. … do. do. do. Ephedrine Tablets 30 mg. … do. do. do. Acerola Capsules … … J. I. Rodale & Co. U.K. do. Brewers Yeast Tablets … do. do. do. Bioflavonoid Complex Tablets do. do. do. Bone Meal Tablets … do. do. do. Dessicated Liver Tablets … do. do. do. Dolomite Tablets … … do. do. do. Emulsified Vit. E. Caps 30 I.U. do. do. do.
+Approval of New Drugs Notification [Subsidiary]
+Trade Name and Form Manufacturer Country of Conditions
+origin of Sale Emulsified Vit. E Caps 75 I.U. J. I. Rodale & Co. U.K. Freely Extravite Tablets … … do. do. do. Garlic Capsules … … do. do. do. Garlic and Parsley Capsules … do. do. do. Garlic and Parsley Tablets … do. do. do. Halibut Liver Oil Capsules … do. do. do. Hi-Pro Liver Tablets … do. do. do. High Potency B Complex do. do. do. High Potency Brewers Yeast do. do. do. Phisoderm Liquid … Winthrop Laboratories do. do. Integrin Capsules … … do. do. Third
+Schedule Integrin Tablets … … do. do. do. Ferofolindon Tablets … India Pharmaceuticals India Freely Neo Fortindon Tablets … do. do. do. Laxindon Tablets … … do. do. do. Pine Bros. Cough Drops … Beach Nut Inc. U.S.A. do. Beach Nut Cough Drops … do. do. do. Pred Mild Ophthalmic Allergan International do. Third
+Suspension Schedule Pred Forte Ophthalmic do. do. do. Sinemet Tablets … … Merck Sharp & Dohme do. do. Desone Tablets 0.5 mg. … British Pharmaceuticals India do. Desone Injection … … do. do. do. Diazepam Tablets 5 mg. … do. do. do. Vagyl Tablets … … do. do. do. Chlorpromazine Syrup … do. do. do. Aspirin Tablets 300 mg. … Wallis Laboratories U.K. Freely Paracetamol Tablets 500 mg. … do. do. do. Carr's Nasal Inhalers … do. do. do. Trental Dragees … … Farbwerke Hoechst W. Germany Third
+Schedule Trental Ampoules 5 ml. … do. do. do. Spasmacid Tablets … Franco Laboratories Canada Freely Serenack Tablets 2 mg. … Nardic Biochemicals do. Third
+Schedule Sanatogen Vit. C. Tablets … Fisons Ltd. U.K. Freely Rynacrom Capsules … do. do. do. Dantrium Capsules 25 mg. … Eaton Labs. Ltd. U.S.A. Third
+Schedule Poly B Syrup … … U.S.V. Pharmaceutical Jamaica Freely Equipoise Injection … E. R. Squibb Ltd. U.SA. Third
+Schedule Alligoa Garlic Pills … E. Scheurich Pharm Germany Freely De-Menthasin Lozenges … do. do. do. Restora Dragees … … do. do. do. Corti-Europuran Ointment … do. do. Third
+Schedule Hijuven Capsules … Eisai Co. Ltd. Japan Freely Richbron Capsules … do. do. do. Strocain Tablets … … do. do. do. Methaphyllin Tablets … do. do. Third
+Schedule Franol TF Tablets … Sydney Ross Co. Mexico Freely [Subsidiary] Approval of New Drugs Notification
+Trade Name and Form Manufacturer Country of Conditions
+Pedialyte Oral Electrolite Abbott Laboratories U.S.A. Third
+Solution Schedule
+Mecadox Premix … … Pfizer Corporation do. Freely Iron Formula Tablets … J. I. Rodale & Co. Ltd. U.K. do. Lecithin Capsules … … do. do. do. Kelp Tablets … … do. do. do. Marrow Bone Tablets … do. do. do. Natrodale Geriatric Formula do. do. do.
 Tablets
-Natrodale Junior Formula do.
+Natrodale Junior Formula do. do. do.
 Tablets
-Natrodale Protein Plus Tablets do.
-Naturavite Tablets … do.
-Pineapple Bromelain Tablets do.
-Pro Vitamin A Capsules … do.
-Pure Pollen Tablets … do.
-Rose Hips Capsules 30 mg. … do.
-Rose Hips Capsules 100 mg. … do.
-Rose Hips Capsules 200 mg. … do.
-Rutin Tablets … … do.
-Serenack Tablets 5 mg. … Nardic Biochemicals
-Serenack Tablets 10 mg. … do.
-Vit. B 12 Injection 1000 … do.
-Vitamin E Tablets 50 I.U. … J. I. Rodale & Co. Ltd.
-Vitamin B12 Tablets 25 … do.
-Vitamin B Complex Capsules do.
-Wheat Germ Oil Capsules … do.
-Wheat Germ Oil 5 I.U. Capsules do.
-Natrodate 3 tabs. … … do.
-Vibazine Syrup … … Pfizer International Corp.
-Vibazine Tablets … … do.
-Selvigon Drops … … Laboratorios Vargas
-Selvigon Suppositories … do.
-Selvigon Tablets … … do.
-Dimiril Expectorant Syrup … Chowgale & Co. 24/1975.
-Mytivite Syrup … … do.
-Nasodrin Nasal Drops … do.
-Neofluvenal Tablets … do.
-Orliver Capsules … … do.
-Pantothindon Tablets … Indo Pharma Pharmaceuticals Novalgetol Injections … Chowgale & Co. Dinonindon Tablets … Indo Pharma Pharmaceuticals
-Dexamethasone Injection … Wolins
-Acth Gel … … do.
-Amyl Nitrite Capsules … do.
-Azo Sulfisoxasole Tablets … do.
-Chorionic Gonadotropin … do.
-Colchicine Tablets … do.
-Cortisone Acetate Tablets … do.
-Cortisone Injection … do.
-Chloral Hydrate Syrup … do.
-Conjugated Estrogens Tablets do.
-Conjugated Estrogens Injection do.
-[Subsidiary] Approval of New Drugs Notification
-Manufacturer Country of Conditions
-origin of Sale
-… Wolins U.S.A. Third
-Schedule
-… do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. Diphenylhydantoin Capsules … do. do. do.
-… do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. Meclizine HC1 25 mg. Tablets do. do. Freely
-do. do. do.
-… do. do. do. 24/1975. … do. do. do.
-do. do. do.
-… do. do. do.
-do. do. do.
-… do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do do. do. … do. do. do. … do. do. do. … do. do. do. … do. do do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. [Subsidiary] Approval of New Drugs Notification
-Trade Name and Form Manufacturer
-Woltrinsic F Capsules … Wolins Heparin Sodium Injection … do. Isoniazid Tablets … … do. Isosorbide Dinitrate Tablets … do. Iodo-HC Cream … … do. Liver Injection … … do. Liver Painless Injection … do. Lidocaine Injection … do. Mersalyl Ampoules … do. Meprobamate Tablets … do. Nylidrin Tablets … … do. Nitrofurazone Soluble Dressing do. Nitrofurantoin Tablets … do. Methyltestosterone Tablets … do. Nitroglycerine T.D. Capsules do. Optised O.S. … … do. Parcotane Tablets … … do. Pava-Wol Capsules … do. Probenecid with Colchicine do.
+Natrodale Protein Plus Tablets do. do. do. Naturavite Tablets … do. do. do. Pineapple Bromelain Tablets do. do. do. Pro Vitamin A Capsules … do. do. do. Pure Pollen Tablets … do. do. do. Rose Hips Capsules 30 mg. … do. do. do. Rose Hips Capsules 100 mg. … do. do. do. Rose Hips Capsules 200 mg. … do. do. do. Rutin Tablets … … do. do. do. Serenack Tablets 5 mg. … Nardic Biochemicals Canada Third Serenack Tablets 10 mg. … do. do. do. Vit. B 12 Injection 1000 … do. do. do. Vitamin E Tablets 50 I.U. … J. I. Rodale & Co. Ltd. do. do. Vitamin B12 Tablets 25 … do. do. do. Vitamin B Complex Capsules do. do. do. Wheat Germ Oil Capsules … do. do. do. Wheat Germ Oil 5 I.U. Capsules do. do. do. Natrodate 3 tabs. … … do. do. do. Vibazine Syrup … … Pfizer International Corp. Mexico Freely Vibazine Tablets … … do. do. do. Selvigon Drops … … Laboratorios Vargas Venezuela do. Selvigon Suppositories … do. do. do. Selvigon Tablets … … do. do. do. Dimiril Expectorant Syrup … Chowgale & Co. India do. 24/1975. Mytivite Syrup … … do. do. do. Nasodrin Nasal Drops … do. do. do. Neofluvenal Tablets … do. do. do. Orliver Capsules … … do. do. do. Pantothindon Tablets … Indo Pharma Pharmaceuticals do. do. Novalgetol Injections … Chowgale & Co. do. Third Dinonindon Tablets … Indo Pharma Pharmaceuticals do. Controlled Dexamethasone Injection … Wolins U.S.A. Third Acth Gel … … do. do. do. Amyl Nitrite Capsules … do. do. do. Azo Sulfisoxasole Tablets … do. do. do. Chorionic Gonadotropin … do. do. do. Colchicine Tablets … do. do. do. Cortisone Acetate Tablets … do. do. do. Cortisone Injection … do. do. do. Chloral Hydrate Syrup … do. do. do. Conjugated Estrogens Tablets do. do. do. Conjugated Estrogens Injection do. do. do.
+Approval of New Drugs Notification [Subsidiary]
+Trade Name and Form Manufacturer Country of Conditions
+origin of Sale Chlorphentermine Tablets … Wolins U.S.A. Third
+Schedule Chlorpromazine Tablets … do. do. do. Dicyclomine Injection … do. do. do. Dicyclomine HC1 Tablets … do. do. do. Digitoxin Tablets … … do. do. do. Dexamethasone Tablets … do. do. do. Dihydroxycoumarin Tablets … do. do. do. Digitalis Tablets … … do. do. do. Diphenylhydantoin Capsules … do. do. do. Digoxin Tablets … … do. do. do. Diethylpropion HCI Tablets … do. do. do. Epinephrine HC1 Injection … do. do. do. Diphenhydramine Injection … do. do. do. Estradiol Valerate Tablets … do. do. do. Ergonovine Maleate Tablets … do. do. do. Gluthimide Tablets … do. do. do. Hydralazine Tablets … do. do. do. Hydrocortisone Cream … do. do. do. Hydrocortisone Ointment … do. do. do. Hydrocortisone Tablets … do. do. do. Hydrocortisone Injection … do. do. do. Hydrochlorothiazide Tablets … do. do. do. Meclizine HC1 25 mg. Tablets do. do. Freely Mannitol Hexanitrate Tablets do. do. do. Nytime Syrup … … do. do. do. 24/1975. Promethazine Expectorant … do. do. do. Promethazine Pediatric do. do. do. Promethazine Tablets … do. do. do. Promethazine Phenylephrine do. do. do. Poly-Flor-Vite … … do. do. do. Poly-Vite … … do. do. do. Sinudrain Tablets … … do. do. do. Sinu-Wol Tablets … … do. do. do. Sinu-Wol II Tablets … do. do. do. Sansprin Tablets … … do. do. do. Sansprin Chewable Tablets … do. do. do. Syr-Vite … … do. do. do. Theophylline Elixir … do do. do. Theophylline K. I. Elixir … do. do. do. Theolate Elixir … … do. do. do. Trio-Wol Tablets … … do. do. do. Trio-Wol Syrup … … do. do do. Tri-Vites … … do. do. do. Tuss-Chlorphenade Caps … do. do. do. Vitamin E Capsules … do. do. do. Vita-Min Tablets … … do. do. do. Vita-Min T. Tablets … do. do. do. Una-Vit Tablets … … do. do. do. Una-Vit Fer Tablets … do. do. do. Vitamin B12 Tablets … do do. do. Vit-A-Day Capsules … do. do. do. Vit-A-Day M. Capsules … do. do. do. Vit-A-Day T. Capsules … do. do. do. Wolgraine Tablets … do. do. do. Wolgelsil Tablets … … do. do. do. Wol-Lac Tablets … … do. do. do. Woltrinsic Capsules … do. do. do. [Subsidiary] Approval of New Drugs Notification
+Trade Name and Form Manufacturer Country of Conditions
+Woltrinsic F Capsules … Wolins U.S.A. Freely Heparin Sodium Injection … do. do. Third Isoniazid Tablets … … do. do. do. Isosorbide Dinitrate Tablets … do. do. do. Iodo-HC Cream … … do. do. do. Liver Injection … … do. do. do. Liver Painless Injection … do. do. do. Lidocaine Injection … do. do. do. Mersalyl Ampoules … do. do. do. Meprobamate Tablets … do. do. do. Nylidrin Tablets … … do. do. do. Nitrofurazone Soluble Dressing do. do. do. Nitrofurantoin Tablets … do. do. do. Methyltestosterone Tablets … do. do. do. Nitroglycerine T.D. Capsules do. do. do. Optised O.S. … … do. do. do. Parcotane Tablets … … do. do. do. Pava-Wol Capsules … do. do. do. Probenecid with Colchicine do. do. do.
 Tablets
-Propoxyphene HC1 Capsules … do. Prednisolone Tablets … do. Prednisolone T.B.A. Injection do. Prednisolone Tablets … do. Procaine HC1 Injection … do. PETN Tablets … … do. PETN T.D. Capsules … do. Promethazine Injection … do. Propantheline Bromide Tablets do. Propantheline P.B. Tablets … do. Phendorex Tablets … do. Progesterone Injection … do. Procainamide Capsules … do. Propylthiouracil Tablets … do. Prednisolone Injection … do. Phenylbutazone Vet Tablets … do. Rauwolfia Serpentina Tablets do. Reserpine Tablets … do. Stilboestrol Tablets … do. Spasmolin T. D. Caps … do. Spasmolin Tablets … … do. Sulfizoxasole Tablets … do. Serpazide Tablets … … do. Sodium Sulphacetamide Eye do.
+Propoxyphene HC1 Capsules … do. do. do. Prednisolone Tablets … do. do. do. Prednisolone T.B.A. Injection do. do. do. Prednisolone Tablets … do. do. do. Procaine HC1 Injection … do. do. do. PETN Tablets … … do. do. do. PETN T.D. Capsules … do. do. do. Promethazine Injection … do. do. do. Propantheline Bromide Tablets do. do. do. Propantheline P.B. Tablets … do. do. do. Phendorex Tablets … do. do. do. Progesterone Injection … do. do. do. Procainamide Capsules … do. do. do. Propylthiouracil Tablets … do. do. do. Prednisolone Injection … do. do. do. Phenylbutazone Vet Tablets … do. do. do: Rauwolfia Serpentina Tablets do. do. do. Reserpine Tablets … do. do. do. Stilboestrol Tablets … do. do. do. Spasmolin T. D. Caps … do. do. do. Spasmolin Tablets … … do. do. do. Sulfizoxasole Tablets … do. do. do. Serpazide Tablets … … do. do. do. Sodium Sulphacetamide Eye do. do. do.
 Drops
-Testosterone Enanthate with do.
+Testosterone Enanthate with do. do. do.
 Estradiol Valerate Injection
-Testosterone Cypionate with do.
+Testosterone Cypionate with do. do. do.
 Estradiol Cypionate Injection
-Testosterone Injection … do. Tolazoline HC1 Tablets … do. Thyroglobin Tablets … do. Triple Sulfa Tablets … do.
-[Subsidiary] Approval of New Drugs Notification
-Manufacturer Country of Conditions
-origin of Sale
-Wolins U.S.A. Third
-Schedule
-… do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. Controlled
-Drug
-… do. do. do. … do. do. do.
-do. do. do.
-… do. do. do.
-do. do. do. do. do. do. do. do. do. Pentobarbital Sodium Injection do. do. do. Secobarbital Sodium Capsules do. do. do. PETN with Phenobarbital Tablets do. do. do.
-… do. do. Freely Dicalcium Phosphate Capsules do. do. do.
-… do. do. do. Decongestant Antitussive Elixir do. do. do.
-… do. do. do
-do. do. do.
-… do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do do. … do. do. do.
-do. do. do.
-… do. do. do. … do. do. do. … do. do. do.
-do. do. do.
-… do. do. do. … do. do. do. … do. do. do. B. Complex & C.H.P. Tablets … do. do. do.
-… do. do. do. … do. do. do. Bromphenate DC Expectorant do. do. do.
-… do. do. do.
-do. do. do. do. do. do. [Subsidiary] Approval of New Drugs Notification
-Trade Name and Form Manufacturer
-Co-Sansprin Tablets … Wolins
-Chlorphenade T.D. Capsules … do.
-Diphenhydramine HC1 Capsules do.
-Diphenhydramine Elixir … do.
-Diphenhydramine Expectorant do.
-Dioctyl Sodium Drops … do.
-Magwol Tablets … … do.
-Methenamine Mandelate Tablets do.
-Mucil-Wol Powder … do.
-Liprinal Capsules 250 mg. … Mead Johnson
-Liprinal Capsules 500 mg. … do.
-Dentinox Teething Liquid … D.D.D. Company Ltd.
-Dentinox Teething Gel … do.
-Medijel … … … do.
-Chlorazene Tablets … Wisconsin Pharmacal Co. Inc.
-Consin Compound Salve … do.
-Div Tabs … … do.
-Duraprin Tablets … … do.
-Earacaine Ear Drops … do.
-Go Pain Throat Spray … do.
-Joy-O-Dent … … do.
-Medi-chlor Antiseptic Skin do.
+Testosterone Injection … do. do. do. Tolazoline HC1 Tablets … do. do. do. Thyroglobin Tablets … do. do. do. Triple Sulfa Tablets … do. do. do.
+Approval of New Drugs Notification [Subsidiary]
+Trade Name and Form Manufacturer Country of Conditions
+origin of Sale Tetracaine Ophthalmic Wolins U.S.A. Third
+Solution Schedule Theobromine Tablets … do. do. do. Thyroid Tablets … … do. do. do. Vitamin A Capsules … do. do. do. Vitamin B1 Injection … do. do. do. Vit B 12 Injection … do. do. do. Vaginal Sulfa Cream … do. do. do. Amobarbital Capsules … do. do. Controlled
+Drug Batabarbital Elixir … do. do. do. Butabarbital Tablets … do. do. do. Dicyclomine HC1 with do. do. do. Phenobarbital Capsules Dexamo Capsules … … do. do. do. Dextro-Amphetamine do. do. do.
+Sulphate Tablets Pentobarbital Sodium do. do. do. Pentobarbital Sodium Elixir do. do. do. Pentobarbital Sodium Injection do. do. do. Secobarbital Sodium Capsules do. do. do. PETN with Phenobarbital Tablets do. do. do. D.S.S. Syrup … … do. do. Freely Dicalcium Phosphate Capsules do. do. do. Dimenhydrinate Tablets … do. do. do. Decongestant Antitussive Elixir do. do. do. Decongestant Expectorant … do. do. do D.S.S. with Casanthranol do. do. do. Ferrous Sulfate Tablets … do. do. do. Ferrous Gluconate Tablets … do. do. do. Folic Acid Tablets … do. do. do. H.B. Ear Drops … … do. do. do. H.P. Bee-Cee Capsules … do. do. do. Histawol Elixir … … do. do do. Kaowol Suspension … do. do. do. Liothyronine Sodium Tablets do. do. do. Magnalum Tablets … do. do. do. Magwol Liquid … … do. do. do. Aminophylline Tablets … do. do. do. Ammonium Chloride Tablets do. do. do. Asperin E.C. Tablets … do. do. do. Aspirin Buffered Tablets … do. do. do. Apap Elixir … … do. do. do. B. Complex & C.H.P. Tablets … do. do. do. B. Complex T. Tablets … do. do. do. Bellacher Tablets … … do. do. do. Bromphenate DC Expectorant do. do. do. Bisalex Tablets … … do. do. do. Chlorpheniramine Maleate do. do. do. Chlorpheniramine Maleate do. do. do. [Subsidiary] Approval of New Drugs Notification
+Trade Name and Form Manufacturer Country of Conditions
+Co-Sansprin Tablets … Wolins U.S.A. Freely Chlorphenade T.D. Capsules … do. do. do. Diphenhydramine HC1 Capsules do. do. do. Diphenhydramine Elixir … do. do. do. Diphenhydramine Expectorant do. do. do. Dioctyl Sodium Drops … do. do. do. Magwol Tablets … … do. do. do. Methenamine Mandelate Tablets do. do. do. Mucil-Wol Powder … do. do. do. Liprinal Capsules 250 mg. … Mead Johnson Mexico Third Liprinal Capsules 500 mg. … do. do. do Dentinox Teething Liquid … D.D.D. Company Ltd. U.K. Freely Dentinox Teething Gel … do. do. do. Medijel … … … do. do. do. Chlorazene Tablets … Wisconsin Pharmacal Co. Inc. U.S.A. do. Consin Compound Salve … do. do. do. Div Tabs … … do. do. do. Duraprin Tablets … … do. do. do. Earacaine Ear Drops … do. do. do. Go Pain Throat Spray … do. do do. Joy-O-Dent … … do. do. do. Medi-chlor Antiseptic Skin do. do. do.
 Cleaner
-Potable Aqua Tablets … do.
-Neo Bile HP Tablets … do.
-Hescor-K Tablets … do.
-Nicotron Tablets … … do.
-Potassium Chloride Syrup … do.
-Acne Aid Bar … … Stiefel Laboratories (UK) Ltd.
-Brasivol No. 1 Fine … do.
-Brasivol No. 2 Medium … do.
-Brasivol No. 3 Coarse … do.
-Panoxyl 5 Gel. … … do.
-Panoxyl 10 Gel … … do.
-Polyfar Liquid … … do.
-Zeasorb Powder … … do.
-Dicalcium Phosphate The De Pree Co.
+Potable Aqua Tablets … do. do. do. Neo Bile HP Tablets … do. do. do. Hescor-K Tablets … do. do. Third Nicotron Tablets … … do. do. do. Potassium Chloride Syrup … do. do. do. Acne Aid Bar … … Stiefel Laboratories (UK) Ltd. U.K. Freely Brasivol No. 1 Fine … do. do. do. Brasivol No. 2 Medium … do. do do. Brasivol No. 3 Coarse … do. do. do. Panoxyl 5 Gel. … … do. do. do. Panoxyl 10 Gel … … do. do. do. Polyfar Liquid … … do. do. do. Zeasorb Powder … … do. do. do. Dicalcium Phosphate The De Pree Co. U.S.A. do.
 Capsules with Vit. D.
-Frut Pak Tablets 250 mg. … do.
-Forceval Capsules … … Unigreg Ltd.
-Uniflu Plus Gerovite C Tablets do.
-Unigest Capsules … do.
-Virilmin Capsules … do.
-Bactrim for Infusion … Roche Products Ltd. Algex Cream … … Sopar SA .
-Cevitan Tablets … … do.
-Celestone S. Colloidal Eye Drops Schering Corp.
-Celestagesic Tablets … do.
-Celestoderm V. Cream … do.
-Tab. Safapyrin … … Pfizer Ltd.
-Tab. Safapyrin Co. … do.
-[Subsidiary] Approval of New Drugs Notification
-Manufacturer Country of Conditions
-origin of Sale
-Pfizer Inc. Canada Freely Vitamin E. 100 (Synthetic) I.U. do. do. do. Vitamin E. 200 (Natural) I.U. … do. do. do.
-(Synthetic) I.U. do. do. do. Vitamin E. 400 (Natural) I.U. … do. do. do. Vitamin E. 400 (Synthetic) I.U. do. do. do.
-do. do. do. do. do. do. do. do. do.
-… May & Baker Ltd. U.K. do. … do. do. Controlled
-Drug
-… I.C.I. U.K. Third
-Schedule
-… do. do. do. … Merck Sharp & Dohme Ltd. do. do … Rowa Ltd. Ireland Freely … Wyeth GMBH W. Germany do. … do. do. do. … G. D. Searle & Co. U.K. do. … do. do. Third
-Schedule
-… do. do. do. … do. do. do. … Syntex Pharmaceuticals Ltd. do. Freely … do. do. do. … do. do. do. … do. do. Third
-Schedule
-… Schering AG W. Germany Freely … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … Roche Products Ltd. U.K. Third
-Schedule
-… do. do. do. … do. do. do. … Ciba Laboratories do. do. … do. do. do. … do. do. do. … E. R. Squibb & Sons U.S.A. Freely … do. Guatemala Third
-Schedule [Subsidiary] Approval of New Drugs Notification
-Trade Name and Form Manufacturer
-Questran Powder … … Mead Johnson & Co. Prodocol Tablets … … William R. Warner & Co. Ltd. Palmer's Skin Success E. T. Browne Drug Co. Inc.
+Frut Pak Tablets 250 mg. … do. do. do. Forceval Capsules … … Unigreg Ltd. U.K. do. Uniflu Plus Gerovite C Tablets do. do do. Unigest Capsules … do. do. do. Virilmin Capsules … do. do. Third Bactrim for Infusion … Roche Products Ltd. do. do. Algex Cream … … Sopar SA . Belgium Freely Cevitan Tablets … … do. do. do. Celestone S. Colloidal Eye Drops Schering Corp. U.S.A. Third Celestagesic Tablets … do. do. do. Celestoderm V. Cream … do. do. do. Tab. Safapyrin … … Pfizer Ltd. U.K. Freely Tab. Safapyrin Co. … do. do. do.
+Approval of New Drugs Notification [Subsidiary]
+Trade Name and Form Manufacturer Country of Conditions
+origin of Sale Vitamin E. 100 I.U. Pfizer Inc. Canada Freely Vitamin E. 100 (Synthetic) I.U. do. do. do. Vitamin E. 200 (Natural) I.U. … do. do. do. Vitamin E. 200 (Synthetic) I.U. do. do. do. Vitamin E. 400 (Natural) I.U. … do. do. do. Vitamin E. 400 (Synthetic) I.U. do. do. do. Vitamin C 100 mg. do. do. do.
+Chewable Tablets Vitamin C 25 mg. do. do. do. Vitamin C 500 mg. do. do. do. Otoryl Ear Drops … … May & Baker Ltd. U.K. do. Euthatal Solution … … do. do. Controlled
+Drug *Synandone Cream … I.C.I. U.K. Third
+Schedule *Synalar Forte Cream … do. do. do. Blocadren Tablets … Merck Sharp & Dohme Ltd. do. do Rowacylat Tablets … Rowa Ltd. Ireland Freely Ovral Tablets 21's … Wyeth GMBH W. Germany do. Nordiol Tablets 21's … do. do. do. Ovulen 50 Tablets … G. D. Searle & Co. U.K. do. Ovulen Tablets … … do. do. Third
+Schedule Enavid 5 mg. Tablets … do. do. do. Metrulen-M Tablets … do. do. do. Norinyl-L Tablets … Syntex Pharmaceuticals Ltd. do. Freely Noriday Tablets … … do. do. do. Nopmenon Tablets … do. do. do. Norinyl-2 Tablets … do. do. Third
+Schedule Microgynon 30 Tablets … Schering AG W. Germany Freely Anovlar 21 4 mg. Tablets … do. do. do. Anovlar 1 mg. Tablet … do. do. do. Gynovlar 21 Tablets … do. do. do. Eugynon Tablets … … do. do. do. Eugynon ED Tablets … do. do. do. Neogynon Tablets … do. do. do. Neogynon ED Tablets … do. do. do. Microlut Tablets … do. do. do. Rivotril Tablets 0.5 mg. … Roche Products Ltd. U.K. Third
+Schedule Rivotril Injection 1 mg./ml. … do. do. do. Rivotril Tablets 2.0mg. … do. do. do. †Trasicor Tablets 20mg. … Ciba Laboratories do. do. †Trasicor Tablets 40mg. … do. do. do. †Trasicor Tablets 80mg. … do. do. do. ‡Engran Tablets … … E. R. Squibb & Sons U.S.A. Freely §Flaminon Capsules … do. Guatemala Third
+Schedule *Denotes change in Formula. [Subsidiary] Approval of New Drugs Notification
+Trade Name and Form Manufacturer Country of Conditions
+Questran Powder … … Mead Johnson & Co. U.S.A. Third Prodocol Tablets … … William R. Warner & Co. Ltd. U.K. do. Palmer's Skin Success E. T. Browne Drug Co. Inc. U.S.A. Freely
 Medicated Astringent
-Summer's Eye Disposable C. B. Fleet Co. Inc.
+Summer's Eye Disposable C. B. Fleet Co. Inc. do. do.
 Douche
-Isotrate Tablets 5 mg. … Parke David & Co.
-Isotrate Tablets 10 mg. … do.
-Isotrate Tablets 40 mg. … do.
-Insulin 40 U/ml. … … Swiss Serum & Vaccine
+Isotrate Tablets 5 mg. … Parke David & Co. Colombia Third Isotrate Tablets 10 mg. … do. do. do. Isotrate Tablets 40 mg. … do. do. do. Insulin 40 U/ml. … … Swiss Serum & Vaccine Switzerland do.
 Institute
-Insulin 80 U/ml. … … do.
-Protamine Zinc Insulin 40 U/ml. do.
-Protamine Zinc Insulin 80 U/ml. do.
-Insulin NPH 40 U/ml. … do.
-Insulin NPH 80 U/ml. … do.
-Diphtheria Antitoxin 2000 U/ml. do.
-Diphtheria Antitoxin 4000 U/ml. do.
-Rabies Antitoxin 1000 U/ml. do.
-Tetanus Antitoxin 1000 U/ml. do.
-Tetanus Antitoxin 1500 U/ml. do.
-Tetanus Antitoxin 2000 U/ml. do.
-Tetanus Antitoxin 4000 U/ml. do.
-Rowagastrit Tablets … Rowa Ltd. Acnaveen Medicated Bar … Cooper Laboratories
-Deconamine Capsules … do.
-Aveeno Colloidal Oatmeal … do.
-Deconamine Elixir … do.
-Dacriose Ophthalmic … do.
-Irrigating Solution … do.
-Elixophyllin-KI Elixir … do.
-Elixophyllin-Capsules … do.
-Sarco… … … Ditrax
-Emulave … … Cooper Laboratories
-Sebaveen Medicated Shampoo do.
-Inflamase Forte Ophthalmic do.
-Solution
-Kay Ciel Elixir … … do.
-Sus-phrine Injection … do.
-Tearisol Ophthalmic Lubricant do.
-Quinaglute Dura-Tabs … do.
-Fugoa Depot … … E. Scheurich Pharmwerk Zellaforte Plus Tablets … Zellaforte Vertriels Fefol Spansule … … Smith Kline & French
+Insulin 80 U/ml. … … do. do. do. Protamine Zinc Insulin 40 U/ml. do. do. do. Protamine Zinc Insulin 80 U/ml. do. do. do. Insulin NPH 40 U/ml. … do. do. do. Insulin NPH 80 U/ml. … do. do. do. Diphtheria Antitoxin 2000 U/ml. do. do. do. Diphtheria Antitoxin 4000 U/ml. do. do. do. Rabies Antitoxin 1000 U/ml. do. do. do. Tetanus Antitoxin 1000 U/ml. do. do. do. Tetanus Antitoxin 1500 U/ml. do. do. do. Tetanus Antitoxin 2000 U/ml. do. do. do. Tetanus Antitoxin 4000 U/ml. do. do. do. Rowagastrit Tablets … Rowa Ltd. Ireland Freely Acnaveen Medicated Bar … Cooper Laboratories Puerto Rico do. Deconamine Capsules … do. do. do. Aveeno Colloidal Oatmeal … do. do. do. Deconamine Elixir … do. do. do. Dacriose Ophthalmic … do. do. do. Irrigating Solution … do. do. do. Elixophyllin-KI Elixir … do. do. do. Elixophyllin-Capsules … do. do. do. Sarco… … … Ditrax Belgium do. Emulave … … Cooper Laboratories Puerto Rico do. Sebaveen Medicated Shampoo do. do. do. Inflamase Forte Ophthalmic do. do. Third
+Solution Schedule
+Kay Ciel Elixir … … do. do. do. Sus-phrine Injection … do. do. do. Tearisol Ophthalmic Lubricant do. do. Freely Quinaglute Dura-Tabs … do. U.S.A. Third Fugoa Depot … … E. Scheurich Pharmwerk W. Germany do. Zellaforte Plus Tablets … Zellaforte Vertriels do. Freely Fefol Spansule … … Smith Kline & French U.K. do.
 Laboratories Ltd.
-Fesovit Spansule … … do.
-Micralax Enema … … do.
-Loxapac Tablets 10 mg. … Lederle Labs. Ltd.
-Loxapac Tablets 25 mg. … do.
-Loxapac Tablets 50 mg. … do.
-[Subsidiary] Approval of New Drugs Notification
-Manufacturer Country of Conditions
-origin of Sale … Charles E. Frosst & Co. Canada Third
-Schedule … do. do. do. … Sandoz Ltd. Switzerland do. … do. do. do. … do. do. do. … Cadila Laboratories India Freely … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. Third
-Schedule … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do... do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … Winthrop Pharmaceuticals U.K. Freely … Pharmacraft Penwalt U.S.A. do.
-Corporation … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. [Subsidiary] Approval of New Drugs Notification
-Trade Name and Form Manufacturer
-Desenex Powder … … Pharmacraft Penwalt
+Fesovit Spansule … … do. do. do. Micralax Enema … … do. do. do. Loxapac Tablets 10 mg. … Lederle Labs. Ltd. U.S.A. Third Loxapac Tablets 25 mg. … do. do. do. Loxapac Tablets 50 mg. … do. do. do.
+Approval of New Drugs Notification [Subsidiary]
+Trade Name and Form Manufacturer Country of Conditions
+origin of Sale Climestrone Tablets 0.625 … Charles E. Frosst & Co. Canada Third
+Schedule Climestrone Tablets 1.25 … do. do. do. Sandopart Tablets 50 I.U. … Sandoz Ltd. Switzerland do. Teronac Tablets 1 mg. … do. do. do. Teronac Tablets 2 mg. … do. do. do. Cadilagripe Liquid … Cadila Laboratories India Freely Cadimalt … … do. do. do. Cadiplex Tablets … … do. do. do. Cadrol Tablets … … do. do. do. Cadistin Expectorant … do. do. do. Cadistin Tablets … … do. do. do. Fergulate Syrup … … do. do. do. Hoopar Granules … … do. do. do. Multimin Drops … … do. do. do. Multimin Liquid … … do. do. do. Neuroxin-12 Tablets … do. do. do. Vitarbin Elixir … … do. do. do. Wormicid Elixir … … do. do. do. Butadex Tablets … … do. do. Third
+Schedule Cabrium Tablets … … do. do. do. Cadiprol Tablets … … do. do. do. Cadisper-C Tablets … do. do. do. Cadistin Injection … … do. do. do. Cadiphylate Injection … do. do. do. Caduserp Tablets … … do. do. do. Calcirol D2 Granules … do. do. do. Cal-D-Rubra Injection … do. do. do. Cardina Tablets … … do. do. do. Cemide Eye Drops 10% … do. do. do. Cemide Eye Drops 20% … do. do. do. Cemide Eye Drops 30% … do. do. do. Chlorformin Tablets ... do. do. do. Dexaphylate Tablets … do. do. do. Dexona Tablets … … do. do. do. Dexona Injection … … do. do. do. Epsolin Tablets … … do. do. do. Isocadipas Tablets … do. do. do. Isopar Tablets … … do. do. do. Neurabol-H Injection … do. do. do. Neuroxin-12 Injection … do. do. do. Novrison Capsules … do. do. do. Pesulin Liquid … … do. do. do. Pesulin-O Liquid … … do. do. do. Phenormin Tablets … do. do. do. P.M.T. Tablets … … do. do. do. Renitol Injection … … do. do. do. Socrol Injection … … do. do. do. Thisopar Tablets … … do. do. do. Panadol Elixir … … Winthrop Pharmaceuticals U.K. Freely Allerest Tablets … … Pharmacraft Penwalt U.S.A. do.
 Corporation
-Desenex Aerosol … … do.
-Desenex Solution … do.
-A-E-Mulsin Drops … Mucos
-E-Mulsin Drops … … do.
-E-Mulsin Forte Drops … do.
-E-Mulsin Fortissimum Drops do.
-Multin-Mulsin Drops … do.
-Zaroxolyn Tablets 2.5 mg. … Penwalt Prescription Products
-Zaroxolyn Tablets 5.0 mg. … do.
-Zaroxolyn Tablets 10.0 mg. … do.
-Eyes Right Capsule … Ashe Laboratories Ltd. Korean Ginseng Tonic Korean Ginseng Co.
+Allerest Time Capsules … do. do. do. Coldene Adult Cough … do. do. do.
+Formula Syrup Coldene Children's Cough … do. do. do. Cruex Aerosol … … do. do. do. Desenex Ointment … do. do. do. [Subsidiary] Approval of New Drugs Notification
+Trade Name and Form Manufacturer Country of Conditions
+Desenex Powder … … Pharmacraft Penwalt U.S.A. Freely
+Corporation
+Desenex Aerosol … … do. do. do. Desenex Solution … do. do. do. A-E-Mulsin Drops … Mucos W. Germany do. E-Mulsin Drops … … do. do. do. E-Mulsin Forte Drops … do. do. do. E-Mulsin Fortissimum Drops do. do. do. Multin-Mulsin Drops … do. do. Third Zaroxolyn Tablets 2.5 mg. … Penwalt Prescription Products U.S.A. do. Zaroxolyn Tablets 5.0 mg. … do. do. do. Zaroxolyn Tablets 10.0 mg. … do. do. do. Eyes Right Capsule … Ashe Laboratories Ltd. U.K. Freely Korean Ginseng Tonic Korean Ginseng Co. Korea Freely
 Liquid Extract
-Caldesene Powder … Pharmacraft Penwalt
+Caldesene Powder … Pharmacraft Penwalt U.S.A. do.
 Corporation
-Topisolon Ointment … Farbwerke Hoechst A.G. 31/1975.
-Dantrium Capsules 100 mg. … Eaton Labs. Ltd. Lyndiol 22 Tablets … Organon Labs. Ltd. Benoxyl Cream Plain … Stiefel Labs. Ltd.
-Benoxyl Cream Regular … do.
-Benoxyl Cream Strong … do.
-Ceanel Concentrate … Quinoderm Ltd.
-Quinoderm Cream … do.
-Quinoped Cream … … do.
-Quinoderm Cream with do.
-Hydrocortisone 1 per cent
-Biphasil Tablets … … Wyeth Pharma GMBH Madopar Capsules 125 mg. … Roche Products Ltd.
-Madopar Capsules 250 mg. … do.
-Coricidin Cough Relief Schering Corp.
+Topisolon Ointment … Farbwerke Hoechst A.G. W. Germany Third 31/1975.
+Dantrium Capsules 100 mg. … Eaton Labs. Ltd. U.S.A. do. Lyndiol 22 Tablets … Organon Labs. Ltd. do. Freely Benoxyl Cream Plain … Stiefel Labs. Ltd. U.K. do. Benoxyl Cream Regular … do. do. do. Benoxyl Cream Strong … do. do. do. Ceanel Concentrate … Quinoderm Ltd. do. do. Quinoderm Cream … do. do. do. Quinoped Cream … … do. do. do. Quinoderm Cream with do. do Third
+Hydrocortisone 1 per cent Schedule
+Biphasil Tablets … … Wyeth Pharma GMBH W. Germany Freely Madopar Capsules 125 mg. … Roche Products Ltd. U.K. Third Madopar Capsules 250 mg. … do. do. do. Coricidin Cough Relief Schering Corp. U.S.A. Freely
 Formula
-Coricidin Nasal Mist … do.
-Hydrocare Protein Remover … Allergan Ltd. Tryptizol Tablets 50 mg. … Merck Sharp & Dohme Ltd. Bicozene Cream … … Ex-Lax Inc. Fefol-Vit Spansule … Smith Kline & French Labs Nitrospan Capsules 2.5 mg. … U.S.V. Pharmaceutical Corp. 57/1975. Trasicor Tablets 160 mg. … Ciba Laboratories Serpina Tablets … … Himalaya Drug Co.
-Nico-stop Capsules … Ditrax
-Novaldex Tablets 10 mg. … I.C.I.
-Diucardin Tablets 50 mg. … Ayerst Labs.
-Dyrenium Tablets 100 mg. … S.K.F.
-*Hibitane Obstetric Cream … I.C.I.
-Ambredin Tablets … Solco Basle Orlest Tablets 28's … Parke-Davis & Co.
-Norlestrin Tablets … do.
-Norlestrin Fe Tablets … do.
-Ortho Novum 1/50 Tablets 21's Ortho Pharmaceutical
+Coricidin Nasal Mist … do. do. do. Hydrocare Protein Remover … Allergan Ltd. Canada do. Tryptizol Tablets 50 mg. … Merck Sharp & Dohme Ltd. U.K. Third Bicozene Cream … … Ex-Lax Inc. U.S.A. Freely Fefol-Vit Spansule … Smith Kline & French Labs U.K. do. Nitrospan Capsules 2.5 mg. … U.S.V. Pharmaceutical Corp. U.S.A. Third 57/1975.
+Trasicor Tablets 160 mg. … Ciba Laboratories U.K. do. Serpina Tablets … … Himalaya Drug Co. India do. Nico-stop Capsules … Ditrax Belgium Freely Novaldex Tablets 10 mg. … I.C.I. U.K. Third Diucardin Tablets 50 mg. … Ayerst Labs. Canada do. Dyrenium Tablets 100 mg. … S.K.F. do. do. *Hibitane Obstetric Cream … I.C.I. U.K. Freely Ambredin Tablets … Solco Basle Switzerland do. Orlest Tablets 28's … Parke-Davis & Co. U.S.A. do. Norlestrin Tablets … do. do. do. Norlestrin Fe Tablets … do. do. do. Ortho Novum 1/50 Tablets 21's Ortho Pharmaceutical do. do.
 Incorporated
 *Change in formula.
-[Subsidiary] Approval of New Drugs Notification
-Manufacturer Country of Conditions
-origin of Sale
-… Ortho Pharmaceutical U.S.A. Freely
+Approval of New Drugs Notification [Subsidiary]
+Trade Name and Form Manufacturer Country of Conditions
+origin of Sale Micronor Tablets 42's … Ortho Pharmaceutical U.S.A. Freely
 Incorporated
 Ortho Novum Tablets 2 mg. 21's do. do. Third
-Schedule Ortho Novum 1/80 Tablets 21's do. do. do.
-Rona Labs. U.K. do.
-… Desbergers Ltd. Canada do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. B-Totum with Vitamin C Tablets do. do. Freely
-… do. do. do.
-do. do. do.
-… do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. Aminophylline Tablets 100 mg. Approved Prescription Service U.K. do. Ascorbic Acid Tablets 100 mg. do. do. do.
-… do. do. do. Calcium with Vitamin D Tablets do. do. do.
-do. do. do.
-… do. do. do. … do. do. do. … do. do. do. Bendrofluazide Tablets 2.5 mg. do. do. Third
-Schedule
-… do. do. do. Phenylbutazone Tablets 100 mg. do. do. do.
-… do. do. do. … Leo Laboratories Ltd. Ireland do. Burinex Injection 0.25 mg./ml. do. do. do.
-… Burroughs Wellcome U.K. do. Nutripak Vitamins Capsules … W. T. Rawleigh Co. U.S.A. Freely
-… do. do. do. … do. do. do. Chewable Vitamin C Tablets … do. do. do.
-… do. do. do. … do. do. do. Multivitamin Mineral Capsules do. do. do.
-… Schi-Wa W. Germany do. … do. do. do. … do. do. do. … Rowa Ltd. Ireland Third
+Schedule Ortho Novum 1/80 Tablets 21's do. do. do. Glucophage Tablets 850 mg. Rona Labs. U.K. do. Novinol 21 Tablets … Desbergers Ltd. Canada do. Novinol 28 Tablets … do. do. do. Oestrilin Vaginal Cones … do. do. do. Oestrilin Tablets 0.65 mg. … do. do. do. Oestrilin Tablets 1.25 mg. … do. do. do. Oestrilin Vaginal Cream … do. do. do. Rubion 1000 Injection … do. do. do. Metaboline Tablets … do. do. do. B-Totum with Vitamin C Tablets do. do. Freely B-Totum 500 Capsules … do. do. do. Hemo-Somaton with Vitamin do. do. do. Kaolin Pectin Mixture NF … do. do. do. Maxi-6 Tablets … … do. do. do. Maxi-10 Tablets … … do. do. do. Neo-Derm Powder … do. do. do. Fertinic Capils … … do. do. do. Vasculine Tablets … do. do. do. Aminophylline Tablets 100 mg. Approved Prescription Service U.K. do. Ascorbic Acid Tablets 100 mg. do. do. do. Aspirin Tablets 300 mg. … do. do. do. Calcium with Vitamin D Tablets do. do. do. Ephedrine Hydrochloride do. do. do. Ferrous Sulphate Tablets … do. do. do. Multivitamin Tablets … do. do. do. Vitamin Capsules … do. do. do. Bendrofluazide Tablets 2.5 mg. do. do. Third
+Schedule Digoxin Tablets 0.25 mg. … do. do. do. Phenylbutazone Tablets 100 mg. do. do. do. Prednisolone Tablets 1 mg. … do. do. do. Burinex Tablets 1 mg. … Leo Laboratories Ltd. Ireland do. Burinex Injection 0.25 mg./ml. do. do. do. Septrin Dispersible Tablets … Burroughs Wellcome U.K. do. Nutripak Vitamins Capsules … W. T. Rawleigh Co. U.S.A. Freely Vitamin E Capsules … do. do. do. Vitamin C Tablets … do. do. do. Chewable Vitamin C Tablets … do. do. do. Chewable Multivitamins … do. do. do. Senior Multivitamins … do. do. do. Multivitamin Mineral Capsules do. do. do. Dabylen Tablets … … Schi-Wa W. Germany do. Dabylen Forte Tablets … do. do. do. Dabylen-Calcium Tablets … do. do. do. Migranant Tablets … Rowa Ltd. Ireland Third
 Schedule [Subsidiary] Approval of New Drugs Notification
-Trade Name and Form Manufacturer
-Councilabs Cod Liver Oil Council Labs. Inc.
+Trade Name and Form Manufacturer Country of Conditions
+Councilabs Cod Liver Oil Council Labs. Inc. U.S.A. Freely
 Capsules
-Unifam-M Tablets … do.
-Councilabs Daily Multiple do.
+Unifam-M Tablets … do. do. do. Councilabs Daily Multiple do. do. do.
 Vitamins Plus Iron Tablets
-Aspirin Tablets for Children … do.
-Chewable Multivitamins … do.
-Chewable Vitamins for Children do.
+Aspirin Tablets for Children … do. do. do. Chewable Multivitamins … do. do. do. Chewable Vitamins for Children do. do. do.
 and Adults
-Chewable Vitamins Plus Iron … do.
-Councilabs Vitamins E do.
+Chewable Vitamins Plus Iron … do. do. do. Councilabs Vitamins E do. do. do.
 Capsules 100 I.U.
-Councilabs Vitamins E do.
+Councilabs Vitamins E do. do. do.
 Capsules 200 I.U.
-Councilabs Daily Multiple do.
+Councilabs Daily Multiple do. do. do.
 Vitamins
-Ladytone Capsules … Vitabiotics Ltd.
-Oralcer Pellets … … do.
-Omega H3 Capsules … Europa Biological Ltd. Introl Tablets … … Nadeau Laboratory Ltd.
-Nabex-C Tablets … … do.
-Histapec Syrup … … do.
-Gestamine Tablets … do.
-Dentition Teething Syrup … do.
-B-Totum 500 Capils … do.
-*Vermox Tablets … … Janssen Pharmaceutical
-Daktacort Cream … … do.
-Brondecon Tablets … Warner-Chilcott Labs.
-Brondecon Elixir … … do.
-Gelusil Liquid … … Warner-Lambert Ltd. †Ferrol Tonic … … Booker B.D.H.
-†Ferrol Compound … do.
-Witch Stik Salve … … Ethichem Ltd.
-Witch Doctor … … do.
-Hygroton-K Tablets … Geigy Pharmaceuticals †Sandomigran Tablets … Sandox Ltd.
-†Mosegor Tablets … do.
-‡Mydriacil 1 per cent Eye Drops Alcon Laboratories 99/1975. Tenospam Tablets 2 mg. … Farmos Group
-Tenospam Tablets 5 mg. … do.
-Tenospam Tablets 10 mg. … do.
-Tenospam Injection 5 mg. … do.
-Furesis Tablets … … do.
-Furesis Compound Tablet … do.
-Oculo Korti Eye Drops … do.
-Korti Balsam … … do.
-Dolopam Tablets … … do.
-Trimo-sulpha Tablet … do.
-Korti Injection … … do.
-*Denotes change of condition of sale.
-†Denotes change in formula. ‡Change in Preservative.
-[Subsidiary] Approval of New Drugs Notification
-Manufacturer Country of Conditions
-origin of Sale
-… National Trading Co. India Freely … Indo-Pharma Pharmaceutical do. do.
-Works
-… do. do. do. … do. do. Third
-Schedule
-… do. do. do. … Unichem Laboratories do. Freely … do. do. Third
-Schedule
-… do. do. do. … do. do. do. … G. D. Pharmaceutical do. Freely … do. do. do. … Farmos Group Finland do. … do. do. do. … do. do. do. … do. do. do. Reumuzol Compound Ointment do. do. do.
-… do. do. Third
-Schedule
-… do. do. do.
-do. do. do.
-… Hough Hoseason and U.K. Freely
+Ladytone Capsules … Vitabiotics Ltd. U.K. do. Oralcer Pellets … … do. do. do. Omega H3 Capsules … Europa Biological Ltd. do. do. Introl Tablets … … Nadeau Laboratory Ltd. Canada do. Nabex-C Tablets … … do. do. do. Histapec Syrup … … do. do. do. Gestamine Tablets … do. do. do. Dentition Teething Syrup … do. do. do. B-Totum 500 Capils … do. do. do. *Vermox Tablets … … Janssen Pharmaceutical Belgium do. Daktacort Cream … … do. do. Third Brondecon Tablets … Warner-Chilcott Labs. U.S.A. Freely Brondecon Elixir … … do. do. do. Gelusil Liquid … … Warner-Lambert Ltd. do. do. †Ferrol Tonic … … Booker B.D.H. Guyana do. †Ferrol Compound … do. do. do. Witch Stik Salve … … Ethichem Ltd. U.K. do. Witch Doctor … … do. do. do. Hygroton-K Tablets … Geigy Pharmaceuticals do. Third †Sandomigran Tablets … Sandox Ltd. Switzerland do. †Mosegor Tablets … do. do. do. ‡Mydriacil 1 per cent Eye Drops Alcon Laboratories U.S.A. do. 99/1975. Tenospam Tablets 2 mg. … Farmos Group Finland do. Tenospam Tablets 5 mg. … do. do. do. Tenospam Tablets 10 mg. … do. do. do. Tenospam Injection 5 mg. … do. do. do. Furesis Tablets … … do. do. do. Furesis Compound Tablet … do. do. do. Oculo Korti Eye Drops … do. do. do. Korti Balsam … … do. dp. do. Dolopam Tablets … … do. do. do. Trimo-sulpha Tablet … do. do. do. Korti Injection … … do. do. do. *Denotes change of condition of sale. †Denotes change in formula. ‡Change in Preservative.
+Approval of New Drugs Notification [Subsidiary]
+Trade Name and Form Manufacturer Country of Conditions
+origin of Sale Koshmir Pain Balm … National Trading Co. India Freely Tonic Indon Syrup … Indo-Pharma Pharmaceutical do. do.
+Works Lysindon Drops … … do. do. do. Spasmindon Pediatric Drops … do. do. Third
+Schedule Geriatric Indon Tablets … do. do. do. Univite Drops … … Unichem Laboratories do. Freely Sycocam 5 Tablets … do. do. Third
+Schedule Sycocam 10 Tablets … do. do. do. Sycocam Injection … do. do. do. Borolene Cream … … G. D. Pharmaceutical do. Freely Vapolene Ointment … do. do. do. Neurovitam Tablets … Farmos Group Finland do. Multivitan Tablets … do. do. do. Vitafer Tablets … … do. do. do. Beoktan Tablets … … do. do. do. Reumuzol Compound Ointment do. do. do. Potentol Tablets … … do. do. Third
+Schedule Bellavita Ointment … do. do. do. Ani-korti Compound do. do. do. Vitone Tablets … … Hough Hoseason and U.K. Freely
 Company Limited
-… Ciba-Geigy (U.K.) Ltd. do. Third
-Schedule
-… do. do. do. … do. do. do. … Allen and Hanbury's Ltd. do. do. Summer's Eve Disposale Douche C. B. Fleet Co. Inc. U.S.A. Freely
-… Merck Sharp and Dohme Inc. do. Third
-Schedule
-… do. do. do. … do. do. do. … Swiss Serum Switzerland do. … do. do. do. … Hausmann Labs. Inc. do. Freely … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. Ferrum Hausmanm Intravenous do. do. do.
-… do. do. do. … do. do. do. … do. do. do. … do. do. do. … Solco Bolse Limited do. do. … Janssen Pharmaceuticals Belgium Third
-Schedule
-… do. do. do. [Subsidiary] Approval of New Drugs Notification
-Trade Name and Form Manufacturer
-Triperidol Amps 2.5 mg. per ml. Janssen Pharmaceuticals
-Triperidol Drops 0.05 mg. do.
+Ludiomil Tablets 10 mg. … Ciba-Geigy (U.K.) Ltd. do. Third
+Schedule Ludiomil Tablets 25 mg. … do. do. do. Ludiomil Tablets 50 mg. … do. do. do. Beconase Nasal Spray … Allen and Hanbury's Ltd. do. do. Summer's Eve Disposale Douche C. B. Fleet Co. Inc. U.S.A. Freely Urecholine Tablets 5 mg. … Merck Sharp and Dohme Inc. do. Third
+Schedule Urecholine Tablets 10mg. … do. do. do. Urecholine Tablets 25mg. … do. do. do. Globuman Berna … Swiss Serum Switzerland do. B.C.G. See Vaccine … do. do. do. Ferrum Hausmann Drops … Hausmann Labs. Inc. do. Freely Ferrum Hausmann Syrup … do. do. do. Ferrum S.R. Capsules … do. do. do. Calcium Hausmann Syrup … do. do. do. Swizzina Tonic … … do. do. do. Sansilla … … do. do. do. Ferrum Hausmanm Intravenous do. do. do. Kalium S.R. Capsules … do. do. do. Ferrum Hausmann … do. do. do. Hippiron 400 … … do. do. do. Ferrum Hausmann Vet … do. do. do. Solcoseryl Eye Gel … Solco Bolse Limited do. do. Stugeron Forte Capsules … Janssen Pharmaceuticals Belgium Third
+Schedule Triperidol Tablets 1 mg. … do. do. do. [Subsidiary] Approval of New Drugs Notification
+Trade Name and Form Manufacturer Country of Conditions
+Triperidol Amps 2.5 mg. per ml. Janssen Pharmaceuticals Belgium Third Triperidol Drops 0.05 mg. do. do. do.
 per drop
-†Famel Cough Syrup … Optrex Limited
-†Famel Honey and Lemon do.
+†Famel Cough Syrup … Optrex Limited U.K. Freely †Famel Honey and Lemon do. do. do.
 Cough Linctus
-†Famel Children's Cough do.
+†Famel Children's Cough do. do. do.
 Linctus
-Acon Capsule 25,000 U. … Endo Laboratories
-Acon Capsule 50,000 U. … do.
-Coumadin Tablets … do.
-Valpin Tablets … … do.
-Valpin Elixir … … do.
-Valpin PB Tablets … do.
-Valpin PB Elixir … … do.
-Narcan Injection … … do.
-Tyzine Nasal Solution … Pfizer Corp.
-Viterra Plus … … do.
-Viterra Therapeutic … do.
-Vistaril Tablets 25 mg. … do.
-Vistaril Tablets 50 mg. … do.
-Vistaril Tablets 100 mg. … do.
-Vistaril Oral Suspension … do.
-Vistaril Injection … … do.
-Pankreosil Tablets … Laboratories Vargos Tathiogal Injection 100 mg. … Yamanouche Pharmaceutical
-Company Limited
-Vivalan Tablets 50 mg. … Imperial Chemical Industries Momentum Muscular Whitehall Laboratories Inc.
+Acon Capsule 25,000 U. … Endo Laboratories U.S.A. Third Acon Capsule 50,000 U. … do. do. do. Coumadin Tablets … do. do. do. Valpin Tablets … … do. do. do. Valpin Elixir … … do. do. do. Valpin PB Tablets … do. do. do. Valpin PB Elixir … … do. do. do. Narcan Injection … … do. do. do. Tyzine Nasal Solution … Pfizer Corp. Costa Rica Freely Viterra Plus … … do. do. do. Viterra Therapeutic … do. do. Third Vistaril Tablets 25 mg. … do. U.S.A. do. Vistaril Tablets 50 mg. … do. do. do. Vistaril Tablets 100 mg. … do. do. do. Vistaril Oral Suspension … do. do. do. Vistaril Injection … … do. do. do. Pankreosil Tablets … Laboratories Vargos Venezuela Freely Tathiogal Injection 100 mg. … Yamanouche Pharmaceutical Japan Third
+Company Limited Schedule
+Vivalan Tablets 50 mg. … Imperial Chemical Industries U.K. do. Momentum Muscular Whitehall Laboratories Inc. U.S.A. Freely
 Backache Formula
-Burinex-K Tablets … Leo Pharmaceuticals Ltd. Kloramin Tablets … … Halsey Drug Co. Inc.
-Aminophylline Tablets 100 mg. do.
-Wheat Germ Oil Capsules 3 min. do.
-Wheat Germ Oil Capsules 6 min. do.
-Geriprime Capsules … do.
-Beceevite Capsules … do.
-Amber Solution Mouth Wash do.
-Vitalitee Cod Liver Oil Capsules do.
-Pentran No. 2 Tablets … do.
-Lasonyl Jelly … … Nadeau Laboratories Ltd. Vitamin C 100 mg. Tablets … Halsey Drug Co. Ltd.
-Vitamin C 100 mg. do.
+Burinex-K Tablets … Leo Pharmaceuticals Ltd. U.K. Third Kloramin Tablets … … Halsey Drug Co. Inc. U.S.A. Freely Aminophylline Tablets 100 mg. do. do. do. Wheat Germ Oil Capsules 3 min. do. do. do. Wheat Germ Oil Capsules 6 min. do. do. do. Geriprime Capsules … do. do. do. Beceevite Capsules … do. do. do. Amber Solution Mouth Wash do. do. do. Vitalitee Cod Liver Oil Capsules do. do. do. Pentran No. 2 Tablets … do. do. Third Lasonyl Jelly … … Nadeau Laboratories Ltd. Canada Freely Vitamin C 100 mg. Tablets … Halsey Drug Co. Ltd. U.S.A. do. Vitamin C 100 mg. do. do. do.
 Chewable Tablets
-Vitamin C 250 mg. Tablets … do.
-Vitamin C 250 mg. do.
+Vitamin C 250 mg. Tablets … do. do. do. Vitamin C 250 mg. do. do. do.
 Chewable Tablets
 †Denotes change in formula.
-[Subsidiary] Approval of New Drugs Notification
-Manufacturer Country of Conditions
-origin of Sale
-… Halsey Drug Co. Ltd. U.S.A. Freely Vitamin E 100 I.U. Capsules … do. do. do. Vitamin E 200 I.U. Capsules … do. do. do. Vitamin E 400 I.U. Capsules … do. do. do. Vitamin E 1,000 I.U. Capsules do. do. do.
-… do. do. do. … John Bell, Hills and Lucas U.K. do. … do. do. do.
-do. do. do. do. do. do. do. do. do.
-… do. do. do.
-do. do. Third
-Schedule
-… do. do. do. … do. do. do.
-do. do. do. do. do. do.
-… do, do. do.
-do. do. do. Phenobarbitone Tablets 30 mg. do. do. Controlled
-Drug Phenobarbitone Tablets 60 mg. do. do. do.
-… Taikoh Pharmaceutical Japan Freely
+Approval of New Drugs Notification [Subsidiary]
+Trade Name and Form Manufacturer Country of Conditions
+origin of Sale Vitamin C 500 mg. Tablets … Halsey Drug Co. Ltd. U.S.A. Freely Vitamin E 100 I.U. Capsules … do. do. do. Vitamin E 200 I.U. Capsules … do. do. do. Vitamin E 400 I.U. Capsules … do. do. do. Vitamin E 1,000 I.U. Capsules do. do. do. Nalefirm Capsules … … do. do. do. Aspirin Tablets 300 mg … John Bell, Hills and Lucas U.K. do. Folic Acid Tablets 5 mg. … do. do. do. Sodium Bicarbonate do. do. do. Vitamin B Compound do. do. do. Ferrous Gluconate Tablets do. do. do. Multivitamin Tablets … do. do. do. Phthalylsulphathiazole do. do. Third
+Tablets 500 mg. Schedule Prednisolone Tablets 5 mg. … do. do. do. Prednisone Tablets 5 mg. … do. do. do. Sulphaguanidine Tablets do. do. do. Sulphadimidine Tablets do. do. do. Imipramine Tablets 25 mg. … do, do. do. Phenylbutazone Tablets do. do. do. Phenobarbitone Tablets 30 mg. do. do. Controlled
+Drug Phenobarbitone Tablets 60 mg. do. do. do. Seirogan Pills … … Taikoh Pharmaceutical Japan Freely
 Company Limited
-… 4 Way Diet U.S.A. do. … Hormo-Pharma W. Germany do. Bio-Strath Sedative Formula … Bio-Strath A.G. Switzerland do.
-… Rona Laboratories U.K. Third 27/1976.
-Schedule
-… do. do. do. … do. do. do. Heptacort Plus Suppositories … do. do. do. Dimenhidrinato Tablets 50 mg. McKesson Lab. Venezuela do. Indometacina Capsules 25 mg. do. do. do. Chlordiazepoxide Tablets 10 mg. do. do. do.
-… do. do. do. … do. do. do. … do. do. do. Metronidazol Tablets 250 mg. do. do. do. Fenilbutazona Tablets 200 mg. do. do. do.
-… do. do. do. … do. do. do.
-do. do. do.
-… do. do. do. … do. do. do Pankreon Compositum Dragees Lab. Vargas Venezuela Freely [Subsidiary] Approval of New Drugs Notification
-Trade Name and Form Manufacturer
-Complamin Retard Tablets … Lab. Vargas Sotacor Tablets 160 mg. … Bristol Laboratories
-Sotacor Tablets 320 mg. … do.
-Liquiprin Drops … … Mitchum Thayer Inc.
-Femicin Tablets … … do.
-Dependal Tablets … … S.K.F.
-Diazepam Tablets 10 mg. … McKesson Lab. Pulmadil Inhaler … … Riker Labs.
-Pulmadil Auto … … do.
-Actifed Plus Tablets … Burroughs Wellcome Ltd.
-Actifed Plus Cough Syrup … do.
-Actifed A Tablets … … do.
-Actifed A Elixir … … do.
-Lanvis Tablets 40 mg. … do.
-Biverplex Tablets … … Ropharma SA
-Totavita Dragees … … do.
-Rophascorbine Tablets 500 mg. do.
-Rohepar Ampoules … do.
-Rinophar Nasal Spray … do.
-Rinophar Nasal Drops … do.
-Wasp-Eze Aerosol Spray … Potter and Clarke Ltd.
-Burn-Eze Aerosol Spray … do.
-Blue Cross Chewable Halsey Drug Co.
+Kelpathin Tablets … 4 Way Diet U.S.A. do. Paradenyl Tablets … Hormo-Pharma W. Germany do. Bio-Strath Sedative Formula … Bio-Strath A.G. Switzerland do. Madecassol Powder … Rona Laboratories U.K. Third 27/1976.
+Schedule Madecassol Ointment … do. do. do. Heptacort Plus Cream … do. do. do. Heptacort Plus Suppositories … do. do. do. Dimenhidrinato Tablets 50 mg. McKesson Lab. Venezuela do. Indometacina Capsules 25 mg. do. do. do. Chlordiazepoxide Tablets 10 mg. do. do. do. Furosemida Tablets 40 mg. … do. do. do. Diazepam Tablets 2 mg. … do. do. do. Diazepam Tablets 5 mg. … do. do. do. Metronidazol Tablets 250 mg. do. do. do. Fenilbutazona Tablets 200 mg. do. do. do. Reserpina Tablets 0.25 mg. … do. do. do. Prednisolona Tablets 5 mg. … do. do. do. Sulfametazina 25% Injection do. do. do. Levamisol Injectable … do. do. do. Acid Nalidixoco 500 mg. … do. do. do Pankreon Compositum Dragees Lab. Vargas Venezuela Freely [Subsidiary] Approval of New Drugs Notification
+Trade Name and Form Manufacturer Country of Conditions
+Complamin Retard Tablets … Lab. Vargas Venezuela Third Sotacor Tablets 160 mg. … Bristol Laboratories Canada do. Sotacor Tablets 320 mg. … do. do. do. Liquiprin Drops … … Mitchum Thayer Inc. U.S.A. Freely Femicin Tablets … … do. do. do. Dependal Tablets … … S.K.F. India Third Diazepam Tablets 10 mg. … McKesson Lab. Venezuela do. Pulmadil Inhaler … … Riker Labs. U.K. Freely Pulmadil Auto … … do. do. do. Actifed Plus Tablets … Burroughs Wellcome Ltd. Canada do. Actifed Plus Cough Syrup … do. do. do. Actifed A Tablets … … do. do. do. Actifed A Elixir … … do. do. do. Lanvis Tablets 40 mg. … do. do. Third Biverplex Tablets … … Ropharma SA Belgium Freely Totavita Dragees … … do. do. do. Rophascorbine Tablets 500 mg. do. do. do. Rohepar Ampoules … do. do. Third Rinophar Nasal Spray … do. do. do. Rinophar Nasal Drops … do. do. do. Wasp-Eze Aerosol Spray … Potter and Clarke Ltd. U.K. do. Burn-Eze Aerosol Spray … do. do. do. Blue Cross Chewable Halsey Drug Co. U.S.A. Freely
 Vitamin C Tablets 100 mg.
-Naturell-Vitamin E 1000 I.U. do.
+Naturell-Vitamin E 1000 I.U. do. do. do.
 Capsules
-Naturell-Vitamin E 200 I.U. do.
+Naturell-Vitamin E 200 I.U. do. do. do.
 Capsules
-Naturell-Vitamin E 100 I.U. do.
+Naturell-Vitamin E 100 I.U. do. do. do.
 Capsules
-Vitali-Tee Natural Kelp Tablets do.
-Vital-Tee Natural Organic do.
+Vitali-Tee Natural Kelp Tablets do. do. do. Vital-Tee Natural Organic do. do. do.
 Vitamin C Tablets
-Blue Cross D-Sist Liquid … do.
-Blue Cross Ferrous Sulphate do.
+Blue Cross D-Sist Liquid … do. do. do. Blue Cross Ferrous Sulphate do. do. do.
 Tablets 5 grains
-Blue Cross Halenol Tablets … do.
-Vitali-Tee Natural Vitamin do.
+Blue Cross Halenol Tablets … do. do. do. Vitali-Tee Natural Vitamin do. do. do.
 E 1000 I.U. Capsules
-Vitali-Tee Natural Vitamin do.
+Vitali-Tee Natural Vitamin do. do. do.
 E 400 U Capsules
-Vitali-Tee Natural Vitamin do.
+Vitali-Tee Natural Vitamin do. do. do.
 E 200 I.U. Capsules
-Vitali-Tee Natural Vitamin do.
+Vitali-Tee Natural Vitamin do. do. do.
 E 100 I.U. Capsules
-Blue Cross Ascorbic Acid do.
+Blue Cross Ascorbic Acid do. do. do.
 Tablets 500 mg.
-Blue Cross Ascorbic Acid do.
+Blue Cross Ascorbic Acid do. do. do.
 Tablets 250 mg.
-Blue Cross Ascorbic Acid do.
+Blue Cross Ascorbic Acid do. do. do.
 Tablets 100 mg.
-Blue Cross Chewable Vitamin do.
+Blue Cross Chewable Vitamin do. do. do.
 C Tablets 250 mg.
-[Subsidiary] Approval of New Drugs Notification
-Manufacturer Country of Conditions
+Approval of New Drugs Notification [Subsidiary]
+Trade Name and Form Manufacturer Country of Conditions
 origin of Sale Novobutamide Tablets 500 mg. Novopharm Ltd. Canada Third
-Schedule
-… do. do. do. … do. do. do. … do. do. do. … do. do. do. Novohydrozide Tablets 50 mg. do. do. do. Novophenyl Tablets 100 mg. … do. do. do.
-… do. do. do. Novopropamide Tablets 250 mg. do. do. do.
-do. do. do.
-… do. do. do. … do. do. do. … do. do. do. … do. do. do. … Roha-Werk Germany Freely … Merck Sharp & Dohme U.S.A. Third
-Schedule
-… Pharmakon SA Switzerland Freely … N.V. Organon Holland Third 131/1976.
-Schedule
-… Norwich International U.S.A. do. … Reckitt & Coleman Ltd. U.K. do. Amiconal Ophthalmic Solution Alcon Laboratories Canada do.
-… do. do. do. Cetamide Solution Ointment … do. do. do. Cetapred Ophthalmic Ointment do. do. do. Atropine Ophthalmic Ointment do. do. do.
-… do. do. do.
-do. do. do.
-… do. do. do. … do. do. do. … do. do. do. … do. do. do. … E. R. Squibb & Sons U.S.A. do. … do. do. do. Metronidazole Tablets 200 mg. Harris Pharmaceuticals Ltd. U.K. do. Sulphadimidine Tablets 500 mg. do. do. do. Cyclandelate Tablets 500 mg. … do. do. do. Amitriptyline Tablets 10 mg. … do. do. do.
-… do. do. do. Phenylbutazone & Prednisone do. do. do.
-… Farbwerke Hoechst W. Germany do. … do. do. do. … do. do. do. … Carlisle Laboratories Ltd. Barbados Freely … do. do. do. … do. do. do. Hypopect Diarrhoea Mixture … do. do. do.
-… do. do. Third
+Schedule Novofuran Tablets 50 mg. … do. do. do. Novofuran Tablets 100 mg. … do. do. do. Novoflurazine Tablets 1 mg. … do. do. do. Novoflurazine Tablets 2 mg. … do. do. do. Novohydrozide Tablets 50 mg. do. do. do. Novophenyl Tablets 100 mg. … do. do. do. Novopoxide Tablets 10 mg. … do. do. do. Novopropamide Tablets 250 mg. do. do. do. Novopropoxeyn Compound do. do. do. Novodiapam Tablets 5 mg. … do. do. do. Novodiapam Tablets 10 mg. … do. do. do. Novonidazole Oral Tablets … do. do. do. Novempro 400 mg. Tablets … do. do. do. Roha-Lac Stomach Tablets … Roha-Werk Germany Freely Decadron-La Injection … Merck Sharp & Dohme U.S.A. Third
+Schedule Kilofort Granules … … Pharmakon SA Switzerland Freely Orgabolin Tablets 2 mg. … N.V. Organon Holland Third 131/1976.
+Schedule Dantrium Capsules 50 mg. … Norwich International U.S.A. do. Epilim Tablets 200 mg. … Reckitt & Coleman Ltd. U.K. do. Amiconal Ophthalmic Solution Alcon Laboratories Canada do. Naphcon Forte Ophthalmic … do. do. do. Cetamide Solution Ointment … do. do. do. Cetapred Ophthalmic Ointment do. do. do. Atropine Ophthalmic Ointment do. do. do. Balanced Salt Solution … do. do. do. Econopred Suspension 1.8% do. do. do. Econopred Suspension 1% … do. do. do. Glaucon Solution 0.5% … do. do. do. Glaucon Solution 1.0% … do. do. do. Glaucon Solution 2.0% … do. do. do. Valadol Tablets 325 mg. … E. R. Squibb & Sons U.S.A. do. Halog Cream 0.1% … do. do. do. Metronidazole Tablets 200 mg. Harris Pharmaceuticals Ltd. U.K. do. Sulphadimidine Tablets 500 mg. do. do. do. Cyclandelate Tablets 500 mg. … do. do. do. Amitriptyline Tablets 10 mg. … do. do. do. Nalidixie Acid 500 mg. … do. do. do. Phenylbutazone & Prednisone do. do. do. Osiren Dragees 50 mg. … Farbwerke Hoechst W. Germany do. Osiren Dragees 100 mg. … do. do. do. Gamma-Veinine Vaccine … do. do. do. IFA Tablets … … Carlisle Laboratories Ltd. Barbados Freely IFA Syrup … … do. do. do. Diphenyl Expectorant … do. do. do. Hypopect Diarrhoea Mixture … do. do. do. Tridyl 2 Tablets … … do. do. Third
 Schedule [Subsidiary] Approval of New Drugs Notification
-Trade Name and Form Manufacturer
-Tridyl 5 Tablets … … Carlisle Laboratories Ltd. Ionil Dandruff Shampoo … Owen Laboratories Ionil T. Shampoo … … do. Ionax Scrub … … do. Nutraderm Lotion … do. Nutraplus Lotion … … do. Pabagel Gel … … do. Phenobarb/Theobromine Harris Pharmaceuticals Ltd.
-Tablets
-Phenobarbitone Tablets 30 mg. do. Pentobarbitone Capsules 100 mg. do. Prednisone Tablets 5 mg. … do. 131/1976. Bendrofluazide Tablets 5 mg. … do. Chlordiazepoxide Tablets 10 mg. do. Cortisone Acetate Tablets 25 mg. do. Diazepam Tablets 2 mg. … do. Diazepam Tablets 5 mg. … do. Methaqualone and do.
+Trade Name and Form Manufacturer Country of Conditions
+Tridyl 5 Tablets … … Carlisle Laboratories Ltd. Barbados Third Ionil Dandruff Shampoo … Owen Laboratories U.S.A. Freely Ionil T. Shampoo … … do. do. do. Ionax Scrub … … do. do. do. Nutraderm Lotion … do. do. do Nutraplus Lotion … … do. do. do. Pabagel Gel … … do. do. do. Phenobarb/Theobromine Harris Pharmaceuticals Ltd. U.K. Controlled
+Tablets Drug
+Phenobarbitone Tablets 30 mg. do. do. do. Pentobarbitone Capsules 100 mg. do. do. do. Prednisone Tablets 5 mg. … do. do. Third 131/1976. Bendrofluazide Tablets 5 mg. … do. do. do. Chlordiazepoxide Tablets 10 mg. do. do. do. Cortisone Acetate Tablets 25 mg. do. do. do. Diazepam Tablets 2 mg. … do. do. do. Diazepam Tablets 5 mg. … do. do. do. Methaqualone and do. do. do.
 Diphenhydramine Tablets
-Orphenadrine Tablets 50 mg. … do. Glutethimide Tablets 250 mg. do. Promazine Tablets 25 mg. … do. Promazine Tablets 50 mg. … do. Promazine Tablets 100 mg. … do. Quinidine Sulphate Tablets do.
+Orphenadrine Tablets 50 mg. … do. do. do. Glutethimide Tablets 250 mg. do. do. do. Promazine Tablets 25 mg. … do. do. do. Promazine Tablets 50 mg. … do. do. do. Promazine Tablets 100 mg. … do. do. do. Quinidine Sulphate Tablets do. do. do.
 300 mg.
-Quinidine Sulphate Tablets do.
+Quinidine Sulphate Tablets do. do. do.
 200 mg.
-Imipramine Tablets 25 mg. … do. Phenylbutazone Tablets 100 mg. do. Guanethidine Tablets 10 mg. do. Guanethidine Tablets 25 mg. do. Digoxin Tablets 0.25 mg. … do. Prednisolone Tablets 5 mg. … do. Prochlorperazine Maleate do.
+Imipramine Tablets 25 mg. … do. do. do. Phenylbutazone Tablets 100 mg. do. do. do. Guanethidine Tablets 10 mg. do. do. do. Guanethidine Tablets 25 mg. do. do. do. Digoxin Tablets 0.25 mg. … do. do. do. Prednisolone Tablets 5 mg. … do. do. do. Prochlorperazine Maleate do. do. do.
 Tablets 50 mg.
-Benzhexol Tablets 2 mg. … do. Benzhexol Tablets 5 mg. … do. Nitrofurantoin Tablets 50 mg. do. Nitrofurantoin Tablets 100 mg. do. Propantheline Tablets 15 mg. do. Sulphamethizole Tablets 100 mg. do. Chlorpropamide Tablets 250 mg. do. Hydroflumethiazide Tablets do.
+Benzhexol Tablets 2 mg. … do. do. do. Benzhexol Tablets 5 mg. … do. do. do. Nitrofurantoin Tablets 50 mg. do. do. do. Nitrofurantoin Tablets 100 mg. do. do. do. Propantheline Tablets 15 mg. do. do. do. Sulphamethizole Tablets 100 mg. do. do. do. Chlorpropamide Tablets 250 mg. do. do. do. Hydroflumethiazide Tablets do. do. do.
 50 mg.
-Paracetamol Tablets 500 mg. … do. Dimenhydrinate Tablets 50 mg. do. Quinine Bisulphate Tablets do.
-300 mg
-[Subsidiary] Approval of New Drugs Notification
-Manufacturer Country of Conditions
-origin of Sale Quinine Sulphate Tablets 300 mg. Harris Pharmaceuticals Ltd. U.K. Freely
-do. do. do. do. do. do.
-… do. do. do. Chlorpheniramine Tablets 4 mg. do. do. do.
-do. do. do. Chlorpromazine Tablets 25 mg. do. do. Third
-Schedule Chlorpromazine Tablets 100 mg. do. do. do. Chlorpromazine Tablets 50 mg. do. do. do.
-… do. do. do. Trimipramine Tablets 25 mg. … do. do. do. Meprobamate Tablets 400 mg. do. do. do.
-… Gideon Ritcher Ltd. Hungary do. Diaphyllin Gluteosum Injection do. do. do.
-do do. do.
-… do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … Ayerst Laboratories Canada do. … do. do. do. … do. do. do. Atravet Eye and Wound Powder do. do. do.
-… Smith Kline & French Ltd. U.K. do. … do. do. do.
-William H. Rorer U.S.A. Freely
-do. do. do.
-Thiamine HC 1 Tablets 10 mg. Jamaica Organic Chemicals Jamaica do.
-do. do. do. Pyridoxine HC 1 Tablets 25 mg. do. do. do.
-… do. do. do. … do. do. do. … do. do. Third
-Schedule
-… do. do. do. … do. do. do. Sulphadimidine Tablets 500 mg. do. do. do.
-… do. do. Controlled
-Drug
-… do. do. do. … do. do. do. … Schering A.G. W. Germany Freely [Subsidiary] Approval of New Drugs Notification
-Trade Name and Form Manufacturer
-Sequilar E.D. Tablets … Schering AG
-Gynodian Depot Injection … do.
-Mother Brown Anti-Rheumatic Blakoe Ltd.
-Wristlet
-Mother Brown Anti-Rheumatic do.
-Anklet
-Mother Brown Anti-Rheumatic do.
-Knee Cap
-Blakoe Bliss Cream for Women do.
-Vitamin E Cream … … do.
-Male Hormone Cream … do.
-Carry on Cream … … do.
-Lumuscoba Body Belt … do.
-Ponderax Pacaps … … Servier Laboratories Ltd.
-Damicron Tablets … do.
-Natrilix Tablets … … do.
-Ponderax Tablets … … do.
-Kashmir Snow … … National Trading Co. Bactgras Tulle Gras Dressing T. J. Smith & Nephew Titralac Liquid Concentrate … Riker Laboratories Alcetamol Elixir … … Alzia Products
-M-Vital Drops … … do.
-Ropha Pect Syrup … … Rophapharma S.A. Rheumaban Cream … J. Pickles & Sons
-Healthy Feet Cream … do.
-Pickles Ointment … … do.
-Verrugon Ointment … do.
-Snufflebabe Vapour Rub … do.
-S.C.R. Ointment … … do.
-Swarm Ointment … … do.
-Seleze Ointment … … do.
-Colser Cream … … do.
-Chilblain Cream … … do.
-Wartex … … do.
-Antiminth Tablets … Pfizer Corporation
-Antiminth Suspension … do.
-Sinequan Capsules 50 mg. … do.
-Sinequan Capsules 100 mg. … do.
-Endecon Tablets … … Endo Laboratories
-Endoglobin Forte Tablets … do.
-Percogesic Tablets … … do.
-Narcan/Neonatal Injection … do.
-Molivate Cream … … Glaxo Holdings Ltd.
-Molivate Ointment … do.
-Winolate Suspension … Sterling Winthrop Insulin Injection 80 U/ml. … Novo Industri
-Insulin Lente 80 U/ml. … do.
-Insulin Semilente 80 U/ml. … do.
-Protamine Zinc Insulin 80 U/ml. do.
-Enervite Liquid … … Consolidated Laboratories Solcisil … … Cuticura Laboratories
-[Subsidiary] Approval of New Drugs Notification
-Manufacturer Country of Conditions
-origin of Sale
-… Ciba-Geigy (U.K.) Ltd. U.K. Third
-Schedule
-… Halsey Drug Co. U.S.A. Freely … do. do. do.
-do. do. do.
-… do. do. do. … do. do. do. … Standard Laboratories U.K. Third
-Schedule
-… do. do. do. … do. do. do. … do. do. do. … do. do. do.
-Pitman Moore Inc. U.S.A. do.
-… do. do. do. … do. do. do. … do. do. do.
-do. do. do.
-… do. do. do.
-do. do. do.
-… do. do. do. … do. do. do. Thorazine Tablets 10 mg./25 mg. do. do. do. Thorazine Injection 25 mg/ml. do. do. do.
-… do. do. do: … do. do. do. … do. do. do. … do. do. do. … do. do. do. Bactrovet Injection 100 mg./ml. do. do. do. Bactrovet Suspension 125 mg./ml. do. do. do.
-… do. do. do.
-do. do. do. Ectoral Emulsifiable Concentrate do. do. do.
-do. do. do.
-… do. do. do. … do. do. do.
-do. do. do.
-… do. do. Freely … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. [Subsidiary] Approval of New Drugs Notification
-Trade Name and Form Manufacturer
-Lubrivet … … Pitman Moore Inc.
-Mercaptocaine Creme … do.
-Paltone Powder … … do.
-Pellitol Ointment … … do.
-P/M Shampoo … … do.
-Turcapsol Solution … do.
-Hypnodil Injection … Janssen Pharmaceuticals
-Stresnil Injection … … do.
-Spasmentral Injection … do.
-Fentanyl Injectable … do.
-Droperidol Injectable … do.
-Thalamonal Injectable … do.
-Triperidol Tablets … do.
-Triperidol Drops … … do.
-Triperidol Injectable … do.
-Immodium Capsules … do.
-Immodium Drops … do.
-A.T.S. 1500 U/ml. … Institute for Serobactero-
-logical Production and Research
-Lidocain 2 per cent with do.
-Adrenaline 0.001 per cent Injection
-Diphedan Tablets … … United Works of Pharma-
-ceutical and Dietetic Products
-Dopegyt Tablets … … do.
-Malipramin Tablets … do.
-Sanotensin Tablets … do.
-Teperin Tablets … … do.
-Neopepulsan Tablets … Chinoin
-Nitrofurantoin Tablets 100 mg. do.
-Oterben Tablets … … do.
-Trofurit Tablets 40 mg. … do.
-Ion-Aid … … Diamond Laboratories
-Feraplex Injectable Iron … do.
-Insulin Injection 80 v/ml. … Novo Industri
-Insulin Lente 80 v/ml. … do.
-Insulin Semilente 80 v/ml. … do.
-Protamine Zink Insulin 80 v/ml. do.
-Ronyl Tablets … … Rona Laboratories Ascorbic Acid Tablets 25 mg. Approved Prescription
-Services
-Ascorbic Acid Tablets 200 mg. do.
-Ascorbic Acid Tablets 500 … do.
-Ferrous Sulphate Compound do.
-Tablets
-Soluble Aspirin Tablets … do.
-Vitamin E Tablets 50 mg. … do.
-Vitamin E Tablets 200 mg. … do.
-Vitamin E Tablets 300 mg. … do.
-Saccharin Tablets … do.
-Caps Vitaminorum … do.
-Cascara Sagrada Tablets 300 mg. do.
-[Subsidiary] Approval of New Drugs Notification
-Manufacturer Country of Conditions
-origin of Sale Aminophylline Tablets 100 mg. Approved Prescription U.K. Third
-Services Schedule Bendrofluazide Tablets 5 mg. do. do. do.
-do. do. do. do. do. do.
-… do. do. do. … do. do. do. Sulphadimidine Tablets 500 mg. do. do. do.
-… Drug Concentrates Inc. U.S.A. Freely … I.C.N. Canada Third
-Schedule
-… Scalvo Inc. Italy do. … do. do. do. … do. do. do.
-Diphtheria Antitoxin 20,000U do. do. do.
-… Elkin Sin Lab U.S.A. do.
-do. do. do. do. do do. do. do. do.
-… Zenith Laboratories do. Freely … do. do. do. … do. do. do. … do. do. do.
-do. do. do. do. do. do.
-… do. do. do. Ergometrine Maleate Tablets … do. do. Third
-Schedule
-… do. do. do. … do. do. do. … do. do. do.
-do. do. do.
-… Delagrange Laboratories France do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. Phenylbutozone Tablets 200 mg. Approved Prescription U.K. Third
-Services Schedule
-… do. do. do. Phenobarbitone Tablets 15 mg. do. do. Controlled
-Drug [Subsidiary] Approval of New Drugs Notification
-Trade Name and Form Manufacturer
-Phenobarbitone Tablets 30 mg. Approved Prescription
-Services
-Phenobarbitone Tablets 50 mg. do.
-Phenobarbitone Tablets 60 mg. do.
-Phenobarbitone Tablets 100 mg. do.
-Sulfur Soap … … Stiefel Laboratories Inc.
-Satsid Soap … … do.
-Salicylic Acid and Sulfur Soap do.
-Aspirin Compound Tablets … Zenith Laboratories
-Promethazine Tablets 25 mg. do.
-Salt Glucose Tablets … do.
-Ephedrine Hydrochloride … do.
-Tablets 30 mg.
-Ephedrine Hydrochloride do.
-Tablets 60 mg.
-Paracetamol Tablets 500 mg. … do.
-Ephedrine Hydrochloride do.
-Tablets 7.5 mg.
-Aneurine Hydrochloride Approved Prescription
-Tablets 50 mg. Services
-Aneurine Compound Tablets … do.
-Ascorbic Acid Tablets 50 mg. do.
-Nicotinic Acid Tablets 50 mg. do.
-Isoniazid Tablets 100 mg. … do.
-Ergometrine Maleate Tablets do.
-0.5 mg.
-Stilboestrol Tablets 5 mg. … do.
-Chlorpromazine Tablets 25 mg. do.
-Chlorpromazine Tablets 100 mg. do.
-Prednisolone Tablets 5 mg. … do.
-Butobarbitone Tablets 100 mg. do.
-Jack and Jill Rub … … Carib Drug Co., Ltd. Sectral Capsules … … May & Baker Ltd. Brufen Tablets 400 mg. … The Boots Co., Ltd. Heparin (Mucous) Injection Weddel Pharmaceuticals Ltd.
-without Preservative 1000 V/ml.
-Protamine Sulphate Injection do.
-1 per cent
-Lopressor Tablets 50 mg. … Geigy Pharmaceuticals
-Lopressor Tablets 100 mg. … do.
-Rhinalgin Tablets … Sandoz Ltd.
-Tonopan Tablets … … do.
-Atasol Drops … … Frank W. Horner Ltd.
-Atasol Liquid … … do.
-Insulin Injection B.P. 20 U/ml. Weddel Pharmaceuticals Ltd.
-Insulin Injection B.P. 40 U/ml. do.
-[Subsidiary] Approval of New Drugs Notification
-Manufacturer Country of Conditions
-origin of Sale Insulin Injection B.P. 80 U/ml. Weddel Pharmaceuticals Ltd. U.K. Third
-Schedule
-do. do. do. do. do. do. Protamine Zinc Insulin 40 V/ml. do. do. do. Protamine Zinc Insulin 40 V/ml. do. do. do.
-do. do. do.
-with Preservative 1000 V/ml.
-do. do. do.
-with Preservative 5000 V/ml.
-do. do. do.
-with Preservative 25000 V/ml. Phenylbutazone Tablets 200 mg. Harris Pharmaceuticals Ltd. do. do.
-… Schering Corp. U.S.A. Freely
-149/1976.
-… do. do. Third
-Schedule
-… do. do. do. … do. do. do. … do. do. do. … Boehringer Mannheim Germany do. … do. do. do. … do. do. do. … Mead Johnson Canada do. … do. do. do.
-Savoy Labs., (Int.) Ltd. U.K. Freely
-do. do. do.
-… Bristol-Meyers U.S.A. do. … do. do. do. … Westwood Pharmaceuticals do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. Pernox Lemon Scented Cream do. do. do.
-… do. do. do. … do. do. do. … do. do. Third
-Schedule
-… Charles E. Frost & Co. Canada do. Aldactone A Tablets 100 mg. … G. D. Searle & Co. Ltd. U.K. do.
-… Norma Chemicals Ltd. do. Freely Neothylline Tablets 200 mg. … Lemmon Pharmacal Co. U.S.A. Third
-Schedule
-do. do. do.
-… do. do. do. … do. do. do. [Subsidiary] Approval of New Drugs Notification
-Trade Name and Form Manufacturer
-Ascriptin A/D Tablets … William H. Rorer Inc. 4/1977. Drixoral SA Tablets … Schering Corporation Frisium Tablets … … Farbwerke Hoechst A.R.M. Capsules … … Merley & Jones Ltd. Primperan Tablets 10 mg. … Berk Pharmaceuticals
-Primperan Injection 2 ml … do.
-Primperan Syrup 5 ml … do.
-Hydergine Tablets 1.5 mg. … Sandoz Ltd.
-Viskenit 25 capsules … do.
-Sandovene F Tablets … do.
-Santussal Syrup … do.
-Tavegyl Syrup … do.
-Fennings Soluble Junior Aspirin Fennings Pharmaceutical
-Fennings Gripe Mixture … do.
-Fennings Mixture-Lemon do.
-Flavour
-Fennings Children's Cooling do.
-Powder
-Fennings Children's Cooling do.
-Tablets
-Fennings Adult Cooling Powder do.
-Congreve's Balsamic Elixir … do.
-Antivert Tablets 12.5 mg. … Pfizer Co. Ltd.
-Antivert Tablets 25.0 mg. … do.
-Phenbutazone Tablets 100 mg. I.C.N.
-E-Pam Tablets 2 mg. … do.
-E-Pam Tablets 5 mg. … do.
-E-Pam Tablets 10 mg. … do.
-Terfluzine Tablets 2 mg. … do.
-Terfluzine Tablets 5 mg. … do.
-Terfluzine Tablets 10 mg . … do.
-Furoside Tablets … … do.
-Trikacide Tablets … … do.
-Dopamet Tablets … … do.
-Acetazolam Tablets … do.
-Impril Tablets 10 mg. … do.
-Impril Tablets 25 mg. … do.
-Impril Tablets 50 mg. … do.
-Travamine Tablets … do.
-Bisacolax Tablets … do.
-One Daily Vitamins & Iron do.
-Tablets
-One Daily Vitamins Tablets … do.
-Hematogene-12 Elixir … do.
-Vitamin B Forte with C do.
-Capsules
-Multimin Tablets … … do.
-Levate Tablets 10 mg … do.
-Levate Tablets 25 mg. … do.
-Levate Tablets 50 mg. … do.
-Aparkane Tablets 2 mg. … do.
-[Subsidiary] Approval of New Drugs Notification
-Manufacturer Country of Conditions
-origin of Sale
-… I.C.N. Canada Third
-Schedule
-… do. do. do. … do. do. do. … do. do. do. … do. do. do. … Whitmoyer Laboratories Inc. U.S.A. Freely … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. Sorbitrate Oral Tablets 5 mg. … Stuart Pharmaceuticals U.S.A. Third
-Schedule Sorbitrate Oral Tablets 10 mg. do. do. do.
-do. do. do. do. do. do. do. do. do.
-… do. do. do. … do. do. Controlled
-Drugs
-… Ayerst Laboratories U.K. Third
-Schedule
-… do. do. do.
-Stuart Pharmaceuticals U.S.A. Freely
-… do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. [Subsidiary] Approval of New Drugs Notification
-Trade Name and Form Manufacturer
-Stuart Formula Tablets … Stuart Pharmaceuticals
-Stuart Amino Acids & B12 … do.
-Stuartinic Tablets … do.
-Stuartnatal 1 + 1 Tablets … do.
-Stuart Prenatal Tablets … do.
-Electrosulf-3 … … Affiliated Laboratories
-Glytab-D … … do.
-Hydrodine Powder … do.
-Methacide Capsules … do.
-Mitone … … do.
-V-L-I-B … … do.
-V-Pectamalt … … do.
-Aristocort Tablets 2 mg. … Lederle Laboratories
-Aristocort Tablets 4 mg. … do.
-Normacide Tablets … Stuart Pharmaceuticals Aristocort Tablets 8 mg. … Lederle Laboratories
-Aristocort Cream 0.1% … do.
-Aristocort Ointment 0.1% … do.
-Aristocort A Cream … do.
-Aristocort Parenteral 40 mg./1 cc do.
-Aristocort Intralesional 25 mg./cc do.
-Aristocort Syrup … … do.
-Aristogesic Capsules … do.
-Artab Tablets … … Affiliated Laboratories
-Ergonovine Maleate Injectable do.
-Equilytes … … do.
-Metavin Chewable Tablets … do.
-Metavin Injectable … do.
-V-Estrovarin Aqueous … do.
-Pyrazine Injectable … do.
-Sudine Tablets … … do.
-Symbio … … do.
-Tympacaine … … do.
-Syntocin … … do.
-Uritab-Canine … … do.
-Feospan Capsules … Smith Kline & French Inc. Tranxene Capsules 5 mg. … Glaxo Aust Ltd.
-Tranxene Capsules 10 mg. … do.
-Tranxene Capsules 15 mg. … do.
-Ventolin Injection 1 ml. … Allen & Hanbury Ltd.
-Ventolin Injection 5 mg. … do.
-Luvatrene 5 mg. Tablets … Cilag-Chemie
-Luvatrene S.A. Tablets … do.
-Lysfapen Tablets … … do.
-Lysfapen Micro Tablets … do.
-Lysfapen Drops … … do.
-Vitamycin Powder … Pitman-Moors Inc.
-Weladol Disinfectant … do.
-Weladol Creme … … do.
-Weladol Shampoo … do.
-Vermiplex Capsules … do.
-Night Nurse Cough Syrup … Beechams Products Ltd. Equiben Paste … … Merck Sharp & Dohme
-Noviben Paste … … do.
-[Subsidiary] Approval of New Drugs Notification
-Manufacturer Country of Conditions
-origin of Sale
-… Bayer AG Germany Third
-Schedule
-… I.C.N. Canada do. … do. do. do. Chloroprom Tablets 100 mg. … do. do. do.
-… Fabwerke Hoechst A. G. W. Germany Freely 213/1977. … do. do. do. … do. do. do. … Diamond Laboratories Inc. U.S.A. do. … do. do. do. … do. do. do. … do. do. do. … do. do. Third
-Schedule
-… do. do. do. … do. do. do. … G. D. Serle and Co. Ltd. U.K. do. … do. do. do. … Endo Laboratories U.S.A. do. … do. do. Controlled
-Drug
-… Dr. E. Baeschlin Switzerland Freely … do. do. Third
-Schedule
-… do. do. do. … do. do. do. Sperscarpine Eye Ointment 1% do. do. do. Sperscarpine Eye Ointment 2% do. do. do. Sperscarpine Eye Ointment 3% do. do. do.
-… do. do. do. … do. do. do.
-do. do. do. do. do. do. do. do. do. Vitamin B12 Tablets 50 mcg. Humphrey Pharmacal U.S.A. Freely
-… do. do. do.
-do. do. do.
-Vitamin B Complex Tablets
-do. do. do. do. do. do. do. do. do. do do. do. do. do. do. do. do. do.
-… I.C.I. Ltd. U.K. Third
-Schedule
-… do. do. do. [Subsidiary] Approval of New Drugs Notification
-Trade Name and Form Manufacturer
-Yohistrin Tablets … … Chinoin Budapest
-Yohistrin Ampoules … do.
-Lidocaine Spray 10% … do.
-Theolair Elixir … … 3M Riker Laboratories Inc.
-Peptard Tablets … … do.
-Filair Elixir … … do.
-Optulle Paraffin … … Pousael Laboratories Ltd.
-Gauze Dressing … … do.
-Rythmodan Capsules … do.
-Ondonid Tablets … … do.
-Adalgur Coated Tablets … do.
-Topicorte Skin Cream … do.
-Topicorte Skin Ointment … do.
-Sulphadimidine Tablets 500 mg. Biological Developments Ltd.
-Sulphaguenidine Tablets 500 mg. do.
-Phthalylsulphathiasole do.
-Tablets 500 mg.
-Phenobarbitone Tablets 15 mg. do.
-Phenobarbitone Tablets 30 mg. do.
-Phenobarbitone Tablets 60 mg. do.
-Calcium Lactate Tablets 300 mg. do.
-Ephedrine Hydrochloride do.
-Tablets 60 mg.
-Ferrous Gluconate Tablets do.
+Paracetamol Tablets 500 mg. … do. do. Freely Dimenhydrinate Tablets 50 mg. do. do. do. Quinine Bisulphate Tablets do. do do.
 300 mg.
-Paracetamol Tablets 500 mg. do.
-Folic Acid Tablets 5 mg. … do.
-Vegetable Laxative Tablets … do.
-Ascorbic Acid Tablets 100 mg. do.
-Pradnisolone Tablets 5 mg. … do.
-Narisone Ointment … Schering A. G.
-Narisone Fatty Ointment … do.
-Narisone Cream … … do.
-Amosan Powder … … Knox Laboratories
-Cystax Tablets … … do.
-Mendaco Tablets … … do.
-Nixoderm Ointment … do.
-Vitaba Tablets … … do.
-Victoraminea Capsules … G. R. Lane Health Products
+Approval of New Drugs Notification [Subsidiary]
+Trade Name and Form Manufacturer Country of Conditions
+origin of Sale Quinine Sulphate Tablets 300 mg. Harris Pharmaceuticals Ltd. U.K. Freely Ferrous Gluconate Tablets do. do. do. Promethazine Tablets 25 mg. do. do. do. Biscodyl Tablets 5 mg. … do. do. do. Chlorpheniramine Tablets 4 mg. do. do. do. Quinine Bisulphate Tablets do. do. do. Chlorpromazine Tablets 25 mg. do. do. Third
+Schedule Chlorpromazine Tablets 100 mg. do. do. do. Chlorpromazine Tablets 50 mg. do. do. do. Frusemide Tablets 40 mg. … do. do. do. Trimipramine Tablets 25 mg. … do. do. do. Meprobamate Tablets 400 mg. do. do. do. Akrofollin Injection … Gideon Ritcher Ltd. Hungary do. Diaphyllin Gluteosum Injection do. do. do. Hydrocortisone Injection do do. do. Rausedyl Tablets 0.25 mg. … do. do. do. Seduxen Tablets 10 mg. … do. do. do. Klion Tablets 250 mg. … do. do. do. Rigedal Tablets … … do. do. do. Rigenicid Dragees … do. do. do. Atravet Injectable … Ayerst Laboratories Canada do. Atravet Granules … … do. do. do. Atravet Tablets … … do. do. do. Atravet Eye and Wound Powder do. do. do. Vertigon Spansule 10 mg. … Smith Kline & French Ltd. U.K. do. Vertigon Spansule 15 mg. … do. do. do. Maalox Plus Suspension William H. Rorer U.S.A. Freely Maalox Plus Tablets do. do. do.
+Thiamine HC 1 Tablets 10 mg. Jamaica Organic Chemicals Jamaica do. Paracetamol Tablets 500 mg. do. do. do. Pyridoxine HC 1 Tablets 25 mg. do. do. do. Folic Acid Tablets 5 mg. … do. do. do. Piperazine Citrate Elixir … do. do. do. Prednisolone Tablets 5 mg. … do. do. Third
+Schedule Digoxin Tablets 0.25 mg. … do. do. do. Reserpine Tablets 0.25 mg. … do. do. do. Sulphadimidine Tablets 500 mg. do. do. do. Phenobarbital Tablets 1/4 gr. … do. do. Controlled
+Drug Phenobarbital Tablets 1/2 gr. … do. do. do. Phenobarbital Tablets 1 gr. … do. do. do. Sequilar Tablets … … Schering A.G. W. Germany Freely [Subsidiary] Approval of New Drugs Notification
+Trade Name and Form Manufacturer Country of Conditions
+Sequilar E.D. Tablets … Schering AG W. Germany Freely Gynodian Depot Injection … do. do. Third Mother Brown Anti-Rheumatic Blakoe Ltd. U.K. Freely
+Wristlet
+Mother Brown Anti-Rheumatic do. do. do.
+Anklet
+Mother Brown Anti-Rheumatic do. do. do.
+Knee Cap
+Blakoe Bliss Cream for Women do. do. do. Vitamin E Cream … … do. do. do. Male Hormone Cream … do. do. do. Carry on Cream … … do. do. do. Lumuscoba Body Belt … do. do. do. Ponderax Pacaps … … Servier Laboratories Ltd. do. Third Damicron Tablets … do. do. do. Natrilix Tablets … … do. do. do. Ponderax Tablets … … do. do. do. Kashmir Snow … … National Trading Co. India Freely Bactgras Tulle Gras Dressing T. J. Smith & Nephew U.K. do. Titralac Liquid Concentrate … Riker Laboratories do. do. Alcetamol Elixir … … Alzia Products India do. M-Vital Drops … … do. do. do. Ropha Pect Syrup … … Rophapharma S.A. Belgium do. Rheumaban Cream … J. Pickles & Sons U.K. do. Healthy Feet Cream … do. do. do. Pickles Ointment … … do. do. do. Verrugon Ointment … do. do. do. Snufflebabe Vapour Rub … do. do. do. S.C.R. Ointment … … do. do. do. Swarm Ointment … … do. do. do. Seleze Ointment … … do. do. do. Colser Cream … … do. do. do. Chilblain Cream … … do. do. do. Wartex … … do. do. do. Antiminth Tablets … Pfizer Corporation Costa Rica do. Antiminth Suspension … do. do. do. Sinequan Capsules 50 mg. … do. Canada Third Sinequan Capsules 100 mg. … do. do. do. Endecon Tablets … … Endo Laboratories U.S.A. Freely Endoglobin Forte Tablets … do. do. do. Percogesic Tablets … … do. do. do. Narcan/Neonatal Injection … do. do. Third Molivate Cream … … Glaxo Holdings Ltd. U.K. do. Molivate Ointment … do. do. do. Winolate Suspension … Sterling Winthrop do. Freely Insulin Injection 80 U/ml. … Novo Industri Denmark Third Insulin Lente 80 U/ml. … do. do. do. Insulin Semilente 80 U/ml. … do. do. do. Protamine Zinc Insulin 80 U/ml. do. do. do. Enervite Liquid … … Consolidated Laboratories Jamaica Freely Solcisil … … Cuticura Laboratories U.K. do.
+Approval of New Drugs Notification [Subsidiary]
+Trade Name and Form Manufacturer Country of Conditions
+origin of Sale Ludiomil Tablets 75 mg. … Ciba-Geigy (U.K.) Ltd. U.K. Third
+Schedule Vitamin E Skin Oil … Halsey Drug Co. U.S.A. Freely Vitamin E Skin Cream … do. do. do. Vitamin C & E (Vitalitee) do. do. do. Oriental Ginseng Capsules … do. do. do. Omni-M Tablets … … do. do. do. H-11 Tablets … … Standard Laboratories U.K. Third
+Schedule H-11 Extract 2.5 ml. … do. do. do. H-11 Oral liquid 50 cc. … do. do. do. H-11 Suppositories… … do. do. do. H-11 Ointment … … do. do. do. Prednisolene Injection Pitman Moore Inc. U.S.A. do. Psymod Tablets 1 mg. … do. do. do. Psymod Injection 2 mg./ml. … do. do. do. Renzol Tablets … … do. do. do. Repositol Progesterone do. do. do. Sparteine Digitalis … … do. do. do. Strophanthin Compound do. do. do. Stiglyn 1,500 Injection … do. do. do. Telmin Powder … … do. do. do. Thorazine Tablets 10 mg./25 mg. do. do. do. Thorazine Injection 25 mg/ml. do. do. do. Tussivax … … do. do. do: Atropine Sulphate Injection … do. do. do. Bactrovet 125 mg. Tablets … do. do. do. Bactrovet 250 mg. Tablets … do. do. do. Bactrovet 1G Tablets … do. do. do. Bactrovet Injection 100 mg./ml. do. do. do. Bactrovet Suspension 125 mg./ml. do. do. do. Conofile Cream 2 per cent … do. do. do. Dexamethasone Injection do. do. do. Ectoral Emulsifiable Concentrate do. do. do. Ectoral Tablets 250 mg. do. do. do. Innovar-vet … … do. do. do. Metofane … … do. do. do. Phenylbutozone Injection do. do. do. Canex Solution … … do. do. Freely Cerbinol Solution … … do. do. do. Cerbinol Cream … … do. do. do. Diryl Powder … … do. do. do. Epitone Liquid … … do. do. do. Ferrogen Liquid … … do. do. do. Iron-Dextran complex … do. do. do. K.F.L. Insecticide Shampoo … do. do. do. [Subsidiary] Approval of New Drugs Notification
+Trade Name and Form Manufacturer Country of Conditions
+Lubrivet … … Pitman Moore Inc. U.S.A. Freely Mercaptocaine Creme … do. do. do. Paltone Powder … … do. do. do. Pellitol Ointment … … do. do. do. P/M Shampoo … … do. do. do. Turcapsol Solution … do. do. do. Hypnodil Injection … Janssen Pharmaceuticals Belgium Third Stresnil Injection … … do. do. do. Spasmentral Injection … do. do. do. Fentanyl Injectable … do. do. do. Droperidol Injectable … do. do. do. Thalamonal Injectable … do. do. do. Triperidol Tablets … do. do. do. Triperidol Drops … … do. do. do. Triperidol Injectable … do. do. do. Immodium Capsules … do. do. do. Immodium Drops … do. do. do. A.T.S. 1500 U/ml. … Institute for Serobactero- Hungary do.
+logical Production and Research
+Lidocain 2 per cent with do. do. do.
+Adrenaline 0.001 per cent Injection
+Diphedan Tablets … … United Works of Pharma- do. do.
+ceutical and Dietetic Products
+Dopegyt Tablets … … do. do. do. Malipramin Tablets … do. do. do. Sanotensin Tablets … do. do. do. Teperin Tablets … … do. do. do. Neopepulsan Tablets … Chinoin do. do. Nitrofurantoin Tablets 100 mg. do. do. do. Oterben Tablets … … do. do. do. Trofurit Tablets 40 mg. … do. do. do. Ion-Aid … … Diamond Laboratories U.S.A. Freely Feraplex Injectable Iron … do. do. do. Insulin Injection 80 v/ml. … Novo Industri Denmark Third Insulin Lente 80 v/ml. … do. do. do. Insulin Semilente 80 v/ml. … do. do. do. Protamine Zink Insulin 80 v/ml. do. do. do. Ronyl Tablets … … Rona Laboratories U.K. do. Ascorbic Acid Tablets 25 mg. Approved Prescription do. Freely
+Services
+Ascorbic Acid Tablets 200 mg. do. do. do. Ascorbic Acid Tablets 500 … do. do. do. Ferrous Sulphate Compound do. do. do.
+Tablets
+Soluble Aspirin Tablets … do. do. do. Vitamin E Tablets 50 mg. … do. do. do. Vitamin E Tablets 200 mg. … do. do. do. Vitamin E Tablets 300 mg. … do. do. do. Saccharin Tablets … do. do. do. Caps Vitaminorum … do. do. do. Cascara Sagrada Tablets 300 mg. do. do. do.
+Approval of New Drugs Notification [Subsidiary]
+Trade Name and Form Manufacturer Country of Conditions
+origin of Sale Aminophylline Tablets 100 mg. Approved Prescription U.K. Third
+Services Schedule Bendrofluazide Tablets 5 mg. do. do. do. Methylthiouracil Tablets do. do. do. Methyltestosterone Tablets do. do. do. Stilboestrol Tablets 1 mg. … do. do. do. Stilboestrol Tablets 5 mg. … do. do. do. Sulphadimidine Tablets 500 mg. do. do. do. Sip'n Rinse Powder … Drug Concentrates Inc. U.S.A. Freely Virazole Capsules 100 mg. … I.C.N. Canada Third
+Schedule Polioral 2 ml. … … Scalvo Inc. Italy do. Dif-Tet-All Vaccine … do. do. do. Diphtheria and Tetanus … do. do. do.
+Diphtheria Antitoxin 20,000IU do. do. do. Normal Saline Injection … Elkin Sin Lab U.S.A. do. Potassium Chloride Injection do. do. do. Aminophylline I.V. Injection do. do do. Lignocaine Hydrochlor 1 per do. do. do. Saccharin Tablets … Zenith Laboratories do. Freely Ferrous Sulphate Tablets … do. do. do. Halibut Liver Oil Capsules … do. do. do. Calcium Lactate Tablets … do. do. do. Ferrous Gluconate Tablets do. do. do. Calcium Gluconate Tablets do. do. do. Folic Acid Tablets 5 mg. … do. do. do. Ergometrine Maleate Tablets … do. do. Third
+Schedule Digitalis Tablets 30 mg. … do. do. do. Digitalis Tablets 60 mg. … do. do. do. Imipramine Tablets 25 mg. … do. do. do. Glyceryl Trinitrate Tablets do. do. do. Dogmatil Capsules … Delagrange Laboratories France do. Dogmatil Oral Solution … do. do. do. Dogmatil Ampoules … do. do. do. Primperan Elixir … do. do. do. Primperan Suppositories … do. do. do. Primperan Drops … … do. do. do. Primperan Paediatric … do. do. do. Primperan Injection … do. do. do. Primperan Tablets … do. do. do. Phenylbutozone Tablets 200 mg. Approved Prescription U.K. Third
+Services Schedule Acetomenaphthone Tablets … do. do. do. Phenobarbitone Tablets 15 mg. do. do. Controlled
+Drug [Subsidiary] Approval of New Drugs Notification
+Trade Name and Form Manufacturer Country of Conditions
+Phenobarbitone Tablets 30 mg. Approved Prescription U.K. Controlled
+Services Drug
+Phenobarbitone Tablets 50 mg. do. do. do. Phenobarbitone Tablets 60 mg. do. do. do. Phenobarbitone Tablets 100 mg. do. do. do. Sulfur Soap … … Stiefel Laboratories Inc. U.S.A. Freely Satsid Soap … … do. do. do. Salicylic Acid and Sulfur Soap do. do. do. Aspirin Compound Tablets … Zenith Laboratories do. do. Promethazine Tablets 25 mg. do. do. do. Salt Glucose Tablets … do. do. do. Ephedrine Hydrochloride … do. do. do.
+Tablets 30 mg.
+Ephedrine Hydrochloride do. do. do.
+Tablets 60 mg.
+Paracetamol Tablets 500 mg. … do. do. do. Ephedrine Hydrochloride do. do. do.
+Tablets 7.5 mg.
+Aneurine Hydrochloride Approved Prescription U.K. do.
+Tablets 50 mg. Services
+Aneurine Compound Tablets … do. do. do. Ascorbic Acid Tablets 50 mg. do. do. do. Nicotinic Acid Tablets 50 mg. do. do. do. Isoniazid Tablets 100 mg. … do. do. Third Ergometrine Maleate Tablets do. do. do.
+0.5 mg.
+Stilboestrol Tablets 5 mg. … do. do. do. Chlorpromazine Tablets 25 mg. do. do. do. Chlorpromazine Tablets 100 mg. do. do. do. Prednisolone Tablets 5 mg. … do. do. do. Butobarbitone Tablets 100 mg. do. do. Controlled Jack and Jill Rub … … Carib Drug Co., Ltd. Guyana Freely Sectral Capsules … … May & Baker Ltd. U.K. Third Brufen Tablets 400 mg. … The Boots Co., Ltd. do. do. Heparin (Mucous) Injection Weddel Pharmaceuticals Ltd. do. do.
+without Preservative 1000 V/ml.
+Protamine Sulphate Injection do. do. do.
+1 per cent
+Lopressor Tablets 50 mg. … Geigy Pharmaceuticals do. do. Lopressor Tablets 100 mg. … do. do. do. Rhinalgin Tablets … Sandoz Ltd. Switzerland Freely Tonopan Tablets … … do. do. Third Atasol Drops … … Frank W. Horner Ltd. Canada Freely Atasol Liquid … … do. do. do. Insulin Injection B.P. 20 U/ml. Weddel Pharmaceuticals Ltd. U.K. Third Insulin Injection B.P. 40 U/ml. do. do. do.
+Approval of New Drugs Notification [Subsidiary]
+Trade Name and Form Manufacturer Country of Conditions
+origin of Sale Insulin Injection B.P. 80 U/ml. Weddel Pharmaceuticals Ltd. U.K. Third
+Schedule Isophane Insulin Injection do. do. do. Isophane Insulin Injection do. do. do. Protamine Zinc Insulin 40 V/ml. do. do. do. Protamine Zinc Insulin 40 V/ml. do. do. do. Heparin (Mucous) Injection do. do. do.
+with Preservative 1000 V/ml. Heparin (Mucous) Injection do. do. do.
+with Preservative 5000 V/ml. Heparin (Mucous) Injection do. do. do.
+with Preservative 25000 V/ml. Phenylbutazone Tablets 200 mg. Harris Pharmaceuticals Ltd. do. do. Tinactin Aerosol … … Schering Corp. U.S.A. Freely
+149/1976. Etrafon A Tablets … … do. do. Third
+Schedule Etrafon D Tablets … … do. do. do. Etrafon M Tablets … do. do. do. Hyperstat I.V. Injection … do. do. do. Quitaxon Tablets 10 mg. … Boehringer Mannheim Germany do. Quitaxon Tablets 25 mg. … do. do. do. Euglocan Tablets 5 mg. … do. do. do. Sotacor Ampoules … Mead Johnson Canada do. Zipix Tablets 40 mg. … do. do. do. Eros Surface Anaesthetic Savoy Labs., (Int.) Ltd. U.K. Freely Eros Surface Anaesthetic do. do. do. Datril Tablets … … Bristol-Meyers U.S.A. do. Datril Syrup … … do. do. do. Sebulex Cream … … Westwood Pharmaceuticals do. do. Sebulex Lotion … … do. do. do. Fostex Cake … … do. do. do. Fostex Cream Lotion … do. do. do. Estar Gel … … do. do. do. Sebucare Lotion … … do. do. do. Transact Gel … … do. do. do. Pernox Regular Cream … do. do. do. Pernox Lemon Scented Cream do. do. do. Lowika Cake … … do. do. do. Fostril Lotion … … do. do. do. Fostril HC Lotion … do. do. Third
+Schedule Diuril Tablets … … Charles E. Frost & Co. Canada do. Aldactone A Tablets 100 mg. … G. D. Searle & Co. Ltd. U.K. do. Dubam Spray … … Norma Chemicals Ltd. do. Freely Neothylline Tablets 200 mg. … Lemmon Pharmacal Co. U.S.A. Third
+Schedule Neothylline Tablets 400 mg. do. do. do. Neothylline Elixir … … do. do. do. Neothylline Injection … do. do. do. [Subsidiary] Approval of New Drugs Notification
+Trade Name and Form Manufacturer Country of Conditions
+Ascriptin A/D Tablets … William H. Rorer Inc. U.S.A. Freely 4/1977. Drixoral SA Tablets … Schering Corporation do. Third Frisium Tablets … … Farbwerke Hoechst Germany do. A.R.M. Capsules … … Merley & Jones Ltd. U.S.A. Freely Primperan Tablets 10 mg. … Berk Pharmaceuticals U.K. Third Primperan Injection 2 ml. … do. do. do. Primperan Syrup 5 ml. … do. do. do. Hydergine Tablets 1.5 mg. … Sandoz Ltd. Switzerland do. Viskenit 25 capsules … do. do. do. Sandovene F Tablets … do. do. Freely Santussal Syrup … do. do. do. Tavegyl Syrup … do. do. do. Fennings Soluble Junior Aspirin Fennings Pharmaceutical U.K. do. Fennings Gripe Mixture … do. do. do. Fennings Mixture-Lemon do. do. do.
+Flavour
+Fennings Children's Cooling do. do. do.
+Powder
+Fennings Children's Cooling do. do. do.
+Tablets
+Fennings Adult Cooling Powder do. do. do. Congreve's Balsamic Elixir … do. do. do. Antivert Tablets 12.5 mg. … Pfizer Co. Ltd. Puerto Rico do. Antivert Tablets 25.0 mg. … do. do. do. Phenbutazone Tablets 100 mg. I.C.N. Canada Third E-Pam Tablets 2 mg. … do. do. do. E-Pam Tablets 5 mg. … do. do. do. E-Pam Tablets 10 mg. … do. do. do. Terfluzine Tablets 2 mg. … do. do. do. Terfluzine Tablets 5 mg. … do. do. do. Terfluzine Tablets 10 mg. … do. do. do. Furoside Tablets … … do. do. do. Trikacide Tablets … … do. do. do. Dopamet Tablets … … do. do. do. Acetazolam Tablets … do. do. do. Impril Tablets 10 mg. … do. do. do. Impril Tablets 25 mg. … do. do. do. Impril Tablets 50 mg. … do. do. do. Travamine Tablets … do. do. Freely Bisacolax Tablets … do. do. do. One Daily Vitamins & Iron do. do. do.
+Tablets
+One Daily Vitamins Tablets … do. do. do. Hematogene-12 Elixir … do. do. do. Vitamin B Forte with C do. do. do.
+Capsules
+Multimin Tablets … … do. do. do. Levate Tablets 10 mg. … do. do. Third Levate Tablets 25 mg. … do. do. do. Levate Tablets 50 mg. … do. do. do. Aparkane Tablets 2 mg. … do. do. do.
+Approval of New Drugs Notification [Subsidiary]
+Trade Name and Form Manufacturer Country of Conditions
+origin of Sale Aparkane Tablets 5 mg. … I.C.N. Canada Third
+Schedule Chloromide Tablets … do. do. do. Corax Capsules 5 mg. … do. do. do. Corax Capsules 10 mg. … do. do. do. Corax Capsules 25 mg. … do. do. do. Ade Powder … … Whitmoyer Laboratories Inc. U.S.A. Freely Biodin … … do. do. do. Bronclear … … do. do. do. Eddi … … … do. do. do. Electrosan … … do. do. do. Flav-a-Dee … … do. do. do. Head Start Poultry … do. do. do. Head Start Swine … … do. do. do. Piperazine Dihydrochloride … do. do. do. Piperazine Wormer Solution … do. do. do. Ro-Con … … do. do. do. Tri-Sulfalyte … … do. do. do. Whitstn-S … … do. do. do. Wheat Germ Oil … … do. do. do. Whit Vim Nos. 1, 2, 3 and 6 … do. do. do. Piperazine A/M … … do. do. do. B-Comp Injection … do. do. do. Respiraid … … do. do. do. Sorbitrate Oral Tablets 5 mg. … Stuart Pharmaceuticals U.S.A. Third
+Schedule Sorbitrate Oral Tablets 10 mg. do. do. do. Sorbitrate Chewable Tablets do. do. do. Sorbitrate Sublingual Tablets do. do. do. Sorbitrate Sublingual Tablets do. do. do. Suladyne Tablets … … do. do. do. Kinesed Chewable Tablets … do. do. Controlled
+Drugs Evadyne Tablets 25 mg. … Ayerst Laboratories U.K. Third
+Schedule Evadyne Tablets 50 mg. … do. do. do. Stuart Prenatal with Folic Stuart Pharmaceuticals U.S.A. Freely Theron Tablets … … do. do. do. Antasil Tablets … … do. do. do. Antasil Liquid … … do. do. do. Sylixon-80 Tablets … do. do. do. Cari-Tab Tablets … … do. do. do. Dialose Capsules … … do. do. do. Dialose Plus Capsules … do. do. do. Effersyllium Instant Mix … do. do. do. Ferancee HB Tablets … do. do. do. Stuart Hematinic Tablets … do. do. do. Stuart Hematinic Liquid … do. do. do. Mucoplex Tablets … do. do. do. Mulvidren-F Tablets … do. do. do. Orexin Tablets … … do. do. do. Probec-T Tablets … … do. do. do. Stuart Amino Acids Tablets … do. do. do. [Subsidiary] Approval of New Drugs Notification
+Trade Name and Form Manufacturer Country of Conditions
+Stuart Formula Tablets … Stuart Pharmaceuticals U.S.A. Freely Stuart Amino Acids & B12 … do. do. do. Stuartinic Tablets … do. do. do. Stuartnatal 1 + 1 Tablets … do. do. do. Stuart Prenatal Tablets … do. do. do. Electrosulf-3 … … Affiliated Laboratories do. do. Glytab-D … … do. do. do. Hydrodine Powder … do. do. do. Methacide Capsules … do. do. do. Mitone … … do. do. do. V-L-I-B … … do. do. do. V-Pectamalt … … do. do. do. Aristocort Tablets 2 mg. … Lederle Laboratories do. Third Aristocort Tablets 4 mg. … do. do. do. Normacide Tablets … Stuart Pharmaceuticals do. Freely Aristocort Tablets 8 mg. … Lederle Laboratories do. Third Aristocort Cream 0.1% … do. do. do. Aristocort Ointment 0.1% … do. do. do. Aristocort A Cream … do. do. do. Aristocort Parenteral 40 mg./1 cc do. do. do. Aristocort Intralesional 25 mg./cc do. do. do. Aristocort Syrup … … do. do. do. Aristogesic Capsules … do. do. do. Artab Tablets … … Affiliated Laboratories do. do. Ergonovine Maleate Injectable do. do. do. Equilytes … … do. do. do. Metavin Chewable Tablets … do. do. do. Metavin Injectable … do. do. do. V-Estrovarin Aqueous … do. do. do. Pyrazine Injectable … do. do. do. Sudine Tablets … … do. do. do. Symbio … … do. do. do. Tympacaine … … do. do. do. Syntocin … … do. do. do. Uritab-Canine … … do. do. do. Feospan Capsules … Smith Kline & French Inc. Canada Freely Tranxene Capsules 5 mg. … Glaxo Aust Ltd. Australia Third Tranxene Capsules 10 mg. … do. do. do. Tranxene Capsules 15 mg. … do. do. do. Ventolin Injection 1 ml. … Allen & Hanbury Ltd. U.K. do. Ventolin Injection 5 mg. … do. do. do. Luvatrene 5 mg. Tablets … Cilag-Chemie Switzerland do. Luvatrene S.A. Tablets … do. do. do. Lysfapen Tablets … … do. do. do. Lysfapen Micro Tablets … do. do. do. Lysfapen Drops … … do. do. do. Vitamycin Powder … Pitman-Moors Inc. U.S.A. Freely Weladol Disinfectant … do. do. do. Weladol Creme … … do. do. do. Weladol Shampoo … do. do. do. Vermiplex Capsules … do. do. do. Night Nurse Cough Syrup … Beechams Products Ltd. U.K. do. Equiben Paste … … Merck Sharp & Dohme U.S.A. do. Noviben Paste … … do. do. Third
+Approval of New Drugs Notification [Subsidiary]
+Trade Name and Form Manufacturer Country of Conditions
+origin of Sale Coforta Injection … … Bayer AG Germany Third
+Schedule Chloroprom Tablets 25 mg. … I.C.N. Canada do. Chloroprom Tablets 50 mg. … do. do. do. Chloroprom Tablets 100 mg. … do. do. do. Eryfer Compound Capsules … Fabwerke Hoechst A. G. W. Germany Freely 213/1977. Merital Capsules 25 mg. … do. do. do. Merital Capsules 50 mg. … do. do. do. Amprovine 25% … … Diamond Laboratories Inc. U.S.A. do. Amprovine 20% W.S.P. … do. do. do. Equine Proleen 775 Pelletes … do. do. do. Vitasil Plus Powder … do. do. do. Anaprime Injection … do. do. Third
+Schedule Synsac Solution Enema … do. do. do. Synotic Otic Solution … do. do. do. Norpace 100 mg. Capsules … G. D. Serle and Co. Ltd. U.K. do. Norpace 150 mg. Capsules … do. do. do. Valpin 50 Tablets … … Endo Laboratories U.S.A. do. Valpin 50 P. B. Tablets … do. do. Controlled
+Drug Oculosan Eye Drops … Dr. E. Baeschlin Switzerland Freely Novesin Eye Drops 0.4% … do. do. Third
+Schedule Oculoforte Eye Drops … do. do. do. Sperscarpine Eye Ointment … do. do. do. Sperscarpine Eye Ointment 1% do. do. do. Sperscarpine Eye Ointment 2% do. do. do. Sperscarpine Eye Ointment 3% do. do. do. Spersallerg Eye Drops … do. do. do. Spersacarpine H6 Drops 1% … do. do. do. Spersacarpine H6 Eye Drops do. do. do. Spersacarpine H6 Eye Drops do. do. do. Spersacarpine H6 Eye Drops do. do. do. Vitamin B12 Tablets 50 mcg. Humphrey Pharmacal U.S.A. Freely Lecithin Capsules … do. do. do. Humphrey's High Potency do. do. do.
+Vitamin B Complex Tablets Humphrey's High Potency do. do. do. Humphrey's Vitamin C do. do. do. Humphrey's Vitamin E do. do. do. Humphrey's Vitamin C do do. do. Humphrey's Vitamin E do. do. do. Humphrey's Multivitamins do. do. do. Equimate Injection … I.C.I. Ltd. U.K. Third
+Schedule Estrumate Injection … do. do. do. [Subsidiary] Approval of New Drugs Notification
+Trade Name and Form Manufacturer Country of Conditions
+Yohistrin Tablets … … Chinoin Budapest Hungary Third Yohistrin Ampoules … do. do. do. Lidocaine Spray 10% … do. do do. Theolair Elixir … … 3M Riker Laboratories Inc. U.S.A. Freely Peptard Tablets … … do. U.K. do. Filair Elixir … … do. do. Third Optulle Paraffin … … Pousael Laboratories Ltd. U.K. Freely Gauze Dressing … … do. do. do. Rythmodan Capsules … do. do. Third Ondonid Tablets … … do. do. do. Adalgur Coated Tablets … do. do. do. Topicorte Skin Cream … do. do. do. Topicorte Skin Ointment … do. do. do. Sulphadimidine Tablets 500 mg. Biological Developments Ltd. Ireland do. Sulphaguenidine Tablets 500 mg. do. do. do. Phthalylsulphathiasole do. do. do.
+Tablets 500 mg.
+Phenobarbitone Tablets 15 mg. do. do. Controlled Phenobarbitone Tablets 30 mg. do. do. do. Phenobarbitone Tablets 60 mg. do. do. do. Calcium Lactate Tablets 300 mg. do. do. Freely Ephedrine Hydrochloride do. do. do.
+Tablets 60 mg.
+Ferrous Gluconate Tablets do. do. do.
+300 mg.
+Paracetamol Tablets 500 mg. do. do. do. Folic Acid Tablets 5 mg. … do. do. do. Vegetable Laxative Tablets … do. do. do. Ascorbic Acid Tablets 100 mg. do. do. do. Pradnisolone Tablets 5 mg. … do. do. Third Narisone Ointment … Schering A. G. W. Germany do. Narisone Fatty Ointment … do. do. do. Narisone Cream … … do. do. do. Amosan Powder … … Knox Laboratories U.K. Freely Cystax Tablets … … do. do. do. Mendaco Tablets … … do. do. do. Nixoderm Ointment … do. do. do. Vitaba Tablets … … do. do. do. Victoraminea Capsules … G. R. Lane Health Products do. do.
 Ltd.
-Lanea Brewers Yeast … do.
+Lanea Brewers Yeast … do. do. do.
 Tablets 300 mg.
-Lanes Frutrosa Syrup … do.
-Lanes Wheat Germ Oil … do.
-Rich-O-Cal Tablets … do.
-Rational Bone Meal Tablets … do.
-Fort-E-Vite Capsules 100 I.U. do.
-[Subsidiary] Approval of New Drugs Notification
-Manufacturer Country of Conditions
-origin of Sale Fort-E-Vite Capsules 200 I.U. G. R. Lane Health Products Ltd. U.K. Freely
-… do. do. do. … do. do. do. Lanes Wheat Germ Capsules … do. do. do. Lanes Geriatric Zentron Tablets do. do. do.
-… Lusty's Natural Products Ltd. do. do. … do. do. do. … do. do. do.
-I. C. U. Canada Ltd. Canada do.
-… do. do. do.
-do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do. do: Vitamin E 100 I.U. Capsules … I.C.N. Canada Ltd. do. do. Vitamin E 200 I.U. Capsules … do. do. do.
-The De Pree Company U.S.A. do.
-Lecithin and Cider Vinegar
-… do. do. do. … Maws Limited U.K. do. … do. do. do. … do. do. do. … do. do. do. Medicated Prickly Heat Powder do. do. do.
-… do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do.
-I.C.N. Canada Ltd. Canada do.
-do. do. do.
-… do. do. do. … do. do. do. … do. do. do. … do. do. do. … do. do. do. Vitamin B12 25 mcg. Tablets … do. do. do.
-do. do. do.
-… do. do. do. [Subsidiary] Approval of New Drugs Notification
-Trade Name and Form Manufacturer
-One Daily Chewable I.C.N. Canada Ltd.
+Lanes Frutrosa Syrup … do. do do. Lanes Wheat Germ Oil … do. do. do. Rich-O-Cal Tablets … do. do. do. Rational Bone Meal Tablets … do. do. do. Fort-E-Vite Capsules 100 I.U. do. do. do.
+Approval of New Drugs Notification [Subsidiary]
+Trade Name and Form Manufacturer Country of Conditions
+origin of Sale Fort-E-Vite Capsules 200 I.U. G. R. Lane Health Products Ltd. U.K. Freely Mild Ocean Help Tablets … do. do. do. Lanes Carotene Capsules … do. do. do. Lanes Wheat Germ Capsules … do. do. do. Lanes Geriatric Zentron Tablets do. do. do. Lusty's Lecithin Capsules … Lusty's Natural Products Ltd. do. do. Lusty's Garlic Pearls … do. do. do. Lusty's Malted Kelp Tablets … do. do. do. A and D Halibut Liver Oil I. C. U. Canada Ltd. Canada do. Dried Yeast Tablets 500 mg. … do. do. do. One Daily and Iron do. do. do. A and D Cod Liver Oil do. do. do. Ferrous Sulfate Tablets do. do. do. Ferrous Gluconate Tablets do. do. do. Calcium Gluconate Tablets do. do. do. Calcium Lactate Tablets do. do. do: Vitamin E 100 I.U. Capsules … I.C.N. Canada Ltd. do. do. Vitamin E 200 I.U. Capsules … do. do. do. Vitamin B6 with Kelp, The De Pree Company U.S.A. do.
+Lecithin and Cider Vinegar Go-Pain Gel … … do. do. do. Toilet Lanolin Cream … Maws Limited U.K. do. Golden Eye Ointment … do. do. do. Cold Sore Ointment … do. do. do. Orange Halibut Vitamins … do. do. do. Medicated Prickly Heat Powder do. do. do. K-Lens Wetting Solution … do. do. do. Junior Antiseptic Cream … do. do. do. Vapine Rub … … do. do. do. Tancolin Linctus … … do. do. do. Maws Gripe Mixture … do. do. do. K. L. N. Suspension … do. do. do. Soothadent Liquid … do. do. do. Vitamin C 250 mg. I.C.N. Canada Ltd. Canada do. Vitamin C 500 mg. do. do. do. Vitamin B1 50 mg. Tablets … do. do. do. Vitamin B1 100 mg. Tablets … do. do. do. Vitamin B1 500 mg. Tablets … do. do. do. Vitamin B6 25 mg. Tablets … do. do. do. Vitamin B6 100 mg. Tablets … do. do. do. Vitamin B12 25 mcg. Tablets … do. do. do. Multimin Multivitamin and do. do. do. One Daily Multivitamins … do. do. do. [Subsidiary] Approval of New Drugs Notification
+Trade Name and Form Manufacturer Country of Conditions
+One Daily Chewable I.C.N. Canada Ltd. Canada Freely
 Multivitamins
-Vitamin C 100 mg. Tablets … do.
-Vitamin C 250 mg. Tablets … I.C.U.Canada Ltd.
-Vitamin C 500 mg. Tablets … do.
-Vitamin C 1000 mg. Tablets … do.
-Vitamin C 100 mg. do.
+Vitamin C 100 mg. Tablets … do. do. do. Vitamin C 250 mg. Tablets … I.C.U.Canada Ltd. do. do. Vitamin C 500 mg. Tablets … do. do. do. Vitamin C 1000 mg. Tablets … do. do. do. Vitamin C 100 mg. do. do. do.
 Chewable Tablets
-Symmetrel Capsules … Endo Laboratories Ltd.
-Symmetrel Syrup … … do.
-Marax-DF Syrup … … Pfizer Laboratories
-Vistrax 5 Tablets … … do.
-Vistrax 10 Tablets … … do.
-Minipres Capsules 0.5 mg. … do.
-Minipres Capsules 1.0 mg. … do.
-Minipres Capsules 2.0 mg. … do.
-Minipres Capsules 5.0 mg. … do.
-Marcain Injection 0.25% … Befors Nobel Kami
-Marcain Injection 0.50% … do.
-Marcain Injection 0.75% … do.
-Thorazine Spansula 50 mg. … Smith Kline & French Ltd.
-Thorazine Spansula 75 mg. … do.
-Thorazine Spansula 200 mg. … do.
-Thorazine Spansula 150 mg. … do.
-Thorazine Spansula 300 mg. … do.
-Stuart Formula Liquid … Stuart Pharmaceuticals
-Stuart Therapeutic do.
+Symmetrel Capsules … Endo Laboratories Ltd. U.S.A. Third Symmetrel Syrup … … do. do. do. Marax-DF Syrup … … Pfizer Laboratories do. Freely Vistrax 5 Tablets … … do. do. Third Vistrax 10 Tablets … … do. do. do. Minipres Capsules 0.5 mg. … do. do. do. Minipres Capsules 1.0 mg. … do. do. do. Minipres Capsules 2.0 mg. … do. do. do. Minipres Capsules 5.0 mg. … do. do. do. Marcain Injection 0.25% … Befors Nobel Kami Sweden do. Marcain Injection 0.50% … do. do. do. Marcain Injection 0.75% … do. do. do. Thorazine Spansula 50 mg. … Smith Kline & French Ltd. U.S.A. do. Thorazine Spansula 75 mg. … do. do. do. Thorazine Spansula 200 mg. … do. do. do. Thorazine Spansula 150 mg. … do. do. do. Thorazine Spansula 300 mg. … do. do. do. Stuart Formula Liquid … Stuart Pharmaceuticals do. Freely Stuart Therapeutic do. do. do.
 Multivitamin Tablets
-Mulvidran Tablets … do.
-Ferancee-HP Tablets … do.
-Normacid Tablets … do.
-Stuart Amino Acids Powder … do.
-Stuart Amino Acids with do.
+Mulvidran Tablets … do. do. do. Ferancee-HP Tablets … do. do. do. Normacid Tablets … do. do. do. Stuart Amino Acids Powder … do. do. do. Stuart Amino Acids with do. do. do.
 B12 Powder
-Migraleve Tablets … International Laboratories
+Migraleve Tablets … International Laboratories U.K. do.
 Ltd.
-Crampex Tablets … … do.
-Kay's Gripe Mixture … Robert Laboratories 214/1977.
-Excel Elixir … … do.
-Spraymate Breath Freshner … De Witt International
-Secron … … do.
-Rynacrom Nasal Spray … Fisons Ltd.
-Opticrom Eye Drops … do.
-Deltazone Tablets Arthur Cox & Co.
+Crampex Tablets … … do. do. do. Kay's Gripe Mixture … Robert Laboratories England do. 214/1977. Excel Elixir … … do. do. do. Spraymate Breath Freshner … De Witt International do. do. Secron … … do. do. do. Rynacrom Nasal Spray … Fisons Ltd. do. Third Opticrom Eye Drops … do. do. do. Deltazone Tablets Arthur Cox & Co. do. do.
 100 mg. & 200 mg.
-Deltamine Tablets do.
+Deltamine Tablets do. do. do.
 25 mg. & 10 mg.
-Digidel Tablets do.
+Digidel Tablets do. do. do.
 250 mg. & 62.5 mg.
-Deltapam Tablets 2 mg. … do.
-Deltazide Tablets 40 mg. … do.
-Ludiomil Tabs 150 mg. … Ciba-Geigy UK
-Slow Trasicor … … do.
-Trasidrex Tablets … … do.
-215/1977. Kloref-S Sachets … Arthur H. C. Co.
-[Subsidiary] Approval of New Drugs Notification
-Manufacturer Country of Conditions
-origin of Sale … Arthur H. C. Co. England Freely … I. C. N. Canada Ltd. Canada do. … Stiefel Laboratories U.S.A. do. … Whitehall Labs. do. do. … Eli Lilly & Co. do. Third
+Deltapam Tablets 2 mg. … do. do. do. Deltazide Tablets 40 mg. … do. do. do. Ludiomil Tabs 150 mg. … Ciba-Geigy UK do. do. Slow Trasicor … … do. do. do. Trasidrex Tablets … … do. do. do. Kloref-S Sachets … Arthur H. C. Co. England Freely 215/1977.
+Approval of New Drugs Notification [Subsidiary]
+Trade Name and Form Manufacturer Country of Conditions
+origin of Sale Kloref Tablets … … Arthur H. C. Co. England Freely Histalon Tablets … … I. C. N. Canada Ltd. Canada do. Duofilm Liquid … … Stiefel Laboratories U.S.A. do. Dristan … … Whitehall Labs. do. do. Darvocet N50 & 100 … Eli Lilly & Co. do. Third
 Schedule [Subsidiary]
 †WITHDRAWAL OF APPROVAL OF
 NEW DRUGS NOTIFICATION
@@ -4475,24 +3100,23 @@ Bieffe, Florence, Italy.
 [Subsidiary]
 FISH AND FISHERY PRODUCTS REGULATIONS
 ARRANGEMENT OF REGULATIONS
-REGULATION
+REGULATIONS
 1. Citation. 2. Interpretation.
 PART I
 GENERAL
-3. Prohibition. 4. Requirements for vessels. 5. Transporting fish. 6. Restriction on export. 7. Marketing imported fish. 8. Certifying of establishment. 9. Operation of certified establishment.
-10. Export Licence. 11. Import Licence. 12. Notification by importer. 13. Conditions on licence. 14. Standard licence condition. 15. Suspension or revocation of licence. 16. Exemption permits. 17. Performance bond. 18. Failure to comply. 19. Recall Order. 20. Fees for services or use of facilities. 21. Non-payment of fees. 22. Offshore inspection arrangements. 23. Contents of arrangement. 24. Foreign government inspections. 25. Designation of methods and equipment. 26. Approved laboratories.
+3. Prohibition. 4. Requirements for vessels. 5. Transporting fish. 6. Restriction on export. 7. Marketing imported fish. 8. Certifying of establishment. 9. Operation of certified establishment. 10. Export Licence. 11. Import Licence. 12. Notification by importer. 13. Conditions on licence. 14. Standard licence condition. 15. Suspension or revocation of licence. 16. Exemption permits. 17. Performance bond. 18. Failure to comply. 19. Recall Order. 20. Fees for services or use of facilities. 21. Non-payment of fees. 22. Offshore inspection arrangements. 23. Contents of arrangement. 24. Foreign government inspections. 25. Designation of methods and equipment. 26. Approved laboratories.
 PART II
-SPECIFIC REQUIREMENTS FOR HANDLING FISH 27. Inspection/ re-inspection. 28. Owner to assist inspection. [Subsidiary] Fish and Fishery Products Regulations
+SPECIFIC REQUIREMENTS FOR HANDLING FISH 27. Inspection/re-inspection. 28. Owner to assist inspection. [Subsidiary] Fish and Fishery Products Regulations
 ARRANGEMENT OF REGULATIONS-Continued
-REGULATION
+REGULATIONS
 29. Import/export. 30. Requirements for importation. 31. Import licence requirements. 32. Cancellation or refusal of import licence. 33. Inspection by inspector. 34. Packaging. 35. Detention. 36. Inspection certificate. 37. Appeal against decision. 38. Re-inspection. 39. Result of re-inspection. 40. Void certificate. 41. Establishment certificate. 42. Minister to issue certificate. 43. Establishment inspection fee. 44. Management of establishment. 45. Cancellation and re-instatement of establishment certificate. 46. Factory vessels. 47. Frozen fish establishment. 48. Fresh fish. 49. Export of fish. 50. Preservation of fish. 51. Shellfish. 52. Record of export. 53. Canned fish. 54. Size and weight of cans. 55. Frozen fish. 56. Salted fish.
 PART III
 GENERAL REQUIREMENTS FOR ESTABLISHMENTS 57. General conditions.
 PART IV
 SPECIFIC REQUIREMENTS FOR ESTABLISHMENTS 58. Canneries.
-[Subsidiary] Fish and Fishery Products Regulations
+Fish and Fishery Products Regulations [Subsidiary]
 REGULATIONS
-59. Salted dried fish establishments. 60. Fresh or frozen fish or semi-preserved processing establishments. 61. Pickled, spiced and marinated fish establishments.
+59. Salted or dried fish establishments. 60. Fresh or frozen fish or semi-preserved processing establishments. 61. Pickled, spiced and marinated fish establishments.
 PART V
 GENERAL OPERATING REQUIREMENTS FOR
 ESTABLISHMENTS
@@ -4510,8 +3134,7 @@ REQUIREMENTS FOR STORING FROZEN FISH
 67. Frozen fish storing.
 PART IX
 REQUIREMENTS FOR VEHICLES AND EQUIPMENT USED FOR UNLOADING, HANDLING, HOLDING AND
-TRANSPORTING FRESH FISH FOR PROCESSING
-68. Requirements for vehicles and equipment.
+TRANSPORTING FRESH FISH FOR PROCESSING 68. Requirements for vehicles and equipment.
 PART X
 MISCELLANEOUS
 69. Offences. 70. Penalty.
@@ -4536,8 +3159,7 @@ fishery products are prepared, processed, chilled, frozen packaged or stored;
 "export" to send or convey fish to another country for the purpose
 of marketing;
 "factory vessel" means any vessel on which fishery products
-undergo one or more of the following operations filleting, slicing, skinning, mincing, freezing or processing, and includes packaging;
-[Subsidiary] Fish and Fishery Products Regulations
+undergo one or more of the following operations filleting, slicing, skinning, mincing, freezing or processing, and includes packaging; Fish and Fishery Products Regulations [Subsidiary]
 "fish" means all sea water or fresh water animals or parts thereof
 and includes: shellfish, crustaceans, marine animals and any parts of shellfish, crustaceans or marine animals; the eggs, sperm, spawn, larvae, spat and juvenile stages of fish, shellfish, crustaceans and marine animals; and fish products or by-products; but excluding turtles, aquatic mammals and frogs; "grade name" means a prescribed name or designation for a
 category or class of fish; "import" means to convey or bring into the country for the
@@ -4548,7 +3170,7 @@ distributing, trading in and selling fish and any other act necessary to make fi
 Health is assigned; "preparing" means processing, storing, inspecting, grading,
 assembling, packaging, pricing, marking, coding and labelling; "preserved" means any fish that has been prepared by salting,
 smoking, drying or any combination thereof with a moisture content not greater than twenty-four per cent; "processing" means cleaning, eviscerating, filleting, washing,
-shucking, chilling, icing, packing, canning, freezing, irradiating, pasteurizing, preserving, smoking, salting, cooking, pickling and drying; "Regulations" means Regulations made under the Food and
+shucking, chilling, icing, packing, canning, freezing, irradiating, pasteurising, preserving, smoking, salting, cooking, pickling and drying; "Regulations" means Regulations made under the Food and
 Drugs Act; [Subsidiary] Fish and Fishery Products Regulations
 "sterilised" means fish that has been treated with heat to prevent
 spoilage and to destroy all pathogenic organisms;
@@ -4572,7 +3194,7 @@ from a certified establishment unless the means of transport and equipment used 
 regulation 10 shall export or have in possession for export any fish that does not meet the requirements of prescribed regulations.
 (2) Each shipment prepared for export shall be
 accompanied by an Export Health Certificate issued by the competent authority wherever applicable.
-[Subsidiary] Fish and Fishery Products Regulations
+Fish and Fishery Products Regulations [Subsidiary]
 7. No person shall market or have in possession to market any fish that has been imported unless the fish meets the requirements of prescribed Regulations.
 8. The Minister may issue to any person a certificate authorising the person to use an establishment for importing or exporting fish or preparing it for export. The application for the issue of a certificate shall be in the manner set out in Form A of the First Schedule and the certificate issued shall be in the manner set out in Form B.
 9. No person shall operate a certified establishment unless it meets the requirements of the prescribed Regulations.
@@ -4604,7 +3226,7 @@ emergency or for international aid.
 a licence is issued under these Regulations to post a performance bond or provide other security that is satisfactory to the competent authority as a guarantee that the person will comply with the Regulations and the terms and conditions of the licence.
 18. Where a person fails to comply with the Regulations or
 any conditions of the licence, the competent authority may enforce the performance bond or other security referred to in regulation 17 and forfeit the said bond or security to the State.
-[Subsidiary] Fish and Fishery Products Regulations
+Fish and Fishery Products Regulations [Subsidiary]
 19. Where the Minister believes that exported or imported fish pose a danger to public health and safety, he may, by notice served on any person importing, exporting or marketing the fish, order the person to recall it and send it to a place designated by the competent authority.
 20. The Minister may by Order fix or alter the fees to be paid for a service or the use of a facility provided under the Regulations.
 21. The Minister may-
@@ -4639,7 +3261,7 @@ approved laboratory or engage a standard organisation to approve private or gove
 PART II
 SPECIFIC REQUIREMENTS FOR HANDLING FISH 27. All fish shall be subject to inspection and an inspector may
 take samples of fish free of charge for the purpose of inspection.
-[Subsidiary] Fish and Fishery Products Regulations
+Fish and Fishery Products Regulations [Subsidiary]
 28. The owner of fish or person acting on his behalf shall make readily accessible to an inspector any fish or containers for which inspection or re-inspection is required under the Regulations.
 29. No person shall import, export or process for import or export or attempt to import or export-
 (a) any fish that is tainted, decomposed,
@@ -4678,7 +3300,7 @@ shipment of fish was shipped from the importer and the date on which the fish wa
 (b) all complaints that are received respecting the
 processing, storing, grading, packaging or marking of imported fish, and the evaluations conducted and any actions taken as a result of each complaint; and
 (c) evidence of adequate processing of fish.
-[Subsidiary] Fish and Fishery Products Regulations
+Fish and Fishery Products Regulations [Subsidiary]
 32. (1) The Minister may cancel or refuse to issue an import licence where the holder of, or the applicant for the licence-
 (a) has provided false information to the Minister
 for the purpose of obtaining a licence;
@@ -4712,11 +3334,11 @@ fish, an inspector may detain the fish by attaching to any of the fish or any co
 (c) a brief description of the lot detained;
 (d) the date; and
 (e) the signature of the inspector.
-(2) Where any fish is detained pursuant to subregulation
-(1), the inspector shall deliver or mail to the owner or his agent a duly completed notice of detention.
+(2) Where any fish is detained pursuant to subregulation (1),
+the inspector shall deliver or mail to the owner or his agent a duly completed notice of detention.
 (3) Where any fish is detained pursuant to subregulation (1),
 on premises owned by a person who is not the owner of the fish, a copy of the notice of detention shall be delivered or mailed to that person.
-[Subsidiary] Fish and Fishery Products Regulations
+Fish and Fishery Products Regulations [Subsidiary]
 (4) No person shall alter, deface or remove a tag attached to any fish or container thereof pursuant to subregulation (1) or move, sell or dispose of any such fish or container thereof unless he has obtained a release from an inspector.
 (5) Notwithstanding subregulation (4), where it is necessary for any fish or container thereof referred to in that subregulation to be moved from one warehouse to another, or the owner of the fish or container or his agent has made a reasonable request for the fish or container to be moved under detention, an inspector may permit such fish or container thereof to be moved accordingly.
 (6) Where an inspector is satisfied that any fish detained pursuant to subregulation (5), meets the requirements of the Regulations, he shall prepare a notice of release and deliver or mail one copy thereof to the owner of the fish or his agent and one copy to the person, if any, on whose premises the fish was found.
@@ -4749,7 +3371,7 @@ developed for use in the establishment;
 programme meets the requirements set out in the Third Schedule; and
 (d) the applicant pays the non-refundable
 application fee.
-[Subsidiary] Fish and Fishery Products Regulations
+Fish and Fishery Products Regulations [Subsidiary]
 43. Where a person who is the owner or operator of an establishment or of facilities intended for use as an establishment makes an application to determine whether the establishment or the facility meets the prescribed requirements, the person shall pay a fee of one thousand dollars.
 44. (1) Any operator of an establishment in respect of which a certificate has been issued and in which fish is processed for export shall-
 (a) comply with the prescribed requirements;
@@ -4790,7 +3412,7 @@ frozen fish unless the establishment meets the prescribed requirements.
 fish intended for processing unless the unloading, handling, holding or transportation meets the prescribed requirements.
 49. No person shall export, process for export or attempt to
 process for export any fresh fish unless the unloading, handling, holding and transportation of such fish have been conducted in accordance with the prescribed requirements.
-[Subsidiary] Fish and Fishery Products Regulations
+Fish and Fishery Products Regulations [Subsidiary]
 50. (1) Processed fish shall be protected from contamination and the weather during loading, unloading and transportation.
 (2) Fresh fish and semi-preserves, while under the control of a carrier, shall be kept properly chilled.
 (3) Frozen fish, while under the control of a carrier, shall be kept refrigerated in such a manner that, when it is delivered to its destination, the temperature of such fish will not have increased more than 5.5˚C from the temperature at the time it was loaded.
@@ -4833,7 +3455,7 @@ the pin bones removed.
 shall be kench or pickle cured and shall be packed according to moisture content.
 (9) The classes of salted fish are "light salted", semi-
 preserved, having a salt content of six per cent to ten per cent and "heavy salted", preserved having a salt content of more than ten per cent but not exceeding eighteen per cent.
-[Subsidiary] Fish and Fishery Products Regulations
+Fish and Fishery Products Regulations [Subsidiary]
 PART III
 GENERAL REQUIREMENTS FOR ESTABLISHMENTS
 57. (1) The surface of floors in wet working areas where fish is received, held or processed shall be sloped for drainage purposes and constructed of concrete or such other material as the competent authority may approve.
@@ -4843,8 +3465,8 @@ GENERAL REQUIREMENTS FOR ESTABLISHMENTS
 (5) Natural or mechanical ventilation systems shall provide clean air, remove undesirable odours, steam and smoke and prevent condensation in rooms where work is performed.
 (6) Toilet facilities of types and in numbers approved by the competent authority shall be provided.
 (7) Rooms in which toilet facilities are located shall have doors of a type approved by the competent authority.
-(8) Sanitary washbasins equipped with hot and cold running water, liquid or powdered soap, hand sanitizers, foot operated faucets and air dryers or single service towels, of types shall be provided.
-(9) A foot bath shall be placed at each entrance to the processing area and maintained with an adequate supply of an appropriate sanitizer. [Subsidiary] Fish and Fishery Products Regulations
+(8) Sanitary washbasins equipped with hot and cold running water, liquid or powdered soap, hand sanitisers, foot operated faucets and air dryers or single service towels, of types shall be provided.
+(9) A foot bath shall be placed at each entrance to the processing area and maintained with an adequate supply of an appropriate sanitiser. [Subsidiary] Fish and Fishery Products Regulations
 (10) An adequate supply of safe, sanitary water that has
 a residual chlorine level of 5 ppm and a zero coliform bacteria count, determined by the membrane filter method shall be provided under a minimum operating pressure of 20 pounds per square inch.
 (11) An establishment may use water other than water
@@ -4865,7 +3487,7 @@ non-corrodible material, other than wood, and in such a manner that they can be 
 shall be provided on all working surfaces in processing rooms.
 (19) Lights over processing areas shall be shatterproof
 or covered with protective shields particularly in areas where food is exposed at any stage of processing.
-[Subsidiary] Fish and Fishery Products Regulations
+Fish and Fishery Products Regulations [Subsidiary]
 PART IV
 SPECIFIC REQUIREMENTS FOR ESTABLISHMENTS
 58. (1) Rooms in which fish is processed shall have ceilings that are free from cracks, crevices and open joints, constructed of smooth, washable, light coloured material and are of a height acceptable to the competent authority.
@@ -4903,7 +3525,7 @@ boards, on which fish is processed shall be made of non-corrodible material, oth
 salted fish, other than packaged fish, shall be constructed of material approved by the competent authority.
 (6) Receptacles, trays and utensils in which pickled fish
 is held shall be constructed in such a manner that the contents thereof can drain.
-[Subsidiary] Fish and Fishery Products Regulations
+Fish and Fishery Products Regulations [Subsidiary]
 (7) Containers used in the processing of fish shall be constructed of material approved by the competent authority.
 60. (1) Rooms in which fish is processed shall have ceilings that are free from cracks, crevices and open joints, constructed of smooth, washable, light coloured material and are of a height acceptable to the competent authority.
 (2) Hot water shall be provided and maintained at a minimum temperature of 43ºC in sufficient quantity for the operations of the fresh or frozen fish establishment.
@@ -4941,7 +3563,7 @@ shall be employed in any working area of an establishment.
 shall wash his hands immediately after each absence from duty.
 (3) No person, who with their bare hands handle fish,
 shall wear fingernail polish.
-[Subsidiary] Fish and Fishery Products Regulations
+Fish and Fishery Products Regulations [Subsidiary]
 (4) All waterproof garments shall be properly cleaned after each work shift.
 (5) No person shall chew, eat, smoke or spit in a working area of an establishment.
 (6) Toilet facilities shall be maintained in a manner satisfactory to the competent authority and a supply of toilet tissue shall be available in each toilet room.
@@ -4949,7 +3571,7 @@ shall wear fingernail polish.
 (8) Offal and other refuse shall be removed from the processing area at least once daily and be handled in manner satisfactory to the competent authority.
 (9) Offal bins or receptacles shall be used only for offal.
 (10) Dogs, cats and other animals shall not be allowed in an establishment.
-(11) Arodent and insect control programme satisfactory to the competent authority shall be maintained in every establishment and, where pesticides are used, the application thereof shall be made under the supervision of a responsible operator using proper equipment in a manner that prevents contamination of fish.
+(11) A rodent and insect control programme satisfactory to the competent authority shall be maintained in every establishment and, where pesticides are used, the application thereof shall be made under the supervision of a responsible operator using proper equipment in a manner that prevents contamination of fish.
 (12) Pesticides referred to in subregulation (11) shall be of a kind approved by the competent authority.
 (13) Unnecessary material or equipment shall not be stored in a working area of an establishment.
 (14) The area surrounding and under the control of an establishment shall be kept clean.
@@ -4983,7 +3605,7 @@ SPECIFIC OPERATING REQUIREMENTS FOR
 ESTABLISHMENTS
 63. (1) A record of the sterilisation treatment used for each
 batch of fish shall be kept on file at a cannery for a period of not less than twenty-four months.
-[Subsidiary] Fish and Fishery Products Regulations
+Fish and Fishery Products Regulations [Subsidiary]
 (2) Water used for cooling fish shall be chlorinated to give a chlorine residual of at least two parts per million, except where canned fish is cooled in a retort using a water supply approved by the competent authority.
 (3) Fish shall be washed prior to canning.
 (4) When lobster meat has been shucked, it shall be washed in cold running water before it is processed further.
@@ -5025,7 +3647,7 @@ and utensils used in the operations of such establishments shall be kept in good
 parasitic infestation must be examined for same;
 (b) where parasites are found, fish should not be
 permitted to further processing.
-[Subsidiary] Fish and Fishery Products Regulations
+Fish and Fishery Products Regulations [Subsidiary]
 (2) All fish shall be adequately washed prior to further processing in running water before it is processed further.
 (3) Only clean ice made of water from a source approved by the competent authority be used in a fresh fish, frozen fish or semi-preserves establishment.
 (4) All processing establishments shall cause-
@@ -5064,7 +3686,7 @@ OR TRANSPORTING FISH FOR PROCESSING
 sun and weather;
 (b) be provided with drainage to effectively
 remove ice melt water and ensure that fish and ice do not come into contact with bilge water or other contamination;
-[Subsidiary] Fish and Fishery Products Regulations
+Fish and Fishery Products Regulations [Subsidiary]
 (c) where it is necessary to prevent physical damage
 to the fish, be divided into pens, which shall be shelved vertically at intervals of 90 cm or less;
 (d) be insulated and any pipes/conduits passing
@@ -5099,7 +3721,7 @@ freezing the daily catch of fish at a rate equivalent to at least the freezing r
 freezing rate not less than the rate prescribed by subregulation (10);
 (b) in the case of a packaged fish product on board
 a vessel, the time required to reduce the thermal centre of the packaged product to-20ºC shall not exceed thirty-six hours.
-[Subsidiary] Fish and Fishery Products Regulations
+Fish and Fishery Products Regulations [Subsidiary]
 (12) In removing fish-
 (a) except for brine frozen fish, the thermal centre
 of the fish on board a vessel shall be reduced to a temperature of-18ºC or lower before the fish can be removed from the freezer to the cold storage area; and
@@ -5134,7 +3756,7 @@ fish washers, tables and utensils, shall be of smooth, non-absorbent, non-corrod
 containers approved by the competent authority or enclosed vehicle bodies; and
 (b) the contact surfaces of fish storage areas in
 vehicles and of containers used for transporting fish shall be smooth, free from cracks and crevices and made of non-corrodible material.
-[Subsidiary] Fish and Fishery Products Regulations
+Fish and Fishery Products Regulations [Subsidiary]
 (4) In the vehicles transporting fish-
 (a) the containers and vehicle bodies used to hold or
 transport fish shall be filled to a level no higher than 90 cm of its depth;
@@ -5151,8 +3773,7 @@ PART X
 MISCELLANEOUS
 69. Any person who breaches any of the Regulations commits an offence and is liable on summary conviction to a fine of three hundred dollars and to imprisonment for three months.
 70. Prosecution under regulation 69 may be instituted with twelve months from the date of the subject matter of the prosecution arose. [Subsidiary] Fish and Fishery Products Regulations
-FIRST SCHEDULE
-MINISTRY OF HEALTH
+FIRST SCHEDULE MINISTRY OF HEALTH
 REPUBLIC OF TRINIDAD AND TOBAGO
 FORM A
 Chemistry/Food and Drugs Division
@@ -5170,9 +3791,8 @@ MINISTRY OF HEALTH
 A certificate is hereby granted to ... to prepare and process fish and fishery products for a period of ...
 Dated this ... day of ... 20...
 ... Chief Chemist/Director of Food and Drugs (Stamp)
-[Subsidiary] Fish and Fishery Products Regulations
-FORM B
-Regulation 8.
+Fish and Fishery Products Regulations [Subsidiary]
+FORM B Regulation 8.
 CERTIFICATE OF ESTABLISHMENT FOR FISH AND
 FISHERY PRODUCTS Food and Drugs Act, Chap. 30:01
 Fish and Fishery Products Regulations These premises situate at ...
@@ -5182,7 +3802,7 @@ Minister of Health
 This certificate must be prominently displayed. [Subsidiary] Fish and Fishery Products Regulations
 MINISTRY OF HEALTH
 REPUBLIC OF TRINIDAD AND TOBAGO
-FORM C
+FORM C Regulations 10 and 11.
 Chemistry/Food and Drugs Division
 APPLICATION FOR LICENCE TO IMPORT/EXPORT FISH
 Food and Drugs Act, Chap. 30:01
@@ -5199,7 +3819,7 @@ Applicant Date
 FOR USE BY THE CHEMISTRY/FOOD AND DRUGS DIVISION
 A licence is hereby granted to ... to import/export fish and fishery products for a period of ... Licence No... Dated this ... day of ... 20...
 ... Chief Chemist /Director of Food and Drugs
-[Subsidiary] Fish and Fishery Products Regulations
+Fish and Fishery Products Regulations [Subsidiary]
 MINISTRY OF HEALTH
 REPUBLIC OF TRINIDAD AND TOBAGO
 FORM D
@@ -5238,14 +3858,474 @@ OTHER INFORMATION ...
 LICENCE NO...
 ...
 Minister of Health
-[Subsidiary] Fish and Fishery Products Regulations
+Fish and Fishery Products Regulations [Subsidiary]
 SECOND SCHEDULE
-TABLE 1
-Regulation 62(18)(a). ACCEPTED LEVELS OF TRACE METALS, PESTICIDES AND CHEMICALS FOR FISH AND FISHERY PRODUCTS
+TABLE 1 Regulation
+62(18)(a). ACCEPTED LEVELS OF TRACE METALS, PESTICIDES AND CHEMICALS FOR FISH AND FISHERY PRODUCTS
 (Food and Drugs Regulations and Fish and Fishery Products Regulations
-Food and Drugs Act, Chap. 30:01)
-The following lists the maximum permitted or guideline levels for the presence of Trace Metals, Pesticides and Chemicals in Fish and Fishery Products in Trinidad and Tobago: Metal Maximum Value
+Food and Drugs Act, Chap. 30:01) The following lists the maximum permitted or guideline levels for the presence of Trace Metals, Pesticides and Chemicals in Fish and Fishery Products in Trinidad and Tobago: Metal Maximum Value
 (ppm)
+1. Lead ... 2.0 2. Copper ... 20.0 3. Zinc ... 50.0 4. Methyl Mercury
+(a) All Fish except predatory fish … … … 0.5
+(b) Predatory fish (such as shark, swordfish, tuna, pike and others) 1.0 Pesticides
+5. Insecticides ...
+Organo Chlorides ... Organo Phosphates ... 0.1 Carbamates ...
+6. Herbicides ... 0.5 7. PCB, PCT ... 0.5 Chemicals
+8. Sodium bisulphite-150 mg/kg sulphite for crustaceans 9. Tripolyphosphate in flesh of frozen fish-5 g/kg 10. The Total Volatile Basic Nitrogen-25-30 milligrams of
+Nitrogen/100 grams of flesh of fish depending on species type
+11. Histamine-100 ppm.
+TABLE 2 Regulation
+62(18)(b). The following is a list of microbiological tests and their respective maximum acceptable limits used for assessment of fish and fishery products for use for human consumption:
+Aerobic
+Product Plate Count Faecal Staph Salmonella V
+per g Coliforms aureus Cholerae*
+Fresh and frozen fish 5x105/g 10/g 1.0x103/g 0 0 Fresh and frozen 1x106/g 10/g 1.0x103/g 0/g 0
+crustaceans Smoked fish including l.0x105/g 4/g 1.0x103/g 0/gg 0
+kippered herring Frozen cooked crustaceans 5.0x105/g 10/g 1.0x103/g 0/g 0 [Subsidiary] Fish and Fishery Products Regulations
+THIRD SCHEDULE
+REQUIREMENTS RESPECTING QUALITY
+MANAGEMENT PROGRAMMES
+1. The quality management programme of an establishment shall
+include the keeping of the following information and documentation:
+(a) the name and title of the person responsible for the quality
+management programme at that establishment;
+(b) for each applicable control point set out in clause 2-
+(i) a description of the standards and monitoring
+procedures that are used during inspections;
+(ii) the frequency of monitoring;
+(iii) samples of the forms that are used during inspections
+and of the forms that are used to record actions taken to correct deficiencies; and
+(iv) a description of the plans developed for correcting
+deficiencies and maintaining compliance with the prescribed Regulations;
+(c) in respect of ingredients added to fish during processing-
+(i) a list of all of the ingredients that are added to the fish;
+(ii) a description of the procedures for the preparation and
+use of those ingredients that, if not prepared or used correctly, could taint the fish or render it unwholesome; and
+(iii) documentation that clearly establishes that each
+ingredient meets all applicable requirements of Acts of Parliament and Regulations made thereunder, or the results of any tests done by or for the operator of the establishment that verify that the ingredient complies with those requirements;
+(d) in respect of the packaging materials that are used to package
+fish-
+(i) a list of all of the packaging materials; and
+(ii) documentation that clearly establishes that the
+packaging materials meet the requirements of prescribed Regulations;
+(e) in respect of labels used on packaged fish, a description of the
+approval process in the establishment with respect to labels;
+Fish and Fishery Products Regulations [Subsidiary]
+(f) in respect of all compounds used in the cleaning, sanitising,
+lubricating and maintenance of equipment and plant facilities and in pest control:
+(i) a list of the compounds that are used in the
+establishment; and
+(ii) documentation that clearly establishes that the
+compounds have been approved by an agency of the Government of Trinidad and Tobago for use in food processing establishments;
+(g) in respect of fish shipped from the establishment, a description
+of the system used to trace fish to their first destination;
+(h) in respect of retort operations, a description of the training of
+the persons who supervise those operations; and
+(i) in respect of general operations a written
+documentation of good manufacturing practices and sanitary standard operating procedures approved by the competent authority.
+2. For the purposes of this Schedule, a control point is any one of the following stages in the processing of fish at which the operator of an establishment determines compliance with the prescribed Regulations:
+(a) the inspection of fish arriving at the establishment for
+processing;
+(b) the inspection of ingredients prior to their addition to fish;
+(c) the inspection of fish packaging material prior to its use;
+(d) the inspection of labels prior to their application onto
+packaged fish;
+(e) the inspection of cleaning agents, sanitisers, lubricants and
+pesticides prior to use in the establishment;
+(f) the inspection of the construction and maintenance of
+production facilities and processing equipment;
+(g) the inspection of the fish canning process;
+(h) the inspection of the retort operations;
+(i) the inspection of the cold storage of fish;
+(j) the inspection of any other process or operation in the
+establishment; and
+(k) the inspection of fish prior to shipment from the establishment.
+- Margin: 130/1964. [94/1969 53/1972 52/1974 105/1974 9/1985].
+- Margin: Citation.
+- Margin: Requirements prescribed by Regulation.
+- Margin: Interpretation. [94/1969].
+- Margin: Request to Director. [94/1969].
+- Margin: Functions, duties, responsibilities of Inspectors.
+- Margin: Certificate of appointment. Form A. Third Schedule.
+- Margin: Taking of photographs.
+- Margin: Taking samples and detention pending further examination.
+- Margin: Violation of Act or Regulations and re-labelling or re-conditioning of food, drug, cosmetic or device.
+- Margin: Issue of certificate.
+- Margin: Taking a sample, notification of intention and division of sample.
+- Margin: Division an interference and objection to procedure by owner or person.
+- Margin: Certificate of Analysis. Form B. Third Schedule. [94/1969].
+- Margin: Definition of terms in Part II. [94/1969 52/1974 118/2003].
+- Margin: First Schedule.
+- Margin: First Schedule.
+- Margin: First Schedule.
+- Margin: Ch. 78:01.
+- Margin: Ch. 78:50.
+- Margin: Offence to sell unlabelled food. [52/1974].
+- Margin: Labelling of package. [94/1969 52/1974 9/1985 118/2003].
+- Margin: Labelling of breastfeeding substitutes. [9/1985].
+- Margin: Labelling of beverages containing alcohol. [118/2003].
+- Margin: Labelling of brewery products. [118/2003].
+- Margin: Declaration of net contents not required on certain labels. [52/1974].
+- Margin: List of ingredients not required on certain labels. [52/1974].
+- Margin: Declaration not required. [52/1974].
+- Margin: Declaration not required to indicate presence of flavouring. [52/1974].
+- Margin: Dried or dehydrated products. [52/1974 37/1991 118/2003].
+- Margin: Food from vending machine. [52/1974].
+- Margin: Non-application of regulation 16. [52/1974 118/2003].
+- Margin: Standard for a food.
+- Margin: Name of designation given to standard, grade or definition. [94/1969].
+- Margin: Adulteration of food. [53/1972 192/1999].
+- Margin: First Schedule.
+- Margin: Non- adulteration.
+- Margin: Contents of package.
+- Margin: Display of information on label.
+- Margin: First Schedule.
+- Margin: Offence.
+- Margin: Definition of terms in Part III. [94/1969 52/1974].
+- Margin: Ch. 30:02.
+- Margin: Second Schedule.
+- Margin: *27 of 1961.
+- Margin: Second Schedule.
+- Margin: Second Schedule.
+- Margin: Third Schedule.
+- Margin: Ch. 29:52.
+- Margin: Second Schedule.
+- Margin: Third Schedule.
+- Margin: Ch. 67:04.
+- Margin: Labelling of drug.
+- Margin: Contents of label. [94/1969 52/1974].
+- Margin: Second Schedule.
+- Margin: Label on bulk package. [52/1974].
+- Margin: Second Schedule.
+- Margin: Name and proportion of drug to be stated on label.
+- Margin: Label to contain all information.
+- Margin: Information clearly and prominently displayed.
+- Margin: Reference to drug.
+- Margin: Drug to conform to standard.
+- Margin: Parenteral, Third Schedule or controlled drugs.
+- Margin: First Schedule.
+- Margin: Exemption from section 4(1).
+- Margin: Drug in form of tablet.
+- Margin: Variations from declared quantity.
+- Margin: Caution on label of drug.
+- Margin: Third Schedule or a controlled drug not to be advertised.
+- Margin: Prohibition.
+- Margin: Second Schedule.
+- Margin: Contravention or non- compliance with Part III.
+- Margin: Date Regulations became effective.
+- Margin: Regulation 30. [94/1969 53/1972 105/1974 111/1986 72/1996 192/1999 199/1999 118/2003].
+- Margin: Ch. 67:53. Sub. Leg.
+- Margin: Regulation. [130/1964 94/1969 49/1987 160/2017 344/2019].
+- Margin: Third Schedule. Part II.
+- Margin: Third Schedule.
+- Margin: [344/2019].
+- Margin: Ch. 29:52.
+- Margin: Ch. 29:52.
+- Margin: Third Schedule. Form C.
+- Margin: Third Schedule. Form E.
+- Margin: Third Schedule. Form D.
+- Margin: Third Schedule. Form E.
+- Margin: [60/2017].
+- Margin: Ch. 30:02.
+- Margin: 27 of 1961.
+- Margin: Ch. 29:52.
+- Margin: Ch. 29:52. Ch. 30 No. 2 (1950 Ed.). Ch. 12 No. 4 (1950 Ed.).
+- Margin: Schedule.
+- Margin: Second Schedule.
+- Margin: Regulations 6 and 13. [49/1987]. (Regulation 6).
+- Margin: (Regulation 13).
+- Margin: (Regulation 2).
+- Margin: (Regulation 5).
+- Margin: (Regulations 2 and 5).
+- Margin: 54/1972.
+- Margin: of Sale
+- Margin: of Sale
+- Margin: of Sale
+- Margin: 1% for veterinary use
+- Margin: use
+- Margin: units)
+- Margin: units)
+- Margin: veterinary use
+- Margin: veterinary use
+- Margin: veterinary use
+- Margin: Ointment
+- Margin: Suspension
+- Margin: of Sale
+- Margin: origin of Sale
+- Margin: Schedule
+- Margin: Suppositories
+- Margin: Mixture
+- Margin: *Change in formula.
+- Margin: of Sale
+- Margin: formula
+- Margin: origin of Sale
+- Margin: Schedule
+- Margin: Schedule
+- Margin: Strength
+- Margin: Tablets
+- Margin: Elixir
+- Margin: Tablets
+- Margin: *Change in formula.
+- Margin: origin of Sale
+- Margin: Ampoules
+- Margin: Solution
+- Margin: 250 mgm.
+- Margin: (Human)
+- Margin: *Change in formula.
+- Margin: origin of Sale
+- Margin: Schedule
+- Margin: Drug
+- Margin: Compound Tablets
+- Margin: Tablets
+- Margin: 100 mgm.
+- Margin: Tablets 15 mgm.
+- Margin: *Change in formula.
+- Margin: origin of Sale
+- Margin: Drug
+- Margin: Schedule
+- Margin: 200 mcg.
+- Margin: 500 mcg.
+- Margin: Oral (Sabin) Trivalent
+- Margin: Small Pox
+- Margin: 5 grs.
+- Margin: Tablets
+- Margin: origin of Sale
+- Margin: 0.5%
+- Margin: 1.0%
+- Margin: Solution
+- Margin: 25 mgm.
+- Margin: 50 mgm.
+- Margin: 10 mgm. per 5 ml.
+- Margin: 25 mgm. per 5 ml.
+- Margin: 100 mgm.
+- Margin: Suppositories
+- Margin: *Change in formula.
+- Margin: origin of Sale
+- Margin: Schedule
+- Margin: Syrup
+- Margin: Linctus
+- Margin: *Change in formula.
+- Margin: origin of Sale
+- Margin: Schedule
+- Margin: 100 mgm.
+- Margin: with C Tablets
+- Margin: *Change in formula.
+- Margin: origin of Sale
+- Margin: Schedule
+- Margin: 1 mgm. per 1 ml.
+- Margin: 2 mgm. per 2 ml.
+- Margin: 0.25 mgm. per ml.
+- Margin: BP 10 mgm.
+- Margin: BP 10 mgm.
+- Margin: BP 25 mgm.
+- Margin: BP 250 mgm.
+- Margin: BP 200 mgm.
+- Margin: BP 150 mgm.
+- Margin: BP 100 mgm.
+- Margin: BP 200 mgm.
+- Margin: per ml. x 2 ml.
+- Margin: origin of Sale
+- Margin: Schedule
+- Margin: Schedule
+- Margin: Schedule
+- Margin: Compound BP
+- Margin: Compound BPC 1949
+- Margin: Vaccine
+- Margin: Cough Linctus
+- Margin: 500 mgm.
+- Margin: 1 gramme
+- Margin: BP 500 mgm.
+- Margin: 500 mgm.
+- Margin: origin of Sale
+- Margin: Schedule
+- Margin: Schedule
+- Margin: Drug
+- Margin: D-methorphan Liquid
+- Margin: *Change in formula.
+- Margin: origin of Sale
+- Margin: Schedule
+- Margin: Schedule
+- Margin: Schedule
+- Margin: Schedule
+- Margin: Tablets
+- Margin: Tablets
+- Margin: Lemon
+- Margin: *Change in formula.
+- Margin: origin of Sale
+- Margin: Schedule
+- Margin: Schedule
+- Margin: Schedule
+- Margin: Schedule
+- Margin: 2% x 2cc
+- Margin: 1% x 2cc
+- Margin: 1% x 5cc
+- Margin: 500 mg.
+- Margin: Mal 0.2 mg.
+- Margin: origin of Sale
+- Margin: Drug
+- Margin: Schedule
+- Margin: Tablets
+- Margin: Lozenges
+- Margin: Shampoo Liquid
+- Margin: Shampoo Gel.
+- Margin: *Change in formula.
+- Margin: origin of Sale
+- Margin: Schedule
+- Margin: Schedule
+- Margin: Schedule
+- Margin: Schedule
+- Margin: Schedule
+- Margin: Capsules
+- Margin: Tablets
+- Margin: Suspension
+- Margin: origin of Sale
+- Margin: Schedule
+- Margin: Schedule
+- Margin: Drug
+- Margin: Schedule
+- Margin: Expectorant
+- Margin: Expectorant
+- Margin: origin of Sale
+- Margin: Schedule
+- Margin: Capsules
+- Margin: Capsules
+- Margin: Tablets
+- Margin: Syrup
+- Margin: origin of Sale
+- Margin: Schedule
+- Margin: Schedule
+- Margin: Schedule.
+- Margin: Schedule
+- Margin: (Natural) Capsules
+- Margin: Chewable Tablets
+- Margin: Chewable Tablets
+- Margin: †Now film coated. ‡Change in excipient. §Change in country of origin.
+- Margin: origin of Sale
+- Margin: Schedule
+- Margin: Schedule
+- Margin: Schedule
+- Margin: Schedule
+- Margin: Formula Syrup
+- Margin: origin of Sale
+- Margin: Schedule
+- Margin: Schedule
+- Margin: Schedule
+- Margin: Schedule
+- Margin: Schedule
+- Margin: Schedule
+- Margin: C Ampoules and Tablets
+- Margin: Tablets 15 mg.
+- Margin: origin of Sale
+- Margin: Schedule
+- Margin: Schedule
+- Margin: Suppositories
+- Margin: Intramuscular
+- Margin: origin of Sale
+- Margin: Schedule
+- Margin: Schedule
+- Margin: Schedule
+- Margin: Schedule
+- Margin: Schedule
+- Margin: Compound Tablets
+- Margin: Tablets B.P.C.
+- Margin: 300 mg.
+- Margin: 500 mg.
+- Margin: 500 mg.
+- Margin: 200 mg.
+- Margin: origin of Sale
+- Margin: Schedule
+- Margin: Schedule
+- Margin: Schedule
+- Margin: Schedule
+- Margin: Capsules 65 mg.
+- Margin: Tablets
+- Margin: origin of Sale
+- Margin: Schedule
+- Margin: Schedule
+- Margin: 300 mg.
+- Margin: 200 mg.
+- Margin: 125 mg./5 ml.
+- Margin: (lemon flavoured)
+- Margin: (lemon flavoured)
+- Margin: origin of Sale
+- Margin: Schedule
+- Margin: Schedule
+- Margin: Schedule
+- Margin: Schedule
+- Margin: Schedule
+- Margin: Capsules
+- Margin: 10 mg. per ml.
+- Margin: Injection 50 mg./ml.
+- Margin: Tablets
+- Margin: 2 mg/ml.
+- Margin: 500 mg. 1G
+- Margin: 20 per cent
+- Margin: origin of Sale
+- Margin: Schedule
+- Margin: Schedule
+- Margin: 100 mg.
+- Margin: 10 mg.
+- Margin: Toxoids and Pertussis Vaccine
+- Margin: cent Plain for Injection
+- Margin: 300 mg.
+- Margin: 600 mg.
+- Margin: 0.5 mg.
+- Margin: Suppositories
+- Margin: origin of Sale
+- Margin: Schedule
+- Margin: Drug
+- Margin: Schedule
+- Margin: Schedule
+- Margin: Schedule
+- Margin: 40 V/ml.
+- Margin: 80 V/ml.
+- Margin: Cream
+- Margin: Spray
+- Margin: origin of Sale
+- Margin: Schedule
+- Margin: Schedule
+- Margin: Schedule
+- Margin: Schedule
+- Margin: 5 mg.
+- Margin: 2.5 mg.
+- Margin: 5 mg.
+- Margin: Acid Tablets
+- Margin: origin of Sale
+- Margin: Schedule
+- Margin: Schedule
+- Margin: Schedule
+- Margin: Schedule
+- Margin: 2%
+- Margin: 3%
+- Margin: 4%
+- Margin: with Mineral Tablets
+- Margin: 300 Tablets
+- Margin: 100 Capsules
+- Margin: 500 Tablets
+- Margin: 200 Capsules
+- Margin: with Iron Tablets
+- Margin: origin of Sale
+- Margin: Schedule
+- Margin: Schedule
+- Margin: Schedule
+- Margin: Drug
+- Margin: Schedule
+- Margin: Capsules
+- Margin: Multivitamin Tablets
+- Margin: Capsules 300 mg.
+- Margin: 300 mg. U.S.P.
+- Margin: 300 mg. N.F.
+- Margin: 600 mg.
+- Margin: 600 mg.
+- Margin: Capsules
+- Margin: Chewable Tablets
+- Margin: Chewable Tablets
+- Margin: Mineral Tablets
+- Margin: origin of Sale
+- Margin: Schedule
+- Margin: Schedule
+- Margin: Schedule
+- Margin: 51/1969.
 - Margin: 220/1998.
 - Margin: Citation.
 - Margin: Interpretation.
@@ -5326,6 +4406,5 @@ The following lists the maximum permitted or guideline levels for the presence o
 - Margin: Penalty.
 - Margin: Regulation 8.
 - Margin: owners/
-- Margin: Regulations 10 and 11.
 - Margin: Regulation 10.
 - Margin: Regulation 11.
