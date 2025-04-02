@@ -1,0 +1,6 @@
+# 7C. Lost, stolen, destroyed Certificates. [9 of 2022].
+(1) Where a certificate is lost, stolen, mutilated, destroyed or has become illegible, the person to whom the certificate was issued shall complete and submit the applicable notification form for a replacement copy of the lost, stolen, mutilated, destroyed or illegible certificate to the CSME Registrar.
+(2) Where a certificate is lost, stolen, mutilated, destroyed or becomes illegible, the person to whom the certificate was issued may, on furnishing satisfactory proof, apply to the CSME Registrar for a replacement copy of certificate and shall pay the fee prescribed in paragraph (c) of Schedule V.
+(3) Where, on receipt of an application under subsection (2) the CSME Registrar is satisfied that the certificate is lost, stolen, mutilated, destroyed or has become illegible, the CSME Registrar shall inform the Minister and recommend the issue of a replacement copy of the certificate.
+(4) Where a person issued with a replacement copy of his certificate subsequently comes into possession of the previously lost or stolen certificate, that person shall within thirty days after coming into possession of the lost or stolen certificate, return the certificate to the CSME Registrar.
+(5) A notification form under subsection (1), shall be in a form approved by the Minister.
