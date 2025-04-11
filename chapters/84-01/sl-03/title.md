@@ -1,9 +1,10 @@
-INSURANCE (FORMS) REGULATIONS
+INSURANCE (FINANCIAL CONDITION REPORT)
+REGULATIONS
 ARRANGEMENT OF REGULATIONS
 REGULATION
-1. Citation. 2. Interpretation. 3. Forms to be used for accounts and balance sheets. 4. Form of abstracts of actuarial investigations. 5. Form of statement of long-term insurance business.
-FIRST SCHEDULE. SECOND SCHEDULE. THIRD SCHEDULE.
+1. Citation. 2. Interpretation. 3. Application. 4. Annual investigation. 5. Projection Period. 6. Materiality. 7. Base Scenario. 8. Initial Testing. 9. Further Testing. 10. Modelling techniques and documentation. 11. Financial Condition Report. 12. Commencement.
 [Subsidiary]
-INSURANCE (FORMS) REGULATIONS
-made under section 171 of Act No. 24 of 1966
-- Margin: 25/1967. [15 of 2004].
+INSURANCE (FINANCIAL CONDITION REPORT)
+REGULATIONS
+made under section 279
+- Margin: 377/2020.
