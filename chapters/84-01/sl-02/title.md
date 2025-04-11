@@ -1,10 +1,10 @@
-INSURANCE (PENSION FUND PLANS REGISTRATION FEES) REGULATIONS
+INSURANCE (CARIBBEAN POLICY PREMIUM
+METHOD) REGULATIONS
 ARRANGEMENT OF REGULATIONS
 REGULATION
-1. Citation 2. Interpretation. 3. Fee for registration of plan. 4. Fee for registration of amendments, etc. 5. Fees payable to Central Bank.
+1. Citation. 2. Interpretation. 3. Application of standards. 4. Verification of data. 5. Appointed actuary's valuation. 6. Determination of assumptions. 7. Change in assumptions. 8. Expected experience. 9. Anti-selection. 10. Provision for adverse deviations. 11. Investment return. 12. Expenses. 13. Mortality and morbidity assumptions. 14. Lapse and partial withdrawals. 15. Inflation and investment return rate. 16. Guarantees. 17. Reinsurance recoverables. 18. Actuarial report and Actuarial Certificate. 19. Commencement.
 [Subsidiary]
-INSURANCE (PENSION FUND PLANS REGISTRATION
-FEES) REGULATIONS
-made under sections 171 (1) and
-143(7) of Act No. 24 of 1966
-- Margin: 184/1970. [15 of 2004].
+INSURANCE (CARIBBEAN POLICY PREMIUM METHOD)
+REGULATIONS
+made under section 279
+- Margin: 375/2020.

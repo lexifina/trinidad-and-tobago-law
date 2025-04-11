@@ -1,0 +1,4 @@
+# SCHEDULE 12
+INTEREST MARGIN PRICING RISK CHARGE AND FACTORS
+Type of Policy
+- Margin: (Regulation 18).
