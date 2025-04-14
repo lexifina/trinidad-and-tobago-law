@@ -1,0 +1,20 @@
+# 9B. Waiver of certain liabilities. [10 of 2021 21 of 2022 18 of 2024].
+(1) Notwithstanding any written law to the contrary, there shall be a waiver of the following liabilities:
+(a) interest on an outstanding tax due and payable
+for the years up to and including the year ending 31st December 2023, where the tax is paid prior to or during the prescribed period;
+(b) outstanding interest charged on an outstanding
+tax due and payable for the years up to and including the year ending 31st December 2023, where the tax is paid prior to or during the prescribed period;
+(c) all penalties due and payable on or in respect of
+any tax or outstanding tax or interest for the years up to and including the year ending 31st December 2023, where the tax is paid prior to or during the prescribed period;
+(d) all penalties on any outstanding return for the
+years up to and including the year ending 31st December 2023, where the return is filed prior to or during the prescribed period; and
+(e) all penalties with respect to any return for the
+years up to and including the year ending 31st December 2023 and filed prior to 1st October 2024, where such penalties have not been paid.
+(2) For the avoidance of doubt, the waiver granted under subsection (1) shall not-
+(a) affect a liability to a tax which is due and
+payable under this Act; and
+(b) apply to any interest or penalty paid prior to
+1st October 2024.
+(3) Where a tax or return remains outstanding after the end of the prescribed period, the interest and other penalties which would have been payable on the outstanding tax or return shall be revived and become payable as if the waiver in subsection (1) had not been granted.
+(4) For the purposes of this section, "prescribed period" means the period commencing on 1st October 2024 and ending on 31st December 2024.
+(5) The Minister with responsibility for finance may by Order, prescribe a later date to extend the prescribed period.
