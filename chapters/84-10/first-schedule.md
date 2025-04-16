@@ -4,7 +4,7 @@ ST. JOSEPH … … St. Joseph bounded as follows:
 North and East-By the St. Joseph River. South-By the Eastern Main Road. West-By a straight line running from the culvert on the Eastern Main Road near the entrance to the old Railway Station in a northerly direction to the ford of the St. Joseph River on the road to Maracas nearest to the Town of St. Joseph.
 ARIMA … … The boundaries of the Borough of Arima shall be
 as defined from time to time under the Public Health Ordinance.
-TUNAPUNA … … Tunapuna bounded as follows:
+TUNAPUNA … Tunapuna bounded as follows:
 North-Northern boundary of Chinab's land and a line running due East and West from that line.
 South-Old Railway line.
 East-Back Street (East) and a line running due North and South from that street. West-The boundary of the area formerly known as St. Joseph's Ward.
