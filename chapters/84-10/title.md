@@ -2,21 +2,9 @@ LIQUOR LICENCES ACT
 CHAPTER 84:10
 Act
 27 of 1955 Amended by
-18 of 1984 12 of 1956
-4/1985 33 of 1956
-6 of 1991 17 of 1960 6 of 1993
-2/1963
-3 of 1994
-21/1963
-8 of 1996
-13 of 1963
-13 of 1997
-1/19661
-3 of 1998
-2 of 1966
-66 of 2000
-11 of 1971 2 of 2002 28 of 1973 12 of 2012 45 of 1979 4 of 2014
-6 of 2014 44 of 1980
+6 of 1993 12 of 1956 3 of 1994 33 of 1956 8 of 1996 17 of 1960 13 of 1997 2/1963 3 of 1998 21/1963 66 of 2000 13 of 1963 2 of 2002 1/1966 12 of 2012 2 of 1966 4 of 2014 11 of 1971 6 of 2014 28 of 1973 117/2017 45 of 1979
+*14 of 2019 44 of 1980 *20 of 2020 18 of 1984 10 of 2021 4/1985 16 of 2021 6 of 1991
+(*See Notes on page 2)
 Index of Subsidiary Legislation
 Page Liquor Licences Regulations (GN 195/1955) ... 58
 Note on Omissions
@@ -27,7 +15,11 @@ See the following Legal Notices for Delegation of Functions Orders made with res
 (b) 192/1995; and
 (c) 15/1996.
 Note on Adaptation
-Under paragraph 6 of the Second Schedule to the Law Revision Act (Ch. 3:03) the Commission amended certain references to public officers in this Chapter. The Minister's approval of the amendments was signified by LN 52/1980, but no marginal reference is made to this Notice where any such amendment is made in the text.
+Under paragraph 6 of the Second Schedule to the Law Revision Act (Chap. 3:03) the Commission amended certain references to public officers in this Chapter. The Minister's approval of the amendments was signified by LN 52/1980, but no marginal reference is made to this Notice where any such amendment is made in the text.
+Note on Validation
+Act No. 14 of 2019 validated the constitution of licensing committees established under section 5 of this Act as well as the grant, transfer and renewal of licences and all other acts and omissions by licensing committees during the period commencing on 21st July 2014 and ending on 1st July 2019.
+Note on Act No. 20 of 2020
+The amendments made to this Act by Act No. 20 of 2020 took effect on 21st July 2020 and 1st February 2022 by LN 275/2020 and LN 15/2022 respectively.
 CHAPTER 84:10
 LIQUOR LICENCES ACT
 ARRANGEMENT OF SECTIONS SECTION
@@ -37,7 +29,7 @@ PRELIMINARY
 2. Interpretation. 3. Powers of Officers of Customs and Excise.
 PART II
 LICENSING DISTRICTS AND AUTHORITIES
-4. Division of Trinidad and Tobago into licensing districts. 5. Constitution of licensing committee. 6. Licensing areas. 7. Secretary of licensing committee.
+4. Division of Trinidad and Tobago into licensing districts. 5. Constitution of licensing committee. 6. Licensing areas. 7. Repealed by Act No. 20 of 2020.
 PART III
 LICENCES
 8. Licences. 9. Forms of licences. 10. Duration and date of licences. 11. Date of renewal of licence. 12. Licence to apply to one set of premises only. 13. Partnerships and companies. 14. Proportional payments on commencement. 15. Quarterly payments in certain cases.
@@ -45,10 +37,10 @@ PART IV
 PROCEDURE FOR OBTAINING A LICENCE
 16. Power of licensing committees to grant certificates for the issue or
 renewal of licences.
-17. Issue of licences. 18. Licensing sessions. 19. Notice of licensing sessions. 20. Applications for licenses.
+17. Issue of licences. 18. Licensing sessions. 19. Notice of licensing sessions. 20. Applications for licences.
 ARRANGEMENT OF SECTIONS-Continued SECTION
 20A. Certain licensed premises to host amusement games. 20B. Annual tax on amusement games. 20C. BIR Tag.
-21. Right of and grounds of objection to license.
+21. Right of and grounds of objection to licence.
 21A. Suspension and revocation of licences for discrimination. 21B. Discrimination on licensed premises. 21C. Suspension or revocation of licence on ground of causing a public
 annoyance.
 21D. Appeals from order of licensing committee.
@@ -80,7 +72,7 @@ COMMITTEES
 65. Officers may enter licensed premises. 66. Penalty for obstruction, etc. 67. Officer may enter suspected premises. 68. Power of Officers as to sampling, etc. 69. Members of licensing committees may enter licensed premises.
 PART VIII
 PROCEDURE
-70. Procedure. 71. Mode of describing offense of unlicensed sale. 72. Evidence of sale or consumption of intoxicating liquors. 73. Liability of partners, etc., for unauthorised sale.
+70. Procedure. 71. Mode of describing offence of unlicensed sale. 72. Evidence of sale or consumption of intoxicating liquors. 73. Liability of partners, etc., for unauthorised sale.
 Liability of occupier for unauthorised sale.
 74. Penalties.
 PART IX
