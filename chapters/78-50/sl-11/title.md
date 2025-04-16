@@ -1,3 +1,0 @@
-EXCISE DUTY (COMPRESSED NATURAL GAS) ORDER
-made under section 13(2)
-- Margin: *227/2013.

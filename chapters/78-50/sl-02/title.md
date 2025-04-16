@@ -1,3 +1,3 @@
-EXCISE DUTY (SPIRITS) ORDER
+EXCISE DUTY ORDER
 made under section 13(2)
-- Margin: *196/1957.
+- Margin: †66/1961. [146/1982].
