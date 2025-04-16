@@ -17,9 +17,9 @@ Index of Subsidiary Legislation
 Page Resolution (GN 71/1956) ... 42 Resolution (GN 142/1967) ... 43 Excise (General Provisions) Order (GN 58/1957) … … … 44 Excise Duty (Spirits) Order (GN 196/1957) ... 45 Excise Duty Order (GN 66/1961) ... 45 Excise Duty (Alcoholic Beverages) Order (LN 161/2016) … … 46 Excise Duty (Other Malt Beverage) Order (GN 119/1973) … … 48 Excise Duty (Lubricating Oils) Order (GN 3/1968) … … … 49 Excise Duty (Petroleum Products) Order (LN 86/1997) … … … 50 Excise Duty (Edible Oil) Order (LN 9/1989) ... 50 Excise Duty (Tobacco Products) Order (LN 162/2016) … … … 51 Excise Duty (Beer) Order (GN 124/1978) ... 52 Excise Duty (Compressed Natural Gas) Order (LN 227/2013) … … 52 Excise Officers (Overtime) Regulations (GN 42/1957) … … … 52 Excise Regulations (G 27.12.1934) ... 54 Excise (Fees) Regulations (GN 43/1957) ... 63
 Note on Validation
 Act No. 8 of 1984 states as follows:
-2. Notwithstanding any rule of law to the contrary, it is declared that all "Validation of acts done in acts and things purported to be done or omitted to be done by the Comptroller pursuance of
-of Customs and Excise under or in pursuance of the powers conferred by the Subsidiary Legislation. Customs (Import Duty) (Caribbean Common Market) Order, 1984 and the
-Excise Duty (Petroleum Products) Order, 1984 on or after the 2nd day of February, 1984 are deemed to have been lawfully and validly done or omitted to be done and no legal proceedings or other action of any kind shall be entertained in respect of or in consequence of such acts and things.".
+2. Notwithstanding any rule of law to the contrary, it is declared that all "Validation of acts done in
+acts and things purported to be done or omitted to be done by the Comptroller pursuance of Subsidiary of Customs and Excise under or in pursuance of the powers conferred by the Legislation.
+Customs (Import Duty) (Caribbean Common Market) Order, 1984 and the Excise Duty (Petroleum Products) Order, 1984 on or after the 2nd day of February 1984 are deemed to have been lawfully and validly done or omitted to be done and no legal proceedings or other action of any kind shall be entertained in respect of or in consequence of such acts and things.".
 CHAPTER 78:50
 EXCISE (GENERAL PROVISIONS) ACT
 ARRANGEMENT OF SECTIONS SECTION
@@ -67,8 +67,7 @@ OFFENCES
 Collusive seizure, bribery, etc.
 PART VIII SEIZURES
 63. General provision as to forfeiture. 64. Procedure on seizure. 65. Disposal of seizure. 66. Claim to seized goods to be in name of owner.
-ARRANGEMENT OF SECTIONS-Continued
-SECTION
+ARRANGEMENT OF SECTIONS-Continued SECTION
 PART IX
 LEGAL PROCEEDINGS
 67. Recovery of penalties. 68. Certificate of probable cause of seizure or act of Officer.
@@ -84,6 +83,6 @@ CHAPTER 78:50
 EXCISE (GENERAL PROVISIONS) ACT
 An Act relating to the Excise Revenues.
 [1ST JANUARY 1935]
-- Margin: 1950 Ed. Ch. 32. No . 8.
+- Margin: 1950 Ed. Ch. 32. No. 8.
 - Margin: 43 of 1934.
 - Margin: Commencement.

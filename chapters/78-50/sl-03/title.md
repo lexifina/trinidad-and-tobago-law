@@ -1,3 +1,3 @@
-EXCISE DUTY ORDER
+EXCISE DUTY (LUBRICATING OILS) ORDER
 made under section 13(2)
-- Margin: †66/1961. [146/1982].
+- Margin: *3/1968.
