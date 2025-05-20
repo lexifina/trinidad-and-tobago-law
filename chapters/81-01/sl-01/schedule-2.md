@@ -1,8 +1,5 @@
 # SCHEDULE 2
 TABLE OF CONTENTS
 CHAPTER
-1. INTERPRETATION. 2. REGISTERED OFFICE. 3. SEAL. 4. DlRECTORS. 5. BORROWING POWERS Of DIRECTORS. 6. MEETINGS OF DIRECTORS. 7. REMUNERATION OF DIRECTORS. 8. SUBMISSION OF CONTRACTS OR TRANSCATIONS TO
-SHAREHOLDERS FOR APPROVAL.
-9. FOR THE PROTECTION OF DIRECTORS AND OFFICERS. 10. INDEMNITIES TO DIRECTORS AND OFFICERS. 11. OFFICERS. 12. SHAREHOLDERS' MEETINGS. 13. SHARES.
-14. TRANSFER OF SHARES AND DEBENTURES.
-15. DIVIDENDS. 16. VOTING IN OTHER COMPANIES. 17. INFORMATION AVAILABLE TO SHAREHOLDERS. 18. NOTICES. 19. CHEQUES, DRAFTS AND NOTES. 20. EXECUTION OF INSTRUMENTS. 21. SIGNATURES. 22. FINANCIAL YEAR.
+1. Interpretation. 2. Registered Office. 3. Seal. 4. Directors. 5. Borrowing Powers of Directors. 6. Meeting of Directors. 7. Remuneration of Directors. 8. Submission of Contracts or Transactions to Shareholders for approval. 9. For the protection of Directors and Officers. 10. Indemnities to Directors and Officers. 11. Officers. 12. Shareholders' Meetings. 13. Shares. 14. Transfer of Shares and Debentures. 15. Dividends. 16. Voting in other Companies. 17. Information available to Shareholders. 18. Notices. 19. Cheques, Drafts and Notes. 20. Execution of Instruments. 21. Signatures. 22. Financial Year.
+Companies Regulations [Subsidiary]

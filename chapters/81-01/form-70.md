@@ -5,8 +5,9 @@ AFFIDAVIT OF POSTAGE OF NOTICES OF MEETING
 I, ...
 (Name of Deponent)
 a ..., make oath and say as follows:
-(Description of Deponent) 1. That I did on the ... day of ... 20..., send to each creditor mentioned in the Company's statement of affairs [or to each contributory mentioned in the register of members of the Company] a notice of the time and place of the general meeting/adjourned meeting/first meeting of creditors/first meeting of contributories in the form hereunto annexed marked "A".
+(Description of Deponent) 1. That I did on the ... day of ... 20..., send to each creditor mentioned in the Company's statement of affairs (or to each contributory mentioned in the register of members of the Company) a notice of the time and place of the general meeting/adjourned meeting/first meeting of creditors/first meeting of contributories in the form hereunto annexed marked "A".
 2. That the notices for creditors were addressed to the said creditors respectively according to their respective names and addresses appearing in the statement of affairs of the Company of the last known addresses of such creditors.
 3. That the notices for contributories were addressed to the contributories respectively according to their respective names and registered or last known addresses appearing in the register of the Company.
 4. That I sent the said notices by putting the same prepaid into the post office at ... before the hour of ... o'clock in the ... noon on the said day.
 Sworn, etc.
+The Companies Winding Up Rules

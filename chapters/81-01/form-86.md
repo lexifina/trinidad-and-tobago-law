@@ -5,9 +5,9 @@ SECTION 456
 ...
 (Name of Company)
 I, ..., the Liquidator of the above-named Company in account with the Estate.
-N.B. This Account is required in duplicate in addition to Form No. 84.
-Dr. RECEIPTS Cr. PAYMENTS Date Date
+N.B. This Account is required in duplicate in addition to Form No. 84. Dr. Cr. RECEIPTS PAYMENTS Date Date
 $ $
-Total...$ Total ...$
+Total ...$ Total ...$
 Signed ...
 (Liquidator) Dated ...
+The Companies Winding Up Rules
