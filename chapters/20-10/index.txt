@@ -2,6 +2,7 @@ title.md
 s-1.md
 s-2.md
 s-3.md
+s-3A.md
 s-4.md
 s-4A.md
 s-5.md
@@ -11,6 +12,7 @@ s-6A.md
 s-6B.md
 s-7.md
 s-7A.md
+s-7B.md
 s-7E.md
 s-8.md
 s-9.md
