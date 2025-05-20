@@ -1,8 +1,8 @@
 # FORM 7
 REPUBLIC OF TRINIDAD AND TOBAGO
-THE COMPANIES ACT, CH. 81:01
+THE COMPANIES ACT, CHAP. 81:01
 REGISTRATION OF ENFORCEMENT OF SECURITY
-1. Name of Company ... 2. Company No... 2 Name of Person ... 3. (a) The above-mentioned person has obtained an order for the appointment of
+1. Name of Company ... Company No... 2. Name of Person ... 3. (a) The above-mentioned person has obtained an order for the appointment of
 a receiver of...
 (b) The above-mentioned person has appointed a receiver of ...
 ...
@@ -16,13 +16,12 @@ a receiver of...
 ...
 Date Name and Title Signature
 ...
-FORM 7-Continued
-INSTRUCTIONS
-Format
+Companies Regulations [Subsidiary]
+INSTRUCTIONS Format
 Documents required to be sent to the Registrar pursuant to the Act must conform to regulation 3 of the Regulations under the Act. Item 1
 Set out the full legal name of the company and, except where a number has not been assigned, state the company number. Item 2
 State the name of the person seeking registration. Item 3
 Set out the appropriate particulars; see section 265(1) and (2). Item 4
 Set out the particulars of the charge(s) or order. Signature
-The person registering the document shall add his signature. Completed documents, in duplicate, and the prescribed fees are to be filed at the office of the Registrar and one set of the duplicate originals would be returned to the company or its representative with the endorsement "Registered" and the date of registration.
+The person registering the document shall add his signature. Completed documents, in duplicate, and the prescribed fees are to be filed at the office of the Registrar and one set of the duplicate originals would be returned to the company or its representative with the endorsement "Registered" and the date of registration. [Subsidiary] Companies Regulations
 - Margin: Section 265.

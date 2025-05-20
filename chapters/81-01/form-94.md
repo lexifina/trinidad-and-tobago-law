@@ -2,9 +2,8 @@
 (Rule 186)
 REGISTER OF PETITIONS TO BE KEPT IN
 THE COURT
-Address of Description
-Name of Date of
+Date of Address of Description
+Name of Date of No. of
 Petitioner Winding up Registered of
-Petition Company
-Office Company
-- Margin: Date of No. of Petition Order
+Petition Company Petition
+Order Office Company

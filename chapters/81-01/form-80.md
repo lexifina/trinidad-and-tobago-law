@@ -7,7 +7,8 @@ the Liquidator of the above-named company in account with the estate.
 RECEIPTS PAYMENTS
 Dr. Cr.
 Date $ Date $
-Liquidator... Date...
+Liquidator ... Date ...
 We have examined this account with the vouchers and find the same correct, and we are of opinion the expenditure has been proper.
 Dated this ... day of ... 20...
-Committee of Inspection [or member of the Committee of Inspection]
+Committee of Inspection (or member of the Committee of Inspection)
+The Companies Winding Up Rules

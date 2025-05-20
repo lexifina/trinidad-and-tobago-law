@@ -1,15 +1,12 @@
 # FORM 39
-THE COMPANIES ACT, (CH. 81:01)
+THE COMPANIES ACT, (CHAP. 81:01)
 RETURN OF ALTERATION IN THE NAMES OR
 ADDRESSES OF THE PERSONS RESIDENT IN
-TRINIDAD AND TOBAGO AUTHORISED TO ACCEPT
-SERVICE ON BEHALF OF A COMPANY INCORPORATED
+TRINIDAD AND TOBAGO AUTHORISED TO ACCEPT SERVICE ON BEHALF OF A COMPANY INCORPORATED
 OUTSIDE TRINIDAD AND TOBAGO
 Name of Company ...
 Presented by ...
-Return of Alteration in the Names or Addresses of the Persons resident in Trinidad and Tobago authorised to accept on behalf of the Company Service of process and any notices required to be served on ... a Company incorporated in
-}
-(a) ... and which has established a place of business in Trinidad and Tobago at (b) ...
-Signature of the persons authorised under the Companies Act, or of some other person in Trinidad and Tobago duly authorised by the Company.
+Return of Alteration in the Names or Addresses of the Persons resident in Trinidad and Tobago authorised to accept on behalf of the Company Service of process and any notices required to be served on ... a Company incorporated in (a) ... and which has established a place of business in Trinidad and Tobago at (b) ...
+} Signature of the persons authorised under the Companies Act, or of some other person in Trinidad and Tobago duly authorised by the Company.
 Dated the ... day of ... 20...
-(a) Country of origin. (b) Address in Trinidad and Tobago
+(a) Country of origin. (b) Address in Trinidad and Tobago.

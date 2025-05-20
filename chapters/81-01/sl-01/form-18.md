@@ -1,13 +1,15 @@
 # FORM 18
 REPUBLIC OF TRINIDAD AND TOBAGO
-THE COMPANIES ACT, CH. 81:01
+THE COMPANIES ACT, CHAP. 81:01
 CERTIFICATE OF CONTINUANCE
 ...
 Company No.
 ...
 (Name of Company)
-I HEREBY CERTIFY that the above-mentioned Company was continued, as set out in the attached Articles of Continuance, under section 343 of the Companies Act.
+I HEREBY CERTIFY that the above-mentioned Company was continued, as
+set out in the attached Articles of Continuance, under section 343 of the Companies Act.
 ...
 Registrar of Companies
 ...
 Date of Continuance
+Companies Regulations [Subsidiary]

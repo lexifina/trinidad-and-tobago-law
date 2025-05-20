@@ -1,5 +1,5 @@
 # FORM 10
-THE COMPANIES ACT, ( CH. 81:01)
+THE COMPANIES ACT, (CHAP. 81:01)
 NOTICE OF THE SITUATION OF THE OFFICE WHERE A BRANCH REGISTER IS KEPT OR OF ANY CHANGE
 IN, OR DISCONTINUANCE OF, ANY SUCH OFFICE
 Name of Company ...
@@ -7,12 +7,13 @@ Presented by ...
 TO THE REGISTRAR,
 ...
 (Name of Company)
-... HEREBY GIVES YOU NOTICE, in accordance with the Companies Act, and by the authority of/* a Special Resolution of the Company, duly passed on the...day of ...20...,/Clause ... of the Company's Articles of Association/that a Branch Register /*is now kept at/is discontinued/
+... HEREBY GIVES YOU NOTICE, in accordance with the Companies Act, and by the authority of/*a Special Resolution of the Company, duly passed on the ... day of ... 20...,/Clause ... of the Company's Articles of Association/that a Branch Register /*is now kept at/is discontinued/
 ...
 (Address)
 in lieu of †...
 (Address)
 Signature ...
-[State whether Director or Manager or Secretary]
+(State whether Director or Manager or Secretary)
 Dated the ... day of ... 20...
-* Delete whichever is inapplicable. † In cases of change, the previous address should be inserted after the new or current address.
+*Delete whichever is inapplicable. †In cases of change, the previous address should be inserted after the new or current address. Rules in regard to Verified or Certified Copies and Certified Translations under the
+Act and as to General Forms

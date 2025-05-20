@@ -1,6 +1,6 @@
 # FORM 14
 REPUBLIC OF TRINIDAD AND TOBAGO
-THE COMPANIES ACT, CH. 81:01
+THE COMPANIES ACT, CHAP. 81:01
 ARTICLES OF AMALGAMATION
 1. Name of Company ... Company No...
 2. Liability of Members
@@ -10,14 +10,19 @@ Yes No 4. The classes of shares and any maximum number of shares in each class t
 Company is authorised to issue ... 5. Restrictions, if any, on share transfers or share ownership
 ... 6. Variation of Pre-emptive Rights
 ...
-7. Restrictions, if any, on powers of directors to amend Bye-laws
-... 8. Number (or minimum and maximum number) of Directors
-... 9. Restrictions, if any, on business the Company may carry on
-... 10. Other provisions, if any
-... 11. Names of Amalgamating Companies Company Nos.
+7. Restrictions, if any, on powers of directors to amend Bye-Laws
+... [Subsidiary] Companies Regulations
+FORM 14-Continued
+8. Number (or minimum and maximum number) of Directors
+...
+9. Restrictions, if any, on business the Company may carry on
+...
+10. Other provisions, if any
+...
+11. Names of Amalgamating Companies Company Nos.
 ...
 12. Date Name and Title Signature
-FORM 14-Continued
+Companies Regulations [Subsidiary]
 INSTRUCTIONS
 Format
 Documents required to be sent to the Registrar pursuant to the Act must conform with regulation 3 of the Regulations under the Act. Where any provision required to be set out is too long to be set out in the space provided in the form, the form may incorporate the provisions by annexing a schedule in the manner described in regulation 3(5) of the said Regulations. Item 1
@@ -30,16 +35,24 @@ If there will be two or more classes of shares, state the rights, privileges, re
 State any maximum number of shares in a class of shares that the company is authorised to issue. Item 5
 If restrictions are to be placed on the right to transfer or own shares of the company, set out a statement to this effect and the nature of such restrictions. Item 6
 If the pre-emptive rights under section 38 of the Act with respect to the issue of shares are to be varied, state the nature of any such variation. Item 7
-If the power of the directors to make, amend or repeal the Bye-laws under section 66 of the Act is restricted, state the nature of any such restriction. Item 8
-State the number of directors. If cumulative voting is permitted, the number of directors must be invariable, otherwise it is permissible to specify a minimum and maximum number of directors. Item 9
-If restrictions are to be placed on the business the company may carry on, set out the restrictions. Item 10
-Insert any provision which may be included in the articles. If the company is limited by guarantee, state-
+If the power of the directors to make, amend or repeal the Bye-Laws under section 66 of the Act is restricted, state the nature of any such restriction. [Subsidiary] Companies Regulations
+FORM 14-Continued
+INSTRUCTIONS
+Item 8
+State the number of directors. If cumulative voting is permitted, the number of
+directors must be invariable, otherwise it is permissible to specify a minimum and maximum number of directors. Item 9
+If restrictions are to be placed on the business the company may carry on, set out
+the restrictions. Item 10
+Insert any provision which may be included in the articles.
+If the company is limited by guarantee, state-
 (a) that each member undertakes to contribute to the assets of the
 company in the event of its being wound up while he is a member, or within one year after he ceases to be a member, for payment of the debts and liabilities of the company contracted before he ceases to be a member, and of the costs, charges and expenses of winding up, and for adjustment of the rights of the contributories among themselves, such amount as may be required, not exceeding a specified amount; and
 (b) the number of members with which the company is proposed to
 be registered.
-The articles of a company may provide for anything permitted by the Act or any other law to be provided for by the Bye-laws of the company.
-The following sections of the Act give a company the option to make, in its articles, provisions for the company which are different to the provisions set out in the Act:
+The articles of a company may provide for anything permitted by the Act or any
+other law to be provided for by the Bye-Laws of the company.
+The following sections of the Act give a company the option to make, in its articles,
+provisions for the company which are different to the provisions set out in the Act:
 (a) section 38(1)-see item 6 above;
 (b) section 60-re restriction of power of directors;
 (c) section 66(1)-see item 7 above;
@@ -54,17 +67,16 @@ The following sections of the Act give a company the option to make, in its arti
 (l) section 131-re method of voting at meetings of shareholders;
 (m) section 216-re right of shareholders of a class to vote separately
 on certain proposed amendments to the articles;
+Companies Regulations [Subsidiary]
 (n) section 314-re transferability of member's interest in a non-profit
 company; and
 (o) section 426-re distribution of property of company on voluntary
-winding up.
-FORM 14-Continued
-INSTRUCTIONS
-Item 11
+winding up. Item 11
 State names of amalgamating companies and their respective company numbers. Item 12
-A director or authorised officer of the company shall sign the Articles. Set out title in relation to amalgamated company. Other Notices and Documents
+A director or authorised officer of the company or, respectively, an authorised corporate service provider on their behalf to certify the contents of the Articles indicating the capacity in which he is signing.
+Set out title in relation to amalgamated company. Other Notices and Documents
 (1) The Articles must be accompanied by a Notice of Registered Office (Form 4), a Notice of Directors (Form 8), and a statutory declaration of a director or authorised officer of each amalgamating company in accordance with subsection (2) of section 225 of the Act.
 (2) If the amalgamation is effected under section 222 of the Act, the Articles must be accompanied by a copy of the amalgamation agreement and a copy of the required special resolution of shareholders of each amalgamation company.
-(3) If the amalgmation is effected under section 223 or 224 of the Act, the Articles must be accompanied by a copy of the required directors' resolution of each amalgamating company.
-Completed documents, in duplicate, and the prescribed fees are to be filed at the office of the Registrar and one set of the duplicate originals would be returned to the company or its representative with the endorsement "Registered" and the date of registration.
-- Margin: Section 225.
+(3) If the amalgamation is effected under section 223 or 224 of the Act, the Articles must be accompanied by a copy of the required directors' resolution of each amalgamating company.
+Completed documents, in duplicate, and the prescribed fees are to be filed at the office of the Registrar and one set of the duplicate originals would be returned to the company or its representative with the endorsement "Registered" and the date of registration. [Subsidiary] Companies Regulations
+- Margin: Section 225. [235/2024].
