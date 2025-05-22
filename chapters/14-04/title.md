@@ -7,7 +7,7 @@ Amended by
 Note on Subsidiary Legislation
 This Chapter contains no subsidiary legislation.
 Note on Omissions
-Visiting Forces (Designated States) Orders-LNs 68/2009, 239/2009, 314/2009 and 57/2011.
+Visiting Forces (Designated States) Orders-LNs 68/2009, 239/2009, 314/2009; 57/2011; 53/2017; 9/2018; 55/2020 and 228/2024.
 CHAPTER 14:04
 VISITING FORCES ACT
 ARRANGEMENT OF SECTIONS
