@@ -1,7 +1,8 @@
 # SECOND SCHEDULE
 RECEIPT BOOK
-Name and Description Signature of Name in full
-OCCUPATION Residence address of of Article Seller and
-of Seller WEIGHT
-PRICE HOUR DATE Principal purchased Licensee
+OCCUPATION
+Name and Description Signature of WEIGHT
+PRICE HOUR DATE Name in full
+Residence address of of Article Seller and of Seller
+Principal purchased Licensee
 - Margin: Section 6(1).
