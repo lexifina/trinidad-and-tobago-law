@@ -6,7 +6,7 @@ overtime earnings, and wages and other earnings of wage labour paid to non-natio
 (b) salaries and other earnings of salaried staff and management
 fees paid, not including salaries and other earnings of salaried staff and management fees paid to non-nationals and to non-resident principals of resident companies;
 (c) any interest paid, not being interest paid to non-nationals
-and to non-resident principals of resident companies:
+and to non-resident principals of resident companies;
 (d) normal depreciation on physical assets, other than imported
 assets, as shown in the books of account;
 (e) payments for patents, royalties, licences and similar charges,

@@ -1,99 +1,149 @@
 # SCHEDULE
-1. All roads in that area bounded as follows:
-(a) North-by a line running due East and West of the two-
-kilometre post on the Saddle Road;
-(b) South-by the Churchill-Roosevelt Highway from its
-intersection with the Eastern Main Road and thence by its northern boundary eastward;
-(c) East-by the Mausica Road;
-(d) West-by the western boundary of the City of Port-of-Spain.
-2. All roads in that area bounded as follows:
-(a) North-from the Bridge on the Maraval River at the north-
-eastern end of Jamaica Boulevard thence in a westerly direction to a drain running along the southern boundary of Ellerslie Park and continuing due West along the said drain through lands leased to the entrance to Civil Service Association Club;
-(b) South-thence in an easterly direction along the said drain to
-Jamaica Boulevard and running South along the western side of Jamaica Boulevard to the Maraval River;
-(c) East-continuing in a northerly direction along the Maraval
-River to the point of commencement;
-(d) West-continuing in a southerly direction along Long Circular
-Road to Barbados Road and eastwards along the southern side of Barbados Road to and along a drain running along the eastern boundary of the St. James Barracks to another drain at the north-western boundary of St. Mary's College Grounds.
-3. Western Main Road from the junction of the Diego Martin Main Road, Cocorite to the western end of Scotland Bay.
-4. Long Circular Road.
-5. Saddle Road.
-6. Diego Martin Main Road.
-7. Beetham Highway from its intersection with Wrightson Road to the flyover in the vicinity of the Central Market (also commonly known as the "NP Flyover").
-8. St. Ann's Road-from its intersection with the Lady Young Road to the Simon Valley Road.
-9. Coblentz Avenue-from its intersection with St. Ann's Road to its intersection with Cascade Road.
-10. Cascade Road-from its intersection with St. Ann's Road to Knightsbridge.
-11. Eastern Main Road-from its intersection with the boundary of the City of Port-of-Spain to the thirty-kilometre post on the Eastern Main Road.
-12. North Coast Road.
-13. Morne Coco Road.
-14. All roads in St. Joseph bounded as follows:
-North and East-by the St. Joseph River. South-by the Eastern Main Road. West-by a straight line running from the culvert on the Eastern Main Road near the entrance to the old Railway Station in a northerly direction to the ford of the St. Joseph River on the road to Maracas nearest to the Town of St. Joseph.
-15. All roads in Tunapuna bounded as follows:
-North-Northern boundary of Chinab's land and a line running due East and West from that line.
-South-Railway line. East-Back Street (East) and a line running due North and South from that street.
-West-The boundary of the area formerly known as St. Joseph's Ward.
-16. Arima-Blanchisseuse Road.
-17. The Eastern Main Road from Guaico to Sangre Grande (i.e., from the forty-five-kilometre mark to the fifty-kilometre mark).
-18. All roads in Sangre Grande bounded as follows:
-North-A line drawn from the north-eastern boundary of block of six hectares of land, the property of the heirs of C. F. Sellier, crossing the Warner or Cuare Road and running in a westerly direction along the nothern boundary of the said block and the northern boundary of lands of Rampersad, Jeebodh and Sookaie to the Picton Trace.
-South-The Cunapo River. East-A line drawn from the Cunapo River along the eastern boundary of a four hectares block of land formerly the property of A. Brooks, now of the heirs of C. F. Sellier crossing the Sangre Grande-Oropouche Road and along the eastern boundary of a two and a half hectares block of land formerly the property of P. Ojoe, now of the heirs of C. F. Sellier and thence in a northerly direction to the northern boundary of the lands of J. Ojoe now F. Cumberbatch, thence in a westerly direction to the south-eastern corner of a one and a half hectares block of land the property of the heirs of C. F. Sellier, thence running North along the eastern boundary of the said one and a half hectares block of land and lands of M. Warner now of Philip Acham and lands of heirs of C. F. Sellier (six hectares) to the north-eastern boundary of the said block of land.
-West-A line drawn along the Picton Trace to the Eastern Main Road, and thence in a straight line running South to the Cunapo River.
-19. The portion of the Paria Main Road between Toco and Matelot.
-20. The portion of the Toco Main Road, in the County of St. David commencing at the four-kilometre post and ending at the six-kilometre post.
-21. Manzanilla Beach Road.
-22. Manzanilla-Mayaro Road from the Eastern Main Road to the southern side of the Nariva Bridge.
-23. That portion of the Manzanilla-Mayaro Road commencing at the eighty-five-kilometre mark and ending at the eighty-five-kilometre mark on the said Manzanilla-Mayaro Road.
-24. Cunapo Southern Road-
-(a) in the County of St. Andrew, between the four-kilometre
-mark and the ten-kilometre mark; and
-(b) in the County of Nariva, between the twenty-five-kilometre
-mark and the thirty-five-kilometre mark.
-25. Caroni South Bank Road, Kelly Village, County of Caroni between the two-kilometre mark and St. Helena Junction.
-26. Caroni Savannah Road from Chaguanas to its junction with the South Trunk Road, Charlieville.
-27. All roads lying within the radius of two kilometres of the Magistrate's Court, Chaguanas.
-28. Southern Main Road, County of Caroni, between the nine-kilometre mark and the fifteen-kilometre mark.
-29. Chaguanas Main Road in the County of Caroni.
-30. Cacandee Road, Chaguanas in the County of Caroni.
-31. Southern Main Road, one hundred and eighty-five metres East of Calcutta Road No. 3 (Deonarine Junction) in the County of Caroni.
-32. Southern Main Road, four hundred and seventy-five metres West of Calcutta Road No. 3 (Deonarine Junction) in the County of Caroni.
-33. Southern Main Road, one hundred and eighty-five metres East of St. Mary's Junction, Freeport in the County of Caroni.
-34. Southern Main Road, one hundred and eighty-five metres West of St. Mary's Junction, Freeport in the County of Caroni.
-35. Southern Main Road-from the thirty-five-kilometre mark to the forty-kilometre mark (i.e., that portion of the Southern Main Road which passes through California Village).
-36. Southern Main Road-
-(a) from its junction with the Churchill-Roosevelt Highway to
-the ten-kilometre post or mark;
-(b) from its junction with the Princess Margaret Highway to the
-twenty-five-kilometre post or mark;
-(c) from the forty-five-kilometre post or mark to the boundary of
-the Borough of San Fernando.
-37. Couva bounded as follows:
-North-By a line parallel to the Couva Main Road running from the Waterloo Road to the north-western corner of the Anglican Church Lands, then running along the northern boundary of the Anglican Church Lands to the north-eastern corner of the said lands, thence in a straight line to the north-western corner of the Glebe Lands, three hectares, thence in an easterly direction along the northern boundary of the Glebe Lands crossing Carlos Street to a point on the eastern boundary of an estate trace; thence in a northerly direction along the eastern boundary of the said trace to a point at its intersection with the southern boundary of the so-called Perseverance Exchange Road, thence easterly along the southern boundary of the said road to the junction of Exchange Road, thence in a general southerly direction along the western boundary of the said road to the north-eastern corner of the parcel of land now or formerly owned by H. L. Jobity, thence in a due East direction crossing the Exchange Road and the Trinidad Government Railway line to a point on the western boundary of the Southern Main Road.
-South-By a due West line running from the southern extremity of the eastern boundary on the Couva River to a point lying due South of the junction of the Couva River and Waterloo Roads.
-East-By the Southern Main Road, Isaac Street and a due South line from the southern end of Isaac Street to the Couva River.
-West-By the Waterloo Road and by a line running due South from the junction of this road with the Couva River Road to the western end of the southern boundary.
-38. That portion of the Southern Main Road, commencing at its intersection with the boundary of the City of San Fernando on its southern side, and thence running in a southerly direction and ending at the sixty-kilometre mark.
-39. The San Fernando-Siparia-Erin Road at its intersection with Ramsamooj Trace, and thence running in a southerly direction and ending at the Mohess Road Junction.
-40. That portion of the San Fernando-Siparia-Erin Road between the five-kilometre mark in the County of Victoria and the forty-kilometre mark in the County of St. Patrick.
-41. Guaracara-Tabaquite Road from the junction with the Southern Main Road, Marabella, to a point one hundred and fifty-five metres east of the Harmony Hall Road.
-42. From the intersection of Bonne Aventure Road and Charles Street to a point East adjacent to the four-kilometre post on Bonne Aventure Road.
-43. The entire length of Harmony Hall Road from the intersection of the Guaracara-Tabaquite Road to the Bonne Aventure Road.
-44. Princes Town bounded as follows:
-North-by the southern boundary of the Malgretoute Estate from the point where it leaves the eastern boundary of the Cedar Hill Estate to the old Cipero Tramline, thence along the old Cipero Tramline to the Glenroy Estate boundary on the Naparima-Mayaro Road, thence along the southern boundary of the Glenroy Estate to the north-western corner of the Birken Hill Estate which now forms part of Buen Intento Estate.
-South-by the northern boundary of the Lothians Estate from the south-eastern corner of the Navette public burial ground to the south-eastern corner of the Cedar Hill Estate.
-East-by the western boundary of the said Birken Hill Estate to the north-western corner of the Knolly's Recreation Ground, thence along the northern and eastern boundaries of Knolly's Recreation Ground and the southern boundary of the said Birken Hill Estate to the western boundary of the Craignish Estate and along the western boundary of the said Craignish Estate to the Naparima-Mayaro Road and along that road in a south-westerly direction to the western boundary of the Brommage Estate and along that boundary to where it meets the eastern boundary of the Lothians Estate, thence in a straight line running in a more or less south-westerly direction to the south-eastern corner of the Navette public burial ground.
-West-by the eastern boundary of the Cedar Hill Estate from its south-eastern corner to the point where it meets the southern boundary of the Malgretoute Estate.
-45. Manahambre Road commencing at the three-kilometre mark of the Naparima-Mayaro Road and thence running in a south-easterly direction for a distance of four kilometres to the junction with St. Charles Road and thence continuing in a north-easterly direction ending at its junction at the twelve-kilometre mark of the Naparima-Mayaro Road in the County of Victoria.
-46. Naparima-Mayaro Road from the twenty-five-kilometre post or mark to the thirty-kilometre post or mark.
-47. All roads lying within a radius of two kilometres of the Police Station, Oropouche.
-48. All roads lying within a radius of three kilometres of the junction of the Fyzabad Road with the Fyzabad-Guapo Road.
-49. Clarke Road in the County of St. Patrick and all roads lying within a radius of five kilometres of the Penal Police Station.
-50. All roads lying within a radius of three kilometres of the Magistrate's Court, Siparia.
-51. That portion of the Southern Main Road in the Vessigny Area commencing at the eighty-kilometre post and ending at the ninety-kilometre post.
-52. Southern Main Road, Rousillac Village, La Brea, between the seventy and the seventy-five-kilometre marks, in the County of St. Patrick.
-53. All roads lying within a radius of three kilometres of the Police Station, Point Fortin.
-54. All roads lying within a radius of two kilometres from the Rest House at Cedros.
-55. That portion of Fullerton Road, Icacos, which lies between Columbia Road on the West and Fullerton Beach on the East.
-56. Southern Main Road, Fullerton-from a point approximately one hundred and eighty-five metres West of the one hundred and twenty kilometre-mark and continuing in a westerly direction to a point one hundred and eighty-five metres West of the one hundred and twenty-kilometre mark.
-57. The entire Fullerton Beach Road from the Southern Main Road to the Beach.
-58. Mayaro-Guayaguayare Road-from nought to the seven-kilometre mark and from the fifteen-kilometre mark to the twenty-kilometre mark.
-59. All roads in the Island Ward of Tobago.
+PART A
+COUNTY OF CARONI
+Nil
+PART B
+COUNTY OF MAYARO
+Nil
+PART C
+COUNTY OF NARIVA
+Side of Road Road
+Southern 1. Naparima-Mayaro Road from its junction with Rio Claro-
+Tabaquite Road and extending for a distance of 75 metres
+Northern
+2. Naparima-Mayaro Road from its junction with Rio Claro-
+Tabaquite Road and extending for a distance of 20 metres
+Eastern
+3. Rio Claro-Tabaquite Road from a point 100 metres from its
+junction with Naparima-Mayaro Road and extending in a northerly direction for a distance of 150 metres.
+Miscellaneous Roads (Unilateral Parking) Order [Subsidiary]
+PART D
+COUNTY OF ST. ANDREW
+Road Side of Road
+1. Ojoe Road from its junction with the Main Road at the Eastern
+Roundabout and extending in a northerly direction for a distance of 40 metres 2. Cunapo Southern Road from its junction with Andre Street and Western
+extending in a northerly direction for a distance of 70 metres 3. Foster Local Road from its junction with Toco Road and Western
+extending in a northerly direction for a distance of 75 metres 4. Old Railway Station Road East (Exit). Western
+PART E
+COUNTY OF ST. DAVID
+Nil
+PART F
+COUNTY OF ST. GEORGE EAST
+Road Side of Road
+1. Riverside Road between the Eastern Main Road and Gordon Eastern
+Street 2. Eastern Main Road between Orange Grove Road and Southern
+Dinsley Junction 3. Hollis Avenue between John Shaw Avenue and King Street, Northern
+Arima 4. Belle Smythe Street, between Agostini Street and Bushe Street Eastern
+Monday to Friday between 6.00 a.m. and 4.00 p.m. Public holidays not included
+5. Freeling Street, between Wells Street and Sheriff Street. Western [Subsidiary] Miscellaneous Roads (Unilateral Parking) Order
+PART G
+COUNTY OF ST. GEORGE WEST
+Road Side of Road
+1. St. Ann's Road between Lady Young Road and Simon Valley Eastern
+Road, St. Ann's
+2. Norfolk Street, Belmont in the City of Port-of-Spain between Eastern
+Jerningham Avenue and Erthig Road
+3. Queen's Park East, Port-of-Spain from St. Ann's Roundabout Eastern
+to the northern end of Charlotte Street
+4. Park Avenue, Queen's Park East in the City of Port-of-Spain Southern 5. Queen's Park West between Queen's Park East and Frederick Southern
+Street, Port-of-Spain
+6. Queen's Park West from a point on that side of the road Northern
+opposite to and central of Chancery Lane and continuing in a westerly direction for a distance of 30 metres in the City of Port-of-Spain
+7. Keate Street between Queen's Park East and Frederick Street Northern
+in the City of Port-of-Spain
+8. Deleted by LN 143/2017 9. Deleted by LN 143/2017 10. Duke Street between Charlotte Street and George Street in Northern
+the City of Port-of-Spain
+10A. Duke Street between St.Vincent Street and Edward Street Southern
+from a point nine metres west of St.Vincent Street and Monday to extending to a point forty-nine metres westwards, except for Friday persons driving official motor vehicles of the Maritime Services Division, Ministry of Works and Transport Northern
+11. Knox Street in the City of Port-of-Spain from Frederick
+Street for a distance of 20 metres Southern
+12. Prince Street between Nelson Street and Duncan Street,
+Port-of-Spain Southern
+13. London Street in the City of Port-of-Spain Southern 13A. Independence Square between Wrightson Road and Edward
+Street
+Miscellaneous Roads (Unilateral Parking) Order [Subsidiary]
+COUNTY OF ST. GEORGE WEST-Continued
+Road Side of Road
+14. Independence Square North between St. Vincent Street and Northern
+Frederick Street in the City of Port-of-Spain 15. Independence Square North between Henry Street and Northern
+George Street in the City of Port-of-Spain 16. Piccadilly Street between Prince Street and Park Street in the Western
+City of Port-of-Spain 17. Nelson Street between Independence Square North and Western
+South Quay in the City of Port-of-Spain 18. Charlotte Street, Port-of-Spain from the junction of Queen's Eastern
+Park East to the junction of New Street 19. Frederick Street between Queen's Park West and Keate Eastern
+Street, Port-of-Spain 20. Chacon Street between Independence Square South and Western
+South Quay, Port-of-Spain 21. St. Vincent Street, from Electric Pole No. 23 extending South Western
+for a distance of 20 metres in the City of Port-of-Spain 22. St. Vincent Street, from the exit of the Red House Driveway Eastern
+(Southern Exit) South to Hart Street 23. St. Vincent Street between Treasury Street and Independence Western
+Square North in the City of Port-of-Spain 24. Edward Street between Park Street and Tragarete Road in the Eastern
+City of Port-of-Spain 25. Edward Street, Port-of-Spain, between Independence Square Western
+South and Wrightson Road 26. Tragarete Road between Edward Street and St. Vincent Northern
+Street, Port-of-Spain 27. Flament Street, Port-of-Spain, between Park Street and Western
+Wrightson Road 28. Beetham Highway Southern Carriageway between the Dry Southern
+River and St. Vincent Street in the City of Port-of-Spain between
+6.00 a.m. and 6.00 p.m. 29. Wrightson Road between signs on the Southern Carriageway Southern
+from a point 10 metres East of the Entrance to the Flour Mill in the City of Port-of-Spain [Subsidiary] Miscellaneous Roads (Unilateral Parking) Order
+Road Side of Road
+Western 30. Maraval Road between Prada Street and St. Clair Avenue Southern 31. Mucurapo Road, Port-of-Spain, between Warren and Ethel
+Streets
+Southern 3lA. Rust Street Southern 31B. Alcazar Street Southern 31C. Marli Street
+32. Gaston Johnson Street in the City of Port-of-Spain Eastern
+Southern 33. Panka Street, St. James between Nizam Street and Ethel Street Western 34. First Avenue, San Juan, in the Ward of St. Ann's between the
+Eastern Main Road and Second Street
+Western 35. Colda Tinda Avenue, San Juan Monday to Friday Southern 36. First Street, San Juan, in the Ward of St. Ann's between
+Saddle Road and First Avenue
+Southern 37. First Street, San Juan, in the Ward of St. Ann's from a point
+140 metres North of Second Street to Saddle Road
+Northern 38. Maracas Bay in the Ward of St. Ann's Southern 39. Keate Street between Frederick Street and Pembroke Street,
+in the City of Port-of-Spain
+Western 40. Fitz Blackman Drive, in the City of Port-of-Spain.
+41. Benares Street, St. James Western
+Western 42. Clarence Street, St. James Northern 43. Flood Street, St. Clair from Elizabeth Street to a point
+60 metres west
+Eastern 44. Elizabeth Street, St. Clair from Flood Street to a point
+30 metres north
+Southern 45. Tranquillity Street, in the City of Port-of-Spain Western 46. Murray Street, between Tragrete Road and Robert Street Monday to Saturday Western 47. Rosalino Street
+Miscellaneous Roads (Unilateral Parking) Order [Subsidiary]
+PART H
+COUNTY OF ST. PATRICK
+Road Side of Road
+1. Penal Rock Road opposite the Taxi and Omnibus Stands for Eastern
+a distance of 35 metres in Penal 2. Clarke Road, Penal, between Siparia Road and Penal Rock Eastern
+Road 3. School Road, Point Fortin between Mainsfield Road and Southern
+Guapo-Cap-de-Ville Road.
+PART I
+TOBAGO
+Road Side of Road
+1. Milford Road from its junction with Wilson Road to a point Southern
+115 metres West, Scarborough between 6.00 a.m.
+and 6.00 p.m.
+2. Milford Road from the western end of the Licensing Office Northern
+to Government Farm Road, Scarborough 3. Milford Road from the junction of Orange Hill Road to Northern
+Wilson Road, Scarborough 4. Ross Street from Piggott Street to Jerningham Street, Scarborough Southern 5. Main Street from Fort Street to Castries Street, Scarborough Southern 6. Piggott Street from Burnett Street to Jerningham Street, Northern
+Scarborough 7. Piggott Street between Robinson and Bacolet Streets, Northern
+Scarborough 8. Carrington Street between Castries and Exit Streets from Southern
+Customs Area, Scarborough 9. Carrington Street from Wilson Road to a point 5 metres from Southern
+the Truck Stand, Scarborough 10. Carrington Street from its junction with Castries Street and Northern
+extending in a westerly direction to the Bailey Bridge, Scarborough 11. Jerningham Street from Ross Street to Piggott Street, Eastern
+Scarborough 12. Entry Street to Customs Area, Scarborough. Eastern [Subsidiary] Miscellaneous Roads (Unilateral Parking) Order
+PART J
+COUNTY OF VICTORIA
+Road Side of Road
+1. King's Wharf (Eastern side of bus terminus) from a point Eastern
+10 metres South of St. Vincent Street to Queen Street, San Fernando
+2. Queen Street, San Fernando Northern 3. Harris Promenade North, San Fernando Northern 4. Harris Promenade South, San Fernando Southern 5. Library Street, San Fernando Southern 6. Court Street from Harris Street to Lewis Street, San Northern
+Fernando
+7. Mucurapo Street from Cemetery Street to Lord Street, Eastern
+San Fernando
+Eastern 8. Prince Alfred Street from Cemetery Street to Keate Street,
+San Fernando
+Western 9. Cipero Street from Cipero Bridge to Scott Street, San
+Fernando
+Northern 10. Park Street from Cipero Street to Todd Street, San Fernando Eastern 11. Buen Intento Road from the northern end of the Taxi Stand
+to Water Lane, Princes Town
+Eastern 12. Railway Road, Princes Town Northern 13. Tramline Street, Princes Town Western 14. Naparima-Mayaro Road between King Street and Aldana
+Street, Princes Town
+Northern 15. Naparima-Mayaro Road from Railway Road to Buen Intento
+Road, Princes Town
+Southern 16. Naparima-Mayaro Road between Railway Road and
+Lothians Road, Princes Town.
+[Subsidiary]
