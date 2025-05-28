@@ -146,7 +146,7 @@ a technical defence or he has been convicted but such conviction is quashed by r
 9. (1) An Attorney-at-law shall not enter into partnership or fee-sharing arrangements concerning the practice of law with non-qualified bodies or persons.
 (2) An Attorney-at-law shall not enter into an agreement for or charge or collect a fee in contravention of these Rules or any other law.
 10. (1) An Attorney-at-law shall not charge fees that are unfair or unreasonable.
-(In determining the fairness and reasonableness of a fee the following factors may be taken into account:
+[In determining the fairness and reasonableness of a fee the following factors may be taken into account:
 (a) the time and labour required, the novelty and difficulty of the
 questions involved and the skill required to perform the legal service properly;
 (b) the likelihood that the acceptance of the particular
@@ -161,7 +161,7 @@ client;
 (g) the experience, reputation and ability of the Attorney-at-law
 concerned;
 (h) any scale of fees or recommended guide as to charges
-prescribed by law or by the Law Association).
+prescribed by law or by the Law Association].
 (2) An Attorney-at-law shall not accept any fee or reward for merely introducing a client or referring a case or client to another Attorney-at-law.
 (3) An Attorney-at-law shall not charge a contingency fee save and except reasonable commissions on collection of liquidated claims with the prior agreement of the client.
 11. (1) Except with the specific approval of his client given after full disclosure, an Attorney-at-law shall not act in any manner in which his professional duties and his personal interests conflict or are likely to conflict.
@@ -212,7 +212,7 @@ him to carry out his employment effectively.
 31. In pecuniary matters an Attorney-at-law shall be most punctual and diligent, he shall never mingle funds of others with his own and he shall at all times be able to refund money he holds for others.
 32. (1) An Attorney-at-law shall keep such accounts as clearly and accurately distinguish the financial position between himself and his client as and when required.
 (2) An Attorney-at-law shall comply with such rules as may be made by the Council under section 33 of the Act.
-Provided that nothing contained in Rules 31 and 32 shall deprive an Attorney-at-law of any recourse or right whether by way of lien, set-off, counterclaim, charge or otherwise against monies standing to the credit of a client's account maintained by that Attorney-at-law.
+Provided that nothing contained in Rules 31 and 32 shall deprive an Attorney-at-law of any recourse or right whether by way of lien, set-off, counterclaim, charge or otherwise against moneys standing to the credit of a client's account maintained by that Attorney-at-law.
 33. An Attorney-at-law shall reply promptly to any letter received from the Law Association relating to his professional conduct.
 34. Where no provision is made in these rules in respect of any matter, the rules and practice of the legal profession which formerly governed the particular matter shall apply in so far as is practicable.
 35. (1) Breach by an Attorney-at-law of any of the Rules contained in this Part shall constitute professional misconduct and an Attorney-at-law who commits such a breach shall be liable to any of the penalties which the Disciplinary Committee and/or the Court is empowered to impose.

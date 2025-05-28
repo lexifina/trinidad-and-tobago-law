@@ -21,10 +21,8 @@ Attorneys-at-law (Remuneration) (Non-Contentious Business) Rules
 Leases on behalf of Lessee
 7. For preparing Discharge of Mortgage or Charge, the following scale of charges shall be applicable:
 Amount secured Scale of Charges
-Not exceeding $25,000.00
-$125.00
-Exceeding $25,000.00
-$125.00 for the first $25,000.00 of
+Not exceeding $25,000.00 $125.00
+Exceeding $25,000.00 $125.00 for the first $25,000.00 of
 the amount secured plus $10.00 for every $5,000.00 or part thereof of the amount secured in excess of $25,000.00 subject to a maximum charge of $2,500.00.
 8. For revising Discharge of Mortgage or Charge, one-fourth of the preparation fee shall be charged subject to a maximum fee of $750.00.
 9. For the following conveyancing transactions not otherwise specified in items 1 to 8, the following charges shall be applicable:
@@ -35,7 +33,7 @@ in Schedule 1.
 One-half of the scale fee for Transfers shall be charged but
 calculated on the value of the property comprised therein.
 (c) Caveats:
-Preparing... $150.00 Withdrawing … … … $150.00.
+Preparing … … … $150.00 Withdrawing … … … $150.00.
 (d) Collateral Mortgage or Charge:
 Where another Debenture or Mortgage is taken as the primary
 security, the scale fee as for Mortgages or Charges calculated on the amount secured shall be charged on the primary security as if the mortgaged property were included therein, and an additional fee not exceeding $1,500.00 on the Collateral Mortgage. Where the primary security has already been taken, one-half of the scale fee for Mortgages, calculated on the principal amount secured shall be
