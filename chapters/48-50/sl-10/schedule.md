@@ -1,5 +1,20 @@
 # SCHEDULE
-Goods Vehicles Stand-Port-of-Spain
-The northern side of that portion of South Quay between Charlotte Street and George Street.
-Goods Vehicles Stand-Scarborough, Tobago
-Milford Road, on the southern side, from a point ten metres West of Wilson Road and extending in a westerly direction for ninety metres. All goods vehicles facing north-east.
+All buildings occupied as offices by The Permanent Secretaries of the
+officers of the respective Ministries appropriate Ministries (except the Red House, the Old Fire Brigade Building and Knowsley)
+The Red House and the Old Fire Brigade The Permanent Secretary, Ministry of
+Building Legal Affairs
+Knowsley The Permanent Secretary, Ministry of
+External Affairs
+The Magistrates' Courts, Port-of-Spain The Chief Magistrate
+Magistrates' Courts (other than Port-of- The Senior Magistrate of the District in
+Spain) which the Court is situated
+The Supreme Court, San Fernando The Sub-Registrar and Deputy Marshal,
+San Fernando
+All buildings occupied for use as offices The Comptroller of Customs and Excise
+by the Comptroller of Customs and Excise and located at Port-of-Spain, San Fernando and Scarborough
+All buildings occupied for use by the The Permanent Secretary, Ministry of
+Ministry of Agriculture, Lands and Agriculture, Lands and Food Food Production Production
+[Subsidiary]
+- Margin: 56/1963.
+- Margin: 178/1970.
+- Margin: 156/1985.

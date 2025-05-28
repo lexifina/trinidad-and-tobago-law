@@ -1,3 +1,3 @@
-SPEED LIMITS (BUILT-UP AREAS) ORDER
-made under section 62(2)
-- Margin: 209/1979. [166/2013].
+ROAD TRAFFIC (PROHIBITED PARKING) ORDER
+made under section 65
+- Margin: *206/1979.
