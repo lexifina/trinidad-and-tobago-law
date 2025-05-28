@@ -30,7 +30,7 @@ more than ten years standing on the day of his nomination for election to the Co
 13. Subject to the provisions of this Act, all members of the Council shall hold office until the coming into office of a new Council in the following year under paragraph 12.
 14. If a vacancy arises in the office of an elected member it shall be filled in one of the following ways:
 (a) where it arises less than six months after a member took
-office, by a by-election; and
+office, by a bye-election; and
 (b) where it arises six months or more after the member took
 office, by the appointment by the Council of a person qualified for election to the office.
 15. (1) The President of the Association or, in his absence the Vice-President of the Association shall be the Chairman of the Council and the Association and shall preside at all meetings of the Council and the Association.
@@ -76,7 +76,7 @@ PART B
 CONSTITUTION OF FIRST COUNCIL
 1. Until the First Council is constituted and a person is appointed to perform the functions of Secretary of the Association, the Registrar shall perform these functions and shall be responsible for making arrangements for constituting the First Council and for holding elections for this purpose.
 2. If any difficulties arise in applying any of the provisions of Part A of this Schedule to the constituting of the First Council, the Minister may issue directions modifying these provisions so far as may appear to him necessary or expedient for removing the difficulty, and the Registrar shall for the purpose of constituting the First Council apply these provisions as modified by the Minister.
-3. Without prejudice to the generality of subparagraph (1), paragraph 4 of Part A of the First Schedule shall, for the purpose of constituting the first Council, apply as if-
+3. Without prejudice to the generality of subparagraph (1), paragraph 4 of Part A of the First Schedule shall, for the purpose of constituting the First Council, apply as if-
 (a) the words "President of either the Bar Association or the Law
 Society" were substituted for "President of the Association" in paragraph (a); and
 (b) the words "of the Bar Association and of the Law Society"

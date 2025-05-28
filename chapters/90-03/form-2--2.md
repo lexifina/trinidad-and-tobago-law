@@ -3,7 +3,7 @@ FORM OF AFFIDAVIT BY APPLICANT
 (a) Name of Attorney-at-law: In the matter of (a) an Attorney-at-law
 and
 In the matter of the Legal Profession
-Act, Ch. 90:03
+Act, Chap. 90:03
 (b) Name of Applicant: I, (b) make oath and say as follows:
 (c) Place of residence: (1) That I reside at (c)
 (d) County: in the County of (d)

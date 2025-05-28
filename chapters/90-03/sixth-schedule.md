@@ -2,7 +2,7 @@
 COMPENSATION FUND
 PART A
 The Fund shall consist of-
-(a) all annual contribution paid under section 59;
+(a) all annual contributions paid under section 59;
 (b) all interest, dividends and other income and accretions of the
 capital arising from the investment of the Fund;
 (c) the proceeds of any realisation of any investments of the Fund;

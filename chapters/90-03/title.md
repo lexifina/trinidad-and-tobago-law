@@ -2,6 +2,8 @@ LEGAL PROFESSION ACT
 CHAPTER 90:03
 Act
 21 of 1986 Amended by 15 of 1996 76 of 2000 3 of 2008
+*14 of 2024
+(*See Note on page 2)
 Index of Subsidiary Legislation
 Page Legal Profession (Law Offices) Order (LN 256/1986) … … … 72 Attorneys-at-law (Remuneration) (Non-Contentious Business) Rules
 (LN 77/1997) ... 73
@@ -14,8 +16,7 @@ Code of Ethics - Third Schedule … … 46
 Disciplinary Committee - Fourth Schedule … … 61
 Legal Profession (Disciplinary Proceedings) Rules - Fifth Schedule … … 62
 Compensation Fund - Sixth Schedule … … 70
-* LN 44/1987 [The Legal Profession (First Council) Directions, 1987] has been spent
-since it applied only for the purpose of constituting the First Council.
+*LN 44/1987 [The Legal Profession (First Council) Directions, 1987] has been spent since it applied only for the purpose of constituting the First Council.
 Note on Omissions
 (Orders made under sections 15A and 16 of the Act)
 A. Orders [Legal Profession (Eligibility for Admission) Order] made under section 15A of
@@ -24,6 +25,8 @@ B. Orders [Legal Profession (Reciprocal Arrangements) Order] made under section 
 the Act have been omitted.
 (N.B. See Latest Edition of Consolidated Index of Acts and Subsidiary Legislation for
 Orders made under sections 15A and 16 of the Act).
+Note on Act No. 14 of 2024
+The amendments made to this Act by Act No. 14 of 2024 took effect on 14th October 2024 by LN 186/2024.
 CHAPTER 90:03
 LEGAL PROFESSION ACT
 ARRANGEMENT OF SECTIONS
@@ -88,17 +91,13 @@ PART VIII
 TRANSITIONAL PROVISIONS
 61. Constituting First Council. 62. Pending applications for admission. 63. Pending disciplinary proceedings. 64. References to "Barristers" or to "Solicitors". 65. Period of qualification as an Attorney-at-law.
 FIRST SCHEDULE
-PART A-COUNCIL OF THE LAW ASSOCIATION. PART B-CONSTITUTION OF FIRST COUNCIL.
-SECOND SCHEDULE
+PART A-COUNCIL OF THE LAW ASSOCIATION. PART B-CONSTITUTION OF FIRST COUNCIL SECOND SCHEDULE
 -FORM OF CERTIFICATES.
 THIRD SCHEDULE
-PART A-CODE OF ETHICS. PART B-MANDATORY PROVISIONS.
-FOURTH SCHEDULE
--DISCIPLINARY COMMITTEE.
-FIFTH SCHEDULE
+PART A-CODE OF ETHICS. PART B-MANDATORY PROVISIONS. FOURTH SCHEDULE
+-DISCIPLINARY COMMITTEE. FIFTH SCHEDULE
 -LEGAL PROFESSION (DISCIPLINARY PROCEEDINGS)
-RULES.
-SIXTH SCHEDULE
+RULES. SIXTH SCHEDULE
 -COMPENSATION FUND.
 
 CHAPTER 90:03
