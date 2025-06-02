@@ -16,7 +16,8 @@ Performance bonds Customs bonds Letters of Credit-
 Inward Airmail
 Acceptance for correspondent bank on term drawings Amendment commission Advising commission Amendments: Increase in amounts, Other Branch or correspondent bank charges Confirmation commission Carrying Cost/Acceptance Cancellation Establishing L/C Notification commission Negotiation commission Transferable or Divisible Letters of Credit
 Outward
-Acceptance commission Advising commission
+Acceptance commission
+Advising commission
 Amendment commission Cancellation fee Confirmation commission
 Dispatch of documents
 Drawings Establishment commission Follow-up for late payment
@@ -35,19 +36,20 @@ Cards, Cheque Books and Passbooks Cards A.T.M
 Initial and Renewal charge Monthly service charge Replacement of lost or stolen cards
 NINTH SCHEDULE-Continued
 Where available balance exceeded due to paying guaranteed cheque/ATM
-Withdrawal/Direct Debit (i.e. where Bank cards used as a debit card) Credit Cards
+Withdrawal/Direct Debit (i.e., where Bank cards used as a debit card) Credit Cards
 Principal cardholder annual fee
-Secondary cardholder annual fee Cash advance fee Lost card replacement fee Late payment fee Minimum monthly repayment Over the limit fee Dishonored item stop payment Certified Cheque Annual fee Nominated cardholder Commission on cash advance Over limit charge Late payment fee Returned cheque fee Lost/Stolen/Damaged card charge Cheques Cheque books:
+Secondary cardholder annual fee Cash advance fee Lost card replacement fee Late payment fee Minimum monthly repayment Over the limit fee Dishonoured item stop payment Certified Cheque Annual fee Nominated cardholder Commission on cash advance Over limit charge Late payment fee Returned cheque fee Lost/Stolen/Damaged card charge Cheques Cheque books:
 Regular Other Passbooks/Certificates of Deposit
 Replacement of lost passbook Replacement of lost certificate of deposit Other Fees and Charges-Service Charges on Deposit Accounts Service Charge-Personal Accounts:
 Activity charge Unpaid item charge Service Charge-Business Accounts:
 Account maintenance Activity charge
-Overdraft facilities Unpaid item charge Inactive account charge Drafts
+Overdraft facilities Unpaid item charge Inactive account charge Charges with Respect to Payments
+Drafts
 Payroll Envelopes:
 Collected in bulk by employer Collected by employee Pension cheques-Collection and payment Processing salary Salary payments Telephone payment Transfer to another bank from employer list
 Charges with Respect to Foreign Exchange Transactions and
-Transferring of Funds Conversion of foreign currency cash to foreign currency draft Charge for lost foreign draft Cable/Telegraphic transfers handling charge Draft Tracers Exchange for one currency type for another currency type Exchange of cash for negotiable instrument -Same currency Foreign draft and IMO's:
-Credit to account Advise beneficiary to collect funds Dishonored items Forward contracts Foreign cheques/Items cashed Payment by receipt customer letter/Fax instructions Sight purchases Sight sales Travellers Cheques
+Transferring of Funds Conversion of foreign currency cash to foreign currency draft Charge for lost foreign draft Cable/Telegraphic transfers handling charge Draft Tracers Exchange for one currency type for another currency type Exchange of cash for negotiable instrument-Same currency Foreign draft and IMOs:
+Credit to account Advise beneficiary to collect funds Dishonoured items Forward contracts Foreign cheques/Items cashed Payment by receipt customer letter/Fax instructions Sight purchases Sight sales Travellers Cheques
 Bank Notices Notice of dormant accounts
 Returned Items N.S.F. returned cheques Voucher returned with statement Returned item Charge-Foreign currency accounts
 Miscellaneous Charges Auditor's confirmations Photocopy requests Deposit by security firms over the counter Exchange of coins-For non-bank account Facsimile messages Balances below designated amount on foreign currency accounts.

@@ -1,6 +1,5 @@
 # TENTH SCHEDULE
-FIRST COLUMN THIRD COLUMN SECOND COLUMN
-Rate of Surcharge Tariff Heading No. Description of Goods
+FIRST COLUMN THIRD COLUMN SECOND COLUMN Tariff Heading No. Rate of Surcharge Description of Goods
 Ex. 15.07 25% Soya-bean oil and its fractions, refined,
 but not chemically modified
 Ex. 15.08 do. Ground-nut oil and its fractions, refined,
@@ -9,9 +8,9 @@ Ex. 15.11 do. Palm oil and its fractions, refined, but not
 chemically modified
 Ex. 15.12 do. Sunflower-seed, safflower or cotton seed
 oil and fractions thereof, refined, but not chemically modified
-do. Ex. 15.13 Coconut (copra), palm kernel or babassu
+Ex. 15.13 do. Coconut (copra), palm kernel or babassu
 oil and fractions thereof, refined, but not chemically modified
-do. Ex. 15.14 Rape, colza oil and fractions thereof,
+Ex. 15.14 do. Rape, colza oil and fractions thereof,
 refined but not chemically modified
 do. Ex. 15.15 Maize (Corn) oil, sesame oil and
 fractions thereof, refined but not chemically modified
