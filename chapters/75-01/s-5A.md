@@ -1,3 +1,3 @@
 # 5A.
-Business Levy.
+Business levy.
 BASIS OF ASSESSMENT

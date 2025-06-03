@@ -4,9 +4,9 @@ PART I
 PROVISIONS AS TO RELIEF FROM INCOME TAX BY
 WAY OF CREDIT IN RESPECT OF FOREIGN TAX
 Interpretation
-1. (1) In this Part of these Regulations- "Trinidad and Tobago tax" means income tax; "foreign tax" means, in relation to any country, arrangements with the
-Government of which have effect by virtue of section 93 of this Act, any tax chargeable under the laws of that country for which credit may be allowed under the arrangements; "foreign income tax" means any foreign tax which corresponds to income tax; "total income" means the aggregate amount of the income of any person from
-the sources specified in section 5 of this Act for a year of income.
+1. (1) In this Part of these Regulations- "foreign income tax" means any foreign tax which corresponds to income tax; "foreign tax" means, in relation to any country, arrangements with the
+Government of which have effect by virtue of section 93 of this Act, any tax chargeable under the laws of that country for which credit may be allowed under the arrangements; "total income" means the aggregate amount of the income of any person from
+the sources specified in section 5 of this Act for a year of income; "Trinidad and Tobago tax" means income tax.
 (2) Where arrangements having effect by virtue of the said section 93 of this Act provide for any tax chargeable under the laws of the country concerned being treated as income tax, that tax shall, notwithstanding anything contained in this regulation be treated as foreign income tax or foreign tax other than foreign income tax, as the case may be.
 (3) Any reference in these Regulations to foreign tax or foreign income tax shall be construed, in relation to credit to be allowed under any arrangements, as a reference only to tax chargeable under the laws of the country with the Government of which the arrangements were made.
 General
@@ -31,7 +31,9 @@ Limit on Total Credit
 Effect on Computation of Income of Allowance of Credit
 6. (1) In computing the amount of the income-
 (a) no deduction shall be allowed in respect of foreign tax
-(whether in respect of the same or any other income); received in Trinidad and Tobago, the said amount shall be increased by the appropriate amount of the foreign tax in respect of the income;
+(whether in respect of the same or any other income);
+(b) where the income tax chargeable depends on the amount
+received in Trinidad and Tobago, the said amount shall be increased by the appropriate amount of the foreign tax in respect of the income;
 (c) where the income includes a dividend and under the
 arrangements, foreign tax not chargeable directly or by deduction in respect of the dividend is to be taken into account in considering whether any, and if so, what credit is to be given against income tax in respect of the dividend the amount of the income shall be increased by the amount of the foreign tax not so chargeable which falls to be taken into account in computing the amount of the credit, but notwithstanding anything in the preceding provisions of this subregulation a deduction shall be allowed of any amount by which the foreign tax in respect of the income exceeds the credit therefor.
 (2) Paragraphs (a) and (b) of subregulation (1) (but not the remainder thereof) shall apply to the computation of total income for the purposes of determining the rate mentioned in regulation 4 and shall apply thereto in relation to all income in the case of which credit falls to be given for foreign tax under arrangements for the time being in force under section 93 of this Act.
@@ -64,15 +66,14 @@ APPLICABLE TO UNILATERAL RELIEF
 Notwithstanding anything in regulation 3 of Part I of these Regulations (which provides that relief by way of credit shall be given only where the person is resident in Trinidad and Tobago), credit by way of unilateral relief for tax paid under the law of any country in respect of income from an office or employment or profits the duties whereof are performed wholly or mainly in that country may be allowed against tax chargeable in respect of that income if the person is, for the particular year of income, resident either in Trinidad and Tobago or that country.
 PART IV
 THE PRESCRIBED COMMONWEALTH COUNTRIES
-Barbados Guyana Jamaica
+Barbados Guyana Jamaica.
 PART V
 SPECIAL PROVISIONS WHICH APPLY TO
 COMMONWEALTH COUNTRIES PRESCRIBED FOR
-DOUBLE TAXATION PURPOSES [WHICH PROVISIONS
-WERE FORMERLY CONTAINED IN SECTIONS 47(3),
+DOUBLE TAXATION PURPOSES [WHICH PROVISIONS WERE FORMERLY CONTAINED IN SECTIONS 47(3),
 48 AND 49 OF THE INCOME TAX ORDINANCE
 CH. 33. NO. 1 (1950 ED.) BUT WERE REPEALED BY
-THE FINANCE ACT 1966 (ACT NO. 29 OF 1966)]
+THE FINANCE ACT, 1966 (ACT NO. 29 OF 1966)]
 1. For the purposes of section 96(2) (in this Part referred to as "the section"), the expression "rate of tax" when applied to tax paid or payable under this Act, means the rate determined by dividing the amount of tax paid or payable for the year (before the deduction of any relief granted under the section) by the amount of the income in respect of which the tax paid or payable under this Act has been charged for that year, except that where the income which is the subject of a claim to relief under the section is computed by reference to the provisions of section 60 on an amount other than the ascertained amount of the actual profits, the rate of tax shall be determined by the Board.
 2. If any person resident in Trinidad and Tobago who has paid, by deduction or otherwise, or is liable to pay tax under this Act for any year of income on any part of income, proves to the satisfaction of the Board that he has paid by deduction or otherwise, or is liable to pay Commonwealth income tax for that year in respect of the same part of his income, he shall be entitled to relief from tax in Trinidad and Tobago paid or payable by him on that part of his income at a rate thereon to be determined as follows:
 (a) if the Commonwealth rate of tax does not exceed one-half of
@@ -81,7 +82,9 @@ the rate of tax appropriate to his case under this Act in Trinidad and Tobago, t
 be half the rate of tax appropriate to his case under this Act.
 3. If any person not resident in Trinidad and Tobago, who has paid by deduction or otherwise, or is liable to pay, tax under this Act for any year of income on any part of his income, proves to the satisfaction of the Board that he has paid, by deduction or otherwise or is liable to pay, Commonwealth income tax for that year of income in respect of the same part of his income, he shall be entitled to relief from tax paid or payable by him under this Act on that part of his income at a rate thereon to be determined as follows:
 (a) if the Commonwealth rate of tax appropriate to his case does
-not exceed the rate of tax appropriate to his case under this Act, the rate at which relief is to be given shall be one-half of the Commonwealth rate of tax; exceeds the rate of tax appropriate to his case under this Act, the rate at which relief is to be given shall be equal to the amount by which the rate of tax appropriate to his case under this Act exceeds one-half of the Commonwealth rate of tax.
+not exceed the rate of tax appropriate to his case under this Act, the rate at which relief is to be given shall be one-half of the Commonwealth rate of tax;
+(b) if the Commonwealth rate of tax appropriate to his case
+exceeds the rate of tax appropriate to his case under this Act, the rate at which relief is to be given shall be equal to the amount by which the rate of tax appropriate to his case under this Act exceeds one-half of the Commonwealth rate of tax.
 4. For the purposes of this Part, the expression "Commonwealth income tax" means any income tax charged under any law in force in any Commonwealth country (other than the United Kingdom or Trinidad and Tobago), provided that the legislature of that country has provided for relief in respect of tax charged on income both in that part of place and Trinidad and Tobago in a manner similar to that provided in the section.
 5. For the purposes of the section, the rate of tax under this Act shall be computed in the manner provided by paragraph 1 and the Commonwealth rate of tax shall be computed in a similar manner.
 6. Where a person is, for any year of income, resident both in Trinidad and Tobago and in a country in which Commonwealth income tax is charged, he shall, for the purposes of the section, be deemed to be resident where, during that year, he resides for the longer period.
