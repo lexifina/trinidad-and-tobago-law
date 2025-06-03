@@ -9,8 +9,8 @@ chargeable income; and
 chargeable income.
 2. Notwithstanding the rates of tax set out in paragraph 1, where the chargeable income of a person other than a company who is resident in Trinidad and Tobago-
 (a) does not exceed $5,000, no tax shall be charged;
-* This Schedule has been amended by the following: 16 of 1963; 29 of 1966; 42 of 1966; 13 of
-1968; 1 of 1979; 19 of 1980; 25 of 1981; 11 of 1988; 6 of 1989; 9 of 1990; 4 of 1992; 5 of 1995; 8 of 1996; 9 of 1997; 2 of 2002; 2 of 2006; 30 of 2007 and 10 of 2016.
+*This Schedule has been amended by the following: 16 of 1963; 29 of 1966, 42 of 1966; 13 of 1968; 1 of 1979; 19 of 1980; 25 of 1981; 11 of 1988; 6 of 1989; 9 of 1990; 4 of 1992; 5 of 1995; 8 of 1996; 9 of 1997; 2 of 2002; 2 of 2006; 30 of 2007; 10 of 2016 and 16 of 2021.
+(b) exceeds $5,000, but does not exceed $5,500, the tax payable
 shall be limited to 49.5 per cent of the amount by which the chargeable income exceeds $5,000;
 (c) exceeds $5,000, but does not exceed $6,000, the tax payable
 shall be reduced by 50 per cent;
@@ -23,8 +23,8 @@ shall be limited to $736 plus 59.8 per cent of the amount by which the chargeabl
 PART II
 RATES OF WITHHOLDING TAX
 The rates of withholding tax shall be-
-(i) on any distribution made-10 per cent;
-but where such distribution is made to a parent company the rate shall be 5 per cent;
+(i) on any distribution made-8 per cent;
+but where such distribution is made to a parent company the rate shall be 3 per cent;
 (ii) on any payment made to a person other than a
 company-15 per cent;
 (iii) on any payment made to a company-15 per cent;
