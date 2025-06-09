@@ -2,32 +2,36 @@ PETTY CIVIL COURTS ACT
 CHAPTER 4:21
 Act
 9 of 1911 Amended by
-3 of 1964 35 of 1917 43 of 1975 13 of 1921 45 of 1979
+43 of 1975 35 of 1917 45 of 1979 13 of 1921 3 of 1980
 63 of 1921
-3 of 1980
-29 of 1922
 47 of 1980
-29 of 1925
+29 of 1922
 12 of 1988
-36 of 1936
+29 of 1925
 28 of 1996
-14 of 1939 *13 of 1998 9 of 1943 47 of 2000
-2 of 2015 2 of 1949
-*See Note on page 2
+36 of 1936
+*13 of 1998
+14 of 1939
+47 of 2000
+9 of 1943 2 of 2015 2 of 1949 169/2016
+*20 of 2020 3 of 1964
+(*See Notes on page 2)
+85 ..
 Index of Subsidiary Legislation
-Page Petty Civil Courts (Sittings) Order (LN 164/1995) … … … 30 Petty Civil Courts Rules (RG 20.11.41, 30.4.42, 23.12.43) … … 34
+Page Petty Civil Courts (Sittings) Order (LN 164/1995) … … … 30 Petty Civil Courts Rules (RG 20.11.41, 30.4.42, 23.12.43) … … 34 Petty Civil Courts (Districts) Order (LN 226/2021) … … … 85
 Note on Act No. 13 of 1998
 For jurisdiction of the Petty Civil Courts with respect to eligibility for mediation in Civil matters vide section 14 of Act No. 13 of 1998.
 Note on Adaptation
-Under paragraph 6 of the Second Schedule to the Law Revision Act (Ch. 3:03) the Commission amended certain references to public officers in this Chapter. The Minister's approval of the amendments was signified by LN 52/1980, but no marginal reference is made to this Notice where any such amendment is made in the text.
+Under paragraph 6 of the Second Schedule to the Law Revision Act (Chap. 3:03) the Commission amended certain references to public officers in this Chapter. The Minister's approval of the amendments was signified by LN 52/1980, but no marginal reference is made to this Notice where any such amendment is made in the text.
+Note on Act No. 20 of 2020
+The amendments made to this Act by Act No. 20 of 2020 took effect on 21st July 2020 by LN 275/2020.
 CHAPTER 4:21
 PETTY CIVIL COURTS ACT
-ARRANGEMENT OF SECTIONS
-SECTION
+ARRANGEMENT OF SECTIONS SECTION
 1. Short title. 2. Interpretation. 3. Districts.
-Assignment of Magistrates to districts; and jurisdiction.
-4. Sittings. 5. Office hours. 6. Clerks to be assigned to districts. 7. Deputies. 8. General jurisdiction. 9. Abandonment of part of claim to give Court jurisdiction.
-9A. Jurisdiction by agreement in certain actions. 9B. Transfer of actions of contract or tort from High Court to Court. 10. Jurisdiction in actions for the recovery of land. 11. Lessee to give notice of summons for recovery of land. 12. Transfer of actions for the recovery of land to the High Court. 13. Jurisdiction where title in question. 14. Execution of warrant of possession. 15. Limitation on the jurisdiction of the Courts. 16. Cases triable by Magistrates. 17. Jurisdiction as to parties. 18. Trustees, executors, or administrators. 19. Partners. 20. Infants. 21. Joinder of parties. 22. Joinder of causes of action. 23. Division of causes of action. 24. Partnership or intestacy or legacy.
+Assignment of Magistrates and jurisdiction.
+4. Sittings. 5. (Repealed by Act No. 20 of 2020). 6. Clerks to be assigned to districts. 7. (Repealed by Act No. 20 of 2020). 8. General jurisdiction. 9. Abandonment of part of claim to give Court jurisdiction.
+9A. Jurisdiction by agreement in certain actions. 9B. Transfer of actions of contract or tort from High Court to Court. 10. Jurisdiction in actions for the recovery of land. 11. Lessee to give notice of summons for recovery of land. 12. Transfer of actions for the recovery of land to the High Court. 13. Jurisdiction where title in question. 14. Execution of warrant of possession. 15. Limitation on the jurisdiction of the Courts. 16. Cases triable by Magistrates. 17. (Repealed by Act No. 20 of 2020). 18. Trustees, executors, or administrators. 19. Partners. 20. Infants. 21. Joinder of parties. 22. Joinder of causes of action. 23. Division of causes of action. 24. Partnership or intestacy or legacy.
 24A. Bar to High Court action.
 25. Death of parties.
 ARRANGEMENT OF SECTIONS-Continued SECTION
@@ -52,6 +56,6 @@ CHAPTER 4:21
 PETTY CIVIL COURTS ACT
 An Act relating to Petty Civil Courts.
 [1ST MAY 1911]
-- Margin: 1950 Ed. Ch. 3. No. 3
+- Margin: 1950 Ed. Ch. 3. No. 3.
 - Margin: 9 of 1911.
 - Margin: Commencement.
