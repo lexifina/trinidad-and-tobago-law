@@ -1,0 +1,3 @@
+# 6B. References to jury in written laws. [10 of 2017].
+(1) Except where the context otherwise requires, a reference in this Act or any other written law to a jury, the verdict of a jury or the finding of a jury shall be read, in relation to a trial by a Judge alone, as a reference to the Judge, the verdict of the Judge or the finding of the Judge, as the case may be.
+(2) For the purposes of a trial by a Judge alone, the provisions of this Act or any other written law, insofar as they are predicated on a trial with a jury, shall be read and construed with such modifications, adaptations, qualifications and exceptions as may be necessary to bring them into conformity with a trial by a Judge sitting alone without a jury.
