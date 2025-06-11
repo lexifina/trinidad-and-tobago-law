@@ -1,3 +1,3 @@
-SUMMARY COURTS (SITTINGS) ORDER
-made under section 9
-- Margin: *163/1995.
+SUMMARY COURTS (FEES) RULES
+made under section 23
+- Margin: 264/2020.

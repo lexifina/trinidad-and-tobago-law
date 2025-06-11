@@ -3,55 +3,64 @@ CHAPTER 4:20
 Act
 9 of 1918
 Amended by
-2 of 1919 97/1963 8 of 1992
-19 of 1965 28 of 1921 3 of 1994
-31 of 1971 62 of 1921
-18 of 1994
-53 of 1976 6 of 1923
-27 of 1994
-136/1976 32 of 1925
-28 of 1996
-22 of 1977 22 of 1936
-22 of 1997 45 of 1979 14 of 1939
-3 of 1980 37 of 1997 21 of 1943 47 of 1980 44 of 2000 36 of 1947
-98/1981 24 of 1948
-59 of 2000
-29 of 1982 24 of 1951
-85 of 2000
-37 of 1985
-20 of 1953
-6 of 2004
-*13 of 1986
-18 of 1957
-15 of 2005 27 of 1986 175/1958
-19 of 2005 11 of 1987 11 of 1961
-16 of 1989 †23 of 2005 172/1961
-21 of 1990 4 of 2011 (by implication) 8/1962 38 of 1991 16 of 1962 12 of 2012
-*See Note on Validation on page 3
-†See Note on page 3
+22 of 1997 2 of 1919 53 of 1976 28 of 1921 37 of 1997 136/1976 62 of 1921 44 of 2000 22 of 1977 6 of 1923 59 of 2000
+45 of 1979
+32 of 1925 85 of 2000
+3 of 1980
+22 of 1936 6 of 2004
+47 of 1980
+14 of 1939 15 of 2005
+98/1981
+21 of 1943 19 of 2005
+29 of 1982
+36 of 1947 23 of 2005
+37 of 1985 24 of 1948 4 of 2011 *13 of 1986 24 of 1951 *20 of 2011 20 of 1953 27 of 1986 (by implication) 12 of 2012 18 of 1957 *6 of 2016 11 of 1987 175/1958 *10 of 2017 16 of 1989 11 of 1961 *15 of 2018
+21 of 1990
+172/1961 19 of 2018 38 of 1991
+8/1962 *10 of 2020 8 of 1992 16 of 1962 *20 of 2020 3 of 1994
+97/1963 *29 of 2020 18 of 1994 19 of 1965 3 of 2022 27 of 1994 31 of 1971 28 of 1996 *12 of 2023
+(*See Notes on pages 2 and 3)
 Index of Subsidiary Legislation
 Page
-Magisterial Districts Order (Proc. 17 of 1926) ... 168 Summary Courts (Sittings) Order (LN 163/1995) … … … 170 Summary Courts (Costs on Appeal) Rules (GN 175/1958) … … 175 Summary Courts (Service of Summons) (Family Court) Order (LN 221/2005) 177
+Magisterial Districts Order (Proc. 17 of 1926) ... 169 Summary Courts (Costs on Appeal) Rules (GN 175/1958) … … 174 Summary Courts (Service of Summons) (Family Court) Order (LN 221/2005) 176 Summary Courts (Fees) Rules (LN 264/2020) ... 177 Summary Courts (Sittings) Order (LN 188/2021) … … … 179 Summary Courts (Appeals Against Fixed Penalty Notices Issued Under The
+Public Health Regulations) Rules (LN 279/2021) … … … 183
 Note on section 133A or 134
 (Review of Magistrates' decision)
-For an application to review the decision of a Magistrate under section 133A or 134 see Order 56A of the Rules of the Supreme Court 1975 (LN 28/1985).
+For an application to review the decision of a Magistrate under section 133A or 134 see Order 56A of the Rules of the Supreme Court, 1975 (LN 28/1985).
 Note on Increase of Fines
-The Law Revision (Miscellaneous Provisions) Act 1980 (47 of 1980) section 8 provides that as from 31st July 1981 (date of publication of the Revised Edition of the Laws of Trinidad and Tobago), a fine prescribed by any written law not published in the Revised Edition shall be increased in accordance with the provisions of paragraph 1(b), (c) and (d) of the Second Schedule to the Law Revision Act, Ch. 3:03.
+The Law Revision (Miscellaneous Provisions) Act, 1980 (47 of 1980) section 8 provides that as from 31st July 1981 (date of publication of the Revised Edition of the Laws of Trinidad and Tobago), a fine prescribed by any written law not published in the Revised Edition shall be increased in accordance with the provisions of paragraph 1(b), (c) and (d) of the Second Schedule to the Law Revision Act, Chap. 3:03.
 Note on Transferred Provision
-Section 44A of the Interpretation Act 1962 (Act No. 2 of 1962) has been transferred to this Act and appears in this Edition as section 69(3).
+Section 44A of the Interpretation Act, 1962 (Act No. 2 of 1962) has been transferred to this Act and appears in this Edition as section 69(3).
 Note on Adaptation
-Under paragraph 6 of the Second Schedule to the Law Revision Act, Ch. 3:03 the Commission amended certain references to public officers in this Chapter. The Minister's approval of the amendments was signified by LN 52/1980, but no marginal reference is made to this Notice where any such amendment is made in the text.
+Under paragraph 6 of the Second Schedule to the Law Revision Act, Chap. 3:03 the Commission amended certain references to public officers in this Chapter. The Minister's approval of the amendments was signified by LN 52/1980, but no marginal reference is made to this Notice where any such amendment is made in the text.
 Note on Validation
 A. Part VIII of the Act
-All acts and things done or purported to be done or omitted to be done by any person or authority under or in pursuance of the powers conferred by Part VIII of the Act are deemed to have been lawfully and validly done or omitted to be done and no action or other legal proceedings whether pending or not shall lie against the State or any person in respect of or in consequence of such acts or things. (N.B. See Section 7 of Act No. 13 of 1986).
+All acts and things done or purported to be done or omitted to be done by any
+Validation and person or authority under or in pursuance of the powers conferred by Part VIII indemnity.
+[13 of 1986]. of the Act are deemed to have been lawfully and validly done or omitted to be done and no action or other legal proceedings whether pending or not shall lie against the State or any person in respect of or in consequence of such acts or things. (N.B. See section 7 of Act No. 13 of 1986).
 B. Section 130 of the Act
-Every notice of appeal given by an appellant in custody under section 130 prior to 13th February 2004 and which was given outside of the time prescribed in the said section 130 and is pending is declared to be as valid as if it had been given in accordance with the said section 130. (N.B. See Section 10 of Act No. 6 of 2004).
-Note on Act No. 23 of 2005
-See section 23F of the Indictable Offences (Preliminary Enquiry) Act, Ch. 12:01 with respect to the non-application of section 55 and Part VI of this Act.
+Every notice of appeal given by an appellant in custody under section 130 Validation.
+[6 of 2004]. prior to 13th February 2004 and which was given outside of the time prescribed in the said section 130 and is pending is declared to be as valid as if it had been given in accordance with the said section 130. (N.B. See section 10 of Act No. 6 of 2004).
+Note on Amendments
+A. Amendments made to this Act by Act No. 20 of 2011 took effect on 12th December 2023
+by LN 374/2023.
+B. Amendments made to this Act by Act No. 6 of 2016 took effect on 15th May 2017 by
+LN 38/2017.
+C. Amendments made to this Act by Act No. 10 of 2017 took effect on 1st February 2019
+by LN 25/2019.
+D. Amendments made to this Act by Act No. 15 of 2018, with the exception of the
+amendment made by section 4(a)(iv) of that Act, took effect on 31st December 2018 by LN 191/2018. The amendments made by section 4(a)(iv) took effect on 1st February 2019 by LN 191/2018.
+E. Amendments made to this Act by Act No. 10 of 2020 took effect on 11th May 2020
+by LN 92/2020.
+F. Amendments made to this Act by Act No. 20 of 2020 took effect on 21st July 2020 by
+LN 275/2020.
+G. Amendments made to this Act by Act No. 29 of 2020 took effect on 24th December
+2020 by LN 411/2020.
+H. Amendments made to this Act by Act No. 12 of 2023 took effect on 12th December 2023
+by LN 376/2023.
 CHAPTER 4:20
 SUMMARY COURTS ACT
-ARRANGEMENT OF SECTIONS
-SECTION
+ARRANGEMENT OF SECTIONS SECTION
 1. Short title. 2. Interpretation.
 PART I
 GENERAL PROVISIONS
@@ -59,15 +68,15 @@ MAGISTRATES
 3. Magistrates appointment; ex officio Justices.
 3A. Qualification of Magistrate. 3B. Appointment of Magistrates on contract.
 JUSTICES OF THE PEACE
-4. Oath of office.
-CLERKS OF THE PEACE AND OTHER OFFICERS
-5. Clerks and interpreters.
+4. Oath of office. 5. (Repealed by Act No. 20 of 2020).
 JURISDICTION AND DISTRICTS
-6. Jurisdiction of Magistrates and Justices. 7. Magisterial districts. 8. Assignment of Magistrates to districts. 9. Places and times of hearing. 10. Offences committed within territorial waters. 11. Record of cases. 12. Record to be evidence. 13. Hearing of case where Magistrate or Justice interested.
-13A. Transfer of proceedings.
+6. Jurisdiction of Magistrates and Justices. 7. Magisterial districts and Court locations. 8. Assignment of Magistrates, Justices and Clerks. 9. Places and times of hearing.
+9A. Chief Justice to determine court locations for traffic matters. 10. Offences committed within territorial waters. 11. Record of cases. 12. Record to be evidence. 13. Hearing of case where Magistrate or Justice interested.
+13A. Transfer of proceedings. 13B. Transfer of case by Chief Justice.
 FEES, PENALTIES, ACCOUNTS
 14. Payment of fees. 15. Exemption from payment of fees. 16. Improper demand of fees. 17. Fees and penalties payable to Magistrate. SECTION
 18. Payment of money received by certain officers. 19. Neglect to pay fees, etc., recovered to Magistrate. 20. Accounts. 21. Payment of fees and penalties to Comptroller of Accounts.
+21A. Court administrative fees.
 FORMS
 22. Forms.
 RULES
@@ -100,13 +109,14 @@ ENFORCING ATTENDANCE OF WITNESSES
 REFRACTORY WITNESSES
 53. Witness refusing to be sworn, etc. SECTION
 PART IV
-HEARING AND ORDER
-HEARING OF COMPLAINT
+HEARING AND ORDER HEARING OF COMPLAINT
 54. Time and place of hearing.
 Public to have access. Public may be excluded.
-55. Procedure where charge appears to be one proper for indictment. 56. Transfer of case where cause of complaint has arisen out of district
-of Court.
-57. Mode of conducting case. 58. Head of department may authorise officer in his department to
+55. Procedure where charge appears to be one proper for indictment. 56. Transfer of case in the interest of justice.
+56A. Referral of a person to the Drug Treatment Process.
+57. Mode of conducting case.
+57A. Chief Justice may issue directions.
+58. Head of department may authorise officer in his department to
 appear for him.
 59. Non-appearance of complainant. 60. Non-appearance of defendant. 61. Non-appearance of both parties. 62. Appearance of both parties. 63. Manner of hearing.
 Notes of evidence to be taken.
@@ -119,14 +129,14 @@ ADJOURNMENT OF HEARING
 66A. Remand for medical examination.
 MAKING OF ORDER
 67. Giving of decision upon conclusion of hearing. 68. Power of awarding imprisonment in default of payment of penalty. 69. Power to inflict fine in lieu of imprisonment.
-Term of imprisonment that may be imposed. Where no penalty prescribed for summary offence.
-ARRANGEMENT OF SECTIONS-Continued
-SECTION
+Term of imprisonment that may be imposed.
+Where no penalty prescribed for summary offence.
+ARRANGEMENT OF SECTIONS-Continued SECTION
 70. Payment and allocation of fines and fees. 71. Power of Court to permit conditional release of offenders. 72. Consecutive sentences. 73. Mode of dealing with forfeiture not pecuniary. 74. Offence charged-attempt proved.
 Attempt charged-full offence proved.
 75. Conviction for offence involved in offence charged. 76. Embezzlement, etc., charged-Larceny proved.
 Larceny charged-Embezzlement, etc., proved.
-Larceny charged-"Conveying" proved. "Receiving" charged-Larceny or "conveying" proved. "Conveying" charged-"Larceny or receiving" proved. "Larceny" charged-"False pretences" proved and vice versa. Conviction to be for one offence only.
+Larceny charged-"conveying" proved. "Receiving" charged-Larceny or "conveying" proved. "Conveying" charged-"Larceny or receiving" proved. "Larceny" charged-"False pretences" proved and vice versa. Conviction to be for one offence only.
 COSTS AND COMPENSATION
 77. Order as to costs and compensation.
 PART V
@@ -142,7 +152,7 @@ WARRANT OF DISTRESS
 82. Issue of distress warrant in certain cases. 83. Commitment or security until return made to distress warrant. 84. Imprisonment in default of distress. 85. General provisions with respect to distress warrants.
 Payment of amount of distress warrant.
 COMMITMENT OF DEFENDANT, ETC.
-86. Power to commit defendant in certain cases. 87. Power to postpone issue of warrant of commitment. 88. Payment of penalty to Clerk of Court or at the prison. 89. Commencement of imprisonment. 90. Varying of or discharging order for sureties. 91. Right of person imprisoned in default to be released on paying
+86. Power to commit defendant in certain cases. 87. Power to postpone issue of warrant of commitment. 88. Payment of penalty to Clerk or at the prison. 89. Commencement of imprisonment. 90. Varying of or discharging order for sureties. 91. Right of person imprisoned in default to be released on paying
 sum, etc.
 92. Determination of liability of defendant on satisfaction of or
 discharge from order.
@@ -150,17 +160,13 @@ SUMMARY ORDER
 93. Summary order to do specific act.
 PART VI
 SUMMARY TRIAL OF INDICTABLE OFFENCES
-94. Power to reduce charge from indictable to summary offence.
-Power to remand person charged.
-95. Director of Public Prosecutions may require case to be adjourned or
-dealt with specially.
-96. Magistrate to adjourn case on request of prosecutor. 97. General provisions as to dealing summarily with indictable
+} 94.
+95. (Repealed by Act No. 12 of 2023). 96. 97. General provisions as to dealing summarily with indictable
 offences.
-98. Issue of order of dismissal on summary trial of indictable offence. 99. Procedure for summary trial of child or young person charged with
-an offence. ARRANGEMENT OF SECTIONS-Continued
-SECTION
-100. Summary trial of complaint against adult for certain indictable
-offences.
+98. Issue of order of dismissal on summary trial of indictable offence. 99. Procedure for summary trial of younger child or older child charged
+with an offence.
+100. (Repealed by Act No. 12 of 2023).
+ARRANGEMENT OF SECTIONS-Continued SECTION
 PART VII
 MISCELLANEOUS PROVISIONS
 OWNERSHIP OF PROPERTY
@@ -177,9 +183,9 @@ KEEPING OF THE PEACE
 114. Order to keep the peace-procedure thereon. 115. Power to bind parties to be of good behaviour.
 SAVING OF VALIDITY OF PROCESS
 116. Warrant of commitment.
-Warrant of distress. Death of Magistrate or Justice. SECTION
+Warrant of distress. Death of Magistrate or Justice.
 117. Barring of objection to jurisdiction unless taken at hearing or when
-order made.
+order made. SECTION
 118. Effect of variance or defect in proceedings.
 PROOF OF PROCESS
 119. Proof of service of summons or other process. 120. Proof of previous convictions.
@@ -198,10 +204,10 @@ MEDICAL TESTIMONY
 PART VIII
 APPEALS AND SPECIAL CASES
 128. Right of appeal. 128A. Appellant in custody.
-129. Right of appeal under former Act. 130. Notice of appeal to be given. 130A. Extension of time to appeal.
-ARRANGEMENT OF SECTIONS-Continued
-SECTION 130B. Reasons for decision to be stated.
-131. Reasons for appeal. 132. Enumeration of admissible reasons for appeal. 133. Manner of setting forth reasons for appeal. 133A. Bail to be granted to appellant sentenced to less than three months.
+129. Right of appeal under former Act. 130. Notice of appeal to be given. 130A. Extension of time to appeal. 130B. Reasons for decision to be stated.
+131. Reasons for appeal.
+ARRANGEMENT OF SECTIONS-Continued SECTION
+132. Enumeration of admissible reasons for appeal. 133. Manner of setting forth reasons for appeal. 133A. Bail to be granted to appellant sentenced to less than three months.
 134. Bail may be granted to appellant sentenced to three or more than
 three months.
 135. Procedure after notice of appeal given. 136. Where recognisance not entered into. 137. Copy of notice to be sent to respondent. 138. Abandonment of appeal.
@@ -210,13 +216,12 @@ HEARING AND JUDGMENT
 Powers of Court in giving judgment.
 150. Enforcing of judgment.
 COSTS
-151. Frivolous and vexatious appeals. 152. General power of the Court as to costs. 153. Costs in abandonment or withdrawal of appeal. SECTION
-154. Payment of costs. 155. Enforcement of order for costs.
+151. Frivolous and vexatious appeals. 152. General power of the Court as to costs. 153. Costs in abandonment or withdrawal of appeal. 154. Payment of costs. 155. Enforcement of order for costs. SECTION
 SPECIAL CASE
 156. Statement of case.
 PART IX
 SUPPLEMENTARY
-157. Rules. 158. Application to Court to compel Magistrate or Justice to act.
+157. Rules. 158. Application to Court to compel Magistrate or Justice to act. 159. Immunity of Magistrates.
 FIRST SCHEDULE. SECOND SCHEDULE. THIRD SCHEDULE. FOURTH SCHEDULE. FIFTH SCHEDULE. SIXTH SCHEDULE. SEVENTH SCHEDULE.
 
 CHAPTER 4:20
@@ -224,8 +229,6 @@ SUMMARY COURTS ACT
 An Act relating to procedure in respect of offences punishable
 on summary conviction.
 [1ST JUNE 1918]
-- Margin: Validation and indemnity. [13 of 1986].
-- Margin: Validation. [6 of 2004].
 - Margin: 1950 Ed. Ch. 3. No. 4.
 - Margin: 9 of 1918.
 - Margin: Commencement.
