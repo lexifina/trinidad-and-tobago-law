@@ -1,14 +1,14 @@
 # FORM 6
-DECLARATION OF NON-PAYMENT OF SUM ADJUDGED REPUBLIC OF TRINIDAD AND TOBAGO.
+DECLARATION OF NON-PAYMENT OF SUM ADJUDGED REPUBLIC OF TRINIDAD AND TOBAGO
 A.B. Complainant
 v.
 C.D. Defendant
 I, A.B., of ...
 (address) do solemnly and sincerely declare that the payments due to me from C.D., under an order made by the Magistrates' Court for the ... District, on ..., 20..., under ...
-(name the Act under which the order was made) have not been made to me in full, and that there is now in arrear the sum of $ ... [in respect of periodical payments or (instalments) due up to and including ... 20 ...].
+(name the Act under which the order was made) have not been made to me in full, and that there is now in arrear the sum of $ ... [in respect of periodical payments or (instalments) due up to and including ... 20...].
 And I make this solemn declaration conscientiously believing the same to be true by virtue of the provisions of the Statutory Declarations Act.
 ...
-(Signature) Declared at ..., the ... day of ..., 20 ..., before me,
+(Signature) Declared at ..., the ... day of ..., 20..., before me,
 (Signed) ...
 (Magistrate or Justice of ...
 or other description)

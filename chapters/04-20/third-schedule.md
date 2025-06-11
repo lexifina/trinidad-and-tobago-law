@@ -8,7 +8,7 @@ INSTITUTION OF PROCEEDINGS
 1. Complaint without oath. 2. Complaint upon oath.
 PART II
 ENFORCING APPEARANCE OF DEFENDANT
-3. Summons to defendant upon complaint. 4. Warrant of apprehension where defendant has disobeyed summons. 5. Warrant of apprehension of defendant in the first instance.
+3. Summons to defendant upon complaint. 4. Warrant of apprehension where defendant has disobeyed summons. 5. Warrant for apprehension of defendant in the first instance.
 PART III
 WITNESSES
 6. Summons to witness. 7. Warrant of apprehension where witness has disobeyed summons. 8. Warrant for apprehension of witness in the first instance. 9. Warrant of commitment of witness for refusing to be sworn or to
@@ -22,9 +22,7 @@ imprisonment.
 14. Order for payment of money to be levied by distress, and, in default
 of distress, imprisonment.
 15. Order for any other matter, where the disobeying of it is punishable
-by imprisonment.
-TABLE OF FORMS-Continued
-FORM
+by imprisonment. FORM
 16. Order to enter into recognisance to keep the peace and be of good
 behaviour.
 17. Order of dismissal of complaint.
@@ -51,15 +49,17 @@ adjourned or not at once proceeded with.
 30. Notification to be made to defendant and his surety on entering into
 such recognisance.
 31. Recognisance for appearance, or for doing some other thing in, to, or
-before, or in a proceeding in a Magistrate's Court. FORM
+before, or in a proceeding in a Magistrate's Court.
 32. Recognisance to keep the peace and be of good behaviour, or not to
 do or commit some act or thing.
+TABLE OF FORMS-Continued
+FORM
 33. Declaration of forfeiture of recognisance. 34. Summons to person bound by recognisance which is alleged to have
 been forfeited by conviction of principal.
 35. Adjudication of forfeiture of recognisance where person bound as
 principal has been convicted of an offence which is a breach of the condition.
 36. Oral or written acknowledgment of undertaking to perform
-condition or forfeited recognisance.
+condition of forfeited recognisance.
 37. Order cancelling or mitigating forfeiture of recognisance.
 PART VIII
 SUMMARY TRIAL OF INDICTABLE OFFENCES
