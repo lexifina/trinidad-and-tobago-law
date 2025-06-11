@@ -1,3 +1,0 @@
-# APPENDIX
-FORMS OF INDICTMENT
-- Margin: Rule 4. [45 of 1979].
