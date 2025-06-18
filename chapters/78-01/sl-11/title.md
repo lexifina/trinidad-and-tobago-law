@@ -1,4 +1,0 @@
-CUSTOMS (BORDER CONTROL SYSTEM)
-REGULATIONS
-made under section 263(1)
-- Margin: 225/2013.

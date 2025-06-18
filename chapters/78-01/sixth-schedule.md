@@ -63,6 +63,7 @@ Tobago of goods produced in Trinidad and Tobago;
 acceptance for Customs purposes of the higher of two alternative values;
 (c) the price of goods on the domestic
 market of the country of exportation;
+(d) the cost of production, other than
 computed values which have been determined for identical or similar goods in accordance with paragraph 7;
 (e) the price of goods for export to a
 country other than Trinidad and Tobago;
@@ -132,7 +133,7 @@ produced by a different person shall be taken into account only when no transact
 VALUE OF IMPORTED GOODS-Continued
 Transaction value (c) a condition for adjustment because of of identical goods-Cont'd different commercial levels or
 different quantities shall be that such adjustment shall be made only on the basis of demonstrated evidence that clearly establishes the reasonableness and accuracy of the adjustment.
-(4) For the purposes of this paragraph the transaction value of identical imported goods means a Customs value previously determined under paragraph 3, adjusted as provided for, in subparagraphs (1)(b) and (2) of this paragraph. Transaction value 5. (1) The Customs value of imported goods similar goods determined under this paragraph shall be the
+(4) For the purposes of this paragraph the transaction value of identical imported goods means a Customs value previously determined under paragraph 3, adjusted as provided for, in subparagraphs (1)(b) and (2) of this paragraph. Transaction value of 5. (1) The Customs value of imported goods similar goods determined under this paragraph shall be the
 transaction value of similar goods sold for export to Trinidad and Tobago and exported at or about the same time as the goods being valued but-
 (a) in applying this subparagraph, the
 transaction value of similar goods in a sale at the same commercial level and in substantially the same quantity as the goods being valued shall be used to determine the Customs value;
@@ -144,8 +145,8 @@ transaction value of similar goods sold at a different commercial level and in d
 similar goods is found, the lowest such value shall be used to determine the Customs value of the imported goods;
 (b) a transaction value for goods produced
 by a different person shall be taken into account only when no transaction value can be found under subparagraph (1) for similar goods produced by the same person as the goods being valued;
-(c) a condition for adjustment because of
-different commercial levels or different quantities shall be that such adjustment shall be made only on the basis of demonstrated evidence that clearly establishes the reasonableness and accuracy of the adjustment.
+(c) a condition for adjustment because
+of different commercial levels or different quantities shall be that such adjustment shall be made only on the basis of demonstrated evidence that clearly establishes the reasonableness and accuracy of the adjustment.
 (4) For the purposes of this paragraph, the transaction value of similar imported goods means a Customs value previously determined under paragraph 3, adjusted as provided for in subparagraphs (1)(b) and (2) of this paragraph.
 Value based on 6. (1) Where the imported goods or identical or unit price of
 similar imported goods are sold in Trinidad greatest
@@ -185,7 +186,7 @@ expenses equal to that usually reflected in sales of goods of the same class or
 kind as the goods being valued which are made by producers in the country of exportation for export to Trinidad and Tobago;
 (c) the cost or value of the items referred
 to in paragraph 8(l)(g).
-(2) The cost or value of materials and fabrication referred to in subparagraph(1)(a) shall include the cost of elements specified in paragraph 8(1) and the value duly apportioned, of any element specified in paragraph 8(1)(d) which has been supplied directly or indirectly by the buyer for use in connection with the production of the imported goods but the value of the elements specified in paragraph 8(1)(d)
+(2) The cost or value of materials and fabrication referred to in subparagraph (1)(a) shall include the cost of elements specified in paragraph 8(1) and the value duly apportioned, of any element specified in paragraph 8(1)(d) which has been supplied directly or indirectly by the buyer for use in connection with the production of the imported goods but the value of the elements specified in paragraph 8(1)(d)
 (iv) which are undertaken in Trinidad and Tobago shall be included only to the extent that such elements are charged to the producer, no cost or value of an element referred to in this subparagraph shall be counted more than once in determining the computed value.
 (3) The "cost or value" referred to in subparagraph 1(a) shall be determined on the basis of information relating to the production of the goods being valued supplied by or on behalf of the producer, it shall be based upon the commercial accounts of the producer, provided that these accounts are consistent with the generally accepted accounting principle applied in the country where the goods are produced.
 (4) For the purposes of subparagraph 1(b)-
@@ -229,7 +230,7 @@ goods to the port or place of importation, the loading and handling charges asso
 (2) No additions shall be made to the price actually paid or payable in determining the Customs value except as provided in this paragraph.
 (3) Additions to the price actually paid or payable shall be made under this paragraph only on the basis of objective and quantifiable data and if such do not exist a transaction value shall not be determined under the provisions of paragraph 3.
 (4) In this paragraph, the term "buying commissions" means fees paid by an importer to his agent for the service of representing him abroad in the purchase of the goods being valued.
-(5) Notwithstanding subparagraph (1) (c)-
+(5) Notwithstanding subparagraph (1)(c)-
 (a) charges for the right to reproduce the
 imported goods in Trinidad and Tobago shall not be added to the price actually paid or payable for the imported goods in determining the Customs value; and
 (b) payments made by the buyer for the

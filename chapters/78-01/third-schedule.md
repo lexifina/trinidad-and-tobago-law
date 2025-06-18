@@ -208,24 +208,24 @@ buses for the tourism industry.
 PART B CLASS I
 LIST OF COMMODITIES INELIGIBLE FOR
 CONDITIONAL DUTY EXEMPTIONS
-Heading No. Description of Goods 0702.00 Tomatoes, fresh or chilled 0703.102 Shallots (eschallots) 0704.001 Cabbages 0704.002 Cauliflowers 0705.10 Lettuce 0706.001 Carrots 0707.001 Cucumbers 0708.001 Pigeon peas 0708.002 Blackeye peas 0708.003 String beans 0708.004 Bora (bodi) beans (Vigna. Spp.) 0709.001 Aubergines (egg-plants) 0709.002 Zucchini 0709.003 Ochroes 0709 004 Pumpkins 0709.008 Other fruits of the genus Capsicum or of the genus
+Heading No. Description of Goods 0702.00 Tomatoes, fresh or chilled 0703.102 Shallots (eschallots) 0704.001 Cabbages 0704.002 Cauliflowers 0705.10 Lettuce 0706.001 Carrots 0707.001 Cucumbers 0708.001 Pigeon peas 0708.002 Blackeye peas 0708.003 String beans 0708.004 Bora (bodi) beans (Vigna. Spp.) 0709.001 Aubergines (egg-plants) 0709.002 Zucchini 0709.003 Ochroes 0709. 004 Pumpkins 0709.008 Other fruits of the genus Capsicum or of the genus
 Pimenta
 0710.204 String beans, other, frozen 0710.30 Spinach, New Zealand spinach and orache spinach
-(garden spinach), frozen 0713.001 Red kidney beans 0714.10 Manioc (cassava) 0714.20 Sweet potatoes 0714.901 Arrowroot 0714.902 Dasheens 0714.903 Eddoes 0714.904 Tannias 0714.905 Yams 0801.10 Coconuts 0803.001 Bananas, fresh Heading No. Description of Goods 0803.002 Plantains, fresh 0804.30 Pineapples, fresh 0804.40 Avocados, fresh 0804.50 Guavas, mangoes and mangosteens, fresh 0805.10 Oranges, fresh 0805.201 Ugli fruit 0805.202 Ortaniques 0805.30 Lemons and limes 0805.40 Grapefruit 0807.101 Cantaloupes 0807.102 Watermelons 0807.103 Muskmelons 0807.20 Papaws (papayas) 0810.001 Berries 0810.002 Sapodillas 0810.003 Golden apples 0810.004 Passion fruit 0810.005 Soursop 0810.006 Breadfruit 0810.007 Carambolas 0904.202 Pimento (all spice) 09.06 Cinnamon and cinnamon-tree flowers 0907.00 Cloves (whole fruit, cloves and stems) 0908.10 Nutmeg 0908.20 Mace Ex 09.l0 Ginger, tumeric (curcuma) thyme and bay leaves 1006.20 Husked (brown) rice 1006.30 Semi-milled or wholly-milled rice, whether or not
+(garden spinach), frozen 0713.001 Red kidney beans 0714.10 Manioc (cassava) 0714.20 Sweet potatoes 0714.901 Arrowroot 0714.902 Dasheens 0714.903 Eddoes 0714.904 Tannias 0714.905 Yams 0801.10 Coconuts 0803.001 Bananas, fresh Heading No. Description of Goods 0803.002 Plantains, fresh 0804.30 Pineapples, fresh 0804.40 Avocados, fresh 0804.50 Guavas, mangoes and mangosteens, fresh 0805.10 Oranges, fresh 0805.201 Ugli fruit 0805.202 Ortaniques 0805.30 Lemons and limes 0805.40 Grapefruit 0807.101 Cantaloupes 0807.102 Watermelons 0807.103 Muskmelons 0807.20 Papaws (papayas) 0810.001 Berries 0810.002 Sapodillas 0810.003 Golden apples 0810.004 Passion fruit 0810.005 Soursop 0810.006 Breadfruit 0810.007 Carambolas 0904.202 Pimento (all spice) 09.06 Cinnamon and cinnamon-tree flowers 0907.00 Cloves (whole fruit, cloves and stems) 0908.10 Nutmeg 0908.20 Mace Ex. 09.l0 Ginger, turmeric (curcuma) thyme and bay leaves 1006.20 Husked (brown) rice 1006.30 Semi-milled or wholly-milled rice, whether or not
 polished or glazed 1006.40 Broken rice 11.01 Wheat flour 1106.202 Arrowroot flour 1108.101 Arrowroot starch 1203.00 Copra 1208.10 Flours and meals of soya beans
 CLASS I
 LIST OF COMMODITIES INELIGIBLE FOR
 CONDITIONAL DUTY EXEMPTIONS-Continued
 Heading No. Description of Goods 1208.902 Flours and meals of copra 1212.92 Sugar cane 1302.101 Aloe vera extract 15.08 Ground-nut oil and its fractions, whether or not
-refined, but not chemicaly modified 15.09 Olive oil and its fractions, whether or not refined,
+refined, but not chemically modified 15.09 Olive oil and its fractions, whether or not refined,
 but not chemically modified 15.10 Other oils and their fractions, obtained solely from
-olives, whether or not refined, but not chemically modified, including blends of these oils or fractions with oils or fractions of heading No. 15.09 Ex 15.11 Palm oil and its fractions, refined, but not
+olives, whether or not refined, but not chemically modified, including blends of these oils or fractions with oils or fractions of heading No. 15.09 Ex. 15.11 Palm oil and its fractions, refined, but not
 chemically modified (excluding Palm Stearin) 15.12 Sunflower-seed, safflower or cotton-seed oil and
 fractions thereof, whether or not refined, but not chemically modified 15.13 Coconut (copra), palm kernel or babassu oil and
 fractions thereof, whether or not refined, but not chemically modified 15.14 Rape, colza or mustard oil and fractions thereof,
 whether or not refined, but not chemically modified 1516.101 Fish fats and oils and their fractions 1516.20 Vegetable fats and oils and their fractions 1701.11 Cane sugar 1701.12 Beet sugar 2009.101 Orange juice, concentrated 2009.201 Grapefruit juice, concentrated 2102.30 Prepared baking powders 2306.50 Oil cake of coconut or copra 2309.903 Prepared complete poultry feed 2309.904 Prepared complete cattle feed 2309.905 Prepared complete pig feed 2309.906 Other prepared complete animal feeds 2520.101 Gypsum Heading No. Description of Goods 2521.00 Limestone flux; limestone and other calcareous
 stone, of a kind used for the manufacture of lime or cement 2522.10 Quicklime 2522.20 Slaked lime 2522.30 Hydraulic lime 2523.201 Building cement (grey) 2606.00 Aluminium ores and concentrates 2707.001 Gasoline blending preparations 2708.10 Pitch 2710.911 Lubricating oil base stock (paraffinic type) within
-the range H.V.I. 55 and H.V.I.160 including straight run and blended base oils 2710.94 Hydraulic brake fluids and other prepared liquids
+the range H.V.I. 55 and H.V.I. 160 including straight run and blended base oils 2710.94 Hydraulic brake fluids and other prepared liquids
 for hydraulic transmission 2804.10 Hydrogen 2804.30 Nitrogen 2804.40 Oxygen 2807.002 Sulphuric acid, other 2811.21 Carbon dioxide 2814.10 Anhydrous ammonia 2818.20 Alumina 2833.001 Aluminium sulphate 2904.001 Sulphonic acid [Tridecylbenzene
 (TDBSA) and Linear Alkylbenzene (LABSA)] 3208.001 Automotive paints 3208.002 Marine paints 3208.003 Enamels 3208.004 Other paints 3208.005 Marine varnishes (including lacquers) 3208.006 Other varnishes (including lacquers) 3208.009 Other solutions as defined in Note 4 of Chapter 32 3209.001 Paints 3209.002 Enamels 3209.003 Varnishes (including lacquers)
 CLASS I
@@ -243,7 +243,7 @@ agglomerated in logs, briquettes, pellets or similar forms 4402.00 Wood charcoal
 whether or not agglomerated 4403.003 Wood in the rough, of other non-coniferous
 species, treated with paint, stains, creosote and other preservatives 4403.006 Other wood in the rough, of non-coniferous species 4404.001 Split poles, piles, pickets, stakes and sticks, of wood 4406.00 Railway or tramway sleepers (cross-ties), of wood 4407.004 Greenheart 4407.006 Mora 4409.202 Greenheart 4409.204 Mora 4417.001 Handles for axes, brooms, files, hammers, hoes,
 picks, rakes and shovels 4819.10 Cartons, boxes and cases, of corrugated paper or
-paperboard 4821.00 Paper or paperboard lables of all kinds, whether or
+paperboard 4821.00 Paper or paperboard labels of all kinds, whether or
 not printed 6810.11 Buildingblocks and bricks of cement, of concrete
 or of artificial stone, whether or not reinforced 6904.10 Ceramic building bricks 72.10 Flat-rolled products of iron or non-alloy steel, of a
 width of 600 mm or more, clad, plated or coated
@@ -269,7 +269,7 @@ substitutes prepared from fish eggs: 1604.11 Salmon 1604.132 Sardinella and bris
 CLASS II
 LIST OF COMMODITIES INELIGIBLE FOR
 CONDITIONAL DUTY EXEMPTIONS-Continued
-Heading No. Description of Goods 1604.142 Skipjack and bonito 1604.19 Other fish, whole or in pieces, but not minced 1604.20 Other prepared or preserved fish 1604.30 Caviar and caviar substitutes 16.05 Crustaceans, molluses and other aquatic
+Heading No. Description of Goods 1604.142 Skipjack and bonito 1604.19 Other fish, whole or in pieces, but not minced 1604.20 Other prepared or preserved fish 1604.30 Caviar and caviar substitutes 16.05 Crustaceans, molluscs and other aquatic
 invertebrates, prepared or preserved 17.04 Sugar confectionery (including white chocolate),
 not containing cocoa 1805.001 Cocoa powder, put up for retail sale in packages of
 not more than 2 kg 18.06 Chocolate and other food preparations containing
@@ -288,15 +288,15 @@ LIST OF COMMODITIES INELIGIBLE FOR
 CONDITIONAL DUTY EXEMPTIONS-Continued
 Heading No. Description of Goods 20.09 Fruit juices (including grape must) and vegetable
 juices, unfermented and not containing added spirit, whether or not containing added sugar or other sweetening matter: 2009.409 Other pineapple juice 2009.509 Other tomato juice 2009.609 Other grape juice (including grape must) 2009.709 Other apple juice 2009.803 Passion fruit juice, other 2009.806 Tamarind juice, other 2009.809 Other juice of any other single fruit or vegetable 2009.904 Other pineapple-based juices 2009.909 Other mixtures of juices 21.01 Extracts, essences and concentrates, of coffee, tea or
-maté and preparations with a basis of these products or with a basis of coffee, tea or maté, roasted chicory and other roasted coffee substitutes, and extracts, essences and concentrates thereof Ex 21.03 Sauces and preparations therefor; mixed condiments
-and mixed seasonings; prepared mustard Ex 21.04 Soups and broths and preparations therefor;
+maté and preparations with a basis of these products or with a basis of coffee, tea or maté, roasted chicory and other roasted coffee substitutes, and extracts, essences and concentrates thereof Ex. 21.03 Sauces and preparations therefor; mixed condiments
+and mixed seasonings; prepared mustard Ex. 21.04 Soups and broths and preparations therefor;
 homogenised composite food preparations (excluding preparations for infant use, put up for retail sale) 21.05 Ice cream and other edible ice, whether or not
 containing cocoa 2106.001 Mauby syrup 2106.002 Other flavoured or coloured sugar syrups 2106.006 Ice cream powders 2106.007 Preparations consisting of saccharin and a
 foodstuff, used for sweetening purposes 2106.009 Other food preparations not elsewhere specified or
 included 2201.101 Mineral waters Heading No. Description of Goods 2201.102 Aerated waters 2202.101 Aerated beverages 2209.00 Vinegar and substitutes for vinegar obtained from
 acetic acid 2309.10 Dog or cat food, put up for retail sale 2309.901 Mixed bird seed 2309.902 Other foods for pets 2501.001 Table salt in retail packages of not more than 2.5 kg 2712.10 Petroleum jelly 33.03 Perfumes and toilet waters 33.04 Beauty or make-up preparations and preparations
-for the care of the skin (other than medicaments), including sunscreen or sun tan preparations; manicure or pedicure preparations 33.05 Preparations for use on the hair 3306.101 Toothpastes Ex 33.07 Pre-shave, shaving or after-shave preparations,
-personal deodorants, bath preparations, depilatories and other perfumery, cosmetic or toilet preparations, not elsewhere specifed or included; prepared room deodorisers, whether or not perfumed or having disinfectant properties (excluding perfumed bath salts and other bath preparations) Ex 34.01 Soap, organic surface-active products and
+for the care of the skin (other than medicaments), including sunscreen or sun tan preparations; manicure or pedicure preparations 33.05 Preparations for use on the hair 3306.101 Toothpastes Ex. 33.07 Pre-shave, shaving or after-shave preparations,
+personal deodorants, bath preparations, depilatories and other perfumery, cosmetic or toilet preparations, not elsewhere specified or included; prepared room deodorisers, whether or not perfumed or having disinfectant properties (excluding perfumed bath salts and other bath preparations) Ex. 34.01 Soap, organic surface-active products and
 preparations for use as soap, in form of bars, cakes, moulded pieces or shapes, whether or not containing soap; paper, wadding: felt and non-wovens, impregnated, coated or covered with soap or detergent (excluding industrial soaps) 34.02 Organic surface-active agents (other than soap);
 surface-active preparations, washing preparations (including auxiliary washing preparations) and cleaning preparations, whether or not containing soap, other than those of heading No. 3401 (excluding organic surface-active agents, not put up for retail sale) 34.05 Polishes and creams, for footwear, furniture, floors,
 coachwork, glass or metal, scouring pastes and powders and similar preparations (whether or not in the form of paper, wadding, felt, non-wovens, cellular plastics or cellular rubber, impregnated, coated or covered with such preparations), excluding waxes of heading No. 3404.00
@@ -311,12 +311,12 @@ retail sale or as preparations or articles 3808.903 Other, put up in forms or pa
 as preparations or articles 3917.301 Garden hose, of plastics 3924.101 Cups, forks, knives, plates, spoons and tumblers,
 of plastics 3924.901 Ashtrays, buckets, coat-hangers and dustbins, of
 plastics 3924.902 Flower pots, of plastics 4016.991 Rubber bands 4202.101 Suitcases, travelling bags, and briefcases, of leather 4202.102 Suitcases, of other materials 4202.103 Travelling bags and briefcases, of other materials 4202.20 Handbags, whether or not with shoulder strap,
-including those without handle: 4202.201 Of leather 4202.209 Of other materials 4202.301 Purses, spectacle cases and wallets, of leather 4202.302 Purses, spectacle cases and wallets, of other materials 4415.20 Pallets, box pallets and other load boards 4419.00 Tableware and kitchen-ware, of wood Ex 44.20 Caskets and cases for jewellery or cutlery, and
+including those without handle: 4202.201 Of leather 4202.209 Of other materials 4202.301 Purses, spectacle cases and wallets, of leather 4202.302 Purses, spectacle cases and wallets, of other materials 4415.20 Pallets, box pallets and other load boards 4419.00 Tableware and kitchen-ware, of wood Ex. 44.20 Caskets and cases for jewellery or cutlery, and
 similar articles, of wood; statuettes and other ornaments, of wood; wooden articles of furniture not falling in Chapter 94 Heading No. Description of Goods 4421.10 Clothes hangers 4421.909 Other articles of wood 4601.20 Mats, matting and screens of vegetable materials 4601.901 Straw envelopes for bottles 46.02 Basketwork, wickerwork and other articles, made
-directly to shape from plaiting materials or made up from goods of heading No. 46:01; articles of loofah 48.17 Envelopes, letter cards, plain post cards and
+directly to shape from plaiting materials or made up from goods of heading No. 46.01; articles of loofah 48.17 Envelopes, letter cards, plain post cards and
 correspondence cards, of paper or paperboard; boxes, pouches, wallets and writing compendiums, of paper or paperboard, containing an assortment of paper stationery 48.18 Toilet paper, handkerchiefs, cleansing tissues,
 towels, tablecloths, serviettes, napkins for babies, tampons, bed sheets and similar household, sanitary or hospital articles, articles of apparel and clothing accessories of paper pulp, paper, cellulose wadding or webs of cellulose fibres: 4818.10 Toilet paper 4818.20 Handkerchiefs, cleansing or facial tissues and towels 4818.302 Serviettes 4818.50 Articles of apparel and clothing accessories 4818.90 Other articles 4819.60 Box files, letter trays, storage boxes and similar
-articles, of a kind used in offices, shops or the like Ex 48.20 Registers, account books, note books, order books,
+articles, of a kind used in offices, shops or the like Ex. 48.20 Registers, account books, note books, order books,
 receipt books, letter pads, memorandum pads, diaries and similar articles, blotting-pads, binders (loose-leaf or other), folders, file covers, manifold business forms, interleaved carbon sets and other articles of stationery, of paper or paperboard; albums for samples or for collections and book covers, of paper or paperboard 4823.50 Other paper and paperboard, of a kind used for
 writing, printing or other graphic purposes 4823.60 Trays, dishes, plates, cups and the like, of paper or
 paperboard 4907.003 Cheque forms 4907.009 Other stamp-impressed paper; stock, share or bond
@@ -343,7 +343,7 @@ similar articles, knitted or crocheted 61.11 Babies' garments and clothing acces
 or crocheted 61.12 Track suits, ski suits and swim wear, knitted or
 crocheted 6113.00 Garments, made up of knitted or crocheted fabrics
 of heading No. 5903.00, 59.06 or 5907.00 6114.00 Other garments, knitted or crocheted 61.15 Panty hose, tights, stockings, socks and other hosiery,
-including stockings for varicose veins and footwear without applied soles, knitted or crocheted 61.16 Gloves, mittens and mitts, knitted or crocheted Ex 61.17 Other made up clothing accessories, knitted or
+including stockings for varicose veins and footwear without applied soles, knitted or crocheted 61.16 Gloves, mittens and mitts, knitted or crocheted Ex. 61.17 Other made up clothing accessories, knitted or
 crocheted; knitted or crocheted clothing accessories 62.01 Men's or boys' overcoats, car coats, capes, cloaks,
 anoraks (including ski jackets), windcheaters, wind jackets and similar articles, other than those of heading No. 62.03 62.02 Women's or girls' overcoats, car coats, capes,
 cloaks, anoraks (including ski jackets), windcheaters, wind jackets and similar articles, other than those of heading No. 62.04 62.03 Men's or boys' suits, ensembles, jackets, blazers,
@@ -357,14 +357,14 @@ blazers, dresses, skirts, divided skirts, trousers, bib and brace overalls, bree
 62.05 Men's or boys' shirts 62.06 Women's or girls' blouses, shirts and shirt blouses 62.07 Men's or boys' singlets and other vests,
 underpants, briefs, nightshirts, pyjamas, bathrobes, dressing gowns and similar articles 62.08 Women's or girls' singlets and other vests, slips,
 petticoats, briefs, panties, nightdresses, pyjamas, negligees, bathrobes, dressing gowns and similar articles 62.09 Babies' garments and clothing accessories 6210.00 Garments, made up of fabrics of heading No. 5602.00,
-5603.00, 5903.00, 59.06 or 5907.00 62.11 Track suits, ski suits and swim wear; other garments 6212.10 Brassieres 6212.20 Girdles and panty-girdles 6213.00 Handkerchiefs 6214.00 Shawls, scarves, mufflers, mantillas, veils and the like 6215.00 Ties, bow ties and cravats Ex 62.16 Gloves, mittens and mitts (excluding industrial
-gloves) Ex 62.17 Other made up clothing accessories 63.02 Bed linen, table linen, toilet linen and kitchen linen 63.03 Curtains (including drapes) and interior blinds;
+5603.00, 5903.00, 59.06 or 5907.00 62.11 Track suits, ski suits and swim wear; other garments 6212.10 Brassieres 6212.20 Girdles and panty-girdles 6213.00 Handkerchiefs 6214.00 Shawls, scarves, mufflers, mantillas, veils and the like 6215.00 Ties, bow ties and cravats Ex. 62.16 Gloves, mittens and mitts (excluding industrial
+gloves) Ex. 62.17 Other made up clothing accessories 63.02 Bed linen, table linen, toilet linen and kitchen linen 63.03 Curtains (including drapes) and interior blinds;
 curtain or bed valances 63.04 Other furnishing articles, excluding those of
 heading No. 94.04 6307.10 Floor-cloths, dish-cloths, dusters and similar
 cleaning cloths 6307.902 Dress patterns, of other textile materials 6307.903 Flags, pennants and banners 6307.904 Pin cushions Heading No. Description of Goods 6307.909 Other made up textile articles 6309.00 Worn clothing and other worn articles 6401.10 Footwear incorporating a protective metal toe-cap 6401.901 Waterproof boots (Wellingtons) 6403.40 Other footwear, incorporating, a protective metal
 toe-cap 6503.00 Felt hats and other felt headgear, made from the
 hat bodies, hoods or plateaux of heading No. 6501.00 whether or not lined or trimmed 6504.00 Hats and other headgear, plaited or, made by
-assembling strips of any material, whether or not lined or trimmed Ex 65.05 Hats and other headgear, knitted or crocheted, or
+assembling strips of any material, whether or not lined or trimmed Ex. 65.05 Hats and other headgear, knitted or crocheted, or
 made up from lace, felt or other textile fabric, in the piece (but not in strips), whether or not lined or trimmed 65.06 Other headgear, whether or not lined or trimmed
 (excluding safety headgear) 66.01 Umbrellas and sun umbrellas (including walking-
 stick umbrellas, garden umbrellas and similar umbrellas) 6602.00 Walking-sticks, seat-sticks, whips, riding-crops
@@ -377,10 +377,10 @@ LIST OF COMMODITIES INELIGIBLE FOR
 CONDITIONAL DUTY EXEMPTIONS-Continued
 Heading No. Description of Goods 7018.909 Other statuettes and other ornaments of lamp-worked
 glass and articles of glass beads, imitation pearls, imitation precious or semi-precious stones and similar glass smallwares 7321.101 Stoves and ranges 7321.102 Cookers 7321.103 Barbecues 7323.102 Pot scourers and scouring or polishing pads 7323.901 Baking pans 7323.902 Buckets 7323.903 Dustbins 7323.904 Funnels 7323.905 Watering-cans 7323.906 Clothes hangers 7323.907 Letter boxes 7615.101 Saucepans 7615.102 Baking, stew and frying pans 8212.201 Safety razor blades 8310.00 Sign-plates, name-plates, address-plates, and similar
-plates, numbers, letters and other symbols, of base metal, excluding those of heading No. 94.05 Ex 8414.51 Table, floor, wall or window fan, with a self-
-contained electric motor of an output not exceeding 125W: Ex 84.15 Air-conditioning machines, comprising a motor-
-driven fan and elements for changing the temperature and humidity, including those machines in which the humidity cannot be separately regulated (excluding parts) Ex 84.18 Refrigerators, freezers and other refrigerating or
-freezing equipment, electric or other; heat pumps other than air conditioning machines of heading No. 84.15 (excluding other refrigerating or freezing chests, cabinets, display counters, show cases and similar refrigerating or freezing furniture and parts) Heading No. Description of Goods 8419.101 Solar water heaters, for domestic use 8419.102 Other solar water heaters 8419.103 Other water heaters, for domestic. use 8419.109 Other water heaters, non-electric 8421.121 Clothes-dryers, for domestic use 85.06 Primary cells and primary batteries 85.07 Electric accumulators, including separators therefor,
+plates, numbers, letters and other symbols, of base metal, excluding those of heading No. 94.05 Ex. 8414.51 Table, floor, wall or window fan, with a self-
+contained electric motor of an output not exceeding 125W: Ex. 84.15 Air-conditioning machines, comprising a motor-
+driven fan and elements for changing the temperature and humidity, including those machines in which the humidity cannot be separately regulated (excluding parts) Ex. 84.18 Refrigerators, freezers and other refrigerating or
+freezing equipment, electric or other; heat pumps other than air conditioning machines of heading No. 84.15 (excluding other refrigerating or freezing chests, cabinets, display counters, show cases and similar refrigerating or freezing furniture and parts) Heading No. Description of Goods 8419.101 Solar water heaters, for domestic use 8419.102 Other solar water heaters 8419.103 Other water heaters, for domestic use 8419.109 Other water heaters, non-electric 8421.121 Clothes-dryers, for domestic use 85.06 Primary cells and primary batteries 85.07 Electric accumulators, including separators therefor,
 whether or not rectangular (including square) 8509.801 Blenders 8516.101 Electric instantaneous or storage water heaters 8516.601 Stoves and cookers 8519.20 Other record-players 8519.30 Turntables (record-decks) 8519.91 Cassette-type 8519.99 Other sound reproducing apparatus 8520.31 Cassette-type 8520.39 Other magnetic tape recorders incorporating sound
 reproducing apparatus 8524.10 Gramophone records 8524.20 Magnetic tapes 85.27 Reception apparatus for radio-telephony, radio-
 telegraphy or radio-broadcasting, whether or not combined, in the same housing, with sound recording or reproducing apparatus or a clock 85.28 Television receivers (including video monitors and
@@ -393,5 +393,76 @@ Heading No. Description of Goods 9401.80 Other seats 9401.90 Parts of seats 9403
 coral, mother-of-pearl and other animal carving material, and articles of these materials (including articles obtained by moulding) 96.02 Worked vegetable or mineral carving material and
 articles of these materials; moulded or carved articles of wax, of stearin, of natural gums or natural resins or of modelling pastes and other moulded or carved articles, not elsewhere specified or included, worked, unhardened gelatin, (except gelatin of heading No. 3503.00) and articles of unhardened gelatin 9603.001 Brooms and brushes, consisting of twigs or other
 vegetable materials merely bound together and not mounted in a head (for example, besoms and whisks), with or without handles Heading No. Description of Goods 9603.002 Other brooms and mops for sweeping roads and
-floors 9603.003 Toothbrushes 9603.004 Scrubbing brushes 9603.005 Feather dusters 9608.10 Ballpoint pens 9611.001 Rubber stamps 9613.001 Pocket lighters, gas fuelled, non-refillable 9615.10 Combs, hairslides and the like 9615.901 Hairpins
-- Margin: 239/1990. [4 of 1992. 6 of 1993. 9 of 1997. 35 of 1998 17 of 2007 13 of 2010].
+floors 9603.003 Toothbrushes 9603.004 Scrubbing brushes 9603.005 Feather dusters 9608.10 Ballpoint pens 9611.001 Rubber stamps 9613.001 Pocket lighters, gas fuelled, non-refillable 9615.10 Combs, hairslides and the like 9615.901 Hairpins 239/1990. FOURTH SCHEDULE [64 of 1996]. LISTS OF IMPORTATIONS WHICH ARE ALLOWED CONDITIONAL
+REDUCED RATES OF DUTY, UNDER SECTION 56A OF THE
+CUSTOMS ACT
+Rate
+Item
+Class or Description of Goods of
+No.
+Duty
+(1) Parts for stoves, grates and ranges made of metal (non-
+electric) when imported for use in the manufacture and/or assembly of stoves, grates and ranges made of metal (non-electric) in plants approved for the purpose by the Minister of Industry and Enterprise ... 0%
+(2) Parts for accounting, book-keeping, calculating,
+computers and other similar machines (including cash registers, comptometers, statistical machines and tabulators) electrically operated when imported for use in the manufacture and/or assembly of accounting, book-keeping, calculating and other similar machines (including cash registers, comptometers, statistical machines and tabulators) electrically operated in plants approved for the purpose by the Minister of Industry and 0% Enterprise ...
+(3) Parts for accounting, book-keeping, calculating, computers
+and other similar machines (including cash registers, comptometers, statistical machines and tabulators) not electrically operated when imported for use in the manufacture and/or assembly of accounting, book-keeping, calculating and other similar machines (including cash registers, comptometers, statistical machines and tabulators) not electrically operated in plants approved for 0% the purpose by the Minister of Industry and Enterprise ...
+(4) Parts (electrical and non-electrical) for air-conditioning
+equipment and air-conditioning units when imported for use in the manufacture and/or assembly of air-conditioning equipment and air-conditioning units in plants approved 0%
+Rate Item
+Class or Description of Goods of No.
+Duty
+for the purpose by the Minister of Industry and Enterprise
+(5) Parts (electrical and non-electrical) for radio receivers,
+radio gramophones (radiograms) for use in the manufacture and/or assembly of radio receivers, radio
+0%
+gramophones (radiograms) in plants approved for the purpose by the Minister of Industry and Enterprise ...
+(6) Parts (electrical and non-electrical) for television
+receivers when imparted for use in the manufacture and/or
+0%
+assembly of television receivers in plants approved for the purpose by the Minister of Industry and Enterprise...
+(7) Parts (electrical and non-electrical) for stoves and ranges
+(electric) household cooking and heating appliances (e.g.,
+hot plates, toasters, irons, sun lamps, etc.) for use in the manufacture and/or assembly of stoves and ranges (electric) household cooking and heating appliances (e.g., hot plates,
+0%
+toasters, irons and sun lamps, etc.) in plants approved for the purpose by the Minister of Industry and Enterprise...
+(8) Motor cars (not exceeding 1 360 kg in weight)
+completely knocked down for assembly in plants
+0%
+approved for the purpose by the Minister of Industry and
+Enterprise...
+(9) Motor cars (exceeding 1 360 kg in weight) completely
+0%
+knocked down for assembly in plants approved for the purpose by the Minister of Industry and Enterprise ...
+(10) Buses, trucks, lorries, station wagons or estate cars and road
+motor vehicles packed completely knocked down for
+0%
+assembly in plants approved for the purpose by the Minister of Industry and Enterprise (excluding motor cycles)...
+(11) Parts (electrical and non-electrical) for domestic refrigerators
+when imported for use in the manufacture and/or assembly
+0% LISTS OF IMPORTATIONS WHICH ARE ALLOWED CONDITIONAL
+REDUCED RATES OF DUTY, UNDER SECTION 56A OF THE
+CUSTOMS ACT-Continued
+Rate
+Item
+Class or Description of Goods of
+No.
+Duty
+of domestic refrigerators in plants approved for the purpose by the Minister of Industry and Enterprise...
+(12) Buses, trucks, lorries, and road motor vehicles packed 0%
+semi-knocked down for assembly in plants approved for the purpose by the Minister of Industry and Enterprise (excluding motor cycles) ...
+(13) Parts (electrical and non-electrical) for vending machines
+and juke boxes when imported for use in the manufacture 0%
+239/1990. FIFTH SCHEDULE [199/1995].
+MEMBER STATES OF THE COMMON MARKET
+ANTIGUA AND BARBUDA MONTSERRAT
+BARBADOS ST. KITTS-NEVIS
+BELIZE ST. LUCIA
+DOMINICA ST. VINCENT AND THE
+GRENADINES
+GRENADA
+SURINAME
+GUYANA
+TRINIDAD AND TOBAGO
+JAMAICA
+- Margin: 239/1990. [4 of 1992 6 of 1993 9 of 1997 35 of 1998 17 of 2007 13 of 2010].

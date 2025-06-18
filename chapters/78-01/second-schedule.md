@@ -4,8 +4,8 @@ GOODS EXEMPT FROM PAYMENT OF CUSTOMS DUTY
 General Item Goods exempt from payment
 Heading No. of Customs Duty Academic Robes 1 Academic robes admitted as such by the
 Comptroller.
-Advertising 2 Advertising material of no commercial value Material and admitted as such by the Comptroller.
-Aircraft 3(a) Aircraft and their component parts,
+2 Advertising material of no commercial value Advertising
+and admitted as such by the Comptroller. Material Aircraft 3(a) Aircraft and their component parts,
 accessories and instruments necessary for the navigation of aircraft for use in international services, flying clubs approved by the Cabinet and in other approved services operating within the West Indies, provided the Comptroller is satisfied that the articles imported are for the services and clubs stated.
 3(b) One-seater aircraft, specially built or adapted
 for use in aerial insecticidal spraying of crops, provided the Comptroller is satisfied that it is imported solely for such use by a company or firm controlled by citizens of Trinidad and Tobago.
@@ -15,32 +15,33 @@ incorporated in Trinidad and Tobago;
 "firm" has the meaning assigned to that
 expression by section 2 of the Registration of Business Names Act, Chap. 82:85.
 3(c) Ground equipment, maintenance and
-technical supplies imported for use within the limits of an airport in connection with the establishment or upkeep of the services and clubs specified in subparagraph (a) and admitted as such by the Comptroller. GOODS EXEMPT FROM PAYMENT OF CUSTOMS DUTY-Continued
+technical supplies imported for use within the limits of an airport in connection with the establishment or upkeep of the services and clubs specified in subparagraph (a) and admitted as such by the Comptroller.
+3(d) Fuel and lubricants imported or taken out of
+bond solely for use in aircraft specified in subparagraph (a). GOODS EXEMPT FROM PAYMENT OF CUSTOMS DUTY-Continued
 General Item Goods exempt from payment
 Heading No. of Customs Duty
-3(d) Fuel and lubricants imported or taken out of Aircraft-Cont'd
-bond solely for use in aircraft specified in subparagraph (a).
-3(e) Stores for use in aircraft in flight employed in
-the services as specified in subparagraph (a), except in the case of flying clubs, and admitted as such by the Comptroller.
-4 Supplies, equipment, instruments and Archaeological
-apparatus for the recovery and restoration sites and of archaeological sites and artifacts imported Artifacts by bodies approved by the Minister to whom responsibility for culture is assigned and admitted as such by the Comptroller. Articles for the 5(a) Articles including reading matter certified by
-Blind and the Minister to whom responsibility for Disabled education is assigned to be specially
-designed for the educational, scientific or cultural advancement of the blind and admitted as such by the Comptroller.
+3(e) Stores for use in aircraft in flight employed in Aircraft-Cont'd
+the services as specified in subparagraph (a), except in the case of flying clubs, and admitted as such by the Comptroller. Archaeological 4 Supplies, equipment, instruments and
+apparatus for the recovery and restoration sites and of archaeological sites and artifacts imported Artifacts by bodies approved by the Minister to whom responsibility for culture is assigned and admitted as such by the Comptroller.
+5(a) Articles including reading matter certified by Articles for the
+the Minister to whom responsibility for Blind and education is assigned to be specially Disabled designed for the educational, scientific or cultural advancement of the blind and admitted as such by the Comptroller.
 5(b) Hearing aids, crutches, manual and motorised
 wheel chairs, trusses, colostomy bags and similar appliances and apparatus and identifiable spare parts for the relief of permanent bodily disablement admitted as such by the Comptroller.
 5(c) Haemodialysis machines and replacement
 parts, accessories imported by or on behalf of persons suffering from chronic renal failure for their treatment at home and so certified by the Chief Medical Officer.
-Baggage and 6(a) The accompanied baggage of a passenger,
-being wearing apparel, articles of Household personal adornment, toilet requisites and effects any portable articles in a passenger's baggage or on his person which he might reasonably be expected to carry with him for his own regular and private use. General Item Goods exempt from payment Heading No. of Customs Duty
+5(d) Articles certified by the Minister with
+responsibility for persons with disabilities as necessary for mentally or physically handicapped persons and admitted as such by the Comptroller. Baggage and 6(a) The accompanied baggage of a passenger,
+Household being wearing apparel, articles of
+personal adornment, toilet requisites and effects any portable articles in a passenger's baggage or on his person which he might reasonably be expected to carry with him for his own regular and private use. General Item Goods exempt from payment Heading No. of Customs Duty
 6(a)-Cont'd In this subparagraph "portable
 articles" does not include compact disc players, television sets, portable stereo systems and video cassette recorders, except in the case of a visitor who makes a declaration that he intends to take the articles out of Trinidad and Tobago upon his departure.
-The following articles (aa)
+(aa) The following articles
 which form part of the accompanied baggage of a passenger seventeen years old and over and which are so declared and passed by the proper officer:
 (1) wine or spirit not exceeding 1.5 litres in all; and
 (2) tobacco, not exceeding 250 grams; or
 (3) cigars, not exceeding 50 in number; or
 (4) cigarettes, not exceeding 200 in number;
-(5) goods to the aggregate of $3,000.00 belonging to a passenger, including a passenger under seventeen years of age, which accompany that passenger and were acquired abroad or in local in bond shops by him for his personal or household use or as souvenirs or gifts and admitted as such by the Comptroller save that-
+(5) goods to the aggregate of $5,000.00 belonging to a passenger, including a passenger under seventeen years of age, which accompany that passenger and were acquired abroad or in local in bond shops by him for his personal or household use or as souvenirs or gifts and admitted as such by the Comptroller save that-
 (a) a passenger shall not be
 entitled to the exemption granted above in respect of alcoholic beverages or tobacco products in excess of the quantities specified in sub-subparagraphs (1) to (4) of this subparagraph;
 (b) a passenger may only claim
@@ -81,7 +82,7 @@ preservatives for use in the citrus fruit industry industry.
 school children to schools and institutions indigent as approved by the Minister to whom children responsibility for education is assigned and admitted as such by the Comptroller. GOODS EXEMPT FROM PAYMENT OF CUSTOMS DUTY-Continued
 General Item Goods exempt from payment
 Heading No. of Customs Duty
-9(a) Goods imported or taken out of bond- Commissioners and Trade (1) by any accredited Commissioner or Commissioners, Trade Commissioner of any and Diplomatic country or territory within the Staff
+9(a) Goods imported or taken out of bond- Commissioners and Trade (1) by any accredited Commissioner Commissioners, or Trade Commissioner of any and Diplomatic country or territory within the Staff
 British Commonwealth of Nations, for his official use; or
 (2) by any person who is-
 (a) an accredited Commissioner
@@ -91,7 +92,7 @@ or Assistant Trade Commissioner of a Commonwealth country; or
 (c) a member of the official
 staff of any accredited Commissioner or Trade Commissioner of a Commonwealth country,
 for his personal use and the use of his family forming part of his household;
-Provided that such person:
+Provided that such person-
 (i) is a citizen of such Commonwealth country and was not born in Trinidad and Tobago;
 (ii) is not engaged in private occupation for gain in Trinidad and Tobago;
 (iii) is a permanent employee of the Government of such Commonwealth country or, if not a permanent employee thereof, was not resident in Trinidad and Tobago at the commencement of his employment with such Government;
@@ -103,7 +104,8 @@ Heading No. of Customs Duty
 of any Mission or Consulate or the members thereof, to the extent provided by the Vienna Convention on Diplomatic Relations, 1961, or the Vienna Convention on Consular Relations, 1963 as approved by the Minister to whom responsibility for foreign affairs is assigned.
 9(c) Goods, including motor vehicles for the use
 of any international organisation or personnel of that organisation pursuant to an agreement in force between the organisation and the Government of Trinidad and Tobago as approved by the Minister to whom responsibility for foreign affairs is assigned.
-Computer 9(A.) All computer peripherals, including peripherals. speakers, mouse pads and anti-glare
+Computer 9(A) All computer peripherals, including
+Peripherals speakers, mouse pads and anti-glare [17 of 2007].
 devices for use exclusively with automatic data processing machines.
 Containers 10(a) Containers of all kinds (except those
 containers which the Comptroller is satisfied are being manufactured in the country) which are imported for use exclusively as containers for the packing or packaging of any produce or manufacture of the country.
@@ -112,12 +114,13 @@ those goods which the Comptroller is satisfied are being manufactured in the cou
 General Item Goods exempt from payment
 Heading No. of Customs Duty Containers-Cont'd 10(c) Containers (including component and
 fashioned parts thereof) of such description or for use in such undertakings as the Cabinet may from time to time approve subject to such conditions in respect of disposal of such containers (including component and fashioned parts thereof) as the Comptroller may require.
-Contracts 11 Materials, vehicles and equipment imported between by any person for the purpose of carrying persons and the out any works pursuance of any contract Government between such person and the Government
-of Trinidad and Tobago and approved by Cabinet and where the Comptroller is satisfied that such materials vehicles and equipment are necessary for the performance of such contract and that such contract provides that such material and equipment shall be exempt from import duties of Customs.
+Contracts 11 Materials, vehicles and equipment imported between by any person for the purpose of carrying
+out any works pursuance of any contract persons and the between such person and the Government Government of Trinidad and Tobago and approved by Cabinet and where the Comptroller is satisfied that such materials vehicles and equipment are necessary for the performance of such contract and that such contract provides that such material and equipment shall be exempt from import duties of Customs.
 Provided that on the completion of such works
 the importer shall be liable to pay existing rates of duty on all materials not used up and on all equipment and vehicles unless such materials, vehicles or equipment are re-exported under Customs supervision.
 12 Goods made from sea island cotton and Cotton Goods,
-bearing the trade mark of the West Indian Sea Island Sea Island Cotton Association.
+bearing the trade mark of the West Indian Sea Island
+Sea Island Cotton Association.
 13(a) Coverings or packages in which any goods Coverings or
 not liable to duty ad valorem are packages imported, and which are in the opinion of the Comptroller the usual or proper coverings or packages for such goods.
 13(b) Packages and bags, exported filled with
@@ -175,18 +178,22 @@ Heading No. of Customs Duty Industrial 24 Industrial machinery for initial inves
 industry (other than spare parts and accessories for use as replacements) admitted as such by the Comptroller for use in such industrial factories as may be approved by the Minister to whom responsibility for industry is assigned.
 In this item, "approved industry" means any
 industry contained in the "Third Schedule".
-Medicinal and 25(a) Medicinal preparations, biological products
-vitamin and drugs approved by the Chief Technical preparations for Officer (Agriculture) for the treatment and livestock
-control of livestock (including poultry) diseases specified by Cabinet.
+25(a) Medicinal preparations, biological products Medicinal and
+and drugs approved by the Chief Technical vitamin
+preparations for Officer (Agriculture) for the treatment and livestock control of livestock (including poultry)
+diseases specified by Cabinet.
 25(b) Vitamin preparations approved by the Chief
 Technical Officer (Agriculture) for livestock.
-Meteorological 26 Goods imported by or for the use of any office
-Offices; or bureau for meteorological observation for Scientific and any institution engaged in scientific, medical Research or technical research, including instruments, Institutes
-apparatus and equipment for geological, or topographical purposes as approved by Cabinet and admitted by the Comptroller.
-27(a) Goods imported by or for use of the military Military Service and forces certified by the Minister to whom Voluntary responsibility for national security is Forces assigned and admitted as such by the
-Comptroller.
+26 Goods imported by or for the use of any office Meteorological
+Offices; or bureau for meteorological observation for Scientific and any institution engaged in scientific, medical Research or technical research, including instruments, Institutes apparatus and equipment for geological,
+or topographical purposes as approved by Cabinet and admitted by the Comptroller.
+27(a) Goods imported by or for use of the military Military Service and forces certified by the Minister to whom Voluntary responsibility for national security is assigned Forces and admitted as such by the Comptroller.
 27(b) Arms, ammunition, uniforms, accoutrements
-and equipment including musical instruments imported by and for the use of any Volunteer Force, Cadet Force or Rifle Association certified by the Minister to whom responsibility for national security is assigned and admitted as such by the Comptroller. GOODS EXEMPT FROM PAYMENT OF CUSTOMS DUTY-Continued
+and equipment including musical instruments imported by and for the use of any Volunteer Force, Cadet Force or Rifle Association certified by the Minister to whom responsibility for national security is assigned and admitted as such by the Comptroller.
+27A Mobile and digital equipment, cell phones, Mobile and
+software, accessories and peripherals digital
+equipment classified under Tariff Heading Number
+8517.12.10 of the First Schedule. GOODS EXEMPT FROM PAYMENT OF CUSTOMS DUTY-Continued
 General Item Goods exempt from payment
 Heading No. of Customs Duty Natural 28 Specimens illustrative of natural history and History other sciences for educational and
 cultural institutions including museums, zoos and historical societies as approved by the Minister to whom responsibility for education is assigned and admitted as such by the Comptroller.
@@ -228,7 +235,8 @@ Heading No. of Customs Duty Printers-Cont'd 32-Cont'd (f) Printers' machine shea
 (m) Such other articles as recommended by the Government Printer and admitted as such by the Comptroller.
 Protective 33 Protective clothing and protective equipment Clothing and imported by or on behalf of industrial Equipment concerns approved by Cabinet which the
 Comptroller is satisfied will be used solely by industrial workers for personal protection from occupational hazards.
-Public and 34 Goods, including motor vehicles imported by Contract or for the use of persons, including public Officers
+Public and 34 Goods, including motor vehicles imported by
+Contract or for the use of persons, including public Officers
 and contract officers as approved by
 Cabinet.
 Public Bodies 35 Articles imported or taken out of bond by or or Institutions on behalf of any municipality, county
@@ -237,7 +245,7 @@ Relief Supplies 36 Goods (including foodstuff) imported for use
 in rehabilitation or relief following natural disaster by organisations approved by Cabinet and admitted as such by the Comptroller.
 General Item Goods exempt from payment
 Heading No. of Customs Duty Schools, 37(a) School and educational equipment including
-Colleges and apparatus and equipment for games and Other Approved physical training imported exclusively for Institutions use in any school, college or other Offering Training, approved institution offering training and Aprenticeship not for sale or exchange, certified as such Schemes by the Chief Education Officer and
+Colleges and apparatus and equipment for games and Other Approved physical training imported exclusively for Institutions use in any school, college or other Offering Training, approved institution offering training and Apprenticeship not for sale or exchange, certified as such Schemes by the Chief Education Officer and
 admitted as such by the Comptroller.
 37(b) Scientific instruments or apparatus, intended
 exclusively for educational purposes or pure scientific research and admitted as such by the Comptroller, consigned to public or private educational institutions, certified as such by the Chief Education Officer and used under the control and subject to the responsibility of these institutions.
@@ -250,8 +258,7 @@ imported solely for use in sports and games and that similar goods and equipment
 (a) golf and cricket bags; GOODS EXEMPT FROM PAYMENT OF CUSTOMS DUTY-Continued
 General Item Goods exempt from payment
 Heading No. of Customs Duty Sporting 38-Cont'd (b) balls, (including bladders and Goods and covers for such balls, and shuttle
-cocks) made exclusively for use in Equipment- specific sports or games, e.g., Cont'd
-cricket, football, table tennis, etc.;
+cocks) made exclusively for use in Equipment- specific sports or games, e.g., Cont'd cricket, football, table tennis, etc.;
 (c) bats, sticks, rackets, cues, mallets, clubs and similar articles used in specific sports or games, e.g., hockey, tennis, billiards, etc., presses, covers, grips and parts for the aforementioned bats, sticks, etc.;
 (d) sports footwear equipped with spikes, studs, bars, for use in athletics, football, cricket, etc., and other cricket boots not before specified and parts for the aforementioned sports footwear, excluding laces;
 (e) gloves, inner and outer, specifically designed for use in sports or games;
@@ -275,7 +282,7 @@ Heading No. of Customs Duty
 39(a) Instruments, apparatus, equipment and Television
 Broadcasting materials, including records and tapes for and Amateur Radio radio and television broadcasting, Operators- imported by or on behalf of any radio or Goods for television broadcasting company as
 approved by Cabinet and admitted as such by the Comptroller.
-39(b) Amateur radio equiment for use by holders
+39(b) Amateur radio equipment for use by holders
 of valid licences granted by the Director of Telecommunications to keep, install, erect or use an amateur wireless transmitter and admitted by the Comptroller.
 40 Equipment and material, including curing Tobacco
 Industry units, and shade cloth derived from
@@ -293,13 +300,13 @@ any particular case may be exempted by
 (Section 9,
 order of Cabinet.
 Chapter 78:01)
-44 Goods which are permitted to be imported in Continuing
-special circumstances and which are Exemptions admitted without payment of duty under the provisions of specific enactments.
-Conditions attaching to this Schedule:
+44 Goods which are permitted to be imported Continuing
+in special circumstances and which are Exemptions admitted without payment of duty under the provisions of specific enactments.
+Conditions attaching to this Schedule-
 1. The benefit provided for certain items in the Second Schedule (as
 specified above) shall be granted only if the Comptroller is satisfied that such goods or similar goods are not being manufactured in Trinidad and Tobago. This proviso applies only to the following items of the Second Schedule: 2, 7, 10(a), 10(b), 24, 25(a), 25(b), 30, 31(d), 31(e), 31(f), 32, 33, 38, 40 and 42.
 2. Notwithstanding the exemptions granted under this Schedule, such
-exemptions shall not apply with respect to the following items should they be contained in Classes I and II of Part B of the Third Schedule (the List of Commodities Ineligible for Conditional Duty Exemption) viz. 2, 4, 11, 12, 13,14, 15, 17, 26, 29, 31, 33, 39(1), 39(2), 41 and 42.
+exemptions shall not apply with respect to the following items should they be contained in Classes I and II of Part B of the Third Schedule (the List of Commodities Ineligible for Conditional Duty Exemption) viz. 2, 4, 11, 12, 13, 14, 15, 17, 26, 29, 31, 33, 39(1), 39(2), 41 and 42.
 3. Exceptions to condition 2 will apply with respect to the following:
 (i) gifts admitted as such by the Comptroller; and
 (ii) goods imported for rehabilitation or relief following natural
@@ -309,17 +316,15 @@ CLASS I
 LIST OF COMMODITIES INELIGIBLE FOR
 CONDITIONAL DUTY EXEMPTIONS
 Heading No. Description of Goods 0702.00 Tomatoes, fresh or chilled 0703.102 Shallots (eschallots) 0704.001 Cabbages 0704.002 Cauliflowers 0705.10 Lettuce LIST OF COMMODITIES INELIGIBLE FOR
-CONDITIONAL DUTY EXEMPTIONS-Continued
-Heading No. Description of Goods 0706.001 Carrots 0707.001 Cucumbers 0708.001 Pigeon peas 0708.002 Blackeye peas 0708.003 String beans 0708.004 Bora (bodi) beans (Vigna. Spp.) 0709.001 Aubergines (egg-plants) 0709.002 Zucchini 0709.003 Ochroes 0709.004 Pumpkins 0709.008 Other fruits of the genus Capsicum or of the genus
+CONDITIONAL DUTY EXEMPTIONS-Continued Heading No. Description of Goods 0706.001 Carrots 0707.001 Cucumbers 0708.001 Pigeon peas 0708.002 Blackeye peas 0708.003 String beans 0708.004 Bora (bodi) beans (Vigna. Spp.) 0709.001 Aubergines (egg-plants) 0709.002 Zucchini 0709.003 Ochroes 0709.004 Pumpkins 0709.008 Other fruits of the genus Capsicum or of the genus
 Pimenta 0710.204 String beans, other, frozen 0710.30 Spinach, New Zealand spinach and orache spinach
-(garden spinach), frozen 0713.001 Red kidney beans 0714.10 Manioc (cassava) 0714.20 Sweet potatoes 0714.901 Arrowroot 0714.902 Dasheens 0714.903 Eddoes 0714.904 Tannias 0714.905 Yams 0801.10 Coconuts 0803.001 Bananas, fresh 0803.002 Plantains, fresh 0804.30 Pineapples, fresh 0804.40 Avocados, fresh 0804.50 Guavas, mangoes and mangosteens, fresh 0805.10 Oranges, fresh 0805.201 Ugli fruit 0805.202 Ortaniques 0805.30 Lemons and limes 0805.40 Grapefruit 0807.101 Cantaloupes Heading No. Description of Goods 0807.102 Watermelons 0807.103 Muskmelons 0807.20 Papaws (papayas) 0810.001 Berries 0810.002 Sapodillas 0810.003 Golden apples 0810.004 Passion fruit 0810.005 Soursop 0810.006 Breadfruit 0810.007 Carambolas 0904.202 Pimento (all spice) 09.06 Cinnamon and cinnamon-tree flowers 0907.00 Cloves (whole fruit, cloves and stems) 0908.10 Nutmeg 0908.20 Mace Ex 09.l0 Ginger, tumeric (curcuma) thyme and bay leaves 1006.20 Husked (brown) rice 1006.30 Semi-milled or wholly-milled rice, whether or not
+(garden spinach), frozen 0713.001 Red kidney beans 0714.10 Manioc (cassava) 0714.20 Sweet potatoes 0714.901 Arrowroot 0714.902 Dasheens 0714.903 Eddoes 0714.904 Tannias 0714.905 Yams 0801.10 Coconuts 0803.001 Bananas, fresh 0803.002 Plantains, fresh 0804.30 Pineapples, fresh 0804.40 Avocados, fresh 0804.50 Guavas, mangoes and mangosteens, fresh 0805.10 Oranges, fresh 0805.201 Ugli fruit 0805.202 Ortaniques 0805.30 Lemons and limes 0805.40 Grapefruit 0807.101 Cantaloupes Heading No. Description of Goods 0807.102 Watermelons 0807.103 Muskmelons 0807.20 Papaws (papayas) 0810.001 Berries 0810.002 Sapodillas 0810.003 Golden apples 0810.004 Passion fruit 0810.005 Soursop 0810.006 Breadfruit 0810.007 Carambolas 0904.202 Pimento (all spice) 09.06 Cinnamon and cinnamon-tree flowers 0907.00 Cloves (whole fruit, cloves and stems) 0908.10 Nutmeg 0908.20 Mace Ex. 09.l0 Ginger, turmeric (curcuma) thyme and bay leaves 1006.20 Husked (brown) rice 1006.30 Semi-milled or wholly-milled rice, whether or not
 polished or glazed 1006.40 Broken rice 11.01 Wheat flour 1106.202 Arrowroot flour 1108.101 Arrowroot starch 1203.00 Copra 1208.10 Flours and meals of soya beans 1208.902 Flours and meals of copra 1212.92 Sugar cane 1302.101 Aloe vera extract 15.08 Ground-nut oil and its fractions, whether or not
 refined, but not chemically modified 15.09 Olive oil and its fractions, whether or not refined,
 but not chemically modified 15.10 Other oils and their fractions, obtained solely from
 olives, whether or not refined, but not chemically modified, including blends of these oils or fractions with oils or fractions of heading No. 15.09
 LIST OF COMMODITIES INELIGIBLE FOR
-CONDITIONAL DUTY EXEMPTIONS-Continued
-Heading No. Description of Goods Ex 15.11 Palm oil and its fractions, refined, but not chemically
+CONDITIONAL DUTY EXEMPTIONS-Continued Heading No. Description of Goods Ex. 15.11 Palm oil and its fractions, refined, but not chemically
 modified (excluding Palm Stearin) 15.12 Sunflower-seed, safflower or cotton-seed oil and
 fractions thereof, whether or not refined, but not chemically modified 15.13 Coconut (copra), palm kernel or babassu oil and
 fractions thereof, whether or not refined, but not chemically modified 15.14 Rape, colza or mustard oil and fractions thereof,
@@ -331,8 +336,7 @@ for hydraulic transmission Heading No. Description of Goods 2804.10 Hydrogen 280
 3208.001 Automotive paints 3208.002 Marine paints 3208.003 Enamels 3208.004 Other paints 3208.005 Marine varnishes (including lacquers) 3208.006 Other varnishes (including lacquers) 3208.009 Other solutions as defined in Note 4 of Chapter 32 3209.001 Paints 3209.002 Enamels 3209.003 Varnishes (including lacquers) 3210.001 Water-thinned paints (emulsion paints or
 dispersion paints) 3210.002 Distempers, dry 3210.003 Enamels 3210.004 Other paints 3210.005 Marine varnishes (including lacquers) 3210.006 Other varnishes (including lacquers) 3214.102 Painters' fillings 3214.901 Glaziers' linseed oil putty 3214.902 Other glaziers' putty 3301.101 Grapefruit oil 3301.103 Lime oil 3301.104 Orange oil
 LIST OF COMMODITIES INELIGIBLE FOR
-CONDITIONAL DUTY EXEMPTIONS-Continued
-Heading No. Description of Goods 3301.201 Bay oil 3301.202 Clove oil 3301.203 Ginger oil 3301.204 Nutmeg oil 3301.205 Patchouli oil 3301.206 Pimento oil 3302.001 Mixtures of two or more of bay, clove, ginger,
+CONDITIONAL DUTY EXEMPTIONS-Continued Heading No. Description of Goods 3301.201 Bay oil 3301.202 Clove oil 3301.203 Ginger oil 3301.204 Nutmeg oil 3301.205 Patchouli oil 3301.206 Pimento oil 3302.001 Mixtures of two or more of bay, clove, ginger,
 grapefruit, lemon, lime, nutmeg, orange, patchouli and pimento oils 3501.901 Casein glues 3814.001 Thinners 3819.00 Hydraulic brake fluids and other prepared liquids for
 hydraulic transmission not containing or containing less than 70 per cent by weight of petroleum oils or oils obtained from bituminous minerals 3820.001 Anti-freezing preparations 3917.201 PVC pipes 3917.302 Electrical conduits and other piping, of PVC 3917.303 Electrical conduits and other piping, other 3917.40 Fittings 3925.902 Gutters, of plastics 3926.907 Motor vehicle licence plates, of plastics 4006.10 "Camel-back" strips for retreading rubber tyres 4008.00 Plates, sheets, strip, rods and profile shapes of
 vulcanised rubber other than hard rubber 4011.10 New pneumatic tyres, of rubber of a kind used on motor
@@ -362,7 +366,7 @@ or vegetable fats or oils or of fractions of different fats or oils of this Chap
 or blood; food preparations based on these products 16.02 Other prepared or preserved meat, meat offal or
 blood: 1602.20 Of liver of any animal 1602.31 Of turkeys: 1602.311 Cured or smoked 1602.319 Other prepared or preserved meat of turkeys 1602.401 Ham 1602.402 Bacon 1602.403 Luncheon meat 1602.409 Other prepared or preserved meat of swine 1602.509 Other prepared or preserved meat of bovine animals 1602.909 Other prepared or preserved meat, meat offal or
 blood 16.04 Prepared or preserved fish, caviar and caviar
-substitutes prepared from fish eggs: 1604.11 Salmon 1604.132 Sardinella and brisling or sprats 1604.142 Skipjack and bonito 1604.19 Other fish, whole or in pieces, but not minced 1604.20 Other prepared or preserved fish 1604.30 Caviar and caviar substitutes 16.05 Crustaceans, molluses and other aquatic
+substitutes prepared from fish eggs: 1604.11 Salmon 1604.132 Sardinella and brisling or sprats 1604.142 Skipjack and bonito 1604.19 Other fish, whole or in pieces, but not minced 1604.20 Other prepared or preserved fish 1604.30 Caviar and caviar substitutes 16.05 Crustaceans, molluscs and other aquatic
 invertebrates, prepared or preserved 17.04 Sugar confectionery (including white chocolate),
 not containing cocoa 1805.001 Cocoa powder, put up for retail sale in packages of
 not more than 2 kg 18.06 Chocolate and other food preparations containing
@@ -380,18 +384,17 @@ preserved by sugar, (drained, glacé or crystallised): 2006.002 Maraschino and g
 and fruit or nut pastes, being cooked preparations, whether or not containing added sugar or other sweetening matter: 2007.109 Other homogenised preparations 2007.919 Other citrus fruit 2007.992 Pineapple based 2007.993 Guava jams and jellies 2007.994 Guava cheese 2007.995 Nutmeg jams and jellies 2007.999 Other 20.08 Fruit, nuts and other edible parts of plants, otherwise
 prepared or preserved, whether or not containing added sugar or other sweetening matter or spirit, not elsewhere specified or included 20.09 Fruit juices (including grape must) and vegetable
 juices, unfermented and not containing added spirit, whether or not containing added sugar or other sweetening matter: 2009.409 Other pineapple juice 2009.509 Other tomato juice 2009.609 Other grape juice (including grape must) 2009.709 Other apple juice 2009.803 Passion fruit juice, other 2009.806 Tamarind juice, other 2009.809 Other juice of any other single fruit or vegetable 2009.904 Other pineapple-based juices 2009.909 Other mixtures of juices 21.01 Extracts, essences and concentrates, of coffee, tea
-or maté and preparations with a basis of these products or with a basis of coffee, tea or maté, roasted chicory and other roasted coffee substitutes, and extracts, essences and concentrates thereof Ex 21.03 Sauces and preparations therefor; mixed condiments
+or maté and preparations with a basis of these products or with a basis of coffee, tea or maté, roasted chicory and other roasted coffee substitutes, and extracts, essences and concentrates thereof Ex. 21.03 Sauces and preparations therefor; mixed condiments
 and mixed seasonings; prepared mustard
 LIST OF COMMODITIES INELIGIBLE FOR
-CONDITIONAL DUTY EXEMPTIONS-Continued
-Heading No. Description of Goods Ex 21.04 Soups and broths and preparations therefor;
+CONDITIONAL DUTY EXEMPTIONS-Continued Heading No. Description of Goods Ex. 21.04 Soups and broths and preparations therefor;
 homogenised composite food preparations (excluding preparations for infant use, put up for retail sale) 21.05 Ice cream and other edible ice, whether or not
 containing cocoa 2106.001 Mauby syrup 2106.002 Other flavoured or coloured sugar syrups 2106.006 Ice cream powders 2106.007 Preparations consisting of saccharin and a
 foodstuff, used for sweetening purposes 2106.009 Other food preparations not elsewhere specified or
 included 2201.101 Mineral waters 2201.102 Aerated waters 2202.101 Aerated beverages 2209.00 Vinegar and substitutes for vinegar obtained from
 acetic acid 2309.10 Dog or cat food, put up for retail sale 2309.901 Mixed bird seed 2309.902 Other foods for pets 2501.001 Table salt in retail packages of not more than 2.5 kg 2712.10 Petroleum jelly 33.03 Perfumes and toilet waters 33.04 Beauty or make-up preparations and preparations
-for the care of the skin (other than medicaments), including sunscreen or sun tan preparations; manicure or pedicure preparations 33.05 Preparations for use on the hair 3306.101 Toothpastes Ex 33.07 Pre-shave, shaving or after-shave preparations,
-personal deodorants, bath preparations, depilatories and other perfumery, cosmetic or toilet preparations, not elsewhere specified or included; prepared room deodorisers, whether or not perfumed or having disinfectant properties (excluding perfumed bath salts and other bath preparations) Heading No. Description of Goods Ex 34.01 Soap, organic surface-active products and
+for the care of the skin (other than medicaments), including sunscreen or sun tan preparations; manicure or pedicure preparations 33.05 Preparations for use on the hair 3306.101 Toothpastes Ex. 33.07 Pre-shave, shaving or after-shave preparations,
+personal deodorants, bath preparations, depilatories and other perfumery, cosmetic or toilet preparations, not elsewhere specified or included; prepared room deodorisers, whether or not perfumed or having disinfectant properties (excluding perfumed bath salts and other bath preparations) Heading No. Description of Goods Ex. 34.01 Soap, organic surface-active products and
 preparations for use as soap, in form of bars, cakes, moulded pieces or shapes, whether or not containing soap; paper, wadding: felt and non-wovens, impregnated, coated or covered with soap or detergent (excluding industrial soaps) 34.02 Organic surface-active agents (other than soap);
 surface-active preparations, washing preparations (including auxiliary washing preparations) and cleaning preparations, whether or not containing soap, other than those of heading No. 3401 (excluding organic surface-active agents, not put up for retail sale) 34.05 Polishes and creams, for footwear; furniture, floors,
 coachwork, glass or metal, scouring pastes and powders and similar preparations (whether or not in the form of paper, wadding, felt, non-wovens, cellular plastics or cellular rubber, impregnated, coated or covered with such preparations), excluding waxes of heading No. 3404.00 34.06 Candles, tapers and the like 36.05 Matches, other than pyrotechnic articles of heading
@@ -403,15 +406,14 @@ as preparations or articles 3917.301 Garden hose, of plastics 3924.101 Cups, for
 plastics 3924.901 Ashtrays, buckets, coat-hangers and dustbins, of
 plastics
 LIST OF COMMODITIES INELIGIBLE FOR
-CONDITIONAL DUTY EXEMPTIONS-Continued
-Heading No. Description of Goods 3924.902 Flower pots, of plastics 4016.991 Rubber bands 4202.101 Suitcases, travelling bags, and briefcases, of leather 4202.102 Suitcases, of other materials 4202.103 Travelling bags and briefcases, of other materials 4202.20 Handbags, whether or not with shoulder strap,
-including those without handle: 4202.201 Of leather 4202.209 Of other materials 4202.301 Purses, spectacle cases and wallets, of leather 4202.302 Purses, spectacle cases and wallets, of other materials 4415.20 Pallets, box pallets and other load boards 4419.00 Tableware and kitchen-ware, of wood Ex 44.20 Caskets and cases for jewellery or cutlery, and
+CONDITIONAL DUTY EXEMPTIONS-Continued Heading No. Description of Goods 3924.902 Flower pots, of plastics 4016.991 Rubber bands 4202.101 Suitcases, travelling bags, and briefcases, of leather 4202.102 Suitcases, of other materials 4202.103 Travelling bags and briefcases, of other materials 4202.20 Handbags, whether or not with shoulder strap,
+including those without handle: 4202.201 Of leather 4202.209 Of other materials 4202.301 Purses, spectacle cases and wallets, of leather 4202.302 Purses, spectacle cases and wallets, of other materials 4415.20 Pallets, box pallets and other load boards 4419.00 Tableware and kitchen-ware, of wood Ex. 44.20 Caskets and cases for jewellery or cutlery, and
 similar articles, of wood; statuettes and other ornaments, of wood; wooden articles of furniture not falling in Chapter 94 4421.10 Clothes hangers 4421.909 Other articles of wood 4601.20 Mats, matting and screens of vegetable materials 4601.901 Straw envelopes for bottles 46.02 Basketwork, wickerwork and other articles, made
 directly to shape from plaiting materials or made up from goods of heading No. 46:01; articles of loofah 48.17 Envelopes, letter cards, plain post cards and
 correspondence cards, of paper or paperboard; boxes, pouches, wallets and writing compendiums, of paper or paper board, containing an assortment of paper stationery 48.18 Toilet paper, handkerchiefs, cleansing tissues, towels,
 tablecloths, serviettes, napkins for babies, tampons, bed sheets and similar household, sanitary or hospital articles, articles of apparel and clothing accessories of paper pulp, paper, cellulose wadding or webs of cellulose fibres: 4818.10 Toilet paper Heading No. Description of Goods 4818.20 Handkerchiefs, cleansing or facial tissues and
 towels 4818.302 Serviettes 4818.50 Articles of apparel and clothing accessories 4818.90 Other articles 4819.60 Box files, letter trays, storage boxes and similar
-articles, of a kind used in offices, shops or the like Ex 48.20 Registers, account books, note books, order books,
+articles, of a kind used in offices, shops or the like Ex. 48.20 Registers, account books, note books, order books,
 receipt books, letter pads, memorandum pads, diaries and similar articles, blotting-pads, binders (loose-leaf or other), folders, file covers, manifold business forms, interleaved carbon sets and other articles of stationery, of paper or paperboard; albums for samples or for collections and book covers, of paper or paperboard 4823.50 Other paper and paperboard, of a kind used for
 writing, printing or other graphic purposes 4823.60 Trays, dishes, plates, cups and the like, of paper or
 paperboard 4907.003 Cheque forms 4907.009 Other stamp-impressed paper; stock, share or bond
@@ -421,8 +423,7 @@ blocks 4911.009 Other printed matter 5608.102 Net shopping bags 5608.902 Net sho
 whether or not made up: 57.02 Carpets and other textile floor coverings, woven,
 not tufted or flocked, whether or not made up, including "Kelem", "Schumacks", "Karamanie" and similar hand-woven rugs
 LIST OF COMMODITIES INELIGIBLE FOR
-CONDITIONAL DUTY EXEMPTIONS-Continued
-Heading No. Description of Goods 57.03 Carpets and other textile floor coverings, tufted,
+CONDITIONAL DUTY EXEMPTIONS-Continued Heading No. Description of Goods 57.03 Carpets and other textile floor coverings, tufted,
 whether or not made up 5704.00 Carpets and other textile floor coverings, of felt,
 not tufted or flocked, whether or not made up 5705.00 Other carpets and other textile coverings, whether
 or not made up 6101.00 Men's or boys' over-coats, car-coats, capes, cloaks,
@@ -437,7 +438,7 @@ similar articles, knitted or crocheted 61.11 Babies' garments and clothing acces
 or crocheted 61.12 Track suits, ski suits and swim wear, knitted or
 crocheted Heading No. Description of Goods 6113.00 Garments, made up of knitted or crocheted fabrics
 of heading No. 5903.00, 59.06 or 5907.00 6114.00 Other garments, knitted or crocheted 61.15 Panty hose, tights, stockings, socks and other
-hosiery, including stockings for varicose veins and footwear without applied soles, knitted or crocheted 61.16 Gloves, mittens and mitts, knitted or crocheted Ex 61.17 Other made up clothing accessories, knitted or
+hosiery, including stockings for varicose veins and footwear without applied soles, knitted or crocheted 61.16 Gloves, mittens and mitts, knitted or crocheted Ex. 61.17 Other made up clothing accessories, knitted or
 crocheted; knitted or crocheted clothing accessories 62.01 Men's or boys' over-coats, car-coats, capes, cloaks,
 anoraks (including ski jackets), windcheaters, wind jackets and similar articles, other than those of heading No. 62.03 62.02 Women's or girls' over-coats, car-coats, capes,
 cloaks, anoraks (including ski jackets), windcheaters, wind jackets and similar articles, other than those of heading No. 62.04 62.03 Men's or boys' suits, ensembles, jackets, blazers,
@@ -449,14 +450,13 @@ underpants, briefs, nightshirts, pyjamas, bathrobes, dressing gowns and similar 
 petticoats, briefs, panties, nightdresses, pyjamas, negligees, bathrobes, dressing gowns and similar articles 62.09 Babies' garments and clothing accessories 6210.00 Garments, made up of fabrics of heading No.
 5602.00, 5603.00, 5903.00, 59.06 or 5907.00 62.11 Track suits, ski suits and swim wear; other garments
 LIST OF COMMODITIES INELIGIBLE FOR
-CONDITIONAL DUTY EXEMPTIONS-Continued
-Heading No. Description of Goods 6212.10 Brassieres 6212.20 Girdles and panty-girdles 6213.00 Handkerchiefs 6214.00 Shawls, scarves, mufflers, mantillas, veils and the like 6215.00 Ties, bow ties and cravats Ex 62.16 Gloves, mittens and mitts (excluding industrial gloves) Ex 62.17 Other made up clothing accessories 63.02 Bed linen, table linen, toilet linen and kitchen linen 63.03 Curtains (including drapes) and interior blinds;
+CONDITIONAL DUTY EXEMPTIONS-Continued Heading No. Description of Goods 6212.10 Brassieres 6212.20 Girdles and panty-girdles 6213.00 Handkerchiefs 6214.00 Shawls, scarves, mufflers, mantillas, veils and the like 6215.00 Ties, bow ties and cravats Ex. 62.16 Gloves, mittens and mitts (excluding industrial gloves) Ex. 62.17 Other made up clothing accessories 63.02 Bed linen, table linen, toilet linen and kitchen linen 63.03 Curtains (including drapes) and interior blinds;
 curtain or bed valances 63.04 Other furnishing articles, excluding those of
 heading No. 94.04 6307.10 Floor-cloths, dish-cloths, dusters and similar
 cleaning cloths 6307.902 Dress patterns, of other textile materials 6307.903 Flags, pennants and banners 6307.904 Pin cushions 6307.909 Other made up textile articles 6309.00 Worn clothing and other worn articles 6401.10 Footwear incorporating a protective metal toe-cap 6401.901 Waterproof boots (Wellingtons) 6403.40 Other footwear, incorporating a protective metal
 toe-cap 6503.00 Felt hats and other felt headgear, made from the
 hat bodies, hoods or plateaux of heading No. 6501.00 whether or not lined or trimmed 6504.00 Hats and other headgear, plaited or, made by
-assembling strips of any material, whether or not lined or trimmed Ex 65.05 Hats and other headgear, knitted or crocheted, or
+assembling strips of any material, whether or not lined or trimmed Ex. 65.05 Hats and other headgear, knitted or crocheted, or
 made up from lace, felt or other textile fabric, in the piece (but not in strips), whether or not lined or trimmed 65.06 Other headgear, whether or not lined or trimmed
 (excluding safety headgear) Heading No. Description of Goods 66.01 Umbrellas and sun umbrellas (including walking-
 stick umbrellas, garden umbrellas and similar umbrellas) 6602.00 Walking-sticks, seat-sticks, whips, riding-crops
@@ -468,9 +468,9 @@ glass and articles of glass beads, imitation pearls, imitation precious or semi-
 LIST OF COMMODITIES INELIGIBLE FOR
 CONDITIONAL DUTY EXEMPTIONS-Continued
 Heading No. Description of Goods 8212.201 Safety razor blades 8310.00 Sign-plates, name-plates, address-plates, and similar
-plates, numbers, letters and other symbols, of base metal, excluding those of heading No. 94.05 Ex 8414.51 Table, floor, wall or window fan, with a self-
-contained electric motor of an output not exceeding 125W: Ex 84.15 Air-conditioning machines, comprising a motor-
-driven fan and elements for changing the temperature and humidity, including those machines in which the humidity cannot be separately regulated (excluding parts) Ex 84.18 Refrigerators, freezers and other refrigerating or
+plates, numbers, letters and other symbols, of base metal, excluding those of heading No. 94.05 Ex. 8414.51 Table, floor, wall or window fan, with a self-
+contained electric motor of an output not exceeding 125W: Ex. 84.15 Air-conditioning machines, comprising a motor-
+driven fan and elements for changing the temperature and humidity, including those machines in which the humidity cannot be separately regulated (excluding parts) Ex. 84.18 Refrigerators, freezers and other refrigerating or
 freezing equipment, electric or other; heat pumps other than air-conditioning machines of heading No. 84.15 (excluding other refrigerating or freezing chests, cabinets, display counters, show cases and similar refrigerating or freezing furniture and parts) 8419.101 Solar water heaters, for domestic use 8419.102 Other solar water heaters 8419.103 Other water heaters, for domestic use 8419.109 Other water heaters, non-electric 8421.121 Clothes-dryers, for domestic use 85.06 Primary cells and primary batteries 85.07 Electric accumulators, including separators therefore
 whether or not rectangular (including square) 8509.801 Blenders 8516.101 Electric instantaneous or storage water heaters 8516.601 Stoves and cookers 8519.20 Other record-players 8519.30 Turntables (record-decks) 8519.91 Cassette-type 8519.99 Other sound reproducing apparatus 8520.31 Cassette-type 8520.39 Other magnetic tape recorders incorporating sound
 reproducing apparatus Heading No. Description of Goods 8524.10 Gramophone records 8524.20 Magnetic tapes 85.27 Reception apparatus for radio-telephony, radio-
@@ -484,6 +484,5 @@ coral, mother-of-pearl and other animal carving material, and articles of these 
 articles of these materials; moulded or carved articles of wax, of stearin, of natural gums or natural resins or of modelling pastes and other moulded or carved articles, not elsewhere specified or included, worked, unhardened gelatin, (except gelatin of heading No. 3503.00) and articles of unhardened gelatin 9603.001 Brooms and brushes, consisting of twigs or other
 vegetable materials merely bound together and not mounted in a head (for example, besoms and whisks), with or without handles 9603.002 Other brooms and mops for sweeping roads and
 floors 9603.003 Tooth brushes 9603.004 Scrubbing brushes 9603.005 Feather dusters 9608.10 Ball point pens 9611.001 Rubber stamps 9613.001 Pocket lighters, gas fuelled, non-refillable 9615.10 Combs, hair-slides and the like 9615.901 Hairpins
-- Margin: 6 of 1993. [5 of 1995 9 of 1997 291/2004 311/2004 21 of 2005 17 of 2007 2 of 2013].
-- Margin: [17 of 2007].
+- Margin: 6 of 1993. [5 of 1995 9 of 1997 291/2004 311/2004 21 of 2005 17 of 2007 2 of 2013 23 of 2019 30 of 2020 16 of 2021].
 - Margin: Third Schedule.
