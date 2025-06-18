@@ -1,4 +1,2 @@
-CUSTOMS (EXPORTATION OF LOCALLY
-MANUFACTURED CIGARETTES) REGULATIONS
-made under section 47
-- Margin: GN 85/1962.
+167/1981. DELEGATION OF FUNCTIONS (CUSTOMS) ORDER
+made by the President under section 52(1) of the Interpretation Act

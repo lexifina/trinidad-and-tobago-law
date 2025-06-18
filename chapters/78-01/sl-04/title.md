@@ -1,3 +1,3 @@
-SPIRITS AND TOBACCO PACKAGE SIZES ORDER
-made under section 47
-- Margin: GN 1227/1951.
+SAMPLES FOR EFFECTING SALE REGULATIONS
+made under section 132
+- Margin: G. 21.12.39.
