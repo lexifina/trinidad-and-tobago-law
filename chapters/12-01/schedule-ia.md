@@ -1,0 +1,19 @@
+# SCHEDULE IA
+REPUBLIC OF TRINIDAD AND TOBAGO
+THE ADMINISTRATION OF JUSTICE (INDICTABLE
+PROCEEDINGS) ACT, 2011
+SCHEDULING ORDER
+Case No.
+Complainant/The State
+v
+Accused
+Before: (Name of Master) Court: Date of Hearing: Appearances:
+Order:
+1. Accused to retain an Attorney-at-law*/Order for legal aid to be satisfied† on or before ...
+2. Prosecutor to file and serve documents on or before ...
+3. Defence to file and serve documents on or before ...
+4. Either party may apply for extension of time to file and serve documents on ...
+5. Sufficiency hearing fixed for ...
+Dated this ... day of ... 20...
+*Delete if not applicable.
+- Margin: Section 11(2)(h).
