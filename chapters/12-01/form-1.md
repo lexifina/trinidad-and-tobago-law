@@ -1,9 +1,20 @@
+## *SCHEDULE 1
 # FORM 1
-RECOGNISANCE OF BAIL ON ADJOURNMENT
-OF PRELIMINARY ENQUIRY
-No... 20... COUNTY OF ... BE IT REMEMBERED that on the ... day of ..., 20... C.D., ... of ... and G.H., ... of ... personally came before me, the undersigned Magistrate [or Justice] for the Magisterial District of ... and severally acknowledged themselves to owe to the State the several sums following, namely, the said C.D..., as principal, the sum of ... and the said G.H... as surety, the sum of ... to be levied on their several movable and immovable property respectively, if the said C.D... fails in the condition hereon endorsed.
-Taken and acknowledged the day and year first above-mentioned before me.
-(Signed) ...
-(Magistrate or Justice)
-CONDITION ENDORSED
-The condition of the within written recognisance is such that if the within bonded C.D... appears before the Magistrate [or Justice] in the said Court, the ... day of ..., 20..., at ... o'clock, ...m., at ... and at every time and place to which during the course of the proceedings against the said C.D... the hearing may be from time to time adjourned to answer further the complaint made against him by A.B..., and to be further dealt with according to law, then the said recognisance shall be void, but otherwise shall remain in full force until the completion of the said proceedings.
+REPUBLIC OF TRINIDAD AND TOBAGO
+REPORT TO A MASTER IN RESPECT TO A SEARCH WARRANT ISSUED UNDER THE ADMINISTRATION OF
+JUSTICE (INDICTABLE PROCEEDINGS) ACT, 2011†
+IN THE HIGH COURT OF JUSTICE
+(CRIMINAL DIVISION)
+To Master ...
+I, (name, rank and regimental number of police officer) have in execution of a search warrant issued by you/(name of Master/Magistrate) on (date)
+1. Searched (description of place) situated at (location of place); and
+2. Seized the following things:
+Things seized
+(Describe each thing seized)
+(Date) (Signature of police officer)
+A copy of this Report was served on the undersigned, being the owner/occupier of the place searched or a person from whom something was taken.
+(Date) (Name, address, ID No. and Signature/Mark of
+Owner/Occupier/Person)
+(Date) (Signature of police officer)
+†To be completed in triplicate.
+*Schedule 1 was inserted into the Act by Act No. 3 of 2019. See Note on Commencement on page 2.
