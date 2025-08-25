@@ -1,8 +1,8 @@
 PUBLIC HOLIDAYS AND FESTIVALS ACT
 CHAPTER 19:05
 Act
-10 of 1872 Amended by *9 of 1918 16 of 1939 10 of 1960 15 of 1962 19 of 1972 45 of 1979 186/1979 118/1980 147/1984 32/1996 58/1996 104/2002
-*See Note on Transferred Provisions on page 2
+10 of 1872 Amended by *9 of 1918 16 of 1939 10 of 1960 15 of 1962 19 of 1972 45 of 1979 186/1979 118/1980 147/1984 32/1996 58/1996 104/2002 68/2024
+(*See Note on Transferred Provisions on page 2)
 Note on Subsidiary Legislation
 This Chapter contains no subsidiary legislation.
 Note on Transferred Provisions
