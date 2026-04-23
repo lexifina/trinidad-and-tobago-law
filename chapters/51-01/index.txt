@@ -34,6 +34,7 @@ s-32.md
 s-33.md
 s-34.md
 s-35.md
+s-35A.md
 s-36.md
 s-37.md
 s-38.md
