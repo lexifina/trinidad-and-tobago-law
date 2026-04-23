@@ -1,9 +1,9 @@
 PORT AUTHORITY ACT
 CHAPTER 51:01
 Act
-39 of 1961
-Amended by
-8 of 1964 9 of 1969 43 of 1969 8 of 1971 2 of 1975 136/1976 45 of 1979 37 of 1980 18 of 1994
+39 of 1961 Amended by
+8 of 1964 9 of 1969 43 of 1969 8 of 1971 2 of 1975 136/1976 45 of 1979 37 of 1980 18 of 1994 16 of 2021
+1-4 .. 1/2024 5-20 .. 1/2009 21-24 .. 1/2024 25-44 .. 1/2009 45-48 .. 1/2024 49-68 .. 1/2009 69-70 .. 1/2024 71-80 .. 1/2009 81-82 .. 1/2024 83-86 .. 1/2009 87-94 .. 1/2024 95-108 .. 1/2009 109-110 .. 1/2024 111-158 .. 1/2009 159-176 .. 1/2024 177-180 .. 1/2009 181-182 .. 1/2024 183-188 .. 1/2009 189-205 .. 1/2024
 Index of Subsidiary Legislation
 Page Government Shipping Service (Passenger and Freight Rates) Regulations
 (LN 10/1984) ... 46 Port Authority (Tariff) Regulations (LN 203/1994) … … … 48 Port Authority (Store Rent Exemptions) Regulations (LN 92/1995) … 77 Port Authority of Trinidad and Tobago (Vesting) Order (LN 68/2006) … 81
@@ -12,7 +12,7 @@ Ordinance, Ch. 18 No. 2 (1950 Ed.)
 Section 76 of this Act repeals the Port Services (Dues, Charges and Management) Ordinance, except sections 3 to 8 inclusive, and the Bye-laws made under section 22 of the said Ordinance. However, these sections and the Bye-laws will remain in force until the said sections 3 to 8 are amended and the said Bye-laws are revoked and replaced by new Regulations made under this Act.
 Sections 3 to 8 of the Ordinance and the Bye-laws made under section 22 are appended herewith as an APPENDIX.
 Note on Amendment
-The Port Authority Act is amended as follows: Section 8. [37 of 1980]. Immediately after subsection (2), insert the following subsection:
+The Port Authority Act is amended as follows: Section 8. (37 of 1980). Immediately after subsection (2), insert the following subsection:
 "(3) Notwithstanding the provisions of subsection (2)(a), the Tobago House of Assembly is charged with the responsibility of constructing, maintaining and repairing storage and warehousing facilities at ports in Tobago.".
 Note on Staff Provisions (Page 16)
 Under section 3(2) of the Statutory Authorities Act (Chap. 24:01), the Port Authority has been declared a statutory authority subject to the provisions of that Act (see Chap. 24:01- Subsidiary Legislation). So long as this declaration remains in force, the provisions of the Act of this Chapter relating to staff must be read and construed accordingly.
@@ -23,8 +23,7 @@ PRELIMINARY
 1. Short title. 2. Interpretation.
 PART II
 PORT AUTHORITY
-3. Establishment and constitution of Authority. 4. Incorporation. 5. Procedure and meetings of the Authority. 6. Appointment of Committees. 7. Power of Authority to delegate. 8. Functions of Authority. 9. Powers of Authority.
-10. Power to dispose of real or personal property generally. 11. Validity of acts of Authority. 12. Protection of Commissioners of Authority. 13. Declaration of interest. 14. Remuneration of Commissioners. 15. Policy directions. 16. Accommodation of Comptroller of Customs and Excise.
+3. Establishment and constitution of Authority. 4. Incorporation. 5. Procedure and meetings of the Authority. 6. Appointment of Committees. 7. Power of Authority to delegate. 8. Functions of Authority. 9. Powers of Authority. 10. Power to dispose of real or personal property generally. 11. Validity of acts of Authority. 12. Protection of Commissioners of Authority. 13. Declaration of interest. 14. Remuneration of Commissioners. 15. Policy directions. 16. Accommodation of Comptroller of Customs and Excise.
 STAFF
 17. Appointment of officers and other employees. 18. Staff of Authority. 19. Disciplinary proceedings against members of staff of former Port
 Services Departments.
@@ -32,7 +31,9 @@ Services Departments.
 ARRANGEMENT OF SECTIONS-Continued SECTION
 PART III
 FINANCIAL PROVISIONS
-24. Authority may borrow, secure or raise money. 25. Powers of the Authority to borrow from Government. 26. Application of revenue. 27. Authorised investments. 28. Dues, etc., chargeable by the Authority. 29. Accounting of Authority. 30. Cash deposits and payments. 31. Preparation of documents under the Act. 32. Rules. 33. Annual report. 34. Non-application of certain sections. 35. Exemption from Customs duty and Income tax. 36. Service contracts with local authorities.
+24. Authority may borrow, secure or raise money. 25. Powers of the Authority to borrow from Government. 26. Application of revenue. 27. Authorised investments. 28. Dues, etc., chargeable by the Authority. 29. Accounting of Authority. 30. Cash deposits and payments. 31. Preparation of documents under the Act. 32. Rules. 33. Annual report. 34. Non-application of certain sections. 35. Exemption from Customs duty and Income tax.
+35A. Exemption from value added tax.
+36. Service contracts with local authorities.
 PART IV
 RESPONSIBILITY OF THE AUTHORITY
 AS A WAREHOUSEMAN
@@ -67,5 +68,12 @@ An Act to make provision for a co-ordinated and integrated
 system of harbour facilities and port services connected therewith and other matters relating thereto and connected therewith, by means of the establishment of a Port Authority.
 [14TH JUNE 1962]
 PRELIMINARY
+- Margin: agla.gov.tt laws.gov.tt
+- Margin: agla.gov.tt laws.gov.tt
+- Margin: agla.gov.tt laws.gov.tt
+- Margin: agla.gov.tt laws.gov.tt
+- Margin: agla.gov.tt laws.gov.tt
+- Margin: agla.gov.tt laws.gov.tt
+- Margin: agla.gov.tt laws.gov.tt
 - Margin: 39 of 1961.
 - Margin: Commencement. 58/1962.
