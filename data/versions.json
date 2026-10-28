@@ -1,0 +1,19 @@
+{
+ "country": "TT",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "Constitution",
+   "title": "The Constitution of the Republic of Trinidad and Tobago",
+   "url": "https://rgd.legalaffairs.gov.tt/Laws2/Constitution.pdf",
+   "versions": [
+    {
+     "from": "2016-12-31",
+     "units": 154,
+     "source_url": "https://rgd.legalaffairs.gov.tt/Laws2/Constitution.pdf",
+     "sha256": "552633e2405a7c84ce4600bb93befbf925f3c40180ea37fa61ac534ce3201052"
+    }
+   ]
+  }
+ ]
+}
