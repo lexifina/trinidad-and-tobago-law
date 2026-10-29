@@ -1,0 +1,50 @@
+{
+  "corpus": "tt/national/acts",
+  "name": "Laws of Trinidad and Tobago (Chapters, their subsidiary legislation, and Acts not yet given a Chapter)",
+  "label": "Trinidad and Tobago",
+  "language": "en",
+  "history": "in-force",
+  "history_from": "1902-12-31",
+  "record_to": "2026-04-23",
+  "record_note": "Every Chapter on laws.gov.tt (533) and 26 Acts not yet in a Chapter, as the year-end consolidations as at 31 December 2004-2016 and the undated Recent Updates show them (updates dated by PDF creation date), and before 2004, for 882 versions, the older Revised Editions (1902, 1925, 1940, 1950, 1980 as at 1990; scans, their OCR text layer as published, dated the last day of the as-at month); a change appears at the first consolidation that shows it, not on its commencement day. Catalogue retrieved 2026-10-28; built 2026-10-29.",
+  "checked_on": "2026-10-28",
+  "in_force_trailer": "In-force",
+  "baseline_trailer": "Consolidated",
+  "has_future_branch": false,
+  "laws": {
+    "chapters": 533,
+    "acts": 26
+  },
+  "built": "2026-10-29",
+  "dates": {
+    "commit": "as-at date of the consolidation that first shows the text (in force on or before it)",
+    "basis_trailer": "In-force-basis",
+    "source_trailer": "Date-source",
+    "undated_updates": "pdf-created",
+    "time": "12:00 America/Port_of_Spain (UTC-4)",
+    "older_editions": "dated the last day of the as-at month (the labels give no day)",
+    "before_1970": "1970-01-01, one second apart in history order; In-force holds the real day"
+  },
+  "author": {
+    "amendment": "the Act or Legal Notice newly named in the changed unit's margin notes",
+    "consolidated": "Law Revision Commission (laws.gov.tt)",
+    "earliest_older_edition": "Law Revision Commission (laws.gov.tt), Kind: consolidation",
+    "consolidation": "Law Revision Commission (laws.gov.tt)",
+    "evidence_trailer": "Evidence"
+  },
+  "scope": {
+    "trailer": "Applies",
+    "when_absent": "not extracted; savings and transitional rules are in the amending laws themselves",
+    "default_reach": {
+      "rule": "repeal does not affect rights accrued or proceedings pending unless the law says so",
+      "meaning": "the savings rules of the Interpretation Act on the effect of repeal and amendment",
+      "authority": "Interpretation Act (Chap. 3:01), section 27",
+      "decided_here": false
+    }
+  },
+  "citation": {
+    "file": "(.+)/s-0*([0-9]+[A-Z]*)\\.md",
+    "cites": "([Ss]ection|s\\.) ?{n}([^0-9A-Za-z]|$)"
+  },
+  "tool": "tools/in_force_on.py"
+}

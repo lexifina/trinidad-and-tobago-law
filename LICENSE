@@ -1,0 +1,10 @@
+The legislative texts in this repository are from laws.gov.tt, the Digital Legislative Library of the Law Revision
+Commission of Trinidad and Tobago. Under the Copyright Act (Chap. 82:80), section 7(1)(b), no copyright protection
+extends to "any official text of a legislative, administrative or legal nature". The texts are reproduced without
+change to their wording (quotes and dashes normalised); only the arrangement (one file per unit, one paragraph per
+line, one commit per change) is Lexifina's. Collections may be protected by their selection or arrangement
+(section 7(2)); this repository does not reproduce the Revised Edition's page layout. It is private; confirm the
+position before it is made public.
+
+Lexifina's own contributions (tools, file arrangement, commit messages and documentation) are dedicated to the
+public domain under CC0 1.0: https://creativecommons.org/publicdomain/zero/1.0/

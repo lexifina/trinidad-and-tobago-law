@@ -1,0 +1,560 @@
+law,kind,name,classification,year,versions,first_version,last_version,last_version_label,path
+Act No. 4 of 1976,act,THE CONSTITUTION,,1976,1,2026-04-23,2026-04-23,Recent Update (No. 4 of 1976),acts/1976-004/
+Act No. 11 of 2012,act,Administration of Justice (Electronic Monitoring),,2012,1,2023-10-27,2023-10-27,Recent Update (No. 11 of 2012),acts/2012-011/
+Act No. 9 of 2013,act,CARIFORUM (Caribbean Community and Dominican Republic) European Community Economic Partnership Agreement,,2013,1,2024-07-05,2024-07-05,Recent Update (No. 9 of 2013),acts/2013-009/
+Act No. 10 of 2014,act,Planning and Facilitation of Development,,2014,1,2023-11-16,2023-11-16,Recent Update (No. 10 of 2014),acts/2014-010/
+Act No. 1 of 2015,act,Public Procurement and Disposal of Public Property,,2015,1,2025-02-07,2025-02-07,Recent Update (No. 1 of 2015),acts/2015-001/
+Act No. 6 of 2016,act,Family and Children Division,,2016,1,2024-01-26,2024-01-26,Recent Update (No. 6 of 2016),acts/2016-006/
+Act No. 4 of 2017,act,Tax Information Exchange Agreements (United States of America),,2017,1,2024-11-27,2024-11-27,Recent Update (No.4 of 2017),acts/2017-004/
+Act No. 5 of 2017,act,International Financial Organisations (Corporación Andina de Fomento),,2017,1,2023-10-27,2023-10-27,Recent Update (No. 5 of 2017),acts/2017-005/
+Act No. 8 of 2018,act,State Suits Limitation,,2018,1,2023-10-27,2023-10-27,Recent Update (No. 8 of 2018),acts/2018-008/
+Act No. 12 of 2018,act,Criminal Division and District Criminal and Traffic Courts,,2018,1,2023-10-27,2023-10-27,Recent Update (No. 12 of 2018),acts/2018-012/
+Act No. 14 of 2018,act,Electronic Payments into and out of Court,,2018,1,2023-10-27,2023-10-27,Recent Update (No. 14 of 2018),acts/2018-014/
+Act No. 17 of 2018,act,"Miscellaneous Provisions (Heritage Petroleum, Paria Fuel Trading and Guaracara Refining Vesting)",,2018,1,2023-10-27,2023-10-27,Recent Update (No. 17 of 2018),acts/2018-017/
+Act No. 7 of 2019,act,Non-Profit Organisations,,2019,1,2025-01-30,2025-01-30,Recent Update (No. 7 of 2019),acts/2019-007/
+Act No. 8 of 2019,act,Civil Asset Recovery and Management and Unexplained Wealth,,2019,1,2025-01-08,2025-01-08,Recent Update (No. 8 of 2019),acts/2019-008/
+Act No. 5 of 2020,act,Tax Information Exchange Agreements,,2020,1,2024-11-27,2024-11-27,Recent Update (No. 5 of 2020),acts/2020-005/
+Act No. 7 of 2020,act,Mutual Administrative Assistance in Tax Matters Act,,2020,1,2025-04-28,2025-04-28,Recent Update (No. 7 of 2020),acts/2020-007/
+Act No. 22 of 2020,act,Urban and Regional Planning Profession,,2020,1,2024-06-27,2024-06-27,Recent Update (No. 22 of 2020),acts/2020-022/
+Act No. 3 of 2021,act,CARIFORUM States (the Caribbean Community and the Dominican Republic) and the United Kingdom of Great Britain and Northern Ireland Economic Partnership Agreement,,2021,1,2023-10-27,2023-10-27,Recent Update (No. 3 of 2021),acts/2021-003/
+Act No. 4 of 2021,act,Anti-Gang,,2021,1,2024-04-15,2024-04-15,Recent Update (No. 4 of 2021),acts/2021-004/
+Act No. 8 of 2021,act,Gambling (Gaming and Betting) Control,,2021,1,2023-10-27,2023-10-27,Recent Update (No. 8 of 2021),acts/2021-008/
+Act No. 17 of 2021,act,Trinidad and Tobago Revenue Authority,,2021,1,2024-03-11,2024-03-11,Recent Update (No. 17 of 2021),acts/2021-017/
+Act No. 1 of 2022,act,Trinidad and Tobago Special Economic Zones,,2022,1,2025-02-11,2025-02-11,Recent Update (No. 1 of 2022),acts/2022-001/
+Act No. 5 of 2022,act,National Academy for the Performing Arts,,2022,1,2023-10-31,2023-10-31,Recent Update (No. 5 of 2022),acts/2022-005/
+Act No. 6 of 2022,act,Southern Academy for the Performing Arts,,2022,1,2023-10-31,2023-10-31,Recent Update (No. 6 of 2022),acts/2022-006/
+Act No. 2 of 2024,act,Base Erosion and Profit- Shifting Inclusive Framework (Country-by-Country) Reporting,,2024,1,2025-05-22,2025-05-22,Recent Update (No. 2 of 2024),acts/2024-002/
+Act No. 13 of 2024,act,National Musical Instrument,,2024,1,2025-01-03,2025-01-03,Recent Update (No. 13 of 2024),acts/2024-013/
+Chap. 1:01,chapter,Constitution of the Republic of Trinidad and Tobago,THE CONSTITUTION AND PARLIAMENT,1976,8,2004-12-31,2025-01-09,Recent Update (CHAPTER 1:01),chapters/01-01/
+Chap. 1:02,chapter,Constitution (Prescribed Matters),THE CONSTITUTION AND PARLIAMENT,1966,9,1990-12-31,2025-03-28,Recent Update (CHAPTER 1:02),chapters/01-02/
+Chap. 1:50,chapter,Citizenship of the Republic of Trinidad and Tobago,THE CONSTITUTION AND PARLIAMENT,1976,8,1990-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/01-50/
+Chap. 1:51,chapter,Territorial Sea,THE CONSTITUTION AND PARLIAMENT,1969,8,1990-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/01-51/
+Chap. 1:52,chapter,Continental Shelf,THE CONSTITUTION AND PARLIAMENT,1969,8,1990-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/01-52/
+Chap. 2:01,chapter,Representation of the People,THE CONSTITUTION AND PARLIAMENT,1967,9,1990-12-31,2023-10-20,Recent Update (CHAPTER 2:01),chapters/02-01/
+Chap. 2:02,chapter,House of Representatives (Powers and Privileges),THE CONSTITUTION AND PARLIAMENT,1953,11,1925-06-30,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/02-02/
+Chap. 2:03,chapter,Retiring Allowances (Legislative Service),THE CONSTITUTION AND PARLIAMENT,1969,9,1990-12-31,2023-10-23,Recent Update (CHAPTER 2:03),chapters/02-03/
+Chap. 2:50,chapter,President's Emoluments,THE CONSTITUTION AND PARLIAMENT,1976,9,1990-12-31,2023-10-23,Recent Update (CHAPTER 2:50),chapters/02-50/
+Chap. 2:51,chapter,Prime Minister's Pension,THE CONSTITUTION AND PARLIAMENT,1969,9,1990-12-31,2023-10-23,Recent Update (CHAPTER 2:51),chapters/02-51/
+Chap. 2:52,chapter,Ombudsman,THE CONSTITUTION AND PARLIAMENT,1977,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/02-52/
+Chap. 3:01,chapter,Interpretation,"LEGISLATION, INTERPRETATION, REVISION AND REFORM",1962,11,1925-06-30,2025-01-08,Recent Update (CHAPTER 3:01),chapters/03-01/
+Chap. 3:02,chapter,Statutes,"LEGISLATION, INTERPRETATION, REVISION AND REFORM",1962,7,1990-12-31,2015-12-31,as at December 31st 2015 *Unofficial Update,chapters/03-02/
+Chap. 3:03,chapter,Law Revision,"LEGISLATION, INTERPRETATION, REVISION AND REFORM",1979,11,1925-06-30,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/03-03/
+Chap. 3:04,chapter,Law Reform,"LEGISLATION, INTERPRETATION, REVISION AND REFORM",1969,8,1990-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/03-04/
+Chap. 4:01,chapter,Supreme Court of Judicature,ADMINISTRATION OF JUSTICE,1962,12,1925-06-30,2024-01-26,Recent Update (CHAPTER 4:01),chapters/04-01/
+Chap. 4:02,chapter,Caribbean Court of Justice,ADMINISTRATION OF JUSTICE,2005,5,2007-12-31,2015-12-31,as at December 31st 2015 *Unofficial Update,chapters/04-02/
+Chap. 4:20,chapter,Summary Courts,ADMINISTRATION OF JUSTICE,1918,10,1950-12-31,2025-06-11,Recent Update (CHAPTER 4:20),chapters/04-20/
+Chap. 4:21,chapter,Petty Civil Courts,ADMINISTRATION OF JUSTICE,1911,11,1925-06-30,2025-06-09,Recent Update (CHAPTER 4:21),chapters/04-21/
+Chap. 4:26,chapter,International Criminal Court,ADMINISTRATION OF JUSTICE,2006,5,2007-12-31,2015-12-31,as at December 31st 2015 *Unofficial Update,chapters/04-26/
+Chap. 4:31,chapter,Recording of Court Proceedings,ADMINISTRATION OF JUSTICE,1991,6,2004-12-31,2015-12-31,as at December 31st 2015 *Unofficial Update,chapters/04-31/
+Chap. 4:32,chapter,Sentencing Commission,ADMINISTRATION OF JUSTICE,2000,7,2004-12-31,2023-10-23,Recent Update (CHAPTER 4:32),chapters/04-32/
+Chap. 4:50,chapter,Tax Appeal Board,ADMINISTRATION OF JUSTICE,1966,7,1990-12-31,2015-12-31,as at December 31st 2015 *Unofficial Update,chapters/04-50/
+Chap. 4:60,chapter,Bail,ADMINISTRATION OF JUSTICE,1994,7,2007-12-31,2025-01-08,Recent Update (CHAPTER 4:60),chapters/04-60/
+Chap. 4:61,chapter,Bailiffs,ADMINISTRATION OF JUSTICE,2000,6,2004-12-31,2015-12-31,as at December 31st 2015 *Unofficial Update,chapters/04-61/
+Chap. 5:01,chapter,Arbitration,ADMINISTRATION OF JUSTICE,1939,10,1941-01-31,2024-06-03,Recent Update (CHAPTER 5:01),chapters/05-01/
+Chap. 5:02,chapter,Judgments Extension,ADMINISTRATION OF JUSTICE,1921,10,1925-06-30,2015-12-31,as at December 31st 2015 *Unofficial Update,chapters/05-02/
+Chap. 5:03,chapter,Investment Disputes Awards (Enforcement),,1968,6,2004-12-31,2015-12-31,as at December 31st 2015 *Unofficial Update,chapters/05-03/
+Chap. 5:30,chapter,Arbitration (Foreign Arbitral Awards),ADMINISTRATION OF JUSTICE,1996,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/05-30/
+Chap. 5:31,chapter,Criminal Injuries Compensation,ADMINISTRATION OF JUSTICE,1999,8,2004-12-31,2023-10-23,Recent Update (CHAPTER 5:31),chapters/05-31/
+Chap. 5:32,chapter,Mediation,ADMINISTRATION OF JUSTICE,2004,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/05-32/
+Chap. 5:33,chapter,Justice Protection,ADMINISTRATION OF JUSTICE,2000,6,2007-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/05-33/
+Chap. 5:34,chapter,Administration of Justice (Deoxyribonucleic Acid),ADMINISTRATION OF JUSTICE,2012,7,2007-12-31,2023-10-23,Recent Update (CHAPTER 5:34),chapters/05-34/
+Chap. 6:01,chapter,Judicial and Legal Service,ADMINISTRATION OF JUSTICE,1977,8,1990-12-31,2025-01-03,Recent Update (CHAPTER 6:01),chapters/06-01/
+Chap. 6:02,chapter,Judges Salaries and Pensions,ADMINISTRATION OF JUSTICE,1965,8,1990-12-31,2023-10-23,Recent Update (CHAPTER 6:02),chapters/06-02/
+Chap. 6:03,chapter,Magistrates Protection,ADMINISTRATION OF JUSTICE,1917,10,1925-06-30,2015-12-31,as at December 31st 2015 *Unofficial Update,chapters/06-03/
+Chap. 6:04,chapter,Coroners,ADMINISTRATION OF JUSTICE,1919,11,1925-06-30,2023-10-23,Recent Update (CHAPTER 6:04),chapters/06-04/
+Chap. 6:05,chapter,Caribbean Court of Justice (Headquarters),ADMINISTRATION OF JUSTICE,2008,4,2009-12-31,2015-12-31,as at December 31st 2015 *Unofficial Update,chapters/06-05/
+Chap. 6:51,chapter,Notaries Public,ADMINISTRATION OF JUSTICE,1894,10,1925-06-30,2015-12-31,as at December 31st 2015 *Unofficial Update,chapters/06-51/
+Chap. 6:52,chapter,Commissioners of Affidavits,ADMINISTRATION OF JUSTICE,1908,11,1925-06-30,2023-10-31,Recent Update (CHAPTER 6:52),chapters/06-52/
+Chap. 6:53,chapter,Jury,ADMINISTRATION OF JUSTICE,1922,10,1925-06-30,2015-12-31,as at December 31st 2015 *Unofficial Update,chapters/06-53/
+Chap. 6:54,chapter,Interpreters,ADMINISTRATION OF JUSTICE,1928,9,1941-01-31,2015-12-31,as at December 31st 2015 *Unofficial Update,chapters/06-54/
+Chap. 7:01,chapter,Oaths,CIVIL LAW AND PROCEDURE,1917,11,1925-06-30,2023-10-23,Recent Update (CHAPTER 7:01),chapters/07-01/
+Chap. 7:02,chapter,Evidence,CIVIL LAW AND PROCEDURE,1848,11,1925-06-30,2024-03-05,Recent Update (CHAPTER 7:02),chapters/07-02/
+Chap. 7:03,chapter,Oaths of Office,CIVIL LAW AND PROCEDURE,1917,9,1941-01-31,2015-12-31,as at December 31st 2015 *Unofficial Update,chapters/07-03/
+Chap. 7:04,chapter,Statutory Declarations,CIVIL LAW AND PROCEDURE,1908,9,1941-01-31,2015-12-31,as at December 31st 2015 *Unofficial Update,chapters/07-04/
+Chap. 7:05,chapter,Court Deposits,CIVIL LAW AND PROCEDURE,1902,10,1925-06-30,2015-12-31,as at December 31st 2015 *Unofficial Update,chapters/07-05/
+Chap. 7:07,chapter,Legal Aid and Advice,CIVIL LAW AND PROCEDURE,1976,8,1990-12-31,2024-02-27,Recent Update (CHAPTER 7:07),chapters/07-07/
+Chap. 7:08,chapter,Judicial Review,CIVIL LAW AND PROCEDURE,2000,6,2004-12-31,2015-12-31,as at December 31st 2015 *Unofficial Update,chapters/07-08/
+Chap. 7:09,chapter,Limitation of Certain Actions,CIVIL LAW AND PROCEDURE,1997,6,2004-12-31,2023-10-23,Recent Update (CHAPTER 7:09),chapters/07-09/
+Chap. 8:01,chapter,Habeas Corpus,CIVIL LAW AND PROCEDURE,1841,10,1925-06-30,2015-12-31,as at December 31st 2015 *Unofficial Update,chapters/08-01/
+Chap. 8:02,chapter,State Liability and Proceedings,CIVIL LAW AND PROCEDURE,1966,8,1990-12-31,2023-10-23,Recent Update (CHAPTER 8:02),chapters/08-02/
+Chap. 8:05,chapter,Compensation for Injuries,CIVIL LAW AND PROCEDURE,1896,10,1925-06-30,2015-12-31,as at December 31st 2015 *Unofficial Update,chapters/08-05/
+Chap. 8:06,chapter,Apportionment,CIVIL LAW AND PROCEDURE,1917,9,1941-01-31,2015-12-31,as at December 31st 2015 *Unofficial Update,chapters/08-06/
+Chap. 8:07,chapter,Debtors,CIVIL LAW AND PROCEDURE,1917,10,1925-06-30,2015-12-31,as at December 31st 2015 *Unofficial Update,chapters/08-07/
+Chap. 8:08,chapter,Absconding Debtors,CIVIL LAW AND PROCEDURE,1898,11,1925-06-30,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/08-08/
+Chap. 8:09,chapter,Remedies of Creditors,CIVIL LAW AND PROCEDURE,1845,10,1925-06-30,2015-12-31,as at December 31st 2015 *Unofficial Update,chapters/08-09/
+Chap. 9:01,chapter,Administration of Estates,"ADMINISTRATION OF ESTATES, TRUSTS AND BANKRUPTCY",1913,8,1925-06-30,2015-12-31,as at December 31st 2015 *Unofficial Update,chapters/09-01/
+Chap. 9:02,chapter,Succession,"ADMINISTRATION OF ESTATES, TRUSTS AND BANKRUPTCY",1981,6,2004-12-31,2015-12-31,as at December 31st 2015 *Unofficial Update,chapters/09-02/
+Chap. 9:03,chapter,Wills and Probate,"ADMINISTRATION OF ESTATES, TRUSTS AND BANKRUPTCY",1939,11,1925-06-30,2023-09-22,Recent Update (CHAPTER 9:03),chapters/09-03/
+Chap. 9:32,chapter,Bruce Stephens Trust,"ADMINISTRATION OF ESTATES, TRUSTS AND BANKRUPTCY",1933,9,1941-01-31,2015-12-31,as at December 31st 2015 *Unofficial Update,chapters/09-32/
+Chap. 9:70,chapter,Bankruptcy and Insolvency,"ADMINISTRATION OF ESTATES, TRUSTS AND BANKRUPTCY",2007,8,1925-06-30,2015-12-31,as at December 31st 2015 *Unofficial Update,chapters/09-70/
+Chap. 9:71,chapter,Deeds of Arrangement,"ADMINISTRATION OF ESTATES, TRUSTS AND BANKRUPTCY",1932,9,1941-01-31,2015-12-31,as at December 31st 2015 *Unofficial Update,chapters/09-71/
+Chap. 10:01,chapter,Prevention of Crimes,CRIMINAL LAW AND PROCEDURE,1870,11,1925-06-30,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/10-01/
+Chap. 10:02,chapter,Accessories and Abettors,CRIMINAL LAW AND PROCEDURE,1925,11,1925-06-30,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/10-02/
+Chap. 10:03,chapter,Praedial Larceny Prevention,CRIMINAL LAW AND PROCEDURE,1963,9,1990-12-31,2023-10-23,Recent Update (CHAPTER 10:03),chapters/10-03/
+Chap. 10:04,chapter,Criminal Law,CRIMINAL LAW AND PROCEDURE,1936,9,1990-12-31,2023-10-24,Recent Update (CHAPTER 10:04),chapters/10-04/
+Chap. 11:01,chapter,Criminal Offences,CRIMINAL LAW AND PROCEDURE,1844,11,1925-06-30,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/11-01/
+Chap. 11:02,chapter,Summary Offences,CRIMINAL LAW AND PROCEDURE,1921,10,1925-06-30,2023-10-24,Recent Update (CHAPTER 11:02),chapters/11-02/
+Chap. 11:03,chapter,Treason,CRIMINAL LAW AND PROCEDURE,1842,11,1925-06-30,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/11-03/
+Chap. 11:04,chapter,Sedition,CRIMINAL LAW AND PROCEDURE,1920,11,1925-06-30,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/11-04/
+Chap. 11:05,chapter,Riot,CRIMINAL LAW AND PROCEDURE,1842,11,1925-06-30,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/11-05/
+Chap. 11:06,chapter,Malicious Damage,CRIMINAL LAW AND PROCEDURE,1925,12,1925-06-30,2023-10-24,Recent Update (CHAPTER 11:06),chapters/11-06/
+Chap. 11:07,chapter,Trespass,CRIMINAL LAW AND PROCEDURE,1852,12,1925-06-30,2023-10-24,Recent Update (CHAPTER 11:07),chapters/11-07/
+Chap. 11:08,chapter,Offences Against the Person,CRIMINAL LAW AND PROCEDURE,1925,12,1925-06-30,2023-10-30,Recent Update (CHAPTER 11:08),chapters/11-08/
+Chap. 11:09,chapter,Prevention of Crime (Offensive Weapons),CRIMINAL LAW AND PROCEDURE,1953,7,1990-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/11-09/
+Chap. 11:10,chapter,Restriction of Offensive Weapons,CRIMINAL LAW AND PROCEDURE,1960,8,1990-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/11-10/
+Chap. 11:11,chapter,Prevention of Corruption,CRIMINAL LAW AND PROCEDURE,1987,11,1925-06-30,2024-10-21,Recent Update (CHAPTER 11:11),chapters/11-11/
+Chap. 11:12,chapter,Larceny,CRIMINAL LAW AND PROCEDURE,1919,11,1925-06-30,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/11-12/
+Chap. 11:13,chapter,Forgery,CRIMINAL LAW AND PROCEDURE,1925,11,1925-06-30,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/11-13/
+Chap. 11:14,chapter,Perjury,CRIMINAL LAW AND PROCEDURE,1925,12,1925-06-30,2024-02-20,Recent Update (CHAPTER 11:14),chapters/11-14/
+Chap. 11:15,chapter,Coinage Offences,CRIMINAL LAW AND PROCEDURE,1925,12,1925-06-30,2023-10-24,Recent Update (CHAPTER 11:15),chapters/11-15/
+Chap. 11:16,chapter,Libel and Defamation,CRIMINAL LAW AND PROCEDURE,1845,11,1925-06-30,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/11-16/
+Chap. 11:17,chapter,Computer Misuse,CRIMINAL LAW AND PROCEDURE,2000,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/11-17/
+Chap. 11:18,chapter,Children and Young Persons (Harmful Publications),CRIMINAL LAW AND PROCEDURE,1955,8,1990-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/11-18/
+Chap. 11:19,chapter,Gambling and Betting,CRIMINAL LAW AND PROCEDURE,1963,9,1990-12-31,2023-10-24,Recent Update (CHAPTER 11:19),chapters/11-19/
+Chap. 11:20,chapter,Genocide,CRIMINAL LAW AND PROCEDURE,1977,8,1990-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/11-20/
+Chap. 11:21,chapter,Civil Aviation (Tokyo Convention),CRIMINAL LAW AND PROCEDURE,1978,8,1990-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/11-21/
+Chap. 11:22,chapter,Hijacking,CRIMINAL LAW AND PROCEDURE,1978,8,1990-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/11-22/
+Chap. 11:23,chapter,International War Crimes Tribunals,CRIMINAL LAW AND PROCEDURE,1998,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/11-23/
+Chap. 11:24,chapter,Mutual Assistance in Criminal Matters,CRIMINAL LAW AND PROCEDURE,1997,8,2004-12-31,2023-10-24,Recent Update (CHAPTER 11:24),chapters/11-24/
+Chap. 11:25,chapter,Dangerous Drugs,CRIMINAL LAW AND PROCEDURE,1991,8,2004-12-31,2024-12-17,Recent Update (CHAPTER 11:25),chapters/11-25/
+Chap. 11:26,chapter,Kidnapping,CRIMINAL LAW AND PROCEDURE,2003,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/11-26/
+Chap. 11:27,chapter,Proceeds of Crime,CRIMINAL LAW AND PROCEDURE,2000,8,2004-12-31,2024-12-17,Recent Update (CHAPTER 11:27),chapters/11-27/
+Chap. 11:28,chapter,Sexual Offences,CRIMINAL LAW AND PROCEDURE,1986,8,2004-12-31,2023-10-30,Recent Update (CHAPTER 11:28),chapters/11-28/
+Chap. 12:01,chapter,Indictable Offences (Preliminary Enquiry),CRIMINAL LAW AND PROCEDURE,1917,12,1925-06-30,2025-06-23,Recent Update (CHAPTER 12:01),chapters/12-01/
+Chap. 12:02,chapter,Criminal Procedure,CRIMINAL LAW AND PROCEDURE,1925,12,1925-06-30,2025-06-11,Recent Update (CHAPTER 12:02),chapters/12-02/
+Chap. 12:03,chapter,Criminal Procedure (Corporations),CRIMINAL LAW AND PROCEDURE,1961,9,1990-12-31,2024-06-27,Recent Update (CHAPTER 12:03),chapters/12-03/
+Chap. 12:04,chapter,Extradition (Commonwealth and Foreign Territories),CRIMINAL LAW AND PROCEDURE,1985,11,1925-06-30,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/12-04/
+Chap. 12:05,chapter,Taking of Hostages,CRIMINAL LAW AND PROCEDURE,1993,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/12-05/
+Chap. 12:06,chapter,Transfer of Prisoners,CRIMINAL LAW AND PROCEDURE,1993,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/12-06/
+Chap. 12:07,chapter,Anti-Terrorism,CRIMINAL LAW AND PROCEDURE,2005,7,2007-12-31,2024-11-20,Recent Update (CHAPTER 12:07),chapters/12-07/
+Chap. 12:08,chapter,International Child Abduction,CRIMINAL LAW AND PROCEDURE,2008,5,2009-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/12-08/
+Chap. 12:09,chapter,Geneva Conventions,CRIMINAL LAW AND PROCEDURE,2008,5,2009-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/12-09/
+Chap. 12:10,chapter,Trafficking in Persons,CIVIL LAW AND PROCEDURE,2011,3,2014-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/12-10/
+Chap. 13:01,chapter,Prisons,CRIMINAL LAW AND PROCEDURE,1900,12,1925-06-30,2023-10-24,Recent Update (CHAPTER 13:01),chapters/13-01/
+Chap. 13:02,chapter,Prison Service,CRIMINAL LAW AND PROCEDURE,1965,9,1990-12-31,2024-07-05,Recent Update (CHAPTER 13:02),chapters/13-02/
+Chap. 13:04,chapter,Corporal Punishment (Offenders Over Eighteen),CRIMINAL LAW AND PROCEDURE,1953,8,1990-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/13-04/
+Chap. 13:05,chapter,Young Offenders Detention,CRIMINAL LAW AND PROCEDURE,1926,11,1941-01-31,2023-10-24,Recent Update (CHAPTER 13:05),chapters/13-05/
+Chap. 13:06,chapter,Community Service Orders,CRIMINAL LAW AND PROCEDURE,1997,8,2004-12-31,2023-10-24,Recent Update (CHAPTER 13:06),chapters/13-06/
+Chap. 13:07,chapter,Criminal Procedure (Plea Discussion and Plea Agreement),CRIMINAL LAW AND PROCEDURE,1999,8,2004-12-31,2025-06-11,Recent Update (CHAPTER 13:07),chapters/13-07/
+Chap. 13:50,chapter,Remission of Penalties,CRIMINAL LAW AND PROCEDURE,1886,11,1925-06-30,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/13-50/
+Chap. 13:51,chapter,Probation of Offenders,CRIMINAL LAW AND PROCEDURE,1947,12,1925-06-30,2023-11-01,Recent Update (CHAPTER 13:51),chapters/13-51/
+Chap. 14:01,chapter,Defence,"DEFENCE, SECURITY AND PUBLIC ORDER",1962,8,2004-12-31,2024-12-16,Recent Update (CHAPTER 14:01),chapters/14-01/
+Chap. 14:02,chapter,Cadet Force,"DEFENCE, SECURITY AND PUBLIC ORDER",1963,8,1990-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/14-02/
+Chap. 14:03,chapter,Trading with the Enemy,"DEFENCE, SECURITY AND PUBLIC ORDER",1914,10,1941-01-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/14-03/
+Chap. 14:04,chapter,Visiting Forces,"DEFENCE, SECURITY AND PUBLIC ORDER",2007,7,2007-12-31,2025-05-22,Recent Update (CHAPTER 14:04),chapters/14-04/
+Chap. 14:05,chapter,Security Assistance (Caricom),"DEFENCE, SECURITY AND PUBLIC ORDER",2007,6,2007-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/14-05/
+Chap. 15:01,chapter,Police Service,"DEFENCE, SECURITY AND PUBLIC ORDER",1965,10,1941-01-31,2024-01-31,Recent Update (CHAPTER 15:01),chapters/15-01/
+Chap. 15:02,chapter,Supplemental Police,"DEFENCE, SECURITY AND PUBLIC ORDER",1906,11,1925-06-30,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/15-02/
+Chap. 15:03,chapter,Special Reserve Police,"DEFENCE, SECURITY AND PUBLIC ORDER",1946,10,1950-12-31,2023-10-24,Recent Update (CHAPTER 15:03),chapters/15-03/
+Chap. 15:04,chapter,Military Training (Prohibition),"DEFENCE, SECURITY AND PUBLIC ORDER",1996,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/15-04/
+Chap. 15:05,chapter,Police Complaints Authority,"DEFENCE, SECURITY AND PUBLIC ORDER",1993,8,2004-12-31,2023-10-24,Recent Update (CHAPTER 15:05),chapters/15-05/
+Chap. 15:06,chapter,Strategic Services Agency,"DEFENCE, SECURITY AND PUBLIC ORDER",1995,8,2004-12-31,2023-10-24,Recent Update (CHAPTER 15:06),chapters/15-06/
+Chap. 15:07,chapter,Visiting Police Forces,"DEFENCE, SECURITY AND PUBLIC ORDER",2007,6,2007-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/15-07/
+Chap. 15:08,chapter,Interception of Communications,"DEFENCE, SECURITY AND PUBLIC ORDER",2010,5,2012-12-31,2024-07-05,Recent Update (CHAPTER 15:08),chapters/15-08/
+Chap. 16:01,chapter,Firearms,"DEFENCE, SECURITY AND PUBLIC ORDER",1970,12,1925-06-30,2023-12-01,Recent Update (CHAPTER 16:01),chapters/16-01/
+Chap. 16:02,chapter,Explosives,"DEFENCE, SECURITY AND PUBLIC ORDER",1907,12,1925-06-30,2023-10-24,Recent Update (CHAPTER 16:02),chapters/16-02/
+Chap. 16:03,chapter,Anti-Personnel Mines,"DEFENCE, SECURITY AND PUBLIC ORDER",2000,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/16-03/
+Chap. 16:50,chapter,Disasters Measures,"DEFENCE, SECURITY AND PUBLIC ORDER",1978,8,1990-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/16-50/
+Chap. 17:01,chapter,"Privileges and Immunities (Diplomatic, Consular and International Organisations)",EXTERNAL AFFAIRS,1965,8,1990-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/17-01/
+Chap. 17:02,chapter,Commonwealth Secretariat (Privileges and Immunities),EXTERNAL AFFAIRS,1968,8,1990-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/17-02/
+Chap. 17:03,chapter,Diplomatic Agents and Consular Officers (Oaths and Notarial Acts),EXTERNAL AFFAIRS,1971,8,1990-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/17-03/
+Chap. 17:04,chapter,Retiring Allowances (Diplomatic Service),EXTERNAL AFFAIRS,1976,9,1990-12-31,2023-10-24,Recent Update (CHAPTER 17:04),chapters/17-04/
+Chap. 17:05,chapter,Commonwealth Development Corporation (Privileges and Immunities),EXTERNAL AFFAIRS,1996,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/17-05/
+Chap. 17:06,chapter,Order of the Caribbean Community,EXTERNAL AFFAIRS,1992,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/17-06/
+Chap. 17:07,chapter,Caribbean Examinations Council (Privileges and Immunities),EXTERNAL AFFAIRS,2006,6,2007-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/17-07/
+Chap. 18:01,chapter,Immigration,IMMIGRATION AND EMIGRATION,1969,10,1925-06-30,2025-01-09,Recent Update (CHAPTER 18:01),chapters/18-01/
+Chap. 18:02,chapter,Emigration (Children),IMMIGRATION AND EMIGRATION,1918,11,1925-06-30,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/18-02/
+Chap. 18:03,chapter,Immigration (Caribbean Community Skilled Nationals),IMMIGRATION AND EMIGRATION,1996,8,2004-12-31,2025-04-02,Recent Update (CHAPTER 18:03),chapters/18-03/
+Chap. 18:04,chapter,Immigration (Advance Passenger Information),IMMIGRATION AND EMIGRATION,2008,5,2009-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/18-04/
+Chap. 19:01,chapter,Commissions of Enquiry,ADMINISTRATION: GENERAL,1891,11,1925-06-30,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/19-01/
+Chap. 19:02,chapter,Statistics,ADMINISTRATION: GENERAL,1952,8,1990-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/19-02/
+Chap. 19:03,chapter,Registrar General,ADMINISTRATION: GENERAL,1921,12,1925-06-30,2024-11-20,Recent Update (CHAPTER 19:03),chapters/19-03/
+Chap. 19:04,chapter,National Emblems of Trinidad and Tobago (Regulation),ADMINISTRATION: GENERAL,1967,9,1990-12-31,2023-10-24,Recent Update (CHAPTER 19:04),chapters/19-04/
+Chap. 19:05,chapter,Public Holidays and Festivals,ADMINISTRATION: GENERAL,1872,12,1925-06-30,2025-08-25,Recent Update (CHAPTER 19:05),chapters/19-05/
+Chap. 19:06,chapter,Registration of Deeds,ADMINISTRATION: GENERAL,1884,11,1925-06-30,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/19-06/
+Chap. 19:07,chapter,Tobago Deeds,ADMINISTRATION: GENERAL,1900,11,1925-06-30,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/19-07/
+Chap. 19:08,chapter,Registration of Local Agents of Foreign Governments or Foreign Enterprises,ADMINISTRATION: GENERAL,1980,8,1990-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/19-08/
+Chap. 19:09,chapter,Counting Unremunerated Work,ADMINISTRATION: GENERAL,1996,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/19-09/
+Chap. 20:01,chapter,Newspapers,ADMINISTRATION: REGULATION OF PARTICULAR MATTERS,1935,11,1925-06-30,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/20-01/
+Chap. 20:10,chapter,Cinematograph,ADMINISTRATION: REGULATION OF PARTICULAR MATTERS,1936,10,1925-06-30,2025-05-20,Recent Update (CHAPTER 20:10),chapters/20-10/
+Chap. 20:11,chapter,Motion Picture Films (Carriage and Storage),ADMINISTRATION: REGULATION OF PARTICULAR MATTERS,1950,9,1950-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/20-11/
+Chap. 21:01,chapter,Registration of Clubs,ADMINISTRATION: REGULATION OF PARTICULAR MATTERS,1955,12,1925-06-30,2025-04-14,Recent Update (CHAPTER 21:01),chapters/21-01/
+Chap. 21:03,chapter,Theatres and Dance Halls,ADMINISTRATION: REGULATION OF PARTICULAR MATTERS,1934,11,1941-01-31,2025-05-26,Recent Update (CHAPTER 21:03),chapters/21-03/
+Chap. 21:04,chapter,National Lotteries,ADMINISTRATION: REGULATION OF PARTICULAR MATTERS,1968,9,1990-12-31,2023-10-24,Recent Update (CHAPTER 21:04),chapters/21-04/
+Chap. 21:05,chapter,Street Collections (Control),ADMINISTRATION: REGULATION OF PARTICULAR MATTERS,1939,10,1941-01-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/21-05/
+Chap. 21:50,chapter,Trinidad and Tobago Racing Authority,ADMINISTRATION: REGULATION OF PARTICULAR MATTERS,1976,8,1990-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/21-50/
+Chap. 21:51,chapter,Races,ADMINISTRATION: REGULATION OF PARTICULAR MATTERS,1946,11,1925-06-30,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/21-51/
+Chap. 21:52,chapter,Boxing Control,ADMINISTRATION: REGULATION OF PARTICULAR MATTERS,1933,10,1941-01-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/21-52/
+Chap. 21:53,chapter,Betting Levy Board,ADMINISTRATION: REGULATION OF PARTICULAR MATTERS,1989,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/21-53/
+Chap. 22:01,chapter,Integrity in Public Life,ADMINISTRATION: REGULATION OF PARTICULAR MATTERS,2000,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/22-01/
+Chap. 22:02,chapter,Freedom of Information,ADMINISTRATION: REGULATION OF PARTICULAR MATTERS,1999,8,2004-12-31,2023-11-02,Recent Update (CHAPTER 22:02),chapters/22-02/
+Chap. 22:03,chapter,Equal Opportunity,ADMINISTRATION: REGULATION OF PARTICULAR MATTERS,2000,6,2007-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/22-03/
+Chap. 22:04,chapter,Data Protection,ADMINISTRATION: REGULATION OF PARTICULAR MATTERS,2011,5,2012-12-31,2023-10-24,Recent Update (CHAPTER 22:04),chapters/22-04/
+Chap. 22:05,chapter,Electronic Transactions,ADMINISTRATION: REGULATION OF PARTICULAR MATTERS,2011,5,2012-12-31,2023-10-24,Recent Update (CHAPTER 22:05),chapters/22-05/
+Chap. 23:01,chapter,Civil Service,PUBLIC SERVICE,1965,8,2004-12-31,2023-10-24,Recent Update (CHAPTER 23:01),chapters/23-01/
+Chap. 23:02,chapter,Transferred Officers Continuity of Service,PUBLIC SERVICE,1962,8,1990-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/23-02/
+Chap. 23:03,chapter,Voluntary Termination of Employment,PUBLIC SERVICE,1989,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/23-03/
+Chap. 23:50,chapter,Travelling Allowances,PUBLIC SERVICE,1914,11,1925-06-30,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/23-50/
+Chap. 23:52,chapter,Pensions,PUBLIC SERVICE,1934,11,1941-01-31,2023-10-24,Recent Update (CHAPTER 23:52),chapters/23-52/
+Chap. 23:53,chapter,Pensions Extension,PUBLIC SERVICE,1961,8,1990-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/23-53/
+Chap. 23:54,chapter,Widows' and Orphans' Pensions,PUBLIC SERVICE,1934,11,1941-01-31,2023-10-24,Recent Update (CHAPTER 23:54),chapters/23-54/
+Chap. 23:55,chapter,Widows' and Orphans' Pensions Extension,PUBLIC SERVICE,1974,8,1990-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/23-55/
+Chap. 23:56,chapter,Pensions Rights (Special Provisions),PUBLIC SERVICE,1977,8,1990-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/23-56/
+Chap. 23:57,chapter,Provident Fund,PUBLIC SERVICE,1934,10,1941-01-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/23-57/
+Chap. 23:59,chapter,Law Reform (Pensions),PUBLIC SERVICE,1997,3,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/23-59/
+Chap. 23:60,chapter,Protective Services (Compensation),PUBLIC SERVICE,1996,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/23-60/
+Chap. 24:01,chapter,Statutory Authorities,PUBLIC AUTHORITIES,1966,9,1990-12-31,2023-10-24,Recent Update (CHAPTER 24:01),chapters/24-01/
+Chap. 25:03,chapter,Tobago House of Assembly,LOCAL GOVERNMENT,1996,8,2004-12-31,2023-10-24,Recent Update (CHAPTER 25:03),chapters/25-03/
+Chap. 25:04,chapter,Municipal Corporations,LOCAL GOVERNMENT,1990,9,1925-06-30,2024-01-25,Recent Update (CHAPTER 25:04),chapters/25-04/
+Chap. 25:05,chapter,Municipal Corporations (Pensions),LOCAL GOVERNMENT,1936,11,1941-01-31,2023-10-24,Recent Update (CHAPTER 25:05),chapters/25-05/
+Chap. 25:06,chapter,City of San Fernando,LOCAL GOVERNMENT,1988,9,1941-01-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/25-06/
+Chap. 25:50,chapter,Elections and Boundaries Commission (Local Government and Tobago House of Assembly),LOCAL GOVERNMENT,1967,9,1990-12-31,2023-12-12,Recent Update (CHAPTER 25:50),chapters/25-50/
+Chap. 26:01,chapter,Division of Trinidad,LOCAL GOVERNMENT,1926,11,1925-06-30,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/26-01/
+Chap. 26:02,chapter,Towns and Villages (Definition),LOCAL GOVERNMENT,1919,11,1925-06-30,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/26-02/
+Chap. 26:50,chapter,Dry River,LOCAL GOVERNMENT,1928,10,1941-01-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/26-50/
+Chap. 28:02,chapter,Mental Health,PUBLIC HEALTH AND MEDICAL,1975,9,1990-12-31,2023-10-24,Recent Update (CHAPTER 28:02),chapters/28-02/
+Chap. 28:03,chapter,Public Health (Nursery Schools and Primary Schools Immunisation),PUBLIC HEALTH AND MEDICAL,1973,8,1990-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/28-03/
+Chap. 28:04,chapter,Schools (Medical Inspection),PUBLIC HEALTH AND MEDICAL,1928,10,1941-01-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/28-04/
+Chap. 28:05,chapter,Quarantine,PUBLIC HEALTH AND MEDICAL,1944,10,1950-12-31,2023-10-24,Recent Update (CHAPTER 28:05),chapters/28-05/
+Chap. 28:06,chapter,Anatomy,PUBLIC HEALTH AND MEDICAL,1989,6,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/28-06/
+Chap. 28:07,chapter,Human Tissue Transplant,PUBLIC HEALTH AND MEDICAL,2000,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/28-07/
+Chap. 28:50,chapter,Malaria Abatement,PUBLIC HEALTH AND MEDICAL,1932,10,1941-01-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/28-50/
+Chap. 28:51,chapter,Tuberculosis Control,PUBLIC HEALTH AND MEDICAL,1961,8,1990-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/28-51/
+Chap. 28:52,chapter,Venereal Disease,PUBLIC HEALTH AND MEDICAL,1921,11,1925-06-30,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/28-52/
+Chap. 29:01,chapter,Children's Life Fund,PUBLIC HEALTH AND MEDICAL,2010,4,2012-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/29-01/
+Chap. 29:02,chapter,Emergency Ambulance Services and Emergency Medical Personnel,PUBLIC HEALTH AND MEDICAL,2009,5,2012-12-31,2023-10-30,Recent Update (CHAPTER 29:02),chapters/29-02/
+Chap. 29:03,chapter,Private Hospitals,PUBLIC HEALTH AND MEDICAL,1960,9,1990-12-31,2023-10-24,Recent Update (CHAPTER 29:03),chapters/29-03/
+Chap. 29:04,chapter,Princess Elizabeth Home for Handicapped Children Association (Incorporation),PUBLIC HEALTH AND MEDICAL,1953,3,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/29-04/
+Chap. 29:05,chapter,Regional Health Authorities,PUBLIC HEALTH AND MEDICAL,1994,6,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/29-05/
+Chap. 29:50,chapter,Medical Board,PUBLIC HEALTH AND MEDICAL,1960,11,1925-06-30,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/29-50/
+Chap. 29:51,chapter,Opticians (Registration),PUBLIC HEALTH AND MEDICAL,1960,10,1941-01-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/29-51/
+Chap. 29:52,chapter,Pharmacy Board,PUBLIC HEALTH AND MEDICAL,1960,9,1990-12-31,2023-10-20,Recent Update (CHAPTER 29:52),chapters/29-52/
+Chap. 29:53,chapter,Nursing Personnel,PUBLIC HEALTH AND MEDICAL,1960,9,1990-12-31,2023-10-24,Recent Update (CHAPTER 29:53),chapters/29-53/
+Chap. 29:54,chapter,Dental Profession,PUBLIC HEALTH AND MEDICAL,1980,9,1990-12-31,2023-10-24,Recent Update (CHAPTER 29:54),chapters/29-54/
+Chap. 30:01,chapter,Food and Drugs,PUBLIC HEALTH AND MEDICAL,1960,12,1925-06-30,2025-03-28,Recent Update (CHAPTER 30:01),chapters/30-01/
+Chap. 30:02,chapter,Antibiotics,PUBLIC HEALTH AND MEDICAL,1948,10,1950-12-31,2024-03-11,Recent Update (CHAPTER 30:02),chapters/30-02/
+Chap. 30:03,chapter,Pesticides and Toxic Chemicals,PUBLIC HEALTH AND MEDICAL,1979,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/30-03/
+Chap. 30:04,chapter,Tobacco Control,PUBLIC HEALTH AND MEDICAL,2009,4,2012-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/30-04/
+Chap. 30:50,chapter,Burial Grounds,PUBLIC HEALTH AND MEDICAL,1919,11,1925-06-30,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/30-50/
+Chap. 30:51,chapter,Cremation,PUBLIC HEALTH AND MEDICAL,1953,8,1990-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/30-51/
+Chap. 30:52,chapter,Litter,PUBLIC HEALTH AND MEDICAL,1973,8,1990-12-31,2023-10-24,Recent Update (CHAPTER 30:52),chapters/30-52/
+Chap. 32:01,chapter,National Insurance,SOCIAL WELFARE,1971,9,1990-12-31,2025-01-08,Recent Update (CHAPTER 32:01),chapters/32-01/
+Chap. 32:02,chapter,Senior Citizens' Pension,SOCIAL WELFARE,1939,10,1950-12-31,2024-12-11,Recent Update (CHAPTER 32:02),chapters/32-02/
+Chap. 32:03,chapter,Public Assistance,SOCIAL WELFARE,1951,9,1990-12-31,2025-01-08,Recent Update (CHAPTER 32:03),chapters/32-03/
+Chap. 32:50,chapter,Friendly Societies,SOCIAL WELFARE,1950,12,1925-06-30,2023-10-24,Recent Update (CHAPTER 32:50),chapters/32-50/
+Chap. 33:01,chapter,Housing,SOCIAL WELFARE,1962,8,1990-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/33-01/
+Chap. 33:02,chapter,Slum Clearance and Housing,SOCIAL WELFARE,1938,10,1941-01-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/33-02/
+Chap. 33:03,chapter,Trinidad and Tobago Housing Development Corporation,SOCIAL WELFARE,2005,6,2007-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/33-03/
+Chap. 33:04,chapter,Building Societies,SOCIAL WELFARE,1890,10,1925-06-30,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/33-04/
+Chap. 33:05,chapter,Friendly Societies Housing Corporation,SOCIAL WELFARE,1950,8,1950-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/33-05/
+Chap. 33:06,chapter,Trinidad and Tobago Housing Development Corporation (Vesting),SOCIAL WELFARE,2004,8,2004-12-31,2025-01-08,Recent Update (CHAPTER 33:06),chapters/33-06/
+Chap. 35:01,chapter,Town and Country Planning,ENVIRONMENTAL PROTECTION AND DEVELOPMENT,1960,8,1990-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/35-01/
+Chap. 35:02,chapter,Chaguaramas Development Authority,ENVIRONMENTAL PROTECTION AND DEVELOPMENT,1972,8,1990-12-31,2023-10-24,Recent Update (CHAPTER 35:02),chapters/35-02/
+Chap. 35:03,chapter,Chaguaramas Agreement Special Fund,ENVIRONMENTAL PROTECTION AND DEVELOPMENT,1964,8,1990-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/35-03/
+Chap. 35:04,chapter,Town and Country Planning (Miscellaneous Licences),ENVIRONMENTAL PROTECTION AND DEVELOPMENT,1982,8,1990-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/35-04/
+Chap. 35:05,chapter,Environmental Management,ENVIRONMENTAL PROTECTION AND DEVELOPMENT,2000,8,2004-12-31,2023-10-24,Recent Update (CHAPTER 35:05),chapters/35-05/
+Chap. 35:49,chapter,Basel Convention (Regional Centre for Training and Technology Transfer),ENVIRONMENTAL PROTECTION AND DEVELOPMENT,2008,6,2009-12-31,2023-11-22,Recent Update (CHAPTER 35:49),chapters/35-49/
+Chap. 35:50,chapter,Fire Service,ENVIRONMENTAL PROTECTION AND DEVELOPMENT,1965,12,1925-06-30,2023-10-20,Recent Update (CHAPTER 35:50),chapters/35-50/
+Chap. 35:51,chapter,Pipelines,ENVIRONMENTAL PROTECTION AND DEVELOPMENT,1933,10,1941-01-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/35-51/
+Chap. 35:53,chapter,Advertisements Regulation,ENVIRONMENTAL PROTECTION AND DEVELOPMENT,1931,9,1950-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/35-53/
+Chap. 35:54,chapter,Auxiliary Fire Service,ENVIRONMENTAL PROTECTION AND DEVELOPMENT,1979,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/35-54/
+Chap. 35:55,chapter,Demolition of Unsafe Structures,ENVIRONMENTAL PROTECTION AND DEVELOPMENT,1978,8,1990-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/35-55/
+Chap. 37:01,chapter,Institute of Marine Affairs,ENVIRONMENTAL PROTECTION AND DEVELOPMENT,1976,8,1990-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/37-01/
+Chap. 37:02,chapter,Marine Areas (Preservation and Enhancement),ENVIRONMENTAL PROTECTION AND DEVELOPMENT,1970,8,1990-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/37-02/
+Chap. 37:03,chapter,Oil Pollution of Territorial Waters,ENVIRONMENTAL PROTECTION AND DEVELOPMENT,1951,9,1990-12-31,2023-10-24,Recent Update (CHAPTER 37:03),chapters/37-03/
+Chap. 37:04,chapter,Protection of Wrecks,ENVIRONMENTAL PROTECTION AND DEVELOPMENT,1994,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/37-04/
+Chap. 39:01,chapter,Education,"EDUCATION, CULTURE AND SPORT",1966,12,1925-06-30,2023-10-24,Recent Update (CHAPTER 39:01),chapters/39-01/
+Chap. 39:02,chapter,Teachers' Pensions,"EDUCATION, CULTURE AND SPORT",1952,9,1990-12-31,2023-10-24,Recent Update (CHAPTER 39:02),chapters/39-02/
+Chap. 39:03,chapter,Assisted Secondary School Teachers' Pensions,"EDUCATION, CULTURE AND SPORT",1963,8,1990-12-31,2023-10-24,Recent Update (CHAPTER 39:03),chapters/39-03/
+Chap. 39:04,chapter,Teaching Service (Compensation),"EDUCATION, CULTURE AND SPORT",2008,5,2009-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/39-04/
+Chap. 39:05,chapter,Students' Revolving Loan Fund,"EDUCATION, CULTURE AND SPORT",1973,8,1990-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/39-05/
+Chap. 39:06,chapter,Accreditation Council of Trinidad and Tobago,"EDUCATION, CULTURE AND SPORT",2004,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/39-06/
+Chap. 39:07,chapter,Caribbean Examinations Council,"EDUCATION, CULTURE AND SPORT",1987,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/39-07/
+Chap. 39:08,chapter,University Students (Guarantee Fund),"EDUCATION, CULTURE AND SPORT",1994,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/39-08/
+Chap. 39:50,chapter,Council of Legal Education,"EDUCATION, CULTURE AND SPORT",1975,8,1990-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/39-50/
+Chap. 39:51,chapter,Cipriani College of Labour and Co-operative Studies,"EDUCATION, CULTURE AND SPORT",1972,8,1990-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/39-51/
+Chap. 39:52,chapter,Caribbean Aviation Training Institute,"EDUCATION, CULTURE AND SPORT",1975,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/39-52/
+Chap. 39:53,chapter,Caribbean Fisheries Training and Development Institute,"EDUCATION, CULTURE AND SPORT",1975,8,1990-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/39-53/
+Chap. 39:54,chapter,Industrial Training,"EDUCATION, CULTURE AND SPORT",1922,11,1925-06-30,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/39-54/
+Chap. 39:55,chapter,CAB International (Regional Centre),"EDUCATION, CULTURE AND SPORT",1989,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/39-55/
+Chap. 39:56,chapter,"College of Science, Technology and Applied Arts of Trinidad and Tobago","EDUCATION, CULTURE AND SPORT",2000,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/39-56/
+Chap. 39:58,chapter,"National Institute of Higher Education (Research, Science and Technology)","EDUCATION, CULTURE AND SPORT",1984,9,1990-12-31,2023-10-24,Recent Update (CHAPTER 39:58),chapters/39-58/
+Chap. 40:01,chapter,National Library and Information Systems,"EDUCATION, CULTURE AND SPORT",1998,8,2004-12-31,2023-10-24,Recent Update (CHAPTER 40:01),chapters/40-01/
+Chap. 40:50,chapter,Queen's Hall,"EDUCATION, CULTURE AND SPORT",1969,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/40-50/
+Chap. 40:51,chapter,Naparima Bowl,"EDUCATION, CULTURE AND SPORT",1969,7,1990-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/40-51/
+Chap. 40:52,chapter,National Museum and Art Gallery,"EDUCATION, CULTURE AND SPORT",2000,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/40-52/
+Chap. 40:53,chapter,National Trust of Trinidad and Tobago,"EDUCATION, CULTURE AND SPORT",1991,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/40-53/
+Chap. 40:54,chapter,Sport and Culture Fund,"EDUCATION, CULTURE AND SPORT",1988,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/40-54/
+Chap. 40:55,chapter,Trinidad and Tobago National Steel Orchestra,"EDUCATION, CULTURE AND SPORT",1999,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/40-55/
+Chap. 40:56,chapter,Anti-Doping in Sport,"EDUCATION, CULTURE AND SPORT",2013,3,2015-12-31,2024-06-04,Recent Update (CHAPTER 40:56),chapters/40-56/
+Chap. 40:70,chapter,Boy Scouts Association,"EDUCATION, CULTURE AND SPORT",1920,11,1925-06-30,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/40-70/
+Chap. 40:71,chapter,Girl Guides Association,"EDUCATION, CULTURE AND SPORT",1929,10,1941-01-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/40-71/
+Chap. 41:01,chapter,Recreation Grounds and Pastures,"EDUCATION, CULTURE AND SPORT",1909,11,1925-06-30,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/41-01/
+Chap. 41:02,chapter,San Fernando Recreation Ground,"EDUCATION, CULTURE AND SPORT",1930,10,1941-01-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/41-02/
+Chap. 41:03,chapter,Botanic Gardens,"EDUCATION, CULTURE AND SPORT",1938,11,1925-06-30,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/41-03/
+Chap. 41:04,chapter,Queen's Park,"EDUCATION, CULTURE AND SPORT",1882,11,1925-06-30,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/41-04/
+Chap. 42:01,chapter,National Carnival Commission of Trinidad and Tobago,"EDUCATION, CULTURE AND SPORT",1991,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/42-01/
+Chap. 44:01,chapter,Births and Deaths Registration,"BIRTHS AND DEATHS, MARRIAGE AND CHILDREN",1847,11,1925-06-30,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/44-01/
+Chap. 44:02,chapter,"Registers of Births, Deaths and Marriages","BIRTHS AND DEATHS, MARRIAGE AND CHILDREN",1940,9,1950-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/44-02/
+Chap. 44:03,chapter,Notification of Births,"BIRTHS AND DEATHS, MARRIAGE AND CHILDREN",1916,11,1925-06-30,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/44-03/
+Chap. 45:01,chapter,Marriage,"BIRTHS AND DEATHS, MARRIAGE AND CHILDREN",1923,12,1925-06-30,2023-10-24,Recent Update (CHAPTER 45:01),chapters/45-01/
+Chap. 45:02,chapter,Muslim Marriage and Divorce,"BIRTHS AND DEATHS, MARRIAGE AND CHILDREN",1961,11,1941-01-31,2023-10-24,Recent Update (CHAPTER 45:02),chapters/45-02/
+Chap. 45:03,chapter,Hindu Marriage,"BIRTHS AND DEATHS, MARRIAGE AND CHILDREN",1945,10,1950-12-31,2023-10-24,Recent Update (CHAPTER 45:03),chapters/45-03/
+Chap. 45:04,chapter,Orisa Marriage,"BIRTHS AND DEATHS, MARRIAGE AND CHILDREN",1999,8,2004-12-31,2023-10-24,Recent Update (CHAPTER 45:04),chapters/45-04/
+Chap. 45:50,chapter,Married Persons,"BIRTHS AND DEATHS, MARRIAGE AND CHILDREN",1976,9,1990-12-31,2023-10-24,Recent Update (CHAPTER 45:50),chapters/45-50/
+Chap. 45:51,chapter,Matrimonial Proceedings and Property,"BIRTHS AND DEATHS, MARRIAGE AND CHILDREN",1972,9,1990-12-31,2023-10-24,Recent Update (CHAPTER 45:51),chapters/45-51/
+Chap. 45:52,chapter,Attachment of Earnings (Maintenance),"BIRTHS AND DEATHS, MARRIAGE AND CHILDREN",1988,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/45-52/
+Chap. 45:53,chapter,Maintenance Orders (Facilities for Enforcement),"BIRTHS AND DEATHS, MARRIAGE AND CHILDREN",2000,11,1925-06-30,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/45-53/
+Chap. 45:54,chapter,Deceased Wife's Sister's Marriage,"BIRTHS AND DEATHS, MARRIAGE AND CHILDREN",1911,11,1925-06-30,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/45-54/
+Chap. 45:55,chapter,Cohabitational Relationships,"BIRTHS AND DEATHS, MARRIAGE AND CHILDREN",1998,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/45-55/
+Chap. 45:56,chapter,Domestic Violence,"BIRTHS AND DEATHS, MARRIAGE AND CHILDREN",1999,8,2004-12-31,2023-11-22,Recent Update (CHAPTER 45:56),chapters/45-56/
+Chap. 45:57,chapter,Maternity Protection,"BIRTHS AND DEATHS, MARRIAGE AND CHILDREN",1998,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/45-57/
+Chap. 46:01,chapter,Children,"BIRTHS AND DEATHS, MARRIAGE AND CHILDREN",2012,12,1925-06-30,2024-12-10,Recent Update (CHAPTER 46:01),chapters/46-01/
+Chap. 46:02,chapter,Infants,"BIRTHS AND DEATHS, MARRIAGE AND CHILDREN",1925,11,1925-06-30,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/46-02/
+Chap. 46:03,chapter,Adoption of Children,"BIRTHS AND DEATHS, MARRIAGE AND CHILDREN",2000,10,1950-12-31,2023-10-24,Recent Update (CHAPTER 46:03),chapters/46-03/
+Chap. 46:04,chapter,"Children’s Community Residences, Foster Care and Nurseries","BIRTHS AND DEATHS, MARRIAGE AND CHILDREN",2000,3,2015-12-31,2025-03-28,Recent Update (CHAPTER 46:04),chapters/46-04/
+Chap. 46:06,chapter,Age of Majority,"BIRTHS AND DEATHS, MARRIAGE AND CHILDREN",1973,8,1990-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/46-06/
+Chap. 46:07,chapter,Status of Children,"BIRTHS AND DEATHS, MARRIAGE AND CHILDREN",1981,9,1990-12-31,2023-10-24,Recent Update (CHAPTER 46:07),chapters/46-07/
+Chap. 46:08,chapter,"Family Law (Guardianship of Minors, Domicile and Maintenance)","BIRTHS AND DEATHS, MARRIAGE AND CHILDREN",1981,9,1990-12-31,2023-10-24,Recent Update (CHAPTER 46:08),chapters/46-08/
+Chap. 46:09,chapter,Family Proceedings,"BIRTHS AND DEATHS, MARRIAGE AND CHILDREN",2004,8,2004-12-31,2023-10-24,Recent Update (CHAPTER 46:09),chapters/46-09/
+Chap. 46:10,chapter,Children's Authority,"BIRTHS AND DEATHS, MARRIAGE AND CHILDREN",2000,5,2012-12-31,2023-10-24,Recent Update (CHAPTER 46:10),chapters/46-10/
+Chap. 47:01,chapter,Trinidad and Tobago Post,POST AND TELECOMMUNICATIONS,1938,11,1925-06-30,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/47-01/
+Chap. 47:02,chapter,Trinidad and Tobago Postal Corporation,POST AND TELECOMMUNICATIONS,1999,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/47-02/
+Chap. 47:31,chapter,Telecommunications,POST AND TELECOMMUNICATIONS,2001,8,2004-12-31,2023-10-24,Recent Update (CHAPTER 47:31),chapters/47-31/
+Chap. 48:01,chapter,Highways,"LAND, AIR AND SEA COMMUNICATONS",1970,8,1990-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/48-01/
+Chap. 48:02,chapter,Public Transport Service,"LAND, AIR AND SEA COMMUNICATONS",1965,9,1990-12-31,2023-10-24,Recent Update (CHAPTER 48:02),chapters/48-02/
+Chap. 48:50,chapter,Motor Vehicles and Road Traffic,"LAND, AIR AND SEA COMMUNICATONS",1934,11,1941-01-31,2025-05-28,Recent Update (CHAPTER 48:50),chapters/48-50/
+Chap. 48:51,chapter,Motor Vehicles Insurance (Third Party Risks),"LAND, AIR AND SEA COMMUNICATONS",1933,10,1941-01-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/48-51/
+Chap. 48:52,chapter,Motor Vehicles and Road Traffic (Enforcement and Administration),"LAND, AIR AND SEA COMMUNICATONS",1978,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/48-52/
+Chap. 48:53,chapter,Maxi-Taxi,"LAND, AIR AND SEA COMMUNICATONS",1992,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/48-53/
+Chap. 49:02,chapter,Airports Authority of Trinidad and Tobago,"LAND, AIR AND SEA COMMUNICATONS",1979,8,1990-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/49-02/
+Chap. 49:03,chapter,Civil Aviation,"LAND, AIR AND SEA COMMUNICATONS",2001,7,2004-12-31,2024-03-06,Recent Update (CHAPTER 49:03),chapters/49-03/
+Chap. 49:04,chapter,BWIA International Airways Limited (Vesting),"LAND, AIR AND SEA COMMUNICATONS",1995,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/49-04/
+Chap. 50:02,chapter,Carriage of Goods by Sea,"LAND, AIR AND SEA COMMUNICATONS",1926,9,1941-01-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/50-02/
+Chap. 50:03,chapter,Bills of Lading,"LAND, AIR AND SEA COMMUNICATONS",1864,11,1925-06-30,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/50-03/
+Chap. 50:04,chapter,West Indies Shipping Corporation,"LAND, AIR AND SEA COMMUNICATONS",1977,8,1990-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/50-04/
+Chap. 50:05,chapter,Mariners Club,"LAND, AIR AND SEA COMMUNICATONS",1954,8,1990-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/50-05/
+Chap. 50:06,chapter,Harbours,"LAND, AIR AND SEA COMMUNICATONS",1880,11,1925-06-30,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/50-06/
+Chap. 50:07,chapter,Droghers,"LAND, AIR AND SEA COMMUNICATONS",1914,11,1925-06-30,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/50-07/
+Chap. 50:08,chapter,Motor Launches,"LAND, AIR AND SEA COMMUNICATONS",1926,10,1941-01-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/50-08/
+Chap. 50:09,chapter,Marking of Ships,"LAND, AIR AND SEA COMMUNICATONS",1945,8,1990-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/50-09/
+Chap. 50:10,chapter,Shipping,"LAND, AIR AND SEA COMMUNICATONS",1987,8,2004-12-31,2025-02-06,Recent Update (CHAPTER 50:10),chapters/50-10/
+Chap. 51:01,chapter,Port Authority,"LAND, AIR AND SEA COMMUNICATONS",1961,9,1990-12-31,2026-04-23,Recent Update (CHAPTER 51:01),chapters/51-01/
+Chap. 51:02,chapter,Pilotage,"LAND, AIR AND SEA COMMUNICATONS",1939,11,1941-01-31,2023-10-30,Recent Update (CHAPTER 51:02),chapters/51-02/
+Chap. 51:03,chapter,Carenage Pier,"LAND, AIR AND SEA COMMUNICATONS",1948,9,1950-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/51-03/
+Chap. 51:04,chapter,La Brea Jetty and Tramway,"LAND, AIR AND SEA COMMUNICATONS",1894,11,1925-06-30,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/51-04/
+Chap. 51:05,chapter,Disposal of Uncleared Goods,"LAND, AIR AND SEA COMMUNICATONS",1978,8,1990-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/51-05/
+Chap. 51:06,chapter,Archipelagic Waters and Exclusive Economic Zone,"LAND, AIR AND SEA COMMUNICATONS",1986,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/51-06/
+Chap. 54:40,chapter,Water and Sewerage,WORKS AND PUBLIC UTILITIES,1965,9,1990-12-31,2023-11-06,Recent Update (CHAPTER 54:40),chapters/54-40/
+Chap. 54:41,chapter,Waterworks and Water Conservation,WORKS AND PUBLIC UTILITIES,1944,9,1950-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/54-41/
+Chap. 54:70,chapter,Trinidad and Tobago Electricity Commission,WORKS AND PUBLIC UTILITIES,1945,10,1950-12-31,2023-10-30,Recent Update (CHAPTER 54:70),chapters/54-70/
+Chap. 54:71,chapter,Electric Installations (Buildings),WORKS AND PUBLIC UTILITIES,1945,9,1950-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/54-71/
+Chap. 54:72,chapter,Electricity (Inspection),WORKS AND PUBLIC UTILITIES,1945,9,1950-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/54-72/
+Chap. 54:73,chapter,Regulated Industries Commission,WORKS AND PUBLIC UTILITIES,1998,8,2004-12-31,2023-10-24,Recent Update (CHAPTER 54:73),chapters/54-73/
+Chap. 55:01,chapter,Caribbean Meteorological Organisation,WORKS AND PUBLIC UTILITIES,1979,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/55-01/
+Chap. 56:01,chapter,Conveyancing and Law of Property,LAND AND CONVEYANCING,1939,10,1941-01-31,2023-10-30,Recent Update (CHAPTER 56:01),chapters/56-01/
+Chap. 56:02,chapter,Real Property,LAND AND CONVEYANCING,1858,10,1925-06-30,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/56-02/
+Chap. 56:03,chapter,Real Property Limitation,LAND AND CONVEYANCING,1945,10,1925-06-30,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/56-03/
+Chap. 57:01,chapter,State Lands,LAND AND CONVEYANCING,1918,12,1925-06-30,2023-10-24,Recent Update (CHAPTER 57:01),chapters/57-01/
+Chap. 57:02,chapter,State Grants and Leases (Re-Issue),LAND AND CONVEYANCING,1904,11,1925-06-30,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/57-02/
+Chap. 57:03,chapter,Resumption of Land,LAND AND CONVEYANCING,1914,11,1925-06-30,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/57-03/
+Chap. 57:04,chapter,Three Chains,LAND AND CONVEYANCING,1865,11,1925-06-30,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/57-04/
+Chap. 57:05,chapter,State Land (Regularisation of Tenure),LAND AND CONVEYANCING,1998,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/57-05/
+Chap. 58:01,chapter,Land Acquisition,LAND AND CONVEYANCING,1994,11,1925-06-30,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/58-01/
+Chap. 58:03,chapter,Valuation of Land,LAND AND CONVEYANCING,1969,9,1990-12-31,2025-01-08,Recent Update (CHAPTER 58:03),chapters/58-03/
+Chap. 58:04,chapter,Land Surveyors,LAND AND CONVEYANCING,1996,11,1925-06-30,2023-10-30,Recent Update (CHAPTER 58:04),chapters/58-04/
+Chap. 59:51,chapter,Rent Restriction (Short Tenancies),LAND AND CONVEYANCING,1944,9,1950-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/59-51/
+Chap. 59:52,chapter,Rent Restriction (Serviced Premises),LAND AND CONVEYANCING,1943,9,1950-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/59-52/
+Chap. 59:53,chapter,Agricultural Small Holdings Tenure,LAND AND CONVEYANCING,1961,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/59-53/
+Chap. 59:54,chapter,Land Tenants (Security of Tenure),LAND AND CONVEYANCING,1981,6,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/59-54/
+Chap. 59:55,chapter,Rent Restriction (Dwelling Houses),LAND AND CONVEYANCING,1981,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/59-55/
+Chap. 60:01,chapter,Trinidad and Tobago Survey,LAND AND CONVEYANCING,1897,11,1925-06-30,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/60-01/
+Chap. 60:02,chapter,Geological Survey,LAND AND CONVEYANCING,1905,10,1925-06-30,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/60-02/
+Chap. 61:02,chapter,Mining Compensation,MINING,1916,11,1925-06-30,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/61-02/
+Chap. 61:03,chapter,Minerals,MINING,2000,8,2004-12-31,2023-10-30,Recent Update (CHAPTER 61:03),chapters/61-03/
+Chap. 62:01,chapter,Petroleum,MINING,1969,12,1925-06-30,2023-10-30,Recent Update (CHAPTER 62:01),chapters/62-01/
+Chap. 62:02,chapter,Petroleum Production Levy and Subsidy,MINING,1974,9,1990-12-31,2023-10-30,Recent Update (CHAPTER 62:02),chapters/62-02/
+Chap. 62:03,chapter,Oil Mining (High Water Mark),MINING,1952,8,1990-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/62-03/
+Chap. 62:04,chapter,National Petroleum Company,MINING,1969,8,1990-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/62-04/
+Chap. 62:05,chapter,Trinidad and Tobago Oil Company Limited Vesting,MINING,1980,8,1990-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/62-05/
+Chap. 62:06,chapter,Textrin Vesting,MINING,1985,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/62-06/
+Chap. 62:07,chapter,Petrotrin Vesting,MINING,1993,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/62-07/
+Chap. 62:08,chapter,Petrotrin Pensions,MINING,2010,5,2012-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/62-08/
+Chap. 63:01,chapter,Agricultural Society,AGRICULTURE AND FORESTRY,1919,11,1925-06-30,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/63-01/
+Chap. 63:02,chapter,Agricultural Fires,AGRICULTURE AND FORESTRY,1965,11,1941-01-31,2023-10-24,Recent Update (CHAPTER 63:02),chapters/63-02/
+Chap. 63:03,chapter,Caribbean Food Corporation,AGRICULTURE AND FORESTRY,1979,8,1990-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/63-03/
+Chap. 63:04,chapter,Caribbean Agricultural Research and Development Institute,AGRICULTURE AND FORESTRY,1981,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/63-04/
+Chap. 63:05,chapter,National Agricultural Marketing and Development Corporation,AGRICULTURE AND FORESTRY,1991,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/63-05/
+Chap. 63:50,chapter,Agricultural Contracts,AGRICULTURE AND FORESTRY,1925,12,1902-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/63-50/
+Chap. 63:51,chapter,Farmers Advances,AGRICULTURE AND FORESTRY,1913,11,1925-06-30,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/63-51/
+Chap. 63:52,chapter,Sale of Produce,AGRICULTURE AND FORESTRY,1921,11,1925-06-30,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/63-52/
+Chap. 63:53,chapter,Exportation of Fruit,AGRICULTURE AND FORESTRY,1931,9,1941-01-31,2015-12-31,as at December 31st 2015 *Unofficial Update,chapters/63-53/
+Chap. 63:54,chapter,Plant (Export Prohibition),AGRICULTURE AND FORESTRY,1938,10,1941-01-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/63-54/
+Chap. 63:55,chapter,Fertilisers and Feeding Stuffs,,1909,10,1925-06-30,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/63-55/
+Chap. 63:56,chapter,Plant Protection,AGRICULTURE AND FORESTRY,1975,9,1950-12-31,2023-10-24,Recent Update (CHAPTER 63:56),chapters/63-56/
+Chap. 64:01,chapter,Production of Cane,AGRICULTURE AND FORESTRY,1946,9,1950-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/64-01/
+Chap. 64:02,chapter,Sugar Quotas,AGRICULTURE AND FORESTRY,1937,10,1941-01-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/64-02/
+Chap. 64:04,chapter,Sugar Industry Special Funds,AGRICULTURE AND FORESTRY,1948,9,1950-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/64-04/
+Chap. 64:05,chapter,Sugar Industry Labour Welfare Committee (Incorporation),AGRICULTURE AND FORESTRY,1951,8,1990-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/64-05/
+Chap. 64:06,chapter,Cane-Farmers Rehabilitation Board,AGRICULTURE AND FORESTRY,1961,8,1990-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/64-06/
+Chap. 64:07,chapter,Caroni (1975) Limited Vesting,AGRICULTURE AND FORESTRY,1978,8,1990-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/64-07/
+Chap. 64:08,chapter,Caroni (1975) Limited and Orange Grove National Company (Divestment),AGRICULTURE AND FORESTRY,2005,6,2007-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/64-08/
+Chap. 64:21,chapter,Cocoa (Import and Export),AGRICULTURE AND FORESTRY,1921,11,1925-06-30,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/64-21/
+Chap. 64:22,chapter,Claying of Cocoa,AGRICULTURE AND FORESTRY,1922,11,1925-06-30,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/64-22/
+Chap. 64:30,chapter,Copra Products Control,AGRICULTURE AND FORESTRY,1932,10,1941-01-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/64-30/
+Chap. 64:40,chapter,Limes Export Levy,AGRICULTURE AND FORESTRY,1942,8,1950-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/64-40/
+Chap. 66:01,chapter,Forests,AGRICULTURE AND FORESTRY,1915,12,1925-06-30,2023-10-24,Recent Update (CHAPTER 66:01),chapters/66-01/
+Chap. 66:02,chapter,Sawmills,AGRICULTURE AND FORESTRY,1943,9,1950-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/66-02/
+Chap. 67:01,chapter,Conservation of Wild Life,ANIMALS,1958,9,1990-12-31,2023-11-06,Recent Update (CHAPTER 67:01),chapters/67-01/
+Chap. 67:02,chapter,Animals (Diseases and Importation),ANIMALS,1954,11,1925-06-30,2023-10-24,Recent Update (CHAPTER 67:02),chapters/67-02/
+Chap. 67:03,chapter,Pounds,ANIMALS,1875,11,1925-06-30,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/67-03/
+Chap. 67:04,chapter,Veterinary Surgeons (Registration),ANIMALS,1930,11,1941-01-31,2023-10-24,Recent Update (CHAPTER 67:04),chapters/67-04/
+Chap. 67:05,chapter,Livestock and Livestock Products Board,ANIMALS,1997,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/67-05/
+Chap. 67:51,chapter,Fisheries,ANIMALS,1916,10,1925-06-30,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/67-51/
+Chap. 67:52,chapter,Control of Importation of Live Fish,ANIMALS,1950,9,1950-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/67-52/
+Chap. 67:53,chapter,Beekeeping and Bee Products,ANIMALS,1935,11,1941-01-31,2024-01-24,Recent Update (CHAPTER 67:53),chapters/67-53/
+Chap. 67:54,chapter,Dogs,ANIMALS,1918,11,1925-06-30,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/67-54/
+Chap. 67:55,chapter,Mongoose,ANIMALS,1918,11,1925-06-30,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/67-55/
+Chap. 67:56,chapter,Dog Control,ANIMALS,2013,3,2014-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/67-56/
+Chap. 68:02,chapter,Country Markets,MARKETING,1905,11,1925-06-30,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/68-02/
+Chap. 69:01,chapter,Exchequer and Audit,PUBLIC FINANCE,1959,8,1990-12-31,2025-01-14,Recent Update (CHAPTER 69:01),chapters/69-01/
+Chap. 69:02,chapter,Expenditure in Advance of Appropriation,PUBLIC FINANCE,1964,8,1990-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/69-02/
+Chap. 69:03,chapter,Minister of Finance (Incorporation),PUBLIC FINANCE,1973,9,1990-12-31,2024-11-20,Recent Update (CHAPTER 69:03),chapters/69-03/
+Chap. 70:01,chapter,International Financial Organisations,PUBLIC FINANCE,1963,8,1990-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/70-01/
+Chap. 70:02,chapter,International Financial Organisations (Inter-American Development Bank),PUBLIC FINANCE,1967,6,1990-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/70-02/
+Chap. 70:03,chapter,Caribbean Investment Corporation,PUBLIC FINANCE,1973,8,1990-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/70-03/
+Chap. 70:04,chapter,Caribbean Community Development Loans and Guarantee,PUBLIC FINANCE,1979,8,1990-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/70-04/
+Chap. 70:05,chapter,Caribbean Investment Fund,PUBLIC FINANCE,1999,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/70-05/
+Chap. 70:06,chapter,International Financial Organisations (Inter-American Investment Corporation),PUBLIC FINANCE,1986,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/70-06/
+Chap. 70:07,chapter,Foreign Investment,PUBLIC FINANCE,1990,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/70-07/
+Chap. 70:08,chapter,Caribbean Court of Justice Trust Fund,PUBLIC FINANCE,2006,6,2007-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/70-08/
+Chap. 70:09,chapter,Heritage and Stabilisation Fund,PUBLIC FINANCE,2007,7,2007-12-31,2023-10-24,Recent Update (CHAPTER 70:09),chapters/70-09/
+Chap. 71:01,chapter,General Loan and Stock,PUBLIC FINANCE,1951,8,1990-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/71-01/
+Chap. 71:02,chapter,General Local Loan,PUBLIC FINANCE,1932,10,1941-01-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/71-02/
+Chap. 71:03,chapter,Independence Development Loans,PUBLIC FINANCE,1964,8,1990-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/71-03/
+Chap. 71:04,chapter,Development Loans,PUBLIC FINANCE,1964,9,1990-12-31,2025-01-02,Recent Update (CHAPTER 71:04),chapters/71-04/
+Chap. 71:05,chapter,External Loans,PUBLIC FINANCE,1967,8,1990-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/71-05/
+Chap. 71:06,chapter,National Development (International Bank for Reconstruction and Development) Loans,PUBLIC FINANCE,1967,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/71-06/
+Chap. 71:07,chapter,National Development (Inter-American Development Bank) Loans,PUBLIC FINANCE,1967,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/71-07/
+Chap. 71:39,chapter,Treasury Notes,PUBLIC FINANCE,1995,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/71-39/
+Chap. 71:40,chapter,Treasury Bills,PUBLIC FINANCE,1960,12,1925-06-30,2023-10-24,Recent Update (CHAPTER 71:40),chapters/71-40/
+Chap. 71:41,chapter,Government Savings Bonds,PUBLIC FINANCE,1962,9,1990-12-31,2023-10-24,Recent Update (CHAPTER 71:41),chapters/71-41/
+Chap. 71:42,chapter,Government Securities,PUBLIC FINANCE,1962,8,1990-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/71-42/
+Chap. 71:43,chapter,Treasury Bonds,PUBLIC FINANCE,2008,5,2009-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/71-43/
+Chap. 71:44,chapter,Purchase of Certain Rights (HCU),PUBLIC FINANCE,2014,3,2014-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/71-44/
+Chap. 71:60,chapter,General Local Loan (Municipal Corporations),PUBLIC FINANCE,1935,10,1941-01-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/71-60/
+Chap. 71:80,chapter,Local Authorities Grants and Loans,PUBLIC FINANCE,1953,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/71-80/
+Chap. 71:81,chapter,Guarantee of Loans (Statutory Authorities),PUBLIC FINANCE,1968,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/71-81/
+Chap. 71:82,chapter,Guarantee of Loans (Companies),PUBLIC FINANCE,1969,8,1990-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/71-82/
+Chap. 71:83,chapter,Guarantee of Loans (University of the West Indies),PUBLIC FINANCE,1993,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/71-83/
+Chap. 71:91,chapter,Central Tenders Board,PUBLIC FINANCE,1961,7,2007-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/71-91/
+Chap. 72:01,chapter,Financial Intelligence Unit of Trinidad and Tobago,PUBLIC FINANCE,2009,5,2012-12-31,2024-12-12,Recent Update (CHAPTER 72:01),chapters/72-01/
+Chap. 74:01,chapter,Provisional Collection of Taxes,REVENUE,1963,8,1990-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/74-01/
+Chap. 74:02,chapter,"Rates, Taxes and Licences (Payment by Cheque)",REVENUE,1934,10,1941-01-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/74-02/
+Chap. 74:03,chapter,Rates and Charges Recovery,REVENUE,1913,11,1925-06-30,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/74-03/
+Chap. 74:04,chapter,Casual Revenue,REVENUE,1894,11,1925-06-30,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/74-04/
+Chap. 75:01,chapter,Income Tax,REVENUE,1938,12,1925-06-30,2025-06-03,Recent Update (CHAPTER 75:01),chapters/75-01/
+Chap. 75:02,chapter,Corporation Tax,REVENUE,1966,9,1990-12-31,2024-11-20,Recent Update (CHAPTER 75:02),chapters/75-02/
+Chap. 75:03,chapter,Unemployment Levy,REVENUE,1970,9,1990-12-31,2023-10-30,Recent Update (CHAPTER 75:03),chapters/75-03/
+Chap. 75:04,chapter,Petroleum Taxes,REVENUE,1974,9,1990-12-31,2024-12-02,Recent Update (CHAPTER 75:04),chapters/75-04/
+Chap. 75:05,chapter,Health Surcharge,REVENUE,1987,8,2004-12-31,2023-10-24,Recent Update (CHAPTER 75:05),chapters/75-05/
+Chap. 75:06,chapter,Value Added Tax,REVENUE,1989,8,2004-12-31,2025-04-24,Recent Update (CHAPTER 75:06),chapters/75-06/
+Chap. 76:01,chapter,Stamp Duty,REVENUE,1908,12,1925-06-30,2025-05-22,Recent Update (CHAPTER 76:01),chapters/76-01/
+Chap. 76:03,chapter,Stamp Duty (Special Provisions),REVENUE,2000,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/76-03/
+Chap. 76:04,chapter,Property Tax,REVENUE,2009,8,2004-12-31,2025-01-02,Recent Update (CHAPTER 76:04),chapters/76-04/
+Chap. 76:50,chapter,Taxes Exemption,REVENUE,1902,10,1925-06-30,2015-12-31,as at December 31st 2015 *Unofficial Update,chapters/76-50/
+Chap. 76:51,chapter,Tax Information Exchange Agreements,REVENUE,1989,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/76-51/
+Chap. 77:01,chapter,Miscellaneous Taxes,REVENUE,1963,9,1990-12-31,2025-06-02,Recent Update (CHAPTER 77:01),chapters/77-01/
+Chap. 78:01,chapter,Customs,REVENUE,1938,11,1925-06-30,2025-06-18,Recent Update (CHAPTER 78:01),chapters/78-01/
+Chap. 78:03,chapter,Customs Brokers and Customs Clerks,REVENUE,1970,8,1990-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/78-03/
+Chap. 78:05,chapter,Anti-Dumping and Countervailing Duties,REVENUE,1992,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/78-05/
+Chap. 78:50,chapter,Excise (General Provisions),REVENUE,1934,11,1941-01-31,2025-04-16,Recent Update (CHAPTER 78:50),chapters/78-50/
+Chap. 79:02,chapter,Central Bank,"BANKING, CURRENCY AND EXCHANGE",1964,9,1990-12-31,2025-01-03,Recent Update (CHAPTER 79:02),chapters/79-02/
+Chap. 79:03,chapter,Local Savings Banks,"BANKING, CURRENCY AND EXCHANGE",1934,10,1941-01-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/79-03/
+Chap. 79:04,chapter,Post Office Savings Bank,"BANKING, CURRENCY AND EXCHANGE",1935,10,1941-01-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/79-04/
+Chap. 79:05,chapter,Caribbean Development Bank,"BANKING, CURRENCY AND EXCHANGE",1969,8,1990-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/79-05/
+Chap. 79:06,chapter,Workers' Bank,"BANKING, CURRENCY AND EXCHANGE",1971,8,1990-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/79-06/
+Chap. 79:07,chapter,Agricultural Development Bank,"BANKING, CURRENCY AND EXCHANGE",1968,10,1925-06-30,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/79-07/
+Chap. 79:08,chapter,Home Mortgage Bank,"BANKING, CURRENCY AND EXCHANGE",1985,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/79-08/
+Chap. 79:09,chapter,Financial Institutions,"BANKING, CURRENCY AND EXCHANGE",1993,7,2007-12-31,2024-12-20,Recent Update (CHAPTER 79:09),chapters/79-09/
+Chap. 79:50,chapter,Exchange Control,"BANKING, CURRENCY AND EXCHANGE",1970,9,1990-12-31,2025-03-28,Recent Update (CHAPTER 79:50),chapters/79-50/
+Chap. 79:51,chapter,Electronic Transfer of Funds Crime,"BANKING, CURRENCY AND EXCHANGE",2000,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/79-51/
+Chap. 79:52,chapter,Negotiable Instruments (Dishonoured Cheques),"BANKING, CURRENCY AND EXCHANGE",1998,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/79-52/
+Chap. 81:01,chapter,Companies,TRADE AND COMMERCE,1995,10,1925-06-30,2025-05-20,Recent Update (CHAPTER 81:01),chapters/81-01/
+Chap. 81:02,chapter,Partnership,TRADE AND COMMERCE,1913,12,1925-06-30,2025-01-24,Recent Update (CHAPTER 81:02),chapters/81-02/
+Chap. 81:03,chapter,Co-operative Societies,TRADE AND COMMERCE,1971,9,1990-12-31,2023-10-30,Recent Update (CHAPTER 81:03),chapters/81-03/
+Chap. 81:04,chapter,Caricom Enterprises,TRADE AND COMMERCE,1991,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/81-04/
+Chap. 81:05,chapter,Economic Sanctions,TRADE AND COMMERCE,1994,8,2004-12-31,2023-10-31,Recent Update (CHAPTER 81:05),chapters/81-05/
+Chap. 81:06,chapter,Caribbean Community (Caricom) Dominican Republic Free Trade,TRADE AND COMMERCE,2001,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/81-06/
+Chap. 81:07,chapter,Trinidad and Tobago Free Zones,TRADE AND COMMERCE,1988,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/81-07/
+Chap. 81:08,chapter,Venture Capital,TRADE AND COMMERCE,1994,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/81-08/
+Chap. 81:09,chapter,Association of Caribbean States (Headquarters),TRADE AND COMMERCE,2005,6,2007-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/81-09/
+Chap. 81:10,chapter,Caribbean Community (Caricom) Costa Rica Free Trade,TRADE AND COMMERCE,2005,6,2007-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/81-10/
+Chap. 81:11,chapter,Caribbean Community,TRADE AND COMMERCE,2005,6,2007-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/81-11/
+Chap. 81:12,chapter,Caribbean Community (Caricom) Cuba Trade and Economic Co-operation,TRADE AND COMMERCE,2006,6,2007-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/81-12/
+Chap. 81:13,chapter,Fair Trading,TRADE AND COMMERCE,2006,7,2007-12-31,2023-12-04,Recent Update (CHAPTER 81:13),chapters/81-13/
+Chap. 81:14,chapter,Trinidad and Tobago Panama Partial Scope Trade Agreement,TRADE AND COMMERCE,2015,1,2016-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/81-14/
+Chap. 82:02,chapter,Mercantile Law,TRADE AND COMMERCE,1844,11,1925-06-30,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/82-02/
+Chap. 82:03,chapter,Standards,TRADE AND COMMERCE,1997,8,1990-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/82-03/
+Chap. 82:04,chapter,Trade Descriptions,TRADE AND COMMERCE,1984,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/82-04/
+Chap. 82:05,chapter,Caribbean Community (Caricom) Regional Organisation for Standards and Quality,TRADE AND COMMERCE,2005,6,2007-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/82-05/
+Chap. 82:06,chapter,Metrology,TRADE AND COMMERCE,2004,2,2015-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/82-06/
+Chap. 82:30,chapter,Sale of Goods,TRADE AND COMMERCE,1895,11,1925-06-30,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/82-30/
+Chap. 82:31,chapter,Bills of Exchange,TRADE AND COMMERCE,1884,12,1925-06-30,2024-04-15,Recent Update (CHAPTER 82:31),chapters/82-31/
+Chap. 82:32,chapter,Bills of Sale,TRADE AND COMMERCE,1925,11,1925-06-30,2025-01-03,Recent Update (CHAPTER 82:32),chapters/82-32/
+Chap. 82:33,chapter,Hire Purchase,TRADE AND COMMERCE,1957,8,1990-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/82-33/
+Chap. 82:34,chapter,Consumer Protection and Safety,TRADE AND COMMERCE,1985,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/82-34/
+Chap. 82:35,chapter,Misrepresentation,TRADE AND COMMERCE,1983,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/82-35/
+Chap. 82:36,chapter,Protection Against Unfair Competition,TRADE AND COMMERCE,1996,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/82-36/
+Chap. 82:37,chapter,Unfair Contract Terms,TRADE AND COMMERCE,1985,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/82-37/
+Chap. 82:74,chapter,Publications (Legal Deposit),TRADE AND COMMERCE,1985,6,2007-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/82-74/
+Chap. 82:75,chapter,Protection of New Plant Varieties,TRADE AND COMMERCE,1997,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/82-75/
+Chap. 82:76,chapter,Patents,TRADE AND COMMERCE,1996,8,2004-12-31,2024-12-19,Recent Update (CHAPTER 82:76),chapters/82-76/
+Chap. 82:77,chapter,Industrial Designs,TRADE AND COMMERCE,1996,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/82-77/
+Chap. 82:78,chapter,Geographical Indications,TRADE AND COMMERCE,1996,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/82-78/
+Chap. 82:79,chapter,Layout Designs (Topographies) of Integrated Circuits,TRADE AND COMMERCE,1996,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/82-79/
+Chap. 82:80,chapter,Copyright,TRADE AND COMMERCE,1997,12,1925-06-30,2023-10-25,Recent Update (CHAPTER 82:80),chapters/82-80/
+Chap. 82:81,chapter,Trade Marks,TRADE AND COMMERCE,1955,9,1990-12-31,2023-10-25,Recent Update (CHAPTER 82:81),chapters/82-81/
+Chap. 82:83,chapter,Patents and Designs,TRADE AND COMMERCE,1900,11,1925-06-30,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/82-83/
+Chap. 82:84,chapter,"Patents, Designs, Copyright and Trade Marks (Emergency)",TRADE AND COMMERCE,1940,10,1941-01-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/82-84/
+Chap. 82:85,chapter,Registration of Business Names,TRADE AND COMMERCE,1923,12,1925-06-30,2025-05-01,Recent Update (CHAPTER 82:85),chapters/82-85/
+Chap. 83:02,chapter,Securities,TRADE AND COMMERCE,2012,9,1990-12-31,2025-01-22,Recent Update (CHAPTER 83:02),chapters/83-02/
+Chap. 83:03,chapter,Unit Trust Corporation of Trinidad and Tobago,TRADE AND COMMERCE,1981,8,1990-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/83-03/
+Chap. 84:01,chapter,Insurance,TRADE AND COMMERCE,1980,9,1990-12-31,2025-04-11,Recent Update (CHAPTER 84:01),chapters/84-01/
+Chap. 84:02,chapter,Shop (Hours of Opening and Employment),TRADE AND COMMERCE,1938,10,1941-01-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/84-02/
+Chap. 84:03,chapter,Auctioneers,TRADE AND COMMERCE,1913,8,1990-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/84-03/
+Chap. 84:04,chapter,Moneylenders,TRADE AND COMMERCE,1932,11,1941-01-31,2025-05-28,Recent Update (CHAPTER 84:04),chapters/84-04/
+Chap. 84:05,chapter,Pawnbrokers,TRADE AND COMMERCE,1889,12,1925-06-30,2025-05-27,Recent Update (CHAPTER 84:05),chapters/84-05/
+Chap. 84:06,chapter,Licensing of Dealers (Precious Metals and Stones),TRADE AND COMMERCE,1945,10,1950-12-31,2025-05-27,Recent Update (CHAPTER 84:06),chapters/84-06/
+Chap. 84:07,chapter,Old Metal and Marine Stores,TRADE AND COMMERCE,1904,12,1925-06-30,2025-03-28,Recent Update (CHAPTER 84:07),chapters/84-07/
+Chap. 84:08,chapter,"San Fernando and Arima Hucksters, Pedlars and Porters",TRADE AND COMMERCE,1922,11,1925-06-30,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/84-08/
+Chap. 84:09,chapter,Rural Pedlars,TRADE AND COMMERCE,1933,10,1941-01-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/84-09/
+Chap. 84:10,chapter,Liquor Licences,TRADE AND COMMERCE,1955,12,1925-06-30,2025-04-16,Recent Update (CHAPTER 84:10),chapters/84-10/
+Chap. 85:01,chapter,Fiscal Incentives,INDUSTRY,1979,8,1990-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/85-01/
+Chap. 85:03,chapter,Fishing Industry (Assistance),INDUSTRY,1955,7,1990-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/85-03/
+Chap. 85:04,chapter,Income Tax (In Aid of Industry),INDUSTRY,1950,10,1950-12-31,2023-10-26,Recent Update (CHAPTER 85:04),chapters/85-04/
+Chap. 85:51,chapter,Management Development Centre,INDUSTRY,1973,8,1990-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/85-51/
+Chap. 85:52,chapter,Caribbean Industrial Research Institute,INDUSTRY,1971,9,1990-12-31,2023-10-26,Recent Update (CHAPTER 85:52),chapters/85-52/
+Chap. 87:21,chapter,Tourism and Industrial Development Company of Trinidad and Tobago Limited Vesting,INDUSTRY,1995,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/87-21/
+Chap. 87:22,chapter,Tourism Development,INDUSTRY,2000,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/87-22/
+Chap. 87:50,chapter,Asphalt Industry Regulation,INDUSTRY,1906,11,1925-06-30,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/87-50/
+Chap. 87:52,chapter,Brewery,INDUSTRY,1899,11,1925-06-30,2023-10-25,Recent Update (CHAPTER 87:52),chapters/87-52/
+Chap. 87:54,chapter,Spirits and Spirit Compounds,INDUSTRY,1933,10,1941-01-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/87-54/
+Chap. 87:55,chapter,Hotel Proprietors,INDUSTRY,1967,8,1990-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/87-55/
+Chap. 87:56,chapter,Limeoil (Control of Manufacture),INDUSTRY,1949,8,1950-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/87-56/
+Chap. 88:01,chapter,Industrial Relations,LABOUR,1972,9,1990-12-31,2023-10-20,Recent Update (CHAPTER 88:01),chapters/88-01/
+Chap. 88:02,chapter,Trade Unions,LABOUR,1932,10,1941-01-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/88-02/
+Chap. 88:03,chapter,Trade Disputes and Protection of Property,LABOUR,1943,9,1950-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/88-03/
+Chap. 88:04,chapter,Minimum Wages,LABOUR,1976,9,1990-12-31,2024-01-24,Recent Update (CHAPTER 88:04),chapters/88-04/
+Chap. 88:05,chapter,Workmen's Compensation,LABOUR,1960,10,1941-01-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/88-05/
+Chap. 88:06,chapter,Workmen's Compensation (Transfer of Funds),LABOUR,1928,10,1941-01-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/88-06/
+Chap. 88:07,chapter,Truck,LABOUR,1918,10,1925-06-30,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/88-07/
+Chap. 88:08,chapter,Occupational Safety and Health,LABOUR,2000,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/88-08/
+Chap. 88:09,chapter,Employment Exchange,LABOUR,1919,10,1925-06-30,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/88-09/
+Chap. 88:10,chapter,Recruiting of Workers,LABOUR,1938,10,1941-01-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/88-10/
+Chap. 88:11,chapter,Foreign Labour Contracts,LABOUR,1900,10,1925-06-30,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/88-11/
+Chap. 88:13,chapter,Retrenchment and Severance Benefits,LABOUR,1985,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/88-13/
+Chap. 90:01,chapter,Engineering Profession,PROFESSIONS,1985,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/90-01/
+Chap. 90:02,chapter,Architecture Profession,PROFESSIONS,1992,7,2004-12-31,2016-12-31,as at December 31st 2016 2006 Revised Edition,chapters/90-02/
+Chap. 90:03,chapter,Legal Profession,PROFESSIONS,1986,8,2004-12-31,2025-05-28,Recent Update (CHAPTER 90:03),chapters/90-03/
+Chap. 90:04,chapter,Professions Related to Medicine,PROFESSIONS,1985,8,2004-12-31,2023-10-24,Recent Update (CHAPTER 90:04),chapters/90-04/
