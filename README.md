@@ -1,5 +1,7 @@
 # Laws of Trinidad and Tobago, consolidation by consolidation
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Trinidad and Tobago's national law, which global-law reads at `trinidad-and-tobago/national/acts/`.
+
 The Laws of Trinidad and Tobago as a git repository: 533 Chapters, each with its subsidiary legislation, and 26 Acts not yet given a Chapter number, from [laws.gov.tt](https://laws.gov.tt), the Digital Legislative Library of the Law Revision Commission (Office of the Attorney General and Ministry of Legal Affairs). There is one file per section, schedule and regulation, one paragraph per line.
 
 **What kind of history this is.** laws.gov.tt keeps each Chapter as a series of dated consolidations of the 2006 Revised Edition: as at 31 December 2004, 2007, 2009, 2012, 2014 and 2016 (and 2013 for a few Chapters), plus an unofficial update as at 31 December 2015. Each is a commit here, dated by its as-at date. So this is a real history, but a coarse one: a change shows up at the first year-end consolidation that contains it, which can be up to three years after it took effect.
