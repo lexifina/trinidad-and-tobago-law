@@ -58,6 +58,9 @@ def main() -> None:
                  f'older Revised Edition, else mostly 31 December 2004)')
     h, d = found
     if unit:
+        # The last commit touching the file may be the one that removed it: then it is not in the text on that day.
+        if subprocess.run(['git', 'cat-file', '-e', f'{h}:{path}'], capture_output=True).returncode:
+            sys.exit(f'{path}: not in the text on {day} (removed in the version in force from {d})')
         sys.stdout.write(git('show', f'{h}:{path}'))
         return
     chapter = '/'.join(law.split('/')[:2])
