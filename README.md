@@ -1,5 +1,10 @@
 # Trinidad and Tobago: law history in git
 
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="data/effort-dark.svg">
+<img alt="Trinidad and Tobago law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
+</picture>
+
 The law of Trinidad and Tobago as a git history: one file per section, schedule and regulation, a commit for each change a consolidation shows, dated by its as-at date, and the Act or Legal Notice that made the change as the commit's author where the margin notes name it. `git blame` names the law (or the Law Revision Commission) behind every line; `git log` lists every change to a section; picking a date gives the text of the latest consolidation on or before that day.
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Trinidad and Tobago's national law, which global-law reads at `trinidad-and-tobago/national/acts/`.
