@@ -58,6 +58,7 @@ A change is credited to a law only when the changed unit's margin notes newly na
 - `tools/build/check_words.py` compares the letters and digits of every version with the text of its PDF, read independently.
 - `tools/build/build.py` writes the history from the PDFs in one pass, and the same PDFs give the same commit hashes; [`REPRODUCE.md`](REPRODUCE.md) gives the steps, the sha256 of every PDF ([`data/pdf-sha256.tsv`](data/pdf-sha256.tsv)) and of the build scripts.
 - History is append-only: no merge commits, and no commit dated before the one under it.
+- [vulnerabilities/](vulnerabilities/): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -79,6 +80,10 @@ A change is credited to a law only when the changed unit's margin notes newly na
 See [`LICENSE`](LICENSE). Under the Copyright Act (Chap. 82:80), section 7(1)(b), no copyright protection extends to "any official text of a legislative, administrative or legal nature"; the texts keep their wording, in Lexifina's own arrangement rather than the Revised Edition's page layout (section 7(2) protects original collections). Lexifina's tools, file arrangement, commit messages and documentation are CC0 1.0.
 
 No AI model wrote or changed legal text, and none runs when the repository is built or checked; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+- [visualisations/](visualisations/): charts drawn from this repository. Not drawn yet.
 
 ## More
 
